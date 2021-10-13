@@ -3,90 +3,66 @@
     "name": "Seattle",
     "query": "Seattle",
     "rank": 1,
-    "tweet_count": "35.6K Tweets"
-  },
-  {
-    "name": "Snapchat",
-    "query": "Snapchat",
-    "rank": 2,
-    "tweet_count": "106K Tweets"
+    "tweet_count": "35.8K Tweets"
   },
   {
     "name": "#BlueOrigin",
     "query": "#BlueOrigin",
+    "rank": 2,
+    "tweet_count": "5,040 Tweets"
+  },
+  {
+    "name": "Snapchat",
+    "query": "Snapchat",
     "rank": 3,
-    "tweet_count": "4,517 Tweets"
-  },
-  {
-    "name": "William Shatner",
-    "query": "\"William Shatner\"",
-    "rank": 4,
-    "tweet_count": "24.2K Tweets"
-  },
-  {
-    "name": "Captain Kirk",
-    "query": "\"Captain Kirk\"",
-    "rank": 5,
-    "tweet_count": "8,838 Tweets"
-  },
-  {
-    "name": "#wednesdaythought",
-    "query": "#wednesdaythought",
-    "rank": 6,
-    "tweet_count": "18.5K Tweets"
+    "tweet_count": "108K Tweets"
   },
   {
     "name": "#LeafsForever",
     "query": "#LeafsForever",
-    "rank": 7,
-    "tweet_count": "1,343 Tweets"
+    "rank": 4,
+    "tweet_count": "1,377 Tweets"
+  },
+  {
+    "name": "#wednesdaythought",
+    "query": "#wednesdaythought",
+    "rank": 5,
+    "tweet_count": "18.8K Tweets"
   },
   {
     "name": "#LetsGoOilers",
     "query": "#LetsGoOilers",
-    "rank": 8,
-    "tweet_count": "1,052 Tweets"
+    "rank": 6,
+    "tweet_count": "1,071 Tweets"
   },
   {
-    "name": "#NoBraDay",
-    "query": "#NoBraDay",
-    "rank": 9,
-    "tweet_count": "71K Tweets"
-  },
-  {
-    "name": "Go Leafs Go",
-    "query": "\"Go Leafs Go\"",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Freddie",
-    "query": "Freddie",
-    "rank": 11,
-    "tweet_count": "32.8K Tweets"
-  },
-  {
-    "name": "jimins",
-    "query": "jimins",
-    "rank": 12,
-    "tweet_count": "77.8K Tweets"
-  },
-  {
-    "name": "#leafsnation",
-    "query": "#leafsnation",
-    "rank": 13,
+    "name": "Ryan Poehling",
+    "query": "\"Ryan Poehling\"",
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "#GoHabsGo",
     "query": "#GoHabsGo",
-    "rank": 14,
-    "tweet_count": "2,431 Tweets"
+    "rank": 8,
+    "tweet_count": "2,464 Tweets"
   },
   {
-    "name": "#StarTrek",
-    "query": "#StarTrek",
-    "rank": 15,
-    "tweet_count": "6,203 Tweets"
+    "name": "Freddie",
+    "query": "Freddie",
+    "rank": 9,
+    "tweet_count": "32.9K Tweets"
+  },
+  {
+    "name": "jimins",
+    "query": "jimins",
+    "rank": 10,
+    "tweet_count": "79.1K Tweets"
+  },
+  {
+    "name": "#NoBraDay",
+    "query": "#NoBraDay",
+    "rank": 11,
+    "tweet_count": "72.2K Tweets"
   }
 ]
