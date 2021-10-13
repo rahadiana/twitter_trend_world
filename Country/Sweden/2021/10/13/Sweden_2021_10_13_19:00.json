@@ -1,39 +1,39 @@
 [
   {
-    "name": "LKAB",
-    "query": "LKAB",
+    "name": "#HV71",
+    "query": "#HV71",
     "rank": 1,
-    "tweet_count": "1,420 Tweets"
-  },
-  {
-    "name": "Expo",
-    "query": "Expo",
-    "rank": 2,
-    "tweet_count": "28K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Kongsberg",
     "query": "Kongsberg",
+    "rank": 2,
+    "tweet_count": "2,367 Tweets"
+  },
+  {
+    "name": "LKAB",
+    "query": "LKAB",
     "rank": 3,
-    "tweet_count": null
+    "tweet_count": "1,438 Tweets"
+  },
+  {
+    "name": "Expo",
+    "query": "Expo",
+    "rank": 4,
+    "tweet_count": "28.5K Tweets"
   },
   {
     "name": "Farsta",
     "query": "Farsta",
-    "rank": 4,
-    "tweet_count": "1,217 Tweets"
-  },
-  {
-    "name": "Troja",
-    "query": "Troja",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "1,219 Tweets"
   },
   {
     "name": "#SWEGRE",
     "query": "#SWEGRE",
     "rank": 6,
-    "tweet_count": "2,340 Tweets"
+    "tweet_count": "1,531 Tweets"
   },
   {
     "name": "Onsala",
@@ -45,78 +45,78 @@
     "name": "Nimis",
     "query": "Nimis",
     "rank": 8,
-    "tweet_count": "1,840 Tweets"
+    "tweet_count": "1,865 Tweets"
   },
   {
     "name": "#RememberReact",
     "query": "#RememberReact",
     "rank": 9,
-    "tweet_count": "1,506 Tweets"
+    "tweet_count": "1,514 Tweets"
   },
   {
-    "name": "Israel",
-    "query": "Israel",
+    "name": "Modo",
+    "query": "Modo",
     "rank": 10,
-    "tweet_count": "87.5K Tweets"
+    "tweet_count": "61.7K Tweets"
   },
   {
-    "name": "Beklagar",
-    "query": "Beklagar",
+    "name": "troja",
+    "query": "troja",
     "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "Nyans",
-    "query": "Nyans",
+    "name": "Israel",
+    "query": "Israel",
     "rank": 12,
-    "tweet_count": "1,424 Tweets"
+    "tweet_count": "88.9K Tweets"
   },
   {
-    "name": "Björklöven",
-    "query": "Björklöven",
+    "name": "Beklagar",
+    "query": "Beklagar",
     "rank": 13,
     "tweet_count": null
   },
   {
+    "name": "Björklöven",
+    "query": "Björklöven",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Oslo",
+    "query": "Oslo",
+    "rank": 15,
+    "tweet_count": "20.2K Tweets"
+  },
+  {
+    "name": "Nyans",
+    "query": "Nyans",
+    "rank": 16,
+    "tweet_count": "1,451 Tweets"
+  },
+  {
     "name": "Grekland",
     "query": "Grekland",
-    "rank": 14,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "hasse backe",
     "query": "\"hasse backe\"",
-    "rank": 15,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "#JIMINDAY",
     "query": "#JIMINDAY",
-    "rank": 16,
-    "tweet_count": "968K Tweets"
+    "rank": 19,
+    "tweet_count": "970K Tweets"
   },
   {
     "name": "Pascalidou",
     "query": "Pascalidou",
-    "rank": 17,
-    "tweet_count": "1,099 Tweets"
-  },
-  {
-    "name": "Björn Söder",
-    "query": "\"Björn Söder\"",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Händemark",
-    "query": "Händemark",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "#PortfolioDay",
-    "query": "#PortfolioDay",
     "rank": 20,
-    "tweet_count": "239K Tweets"
+    "tweet_count": "1,109 Tweets"
   }
 ]
