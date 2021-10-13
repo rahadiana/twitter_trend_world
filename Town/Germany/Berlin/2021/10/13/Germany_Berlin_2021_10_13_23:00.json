@@ -1,39 +1,39 @@
 [
   {
-    "name": "Einsatz",
-    "query": "Einsatz",
-    "rank": 1,
-    "tweet_count": "5,150 Tweets"
-  },
-  {
     "name": "#Zapfenstreich",
     "query": "#Zapfenstreich",
-    "rank": 2,
-    "tweet_count": "3,249 Tweets"
-  },
-  {
-    "name": "#Kongsberg",
-    "query": "#Kongsberg",
-    "rank": 3,
-    "tweet_count": "4,648 Tweets"
+    "rank": 1,
+    "tweet_count": "3,290 Tweets"
   },
   {
     "name": "Fackeln",
     "query": "Fackeln",
-    "rank": 4,
-    "tweet_count": "1,010 Tweets"
+    "rank": 2,
+    "tweet_count": "1,043 Tweets"
   },
   {
     "name": "Soldaten",
     "query": "Soldaten",
-    "rank": 5,
-    "tweet_count": "4,511 Tweets"
+    "rank": 3,
+    "tweet_count": "4,596 Tweets"
+  },
+  {
+    "name": "#Kongsberg",
+    "query": "#Kongsberg",
+    "rank": 4,
+    "tweet_count": "4,755 Tweets"
   },
   {
     "name": "Reichstag",
     "query": "Reichstag",
+    "rank": 5,
+    "tweet_count": "2,521 Tweets"
+  },
+  {
+    "name": "Bundeswehr",
+    "query": "Bundeswehr",
     "rank": 6,
-    "tweet_count": "2,454 Tweets"
+    "tweet_count": "10.3K Tweets"
   },
   {
     "name": "#Laumann",
@@ -42,28 +42,28 @@
     "tweet_count": null
   },
   {
-    "name": "Bundeswehr",
-    "query": "Bundeswehr",
-    "rank": 8,
-    "tweet_count": "10.1K Tweets"
-  },
-  {
     "name": "#thetaste",
     "query": "#thetaste",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "#AktenzeichenXY",
-    "query": "#AktenzeichenXY",
-    "rank": 10,
-    "tweet_count": "1,712 Tweets"
+    "name": "#aktenzeichenxy",
+    "query": "#aktenzeichenxy",
+    "rank": 9,
+    "tweet_count": "1,720 Tweets"
   },
   {
     "name": "Traditionen",
     "query": "Traditionen",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
+  },
+  {
+    "name": "Armee",
+    "query": "Armee",
+    "rank": 11,
+    "tweet_count": "6,155 Tweets"
   },
   {
     "name": "Assoziationen",
@@ -72,51 +72,51 @@
     "tweet_count": null
   },
   {
-    "name": "Armee",
-    "query": "Armee",
-    "rank": 13,
-    "tweet_count": "6,100 Tweets"
-  },
-  {
     "name": "Zeremonie",
     "query": "Zeremonie",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "MisterX",
-    "query": "MisterX",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Militär",
-    "query": "Militär",
-    "rank": 16,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Ritual",
     "query": "Ritual",
-    "rank": 17,
-    "tweet_count": "11.9K Tweets"
+    "rank": 14,
+    "tweet_count": "12.1K Tweets"
+  },
+  {
+    "name": "Militär",
+    "query": "Militär",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "misterx",
+    "query": "misterx",
+    "rank": 16,
+    "tweet_count": null
   },
   {
     "name": "Uniformen",
     "query": "Uniformen",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Mike",
     "query": "Mike",
-    "rank": 19,
-    "tweet_count": "128K Tweets"
+    "rank": 18,
+    "tweet_count": "130K Tweets"
   },
   {
     "name": "Afghanistan",
     "query": "Afghanistan",
+    "rank": 19,
+    "tweet_count": "88.9K Tweets"
+  },
+  {
+    "name": "hafermilch",
+    "query": "hafermilch",
     "rank": 20,
-    "tweet_count": "87.8K Tweets"
+    "tweet_count": null
   }
 ]
