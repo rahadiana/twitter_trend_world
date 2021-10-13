@@ -3,37 +3,37 @@
     "name": "Freddie",
     "query": "Freddie",
     "rank": 1,
-    "tweet_count": "33.4K Tweets"
+    "tweet_count": "33.5K Tweets"
+  },
+  {
+    "name": "Council",
+    "query": "Council",
+    "rank": 2,
+    "tweet_count": "64.4K Tweets"
   },
   {
     "name": "William Shatner",
     "query": "\"William Shatner\"",
-    "rank": 2,
-    "tweet_count": "48.3K Tweets"
+    "rank": 3,
+    "tweet_count": "50.9K Tweets"
   },
   {
     "name": "#LetsGoOilers",
     "query": "#LetsGoOilers",
-    "rank": 3,
-    "tweet_count": "1,202 Tweets"
-  },
-  {
-    "name": "#snapchatdown",
-    "query": "#snapchatdown",
     "rank": 4,
-    "tweet_count": "35.9K Tweets"
+    "tweet_count": "1,231 Tweets"
   },
   {
     "name": "#LeafsForever",
     "query": "#LeafsForever",
     "rank": 5,
-    "tweet_count": "1,579 Tweets"
+    "tweet_count": "1,652 Tweets"
   },
   {
-    "name": "#wednesdaythought",
-    "query": "#wednesdaythought",
+    "name": "Snapchat",
+    "query": "Snapchat",
     "rank": 6,
-    "tweet_count": "21.2K Tweets"
+    "tweet_count": "112K Tweets"
   },
   {
     "name": "Christian Dubé",
@@ -42,27 +42,27 @@
     "tweet_count": null
   },
   {
+    "name": "#wednesdaythought",
+    "query": "#wednesdaythought",
+    "rank": 8,
+    "tweet_count": "21.5K Tweets"
+  },
+  {
     "name": "#NoBraDay",
     "query": "#NoBraDay",
-    "rank": 8,
-    "tweet_count": "81.4K Tweets"
-  },
-  {
-    "name": "Mitch Marner",
-    "query": "\"Mitch Marner\"",
     "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "jimins",
-    "query": "jimins",
-    "rank": 10,
-    "tweet_count": "76K Tweets"
+    "tweet_count": "82.6K Tweets"
   },
   {
     "name": "#AMCSqueeze",
     "query": "#AMCSqueeze",
+    "rank": 10,
+    "tweet_count": "19.6K Tweets"
+  },
+  {
+    "name": "Mitch Marner",
+    "query": "\"Mitch Marner\"",
     "rank": 11,
-    "tweet_count": "18.8K Tweets"
+    "tweet_count": null
   }
 ]
