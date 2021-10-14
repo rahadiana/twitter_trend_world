@@ -1,33 +1,33 @@
 [
   {
+    "name": "#EasyOnMe",
+    "query": "#EasyOnMe",
+    "rank": 1,
+    "tweet_count": "78.7K Tweets"
+  },
+  {
     "name": "#piazzapulita",
     "query": "#piazzapulita",
-    "rank": 1,
-    "tweet_count": "6,508 Tweets"
+    "rank": 2,
+    "tweet_count": "6,584 Tweets"
   },
   {
     "name": "#StarInTheStar",
     "query": "#StarInTheStar",
-    "rank": 2,
-    "tweet_count": "3,247 Tweets"
+    "rank": 3,
+    "tweet_count": "3,266 Tweets"
   },
   {
     "name": "#XF2021",
     "query": "#XF2021",
-    "rank": 3,
-    "tweet_count": "9,291 Tweets"
-  },
-  {
-    "name": "#DrittoeRovescio",
-    "query": "#DrittoeRovescio",
     "rank": 4,
-    "tweet_count": "2,863 Tweets"
+    "tweet_count": "9,344 Tweets"
   },
   {
-    "name": "#EasyOnMe",
-    "query": "#EasyOnMe",
+    "name": "#drittoerovescio",
+    "query": "#drittoerovescio",
     "rank": 5,
-    "tweet_count": "33.2K Tweets"
+    "tweet_count": "2,900 Tweets"
   },
   {
     "name": "Lola Ponce",
@@ -39,7 +39,7 @@
     "name": "Lady Gaga",
     "query": "\"Lady Gaga\"",
     "rank": 7,
-    "tweet_count": "10.1K Tweets"
+    "tweet_count": "10.3K Tweets"
   },
   {
     "name": "Cecchi Paone",
@@ -48,16 +48,16 @@
     "tweet_count": null
   },
   {
-    "name": "alexia",
-    "query": "alexia",
+    "name": "Alexia",
+    "query": "Alexia",
     "rank": 9,
-    "tweet_count": "5,470 Tweets"
+    "tweet_count": "5,610 Tweets"
   },
   {
     "name": "Formigli",
     "query": "Formigli",
     "rank": 10,
-    "tweet_count": "2,015 Tweets"
+    "tweet_count": "2,030 Tweets"
   },
   {
     "name": "Silvia Salemi",
@@ -69,13 +69,13 @@
     "name": "Syria",
     "query": "Syria",
     "rank": 12,
-    "tweet_count": "16K Tweets"
+    "tweet_count": "16.2K Tweets"
   },
   {
     "name": "Emma",
     "query": "Emma",
     "rank": 13,
-    "tweet_count": "55.9K Tweets"
+    "tweet_count": "56.9K Tweets"
   },
   {
     "name": "Faraone",
@@ -87,36 +87,36 @@
     "name": "Manuelito",
     "query": "Manuelito",
     "rank": 15,
-    "tweet_count": "1,001 Tweets"
+    "tweet_count": "1,007 Tweets"
   },
   {
-    "name": "Michael Jackson",
-    "query": "\"Michael Jackson\"",
+    "name": "loredana bertè",
+    "query": "\"loredana bertè\"",
     "rank": 16,
-    "tweet_count": "11.2K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Loredana Bertè",
-    "query": "\"Loredana Bertè\"",
+    "name": "chiello",
+    "query": "chiello",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "1,195 Tweets"
   },
   {
     "name": "Agostino",
     "query": "Agostino",
     "rank": 18,
-    "tweet_count": "1,506 Tweets"
+    "tweet_count": "1,520 Tweets"
+  },
+  {
+    "name": "Michael Jackson",
+    "query": "\"Michael Jackson\"",
+    "rank": 19,
+    "tweet_count": "11.5K Tweets"
   },
   {
     "name": "Coldplay",
     "query": "Coldplay",
-    "rank": 19,
-    "tweet_count": "408K Tweets"
-  },
-  {
-    "name": "Chiello",
-    "query": "Chiello",
     "rank": 20,
-    "tweet_count": "1,158 Tweets"
+    "tweet_count": "414K Tweets"
   }
 ]
