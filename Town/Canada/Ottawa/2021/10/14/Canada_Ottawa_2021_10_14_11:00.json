@@ -1,122 +1,122 @@
 [
   {
+    "name": "Edmonton",
+    "query": "Edmonton",
+    "rank": 1,
+    "tweet_count": "9,008 Tweets"
+  },
+  {
     "name": "#CANMNT",
     "query": "#CANMNT",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": "15.5K Tweets"
   },
   {
     "name": "#LeafsForever",
     "query": "#LeafsForever",
-    "rank": 2,
-    "tweet_count": "11.4K Tweets"
+    "rank": 3,
+    "tweet_count": "11.5K Tweets"
   },
   {
     "name": "#LetsGoOilers",
     "query": "#LetsGoOilers",
-    "rank": 3,
-    "tweet_count": "5,553 Tweets"
+    "rank": 4,
+    "tweet_count": "5,555 Tweets"
   },
   {
     "name": "#pebblebrain",
     "query": "#pebblebrain",
-    "rank": 4,
-    "tweet_count": "96.5K Tweets"
+    "rank": 5,
+    "tweet_count": "97K Tweets"
   },
   {
     "name": "mike smith",
     "query": "\"mike smith\"",
-    "rank": 5,
-    "tweet_count": "1,554 Tweets"
+    "rank": 6,
+    "tweet_count": "1,559 Tweets"
   },
   {
     "name": "Panama",
     "query": "Panama",
-    "rank": 6,
-    "tweet_count": "50.4K Tweets"
+    "rank": 7,
+    "tweet_count": "50.6K Tweets"
   },
   {
     "name": "William Shatner",
     "query": "\"William Shatner\"",
-    "rank": 7,
+    "rank": 8,
     "tweet_count": "105K Tweets"
   },
   {
     "name": "Kyrie",
     "query": "Kyrie",
-    "rank": 8,
-    "tweet_count": "190K Tweets"
+    "rank": 9,
+    "tweet_count": "191K Tweets"
   },
   {
     "name": "#thursdaymorning",
     "query": "#thursdaymorning",
-    "rank": 9,
-    "tweet_count": "6,486 Tweets"
+    "rank": 10,
+    "tweet_count": "6,622 Tweets"
   },
   {
     "name": "josh anderson",
     "query": "\"josh anderson\"",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Gallagher",
     "query": "Gallagher",
-    "rank": 11,
-    "tweet_count": "4,743 Tweets"
-  },
-  {
-    "name": "McDavid",
-    "query": "McDavid",
     "rank": 12,
-    "tweet_count": "2,699 Tweets"
+    "tweet_count": "4,762 Tweets"
   },
   {
     "name": "Dubé",
     "query": "Dubé",
     "rank": 13,
-    "tweet_count": "7,532 Tweets"
+    "tweet_count": "7,579 Tweets"
+  },
+  {
+    "name": "McDavid",
+    "query": "McDavid",
+    "rank": 14,
+    "tweet_count": "2,704 Tweets"
   },
   {
     "name": "jack campbell",
     "query": "\"jack campbell\"",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "BMO Field",
     "query": "\"BMO Field\"",
-    "rank": 15,
-    "tweet_count": "1,936 Tweets"
+    "rank": 16,
+    "tweet_count": "1,939 Tweets"
   },
   {
     "name": "Buchanan",
     "query": "Buchanan",
-    "rank": 16,
-    "tweet_count": "2,921 Tweets"
+    "rank": 17,
+    "tweet_count": "2,927 Tweets"
   },
   {
     "name": "Engvall",
     "query": "Engvall",
-    "rank": 17,
-    "tweet_count": "1,506 Tweets"
+    "rank": 18,
+    "tweet_count": "1,507 Tweets"
   },
   {
-    "name": "CONCACAF",
-    "query": "CONCACAF",
-    "rank": 18,
-    "tweet_count": "21.3K Tweets"
+    "name": "Concacaf",
+    "query": "Concacaf",
+    "rank": 19,
+    "tweet_count": "21.4K Tweets"
   },
   {
     "name": "Marner",
     "query": "Marner",
-    "rank": 19,
-    "tweet_count": "2,008 Tweets"
-  },
-  {
-    "name": "La Bamba",
-    "query": "\"La Bamba\"",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "2,008 Tweets"
   }
 ]
