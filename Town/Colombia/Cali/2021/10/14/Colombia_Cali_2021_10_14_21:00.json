@@ -1,116 +1,122 @@
 [
   {
+    "name": "Barranquilla",
+    "query": "Barranquilla",
+    "rank": 1,
+    "tweet_count": "13.7K Tweets"
+  },
+  {
     "name": "Ecuador",
     "query": "Ecuador",
-    "rank": 1,
-    "tweet_count": "69.3K Tweets"
+    "rank": 2,
+    "tweet_count": "71.2K Tweets"
+  },
+  {
+    "name": "Quintero",
+    "query": "Quintero",
+    "rank": 3,
+    "tweet_count": "14K Tweets"
+  },
+  {
+    "name": "Cuadrado",
+    "query": "Cuadrado",
+    "rank": 4,
+    "tweet_count": "5,023 Tweets"
   },
   {
     "name": "#BalloonWorldCup",
     "query": "#BalloonWorldCup",
-    "rank": 2,
-    "tweet_count": "48.7K Tweets"
+    "rank": 5,
+    "tweet_count": "52.5K Tweets"
+  },
+  {
+    "name": "LUCHO",
+    "query": "LUCHO",
+    "rank": 6,
+    "tweet_count": "8,036 Tweets"
   },
   {
     "name": "#PetroEsHambre",
     "query": "#PetroEsHambre",
-    "rank": 3,
-    "tweet_count": "3,156 Tweets"
-  },
-  {
-    "name": "Juanfer",
-    "query": "Juanfer",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "Bolivia",
-    "query": "Bolivia",
-    "rank": 5,
-    "tweet_count": "31.1K Tweets"
-  },
-  {
-    "name": "Borré",
-    "query": "Borré",
-    "rank": 6,
-    "tweet_count": "5,249 Tweets"
+    "rank": 7,
+    "tweet_count": "3,255 Tweets"
   },
   {
     "name": "Alfaro",
     "query": "Alfaro",
-    "rank": 7,
-    "tweet_count": "3,722 Tweets"
-  },
-  {
-    "name": "Metropolitano",
-    "query": "Metropolitano",
     "rank": 8,
-    "tweet_count": "4,617 Tweets"
+    "tweet_count": "3,846 Tweets"
   },
   {
-    "name": "#CorteAbortoSi",
-    "query": "#CorteAbortoSi",
+    "name": "Bolivia",
+    "query": "Bolivia",
     "rank": 9,
-    "tweet_count": "9,092 Tweets"
+    "tweet_count": "33.1K Tweets"
   },
   {
-    "name": "#PelaezdeFranciscoenLaW",
-    "query": "#PelaezdeFranciscoenLaW",
+    "name": "David Ospina",
+    "query": "\"David Ospina\"",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Matheus Uribe",
-    "query": "\"Matheus Uribe\"",
+    "name": "Borré",
+    "query": "Borré",
     "rank": 11,
+    "tweet_count": "5,407 Tweets"
+  },
+  {
+    "name": "Metropolitano",
+    "query": "Metropolitano",
+    "rank": 12,
+    "tweet_count": "4,758 Tweets"
+  },
+  {
+    "name": "Paraguay",
+    "query": "Paraguay",
+    "rank": 13,
+    "tweet_count": "27.7K Tweets"
+  },
+  {
+    "name": "Matheus",
+    "query": "Matheus",
+    "rank": 14,
+    "tweet_count": "21.9K Tweets"
+  },
+  {
+    "name": "#CorteAbortoSi",
+    "query": "#CorteAbortoSi",
+    "rank": 15,
+    "tweet_count": "9,222 Tweets"
+  },
+  {
+    "name": "#PelaezdeFranciscoenLaW",
+    "query": "#PelaezdeFranciscoenLaW",
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "#MundialDeGlobos",
     "query": "#MundialDeGlobos",
-    "rank": 12,
-    "tweet_count": "7,166 Tweets"
+    "rank": 17,
+    "tweet_count": "7,555 Tweets"
   },
   {
     "name": "Ibai",
     "query": "Ibai",
-    "rank": 13,
-    "tweet_count": "25.5K Tweets"
+    "rank": 18,
+    "tweet_count": "26.4K Tweets"
   },
   {
     "name": "KIM TAEHYUNG",
     "query": "\"KIM TAEHYUNG\"",
-    "rank": 14,
-    "tweet_count": "334K Tweets"
+    "rank": 19,
+    "tweet_count": "338K Tweets"
   },
   {
     "name": "Piqué",
     "query": "Piqué",
-    "rank": 15,
-    "tweet_count": "21.5K Tweets"
-  },
-  {
-    "name": "Shakira",
-    "query": "Shakira",
-    "rank": 16,
-    "tweet_count": "14.6K Tweets"
-  },
-  {
-    "name": "Sofa",
-    "query": "Sofa",
-    "rank": 17,
-    "tweet_count": "18.2K Tweets"
-  },
-  {
-    "name": "Biden",
-    "query": "Biden",
-    "rank": 18,
-    "tweet_count": "489K Tweets"
-  },
-  {
-    "name": "SUGA HITMAKER",
-    "query": "\"SUGA HITMAKER\"",
-    "rank": 19,
-    "tweet_count": "211K Tweets"
+    "rank": 20,
+    "tweet_count": "21.9K Tweets"
   }
 ]
