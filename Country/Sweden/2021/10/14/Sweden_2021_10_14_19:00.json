@@ -9,19 +9,19 @@
     "name": "Kongsberg",
     "query": "Kongsberg",
     "rank": 2,
-    "tweet_count": "30K Tweets"
+    "tweet_count": "30.1K Tweets"
   },
   {
-    "name": "Peter Holland",
-    "query": "\"Peter Holland\"",
+    "name": "Holland",
+    "query": "Holland",
     "rank": 3,
-    "tweet_count": null
+    "tweet_count": "24.8K Tweets"
   },
   {
     "name": "Norge",
     "query": "Norge",
     "rank": 4,
-    "tweet_count": "4,578 Tweets"
+    "tweet_count": "4,622 Tweets"
   },
   {
     "name": "Styrman",
@@ -42,20 +42,20 @@
     "tweet_count": null
   },
   {
-    "name": "Oskarshamn",
-    "query": "Oskarshamn",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "Rögle",
     "query": "Rögle",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "#fbkse",
     "query": "#fbkse",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Oskarshamn",
+    "query": "Oskarshamn",
     "rank": 10,
     "tweet_count": null
   },
@@ -63,25 +63,25 @@
     "name": "Förintelsen",
     "query": "Förintelsen",
     "rank": 11,
-    "tweet_count": "1,186 Tweets"
-  },
-  {
-    "name": "Bulletin",
-    "query": "Bulletin",
-    "rank": 12,
-    "tweet_count": "9,349 Tweets"
+    "tweet_count": "1,204 Tweets"
   },
   {
     "name": "Timrå",
     "query": "Timrå",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Jocke",
     "query": "Jocke",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
+  },
+  {
+    "name": "Bulletin",
+    "query": "Bulletin",
+    "rank": 14,
+    "tweet_count": "9,586 Tweets"
   },
   {
     "name": "Hovet",
@@ -93,29 +93,29 @@
     "name": "LKAB",
     "query": "LKAB",
     "rank": 16,
-    "tweet_count": "1,205 Tweets"
-  },
-  {
-    "name": "Skolverket",
-    "query": "Skolverket",
-    "rank": 17,
-    "tweet_count": "1,091 Tweets"
+    "tweet_count": "1,220 Tweets"
   },
   {
     "name": "Pascalidou",
     "query": "Pascalidou",
-    "rank": 18,
-    "tweet_count": "1,047 Tweets"
+    "rank": 17,
+    "tweet_count": "1,052 Tweets"
   },
   {
-    "name": "Luleå",
-    "query": "Luleå",
-    "rank": 19,
-    "tweet_count": null
+    "name": "Skolverket",
+    "query": "Skolverket",
+    "rank": 18,
+    "tweet_count": "1,096 Tweets"
   },
   {
     "name": "Växjö",
     "query": "Växjö",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Barry Smith",
+    "query": "\"Barry Smith\"",
     "rank": 20,
     "tweet_count": null
   }

@@ -3,47 +3,47 @@
     "name": "#DragRaceUK",
     "query": "#DragRaceUK",
     "rank": 1,
-    "tweet_count": "2,398 Tweets"
+    "tweet_count": "2,745 Tweets"
   },
   {
     "name": "#ScottishIndependence",
     "query": "#ScottishIndependence",
     "rank": 2,
-    "tweet_count": "45.3K Tweets"
+    "tweet_count": "46.8K Tweets"
   },
   {
-    "name": "Waterstones",
-    "query": "Waterstones",
+    "name": "#MartinLewis",
+    "query": "#MartinLewis",
     "rank": 3,
-    "tweet_count": "4,944 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Jaffa Cakes",
     "query": "\"Jaffa Cakes\"",
     "rank": 4,
-    "tweet_count": "1,576 Tweets"
+    "tweet_count": "1,930 Tweets"
+  },
+  {
+    "name": "Waterstones",
+    "query": "Waterstones",
+    "rank": 5,
+    "tweet_count": "5,146 Tweets"
+  },
+  {
+    "name": "#ShopWellForThePlanet",
+    "query": "#ShopWellForThePlanet",
+    "rank": 6,
+    "tweet_count": null
   },
   {
     "name": "KIM TAEHYUNG",
     "query": "\"KIM TAEHYUNG\"",
-    "rank": 5,
-    "tweet_count": "302K Tweets"
-  },
-  {
-    "name": "#TheBatman",
-    "query": "#TheBatman",
-    "rank": 6,
-    "tweet_count": "58.9K Tweets"
-  },
-  {
-    "name": "#StirlingPrize",
-    "query": "#StirlingPrize",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "308K Tweets"
   },
   {
-    "name": "#CAHPOAwards2021",
-    "query": "#CAHPOAwards2021",
+    "name": "#covhour",
+    "query": "#covhour",
     "rank": 8,
     "tweet_count": null
   },
@@ -51,7 +51,7 @@
     "name": "Steps",
     "query": "Steps",
     "rank": 9,
-    "tweet_count": "78.3K Tweets"
+    "tweet_count": "79.3K Tweets"
   },
   {
     "name": "Cam Norrie",
@@ -60,10 +60,10 @@
     "tweet_count": null
   },
   {
-    "name": "YouGov",
-    "query": "YouGov",
+    "name": "Chris Whitty",
+    "query": "\"Chris Whitty\"",
     "rank": 11,
-    "tweet_count": "12.1K Tweets"
+    "tweet_count": "2,191 Tweets"
   },
   {
     "name": "Port Talbot",
@@ -72,22 +72,22 @@
     "tweet_count": null
   },
   {
+    "name": "YouGov",
+    "query": "YouGov",
+    "rank": 13,
+    "tweet_count": "12.3K Tweets"
+  },
+  {
+    "name": "Arctic Circle",
+    "query": "\"Arctic Circle\"",
+    "rank": 14,
+    "tweet_count": "4,899 Tweets"
+  },
+  {
     "name": "Diwali",
     "query": "Diwali",
-    "rank": 13,
-    "tweet_count": "38.7K Tweets"
-  },
-  {
-    "name": "Bryce",
-    "query": "Bryce",
-    "rank": 14,
-    "tweet_count": "5,186 Tweets"
-  },
-  {
-    "name": "Chris Whitty",
-    "query": "\"Chris Whitty\"",
     "rank": 15,
-    "tweet_count": "1,829 Tweets"
+    "tweet_count": "39K Tweets"
   },
   {
     "name": "Oisin",
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
-    "name": "Coldplay",
-    "query": "Coldplay",
+    "name": "Scotrail",
+    "query": "Scotrail",
     "rank": 17,
-    "tweet_count": "376K Tweets"
-  },
-  {
-    "name": "ScotRail",
-    "query": "ScotRail",
-    "rank": 18,
-    "tweet_count": "1,504 Tweets"
-  },
-  {
-    "name": "Philip Allott",
-    "query": "\"Philip Allott\"",
-    "rank": 19,
-    "tweet_count": "3,246 Tweets"
+    "tweet_count": "1,556 Tweets"
   },
   {
     "name": "Bloodstock",
     "query": "Bloodstock",
-    "rank": 20,
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Hazard Zone",
+    "query": "\"Hazard Zone\"",
+    "rank": 19,
+    "tweet_count": "9,099 Tweets"
+  },
+  {
+    "name": "Coldplay",
+    "query": "Coldplay",
+    "rank": 20,
+    "tweet_count": "379K Tweets"
   }
 ]
