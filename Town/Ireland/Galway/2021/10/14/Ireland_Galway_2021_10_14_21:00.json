@@ -1,19 +1,19 @@
 [
   {
-    "name": "#DragRaceUK",
-    "query": "#DragRaceUK",
-    "rank": 1,
-    "tweet_count": "4,365 Tweets"
-  },
-  {
     "name": "NPHET",
     "query": "NPHET",
-    "rank": 2,
-    "tweet_count": "1,460 Tweets"
+    "rank": 1,
+    "tweet_count": "1,479 Tweets"
   },
   {
-    "name": "#FairCity",
-    "query": "#FairCity",
+    "name": "#DragRaceUK",
+    "query": "#DragRaceUK",
+    "rank": 2,
+    "tweet_count": "4,500 Tweets"
+  },
+  {
+    "name": "#faircity",
+    "query": "#faircity",
     "rank": 3,
     "tweet_count": null
   },
@@ -21,7 +21,7 @@
     "name": "Covid",
     "query": "Covid",
     "rank": 4,
-    "tweet_count": "1.15M Tweets"
+    "tweet_count": "1.16M Tweets"
   },
   {
     "name": "#pebblebrain",
@@ -33,7 +33,7 @@
     "name": "Willie",
     "query": "Willie",
     "rank": 6,
-    "tweet_count": "9,394 Tweets"
+    "tweet_count": "9,464 Tweets"
   },
   {
     "name": "#ThankYouLaura",
@@ -63,7 +63,7 @@
     "name": "Sinead",
     "query": "Sinead",
     "rank": 11,
-    "tweet_count": "1,073 Tweets"
+    "tweet_count": "1,098 Tweets"
   },
   {
     "name": "Laura Brennan",
@@ -81,19 +81,19 @@
     "name": "William Shatner",
     "query": "\"William Shatner\"",
     "rank": 14,
-    "tweet_count": "37.4K Tweets"
-  },
-  {
-    "name": "Congratulations Rachel",
-    "query": "\"Congratulations Rachel\"",
-    "rank": 15,
-    "tweet_count": null
+    "tweet_count": "37.5K Tweets"
   },
   {
     "name": "Israel",
     "query": "Israel",
+    "rank": 15,
+    "tweet_count": "81.5K Tweets"
+  },
+  {
+    "name": "Congratulations Rachel",
+    "query": "\"Congratulations Rachel\"",
     "rank": 16,
-    "tweet_count": "80.8K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Nolan",
@@ -102,21 +102,21 @@
     "tweet_count": "11.4K Tweets"
   },
   {
+    "name": "Donnelly",
+    "query": "Donnelly",
+    "rank": 18,
+    "tweet_count": "1,273 Tweets"
+  },
+  {
+    "name": "Brentford",
+    "query": "Brentford",
+    "rank": 19,
+    "tweet_count": "6,743 Tweets"
+  },
+  {
     "name": "Varadkar",
     "query": "Varadkar",
-    "rank": 18,
-    "tweet_count": "3,805 Tweets"
-  },
-  {
-    "name": "donnelly",
-    "query": "donnelly",
-    "rank": 19,
-    "tweet_count": "1,253 Tweets"
-  },
-  {
-    "name": "suga",
-    "query": "suga",
     "rank": 20,
-    "tweet_count": "1.02M Tweets"
+    "tweet_count": "3,820 Tweets"
   }
 ]
