@@ -1,79 +1,79 @@
 [
   {
-    "name": "#qanda",
-    "query": "#qanda",
+    "name": "#QandA",
+    "query": "#QandA",
     "rank": 1,
-    "tweet_count": "11K Tweets"
-  },
-  {
-    "name": "#pebblebrain",
-    "query": "#pebblebrain",
-    "rank": 2,
-    "tweet_count": "114K Tweets"
+    "tweet_count": "11.1K Tweets"
   },
   {
     "name": "SUGA",
     "query": "SUGA",
-    "rank": 3,
-    "tweet_count": "847K Tweets"
+    "rank": 2,
+    "tweet_count": "905K Tweets"
   },
   {
-    "name": "#AustraliaHasFallen",
-    "query": "#AustraliaHasFallen",
-    "rank": 4,
-    "tweet_count": "4,949 Tweets"
+    "name": "#pebblebrain",
+    "query": "#pebblebrain",
+    "rank": 3,
+    "tweet_count": "116K Tweets"
   },
   {
     "name": "#WBBL07",
     "query": "#WBBL07",
-    "rank": 5,
-    "tweet_count": "3,158 Tweets"
+    "rank": 4,
+    "tweet_count": "3,202 Tweets"
   },
   {
     "name": "#MinPDisBack",
     "query": "#MinPDisBack",
+    "rank": 5,
+    "tweet_count": "296K Tweets"
+  },
+  {
+    "name": "#SydneyStorm",
+    "query": "#SydneyStorm",
     "rank": 6,
-    "tweet_count": "281K Tweets"
+    "tweet_count": "1,124 Tweets"
   },
   {
     "name": "norm provan",
     "query": "\"norm provan\"",
     "rank": 7,
-    "tweet_count": "1,890 Tweets"
+    "tweet_count": "1,894 Tweets"
   },
   {
     "name": "Twiggy",
     "query": "Twiggy",
     "rank": 8,
-    "tweet_count": "3,423 Tweets"
+    "tweet_count": "3,460 Tweets"
   },
   {
     "name": "William Shatner",
     "query": "\"William Shatner\"",
     "rank": 9,
-    "tweet_count": "59K Tweets"
+    "tweet_count": "60K Tweets"
   },
   {
     "name": "Taku",
     "query": "Taku",
     "rank": 10,
-    "tweet_count": "19.9K Tweets"
+    "tweet_count": "20.3K Tweets"
   },
   {
     "name": "Garcelle",
     "query": "Garcelle",
     "rank": 11,
-    "tweet_count": "29.6K Tweets"
-  },
-  {
-    "name": "Andrew Bragg",
-    "query": "\"Andrew Bragg\"",
-    "rank": 12,
-    "tweet_count": null
+    "tweet_count": "30.1K Tweets"
   },
   {
     "name": "Ron Brierley",
     "query": "\"Ron Brierley\"",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "andrew bragg",
+    "query": "\"andrew bragg\"",
     "rank": 13,
     "tweet_count": null
   },
@@ -81,42 +81,42 @@
     "name": "Jiminie",
     "query": "Jiminie",
     "rank": 14,
-    "tweet_count": "22.4K Tweets"
+    "tweet_count": "22.8K Tweets"
   },
   {
     "name": "Healy",
     "query": "Healy",
     "rank": 15,
-    "tweet_count": "1,558 Tweets"
+    "tweet_count": "1,616 Tweets"
   },
   {
-    "name": "Celebrate 2",
-    "query": "\"Celebrate 2\"",
+    "name": "The Fall",
+    "query": "\"The Fall\"",
     "rank": 16,
-    "tweet_count": "25.2K Tweets"
+    "tweet_count": "164K Tweets"
   },
   {
     "name": "Dolphins",
     "query": "Dolphins",
     "rank": 17,
-    "tweet_count": "9,485 Tweets"
+    "tweet_count": "9,833 Tweets"
   },
   {
-    "name": "brittany higgins",
-    "query": "\"brittany higgins\"",
+    "name": "Celebrate 2",
+    "query": "\"Celebrate 2\"",
     "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Dianne",
-    "query": "Dianne",
-    "rank": 19,
-    "tweet_count": "4,358 Tweets"
+    "tweet_count": "26.1K Tweets"
   },
   {
     "name": "Kyrie",
     "query": "Kyrie",
+    "rank": 19,
+    "tweet_count": "226K Tweets"
+  },
+  {
+    "name": "brittany higgins",
+    "query": "\"brittany higgins\"",
     "rank": 20,
-    "tweet_count": "218K Tweets"
+    "tweet_count": null
   }
 ]

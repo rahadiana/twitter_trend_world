@@ -1,116 +1,122 @@
 [
   {
-    "name": "San Bernardino",
-    "query": "\"San Bernardino\"",
+    "name": "Los Ruices",
+    "query": "\"Los Ruices\"",
     "rank": 1,
-    "tweet_count": "2,113 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#14Oct",
-    "query": "#14Oct",
+    "name": "Corpoelec",
+    "query": "Corpoelec",
     "rank": 2,
-    "tweet_count": "52.3K Tweets"
+    "tweet_count": "1,752 Tweets"
   },
   {
     "name": "#SinLuz",
     "query": "#SinLuz",
     "rank": 3,
-    "tweet_count": "3,912 Tweets"
+    "tweet_count": "5,690 Tweets"
+  },
+  {
+    "name": "#14Oct",
+    "query": "#14Oct",
+    "rank": 4,
+    "tweet_count": "57.5K Tweets"
   },
   {
     "name": "#SoberaníaPatriaYPaz",
     "query": "#SoberaníaPatriaYPaz",
-    "rank": 4,
-    "tweet_count": "54.3K Tweets"
+    "rank": 5,
+    "tweet_count": "59.5K Tweets"
   },
   {
     "name": "Terrazas del Ávila",
     "query": "\"Terrazas del Ávila\"",
-    "rank": 5,
-    "tweet_count": "2,032 Tweets"
-  },
-  {
-    "name": "#ØMIxSUGA",
-    "query": "#ØMIxSUGA",
     "rank": 6,
-    "tweet_count": "318K Tweets"
+    "tweet_count": "3,014 Tweets"
   },
   {
     "name": "#MinPDisBack",
     "query": "#MinPDisBack",
     "rank": 7,
-    "tweet_count": "280K Tweets"
+    "tweet_count": "296K Tweets"
   },
   {
-    "name": "Los Ruices",
-    "query": "\"Los Ruices\"",
+    "name": "#ØMIxSUGA",
+    "query": "#ØMIxSUGA",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "344K Tweets"
+  },
+  {
+    "name": "El Marqués",
+    "query": "\"El Marqués\"",
+    "rank": 9,
+    "tweet_count": "1,385 Tweets"
   },
   {
     "name": "Campaña Admirable",
     "query": "\"Campaña Admirable\"",
-    "rank": 9,
-    "tweet_count": "1,707 Tweets"
-  },
-  {
-    "name": "Libertador de Venezuela",
-    "query": "\"Libertador de Venezuela\"",
     "rank": 10,
-    "tweet_count": "4,002 Tweets"
-  },
-  {
-    "name": "Hace 208",
-    "query": "\"Hace 208\"",
-    "rank": 11,
-    "tweet_count": "1,746 Tweets"
-  },
-  {
-    "name": "Los Palos Grandes",
-    "query": "\"Los Palos Grandes\"",
-    "rank": 12,
-    "tweet_count": null
+    "tweet_count": "1,793 Tweets"
   },
   {
     "name": "Ejércitos",
     "query": "Ejércitos",
-    "rank": 13,
-    "tweet_count": "2,729 Tweets"
+    "rank": 11,
+    "tweet_count": "2,934 Tweets"
+  },
+  {
+    "name": "Hace 208",
+    "query": "\"Hace 208\"",
+    "rank": 12,
+    "tweet_count": "1,853 Tweets"
   },
   {
     "name": "El Hatillo",
     "query": "\"El Hatillo\"",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
+  },
+  {
+    "name": "Libertador de Venezuela",
+    "query": "\"Libertador de Venezuela\"",
+    "rank": 14,
+    "tweet_count": "4,262 Tweets"
+  },
+  {
+    "name": "Los Palos Grandes",
+    "query": "\"Los Palos Grandes\"",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "San Bernardino",
+    "query": "\"San Bernardino\"",
+    "rank": 16,
+    "tweet_count": "2,176 Tweets"
   },
   {
     "name": "Simón Bolívar",
     "query": "\"Simón Bolívar\"",
-    "rank": 15,
-    "tweet_count": "11.4K Tweets"
-  },
-  {
-    "name": "#SomosCesap",
-    "query": "#SomosCesap",
-    "rank": 16,
-    "tweet_count": "1,017 Tweets"
-  },
-  {
-    "name": "#FelizJueves",
-    "query": "#FelizJueves",
     "rank": 17,
-    "tweet_count": "15.5K Tweets"
+    "tweet_count": "11.9K Tweets"
   },
   {
-    "name": "#LaCalmaEsPoder",
-    "query": "#LaCalmaEsPoder",
+    "name": "#ArreazaRegalaFreeBets",
+    "query": "#ArreazaRegalaFreeBets",
     "rank": 18,
-    "tweet_count": "25.9K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#LaGentePropone",
     "query": "#LaGentePropone",
     "rank": 19,
-    "tweet_count": "1,258 Tweets"
+    "tweet_count": "1,842 Tweets"
+  },
+  {
+    "name": "#SomosCESAP",
+    "query": "#SomosCESAP",
+    "rank": 20,
+    "tweet_count": "1,455 Tweets"
   }
 ]
