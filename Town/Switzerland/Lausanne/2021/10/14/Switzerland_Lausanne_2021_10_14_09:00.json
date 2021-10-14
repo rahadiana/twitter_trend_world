@@ -18,87 +18,87 @@
     "tweet_count": "120K Tweets"
   },
   {
+    "name": "Captain Kirk",
+    "query": "\"Captain Kirk\"",
+    "rank": 4,
+    "tweet_count": "34.8K Tweets"
+  },
+  {
     "name": "Genève",
     "query": "Genève",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "William Shatner",
-    "query": "\"William Shatner\"",
     "rank": 5,
-    "tweet_count": "106K Tweets"
-  },
-  {
-    "name": "Elke Heidenreich",
-    "query": "\"Elke Heidenreich\"",
-    "rank": 6,
-    "tweet_count": "6,044 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Johnson",
     "query": "Johnson",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": "130K Tweets"
   },
   {
     "name": "Polizist",
     "query": "Polizist",
-    "rank": 8,
+    "rank": 7,
     "tweet_count": null
   },
   {
-    "name": "Ronaldo",
-    "query": "Ronaldo",
-    "rank": 9,
-    "tweet_count": "118K Tweets"
+    "name": "William Shatner",
+    "query": "\"William Shatner\"",
+    "rank": 8,
+    "tweet_count": "106K Tweets"
   },
   {
     "name": "Conseil",
     "query": "Conseil",
-    "rank": 10,
-    "tweet_count": "25.5K Tweets"
-  },
-  {
-    "name": "Luzern",
-    "query": "Luzern",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Bundesrat",
-    "query": "Bundesrat",
-    "rank": 12,
-    "tweet_count": "1,917 Tweets"
+    "rank": 9,
+    "tweet_count": "25.6K Tweets"
   },
   {
     "name": "Superman",
     "query": "Superman",
-    "rank": 13,
-    "tweet_count": "77.3K Tweets"
+    "rank": 10,
+    "tweet_count": "77.5K Tweets"
+  },
+  {
+    "name": "Ronaldo",
+    "query": "Ronaldo",
+    "rank": 11,
+    "tweet_count": "118K Tweets"
+  },
+  {
+    "name": "Luzern",
+    "query": "Luzern",
+    "rank": 12,
+    "tweet_count": null
   },
   {
     "name": "Stimmung",
     "query": "Stimmung",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
-  },
-  {
-    "name": "Lesen Sie",
-    "query": "\"Lesen Sie\"",
-    "rank": 15,
-    "tweet_count": "1,477 Tweets"
   },
   {
     "name": "Versprechen",
     "query": "Versprechen",
-    "rank": 16,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Pflege",
     "query": "Pflege",
+    "rank": 15,
+    "tweet_count": "3,453 Tweets"
+  },
+  {
+    "name": "Bundesrat",
+    "query": "Bundesrat",
+    "rank": 16,
+    "tweet_count": "1,936 Tweets"
+  },
+  {
+    "name": "Trump",
+    "query": "Trump",
     "rank": 17,
-    "tweet_count": "3,426 Tweets"
+    "tweet_count": "456K Tweets"
   }
 ]
