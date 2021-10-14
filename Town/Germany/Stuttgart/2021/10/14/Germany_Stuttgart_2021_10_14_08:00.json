@@ -3,37 +3,37 @@
     "name": "#Wehrmacht",
     "query": "#Wehrmacht",
     "rank": 1,
-    "tweet_count": null
+    "tweet_count": "1,035 Tweets"
   },
   {
     "name": "#Zapfenstreich",
     "query": "#Zapfenstreich",
     "rank": 2,
-    "tweet_count": "5,058 Tweets"
+    "tweet_count": "5,103 Tweets"
   },
   {
     "name": "Soldaten",
     "query": "Soldaten",
     "rank": 3,
-    "tweet_count": "6,604 Tweets"
+    "tweet_count": "6,658 Tweets"
   },
   {
     "name": "Bundeswehr",
     "query": "Bundeswehr",
     "rank": 4,
-    "tweet_count": "15.3K Tweets"
+    "tweet_count": "15.5K Tweets"
   },
   {
     "name": "#Impfpflicht",
     "query": "#Impfpflicht",
     "rank": 5,
-    "tweet_count": "1,313 Tweets"
+    "tweet_count": "1,331 Tweets"
   },
   {
     "name": "Fackeln",
     "query": "Fackeln",
     "rank": 6,
-    "tweet_count": "2,183 Tweets"
+    "tweet_count": "2,214 Tweets"
   },
   {
     "name": "Tradition",
@@ -42,52 +42,52 @@
     "tweet_count": "20.6K Tweets"
   },
   {
-    "name": "Armee",
-    "query": "Armee",
-    "rank": 8,
-    "tweet_count": "6,887 Tweets"
-  },
-  {
     "name": "#MecklenburgVorpommern",
     "query": "#MecklenburgVorpommern",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "Armee",
+    "query": "Armee",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "6,935 Tweets"
   },
   {
-    "name": "Schönen Donnerstag",
-    "query": "\"Schönen Donnerstag\"",
+    "name": "Ehrung",
+    "query": "Ehrung",
     "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "#ThrowbackThursday",
-    "query": "#ThrowbackThursday",
-    "rank": 11,
-    "tweet_count": "4,922 Tweets"
-  },
-  {
-    "name": "ehrung",
-    "query": "ehrung",
-    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Zeremonie",
     "query": "Zeremonie",
-    "rank": 13,
+    "rank": 11,
     "tweet_count": null
+  },
+  {
+    "name": "#ThrowbackThursday",
+    "query": "#ThrowbackThursday",
+    "rank": 12,
+    "tweet_count": "5,043 Tweets"
   },
   {
     "name": "Einsatz",
     "query": "Einsatz",
-    "rank": 14,
-    "tweet_count": "6,010 Tweets"
+    "rank": 13,
+    "tweet_count": "6,040 Tweets"
   },
   {
-    "name": "Rituale",
-    "query": "Rituale",
-    "rank": 15,
+    "name": "Schönen Donnerstag",
+    "query": "\"Schönen Donnerstag\"",
+    "rank": 14,
     "tweet_count": null
+  },
+  {
+    "name": "Ritual",
+    "query": "Ritual",
+    "rank": 15,
+    "tweet_count": "12.5K Tweets"
   },
   {
     "name": "Assoziationen",
@@ -117,6 +117,6 @@
     "name": "Afghanistan",
     "query": "Afghanistan",
     "rank": 20,
-    "tweet_count": "86.2K Tweets"
+    "tweet_count": "86.5K Tweets"
   }
 ]
