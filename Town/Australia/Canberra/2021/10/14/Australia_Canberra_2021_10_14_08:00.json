@@ -1,21 +1,21 @@
 [
   {
-    "name": "#SydneyStorm",
-    "query": "#SydneyStorm",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#pebblebrain",
     "query": "#pebblebrain",
+    "rank": 1,
+    "tweet_count": "87.8K Tweets"
+  },
+  {
+    "name": "#SydneyStorm",
+    "query": "#SydneyStorm",
     "rank": 2,
-    "tweet_count": "86.5K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#TheDrum",
     "query": "#TheDrum",
     "rank": 3,
-    "tweet_count": "1,048 Tweets"
+    "tweet_count": "1,146 Tweets"
   },
   {
     "name": "Gray Connolly",
@@ -24,74 +24,74 @@
     "tweet_count": null
   },
   {
-    "name": "#sydneyweather",
-    "query": "#sydneyweather",
+    "name": "Norm Provan",
+    "query": "\"Norm Provan\"",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "1,606 Tweets"
   },
   {
-    "name": "norm provan",
-    "query": "\"norm provan\"",
+    "name": "Liddle",
+    "query": "Liddle",
     "rank": 6,
-    "tweet_count": "1,570 Tweets"
-  },
-  {
-    "name": "Simpkin",
-    "query": "Simpkin",
-    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Hodgson",
     "query": "Hodgson",
-    "rank": 8,
+    "rank": 7,
     "tweet_count": null
-  },
-  {
-    "name": "Liddle",
-    "query": "Liddle",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Dianne",
-    "query": "Dianne",
-    "rank": 10,
-    "tweet_count": "3,774 Tweets"
   },
   {
     "name": "Snapchat",
     "query": "Snapchat",
-    "rank": 11,
+    "rank": 8,
     "tweet_count": "120K Tweets"
   },
   {
     "name": "William Shatner",
     "query": "\"William Shatner\"",
-    "rank": 12,
-    "tweet_count": "105K Tweets"
-  },
-  {
-    "name": "Dolphins",
-    "query": "Dolphins",
-    "rank": 13,
-    "tweet_count": "9,753 Tweets"
+    "rank": 9,
+    "tweet_count": "106K Tweets"
   },
   {
     "name": "Twiggy",
     "query": "Twiggy",
-    "rank": 14,
-    "tweet_count": "2,582 Tweets"
+    "rank": 10,
+    "tweet_count": "2,653 Tweets"
   },
   {
-    "name": "Behich",
-    "query": "Behich",
-    "rank": 15,
+    "name": "Dolphins",
+    "query": "Dolphins",
+    "rank": 11,
+    "tweet_count": "9,925 Tweets"
+  },
+  {
+    "name": "Simpkin",
+    "query": "Simpkin",
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "warwick farm",
     "query": "\"warwick farm\"",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Behich",
+    "query": "Behich",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Dianne",
+    "query": "Dianne",
+    "rank": 15,
+    "tweet_count": "3,877 Tweets"
+  },
+  {
+    "name": "Father Bob",
+    "query": "\"Father Bob\"",
     "rank": 16,
     "tweet_count": null
   },
@@ -99,18 +99,12 @@
     "name": "Marty",
     "query": "Marty",
     "rank": 17,
-    "tweet_count": "7,290 Tweets"
+    "tweet_count": "7,370 Tweets"
   },
   {
     "name": "Ron Brierley",
     "query": "\"Ron Brierley\"",
     "rank": 18,
     "tweet_count": null
-  },
-  {
-    "name": "Ventolin",
-    "query": "Ventolin",
-    "rank": 19,
-    "tweet_count": "1,037 Tweets"
   }
 ]

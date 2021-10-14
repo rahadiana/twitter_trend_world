@@ -1,13 +1,13 @@
 [
   {
-    "name": "#Jedziemy",
-    "query": "#Jedziemy",
-    "rank": 1,
-    "tweet_count": "1,247 Tweets"
-  },
-  {
     "name": "#dzieńnauczyciela",
     "query": "#dzieńnauczyciela",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "#DzieńEdukacjiNarodowej",
+    "query": "#DzieńEdukacjiNarodowej",
     "rank": 2,
     "tweet_count": null
   },
@@ -15,11 +15,11 @@
     "name": "#topmodel",
     "query": "#topmodel",
     "rank": 3,
-    "tweet_count": "6,087 Tweets"
+    "tweet_count": "6,124 Tweets"
   },
   {
-    "name": "#minęła8",
-    "query": "#minęła8",
+    "name": "#Minęła8",
+    "query": "#Minęła8",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,13 +27,13 @@
     "name": "#albpol",
     "query": "#albpol",
     "rank": 5,
-    "tweet_count": "1,000 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Miłego",
     "query": "Miłego",
     "rank": 6,
-    "tweet_count": "7,238 Tweets"
+    "tweet_count": "8,050 Tweets"
   },
   {
     "name": "Jachira",
@@ -54,14 +54,14 @@
     "tweet_count": null
   },
   {
-    "name": "Pracownikom Oświaty",
-    "query": "\"Pracownikom Oświaty\"",
+    "name": "Roty",
+    "query": "Roty",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "3,624 Tweets"
   },
   {
-    "name": "Duńczyk",
-    "query": "Duńczyk",
+    "name": "pracownikom oświaty",
+    "query": "\"pracownikom oświaty\"",
     "rank": 11,
     "tweet_count": null
   },
@@ -72,26 +72,26 @@
     "tweet_count": null
   },
   {
-    "name": "Roty",
-    "query": "Roty",
-    "rank": 13,
-    "tweet_count": "3,532 Tweets"
-  },
-  {
     "name": "Marsz Niepodległości",
     "query": "\"Marsz Niepodległości\"",
-    "rank": 14,
-    "tweet_count": "4,267 Tweets"
+    "rank": 13,
+    "tweet_count": "4,368 Tweets"
   },
   {
-    "name": "moder",
-    "query": "moder",
-    "rank": 15,
+    "name": "Duńczyk",
+    "query": "Duńczyk",
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "krychowiak",
     "query": "krychowiak",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Moder",
+    "query": "Moder",
     "rank": 16,
     "tweet_count": null
   },
@@ -99,7 +99,7 @@
     "name": "TV Trwam",
     "query": "\"TV Trwam\"",
     "rank": 17,
-    "tweet_count": "3,862 Tweets"
+    "tweet_count": "3,970 Tweets"
   },
   {
     "name": "klicha",
@@ -108,10 +108,10 @@
     "tweet_count": null
   },
   {
-    "name": "Czarnek",
-    "query": "Czarnek",
+    "name": "Dzień Dobry",
+    "query": "\"Dzień Dobry\"",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "6,405 Tweets"
   },
   {
     "name": "puchacz",
