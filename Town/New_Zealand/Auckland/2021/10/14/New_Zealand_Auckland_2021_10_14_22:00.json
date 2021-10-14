@@ -1,13 +1,13 @@
 [
   {
-    "name": "Blenheim",
-    "query": "Blenheim",
+    "name": "#SuperSaturday",
+    "query": "#SuperSaturday",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "#SuperSaturday",
-    "query": "#SuperSaturday",
+    "name": "Blenheim",
+    "query": "Blenheim",
     "rank": 2,
     "tweet_count": null
   },
@@ -21,19 +21,19 @@
     "name": "#pebblebrain",
     "query": "#pebblebrain",
     "rank": 4,
-    "tweet_count": "135K Tweets"
+    "tweet_count": "136K Tweets"
   },
   {
     "name": "#PortfolioDay",
     "query": "#PortfolioDay",
     "rank": 5,
-    "tweet_count": "49.2K Tweets"
+    "tweet_count": "49.6K Tweets"
   },
   {
     "name": "Thames",
     "query": "Thames",
     "rank": 6,
-    "tweet_count": "4,052 Tweets"
+    "tweet_count": "4,110 Tweets"
   },
   {
     "name": "Sandra Goudie",
@@ -42,16 +42,16 @@
     "tweet_count": null
   },
   {
-    "name": "Hooton",
-    "query": "Hooton",
+    "name": "NovaVax",
+    "query": "NovaVax",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "1,428 Tweets"
   },
   {
-    "name": "novavax",
-    "query": "novavax",
+    "name": "Hooton",
+    "query": "Hooton",
     "rank": 9,
-    "tweet_count": "1,413 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Grant Robertson",
@@ -60,63 +60,63 @@
     "tweet_count": null
   },
   {
-    "name": "Government",
-    "query": "Government",
-    "rank": 11,
-    "tweet_count": "520K Tweets"
-  },
-  {
     "name": "Coromandel",
     "query": "Coromandel",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Allay",
     "query": "Allay",
-    "rank": 13,
-    "tweet_count": "39.5K Tweets"
+    "rank": 12,
+    "tweet_count": "40K Tweets"
   },
   {
-    "name": "Captain Kirk",
-    "query": "\"Captain Kirk\"",
-    "rank": 14,
-    "tweet_count": "9,997 Tweets"
+    "name": "William Shatner",
+    "query": "\"William Shatner\"",
+    "rank": 13,
+    "tweet_count": "35.2K Tweets"
   },
   {
     "name": "Matthew",
     "query": "Matthew",
-    "rank": 15,
-    "tweet_count": "25.3K Tweets"
+    "rank": 14,
+    "tweet_count": "25.8K Tweets"
   },
   {
     "name": "BACKWARDS INTO THE FUTURE",
     "query": "\"BACKWARDS INTO THE FUTURE\"",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
-  },
-  {
-    "name": "Maori",
-    "query": "Maori",
-    "rank": 17,
-    "tweet_count": "3,291 Tweets"
   },
   {
     "name": "Jeff Bezos",
     "query": "\"Jeff Bezos\"",
-    "rank": 18,
-    "tweet_count": "14.5K Tweets"
+    "rank": 16,
+    "tweet_count": "14.7K Tweets"
   },
   {
     "name": "Kyrie",
     "query": "Kyrie",
-    "rank": 19,
-    "tweet_count": "227K Tweets"
+    "rank": 17,
+    "tweet_count": "230K Tweets"
+  },
+  {
+    "name": "Māori and Pasifika",
+    "query": "\"Māori and Pasifika\"",
+    "rank": 18,
+    "tweet_count": null
   },
   {
     "name": "Te Awamutu",
     "query": "\"Te Awamutu\"",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "SUGA",
+    "query": "SUGA",
+    "rank": 20,
+    "tweet_count": "1.03M Tweets"
   }
 ]
