@@ -1,61 +1,61 @@
 [
   {
+    "name": "Pettersson",
+    "query": "Pettersson",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "Edmonton",
     "query": "Edmonton",
-    "rank": 1,
-    "tweet_count": "8,817 Tweets"
+    "rank": 2,
+    "tweet_count": "8,929 Tweets"
   },
   {
     "name": "Rathbone",
     "query": "Rathbone",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "Green",
-    "query": "Green",
     "rank": 3,
-    "tweet_count": "333K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Canucks",
     "query": "#Canucks",
     "rank": 4,
-    "tweet_count": "5,731 Tweets"
+    "tweet_count": "5,927 Tweets"
+  },
+  {
+    "name": "Mike Smith",
+    "query": "\"Mike Smith\"",
+    "rank": 5,
+    "tweet_count": "1,497 Tweets"
   },
   {
     "name": "#CANMNT",
     "query": "#CANMNT",
-    "rank": 5,
-    "tweet_count": "14.4K Tweets"
+    "rank": 6,
+    "tweet_count": "14.6K Tweets"
+  },
+  {
+    "name": "Hyman",
+    "query": "Hyman",
+    "rank": 7,
+    "tweet_count": "1,818 Tweets"
   },
   {
     "name": "Myers",
     "query": "Myers",
-    "rank": 6,
-    "tweet_count": "20.6K Tweets"
+    "rank": 8,
+    "tweet_count": "21.1K Tweets"
   },
   {
     "name": "Hughes",
     "query": "Hughes",
-    "rank": 7,
-    "tweet_count": "7,340 Tweets"
+    "rank": 9,
+    "tweet_count": "7,436 Tweets"
   },
   {
     "name": "La Bamba",
     "query": "\"La Bamba\"",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "#NHLJets",
-    "query": "#NHLJets",
-    "rank": 9,
-    "tweet_count": "1,119 Tweets"
-  },
-  {
-    "name": "Kyle Turris",
-    "query": "\"Kyle Turris\"",
     "rank": 10,
     "tweet_count": null
   },
@@ -63,60 +63,60 @@
     "name": "McDavid",
     "query": "McDavid",
     "rank": 11,
-    "tweet_count": "2,496 Tweets"
+    "tweet_count": "2,583 Tweets"
   },
   {
-    "name": "Pearson",
-    "query": "Pearson",
+    "name": "#NHLJets",
+    "query": "#NHLJets",
     "rank": 12,
-    "tweet_count": "2,426 Tweets"
-  },
-  {
-    "name": "Horvat",
-    "query": "Horvat",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Wheeler",
-    "query": "Wheeler",
-    "rank": 14,
-    "tweet_count": "4,206 Tweets"
+    "tweet_count": "1,123 Tweets"
   },
   {
     "name": "Garland",
     "query": "Garland",
-    "rank": 15,
-    "tweet_count": "26.3K Tweets"
+    "rank": 13,
+    "tweet_count": "26.5K Tweets"
+  },
+  {
+    "name": "Horvat",
+    "query": "Horvat",
+    "rank": 14,
+    "tweet_count": null
   },
   {
     "name": "Barrie",
     "query": "Barrie",
+    "rank": 15,
+    "tweet_count": "1,797 Tweets"
+  },
+  {
+    "name": "Wheeler",
+    "query": "Wheeler",
     "rank": 16,
-    "tweet_count": "1,760 Tweets"
+    "tweet_count": "4,265 Tweets"
   },
   {
     "name": "#pebblebrain",
     "query": "#pebblebrain",
     "rank": 17,
-    "tweet_count": "75.7K Tweets"
+    "tweet_count": "77.1K Tweets"
   },
   {
     "name": "#WNBAFinals",
     "query": "#WNBAFinals",
     "rank": 18,
-    "tweet_count": "14.9K Tweets"
+    "tweet_count": "15.1K Tweets"
   },
   {
     "name": "Miller",
     "query": "Miller",
     "rank": 19,
-    "tweet_count": "32.5K Tweets"
+    "tweet_count": "32.8K Tweets"
   },
   {
-    "name": "Kyrie",
-    "query": "Kyrie",
+    "name": "Demko",
+    "query": "Demko",
     "rank": 20,
-    "tweet_count": "172K Tweets"
+    "tweet_count": null
   }
 ]
