@@ -6,22 +6,22 @@
     "tweet_count": null
   },
   {
+    "name": "#liveline",
+    "query": "#liveline",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
     "name": "NPHET",
     "query": "NPHET",
-    "rank": 2,
-    "tweet_count": "1,361 Tweets"
+    "rank": 3,
+    "tweet_count": "1,374 Tweets"
   },
   {
     "name": "#Budget2022",
     "query": "#Budget2022",
-    "rank": 3,
-    "tweet_count": "2,958 Tweets"
-  },
-  {
-    "name": "#liveline",
-    "query": "#liveline",
     "rank": 4,
-    "tweet_count": null
+    "tweet_count": "2,970 Tweets"
   },
   {
     "name": "#pebblebrain",
@@ -48,64 +48,64 @@
     "tweet_count": null
   },
   {
-    "name": "William Shatner",
-    "query": "\"William Shatner\"",
+    "name": "william shatner",
+    "query": "\"william shatner\"",
     "rank": 9,
-    "tweet_count": "98.7K Tweets"
-  },
-  {
-    "name": "Sally Rooney",
-    "query": "\"Sally Rooney\"",
-    "rank": 10,
-    "tweet_count": "14.2K Tweets"
+    "tweet_count": "98.9K Tweets"
   },
   {
     "name": "Pat Kenny",
     "query": "\"Pat Kenny\"",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
+  },
+  {
+    "name": "Sally Rooney",
+    "query": "\"Sally Rooney\"",
+    "rank": 11,
+    "tweet_count": "14.2K Tweets"
   },
   {
     "name": "Northern Ireland",
     "query": "\"Northern Ireland\"",
     "rank": 12,
-    "tweet_count": "33K Tweets"
+    "tweet_count": "33.2K Tweets"
   },
   {
     "name": "Israel",
     "query": "Israel",
     "rank": 13,
-    "tweet_count": "85.5K Tweets"
+    "tweet_count": "86K Tweets"
   },
   {
     "name": "Varadkar",
     "query": "Varadkar",
     "rank": 14,
-    "tweet_count": "6,947 Tweets"
+    "tweet_count": "6,971 Tweets"
+  },
+  {
+    "name": "Captain Kirk",
+    "query": "\"Captain Kirk\"",
+    "rank": 15,
+    "tweet_count": "32.4K Tweets"
   },
   {
     "name": "Callum Robinson",
     "query": "\"Callum Robinson\"",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Charity Impact Awards",
     "query": "\"Charity Impact Awards\"",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Paddy Moloney",
     "query": "\"Paddy Moloney\"",
-    "rank": 17,
-    "tweet_count": "1,804 Tweets"
-  },
-  {
-    "name": "Ciara",
-    "query": "Ciara",
     "rank": 18,
-    "tweet_count": "6,857 Tweets"
+    "tweet_count": "1,808 Tweets"
   },
   {
     "name": "Keith Ricken",
@@ -117,6 +117,6 @@
     "name": "Frances",
     "query": "Frances",
     "rank": 20,
-    "tweet_count": "26.7K Tweets"
+    "tweet_count": "26.9K Tweets"
   }
 ]
