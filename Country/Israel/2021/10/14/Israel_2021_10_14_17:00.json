@@ -1,69 +1,69 @@
 [
   {
-    "name": "#Beirut",
-    "query": "#Beirut",
+    "name": "Beirut",
+    "query": "Beirut",
     "rank": 1,
-    "tweet_count": "12.9K Tweets"
+    "tweet_count": "38.5K Tweets"
+  },
+  {
+    "name": "#Hezbollah",
+    "query": "#Hezbollah",
+    "rank": 2,
+    "tweet_count": "5,474 Tweets"
   },
   {
     "name": "#Lebanon",
     "query": "#Lebanon",
-    "rank": 2,
-    "tweet_count": "15.5K Tweets"
+    "rank": 3,
+    "tweet_count": "15.7K Tweets"
   },
   {
     "name": "#لبنان",
     "query": "#لبنان",
-    "rank": 3,
-    "tweet_count": "50.6K Tweets"
+    "rank": 4,
+    "tweet_count": "51.6K Tweets"
   },
   {
     "name": "Zionism",
     "query": "Zionism",
-    "rank": 4,
-    "tweet_count": "2,589 Tweets"
+    "rank": 5,
+    "tweet_count": "2,624 Tweets"
   },
   {
     "name": "#Syria",
     "query": "#Syria",
-    "rank": 5,
-    "tweet_count": "4,648 Tweets"
+    "rank": 6,
+    "tweet_count": "4,692 Tweets"
   },
   {
     "name": "Amazon",
     "query": "Amazon",
-    "rank": 6,
-    "tweet_count": "836K Tweets"
+    "rank": 7,
+    "tweet_count": "842K Tweets"
   },
   {
     "name": "שיש לו",
     "query": "\"שיש לו\"",
-    "rank": 7,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "גיא מרוז",
     "query": "\"גיא מרוז\"",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Jewish Agency",
     "query": "\"Jewish Agency\"",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "בן גוריון",
     "query": "\"בן גוריון\"",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Sally Rooney",
-    "query": "\"Sally Rooney\"",
     "rank": 11,
-    "tweet_count": "11.1K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#JIMINDAY",
@@ -72,51 +72,51 @@
     "tweet_count": "107K Tweets"
   },
   {
+    "name": "Sally Rooney",
+    "query": "\"Sally Rooney\"",
+    "rank": 13,
+    "tweet_count": "11.2K Tweets"
+  },
+  {
     "name": "פח אשפה",
     "query": "\"פח אשפה\"",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Lebanese",
     "query": "Lebanese",
-    "rank": 14,
-    "tweet_count": "12.4K Tweets"
+    "rank": 15,
+    "tweet_count": "12.8K Tweets"
   },
   {
     "name": "Russia",
     "query": "Russia",
-    "rank": 15,
-    "tweet_count": "55.6K Tweets"
+    "rank": 16,
+    "tweet_count": "56.4K Tweets"
   },
   {
     "name": "בנימין נתניהו",
     "query": "\"בנימין נתניהו\"",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "בוקר טוב",
     "query": "\"בוקר טוב\"",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Minecraft",
     "query": "Minecraft",
-    "rank": 18,
-    "tweet_count": "117K Tweets"
+    "rank": 19,
+    "tweet_count": "118K Tweets"
   },
   {
     "name": "Hebrew",
     "query": "Hebrew",
-    "rank": 19,
-    "tweet_count": "4,401 Tweets"
-  },
-  {
-    "name": "אלי אבידר",
-    "query": "\"אלי אבידר\"",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "4,437 Tweets"
   }
 ]
