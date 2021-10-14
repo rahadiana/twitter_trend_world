@@ -15,25 +15,25 @@
     "name": "Soldaten",
     "query": "Soldaten",
     "rank": 3,
-    "tweet_count": "7,958 Tweets"
-  },
-  {
-    "name": "Bundeswehr",
-    "query": "Bundeswehr",
-    "rank": 4,
-    "tweet_count": "18.8K Tweets"
+    "tweet_count": "8,125 Tweets"
   },
   {
     "name": "Angriff auf die Demokratie",
     "query": "\"Angriff auf die Demokratie\"",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "Bundeswehr",
+    "query": "Bundeswehr",
+    "rank": 5,
+    "tweet_count": "19.2K Tweets"
   },
   {
     "name": "Fackeln",
     "query": "Fackeln",
     "rank": 6,
-    "tweet_count": "3,056 Tweets"
+    "tweet_count": "3,127 Tweets"
   },
   {
     "name": "Traditionen",
@@ -45,59 +45,59 @@
     "name": "Armee",
     "query": "Armee",
     "rank": 8,
-    "tweet_count": "8,347 Tweets"
-  },
-  {
-    "name": "Volksbegehren",
-    "query": "Volksbegehren",
-    "rank": 9,
-    "tweet_count": "1,436 Tweets"
+    "tweet_count": "8,505 Tweets"
   },
   {
     "name": "Assoziationen",
     "query": "Assoziationen",
+    "rank": 9,
+    "tweet_count": "1,118 Tweets"
+  },
+  {
+    "name": "Volksbegehren",
+    "query": "Volksbegehren",
     "rank": 10,
-    "tweet_count": "1,063 Tweets"
+    "tweet_count": "1,480 Tweets"
   },
   {
     "name": "Ehrung",
     "query": "Ehrung",
     "rank": 11,
-    "tweet_count": "1,101 Tweets"
-  },
-  {
-    "name": "Militarismus",
-    "query": "Militarismus",
-    "rank": 12,
-    "tweet_count": null
+    "tweet_count": "1,119 Tweets"
   },
   {
     "name": "Einsatz",
     "query": "Einsatz",
-    "rank": 13,
-    "tweet_count": "6,433 Tweets"
+    "rank": 12,
+    "tweet_count": "6,540 Tweets"
   },
   {
-    "name": "Zeremonie",
-    "query": "Zeremonie",
-    "rank": 14,
+    "name": "militarismus",
+    "query": "militarismus",
+    "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "Rituale",
-    "query": "Rituale",
-    "rank": 15,
+    "name": "Ästhetik",
+    "query": "Ästhetik",
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Islam",
     "query": "Islam",
-    "rank": 16,
-    "tweet_count": "81.7K Tweets"
+    "rank": 15,
+    "tweet_count": "83K Tweets"
   },
   {
-    "name": "Ästhetik",
-    "query": "Ästhetik",
+    "name": "Zeremonie",
+    "query": "Zeremonie",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Rituale",
+    "query": "Rituale",
     "rank": 17,
     "tweet_count": null
   }
