@@ -1,39 +1,39 @@
 [
   {
-    "name": "John Mason",
-    "query": "\"John Mason\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "John Lewis",
     "query": "\"John Lewis\"",
-    "rank": 2,
-    "tweet_count": "7,552 Tweets"
+    "rank": 1,
+    "tweet_count": "7,755 Tweets"
   },
   {
     "name": "#ScottishIndependence",
     "query": "#ScottishIndependence",
-    "rank": 3,
-    "tweet_count": "41.9K Tweets"
+    "rank": 2,
+    "tweet_count": "43.5K Tweets"
   },
   {
     "name": "Waterstones",
     "query": "Waterstones",
-    "rank": 4,
-    "tweet_count": "4,282 Tweets"
+    "rank": 3,
+    "tweet_count": "4,544 Tweets"
   },
   {
     "name": "KIM TAEHYUNG",
     "query": "\"KIM TAEHYUNG\"",
-    "rank": 5,
-    "tweet_count": "275K Tweets"
+    "rank": 4,
+    "tweet_count": "284K Tweets"
   },
   {
     "name": "#TheBatman",
     "query": "#TheBatman",
+    "rank": 5,
+    "tweet_count": "54.6K Tweets"
+  },
+  {
+    "name": "#DragRaceUK3",
+    "query": "#DragRaceUK3",
     "rank": 6,
-    "tweet_count": "52K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#CAHPOAwards2021",
@@ -45,78 +45,78 @@
     "name": "Jaffa Cakes",
     "query": "\"Jaffa Cakes\"",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "1,119 Tweets"
   },
   {
-    "name": "#PitDark",
-    "query": "#PitDark",
+    "name": "#FCAS",
+    "query": "#FCAS",
     "rank": 9,
-    "tweet_count": "43.7K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#TheChase",
-    "query": "#TheChase",
+    "name": "YouGov",
+    "query": "YouGov",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "11.8K Tweets"
   },
   {
     "name": "Philip Allott",
     "query": "\"Philip Allott\"",
     "rank": 11,
-    "tweet_count": "3,182 Tweets"
+    "tweet_count": "3,218 Tweets"
   },
   {
-    "name": "YouGov",
-    "query": "YouGov",
+    "name": "Stonewall",
+    "query": "Stonewall",
     "rank": 12,
-    "tweet_count": "11.6K Tweets"
-  },
-  {
-    "name": "Hazard Zone",
-    "query": "\"Hazard Zone\"",
-    "rank": 13,
-    "tweet_count": "8,543 Tweets"
+    "tweet_count": "16.2K Tweets"
   },
   {
     "name": "Oisin",
     "query": "Oisin",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Coldplay",
     "query": "Coldplay",
-    "rank": 15,
-    "tweet_count": "367K Tweets"
-  },
-  {
-    "name": "Stonewall",
-    "query": "Stonewall",
-    "rank": 16,
-    "tweet_count": "15.9K Tweets"
+    "rank": 14,
+    "tweet_count": "372K Tweets"
   },
   {
     "name": "Bloodstock",
     "query": "Bloodstock",
-    "rank": 17,
+    "rank": 15,
     "tweet_count": null
+  },
+  {
+    "name": "Hazard Zone",
+    "query": "\"Hazard Zone\"",
+    "rank": 16,
+    "tweet_count": "8,720 Tweets"
   },
   {
     "name": "SUGA",
     "query": "SUGA",
+    "rank": 17,
+    "tweet_count": "982K Tweets"
+  },
+  {
+    "name": "Diwali",
+    "query": "Diwali",
     "rank": 18,
-    "tweet_count": "961K Tweets"
+    "tweet_count": "38.9K Tweets"
   },
   {
     "name": "Vanguard Zombies",
     "query": "\"Vanguard Zombies\"",
     "rank": 19,
-    "tweet_count": "8,798 Tweets"
+    "tweet_count": "9,090 Tweets"
   },
   {
-    "name": "Weverse",
-    "query": "Weverse",
+    "name": "ScotRail",
+    "query": "ScotRail",
     "rank": 20,
-    "tweet_count": "372K Tweets"
+    "tweet_count": "1,377 Tweets"
   }
 ]
