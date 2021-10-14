@@ -1,122 +1,122 @@
 [
   {
+    "name": "Toronto",
+    "query": "Toronto",
+    "rank": 1,
+    "tweet_count": "32.8K Tweets"
+  },
+  {
     "name": "Weber",
     "query": "Weber",
-    "rank": 1,
-    "tweet_count": "5,072 Tweets"
+    "rank": 2,
+    "tweet_count": "5,083 Tweets"
   },
   {
     "name": "Romanov",
     "query": "Romanov",
-    "rank": 2,
-    "tweet_count": "1,337 Tweets"
+    "rank": 3,
+    "tweet_count": "1,336 Tweets"
   },
   {
     "name": "Caufield",
     "query": "Caufield",
-    "rank": 3,
-    "tweet_count": "1,042 Tweets"
+    "rank": 4,
+    "tweet_count": "1,043 Tweets"
   },
   {
     "name": "Dubé",
     "query": "Dubé",
-    "rank": 4,
-    "tweet_count": "7,358 Tweets"
+    "rank": 5,
+    "tweet_count": "7,401 Tweets"
   },
   {
     "name": "#CANMNT",
     "query": "#CANMNT",
-    "rank": 5,
-    "tweet_count": "13.4K Tweets"
+    "rank": 6,
+    "tweet_count": "13.5K Tweets"
   },
   {
     "name": "#Canucks",
     "query": "#Canucks",
-    "rank": 6,
-    "tweet_count": "3,832 Tweets"
+    "rank": 7,
+    "tweet_count": "4,040 Tweets"
   },
   {
     "name": "#LetsGoOilers",
     "query": "#LetsGoOilers",
-    "rank": 7,
-    "tweet_count": "3,717 Tweets"
+    "rank": 8,
+    "tweet_count": "4,012 Tweets"
   },
   {
     "name": "#LeafsForever",
     "query": "#LeafsForever",
-    "rank": 8,
-    "tweet_count": "10.9K Tweets"
+    "rank": 9,
+    "tweet_count": "11K Tweets"
   },
   {
     "name": "#pebblebrain",
     "query": "#pebblebrain",
-    "rank": 9,
-    "tweet_count": "70K Tweets"
+    "rank": 10,
+    "tweet_count": "70.7K Tweets"
   },
   {
     "name": "Panama",
     "query": "Panama",
-    "rank": 10,
-    "tweet_count": "50.5K Tweets"
+    "rank": 11,
+    "tweet_count": "50.9K Tweets"
   },
   {
-    "name": "Jack Johnson",
-    "query": "\"Jack Johnson\"",
-    "rank": 11,
-    "tweet_count": "3,039 Tweets"
+    "name": "Gallagher",
+    "query": "Gallagher",
+    "rank": 12,
+    "tweet_count": "4,867 Tweets"
   },
   {
     "name": "Mike Smith",
     "query": "\"Mike Smith\"",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
+  },
+  {
+    "name": "Jack Johnson",
+    "query": "\"Jack Johnson\"",
+    "rank": 14,
+    "tweet_count": "3,074 Tweets"
   },
   {
     "name": "CONCACAF",
     "query": "CONCACAF",
-    "rank": 13,
-    "tweet_count": "15.5K Tweets"
+    "rank": 15,
+    "tweet_count": "15.7K Tweets"
+  },
+  {
+    "name": "Puljujarvi",
+    "query": "Puljujarvi",
+    "rank": 16,
+    "tweet_count": null
   },
   {
     "name": "World Cup",
     "query": "\"World Cup\"",
-    "rank": 14,
-    "tweet_count": "75.3K Tweets"
-  },
-  {
-    "name": "Jesse",
-    "query": "Jesse",
-    "rank": 15,
-    "tweet_count": "21.6K Tweets"
-  },
-  {
-    "name": "McDavid",
-    "query": "McDavid",
-    "rank": 16,
-    "tweet_count": "2,115 Tweets"
-  },
-  {
-    "name": "elon musk",
-    "query": "\"elon musk\"",
     "rank": 17,
-    "tweet_count": "21.9K Tweets"
+    "tweet_count": "75.5K Tweets"
   },
   {
     "name": "Kyrie",
     "query": "Kyrie",
     "rank": 18,
-    "tweet_count": "156K Tweets"
+    "tweet_count": "159K Tweets"
   },
   {
-    "name": "Ovechkin",
-    "query": "Ovechkin",
+    "name": "elon musk",
+    "query": "\"elon musk\"",
     "rank": 19,
-    "tweet_count": "6,046 Tweets"
+    "tweet_count": "22.3K Tweets"
   },
   {
     "name": "Gibson",
     "query": "Gibson",
     "rank": 20,
-    "tweet_count": "8,801 Tweets"
+    "tweet_count": "8,878 Tweets"
   }
 ]
