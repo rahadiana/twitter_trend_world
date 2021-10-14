@@ -1,45 +1,45 @@
 [
   {
-    "name": "#15ottobre",
-    "query": "#15ottobre",
-    "rank": 1,
-    "tweet_count": "2,806 Tweets"
-  },
-  {
     "name": "Natale",
     "query": "Natale",
-    "rank": 2,
-    "tweet_count": "5,460 Tweets"
+    "rank": 1,
+    "tweet_count": "5,476 Tweets"
   },
   {
     "name": "Domani",
     "query": "Domani",
-    "rank": 3,
-    "tweet_count": "30.4K Tweets"
+    "rank": 2,
+    "tweet_count": "30.6K Tweets"
   },
   {
     "name": "#piazzapulita",
     "query": "#piazzapulita",
-    "rank": 4,
-    "tweet_count": "6,240 Tweets"
+    "rank": 3,
+    "tweet_count": "6,350 Tweets"
   },
   {
     "name": "#StarInTheStar",
     "query": "#StarInTheStar",
-    "rank": 5,
-    "tweet_count": "2,986 Tweets"
+    "rank": 4,
+    "tweet_count": "3,156 Tweets"
   },
   {
     "name": "#XF2021",
     "query": "#XF2021",
-    "rank": 6,
-    "tweet_count": "9,260 Tweets"
+    "rank": 5,
+    "tweet_count": "9,274 Tweets"
   },
   {
     "name": "#DrittoeRovescio",
     "query": "#DrittoeRovescio",
+    "rank": 6,
+    "tweet_count": "2,748 Tweets"
+  },
+  {
+    "name": "#FinoAllUltimoBattito",
+    "query": "#FinoAllUltimoBattito",
     "rank": 7,
-    "tweet_count": "2,627 Tweets"
+    "tweet_count": "1,685 Tweets"
   },
   {
     "name": "Lola Ponce",
@@ -51,19 +51,19 @@
     "name": "Lady Gaga",
     "query": "\"Lady Gaga\"",
     "rank": 9,
-    "tweet_count": "10.4K Tweets"
-  },
-  {
-    "name": "Alexia",
-    "query": "Alexia",
-    "rank": 10,
-    "tweet_count": "5,609 Tweets"
+    "tweet_count": "10.5K Tweets"
   },
   {
     "name": "Cecchi Paone",
     "query": "\"Cecchi Paone\"",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
+  },
+  {
+    "name": "Alexia",
+    "query": "Alexia",
+    "rank": 11,
+    "tweet_count": "5,655 Tweets"
   },
   {
     "name": "Silvia Salemi",
@@ -75,7 +75,7 @@
     "name": "Formigli",
     "query": "Formigli",
     "rank": 13,
-    "tweet_count": "1,967 Tweets"
+    "tweet_count": "1,989 Tweets"
   },
   {
     "name": "Faraone",
@@ -87,36 +87,36 @@
     "name": "Emma",
     "query": "Emma",
     "rank": 15,
-    "tweet_count": "57.1K Tweets"
+    "tweet_count": "57.5K Tweets"
   },
   {
-    "name": "Manuelito",
-    "query": "Manuelito",
+    "name": "Syria",
+    "query": "Syria",
     "rank": 16,
-    "tweet_count": "1,003 Tweets"
+    "tweet_count": "16.5K Tweets"
+  },
+  {
+    "name": "manuelito",
+    "query": "manuelito",
+    "rank": 17,
+    "tweet_count": "1,007 Tweets"
   },
   {
     "name": "Michael Jackson",
     "query": "\"Michael Jackson\"",
-    "rank": 17,
-    "tweet_count": "11.3K Tweets"
+    "rank": 18,
+    "tweet_count": "11.4K Tweets"
+  },
+  {
+    "name": "Loredana Bertè",
+    "query": "\"Loredana Bertè\"",
+    "rank": 19,
+    "tweet_count": null
   },
   {
     "name": "Agostino",
     "query": "Agostino",
-    "rank": 18,
-    "tweet_count": "1,496 Tweets"
-  },
-  {
-    "name": "Travaglio",
-    "query": "Travaglio",
-    "rank": 19,
-    "tweet_count": "1,737 Tweets"
-  },
-  {
-    "name": "Niccolò",
-    "query": "Niccolò",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "1,505 Tweets"
   }
 ]
