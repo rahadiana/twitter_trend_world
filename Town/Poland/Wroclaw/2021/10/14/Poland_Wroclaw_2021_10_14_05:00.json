@@ -1,39 +1,39 @@
 [
   {
-    "name": "#topmodel",
-    "query": "#topmodel",
+    "name": "#ALBPOL",
+    "query": "#ALBPOL",
     "rank": 1,
-    "tweet_count": "5,910 Tweets"
+    "tweet_count": "1,359 Tweets"
   },
   {
-    "name": "#albpol",
-    "query": "#albpol",
+    "name": "#topmodel",
+    "query": "#topmodel",
     "rank": 2,
-    "tweet_count": "1,357 Tweets"
+    "tweet_count": "5,927 Tweets"
   },
   {
     "name": "#pebblebrain",
     "query": "#pebblebrain",
     "rank": 3,
-    "tweet_count": "77K Tweets"
+    "tweet_count": "77.5K Tweets"
+  },
+  {
+    "name": "#Jedziemy",
+    "query": "#Jedziemy",
+    "rank": 4,
+    "tweet_count": "1,342 Tweets"
   },
   {
     "name": "#JIMINDAY",
     "query": "#JIMINDAY",
-    "rank": 4,
-    "tweet_count": "408K Tweets"
+    "rank": 5,
+    "tweet_count": "409K Tweets"
   },
   {
     "name": "Albanii",
     "query": "Albanii",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "#wobroniemieszkańców",
-    "query": "#wobroniemieszkańców",
     "rank": 6,
-    "tweet_count": "1,456 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Dzień Nauczyciela",
@@ -42,81 +42,81 @@
     "tweet_count": null
   },
   {
+    "name": "Dobrego",
+    "query": "Dobrego",
+    "rank": 8,
+    "tweet_count": "1,907 Tweets"
+  },
+  {
     "name": "Moder",
     "query": "Moder",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "krychowiak",
     "query": "krychowiak",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Marsz Niepodległości",
     "query": "\"Marsz Niepodległości\"",
-    "rank": 10,
-    "tweet_count": "3,772 Tweets"
-  },
-  {
-    "name": "TV Trwam",
-    "query": "\"TV Trwam\"",
     "rank": 11,
-    "tweet_count": "3,158 Tweets"
+    "tweet_count": "3,800 Tweets"
   },
   {
     "name": "Cześć",
     "query": "Cześć",
     "rank": 12,
-    "tweet_count": "4,277 Tweets"
+    "tweet_count": "4,298 Tweets"
   },
   {
-    "name": "Dobrego",
-    "query": "Dobrego",
+    "name": "TV Trwam",
+    "query": "\"TV Trwam\"",
     "rank": 13,
-    "tweet_count": "1,884 Tweets"
+    "tweet_count": "3,182 Tweets"
+  },
+  {
+    "name": "Miłego",
+    "query": "Miłego",
+    "rank": 14,
+    "tweet_count": "7,363 Tweets"
   },
   {
     "name": "klicha",
     "query": "klicha",
-    "rank": 14,
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Norwegii",
+    "query": "Norwegii",
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Olga",
     "query": "Olga",
-    "rank": 15,
-    "tweet_count": "9,196 Tweets"
+    "rank": 17,
+    "tweet_count": "9,222 Tweets"
   },
   {
     "name": "Hubert Hurkacz",
     "query": "\"Hubert Hurkacz\"",
-    "rank": 16,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "puchacz",
     "query": "puchacz",
-    "rank": 17,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "węgrzyna",
     "query": "węgrzyna",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "albańczycy",
-    "query": "albańczycy",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Miłego",
-    "query": "Miłego",
     "rank": 20,
-    "tweet_count": "7,294 Tweets"
+    "tweet_count": null
   }
 ]
