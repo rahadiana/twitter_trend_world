@@ -1,33 +1,33 @@
 [
   {
-    "name": "Adele",
-    "query": "Adele",
-    "rank": 1,
-    "tweet_count": "536K Tweets"
-  },
-  {
     "name": "#skolevalg",
     "query": "#skolevalg",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "#brunsvigerensdag",
     "query": "#brunsvigerensdag",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Kongsberg",
     "query": "Kongsberg",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": "20.9K Tweets"
   },
   {
     "name": "norge",
     "query": "norge",
+    "rank": 4,
+    "tweet_count": "4,217 Tweets"
+  },
+  {
+    "name": "Adele",
+    "query": "Adele",
     "rank": 5,
-    "tweet_count": "4,208 Tweets"
+    "tweet_count": "557K Tweets"
   },
   {
     "name": "#ultratwitteragf",
@@ -45,25 +45,25 @@
     "name": "hb køge",
     "query": "\"hb køge\"",
     "rank": 8,
-    "tweet_count": "1,225 Tweets"
+    "tweet_count": "1,229 Tweets"
   },
   {
     "name": "Qatar",
     "query": "Qatar",
     "rank": 9,
-    "tweet_count": "34.6K Tweets"
+    "tweet_count": "36.5K Tweets"
   },
   {
     "name": "Barcelona",
     "query": "Barcelona",
     "rank": 10,
-    "tweet_count": "75.3K Tweets"
+    "tweet_count": "75.9K Tweets"
   },
   {
     "name": "#pebblebrain",
     "query": "#pebblebrain",
     "rank": 11,
-    "tweet_count": "77.3K Tweets"
+    "tweet_count": "78K Tweets"
   },
   {
     "name": "p8 jazz",
@@ -93,13 +93,13 @@
     "name": "Islam",
     "query": "Islam",
     "rank": 16,
-    "tweet_count": "87.9K Tweets"
+    "tweet_count": "88.8K Tweets"
   },
   {
     "name": "Norway",
     "query": "Norway",
     "rank": 17,
-    "tweet_count": "54K Tweets"
+    "tweet_count": "54.7K Tweets"
   },
   {
     "name": "pernille",
@@ -108,8 +108,8 @@
     "tweet_count": null
   },
   {
-    "name": "tour de france",
-    "query": "\"tour de france\"",
+    "name": "Tour de France",
+    "query": "\"Tour de France\"",
     "rank": 19,
     "tweet_count": "10.4K Tweets"
   },
@@ -117,6 +117,6 @@
     "name": "Arsenal",
     "query": "Arsenal",
     "rank": 20,
-    "tweet_count": "42.9K Tweets"
+    "tweet_count": "43.2K Tweets"
   }
 ]

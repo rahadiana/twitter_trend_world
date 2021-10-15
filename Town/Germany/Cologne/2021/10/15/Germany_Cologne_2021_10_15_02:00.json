@@ -1,39 +1,39 @@
 [
   {
-    "name": "#illner",
-    "query": "#illner",
-    "rank": 1,
-    "tweet_count": "4,695 Tweets"
-  },
-  {
     "name": "#Legalisierung2022",
     "query": "#Legalisierung2022",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "23.1K Tweets"
+  },
+  {
+    "name": "#Illner",
+    "query": "#Illner",
+    "rank": 2,
+    "tweet_count": "4,716 Tweets"
   },
   {
     "name": "#Zapfenstreich",
     "query": "#Zapfenstreich",
     "rank": 3,
-    "tweet_count": "7,279 Tweets"
+    "tweet_count": "7,294 Tweets"
   },
   {
     "name": "#EasyOnMe",
     "query": "#EasyOnMe",
     "rank": 4,
-    "tweet_count": "174K Tweets"
+    "tweet_count": "181K Tweets"
   },
   {
     "name": "Soldaten",
     "query": "Soldaten",
     "rank": 5,
-    "tweet_count": "7,783 Tweets"
+    "tweet_count": "7,800 Tweets"
   },
   {
     "name": "#Wehrmacht",
     "query": "#Wehrmacht",
     "rank": 6,
-    "tweet_count": "5,025 Tweets"
+    "tweet_count": "5,028 Tweets"
   },
   {
     "name": "Bundeswehr",
@@ -45,31 +45,31 @@
     "name": "Fackeln",
     "query": "Fackeln",
     "rank": 8,
-    "tweet_count": "3,631 Tweets"
+    "tweet_count": "3,633 Tweets"
   },
   {
     "name": "Angriff auf die Demokratie",
     "query": "\"Angriff auf die Demokratie\"",
     "rank": 9,
-    "tweet_count": "3,080 Tweets"
+    "tweet_count": "3,081 Tweets"
   },
   {
     "name": "Armee",
     "query": "Armee",
     "rank": 10,
-    "tweet_count": "12.1K Tweets"
+    "tweet_count": "12.2K Tweets"
   },
   {
     "name": "Reichstag",
     "query": "Reichstag",
     "rank": 11,
-    "tweet_count": "4,895 Tweets"
+    "tweet_count": "4,910 Tweets"
   },
   {
     "name": "Tradition",
     "query": "Tradition",
     "rank": 12,
-    "tweet_count": "19.5K Tweets"
+    "tweet_count": "19.8K Tweets"
   },
   {
     "name": "Assoziationen",
@@ -81,13 +81,13 @@
     "name": "ehrung",
     "query": "ehrung",
     "rank": 14,
-    "tweet_count": "1,330 Tweets"
+    "tweet_count": "1,323 Tweets"
   },
   {
     "name": "Militär",
     "query": "Militär",
     "rank": 15,
-    "tweet_count": "1,628 Tweets"
+    "tweet_count": "1,631 Tweets"
   },
   {
     "name": "zeremoniell",
@@ -96,16 +96,16 @@
     "tweet_count": null
   },
   {
-    "name": "Volksbegehren",
-    "query": "Volksbegehren",
+    "name": "volksbegehren",
+    "query": "volksbegehren",
     "rank": 17,
-    "tweet_count": "4,343 Tweets"
+    "tweet_count": "4,345 Tweets"
   },
   {
     "name": "Ritual",
     "query": "Ritual",
     "rank": 18,
-    "tweet_count": "15.4K Tweets"
+    "tweet_count": "15.7K Tweets"
   },
   {
     "name": "schönen donnerstag",
@@ -117,6 +117,6 @@
     "name": "Hurts",
     "query": "Hurts",
     "rank": 20,
-    "tweet_count": "104K Tweets"
+    "tweet_count": "109K Tweets"
   }
 ]
