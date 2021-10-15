@@ -3,13 +3,13 @@
     "name": "#SuperSaturday",
     "query": "#SuperSaturday",
     "rank": 1,
-    "tweet_count": "2,243 Tweets"
+    "tweet_count": "2,273 Tweets"
   },
   {
     "name": "Adele",
     "query": "Adele",
     "rank": 2,
-    "tweet_count": "691K Tweets"
+    "tweet_count": "694K Tweets"
   },
   {
     "name": "#ShortlandStreet",
@@ -18,20 +18,20 @@
     "tweet_count": null
   },
   {
-    "name": "#vaxathon",
-    "query": "#vaxathon",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
     "name": "Thames",
     "query": "Thames",
-    "rank": 5,
-    "tweet_count": "4,141 Tweets"
+    "rank": 4,
+    "tweet_count": "4,145 Tweets"
   },
   {
     "name": "Blenheim",
     "query": "Blenheim",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "#vaxathon",
+    "query": "#vaxathon",
     "rank": 6,
     "tweet_count": null
   },
@@ -75,7 +75,7 @@
     "name": "karl",
     "query": "karl",
     "rank": 13,
-    "tweet_count": "42.4K Tweets"
+    "tweet_count": "42.7K Tweets"
   },
   {
     "name": "BACKWARDS INTO THE FUTURE",
@@ -87,7 +87,7 @@
     "name": "John Key",
     "query": "\"John Key\"",
     "rank": 15,
-    "tweet_count": "1,375 Tweets"
+    "tweet_count": "1,379 Tweets"
   },
   {
     "name": "Taranaki",
@@ -99,7 +99,7 @@
     "name": "Novavax",
     "query": "Novavax",
     "rank": 17,
-    "tweet_count": "1,071 Tweets"
+    "tweet_count": "1,074 Tweets"
   },
   {
     "name": "Māori and Pasifika",
@@ -117,6 +117,6 @@
     "name": "#NewMusicAlert",
     "query": "#NewMusicAlert",
     "rank": 20,
-    "tweet_count": "1,159 Tweets"
+    "tweet_count": "1,166 Tweets"
   }
 ]

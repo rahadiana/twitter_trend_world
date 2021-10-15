@@ -1,27 +1,27 @@
 [
   {
-    "name": "Qatar",
-    "query": "Qatar",
-    "rank": 1,
-    "tweet_count": "40.1K Tweets"
-  },
-  {
     "name": "Ecuador",
     "query": "Ecuador",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "102K Tweets"
   },
   {
-    "name": "Cecilia",
-    "query": "Cecilia",
-    "rank": 3,
+    "name": "cecilia",
+    "query": "cecilia",
+    "rank": 2,
     "tweet_count": "10.7K Tweets"
   },
   {
     "name": "#VamosChileCTM",
     "query": "#VamosChileCTM",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": "21.4K Tweets"
+  },
+  {
+    "name": "brereton",
+    "query": "brereton",
+    "rank": 4,
+    "tweet_count": "29.9K Tweets"
   },
   {
     "name": "#larojaxchv",
@@ -45,13 +45,13 @@
     "name": "San Carlos",
     "query": "\"San Carlos\"",
     "rank": 8,
-    "tweet_count": "7,644 Tweets"
+    "tweet_count": "7,649 Tweets"
   },
   {
     "name": "Olarra",
     "query": "Olarra",
     "rank": 9,
-    "tweet_count": "4,558 Tweets"
+    "tweet_count": "4,560 Tweets"
   },
   {
     "name": "Big Ben",
@@ -60,39 +60,39 @@
     "tweet_count": "11K Tweets"
   },
   {
-    "name": "Uruguay",
-    "query": "Uruguay",
-    "rank": 11,
-    "tweet_count": "74.2K Tweets"
-  },
-  {
     "name": "Paraguay",
     "query": "Paraguay",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": "49.4K Tweets"
   },
   {
     "name": "#EasyOnMe",
     "query": "#EasyOnMe",
-    "rank": 13,
-    "tweet_count": "223K Tweets"
+    "rank": 12,
+    "tweet_count": "224K Tweets"
   },
   {
     "name": "#clasificatoriasxchv",
     "query": "#clasificatoriasxchv",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": "2,035 Tweets"
   },
   {
-    "name": "#EliminatoriasSudamericanas",
-    "query": "#EliminatoriasSudamericanas",
-    "rank": 15,
-    "tweet_count": "12.3K Tweets"
+    "name": "#ClasificatoriasQatar2022",
+    "query": "#ClasificatoriasQatar2022",
+    "rank": 14,
+    "tweet_count": null
   },
   {
     "name": "rappi",
     "query": "rappi",
+    "rank": 15,
+    "tweet_count": "2,777 Tweets"
+  },
+  {
+    "name": "#EliminatoriasSudamericanas",
+    "query": "#EliminatoriasSudamericanas",
     "rank": 16,
-    "tweet_count": "2,770 Tweets"
+    "tweet_count": "12.3K Tweets"
   }
 ]
