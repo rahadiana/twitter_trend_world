@@ -1,122 +1,116 @@
 [
   {
-    "name": "Dodgers",
-    "query": "Dodgers",
+    "name": "#IPLFinal",
+    "query": "#IPLFinal",
     "rank": 1,
-    "tweet_count": "336K Tweets"
+    "tweet_count": "258K Tweets"
   },
   {
     "name": "OUT NOW",
     "query": "\"OUT NOW\"",
     "rank": 2,
-    "tweet_count": "562K Tweets"
+    "tweet_count": "567K Tweets"
   },
   {
     "name": "The Last Duel",
     "query": "\"The Last Duel\"",
     "rank": 3,
-    "tweet_count": "5,058 Tweets"
+    "tweet_count": "5,152 Tweets"
   },
   {
     "name": "Dom Kennedy",
     "query": "\"Dom Kennedy\"",
     "rank": 4,
-    "tweet_count": "3,038 Tweets"
-  },
-  {
-    "name": "#NBATopShot",
-    "query": "#NBATopShot",
-    "rank": 5,
-    "tweet_count": "1,557 Tweets"
+    "tweet_count": "3,073 Tweets"
   },
   {
     "name": "#LatinxHeritageMonth",
     "query": "#LatinxHeritageMonth",
+    "rank": 5,
+    "tweet_count": "1,360 Tweets"
+  },
+  {
+    "name": "Brewster",
+    "query": "Brewster",
     "rank": 6,
-    "tweet_count": "1,336 Tweets"
+    "tweet_count": "34K Tweets"
   },
   {
     "name": "#IASolidarity",
     "query": "#IASolidarity",
     "rank": 7,
-    "tweet_count": "5,022 Tweets"
+    "tweet_count": "5,099 Tweets"
   },
   {
     "name": "IATSE",
     "query": "IATSE",
     "rank": 8,
-    "tweet_count": "16.1K Tweets"
-  },
-  {
-    "name": "Brewster",
-    "query": "Brewster",
-    "rank": 9,
-    "tweet_count": "33.6K Tweets"
+    "tweet_count": "16.6K Tweets"
   },
   {
     "name": "Zack Fox",
     "query": "\"Zack Fox\"",
-    "rank": 10,
-    "tweet_count": "2,582 Tweets"
+    "rank": 9,
+    "tweet_count": "2,615 Tweets"
   },
   {
     "name": "#mrbeastgame",
     "query": "#mrbeastgame",
-    "rank": 11,
-    "tweet_count": "3,245 Tweets"
+    "rank": 10,
+    "tweet_count": "3,570 Tweets"
   },
   {
     "name": "#FreeCodeFridayContest",
     "query": "#FreeCodeFridayContest",
-    "rank": 12,
-    "tweet_count": "5,838 Tweets"
+    "rank": 11,
+    "tweet_count": "6,090 Tweets"
   },
   {
-    "name": "Animal Crossing",
-    "query": "\"Animal Crossing\"",
+    "name": "Nintendo",
+    "query": "Nintendo",
+    "rank": 12,
+    "tweet_count": "246K Tweets"
+  },
+  {
+    "name": "Nintendo",
+    "query": "Nintendo",
     "rank": 13,
-    "tweet_count": "180K Tweets"
+    "tweet_count": "246K Tweets"
   },
   {
     "name": "Michael Caine",
     "query": "\"Michael Caine\"",
     "rank": 14,
-    "tweet_count": "6,194 Tweets"
+    "tweet_count": "7,188 Tweets"
   },
   {
-    "name": "Katey Sagal",
-    "query": "\"Katey Sagal\"",
+    "name": "Hooters",
+    "query": "Hooters",
     "rank": 15,
-    "tweet_count": "2,174 Tweets"
+    "tweet_count": "3,113 Tweets"
   },
   {
-    "name": "Fat Trel",
-    "query": "\"Fat Trel\"",
+    "name": "Pete Buttigieg",
+    "query": "\"Pete Buttigieg\"",
     "rank": 16,
-    "tweet_count": "1,454 Tweets"
+    "tweet_count": "34K Tweets"
   },
   {
     "name": "PJ Fleck",
     "query": "\"PJ Fleck\"",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "1,073 Tweets"
   },
   {
-    "name": "Hooters",
-    "query": "Hooters",
+    "name": "Fat Trel",
+    "query": "\"Fat Trel\"",
     "rank": 18,
-    "tweet_count": "2,786 Tweets"
+    "tweet_count": "1,664 Tweets"
   },
   {
-    "name": "Pete Buttigieg",
-    "query": "\"Pete Buttigieg\"",
+    "name": "Katey Sagal",
+    "query": "\"Katey Sagal\"",
     "rank": 19,
-    "tweet_count": "33K Tweets"
-  },
-  {
-    "name": "Hannah Gadsby",
-    "query": "\"Hannah Gadsby\"",
-    "rank": 20,
-    "tweet_count": "6,476 Tweets"
+    "tweet_count": "2,387 Tweets"
   }
 ]
