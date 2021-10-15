@@ -1,43 +1,43 @@
 [
   {
-    "name": "#FPLSverige",
-    "query": "#FPLSverige",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Holland",
     "query": "Holland",
-    "rank": 2,
-    "tweet_count": "33.2K Tweets"
+    "rank": 1,
+    "tweet_count": "33.4K Tweets"
   },
   {
     "name": "Norge",
     "query": "Norge",
-    "rank": 3,
-    "tweet_count": "3,743 Tweets"
+    "rank": 2,
+    "tweet_count": "3,812 Tweets"
   },
   {
     "name": "Styrman",
     "query": "Styrman",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Kongsberg",
     "query": "Kongsberg",
-    "rank": 5,
-    "tweet_count": "14.6K Tweets"
+    "rank": 4,
+    "tweet_count": "14.7K Tweets"
   },
   {
-    "name": "#muf21",
-    "query": "#muf21",
-    "rank": 6,
+    "name": "#FPLSverige",
+    "query": "#FPLSverige",
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Eslöv",
     "query": "Eslöv",
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "#muf21",
+    "query": "#muf21",
     "rank": 7,
     "tweet_count": null
   },
@@ -45,7 +45,7 @@
     "name": "Adele",
     "query": "Adele",
     "rank": 8,
-    "tweet_count": "721K Tweets"
+    "tweet_count": "734K Tweets"
   },
   {
     "name": "Skolverket",
@@ -60,45 +60,51 @@
     "tweet_count": null
   },
   {
-    "name": "myndigheten",
-    "query": "myndigheten",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
     "name": "Jakobsberg",
     "query": "Jakobsberg",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Förintelsen",
     "query": "Förintelsen",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Bulletin",
     "query": "Bulletin",
-    "rank": 14,
-    "tweet_count": "11K Tweets"
+    "rank": 13,
+    "tweet_count": "11.2K Tweets"
   },
   {
     "name": "#digitalidag2021",
     "query": "#digitalidag2021",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "godmorgon",
     "query": "godmorgon",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "scandinavium",
-    "query": "scandinavium",
+    "name": "#pebblebrain",
+    "query": "#pebblebrain",
+    "rank": 16,
+    "tweet_count": "58.5K Tweets"
+  },
+  {
+    "name": "Nordea",
+    "query": "Nordea",
     "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Jocke",
+    "query": "Jocke",
+    "rank": 18,
     "tweet_count": null
   }
 ]
