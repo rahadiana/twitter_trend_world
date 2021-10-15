@@ -3,35 +3,35 @@
     "name": "#Ampel",
     "query": "#Ampel",
     "rank": 1,
-    "tweet_count": "15.8K Tweets"
+    "tweet_count": "15.9K Tweets"
   },
   {
     "name": "#SchleFaZ",
     "query": "#SchleFaZ",
     "rank": 2,
-    "tweet_count": "4,549 Tweets"
-  },
-  {
-    "name": "#LiebesgruesseAusFernost",
-    "query": "#LiebesgruesseAusFernost",
-    "rank": 3,
-    "tweet_count": "2,155 Tweets"
+    "tweet_count": "4,561 Tweets"
   },
   {
     "name": "#Pimmelgate",
     "query": "#Pimmelgate",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "#LiebesgruesseAusFernost",
+    "query": "#LiebesgruesseAusFernost",
     "rank": 4,
+    "tweet_count": "2,163 Tweets"
+  },
+  {
+    "name": "Aufkleber",
+    "query": "Aufkleber",
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Päter",
     "query": "Päter",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Aufkleber",
-    "query": "Aufkleber",
     "rank": 6,
     "tweet_count": null
   },
@@ -39,11 +39,11 @@
     "name": "Andy",
     "query": "Andy",
     "rank": 7,
-    "tweet_count": "57.8K Tweets"
+    "tweet_count": "58.2K Tweets"
   },
   {
-    "name": "sanierungsfall",
-    "query": "sanierungsfall",
+    "name": "Sanierungsfall",
+    "query": "Sanierungsfall",
     "rank": 8,
     "tweet_count": null
   },
@@ -57,7 +57,7 @@
     "name": "Tempolimit",
     "query": "Tempolimit",
     "rank": 10,
-    "tweet_count": "7,161 Tweets"
+    "tweet_count": "7,174 Tweets"
   },
   {
     "name": "Freitagabend",
@@ -69,48 +69,48 @@
     "name": "Bürgergeld",
     "query": "Bürgergeld",
     "rank": 12,
-    "tweet_count": "2,825 Tweets"
+    "tweet_count": "2,842 Tweets"
   },
   {
     "name": "Nintendo",
     "query": "Nintendo",
     "rank": 13,
-    "tweet_count": "254K Tweets"
-  },
-  {
-    "name": "Animal Crossing",
-    "query": "\"Animal Crossing\"",
-    "rank": 14,
-    "tweet_count": "192K Tweets"
+    "tweet_count": "256K Tweets"
   },
   {
     "name": "Koalitionsvertrag",
     "query": "Koalitionsvertrag",
-    "rank": 15,
-    "tweet_count": "1,615 Tweets"
+    "rank": 14,
+    "tweet_count": "1,619 Tweets"
   },
   {
     "name": "Insel",
     "query": "Insel",
-    "rank": 16,
-    "tweet_count": "1,182 Tweets"
-  },
-  {
-    "name": "Lindner",
-    "query": "Lindner",
-    "rank": 17,
-    "tweet_count": "10.1K Tweets"
+    "rank": 15,
+    "tweet_count": "1,183 Tweets"
   },
   {
     "name": "Bürgerversicherung",
     "query": "Bürgerversicherung",
-    "rank": 18,
-    "tweet_count": "1,501 Tweets"
+    "rank": 16,
+    "tweet_count": "1,507 Tweets"
   },
   {
     "name": "Hannover",
     "query": "Hannover",
+    "rank": 17,
+    "tweet_count": "2,965 Tweets"
+  },
+  {
+    "name": "Kohleausstieg",
+    "query": "Kohleausstieg",
+    "rank": 18,
+    "tweet_count": "2,289 Tweets"
+  },
+  {
+    "name": "Sanktionen",
+    "query": "Sanktionen",
     "rank": 19,
-    "tweet_count": "2,961 Tweets"
+    "tweet_count": "1,528 Tweets"
   }
 ]
