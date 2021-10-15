@@ -1,9 +1,9 @@
 [
   {
-    "name": "Adele",
-    "query": "Adele",
+    "name": "#EasyOnMe",
+    "query": "#EasyOnMe",
     "rank": 1,
-    "tweet_count": "580K Tweets"
+    "tweet_count": "193K Tweets"
   },
   {
     "name": "#OdebrechtRD",
@@ -15,25 +15,25 @@
     "name": "Rondón",
     "query": "Rondón",
     "rank": 3,
-    "tweet_count": "4,869 Tweets"
+    "tweet_count": "4,906 Tweets"
   },
   {
-    "name": "Dodgers",
-    "query": "Dodgers",
+    "name": "#Dodgers",
+    "query": "#Dodgers",
     "rank": 4,
-    "tweet_count": "108K Tweets"
+    "tweet_count": "25.4K Tweets"
   },
   {
     "name": "Víctor Díaz Rúa",
     "query": "\"Víctor Díaz Rúa\"",
     "rank": 5,
-    "tweet_count": "1,245 Tweets"
+    "tweet_count": "1,248 Tweets"
   },
   {
     "name": "Andrés Bautista",
     "query": "\"Andrés Bautista\"",
     "rank": 6,
-    "tweet_count": "1,143 Tweets"
+    "tweet_count": "1,144 Tweets"
   },
   {
     "name": "#Odebretch",
@@ -42,33 +42,33 @@
     "tweet_count": null
   },
   {
-    "name": "#DictaduraSanitariaRD",
-    "query": "#DictaduraSanitariaRD",
-    "rank": 8,
-    "tweet_count": "3,156 Tweets"
-  },
-  {
     "name": "Jean Alain",
     "query": "\"Jean Alain\"",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Tommy Galán",
     "query": "\"Tommy Galán\"",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
+  },
+  {
+    "name": "#DictaduraSanitariaRD",
+    "query": "#DictaduraSanitariaRD",
+    "rank": 10,
+    "tweet_count": "3,188 Tweets"
   },
   {
     "name": "Ministerio Público",
     "query": "\"Ministerio Público\"",
     "rank": 11,
-    "tweet_count": "15.6K Tweets"
+    "tweet_count": "15.7K Tweets"
   },
   {
     "name": "Rogelio Genao",
     "query": "\"Rogelio Genao\"",
     "rank": 12,
-    "tweet_count": "1,014 Tweets"
+    "tweet_count": "1,022 Tweets"
   }
 ]
