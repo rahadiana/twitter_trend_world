@@ -12,34 +12,34 @@
     "tweet_count": null
   },
   {
-    "name": "Adele",
-    "query": "Adele",
-    "rank": 3,
-    "tweet_count": "655K Tweets"
-  },
-  {
     "name": "Kongsberg",
     "query": "Kongsberg",
-    "rank": 4,
-    "tweet_count": "18.4K Tweets"
+    "rank": 3,
+    "tweet_count": "18.5K Tweets"
   },
   {
     "name": "Norge",
     "query": "Norge",
-    "rank": 5,
-    "tweet_count": "3,852 Tweets"
+    "rank": 4,
+    "tweet_count": "3,957 Tweets"
   },
   {
-    "name": "Styrman",
-    "query": "Styrman",
-    "rank": 6,
-    "tweet_count": null
+    "name": "Adele",
+    "query": "Adele",
+    "rank": 5,
+    "tweet_count": "668K Tweets"
   },
   {
     "name": "Holland",
     "query": "Holland",
+    "rank": 6,
+    "tweet_count": "32.5K Tweets"
+  },
+  {
+    "name": "Styrman",
+    "query": "Styrman",
     "rank": 7,
-    "tweet_count": "32.2K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Brynäs",
@@ -51,13 +51,13 @@
     "name": "Förintelsen",
     "query": "Förintelsen",
     "rank": 9,
-    "tweet_count": "1,021 Tweets"
+    "tweet_count": "1,035 Tweets"
   },
   {
     "name": "Bulletin",
     "query": "Bulletin",
     "rank": 10,
-    "tweet_count": "11.1K Tweets"
+    "tweet_count": "11.3K Tweets"
   },
   {
     "name": "Skolverket",
@@ -75,7 +75,7 @@
     "name": "Erick",
     "query": "Erick",
     "rank": 13,
-    "tweet_count": "23.3K Tweets"
+    "tweet_count": "23.5K Tweets"
   },
   {
     "name": "Jocke",
@@ -87,35 +87,35 @@
     "name": "#pebblebrain",
     "query": "#pebblebrain",
     "rank": 15,
-    "tweet_count": "65.1K Tweets"
+    "tweet_count": "65.5K Tweets"
+  },
+  {
+    "name": "#EasyOnMe",
+    "query": "#EasyOnMe",
+    "rank": 16,
+    "tweet_count": "218K Tweets"
   },
   {
     "name": "espen andersen bråthen",
     "query": "\"espen andersen bråthen\"",
-    "rank": 16,
-    "tweet_count": "1,027 Tweets"
+    "rank": 17,
+    "tweet_count": "1,036 Tweets"
   },
   {
     "name": "LKAB",
     "query": "LKAB",
-    "rank": 17,
-    "tweet_count": "1,012 Tweets"
+    "rank": 18,
+    "tweet_count": "1,028 Tweets"
   },
   {
     "name": "Scandinavium",
     "query": "Scandinavium",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "#kfgbg",
     "query": "#kfgbg",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Barry Smith",
-    "query": "\"Barry Smith\"",
     "rank": 20,
     "tweet_count": null
   }
