@@ -1,27 +1,27 @@
 [
   {
-    "name": "#PeriodicalMovies",
-    "query": "#PeriodicalMovies",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "David Amess",
     "query": "\"David Amess\"",
-    "rank": 2,
-    "tweet_count": "64K Tweets"
+    "rank": 1,
+    "tweet_count": "76.2K Tweets"
   },
   {
     "name": "Adele",
     "query": "Adele",
+    "rank": 2,
+    "tweet_count": "862K Tweets"
+  },
+  {
+    "name": "#PeriodicalMovies",
+    "query": "#PeriodicalMovies",
     "rank": 3,
-    "tweet_count": "850K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#EasyOnMe",
     "query": "#EasyOnMe",
     "rank": 4,
-    "tweet_count": "257K Tweets"
+    "tweet_count": "259K Tweets"
   },
   {
     "name": "#ISCPConf21",
@@ -33,7 +33,7 @@
     "name": "Animal Crossing",
     "query": "\"Animal Crossing\"",
     "rank": 6,
-    "tweet_count": "67.5K Tweets"
+    "tweet_count": "80.5K Tweets"
   },
   {
     "name": "#liveline",
@@ -42,28 +42,28 @@
     "tweet_count": null
   },
   {
-    "name": "Covid",
-    "query": "Covid",
-    "rank": 8,
-    "tweet_count": "1.16M Tweets"
-  },
-  {
     "name": "#FridayFeeling",
     "query": "#FridayFeeling",
-    "rank": 9,
-    "tweet_count": "16.4K Tweets"
+    "rank": 8,
+    "tweet_count": "17.1K Tweets"
   },
   {
-    "name": "nphet",
-    "query": "nphet",
+    "name": "Covid",
+    "query": "Covid",
+    "rank": 9,
+    "tweet_count": "1.18M Tweets"
+  },
+  {
+    "name": "NPHET",
+    "query": "NPHET",
     "rank": 10,
-    "tweet_count": "1,667 Tweets"
+    "tweet_count": "1,703 Tweets"
   },
   {
     "name": "Dara",
     "query": "Dara",
     "rank": 11,
-    "tweet_count": "25.1K Tweets"
+    "tweet_count": "25.7K Tweets"
   },
   {
     "name": "Scarlets",
@@ -72,51 +72,51 @@
     "tweet_count": null
   },
   {
-    "name": "Nintendo",
-    "query": "Nintendo",
-    "rank": 13,
-    "tweet_count": "148K Tweets"
-  },
-  {
     "name": "alan shatter",
     "query": "\"alan shatter\"",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
+  },
+  {
+    "name": "Nintendo",
+    "query": "Nintendo",
+    "rank": 14,
+    "tweet_count": "168K Tweets"
   },
   {
     "name": "Raphinha",
     "query": "Raphinha",
     "rank": 15,
-    "tweet_count": "98.4K Tweets"
-  },
-  {
-    "name": "Steve Bruce",
-    "query": "\"Steve Bruce\"",
-    "rank": 16,
-    "tweet_count": "5,145 Tweets"
+    "tweet_count": "99.2K Tweets"
   },
   {
     "name": "diarmaid ferriter",
     "query": "\"diarmaid ferriter\"",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "Niamh",
-    "query": "Niamh",
-    "rank": 18,
-    "tweet_count": "1,130 Tweets"
+    "name": "Steve Bruce",
+    "query": "\"Steve Bruce\"",
+    "rank": 17,
+    "tweet_count": "5,345 Tweets"
   },
   {
     "name": "Stonewall",
     "query": "Stonewall",
-    "rank": 19,
-    "tweet_count": "21.6K Tweets"
+    "rank": 18,
+    "tweet_count": "22K Tweets"
   },
   {
     "name": "HSE-run",
     "query": "HSE-run",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "Klopp",
+    "query": "Klopp",
+    "rank": 20,
+    "tweet_count": "11.4K Tweets"
   }
 ]
