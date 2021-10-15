@@ -1,39 +1,39 @@
 [
   {
-    "name": "#Beirut",
-    "query": "#Beirut",
+    "name": "שבת שלום",
+    "query": "\"שבת שלום\"",
     "rank": 1,
-    "tweet_count": "16.6K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Beirut",
+    "query": "Beirut",
+    "rank": 2,
+    "tweet_count": "51.1K Tweets"
   },
   {
     "name": "רם בן ברק",
     "query": "\"רם בן ברק\"",
-    "rank": 2,
-    "tweet_count": "1,560 Tweets"
-  },
-  {
-    "name": "Adele",
-    "query": "Adele",
     "rank": 3,
-    "tweet_count": "616K Tweets"
-  },
-  {
-    "name": "Hezbollah",
-    "query": "Hezbollah",
-    "rank": 4,
-    "tweet_count": "31.1K Tweets"
+    "tweet_count": "1,593 Tweets"
   },
   {
     "name": "בוקר טוב",
     "query": "\"בוקר טוב\"",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "Adele",
+    "query": "Adele",
+    "rank": 5,
+    "tweet_count": "628K Tweets"
   },
   {
     "name": "#Lebanon",
     "query": "#Lebanon",
     "rank": 6,
-    "tweet_count": "19.4K Tweets"
+    "tweet_count": "19.5K Tweets"
   },
   {
     "name": "סגן ראש המוסד",
@@ -45,7 +45,7 @@
     "name": "Zionism",
     "query": "Zionism",
     "rank": 8,
-    "tweet_count": "1,975 Tweets"
+    "tweet_count": "1,982 Tweets"
   },
   {
     "name": "איש קטן",
@@ -57,13 +57,13 @@
     "name": "#Syria",
     "query": "#Syria",
     "rank": 10,
-    "tweet_count": "3,452 Tweets"
+    "tweet_count": "3,474 Tweets"
   },
   {
     "name": "#لبنان",
     "query": "#لبنان",
     "rank": 11,
-    "tweet_count": "70.1K Tweets"
+    "tweet_count": "70.4K Tweets"
   },
   {
     "name": "Lebanese",
@@ -81,7 +81,7 @@
     "name": "محمد",
     "query": "محمد",
     "rank": 14,
-    "tweet_count": "416K Tweets"
+    "tweet_count": "420K Tweets"
   },
   {
     "name": "שיש לו",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
-    "name": "פח אשפה",
-    "query": "\"פח אשפה\"",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
     "name": "ראש ממשלה",
     "query": "\"ראש ממשלה\"",
+    "rank": 16,
+    "tweet_count": "1,140 Tweets"
+  },
+  {
+    "name": "פח אשפה",
+    "query": "\"פח אשפה\"",
     "rank": 17,
-    "tweet_count": "1,109 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Sally Rooney",
     "query": "\"Sally Rooney\"",
     "rank": 18,
-    "tweet_count": "6,268 Tweets"
+    "tweet_count": "6,282 Tweets"
+  },
+  {
+    "name": "Holocaust",
+    "query": "Holocaust",
+    "rank": 19,
+    "tweet_count": "114K Tweets"
   },
   {
     "name": "#NFTdrops",
     "query": "#NFTdrops",
-    "rank": 19,
-    "tweet_count": "42.5K Tweets"
-  },
-  {
-    "name": "Hebrew",
-    "query": "Hebrew",
     "rank": 20,
-    "tweet_count": "3,322 Tweets"
+    "tweet_count": "43K Tweets"
   }
 ]
