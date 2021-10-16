@@ -1,7 +1,7 @@
 [
   {
-    "name": "#rigaconf2021",
-    "query": "#rigaconf2021",
+    "name": "#RigaConf2021",
+    "query": "#RigaConf2021",
     "rank": 1,
     "tweet_count": null
   },
@@ -9,7 +9,7 @@
     "name": "Russia",
     "query": "Russia",
     "rank": 2,
-    "tweet_count": "51.8K Tweets"
+    "tweet_count": "52.1K Tweets"
   },
   {
     "name": "polijas",
@@ -33,7 +33,7 @@
     "name": "Viņš",
     "query": "Viņš",
     "rank": 6,
-    "tweet_count": "1,693 Tweets"
+    "tweet_count": "1,704 Tweets"
   },
   {
     "name": "ziemassvētku",
@@ -42,28 +42,28 @@
     "tweet_count": null
   },
   {
-    "name": "saeimas",
-    "query": "saeimas",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "rietumu",
     "query": "rietumu",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "tramps",
     "query": "tramps",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "šitā",
     "query": "šitā",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": "11.7K Tweets"
+  },
+  {
+    "name": "Saeimas",
+    "query": "Saeimas",
+    "rank": 11,
+    "tweet_count": null
   },
   {
     "name": "NMPD",
@@ -75,47 +75,47 @@
     "name": "tāda",
     "query": "tāda",
     "rank": 13,
-    "tweet_count": "5,412 Tweets"
-  },
-  {
-    "name": "Mamikins",
-    "query": "Mamikins",
-    "rank": 14,
-    "tweet_count": null
+    "tweet_count": "5,434 Tweets"
   },
   {
     "name": "Esmu",
     "query": "Esmu",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Mamikins",
+    "query": "Mamikins",
     "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "prieks",
+    "query": "prieks",
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Šķiet",
     "query": "Šķiet",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Prieks",
-    "query": "Prieks",
     "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "cēsu",
-    "query": "cēsu",
-    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Šeit",
     "query": "Šeit",
-    "rank": 19,
-    "tweet_count": "20.4K Tweets"
+    "rank": 18,
+    "tweet_count": "20.5K Tweets"
   },
   {
-    "name": "skatoties",
-    "query": "skatoties",
+    "name": "Skatoties",
+    "query": "Skatoties",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "cēsu",
+    "query": "cēsu",
     "rank": 20,
     "tweet_count": null
   }
