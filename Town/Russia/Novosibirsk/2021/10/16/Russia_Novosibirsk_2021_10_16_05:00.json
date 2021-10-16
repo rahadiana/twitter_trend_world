@@ -1,9 +1,9 @@
 [
   {
-    "name": "#Oracle",
-    "query": "#Oracle",
+    "name": "всероссийская",
+    "query": "всероссийская",
     "rank": 1,
-    "tweet_count": "1,098 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#голос10",
@@ -12,20 +12,20 @@
     "tweet_count": null
   },
   {
-    "name": "всероссийская",
-    "query": "всероссийская",
+    "name": "#oracle",
+    "query": "#oracle",
     "rank": 3,
+    "tweet_count": "1,099 Tweets"
+  },
+  {
+    "name": "Владикавказе",
+    "query": "Владикавказе",
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "#Сводка_ЧС",
     "query": "#Сводка_ЧС",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "Владикавказе",
-    "query": "Владикавказе",
     "rank": 5,
     "tweet_count": null
   },
@@ -42,16 +42,16 @@
     "tweet_count": null
   },
   {
-    "name": "Главного",
-    "query": "Главного",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "Team Spirit",
     "query": "\"Team Spirit\"",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": "26.1K Tweets"
+  },
+  {
+    "name": "Адель",
+    "query": "Адель",
+    "rank": 9,
+    "tweet_count": null
   },
   {
     "name": "у чонгука доберман",
@@ -60,26 +60,26 @@
     "tweet_count": null
   },
   {
-    "name": "Michelin",
-    "query": "Michelin",
+    "name": "японском",
+    "query": "японском",
     "rank": 11,
-    "tweet_count": "2,859 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Адель",
-    "query": "Адель",
+    "name": "Republic",
+    "query": "Republic",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "48.2K Tweets"
+  },
+  {
+    "name": "Michelin",
+    "query": "Michelin",
+    "rank": 13,
+    "tweet_count": "2,867 Tweets"
   },
   {
     "name": "мишлен",
     "query": "мишлен",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Японском",
-    "query": "Японском",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,29 +87,29 @@
     "name": "Росбалт",
     "query": "Росбалт",
     "rank": 15,
-    "tweet_count": "1,255 Tweets"
-  },
-  {
-    "name": "Republic",
-    "query": "Republic",
-    "rank": 16,
-    "tweet_count": "48K Tweets"
+    "tweet_count": "1,258 Tweets"
   },
   {
     "name": "Animal Crossing",
     "query": "\"Animal Crossing\"",
+    "rank": 16,
+    "tweet_count": "231K Tweets"
+  },
+  {
+    "name": "WE LOVE YOU KİM TAEHYUNG",
+    "query": "\"WE LOVE YOU KİM TAEHYUNG\"",
     "rank": 17,
-    "tweet_count": "230K Tweets"
+    "tweet_count": "7,406 Tweets"
   },
   {
-    "name": "ВМС США",
-    "query": "\"ВМС США\"",
+    "name": "Chafee",
+    "query": "Chafee",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "1,428 Tweets"
   },
   {
-    "name": "Английский",
-    "query": "Английский",
+    "name": "английский",
+    "query": "английский",
     "rank": 19,
     "tweet_count": null
   }
