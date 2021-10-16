@@ -1,33 +1,33 @@
 [
   {
-    "name": "Ziemiec",
-    "query": "Ziemiec",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Matczak",
     "query": "Matczak",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "#KORWID",
     "query": "#KORWID",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "Ziemiec",
+    "query": "Ziemiec",
     "rank": 3,
     "tweet_count": null
   },
   {
-    "name": "#YouNetflix",
-    "query": "#YouNetflix",
-    "rank": 4,
-    "tweet_count": "52.1K Tweets"
-  },
-  {
     "name": "Miłego",
     "query": "Miłego",
+    "rank": 4,
+    "tweet_count": "9,100 Tweets"
+  },
+  {
+    "name": "#YouNetflix",
+    "query": "#YouNetflix",
     "rank": 5,
-    "tweet_count": "8,208 Tweets"
+    "tweet_count": "52.7K Tweets"
   },
   {
     "name": "Karol Wojtyła",
@@ -36,32 +36,32 @@
     "tweet_count": null
   },
   {
+    "name": "Ziemca",
+    "query": "Ziemca",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
     "name": "#Venom",
     "query": "#Venom",
-    "rank": 7,
-    "tweet_count": "11.1K Tweets"
+    "rank": 8,
+    "tweet_count": "11.2K Tweets"
+  },
+  {
+    "name": "#Kaczyński",
+    "query": "#Kaczyński",
+    "rank": 9,
+    "tweet_count": "1,126 Tweets"
   },
   {
     "name": "Piotr Semka",
     "query": "\"Piotr Semka\"",
-    "rank": 8,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "#JanPawełII",
     "query": "#JanPawełII",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Ziemca",
-    "query": "Ziemca",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "#Forum",
-    "query": "#Forum",
     "rank": 11,
     "tweet_count": null
   },
@@ -72,28 +72,28 @@
     "tweet_count": null
   },
   {
-    "name": "Cześć",
-    "query": "Cześć",
+    "name": "RMF FM",
+    "query": "\"RMF FM\"",
     "rank": 13,
-    "tweet_count": "3,375 Tweets"
-  },
-  {
-    "name": "Papieża",
-    "query": "Papieża",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "JPII",
-    "query": "JPII",
-    "rank": 15,
-    "tweet_count": null
+    "tweet_count": "1,437 Tweets"
   },
   {
     "name": "Davida Amessa",
     "query": "\"Davida Amessa\"",
-    "rank": 16,
+    "rank": 14,
     "tweet_count": null
+  },
+  {
+    "name": "Papieża",
+    "query": "Papieża",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Cześć",
+    "query": "Cześć",
+    "rank": 16,
+    "tweet_count": "3,465 Tweets"
   },
   {
     "name": "Chałka",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "Merkel",
-    "query": "Merkel",
+    "name": "jolu",
+    "query": "jolu",
     "rank": 18,
-    "tweet_count": "13.6K Tweets"
-  },
-  {
-    "name": "Jachiry",
-    "query": "Jachiry",
-    "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "RMF FM",
-    "query": "\"RMF FM\"",
+    "name": "Korona",
+    "query": "Korona",
+    "rank": 19,
+    "tweet_count": "7,730 Tweets"
+  },
+  {
+    "name": "Jachira",
+    "query": "Jachira",
     "rank": 20,
-    "tweet_count": "1,272 Tweets"
+    "tweet_count": null
   }
 ]
