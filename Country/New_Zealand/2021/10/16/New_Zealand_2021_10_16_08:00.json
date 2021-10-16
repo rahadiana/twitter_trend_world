@@ -3,35 +3,35 @@
     "name": "#SuperSaturday",
     "query": "#SuperSaturday",
     "rank": 1,
-    "tweet_count": "7,347 Tweets"
+    "tweet_count": "7,386 Tweets"
+  },
+  {
+    "name": "#SuperSaturday",
+    "query": "#SuperSaturday",
+    "rank": 2,
+    "tweet_count": "7,386 Tweets"
   },
   {
     "name": "Aotearoa",
     "query": "Aotearoa",
-    "rank": 2,
-    "tweet_count": "3,747 Tweets"
+    "rank": 3,
+    "tweet_count": "3,775 Tweets"
   },
   {
     "name": "#CANvBAY",
     "query": "#CANvBAY",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Canterbury",
     "query": "Canterbury",
-    "rank": 4,
-    "tweet_count": "1,755 Tweets"
-  },
-  {
-    "name": "Tairāwhiti",
-    "query": "Tairāwhiti",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "1,765 Tweets"
   },
   {
-    "name": "#SuperShotSaturday",
-    "query": "#SuperShotSaturday",
+    "name": "tairāwhiti",
+    "query": "tairāwhiti",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,28 +42,28 @@
     "tweet_count": null
   },
   {
+    "name": "#SuperShotSaturday",
+    "query": "#SuperShotSaturday",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
     "name": "Counties Manukau",
     "query": "\"Counties Manukau\"",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Brian Tamaki",
     "query": "\"Brian Tamaki\"",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Moana",
     "query": "Moana",
-    "rank": 10,
-    "tweet_count": "4,129 Tweets"
-  },
-  {
-    "name": "#GetVaxxed",
-    "query": "#GetVaxxed",
     "rank": 11,
-    "tweet_count": null
+    "tweet_count": "4,145 Tweets"
   },
   {
     "name": "Dr Bloomfield",
@@ -72,14 +72,14 @@
     "tweet_count": null
   },
   {
-    "name": "Taranaki",
-    "query": "Taranaki",
+    "name": "Paddy Gower",
+    "query": "\"Paddy Gower\"",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "Paddy Gower",
-    "query": "\"Paddy Gower\"",
+    "name": "Taranaki",
+    "query": "Taranaki",
     "rank": 14,
     "tweet_count": null
   },
@@ -105,7 +105,7 @@
     "name": "Adele",
     "query": "Adele",
     "rank": 18,
-    "tweet_count": "493K Tweets"
+    "tweet_count": "494K Tweets"
   },
   {
     "name": "Hawkes Bay",
@@ -117,6 +117,6 @@
     "name": "Robbie",
     "query": "Robbie",
     "rank": 20,
-    "tweet_count": "8,869 Tweets"
+    "tweet_count": "8,902 Tweets"
   }
 ]

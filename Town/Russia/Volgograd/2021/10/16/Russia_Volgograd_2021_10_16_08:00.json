@@ -18,22 +18,22 @@
     "tweet_count": null
   },
   {
-    "name": "#голос10",
-    "query": "#голос10",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
     "name": "#oracle",
     "query": "#oracle",
-    "rank": 5,
-    "tweet_count": "1,057 Tweets"
+    "rank": 4,
+    "tweet_count": "1,060 Tweets"
   },
   {
     "name": "Jake",
     "query": "Jake",
+    "rank": 5,
+    "tweet_count": "333K Tweets"
+  },
+  {
+    "name": "#Голос10",
+    "query": "#Голос10",
     "rank": 6,
-    "tweet_count": "332K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Flux",
@@ -45,7 +45,7 @@
     "name": "Republic",
     "query": "Republic",
     "rank": 8,
-    "tweet_count": "47.5K Tweets"
+    "tweet_count": "47.7K Tweets"
   },
   {
     "name": "#нюдсочетверг",
@@ -57,7 +57,7 @@
     "name": "Росбалт",
     "query": "Росбалт",
     "rank": 10,
-    "tweet_count": "1,469 Tweets"
+    "tweet_count": "1,473 Tweets"
   },
   {
     "name": "Японском",
@@ -75,19 +75,19 @@
     "name": "Michelin",
     "query": "Michelin",
     "rank": 13,
-    "tweet_count": "2,980 Tweets"
-  },
-  {
-    "name": "Team Spirit",
-    "query": "\"Team Spirit\"",
-    "rank": 14,
-    "tweet_count": "24.8K Tweets"
+    "tweet_count": "3,011 Tweets"
   },
   {
     "name": "Перепись",
     "query": "Перепись",
+    "rank": 14,
+    "tweet_count": "2,627 Tweets"
+  },
+  {
+    "name": "Team Spirit",
+    "query": "\"Team Spirit\"",
     "rank": 15,
-    "tweet_count": "2,611 Tweets"
+    "tweet_count": "24.8K Tweets"
   },
   {
     "name": "Всероссийская",
@@ -111,11 +111,11 @@
     "name": "Chafee",
     "query": "Chafee",
     "rank": 19,
-    "tweet_count": "1,592 Tweets"
+    "tweet_count": "1,601 Tweets"
   },
   {
-    "name": "Бухло",
-    "query": "Бухло",
+    "name": "бухло",
+    "query": "бухло",
     "rank": 20,
     "tweet_count": null
   }
