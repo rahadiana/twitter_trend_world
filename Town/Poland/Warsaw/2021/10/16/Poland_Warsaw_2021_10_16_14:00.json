@@ -1,37 +1,37 @@
 [
   {
-    "name": "Kaczyński",
-    "query": "Kaczyński",
+    "name": "#LEIMUN",
+    "query": "#LEIMUN",
     "rank": 1,
-    "tweet_count": "12.5K Tweets"
-  },
-  {
-    "name": "#WATLIV",
-    "query": "#WATLIV",
-    "rank": 2,
-    "tweet_count": "64.7K Tweets"
+    "tweet_count": "30.7K Tweets"
   },
   {
     "name": "#BBTLGD",
     "query": "#BBTLGD",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "Kaczyński",
+    "query": "Kaczyński",
+    "rank": 3,
+    "tweet_count": "13K Tweets"
+  },
+  {
+    "name": "#WATLIV",
+    "query": "#WATLIV",
+    "rank": 4,
+    "tweet_count": "67.1K Tweets"
   },
   {
     "name": "Jarek",
     "query": "Jarek",
-    "rank": 4,
-    "tweet_count": "1,110 Tweets"
+    "rank": 5,
+    "tweet_count": "1,158 Tweets"
   },
   {
     "name": "Salaha",
     "query": "Salaha",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Matczak",
-    "query": "Matczak",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,44 +42,44 @@
     "tweet_count": null
   },
   {
+    "name": "Matczak",
+    "query": "Matczak",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
     "name": "Prezes",
     "query": "Prezes",
-    "rank": 8,
-    "tweet_count": "4,904 Tweets"
+    "rank": 9,
+    "tweet_count": "5,066 Tweets"
   },
   {
     "name": "Queen",
     "query": "Queen",
-    "rank": 9,
-    "tweet_count": "251K Tweets"
-  },
-  {
-    "name": "Premier League",
-    "query": "\"Premier League\"",
     "rank": 10,
-    "tweet_count": "63.3K Tweets"
+    "tweet_count": "256K Tweets"
   },
   {
     "name": "Mata",
     "query": "Mata",
     "rank": 11,
-    "tweet_count": "84.4K Tweets"
+    "tweet_count": "86.2K Tweets"
+  },
+  {
+    "name": "Premier League",
+    "query": "\"Premier League\"",
+    "rank": 12,
+    "tweet_count": "66.4K Tweets"
   },
   {
     "name": "Karol Wojtyła",
     "query": "\"Karol Wojtyła\"",
-    "rank": 12,
-    "tweet_count": "1,392 Tweets"
+    "rank": 13,
+    "tweet_count": "1,453 Tweets"
   },
   {
     "name": "#jakgractoznajlepszymi",
     "query": "#jakgractoznajlepszymi",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Jarka",
-    "query": "Jarka",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,30 +87,36 @@
     "name": "Maty",
     "query": "Maty",
     "rank": 15,
-    "tweet_count": "2,015 Tweets"
+    "tweet_count": "2,038 Tweets"
   },
   {
-    "name": "Jan Paweł II",
-    "query": "\"Jan Paweł II\"",
+    "name": "Jarka",
+    "query": "Jarka",
     "rank": 16,
     "tweet_count": null
   },
   {
+    "name": "Jan Paweł II",
+    "query": "\"Jan Paweł II\"",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Historia",
+    "query": "Historia",
+    "rank": 18,
+    "tweet_count": "272K Tweets"
+  },
+  {
     "name": "Ziemca",
     "query": "Ziemca",
-    "rank": 17,
-    "tweet_count": "1,034 Tweets"
+    "rank": 19,
+    "tweet_count": "1,053 Tweets"
   },
   {
     "name": "Jana Pawła II",
     "query": "\"Jana Pawła II\"",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Ziemiec",
-    "query": "Ziemiec",
-    "rank": 19,
+    "rank": 20,
     "tweet_count": null
   }
 ]
