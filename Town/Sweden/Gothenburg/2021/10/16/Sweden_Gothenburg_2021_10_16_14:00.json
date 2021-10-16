@@ -1,51 +1,51 @@
 [
   {
+    "name": "Maguire",
+    "query": "Maguire",
+    "rank": 1,
+    "tweet_count": "43K Tweets"
+  },
+  {
     "name": "#WATLIV",
     "query": "#WATLIV",
-    "rank": 1,
-    "tweet_count": "68K Tweets"
+    "rank": 2,
+    "tweet_count": "69.1K Tweets"
   },
   {
     "name": "#LEIMUN",
     "query": "#LEIMUN",
-    "rank": 2,
-    "tweet_count": "34.9K Tweets"
-  },
-  {
-    "name": "Maguire",
-    "query": "Maguire",
     "rank": 3,
-    "tweet_count": "17.1K Tweets"
+    "tweet_count": "41.1K Tweets"
   },
   {
-    "name": "Östersund",
-    "query": "Östersund",
+    "name": "östersund",
+    "query": "östersund",
     "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "kronwall",
-    "query": "kronwall",
+    "name": "Kronwall",
+    "query": "Kronwall",
     "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "#fbkse",
+    "query": "#fbkse",
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "#mpkongress",
     "query": "#mpkongress",
-    "rank": 6,
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Colak",
     "query": "Colak",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
-    "name": "Gais",
-    "query": "Gais",
     "rank": 8,
-    "tweet_count": "9,399 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Tranemo",
@@ -57,7 +57,7 @@
     "name": "Holland",
     "query": "Holland",
     "rank": 10,
-    "tweet_count": "13.6K Tweets"
+    "tweet_count": "13.8K Tweets"
   },
   {
     "name": "Wikegård",
@@ -72,27 +72,39 @@
     "tweet_count": null
   },
   {
-    "name": "imdb",
-    "query": "imdb",
+    "name": "IMDb",
+    "query": "IMDb",
     "rank": 13,
-    "tweet_count": "11.1K Tweets"
+    "tweet_count": "11.3K Tweets"
   },
   {
     "name": "Pascalidou",
     "query": "Pascalidou",
     "rank": 14,
-    "tweet_count": "1,749 Tweets"
+    "tweet_count": "1,794 Tweets"
   },
   {
-    "name": "CMore",
-    "query": "CMore",
+    "name": "Cmore",
+    "query": "Cmore",
     "rank": 15,
-    "tweet_count": "1,473 Tweets"
+    "tweet_count": "1,502 Tweets"
   },
   {
     "name": "Styrman",
     "query": "Styrman",
     "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Gais",
+    "query": "Gais",
+    "rank": 17,
+    "tweet_count": "9,568 Tweets"
+  },
+  {
+    "name": "Agnes Wold",
+    "query": "\"Agnes Wold\"",
+    "rank": 18,
     "tweet_count": null
   }
 ]

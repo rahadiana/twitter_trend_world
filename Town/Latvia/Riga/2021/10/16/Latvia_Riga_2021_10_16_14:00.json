@@ -1,7 +1,7 @@
 [
   {
-    "name": "#rigaconf2021",
-    "query": "#rigaconf2021",
+    "name": "#RigaConf2021",
+    "query": "#RigaConf2021",
     "rank": 1,
     "tweet_count": null
   },
@@ -15,7 +15,7 @@
     "name": "Russia",
     "query": "Russia",
     "rank": 3,
-    "tweet_count": "53.1K Tweets"
+    "tweet_count": "53.7K Tweets"
   },
   {
     "name": "vugd",
@@ -30,8 +30,8 @@
     "tweet_count": null
   },
   {
-    "name": "valsts",
-    "query": "valsts",
+    "name": "Valsts",
+    "query": "Valsts",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,14 +42,14 @@
     "tweet_count": null
   },
   {
-    "name": "nmpd",
-    "query": "nmpd",
+    "name": "ziemassvētku",
+    "query": "ziemassvētku",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Ziemassvētku",
-    "query": "Ziemassvētku",
+    "name": "nmpd",
+    "query": "nmpd",
     "rank": 9,
     "tweet_count": null
   },
@@ -60,8 +60,8 @@
     "tweet_count": null
   },
   {
-    "name": "Saeimas",
-    "query": "Saeimas",
+    "name": "Krievijas",
+    "query": "Krievijas",
     "rank": 11,
     "tweet_count": null
   },
@@ -84,33 +84,27 @@
     "tweet_count": null
   },
   {
-    "name": "krievijas",
-    "query": "krievijas",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
     "name": "šitā",
     "query": "šitā",
+    "rank": 15,
+    "tweet_count": "13K Tweets"
+  },
+  {
+    "name": "Saeimas",
+    "query": "Saeimas",
     "rank": 16,
-    "tweet_count": "12.9K Tweets"
-  },
-  {
-    "name": "tāda",
-    "query": "tāda",
-    "rank": 17,
-    "tweet_count": "5,846 Tweets"
-  },
-  {
-    "name": "veselību",
-    "query": "veselību",
-    "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "tieši",
-    "query": "tieši",
-    "rank": 19,
+    "name": "Tāda",
+    "query": "Tāda",
+    "rank": 17,
+    "tweet_count": "5,932 Tweets"
+  },
+  {
+    "name": "Veselību",
+    "query": "Veselību",
+    "rank": 18,
     "tweet_count": null
   }
 ]
