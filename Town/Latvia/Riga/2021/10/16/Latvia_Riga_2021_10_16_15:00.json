@@ -9,7 +9,7 @@
     "name": "Russia",
     "query": "Russia",
     "rank": 2,
-    "tweet_count": "52.8K Tweets"
+    "tweet_count": "53.2K Tweets"
   },
   {
     "name": "polijas",
@@ -24,38 +24,38 @@
     "tweet_count": null
   },
   {
-    "name": "igaunijas",
-    "query": "igaunijas",
+    "name": "valsts",
+    "query": "valsts",
     "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Valsts",
-    "query": "Valsts",
-    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "mamikins",
     "query": "mamikins",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
-    "name": "ziemassvētku",
-    "query": "ziemassvētku",
-    "rank": 8,
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "nmpd",
     "query": "nmpd",
-    "rank": 9,
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "Ziemassvētku",
+    "query": "Ziemassvētku",
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "izturību",
     "query": "izturību",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "saeimas",
+    "query": "saeimas",
     "rank": 10,
     "tweet_count": null
   },
@@ -81,30 +81,36 @@
     "name": "šitā",
     "query": "šitā",
     "rank": 14,
-    "tweet_count": "12.6K Tweets"
-  },
-  {
-    "name": "saeimas",
-    "query": "saeimas",
-    "rank": 15,
-    "tweet_count": null
+    "tweet_count": "12.7K Tweets"
   },
   {
     "name": "krievijā",
     "query": "krievijā",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "Tāda",
-    "query": "Tāda",
-    "rank": 17,
-    "tweet_count": "5,845 Tweets"
+    "name": "tāda",
+    "query": "tāda",
+    "rank": 16,
+    "tweet_count": "5,874 Tweets"
   },
   {
-    "name": "Veselību",
-    "query": "Veselību",
+    "name": "veselību",
+    "query": "veselību",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "cilvēks",
+    "query": "cilvēks",
     "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "cēsu",
+    "query": "cēsu",
+    "rank": 19,
     "tweet_count": null
   }
 ]
