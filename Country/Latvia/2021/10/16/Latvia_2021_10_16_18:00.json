@@ -1,7 +1,7 @@
 [
   {
-    "name": "#RigaConf2021",
-    "query": "#RigaConf2021",
+    "name": "#rigaconf2021",
+    "query": "#rigaconf2021",
     "rank": 1,
     "tweet_count": null
   },
@@ -9,7 +9,7 @@
     "name": "Russia",
     "query": "Russia",
     "rank": 2,
-    "tweet_count": "50.2K Tweets"
+    "tweet_count": "51.2K Tweets"
   },
   {
     "name": "polijas",
@@ -18,8 +18,8 @@
     "tweet_count": null
   },
   {
-    "name": "galvenais",
-    "query": "galvenais",
+    "name": "Galvenais",
+    "query": "Galvenais",
     "rank": 4,
     "tweet_count": null
   },
@@ -33,19 +33,19 @@
     "name": "Covid",
     "query": "Covid",
     "rank": 6,
-    "tweet_count": "919K Tweets"
-  },
-  {
-    "name": "mamikins",
-    "query": "mamikins",
-    "rank": 7,
-    "tweet_count": null
+    "tweet_count": "937K Tweets"
   },
   {
     "name": "Labāk",
     "query": "Labāk",
-    "rank": 8,
+    "rank": 7,
     "tweet_count": null
+  },
+  {
+    "name": "Viņš",
+    "query": "Viņš",
+    "rank": 8,
+    "tweet_count": "1,678 Tweets"
   },
   {
     "name": "ziemassvētku",
@@ -54,8 +54,8 @@
     "tweet_count": null
   },
   {
-    "name": "Zinu",
-    "query": "Zinu",
+    "name": "saeimas",
+    "query": "saeimas",
     "rank": 10,
     "tweet_count": null
   },
@@ -75,17 +75,17 @@
     "name": "šitā",
     "query": "šitā",
     "rank": 13,
-    "tweet_count": "11.5K Tweets"
-  },
-  {
-    "name": "Saeimas",
-    "query": "Saeimas",
-    "rank": 14,
-    "tweet_count": null
+    "tweet_count": "11.7K Tweets"
   },
   {
     "name": "krievijā",
     "query": "krievijā",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "NMPD",
+    "query": "NMPD",
     "rank": 15,
     "tweet_count": null
   },
@@ -96,16 +96,16 @@
     "tweet_count": null
   },
   {
-    "name": "NMPD",
-    "query": "NMPD",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
     "name": "tāda",
     "query": "tāda",
+    "rank": 17,
+    "tweet_count": "5,396 Tweets"
+  },
+  {
+    "name": "Mamikins",
+    "query": "Mamikins",
     "rank": 18,
-    "tweet_count": "5,346 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Esmu",
@@ -114,8 +114,8 @@
     "tweet_count": null
   },
   {
-    "name": "Prieks",
-    "query": "Prieks",
+    "name": "Šķiet",
+    "query": "Šķiet",
     "rank": 20,
     "tweet_count": null
   }
