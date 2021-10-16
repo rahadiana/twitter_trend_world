@@ -6,52 +6,52 @@
     "tweet_count": null
   },
   {
-    "name": "#Oracle",
-    "query": "#Oracle",
-    "rank": 2,
-    "tweet_count": "1,111 Tweets"
-  },
-  {
     "name": "всероссийская",
     "query": "всероссийская",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "#Oracle",
+    "query": "#Oracle",
     "rank": 3,
+    "tweet_count": "1,118 Tweets"
+  },
+  {
+    "name": "#Сводка_ЧС",
+    "query": "#Сводка_ЧС",
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "МЧС России",
     "query": "\"МЧС России\"",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "Сводка ЧС",
-    "query": "\"Сводка ЧС\"",
     "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "#Flux",
-    "query": "#Flux",
-    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "Владикавказе",
     "query": "Владикавказе",
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "#Flux",
+    "query": "#Flux",
     "rank": 7,
     "tweet_count": null
   },
   {
-    "name": "#ØMIxSUGA",
-    "query": "#ØMIxSUGA",
+    "name": "#нюдсочетверг",
+    "query": "#нюдсочетверг",
     "rank": 8,
-    "tweet_count": "26.8K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Michelin",
-    "query": "Michelin",
+    "name": "Team Spirit",
+    "query": "\"Team Spirit\"",
     "rank": 9,
-    "tweet_count": "2,899 Tweets"
+    "tweet_count": "26.9K Tweets"
   },
   {
     "name": "Главного",
@@ -60,20 +60,20 @@
     "tweet_count": null
   },
   {
-    "name": "Team Spirit",
-    "query": "\"Team Spirit\"",
+    "name": "Michelin",
+    "query": "Michelin",
     "rank": 11,
-    "tweet_count": "26.7K Tweets"
+    "tweet_count": "2,933 Tweets"
   },
   {
-    "name": "ACE HEESEUNG DAY",
-    "query": "\"ACE HEESEUNG DAY\"",
+    "name": "Адель",
+    "query": "Адель",
     "rank": 12,
-    "tweet_count": "12K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "У ЧОНГУКА ДОБЕРМАН",
-    "query": "\"У ЧОНГУКА ДОБЕРМАН\"",
+    "name": "у чонгука доберман",
+    "query": "\"у чонгука доберман\"",
     "rank": 13,
     "tweet_count": null
   },
@@ -81,30 +81,36 @@
     "name": "росбалт",
     "query": "росбалт",
     "rank": 14,
-    "tweet_count": "1,190 Tweets"
+    "tweet_count": "1,216 Tweets"
   },
   {
-    "name": "Адель",
-    "query": "Адель",
+    "name": "ace heeseung day",
+    "query": "\"ace heeseung day\"",
     "rank": 15,
+    "tweet_count": "12.1K Tweets"
+  },
+  {
+    "name": "Republic",
+    "query": "Republic",
+    "rank": 16,
+    "tweet_count": "48.8K Tweets"
+  },
+  {
+    "name": "Японском",
+    "query": "Японском",
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "мишлен",
     "query": "мишлен",
-    "rank": 16,
+    "rank": 18,
     "tweet_count": null
-  },
-  {
-    "name": "Republic",
-    "query": "Republic",
-    "rank": 17,
-    "tweet_count": "47.9K Tweets"
   },
   {
     "name": "адмирал трибуц",
     "query": "\"адмирал трибуц\"",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   }
 ]
