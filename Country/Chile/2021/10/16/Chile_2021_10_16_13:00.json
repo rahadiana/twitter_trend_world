@@ -1,37 +1,37 @@
 [
   {
-    "name": "#Alerta",
-    "query": "#Alerta",
+    "name": "#cavadachvcnn",
+    "query": "#cavadachvcnn",
     "rank": 1,
-    "tweet_count": "3,779 Tweets"
+    "tweet_count": null
   },
   {
     "name": "José",
     "query": "José",
     "rank": 2,
-    "tweet_count": "199K Tweets"
+    "tweet_count": "202K Tweets"
+  },
+  {
+    "name": "#Alerta",
+    "query": "#Alerta",
+    "rank": 3,
+    "tweet_count": "4,087 Tweets"
   },
   {
     "name": "#DebateArchi",
     "query": "#DebateArchi",
-    "rank": 3,
-    "tweet_count": "67K Tweets"
-  },
-  {
-    "name": "#vamoschilectm",
-    "query": "#vamoschilectm",
     "rank": 4,
-    "tweet_count": null
+    "tweet_count": "67.5K Tweets"
   },
   {
     "name": "Gaybriel",
     "query": "Gaybriel",
     "rank": 5,
-    "tweet_count": "2,054 Tweets"
+    "tweet_count": "2,695 Tweets"
   },
   {
-    "name": "#cavadachvcnn",
-    "query": "#cavadachvcnn",
+    "name": "#vamoschilectm",
+    "query": "#vamoschilectm",
     "rank": 6,
     "tweet_count": null
   },
@@ -39,84 +39,84 @@
     "name": "#FelizSabado",
     "query": "#FelizSabado",
     "rank": 7,
-    "tweet_count": "8,692 Tweets"
+    "tweet_count": "9,643 Tweets"
   },
   {
     "name": "Daniela Vega",
     "query": "\"Daniela Vega\"",
     "rank": 8,
-    "tweet_count": "8,210 Tweets"
-  },
-  {
-    "name": "Pepe Kast",
-    "query": "\"Pepe Kast\"",
-    "rank": 9,
-    "tweet_count": "14.3K Tweets"
+    "tweet_count": "8,302 Tweets"
   },
   {
     "name": "Liverpool",
     "query": "Liverpool",
+    "rank": 9,
+    "tweet_count": "83.5K Tweets"
+  },
+  {
+    "name": "Pepe Kast",
+    "query": "\"Pepe Kast\"",
     "rank": 10,
-    "tweet_count": "72.6K Tweets"
+    "tweet_count": "14.5K Tweets"
+  },
+  {
+    "name": "Católica",
+    "query": "Católica",
+    "rank": 11,
+    "tweet_count": "10.7K Tweets"
   },
   {
     "name": "Diego Valdés",
     "query": "\"Diego Valdés\"",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Pepe Toño",
     "query": "\"Pepe Toño\"",
-    "rank": 12,
-    "tweet_count": "1,684 Tweets"
-  },
-  {
-    "name": "Falabella",
-    "query": "Falabella",
     "rank": 13,
-    "tweet_count": "5,063 Tweets"
+    "tweet_count": "1,704 Tweets"
   },
   {
-    "name": "Presidente del PC",
-    "query": "\"Presidente del PC\"",
+    "name": "Junaeb",
+    "query": "Junaeb",
     "rank": 14,
-    "tweet_count": "1,086 Tweets"
+    "tweet_count": "9,212 Tweets"
   },
   {
     "name": "Contraloría",
     "query": "Contraloría",
     "rank": 15,
-    "tweet_count": "27.2K Tweets"
-  },
-  {
-    "name": "Junaeb",
-    "query": "Junaeb",
-    "rank": 16,
-    "tweet_count": "8,979 Tweets"
+    "tweet_count": "27.9K Tweets"
   },
   {
     "name": "Sepu",
     "query": "Sepu",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Vamos Católica",
-    "query": "\"Vamos Católica\"",
-    "rank": 18,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Erick",
     "query": "Erick",
-    "rank": 19,
-    "tweet_count": "12.4K Tweets"
+    "rank": 17,
+    "tweet_count": "12.6K Tweets"
   },
   {
     "name": "Ñuble",
     "query": "Ñuble",
+    "rank": 18,
+    "tweet_count": "5,195 Tweets"
+  },
+  {
+    "name": "Pomaire",
+    "query": "Pomaire",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "FFAA",
+    "query": "FFAA",
     "rank": 20,
-    "tweet_count": "4,957 Tweets"
+    "tweet_count": "15.6K Tweets"
   }
 ]
