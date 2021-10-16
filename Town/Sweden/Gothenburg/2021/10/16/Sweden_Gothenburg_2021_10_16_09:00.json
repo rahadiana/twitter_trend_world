@@ -42,8 +42,8 @@
     "tweet_count": null
   },
   {
-    "name": "hårdrockare",
-    "query": "hårdrockare",
+    "name": "Hårdrockare",
+    "query": "Hårdrockare",
     "rank": 8,
     "tweet_count": null
   },
@@ -51,13 +51,13 @@
     "name": "IMDb",
     "query": "IMDb",
     "rank": 9,
-    "tweet_count": "10.3K Tweets"
+    "tweet_count": "10.4K Tweets"
   },
   {
     "name": "David Amess",
     "query": "\"David Amess\"",
     "rank": 10,
-    "tweet_count": "246K Tweets"
+    "tweet_count": "247K Tweets"
   },
   {
     "name": "Eskilstuna",
@@ -69,17 +69,17 @@
     "name": "#betting",
     "query": "#betting",
     "rank": 12,
-    "tweet_count": "1,584 Tweets"
+    "tweet_count": "1,601 Tweets"
   },
   {
     "name": "Mahrez",
     "query": "Mahrez",
     "rank": 13,
-    "tweet_count": "2,927 Tweets"
+    "tweet_count": "2,977 Tweets"
   },
   {
-    "name": "Godmorgon",
-    "query": "Godmorgon",
+    "name": "godmorgon",
+    "query": "godmorgon",
     "rank": 14,
     "tweet_count": null
   },
@@ -90,15 +90,21 @@
     "tweet_count": null
   },
   {
-    "name": "Adele",
-    "query": "Adele",
-    "rank": 16,
-    "tweet_count": "477K Tweets"
-  },
-  {
     "name": "Pascalidou",
     "query": "Pascalidou",
+    "rank": 16,
+    "tweet_count": "1,392 Tweets"
+  },
+  {
+    "name": "Adele",
+    "query": "Adele",
     "rank": 17,
-    "tweet_count": "1,382 Tweets"
+    "tweet_count": "478K Tweets"
+  },
+  {
+    "name": "#lyrikfredag",
+    "query": "#lyrikfredag",
+    "rank": 18,
+    "tweet_count": null
   }
 ]

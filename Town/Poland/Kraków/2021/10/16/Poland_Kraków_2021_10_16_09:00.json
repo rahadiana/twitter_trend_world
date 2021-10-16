@@ -1,21 +1,21 @@
 [
   {
-    "name": "Miłego",
-    "query": "Miłego",
+    "name": "Matczak",
+    "query": "Matczak",
     "rank": 1,
-    "tweet_count": "9,675 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#korwid",
-    "query": "#korwid",
+    "name": "#KORWID",
+    "query": "#KORWID",
     "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "Matczak",
-    "query": "Matczak",
+    "name": "Miłego",
+    "query": "Miłego",
     "rank": 3,
-    "tweet_count": null
+    "tweet_count": "9,902 Tweets"
   },
   {
     "name": "Ziemiec",
@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "#YouNetflix",
-    "query": "#YouNetflix",
+    "name": "Kaczyński",
+    "query": "Kaczyński",
     "rank": 5,
-    "tweet_count": "52.4K Tweets"
+    "tweet_count": "6,798 Tweets"
   },
   {
-    "name": "Prezes PiS",
-    "query": "\"Prezes PiS\"",
+    "name": "#YouNetflix",
+    "query": "#YouNetflix",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "52.6K Tweets"
   },
   {
     "name": "#Venom",
@@ -42,8 +42,8 @@
     "tweet_count": "10.9K Tweets"
   },
   {
-    "name": "karola wojtyły",
-    "query": "\"karola wojtyły\"",
+    "name": "Karola Wojtyły",
+    "query": "\"Karola Wojtyły\"",
     "rank": 8,
     "tweet_count": null
   },
@@ -60,56 +60,56 @@
     "tweet_count": null
   },
   {
-    "name": "DZIEŃ MECZOWY",
-    "query": "\"DZIEŃ MECZOWY\"",
+    "name": "Jan Paweł II",
+    "query": "\"Jan Paweł II\"",
     "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "Jan Paweł II",
-    "query": "\"Jan Paweł II\"",
+    "name": "DZIEŃ MECZOWY",
+    "query": "\"DZIEŃ MECZOWY\"",
     "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "Sąd Najwyższy",
+    "query": "\"Sąd Najwyższy\"",
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Davida Amessa",
     "query": "\"Davida Amessa\"",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Termometr",
-    "query": "Termometr",
     "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Chałka",
-    "query": "Chałka",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Miłej",
-    "query": "Miłej",
-    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "RMF FM",
     "query": "\"RMF FM\"",
-    "rank": 17,
-    "tweet_count": "1,800 Tweets"
+    "rank": 15,
+    "tweet_count": "1,846 Tweets"
   },
   {
-    "name": "Sąd Najwyższy",
-    "query": "\"Sąd Najwyższy\"",
+    "name": "Chałka",
+    "query": "Chałka",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Miłej",
+    "query": "Miłej",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Termometr",
+    "query": "Termometr",
     "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "Jebać PiS",
-    "query": "\"Jebać PiS\"",
+    "name": "Jana Pawła II",
+    "query": "\"Jana Pawła II\"",
     "rank": 19,
     "tweet_count": null
   }

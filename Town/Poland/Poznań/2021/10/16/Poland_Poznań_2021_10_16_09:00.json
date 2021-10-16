@@ -1,21 +1,21 @@
 [
   {
-    "name": "Miłego",
-    "query": "Miłego",
+    "name": "Matczak",
+    "query": "Matczak",
     "rank": 1,
-    "tweet_count": "9,707 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#korwid",
-    "query": "#korwid",
+    "name": "#KORWID",
+    "query": "#KORWID",
     "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "Matczak",
-    "query": "Matczak",
+    "name": "Miłego",
+    "query": "Miłego",
     "rank": 3,
-    "tweet_count": null
+    "tweet_count": "9,917 Tweets"
   },
   {
     "name": "Ziemiec",
@@ -27,7 +27,7 @@
     "name": "#YouNetflix",
     "query": "#YouNetflix",
     "rank": 5,
-    "tweet_count": "52.4K Tweets"
+    "tweet_count": "52.6K Tweets"
   },
   {
     "name": "Prezes PiS",
@@ -42,8 +42,8 @@
     "tweet_count": "10.9K Tweets"
   },
   {
-    "name": "karola wojtyły",
-    "query": "\"karola wojtyły\"",
+    "name": "Karola Wojtyły",
+    "query": "\"Karola Wojtyły\"",
     "rank": 8,
     "tweet_count": null
   },
@@ -60,14 +60,14 @@
     "tweet_count": null
   },
   {
-    "name": "DZIEŃ MECZOWY",
-    "query": "\"DZIEŃ MECZOWY\"",
+    "name": "Jan Paweł II",
+    "query": "\"Jan Paweł II\"",
     "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "Jan Paweł II",
-    "query": "\"Jan Paweł II\"",
+    "name": "DZIEŃ MECZOWY",
+    "query": "\"DZIEŃ MECZOWY\"",
     "rank": 12,
     "tweet_count": null
   },
@@ -90,16 +90,16 @@
     "tweet_count": null
   },
   {
-    "name": "Chałka",
-    "query": "Chałka",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
     "name": "RMF FM",
     "query": "\"RMF FM\"",
+    "rank": 16,
+    "tweet_count": "1,846 Tweets"
+  },
+  {
+    "name": "Chałka",
+    "query": "Chałka",
     "rank": 17,
-    "tweet_count": "1,804 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Miłej",
@@ -108,8 +108,8 @@
     "tweet_count": null
   },
   {
-    "name": "Jebać PiS",
-    "query": "\"Jebać PiS\"",
+    "name": "Jana Pawła II",
+    "query": "\"Jana Pawła II\"",
     "rank": 19,
     "tweet_count": null
   }
