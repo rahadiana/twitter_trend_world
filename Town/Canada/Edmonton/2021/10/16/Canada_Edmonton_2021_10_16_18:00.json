@@ -1,33 +1,33 @@
 [
   {
-    "name": "#elks",
-    "query": "#elks",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Mendy",
     "query": "Mendy",
-    "rank": 2,
-    "tweet_count": "70.3K Tweets"
+    "rank": 1,
+    "tweet_count": "97.9K Tweets"
   },
   {
     "name": "#DCFanDome",
     "query": "#DCFanDome",
+    "rank": 2,
+    "tweet_count": "267K Tweets"
+  },
+  {
+    "name": "#LEIMUN",
+    "query": "#LEIMUN",
     "rank": 3,
-    "tweet_count": "236K Tweets"
+    "tweet_count": "91.3K Tweets"
   },
   {
     "name": "#MinecraftLive",
     "query": "#MinecraftLive",
     "rank": 4,
-    "tweet_count": "66.5K Tweets"
+    "tweet_count": "67.2K Tweets"
   },
   {
-    "name": "#LEIMUN",
-    "query": "#LEIMUN",
+    "name": "#CFMTL",
+    "query": "#CFMTL",
     "rank": 5,
-    "tweet_count": "90.7K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Maguire",
@@ -36,34 +36,34 @@
     "tweet_count": "115K Tweets"
   },
   {
-    "name": "#CFMTL",
-    "query": "#CFMTL",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
     "name": "Lukaku",
     "query": "Lukaku",
-    "rank": 8,
-    "tweet_count": "27.9K Tweets"
+    "rank": 7,
+    "tweet_count": "29.3K Tweets"
   },
   {
-    "name": "Leicester",
-    "query": "Leicester",
-    "rank": 9,
-    "tweet_count": "146K Tweets"
+    "name": "Tommy",
+    "query": "Tommy",
+    "rank": 8,
+    "tweet_count": "59.9K Tweets"
   },
   {
     "name": "Lazio",
     "query": "Lazio",
-    "rank": 10,
-    "tweet_count": "30.5K Tweets"
+    "rank": 9,
+    "tweet_count": "31.5K Tweets"
   },
   {
     "name": "Chilwell",
     "query": "Chilwell",
+    "rank": 10,
+    "tweet_count": "17.4K Tweets"
+  },
+  {
+    "name": "Pogba",
+    "query": "Pogba",
     "rank": 11,
-    "tweet_count": "15.7K Tweets"
+    "tweet_count": "49K Tweets"
   },
   {
     "name": "Alex Bishop",
@@ -75,48 +75,42 @@
     "name": "Kovacic",
     "query": "Kovacic",
     "rank": 13,
-    "tweet_count": "3,896 Tweets"
+    "tweet_count": "4,059 Tweets"
   },
   {
     "name": "De Gea",
     "query": "\"De Gea\"",
     "rank": 14,
-    "tweet_count": "16.8K Tweets"
+    "tweet_count": "1,829 Tweets"
+  },
+  {
+    "name": "Tielemans",
+    "query": "Tielemans",
+    "rank": 15,
+    "tweet_count": "18K Tweets"
   },
   {
     "name": "Zamboni",
     "query": "Zamboni",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Wolves",
     "query": "Wolves",
-    "rank": 16,
-    "tweet_count": "42.3K Tweets"
+    "rank": 17,
+    "tweet_count": "42.7K Tweets"
+  },
+  {
+    "name": "Anthony Taylor",
+    "query": "\"Anthony Taylor\"",
+    "rank": 18,
+    "tweet_count": "9,724 Tweets"
   },
   {
     "name": "Gurdeep",
     "query": "Gurdeep",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "KARL",
-    "query": "KARL",
-    "rank": 18,
-    "tweet_count": "41.8K Tweets"
-  },
-  {
-    "name": "Epstein",
-    "query": "Epstein",
     "rank": 19,
-    "tweet_count": "30.2K Tweets"
-  },
-  {
-    "name": "Dubas",
-    "query": "Dubas",
-    "rank": 20,
     "tweet_count": null
   }
 ]
