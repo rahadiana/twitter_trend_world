@@ -1,13 +1,13 @@
 [
   {
-    "name": "#голос10",
-    "query": "#голос10",
+    "name": "всероссийская",
+    "query": "всероссийская",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "всероссийская",
-    "query": "всероссийская",
+    "name": "#голос10",
+    "query": "#голос10",
     "rank": 2,
     "tweet_count": null
   },
@@ -15,7 +15,7 @@
     "name": "#Oracle",
     "query": "#Oracle",
     "rank": 3,
-    "tweet_count": "1,118 Tweets"
+    "tweet_count": "1,124 Tweets"
   },
   {
     "name": "Владикавказе",
@@ -45,7 +45,7 @@
     "name": "Michelin",
     "query": "Michelin",
     "rank": 8,
-    "tweet_count": "2,933 Tweets"
+    "tweet_count": "2,948 Tweets"
   },
   {
     "name": "Адель",
@@ -63,7 +63,7 @@
     "name": "росбалт",
     "query": "росбалт",
     "rank": 11,
-    "tweet_count": "1,216 Tweets"
+    "tweet_count": "1,236 Tweets"
   },
   {
     "name": "ace heeseung day",
@@ -75,7 +75,7 @@
     "name": "Republic",
     "query": "Republic",
     "rank": 13,
-    "tweet_count": "48.8K Tweets"
+    "tweet_count": "49.4K Tweets"
   },
   {
     "name": "Японском",
@@ -90,15 +90,15 @@
     "tweet_count": null
   },
   {
-    "name": "адмирал трибуц",
-    "query": "\"адмирал трибуц\"",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
     "name": "Animal Crossing",
     "query": "\"Animal Crossing\"",
+    "rank": 16,
+    "tweet_count": "228K Tweets"
+  },
+  {
+    "name": "WE LOVE YOU KİM TAEHYUNG",
+    "query": "\"WE LOVE YOU KİM TAEHYUNG\"",
     "rank": 17,
-    "tweet_count": "227K Tweets"
+    "tweet_count": "8,784 Tweets"
   }
 ]
