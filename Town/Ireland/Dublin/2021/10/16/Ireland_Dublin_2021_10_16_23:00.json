@@ -1,92 +1,122 @@
 [
   {
+    "name": "#LEIMUN",
+    "query": "#LEIMUN",
+    "rank": 1,
+    "tweet_count": "95.8K Tweets"
+  },
+  {
     "name": "#MUNvCON",
     "query": "#MUNvCON",
-    "rank": 1,
-    "tweet_count": "1,303 Tweets"
+    "rank": 2,
+    "tweet_count": "1,307 Tweets"
+  },
+  {
+    "name": "#WATLIV",
+    "query": "#WATLIV",
+    "rank": 3,
+    "tweet_count": "78.5K Tweets"
+  },
+  {
+    "name": "#MUFC",
+    "query": "#MUFC",
+    "rank": 4,
+    "tweet_count": "105K Tweets"
   },
   {
     "name": "#TheBatman",
     "query": "#TheBatman",
-    "rank": 2,
-    "tweet_count": "253K Tweets"
-  },
-  {
-    "name": "#MOTD",
-    "query": "#MOTD",
-    "rank": 3,
-    "tweet_count": "1,410 Tweets"
+    "rank": 5,
+    "tweet_count": "255K Tweets"
   },
   {
     "name": "Munster",
     "query": "Munster",
-    "rank": 4,
-    "tweet_count": "1,971 Tweets"
+    "rank": 6,
+    "tweet_count": "1,976 Tweets"
   },
   {
-    "name": "#UFCVegas40",
-    "query": "#UFCVegas40",
-    "rank": 5,
-    "tweet_count": "9,772 Tweets"
+    "name": "Watford",
+    "query": "Watford",
+    "rank": 7,
+    "tweet_count": "77.2K Tweets"
+  },
+  {
+    "name": "Brentford",
+    "query": "Brentford",
+    "rank": 8,
+    "tweet_count": "102K Tweets"
+  },
+  {
+    "name": "Liverpool",
+    "query": "Liverpool",
+    "rank": 9,
+    "tweet_count": "140K Tweets"
+  },
+  {
+    "name": "Greenwood",
+    "query": "Greenwood",
+    "rank": 10,
+    "tweet_count": "64.2K Tweets"
   },
   {
     "name": "Connacht",
     "query": "Connacht",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "#Strictly",
-    "query": "#Strictly",
-    "rank": 7,
-    "tweet_count": "19K Tweets"
-  },
-  {
-    "name": "jack carty",
-    "query": "\"jack carty\"",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "Mendy",
-    "query": "Mendy",
-    "rank": 9,
-    "tweet_count": "199K Tweets"
-  },
-  {
-    "name": "Thomond Park",
-    "query": "\"Thomond Park\"",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Leinster",
-    "query": "Leinster",
     "rank": 11,
-    "tweet_count": "1,074 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Ronaldo",
-    "query": "Ronaldo",
+    "name": "Matic",
+    "query": "Matic",
     "rank": 12,
-    "tweet_count": "165K Tweets"
+    "tweet_count": "101K Tweets"
   },
   {
-    "name": "Pogba",
-    "query": "Pogba",
+    "name": "thanks keith",
+    "query": "\"thanks keith\"",
     "rank": 13,
-    "tweet_count": "55.5K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#SUAF",
-    "query": "#SUAF",
+    "name": "Jack Carty",
+    "query": "\"Jack Carty\"",
     "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "#OleOut",
-    "query": "#OleOut",
+    "name": "Bobby",
+    "query": "Bobby",
     "rank": 15,
-    "tweet_count": "106K Tweets"
+    "tweet_count": "75.9K Tweets"
+  },
+  {
+    "name": "half time",
+    "query": "\"half time\"",
+    "rank": 16,
+    "tweet_count": "26.3K Tweets"
+  },
+  {
+    "name": "RIP Paul",
+    "query": "\"RIP Paul\"",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Ronaldo",
+    "query": "Ronaldo",
+    "rank": 18,
+    "tweet_count": "165K Tweets"
+  },
+  {
+    "name": "Thomond Park",
+    "query": "\"Thomond Park\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Rashford",
+    "query": "Rashford",
+    "rank": 20,
+    "tweet_count": "45.1K Tweets"
   }
 ]
