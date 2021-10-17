@@ -6,22 +6,22 @@
     "tweet_count": "2,097 Tweets"
   },
   {
-    "name": "Błogosławionej",
-    "query": "Błogosławionej",
+    "name": "błogosławionej",
+    "query": "błogosławionej",
     "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "Dziambor",
+    "query": "Dziambor",
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#LEIMUN",
     "query": "#LEIMUN",
-    "rank": 3,
-    "tweet_count": "97K Tweets"
-  },
-  {
-    "name": "Pięknej",
-    "query": "Pięknej",
     "rank": 4,
-    "tweet_count": null
+    "tweet_count": "97.2K Tweets"
   },
   {
     "name": "#AOTM_HwangHyunjin",
@@ -30,8 +30,8 @@
     "tweet_count": "316K Tweets"
   },
   {
-    "name": "#GÓRWIS",
-    "query": "#GÓRWIS",
+    "name": "#górwis",
+    "query": "#górwis",
     "rank": 6,
     "tweet_count": null
   },
@@ -39,47 +39,47 @@
     "name": "#DCFanDome",
     "query": "#DCFanDome",
     "rank": 7,
-    "tweet_count": "649K Tweets"
+    "tweet_count": "651K Tweets"
+  },
+  {
+    "name": "Pięknej",
+    "query": "Pięknej",
+    "rank": 8,
+    "tweet_count": null
   },
   {
     "name": "Matczak",
     "query": "Matczak",
-    "rank": 8,
-    "tweet_count": "1,512 Tweets"
+    "rank": 9,
+    "tweet_count": "1,524 Tweets"
   },
   {
     "name": "Kaczyński",
     "query": "Kaczyński",
-    "rank": 9,
-    "tweet_count": "19.3K Tweets"
-  },
-  {
-    "name": "Dziambor",
-    "query": "Dziambor",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "19.5K Tweets"
   },
   {
     "name": "Lazio",
     "query": "Lazio",
     "rank": 11,
-    "tweet_count": "43.2K Tweets"
+    "tweet_count": "43.5K Tweets"
   },
   {
     "name": "Cześć",
     "query": "Cześć",
     "rank": 12,
-    "tweet_count": "4,225 Tweets"
+    "tweet_count": "4,292 Tweets"
+  },
+  {
+    "name": "Mata",
+    "query": "Mata",
+    "rank": 13,
+    "tweet_count": "96.4K Tweets"
   },
   {
     "name": "Batmana",
     "query": "Batmana",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Ziemiec",
-    "query": "Ziemiec",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,25 +87,25 @@
     "name": "Miłego",
     "query": "Miłego",
     "rank": 15,
-    "tweet_count": "8,665 Tweets"
+    "tweet_count": "8,991 Tweets"
   },
   {
-    "name": "LGBT",
-    "query": "LGBT",
+    "name": "Ziemiec",
+    "query": "Ziemiec",
     "rank": 16,
-    "tweet_count": "42.9K Tweets"
-  },
-  {
-    "name": "Mata",
-    "query": "Mata",
-    "rank": 17,
-    "tweet_count": "95.5K Tweets"
+    "tweet_count": null
   },
   {
     "name": "karol wojtyła",
     "query": "\"karol wojtyła\"",
+    "rank": 17,
+    "tweet_count": "2,926 Tweets"
+  },
+  {
+    "name": "LGBT",
+    "query": "LGBT",
     "rank": 18,
-    "tweet_count": "2,915 Tweets"
+    "tweet_count": "43.2K Tweets"
   },
   {
     "name": "Ziemca",
@@ -117,6 +117,6 @@
     "name": "Kylie",
     "query": "Kylie",
     "rank": 20,
-    "tweet_count": "8,382 Tweets"
+    "tweet_count": "8,498 Tweets"
   }
 ]
