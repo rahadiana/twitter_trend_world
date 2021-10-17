@@ -12,14 +12,14 @@
     "tweet_count": null
   },
   {
-    "name": "#obdk",
-    "query": "#obdk",
+    "name": "#obrfc",
+    "query": "#obrfc",
     "rank": 3,
     "tweet_count": null
   },
   {
-    "name": "#obrfc",
-    "query": "#obrfc",
+    "name": "#obdk",
+    "query": "#obdk",
     "rank": 4,
     "tweet_count": null
   },
@@ -42,10 +42,10 @@
     "tweet_count": "82.5K Tweets"
   },
   {
-    "name": "Kasper",
-    "query": "Kasper",
+    "name": "Farum",
+    "query": "Farum",
     "rank": 8,
-    "tweet_count": "2,061 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Randers",
@@ -60,63 +60,63 @@
     "tweet_count": "155K Tweets"
   },
   {
-    "name": "anja andersen",
-    "query": "\"anja andersen\"",
+    "name": "Kasper",
+    "query": "Kasper",
     "rank": 11,
+    "tweet_count": "2,068 Tweets"
+  },
+  {
+    "name": "Brøndby",
+    "query": "Brøndby",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "Anja Andersen",
+    "query": "\"Anja Andersen\"",
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Mister",
     "query": "Mister",
-    "rank": 12,
-    "tweet_count": "26.6K Tweets"
+    "rank": 14,
+    "tweet_count": "26.8K Tweets"
   },
   {
     "name": "Maguire",
     "query": "Maguire",
-    "rank": 13,
+    "rank": 15,
     "tweet_count": "133K Tweets"
-  },
-  {
-    "name": "Brøndby",
-    "query": "Brøndby",
-    "rank": 14,
-    "tweet_count": null
   },
   {
     "name": "Watford",
     "query": "Watford",
-    "rank": 15,
-    "tweet_count": "28.5K Tweets"
+    "rank": 16,
+    "tweet_count": "28.6K Tweets"
   },
   {
     "name": "Chelsea",
     "query": "Chelsea",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": "195K Tweets"
   },
   {
     "name": "elvstrøm",
     "query": "elvstrøm",
-    "rank": 17,
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Odense",
+    "query": "Odense",
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Schmeichel",
     "query": "Schmeichel",
-    "rank": 18,
-    "tweet_count": "1,906 Tweets"
-  },
-  {
-    "name": "tom jensen",
-    "query": "\"tom jensen\"",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Haderslev",
-    "query": "Haderslev",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "1,911 Tweets"
   }
 ]
