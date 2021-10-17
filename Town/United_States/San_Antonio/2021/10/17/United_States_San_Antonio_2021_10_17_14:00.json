@@ -3,103 +3,103 @@
     "name": "UTSA",
     "query": "UTSA",
     "rank": 1,
-    "tweet_count": "5,757 Tweets"
+    "tweet_count": "5,862 Tweets"
   },
   {
-    "name": "#FinsUp",
-    "query": "#FinsUp",
+    "name": "#FanDuelisSWEET",
+    "query": "#FanDuelisSWEET",
     "rank": 2,
-    "tweet_count": "6,837 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Jags",
+    "query": "Jags",
+    "rank": 3,
+    "tweet_count": "6,757 Tweets"
+  },
+  {
+    "name": "Dolphins",
+    "query": "Dolphins",
+    "rank": 4,
+    "tweet_count": "15.7K Tweets"
   },
   {
     "name": "#sundayvibes",
     "query": "#sundayvibes",
-    "rank": 3,
-    "tweet_count": "18.6K Tweets"
+    "rank": 5,
+    "tweet_count": "19.7K Tweets"
   },
   {
     "name": "#AskFFT",
     "query": "#AskFFT",
-    "rank": 4,
-    "tweet_count": "2,352 Tweets"
+    "rank": 6,
+    "tweet_count": "2,501 Tweets"
+  },
+  {
+    "name": "Bayern",
+    "query": "Bayern",
+    "rank": 7,
+    "tweet_count": "46.8K Tweets"
+  },
+  {
+    "name": "#SundayMorning",
+    "query": "#SundayMorning",
+    "rank": 8,
+    "tweet_count": "15.2K Tweets"
   },
   {
     "name": "#NFLUK",
     "query": "#NFLUK",
-    "rank": 5,
-    "tweet_count": "1,650 Tweets"
+    "rank": 9,
+    "tweet_count": "1,808 Tweets"
   },
   {
     "name": "Gesicki",
     "query": "Gesicki",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "Haiti",
-    "query": "Haiti",
-    "rank": 7,
-    "tweet_count": "24.8K Tweets"
-  },
-  {
-    "name": "Dan Arnold",
-    "query": "\"Dan Arnold\"",
-    "rank": 8,
-    "tweet_count": null
+    "rank": 10,
+    "tweet_count": "1,003 Tweets"
   },
   {
     "name": "Pecan",
     "query": "Pecan",
-    "rank": 9,
-    "tweet_count": "1,563 Tweets"
-  },
-  {
-    "name": "Austin Jackson",
-    "query": "\"Austin Jackson\"",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Agnew",
-    "query": "Agnew",
     "rank": 11,
-    "tweet_count": null
+    "tweet_count": "1,729 Tweets"
   },
   {
-    "name": "Byron Jones",
-    "query": "\"Byron Jones\"",
+    "name": "haiti",
+    "query": "haiti",
     "rank": 12,
+    "tweet_count": "25.9K Tweets"
+  },
+  {
+    "name": "Dan Arnold",
+    "query": "\"Dan Arnold\"",
+    "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "NFL Sunday",
-    "query": "\"NFL Sunday\"",
-    "rank": 13,
-    "tweet_count": "6,833 Tweets"
-  },
-  {
-    "name": "Tennessee",
-    "query": "Tennessee",
+    "name": "Gaskin",
+    "query": "Gaskin",
     "rank": 14,
-    "tweet_count": "68.2K Tweets"
+    "tweet_count": "1,632 Tweets"
   },
   {
     "name": "Football Sunday",
     "query": "\"Football Sunday\"",
     "rank": 15,
-    "tweet_count": "4,553 Tweets"
+    "tweet_count": "5,070 Tweets"
   },
   {
     "name": "Alan Rickman",
     "query": "\"Alan Rickman\"",
     "rank": 16,
-    "tweet_count": "1,819 Tweets"
+    "tweet_count": "2,127 Tweets"
   },
   {
-    "name": "Wilt",
-    "query": "Wilt",
+    "name": "Byron Jones",
+    "query": "\"Byron Jones\"",
     "rank": 17,
-    "tweet_count": "12.3K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Kevin Harlan",
@@ -108,9 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "Gaskin",
-    "query": "Gaskin",
+    "name": "NFL Sunday",
+    "query": "\"NFL Sunday\"",
     "rank": 19,
-    "tweet_count": "1,359 Tweets"
+    "tweet_count": "7,187 Tweets"
+  },
+  {
+    "name": "Tennessee",
+    "query": "Tennessee",
+    "rank": 20,
+    "tweet_count": "69.3K Tweets"
   }
 ]
