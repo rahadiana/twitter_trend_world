@@ -3,23 +3,23 @@
     "name": "#TI10",
     "query": "#TI10",
     "rank": 1,
-    "tweet_count": "34.4K Tweets"
+    "tweet_count": "35.1K Tweets"
+  },
+  {
+    "name": "#УралЦСКА",
+    "query": "#УралЦСКА",
+    "rank": 2,
+    "tweet_count": null
   },
   {
     "name": "РА СИ",
     "query": "\"РА СИ\"",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#TeamSpirit",
     "query": "#TeamSpirit",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "#УралЦСКА",
-    "query": "#УралЦСКА",
     "rank": 4,
     "tweet_count": null
   },
@@ -45,19 +45,19 @@
     "name": "Володин",
     "query": "Володин",
     "rank": 8,
-    "tweet_count": "1,280 Tweets"
-  },
-  {
-    "name": "землю",
-    "query": "землю",
-    "rank": 9,
-    "tweet_count": "2,371 Tweets"
+    "tweet_count": "1,318 Tweets"
   },
   {
     "name": "Бэтмена",
     "query": "Бэтмена",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
+  },
+  {
+    "name": "Землю",
+    "query": "Землю",
+    "rank": 10,
+    "tweet_count": "2,402 Tweets"
   },
   {
     "name": "Союз МС-18",
@@ -69,7 +69,7 @@
     "name": "Хёнджина",
     "query": "Хёнджина",
     "rank": 12,
-    "tweet_count": "2,662 Tweets"
+    "tweet_count": "2,677 Tweets"
   },
   {
     "name": "Жиго",
@@ -87,7 +87,7 @@
     "name": "Allay",
     "query": "Allay",
     "rank": 15,
-    "tweet_count": "476K Tweets"
+    "tweet_count": "477K Tweets"
   },
   {
     "name": "Нобелевской",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "пересильд",
-    "query": "пересильд",
-    "rank": 18,
-    "tweet_count": "2,076 Tweets"
-  },
-  {
     "name": "Кангва",
     "query": "Кангва",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Владикавказе",
+    "query": "Владикавказе",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Днём",
-    "query": "Днём",
+    "name": "Чанбина",
+    "query": "Чанбина",
     "rank": 20,
-    "tweet_count": "7,010 Tweets"
+    "tweet_count": null
   }
 ]
