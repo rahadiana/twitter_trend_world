@@ -1,7 +1,7 @@
 [
   {
-    "name": "#birdoftheyear",
-    "query": "#birdoftheyear",
+    "name": "#BirdOfTheYear",
+    "query": "#BirdOfTheYear",
     "rank": 1,
     "tweet_count": null
   },
@@ -9,7 +9,7 @@
     "name": "North Shore",
     "query": "\"North Shore\"",
     "rank": 2,
-    "tweet_count": "1,760 Tweets"
+    "tweet_count": "1,780 Tweets"
   },
   {
     "name": "#SuperSaturday",
@@ -27,19 +27,19 @@
     "name": "Herald",
     "query": "Herald",
     "rank": 5,
-    "tweet_count": "5,166 Tweets"
+    "tweet_count": "5,220 Tweets"
   },
   {
     "name": "Level 4",
     "query": "\"Level 4\"",
     "rank": 6,
-    "tweet_count": "9,283 Tweets"
+    "tweet_count": "9,336 Tweets"
   },
   {
     "name": "Slater",
     "query": "Slater",
     "rank": 7,
-    "tweet_count": "3,632 Tweets"
+    "tweet_count": "3,649 Tweets"
   },
   {
     "name": "#UFCVegas40",
@@ -51,7 +51,7 @@
     "name": "Auckland",
     "query": "Auckland",
     "rank": 9,
-    "tweet_count": "3,709 Tweets"
+    "tweet_count": "3,735 Tweets"
   },
   {
     "name": "tairawhiti",
@@ -66,14 +66,14 @@
     "tweet_count": "153K Tweets"
   },
   {
-    "name": "bill ralston",
-    "query": "\"bill ralston\"",
+    "name": "Bloomfield",
+    "query": "Bloomfield",
     "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "Gisborne",
-    "query": "Gisborne",
+    "name": "Bill Ralston",
+    "query": "\"Bill Ralston\"",
     "rank": 13,
     "tweet_count": null
   },
@@ -84,39 +84,39 @@
     "tweet_count": null
   },
   {
-    "name": "Batman",
-    "query": "Batman",
+    "name": "Gisborne",
+    "query": "Gisborne",
     "rank": 15,
-    "tweet_count": "274K Tweets"
-  },
-  {
-    "name": "Bloomfield",
-    "query": "Bloomfield",
-    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "fonterra",
     "query": "fonterra",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Camryn",
     "query": "Camryn",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Team Spirit",
     "query": "\"Team Spirit\"",
-    "rank": 19,
-    "tweet_count": "89K Tweets"
+    "rank": 18,
+    "tweet_count": "89.2K Tweets"
   },
   {
     "name": "Maxine",
     "query": "Maxine",
+    "rank": 19,
+    "tweet_count": "2,614 Tweets"
+  },
+  {
+    "name": "Paddy",
+    "query": "Paddy",
     "rank": 20,
-    "tweet_count": "2,605 Tweets"
+    "tweet_count": "7,217 Tweets"
   }
 ]
