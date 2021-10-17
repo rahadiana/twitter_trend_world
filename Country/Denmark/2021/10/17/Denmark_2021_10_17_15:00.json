@@ -24,70 +24,70 @@
     "tweet_count": null
   },
   {
-    "name": "Michael Laudrup",
-    "query": "\"Michael Laudrup\"",
+    "name": "Brøndby",
+    "query": "Brøndby",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "#obdk",
-    "query": "#obdk",
+    "name": "Michael Laudrup",
+    "query": "\"Michael Laudrup\"",
     "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "Brøndby",
-    "query": "Brøndby",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
-    "name": "Northside",
-    "query": "Northside",
-    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Vejle",
     "query": "Vejle",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "#obdk",
+    "query": "#obdk",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "Northside",
+    "query": "Northside",
     "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Bruus",
+    "query": "Bruus",
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Randers",
     "query": "Randers",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Odense",
     "query": "Odense",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Leicester",
     "query": "Leicester",
-    "rank": 12,
-    "tweet_count": "95.6K Tweets"
+    "rank": 13,
+    "tweet_count": "95.9K Tweets"
   },
   {
     "name": "Kasper",
     "query": "Kasper",
-    "rank": 13,
-    "tweet_count": "1,460 Tweets"
+    "rank": 14,
+    "tweet_count": "1,470 Tweets"
   },
   {
     "name": "Farum",
     "query": "Farum",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Mister",
-    "query": "Mister",
     "rank": 15,
-    "tweet_count": "26.7K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Anja Andersen",
@@ -99,7 +99,7 @@
     "name": "Maguire",
     "query": "Maguire",
     "rank": 17,
-    "tweet_count": "63.8K Tweets"
+    "tweet_count": "64K Tweets"
   },
   {
     "name": "Watford",
@@ -117,6 +117,6 @@
     "name": "Chelsea",
     "query": "Chelsea",
     "rank": 20,
-    "tweet_count": "187K Tweets"
+    "tweet_count": "188K Tweets"
   }
 ]
