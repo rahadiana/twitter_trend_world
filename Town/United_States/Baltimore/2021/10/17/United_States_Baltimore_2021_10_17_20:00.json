@@ -1,122 +1,122 @@
 [
   {
+    "name": "Bateman",
+    "query": "Bateman",
+    "rank": 1,
+    "tweet_count": "5,319 Tweets"
+  },
+  {
     "name": "Hopkins",
     "query": "Hopkins",
-    "rank": 1,
-    "tweet_count": "5,422 Tweets"
+    "rank": 2,
+    "tweet_count": "5,472 Tweets"
   },
   {
     "name": "Ron Rivera",
     "query": "\"Ron Rivera\"",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Andrews",
     "query": "Andrews",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": "14.1K Tweets"
   },
   {
     "name": "Justin Tucker",
     "query": "\"Justin Tucker\"",
-    "rank": 4,
-    "tweet_count": "1,109 Tweets"
+    "rank": 5,
+    "tweet_count": "1,118 Tweets"
   },
   {
     "name": "Defense",
     "query": "Defense",
-    "rank": 5,
-    "tweet_count": "121K Tweets"
-  },
-  {
-    "name": "Patrick Queen",
-    "query": "\"Patrick Queen\"",
     "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "Josh Bynes",
-    "query": "\"Josh Bynes\"",
-    "rank": 7,
-    "tweet_count": null
+    "tweet_count": "123K Tweets"
   },
   {
     "name": "Murray",
     "query": "Murray",
+    "rank": 7,
+    "tweet_count": "12.4K Tweets"
+  },
+  {
+    "name": "Patrick Queen",
+    "query": "\"Patrick Queen\"",
     "rank": 8,
-    "tweet_count": "12.3K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "josh bynes",
+    "query": "\"josh bynes\"",
+    "rank": 9,
+    "tweet_count": null
   },
   {
     "name": "Duvernay",
     "query": "Duvernay",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Marlo",
     "query": "Marlo",
-    "rank": 10,
-    "tweet_count": "1,703 Tweets"
+    "rank": 11,
+    "tweet_count": "1,709 Tweets"
   },
   {
-    "name": "DeShon Elliott",
-    "query": "\"DeShon Elliott\"",
-    "rank": 11,
+    "name": "Greg Roman",
+    "query": "\"Greg Roman\"",
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Kansas City",
     "query": "\"Kansas City\"",
-    "rank": 12,
-    "tweet_count": "5,396 Tweets"
-  },
-  {
-    "name": "Greg Roman",
-    "query": "\"Greg Roman\"",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "5,446 Tweets"
   },
   {
     "name": "Rosebar",
     "query": "Rosebar",
     "rank": 14,
-    "tweet_count": "1,449 Tweets"
+    "tweet_count": "1,472 Tweets"
   },
   {
     "name": "#LACvsBAL",
     "query": "#LACvsBAL",
     "rank": 15,
-    "tweet_count": "4,050 Tweets"
+    "tweet_count": "4,153 Tweets"
   },
   {
-    "name": "#GBvsCHI",
-    "query": "#GBvsCHI",
+    "name": "#LARvsNYG",
+    "query": "#LARvsNYG",
     "rank": 16,
-    "tweet_count": "18.5K Tweets"
+    "tweet_count": "2,134 Tweets"
   },
   {
     "name": "#KCvsWAS",
     "query": "#KCvsWAS",
     "rank": 17,
-    "tweet_count": "6,067 Tweets"
+    "tweet_count": "6,141 Tweets"
   },
   {
     "name": "#MINvsCAR",
     "query": "#MINvsCAR",
     "rank": 18,
-    "tweet_count": "2,283 Tweets"
+    "tweet_count": "2,686 Tweets"
   },
   {
-    "name": "#LARvsNYG",
-    "query": "#LARvsNYG",
+    "name": "#Browns",
+    "query": "#Browns",
     "rank": 19,
-    "tweet_count": "2,107 Tweets"
+    "tweet_count": "10.1K Tweets"
   },
   {
     "name": "Lions",
     "query": "Lions",
     "rank": 20,
-    "tweet_count": "44.8K Tweets"
+    "tweet_count": "45.2K Tweets"
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
-    "name": "#StrefaStarcia",
-    "query": "#StrefaStarcia",
+    "name": "#strefastarcia",
+    "query": "#strefastarcia",
     "rank": 1,
     "tweet_count": null
   },
@@ -9,31 +9,31 @@
     "name": "#LEGLPO",
     "query": "#LEGLPO",
     "rank": 2,
-    "tweet_count": "3,859 Tweets"
+    "tweet_count": "3,870 Tweets"
   },
   {
     "name": "Legii",
     "query": "Legii",
     "rank": 3,
-    "tweet_count": "1,424 Tweets"
+    "tweet_count": "1,437 Tweets"
   },
   {
     "name": "Orsato",
     "query": "Orsato",
     "rank": 4,
-    "tweet_count": "6,898 Tweets"
-  },
-  {
-    "name": "Lech",
-    "query": "Lech",
-    "rank": 5,
-    "tweet_count": "3,290 Tweets"
+    "tweet_count": "7,274 Tweets"
   },
   {
     "name": "#LaZabawa",
     "query": "#LaZabawa",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "Lech",
+    "query": "Lech",
+    "rank": 6,
+    "tweet_count": "3,306 Tweets"
   },
   {
     "name": "#rolnikszukażony",
@@ -45,35 +45,35 @@
     "name": "Napoli",
     "query": "Napoli",
     "rank": 8,
-    "tweet_count": "22.7K Tweets"
+    "tweet_count": "22.9K Tweets"
   },
   {
-    "name": "Michniewicza",
-    "query": "Michniewicza",
+    "name": "Czesiek",
+    "query": "Czesiek",
     "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Juve",
-    "query": "Juve",
-    "rank": 10,
-    "tweet_count": "18.9K Tweets"
-  },
-  {
-    "name": "Emreli",
-    "query": "Emreli",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "czesiek",
-    "query": "czesiek",
-    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Ishak",
     "query": "Ishak",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "Juve",
+    "query": "Juve",
+    "rank": 11,
+    "tweet_count": "19.3K Tweets"
+  },
+  {
+    "name": "Michniewicza",
+    "query": "Michniewicza",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "emreli",
+    "query": "emreli",
     "rank": 13,
     "tweet_count": null
   },
@@ -84,14 +84,14 @@
     "tweet_count": null
   },
   {
-    "name": "Raków",
-    "query": "Raków",
+    "name": "Clarkson",
+    "query": "Clarkson",
     "rank": 15,
-    "tweet_count": null
+    "tweet_count": "5,669 Tweets"
   },
   {
-    "name": "Łazienkowskiej",
-    "query": "Łazienkowskiej",
+    "name": "Raków",
+    "query": "Raków",
     "rank": 16,
     "tweet_count": null
   },
@@ -102,14 +102,14 @@
     "tweet_count": null
   },
   {
-    "name": "Clarkson",
-    "query": "Clarkson",
+    "name": "Tobiasz",
+    "query": "Tobiasz",
     "rank": 18,
-    "tweet_count": "5,642 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Czesław",
-    "query": "Czesław",
+    "name": "Łazienkowskiej",
+    "query": "Łazienkowskiej",
     "rank": 19,
     "tweet_count": null
   }
