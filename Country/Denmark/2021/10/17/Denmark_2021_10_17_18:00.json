@@ -48,8 +48,8 @@
     "tweet_count": null
   },
   {
-    "name": "Vejle",
-    "query": "Vejle",
+    "name": "vejle",
+    "query": "vejle",
     "rank": 9,
     "tweet_count": null
   },
@@ -66,22 +66,22 @@
     "tweet_count": null
   },
   {
-    "name": "blas",
-    "query": "blas",
-    "rank": 12,
-    "tweet_count": "2,591 Tweets"
-  },
-  {
     "name": "Pep Biel",
     "query": "\"Pep Biel\"",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "Blas",
+    "query": "Blas",
+    "rank": 13,
+    "tweet_count": "2,614 Tweets"
   },
   {
     "name": "Leicester",
     "query": "Leicester",
     "rank": 14,
-    "tweet_count": "48.4K Tweets"
+    "tweet_count": "48.7K Tweets"
   },
   {
     "name": "Lerager",
@@ -105,7 +105,7 @@
     "name": "Sousa",
     "query": "Sousa",
     "rank": 18,
-    "tweet_count": "5,806 Tweets"
+    "tweet_count": "5,859 Tweets"
   },
   {
     "name": "Thorup",
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "Watford",
-    "query": "Watford",
+    "name": "anja andersen",
+    "query": "\"anja andersen\"",
     "rank": 20,
-    "tweet_count": "13K Tweets"
+    "tweet_count": null
   }
 ]
