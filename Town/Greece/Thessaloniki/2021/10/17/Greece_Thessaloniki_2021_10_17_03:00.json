@@ -3,23 +3,23 @@
     "name": "#j2us",
     "query": "#j2us",
     "rank": 1,
-    "tweet_count": "22.9K Tweets"
+    "tweet_count": "23K Tweets"
   },
   {
     "name": "#radio_arkady",
     "query": "#radio_arkady",
     "rank": 2,
-    "tweet_count": "1,162 Tweets"
-  },
-  {
-    "name": "#καρτποσταλ",
-    "query": "#καρτποσταλ",
-    "rank": 3,
-    "tweet_count": "1,187 Tweets"
+    "tweet_count": "1,166 Tweets"
   },
   {
     "name": "#TheVoiceGR",
     "query": "#TheVoiceGR",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "σασα",
+    "query": "σασα",
     "rank": 4,
     "tweet_count": null
   },
@@ -30,38 +30,38 @@
     "tweet_count": "1,060 Tweets"
   },
   {
-    "name": "σασα",
-    "query": "σασα",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
     "name": "εβελινα",
     "query": "εβελινα",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "στανιση",
     "query": "στανιση",
-    "rank": 8,
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "κοκλωνη",
     "query": "κοκλωνη",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "Αλεξανδρου",
+    "query": "Αλεξανδρου",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "αλεξανδρου",
-    "query": "αλεξανδρου",
+    "name": "#ΚαρτΠοσταλ",
+    "query": "#ΚαρτΠοσταλ",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "1,188 Tweets"
   },
   {
-    "name": "μαρα",
-    "query": "μαρα",
+    "name": "Μαρα",
+    "query": "Μαρα",
     "rank": 11,
     "tweet_count": null
   },
@@ -72,50 +72,50 @@
     "tweet_count": null
   },
   {
-    "name": "τζειμς",
-    "query": "τζειμς",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
     "name": "Τουνη",
     "query": "Τουνη",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Καινουργιου",
-    "query": "Καινουργιου",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "αννα μαρια",
-    "query": "\"αννα μαρια\"",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Μαντω",
-    "query": "Μαντω",
-    "rank": 17,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "καλο σαββατοκυριακο",
     "query": "\"καλο σαββατοκυριακο\"",
-    "rank": 18,
+    "rank": 14,
     "tweet_count": "3,487 Tweets"
+  },
+  {
+    "name": "Αννα Μαρια",
+    "query": "\"Αννα Μαρια\"",
+    "rank": 15,
+    "tweet_count": null
   },
   {
     "name": "κατκεν",
     "query": "κατκεν",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Μπακοδημου",
+    "query": "Μπακοδημου",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "σχοινας",
+    "query": "σχοινας",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Αγιο Ορος",
+    "query": "\"Αγιο Ορος\"",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Σχοινας",
-    "query": "Σχοινας",
+    "name": "Μαντω",
+    "query": "Μαντω",
     "rank": 20,
     "tweet_count": null
   }
