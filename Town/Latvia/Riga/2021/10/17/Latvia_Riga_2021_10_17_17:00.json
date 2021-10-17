@@ -1,37 +1,37 @@
 [
   {
-    "name": "Brieža",
-    "query": "Brieža",
+    "name": "#xfaktors",
+    "query": "#xfaktors",
     "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "brieža",
+    "query": "brieža",
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Bauskas",
     "query": "Bauskas",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Briedis",
     "query": "Briedis",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "#Rigaconf2021",
     "query": "#Rigaconf2021",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "dainis",
     "query": "dainis",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "#WorldRX",
-    "query": "#WorldRX",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,69 +42,75 @@
     "tweet_count": null
   },
   {
+    "name": "#WorldRX",
+    "query": "#WorldRX",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
     "name": "Mannu",
     "query": "Mannu",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "mamikina",
     "query": "mamikina",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Evil",
     "query": "Evil",
-    "rank": 10,
-    "tweet_count": "232K Tweets"
+    "rank": 11,
+    "tweet_count": "242K Tweets"
   },
   {
     "name": "Visi",
     "query": "Visi",
-    "rank": 11,
-    "tweet_count": "1,498 Tweets"
-  },
-  {
-    "name": "Russia",
-    "query": "Russia",
     "rank": 12,
-    "tweet_count": "46.9K Tweets"
+    "tweet_count": "1,534 Tweets"
   },
   {
-    "name": "Nopietni",
-    "query": "Nopietni",
+    "name": "nopietni",
+    "query": "nopietni",
     "rank": 13,
     "tweet_count": null
   },
   {
+    "name": "Russia",
+    "query": "Russia",
+    "rank": 14,
+    "tweet_count": "48K Tweets"
+  },
+  {
     "name": "SARS-CoV-2",
     "query": "SARS-CoV-2",
-    "rank": 14,
-    "tweet_count": "13.5K Tweets"
-  },
-  {
-    "name": "Eiropas",
-    "query": "Eiropas",
     "rank": 15,
-    "tweet_count": null
+    "tweet_count": "13.7K Tweets"
   },
   {
-    "name": "Cilvēks",
-    "query": "Cilvēks",
+    "name": "Covid",
+    "query": "Covid",
     "rank": 16,
-    "tweet_count": null
+    "tweet_count": "828K Tweets"
   },
   {
-    "name": "Nesaprotu",
-    "query": "Nesaprotu",
+    "name": "cilvēks",
+    "query": "cilvēks",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Tāda",
-    "query": "Tāda",
+    "name": "nesaprotu",
+    "query": "nesaprotu",
     "rank": 18,
-    "tweet_count": "4,297 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "tāda",
+    "query": "tāda",
+    "rank": 19,
+    "tweet_count": "4,365 Tweets"
   }
 ]
