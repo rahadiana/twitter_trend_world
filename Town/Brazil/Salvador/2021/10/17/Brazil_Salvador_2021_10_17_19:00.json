@@ -1,57 +1,57 @@
 [
   {
-    "name": "Rodriguinho",
-    "query": "Rodriguinho",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Barcelona",
     "query": "Barcelona",
+    "rank": 1,
+    "tweet_count": "74K Tweets"
+  },
+  {
+    "name": "Caio Paulista",
+    "query": "\"Caio Paulista\"",
     "rank": 2,
-    "tweet_count": "71.5K Tweets"
+    "tweet_count": "1,396 Tweets"
   },
   {
     "name": "Lomba",
     "query": "Lomba",
     "rank": 3,
-    "tweet_count": "5,816 Tweets"
+    "tweet_count": "6,008 Tweets"
   },
   {
     "name": "#ZigZagArena",
     "query": "#ZigZagArena",
     "rank": 4,
-    "tweet_count": "1,901 Tweets"
+    "tweet_count": "1,942 Tweets"
   },
   {
-    "name": "Caio Paulista",
-    "query": "\"Caio Paulista\"",
+    "name": "khalil",
+    "query": "khalil",
     "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Khalil",
-    "query": "Khalil",
-    "rank": 6,
-    "tweet_count": "12.8K Tweets"
+    "tweet_count": "13.1K Tweets"
   },
   {
     "name": "ARTHURPICOLI NA ELIANA",
     "query": "\"ARTHURPICOLI NA ELIANA\"",
-    "rank": 7,
-    "tweet_count": "48.6K Tweets"
+    "rank": 6,
+    "tweet_count": "49.2K Tweets"
   },
   {
     "name": "Ansu Fati",
     "query": "\"Ansu Fati\"",
+    "rank": 7,
+    "tweet_count": "18.1K Tweets"
+  },
+  {
+    "name": "SIGA RICOOF NO IG",
+    "query": "\"SIGA RICOOF NO IG\"",
     "rank": 8,
-    "tweet_count": "13K Tweets"
+    "tweet_count": "12.7K Tweets"
   },
   {
     "name": "#TheMaskedSinger",
     "query": "#TheMaskedSinger",
     "rank": 9,
-    "tweet_count": "3,262 Tweets"
+    "tweet_count": "3,282 Tweets"
   },
   {
     "name": "#GOFURIA",
@@ -60,33 +60,27 @@
     "tweet_count": null
   },
   {
-    "name": "SIGA RICOOF NO IG",
-    "query": "\"SIGA RICOOF NO IG\"",
-    "rank": 11,
-    "tweet_count": "11.8K Tweets"
-  },
-  {
     "name": "#VALORANTLCQ",
     "query": "#VALORANTLCQ",
-    "rank": 12,
-    "tweet_count": "9,922 Tweets"
+    "rank": 11,
+    "tweet_count": "10.1K Tweets"
   },
   {
-    "name": "Mahomes",
-    "query": "Mahomes",
+    "name": "Marcos Rocha",
+    "query": "\"Marcos Rocha\"",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "Luiz Adriano",
+    "query": "\"Luiz Adriano\"",
     "rank": 13,
-    "tweet_count": "32.1K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Berlim",
     "query": "Berlim",
     "rank": 14,
-    "tweet_count": "1,963 Tweets"
-  },
-  {
-    "name": "Marcos Rocha",
-    "query": "\"Marcos Rocha\"",
-    "rank": 15,
-    "tweet_count": null
+    "tweet_count": "2,145 Tweets"
   }
 ]
