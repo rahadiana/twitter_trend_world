@@ -1,39 +1,39 @@
 [
   {
-    "name": "#Pressestunde",
-    "query": "#Pressestunde",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Schönen Sonntag",
     "query": "\"Schönen Sonntag\"",
+    "rank": 1,
+    "tweet_count": "4,345 Tweets"
+  },
+  {
+    "name": "#pressestunde",
+    "query": "#pressestunde",
     "rank": 2,
-    "tweet_count": "4,208 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#w1610",
     "query": "#w1610",
     "rank": 3,
-    "tweet_count": "1,745 Tweets"
+    "tweet_count": "1,757 Tweets"
   },
   {
-    "name": "#MaskedSinger",
-    "query": "#MaskedSinger",
+    "name": "#maskedsinger",
+    "query": "#maskedsinger",
     "rank": 4,
     "tweet_count": "10.7K Tweets"
   },
   {
-    "name": "#skascr",
-    "query": "#skascr",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
     "name": "Krone",
     "query": "Krone",
+    "rank": 5,
+    "tweet_count": "1,497 Tweets"
+  },
+  {
+    "name": "#85lvs",
+    "query": "#85lvs",
     "rank": 6,
-    "tweet_count": "1,431 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#scr2021",
@@ -45,23 +45,23 @@
     "name": "Khol",
     "query": "Khol",
     "rank": 8,
-    "tweet_count": "2,439 Tweets"
+    "tweet_count": "2,492 Tweets"
+  },
+  {
+    "name": "Fundis",
+    "query": "Fundis",
+    "rank": 9,
+    "tweet_count": null
   },
   {
     "name": "Arbeitslosen",
     "query": "Arbeitslosen",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Notstandshilfe",
     "query": "Notstandshilfe",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Fundis",
-    "query": "Fundis",
     "rank": 11,
     "tweet_count": null
   },
@@ -78,8 +78,8 @@
     "tweet_count": null
   },
   {
-    "name": "ensemble des burgtheaters",
-    "query": "\"ensemble des burgtheaters\"",
+    "name": "Ensemble des Burgtheaters",
+    "query": "\"Ensemble des Burgtheaters\"",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,35 +87,35 @@
     "name": "iPhone 6",
     "query": "\"iPhone 6\"",
     "rank": 15,
-    "tweet_count": "14.4K Tweets"
-  },
-  {
-    "name": "Schiller",
-    "query": "Schiller",
-    "rank": 16,
-    "tweet_count": "1,228 Tweets"
+    "tweet_count": "15.2K Tweets"
   },
   {
     "name": "schönen samstag",
     "query": "\"schönen samstag\"",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Strolz",
     "query": "Strolz",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
+  },
+  {
+    "name": "Schiller",
+    "query": "Schiller",
+    "rank": 18,
+    "tweet_count": "1,318 Tweets"
   },
   {
     "name": "Tommy",
     "query": "Tommy",
     "rank": 19,
-    "tweet_count": "61.5K Tweets"
+    "tweet_count": "62.4K Tweets"
   },
   {
-    "name": "sozialstaat",
-    "query": "sozialstaat",
+    "name": "hetze",
+    "query": "hetze",
     "rank": 20,
     "tweet_count": null
   }
