@@ -1,27 +1,27 @@
 [
   {
-    "name": "#Pressestunde",
-    "query": "#Pressestunde",
+    "name": "#pressestunde",
+    "query": "#pressestunde",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "Schönen Sonntag",
-    "query": "\"Schönen Sonntag\"",
-    "rank": 2,
-    "tweet_count": "3,541 Tweets"
-  },
-  {
     "name": "#w1610",
     "query": "#w1610",
-    "rank": 3,
-    "tweet_count": "2,069 Tweets"
+    "rank": 2,
+    "tweet_count": "2,030 Tweets"
   },
   {
     "name": "Krone",
     "query": "Krone",
+    "rank": 3,
+    "tweet_count": "1,461 Tweets"
+  },
+  {
+    "name": "Schönen Sonntag",
+    "query": "\"Schönen Sonntag\"",
     "rank": 4,
-    "tweet_count": "1,415 Tweets"
+    "tweet_count": "3,769 Tweets"
   },
   {
     "name": "#maskedsinger",
@@ -30,10 +30,10 @@
     "tweet_count": "10.6K Tweets"
   },
   {
-    "name": "Schiller",
-    "query": "Schiller",
+    "name": "schiller",
+    "query": "schiller",
     "rank": 6,
-    "tweet_count": "1,242 Tweets"
+    "tweet_count": "1,269 Tweets"
   },
   {
     "name": "#khol",
@@ -42,8 +42,8 @@
     "tweet_count": null
   },
   {
-    "name": "#skascr",
-    "query": "#skascr",
+    "name": "#85lvs",
+    "query": "#85lvs",
     "rank": 8,
     "tweet_count": null
   },
@@ -54,20 +54,20 @@
     "tweet_count": null
   },
   {
-    "name": "Ensemble des Burgtheaters",
-    "query": "\"Ensemble des Burgtheaters\"",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
     "name": "Arbeitslosen",
     "query": "Arbeitslosen",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Herr Hanger",
     "query": "\"Herr Hanger\"",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "Ensemble des Burgtheaters",
+    "query": "\"Ensemble des Burgtheaters\"",
     "rank": 12,
     "tweet_count": null
   },
@@ -75,7 +75,7 @@
     "name": "iPhone 6",
     "query": "\"iPhone 6\"",
     "rank": 13,
-    "tweet_count": "13.7K Tweets"
+    "tweet_count": "14.6K Tweets"
   },
   {
     "name": "schönen samstag",
@@ -90,32 +90,32 @@
     "tweet_count": null
   },
   {
-    "name": "Virus",
-    "query": "Virus",
-    "rank": 16,
-    "tweet_count": "116K Tweets"
-  },
-  {
     "name": "Tommy",
     "query": "Tommy",
-    "rank": 17,
-    "tweet_count": "62K Tweets"
+    "rank": 16,
+    "tweet_count": "62.6K Tweets"
   },
   {
     "name": "ethikrat",
     "query": "ethikrat",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Silberstein",
     "query": "Silberstein",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Literatur",
     "query": "Literatur",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Causa Kurz",
+    "query": "\"Causa Kurz\"",
     "rank": 20,
     "tweet_count": null
   }
