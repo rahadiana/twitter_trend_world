@@ -1,99 +1,99 @@
 [
   {
-    "name": "#SeleçãoDoSamba",
-    "query": "#SeleçãoDoSamba",
+    "name": "#selecaodosamba",
+    "query": "#selecaodosamba",
     "rank": 1,
-    "tweet_count": "3,896 Tweets"
+    "tweet_count": "5,591 Tweets"
   },
   {
     "name": "#Calamidade",
     "query": "#Calamidade",
     "rank": 2,
-    "tweet_count": "175K Tweets"
+    "tweet_count": "177K Tweets"
   },
   {
-    "name": "#BakeOffBrasil",
-    "query": "#BakeOffBrasil",
+    "name": "São Clemente",
+    "query": "\"São Clemente\"",
     "rank": 3,
-    "tweet_count": "5,703 Tweets"
+    "tweet_count": "1,158 Tweets"
+  },
+  {
+    "name": "Paulo Gustavo",
+    "query": "\"Paulo Gustavo\"",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "#bakeoffbrasil",
+    "query": "#bakeoffbrasil",
+    "rank": 5,
+    "tweet_count": "5,728 Tweets"
   },
   {
     "name": "Arnaldo",
     "query": "Arnaldo",
-    "rank": 4,
-    "tweet_count": "11.6K Tweets"
+    "rank": 6,
+    "tweet_count": "11.7K Tweets"
   },
   {
     "name": "Mocidade",
     "query": "Mocidade",
-    "rank": 5,
-    "tweet_count": "1,298 Tweets"
+    "rank": 7,
+    "tweet_count": "1,432 Tweets"
   },
   {
     "name": "BDAY POCAH",
     "query": "\"BDAY POCAH\"",
-    "rank": 6,
+    "rank": 8,
     "tweet_count": "15.5K Tweets"
   },
   {
     "name": "I&R IN ATLANTA",
     "query": "\"I&R IN ATLANTA\"",
-    "rank": 7,
-    "tweet_count": "36.4K Tweets"
+    "rank": 9,
+    "tweet_count": "36.5K Tweets"
   },
   {
     "name": "Wander Pires",
     "query": "\"Wander Pires\"",
-    "rank": 8,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "#MostRequestedLive",
     "query": "#MostRequestedLive",
-    "rank": 9,
-    "tweet_count": "273K Tweets"
-  },
-  {
-    "name": "#FestaAFazenda",
-    "query": "#FestaAFazenda",
-    "rank": 10,
-    "tweet_count": "11.2K Tweets"
-  },
-  {
-    "name": "São Clemente",
-    "query": "\"São Clemente\"",
     "rank": 11,
-    "tweet_count": null
+    "tweet_count": "274K Tweets"
   },
   {
-    "name": "Batman",
-    "query": "Batman",
+    "name": "#AltasHoras",
+    "query": "#AltasHoras",
     "rank": 12,
-    "tweet_count": "385K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Toska",
     "query": "Toska",
     "rank": 13,
-    "tweet_count": "1,684 Tweets"
+    "tweet_count": "1,685 Tweets"
+  },
+  {
+    "name": "Batman",
+    "query": "Batman",
+    "rank": 14,
+    "tweet_count": "388K Tweets"
   },
   {
     "name": "Dante",
     "query": "Dante",
-    "rank": 14,
-    "tweet_count": "38.1K Tweets"
+    "rank": 15,
+    "tweet_count": "38.4K Tweets"
   },
   {
     "name": "HOJE TEM FLAMENGO",
     "query": "\"HOJE TEM FLAMENGO\"",
-    "rank": 15,
-    "tweet_count": "3,730 Tweets"
-  },
-  {
-    "name": "Confiança",
-    "query": "Confiança",
     "rank": 16,
-    "tweet_count": "12K Tweets"
+    "tweet_count": "3,918 Tweets"
   },
   {
     "name": "Bertozzi",
@@ -102,20 +102,20 @@
     "tweet_count": null
   },
   {
-    "name": "Araponga",
-    "query": "Araponga",
+    "name": "Confiança",
+    "query": "Confiança",
     "rank": 18,
+    "tweet_count": "12.1K Tweets"
+  },
+  {
+    "name": "Milton Cunha",
+    "query": "\"Milton Cunha\"",
+    "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Avaí",
-    "query": "Avaí",
-    "rank": 19,
-    "tweet_count": "2,863 Tweets"
-  },
-  {
-    "name": "Zeca Pagodinho",
-    "query": "\"Zeca Pagodinho\"",
+    "name": "Araponga",
+    "query": "Araponga",
     "rank": 20,
     "tweet_count": null
   }
