@@ -1,15 +1,15 @@
 [
   {
-    "name": "North Shore",
-    "query": "\"North Shore\"",
-    "rank": 1,
-    "tweet_count": "1,632 Tweets"
-  },
-  {
     "name": "#birdoftheyear",
     "query": "#birdoftheyear",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "North Shore",
+    "query": "\"North Shore\"",
+    "rank": 2,
+    "tweet_count": "1,674 Tweets"
   },
   {
     "name": "#SuperSaturday",
@@ -27,19 +27,19 @@
     "name": "Herald",
     "query": "Herald",
     "rank": 5,
-    "tweet_count": "5,158 Tweets"
+    "tweet_count": "5,210 Tweets"
   },
   {
     "name": "Slater",
     "query": "Slater",
     "rank": 6,
-    "tweet_count": "3,565 Tweets"
+    "tweet_count": "3,628 Tweets"
   },
   {
     "name": "#UFCVegas40",
     "query": "#UFCVegas40",
     "rank": 7,
-    "tweet_count": "16.4K Tweets"
+    "tweet_count": "16.5K Tweets"
   },
   {
     "name": "tairawhiti",
@@ -48,75 +48,75 @@
     "tweet_count": null
   },
   {
-    "name": "bill ralston",
-    "query": "\"bill ralston\"",
+    "name": "Auckland",
+    "query": "Auckland",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "3,567 Tweets"
   },
   {
-    "name": "Batman",
-    "query": "Batman",
+    "name": "bill ralston",
+    "query": "\"bill ralston\"",
     "rank": 10,
-    "tweet_count": "299K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#TheBatman",
     "query": "#TheBatman",
     "rank": 11,
-    "tweet_count": "179K Tweets"
+    "tweet_count": "180K Tweets"
+  },
+  {
+    "name": "Batman",
+    "query": "Batman",
+    "rank": 12,
+    "tweet_count": "302K Tweets"
   },
   {
     "name": "Gisborne",
     "query": "Gisborne",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "peter gordon",
     "query": "\"peter gordon\"",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Level 4",
     "query": "\"Level 4\"",
-    "rank": 14,
-    "tweet_count": "8,998 Tweets"
-  },
-  {
-    "name": "Scotland",
-    "query": "Scotland",
     "rank": 15,
-    "tweet_count": "68.9K Tweets"
-  },
-  {
-    "name": "Auckland Domain",
-    "query": "\"Auckland Domain\"",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "9,112 Tweets"
   },
   {
     "name": "Fonterra",
     "query": "Fonterra",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Camryn",
     "query": "Camryn",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Team Spirit",
     "query": "\"Team Spirit\"",
+    "rank": 18,
+    "tweet_count": "87.3K Tweets"
+  },
+  {
+    "name": "Bloomfield",
+    "query": "Bloomfield",
     "rank": 19,
-    "tweet_count": "86.8K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Maxine",
     "query": "Maxine",
     "rank": 20,
-    "tweet_count": "2,587 Tweets"
+    "tweet_count": "2,611 Tweets"
   }
 ]

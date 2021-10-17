@@ -1,39 +1,39 @@
 [
   {
-    "name": "Baker",
-    "query": "Baker",
+    "name": "#CINvsDET",
+    "query": "#CINvsDET",
     "rank": 1,
-    "tweet_count": "23.4K Tweets"
+    "tweet_count": "2,828 Tweets"
   },
   {
-    "name": "Odell",
-    "query": "Odell",
+    "name": "#CINvsDET",
+    "query": "#CINvsDET",
     "rank": 2,
-    "tweet_count": "5,169 Tweets"
+    "tweet_count": "2,828 Tweets"
   },
   {
-    "name": "Delpit",
-    "query": "Delpit",
+    "name": "#ARIvsCLE",
+    "query": "#ARIvsCLE",
     "rank": 3,
     "tweet_count": null
   },
   {
-    "name": "#CINvsDET",
-    "query": "#CINvsDET",
+    "name": "Delpit",
+    "query": "Delpit",
     "rank": 4,
-    "tweet_count": "2,796 Tweets"
-  },
-  {
-    "name": "#CINvsDET",
-    "query": "#CINvsDET",
-    "rank": 5,
-    "tweet_count": "2,796 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Ward",
     "query": "Ward",
+    "rank": 5,
+    "tweet_count": "31.3K Tweets"
+  },
+  {
+    "name": "Clowney",
+    "query": "Clowney",
     "rank": 6,
-    "tweet_count": "31K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Bottlegate 2.0",
@@ -42,81 +42,81 @@
     "tweet_count": null
   },
   {
-    "name": "Kyler Murray",
-    "query": "\"Kyler Murray\"",
-    "rank": 8,
-    "tweet_count": "2,215 Tweets"
-  },
-  {
     "name": "Hooper",
     "query": "Hooper",
+    "rank": 8,
+    "tweet_count": "2,923 Tweets"
+  },
+  {
+    "name": "Mixon",
+    "query": "Mixon",
     "rank": 9,
-    "tweet_count": "2,829 Tweets"
+    "tweet_count": "3,611 Tweets"
   },
   {
     "name": "Arizona",
     "query": "Arizona",
     "rank": 10,
-    "tweet_count": "38.8K Tweets"
+    "tweet_count": "39.6K Tweets"
+  },
+  {
+    "name": "Beckham",
+    "query": "Beckham",
+    "rank": 11,
+    "tweet_count": "3,273 Tweets"
+  },
+  {
+    "name": "Deshaun Watson",
+    "query": "\"Deshaun Watson\"",
+    "rank": 12,
+    "tweet_count": "1,531 Tweets"
   },
   {
     "name": "Hudson",
     "query": "Hudson",
-    "rank": 11,
-    "tweet_count": "8,781 Tweets"
+    "rank": 13,
+    "tweet_count": "9,005 Tweets"
   },
   {
     "name": "Brownies",
     "query": "Brownies",
-    "rank": 12,
-    "tweet_count": "5,521 Tweets"
+    "rank": 14,
+    "tweet_count": "5,631 Tweets"
   },
   {
     "name": "Cards",
     "query": "Cards",
-    "rank": 13,
-    "tweet_count": "64.4K Tweets"
+    "rank": 15,
+    "tweet_count": "65.6K Tweets"
   },
   {
     "name": "Hendrickson",
     "query": "Hendrickson",
-    "rank": 14,
+    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "Detroit",
-    "query": "Detroit",
-    "rank": 15,
-    "tweet_count": "17.1K Tweets"
+    "name": "#DawgPound",
+    "query": "#DawgPound",
+    "rank": 17,
+    "tweet_count": null
   },
   {
     "name": "Jaguars",
     "query": "Jaguars",
-    "rank": 16,
-    "tweet_count": "50.3K Tweets"
-  },
-  {
-    "name": "Urban",
-    "query": "Urban",
-    "rank": 17,
-    "tweet_count": "44.1K Tweets"
-  },
-  {
-    "name": "Cincinnati",
-    "query": "Cincinnati",
     "rank": 18,
-    "tweet_count": "13.7K Tweets"
+    "tweet_count": "50.7K Tweets"
   },
   {
-    "name": "Vikings",
-    "query": "Vikings",
+    "name": "Detroit",
+    "query": "Detroit",
     "rank": 19,
-    "tweet_count": "39.5K Tweets"
+    "tweet_count": "17.6K Tweets"
   },
   {
-    "name": "Browns",
-    "query": "Browns",
+    "name": "Urban Meyer",
+    "query": "\"Urban Meyer\"",
     "rank": 20,
-    "tweet_count": "39K Tweets"
+    "tweet_count": "12K Tweets"
   }
 ]
