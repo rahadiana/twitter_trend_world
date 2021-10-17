@@ -1,27 +1,27 @@
 [
   {
-    "name": "Cardinals",
-    "query": "Cardinals",
-    "rank": 1,
-    "tweet_count": "16.6K Tweets"
-  },
-  {
-    "name": "Keenum",
-    "query": "Keenum",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
     "name": "Hudson",
     "query": "Hudson",
-    "rank": 3,
-    "tweet_count": "9,017 Tweets"
+    "rank": 1,
+    "tweet_count": "9,233 Tweets"
   },
   {
     "name": "Clowney",
     "query": "Clowney",
+    "rank": 2,
+    "tweet_count": "1,002 Tweets"
+  },
+  {
+    "name": "Ward",
+    "query": "Ward",
+    "rank": 3,
+    "tweet_count": "31.6K Tweets"
+  },
+  {
+    "name": "Defense",
+    "query": "Defense",
     "rank": 4,
-    "tweet_count": null
+    "tweet_count": "131K Tweets"
   },
   {
     "name": "Delpit",
@@ -30,93 +30,93 @@
     "tweet_count": null
   },
   {
-    "name": "Ward",
-    "query": "Ward",
+    "name": "Hooper",
+    "query": "Hooper",
     "rank": 6,
-    "tweet_count": "31.1K Tweets"
+    "tweet_count": "2,958 Tweets"
   },
   {
-    "name": "Bottlegate 2.0",
-    "query": "\"Bottlegate 2.0\"",
+    "name": "Mark Sanchez",
+    "query": "\"Mark Sanchez\"",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "1,300 Tweets"
   },
   {
-    "name": "Arizona",
-    "query": "Arizona",
+    "name": "John Johnson",
+    "query": "\"John Johnson\"",
     "rank": 8,
-    "tweet_count": "38.6K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Deshaun Watson",
     "query": "\"Deshaun Watson\"",
     "rank": 9,
-    "tweet_count": "1,337 Tweets"
+    "tweet_count": "1,371 Tweets"
   },
   {
-    "name": "Beckham",
-    "query": "Beckham",
+    "name": "Bottlegate 2.0",
+    "query": "\"Bottlegate 2.0\"",
     "rank": 10,
-    "tweet_count": "3,669 Tweets"
-  },
-  {
-    "name": "#DawgPound",
-    "query": "#DawgPound",
-    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Conklin",
     "query": "Conklin",
+    "rank": 11,
+    "tweet_count": "1,001 Tweets"
+  },
+  {
+    "name": "#DawgPound",
+    "query": "#DawgPound",
     "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "Cards",
-    "query": "Cards",
-    "rank": 13,
-    "tweet_count": "64.8K Tweets"
-  },
-  {
     "name": "Brownies",
     "query": "Brownies",
+    "rank": 13,
+    "tweet_count": "5,702 Tweets"
+  },
+  {
+    "name": "Cards",
+    "query": "Cards",
     "rank": 14,
-    "tweet_count": "5,617 Tweets"
+    "tweet_count": "66K Tweets"
   },
   {
     "name": "LETS GO",
     "query": "\"LETS GO\"",
     "rank": 15,
-    "tweet_count": "59.5K Tweets"
-  },
-  {
-    "name": "Mixon",
-    "query": "Mixon",
-    "rank": 16,
-    "tweet_count": "3,647 Tweets"
+    "tweet_count": "60.3K Tweets"
   },
   {
     "name": "Hunt",
     "query": "Hunt",
-    "rank": 17,
-    "tweet_count": "35.1K Tweets"
+    "rank": 16,
+    "tweet_count": "35.6K Tweets"
   },
   {
-    "name": "Jaguars",
-    "query": "Jaguars",
+    "name": "Mixon",
+    "query": "Mixon",
+    "rank": 17,
+    "tweet_count": "3,690 Tweets"
+  },
+  {
+    "name": "Dolphins",
+    "query": "Dolphins",
     "rank": 18,
-    "tweet_count": "51.2K Tweets"
+    "tweet_count": "44.4K Tweets"
   },
   {
     "name": "Detroit",
     "query": "Detroit",
     "rank": 19,
-    "tweet_count": "17.6K Tweets"
+    "tweet_count": "17.9K Tweets"
   },
   {
     "name": "Urban Meyer",
     "query": "\"Urban Meyer\"",
     "rank": 20,
-    "tweet_count": "12.2K Tweets"
+    "tweet_count": "12.3K Tweets"
   }
 ]
