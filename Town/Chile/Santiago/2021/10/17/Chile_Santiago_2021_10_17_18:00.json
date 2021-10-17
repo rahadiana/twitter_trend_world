@@ -1,69 +1,69 @@
 [
   {
+    "name": "Newcastle",
+    "query": "Newcastle",
+    "rank": 1,
+    "tweet_count": "109K Tweets"
+  },
+  {
     "name": "El Mercurio",
     "query": "\"El Mercurio\"",
-    "rank": 1,
-    "tweet_count": "2,573 Tweets"
+    "rank": 2,
+    "tweet_count": "2,648 Tweets"
   },
   {
     "name": "Metro",
     "query": "Metro",
-    "rank": 2,
-    "tweet_count": "60.1K Tweets"
+    "rank": 3,
+    "tweet_count": "61.3K Tweets"
+  },
+  {
+    "name": "#Alerta",
+    "query": "#Alerta",
+    "rank": 4,
+    "tweet_count": "2,375 Tweets"
   },
   {
     "name": "#MesaCentral",
     "query": "#MesaCentral",
-    "rank": 3,
-    "tweet_count": "8,789 Tweets"
+    "rank": 5,
+    "tweet_count": "9,491 Tweets"
   },
   {
     "name": "#KastEnPrimeraVuelta",
     "query": "#KastEnPrimeraVuelta",
-    "rank": 4,
-    "tweet_count": "11.1K Tweets"
+    "rank": 6,
+    "tweet_count": "11.9K Tweets"
   },
   {
     "name": "#18deoctubre",
     "query": "#18deoctubre",
-    "rank": 5,
-    "tweet_count": "5,453 Tweets"
+    "rank": 7,
+    "tweet_count": "5,843 Tweets"
   },
   {
     "name": "Clemente Pérez",
     "query": "\"Clemente Pérez\"",
-    "rank": 6,
-    "tweet_count": "2,651 Tweets"
+    "rank": 8,
+    "tweet_count": "2,921 Tweets"
   },
   {
     "name": "Karol Cariola",
     "query": "\"Karol Cariola\"",
-    "rank": 7,
-    "tweet_count": "1,842 Tweets"
-  },
-  {
-    "name": "Santa Cruz",
-    "query": "\"Santa Cruz\"",
-    "rank": 8,
-    "tweet_count": "11K Tweets"
+    "rank": 9,
+    "tweet_count": "2,358 Tweets"
   },
   {
     "name": "18-O",
     "query": "18-O",
-    "rank": 9,
-    "tweet_count": "33.8K Tweets"
-  },
-  {
-    "name": "CADEM",
-    "query": "CADEM",
     "rank": 10,
-    "tweet_count": "5,888 Tweets"
+    "tweet_count": "35K Tweets"
   },
   {
-    "name": "Proyecto Imán",
-    "query": "\"Proyecto Imán\"",
+    "name": "Cadem",
+    "query": "Cadem",
     "rank": 11,
-    "tweet_count": "6,900 Tweets"
+    "tweet_count": "6,276 Tweets"
   },
   {
     "name": "Nicolás Ibáñez",
@@ -72,45 +72,45 @@
     "tweet_count": null
   },
   {
-    "name": "Newcastle",
-    "query": "Newcastle",
+    "name": "Proyecto Imán",
+    "query": "\"Proyecto Imán\"",
     "rank": 13,
-    "tweet_count": "104K Tweets"
+    "tweet_count": "7,423 Tweets"
+  },
+  {
+    "name": "Santa Cruz",
+    "query": "\"Santa Cruz\"",
+    "rank": 14,
+    "tweet_count": "11.4K Tweets"
   },
   {
     "name": "Piñera Morel",
     "query": "\"Piñera Morel\"",
-    "rank": 14,
-    "tweet_count": "5,055 Tweets"
+    "rank": 15,
+    "tweet_count": "5,479 Tweets"
   },
   {
     "name": "Pulso Ciudadano",
     "query": "\"Pulso Ciudadano\"",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "#FelizDomingo",
-    "query": "#FelizDomingo",
     "rank": 16,
-    "tweet_count": "19.1K Tweets"
-  },
-  {
-    "name": "Estallido",
-    "query": "Estallido",
-    "rank": 17,
-    "tweet_count": "11.7K Tweets"
+    "tweet_count": "1,072 Tweets"
   },
   {
     "name": "Tellier",
     "query": "Tellier",
-    "rank": 18,
-    "tweet_count": "5,735 Tweets"
+    "rank": 17,
+    "tweet_count": "5,957 Tweets"
   },
   {
     "name": "El 18",
     "query": "\"El 18\"",
+    "rank": 18,
+    "tweet_count": "53.9K Tweets"
+  },
+  {
+    "name": "Estallido",
+    "query": "Estallido",
     "rank": 19,
-    "tweet_count": "52K Tweets"
+    "tweet_count": "12.1K Tweets"
   }
 ]

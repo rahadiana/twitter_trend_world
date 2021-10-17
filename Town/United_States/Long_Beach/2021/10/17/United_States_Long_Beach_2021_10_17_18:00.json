@@ -1,110 +1,116 @@
 [
   {
-    "name": "#SundayMorning",
-    "query": "#SundayMorning",
+    "name": "#Succession",
+    "query": "#Succession",
     "rank": 1,
-    "tweet_count": "19K Tweets"
+    "tweet_count": "5,385 Tweets"
   },
   {
-    "name": "#SundayThoughts",
-    "query": "#SundayThoughts",
+    "name": "#SundayMorning",
+    "query": "#SundayMorning",
     "rank": 2,
-    "tweet_count": "21.2K Tweets"
+    "tweet_count": "19.2K Tweets"
   },
   {
     "name": "#TI10",
     "query": "#TI10",
     "rank": 3,
-    "tweet_count": "62K Tweets"
+    "tweet_count": "69.7K Tweets"
   },
   {
-    "name": "#Succession",
-    "query": "#Succession",
+    "name": "Mike Williams",
+    "query": "\"Mike Williams\"",
     "rank": 4,
-    "tweet_count": "5,135 Tweets"
+    "tweet_count": "2,516 Tweets"
+  },
+  {
+    "name": "#SundayThoughts",
+    "query": "#SundayThoughts",
+    "rank": 5,
+    "tweet_count": "21.7K Tweets"
   },
   {
     "name": "Gameday",
     "query": "Gameday",
-    "rank": 5,
-    "tweet_count": "16.9K Tweets"
+    "rank": 6,
+    "tweet_count": "17.2K Tweets"
+  },
+  {
+    "name": "Pumpkin",
+    "query": "Pumpkin",
+    "rank": 7,
+    "tweet_count": "53.4K Tweets"
   },
   {
     "name": "Pete",
     "query": "Pete",
-    "rank": 6,
-    "tweet_count": "43.3K Tweets"
+    "rank": 8,
+    "tweet_count": "45.1K Tweets"
   },
   {
     "name": "Bill Clinton",
     "query": "\"Bill Clinton\"",
-    "rank": 7,
-    "tweet_count": "14K Tweets"
-  },
-  {
-    "name": "Brian Flores",
-    "query": "\"Brian Flores\"",
-    "rank": 8,
-    "tweet_count": "2,724 Tweets"
+    "rank": 9,
+    "tweet_count": "14.5K Tweets"
   },
   {
     "name": "Goff",
     "query": "Goff",
-    "rank": 9,
-    "tweet_count": "2,850 Tweets"
-  },
-  {
-    "name": "Coach O",
-    "query": "\"Coach O\"",
     "rank": 10,
-    "tweet_count": "6,337 Tweets"
+    "tweet_count": "4,245 Tweets"
   },
   {
-    "name": "Nate Solder",
-    "query": "\"Nate Solder\"",
+    "name": "Justin Fields",
+    "query": "\"Justin Fields\"",
     "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Chuck Todd",
-    "query": "\"Chuck Todd\"",
-    "rank": 12,
-    "tweet_count": "3,485 Tweets"
-  },
-  {
-    "name": "Leonard Williams",
-    "query": "\"Leonard Williams\"",
-    "rank": 13,
-    "tweet_count": null
+    "tweet_count": "3,708 Tweets"
   },
   {
     "name": "Robby",
     "query": "Robby",
+    "rank": 12,
+    "tweet_count": "5,098 Tweets"
+  },
+  {
+    "name": "Sam Darnold",
+    "query": "\"Sam Darnold\"",
+    "rank": 13,
+    "tweet_count": "2,292 Tweets"
+  },
+  {
+    "name": "Lions",
+    "query": "Lions",
     "rank": 14,
-    "tweet_count": "3,892 Tweets"
+    "tweet_count": "36K Tweets"
   },
   {
-    "name": "Joe Judge",
-    "query": "\"Joe Judge\"",
+    "name": "Coach O",
+    "query": "\"Coach O\"",
     "rank": 15,
-    "tweet_count": "1,051 Tweets"
+    "tweet_count": "6,846 Tweets"
   },
   {
-    "name": "Jon Stewart",
-    "query": "\"Jon Stewart\"",
+    "name": "Blough",
+    "query": "Blough",
     "rank": 16,
-    "tweet_count": "5,863 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Haiti",
-    "query": "Haiti",
+    "name": "Hardman",
+    "query": "Hardman",
     "rank": 17,
-    "tweet_count": "35.7K Tweets"
+    "tweet_count": "1,229 Tweets"
   },
   {
-    "name": "Chris Evans",
-    "query": "\"Chris Evans\"",
+    "name": "Chuck Todd",
+    "query": "\"Chuck Todd\"",
     "rank": 18,
-    "tweet_count": "6,491 Tweets"
+    "tweet_count": "3,831 Tweets"
+  },
+  {
+    "name": "Aaron Donald",
+    "query": "\"Aaron Donald\"",
+    "rank": 19,
+    "tweet_count": null
   }
 ]
