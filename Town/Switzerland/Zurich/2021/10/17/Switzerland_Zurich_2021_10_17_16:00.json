@@ -1,33 +1,33 @@
 [
   {
+    "name": "#rotblaulive",
+    "query": "#rotblaulive",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "#FCSGSFC",
+    "query": "#FCSGSFC",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
     "name": "#B04FCB",
     "query": "#B04FCB",
-    "rank": 1,
-    "tweet_count": "13K Tweets"
+    "rank": 3,
+    "tweet_count": "13.5K Tweets"
   },
   {
     "name": "#maskedsinger",
     "query": "#maskedsinger",
-    "rank": 2,
-    "tweet_count": "10.7K Tweets"
-  },
-  {
-    "name": "#lsgc",
-    "query": "#lsgc",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "#DCFanDome",
-    "query": "#DCFanDome",
     "rank": 4,
-    "tweet_count": "630K Tweets"
+    "tweet_count": "10.7K Tweets"
   },
   {
     "name": "Schönen Sonntag",
     "query": "\"Schönen Sonntag\"",
     "rank": 5,
-    "tweet_count": "4,885 Tweets"
+    "tweet_count": "4,950 Tweets"
   },
   {
     "name": "Gaskraftwerke",
@@ -42,16 +42,16 @@
     "tweet_count": null
   },
   {
-    "name": "Batman",
-    "query": "Batman",
-    "rank": 8,
-    "tweet_count": "442K Tweets"
-  },
-  {
     "name": "Lautaro",
     "query": "Lautaro",
+    "rank": 8,
+    "tweet_count": "9,550 Tweets"
+  },
+  {
+    "name": "Strom",
+    "query": "Strom",
     "rank": 9,
-    "tweet_count": "9,418 Tweets"
+    "tweet_count": "4,712 Tweets"
   },
   {
     "name": "Abhängigkeit",
@@ -60,57 +60,57 @@
     "tweet_count": null
   },
   {
-    "name": "Strom",
-    "query": "Strom",
-    "rank": 11,
-    "tweet_count": "4,553 Tweets"
-  },
-  {
     "name": "Rücken",
     "query": "Rücken",
-    "rank": 12,
-    "tweet_count": "1,521 Tweets"
+    "rank": 11,
+    "tweet_count": "1,571 Tweets"
   },
   {
     "name": "Maguire",
     "query": "Maguire",
-    "rank": 13,
-    "tweet_count": "44.1K Tweets"
+    "rank": 12,
+    "tweet_count": "44.9K Tweets"
   },
   {
     "name": "Berger",
     "query": "Berger",
+    "rank": 13,
+    "tweet_count": "3,570 Tweets"
+  },
+  {
+    "name": "Schlüssel",
+    "query": "Schlüssel",
     "rank": 14,
-    "tweet_count": "3,425 Tweets"
-  },
-  {
-    "name": "Kasse",
-    "query": "Kasse",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "zurigo",
-    "query": "zurigo",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "schlüssel",
-    "query": "schlüssel",
-    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Allay",
     "query": "Allay",
-    "rank": 18,
-    "tweet_count": "242K Tweets"
+    "rank": 15,
+    "tweet_count": "243K Tweets"
   },
   {
     "name": "frau bircher",
     "query": "\"frau bircher\"",
-    "rank": 19,
+    "rank": 16,
     "tweet_count": null
+  },
+  {
+    "name": "Schuss",
+    "query": "Schuss",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "la suisse",
+    "query": "\"la suisse\"",
+    "rank": 18,
+    "tweet_count": "2,015 Tweets"
+  },
+  {
+    "name": "Batman",
+    "query": "Batman",
+    "rank": 19,
+    "tweet_count": "449K Tweets"
   }
 ]
