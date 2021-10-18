@@ -1,9 +1,9 @@
 [
   {
-    "name": "Colin Powell",
-    "query": "\"Colin Powell\"",
+    "name": "#AppleEvent",
+    "query": "#AppleEvent",
     "rank": 1,
-    "tweet_count": "368K Tweets"
+    "tweet_count": "105K Tweets"
   },
   {
     "name": "שבוע טוב",
@@ -15,25 +15,25 @@
     "name": "רצח רבין",
     "query": "\"רצח רבין\"",
     "rank": 3,
-    "tweet_count": "2,245 Tweets"
+    "tweet_count": "2,325 Tweets"
+  },
+  {
+    "name": "Colin Powell",
+    "query": "\"Colin Powell\"",
+    "rank": 4,
+    "tweet_count": "384K Tweets"
   },
   {
     "name": "של רבין",
     "query": "\"של רבין\"",
-    "rank": 4,
-    "tweet_count": "7,263 Tweets"
+    "rank": 5,
+    "tweet_count": "7,467 Tweets"
   },
   {
     "name": "מורשת רבין",
     "query": "\"מורשת רבין\"",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "#AppleEvent",
-    "query": "#AppleEvent",
     "rank": 6,
-    "tweet_count": "49.5K Tweets"
+    "tweet_count": null
   },
   {
     "name": "בן גביר",
@@ -45,7 +45,7 @@
     "name": "יונתן בן ארצי",
     "query": "\"יונתן בן ארצי\"",
     "rank": 8,
-    "tweet_count": "1,162 Tweets"
+    "tweet_count": "1,210 Tweets"
   },
   {
     "name": "צבע אדום",
@@ -57,7 +57,7 @@
     "name": "Rabin",
     "query": "Rabin",
     "rank": 10,
-    "tweet_count": "2,019 Tweets"
+    "tweet_count": "2,096 Tweets"
   },
   {
     "name": "Yiddish",
@@ -84,38 +84,38 @@
     "tweet_count": null
   },
   {
-    "name": "ברוך דיין",
-    "query": "\"ברוך דיין\"",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
     "name": "Crusader",
     "query": "Crusader",
-    "rank": 16,
-    "tweet_count": "4,903 Tweets"
+    "rank": 15,
+    "tweet_count": "5,012 Tweets"
   },
   {
-    "name": "ראש הממשלה",
-    "query": "\"ראש הממשלה\"",
-    "rank": 17,
-    "tweet_count": "2,126 Tweets"
+    "name": "ברוך דיין",
+    "query": "\"ברוך דיין\"",
+    "rank": 16,
+    "tweet_count": null
   },
   {
     "name": "#China",
     "query": "#China",
-    "rank": 18,
-    "tweet_count": "20.6K Tweets"
+    "rank": 17,
+    "tweet_count": "20.9K Tweets"
   },
   {
     "name": "יום טוב",
     "query": "\"יום טוב\"",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "הנרי דוד",
     "query": "\"הנרי דוד\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "יום ראשון",
+    "query": "\"יום ראשון\"",
     "rank": 20,
     "tweet_count": null
   }
