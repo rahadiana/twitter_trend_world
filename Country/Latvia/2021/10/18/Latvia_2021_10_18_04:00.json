@@ -24,10 +24,10 @@
     "tweet_count": null
   },
   {
-    "name": "Pavļuts",
-    "query": "Pavļuts",
+    "name": "Pavļuta",
+    "query": "Pavļuta",
     "rank": 5,
-    "tweet_count": "1,033 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#rigaconf2021",
@@ -63,7 +63,7 @@
     "name": "Evil",
     "query": "Evil",
     "rank": 11,
-    "tweet_count": "352K Tweets"
+    "tweet_count": "356K Tweets"
   },
   {
     "name": "mannu",
@@ -90,22 +90,22 @@
     "tweet_count": null
   },
   {
+    "name": "COVID-19",
+    "query": "COVID-19",
+    "rank": 16,
+    "tweet_count": "262K Tweets"
+  },
+  {
     "name": "SARS-CoV-2",
     "query": "SARS-CoV-2",
-    "rank": 16,
-    "tweet_count": "11.9K Tweets"
+    "rank": 17,
+    "tweet_count": "12K Tweets"
   },
   {
     "name": "cilvēks",
     "query": "cilvēks",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "viņš",
-    "query": "viņš",
     "rank": 18,
-    "tweet_count": "1,464 Tweets"
+    "tweet_count": null
   },
   {
     "name": "mamikina",
@@ -117,6 +117,6 @@
     "name": "tāda",
     "query": "tāda",
     "rank": 20,
-    "tweet_count": "4,514 Tweets"
+    "tweet_count": "4,579 Tweets"
   }
 ]
