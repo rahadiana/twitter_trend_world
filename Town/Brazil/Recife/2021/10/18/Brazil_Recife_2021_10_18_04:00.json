@@ -1,15 +1,15 @@
 [
   {
-    "name": "mikael",
-    "query": "mikael",
+    "name": "hernanes",
+    "query": "hernanes",
     "rank": 1,
-    "tweet_count": "2,410 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Hernanes",
-    "query": "Hernanes",
+    "name": "Mikael",
+    "query": "Mikael",
     "rank": 2,
-    "tweet_count": null
+    "tweet_count": "2,442 Tweets"
   },
   {
     "name": "Florentin",
@@ -21,7 +21,7 @@
     "name": "Marcão",
     "query": "Marcão",
     "rank": 4,
-    "tweet_count": "7,040 Tweets"
+    "tweet_count": "7,085 Tweets"
   },
   {
     "name": "Barcia",
@@ -33,7 +33,7 @@
     "name": "Juba",
     "query": "Juba",
     "rank": 6,
-    "tweet_count": "1,233 Tweets"
+    "tweet_count": "1,224 Tweets"
   },
   {
     "name": "Everaldo",
@@ -45,78 +45,78 @@
     "name": "Flamengo",
     "query": "Flamengo",
     "rank": 8,
-    "tweet_count": "223K Tweets"
+    "tweet_count": "224K Tweets"
   },
   {
     "name": "Cuiabá",
     "query": "Cuiabá",
     "rank": 9,
-    "tweet_count": "47.8K Tweets"
+    "tweet_count": "48.1K Tweets"
+  },
+  {
+    "name": "Death Note",
+    "query": "\"Death Note\"",
+    "rank": 10,
+    "tweet_count": "20.7K Tweets"
   },
   {
     "name": "Renato",
     "query": "Renato",
-    "rank": 10,
-    "tweet_count": "30.4K Tweets"
-  },
-  {
-    "name": "death note",
-    "query": "\"death note\"",
     "rank": 11,
-    "tweet_count": "19.5K Tweets"
+    "tweet_count": "30.7K Tweets"
   },
   {
     "name": "Gustavo Henrique",
     "query": "\"Gustavo Henrique\"",
     "rank": 12,
-    "tweet_count": "10.5K Tweets"
+    "tweet_count": "10.6K Tweets"
   },
   {
     "name": "Vitor Gabriel",
     "query": "\"Vitor Gabriel\"",
     "rank": 13,
-    "tweet_count": "8,272 Tweets"
+    "tweet_count": "8,329 Tweets"
   },
   {
     "name": "Gabigol",
     "query": "Gabigol",
     "rank": 14,
-    "tweet_count": "30.1K Tweets"
+    "tweet_count": "30.2K Tweets"
   },
   {
     "name": "Vitinho",
     "query": "Vitinho",
     "rank": 15,
-    "tweet_count": "12K Tweets"
-  },
-  {
-    "name": "Michael",
-    "query": "Michael",
-    "rank": 16,
-    "tweet_count": "176K Tweets"
+    "tweet_count": "12.2K Tweets"
   },
   {
     "name": "Kourtney",
     "query": "Kourtney",
-    "rank": 17,
-    "tweet_count": "17.9K Tweets"
+    "rank": 16,
+    "tweet_count": "20.9K Tweets"
   },
   {
-    "name": "Atlético",
-    "query": "Atlético",
-    "rank": 18,
-    "tweet_count": "95K Tweets"
+    "name": "Michael",
+    "query": "Michael",
+    "rank": 17,
+    "tweet_count": "180K Tweets"
   },
   {
     "name": "TJ Watt",
     "query": "\"TJ Watt\"",
-    "rank": 19,
-    "tweet_count": "12.7K Tweets"
+    "rank": 18,
+    "tweet_count": "17.5K Tweets"
   },
   {
     "name": "#seokjinperfeito",
     "query": "#seokjinperfeito",
+    "rank": 19,
+    "tweet_count": "3,081 Tweets"
+  },
+  {
+    "name": "Atlético",
+    "query": "Atlético",
     "rank": 20,
-    "tweet_count": "2,943 Tweets"
+    "tweet_count": "95.4K Tweets"
   }
 ]
