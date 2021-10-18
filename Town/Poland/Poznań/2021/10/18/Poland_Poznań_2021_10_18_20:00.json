@@ -1,27 +1,27 @@
 [
   {
-    "name": "#AppleEvent",
-    "query": "#AppleEvent",
-    "rank": 1,
-    "tweet_count": "212K Tweets"
-  },
-  {
     "name": "#JAGRAD",
     "query": "#JAGRAD",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "#tanieczgwiazdami",
     "query": "#tanieczgwiazdami",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "#STMZAG",
-    "query": "#STMZAG",
+    "name": "#ARSCRY",
+    "query": "#ARSCRY",
+    "rank": 3,
+    "tweet_count": "29K Tweets"
+  },
+  {
+    "name": "#AppleEvent",
+    "query": "#AppleEvent",
     "rank": 4,
-    "tweet_count": null
+    "tweet_count": "215K Tweets"
   },
   {
     "name": "Hao Rao",
@@ -45,7 +45,7 @@
     "name": "Maty",
     "query": "Maty",
     "rank": 8,
-    "tweet_count": "4,659 Tweets"
+    "tweet_count": "4,743 Tweets"
   },
   {
     "name": "Panie Prezydencie",
@@ -57,47 +57,47 @@
     "name": "Szydło",
     "query": "Szydło",
     "rank": 10,
-    "tweet_count": "2,243 Tweets"
+    "tweet_count": "2,286 Tweets"
   },
   {
     "name": "Audi",
     "query": "Audi",
     "rank": 11,
-    "tweet_count": "11.2K Tweets"
+    "tweet_count": "11.4K Tweets"
   },
   {
     "name": "Colin Powell",
     "query": "\"Colin Powell\"",
     "rank": 12,
-    "tweet_count": "474K Tweets"
+    "tweet_count": "485K Tweets"
   },
   {
     "name": "Banasia",
     "query": "Banasia",
     "rank": 13,
-    "tweet_count": "1,283 Tweets"
+    "tweet_count": "1,319 Tweets"
+  },
+  {
+    "name": "Spurek",
+    "query": "Spurek",
+    "rank": 14,
+    "tweet_count": null
   },
   {
     "name": "Ziobro",
     "query": "Ziobro",
-    "rank": 14,
-    "tweet_count": "2,509 Tweets"
-  },
-  {
-    "name": "#ARSCRY",
-    "query": "#ARSCRY",
     "rank": 15,
-    "tweet_count": "26.5K Tweets"
+    "tweet_count": "2,574 Tweets"
   },
   {
-    "name": "#ChopinCompetition",
-    "query": "#ChopinCompetition",
+    "name": "#STMZAG",
+    "query": "#STMZAG",
     "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "#KonkursChopinowski",
-    "query": "#KonkursChopinowski",
+    "name": "#ChopinCompetition",
+    "query": "#ChopinCompetition",
     "rank": 17,
     "tweet_count": null
   }
