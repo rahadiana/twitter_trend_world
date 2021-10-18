@@ -3,31 +3,31 @@
     "name": "#ARSCRY",
     "query": "#ARSCRY",
     "rank": 1,
-    "tweet_count": "40.4K Tweets"
+    "tweet_count": "41K Tweets"
   },
   {
     "name": "North Shore",
     "query": "\"North Shore\"",
     "rank": 2,
-    "tweet_count": "1,578 Tweets"
+    "tweet_count": "1,585 Tweets"
   },
   {
     "name": "Sean Wainui",
     "query": "\"Sean Wainui\"",
     "rank": 3,
-    "tweet_count": "4,529 Tweets"
+    "tweet_count": "4,547 Tweets"
   },
   {
-    "name": "Amazon",
-    "query": "Amazon",
+    "name": "#AppleEvent",
+    "query": "#AppleEvent",
     "rank": 4,
-    "tweet_count": "698K Tweets"
+    "tweet_count": "224K Tweets"
   },
   {
-    "name": "Colin Powell",
-    "query": "\"Colin Powell\"",
+    "name": "#birdoftheyear",
+    "query": "#birdoftheyear",
     "rank": 5,
-    "tweet_count": "515K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Narrative Muse",
@@ -36,40 +36,40 @@
     "tweet_count": null
   },
   {
-    "name": "#birdoftheyear",
-    "query": "#birdoftheyear",
+    "name": "Amazon",
+    "query": "Amazon",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "705K Tweets"
   },
   {
-    "name": "#AppleEvent",
-    "query": "#AppleEvent",
+    "name": "Colin Powell",
+    "query": "\"Colin Powell\"",
     "rank": 8,
-    "tweet_count": "223K Tweets"
+    "tweet_count": "521K Tweets"
   },
   {
     "name": "Auckland",
     "query": "Auckland",
     "rank": 9,
-    "tweet_count": "6,651 Tweets"
+    "tweet_count": "6,723 Tweets"
   },
   {
     "name": "Succession",
     "query": "Succession",
     "rank": 10,
-    "tweet_count": "72.4K Tweets"
+    "tweet_count": "72.9K Tweets"
   },
   {
     "name": "Chiefs",
     "query": "Chiefs",
     "rank": 11,
-    "tweet_count": "52.7K Tweets"
+    "tweet_count": "53.1K Tweets"
   },
   {
     "name": "Paige",
     "query": "Paige",
     "rank": 12,
-    "tweet_count": "5,992 Tweets"
+    "tweet_count": "6,059 Tweets"
   },
   {
     "name": "#supersaturday",
@@ -84,28 +84,28 @@
     "tweet_count": null
   },
   {
+    "name": "Christmas",
+    "query": "Christmas",
+    "rank": 15,
+    "tweet_count": "164K Tweets"
+  },
+  {
     "name": "James Shaw",
     "query": "\"James Shaw\"",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "SUGA",
     "query": "SUGA",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": "1.08M Tweets"
   },
   {
     "name": "The Government",
     "query": "\"The Government\"",
-    "rank": 17,
-    "tweet_count": "448K Tweets"
-  },
-  {
-    "name": "Christmas",
-    "query": "Christmas",
     "rank": 18,
-    "tweet_count": "163K Tweets"
+    "tweet_count": "452K Tweets"
   },
   {
     "name": "#vaxathon",
@@ -117,6 +117,6 @@
     "name": "Cowboys",
     "query": "Cowboys",
     "rank": 20,
-    "tweet_count": "138K Tweets"
+    "tweet_count": "139K Tweets"
   }
 ]
