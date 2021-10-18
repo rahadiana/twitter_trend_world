@@ -1,110 +1,122 @@
 [
   {
-    "name": "Steelers",
-    "query": "Steelers",
-    "rank": 1,
-    "tweet_count": "105K Tweets"
-  },
-  {
-    "name": "Cowboys",
-    "query": "Cowboys",
-    "rank": 2,
-    "tweet_count": "152K Tweets"
-  },
-  {
     "name": "Colin Powell",
     "query": "\"Colin Powell\"",
-    "rank": 3,
-    "tweet_count": "184K Tweets"
-  },
-  {
-    "name": "Iraq",
-    "query": "Iraq",
-    "rank": 4,
-    "tweet_count": "29.6K Tweets"
+    "rank": 1,
+    "tweet_count": "208K Tweets"
   },
   {
     "name": "#mondaymotivation",
     "query": "#mondaymotivation",
-    "rank": 5,
-    "tweet_count": "53.2K Tweets"
-  },
-  {
-    "name": "Parkinson",
-    "query": "Parkinson",
-    "rank": 6,
-    "tweet_count": "3,237 Tweets"
-  },
-  {
-    "name": "Secretary of State",
-    "query": "\"Secretary of State\"",
-    "rank": 7,
-    "tweet_count": "74.8K Tweets"
-  },
-  {
-    "name": "#MondayMorning",
-    "query": "#MondayMorning",
-    "rank": 8,
-    "tweet_count": "12.9K Tweets"
-  },
-  {
-    "name": "#mondaythoughts",
-    "query": "#mondaythoughts",
-    "rank": 9,
-    "tweet_count": "21.3K Tweets"
+    "rank": 2,
+    "tweet_count": "55.1K Tweets"
   },
   {
     "name": "#PMSOverreactionMonday",
     "query": "#PMSOverreactionMonday",
-    "rank": 10,
+    "rank": 3,
     "tweet_count": null
   },
   {
-    "name": "Multiple Myeloma",
-    "query": "\"Multiple Myeloma\"",
-    "rank": 11,
-    "tweet_count": "10.8K Tweets"
-  },
-  {
-    "name": "Bush",
-    "query": "Bush",
-    "rank": 12,
-    "tweet_count": "32K Tweets"
-  },
-  {
-    "name": "Fully Vaccinated",
-    "query": "\"Fully Vaccinated\"",
-    "rank": 13,
-    "tweet_count": "71.7K Tweets"
-  },
-  {
-    "name": "RIP Sir",
-    "query": "\"RIP Sir\"",
-    "rank": 14,
-    "tweet_count": "2,778 Tweets"
-  },
-  {
-    "name": "Kissinger",
-    "query": "Kissinger",
-    "rank": 15,
-    "tweet_count": "2,367 Tweets"
-  },
-  {
-    "name": "Cheney",
-    "query": "Cheney",
-    "rank": 16,
-    "tweet_count": "4,994 Tweets"
+    "name": "#AppleEvent",
+    "query": "#AppleEvent",
+    "rank": 4,
+    "tweet_count": "18.5K Tweets"
   },
   {
     "name": "Victory Monday",
     "query": "\"Victory Monday\"",
-    "rank": 17,
-    "tweet_count": "2,672 Tweets"
+    "rank": 5,
+    "tweet_count": "2,912 Tweets"
   },
   {
     "name": "My Lai",
     "query": "\"My Lai\"",
+    "rank": 6,
+    "tweet_count": "2,037 Tweets"
+  },
+  {
+    "name": "#IAmTheOneThat",
+    "query": "#IAmTheOneThat",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "Ahmaud Arbery",
+    "query": "\"Ahmaud Arbery\"",
+    "rank": 8,
+    "tweet_count": "10.3K Tweets"
+  },
+  {
+    "name": "Elden Ring",
+    "query": "\"Elden Ring\"",
+    "rank": 9,
+    "tweet_count": "16.3K Tweets"
+  },
+  {
+    "name": "John Roberts",
+    "query": "\"John Roberts\"",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "#TLWIN",
+    "query": "#TLWIN",
+    "rank": 11,
+    "tweet_count": "1,564 Tweets"
+  },
+  {
+    "name": "Kourtney",
+    "query": "Kourtney",
+    "rank": 12,
+    "tweet_count": "59.4K Tweets"
+  },
+  {
+    "name": "Uggs",
+    "query": "Uggs",
+    "rank": 13,
+    "tweet_count": "2,494 Tweets"
+  },
+  {
+    "name": "Lane Johnson",
+    "query": "\"Lane Johnson\"",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Greedent",
+    "query": "Greedent",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "U.N.",
+    "query": "U.N.",
+    "rank": 16,
+    "tweet_count": "62.9K Tweets"
+  },
+  {
+    "name": "Slept",
+    "query": "Slept",
+    "rank": 17,
+    "tweet_count": "26.2K Tweets"
+  },
+  {
+    "name": "Gulf War",
+    "query": "\"Gulf War\"",
     "rank": 18,
-    "tweet_count": "1,688 Tweets"
+    "tweet_count": "1,630 Tweets"
+  },
+  {
+    "name": "Walter Reed",
+    "query": "\"Walter Reed\"",
+    "rank": 19,
+    "tweet_count": "1,981 Tweets"
+  },
+  {
+    "name": "My American Journey",
+    "query": "\"My American Journey\"",
+    "rank": 20,
+    "tweet_count": null
   }
 ]
