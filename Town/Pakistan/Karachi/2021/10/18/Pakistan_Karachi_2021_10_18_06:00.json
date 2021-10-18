@@ -1,75 +1,75 @@
 [
   {
-    "name": "#DontShareOTP",
-    "query": "#DontShareOTP",
+    "name": "#PinChor",
+    "query": "#PinChor",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "#PinChor",
-    "query": "#PinChor",
+    "name": "#DontShareOTP",
+    "query": "#DontShareOTP",
     "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "#SalamShuhadaeKarsaz",
-    "query": "#SalamShuhadaeKarsaz",
-    "rank": 3,
-    "tweet_count": "42K Tweets"
-  },
-  {
     "name": "#DharnaWithWaqarZaka",
     "query": "#DharnaWithWaqarZaka",
+    "rank": 3,
+    "tweet_count": "54.6K Tweets"
+  },
+  {
+    "name": "#SalamShuhadaeKarsaz",
+    "query": "#SalamShuhadaeKarsaz",
     "rank": 4,
-    "tweet_count": "53.1K Tweets"
+    "tweet_count": "42.4K Tweets"
   },
   {
     "name": "#T20WorldCup",
     "query": "#T20WorldCup",
     "rank": 5,
-    "tweet_count": "68.7K Tweets"
+    "tweet_count": "70.3K Tweets"
   },
   {
     "name": "Scotland",
     "query": "Scotland",
     "rank": 6,
-    "tweet_count": "71.9K Tweets"
+    "tweet_count": "73K Tweets"
   },
   {
     "name": "Bangladesh",
     "query": "Bangladesh",
     "rank": 7,
-    "tweet_count": "144K Tweets"
+    "tweet_count": "147K Tweets"
   },
   {
     "name": "West Indies",
     "query": "\"West Indies\"",
     "rank": 8,
-    "tweet_count": "3,481 Tweets"
-  },
-  {
-    "name": "England",
-    "query": "England",
-    "rank": 9,
-    "tweet_count": "91.3K Tweets"
+    "tweet_count": "3,590 Tweets"
   },
   {
     "name": "Tiger Force",
     "query": "\"Tiger Force\"",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Khadija",
     "query": "Khadija",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": "10.5K Tweets"
   },
   {
     "name": "Player of the Tournament",
     "query": "\"Player of the Tournament\"",
+    "rank": 11,
+    "tweet_count": "1,559 Tweets"
+  },
+  {
+    "name": "England",
+    "query": "England",
     "rank": 12,
-    "tweet_count": "1,552 Tweets"
+    "tweet_count": "92.8K Tweets"
   },
   {
     "name": "rs 10.49",
@@ -78,45 +78,45 @@
     "tweet_count": null
   },
   {
-    "name": "vmin",
-    "query": "vmin",
-    "rank": 14,
-    "tweet_count": "62.4K Tweets"
-  },
-  {
-    "name": "Umar Riaz Ruling Hearts",
-    "query": "\"Umar Riaz Ruling Hearts\"",
-    "rank": 15,
-    "tweet_count": "45.4K Tweets"
-  },
-  {
     "name": "Happy Birthday Professor",
     "query": "\"Happy Birthday Professor\"",
-    "rank": 16,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Batman",
     "query": "Batman",
-    "rank": 17,
-    "tweet_count": "188K Tweets"
+    "rank": 15,
+    "tweet_count": "189K Tweets"
   },
   {
-    "name": "Ansu Fati",
-    "query": "\"Ansu Fati\"",
-    "rank": 18,
-    "tweet_count": "47.9K Tweets"
+    "name": "vmin",
+    "query": "vmin",
+    "rank": 16,
+    "tweet_count": "63.4K Tweets"
   },
   {
     "name": "Buddha",
     "query": "Buddha",
-    "rank": 19,
-    "tweet_count": "12.5K Tweets"
+    "rank": 17,
+    "tweet_count": "12.8K Tweets"
   },
   {
     "name": "Total Tests in Last 24 Hours",
     "query": "\"Total Tests in Last 24 Hours\"",
-    "rank": 20,
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Critical Care",
+    "query": "\"Critical Care\"",
+    "rank": 19,
+    "tweet_count": "1,596 Tweets"
+  },
+  {
+    "name": "Positive Cases",
+    "query": "\"Positive Cases\"",
+    "rank": 20,
+    "tweet_count": "3,484 Tweets"
   }
 ]
