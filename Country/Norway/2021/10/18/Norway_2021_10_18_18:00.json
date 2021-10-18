@@ -9,13 +9,13 @@
     "name": "#AppleEvent",
     "query": "#AppleEvent",
     "rank": 2,
-    "tweet_count": "165K Tweets"
+    "tweet_count": "185K Tweets"
   },
   {
     "name": "Person 1",
     "query": "\"Person 1\"",
     "rank": 3,
-    "tweet_count": "231K Tweets"
+    "tweet_count": "241K Tweets"
   },
   {
     "name": "lerkendal",
@@ -42,16 +42,16 @@
     "tweet_count": null
   },
   {
-    "name": "#Mekelle",
-    "query": "#Mekelle",
+    "name": "hareide",
+    "query": "hareide",
     "rank": 8,
-    "tweet_count": "56.6K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Hareide",
-    "query": "Hareide",
+    "name": "#Mekelle",
+    "query": "#Mekelle",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "59.1K Tweets"
   },
   {
     "name": "#vikingfk",
@@ -72,16 +72,16 @@
     "tweet_count": null
   },
   {
-    "name": "Colin Powell",
-    "query": "\"Colin Powell\"",
-    "rank": 13,
-    "tweet_count": "405K Tweets"
-  },
-  {
     "name": "SUGA",
     "query": "SUGA",
+    "rank": 13,
+    "tweet_count": "1.02M Tweets"
+  },
+  {
+    "name": "Colin Powell",
+    "query": "\"Colin Powell\"",
     "rank": 14,
-    "tweet_count": "1.01M Tweets"
+    "tweet_count": "422K Tweets"
   },
   {
     "name": "marienlyst",
@@ -117,6 +117,6 @@
     "name": "Zidane",
     "query": "Zidane",
     "rank": 20,
-    "tweet_count": "26.8K Tweets"
+    "tweet_count": "28K Tweets"
   }
 ]
