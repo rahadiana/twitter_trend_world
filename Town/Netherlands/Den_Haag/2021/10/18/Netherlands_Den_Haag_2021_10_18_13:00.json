@@ -1,86 +1,122 @@
 [
   {
-    "name": "Colin Powell",
-    "query": "\"Colin Powell\"",
-    "rank": 1,
-    "tweet_count": "139K Tweets"
-  },
-  {
     "name": "Baudet",
     "query": "Baudet",
-    "rank": 2,
-    "tweet_count": "12.2K Tweets"
+    "rank": 1,
+    "tweet_count": "12.3K Tweets"
   },
   {
-    "name": "Omroep Gelderland",
-    "query": "\"Omroep Gelderland\"",
-    "rank": 3,
-    "tweet_count": null
+    "name": "Colin Powell",
+    "query": "\"Colin Powell\"",
+    "rank": 2,
+    "tweet_count": "152K Tweets"
   },
   {
     "name": "Humberto",
     "query": "Humberto",
+    "rank": 3,
+    "tweet_count": "13.7K Tweets"
+  },
+  {
+    "name": "#woonopstand",
+    "query": "#woonopstand",
     "rank": 4,
-    "tweet_count": "13.6K Tweets"
+    "tweet_count": "11.4K Tweets"
   },
   {
-    "name": "Irak",
-    "query": "Irak",
+    "name": "#necvit",
+    "query": "#necvit",
     "rank": 5,
-    "tweet_count": "5,251 Tweets"
-  },
-  {
-    "name": "#qrankzinnig",
-    "query": "#qrankzinnig",
-    "rank": 6,
-    "tweet_count": null
+    "tweet_count": "2,959 Tweets"
   },
   {
     "name": "AIDS",
     "query": "AIDS",
-    "rank": 7,
-    "tweet_count": "18.5K Tweets"
+    "rank": 6,
+    "tweet_count": "18.7K Tweets"
   },
   {
-    "name": "#PeterRdeVries",
-    "query": "#PeterRdeVries",
+    "name": "#TweWil",
+    "query": "#TweWil",
+    "rank": 7,
+    "tweet_count": "1,016 Tweets"
+  },
+  {
+    "name": "#spagro",
+    "query": "#spagro",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Kamil E.",
-    "query": "\"Kamil E.\"",
+    "name": "Slept",
+    "query": "Slept",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "26.3K Tweets"
   },
   {
-    "name": "Delano G.",
-    "query": "\"Delano G.\"",
+    "name": "#woonprotest",
+    "query": "#woonprotest",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "2,605 Tweets"
   },
   {
     "name": "Isala",
     "query": "Isala",
     "rank": 11,
-    "tweet_count": "2,662 Tweets"
+    "tweet_count": "2,716 Tweets"
   },
   {
-    "name": "gerapporteerd",
-    "query": "gerapporteerd",
+    "name": "Omroep Gelderland",
+    "query": "\"Omroep Gelderland\"",
     "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "Zwolle",
-    "query": "Zwolle",
+    "name": "Antifa",
+    "query": "Antifa",
     "rank": 13,
-    "tweet_count": "4,187 Tweets"
+    "tweet_count": "26.4K Tweets"
   },
   {
-    "name": "#herfstvakantie",
-    "query": "#herfstvakantie",
+    "name": "Irak",
+    "query": "Irak",
     "rank": 14,
+    "tweet_count": "5,507 Tweets"
+  },
+  {
+    "name": "Kamphuis",
+    "query": "Kamphuis",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Airbnb",
+    "query": "Airbnb",
+    "rank": 16,
+    "tweet_count": "9,871 Tweets"
+  },
+  {
+    "name": "Delano G.",
+    "query": "\"Delano G.\"",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Aboutaleb",
+    "query": "Aboutaleb",
+    "rank": 18,
+    "tweet_count": "2,098 Tweets"
+  },
+  {
+    "name": "Kamil E.",
+    "query": "\"Kamil E.\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Kwajongens",
+    "query": "Kwajongens",
+    "rank": 20,
     "tweet_count": null
   }
 ]
