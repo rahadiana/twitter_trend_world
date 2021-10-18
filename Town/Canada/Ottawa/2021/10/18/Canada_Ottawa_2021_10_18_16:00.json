@@ -1,39 +1,39 @@
 [
   {
+    "name": "Auston Matthews",
+    "query": "\"Auston Matthews\"",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "Colin Powell",
     "query": "\"Colin Powell\"",
-    "rank": 1,
-    "tweet_count": "312K Tweets"
-  },
-  {
-    "name": "Iraq",
-    "query": "Iraq",
     "rank": 2,
-    "tweet_count": "43.8K Tweets"
-  },
-  {
-    "name": "#mondaymotivation",
-    "query": "#mondaymotivation",
-    "rank": 3,
-    "tweet_count": "64.5K Tweets"
+    "tweet_count": "346K Tweets"
   },
   {
     "name": "#SmallBusinessWeek",
     "query": "#SmallBusinessWeek",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
-  },
-  {
-    "name": "#MyYooniverseRemix",
-    "query": "#MyYooniverseRemix",
-    "rank": 5,
-    "tweet_count": "170K Tweets"
   },
   {
     "name": "#PersonsDay",
     "query": "#PersonsDay",
-    "rank": 6,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "#mondaymotivation",
+    "query": "#mondaymotivation",
+    "rank": 5,
+    "tweet_count": "67.1K Tweets"
+  },
+  {
+    "name": "#MyYooniverseRemix",
+    "query": "#MyYooniverseRemix",
+    "rank": 6,
+    "tweet_count": "179K Tweets"
   },
   {
     "name": "#WasteReductionWeek",
@@ -48,63 +48,63 @@
     "tweet_count": null
   },
   {
-    "name": "Election Day",
-    "query": "\"Election Day\"",
-    "rank": 9,
-    "tweet_count": "8,827 Tweets"
-  },
-  {
     "name": "Elden Ring",
     "query": "\"Elden Ring\"",
+    "rank": 9,
+    "tweet_count": "38K Tweets"
+  },
+  {
+    "name": "Ted Cruz",
+    "query": "\"Ted Cruz\"",
     "rank": 10,
-    "tweet_count": "34.7K Tweets"
+    "tweet_count": "20.4K Tweets"
   },
   {
     "name": "Bush",
     "query": "Bush",
     "rank": 11,
-    "tweet_count": "39.9K Tweets"
+    "tweet_count": "42.7K Tweets"
   },
   {
-    "name": "WMDs",
-    "query": "WMDs",
+    "name": "Bergevin",
+    "query": "Bergevin",
     "rank": 12,
-    "tweet_count": "4,297 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Ted Cruz",
-    "query": "\"Ted Cruz\"",
+    "name": "Patrick Roy",
+    "query": "\"Patrick Roy\"",
     "rank": 13,
-    "tweet_count": "18.2K Tweets"
-  },
-  {
-    "name": "Auston Matthews",
-    "query": "\"Auston Matthews\"",
-    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Nenshi",
     "query": "Nenshi",
-    "rank": 15,
-    "tweet_count": "6,134 Tweets"
+    "rank": 14,
+    "tweet_count": "6,404 Tweets"
   },
   {
     "name": "Kourtney",
     "query": "Kourtney",
+    "rank": 15,
+    "tweet_count": "71.1K Tweets"
+  },
+  {
+    "name": "#yegvote",
+    "query": "#yegvote",
     "rank": 16,
-    "tweet_count": "67.6K Tweets"
+    "tweet_count": "2,054 Tweets"
   },
   {
-    "name": "#Mondayvibes",
-    "query": "#Mondayvibes",
+    "name": "#yycvote",
+    "query": "#yycvote",
     "rank": 17,
-    "tweet_count": "7,702 Tweets"
+    "tweet_count": "2,732 Tweets"
   },
   {
-    "name": "#MondayMorning",
-    "query": "#MondayMorning",
+    "name": "#AppleEvent",
+    "query": "#AppleEvent",
     "rank": 18,
-    "tweet_count": "14.7K Tweets"
+    "tweet_count": "29.4K Tweets"
   }
 ]

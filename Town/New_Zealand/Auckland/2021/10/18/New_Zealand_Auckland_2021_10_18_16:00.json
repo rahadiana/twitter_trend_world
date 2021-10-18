@@ -1,19 +1,19 @@
 [
   {
-    "name": "North Shore",
-    "query": "\"North Shore\"",
-    "rank": 1,
-    "tweet_count": "1,711 Tweets"
-  },
-  {
     "name": "Sean Wainui",
     "query": "\"Sean Wainui\"",
-    "rank": 2,
-    "tweet_count": "4,073 Tweets"
+    "rank": 1,
+    "tweet_count": "4,136 Tweets"
   },
   {
-    "name": "#BirdoftheYear",
-    "query": "#BirdoftheYear",
+    "name": "North Shore",
+    "query": "\"North Shore\"",
+    "rank": 2,
+    "tweet_count": "1,748 Tweets"
+  },
+  {
+    "name": "#birdoftheyear",
+    "query": "#birdoftheyear",
     "rank": 3,
     "tweet_count": null
   },
@@ -21,31 +21,31 @@
     "name": "Auckland",
     "query": "Auckland",
     "rank": 4,
-    "tweet_count": "6,279 Tweets"
+    "tweet_count": "6,409 Tweets"
   },
   {
     "name": "Paige",
     "query": "Paige",
     "rank": 5,
-    "tweet_count": "5,314 Tweets"
+    "tweet_count": "5,565 Tweets"
   },
   {
     "name": "Succession",
     "query": "Succession",
     "rank": 6,
-    "tweet_count": "75.3K Tweets"
+    "tweet_count": "76.8K Tweets"
   },
   {
     "name": "Chiefs",
     "query": "Chiefs",
     "rank": 7,
-    "tweet_count": "80.2K Tweets"
+    "tweet_count": "82.8K Tweets"
   },
   {
     "name": "Slater",
     "query": "Slater",
     "rank": 8,
-    "tweet_count": "3,496 Tweets"
+    "tweet_count": "3,597 Tweets"
   },
   {
     "name": "#supersaturday",
@@ -54,52 +54,52 @@
     "tweet_count": null
   },
   {
-    "name": "#TI10",
-    "query": "#TI10",
-    "rank": 10,
-    "tweet_count": "45K Tweets"
-  },
-  {
     "name": "redvale",
     "query": "redvale",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Herald",
     "query": "Herald",
-    "rank": 12,
-    "tweet_count": "5,258 Tweets"
+    "rank": 11,
+    "tweet_count": "5,610 Tweets"
   },
   {
     "name": "#NUFC",
     "query": "#NUFC",
-    "rank": 13,
-    "tweet_count": "37.2K Tweets"
+    "rank": 12,
+    "tweet_count": "37.8K Tweets"
   },
   {
     "name": "James Shaw",
     "query": "\"James Shaw\"",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
+  },
+  {
+    "name": "#TI10",
+    "query": "#TI10",
+    "rank": 14,
+    "tweet_count": "45.1K Tweets"
   },
   {
     "name": "Craig",
     "query": "Craig",
     "rank": 15,
-    "tweet_count": "19.8K Tweets"
+    "tweet_count": "20.6K Tweets"
   },
   {
     "name": "Team Spirit",
     "query": "\"Team Spirit\"",
     "rank": 16,
-    "tweet_count": "66.5K Tweets"
+    "tweet_count": "66.9K Tweets"
   },
   {
     "name": "The Chase",
     "query": "\"The Chase\"",
     "rank": 17,
-    "tweet_count": "22.5K Tweets"
+    "tweet_count": "23.7K Tweets"
   },
   {
     "name": "#boty2021",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "dirty politics",
-    "query": "\"dirty politics\"",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
     "name": "Cowboys",
     "query": "Cowboys",
+    "rank": 19,
+    "tweet_count": "156K Tweets"
+  },
+  {
+    "name": "Warriors",
+    "query": "Warriors",
     "rank": 20,
-    "tweet_count": "155K Tweets"
+    "tweet_count": "34.1K Tweets"
   }
 ]
