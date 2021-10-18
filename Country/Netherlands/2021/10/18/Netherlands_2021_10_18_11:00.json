@@ -3,25 +3,25 @@
     "name": "Baudet",
     "query": "Baudet",
     "rank": 1,
-    "tweet_count": "10.5K Tweets"
-  },
-  {
-    "name": "Humberto",
-    "query": "Humberto",
-    "rank": 2,
-    "tweet_count": "11.9K Tweets"
+    "tweet_count": "10.7K Tweets"
   },
   {
     "name": "Omroep Gelderland",
     "query": "\"Omroep Gelderland\"",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "Humberto",
+    "query": "Humberto",
+    "rank": 3,
+    "tweet_count": "12.2K Tweets"
   },
   {
     "name": "AIDS",
     "query": "AIDS",
     "rank": 4,
-    "tweet_count": "16.2K Tweets"
+    "tweet_count": "16.6K Tweets"
   },
   {
     "name": "#PeterRdeVries",
@@ -42,45 +42,57 @@
     "tweet_count": null
   },
   {
+    "name": "#qrankzinnig",
+    "query": "#qrankzinnig",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
     "name": "Airbnb",
     "query": "Airbnb",
-    "rank": 8,
-    "tweet_count": "8,999 Tweets"
+    "rank": 9,
+    "tweet_count": "9,132 Tweets"
   },
   {
     "name": "#mondaymotivation",
     "query": "#mondaymotivation",
-    "rank": 9,
-    "tweet_count": "37.8K Tweets"
-  },
-  {
-    "name": "Isala",
-    "query": "Isala",
     "rank": 10,
-    "tweet_count": "2,028 Tweets"
+    "tweet_count": "39.4K Tweets"
   },
   {
-    "name": "Goeiemorgen",
-    "query": "Goeiemorgen",
+    "name": "ISALA",
+    "query": "ISALA",
     "rank": 11,
-    "tweet_count": "1,022 Tweets"
+    "tweet_count": "2,170 Tweets"
+  },
+  {
+    "name": "#maandag",
+    "query": "#maandag",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "goeiemorgen",
+    "query": "goeiemorgen",
+    "rank": 13,
+    "tweet_count": "1,023 Tweets"
   },
   {
     "name": "Zwolle",
     "query": "Zwolle",
-    "rank": 12,
-    "tweet_count": "3,715 Tweets"
+    "rank": 14,
+    "tweet_count": "3,837 Tweets"
   },
   {
     "name": "bruls",
     "query": "bruls",
-    "rank": 13,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "#herfstvakantie",
     "query": "#herfstvakantie",
-    "rank": 14,
+    "rank": 16,
     "tweet_count": null
   }
 ]
