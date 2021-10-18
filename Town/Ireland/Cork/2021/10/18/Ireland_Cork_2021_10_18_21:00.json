@@ -3,23 +3,23 @@
     "name": "#ARSCRY",
     "query": "#ARSCRY",
     "rank": 1,
-    "tweet_count": "40K Tweets"
-  },
-  {
-    "name": "Rovers",
-    "query": "Rovers",
-    "rank": 2,
-    "tweet_count": "2,744 Tweets"
-  },
-  {
-    "name": "Bohs",
-    "query": "Bohs",
-    "rank": 3,
-    "tweet_count": null
+    "tweet_count": "40.4K Tweets"
   },
   {
     "name": "#TonightVMTV",
     "query": "#TonightVMTV",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "Rovers",
+    "query": "Rovers",
+    "rank": 3,
+    "tweet_count": "2,763 Tweets"
+  },
+  {
+    "name": "Bohs",
+    "query": "Bohs",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,7 +27,7 @@
     "name": "#Corrie",
     "query": "#Corrie",
     "rank": 5,
-    "tweet_count": "4,040 Tweets"
+    "tweet_count": "4,063 Tweets"
   },
   {
     "name": "#AppleEvent",
@@ -42,21 +42,27 @@
     "tweet_count": null
   },
   {
+    "name": "Conte",
+    "query": "Conte",
+    "rank": 8,
+    "tweet_count": "27.3K Tweets"
+  },
+  {
     "name": "Colin Powell",
     "query": "\"Colin Powell\"",
-    "rank": 8,
-    "tweet_count": "511K Tweets"
+    "rank": 9,
+    "tweet_count": "515K Tweets"
   },
   {
     "name": "#DublinDerby",
     "query": "#DublinDerby",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "#Succession",
     "query": "#Succession",
-    "rank": 10,
-    "tweet_count": "26K Tweets"
+    "rank": 11,
+    "tweet_count": "26.1K Tweets"
   }
 ]
