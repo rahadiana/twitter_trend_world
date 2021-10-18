@@ -1,21 +1,21 @@
 [
   {
+    "name": "#Reichelt",
+    "query": "#Reichelt",
+    "rank": 1,
+    "tweet_count": "2,019 Tweets"
+  },
+  {
     "name": "Wochenstart",
     "query": "Wochenstart",
-    "rank": 1,
-    "tweet_count": null
+    "rank": 2,
+    "tweet_count": "1,004 Tweets"
   },
   {
     "name": "Start in die Woche",
     "query": "\"Start in die Woche\"",
-    "rank": 2,
-    "tweet_count": "1,628 Tweets"
-  },
-  {
-    "name": "#Reichelt",
-    "query": "#Reichelt",
     "rank": 3,
-    "tweet_count": "1,853 Tweets"
+    "tweet_count": "1,679 Tweets"
   },
   {
     "name": "#Montagslaecheln",
@@ -27,13 +27,13 @@
     "name": "#mondaymotivation",
     "query": "#mondaymotivation",
     "rank": 5,
-    "tweet_count": "22.1K Tweets"
+    "tweet_count": "23.4K Tweets"
   },
   {
-    "name": "#PandemieEnde",
-    "query": "#PandemieEnde",
+    "name": "#Ippen",
+    "query": "#Ippen",
     "rank": 6,
-    "tweet_count": "14.2K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Montagmorgen",
@@ -45,13 +45,13 @@
     "name": "Axel Springer",
     "query": "\"Axel Springer\"",
     "rank": 8,
-    "tweet_count": "7,056 Tweets"
+    "tweet_count": "7,301 Tweets"
   },
   {
     "name": "New York",
     "query": "\"New York\"",
     "rank": 9,
-    "tweet_count": "122K Tweets"
+    "tweet_count": "123K Tweets"
   },
   {
     "name": "Frieda",
@@ -69,13 +69,13 @@
     "name": "Finanzminister",
     "query": "Finanzminister",
     "rank": 12,
-    "tweet_count": "2,338 Tweets"
+    "tweet_count": "2,387 Tweets"
   },
   {
-    "name": "#Ippen",
-    "query": "#Ippen",
+    "name": "#PandemieEnde",
+    "query": "#PandemieEnde",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "14.5K Tweets"
   },
   {
     "name": "#HaltDieFresseBild",
@@ -90,15 +90,15 @@
     "tweet_count": null
   },
   {
-    "name": "#NaziErika",
-    "query": "#NaziErika",
+    "name": "#fairlesen",
+    "query": "#fairlesen",
     "rank": 16,
-    "tweet_count": "5,235 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Habeck",
     "query": "#Habeck",
     "rank": 17,
-    "tweet_count": "1,308 Tweets"
+    "tweet_count": "1,325 Tweets"
   }
 ]
