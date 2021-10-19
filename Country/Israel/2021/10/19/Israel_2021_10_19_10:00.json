@@ -1,21 +1,21 @@
 [
   {
-    "name": "של רבין",
-    "query": "\"של רבין\"",
-    "rank": 1,
-    "tweet_count": "9,627 Tweets"
-  },
-  {
     "name": "רצח רבין",
     "query": "\"רצח רבין\"",
-    "rank": 2,
-    "tweet_count": "3,100 Tweets"
+    "rank": 1,
+    "tweet_count": "3,125 Tweets"
   },
   {
-    "name": "#AppleEvent",
-    "query": "#AppleEvent",
+    "name": "של רבין",
+    "query": "\"של רבין\"",
+    "rank": 2,
+    "tweet_count": "9,723 Tweets"
+  },
+  {
+    "name": "בן גביר",
+    "query": "\"בן גביר\"",
     "rank": 3,
-    "tweet_count": "309K Tweets"
+    "tweet_count": "2,017 Tweets"
   },
   {
     "name": "מורשת רבין",
@@ -24,56 +24,56 @@
     "tweet_count": null
   },
   {
-    "name": "Rabin",
-    "query": "Rabin",
+    "name": "#AppleEvent",
+    "query": "#AppleEvent",
     "rank": 5,
-    "tweet_count": "2,560 Tweets"
+    "tweet_count": "310K Tweets"
   },
   {
     "name": "בן ארצי",
     "query": "\"בן ארצי\"",
     "rank": 6,
-    "tweet_count": "2,867 Tweets"
+    "tweet_count": "2,898 Tweets"
+  },
+  {
+    "name": "Rabin",
+    "query": "Rabin",
+    "rank": 7,
+    "tweet_count": "2,606 Tweets"
   },
   {
     "name": "Colin Powell",
     "query": "\"Colin Powell\"",
-    "rank": 7,
-    "tweet_count": "670K Tweets"
+    "rank": 8,
+    "tweet_count": "672K Tweets"
   },
   {
     "name": "מפלגה של",
     "query": "\"מפלגה של\"",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Yiddish",
-    "query": "Yiddish",
-    "rank": 9,
-    "tweet_count": "1,144 Tweets"
-  },
-  {
-    "name": "ברוך דיין",
-    "query": "\"ברוך דיין\"",
+    "name": "בוקר טוב",
+    "query": "\"בוקר טוב\"",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "בן גביר",
-    "query": "\"בן גביר\"",
+    "name": "ברוך דיין",
+    "query": "\"ברוך דיין\"",
     "rank": 11,
-    "tweet_count": "1,652 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "יאיר לפיד",
+    "query": "\"יאיר לפיד\"",
+    "rank": 12,
+    "tweet_count": "3,204 Tweets"
   },
   {
     "name": "צבע אדום",
     "query": "\"צבע אדום\"",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "הנרי דוד",
-    "query": "\"הנרי דוד\"",
     "rank": 13,
     "tweet_count": null
   },
@@ -81,31 +81,31 @@
     "name": "שלטון העם",
     "query": "\"שלטון העם\"",
     "rank": 14,
-    "tweet_count": "1,106 Tweets"
+    "tweet_count": "1,107 Tweets"
   },
   {
-    "name": "פסטיבל רבין",
-    "query": "\"פסטיבל רבין\"",
+    "name": "#China",
+    "query": "#China",
     "rank": 15,
+    "tweet_count": "20.9K Tweets"
+  },
+  {
+    "name": "הנרי דוד",
+    "query": "\"הנרי דוד\"",
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "עוד צער",
     "query": "\"עוד צער\"",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "יום טוב",
     "query": "\"יום טוב\"",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "#China",
-    "query": "#China",
     "rank": 18,
-    "tweet_count": "20.5K Tweets"
+    "tweet_count": null
   },
   {
     "name": "סבא שלו",
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "יאיר לפיד",
-    "query": "\"יאיר לפיד\"",
+    "name": "פסטיבל רבין",
+    "query": "\"פסטיבל רבין\"",
     "rank": 20,
-    "tweet_count": "3,137 Tweets"
+    "tweet_count": null
   }
 ]
