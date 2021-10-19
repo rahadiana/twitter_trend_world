@@ -1,75 +1,75 @@
 [
   {
+    "name": "Beklagar",
+    "query": "Beklagar",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "elfsborg",
     "query": "elfsborg",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Colin Powell",
     "query": "\"Colin Powell\"",
-    "rank": 2,
-    "tweet_count": "646K Tweets"
+    "rank": 3,
+    "tweet_count": "648K Tweets"
   },
   {
     "name": "Bulletin",
     "query": "Bulletin",
-    "rank": 3,
-    "tweet_count": "8,852 Tweets"
+    "rank": 4,
+    "tweet_count": "8,924 Tweets"
   },
   {
     "name": "Rinkeby",
     "query": "Rinkeby",
-    "rank": 4,
-    "tweet_count": "1,111 Tweets"
-  },
-  {
-    "name": "Godmorgon",
-    "query": "Godmorgon",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "1,133 Tweets"
   },
   {
     "name": "#AppleEvent",
     "query": "#AppleEvent",
     "rank": 6,
-    "tweet_count": "292K Tweets"
+    "tweet_count": "293K Tweets"
   },
   {
     "name": "#ARSCRY",
     "query": "#ARSCRY",
     "rank": 7,
-    "tweet_count": "44.7K Tweets"
+    "tweet_count": "44.9K Tweets"
   },
   {
-    "name": "lycksele",
-    "query": "lycksele",
+    "name": "Godmorgon",
+    "query": "Godmorgon",
     "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "Beklagar",
-    "query": "Beklagar",
-    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Volvo Cars",
     "query": "\"Volvo Cars\"",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Kanye",
     "query": "Kanye",
+    "rank": 10,
+    "tweet_count": "52.3K Tweets"
+  },
+  {
+    "name": "Lycksele",
+    "query": "Lycksele",
     "rank": 11,
-    "tweet_count": "51.8K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#MekelleUnderAttack",
     "query": "#MekelleUnderAttack",
     "rank": 12,
-    "tweet_count": "143K Tweets"
+    "tweet_count": "145K Tweets"
   },
   {
     "name": "Lotta Gröning",
@@ -96,26 +96,26 @@
     "tweet_count": null
   },
   {
-    "name": "Uppsala",
-    "query": "Uppsala",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
     "name": "MacBook Pro",
     "query": "\"MacBook Pro\"",
-    "rank": 18,
-    "tweet_count": "149K Tweets"
+    "rank": 17,
+    "tweet_count": "150K Tweets"
   },
   {
     "name": "#COYG",
     "query": "#COYG",
-    "rank": 19,
-    "tweet_count": "4,897 Tweets"
+    "rank": 18,
+    "tweet_count": "4,907 Tweets"
   },
   {
-    "name": "alex schulman",
-    "query": "\"alex schulman\"",
+    "name": "Häcken",
+    "query": "Häcken",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "#svtagenda",
+    "query": "#svtagenda",
     "rank": 20,
     "tweet_count": null
   }
