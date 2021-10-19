@@ -1,116 +1,122 @@
 [
   {
-    "name": "Molson",
-    "query": "Molson",
+    "name": "#assnat",
+    "query": "#assnat",
     "rank": 1,
-    "tweet_count": "1,248 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Ben Simmons",
     "query": "\"Ben Simmons\"",
     "rank": 2,
-    "tweet_count": "80.7K Tweets"
+    "tweet_count": "85K Tweets"
   },
   {
     "name": "#Pixel6Launch",
     "query": "#Pixel6Launch",
     "rank": 3,
-    "tweet_count": "19.1K Tweets"
+    "tweet_count": "20.3K Tweets"
   },
   {
     "name": "#ResignSeanChu",
     "query": "#ResignSeanChu",
     "rank": 4,
-    "tweet_count": "1,245 Tweets"
+    "tweet_count": "1,388 Tweets"
   },
   {
     "name": "76ers",
     "query": "76ers",
     "rank": 5,
-    "tweet_count": "14.4K Tweets"
+    "tweet_count": "15.1K Tweets"
   },
   {
     "name": "Atwood",
     "query": "Atwood",
     "rank": 6,
-    "tweet_count": "8,194 Tweets"
-  },
-  {
-    "name": "Foden",
-    "query": "Foden",
-    "rank": 7,
-    "tweet_count": "15.4K Tweets"
+    "tweet_count": "8,716 Tweets"
   },
   {
     "name": "#tuesdayvibe",
     "query": "#tuesdayvibe",
+    "rank": 7,
+    "tweet_count": "19.4K Tweets"
+  },
+  {
+    "name": "Foden",
+    "query": "Foden",
     "rank": 8,
-    "tweet_count": "19K Tweets"
+    "tweet_count": "16.3K Tweets"
+  },
+  {
+    "name": "#RFLCT",
+    "query": "#RFLCT",
+    "rank": 9,
+    "tweet_count": "2,656 Tweets"
   },
   {
     "name": "Perfetti",
     "query": "Perfetti",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "The View",
     "query": "\"The View\"",
-    "rank": 10,
-    "tweet_count": "137K Tweets"
+    "rank": 11,
+    "tweet_count": "139K Tweets"
   },
   {
     "name": "Cowboy Bebop",
     "query": "\"Cowboy Bebop\"",
-    "rank": 11,
-    "tweet_count": "16.8K Tweets"
+    "rank": 12,
+    "tweet_count": "17.4K Tweets"
+  },
+  {
+    "name": "François Legault",
+    "query": "\"François Legault\"",
+    "rank": 13,
+    "tweet_count": null
   },
   {
     "name": "TERFs",
     "query": "TERFs",
-    "rank": 12,
-    "tweet_count": "5,712 Tweets"
-  },
-  {
-    "name": "Meghan",
-    "query": "Meghan",
-    "rank": 13,
-    "tweet_count": "28.5K Tweets"
-  },
-  {
-    "name": "Ford",
-    "query": "Ford",
     "rank": 14,
-    "tweet_count": "50.4K Tweets"
+    "tweet_count": "5,922 Tweets"
   },
   {
     "name": "Slept",
     "query": "Slept",
     "rank": 15,
-    "tweet_count": "30K Tweets"
+    "tweet_count": "30.7K Tweets"
+  },
+  {
+    "name": "Ford",
+    "query": "Ford",
+    "rank": 16,
+    "tweet_count": "51.3K Tweets"
+  },
+  {
+    "name": "Joel",
+    "query": "Joel",
+    "rank": 17,
+    "tweet_count": "47.3K Tweets"
   },
   {
     "name": "Eternals",
     "query": "Eternals",
-    "rank": 16,
-    "tweet_count": "299K Tweets"
+    "rank": 18,
+    "tweet_count": "303K Tweets"
   },
   {
-    "name": "#SmallBusinessWeek",
-    "query": "#SmallBusinessWeek",
-    "rank": 17,
-    "tweet_count": null
+    "name": "Meghan",
+    "query": "Meghan",
+    "rank": 19,
+    "tweet_count": "29.4K Tweets"
   },
   {
     "name": "Theo",
     "query": "Theo",
-    "rank": 18,
-    "tweet_count": "36.9K Tweets"
-  },
-  {
-    "name": "Calgary and Edmonton",
-    "query": "\"Calgary and Edmonton\"",
-    "rank": 19,
-    "tweet_count": "3,311 Tweets"
+    "rank": 20,
+    "tweet_count": "37.5K Tweets"
   }
 ]
