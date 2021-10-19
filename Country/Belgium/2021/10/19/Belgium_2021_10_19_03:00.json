@@ -3,19 +3,19 @@
     "name": "#AppleEvent",
     "query": "#AppleEvent",
     "rank": 1,
-    "tweet_count": "276K Tweets"
-  },
-  {
-    "name": "Colin Powell",
-    "query": "\"Colin Powell\"",
-    "rank": 2,
-    "tweet_count": "629K Tweets"
+    "tweet_count": "278K Tweets"
   },
   {
     "name": "#dsmtw",
     "query": "#dsmtw",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "Colin Powell",
+    "query": "\"Colin Powell\"",
+    "rank": 3,
+    "tweet_count": "630K Tweets"
   },
   {
     "name": "#stvand",
@@ -24,40 +24,40 @@
     "tweet_count": null
   },
   {
-    "name": "#gnteup",
-    "query": "#gnteup",
+    "name": "#deafspraak",
+    "query": "#deafspraak",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "#EUGreenDeal",
-    "query": "#EUGreenDeal",
+    "name": "#klopjacht",
+    "query": "#klopjacht",
     "rank": 6,
-    "tweet_count": "1,286 Tweets"
-  },
-  {
-    "name": "Irak",
-    "query": "Irak",
-    "rank": 7,
-    "tweet_count": "20.3K Tweets"
+    "tweet_count": null
   },
   {
     "name": "suga",
     "query": "suga",
-    "rank": 8,
-    "tweet_count": "1.23M Tweets"
+    "rank": 7,
+    "tweet_count": "1.24M Tweets"
   },
   {
-    "name": "Ansu Fati",
-    "query": "\"Ansu Fati\"",
-    "rank": 9,
-    "tweet_count": "17.9K Tweets"
+    "name": "Irak",
+    "query": "Irak",
+    "rank": 8,
+    "tweet_count": "20.3K Tweets"
   },
   {
     "name": "Volvo",
     "query": "Volvo",
+    "rank": 9,
+    "tweet_count": "3,802 Tweets"
+  },
+  {
+    "name": "eric nam",
+    "query": "\"eric nam\"",
     "rank": 10,
-    "tweet_count": "3,789 Tweets"
+    "tweet_count": "2,573 Tweets"
   },
   {
     "name": "elke belg",
@@ -66,57 +66,57 @@
     "tweet_count": null
   },
   {
-    "name": "eric nam",
-    "query": "\"eric nam\"",
-    "rank": 12,
-    "tweet_count": "2,568 Tweets"
-  },
-  {
     "name": "Bwipo",
     "query": "Bwipo",
-    "rank": 13,
-    "tweet_count": "6,168 Tweets"
-  },
-  {
-    "name": "Baudet",
-    "query": "Baudet",
-    "rank": 14,
-    "tweet_count": "13.1K Tweets"
+    "rank": 12,
+    "tweet_count": "6,169 Tweets"
   },
   {
     "name": "meps",
     "query": "meps",
-    "rank": 15,
-    "tweet_count": "1,133 Tweets"
-  },
-  {
-    "name": "The Weeknd",
-    "query": "\"The Weeknd\"",
-    "rank": 16,
-    "tweet_count": "13.9K Tweets"
+    "rank": 13,
+    "tweet_count": "1,135 Tweets"
   },
   {
     "name": "Scott",
     "query": "Scott",
-    "rank": 17,
-    "tweet_count": "135K Tweets"
+    "rank": 14,
+    "tweet_count": "136K Tweets"
   },
   {
-    "name": "le bayern",
-    "query": "\"le bayern\"",
-    "rank": 18,
-    "tweet_count": "3,674 Tweets"
+    "name": "Sien",
+    "query": "Sien",
+    "rank": 15,
+    "tweet_count": "3,489 Tweets"
   },
   {
-    "name": "Big Pharma",
-    "query": "\"Big Pharma\"",
-    "rank": 19,
-    "tweet_count": "24.6K Tweets"
+    "name": "erika vlieghe",
+    "query": "\"erika vlieghe\"",
+    "rank": 16,
+    "tweet_count": null
   },
   {
     "name": "M1 Max",
     "query": "\"M1 Max\"",
+    "rank": 17,
+    "tweet_count": "73.4K Tweets"
+  },
+  {
+    "name": "Le Bayern",
+    "query": "\"Le Bayern\"",
+    "rank": 18,
+    "tweet_count": "3,678 Tweets"
+  },
+  {
+    "name": "niels",
+    "query": "niels",
+    "rank": 19,
+    "tweet_count": "1,227 Tweets"
+  },
+  {
+    "name": "The Weeknd",
+    "query": "\"The Weeknd\"",
     "rank": 20,
-    "tweet_count": "72.9K Tweets"
+    "tweet_count": "13.9K Tweets"
   }
 ]

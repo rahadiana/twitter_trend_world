@@ -1,15 +1,15 @@
 [
   {
-    "name": "#LSTToronto",
-    "query": "#LSTToronto",
-    "rank": 1,
-    "tweet_count": "7,231 Tweets"
-  },
-  {
     "name": "Apple",
     "query": "Apple",
+    "rank": 1,
+    "tweet_count": "609K Tweets"
+  },
+  {
+    "name": "Campbell",
+    "query": "Campbell",
     "rank": 2,
-    "tweet_count": "606K Tweets"
+    "tweet_count": "11.9K Tweets"
   },
   {
     "name": "#MurdochMysteries",
@@ -27,96 +27,96 @@
     "name": "Soup",
     "query": "Soup",
     "rank": 5,
-    "tweet_count": "38.1K Tweets"
+    "tweet_count": "38.3K Tweets"
+  },
+  {
+    "name": "madison",
+    "query": "madison",
+    "rank": 6,
+    "tweet_count": "44K Tweets"
+  },
+  {
+    "name": "Health Canada",
+    "query": "\"Health Canada\"",
+    "rank": 7,
+    "tweet_count": "6,323 Tweets"
   },
   {
     "name": "Calgary",
     "query": "Calgary",
-    "rank": 6,
-    "tweet_count": "16.6K Tweets"
+    "rank": 8,
+    "tweet_count": "17.4K Tweets"
   },
   {
     "name": "Derrick Henry",
     "query": "\"Derrick Henry\"",
-    "rank": 7,
-    "tweet_count": "41K Tweets"
+    "rank": 9,
+    "tweet_count": "42.7K Tweets"
   },
   {
     "name": "Josh Allen",
     "query": "\"Josh Allen\"",
-    "rank": 8,
-    "tweet_count": "23.5K Tweets"
+    "rank": 10,
+    "tweet_count": "24.1K Tweets"
   },
   {
     "name": "Sora",
     "query": "Sora",
-    "rank": 9,
-    "tweet_count": "164K Tweets"
+    "rank": 11,
+    "tweet_count": "166K Tweets"
   },
   {
     "name": "#WWERaw",
     "query": "#WWERaw",
-    "rank": 10,
-    "tweet_count": "44.3K Tweets"
+    "rank": 12,
+    "tweet_count": "44.9K Tweets"
   },
   {
     "name": "Matthews",
     "query": "Matthews",
-    "rank": 11,
-    "tweet_count": "6,391 Tweets"
+    "rank": 13,
+    "tweet_count": "6,413 Tweets"
   },
   {
     "name": "Rangers",
     "query": "Rangers",
-    "rank": 12,
-    "tweet_count": "15.6K Tweets"
+    "rank": 14,
+    "tweet_count": "15.7K Tweets"
   },
   {
     "name": "Shesterkin",
     "query": "Shesterkin",
-    "rank": 13,
-    "tweet_count": "2,332 Tweets"
-  },
-  {
-    "name": "#DWTS",
-    "query": "#DWTS",
-    "rank": 14,
-    "tweet_count": "13.4K Tweets"
+    "rank": 15,
+    "tweet_count": "2,343 Tweets"
   },
   {
     "name": "#MondayNightFootball",
     "query": "#MondayNightFootball",
-    "rank": 15,
-    "tweet_count": "2,822 Tweets"
-  },
-  {
-    "name": "Ritchie",
-    "query": "Ritchie",
     "rank": 16,
-    "tweet_count": "2,193 Tweets"
+    "tweet_count": "2,879 Tweets"
   },
   {
-    "name": "Campbell",
-    "query": "Campbell",
+    "name": "#DirtyWater",
+    "query": "#DirtyWater",
     "rank": 17,
-    "tweet_count": "11.8K Tweets"
+    "tweet_count": "8,566 Tweets"
+  },
+  {
+    "name": "#dwts",
+    "query": "#dwts",
+    "rank": 18,
+    "tweet_count": "13.5K Tweets"
   },
   {
     "name": "Ward 4",
     "query": "\"Ward 4\"",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "blake coleman",
-    "query": "\"blake coleman\"",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Elections Alberta",
-    "query": "\"Elections Alberta\"",
+    "name": "Ritchie",
+    "query": "Ritchie",
     "rank": 20,
-    "tweet_count": "3,416 Tweets"
+    "tweet_count": "2,197 Tweets"
   }
 ]
