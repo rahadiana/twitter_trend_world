@@ -1,39 +1,39 @@
 [
   {
-    "name": "#ARSCRY",
-    "query": "#ARSCRY",
-    "rank": 1,
-    "tweet_count": "44K Tweets"
-  },
-  {
     "name": "Person 1",
     "query": "\"Person 1\"",
-    "rank": 2,
-    "tweet_count": "255K Tweets"
-  },
-  {
-    "name": "mcarthur",
-    "query": "mcarthur",
-    "rank": 3,
-    "tweet_count": "9,656 Tweets"
+    "rank": 1,
+    "tweet_count": "257K Tweets"
   },
   {
     "name": "#AppleEvent",
     "query": "#AppleEvent",
+    "rank": 2,
+    "tweet_count": "276K Tweets"
+  },
+  {
+    "name": "#ARSCRY",
+    "query": "#ARSCRY",
+    "rank": 3,
+    "tweet_count": "44.1K Tweets"
+  },
+  {
+    "name": "McArthur",
+    "query": "McArthur",
     "rank": 4,
-    "tweet_count": "274K Tweets"
+    "tweet_count": "9,672 Tweets"
+  },
+  {
+    "name": "skullerud",
+    "query": "skullerud",
+    "rank": 5,
+    "tweet_count": null
   },
   {
     "name": "Colin Powell",
     "query": "\"Colin Powell\"",
-    "rank": 5,
-    "tweet_count": "627K Tweets"
-  },
-  {
-    "name": "Xhaka",
-    "query": "Xhaka",
     "rank": 6,
-    "tweet_count": "7,887 Tweets"
+    "tweet_count": "629K Tweets"
   },
   {
     "name": "mjøndalen",
@@ -42,75 +42,75 @@
     "tweet_count": null
   },
   {
-    "name": "#Mekelle",
-    "query": "#Mekelle",
+    "name": "lerkendal",
+    "query": "lerkendal",
     "rank": 8,
-    "tweet_count": "84K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Arteta",
+    "query": "Arteta",
+    "rank": 9,
+    "tweet_count": "39.4K Tweets"
   },
   {
     "name": "sandefjord",
     "query": "sandefjord",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "lerkendal",
-    "query": "lerkendal",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Saka",
-    "query": "Saka",
+    "name": "#MekelleUnderAttack",
+    "query": "#MekelleUnderAttack",
     "rank": 11,
-    "tweet_count": "44.7K Tweets"
+    "tweet_count": "133K Tweets"
   },
   {
     "name": "suga",
     "query": "suga",
     "rank": 12,
-    "tweet_count": "1.21M Tweets"
-  },
-  {
-    "name": "Brann",
-    "query": "Brann",
-    "rank": 13,
-    "tweet_count": null
+    "tweet_count": "1.23M Tweets"
   },
   {
     "name": "stortingets",
     "query": "stortingets",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Brann",
+    "query": "Brann",
     "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "skullerud",
-    "query": "skullerud",
+    "name": "hareide",
+    "query": "hareide",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "tess",
-    "query": "tess",
+    "name": "eliteserien",
+    "query": "eliteserien",
     "rank": 16,
-    "tweet_count": "9,999 Tweets"
-  },
-  {
-    "name": "hareide",
-    "query": "hareide",
-    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "henriksen",
     "query": "henriksen",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "statnett",
+    "query": "statnett",
     "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "botheim",
-    "query": "botheim",
+    "name": "Zidane",
+    "query": "Zidane",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "30.2K Tweets"
   }
 ]
