@@ -1,39 +1,39 @@
 [
   {
-    "name": "Epsom",
-    "query": "Epsom",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "North Shore",
     "query": "\"North Shore\"",
-    "rank": 2,
-    "tweet_count": "1,316 Tweets"
+    "rank": 1,
+    "tweet_count": "1,346 Tweets"
   },
   {
     "name": "Colin Powell",
     "query": "\"Colin Powell\"",
-    "rank": 3,
-    "tweet_count": "622K Tweets"
+    "rank": 2,
+    "tweet_count": "627K Tweets"
   },
   {
-    "name": "Auckland",
-    "query": "Auckland",
-    "rank": 4,
-    "tweet_count": "6,121 Tweets"
+    "name": "Epsom",
+    "query": "Epsom",
+    "rank": 3,
+    "tweet_count": null
   },
   {
     "name": "Waiheke",
     "query": "Waiheke",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "auckland",
+    "query": "auckland",
+    "rank": 5,
+    "tweet_count": "6,212 Tweets"
   },
   {
     "name": "Sean Wainui",
     "query": "\"Sean Wainui\"",
     "rank": 6,
-    "tweet_count": "4,000 Tweets"
+    "tweet_count": "4,011 Tweets"
   },
   {
     "name": "#BirdoftheYear",
@@ -45,78 +45,78 @@
     "name": "#AppleEvent",
     "query": "#AppleEvent",
     "rank": 8,
-    "tweet_count": "271K Tweets"
-  },
-  {
-    "name": "NIMBY",
-    "query": "NIMBY",
-    "rank": 9,
-    "tweet_count": null
+    "tweet_count": "275K Tweets"
   },
   {
     "name": "#ARSCRY",
     "query": "#ARSCRY",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": "44K Tweets"
   },
   {
     "name": "Labour and National",
     "query": "\"Labour and National\"",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "NIMBYs",
+    "query": "NIMBYs",
     "rank": 11,
     "tweet_count": null
   },
   {
+    "name": "Arsenal",
+    "query": "Arsenal",
+    "rank": 12,
+    "tweet_count": "172K Tweets"
+  },
+  {
     "name": "Narrative Muse",
     "query": "\"Narrative Muse\"",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "NPS-UD",
-    "query": "NPS-UD",
-    "rank": 13,
+    "name": "nps-ud",
+    "query": "nps-ud",
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Chiefs",
     "query": "Chiefs",
-    "rank": 14,
-    "tweet_count": "52.2K Tweets"
-  },
-  {
-    "name": "Seymour",
-    "query": "Seymour",
     "rank": 15,
-    "tweet_count": "2,220 Tweets"
+    "tweet_count": "53K Tweets"
   },
   {
     "name": "Paige",
     "query": "Paige",
     "rank": 16,
-    "tweet_count": "6,351 Tweets"
+    "tweet_count": "6,439 Tweets"
+  },
+  {
+    "name": "Seymour",
+    "query": "Seymour",
+    "rank": 17,
+    "tweet_count": "2,301 Tweets"
   },
   {
     "name": "The Government",
     "query": "\"The Government\"",
-    "rank": 17,
-    "tweet_count": "466K Tweets"
+    "rank": 18,
+    "tweet_count": "471K Tweets"
   },
   {
     "name": "Phil Goff",
     "query": "\"Phil Goff\"",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "#BOTY2021",
     "query": "#BOTY2021",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "MagSafe",
-    "query": "MagSafe",
     "rank": 20,
-    "tweet_count": "55.3K Tweets"
+    "tweet_count": null
   }
 ]

@@ -1,110 +1,104 @@
 [
   {
+    "name": "Tennessee",
+    "query": "Tennessee",
+    "rank": 1,
+    "tweet_count": "32.8K Tweets"
+  },
+  {
+    "name": "Stefon Diggs",
+    "query": "\"Stefon Diggs\"",
+    "rank": 2,
+    "tweet_count": "6,876 Tweets"
+  },
+  {
     "name": "Evander Kane",
     "query": "\"Evander Kane\"",
-    "rank": 1,
-    "tweet_count": "10.6K Tweets"
+    "rank": 3,
+    "tweet_count": "11K Tweets"
   },
   {
     "name": "Ayton",
     "query": "Ayton",
-    "rank": 2,
-    "tweet_count": "24.1K Tweets"
+    "rank": 4,
+    "tweet_count": "24.4K Tweets"
   },
   {
     "name": "Parkinson",
     "query": "Parkinson",
-    "rank": 3,
-    "tweet_count": "12.4K Tweets"
+    "rank": 5,
+    "tweet_count": "12.6K Tweets"
   },
   {
     "name": "Mel Gibson",
     "query": "\"Mel Gibson\"",
-    "rank": 4,
-    "tweet_count": "12.2K Tweets"
+    "rank": 6,
+    "tweet_count": "12.8K Tweets"
   },
   {
     "name": "Dennis Prager",
     "query": "\"Dennis Prager\"",
-    "rank": 5,
-    "tweet_count": "7,240 Tweets"
-  },
-  {
-    "name": "MacBook Pro",
-    "query": "\"MacBook Pro\"",
-    "rank": 6,
-    "tweet_count": "136K Tweets"
+    "rank": 7,
+    "tweet_count": "7,343 Tweets"
   },
   {
     "name": "Avery Bradley",
     "query": "\"Avery Bradley\"",
-    "rank": 7,
-    "tweet_count": "7,250 Tweets"
+    "rank": 8,
+    "tweet_count": "7,358 Tweets"
   },
   {
-    "name": "zendaya",
-    "query": "zendaya",
-    "rank": 8,
-    "tweet_count": "79.2K Tweets"
+    "name": "MacBook",
+    "query": "MacBook",
+    "rank": 9,
+    "tweet_count": "178K Tweets"
   },
   {
     "name": "Joker",
     "query": "Joker",
-    "rank": 9,
-    "tweet_count": "42.6K Tweets"
+    "rank": 10,
+    "tweet_count": "43.4K Tweets"
   },
   {
     "name": "Billy Porter",
     "query": "\"Billy Porter\"",
-    "rank": 10,
-    "tweet_count": "33.9K Tweets"
+    "rank": 11,
+    "tweet_count": "34.2K Tweets"
   },
   {
     "name": "Mel Brooks",
     "query": "\"Mel Brooks\"",
-    "rank": 11,
-    "tweet_count": "3,527 Tweets"
+    "rank": 12,
+    "tweet_count": "3,573 Tweets"
   },
   {
     "name": "Slept",
     "query": "Slept",
-    "rank": 12,
-    "tweet_count": "27.8K Tweets"
+    "rank": 13,
+    "tweet_count": "28.2K Tweets"
   },
   {
     "name": "Kanye West",
     "query": "\"Kanye West\"",
-    "rank": 13,
-    "tweet_count": "22K Tweets"
+    "rank": 14,
+    "tweet_count": "22.5K Tweets"
   },
   {
     "name": "Siri",
     "query": "Siri",
-    "rank": 14,
-    "tweet_count": "27.8K Tweets"
+    "rank": 15,
+    "tweet_count": "28.2K Tweets"
   },
   {
     "name": "The Weeknd",
     "query": "\"The Weeknd\"",
-    "rank": 15,
-    "tweet_count": "13.7K Tweets"
+    "rank": 16,
+    "tweet_count": "13.8K Tweets"
   },
   {
     "name": "#MIGlobal",
     "query": "#MIGlobal",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "MagSafe",
-    "query": "MagSafe",
     "rank": 17,
-    "tweet_count": "55.3K Tweets"
-  },
-  {
-    "name": "General Powell",
-    "query": "\"General Powell\"",
-    "rank": 18,
-    "tweet_count": "92.3K Tweets"
+    "tweet_count": null
   }
 ]
