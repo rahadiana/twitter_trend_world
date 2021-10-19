@@ -3,37 +3,37 @@
     "name": "#face2face",
     "query": "#face2face",
     "rank": 1,
-    "tweet_count": "1,116 Tweets"
+    "tweet_count": "1,159 Tweets"
   },
   {
     "name": "Liverpool",
     "query": "Liverpool",
     "rank": 2,
-    "tweet_count": "103K Tweets"
-  },
-  {
-    "name": "Keita",
-    "query": "Keita",
-    "rank": 3,
-    "tweet_count": "15.3K Tweets"
+    "tweet_count": "111K Tweets"
   },
   {
     "name": "Sterling",
     "query": "Sterling",
+    "rank": 3,
+    "tweet_count": "23.6K Tweets"
+  },
+  {
+    "name": "Mo Salah",
+    "query": "\"Mo Salah\"",
     "rank": 4,
-    "tweet_count": "23.3K Tweets"
+    "tweet_count": "22.4K Tweets"
   },
   {
     "name": "Palmer",
     "query": "Palmer",
     "rank": 5,
-    "tweet_count": "22.9K Tweets"
+    "tweet_count": "23.3K Tweets"
   },
   {
     "name": "Milner",
     "query": "Milner",
     "rank": 6,
-    "tweet_count": "7,036 Tweets"
+    "tweet_count": "7,650 Tweets"
   },
   {
     "name": "Nonhle",
@@ -45,66 +45,72 @@
     "name": "#SkeemSaam",
     "query": "#SkeemSaam",
     "rank": 8,
-    "tweet_count": "2,723 Tweets"
+    "tweet_count": "2,761 Tweets"
   },
   {
     "name": "#YNWA",
     "query": "#YNWA",
     "rank": 9,
-    "tweet_count": "5,623 Tweets"
+    "tweet_count": "5,737 Tweets"
+  },
+  {
+    "name": "Simeone",
+    "query": "Simeone",
+    "rank": 10,
+    "tweet_count": "5,818 Tweets"
+  },
+  {
+    "name": "#Muvhango",
+    "query": "#Muvhango",
+    "rank": 11,
+    "tweet_count": null
   },
   {
     "name": "Sboniso",
     "query": "Sboniso",
-    "rank": 10,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Grealish",
     "query": "Grealish",
-    "rank": 11,
-    "tweet_count": "7,231 Tweets"
-  },
-  {
-    "name": "Melusi",
-    "query": "Melusi",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Royal AM",
-    "query": "\"Royal AM\"",
     "rank": 13,
-    "tweet_count": "2,881 Tweets"
+    "tweet_count": "7,274 Tweets"
+  },
+  {
+    "name": "Ajax",
+    "query": "Ajax",
+    "rank": 14,
+    "tweet_count": "34.1K Tweets"
   },
   {
     "name": "Gladys",
     "query": "Gladys",
-    "rank": 14,
-    "tweet_count": "13.4K Tweets"
+    "rank": 15,
+    "tweet_count": "13.5K Tweets"
+  },
+  {
+    "name": "Royal AM",
+    "query": "\"Royal AM\"",
+    "rank": 16,
+    "tweet_count": "2,931 Tweets"
   },
   {
     "name": "TS Galaxy",
     "query": "\"TS Galaxy\"",
-    "rank": 15,
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Melusi",
+    "query": "Melusi",
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Mthembu",
     "query": "Mthembu",
-    "rank": 16,
+    "rank": 19,
     "tweet_count": null
-  },
-  {
-    "name": "Ben Simmons",
-    "query": "\"Ben Simmons\"",
-    "rank": 17,
-    "tweet_count": "90.6K Tweets"
-  },
-  {
-    "name": "Dortmund",
-    "query": "Dortmund",
-    "rank": 18,
-    "tweet_count": "17.3K Tweets"
   }
 ]
