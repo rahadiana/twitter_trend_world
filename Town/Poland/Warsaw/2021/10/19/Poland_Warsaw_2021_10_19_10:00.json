@@ -1,63 +1,63 @@
 [
   {
+    "name": "Putina",
+    "query": "Putina",
+    "rank": 1,
+    "tweet_count": "2,498 Tweets"
+  },
+  {
     "name": "Parlamencie Europejskim",
     "query": "\"Parlamencie Europejskim\"",
-    "rank": 1,
-    "tweet_count": "3,897 Tweets"
+    "rank": 2,
+    "tweet_count": "4,073 Tweets"
   },
   {
     "name": "Morawieckiego",
     "query": "Morawieckiego",
-    "rank": 2,
-    "tweet_count": "5,558 Tweets"
+    "rank": 3,
+    "tweet_count": "5,742 Tweets"
   },
   {
     "name": "Leyen",
     "query": "Leyen",
-    "rank": 3,
-    "tweet_count": "4,475 Tweets"
+    "rank": 4,
+    "tweet_count": "4,754 Tweets"
   },
   {
     "name": "Halicki",
     "query": "Halicki",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Walczy",
     "query": "Walczy",
-    "rank": 5,
-    "tweet_count": "1,550 Tweets"
+    "rank": 6,
+    "tweet_count": "1,574 Tweets"
   },
   {
     "name": "Legutko",
     "query": "Legutko",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "Belka",
-    "query": "Belka",
     "rank": 7,
-    "tweet_count": "1,319 Tweets"
+    "tweet_count": "1,012 Tweets"
   },
   {
     "name": "#Strasburg",
     "query": "#Strasburg",
     "rank": 8,
-    "tweet_count": "2,394 Tweets"
+    "tweet_count": "2,464 Tweets"
+  },
+  {
+    "name": "Belka",
+    "query": "Belka",
+    "rank": 9,
+    "tweet_count": "1,396 Tweets"
   },
   {
     "name": "W PE",
     "query": "\"W PE\"",
-    "rank": 9,
-    "tweet_count": "9,304 Tweets"
-  },
-  {
-    "name": "Weber",
-    "query": "Weber",
     "rank": 10,
-    "tweet_count": "9,109 Tweets"
+    "tweet_count": "9,684 Tweets"
   },
   {
     "name": "Pinokia",
@@ -66,38 +66,38 @@
     "tweet_count": null
   },
   {
-    "name": "#ZostajęwUnii",
-    "query": "#ZostajęwUnii",
+    "name": "WEBER",
+    "query": "WEBER",
     "rank": 12,
-    "tweet_count": "1,539 Tweets"
+    "tweet_count": "9,193 Tweets"
   },
   {
     "name": "Najsztuba",
     "query": "Najsztuba",
     "rank": 13,
-    "tweet_count": "1,648 Tweets"
+    "tweet_count": "1,682 Tweets"
+  },
+  {
+    "name": "#ZostajęwUnii",
+    "query": "#ZostajęwUnii",
+    "rank": 14,
+    "tweet_count": "1,638 Tweets"
   },
   {
     "name": "#Eternals",
     "query": "#Eternals",
-    "rank": 14,
-    "tweet_count": "179K Tweets"
+    "rank": 15,
+    "tweet_count": "180K Tweets"
   },
   {
     "name": "Terlecki",
     "query": "Terlecki",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Witek",
-    "query": "Witek",
     "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "jerzego popiełuszki",
-    "query": "\"jerzego popiełuszki\"",
+    "name": "witek",
+    "query": "witek",
     "rank": 17,
     "tweet_count": null
   },
@@ -105,12 +105,18 @@
     "name": "Jerzy Popiełuszko",
     "query": "\"Jerzy Popiełuszko\"",
     "rank": 18,
-    "tweet_count": "1,208 Tweets"
+    "tweet_count": "1,234 Tweets"
+  },
+  {
+    "name": "Jerzego Popiełuszki",
+    "query": "\"Jerzego Popiełuszki\"",
+    "rank": 19,
+    "tweet_count": null
   },
   {
     "name": "Spurek",
     "query": "Spurek",
-    "rank": 19,
+    "rank": 20,
     "tweet_count": null
   }
 ]
