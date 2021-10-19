@@ -1,9 +1,9 @@
 [
   {
-    "name": "Дерипаски",
-    "query": "Дерипаски",
+    "name": "#импровизация",
+    "query": "#импровизация",
     "rank": 1,
-    "tweet_count": "3,470 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#TwitterWrapped",
@@ -12,82 +12,82 @@
     "tweet_count": null
   },
   {
-    "name": "#AppleEvent",
-    "query": "#AppleEvent",
+    "name": "Дерипаски",
+    "query": "Дерипаски",
     "rank": 3,
-    "tweet_count": "143K Tweets"
+    "tweet_count": "3,774 Tweets"
   },
   {
-    "name": "НАТО",
-    "query": "НАТО",
+    "name": "#AppleEvent",
+    "query": "#AppleEvent",
     "rank": 4,
-    "tweet_count": "6,332 Tweets"
+    "tweet_count": "144K Tweets"
   },
   {
     "name": "#TamedDashed1stWin",
     "query": "#TamedDashed1stWin",
     "rank": 5,
-    "tweet_count": "367K Tweets"
+    "tweet_count": "368K Tweets"
+  },
+  {
+    "name": "НАТО",
+    "query": "НАТО",
+    "rank": 6,
+    "tweet_count": "6,439 Tweets"
   },
   {
     "name": "#ONE_IN_6_MILLION",
     "query": "#ONE_IN_6_MILLION",
-    "rank": 6,
-    "tweet_count": "181K Tweets"
-  },
-  {
-    "name": "#NikoCoverMyHeartWillGoOn",
-    "query": "#NikoCoverMyHeartWillGoOn",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "183K Tweets"
   },
   {
     "name": "Яблоко",
     "query": "Яблоко",
     "rank": 8,
-    "tweet_count": "1,400 Tweets"
+    "tweet_count": "1,432 Tweets"
   },
   {
     "name": "Вологде",
     "query": "Вологде",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "1,010 Tweets"
+  },
+  {
+    "name": "С 25",
+    "query": "\"С 25\"",
+    "rank": 10,
+    "tweet_count": "1,310 Tweets"
   },
   {
     "name": "Dota 2",
     "query": "\"Dota 2\"",
-    "rank": 10,
-    "tweet_count": "2,804 Tweets"
+    "rank": 11,
+    "tweet_count": "2,836 Tweets"
   },
   {
     "name": "Шлосберга",
     "query": "Шлосберга",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "в орловской",
     "query": "\"в орловской\"",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "России с 30",
     "query": "\"России с 30\"",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "С 25",
-    "query": "\"С 25\"",
     "rank": 14,
-    "tweet_count": "1,263 Tweets"
+    "tweet_count": "1,007 Tweets"
   },
   {
     "name": "Team Spirit",
     "query": "\"Team Spirit\"",
     "rank": 15,
-    "tweet_count": "6,749 Tweets"
+    "tweet_count": "6,830 Tweets"
   },
   {
     "name": "ширли-мырли",
@@ -105,7 +105,7 @@
     "name": "M1 Max",
     "query": "\"M1 Max\"",
     "rank": 18,
-    "tweet_count": "56.8K Tweets"
+    "tweet_count": "57.1K Tweets"
   },
   {
     "name": "лаврова",
@@ -114,8 +114,8 @@
     "tweet_count": null
   },
   {
-    "name": "РОССИЙСКИМ ЮРИДИЧЕСКИМ ЛИЦОМ",
-    "query": "\"РОССИЙСКИМ ЮРИДИЧЕСКИМ ЛИЦОМ\"",
+    "name": "Татьяна Голикова",
+    "query": "\"Татьяна Голикова\"",
     "rank": 20,
     "tweet_count": null
   }

@@ -1,9 +1,9 @@
 [
   {
-    "name": "Дерипаски",
-    "query": "Дерипаски",
+    "name": "#импровизация",
+    "query": "#импровизация",
     "rank": 1,
-    "tweet_count": "3,463 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#TwitterWrapped",
@@ -12,64 +12,64 @@
     "tweet_count": null
   },
   {
-    "name": "#AppleEvent",
-    "query": "#AppleEvent",
+    "name": "Дерипаски",
+    "query": "Дерипаски",
     "rank": 3,
-    "tweet_count": "143K Tweets"
+    "tweet_count": "3,774 Tweets"
   },
   {
     "name": "НАТО",
     "query": "НАТО",
     "rank": 4,
-    "tweet_count": "6,332 Tweets"
+    "tweet_count": "6,439 Tweets"
   },
   {
     "name": "Яблоко",
     "query": "Яблоко",
     "rank": 5,
-    "tweet_count": "1,400 Tweets"
+    "tweet_count": "1,432 Tweets"
   },
   {
     "name": "Вологде",
     "query": "Вологде",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "1,010 Tweets"
+  },
+  {
+    "name": "С 25",
+    "query": "\"С 25\"",
+    "rank": 7,
+    "tweet_count": "1,310 Tweets"
   },
   {
     "name": "Dota 2",
     "query": "\"Dota 2\"",
-    "rank": 7,
-    "tweet_count": "2,804 Tweets"
+    "rank": 8,
+    "tweet_count": "2,836 Tweets"
   },
   {
     "name": "Шлосберга",
     "query": "Шлосберга",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "в орловской",
     "query": "\"в орловской\"",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "России с 30",
     "query": "\"России с 30\"",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "С 25",
-    "query": "\"С 25\"",
     "rank": 11,
-    "tweet_count": "1,263 Tweets"
+    "tweet_count": "1,007 Tweets"
   },
   {
     "name": "Team Spirit",
     "query": "\"Team Spirit\"",
     "rank": 12,
-    "tweet_count": "6,749 Tweets"
+    "tweet_count": "6,830 Tweets"
   },
   {
     "name": "ширли-мырли",
@@ -87,17 +87,17 @@
     "name": "M1 Max",
     "query": "\"M1 Max\"",
     "rank": 15,
-    "tweet_count": "56.8K Tweets"
+    "tweet_count": "57.1K Tweets"
   },
   {
-    "name": "лаврова",
-    "query": "лаврова",
+    "name": "Лаврова",
+    "query": "Лаврова",
     "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "РОССИЙСКИМ ЮРИДИЧЕСКИМ ЛИЦОМ",
-    "query": "\"РОССИЙСКИМ ЮРИДИЧЕСКИМ ЛИЦОМ\"",
+    "name": "Татьяна Голикова",
+    "query": "\"Татьяна Голикова\"",
     "rank": 17,
     "tweet_count": null
   }

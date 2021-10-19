@@ -1,33 +1,33 @@
 [
   {
-    "name": "Polskę",
-    "query": "Polskę",
+    "name": "#MAMMAMIA",
+    "query": "#MAMMAMIA",
     "rank": 1,
-    "tweet_count": "14K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Morawieckiego",
-    "query": "Morawieckiego",
+    "name": "Polskę",
+    "query": "Polskę",
     "rank": 2,
-    "tweet_count": "10.5K Tweets"
+    "tweet_count": "14.5K Tweets"
   },
   {
     "name": "Brukseli",
     "query": "Brukseli",
     "rank": 3,
-    "tweet_count": "2,931 Tweets"
+    "tweet_count": "3,049 Tweets"
   },
   {
-    "name": "PZPR",
-    "query": "PZPR",
+    "name": "Morawieckiego",
+    "query": "Morawieckiego",
     "rank": 4,
-    "tweet_count": "1,938 Tweets"
+    "tweet_count": "10.8K Tweets"
   },
   {
     "name": "Parlamencie Europejskim",
     "query": "\"Parlamencie Europejskim\"",
     "rank": 5,
-    "tweet_count": "9,247 Tweets"
+    "tweet_count": "9,559 Tweets"
   },
   {
     "name": "Piotrowicz",
@@ -36,28 +36,28 @@
     "tweet_count": null
   },
   {
-    "name": "Wstyd",
-    "query": "Wstyd",
-    "rank": 7,
-    "tweet_count": "5,863 Tweets"
-  },
-  {
     "name": "Kłeczek",
     "query": "Kłeczek",
+    "rank": 7,
+    "tweet_count": "2,053 Tweets"
+  },
+  {
+    "name": "PZPR",
+    "query": "PZPR",
     "rank": 8,
-    "tweet_count": "1,989 Tweets"
+    "tweet_count": "1,980 Tweets"
   },
   {
     "name": "Jerzego Popiełuszki",
     "query": "\"Jerzego Popiełuszki\"",
     "rank": 9,
-    "tweet_count": "1,593 Tweets"
+    "tweet_count": "1,693 Tweets"
   },
   {
-    "name": "Miller",
-    "query": "Miller",
+    "name": "Wstyd",
+    "query": "Wstyd",
     "rank": 10,
-    "tweet_count": "37.4K Tweets"
+    "tweet_count": "6,042 Tweets"
   },
   {
     "name": "Pinokia",
@@ -66,57 +66,57 @@
     "tweet_count": null
   },
   {
-    "name": "Najsztuba",
-    "query": "Najsztuba",
-    "rank": 12,
-    "tweet_count": "3,144 Tweets"
-  },
-  {
     "name": "Kohut",
     "query": "Kohut",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "Miller",
+    "query": "Miller",
+    "rank": 13,
+    "tweet_count": "38.2K Tweets"
   },
   {
     "name": "Ursula",
     "query": "Ursula",
     "rank": 14,
-    "tweet_count": "8,402 Tweets"
+    "tweet_count": "8,760 Tweets"
   },
   {
     "name": "Leyen",
     "query": "Leyen",
     "rank": 15,
-    "tweet_count": "14.1K Tweets"
+    "tweet_count": "14.6K Tweets"
   },
   {
-    "name": "Targowica",
-    "query": "Targowica",
+    "name": "Najsztuba",
+    "query": "Najsztuba",
     "rank": 16,
-    "tweet_count": "1,124 Tweets"
-  },
-  {
-    "name": "Strasburgu",
-    "query": "Strasburgu",
-    "rank": 17,
-    "tweet_count": "2,512 Tweets"
-  },
-  {
-    "name": "Putinem",
-    "query": "Putinem",
-    "rank": 18,
-    "tweet_count": "1,256 Tweets"
+    "tweet_count": "3,245 Tweets"
   },
   {
     "name": "Unię",
     "query": "Unię",
-    "rank": 19,
-    "tweet_count": "2,894 Tweets"
+    "rank": 17,
+    "tweet_count": "2,951 Tweets"
   },
   {
-    "name": "Premiera",
-    "query": "Premiera",
+    "name": "Strasburgu",
+    "query": "Strasburgu",
+    "rank": 18,
+    "tweet_count": "2,596 Tweets"
+  },
+  {
+    "name": "Putinem",
+    "query": "Putinem",
+    "rank": 19,
+    "tweet_count": "1,307 Tweets"
+  },
+  {
+    "name": "Solidarności",
+    "query": "Solidarności",
     "rank": 20,
-    "tweet_count": "12.9K Tweets"
+    "tweet_count": "1,567 Tweets"
   }
 ]
