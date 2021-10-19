@@ -9,19 +9,19 @@
     "name": "Pavļuts",
     "query": "Pavļuts",
     "rank": 2,
-    "tweet_count": "1,460 Tweets"
-  },
-  {
-    "name": "COVID-19",
-    "query": "COVID-19",
-    "rank": 3,
-    "tweet_count": "434K Tweets"
+    "tweet_count": "1,474 Tweets"
   },
   {
     "name": "#mājsēde",
     "query": "#mājsēde",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
+  },
+  {
+    "name": "COVID-19",
+    "query": "COVID-19",
+    "rank": 4,
+    "tweet_count": "443K Tweets"
   },
   {
     "name": "Valdība",
@@ -45,7 +45,7 @@
     "name": "Zoom",
     "query": "Zoom",
     "rank": 8,
-    "tweet_count": "97.4K Tweets"
+    "tweet_count": "100K Tweets"
   },
   {
     "name": "Gobzema",
@@ -93,7 +93,7 @@
     "name": "#AppleEvent",
     "query": "#AppleEvent",
     "rank": 16,
-    "tweet_count": "307K Tweets"
+    "tweet_count": "308K Tweets"
   },
   {
     "name": "Eiropa",
@@ -117,6 +117,6 @@
     "name": "Discord",
     "query": "Discord",
     "rank": 20,
-    "tweet_count": "529K Tweets"
+    "tweet_count": "542K Tweets"
   }
 ]
