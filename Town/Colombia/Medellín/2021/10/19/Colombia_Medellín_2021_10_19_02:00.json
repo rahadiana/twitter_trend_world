@@ -1,63 +1,63 @@
 [
   {
-    "name": "China",
-    "query": "China",
-    "rank": 1,
-    "tweet_count": "500K Tweets"
-  },
-  {
     "name": "#MissUniverseColombia",
     "query": "#MissUniverseColombia",
-    "rank": 2,
-    "tweet_count": "20.5K Tweets"
+    "rank": 1,
+    "tweet_count": "28.1K Tweets"
   },
   {
     "name": "Risaralda",
     "query": "Risaralda",
-    "rank": 3,
-    "tweet_count": "4,291 Tweets"
+    "rank": 2,
+    "tweet_count": "5,429 Tweets"
   },
   {
     "name": "Villa de Leyva",
     "query": "\"Villa de Leyva\"",
-    "rank": 4,
-    "tweet_count": "1,759 Tweets"
+    "rank": 3,
+    "tweet_count": "2,151 Tweets"
   },
   {
     "name": "Luisa Fernanda",
     "query": "\"Luisa Fernanda\"",
+    "rank": 4,
+    "tweet_count": "3,253 Tweets"
+  },
+  {
+    "name": "Pipe Bueno",
+    "query": "\"Pipe Bueno\"",
     "rank": 5,
-    "tweet_count": "2,337 Tweets"
+    "tweet_count": "1,788 Tweets"
   },
   {
     "name": "Sucre",
     "query": "Sucre",
     "rank": 6,
-    "tweet_count": "16.7K Tweets"
+    "tweet_count": "17.3K Tweets"
   },
   {
     "name": "Caldas",
     "query": "Caldas",
     "rank": 7,
-    "tweet_count": "4,704 Tweets"
+    "tweet_count": "5,137 Tweets"
   },
   {
     "name": "Cartagena",
     "query": "Cartagena",
     "rank": 8,
-    "tweet_count": "6,332 Tweets"
-  },
-  {
-    "name": "Quindio",
-    "query": "Quindio",
-    "rank": 9,
-    "tweet_count": "2,088 Tweets"
+    "tweet_count": "6,767 Tweets"
   },
   {
     "name": "Bolivar",
     "query": "Bolivar",
+    "rank": 9,
+    "tweet_count": "27.9K Tweets"
+  },
+  {
+    "name": "Quindio",
+    "query": "Quindio",
     "rank": 10,
-    "tweet_count": "26.5K Tweets"
+    "tweet_count": "2,293 Tweets"
   },
   {
     "name": "Laura Barjum",
@@ -69,31 +69,31 @@
     "name": "Santander",
     "query": "Santander",
     "rank": 12,
-    "tweet_count": "8,890 Tweets"
-  },
-  {
-    "name": "Tolima",
-    "query": "Tolima",
-    "rank": 13,
-    "tweet_count": "1,533 Tweets"
+    "tweet_count": "9,119 Tweets"
   },
   {
     "name": "Cundinamarca",
     "query": "Cundinamarca",
+    "rank": 13,
+    "tweet_count": "1,707 Tweets"
+  },
+  {
+    "name": "Tolima",
+    "query": "Tolima",
     "rank": 14,
-    "tweet_count": "1,611 Tweets"
+    "tweet_count": "1,579 Tweets"
   },
   {
     "name": "Córdoba",
     "query": "Córdoba",
     "rank": 15,
-    "tweet_count": "18.9K Tweets"
+    "tweet_count": "19.3K Tweets"
   },
   {
     "name": "Valle",
     "query": "Valle",
     "rank": 16,
-    "tweet_count": "16.9K Tweets"
+    "tweet_count": "17.5K Tweets"
   },
   {
     "name": "Herencia de Timbiquí",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
+    "name": "Casanare",
+    "query": "Casanare",
+    "rank": 18,
+    "tweet_count": "1,646 Tweets"
+  },
+  {
     "name": "Atlántico",
     "query": "Atlántico",
-    "rank": 18,
-    "tweet_count": "5,466 Tweets"
-  },
-  {
-    "name": "Buenaventura",
-    "query": "Buenaventura",
     "rank": 19,
-    "tweet_count": "1,561 Tweets"
+    "tweet_count": "5,787 Tweets"
   },
   {
-    "name": "Boyacá",
-    "query": "Boyacá",
+    "name": "Laura Olascuaga",
+    "query": "\"Laura Olascuaga\"",
     "rank": 20,
-    "tweet_count": "1,838 Tweets"
+    "tweet_count": null
   }
 ]
