@@ -1,33 +1,33 @@
 [
   {
+    "name": "#ARSCRY",
+    "query": "#ARSCRY",
+    "rank": 1,
+    "tweet_count": "47.7K Tweets"
+  },
+  {
+    "name": "McArthur",
+    "query": "McArthur",
+    "rank": 2,
+    "tweet_count": "10.8K Tweets"
+  },
+  {
     "name": "Person 1",
     "query": "\"Person 1\"",
-    "rank": 1,
-    "tweet_count": "261K Tweets"
+    "rank": 3,
+    "tweet_count": "262K Tweets"
   },
   {
     "name": "#polkvart",
     "query": "#polkvart",
-    "rank": 2,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "#AppleEvent",
     "query": "#AppleEvent",
-    "rank": 3,
-    "tweet_count": "311K Tweets"
-  },
-  {
-    "name": "McArthur",
-    "query": "McArthur",
-    "rank": 4,
-    "tweet_count": "10.8K Tweets"
-  },
-  {
-    "name": "skullerud",
-    "query": "skullerud",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "311K Tweets"
   },
   {
     "name": "sandefjord",
@@ -36,68 +36,68 @@
     "tweet_count": null
   },
   {
-    "name": "#MekelleUnderAttack",
-    "query": "#MekelleUnderAttack",
-    "rank": 7,
-    "tweet_count": "171K Tweets"
-  },
-  {
     "name": "Colin Powell",
     "query": "\"Colin Powell\"",
+    "rank": 7,
+    "tweet_count": "674K Tweets"
+  },
+  {
+    "name": "#Mekelle",
+    "query": "#Mekelle",
     "rank": 8,
-    "tweet_count": "673K Tweets"
-  },
-  {
-    "name": "Palace",
-    "query": "Palace",
-    "rank": 9,
-    "tweet_count": "83.4K Tweets"
-  },
-  {
-    "name": "#ARSCRY",
-    "query": "#ARSCRY",
-    "rank": 10,
-    "tweet_count": "47.6K Tweets"
+    "tweet_count": "88.3K Tweets"
   },
   {
     "name": "Sør-Norge",
     "query": "Sør-Norge",
-    "rank": 11,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Suga",
     "query": "Suga",
-    "rank": 12,
+    "rank": 10,
     "tweet_count": "1.12M Tweets"
+  },
+  {
+    "name": "skullerud",
+    "query": "skullerud",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "#strømpriser",
+    "query": "#strømpriser",
+    "rank": 12,
+    "tweet_count": null
   },
   {
     "name": "Acer",
     "query": "Acer",
     "rank": 13,
-    "tweet_count": "3,248 Tweets"
+    "tweet_count": "3,264 Tweets"
   },
   {
     "name": "Iraq",
     "query": "Iraq",
     "rank": 14,
-    "tweet_count": "97.4K Tweets"
+    "tweet_count": "97.6K Tweets"
   },
   {
-    "name": "#OpenScience",
-    "query": "#OpenScience",
+    "name": "Tina Bru",
+    "query": "\"Tina Bru\"",
     "rank": 15,
-    "tweet_count": "1,036 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "stortingets",
-    "query": "stortingets",
+    "name": "Stortingets",
+    "query": "Stortingets",
     "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "henriksen",
-    "query": "henriksen",
+    "name": "Henriksen",
+    "query": "Henriksen",
     "rank": 17,
     "tweet_count": null
   },
@@ -105,18 +105,18 @@
     "name": "TPLF",
     "query": "TPLF",
     "rank": 18,
-    "tweet_count": "51.2K Tweets"
+    "tweet_count": "51.4K Tweets"
   },
   {
-    "name": "Lerkendal",
-    "query": "Lerkendal",
+    "name": "Tess",
+    "query": "Tess",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "9,627 Tweets"
   },
   {
-    "name": "Zidane",
-    "query": "Zidane",
+    "name": "Per-Willy Amundsen",
+    "query": "\"Per-Willy Amundsen\"",
     "rank": 20,
-    "tweet_count": "39.1K Tweets"
+    "tweet_count": null
   }
 ]
