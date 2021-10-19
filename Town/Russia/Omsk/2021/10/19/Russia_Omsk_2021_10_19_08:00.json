@@ -9,25 +9,25 @@
     "name": "#AppleEvent",
     "query": "#AppleEvent",
     "rank": 2,
-    "tweet_count": "305K Tweets"
+    "tweet_count": "306K Tweets"
   },
   {
     "name": "НАТО",
     "query": "НАТО",
     "rank": 3,
-    "tweet_count": "8,738 Tweets"
+    "tweet_count": "8,832 Tweets"
   },
   {
-    "name": "Team Spirit",
-    "query": "\"Team Spirit\"",
+    "name": "#TeamSpirit",
+    "query": "#TeamSpirit",
     "rank": 4,
-    "tweet_count": "9,848 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#nyanarmy",
     "query": "#nyanarmy",
     "rank": 5,
-    "tweet_count": "6,509 Tweets"
+    "tweet_count": "6,662 Tweets"
   },
   {
     "name": "#metalfamily",
@@ -51,72 +51,72 @@
     "name": "Dota 2",
     "query": "\"Dota 2\"",
     "rank": 9,
-    "tweet_count": "4,154 Tweets"
-  },
-  {
-    "name": "#TI10",
-    "query": "#TI10",
-    "rank": 10,
-    "tweet_count": "3,054 Tweets"
+    "tweet_count": "4,185 Tweets"
   },
   {
     "name": "MacBook Pro",
     "query": "\"MacBook Pro\"",
-    "rank": 11,
-    "tweet_count": "159K Tweets"
-  },
-  {
-    "name": "эрдоган",
-    "query": "эрдоган",
-    "rank": 12,
-    "tweet_count": "1,069 Tweets"
+    "rank": 10,
+    "tweet_count": "20.6K Tweets"
   },
   {
     "name": "M1 Max",
     "query": "\"M1 Max\"",
-    "rank": 13,
-    "tweet_count": "84.8K Tweets"
+    "rank": 11,
+    "tweet_count": "85.2K Tweets"
   },
   {
     "name": "США Колин Пауэлл",
     "query": "\"США Колин Пауэлл\"",
-    "rank": 14,
-    "tweet_count": "1,616 Tweets"
+    "rank": 12,
+    "tweet_count": "1,627 Tweets"
   },
   {
     "name": "SHOW YOUR 5",
     "query": "\"SHOW YOUR 5\"",
-    "rank": 15,
-    "tweet_count": "4,698 Tweets"
+    "rank": 13,
+    "tweet_count": "4,757 Tweets"
+  },
+  {
+    "name": "Эрдоган",
+    "query": "Эрдоган",
+    "rank": 14,
+    "tweet_count": "1,095 Tweets"
   },
   {
     "name": "утра",
     "query": "утра",
-    "rank": 16,
-    "tweet_count": "5,553 Tweets"
+    "rank": 15,
+    "tweet_count": "5,615 Tweets"
   },
   {
     "name": "пермью",
     "query": "пермью",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "понедельник",
     "query": "понедельник",
-    "rank": 18,
-    "tweet_count": "1,811 Tweets"
+    "rank": 17,
+    "tweet_count": "1,819 Tweets"
   },
   {
     "name": "Яблоко",
     "query": "Яблоко",
-    "rank": 19,
-    "tweet_count": "1,542 Tweets"
+    "rank": 18,
+    "tweet_count": "1,556 Tweets"
   },
   {
     "name": "в росгвардии",
     "query": "\"в росгвардии\"",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "NATO",
+    "query": "NATO",
+    "rank": 20,
+    "tweet_count": "45.4K Tweets"
   }
 ]

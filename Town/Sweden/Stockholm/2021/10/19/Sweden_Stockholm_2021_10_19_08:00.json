@@ -3,13 +3,13 @@
     "name": "Bulletin",
     "query": "Bulletin",
     "rank": 1,
-    "tweet_count": "9,080 Tweets"
+    "tweet_count": "9,183 Tweets"
   },
   {
     "name": "Colin Powell",
     "query": "\"Colin Powell\"",
     "rank": 2,
-    "tweet_count": "663K Tweets"
+    "tweet_count": "664K Tweets"
   },
   {
     "name": "Elfsborg",
@@ -27,13 +27,13 @@
     "name": "#AppleEvent",
     "query": "#AppleEvent",
     "rank": 5,
-    "tweet_count": "304K Tweets"
+    "tweet_count": "306K Tweets"
   },
   {
-    "name": "Palace",
-    "query": "Palace",
+    "name": "#ARSCRY",
+    "query": "#ARSCRY",
     "rank": 6,
-    "tweet_count": "83K Tweets"
+    "tweet_count": "46.9K Tweets"
   },
   {
     "name": "Rinkeby",
@@ -42,14 +42,14 @@
     "tweet_count": null
   },
   {
-    "name": "#ARSCRY",
-    "query": "#ARSCRY",
+    "name": "Arnstad",
+    "query": "Arnstad",
     "rank": 8,
-    "tweet_count": "46.1K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "lycksele",
-    "query": "lycksele",
+    "name": "Lycksele",
+    "query": "Lycksele",
     "rank": 9,
     "tweet_count": null
   },
@@ -57,17 +57,17 @@
     "name": "#MekelleUnderAttack",
     "query": "#MekelleUnderAttack",
     "rank": 10,
-    "tweet_count": "159K Tweets"
+    "tweet_count": "161K Tweets"
   },
   {
-    "name": "Arnstad",
-    "query": "Arnstad",
+    "name": "Mike Dean",
+    "query": "\"Mike Dean\"",
     "rank": 11,
-    "tweet_count": null
+    "tweet_count": "10.9K Tweets"
   },
   {
-    "name": "Lotta Gröning",
-    "query": "\"Lotta Gröning\"",
+    "name": "lotta gröning",
+    "query": "\"lotta gröning\"",
     "rank": 12,
     "tweet_count": null
   },
@@ -78,26 +78,26 @@
     "tweet_count": null
   },
   {
-    "name": "Godmorgon",
-    "query": "Godmorgon",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
     "name": "lambertz",
     "query": "lambertz",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Kanye",
     "query": "Kanye",
-    "rank": 16,
-    "tweet_count": "57K Tweets"
+    "rank": 15,
+    "tweet_count": "57.6K Tweets"
   },
   {
     "name": "Volvo Cars",
     "query": "\"Volvo Cars\"",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Godmorgon",
+    "query": "Godmorgon",
     "rank": 17,
     "tweet_count": null
   },
@@ -105,7 +105,7 @@
     "name": "#COYG",
     "query": "#COYG",
     "rank": 18,
-    "tweet_count": "4,749 Tweets"
+    "tweet_count": "4,756 Tweets"
   },
   {
     "name": "Trollhättan",
@@ -114,8 +114,8 @@
     "tweet_count": null
   },
   {
-    "name": "Uppsala",
-    "query": "Uppsala",
+    "name": "uppsala",
+    "query": "uppsala",
     "rank": 20,
     "tweet_count": null
   }
