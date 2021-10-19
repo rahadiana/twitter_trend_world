@@ -3,25 +3,25 @@
     "name": "LATAM",
     "query": "LATAM",
     "rank": 1,
-    "tweet_count": "14K Tweets"
+    "tweet_count": "14.3K Tweets"
+  },
+  {
+    "name": "#WandaGate",
+    "query": "#WandaGate",
+    "rank": 2,
+    "tweet_count": "2,595 Tweets"
   },
   {
     "name": "#BuenMartes",
     "query": "#BuenMartes",
-    "rank": 2,
-    "tweet_count": "4,457 Tweets"
+    "rank": 3,
+    "tweet_count": "4,602 Tweets"
   },
   {
     "name": "#quieroladeboca",
     "query": "#quieroladeboca",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "Cáncer de Mama",
-    "query": "\"Cáncer de Mama\"",
     "rank": 4,
-    "tweet_count": "53K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#ReservaLPF",
@@ -30,22 +30,22 @@
     "tweet_count": null
   },
   {
+    "name": "Cáncer de Mama",
+    "query": "\"Cáncer de Mama\"",
+    "rank": 6,
+    "tweet_count": "54.7K Tweets"
+  },
+  {
     "name": "#HabraConsecuencias",
     "query": "#HabraConsecuencias",
-    "rank": 6,
-    "tweet_count": "2,494 Tweets"
-  },
-  {
-    "name": "#OctubreRosa",
-    "query": "#OctubreRosa",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "2,543 Tweets"
   },
   {
-    "name": "Marvel",
-    "query": "Marvel",
+    "name": "Taborda",
+    "query": "Taborda",
     "rank": 8,
-    "tweet_count": "246K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Zeballos",
@@ -54,69 +54,69 @@
     "tweet_count": null
   },
   {
-    "name": "ENHYPEN FOURTH WIN",
-    "query": "\"ENHYPEN FOURTH WIN\"",
+    "name": "Marvel",
+    "query": "Marvel",
     "rank": 10,
-    "tweet_count": "297K Tweets"
+    "tweet_count": "248K Tweets"
   },
   {
     "name": "Mob Psycho",
     "query": "\"Mob Psycho\"",
     "rank": 11,
-    "tweet_count": "35.7K Tweets"
-  },
-  {
-    "name": "Thanos",
-    "query": "Thanos",
-    "rank": 12,
-    "tweet_count": "31.7K Tweets"
+    "tweet_count": "37.6K Tweets"
   },
   {
     "name": "Aeroparque",
     "query": "Aeroparque",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "Thanos",
+    "query": "Thanos",
+    "rank": 13,
+    "tweet_count": "32.3K Tweets"
+  },
+  {
+    "name": "Día Internacional de la Lucha",
+    "query": "\"Día Internacional de la Lucha\"",
+    "rank": 14,
+    "tweet_count": "3,357 Tweets"
   },
   {
     "name": "El 19",
     "query": "\"El 19\"",
-    "rank": 14,
-    "tweet_count": "131K Tweets"
+    "rank": 15,
+    "tweet_count": "134K Tweets"
+  },
+  {
+    "name": "ENHYPEN FOURTH WIN",
+    "query": "\"ENHYPEN FOURTH WIN\"",
+    "rank": 16,
+    "tweet_count": "297K Tweets"
   },
   {
     "name": "Conicet",
     "query": "Conicet",
-    "rank": 15,
-    "tweet_count": "1,587 Tweets"
+    "rank": 17,
+    "tweet_count": "1,599 Tweets"
   },
   {
     "name": "Armada",
     "query": "Armada",
-    "rank": 16,
-    "tweet_count": "18.3K Tweets"
-  },
-  {
-    "name": "Pratto",
-    "query": "Pratto",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Axel Kicillof",
-    "query": "\"Axel Kicillof\"",
     "rank": 18,
-    "tweet_count": "2,206 Tweets"
+    "tweet_count": "18.5K Tweets"
   },
   {
     "name": "Tarjeta Alimentar",
     "query": "\"Tarjeta Alimentar\"",
     "rank": 19,
-    "tweet_count": "3,793 Tweets"
+    "tweet_count": "3,830 Tweets"
   },
   {
-    "name": "Eternals",
-    "query": "Eternals",
+    "name": "Axel Kicillof",
+    "query": "\"Axel Kicillof\"",
     "rank": 20,
-    "tweet_count": "274K Tweets"
+    "tweet_count": "2,234 Tweets"
   }
 ]
