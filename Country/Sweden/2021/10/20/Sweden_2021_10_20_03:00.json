@@ -1,15 +1,15 @@
 [
   {
-    "name": "Bulletin",
-    "query": "Bulletin",
+    "name": "bulletin",
+    "query": "bulletin",
     "rank": 1,
-    "tweet_count": "7,367 Tweets"
+    "tweet_count": "7,390 Tweets"
   },
   {
-    "name": "kristersson",
-    "query": "kristersson",
+    "name": "Kristersson",
+    "query": "Kristersson",
     "rank": 2,
-    "tweet_count": "1,725 Tweets"
+    "tweet_count": "1,728 Tweets"
   },
   {
     "name": "Atletico",
@@ -18,105 +18,105 @@
     "tweet_count": "130K Tweets"
   },
   {
-    "name": "Ajax",
-    "query": "Ajax",
-    "rank": 4,
-    "tweet_count": "84.2K Tweets"
-  },
-  {
     "name": "lycksele",
     "query": "lycksele",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Keita",
     "query": "Keita",
+    "rank": 5,
+    "tweet_count": "29.6K Tweets"
+  },
+  {
+    "name": "Ajax",
+    "query": "Ajax",
     "rank": 6,
-    "tweet_count": "29.5K Tweets"
+    "tweet_count": "84.4K Tweets"
   },
   {
     "name": "UEFA",
     "query": "UEFA",
     "rank": 7,
-    "tweet_count": "46.8K Tweets"
+    "tweet_count": "46.9K Tweets"
   },
   {
-    "name": "Tranemo",
-    "query": "Tranemo",
+    "name": "tranemo",
+    "query": "tranemo",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Porto",
-    "query": "Porto",
+    "name": "#StopBombingTigray",
+    "query": "#StopBombingTigray",
     "rank": 9,
-    "tweet_count": "73.3K Tweets"
-  },
-  {
-    "name": "#ARSCRY",
-    "query": "#ARSCRY",
-    "rank": 10,
-    "tweet_count": "8,276 Tweets"
+    "tweet_count": "106K Tweets"
   },
   {
     "name": "Aktuellt",
     "query": "Aktuellt",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
-  },
-  {
-    "name": "Arteta",
-    "query": "Arteta",
-    "rank": 12,
-    "tweet_count": "17.8K Tweets"
   },
   {
     "name": "Milner",
     "query": "Milner",
-    "rank": 13,
+    "rank": 11,
     "tweet_count": "13.2K Tweets"
   },
   {
     "name": "Beklagar",
     "query": "Beklagar",
-    "rank": 14,
+    "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "note",
-    "query": "note",
-    "rank": 15,
-    "tweet_count": "261K Tweets"
-  },
-  {
-    "name": "elfsborg",
-    "query": "elfsborg",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "#AppleEvent",
-    "query": "#AppleEvent",
-    "rank": 17,
-    "tweet_count": "64.6K Tweets"
+    "name": "#ATMLIV",
+    "query": "#ATMLIV",
+    "rank": 13,
+    "tweet_count": "32.7K Tweets"
   },
   {
     "name": "ygeman",
     "query": "ygeman",
-    "rank": 18,
-    "tweet_count": "1,233 Tweets"
+    "rank": 14,
+    "tweet_count": "1,240 Tweets"
+  },
+  {
+    "name": "#AppleEvent",
+    "query": "#AppleEvent",
+    "rank": 15,
+    "tweet_count": "64.7K Tweets"
   },
   {
     "name": "Fabinho",
     "query": "Fabinho",
-    "rank": 19,
-    "tweet_count": "9,936 Tweets"
+    "rank": 16,
+    "tweet_count": "9,950 Tweets"
   },
   {
     "name": "Colin Powell",
     "query": "\"Colin Powell\"",
-    "rank": 20,
+    "rank": 17,
     "tweet_count": "170K Tweets"
+  },
+  {
+    "name": "arnstad",
+    "query": "arnstad",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "#MekelleUnderAttack",
+    "query": "#MekelleUnderAttack",
+    "rank": 19,
+    "tweet_count": "101K Tweets"
+  },
+  {
+    "name": "Kanye",
+    "query": "Kanye",
+    "rank": 20,
+    "tweet_count": "66.2K Tweets"
   }
 ]
