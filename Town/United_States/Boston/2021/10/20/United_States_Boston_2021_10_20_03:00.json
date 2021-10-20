@@ -1,122 +1,122 @@
 [
   {
+    "name": "Fenway",
+    "query": "Fenway",
+    "rank": 1,
+    "tweet_count": "7,479 Tweets"
+  },
+  {
     "name": "Whitlock",
     "query": "Whitlock",
-    "rank": 1,
-    "tweet_count": "1,431 Tweets"
+    "rank": 2,
+    "tweet_count": "1,893 Tweets"
+  },
+  {
+    "name": "Greinke",
+    "query": "Greinke",
+    "rank": 3,
+    "tweet_count": "4,886 Tweets"
   },
   {
     "name": "Xander",
     "query": "Xander",
-    "rank": 2,
-    "tweet_count": "8,026 Tweets"
-  },
-  {
-    "name": "Christian Arroyo",
-    "query": "\"Christian Arroyo\"",
-    "rank": 3,
-    "tweet_count": "1,032 Tweets"
-  },
-  {
-    "name": "Bregman",
-    "query": "Bregman",
     "rank": 4,
-    "tweet_count": "2,623 Tweets"
+    "tweet_count": "8,130 Tweets"
   },
   {
-    "name": "#BosMayorDebate",
-    "query": "#BosMayorDebate",
+    "name": "#RedSox",
+    "query": "#RedSox",
     "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "#redsoxvsastros",
-    "query": "#redsoxvsastros",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "Schwarber",
-    "query": "Schwarber",
-    "rank": 7,
-    "tweet_count": "7,472 Tweets"
-  },
-  {
-    "name": "Renfroe",
-    "query": "Renfroe",
-    "rank": 8,
-    "tweet_count": "1,595 Tweets"
-  },
-  {
-    "name": "Waltham",
-    "query": "Waltham",
-    "rank": 9,
-    "tweet_count": "4,794 Tweets"
-  },
-  {
-    "name": "Dusty Baker",
-    "query": "\"Dusty Baker\"",
-    "rank": 10,
-    "tweet_count": null
+    "tweet_count": "7,593 Tweets"
   },
   {
     "name": "#HOUvsBOS",
     "query": "#HOUvsBOS",
-    "rank": 11,
+    "rank": 6,
     "tweet_count": null
+  },
+  {
+    "name": "Renfroe",
+    "query": "Renfroe",
+    "rank": 7,
+    "tweet_count": "1,817 Tweets"
+  },
+  {
+    "name": "Bogaerts",
+    "query": "Bogaerts",
+    "rank": 8,
+    "tweet_count": "2,002 Tweets"
+  },
+  {
+    "name": "Bregman",
+    "query": "Bregman",
+    "rank": 9,
+    "tweet_count": "2,822 Tweets"
   },
   {
     "name": "Joe Buck",
     "query": "\"Joe Buck\"",
+    "rank": 10,
+    "tweet_count": "1,414 Tweets"
+  },
+  {
+    "name": "#ALCS",
+    "query": "#ALCS",
+    "rank": 11,
+    "tweet_count": "3,892 Tweets"
+  },
+  {
+    "name": "Arroyo",
+    "query": "Arroyo",
     "rank": 12,
-    "tweet_count": "1,190 Tweets"
+    "tweet_count": "4,973 Tweets"
+  },
+  {
+    "name": "Schwarber",
+    "query": "Schwarber",
+    "rank": 13,
+    "tweet_count": "7,524 Tweets"
+  },
+  {
+    "name": "#bosmayordebate",
+    "query": "#bosmayordebate",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Dusty Baker",
+    "query": "\"Dusty Baker\"",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Waltham",
+    "query": "Waltham",
+    "rank": 16,
+    "tweet_count": "4,842 Tweets"
+  },
+  {
+    "name": "#takeoverHOBbos",
+    "query": "#takeoverHOBbos",
+    "rank": 17,
+    "tweet_count": null
   },
   {
     "name": "Correa",
     "query": "Correa",
-    "rank": 13,
-    "tweet_count": "29.7K Tweets"
-  },
-  {
-    "name": "#bospoli",
-    "query": "#bospoli",
-    "rank": 14,
-    "tweet_count": "1,830 Tweets"
+    "rank": 18,
+    "tweet_count": "30.4K Tweets"
   },
   {
     "name": "Go Sox",
     "query": "\"Go Sox\"",
-    "rank": 15,
-    "tweet_count": "2,173 Tweets"
+    "rank": 19,
+    "tweet_count": "2,244 Tweets"
   },
   {
     "name": "harry styles",
     "query": "\"harry styles\"",
-    "rank": 16,
-    "tweet_count": "172K Tweets"
-  },
-  {
-    "name": "Kyle",
-    "query": "Kyle",
-    "rank": 17,
-    "tweet_count": "78.5K Tweets"
-  },
-  {
-    "name": "Game 4",
-    "query": "\"Game 4\"",
-    "rank": 18,
-    "tweet_count": "37.5K Tweets"
-  },
-  {
-    "name": "Lakers",
-    "query": "Lakers",
-    "rank": 19,
-    "tweet_count": "132K Tweets"
-  },
-  {
-    "name": "Bron",
-    "query": "Bron",
     "rank": 20,
-    "tweet_count": "26.6K Tweets"
+    "tweet_count": "173K Tweets"
   }
 ]
