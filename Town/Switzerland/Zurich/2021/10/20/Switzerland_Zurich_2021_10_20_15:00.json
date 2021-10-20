@@ -3,17 +3,17 @@
     "name": "#EndSARSMemorial",
     "query": "#EndSARSMemorial",
     "rank": 1,
-    "tweet_count": "1.17M Tweets"
+    "tweet_count": "1.18M Tweets"
   },
   {
     "name": "#Bitcoin",
     "query": "#Bitcoin",
     "rank": 2,
-    "tweet_count": "394K Tweets"
+    "tweet_count": "399K Tweets"
   },
   {
-    "name": "#KohLanta",
-    "query": "#KohLanta",
+    "name": "#kohlanta",
+    "query": "#kohlanta",
     "rank": 3,
     "tweet_count": "72.4K Tweets"
   },
@@ -27,7 +27,7 @@
     "name": "#PortoMilan",
     "query": "#PortoMilan",
     "rank": 5,
-    "tweet_count": "11.8K Tweets"
+    "tweet_count": "11.9K Tweets"
   },
   {
     "name": "Alix",
@@ -51,49 +51,49 @@
     "name": "Champions",
     "query": "Champions",
     "rank": 9,
-    "tweet_count": "231K Tweets"
+    "tweet_count": "232K Tweets"
+  },
+  {
+    "name": "Zemmour",
+    "query": "Zemmour",
+    "rank": 10,
+    "tweet_count": "81.6K Tweets"
   },
   {
     "name": "Mbappé",
     "query": "Mbappé",
-    "rank": 10,
-    "tweet_count": "210K Tweets"
-  },
-  {
-    "name": "Leipzig",
-    "query": "Leipzig",
     "rank": 11,
-    "tweet_count": "73K Tweets"
+    "tweet_count": "210K Tweets"
   },
   {
     "name": "Putin",
     "query": "Putin",
     "rank": 12,
-    "tweet_count": "43.2K Tweets"
+    "tweet_count": "43.8K Tweets"
   },
   {
-    "name": "Zemmour",
-    "query": "Zemmour",
+    "name": "Leipzig",
+    "query": "Leipzig",
     "rank": 13,
-    "tweet_count": "80.5K Tweets"
+    "tweet_count": "73.1K Tweets"
   },
   {
     "name": "Buchmesse",
     "query": "Buchmesse",
     "rank": 14,
-    "tweet_count": "8,694 Tweets"
+    "tweet_count": "8,765 Tweets"
   },
   {
-    "name": "Standard",
-    "query": "Standard",
+    "name": "Zertifikat",
+    "query": "Zertifikat",
     "rank": 15,
-    "tweet_count": "75.1K Tweets"
+    "tweet_count": "1,283 Tweets"
   },
   {
-    "name": "Bundesrat",
-    "query": "Bundesrat",
+    "name": "Zertifikat",
+    "query": "Zertifikat",
     "rank": 16,
-    "tweet_count": null
+    "tweet_count": "1,283 Tweets"
   },
   {
     "name": "Powell",
@@ -102,21 +102,21 @@
     "tweet_count": "145K Tweets"
   },
   {
-    "name": "Traum",
-    "query": "Traum",
-    "rank": 18,
-    "tweet_count": "2,378 Tweets"
-  },
-  {
-    "name": "Source",
-    "query": "Source",
-    "rank": 19,
-    "tweet_count": "430K Tweets"
-  },
-  {
     "name": "Fallzahlen",
     "query": "Fallzahlen",
-    "rank": 20,
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Standard",
+    "query": "Standard",
+    "rank": 19,
+    "tweet_count": "75.6K Tweets"
+  },
+  {
+    "name": "Traum",
+    "query": "Traum",
+    "rank": 20,
+    "tweet_count": "2,405 Tweets"
   }
 ]

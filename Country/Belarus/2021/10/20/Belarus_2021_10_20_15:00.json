@@ -1,68 +1,104 @@
 [
   {
-    "name": "#Беларусь",
-    "query": "#Беларусь",
+    "name": "#DriverLessCars",
+    "query": "#DriverLessCars",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "#AutonomousVehicles",
-    "query": "#AutonomousVehicles",
+    "name": "#Беларусь",
+    "query": "#Беларусь",
     "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "#driverlesscars",
-    "query": "#driverlesscars",
+    "name": "#autonomousvehicles",
+    "query": "#autonomousvehicles",
     "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "#autonomouscars",
-    "query": "#autonomouscars",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "#selfdriving",
-    "query": "#selfdriving",
-    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "COVID-19",
     "query": "COVID-19",
-    "rank": 6,
-    "tweet_count": "433K Tweets"
+    "rank": 4,
+    "tweet_count": "437K Tweets"
   },
   {
-    "name": "Твиттер",
-    "query": "Твиттер",
-    "rank": 7,
-    "tweet_count": "4,281 Tweets"
+    "name": "#blockchain",
+    "query": "#blockchain",
+    "rank": 5,
+    "tweet_count": "70.8K Tweets"
+  },
+  {
+    "name": "#autonomouscars",
+    "query": "#autonomouscars",
+    "rank": 6,
+    "tweet_count": null
   },
   {
     "name": "Реально",
     "query": "Реально",
+    "rank": 7,
+    "tweet_count": "8,417 Tweets"
+  },
+  {
+    "name": "Правильно",
+    "query": "Правильно",
     "rank": 8,
-    "tweet_count": "8,338 Tweets"
-  },
-  {
-    "name": "Понимаю",
-    "query": "Понимаю",
-    "rank": 9,
-    "tweet_count": "13.4K Tweets"
-  },
-  {
-    "name": "Пусть",
-    "query": "Пусть",
-    "rank": 10,
-    "tweet_count": "7,359 Tweets"
+    "tweet_count": "5,048 Tweets"
   },
   {
     "name": "Ясно",
     "query": "Ясно",
+    "rank": 9,
+    "tweet_count": "2,459 Tweets"
+  },
+  {
+    "name": "Понимаю",
+    "query": "Понимаю",
+    "rank": 10,
+    "tweet_count": "13.6K Tweets"
+  },
+  {
+    "name": "СССР",
+    "query": "СССР",
     "rank": 11,
-    "tweet_count": "2,439 Tweets"
+    "tweet_count": "4,937 Tweets"
+  },
+  {
+    "name": "Пусть",
+    "query": "Пусть",
+    "rank": 12,
+    "tweet_count": "7,422 Tweets"
+  },
+  {
+    "name": "Твиттер",
+    "query": "Твиттер",
+    "rank": 13,
+    "tweet_count": "4,321 Tweets"
+  },
+  {
+    "name": "Возможно",
+    "query": "Возможно",
+    "rank": 14,
+    "tweet_count": "5,432 Tweets"
+  },
+  {
+    "name": "Halloween",
+    "query": "Halloween",
+    "rank": 15,
+    "tweet_count": "525K Tweets"
+  },
+  {
+    "name": "Лукашенко",
+    "query": "Лукашенко",
+    "rank": 16,
+    "tweet_count": "1,381 Tweets"
+  },
+  {
+    "name": "Люблю",
+    "query": "Люблю",
+    "rank": 17,
+    "tweet_count": "18.5K Tweets"
   }
 ]
