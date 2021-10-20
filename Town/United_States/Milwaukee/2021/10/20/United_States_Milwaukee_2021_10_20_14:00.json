@@ -1,15 +1,15 @@
 [
   {
-    "name": "Lakers",
-    "query": "Lakers",
-    "rank": 1,
-    "tweet_count": "242K Tweets"
-  },
-  {
     "name": "Lebron",
     "query": "Lebron",
+    "rank": 1,
+    "tweet_count": "105K Tweets"
+  },
+  {
+    "name": "Bron",
+    "query": "Bron",
     "rank": 2,
-    "tweet_count": "104K Tweets"
+    "tweet_count": "49.5K Tweets"
   },
   {
     "name": "Bucks",
@@ -21,19 +21,19 @@
     "name": "Giannis",
     "query": "Giannis",
     "rank": 4,
-    "tweet_count": "93.9K Tweets"
+    "tweet_count": "94.1K Tweets"
   },
   {
     "name": "#FearTheDeer",
     "query": "#FearTheDeer",
     "rank": 5,
-    "tweet_count": "4,697 Tweets"
+    "tweet_count": "4,706 Tweets"
   },
   {
     "name": "Harden",
     "query": "Harden",
     "rank": 6,
-    "tweet_count": "43.5K Tweets"
+    "tweet_count": "43.7K Tweets"
   },
   {
     "name": "#EndSARSMemorial",
@@ -42,58 +42,58 @@
     "tweet_count": "1.11M Tweets"
   },
   {
-    "name": "#EndSARSMemorial",
-    "query": "#EndSARSMemorial",
-    "rank": 8,
-    "tweet_count": "1.11M Tweets"
-  },
-  {
     "name": "#wednesdaythought",
     "query": "#wednesdaythought",
-    "rank": 9,
-    "tweet_count": "26.4K Tweets"
+    "rank": 8,
+    "tweet_count": "26.9K Tweets"
   },
   {
     "name": "Blewitt",
     "query": "Blewitt",
+    "rank": 9,
+    "tweet_count": "1,360 Tweets"
+  },
+  {
+    "name": "Nikolas Cruz",
+    "query": "\"Nikolas Cruz\"",
     "rank": 10,
-    "tweet_count": "1,182 Tweets"
+    "tweet_count": "1,450 Tweets"
   },
   {
     "name": "Ruby Rose",
     "query": "\"Ruby Rose\"",
     "rank": 11,
-    "tweet_count": "15.3K Tweets"
+    "tweet_count": "16.3K Tweets"
   },
   {
     "name": "Travis Tritt",
     "query": "\"Travis Tritt\"",
     "rank": 12,
-    "tweet_count": "32.1K Tweets"
-  },
-  {
-    "name": "#WednesdayWisdom",
-    "query": "#WednesdayWisdom",
-    "rank": 13,
-    "tweet_count": "4,706 Tweets"
+    "tweet_count": "32.4K Tweets"
   },
   {
     "name": "Bitcoin ATH",
     "query": "\"Bitcoin ATH\"",
-    "rank": 14,
-    "tweet_count": "33.1K Tweets"
+    "rank": 13,
+    "tweet_count": "35.1K Tweets"
   },
   {
-    "name": "Nikolas Cruz",
-    "query": "\"Nikolas Cruz\"",
+    "name": "#InternationalPronounsDay",
+    "query": "#InternationalPronounsDay",
+    "rank": 14,
+    "tweet_count": "4,817 Tweets"
+  },
+  {
+    "name": "#ARIAsTaylorSwift",
+    "query": "#ARIAsTaylorSwift",
     "rank": 15,
-    "tweet_count": null
+    "tweet_count": "329K Tweets"
   },
   {
     "name": "Paul Tudor Jones",
     "query": "\"Paul Tudor Jones\"",
     "rank": 16,
-    "tweet_count": "2,269 Tweets"
+    "tweet_count": "2,400 Tweets"
   },
   {
     "name": "Mark Dark",
@@ -105,18 +105,18 @@
     "name": "LNSC",
     "query": "LNSC",
     "rank": 18,
-    "tweet_count": "3,320 Tweets"
-  },
-  {
-    "name": "Parkland",
-    "query": "Parkland",
-    "rank": 19,
-    "tweet_count": "3,083 Tweets"
+    "tweet_count": "3,378 Tweets"
   },
   {
     "name": "Happy Birthday Scott",
     "query": "\"Happy Birthday Scott\"",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "Neil Cavuto",
+    "query": "\"Neil Cavuto\"",
+    "rank": 20,
+    "tweet_count": "10.7K Tweets"
   }
 ]

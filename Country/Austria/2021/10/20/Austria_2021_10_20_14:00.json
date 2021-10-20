@@ -1,9 +1,9 @@
 [
   {
-    "name": "#orfreport",
-    "query": "#orfreport",
+    "name": "#Bitcoin",
+    "query": "#Bitcoin",
     "rank": 1,
-    "tweet_count": null
+    "tweet_count": "362K Tweets"
   },
   {
     "name": "#edtstadler",
@@ -15,25 +15,25 @@
     "name": "3G am Arbeitsplatz",
     "query": "\"3G am Arbeitsplatz\"",
     "rank": 3,
-    "tweet_count": "1,007 Tweets"
+    "tweet_count": "1,016 Tweets"
   },
   {
-    "name": "#Bitcoin",
-    "query": "#Bitcoin",
+    "name": "#orfreport",
+    "query": "#orfreport",
     "rank": 4,
-    "tweet_count": "355K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#EndSARSMemorial",
     "query": "#EndSARSMemorial",
     "rank": 5,
-    "tweet_count": "1.1M Tweets"
+    "tweet_count": "1.11M Tweets"
   },
   {
     "name": "#AppleEvent",
     "query": "#AppleEvent",
     "rank": 6,
-    "tweet_count": "19.2K Tweets"
+    "tweet_count": "19.3K Tweets"
   },
   {
     "name": "Griss",
@@ -54,16 +54,16 @@
     "tweet_count": null
   },
   {
-    "name": "Kronzeugen",
-    "query": "Kronzeugen",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
     "name": "Pflege",
     "query": "Pflege",
+    "rank": 10,
+    "tweet_count": "1,665 Tweets"
+  },
+  {
+    "name": "Kronzeugen",
+    "query": "Kronzeugen",
     "rank": 11,
-    "tweet_count": "1,655 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Richterin",
@@ -75,7 +75,7 @@
     "name": "Pixel 6",
     "query": "\"Pixel 6\"",
     "rank": 13,
-    "tweet_count": "53.5K Tweets"
+    "tweet_count": "53.7K Tweets"
   },
   {
     "name": "Vollmond",
@@ -93,30 +93,30 @@
     "name": "Chips",
     "query": "Chips",
     "rank": 16,
-    "tweet_count": "26.2K Tweets"
-  },
-  {
-    "name": "MacBook Pro",
-    "query": "\"MacBook Pro\"",
-    "rank": 17,
-    "tweet_count": "32.9K Tweets"
+    "tweet_count": "26.4K Tweets"
   },
   {
     "name": "Handeln",
     "query": "Handeln",
-    "rank": 18,
-    "tweet_count": "1,650 Tweets"
+    "rank": 17,
+    "tweet_count": "1,661 Tweets"
   },
   {
     "name": "Verordnung",
     "query": "Verordnung",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Portal",
     "query": "Portal",
+    "rank": 19,
+    "tweet_count": "90.1K Tweets"
+  },
+  {
+    "name": "Neuinfektionen",
+    "query": "Neuinfektionen",
     "rank": 20,
-    "tweet_count": "89.2K Tweets"
+    "tweet_count": "3,722 Tweets"
   }
 ]
