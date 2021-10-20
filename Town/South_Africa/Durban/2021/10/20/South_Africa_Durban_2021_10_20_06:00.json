@@ -1,122 +1,98 @@
 [
   {
+    "name": "Liverpool",
+    "query": "Liverpool",
+    "rank": 1,
+    "tweet_count": "202K Tweets"
+  },
+  {
+    "name": "#ItCanBe",
+    "query": "#ItCanBe",
+    "rank": 2,
+    "tweet_count": "1,432 Tweets"
+  },
+  {
     "name": "#JacaInvestmentDay",
     "query": "#JacaInvestmentDay",
-    "rank": 1,
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "#gagasiinvestmentday",
+    "query": "#gagasiinvestmentday",
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "#GotGame",
     "query": "#GotGame",
-    "rank": 2,
+    "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "#face2face",
-    "query": "#face2face",
-    "rank": 3,
-    "tweet_count": "2,338 Tweets"
-  },
-  {
-    "name": "Liverpool",
-    "query": "Liverpool",
-    "rank": 4,
-    "tweet_count": "200K Tweets"
-  },
-  {
-    "name": "#Ayikhale",
-    "query": "#Ayikhale",
-    "rank": 5,
-    "tweet_count": "7,108 Tweets"
-  },
-  {
-    "name": "#ItCanBe",
-    "query": "#ItCanBe",
+    "name": "#ICanWithAbsa",
+    "query": "#ICanWithAbsa",
     "rank": 6,
-    "tweet_count": "1,152 Tweets"
+    "tweet_count": "1,961 Tweets"
   },
   {
     "name": "Zondo",
     "query": "Zondo",
     "rank": 7,
-    "tweet_count": "4,333 Tweets"
+    "tweet_count": "4,780 Tweets"
   },
   {
-    "name": "Arthur Fraser",
-    "query": "\"Arthur Fraser\"",
+    "name": "Fraser",
+    "query": "Fraser",
     "rank": 8,
-    "tweet_count": "2,554 Tweets"
-  },
-  {
-    "name": "Lakers",
-    "query": "Lakers",
-    "rank": 9,
-    "tweet_count": "225K Tweets"
+    "tweet_count": "9,590 Tweets"
   },
   {
     "name": "Westbrook",
     "query": "Westbrook",
-    "rank": 10,
-    "tweet_count": "58.9K Tweets"
-  },
-  {
-    "name": "Royal AM",
-    "query": "\"Royal AM\"",
-    "rank": 11,
-    "tweet_count": "3,706 Tweets"
-  },
-  {
-    "name": "Dortmund",
-    "query": "Dortmund",
-    "rank": 12,
-    "tweet_count": "54K Tweets"
-  },
-  {
-    "name": "Fabinho",
-    "query": "Fabinho",
-    "rank": 13,
-    "tweet_count": "10K Tweets"
-  },
-  {
-    "name": "Ajax",
-    "query": "Ajax",
-    "rank": 14,
-    "tweet_count": "85.9K Tweets"
-  },
-  {
-    "name": "Griezmann",
-    "query": "Griezmann",
-    "rank": 15,
-    "tweet_count": "61.7K Tweets"
-  },
-  {
-    "name": "Lebron",
-    "query": "Lebron",
-    "rank": 16,
-    "tweet_count": "96.2K Tweets"
+    "rank": 9,
+    "tweet_count": "59.8K Tweets"
   },
   {
     "name": "Senzo Meyiwa",
     "query": "\"Senzo Meyiwa\"",
-    "rank": 17,
-    "tweet_count": "1,228 Tweets"
+    "rank": 10,
+    "tweet_count": "1,433 Tweets"
   },
   {
-    "name": "Felix",
-    "query": "Felix",
-    "rank": 18,
-    "tweet_count": "122K Tweets"
+    "name": "Lebron",
+    "query": "Lebron",
+    "rank": 11,
+    "tweet_count": "97.4K Tweets"
   },
   {
-    "name": "Steph",
-    "query": "Steph",
-    "rank": 19,
-    "tweet_count": "64.9K Tweets"
+    "name": "#WeDoMoreWednesdays",
+    "query": "#WeDoMoreWednesdays",
+    "rank": 12,
+    "tweet_count": "1,944 Tweets"
   },
   {
-    "name": "C-Section",
-    "query": "C-Section",
-    "rank": 20,
-    "tweet_count": "4,067 Tweets"
+    "name": "#ThomasAndSkhumba",
+    "query": "#ThomasAndSkhumba",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "#powerbreakfast",
+    "query": "#powerbreakfast",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "#TheMorningFlava",
+    "query": "#TheMorningFlava",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "#dribbledbyafriend",
+    "query": "#dribbledbyafriend",
+    "rank": 16,
+    "tweet_count": null
   }
 ]
