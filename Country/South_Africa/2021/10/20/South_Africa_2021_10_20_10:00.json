@@ -1,15 +1,15 @@
 [
   {
-    "name": "Alex",
-    "query": "Alex",
-    "rank": 1,
-    "tweet_count": "316K Tweets"
-  },
-  {
     "name": "Steve Bruce",
     "query": "\"Steve Bruce\"",
+    "rank": 1,
+    "tweet_count": "28.2K Tweets"
+  },
+  {
+    "name": "Alex",
+    "query": "Alex",
     "rank": 2,
-    "tweet_count": "27K Tweets"
+    "tweet_count": "317K Tweets"
   },
   {
     "name": "#KayaInvestmentDay",
@@ -21,19 +21,19 @@
     "name": "#EndSARSMemorial",
     "query": "#EndSARSMemorial",
     "rank": 4,
-    "tweet_count": "786K Tweets"
+    "tweet_count": "802K Tweets"
   },
   {
-    "name": "#itcanbe",
-    "query": "#itcanbe",
+    "name": "#ItCanBe",
+    "query": "#ItCanBe",
     "rank": 5,
-    "tweet_count": "3,061 Tweets"
+    "tweet_count": "3,073 Tweets"
   },
   {
     "name": "#TheBraaiShowWithCass",
     "query": "#TheBraaiShowWithCass",
     "rank": 6,
-    "tweet_count": "2,128 Tweets"
+    "tweet_count": "2,140 Tweets"
   },
   {
     "name": "eBucks",
@@ -45,7 +45,7 @@
     "name": "Mbalula",
     "query": "Mbalula",
     "rank": 8,
-    "tweet_count": "5,572 Tweets"
+    "tweet_count": "5,656 Tweets"
   },
   {
     "name": "#KOO5ADAY",
@@ -57,13 +57,13 @@
     "name": "Kelly",
     "query": "Kelly",
     "rank": 10,
-    "tweet_count": "53.9K Tweets"
+    "tweet_count": "54.1K Tweets"
   },
   {
     "name": "Zondo",
     "query": "Zondo",
     "rank": 11,
-    "tweet_count": "7,469 Tweets"
+    "tweet_count": "7,514 Tweets"
   },
   {
     "name": "Mbaks",
@@ -75,7 +75,7 @@
     "name": "Fraser",
     "query": "Fraser",
     "rank": 13,
-    "tweet_count": "10.9K Tweets"
+    "tweet_count": "11K Tweets"
   },
   {
     "name": "Lakers",
@@ -87,13 +87,13 @@
     "name": "Conte",
     "query": "Conte",
     "rank": 15,
-    "tweet_count": "23.7K Tweets"
+    "tweet_count": "23.8K Tweets"
   },
   {
     "name": "Chamisa",
     "query": "Chamisa",
     "rank": 16,
-    "tweet_count": "9,500 Tweets"
+    "tweet_count": "9,543 Tweets"
   },
   {
     "name": "#AskAMan",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "#NeverForgetFeb28",
-    "query": "#NeverForgetFeb28",
-    "rank": 18,
-    "tweet_count": "6,329 Tweets"
-  },
-  {
     "name": "#PowerTalk",
     "query": "#PowerTalk",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "#LoveFNB",
     "query": "#LoveFNB",
+    "rank": 19,
+    "tweet_count": "1,471 Tweets"
+  },
+  {
+    "name": "#GagasiInvestmentDay",
+    "query": "#GagasiInvestmentDay",
     "rank": 20,
-    "tweet_count": "1,465 Tweets"
+    "tweet_count": null
   }
 ]
