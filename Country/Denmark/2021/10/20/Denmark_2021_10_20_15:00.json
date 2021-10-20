@@ -1,15 +1,15 @@
 [
   {
-    "name": "#cldk",
-    "query": "#cldk",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#ATMLIV",
     "query": "#ATMLIV",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "33.3K Tweets"
+  },
+  {
+    "name": "#cldk",
+    "query": "#cldk",
+    "rank": 2,
+    "tweet_count": null
   },
   {
     "name": "Thyra Frank",
@@ -21,7 +21,7 @@
     "name": "#EndSARSMemorial",
     "query": "#EndSARSMemorial",
     "rank": 4,
-    "tweet_count": "1.16M Tweets"
+    "tweet_count": "1.17M Tweets"
   },
   {
     "name": "Astrid Krag",
@@ -42,28 +42,28 @@
     "tweet_count": null
   },
   {
-    "name": "mænd",
-    "query": "mænd",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "Underrated",
     "query": "Underrated",
-    "rank": 9,
-    "tweet_count": "36.9K Tweets"
+    "rank": 8,
+    "tweet_count": "37.4K Tweets"
   },
   {
     "name": "#AppleEvent",
     "query": "#AppleEvent",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": "17.1K Tweets"
   },
   {
     "name": "Ajax",
     "query": "Ajax",
+    "rank": 10,
+    "tweet_count": "90.1K Tweets"
+  },
+  {
+    "name": "#DRUID21",
+    "query": "#DRUID21",
     "rank": 11,
-    "tweet_count": "89.8K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Mbappe",
@@ -72,51 +72,51 @@
     "tweet_count": "210K Tweets"
   },
   {
-    "name": "Mike Dean",
-    "query": "\"Mike Dean\"",
-    "rank": 13,
-    "tweet_count": "1,862 Tweets"
-  },
-  {
-    "name": "#dkfinans",
-    "query": "#dkfinans",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
     "name": "Marx",
     "query": "Marx",
-    "rank": 15,
-    "tweet_count": "10.2K Tweets"
+    "rank": 13,
+    "tweet_count": "10.4K Tweets"
+  },
+  {
+    "name": "Tigray",
+    "query": "Tigray",
+    "rank": 14,
+    "tweet_count": "217K Tweets"
   },
   {
     "name": "Twitch",
     "query": "Twitch",
+    "rank": 15,
+    "tweet_count": "342K Tweets"
+  },
+  {
+    "name": "Oswald",
+    "query": "Oswald",
     "rank": 16,
-    "tweet_count": "339K Tweets"
+    "tweet_count": "2,647 Tweets"
   },
   {
     "name": "Dortmund",
     "query": "Dortmund",
     "rank": 17,
-    "tweet_count": "58.4K Tweets"
+    "tweet_count": "58.6K Tweets"
   },
   {
     "name": "Polen",
     "query": "Polen",
     "rank": 18,
-    "tweet_count": "15.1K Tweets"
+    "tweet_count": "15.3K Tweets"
   },
   {
     "name": "UEFA",
     "query": "UEFA",
     "rank": 19,
-    "tweet_count": "47.3K Tweets"
+    "tweet_count": "47.6K Tweets"
   },
   {
-    "name": "Finland",
-    "query": "Finland",
+    "name": "Mike Dean",
+    "query": "\"Mike Dean\"",
     "rank": 20,
-    "tweet_count": "6,742 Tweets"
+    "tweet_count": "1,871 Tweets"
   }
 ]
