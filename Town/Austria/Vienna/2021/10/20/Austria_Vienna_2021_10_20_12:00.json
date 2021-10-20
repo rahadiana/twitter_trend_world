@@ -1,7 +1,7 @@
 [
   {
-    "name": "#ORFReport",
-    "query": "#ORFReport",
+    "name": "#orfreport",
+    "query": "#orfreport",
     "rank": 1,
     "tweet_count": null
   },
@@ -15,25 +15,25 @@
     "name": "3G am Arbeitsplatz",
     "query": "\"3G am Arbeitsplatz\"",
     "rank": 3,
-    "tweet_count": "1,033 Tweets"
+    "tweet_count": "1,071 Tweets"
   },
   {
-    "name": "#AJABVB",
-    "query": "#AJABVB",
+    "name": "#viennamigconf",
+    "query": "#viennamigconf",
     "rank": 4,
-    "tweet_count": "22K Tweets"
-  },
-  {
-    "name": "#ViennaMigConf",
-    "query": "#ViennaMigConf",
-    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "#EndSARSMemorial",
     "query": "#EndSARSMemorial",
+    "rank": 5,
+    "tweet_count": "1M Tweets"
+  },
+  {
+    "name": "#AppleEvent",
+    "query": "#AppleEvent",
     "rank": 6,
-    "tweet_count": "950K Tweets"
+    "tweet_count": "23.4K Tweets"
   },
   {
     "name": "Kronzeugen",
@@ -48,14 +48,14 @@
     "tweet_count": null
   },
   {
-    "name": "Richterin",
-    "query": "Richterin",
+    "name": "Gegend",
+    "query": "Gegend",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Gegend",
-    "query": "Gegend",
+    "name": "Richterin",
+    "query": "Richterin",
     "rank": 10,
     "tweet_count": null
   },
@@ -66,57 +66,57 @@
     "tweet_count": null
   },
   {
-    "name": "Vollmond",
-    "query": "Vollmond",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
     "name": "Pflege",
     "query": "Pflege",
-    "rank": 13,
-    "tweet_count": "1,633 Tweets"
+    "rank": 12,
+    "tweet_count": "1,678 Tweets"
   },
   {
     "name": "Chips",
     "query": "Chips",
+    "rank": 13,
+    "tweet_count": "26.8K Tweets"
+  },
+  {
+    "name": "Buchmesse",
+    "query": "Buchmesse",
     "rank": 14,
-    "tweet_count": "26.1K Tweets"
+    "tweet_count": "7,167 Tweets"
   },
   {
     "name": "Pixel 6",
     "query": "\"Pixel 6\"",
     "rank": 15,
-    "tweet_count": "52K Tweets"
+    "tweet_count": "27.2K Tweets"
   },
   {
     "name": "Neuinfektionen",
     "query": "Neuinfektionen",
     "rank": 16,
-    "tweet_count": "2,979 Tweets"
+    "tweet_count": "3,226 Tweets"
   },
   {
     "name": "MacBook Pro",
     "query": "\"MacBook Pro\"",
     "rank": 17,
-    "tweet_count": "37.9K Tweets"
+    "tweet_count": "38.4K Tweets"
+  },
+  {
+    "name": "Vollmond",
+    "query": "Vollmond",
+    "rank": 18,
+    "tweet_count": null
   },
   {
     "name": "Journalismus",
     "query": "Journalismus",
-    "rank": 18,
-    "tweet_count": "3,032 Tweets"
+    "rank": 19,
+    "tweet_count": "3,094 Tweets"
   },
   {
     "name": "Handeln",
     "query": "Handeln",
-    "rank": 19,
-    "tweet_count": "1,690 Tweets"
-  },
-  {
-    "name": "Ludwig",
-    "query": "Ludwig",
     "rank": 20,
-    "tweet_count": "3,107 Tweets"
+    "tweet_count": "1,756 Tweets"
   }
 ]
