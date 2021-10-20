@@ -1,7 +1,7 @@
 [
   {
-    "name": "#19oct",
-    "query": "#19oct",
+    "name": "#19Oct",
+    "query": "#19Oct",
     "rank": 1,
     "tweet_count": "118K Tweets"
   },
@@ -12,22 +12,22 @@
     "tweet_count": "217K Tweets"
   },
   {
-    "name": "cáncer de mama",
-    "query": "\"cáncer de mama\"",
-    "rank": 3,
-    "tweet_count": "161K Tweets"
-  },
-  {
     "name": "Tibisay Lucena",
     "query": "\"Tibisay Lucena\"",
+    "rank": 3,
+    "tweet_count": "12.2K Tweets"
+  },
+  {
+    "name": "Cáncer de Mama",
+    "query": "\"Cáncer de Mama\"",
     "rank": 4,
-    "tweet_count": "12.1K Tweets"
+    "tweet_count": "161K Tweets"
   },
   {
     "name": "Chuo",
     "query": "Chuo",
     "rank": 5,
-    "tweet_count": "12.9K Tweets"
+    "tweet_count": "13K Tweets"
   },
   {
     "name": "Educación Universitaria",
@@ -42,8 +42,8 @@
     "tweet_count": "11.4K Tweets"
   },
   {
-    "name": "#EpaVamosACuidarnos",
-    "query": "#EpaVamosACuidarnos",
+    "name": "#epavamosacuidarnos",
+    "query": "#epavamosacuidarnos",
     "rank": 8,
     "tweet_count": "18.5K Tweets"
   },
@@ -54,22 +54,22 @@
     "tweet_count": "10.2K Tweets"
   },
   {
+    "name": "#mlbxtlt",
+    "query": "#mlbxtlt",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
     "name": "Vinicius",
     "query": "Vinicius",
-    "rank": 10,
-    "tweet_count": "99.2K Tweets"
+    "rank": 11,
+    "tweet_count": "99.5K Tweets"
   },
   {
     "name": "Carla Angola",
     "query": "\"Carla Angola\"",
-    "rank": 11,
-    "tweet_count": "4,565 Tweets"
-  },
-  {
-    "name": "#MesRosa",
-    "query": "#MesRosa",
     "rank": 12,
-    "tweet_count": "4,172 Tweets"
+    "tweet_count": "4,577 Tweets"
   },
   {
     "name": "Logrado",
@@ -81,36 +81,42 @@
     "name": "Día Internacional de la Lucha",
     "query": "\"Día Internacional de la Lucha\"",
     "rank": 14,
-    "tweet_count": "19.8K Tweets"
-  },
-  {
-    "name": "hoseok",
-    "query": "hoseok",
-    "rank": 15,
-    "tweet_count": "84.5K Tweets"
-  },
-  {
-    "name": "comercio nacional",
-    "query": "\"comercio nacional\"",
-    "rank": 16,
-    "tweet_count": "4,847 Tweets"
+    "tweet_count": "19.9K Tweets"
   },
   {
     "name": "Fuerte Tiuna",
     "query": "\"Fuerte Tiuna\"",
-    "rank": 17,
-    "tweet_count": "1,642 Tweets"
+    "rank": 15,
+    "tweet_count": "1,670 Tweets"
   },
   {
-    "name": "Mario Silva",
-    "query": "\"Mario Silva\"",
-    "rank": 18,
-    "tweet_count": "4,079 Tweets"
+    "name": "hoseok",
+    "query": "hoseok",
+    "rank": 16,
+    "tweet_count": "86K Tweets"
+  },
+  {
+    "name": "comercio nacional",
+    "query": "\"comercio nacional\"",
+    "rank": 17,
+    "tweet_count": "4,861 Tweets"
   },
   {
     "name": "Lakers",
     "query": "Lakers",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": "236K Tweets"
+  },
+  {
+    "name": "Mario Silva",
+    "query": "\"Mario Silva\"",
+    "rank": 19,
+    "tweet_count": "4,095 Tweets"
+  },
+  {
+    "name": "El Pollo",
+    "query": "\"El Pollo\"",
+    "rank": 20,
+    "tweet_count": "78.1K Tweets"
   }
 ]
