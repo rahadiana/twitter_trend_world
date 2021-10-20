@@ -1,110 +1,104 @@
 [
   {
+    "name": "#DCAboveAll",
+    "query": "#DCAboveAll",
+    "rank": 1,
+    "tweet_count": "1,121 Tweets"
+  },
+  {
     "name": "Howard",
     "query": "Howard",
-    "rank": 1,
-    "tweet_count": "62.7K Tweets"
+    "rank": 2,
+    "tweet_count": "63.3K Tweets"
   },
   {
     "name": "#BuildBackBetter",
     "query": "#BuildBackBetter",
-    "rank": 2,
-    "tweet_count": "16.5K Tweets"
+    "rank": 3,
+    "tweet_count": "16.6K Tweets"
   },
   {
     "name": "#CoinbaseWalletSweepstakes",
     "query": "#CoinbaseWalletSweepstakes",
-    "rank": 3,
-    "tweet_count": "9,116 Tweets"
+    "rank": 4,
+    "tweet_count": "9,896 Tweets"
   },
   {
     "name": "Watson",
     "query": "Watson",
-    "rank": 4,
-    "tweet_count": "31.5K Tweets"
-  },
-  {
-    "name": "Yordan",
-    "query": "Yordan",
     "rank": 5,
-    "tweet_count": "7,458 Tweets"
+    "tweet_count": "32K Tweets"
   },
   {
-    "name": "Ronaldo",
-    "query": "Ronaldo",
+    "name": "Alvarez",
+    "query": "Alvarez",
     "rank": 6,
-    "tweet_count": "381K Tweets"
+    "tweet_count": "41.8K Tweets"
   },
   {
-    "name": "#BrianLaundrie",
-    "query": "#BrianLaundrie",
+    "name": "Chris Sale",
+    "query": "\"Chris Sale\"",
     "rank": 7,
-    "tweet_count": "39.3K Tweets"
+    "tweet_count": "5,946 Tweets"
   },
   {
-    "name": "Scranton",
-    "query": "Scranton",
+    "name": "Valdez",
+    "query": "Valdez",
     "rank": 8,
-    "tweet_count": "13.2K Tweets"
+    "tweet_count": "8,673 Tweets"
+  },
+  {
+    "name": "Renfroe",
+    "query": "Renfroe",
+    "rank": 9,
+    "tweet_count": "4,836 Tweets"
   },
   {
     "name": "Knicks",
     "query": "Knicks",
-    "rank": 9,
-    "tweet_count": "19.7K Tweets"
-  },
-  {
-    "name": "#FoundThatLizard",
-    "query": "#FoundThatLizard",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "21K Tweets"
   },
   {
     "name": "Bulls",
     "query": "Bulls",
     "rank": 11,
-    "tweet_count": "33.5K Tweets"
+    "tweet_count": "34.5K Tweets"
   },
   {
-    "name": "Sabonis",
-    "query": "Sabonis",
+    "name": "Ronaldo",
+    "query": "Ronaldo",
     "rank": 12,
-    "tweet_count": "1,047 Tweets"
+    "tweet_count": "384K Tweets"
   },
   {
-    "name": "#ForTheH",
-    "query": "#ForTheH",
+    "name": "Duarte",
+    "query": "Duarte",
     "rank": 13,
-    "tweet_count": "36K Tweets"
+    "tweet_count": "9,100 Tweets"
   },
   {
-    "name": "Voting Rights",
-    "query": "\"Voting Rights\"",
+    "name": "#BrianLaundrie",
+    "query": "#BrianLaundrie",
     "rank": 14,
-    "tweet_count": "101K Tweets"
+    "tweet_count": "39.5K Tweets"
   },
   {
-    "name": "Voting Rights",
-    "query": "\"Voting Rights\"",
+    "name": "#FoundThatLizard",
+    "query": "#FoundThatLizard",
     "rank": 15,
-    "tweet_count": "101K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "World War Hulk",
-    "query": "\"World War Hulk\"",
+    "name": "Scranton",
+    "query": "Scranton",
     "rank": 16,
-    "tweet_count": "5,122 Tweets"
+    "tweet_count": "13.4K Tweets"
   },
   {
-    "name": "Gaetz",
-    "query": "Gaetz",
+    "name": "Pistons",
+    "query": "Pistons",
     "rank": 17,
-    "tweet_count": "56.5K Tweets"
-  },
-  {
-    "name": "Cora",
-    "query": "Cora",
-    "rank": 18,
-    "tweet_count": "16.2K Tweets"
+    "tweet_count": "7,287 Tweets"
   }
 ]
