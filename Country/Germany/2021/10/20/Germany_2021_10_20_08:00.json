@@ -3,11 +3,11 @@
     "name": "#EndSARSMemorial",
     "query": "#EndSARSMemorial",
     "rank": 1,
-    "tweet_count": "475K Tweets"
+    "tweet_count": "518K Tweets"
   },
   {
-    "name": "#Baerbock",
-    "query": "#Baerbock",
+    "name": "Bärbel Bas",
+    "query": "\"Bärbel Bas\"",
     "rank": 2,
     "tweet_count": null
   },
@@ -18,8 +18,8 @@
     "tweet_count": null
   },
   {
-    "name": "#dcbln21",
-    "query": "#dcbln21",
+    "name": "#Baerbock",
+    "query": "#Baerbock",
     "rank": 4,
     "tweet_count": null
   },
@@ -30,8 +30,8 @@
     "tweet_count": null
   },
   {
-    "name": "Bergfest",
-    "query": "Bergfest",
+    "name": "#dcbln21",
+    "query": "#dcbln21",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,14 +42,14 @@
     "tweet_count": null
   },
   {
-    "name": "Coldplay",
-    "query": "Coldplay",
-    "rank": 8,
-    "tweet_count": "257K Tweets"
-  },
-  {
     "name": "Wochenteiler",
     "query": "Wochenteiler",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "Bergfest",
+    "query": "Bergfest",
     "rank": 9,
     "tweet_count": null
   },
@@ -60,10 +60,10 @@
     "tweet_count": null
   },
   {
-    "name": "Neuinfektionen",
-    "query": "Neuinfektionen",
+    "name": "Coldplay",
+    "query": "Coldplay",
     "rank": 11,
-    "tweet_count": "2,046 Tweets"
+    "tweet_count": "258K Tweets"
   },
   {
     "name": "Start in den Tag",
@@ -72,27 +72,33 @@
     "tweet_count": null
   },
   {
+    "name": "Neuinfektionen",
+    "query": "Neuinfektionen",
+    "rank": 13,
+    "tweet_count": "2,126 Tweets"
+  },
+  {
     "name": "Sturm",
     "query": "Sturm",
-    "rank": 13,
-    "tweet_count": "1,705 Tweets"
+    "rank": 14,
+    "tweet_count": "1,721 Tweets"
+  },
+  {
+    "name": "#fbm21",
+    "query": "#fbm21",
+    "rank": 15,
+    "tweet_count": "2,656 Tweets"
   },
   {
     "name": "#Buchmesse",
     "query": "#Buchmesse",
-    "rank": 14,
-    "tweet_count": "1,162 Tweets"
+    "rank": 16,
+    "tweet_count": "1,178 Tweets"
   },
   {
     "name": "#fbm2021",
     "query": "#fbm2021",
-    "rank": 15,
+    "rank": 17,
     "tweet_count": null
-  },
-  {
-    "name": "#FBM21",
-    "query": "#FBM21",
-    "rank": 16,
-    "tweet_count": "2,592 Tweets"
   }
 ]

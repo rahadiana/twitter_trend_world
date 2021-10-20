@@ -1,37 +1,37 @@
 [
   {
-    "name": "#EndSARSMemorial",
-    "query": "#EndSARSMemorial",
+    "name": "#dcbln21",
+    "query": "#dcbln21",
     "rank": 1,
-    "tweet_count": "470K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#Baerbock",
-    "query": "#Baerbock",
+    "name": "#EndSARSMemorial",
+    "query": "#EndSARSMemorial",
     "rank": 2,
+    "tweet_count": "518K Tweets"
+  },
+  {
+    "name": "Bärbel Bas",
+    "query": "\"Bärbel Bas\"",
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Bundestagspräsidentin",
     "query": "Bundestagspräsidentin",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "#dcbln21",
-    "query": "#dcbln21",
-    "rank": 4,
+    "name": "#Baerbock",
+    "query": "#Baerbock",
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "#NordStream2",
     "query": "#NordStream2",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Bergfest",
-    "query": "Bergfest",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,14 +42,14 @@
     "tweet_count": null
   },
   {
-    "name": "Coldplay",
-    "query": "Coldplay",
-    "rank": 8,
-    "tweet_count": "257K Tweets"
-  },
-  {
     "name": "Wochenteiler",
     "query": "Wochenteiler",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "Bergfest",
+    "query": "Bergfest",
     "rank": 9,
     "tweet_count": null
   },
@@ -60,10 +60,10 @@
     "tweet_count": null
   },
   {
-    "name": "Neuinfektionen",
-    "query": "Neuinfektionen",
+    "name": "Coldplay",
+    "query": "Coldplay",
     "rank": 11,
-    "tweet_count": "2,043 Tweets"
+    "tweet_count": "258K Tweets"
   },
   {
     "name": "Start in den Tag",
@@ -72,27 +72,33 @@
     "tweet_count": null
   },
   {
+    "name": "Neuinfektionen",
+    "query": "Neuinfektionen",
+    "rank": 13,
+    "tweet_count": "2,126 Tweets"
+  },
+  {
     "name": "Sturm",
     "query": "Sturm",
-    "rank": 13,
-    "tweet_count": "1,704 Tweets"
-  },
-  {
-    "name": "#Buchmesse",
-    "query": "#Buchmesse",
     "rank": 14,
-    "tweet_count": "1,162 Tweets"
-  },
-  {
-    "name": "#fbm2021",
-    "query": "#fbm2021",
-    "rank": 15,
-    "tweet_count": null
+    "tweet_count": "1,720 Tweets"
   },
   {
     "name": "#fbm21",
     "query": "#fbm21",
+    "rank": 15,
+    "tweet_count": "2,650 Tweets"
+  },
+  {
+    "name": "#Buchmesse",
+    "query": "#Buchmesse",
     "rank": 16,
-    "tweet_count": "2,591 Tweets"
+    "tweet_count": "1,177 Tweets"
+  },
+  {
+    "name": "#fbm2021",
+    "query": "#fbm2021",
+    "rank": 17,
+    "tweet_count": null
   }
 ]

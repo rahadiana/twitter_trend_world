@@ -3,23 +3,23 @@
     "name": "#PSGRBL",
     "query": "#PSGRBL",
     "rank": 1,
-    "tweet_count": "66.4K Tweets"
+    "tweet_count": "66.6K Tweets"
   },
   {
     "name": "#AJABVB",
     "query": "#AJABVB",
     "rank": 2,
-    "tweet_count": "21.5K Tweets"
+    "tweet_count": "21.6K Tweets"
   },
   {
     "name": "#EndSARSMemorial",
     "query": "#EndSARSMemorial",
     "rank": 3,
-    "tweet_count": "472K Tweets"
+    "tweet_count": "518K Tweets"
   },
   {
-    "name": "#Baerbock",
-    "query": "#Baerbock",
+    "name": "Bärbel Bas",
+    "query": "\"Bärbel Bas\"",
     "rank": 4,
     "tweet_count": null
   },
@@ -30,8 +30,8 @@
     "tweet_count": null
   },
   {
-    "name": "Bergfest",
-    "query": "Bergfest",
+    "name": "#Baerbock",
+    "query": "#Baerbock",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,22 +42,22 @@
     "tweet_count": null
   },
   {
-    "name": "Coldplay",
-    "query": "Coldplay",
-    "rank": 8,
-    "tweet_count": "257K Tweets"
-  },
-  {
     "name": "Wochenteiler",
     "query": "Wochenteiler",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "Bergfest",
+    "query": "Bergfest",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Neuinfektionen",
-    "query": "Neuinfektionen",
+    "name": "Coldplay",
+    "query": "Coldplay",
     "rank": 10,
-    "tweet_count": "2,043 Tweets"
+    "tweet_count": "258K Tweets"
   },
   {
     "name": "Start in den Tag",
@@ -66,45 +66,51 @@
     "tweet_count": null
   },
   {
+    "name": "Neuinfektionen",
+    "query": "Neuinfektionen",
+    "rank": 12,
+    "tweet_count": "2,126 Tweets"
+  },
+  {
     "name": "Sturm",
     "query": "Sturm",
-    "rank": 12,
-    "tweet_count": "1,704 Tweets"
+    "rank": 13,
+    "tweet_count": "1,720 Tweets"
+  },
+  {
+    "name": "#nordstream2",
+    "query": "#nordstream2",
+    "rank": 14,
+    "tweet_count": null
   },
   {
     "name": "#dcbln21",
     "query": "#dcbln21",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "#NordStream2",
-    "query": "#NordStream2",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "#mittelfingermittwoch",
     "query": "#mittelfingermittwoch",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "#Buchmesse",
-    "query": "#Buchmesse",
     "rank": 16,
-    "tweet_count": "1,162 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#fbm21",
     "query": "#fbm21",
     "rank": 17,
-    "tweet_count": "2,591 Tweets"
+    "tweet_count": "2,650 Tweets"
+  },
+  {
+    "name": "#Buchmesse",
+    "query": "#Buchmesse",
+    "rank": 18,
+    "tweet_count": "1,174 Tweets"
   },
   {
     "name": "#fbm2021",
     "query": "#fbm2021",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   }
 ]
