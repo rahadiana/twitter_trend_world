@@ -1,7 +1,7 @@
 [
   {
-    "name": "#orfreport",
-    "query": "#orfreport",
+    "name": "#ORFReport",
+    "query": "#ORFReport",
     "rank": 1,
     "tweet_count": null
   },
@@ -27,13 +27,13 @@
     "name": "#Reichelt",
     "query": "#Reichelt",
     "rank": 5,
-    "tweet_count": "20.7K Tweets"
+    "tweet_count": "20.9K Tweets"
   },
   {
     "name": "#AJABVB",
     "query": "#AJABVB",
     "rank": 6,
-    "tweet_count": "21.3K Tweets"
+    "tweet_count": "21.4K Tweets"
   },
   {
     "name": "#Kern",
@@ -54,20 +54,20 @@
     "tweet_count": null
   },
   {
-    "name": "MacBook",
-    "query": "MacBook",
-    "rank": 10,
-    "tweet_count": "71.1K Tweets"
-  },
-  {
     "name": "Messi",
     "query": "Messi",
-    "rank": 11,
-    "tweet_count": "498K Tweets"
+    "rank": 10,
+    "tweet_count": "501K Tweets"
   },
   {
     "name": "Kronzeugen",
     "query": "Kronzeugen",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "Versteh",
+    "query": "Versteh",
     "rank": 12,
     "tweet_count": null
   },
@@ -75,13 +75,13 @@
     "name": "Ludwig",
     "query": "Ludwig",
     "rank": 13,
-    "tweet_count": "3,243 Tweets"
+    "tweet_count": "3,261 Tweets"
   },
   {
     "name": "Chips",
     "query": "Chips",
     "rank": 14,
-    "tweet_count": "27.9K Tweets"
+    "tweet_count": "28.1K Tweets"
   },
   {
     "name": "Vollmond",
@@ -93,19 +93,19 @@
     "name": "Chats",
     "query": "Chats",
     "rank": 16,
-    "tweet_count": "21.9K Tweets"
+    "tweet_count": "22.3K Tweets"
+  },
+  {
+    "name": "Gegend",
+    "query": "Gegend",
+    "rank": 17,
+    "tweet_count": null
   },
   {
     "name": "Pixel 6",
     "query": "\"Pixel 6\"",
-    "rank": 17,
-    "tweet_count": "47.8K Tweets"
-  },
-  {
-    "name": "Versteh",
-    "query": "Versteh",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "48.2K Tweets"
   },
   {
     "name": "Ausweis",
@@ -117,6 +117,6 @@
     "name": "Poland",
     "query": "Poland",
     "rank": 20,
-    "tweet_count": "25.9K Tweets"
+    "tweet_count": "26.1K Tweets"
   }
 ]
