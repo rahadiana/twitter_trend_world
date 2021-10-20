@@ -1,69 +1,69 @@
 [
   {
-    "name": "#OleIn",
-    "query": "#OleIn",
+    "name": "#OleOut",
+    "query": "#OleOut",
     "rank": 1,
-    "tweet_count": "17.3K Tweets"
+    "tweet_count": "37.3K Tweets"
   },
   {
     "name": "Bayern",
     "query": "Bayern",
     "rank": 2,
-    "tweet_count": "88.6K Tweets"
+    "tweet_count": "89.4K Tweets"
   },
   {
     "name": "Scholes",
     "query": "Scholes",
     "rank": 3,
-    "tweet_count": "9,721 Tweets"
+    "tweet_count": "9,959 Tweets"
   },
   {
     "name": "Sevilla",
     "query": "Sevilla",
     "rank": 4,
-    "tweet_count": "31.9K Tweets"
+    "tweet_count": "32.1K Tweets"
   },
   {
     "name": "Liverpool",
     "query": "Liverpool",
     "rank": 5,
-    "tweet_count": "100K Tweets"
+    "tweet_count": "101K Tweets"
   },
   {
     "name": "#CHEMAL",
     "query": "#CHEMAL",
     "rank": 6,
-    "tweet_count": "36.7K Tweets"
+    "tweet_count": "37.2K Tweets"
   },
   {
     "name": "Juve",
     "query": "Juve",
     "rank": 7,
-    "tweet_count": "19.5K Tweets"
+    "tweet_count": "19.6K Tweets"
+  },
+  {
+    "name": "Lukaku",
+    "query": "Lukaku",
+    "rank": 8,
+    "tweet_count": "34.4K Tweets"
   },
   {
     "name": "Cavani",
     "query": "Cavani",
-    "rank": 8,
-    "tweet_count": "17.4K Tweets"
+    "rank": 9,
+    "tweet_count": "17.5K Tweets"
   },
   {
-    "name": "Shaw",
-    "query": "Shaw",
-    "rank": 9,
-    "tweet_count": "18.8K Tweets"
+    "name": "Christensen",
+    "query": "Christensen",
+    "rank": 10,
+    "tweet_count": "11.8K Tweets"
   },
   {
     "name": "Sack Ole",
     "query": "\"Sack Ole\"",
-    "rank": 10,
-    "tweet_count": "8,292 Tweets"
-  },
-  {
-    "name": "Koeman",
-    "query": "Koeman",
     "rank": 11,
-    "tweet_count": "37.7K Tweets"
+    "tweet_count": "8,341 Tweets"
   },
   {
     "name": "#TalkYourTalk",
@@ -72,9 +72,15 @@
     "tweet_count": null
   },
   {
+    "name": "Barca",
+    "query": "Barca",
+    "rank": 13,
+    "tweet_count": "82.2K Tweets"
+  },
+  {
     "name": "Barcelona",
     "query": "Barcelona",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": "106K Tweets"
   }
 ]
