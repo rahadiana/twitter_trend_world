@@ -15,25 +15,25 @@
     "name": "#earthquake",
     "query": "#earthquake",
     "rank": 3,
-    "tweet_count": "9,278 Tweets"
+    "tweet_count": "9,300 Tweets"
   },
   {
     "name": "Auckland",
     "query": "Auckland",
     "rank": 4,
-    "tweet_count": "4,114 Tweets"
+    "tweet_count": "4,162 Tweets"
   },
   {
     "name": "Orange",
     "query": "Orange",
     "rank": 5,
-    "tweet_count": "84.1K Tweets"
+    "tweet_count": "84.4K Tweets"
   },
   {
     "name": "#Covid_19",
     "query": "#Covid_19",
     "rank": 6,
-    "tweet_count": "20.6K Tweets"
+    "tweet_count": "20.7K Tweets"
   },
   {
     "name": "Welly",
@@ -42,32 +42,32 @@
     "tweet_count": null
   },
   {
-    "name": "south island",
-    "query": "\"south island\"",
-    "rank": 8,
-    "tweet_count": "1,048 Tweets"
-  },
-  {
     "name": "Maori",
     "query": "Maori",
-    "rank": 9,
-    "tweet_count": "3,635 Tweets"
+    "rank": 8,
+    "tweet_count": "3,663 Tweets"
   },
   {
     "name": "Knicks",
     "query": "Knicks",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": "104K Tweets"
   },
   {
-    "name": "#nzpol",
-    "query": "#nzpol",
-    "rank": 11,
-    "tweet_count": null
+    "name": "North Island",
+    "query": "\"North Island\"",
+    "rank": 10,
+    "tweet_count": "1,254 Tweets"
   },
   {
     "name": "Sue Grey",
     "query": "\"Sue Grey\"",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "#nzpol",
+    "query": "#nzpol",
     "rank": 12,
     "tweet_count": null
   },
@@ -75,7 +75,7 @@
     "name": "Robertson",
     "query": "Robertson",
     "rank": 13,
-    "tweet_count": "3,750 Tweets"
+    "tweet_count": "3,795 Tweets"
   },
   {
     "name": "#wellington",
@@ -87,7 +87,7 @@
     "name": "Canterbury",
     "query": "Canterbury",
     "rank": 15,
-    "tweet_count": "1,653 Tweets"
+    "tweet_count": "1,662 Tweets"
   },
   {
     "name": "PM Jacinda Ardern",
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
-    "name": "Christmas",
-    "query": "Christmas",
-    "rank": 17,
-    "tweet_count": "159K Tweets"
-  },
-  {
     "name": "Chch",
     "query": "Chch",
-    "rank": 18,
-    "tweet_count": "2,032 Tweets"
+    "rank": 17,
+    "tweet_count": "2,040 Tweets"
   },
   {
     "name": "Green",
     "query": "Green",
-    "rank": 19,
-    "tweet_count": "282K Tweets"
+    "rank": 18,
+    "tweet_count": "283K Tweets"
   },
   {
     "name": "pokeno",
     "query": "pokeno",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "Freedom Day",
+    "query": "\"Freedom Day\"",
+    "rank": 20,
+    "tweet_count": "14.9K Tweets"
   }
 ]
