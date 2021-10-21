@@ -1,33 +1,33 @@
 [
   {
-    "name": "#psvmon",
-    "query": "#psvmon",
+    "name": "#PSVMON",
+    "query": "#PSVMON",
     "rank": 1,
-    "tweet_count": "2,104 Tweets"
+    "tweet_count": "2,108 Tweets"
   },
   {
-    "name": "Gakpo",
-    "query": "Gakpo",
+    "name": "gakpo",
+    "query": "gakpo",
     "rank": 2,
-    "tweet_count": "1,129 Tweets"
-  },
-  {
-    "name": "Vinicius",
-    "query": "Vinicius",
-    "rank": 3,
-    "tweet_count": "15.6K Tweets"
+    "tweet_count": "1,130 Tweets"
   },
   {
     "name": "Bernard Haitink",
     "query": "\"Bernard Haitink\"",
+    "rank": 3,
+    "tweet_count": "1,749 Tweets"
+  },
+  {
+    "name": "Vinicius",
+    "query": "Vinicius",
     "rank": 4,
-    "tweet_count": "1,670 Tweets"
+    "tweet_count": "15.9K Tweets"
   },
   {
     "name": "Monaco",
     "query": "Monaco",
     "rank": 5,
-    "tweet_count": "17.1K Tweets"
+    "tweet_count": "17.2K Tweets"
   },
   {
     "name": "Madueke",
@@ -42,20 +42,20 @@
     "tweet_count": null
   },
   {
+    "name": "#mrfrankvisser",
+    "query": "#mrfrankvisser",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
     "name": "#vittot",
     "query": "#vittot",
-    "rank": 8,
-    "tweet_count": "2,489 Tweets"
+    "rank": 9,
+    "tweet_count": "2,492 Tweets"
   },
   {
     "name": "#BesteZangers",
     "query": "#BesteZangers",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "#mrfrankvisser",
-    "query": "#mrfrankvisser",
     "rank": 10,
     "tweet_count": null
   },
@@ -63,11 +63,11 @@
     "name": "Schmidt",
     "query": "Schmidt",
     "rank": 11,
-    "tweet_count": "4,660 Tweets"
+    "tweet_count": "4,705 Tweets"
   },
   {
-    "name": "#cluaz",
-    "query": "#cluaz",
+    "name": "#feyuni",
+    "query": "#feyuni",
     "rank": 12,
     "tweet_count": null
   },
@@ -81,19 +81,19 @@
     "name": "Conference League",
     "query": "\"Conference League\"",
     "rank": 14,
-    "tweet_count": "11.2K Tweets"
+    "tweet_count": "11.3K Tweets"
   },
   {
     "name": "Obispo",
     "query": "Obispo",
     "rank": 15,
-    "tweet_count": "2,420 Tweets"
+    "tweet_count": "2,435 Tweets"
   },
   {
     "name": "Boadu",
     "query": "Boadu",
     "rank": 16,
-    "tweet_count": "1,544 Tweets"
+    "tweet_count": "1,547 Tweets"
   },
   {
     "name": "Klaas",
@@ -105,7 +105,7 @@
     "name": "Feyenoord",
     "query": "Feyenoord",
     "rank": 18,
-    "tweet_count": "8,441 Tweets"
+    "tweet_count": "8,460 Tweets"
   },
   {
     "name": "Vitesse",
@@ -114,9 +114,9 @@
     "tweet_count": "12K Tweets"
   },
   {
-    "name": "Spurs",
-    "query": "Spurs",
+    "name": "Tottenham",
+    "query": "Tottenham",
     "rank": 20,
-    "tweet_count": "32.7K Tweets"
+    "tweet_count": "14.1K Tweets"
   }
 ]
