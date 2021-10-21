@@ -9,31 +9,31 @@
     "name": "#MUNATA",
     "query": "#MUNATA",
     "rank": 2,
-    "tweet_count": "53.9K Tweets"
+    "tweet_count": "54K Tweets"
   },
   {
-    "name": "#EndSARSMemorial",
-    "query": "#EndSARSMemorial",
+    "name": "#EndSARS",
+    "query": "#EndSARS",
     "rank": 3,
-    "tweet_count": "735K Tweets"
+    "tweet_count": "402K Tweets"
+  },
+  {
+    "name": "Ultra",
+    "query": "Ultra",
+    "rank": 4,
+    "tweet_count": "75.4K Tweets"
   },
   {
     "name": "Atalanta",
     "query": "Atalanta",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": "172K Tweets"
   },
   {
     "name": "#dkpol",
     "query": "#dkpol",
-    "rank": 5,
-    "tweet_count": "2,088 Tweets"
-  },
-  {
-    "name": "Ultra",
-    "query": "Ultra",
     "rank": 6,
-    "tweet_count": "75K Tweets"
+    "tweet_count": "2,106 Tweets"
   },
   {
     "name": "Luuk De Jong",
@@ -45,7 +45,7 @@
     "name": "Maguire",
     "query": "Maguire",
     "rank": 8,
-    "tweet_count": "55.1K Tweets"
+    "tweet_count": "55.3K Tweets"
   },
   {
     "name": "thyra frank",
@@ -57,13 +57,13 @@
     "name": "Glasgow",
     "query": "Glasgow",
     "rank": 10,
-    "tweet_count": "29.7K Tweets"
+    "tweet_count": "30K Tweets"
   },
   {
-    "name": "ligner",
-    "query": "ligner",
+    "name": "Old Trafford",
+    "query": "\"Old Trafford\"",
     "rank": 11,
-    "tweet_count": null
+    "tweet_count": "92.3K Tweets"
   },
   {
     "name": "Astrid Krag",
@@ -75,7 +75,7 @@
     "name": "Rashford",
     "query": "Rashford",
     "rank": 13,
-    "tweet_count": "61.4K Tweets"
+    "tweet_count": "61.5K Tweets"
   },
   {
     "name": "Manchester United",
@@ -84,39 +84,39 @@
     "tweet_count": "157K Tweets"
   },
   {
-    "name": "#mufcdk",
-    "query": "#mufcdk",
+    "name": "#ChampionsLeague",
+    "query": "#ChampionsLeague",
     "rank": 15,
-    "tweet_count": null
+    "tweet_count": "25.2K Tweets"
   },
   {
     "name": "Ajax",
     "query": "Ajax",
     "rank": 16,
-    "tweet_count": "25.8K Tweets"
-  },
-  {
-    "name": "Venstre",
-    "query": "Venstre",
-    "rank": 17,
-    "tweet_count": null
+    "tweet_count": "25.9K Tweets"
   },
   {
     "name": "Noti",
     "query": "Noti",
-    "rank": 18,
-    "tweet_count": "31.3K Tweets"
+    "rank": 17,
+    "tweet_count": "31.4K Tweets"
   },
   {
-    "name": "Linse",
-    "query": "Linse",
-    "rank": 19,
+    "name": "Venstre",
+    "query": "Venstre",
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Twitch",
     "query": "Twitch",
+    "rank": 19,
+    "tweet_count": "350K Tweets"
+  },
+  {
+    "name": "Linse",
+    "query": "Linse",
     "rank": 20,
-    "tweet_count": "349K Tweets"
+    "tweet_count": null
   }
 ]

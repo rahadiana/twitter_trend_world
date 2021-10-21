@@ -1,15 +1,15 @@
 [
   {
-    "name": "Svantesson",
-    "query": "Svantesson",
+    "name": "svantesson",
+    "query": "svantesson",
     "rank": 1,
-    "tweet_count": "1,686 Tweets"
+    "tweet_count": "1,693 Tweets"
   },
   {
     "name": "Löfven",
     "query": "Löfven",
     "rank": 2,
-    "tweet_count": "2,030 Tweets"
+    "tweet_count": "2,057 Tweets"
   },
   {
     "name": "Avanza",
@@ -27,13 +27,13 @@
     "name": "Kina",
     "query": "Kina",
     "rank": 5,
-    "tweet_count": "10.6K Tweets"
+    "tweet_count": "10.7K Tweets"
   },
   {
     "name": "Karlsson",
     "query": "Karlsson",
     "rank": 6,
-    "tweet_count": "1,357 Tweets"
+    "tweet_count": "1,367 Tweets"
   },
   {
     "name": "EU-nämnden",
@@ -63,7 +63,7 @@
     "name": "Lukaku",
     "query": "Lukaku",
     "rank": 11,
-    "tweet_count": "38.9K Tweets"
+    "tweet_count": "39.1K Tweets"
   },
   {
     "name": "Hockeyettan",
@@ -72,51 +72,51 @@
     "tweet_count": null
   },
   {
+    "name": "#MUFC",
+    "query": "#MUFC",
+    "rank": 13,
+    "tweet_count": "182K Tweets"
+  },
+  {
     "name": "Champions League",
     "query": "\"Champions League\"",
-    "rank": 13,
-    "tweet_count": "163K Tweets"
+    "rank": 14,
+    "tweet_count": "164K Tweets"
   },
   {
     "name": "#EndSARSMemorial",
     "query": "#EndSARSMemorial",
-    "rank": 14,
-    "tweet_count": "735K Tweets"
+    "rank": 15,
+    "tweet_count": "736K Tweets"
+  },
+  {
+    "name": "#MUNATA",
+    "query": "#MUNATA",
+    "rank": 16,
+    "tweet_count": "54K Tweets"
   },
   {
     "name": "Kristersson",
     "query": "Kristersson",
-    "rank": 15,
-    "tweet_count": "1,261 Tweets"
+    "rank": 17,
+    "tweet_count": "1,272 Tweets"
   },
   {
     "name": "Moderaterna",
     "query": "Moderaterna",
-    "rank": 16,
-    "tweet_count": "3,574 Tweets"
-  },
-  {
-    "name": "#CHEMAL",
-    "query": "#CHEMAL",
-    "rank": 17,
-    "tweet_count": "40K Tweets"
+    "rank": 18,
+    "tweet_count": "3,601 Tweets"
   },
   {
     "name": "The Wire",
     "query": "\"The Wire\"",
-    "rank": 18,
-    "tweet_count": "10.3K Tweets"
+    "rank": 19,
+    "tweet_count": "10.4K Tweets"
   },
   {
     "name": "Stamford Bridge",
     "query": "\"Stamford Bridge\"",
-    "rank": 19,
-    "tweet_count": "3,729 Tweets"
-  },
-  {
-    "name": "Werner",
-    "query": "Werner",
     "rank": 20,
-    "tweet_count": "20.3K Tweets"
+    "tweet_count": "3,742 Tweets"
   }
 ]
