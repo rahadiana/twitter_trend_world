@@ -3,29 +3,29 @@
     "name": "#NAPLEG",
     "query": "#NAPLEG",
     "rank": 1,
-    "tweet_count": "1,792 Tweets"
+    "tweet_count": "1,810 Tweets"
   },
   {
     "name": "Napoli",
     "query": "Napoli",
     "rank": 2,
-    "tweet_count": "17.7K Tweets"
+    "tweet_count": "18.1K Tweets"
+  },
+  {
+    "name": "emreli",
+    "query": "emreli",
+    "rank": 3,
+    "tweet_count": null
   },
   {
     "name": "Insigne",
     "query": "Insigne",
-    "rank": 3,
-    "tweet_count": "4,912 Tweets"
-  },
-  {
-    "name": "Emreli",
-    "query": "Emreli",
     "rank": 4,
-    "tweet_count": null
+    "tweet_count": "5,114 Tweets"
   },
   {
-    "name": "miszta",
-    "query": "miszta",
+    "name": "Miszta",
+    "query": "Miszta",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,7 +33,7 @@
     "name": "Kempa",
     "query": "Kempa",
     "rank": 6,
-    "tweet_count": "4,226 Tweets"
+    "tweet_count": "4,317 Tweets"
   },
   {
     "name": "Gliwicach",
@@ -48,52 +48,52 @@
     "tweet_count": null
   },
   {
-    "name": "Lopes",
-    "query": "Lopes",
+    "name": "Viaplay",
+    "query": "Viaplay",
     "rank": 9,
-    "tweet_count": "10.7K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Josue",
     "query": "Josue",
     "rank": 10,
-    "tweet_count": "4,256 Tweets"
-  },
-  {
-    "name": "Neapolu",
-    "query": "Neapolu",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Viaplay",
-    "query": "Viaplay",
-    "rank": 12,
-    "tweet_count": null
+    "tweet_count": "4,354 Tweets"
   },
   {
     "name": "Spartakiem",
     "query": "Spartakiem",
-    "rank": 13,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Bodo",
     "query": "Bodo",
-    "rank": 14,
-    "tweet_count": "26.1K Tweets"
+    "rank": 12,
+    "tweet_count": "26.5K Tweets"
   },
   {
-    "name": "Lidze Europy",
-    "query": "\"Lidze Europy\"",
-    "rank": 15,
+    "name": "Neapolu",
+    "query": "Neapolu",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "lidze europy",
+    "query": "\"lidze europy\"",
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Roma",
     "query": "Roma",
+    "rank": 15,
+    "tweet_count": "92.4K Tweets"
+  },
+  {
+    "name": "#DuneMovie",
+    "query": "#DuneMovie",
     "rank": 16,
-    "tweet_count": "90.7K Tweets"
+    "tweet_count": "14.3K Tweets"
   },
   {
     "name": "Polsacie",
@@ -105,18 +105,18 @@
     "name": "Chopin",
     "query": "Chopin",
     "rank": 18,
-    "tweet_count": "10.2K Tweets"
-  },
-  {
-    "name": "Romek",
-    "query": "Romek",
-    "rank": 19,
-    "tweet_count": null
+    "tweet_count": "10.3K Tweets"
   },
   {
     "name": "Sikorski",
     "query": "Sikorski",
+    "rank": 19,
+    "tweet_count": "8,215 Tweets"
+  },
+  {
+    "name": "Radek",
+    "query": "Radek",
     "rank": 20,
-    "tweet_count": "8,154 Tweets"
+    "tweet_count": "2,283 Tweets"
   }
 ]
