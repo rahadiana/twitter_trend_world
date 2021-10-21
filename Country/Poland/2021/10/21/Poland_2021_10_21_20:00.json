@@ -3,25 +3,25 @@
     "name": "#NAPLEG",
     "query": "#NAPLEG",
     "rank": 1,
-    "tweet_count": "1,303 Tweets"
+    "tweet_count": "1,430 Tweets"
   },
   {
     "name": "Napoli",
     "query": "Napoli",
     "rank": 2,
-    "tweet_count": "14.4K Tweets"
+    "tweet_count": "15K Tweets"
+  },
+  {
+    "name": "Miszta",
+    "query": "Miszta",
+    "rank": 3,
+    "tweet_count": null
   },
   {
     "name": "Bodo",
     "query": "Bodo",
-    "rank": 3,
-    "tweet_count": "24.4K Tweets"
-  },
-  {
-    "name": "Viaplay",
-    "query": "Viaplay",
     "rank": 4,
-    "tweet_count": null
+    "tweet_count": "24.7K Tweets"
   },
   {
     "name": "Emreli",
@@ -30,81 +30,93 @@
     "tweet_count": null
   },
   {
+    "name": "Viaplay",
+    "query": "Viaplay",
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
     "name": "Kempa",
     "query": "Kempa",
-    "rank": 6,
-    "tweet_count": "3,939 Tweets"
+    "rank": 7,
+    "tweet_count": "3,990 Tweets"
   },
   {
     "name": "#UECL",
     "query": "#UECL",
-    "rank": 7,
-    "tweet_count": "11.3K Tweets"
+    "rank": 8,
+    "tweet_count": "11.5K Tweets"
   },
   {
     "name": "Mourinho",
     "query": "Mourinho",
-    "rank": 8,
-    "tweet_count": "26.6K Tweets"
+    "rank": 9,
+    "tweet_count": "27.1K Tweets"
   },
   {
-    "name": "Romek",
-    "query": "Romek",
-    "rank": 9,
+    "name": "Legię",
+    "query": "Legię",
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Neapolu",
     "query": "Neapolu",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Sikorski",
-    "query": "Sikorski",
     "rank": 11,
-    "tweet_count": "7,768 Tweets"
-  },
-  {
-    "name": "#DrogiPremierze",
-    "query": "#DrogiPremierze",
-    "rank": 12,
-    "tweet_count": "2,047 Tweets"
-  },
-  {
-    "name": "Polsacie",
-    "query": "Polsacie",
-    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Chopin",
     "query": "Chopin",
-    "rank": 14,
+    "rank": 12,
     "tweet_count": "10.6K Tweets"
+  },
+  {
+    "name": "Sikorski",
+    "query": "Sikorski",
+    "rank": 13,
+    "tweet_count": "7,870 Tweets"
+  },
+  {
+    "name": "Romek",
+    "query": "Romek",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "#DrogiPremierze",
+    "query": "#DrogiPremierze",
+    "rank": 15,
+    "tweet_count": "2,083 Tweets"
+  },
+  {
+    "name": "Polsacie",
+    "query": "Polsacie",
+    "rank": 16,
+    "tweet_count": null
   },
   {
     "name": "Luksemburga",
     "query": "Luksemburga",
-    "rank": 15,
-    "tweet_count": "2,185 Tweets"
+    "rank": 17,
+    "tweet_count": "2,221 Tweets"
   },
   {
     "name": "Parlament Europejski",
     "query": "\"Parlament Europejski\"",
-    "rank": 16,
-    "tweet_count": "2,010 Tweets"
+    "rank": 18,
+    "tweet_count": "2,027 Tweets"
   },
   {
     "name": "Radek",
     "query": "Radek",
-    "rank": 17,
-    "tweet_count": "2,188 Tweets"
+    "rank": 19,
+    "tweet_count": "2,210 Tweets"
   },
   {
     "name": "Beata",
     "query": "Beata",
-    "rank": 18,
-    "tweet_count": "3,450 Tweets"
+    "rank": 20,
+    "tweet_count": "3,501 Tweets"
   }
 ]
