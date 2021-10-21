@@ -1,9 +1,9 @@
 [
   {
-    "name": "Svantesson",
-    "query": "Svantesson",
+    "name": "svantesson",
+    "query": "svantesson",
     "rank": 1,
-    "tweet_count": "1,424 Tweets"
+    "tweet_count": "1,437 Tweets"
   },
   {
     "name": "Chelsea",
@@ -18,28 +18,28 @@
     "tweet_count": "1.25M Tweets"
   },
   {
+    "name": "Kina",
+    "query": "Kina",
+    "rank": 4,
+    "tweet_count": "10.7K Tweets"
+  },
+  {
     "name": "#30minuter",
     "query": "#30minuter",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Godmorgon",
     "query": "Godmorgon",
-    "rank": 5,
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "Lukaku",
     "query": "Lukaku",
-    "rank": 6,
-    "tweet_count": "35.7K Tweets"
-  },
-  {
-    "name": "Atalanta",
-    "query": "Atalanta",
     "rank": 7,
-    "tweet_count": "166K Tweets"
+    "tweet_count": "35.8K Tweets"
   },
   {
     "name": "Reinfeldt",
@@ -48,75 +48,75 @@
     "tweet_count": null
   },
   {
+    "name": "Atalanta",
+    "query": "Atalanta",
+    "rank": 9,
+    "tweet_count": "166K Tweets"
+  },
+  {
     "name": "Avanza",
     "query": "Avanza",
-    "rank": 9,
-    "tweet_count": "14.7K Tweets"
+    "rank": 10,
+    "tweet_count": "14.8K Tweets"
   },
   {
     "name": "EU-nämnden",
     "query": "EU-nämnden",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Löfven",
     "query": "Löfven",
-    "rank": 11,
-    "tweet_count": "1,416 Tweets"
+    "rank": 12,
+    "tweet_count": "1,458 Tweets"
   },
   {
-    "name": "#ChampionsLeague",
-    "query": "#ChampionsLeague",
-    "rank": 12,
-    "tweet_count": "26.1K Tweets"
+    "name": "Champions League",
+    "query": "\"Champions League\"",
+    "rank": 13,
+    "tweet_count": "164K Tweets"
+  },
+  {
+    "name": "#MUNATA",
+    "query": "#MUNATA",
+    "rank": 14,
+    "tweet_count": "50.7K Tweets"
   },
   {
     "name": "Kristersson",
     "query": "Kristersson",
-    "rank": 13,
-    "tweet_count": "1,304 Tweets"
+    "rank": 15,
+    "tweet_count": "1,315 Tweets"
   },
   {
     "name": "Nielsen",
     "query": "Nielsen",
-    "rank": 14,
-    "tweet_count": "1,928 Tweets"
+    "rank": 16,
+    "tweet_count": "1,937 Tweets"
   },
   {
     "name": "Stamford Bridge",
     "query": "\"Stamford Bridge\"",
-    "rank": 15,
-    "tweet_count": "3,565 Tweets"
-  },
-  {
-    "name": "#modose",
-    "query": "#modose",
-    "rank": 16,
-    "tweet_count": null
+    "rank": 17,
+    "tweet_count": "3,575 Tweets"
   },
   {
     "name": "Moderaterna",
     "query": "Moderaterna",
-    "rank": 17,
-    "tweet_count": "3,405 Tweets"
+    "rank": 18,
+    "tweet_count": "3,452 Tweets"
+  },
+  {
+    "name": "#modose",
+    "query": "#modose",
+    "rank": 19,
+    "tweet_count": null
   },
   {
     "name": "The Wire",
     "query": "\"The Wire\"",
-    "rank": 18,
-    "tweet_count": "11.4K Tweets"
-  },
-  {
-    "name": "#CHEMAL",
-    "query": "#CHEMAL",
-    "rank": 19,
-    "tweet_count": "40K Tweets"
-  },
-  {
-    "name": "Werner",
-    "query": "Werner",
     "rank": 20,
-    "tweet_count": "18.1K Tweets"
+    "tweet_count": "11.4K Tweets"
   }
 ]
