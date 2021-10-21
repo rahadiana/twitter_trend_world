@@ -1,39 +1,39 @@
 [
   {
-    "name": "#topmodel",
-    "query": "#topmodel",
-    "rank": 1,
-    "tweet_count": "5,973 Tweets"
-  },
-  {
     "name": "Sikorskiego",
     "query": "Sikorskiego",
+    "rank": 1,
+    "tweet_count": "1,703 Tweets"
+  },
+  {
+    "name": "Kempa",
+    "query": "Kempa",
     "rank": 2,
-    "tweet_count": "1,654 Tweets"
+    "tweet_count": "1,364 Tweets"
   },
   {
-    "name": "#MUNATA",
-    "query": "#MUNATA",
+    "name": "Herr Lord",
+    "query": "\"Herr Lord\"",
     "rank": 3,
-    "tweet_count": "53.8K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Kempy",
-    "query": "Kempy",
+    "name": "Pawłowicz",
+    "query": "Pawłowicz",
     "rank": 4,
-    "tweet_count": "1,386 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#KonkursChopinowski",
-    "query": "#KonkursChopinowski",
+    "name": "Chobielina",
+    "query": "Chobielina",
     "rank": 5,
-    "tweet_count": "1,887 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Bruce Liu",
-    "query": "\"Bruce Liu\"",
+    "name": "#Coldplay",
+    "query": "#Coldplay",
     "rank": 6,
-    "tweet_count": "8,682 Tweets"
+    "tweet_count": "7,098 Tweets"
   },
   {
     "name": "#Minęła8",
@@ -42,81 +42,39 @@
     "tweet_count": null
   },
   {
-    "name": "#benbay",
-    "query": "#benbay",
+    "name": "Niemiecki",
+    "query": "Niemiecki",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "1,478 Tweets"
   },
   {
-    "name": "Miłego",
-    "query": "Miłego",
+    "name": "Konkursu Chopinowskiego",
+    "query": "\"Konkursu Chopinowskiego\"",
     "rank": 9,
-    "tweet_count": "9,529 Tweets"
-  },
-  {
-    "name": "Spurek",
-    "query": "Spurek",
-    "rank": 10,
-    "tweet_count": "2,597 Tweets"
-  },
-  {
-    "name": "Pawłowicz",
-    "query": "Pawłowicz",
-    "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "Herr Lord",
-    "query": "\"Herr Lord\"",
+    "name": "Bruce Liu",
+    "query": "\"Bruce Liu\"",
+    "rank": 10,
+    "tweet_count": "8,740 Tweets"
+  },
+  {
+    "name": "#Jedziemy",
+    "query": "#Jedziemy",
+    "rank": 11,
+    "tweet_count": "1,304 Tweets"
+  },
+  {
+    "name": "Chopina",
+    "query": "Chopina",
     "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "Chobielina",
-    "query": "Chobielina",
+    "name": "Napoli",
+    "query": "Napoli",
     "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Polaków",
-    "query": "Polaków",
-    "rank": 14,
-    "tweet_count": "7,447 Tweets"
-  },
-  {
-    "name": "Łukasza",
-    "query": "Łukasza",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Czarnek",
-    "query": "Czarnek",
-    "rank": 16,
-    "tweet_count": "3,237 Tweets"
-  },
-  {
-    "name": "Aleppo",
-    "query": "Aleppo",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Borys",
-    "query": "Borys",
-    "rank": 18,
-    "tweet_count": "1,018 Tweets"
-  },
-  {
-    "name": "Polska",
-    "query": "Polska",
-    "rank": 19,
-    "tweet_count": "21.6K Tweets"
-  },
-  {
-    "name": "CBOS",
-    "query": "CBOS",
-    "rank": 20,
-    "tweet_count": null
+    "tweet_count": "10.2K Tweets"
   }
 ]
