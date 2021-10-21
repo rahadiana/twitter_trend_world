@@ -1,9 +1,9 @@
 [
   {
-    "name": "Atletico",
-    "query": "Atletico",
+    "name": "#MUNATA",
+    "query": "#MUNATA",
     "rank": 1,
-    "tweet_count": "84K Tweets"
+    "tweet_count": "52.4K Tweets"
   },
   {
     "name": "Atalanta",
@@ -12,28 +12,28 @@
     "tweet_count": "170K Tweets"
   },
   {
-    "name": "#MUNATA",
-    "query": "#MUNATA",
+    "name": "atletico",
+    "query": "atletico",
     "rank": 3,
-    "tweet_count": "52.2K Tweets"
+    "tweet_count": "84.1K Tweets"
   },
   {
     "name": "#ATMLIV",
     "query": "#ATMLIV",
     "rank": 4,
-    "tweet_count": "1,512 Tweets"
+    "tweet_count": "1,514 Tweets"
+  },
+  {
+    "name": "Steve Bruce",
+    "query": "\"Steve Bruce\"",
+    "rank": 5,
+    "tweet_count": "62K Tweets"
   },
   {
     "name": "Cavani",
     "query": "Cavani",
-    "rank": 5,
-    "tweet_count": "17.5K Tweets"
-  },
-  {
-    "name": "#EndSARSMemorial",
-    "query": "#EndSARSMemorial",
     "rank": 6,
-    "tweet_count": "1.03M Tweets"
+    "tweet_count": "17.5K Tweets"
   },
   {
     "name": "#MekelleUnderAttack",
@@ -42,34 +42,34 @@
     "tweet_count": "107K Tweets"
   },
   {
+    "name": "#EndSARSMemorial",
+    "query": "#EndSARSMemorial",
+    "rank": 8,
+    "tweet_count": "1.03M Tweets"
+  },
+  {
     "name": "Milner",
     "query": "Milner",
-    "rank": 8,
-    "tweet_count": "3,107 Tweets"
+    "rank": 9,
+    "tweet_count": "3,111 Tweets"
   },
   {
     "name": "Solskjær",
     "query": "Solskjær",
-    "rank": 9,
-    "tweet_count": "49.3K Tweets"
+    "rank": 10,
+    "tweet_count": "49.5K Tweets"
   },
   {
     "name": "Dortmund",
     "query": "Dortmund",
-    "rank": 10,
-    "tweet_count": "14.3K Tweets"
+    "rank": 11,
+    "tweet_count": "14.4K Tweets"
   },
   {
     "name": "Champions League",
     "query": "\"Champions League\"",
-    "rank": 11,
-    "tweet_count": "163K Tweets"
-  },
-  {
-    "name": "Ajax",
-    "query": "Ajax",
     "rank": 12,
-    "tweet_count": "28.5K Tweets"
+    "tweet_count": "164K Tweets"
   },
   {
     "name": "grorud",
@@ -78,22 +78,22 @@
     "tweet_count": null
   },
   {
+    "name": "Ajax",
+    "query": "Ajax",
+    "rank": 14,
+    "tweet_count": "28.6K Tweets"
+  },
+  {
     "name": "Bodø",
     "query": "Bodø",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Jerv",
     "query": "Jerv",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Steve Bruce",
-    "query": "\"Steve Bruce\"",
     "rank": 16,
-    "tweet_count": "61.9K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Trøndelag",
@@ -105,11 +105,11 @@
     "name": "Colin Powell",
     "query": "\"Colin Powell\"",
     "rank": 18,
-    "tweet_count": "31.4K Tweets"
+    "tweet_count": "31.5K Tweets"
   },
   {
-    "name": "coolbet",
-    "query": "coolbet",
+    "name": "Coolbet",
+    "query": "Coolbet",
     "rank": 19,
     "tweet_count": null
   }
