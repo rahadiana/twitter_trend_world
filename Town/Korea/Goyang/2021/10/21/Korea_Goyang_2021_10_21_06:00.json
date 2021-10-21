@@ -1,15 +1,15 @@
 [
   {
-    "name": "다이어리",
-    "query": "다이어리",
+    "name": "멤버와 연애",
+    "query": "\"멤버와 연애\"",
     "rank": 1,
-    "tweet_count": "37.3K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "엔시티 멤버",
-    "query": "\"엔시티 멤버\"",
+    "name": "다이어리",
+    "query": "다이어리",
     "rank": 2,
-    "tweet_count": null
+    "tweet_count": "38.4K Tweets"
   },
   {
     "name": "홍월 할로윈",
@@ -30,40 +30,40 @@
     "tweet_count": null
   },
   {
+    "name": "동성 앤캐",
+    "query": "\"동성 앤캐\"",
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "이성 앤캐",
+    "query": "\"이성 앤캐\"",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
     "name": "홍월 하코",
     "query": "\"홍월 하코\"",
-    "rank": 6,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "#한복의날",
     "query": "#한복의날",
-    "rank": 7,
-    "tweet_count": "1,756 Tweets"
+    "rank": 9,
+    "tweet_count": "1,932 Tweets"
   },
   {
-    "name": "씨제이 포인트",
-    "query": "\"씨제이 포인트\"",
-    "rank": 8,
-    "tweet_count": "1,043 Tweets"
+    "name": "하스미 케이토",
+    "query": "\"하스미 케이토\"",
+    "rank": 10,
+    "tweet_count": null
   },
   {
     "name": "누리호 발사",
     "query": "\"누리호 발사\"",
-    "rank": 9,
-    "tweet_count": "8,062 Tweets"
-  },
-  {
-    "name": "SM엔터테인먼트",
-    "query": "SM엔터테인먼트",
-    "rank": 10,
-    "tweet_count": "7,514 Tweets"
-  },
-  {
-    "name": "#지성뵤블",
-    "query": "#지성뵤블",
     "rank": 11,
-    "tweet_count": null
+    "tweet_count": "8,305 Tweets"
   },
   {
     "name": "말씀신청",
@@ -72,39 +72,45 @@
     "tweet_count": null
   },
   {
-    "name": "코르셋임",
-    "query": "코르셋임",
+    "name": "#닉네임에_실제성을_붙이면_자연스럽다",
+    "query": "#닉네임에_실제성을_붙이면_자연스럽다",
     "rank": 13,
-    "tweet_count": "2,623 Tweets"
+    "tweet_count": "1,614 Tweets"
   },
   {
-    "name": "신의 장난",
-    "query": "\"신의 장난\"",
+    "name": "#지성뵤블",
+    "query": "#지성뵤블",
     "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "새누리당 출신",
-    "query": "\"새누리당 출신\"",
+    "name": "코르셋임",
+    "query": "코르셋임",
     "rank": 15,
+    "tweet_count": "2,720 Tweets"
+  },
+  {
+    "name": "sm엔터테인먼트 인수",
+    "query": "\"sm엔터테인먼트 인수\"",
+    "rank": 16,
+    "tweet_count": "7,509 Tweets"
+  },
+  {
+    "name": "무슨 신의 장난",
+    "query": "\"무슨 신의 장난\"",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "공공이익 환수",
+    "query": "\"공공이익 환수\"",
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "대장동 진실",
     "query": "\"대장동 진실\"",
-    "rank": 16,
+    "rank": 19,
     "tweet_count": null
-  },
-  {
-    "name": "포인트 적립",
-    "query": "\"포인트 적립\"",
-    "rank": 17,
-    "tweet_count": "2,139 Tweets"
-  },
-  {
-    "name": "#닉네임에_실제성을_붙이면_자연스럽다",
-    "query": "#닉네임에_실제성을_붙이면_자연스럽다",
-    "rank": 18,
-    "tweet_count": "1,576 Tweets"
   }
 ]
