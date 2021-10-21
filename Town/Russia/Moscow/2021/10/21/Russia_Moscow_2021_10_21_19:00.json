@@ -1,33 +1,33 @@
 [
   {
-    "name": "Moscow",
-    "query": "Moscow",
-    "rank": 1,
-    "tweet_count": "20.3K Tweets"
-  },
-  {
     "name": "#нюдсочетверг",
     "query": "#нюдсочетверг",
-    "rank": 2,
-    "tweet_count": "3,665 Tweets"
+    "rank": 1,
+    "tweet_count": "3,759 Tweets"
   },
   {
     "name": "#AtinySelcaDay",
     "query": "#AtinySelcaDay",
-    "rank": 3,
-    "tweet_count": "77K Tweets"
-  },
-  {
-    "name": "#пацанки6",
-    "query": "#пацанки6",
-    "rank": 4,
-    "tweet_count": null
+    "rank": 2,
+    "tweet_count": "77.9K Tweets"
   },
   {
     "name": "#ATSD",
     "query": "#ATSD",
+    "rank": 3,
+    "tweet_count": "76.4K Tweets"
+  },
+  {
+    "name": "#ЛокоГалатасарай",
+    "query": "#ЛокоГалатасарай",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "Samsung",
+    "query": "Samsung",
     "rank": 5,
-    "tweet_count": "75.6K Tweets"
+    "tweet_count": "78.4K Tweets"
   },
   {
     "name": "#коточетверг",
@@ -36,22 +36,22 @@
     "tweet_count": null
   },
   {
-    "name": "Samsung",
-    "query": "Samsung",
+    "name": "BETTER INVESTMENT",
+    "query": "\"BETTER INVESTMENT\"",
     "rank": 7,
-    "tweet_count": "77.9K Tweets"
+    "tweet_count": "4,709 Tweets"
   },
   {
     "name": "Uncharted",
     "query": "Uncharted",
     "rank": 8,
-    "tweet_count": "81.2K Tweets"
+    "tweet_count": "82.8K Tweets"
   },
   {
     "name": "Сахарова",
     "query": "Сахарова",
     "rank": 9,
-    "tweet_count": "6,042 Tweets"
+    "tweet_count": "6,079 Tweets"
   },
   {
     "name": "BUILD STRONG EMPIRE",
@@ -75,7 +75,7 @@
     "name": "С 28",
     "query": "\"С 28\"",
     "rank": 13,
-    "tweet_count": "2,141 Tweets"
+    "tweet_count": "2,176 Tweets"
   },
   {
     "name": "Рассказова",
@@ -84,22 +84,22 @@
     "tweet_count": null
   },
   {
-    "name": "Матвиенко",
-    "query": "Матвиенко",
-    "rank": 15,
-    "tweet_count": "1,462 Tweets"
-  },
-  {
     "name": "Европарламент",
     "query": "Европарламент",
-    "rank": 16,
-    "tweet_count": "2,102 Tweets"
+    "rank": 15,
+    "tweet_count": "2,139 Tweets"
   },
   {
     "name": "Спутника V",
     "query": "\"Спутника V\"",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
+  },
+  {
+    "name": "Матвиенко",
+    "query": "Матвиенко",
+    "rank": 17,
+    "tweet_count": "1,498 Tweets"
   },
   {
     "name": "крис",
@@ -112,11 +112,5 @@
     "query": "Валдае",
     "rank": 19,
     "tweet_count": null
-  },
-  {
-    "name": "любовь соболь",
-    "query": "\"любовь соболь\"",
-    "rank": 20,
-    "tweet_count": "1,180 Tweets"
   }
 ]
