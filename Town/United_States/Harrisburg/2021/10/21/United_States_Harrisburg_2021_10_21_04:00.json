@@ -1,61 +1,61 @@
 [
   {
+    "name": "Sixers",
+    "query": "Sixers",
+    "rank": 1,
+    "tweet_count": "31.3K Tweets"
+  },
+  {
+    "name": "Flyers",
+    "query": "Flyers",
+    "rank": 2,
+    "tweet_count": "14.3K Tweets"
+  },
+  {
     "name": "Maxey",
     "query": "Maxey",
-    "rank": 1,
-    "tweet_count": "4,079 Tweets"
+    "rank": 3,
+    "tweet_count": "4,159 Tweets"
   },
   {
     "name": "Drummond",
     "query": "Drummond",
-    "rank": 2,
-    "tweet_count": "3,302 Tweets"
+    "rank": 4,
+    "tweet_count": "3,331 Tweets"
   },
   {
     "name": "#BringItToBroad",
     "query": "#BringItToBroad",
-    "rank": 3,
-    "tweet_count": "4,200 Tweets"
+    "rank": 5,
+    "tweet_count": "4,280 Tweets"
   },
   {
     "name": "#HereTheyCome",
     "query": "#HereTheyCome",
-    "rank": 4,
-    "tweet_count": "1,324 Tweets"
-  },
-  {
-    "name": "#Doop",
-    "query": "#Doop",
-    "rank": 5,
-    "tweet_count": null
+    "rank": 6,
+    "tweet_count": "1,325 Tweets"
   },
   {
     "name": "Niang",
     "query": "Niang",
-    "rank": 6,
-    "tweet_count": "1,470 Tweets"
-  },
-  {
-    "name": "Farabee",
-    "query": "Farabee",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "1,478 Tweets"
   },
   {
-    "name": "Marchand",
-    "query": "Marchand",
+    "name": "Kate Scott",
+    "query": "\"Kate Scott\"",
     "rank": 8,
-    "tweet_count": "1,900 Tweets"
-  },
-  {
-    "name": "Risto",
-    "query": "Risto",
-    "rank": 9,
-    "tweet_count": "1,473 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Cam Atkinson",
     "query": "\"Cam Atkinson\"",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Farabee",
+    "query": "Farabee",
     "rank": 10,
     "tweet_count": null
   },
@@ -66,57 +66,57 @@
     "tweet_count": null
   },
   {
-    "name": "#Flyers",
-    "query": "#Flyers",
+    "name": "Pelicans",
+    "query": "Pelicans",
     "rank": 12,
-    "tweet_count": "2,013 Tweets"
+    "tweet_count": "7,580 Tweets"
+  },
+  {
+    "name": "Embiid",
+    "query": "Embiid",
+    "rank": 13,
+    "tweet_count": "8,891 Tweets"
+  },
+  {
+    "name": "Portland",
+    "query": "Portland",
+    "rank": 14,
+    "tweet_count": "19.6K Tweets"
+  },
+  {
+    "name": "Risto",
+    "query": "Risto",
+    "rank": 15,
+    "tweet_count": "1,517 Tweets"
   },
   {
     "name": "Tobias",
     "query": "Tobias",
-    "rank": 13,
-    "tweet_count": "6,717 Tweets"
+    "rank": 16,
+    "tweet_count": "6,764 Tweets"
   },
   {
-    "name": "The Flyers",
-    "query": "\"The Flyers\"",
-    "rank": 14,
-    "tweet_count": "6,211 Tweets"
-  },
-  {
-    "name": "#Batwoman",
-    "query": "#Batwoman",
-    "rank": 15,
-    "tweet_count": "19.5K Tweets"
+    "name": "#76ers",
+    "query": "#76ers",
+    "rank": 17,
+    "tweet_count": null
   },
   {
     "name": "Cavs",
     "query": "Cavs",
-    "rank": 16,
+    "rank": 18,
     "tweet_count": "13K Tweets"
   },
   {
     "name": "Zion",
     "query": "Zion",
-    "rank": 17,
-    "tweet_count": "15.9K Tweets"
+    "rank": 19,
+    "tweet_count": "16.1K Tweets"
   },
   {
     "name": "Watson",
     "query": "Watson",
-    "rank": 18,
-    "tweet_count": "40.1K Tweets"
-  },
-  {
-    "name": "Minnesota",
-    "query": "Minnesota",
-    "rank": 19,
-    "tweet_count": "15.6K Tweets"
-  },
-  {
-    "name": "Knicks",
-    "query": "Knicks",
     "rank": 20,
-    "tweet_count": "86.5K Tweets"
+    "tweet_count": "40.5K Tweets"
   }
 ]
