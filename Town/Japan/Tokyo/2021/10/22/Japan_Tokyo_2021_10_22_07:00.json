@@ -1,81 +1,81 @@
 [
   {
-    "name": "#SaaSTokyo",
-    "query": "#SaaSTokyo",
+    "name": "入荷情報",
+    "query": "入荷情報",
     "rank": 1,
-    "tweet_count": null
-  },
-  {
-    "name": "#ホロライブ",
-    "query": "#ホロライブ",
-    "rank": 2,
-    "tweet_count": "36.3K Tweets"
-  },
-  {
-    "name": "論文コンペ",
-    "query": "論文コンペ",
-    "rank": 3,
-    "tweet_count": "2,360 Tweets"
-  },
-  {
-    "name": "#中川家ラジオショー",
-    "query": "#中川家ラジオショー",
-    "rank": 4,
-    "tweet_count": "1,019 Tweets"
-  },
-  {
-    "name": "#ss954",
-    "query": "#ss954",
-    "rank": 5,
-    "tweet_count": "2,453 Tweets"
+    "tweet_count": "7,914 Tweets"
   },
   {
     "name": "南日本新聞",
     "query": "南日本新聞",
-    "rank": 6,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "#ss954",
+    "query": "#ss954",
+    "rank": 3,
+    "tweet_count": "2,557 Tweets"
+  },
+  {
+    "name": "#SaaSTokyo",
+    "query": "#SaaSTokyo",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "#中川家ラジオショー",
+    "query": "#中川家ラジオショー",
+    "rank": 5,
+    "tweet_count": "1,023 Tweets"
+  },
+  {
+    "name": "論文コンペ",
+    "query": "論文コンペ",
+    "rank": 6,
+    "tweet_count": "2,414 Tweets"
+  },
+  {
+    "name": "#funkyfriday",
+    "query": "#funkyfriday",
+    "rank": 7,
+    "tweet_count": "1,640 Tweets"
   },
   {
     "name": "バチェロレッテ",
     "query": "バチェロレッテ",
-    "rank": 7,
-    "tweet_count": "3,592 Tweets"
+    "rank": 8,
+    "tweet_count": "3,632 Tweets"
   },
   {
     "name": "風営法違反",
     "query": "風営法違反",
-    "rank": 8,
-    "tweet_count": "8,442 Tweets"
+    "rank": 9,
+    "tweet_count": "8,500 Tweets"
   },
   {
     "name": "デュエリストパック",
     "query": "デュエリストパック",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "NY同居",
-    "query": "NY同居",
     "rank": 10,
-    "tweet_count": "1,773 Tweets"
+    "tweet_count": null
   },
   {
     "name": "NY州弁護士会",
     "query": "NY州弁護士会",
     "rank": 11,
-    "tweet_count": "1,213 Tweets"
+    "tweet_count": "1,228 Tweets"
   },
   {
-    "name": "小室佳代",
-    "query": "小室佳代",
+    "name": "くま最中",
+    "query": "くま最中",
     "rank": 12,
-    "tweet_count": "5,577 Tweets"
+    "tweet_count": "6,240 Tweets"
   },
   {
     "name": "ミュウUR",
     "query": "ミュウUR",
     "rank": 13,
-    "tweet_count": "3,627 Tweets"
+    "tweet_count": "3,671 Tweets"
   },
   {
     "name": "射撃の指示",
@@ -87,30 +87,30 @@
     "name": "コウコウ",
     "query": "コウコウ",
     "rank": 15,
-    "tweet_count": "10.9K Tweets"
+    "tweet_count": "11K Tweets"
   },
   {
-    "name": "知恵の化身",
-    "query": "知恵の化身",
+    "name": "NY同居",
+    "query": "NY同居",
     "rank": 16,
-    "tweet_count": "1,373 Tweets"
+    "tweet_count": "1,788 Tweets"
   },
   {
     "name": "選管の対応",
     "query": "選管の対応",
     "rank": 17,
-    "tweet_count": "1,171 Tweets"
+    "tweet_count": "1,177 Tweets"
   },
   {
     "name": "投票用紙の略称同じ",
     "query": "投票用紙の略称同じ",
     "rank": 18,
-    "tweet_count": "1,250 Tweets"
+    "tweet_count": "1,257 Tweets"
   },
   {
-    "name": "FNCS",
-    "query": "FNCS",
+    "name": "小室佳代",
+    "query": "小室佳代",
     "rank": 19,
-    "tweet_count": "12.9K Tweets"
+    "tweet_count": "5,601 Tweets"
   }
 ]
