@@ -1,122 +1,122 @@
 [
   {
-    "name": "Max Fried",
-    "query": "\"Max Fried\"",
+    "name": "Dodgers",
+    "query": "Dodgers",
     "rank": 1,
-    "tweet_count": "3,443 Tweets"
+    "tweet_count": "128K Tweets"
+  },
+  {
+    "name": "Braves in 6",
+    "query": "\"Braves in 6\"",
+    "rank": 2,
+    "tweet_count": "1,262 Tweets"
+  },
+  {
+    "name": "Cam Reddish",
+    "query": "\"Cam Reddish\"",
+    "rank": 3,
+    "tweet_count": "3,780 Tweets"
+  },
+  {
+    "name": "Fried",
+    "query": "Fried",
+    "rank": 4,
+    "tweet_count": "44.2K Tweets"
+  },
+  {
+    "name": "Mavs",
+    "query": "Mavs",
+    "rank": 5,
+    "tweet_count": "14.3K Tweets"
   },
   {
     "name": "Chris Martin",
     "query": "\"Chris Martin\"",
-    "rank": 2,
-    "tweet_count": "2,387 Tweets"
-  },
-  {
-    "name": "Luka",
-    "query": "Luka",
-    "rank": 3,
-    "tweet_count": "40.7K Tweets"
+    "rank": 6,
+    "tweet_count": "2,398 Tweets"
   },
   {
     "name": "Kaytranada",
     "query": "Kaytranada",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "Chloe",
-    "query": "Chloe",
-    "rank": 5,
-    "tweet_count": "31.3K Tweets"
-  },
-  {
-    "name": "Ron Darling",
-    "query": "\"Ron Darling\"",
-    "rank": 6,
-    "tweet_count": "1,598 Tweets"
-  },
-  {
-    "name": "Brian Anderson",
-    "query": "\"Brian Anderson\"",
     "rank": 7,
     "tweet_count": null
   },
   {
-    "name": "joe kelly",
-    "query": "\"joe kelly\"",
+    "name": "Luka",
+    "query": "Luka",
     "rank": 8,
-    "tweet_count": "6,290 Tweets"
+    "tweet_count": "40.9K Tweets"
   },
   {
-    "name": "#ATLvsLAD",
-    "query": "#ATLvsLAD",
+    "name": "Trae",
+    "query": "Trae",
     "rank": 9,
-    "tweet_count": "2,610 Tweets"
+    "tweet_count": "34.8K Tweets"
   },
   {
-    "name": "Vince",
-    "query": "Vince",
+    "name": "#TrueToAtlanta",
+    "query": "#TrueToAtlanta",
     "rank": 10,
-    "tweet_count": "20K Tweets"
+    "tweet_count": "1,788 Tweets"
   },
   {
-    "name": "Hunter",
-    "query": "Hunter",
+    "name": "Chloe",
+    "query": "Chloe",
     "rank": 11,
-    "tweet_count": "83K Tweets"
+    "tweet_count": "31.5K Tweets"
   },
   {
-    "name": "Baker",
-    "query": "Baker",
+    "name": "Ron Darling",
+    "query": "\"Ron Darling\"",
     "rank": 12,
-    "tweet_count": "30.6K Tweets"
+    "tweet_count": "1,599 Tweets"
   },
   {
-    "name": "Snit",
-    "query": "Snit",
+    "name": "Brian Anderson",
+    "query": "\"Brian Anderson\"",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "Gabby",
-    "query": "Gabby",
+    "name": "Joe Kelly",
+    "query": "\"Joe Kelly\"",
     "rank": 14,
-    "tweet_count": "51.6K Tweets"
+    "tweet_count": "6,305 Tweets"
+  },
+  {
+    "name": "#ATLvsLAD",
+    "query": "#ATLvsLAD",
+    "rank": 15,
+    "tweet_count": "2,613 Tweets"
+  },
+  {
+    "name": "Hunter",
+    "query": "Hunter",
+    "rank": 16,
+    "tweet_count": "83.4K Tweets"
+  },
+  {
+    "name": "The Braves",
+    "query": "\"The Braves\"",
+    "rank": 17,
+    "tweet_count": "37.3K Tweets"
+  },
+  {
+    "name": "Baker",
+    "query": "Baker",
+    "rank": 18,
+    "tweet_count": "30.7K Tweets"
+  },
+  {
+    "name": "Snit",
+    "query": "Snit",
+    "rank": 19,
+    "tweet_count": null
   },
   {
     "name": "Steph",
     "query": "Steph",
-    "rank": 15,
-    "tweet_count": "102K Tweets"
-  },
-  {
-    "name": "Alec Baldwin",
-    "query": "\"Alec Baldwin\"",
-    "rank": 16,
-    "tweet_count": "93.9K Tweets"
-  },
-  {
-    "name": "Chris Taylor",
-    "query": "\"Chris Taylor\"",
-    "rank": 17,
-    "tweet_count": "31.7K Tweets"
-  },
-  {
-    "name": "#criticalrolespoilers",
-    "query": "#criticalrolespoilers",
-    "rank": 18,
-    "tweet_count": "52K Tweets"
-  },
-  {
-    "name": "Brandon Lee",
-    "query": "\"Brandon Lee\"",
-    "rank": 19,
-    "tweet_count": "13.5K Tweets"
-  },
-  {
-    "name": "Dune",
-    "query": "Dune",
     "rank": 20,
-    "tweet_count": "125K Tweets"
+    "tweet_count": "103K Tweets"
   }
 ]
