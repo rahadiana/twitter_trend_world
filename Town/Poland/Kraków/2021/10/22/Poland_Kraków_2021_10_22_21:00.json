@@ -18,8 +18,8 @@
     "tweet_count": null
   },
   {
-    "name": "#forum",
-    "query": "#forum",
+    "name": "#Forum",
+    "query": "#Forum",
     "rank": 4,
     "tweet_count": "1,172 Tweets"
   },
@@ -27,13 +27,13 @@
     "name": "Amaral",
     "query": "Amaral",
     "rank": 5,
-    "tweet_count": "2,782 Tweets"
+    "tweet_count": "2,828 Tweets"
   },
   {
     "name": "ERYN",
     "query": "ERYN",
     "rank": 6,
-    "tweet_count": "15.1K Tweets"
+    "tweet_count": "15.6K Tweets"
   },
   {
     "name": "Kamiński",
@@ -45,13 +45,13 @@
     "name": "Le Pen",
     "query": "\"Le Pen\"",
     "rank": 8,
-    "tweet_count": "15.7K Tweets"
+    "tweet_count": "15.8K Tweets"
   },
   {
     "name": "Putinem",
     "query": "Putinem",
     "rank": 9,
-    "tweet_count": "3,595 Tweets"
+    "tweet_count": "3,625 Tweets"
   },
   {
     "name": "Płocka",
@@ -60,14 +60,14 @@
     "tweet_count": null
   },
   {
-    "name": "Diuny",
-    "query": "Diuny",
+    "name": "Żakowski",
+    "query": "Żakowski",
     "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "Żakowski",
-    "query": "Żakowski",
+    "name": "Diuny",
+    "query": "Diuny",
     "rank": 12,
     "tweet_count": null
   },
@@ -75,35 +75,35 @@
     "name": "#ARSAVL",
     "query": "#ARSAVL",
     "rank": 13,
-    "tweet_count": "46.2K Tweets"
+    "tweet_count": "47.5K Tweets"
   },
   {
     "name": "#DuneMovie",
     "query": "#DuneMovie",
     "rank": 14,
-    "tweet_count": "27.3K Tweets"
+    "tweet_count": "27.4K Tweets"
   },
   {
     "name": "#StrajkKobiet",
     "query": "#StrajkKobiet",
     "rank": 15,
-    "tweet_count": "1,292 Tweets"
-  },
-  {
-    "name": "#twojatwarzbrzmiznajomo",
-    "query": "#twojatwarzbrzmiznajomo",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "1,305 Tweets"
   },
   {
     "name": "#ElevenF1",
     "query": "#ElevenF1",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "#modopbts",
     "query": "#modopbts",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "#twojatwarzbrzmiznajomo",
+    "query": "#twojatwarzbrzmiznajomo",
     "rank": 18,
     "tweet_count": null
   },
@@ -111,6 +111,6 @@
     "name": "#herşeyaşkiçin",
     "query": "#herşeyaşkiçin",
     "rank": 19,
-    "tweet_count": "96.1K Tweets"
+    "tweet_count": "97K Tweets"
   }
 ]
