@@ -1,21 +1,21 @@
 [
   {
-    "name": "راكان السعايده",
-    "query": "\"راكان السعايده\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#درع_الوطن",
     "query": "#درع_الوطن",
-    "rank": 2,
-    "tweet_count": "2,905 Tweets"
+    "rank": 1,
+    "tweet_count": "2,910 Tweets"
   },
   {
     "name": "#القوات_المسلحه_الاردنيه",
     "query": "#القوات_المسلحه_الاردنيه",
+    "rank": 2,
+    "tweet_count": "1,430 Tweets"
+  },
+  {
+    "name": "راكان السعايده",
+    "query": "\"راكان السعايده\"",
     "rank": 3,
-    "tweet_count": "1,425 Tweets"
+    "tweet_count": null
   },
   {
     "name": "الصحفيين الاردنيين",
@@ -63,19 +63,19 @@
     "name": "jungkook",
     "query": "jungkook",
     "rank": 11,
-    "tweet_count": "614K Tweets"
+    "tweet_count": "617K Tweets"
   },
   {
     "name": "الاتحاد",
     "query": "الاتحاد",
     "rank": 12,
-    "tweet_count": "167K Tweets"
+    "tweet_count": "169K Tweets"
   },
   {
     "name": "اليمن",
     "query": "اليمن",
     "rank": 13,
-    "tweet_count": "35.6K Tweets"
+    "tweet_count": "35.9K Tweets"
   },
   {
     "name": "Spotify",
@@ -84,39 +84,39 @@
     "tweet_count": "1.27M Tweets"
   },
   {
+    "name": "GOAT",
+    "query": "GOAT",
+    "rank": 15,
+    "tweet_count": "82.5K Tweets"
+  },
+  {
     "name": "Halloween",
     "query": "Halloween",
-    "rank": 15,
-    "tweet_count": "544K Tweets"
+    "rank": 16,
+    "tweet_count": "548K Tweets"
   },
   {
     "name": "بدي حدا",
     "query": "\"بدي حدا\"",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Lana",
     "query": "Lana",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": "121K Tweets"
   },
   {
     "name": "حسين",
     "query": "حسين",
-    "rank": 18,
-    "tweet_count": "58.6K Tweets"
+    "rank": 19,
+    "tweet_count": "59K Tweets"
   },
   {
     "name": "Israeli",
     "query": "Israeli",
-    "rank": 19,
-    "tweet_count": "36.3K Tweets"
-  },
-  {
-    "name": "Palestinian",
-    "query": "Palestinian",
     "rank": 20,
-    "tweet_count": "37.4K Tweets"
+    "tweet_count": "36.8K Tweets"
   }
 ]
