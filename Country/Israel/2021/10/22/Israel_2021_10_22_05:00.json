@@ -1,19 +1,19 @@
 [
   {
+    "name": "שבת שלום",
+    "query": "\"שבת שלום\"",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "עוד צער",
     "query": "\"עוד צער\"",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "ברוך דיין",
     "query": "\"ברוך דיין\"",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "גל גברעם",
-    "query": "\"גל גברעם\"",
     "rank": 3,
     "tweet_count": null
   },
@@ -24,28 +24,28 @@
     "tweet_count": null
   },
   {
+    "name": "גל גברעם",
+    "query": "\"גל גברעם\"",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
     "name": "רם בן ברק",
     "query": "\"רם בן ברק\"",
-    "rank": 5,
-    "tweet_count": "1,264 Tweets"
+    "rank": 6,
+    "tweet_count": "1,270 Tweets"
   },
   {
     "name": "Mossad",
     "query": "Mossad",
-    "rank": 6,
-    "tweet_count": "23K Tweets"
+    "rank": 7,
+    "tweet_count": "23.1K Tweets"
   },
   {
     "name": "#WWECrownJewel",
     "query": "#WWECrownJewel",
-    "rank": 7,
-    "tweet_count": "193K Tweets"
-  },
-  {
-    "name": "שבת שלום",
-    "query": "\"שבת שלום\"",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "193K Tweets"
   },
   {
     "name": "בן גביר",
@@ -57,13 +57,13 @@
     "name": "Russia",
     "query": "Russia",
     "rank": 10,
-    "tweet_count": "81.2K Tweets"
+    "tweet_count": "81.8K Tweets"
   },
   {
     "name": "#ARIAsTaylorSwift",
     "query": "#ARIAsTaylorSwift",
     "rank": 11,
-    "tweet_count": "430K Tweets"
+    "tweet_count": "434K Tweets"
   },
   {
     "name": "רוב העם",
@@ -72,10 +72,10 @@
     "tweet_count": null
   },
   {
-    "name": "#MUFC",
-    "query": "#MUFC",
+    "name": "#mufc",
+    "query": "#mufc",
     "rank": 13,
-    "tweet_count": "61.9K Tweets"
+    "tweet_count": "62.2K Tweets"
   },
   {
     "name": "כדור הארץ",
@@ -87,7 +87,7 @@
     "name": "Turkey",
     "query": "Turkey",
     "rank": 15,
-    "tweet_count": "70.2K Tweets"
+    "tweet_count": "70.5K Tweets"
   },
   {
     "name": "#FreeThemAll",
@@ -99,7 +99,7 @@
     "name": "Zionism",
     "query": "Zionism",
     "rank": 17,
-    "tweet_count": "2,171 Tweets"
+    "tweet_count": "2,179 Tweets"
   },
   {
     "name": "אלי אוחנה",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "Sending",
-    "query": "Sending",
+    "name": "Dune",
+    "query": "Dune",
     "rank": 19,
-    "tweet_count": "129K Tweets"
+    "tweet_count": "125K Tweets"
   },
   {
-    "name": "חולה נפש",
-    "query": "\"חולה נפש\"",
+    "name": "Sending",
+    "query": "Sending",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "130K Tweets"
   }
 ]
