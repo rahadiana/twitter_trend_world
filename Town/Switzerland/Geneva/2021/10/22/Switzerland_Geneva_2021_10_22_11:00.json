@@ -1,21 +1,21 @@
 [
   {
-    "name": "#AlecBaldwin",
-    "query": "#AlecBaldwin",
+    "name": "Alec Baldwin",
+    "query": "\"Alec Baldwin\"",
     "rank": 1,
-    "tweet_count": "13.8K Tweets"
-  },
-  {
-    "name": "Eric Nam",
-    "query": "\"Eric Nam\"",
-    "rank": 2,
-    "tweet_count": "2,055 Tweets"
+    "tweet_count": "193K Tweets"
   },
   {
     "name": "#Hendrik",
     "query": "#Hendrik",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "Eric Nam",
+    "query": "\"Eric Nam\"",
+    "rank": 3,
+    "tweet_count": "2,086 Tweets"
   },
   {
     "name": "Christentum",
@@ -27,7 +27,7 @@
     "name": "#Sturm",
     "query": "#Sturm",
     "rank": 5,
-    "tweet_count": "1,488 Tweets"
+    "tweet_count": "1,499 Tweets"
   },
   {
     "name": "#WirFuerEuch",
@@ -36,52 +36,52 @@
     "tweet_count": null
   },
   {
-    "name": "Truth Social",
-    "query": "\"Truth Social\"",
+    "name": "#justizinitiative",
+    "query": "#justizinitiative",
     "rank": 7,
-    "tweet_count": "92K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Barbero",
     "query": "Barbero",
     "rank": 8,
-    "tweet_count": "13.3K Tweets"
+    "tweet_count": "13.5K Tweets"
+  },
+  {
+    "name": "Werte",
+    "query": "Werte",
+    "rank": 9,
+    "tweet_count": "1,314 Tweets"
   },
   {
     "name": "Impfdurchbrüche",
     "query": "Impfdurchbrüche",
-    "rank": 9,
-    "tweet_count": "3,106 Tweets"
+    "rank": 10,
+    "tweet_count": "3,167 Tweets"
   },
   {
     "name": "Unfall",
     "query": "Unfall",
-    "rank": 10,
-    "tweet_count": "2,059 Tweets"
-  },
-  {
-    "name": "status",
-    "query": "status",
     "rank": 11,
-    "tweet_count": "5.35M Tweets"
+    "tweet_count": "2,143 Tweets"
   },
   {
-    "name": "Verfassung",
-    "query": "Verfassung",
+    "name": "Status",
+    "query": "Status",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "5.01M Tweets"
   },
   {
     "name": "Umfrage",
     "query": "Umfrage",
     "rank": 13,
-    "tweet_count": "1,616 Tweets"
+    "tweet_count": "1,658 Tweets"
   },
   {
-    "name": "Zurich",
-    "query": "Zurich",
+    "name": "Verfassung",
+    "query": "Verfassung",
     "rank": 14,
-    "tweet_count": "1,702 Tweets"
+    "tweet_count": null
   },
   {
     "name": "impfdosen",
@@ -93,24 +93,24 @@
     "name": "Rashford",
     "query": "Rashford",
     "rank": 16,
-    "tweet_count": "10.2K Tweets"
+    "tweet_count": "10.4K Tweets"
+  },
+  {
+    "name": "zurich",
+    "query": "zurich",
+    "rank": 17,
+    "tweet_count": "1,719 Tweets"
   },
   {
     "name": "Gegenvorschlag",
     "query": "Gegenvorschlag",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Polizist",
     "query": "Polizist",
-    "rank": 18,
-    "tweet_count": "1,036 Tweets"
-  },
-  {
-    "name": "Knast",
-    "query": "Knast",
     "rank": 19,
-    "tweet_count": "2,586 Tweets"
+    "tweet_count": "1,070 Tweets"
   }
 ]
