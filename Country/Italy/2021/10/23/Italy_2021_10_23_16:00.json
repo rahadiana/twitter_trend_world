@@ -1,21 +1,21 @@
 [
   {
+    "name": "#lockdown",
+    "query": "#lockdown",
+    "rank": 1,
+    "tweet_count": "5,690 Tweets"
+  },
+  {
     "name": "#ATEEZ_3rd_Anniversary",
     "query": "#ATEEZ_3rd_Anniversary",
-    "rank": 1,
-    "tweet_count": "223K Tweets"
+    "rank": 2,
+    "tweet_count": "238K Tweets"
   },
   {
     "name": "#SalernitanaEmpoli",
     "query": "#SalernitanaEmpoli",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "#lockdown",
-    "query": "#lockdown",
     "rank": 3,
-    "tweet_count": "5,194 Tweets"
+    "tweet_count": "1,007 Tweets"
   },
   {
     "name": "#tvtalk",
@@ -24,8 +24,8 @@
     "tweet_count": null
   },
   {
-    "name": "#DelMonteSupercoppa",
-    "query": "#DelMonteSupercoppa",
+    "name": "#SassuoloVenezia",
+    "query": "#SassuoloVenezia",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,7 +33,7 @@
     "name": "Richard Gere",
     "query": "\"Richard Gere\"",
     "rank": 6,
-    "tweet_count": "1,770 Tweets"
+    "tweet_count": "2,033 Tweets"
   },
   {
     "name": "Colantuono",
@@ -48,75 +48,75 @@
     "tweet_count": null
   },
   {
-    "name": "Harris",
-    "query": "Harris",
+    "name": "Bersani",
+    "query": "Bersani",
     "rank": 9,
-    "tweet_count": "36.8K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Jannik",
     "query": "Jannik",
     "rank": 10,
-    "tweet_count": "1,096 Tweets"
+    "tweet_count": "1,152 Tweets"
   },
   {
-    "name": "Pinamonti",
-    "query": "Pinamonti",
+    "name": "Open Arms",
+    "query": "\"Open Arms\"",
     "rank": 11,
-    "tweet_count": null
+    "tweet_count": "4,949 Tweets"
   },
   {
-    "name": "Bersani",
-    "query": "Bersani",
+    "name": "Harris",
+    "query": "Harris",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "37.7K Tweets"
   },
   {
     "name": "Monza",
     "query": "Monza",
     "rank": 13,
-    "tweet_count": "1,973 Tweets"
-  },
-  {
-    "name": "Bonucci",
-    "query": "Bonucci",
-    "rank": 14,
-    "tweet_count": "1,577 Tweets"
+    "tweet_count": "2,049 Tweets"
   },
   {
     "name": "Chiellini",
     "query": "Chiellini",
-    "rank": 15,
-    "tweet_count": "1,863 Tweets"
+    "rank": 14,
+    "tweet_count": "1,953 Tweets"
   },
   {
     "name": "Totti",
     "query": "Totti",
+    "rank": 15,
+    "tweet_count": "2,156 Tweets"
+  },
+  {
+    "name": "Lidl",
+    "query": "Lidl",
     "rank": 16,
-    "tweet_count": "2,101 Tweets"
-  },
-  {
-    "name": "Bonino",
-    "query": "Bonino",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Gentiloni",
-    "query": "Gentiloni",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "2,996 Tweets"
   },
   {
     "name": "Vin Diesel",
     "query": "\"Vin Diesel\"",
-    "rank": 19,
-    "tweet_count": "144K Tweets"
+    "rank": 17,
+    "tweet_count": "151K Tweets"
   },
   {
-    "name": "Patuanelli",
-    "query": "Patuanelli",
+    "name": "Bonucci",
+    "query": "Bonucci",
+    "rank": 18,
+    "tweet_count": "1,658 Tweets"
+  },
+  {
+    "name": "Bonino",
+    "query": "Bonino",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Casini",
+    "query": "Casini",
     "rank": 20,
-    "tweet_count": "3,127 Tweets"
+    "tweet_count": null
   }
 ]
