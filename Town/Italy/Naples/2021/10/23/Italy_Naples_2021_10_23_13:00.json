@@ -1,104 +1,110 @@
 [
   {
+    "name": "#gfvip",
+    "query": "#gfvip",
+    "rank": 1,
+    "tweet_count": "80.3K Tweets"
+  },
+  {
     "name": "#taleequaleshow",
     "query": "#taleequaleshow",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": "21.5K Tweets"
   },
   {
     "name": "Soleil",
     "query": "Soleil",
-    "rank": 2,
-    "tweet_count": "32.4K Tweets"
+    "rank": 3,
+    "tweet_count": "32.7K Tweets"
   },
   {
     "name": "Raffaella",
     "query": "Raffaella",
-    "rank": 3,
-    "tweet_count": "6,464 Tweets"
+    "rank": 4,
+    "tweet_count": "6,481 Tweets"
   },
   {
     "name": "#SalernitanaEmpoli",
     "query": "#SalernitanaEmpoli",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "#OnceUponATime",
-    "query": "#OnceUponATime",
-    "rank": 5,
-    "tweet_count": "1,498 Tweets"
+    "name": "#tvtalk",
+    "query": "#tvtalk",
+    "rank": 6,
+    "tweet_count": null
   },
   {
     "name": "Colantuono",
     "query": "Colantuono",
-    "rank": 6,
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Richard Gere",
     "query": "\"Richard Gere\"",
-    "rank": 7,
-    "tweet_count": null
+    "rank": 8,
+    "tweet_count": "1,057 Tweets"
   },
   {
     "name": "Castori",
     "query": "Castori",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Bersani",
     "query": "Bersani",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Nicola Bartolini",
     "query": "\"Nicola Bartolini\"",
-    "rank": 10,
-    "tweet_count": "4,285 Tweets"
-  },
-  {
-    "name": "Patuanelli",
-    "query": "Patuanelli",
     "rank": 11,
-    "tweet_count": "2,775 Tweets"
-  },
-  {
-    "name": "Gentiloni",
-    "query": "Gentiloni",
-    "rank": 12,
-    "tweet_count": null
+    "tweet_count": "4,324 Tweets"
   },
   {
     "name": "Chiellini",
     "query": "Chiellini",
-    "rank": 13,
-    "tweet_count": "1,623 Tweets"
+    "rank": 12,
+    "tweet_count": "1,659 Tweets"
   },
   {
-    "name": "Vin Diesel",
-    "query": "\"Vin Diesel\"",
+    "name": "gentiloni",
+    "query": "gentiloni",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Patuanelli",
+    "query": "Patuanelli",
     "rank": 14,
-    "tweet_count": "113K Tweets"
+    "tweet_count": "2,816 Tweets"
   },
   {
     "name": "Bonucci",
     "query": "Bonucci",
     "rank": 15,
-    "tweet_count": "1,310 Tweets"
+    "tweet_count": "1,338 Tweets"
   },
   {
-    "name": "Iconize",
-    "query": "Iconize",
+    "name": "Vin Diesel",
+    "query": "\"Vin Diesel\"",
     "rank": 16,
-    "tweet_count": "2,099 Tweets"
+    "tweet_count": "115K Tweets"
   },
   {
     "name": "Correa",
     "query": "Correa",
     "rank": 17,
-    "tweet_count": "23.3K Tweets"
+    "tweet_count": "23.5K Tweets"
+  },
+  {
+    "name": "Iconize",
+    "query": "Iconize",
+    "rank": 18,
+    "tweet_count": "2,126 Tweets"
   }
 ]
