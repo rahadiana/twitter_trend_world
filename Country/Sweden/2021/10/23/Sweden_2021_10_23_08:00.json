@@ -3,19 +3,19 @@
     "name": "Einar",
     "query": "Einar",
     "rank": 1,
-    "tweet_count": "8,580 Tweets"
-  },
-  {
-    "name": "Yasin",
-    "query": "Yasin",
-    "rank": 2,
-    "tweet_count": "6,338 Tweets"
+    "tweet_count": "8,695 Tweets"
   },
   {
     "name": "Hammarby Sjöstad",
     "query": "\"Hammarby Sjöstad\"",
+    "rank": 2,
+    "tweet_count": "1,046 Tweets"
+  },
+  {
+    "name": "Yasin",
+    "query": "Yasin",
     "rank": 3,
-    "tweet_count": "1,037 Tweets"
+    "tweet_count": "6,427 Tweets"
   },
   {
     "name": "Godmorgon",
@@ -33,31 +33,31 @@
     "name": "Alec Baldwin",
     "query": "\"Alec Baldwin\"",
     "rank": 6,
-    "tweet_count": "412K Tweets"
-  },
-  {
-    "name": "Pascalidou",
-    "query": "Pascalidou",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
-    "name": "Trevlig",
-    "query": "Trevlig",
-    "rank": 8,
-    "tweet_count": null
+    "tweet_count": "414K Tweets"
   },
   {
     "name": "Somnade",
     "query": "Somnade",
-    "rank": 9,
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "Pascalidou",
+    "query": "Pascalidou",
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Slept",
     "query": "Slept",
+    "rank": 9,
+    "tweet_count": "24.1K Tweets"
+  },
+  {
+    "name": "Trevlig",
+    "query": "Trevlig",
     "rank": 10,
-    "tweet_count": "23.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "nyberg",
@@ -66,8 +66,8 @@
     "tweet_count": null
   },
   {
-    "name": "Järva",
-    "query": "Järva",
+    "name": "järva",
+    "query": "järva",
     "rank": 12,
     "tweet_count": null
   },
@@ -75,48 +75,48 @@
     "name": "#ARSAVL",
     "query": "#ARSAVL",
     "rank": 13,
-    "tweet_count": "61.6K Tweets"
+    "tweet_count": "62.1K Tweets"
+  },
+  {
+    "name": "Gotland",
+    "query": "Gotland",
+    "rank": 14,
+    "tweet_count": null
   },
   {
     "name": "Vårbynätverket",
     "query": "Vårbynätverket",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Dinamarca",
     "query": "Dinamarca",
-    "rank": 15,
-    "tweet_count": "2,780 Tweets"
+    "rank": 16,
+    "tweet_count": "2,795 Tweets"
+  },
+  {
+    "name": "Norrland",
+    "query": "Norrland",
+    "rank": 17,
+    "tweet_count": null
   },
   {
     "name": "#COYG",
     "query": "#COYG",
-    "rank": 16,
-    "tweet_count": "9,107 Tweets"
+    "rank": 18,
+    "tweet_count": "9,154 Tweets"
   },
   {
     "name": "skål",
     "query": "skål",
-    "rank": 17,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Nils",
     "query": "Nils",
-    "rank": 18,
-    "tweet_count": "1,863 Tweets"
-  },
-  {
-    "name": "Aston Villa",
-    "query": "\"Aston Villa\"",
-    "rank": 19,
-    "tweet_count": "36.3K Tweets"
-  },
-  {
-    "name": "Brandon Lee",
-    "query": "\"Brandon Lee\"",
     "rank": 20,
-    "tweet_count": "44K Tweets"
+    "tweet_count": "1,884 Tweets"
   }
 ]
