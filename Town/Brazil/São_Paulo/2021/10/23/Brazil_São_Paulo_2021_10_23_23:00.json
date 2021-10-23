@@ -1,39 +1,39 @@
 [
   {
-    "name": "João Guilherme",
-    "query": "\"João Guilherme\"",
+    "name": "camacho",
+    "query": "camacho",
     "rank": 1,
-    "tweet_count": "106K Tweets"
-  },
-  {
-    "name": "Camacho",
-    "query": "Camacho",
-    "rank": 2,
-    "tweet_count": "3,105 Tweets"
+    "tweet_count": "3,140 Tweets"
   },
   {
     "name": "Rueda",
     "query": "Rueda",
-    "rank": 3,
-    "tweet_count": "10.2K Tweets"
+    "rank": 2,
+    "tweet_count": "10.3K Tweets"
   },
   {
     "name": "Pelé",
     "query": "Pelé",
+    "rank": 3,
+    "tweet_count": "62K Tweets"
+  },
+  {
+    "name": "Arrascaeta",
+    "query": "Arrascaeta",
     "rank": 4,
-    "tweet_count": "61.6K Tweets"
+    "tweet_count": "7,391 Tweets"
   },
   {
     "name": "Ricciardo",
     "query": "Ricciardo",
     "rank": 5,
-    "tweet_count": "5,880 Tweets"
+    "tweet_count": "5,925 Tweets"
   },
   {
-    "name": "Arrascaeta",
-    "query": "Arrascaeta",
+    "name": "Boris",
+    "query": "Boris",
     "rank": 6,
-    "tweet_count": "7,063 Tweets"
+    "tweet_count": "61.2K Tweets"
   },
   {
     "name": "Marcelo Fernandes",
@@ -42,80 +42,80 @@
     "tweet_count": null
   },
   {
-    "name": "Lucas Braga",
-    "query": "\"Lucas Braga\"",
+    "name": "João Paulo",
+    "query": "\"João Paulo\"",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "3,018 Tweets"
   },
   {
     "name": "América",
     "query": "América",
     "rank": 9,
-    "tweet_count": "338K Tweets"
+    "tweet_count": "342K Tweets"
   },
   {
-    "name": "João Paulo",
-    "query": "\"João Paulo\"",
+    "name": "Marcos Guilherme",
+    "query": "\"Marcos Guilherme\"",
     "rank": 10,
-    "tweet_count": "3,005 Tweets"
+    "tweet_count": null
   },
   {
     "name": "vila",
     "query": "vila",
     "rank": 11,
-    "tweet_count": "10.2K Tweets"
+    "tweet_count": "10.3K Tweets"
   },
   {
-    "name": "Marcos Guilherme",
-    "query": "\"Marcos Guilherme\"",
+    "name": "ARIANATOR UNION",
+    "query": "\"ARIANATOR UNION\"",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "14.9K Tweets"
   },
   {
-    "name": "Checo",
-    "query": "Checo",
+    "name": "Lucas Braga",
+    "query": "\"Lucas Braga\"",
     "rank": 13,
-    "tweet_count": "18.4K Tweets"
-  },
-  {
-    "name": "Santos Futebol Clube",
-    "query": "\"Santos Futebol Clube\"",
-    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "#F1noBandSports",
     "query": "#F1noBandSports",
-    "rank": 15,
-    "tweet_count": "1,683 Tweets"
-  },
-  {
-    "name": "Ângelo",
-    "query": "Ângelo",
-    "rank": 16,
-    "tweet_count": "10.6K Tweets"
-  },
-  {
-    "name": "#USGP",
-    "query": "#USGP",
-    "rank": 17,
-    "tweet_count": "93.4K Tweets"
-  },
-  {
-    "name": "Verstappen",
-    "query": "Verstappen",
-    "rank": 18,
-    "tweet_count": "33.3K Tweets"
+    "rank": 14,
+    "tweet_count": "1,687 Tweets"
   },
   {
     "name": "Balieiro",
     "query": "Balieiro",
-    "rank": 19,
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Santos Futebol Clube",
+    "query": "\"Santos Futebol Clube\"",
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Felipe Jonathan",
     "query": "\"Felipe Jonathan\"",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Ângelo",
+    "query": "Ângelo",
+    "rank": 18,
+    "tweet_count": "10.7K Tweets"
+  },
+  {
+    "name": "zanocelo",
+    "query": "zanocelo",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Tardelli",
+    "query": "Tardelli",
     "rank": 20,
     "tweet_count": null
   }

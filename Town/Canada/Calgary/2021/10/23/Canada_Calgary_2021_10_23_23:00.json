@@ -1,39 +1,39 @@
 [
   {
+    "name": "Lindholm",
+    "query": "Lindholm",
+    "rank": 1,
+    "tweet_count": "1,197 Tweets"
+  },
+  {
     "name": "Johnny",
     "query": "Johnny",
-    "rank": 1,
-    "tweet_count": "153K Tweets"
+    "rank": 2,
+    "tweet_count": "154K Tweets"
   },
   {
     "name": "#Flames",
     "query": "#Flames",
-    "rank": 2,
-    "tweet_count": "1,464 Tweets"
+    "rank": 3,
+    "tweet_count": "1,472 Tweets"
+  },
+  {
+    "name": "Spezza",
+    "query": "Spezza",
+    "rank": 4,
+    "tweet_count": "2,202 Tweets"
   },
   {
     "name": "#UFCVegas41",
     "query": "#UFCVegas41",
-    "rank": 3,
-    "tweet_count": "31.9K Tweets"
-  },
-  {
-    "name": "Costa",
-    "query": "Costa",
-    "rank": 4,
-    "tweet_count": "68.6K Tweets"
-  },
-  {
-    "name": "Vettori",
-    "query": "Vettori",
     "rank": 5,
-    "tweet_count": "12.3K Tweets"
+    "tweet_count": "32.5K Tweets"
   },
   {
-    "name": "Boosie",
-    "query": "Boosie",
+    "name": "Chiarot",
+    "query": "Chiarot",
     "rank": 6,
-    "tweet_count": "59K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#ForTheW",
@@ -45,78 +45,78 @@
     "name": "Kreider",
     "query": "Kreider",
     "rank": 8,
-    "tweet_count": "1,690 Tweets"
-  },
-  {
-    "name": "Ben Chiarot",
-    "query": "\"Ben Chiarot\"",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "#UFCFightNight",
-    "query": "#UFCFightNight",
-    "rank": 10,
-    "tweet_count": "1,455 Tweets"
+    "tweet_count": "1,702 Tweets"
   },
   {
     "name": "#Ticats",
     "query": "#Ticats",
-    "rank": 11,
+    "rank": 9,
     "tweet_count": null
+  },
+  {
+    "name": "#USGP",
+    "query": "#USGP",
+    "rank": 10,
+    "tweet_count": "94.7K Tweets"
   },
   {
     "name": "Fedor",
     "query": "Fedor",
-    "rank": 12,
-    "tweet_count": "9,943 Tweets"
+    "rank": 11,
+    "tweet_count": "10.1K Tweets"
   },
   {
     "name": "Tubbo",
     "query": "Tubbo",
-    "rank": 13,
-    "tweet_count": "62.6K Tweets"
-  },
-  {
-    "name": "Murray",
-    "query": "Murray",
-    "rank": 14,
-    "tweet_count": "11.6K Tweets"
+    "rank": 12,
+    "tweet_count": "63.1K Tweets"
   },
   {
     "name": "HNIC",
     "query": "HNIC",
-    "rank": 15,
+    "rank": 13,
     "tweet_count": null
+  },
+  {
+    "name": "Sandin",
+    "query": "Sandin",
+    "rank": 14,
+    "tweet_count": "1,176 Tweets"
   },
   {
     "name": "Penn State",
     "query": "\"Penn State\"",
-    "rank": 16,
-    "tweet_count": "42.1K Tweets"
+    "rank": 15,
+    "tweet_count": "42.4K Tweets"
   },
   {
     "name": "Sapnap",
     "query": "Sapnap",
-    "rank": 17,
-    "tweet_count": "72.2K Tweets"
+    "rank": 16,
+    "tweet_count": "72.6K Tweets"
   },
   {
     "name": "Wilbur",
     "query": "Wilbur",
-    "rank": 18,
-    "tweet_count": "25.7K Tweets"
+    "rank": 17,
+    "tweet_count": "25.9K Tweets"
   },
   {
     "name": "Ranboo",
     "query": "Ranboo",
+    "rank": 18,
+    "tweet_count": "42K Tweets"
+  },
+  {
+    "name": "Luka",
+    "query": "Luka",
     "rank": 19,
-    "tweet_count": "41.8K Tweets"
+    "tweet_count": "19.7K Tweets"
   },
   {
     "name": "Atwood",
     "query": "Atwood",
     "rank": 20,
-    "tweet_count": "6,744 Tweets"
+    "tweet_count": "6,827 Tweets"
   }
 ]
