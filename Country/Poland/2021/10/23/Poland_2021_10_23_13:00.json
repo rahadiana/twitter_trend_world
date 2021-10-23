@@ -1,49 +1,49 @@
 [
   {
-    "name": "Le Pen",
-    "query": "\"Le Pen\"",
-    "rank": 1,
-    "tweet_count": "12.1K Tweets"
-  },
-  {
     "name": "#CHENOR",
     "query": "#CHENOR",
-    "rank": 2,
-    "tweet_count": "50K Tweets"
-  },
-  {
-    "name": "Putinem",
-    "query": "Putinem",
-    "rank": 3,
-    "tweet_count": "3,577 Tweets"
+    "rank": 1,
+    "tweet_count": "76.8K Tweets"
   },
   {
     "name": "#PlatformaWybiera",
     "query": "#PlatformaWybiera",
-    "rank": 4,
+    "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "Luksemburgu",
-    "query": "Luksemburgu",
-    "rank": 5,
-    "tweet_count": "4,685 Tweets"
+    "name": "#LGDGOR",
+    "query": "#LGDGOR",
+    "rank": 3,
+    "tweet_count": null
   },
   {
     "name": "#RCZBBT",
     "query": "#RCZBBT",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "Matczak",
+    "query": "Matczak",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "Michałowie",
+    "query": "Michałowie",
     "rank": 6,
     "tweet_count": null
   },
   {
-    "name": "#LPOWPŁ",
-    "query": "#LPOWPŁ",
+    "name": "#POLKOR",
+    "query": "#POLKOR",
     "rank": 7,
-    "tweet_count": "1,035 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#napleg",
-    "query": "#napleg",
+    "name": "Raków",
+    "query": "Raków",
     "rank": 8,
     "tweet_count": null
   },
@@ -51,72 +51,42 @@
     "name": "Jolanta Kwaśniewska",
     "query": "\"Jolanta Kwaśniewska\"",
     "rank": 9,
-    "tweet_count": "1,322 Tweets"
+    "tweet_count": "1,447 Tweets"
+  },
+  {
+    "name": "Donald",
+    "query": "Donald",
+    "rank": 10,
+    "tweet_count": "77K Tweets"
   },
   {
     "name": "Semeniuk",
     "query": "Semeniuk",
-    "rank": 10,
-    "tweet_count": "1,867 Tweets"
-  },
-  {
-    "name": "raków",
-    "query": "raków",
     "rank": 11,
-    "tweet_count": null
+    "tweet_count": "1,911 Tweets"
   },
   {
-    "name": "Michałowie",
-    "query": "Michałowie",
+    "name": "Donek",
+    "query": "Donek",
     "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "Solidarność",
-    "query": "Solidarność",
+    "name": "The Office",
+    "query": "\"The Office\"",
     "rank": 13,
-    "tweet_count": "4,181 Tweets"
+    "tweet_count": "128K Tweets"
   },
   {
-    "name": "Matczaka",
-    "query": "Matczaka",
+    "name": "Marsa",
+    "query": "Marsa",
     "rank": 14,
-    "tweet_count": null
+    "tweet_count": "1,239 Tweets"
   },
   {
-    "name": "Sikorski",
-    "query": "Sikorski",
+    "name": "Lempart",
+    "query": "Lempart",
     "rank": 15,
-    "tweet_count": "3,282 Tweets"
-  },
-  {
-    "name": "Kosmos",
-    "query": "Kosmos",
-    "rank": 16,
-    "tweet_count": "4,334 Tweets"
-  },
-  {
-    "name": "Kempa",
-    "query": "Kempa",
-    "rank": 17,
-    "tweet_count": "1,502 Tweets"
-  },
-  {
-    "name": "Havertza",
-    "query": "Havertza",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Anna Komorowska",
-    "query": "\"Anna Komorowska\"",
-    "rank": 19,
-    "tweet_count": "1,141 Tweets"
-  },
-  {
-    "name": "Żakowski",
-    "query": "Żakowski",
-    "rank": 20,
-    "tweet_count": null
+    "tweet_count": "1,466 Tweets"
   }
 ]
