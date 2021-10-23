@@ -1,39 +1,39 @@
 [
   {
-    "name": "#CHENOR",
-    "query": "#CHENOR",
+    "name": "Norwich",
+    "query": "Norwich",
     "rank": 1,
-    "tweet_count": "101K Tweets"
+    "tweet_count": "104K Tweets"
   },
   {
     "name": "Coppers",
     "query": "Coppers",
     "rank": 2,
-    "tweet_count": "2,331 Tweets"
+    "tweet_count": "2,348 Tweets"
   },
   {
     "name": "#lufc",
     "query": "#lufc",
     "rank": 3,
-    "tweet_count": "4,504 Tweets"
+    "tweet_count": "4,743 Tweets"
+  },
+  {
+    "name": "#CHENOR",
+    "query": "#CHENOR",
+    "rank": 4,
+    "tweet_count": "102K Tweets"
   },
   {
     "name": "#gaacongress",
     "query": "#gaacongress",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Alec Baldwin",
     "query": "\"Alec Baldwin\"",
-    "rank": 5,
-    "tweet_count": "325K Tweets"
-  },
-  {
-    "name": "omobamidele",
-    "query": "omobamidele",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "327K Tweets"
   },
   {
     "name": "Proposal B",
@@ -45,25 +45,25 @@
     "name": "Happy Halloween",
     "query": "\"Happy Halloween\"",
     "rank": 8,
-    "tweet_count": "36.3K Tweets"
+    "tweet_count": "36.7K Tweets"
   },
   {
-    "name": "Idah",
-    "query": "Idah",
+    "name": "Leeds",
+    "query": "Leeds",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "19.2K Tweets"
   },
   {
     "name": "British Isles",
     "query": "\"British Isles\"",
     "rank": 10,
-    "tweet_count": "1,162 Tweets"
+    "tweet_count": "1,174 Tweets"
   },
   {
     "name": "Mendy",
     "query": "Mendy",
     "rank": 11,
-    "tweet_count": "25.4K Tweets"
+    "tweet_count": "26.1K Tweets"
   },
   {
     "name": "Georgie Kelly",
@@ -72,16 +72,16 @@
     "tweet_count": null
   },
   {
-    "name": "Watford",
-    "query": "Watford",
-    "rank": 13,
-    "tweet_count": "9,986 Tweets"
-  },
-  {
     "name": "Rovers",
     "query": "Rovers",
+    "rank": 13,
+    "tweet_count": "4,007 Tweets"
+  },
+  {
+    "name": "Wolves",
+    "query": "Wolves",
     "rank": 14,
-    "tweet_count": "3,877 Tweets"
+    "tweet_count": "24.2K Tweets"
   },
   {
     "name": "darragh burns",
@@ -96,15 +96,15 @@
     "tweet_count": null
   },
   {
-    "name": "Dune",
-    "query": "Dune",
-    "rank": 17,
-    "tweet_count": "167K Tweets"
-  },
-  {
     "name": "Halyna Hutchins",
     "query": "\"Halyna Hutchins\"",
+    "rank": 17,
+    "tweet_count": "92.8K Tweets"
+  },
+  {
+    "name": "Idah",
+    "query": "Idah",
     "rank": 18,
-    "tweet_count": "92.4K Tweets"
+    "tweet_count": null
   }
 ]

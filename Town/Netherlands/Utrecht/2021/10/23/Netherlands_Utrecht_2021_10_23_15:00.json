@@ -3,23 +3,23 @@
     "name": "#CHENOR",
     "query": "#CHENOR",
     "rank": 1,
-    "tweet_count": "101K Tweets"
-  },
-  {
-    "name": "Oostenrijk",
-    "query": "Oostenrijk",
-    "rank": 2,
-    "tweet_count": null
+    "tweet_count": "102K Tweets"
   },
   {
     "name": "Erdogan",
     "query": "Erdogan",
-    "rank": 3,
-    "tweet_count": "74.3K Tweets"
+    "rank": 2,
+    "tweet_count": "75.7K Tweets"
   },
   {
-    "name": "#rodEMM",
-    "query": "#rodEMM",
+    "name": "Oostenrijk",
+    "query": "Oostenrijk",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "#rodemm",
+    "query": "#rodemm",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,13 +27,13 @@
     "name": "Hans Teeuwen",
     "query": "\"Hans Teeuwen\"",
     "rank": 5,
-    "tweet_count": "2,512 Tweets"
+    "tweet_count": "2,542 Tweets"
   },
   {
     "name": "Volt",
     "query": "Volt",
     "rank": 6,
-    "tweet_count": "4,754 Tweets"
+    "tweet_count": "4,800 Tweets"
   },
   {
     "name": "Huisarts in Staphorst",
@@ -42,33 +42,39 @@
     "tweet_count": null
   },
   {
-    "name": "noord-korea",
-    "query": "noord-korea",
+    "name": "Noord-Korea",
+    "query": "Noord-Korea",
     "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "Turkse",
+    "query": "Turkse",
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Kuipers",
     "query": "Kuipers",
-    "rank": 9,
-    "tweet_count": "1,765 Tweets"
-  },
-  {
-    "name": "Turkse",
-    "query": "Turkse",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "1,788 Tweets"
   },
   {
     "name": "Igbo",
     "query": "Igbo",
     "rank": 11,
-    "tweet_count": "11.1K Tweets"
+    "tweet_count": "11.2K Tweets"
   },
   {
     "name": "#AIRDROP",
     "query": "#AIRDROP",
     "rank": 12,
-    "tweet_count": "232K Tweets"
+    "tweet_count": "235K Tweets"
+  },
+  {
+    "name": "#lockdown",
+    "query": "#lockdown",
+    "rank": 13,
+    "tweet_count": "5,085 Tweets"
   }
 ]
