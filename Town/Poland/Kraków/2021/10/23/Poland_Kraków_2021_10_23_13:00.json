@@ -1,25 +1,25 @@
 [
   {
+    "name": "Norwich",
+    "query": "Norwich",
+    "rank": 1,
+    "tweet_count": "80.5K Tweets"
+  },
+  {
     "name": "#CHENOR",
     "query": "#CHENOR",
-    "rank": 1,
-    "tweet_count": "75.2K Tweets"
+    "rank": 2,
+    "tweet_count": "81.7K Tweets"
   },
   {
     "name": "#PlatformaWybiera",
     "query": "#PlatformaWybiera",
-    "rank": 2,
-    "tweet_count": null
+    "rank": 3,
+    "tweet_count": "1,000 Tweets"
   },
   {
     "name": "#LGDGOR",
     "query": "#LGDGOR",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "Michałowie",
-    "query": "Michałowie",
     "rank": 4,
     "tweet_count": null
   },
@@ -30,52 +30,52 @@
     "tweet_count": null
   },
   {
+    "name": "Michałowie",
+    "query": "Michałowie",
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
     "name": "Raków",
     "query": "Raków",
-    "rank": 6,
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Jolanta Kwaśniewska",
     "query": "\"Jolanta Kwaśniewska\"",
-    "rank": 7,
-    "tweet_count": "1,441 Tweets"
+    "rank": 8,
+    "tweet_count": "1,476 Tweets"
   },
   {
-    "name": "Donald",
-    "query": "Donald",
-    "rank": 8,
-    "tweet_count": "77K Tweets"
+    "name": "donald",
+    "query": "donald",
+    "rank": 9,
+    "tweet_count": "77.5K Tweets"
   },
   {
     "name": "Semeniuk",
     "query": "Semeniuk",
-    "rank": 9,
-    "tweet_count": "1,911 Tweets"
+    "rank": 10,
+    "tweet_count": "1,922 Tweets"
   },
   {
     "name": "Donek",
     "query": "Donek",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "The Office",
-    "query": "\"The Office\"",
     "rank": 11,
-    "tweet_count": "128K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Marsa",
     "query": "Marsa",
     "rank": 12,
-    "tweet_count": "1,236 Tweets"
+    "tweet_count": "1,242 Tweets"
   },
   {
     "name": "Lempart",
     "query": "Lempart",
     "rank": 13,
-    "tweet_count": "1,465 Tweets"
+    "tweet_count": "1,471 Tweets"
   },
   {
     "name": "#RCZBBT",
@@ -84,9 +84,15 @@
     "tweet_count": null
   },
   {
+    "name": "#ARKRES",
+    "query": "#ARKRES",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
     "name": "#POLKOR",
     "query": "#POLKOR",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": null
   }
 ]
