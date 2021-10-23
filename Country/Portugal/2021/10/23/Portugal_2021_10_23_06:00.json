@@ -1,21 +1,21 @@
 [
   {
-    "name": "Lakers",
-    "query": "Lakers",
-    "rank": 1,
-    "tweet_count": "126K Tweets"
-  },
-  {
     "name": "ivaucher",
     "query": "ivaucher",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "Alec Baldwin",
     "query": "\"Alec Baldwin\"",
+    "rank": 2,
+    "tweet_count": "431K Tweets"
+  },
+  {
+    "name": "Lakers",
+    "query": "Lakers",
     "rank": 3,
-    "tweet_count": "428K Tweets"
+    "tweet_count": "128K Tweets"
   },
   {
     "name": "Clara Ferreira Alves",
@@ -27,17 +27,17 @@
     "name": "Benfica",
     "query": "Benfica",
     "rank": 5,
-    "tweet_count": "5,623 Tweets"
+    "tweet_count": "5,654 Tweets"
   },
   {
     "name": "Curry",
     "query": "Curry",
     "rank": 6,
-    "tweet_count": "75.9K Tweets"
+    "tweet_count": "76.3K Tweets"
   },
   {
-    "name": "lana",
-    "query": "lana",
+    "name": "Lana",
+    "query": "Lana",
     "rank": 7,
     "tweet_count": "109K Tweets"
   },
@@ -45,78 +45,78 @@
     "name": "Aurora",
     "query": "Aurora",
     "rank": 8,
-    "tweet_count": "33.9K Tweets"
+    "tweet_count": "34.4K Tweets"
   },
   {
     "name": "Verstappen",
     "query": "Verstappen",
     "rank": 9,
-    "tweet_count": "20.4K Tweets"
+    "tweet_count": "20.5K Tweets"
   },
   {
     "name": "Dune",
     "query": "Dune",
     "rank": 10,
-    "tweet_count": "161K Tweets"
+    "tweet_count": "163K Tweets"
   },
   {
     "name": "Marítimo",
     "query": "Marítimo",
     "rank": 11,
-    "tweet_count": "3,069 Tweets"
+    "tweet_count": "3,075 Tweets"
   },
   {
     "name": "Bayern",
     "query": "Bayern",
     "rank": 12,
-    "tweet_count": "20.6K Tweets"
+    "tweet_count": "20.9K Tweets"
   },
   {
     "name": "Mourinho",
     "query": "Mourinho",
     "rank": 13,
-    "tweet_count": "15.7K Tweets"
+    "tweet_count": "15.8K Tweets"
   },
   {
     "name": "#GirlsPlanet999",
     "query": "#GirlsPlanet999",
     "rank": 14,
-    "tweet_count": "1.89M Tweets"
-  },
-  {
-    "name": "#nbanasporttv",
-    "query": "#nbanasporttv",
-    "rank": 15,
-    "tweet_count": null
+    "tweet_count": "1.9M Tweets"
   },
   {
     "name": "Neuer",
     "query": "Neuer",
-    "rank": 16,
-    "tweet_count": "5,869 Tweets"
+    "rank": 15,
+    "tweet_count": "5,937 Tweets"
   },
   {
     "name": "Bottas",
     "query": "Bottas",
-    "rank": 17,
-    "tweet_count": "8,660 Tweets"
+    "rank": 16,
+    "tweet_count": "8,718 Tweets"
   },
   {
     "name": "#F1ELEVEN",
     "query": "#F1ELEVEN",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Uncharted",
     "query": "Uncharted",
-    "rank": 19,
-    "tweet_count": "18.6K Tweets"
+    "rank": 18,
+    "tweet_count": "18.7K Tweets"
   },
   {
     "name": "Carlos Pereira",
     "query": "\"Carlos Pereira\"",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "Lewis",
+    "query": "Lewis",
+    "rank": 20,
+    "tweet_count": "49K Tweets"
   }
 ]
