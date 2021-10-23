@@ -1,19 +1,19 @@
 [
   {
-    "name": "Penn State",
-    "query": "\"Penn State\"",
+    "name": "James Franklin",
+    "query": "\"James Franklin\"",
     "rank": 1,
-    "tweet_count": "5,621 Tweets"
-  },
-  {
-    "name": "Beaver Stadium",
-    "query": "\"Beaver Stadium\"",
-    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Nittany Lions",
     "query": "\"Nittany Lions\"",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "Beaver Stadium",
+    "query": "\"Beaver Stadium\"",
     "rank": 3,
     "tweet_count": null
   },
@@ -21,102 +21,102 @@
     "name": "Clemson",
     "query": "Clemson",
     "rank": 4,
-    "tweet_count": "4,076 Tweets"
+    "tweet_count": "4,212 Tweets"
   },
   {
     "name": "Charlotte",
     "query": "Charlotte",
     "rank": 5,
-    "tweet_count": "34.4K Tweets"
+    "tweet_count": "34.9K Tweets"
   },
   {
     "name": "Baldwin",
     "query": "Baldwin",
     "rank": 6,
-    "tweet_count": "328K Tweets"
+    "tweet_count": "332K Tweets"
   },
   {
     "name": "Kansas",
     "query": "Kansas",
     "rank": 7,
-    "tweet_count": "28.4K Tweets"
+    "tweet_count": "31K Tweets"
+  },
+  {
+    "name": "Penn State",
+    "query": "\"Penn State\"",
+    "rank": 8,
+    "tweet_count": "6,684 Tweets"
   },
   {
     "name": "Michigan",
     "query": "Michigan",
-    "rank": 8,
-    "tweet_count": "27K Tweets"
+    "rank": 9,
+    "tweet_count": "28.1K Tweets"
   },
   {
     "name": "#UFCVegas41",
     "query": "#UFCVegas41",
-    "rank": 9,
-    "tweet_count": "8,999 Tweets"
-  },
-  {
-    "name": "#Caturday",
-    "query": "#Caturday",
     "rank": 10,
-    "tweet_count": "21.3K Tweets"
+    "tweet_count": "9,695 Tweets"
   },
   {
     "name": "Hominy",
     "query": "Hominy",
     "rank": 11,
-    "tweet_count": "1,814 Tweets"
+    "tweet_count": "2,006 Tweets"
   },
   {
-    "name": "Bill Walton",
-    "query": "\"Bill Walton\"",
+    "name": "#Caturday",
+    "query": "#Caturday",
     "rank": 12,
-    "tweet_count": "4,569 Tweets"
+    "tweet_count": "21.7K Tweets"
   },
   {
     "name": "giselle",
     "query": "giselle",
     "rank": 13,
-    "tweet_count": "69.5K Tweets"
+    "tweet_count": "70.7K Tweets"
   },
   {
-    "name": "Cincinnati",
-    "query": "Cincinnati",
+    "name": "Bill Walton",
+    "query": "\"Bill Walton\"",
     "rank": 14,
-    "tweet_count": "7,308 Tweets"
+    "tweet_count": "4,618 Tweets"
   },
   {
     "name": "Chris Wallace",
     "query": "\"Chris Wallace\"",
     "rank": 15,
-    "tweet_count": "22.7K Tweets"
+    "tweet_count": "23.6K Tweets"
   },
   {
     "name": "#DadsOnDuty",
     "query": "#DadsOnDuty",
     "rank": 16,
-    "tweet_count": "2,384 Tweets"
+    "tweet_count": "2,587 Tweets"
   },
   {
-    "name": "Scorpio",
-    "query": "Scorpio",
+    "name": "Cincinnati",
+    "query": "Cincinnati",
     "rank": 17,
-    "tweet_count": "113K Tweets"
+    "tweet_count": "7,470 Tweets"
   },
   {
     "name": "#TransJoy",
     "query": "#TransJoy",
     "rank": 18,
-    "tweet_count": "1,125 Tweets"
-  },
-  {
-    "name": "#ATEEZ_3rd_Anniversary",
-    "query": "#ATEEZ_3rd_Anniversary",
-    "rank": 19,
-    "tweet_count": "257K Tweets"
+    "tweet_count": "1,226 Tweets"
   },
   {
     "name": "Lawrence",
     "query": "Lawrence",
+    "rank": 19,
+    "tweet_count": "12.6K Tweets"
+  },
+  {
+    "name": "Scorpio",
+    "query": "Scorpio",
     "rank": 20,
-    "tweet_count": "12.3K Tweets"
+    "tweet_count": "115K Tweets"
   }
 ]

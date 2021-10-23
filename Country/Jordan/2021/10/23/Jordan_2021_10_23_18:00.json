@@ -1,19 +1,19 @@
 [
   {
-    "name": "#لا_لاغلاق_النقابه",
-    "query": "#لا_لاغلاق_النقابه",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#اغلاق_النقابه_غير_دستوري",
     "query": "#اغلاق_النقابه_غير_دستوري",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "#درع_الوطن",
     "query": "#درع_الوطن",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "#لا_لاغلاق_النقابه",
+    "query": "#لا_لاغلاق_النقابه",
     "rank": 3,
     "tweet_count": null
   },
@@ -27,7 +27,7 @@
     "name": "#جمعه_مباركه",
     "query": "#جمعه_مباركه",
     "rank": 5,
-    "tweet_count": "6,500 Tweets"
+    "tweet_count": "6,552 Tweets"
   },
   {
     "name": "راكان السعايده",
@@ -45,7 +45,7 @@
     "name": "علي النبي",
     "query": "\"علي النبي\"",
     "rank": 8,
-    "tweet_count": "37.8K Tweets"
+    "tweet_count": "38.5K Tweets"
   },
   {
     "name": "مبارك دكتور",
@@ -75,48 +75,48 @@
     "name": "روسيا",
     "query": "روسيا",
     "rank": 13,
-    "tweet_count": "5,009 Tweets"
+    "tweet_count": "5,107 Tweets"
+  },
+  {
+    "name": "برشلونة",
+    "query": "برشلونة",
+    "rank": 14,
+    "tweet_count": "10.4K Tweets"
   },
   {
     "name": "jungkook",
     "query": "jungkook",
-    "rank": 14,
-    "tweet_count": "429K Tweets"
+    "rank": 15,
+    "tweet_count": "432K Tweets"
   },
   {
     "name": "علي الجميع",
     "query": "\"علي الجميع\"",
-    "rank": 15,
-    "tweet_count": "12.6K Tweets"
+    "rank": 16,
+    "tweet_count": "12.9K Tweets"
+  },
+  {
+    "name": "تويتر",
+    "query": "تويتر",
+    "rank": 17,
+    "tweet_count": "76.8K Tweets"
   },
   {
     "name": "حسين",
     "query": "حسين",
-    "rank": 16,
-    "tweet_count": "78.1K Tweets"
+    "rank": 18,
+    "tweet_count": "79.6K Tweets"
   },
   {
     "name": "تركيا",
     "query": "تركيا",
-    "rank": 17,
-    "tweet_count": "17.5K Tweets"
+    "rank": 19,
+    "tweet_count": "18.2K Tweets"
   },
   {
     "name": "اليمن",
     "query": "اليمن",
-    "rank": 18,
-    "tweet_count": "39.3K Tweets"
-  },
-  {
-    "name": "Lana",
-    "query": "Lana",
-    "rank": 19,
-    "tweet_count": "79.7K Tweets"
-  },
-  {
-    "name": "Queen",
-    "query": "Queen",
     "rank": 20,
-    "tweet_count": "275K Tweets"
+    "tweet_count": "44.1K Tweets"
   }
 ]
