@@ -1,39 +1,39 @@
 [
   {
-    "name": "Lakers",
-    "query": "Lakers",
-    "rank": 1,
-    "tweet_count": "128K Tweets"
-  },
-  {
     "name": "#WakeNBake",
     "query": "#WakeNBake",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "#SilverSports",
     "query": "#SilverSports",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "Lakers",
+    "query": "Lakers",
+    "rank": 3,
+    "tweet_count": "130K Tweets"
   },
   {
     "name": "Wale",
     "query": "Wale",
     "rank": 4,
-    "tweet_count": "56.4K Tweets"
+    "tweet_count": "56.9K Tweets"
   },
   {
     "name": "Wale",
     "query": "Wale",
     "rank": 5,
-    "tweet_count": "56.4K Tweets"
+    "tweet_count": "56.9K Tweets"
   },
   {
     "name": "the igp",
     "query": "\"the igp\"",
     "rank": 6,
-    "tweet_count": "12.9K Tweets"
+    "tweet_count": "13K Tweets"
   },
   {
     "name": "#LiquoroseAfije",
@@ -45,19 +45,19 @@
     "name": "#ARSAVL",
     "query": "#ARSAVL",
     "rank": 8,
-    "tweet_count": "59.5K Tweets"
+    "tweet_count": "60.2K Tweets"
   },
   {
     "name": "Thomas Partey",
     "query": "\"Thomas Partey\"",
     "rank": 9,
-    "tweet_count": "14.9K Tweets"
+    "tweet_count": "15.1K Tweets"
   },
   {
     "name": "Messi is the GOAT",
     "query": "\"Messi is the GOAT\"",
     "rank": 10,
-    "tweet_count": "12.7K Tweets"
+    "tweet_count": "13.1K Tweets"
   },
   {
     "name": "#TECNOPL",
@@ -69,54 +69,54 @@
     "name": "ankaful",
     "query": "ankaful",
     "rank": 12,
-    "tweet_count": "2,595 Tweets"
+    "tweet_count": "2,606 Tweets"
   },
   {
     "name": "Westbrook",
     "query": "Westbrook",
     "rank": 13,
-    "tweet_count": "19.3K Tweets"
+    "tweet_count": "19.4K Tweets"
   },
   {
-    "name": "Aflao",
-    "query": "Aflao",
+    "name": "aflao",
+    "query": "aflao",
     "rank": 14,
-    "tweet_count": "2,899 Tweets"
+    "tweet_count": "2,915 Tweets"
   },
   {
-    "name": "Lebron",
-    "query": "Lebron",
+    "name": "Danny Green",
+    "query": "\"Danny Green\"",
     "rank": 15,
-    "tweet_count": "41.7K Tweets"
+    "tweet_count": "9,337 Tweets"
   },
   {
-    "name": "danny green",
-    "query": "\"danny green\"",
+    "name": "auba",
+    "query": "auba",
     "rank": 16,
-    "tweet_count": "9,323 Tweets"
-  },
-  {
-    "name": "space with pere",
-    "query": "\"space with pere\"",
-    "rank": 17,
-    "tweet_count": "6,124 Tweets"
-  },
-  {
-    "name": "Auba",
-    "query": "Auba",
-    "rank": 18,
-    "tweet_count": "15.5K Tweets"
+    "tweet_count": "15.6K Tweets"
   },
   {
     "name": "Lacazette",
     "query": "Lacazette",
-    "rank": 19,
-    "tweet_count": "15.3K Tweets"
+    "rank": 17,
+    "tweet_count": "15.4K Tweets"
+  },
+  {
+    "name": "Bron",
+    "query": "Bron",
+    "rank": 18,
+    "tweet_count": "15.7K Tweets"
   },
   {
     "name": "Leeds",
     "query": "Leeds",
+    "rank": 19,
+    "tweet_count": "13.8K Tweets"
+  },
+  {
+    "name": "Klay",
+    "query": "Klay",
     "rank": 20,
-    "tweet_count": "13.6K Tweets"
+    "tweet_count": "32.9K Tweets"
   }
 ]
