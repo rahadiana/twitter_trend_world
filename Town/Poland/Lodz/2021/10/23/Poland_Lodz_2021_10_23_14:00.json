@@ -1,27 +1,27 @@
 [
   {
-    "name": "Norwich",
-    "query": "Norwich",
+    "name": "#LGDGOR",
+    "query": "#LGDGOR",
     "rank": 1,
-    "tweet_count": "95.9K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "#에이티즈",
+    "query": "#에이티즈",
+    "rank": 2,
+    "tweet_count": "211K Tweets"
   },
   {
     "name": "#PlatformaWybiera",
     "query": "#PlatformaWybiera",
-    "rank": 2,
-    "tweet_count": "1,231 Tweets"
-  },
-  {
-    "name": "#LGDGOR",
-    "query": "#LGDGOR",
     "rank": 3,
-    "tweet_count": null
+    "tweet_count": "1,271 Tweets"
   },
   {
-    "name": "#CHENOR",
-    "query": "#CHENOR",
+    "name": "Norwich",
+    "query": "Norwich",
     "rank": 4,
-    "tweet_count": "95.9K Tweets"
+    "tweet_count": "98.2K Tweets"
   },
   {
     "name": "Michałowie",
@@ -33,7 +33,7 @@
     "name": "Komorowska",
     "query": "Komorowska",
     "rank": 6,
-    "tweet_count": "2,130 Tweets"
+    "tweet_count": "2,222 Tweets"
   },
   {
     "name": "Matczak",
@@ -45,7 +45,7 @@
     "name": "Jolanta Kwaśniewska",
     "query": "\"Jolanta Kwaśniewska\"",
     "rank": 8,
-    "tweet_count": "1,782 Tweets"
+    "tweet_count": "1,871 Tweets"
   },
   {
     "name": "Raków",
@@ -54,57 +54,45 @@
     "tweet_count": null
   },
   {
-    "name": "havertza",
-    "query": "havertza",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
     "name": "Franek",
     "query": "Franek",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Donald",
     "query": "Donald",
-    "rank": 12,
-    "tweet_count": "76.5K Tweets"
+    "rank": 11,
+    "tweet_count": null
   },
   {
     "name": "Semeniuk",
     "query": "Semeniuk",
+    "rank": 12,
+    "tweet_count": "2,045 Tweets"
+  },
+  {
+    "name": "#CHENOR",
+    "query": "#CHENOR",
     "rank": 13,
-    "tweet_count": "2,003 Tweets"
-  },
-  {
-    "name": "Marsa",
-    "query": "Marsa",
-    "rank": 14,
-    "tweet_count": "1,243 Tweets"
-  },
-  {
-    "name": "#에이티즈",
-    "query": "#에이티즈",
-    "rank": 15,
-    "tweet_count": "180K Tweets"
+    "tweet_count": "97.8K Tweets"
   },
   {
     "name": "#ARKRES",
     "query": "#ARKRES",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "#RCZBBT",
+    "query": "#RCZBBT",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "#polkor",
+    "query": "#polkor",
     "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "#rczbbt",
-    "query": "#rczbbt",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "#POLKOR",
-    "query": "#POLKOR",
-    "rank": 18,
     "tweet_count": null
   }
 ]
