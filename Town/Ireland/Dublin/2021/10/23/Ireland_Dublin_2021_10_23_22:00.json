@@ -1,19 +1,19 @@
 [
   {
-    "name": "#OSPvMUN",
-    "query": "#OSPvMUN",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#Strictly",
     "query": "#Strictly",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "16.3K Tweets"
   },
   {
     "name": "#CONvULS",
     "query": "#CONvULS",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "#OSPvMUN",
+    "query": "#OSPvMUN",
     "rank": 3,
     "tweet_count": null
   },
@@ -24,76 +24,76 @@
     "tweet_count": "119K Tweets"
   },
   {
-    "name": "#USGP",
-    "query": "#USGP",
-    "rank": 5,
-    "tweet_count": "86.6K Tweets"
-  },
-  {
     "name": "Ospreys",
     "query": "Ospreys",
-    "rank": 6,
-    "tweet_count": "1,292 Tweets"
+    "rank": 5,
+    "tweet_count": "1,308 Tweets"
   },
   {
-    "name": "#AskMeAnything",
-    "query": "#AskMeAnything",
-    "rank": 7,
-    "tweet_count": null
+    "name": "#USGP",
+    "query": "#USGP",
+    "rank": 6,
+    "tweet_count": "88.8K Tweets"
   },
   {
     "name": "Coppers",
     "query": "Coppers",
+    "rank": 7,
+    "tweet_count": "1,682 Tweets"
+  },
+  {
+    "name": "#AskMeAnything",
+    "query": "#AskMeAnything",
     "rank": 8,
-    "tweet_count": "1,671 Tweets"
-  },
-  {
-    "name": "Red C",
-    "query": "\"Red C\"",
-    "rank": 9,
-    "tweet_count": "3,885 Tweets"
-  },
-  {
-    "name": "Perez",
-    "query": "Perez",
-    "rank": 10,
-    "tweet_count": "51K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Fedor",
     "query": "Fedor",
+    "rank": 9,
+    "tweet_count": "9,402 Tweets"
+  },
+  {
+    "name": "Hollie Davidson",
+    "query": "\"Hollie Davidson\"",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "Red C",
+    "query": "\"Red C\"",
     "rank": 11,
-    "tweet_count": "9,279 Tweets"
-  },
-  {
-    "name": "hollie davidson",
-    "query": "\"hollie davidson\"",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Harps",
-    "query": "Harps",
-    "rank": 13,
-    "tweet_count": null
+    "tweet_count": "3,914 Tweets"
   },
   {
     "name": "British Isles",
     "query": "\"British Isles\"",
-    "rank": 14,
-    "tweet_count": "1,543 Tweets"
+    "rank": 12,
+    "tweet_count": "1,549 Tweets"
   },
   {
     "name": "Everton",
     "query": "Everton",
-    "rank": 15,
-    "tweet_count": "53.6K Tweets"
+    "rank": 13,
+    "tweet_count": "54.9K Tweets"
   },
   {
-    "name": "Rose",
-    "query": "Rose",
+    "name": "Ulster",
+    "query": "Ulster",
+    "rank": 14,
+    "tweet_count": "2,305 Tweets"
+  },
+  {
+    "name": "Suzanne",
+    "query": "Suzanne",
+    "rank": 15,
+    "tweet_count": "3,502 Tweets"
+  },
+  {
+    "name": "Happy Halloween",
+    "query": "\"Happy Halloween\"",
     "rank": 16,
-    "tweet_count": "239K Tweets"
+    "tweet_count": "36.1K Tweets"
   },
   {
     "name": "Connacht",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "Ulster",
-    "query": "Ulster",
+    "name": "Paul Scholes",
+    "query": "\"Paul Scholes\"",
     "rank": 18,
-    "tweet_count": "2,291 Tweets"
+    "tweet_count": "5,532 Tweets"
   },
   {
-    "name": "Suzanne",
-    "query": "Suzanne",
+    "name": "Georgie Kelly",
+    "query": "\"Georgie Kelly\"",
     "rank": 19,
-    "tweet_count": "3,463 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Happy Halloween",
-    "query": "\"Happy Halloween\"",
+    "name": "Dune",
+    "query": "Dune",
     "rank": 20,
-    "tweet_count": "35.8K Tweets"
+    "tweet_count": "181K Tweets"
   }
 ]
