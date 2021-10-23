@@ -1,7 +1,7 @@
 [
   {
-    "name": "Cimdara",
-    "query": "Cimdara",
+    "name": "cimdara",
+    "query": "cimdara",
     "rank": 1,
     "tweet_count": null
   },
@@ -9,23 +9,23 @@
     "name": "Apple",
     "query": "Apple",
     "rank": 2,
-    "tweet_count": "385K Tweets"
+    "tweet_count": "387K Tweets"
+  },
+  {
+    "name": "Tommy",
+    "query": "Tommy",
+    "rank": 3,
+    "tweet_count": "59.1K Tweets"
   },
   {
     "name": "Izklausās",
     "query": "Izklausās",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "gunārs astra",
     "query": "\"gunārs astra\"",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "Mobilly",
-    "query": "Mobilly",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,7 +33,7 @@
     "name": "Moderna",
     "query": "Moderna",
     "rank": 6,
-    "tweet_count": "87.8K Tweets"
+    "tweet_count": "88.1K Tweets"
   },
   {
     "name": "taisnība",
@@ -42,8 +42,8 @@
     "tweet_count": null
   },
   {
-    "name": "латвии",
-    "query": "латвии",
+    "name": "Mobilly",
+    "query": "Mobilly",
     "rank": 8,
     "tweet_count": null
   },
@@ -51,7 +51,7 @@
     "name": "Russia",
     "query": "Russia",
     "rank": 9,
-    "tweet_count": "68.8K Tweets"
+    "tweet_count": "69.2K Tweets"
   },
   {
     "name": "Valmieras",
@@ -66,56 +66,56 @@
     "tweet_count": null
   },
   {
-    "name": "gunāram astram",
-    "query": "\"gunāram astram\"",
+    "name": "Igaunijas",
+    "query": "Igaunijas",
     "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "Igaunijas",
-    "query": "Igaunijas",
+    "name": "gunāram astram",
+    "query": "\"gunāram astram\"",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "Riga",
-    "query": "Riga",
+    "name": "viņš",
+    "query": "viņš",
     "rank": 14,
-    "tweet_count": "3,047 Tweets"
+    "tweet_count": "1,582 Tweets"
   },
   {
     "name": "Pret",
     "query": "Pret",
     "rank": 15,
-    "tweet_count": "11.2K Tweets"
-  },
-  {
-    "name": "Viņš",
-    "query": "Viņš",
-    "rank": 16,
-    "tweet_count": "1,574 Tweets"
-  },
-  {
-    "name": "Pfizer",
-    "query": "Pfizer",
-    "rank": 17,
-    "tweet_count": "118K Tweets"
-  },
-  {
-    "name": "veselību",
-    "query": "veselību",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Tavs",
-    "query": "Tavs",
-    "rank": 19,
-    "tweet_count": null
+    "tweet_count": "11.3K Tweets"
   },
   {
     "name": "#mājsēde",
     "query": "#mājsēde",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "#ARIAsTaylorSwift",
+    "query": "#ARIAsTaylorSwift",
+    "rank": 17,
+    "tweet_count": "225K Tweets"
+  },
+  {
+    "name": "Pfizer",
+    "query": "Pfizer",
+    "rank": 18,
+    "tweet_count": "118K Tweets"
+  },
+  {
+    "name": "tavs",
+    "query": "tavs",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "veselību",
+    "query": "veselību",
     "rank": 20,
     "tweet_count": null
   }
