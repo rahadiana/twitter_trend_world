@@ -1,7 +1,7 @@
 [
   {
-    "name": "#dancingstars",
-    "query": "#dancingstars",
+    "name": "#DancingStars",
+    "query": "#DancingStars",
     "rank": 1,
     "tweet_count": null
   },
@@ -9,113 +9,113 @@
     "name": "Ungeimpfte",
     "query": "Ungeimpfte",
     "rank": 2,
-    "tweet_count": "12.9K Tweets"
+    "tweet_count": "13K Tweets"
   },
   {
     "name": "Impfung",
     "query": "Impfung",
     "rank": 3,
-    "tweet_count": "19.6K Tweets"
+    "tweet_count": "20K Tweets"
   },
   {
-    "name": "Weber",
-    "query": "Weber",
+    "name": "#maskedsinger",
+    "query": "#maskedsinger",
     "rank": 4,
-    "tweet_count": "5,664 Tweets"
+    "tweet_count": "3,620 Tweets"
   },
   {
     "name": "Impfpflicht",
     "query": "Impfpflicht",
     "rank": 5,
-    "tweet_count": "2,196 Tweets"
+    "tweet_count": "2,235 Tweets"
   },
   {
     "name": "#2GBoykott",
     "query": "#2GBoykott",
     "rank": 6,
-    "tweet_count": "13.9K Tweets"
+    "tweet_count": "14K Tweets"
   },
   {
-    "name": "#zib1",
-    "query": "#zib1",
+    "name": "Weber",
+    "query": "Weber",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "5,757 Tweets"
   },
   {
     "name": "Maßnahmen",
     "query": "Maßnahmen",
     "rank": 8,
-    "tweet_count": "6,135 Tweets"
+    "tweet_count": "6,228 Tweets"
+  },
+  {
+    "name": "#zib1",
+    "query": "#zib1",
+    "rank": 9,
+    "tweet_count": null
   },
   {
     "name": "#faklive",
     "query": "#faklive",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Kimmich",
     "query": "Kimmich",
-    "rank": 10,
-    "tweet_count": "17K Tweets"
-  },
-  {
-    "name": "#faksvr",
-    "query": "#faksvr",
     "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Intensivbetten",
-    "query": "Intensivbetten",
-    "rank": 12,
-    "tweet_count": "2,483 Tweets"
-  },
-  {
-    "name": "schönen samstag",
-    "query": "\"schönen samstag\"",
-    "rank": 13,
-    "tweet_count": "1,914 Tweets"
-  },
-  {
-    "name": "Merkel",
-    "query": "Merkel",
-    "rank": 14,
-    "tweet_count": "23.1K Tweets"
+    "tweet_count": "17.7K Tweets"
   },
   {
     "name": "Stufen",
     "query": "Stufen",
-    "rank": 15,
+    "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "Schallenberg",
-    "query": "Schallenberg",
-    "rank": 16,
-    "tweet_count": "3,965 Tweets"
+    "name": "Betten",
+    "query": "Betten",
+    "rank": 13,
+    "tweet_count": "1,287 Tweets"
   },
   {
-    "name": "Versorgung",
-    "query": "Versorgung",
-    "rank": 17,
-    "tweet_count": "1,504 Tweets"
+    "name": "Schönen Samstag",
+    "query": "\"Schönen Samstag\"",
+    "rank": 14,
+    "tweet_count": "1,922 Tweets"
   },
   {
     "name": "Ausweis",
     "query": "Ausweis",
-    "rank": 18,
+    "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "Impfen",
-    "query": "Impfen",
-    "rank": 19,
-    "tweet_count": "14K Tweets"
+    "name": "Merkel",
+    "query": "Merkel",
+    "rank": 16,
+    "tweet_count": "23.4K Tweets"
   },
   {
-    "name": "Suizid",
-    "query": "Suizid",
+    "name": "Schallenberg",
+    "query": "Schallenberg",
+    "rank": 17,
+    "tweet_count": "4,028 Tweets"
+  },
+  {
+    "name": "Versorgung",
+    "query": "Versorgung",
+    "rank": 18,
+    "tweet_count": "1,526 Tweets"
+  },
+  {
+    "name": "impfen",
+    "query": "impfen",
+    "rank": 19,
+    "tweet_count": "14.3K Tweets"
+  },
+  {
+    "name": "Klenk",
+    "query": "Klenk",
     "rank": 20,
     "tweet_count": null
   }
