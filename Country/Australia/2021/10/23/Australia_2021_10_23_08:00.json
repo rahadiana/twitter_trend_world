@@ -1,15 +1,15 @@
 [
   {
-    "name": "#CoxPlate",
-    "query": "#CoxPlate",
-    "rank": 1,
-    "tweet_count": "1,015 Tweets"
-  },
-  {
     "name": "#AUSvBRA",
     "query": "#AUSvBRA",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#CoxPlate",
+    "query": "#CoxPlate",
+    "rank": 2,
+    "tweet_count": "1,017 Tweets"
   },
   {
     "name": "Anamoe",
@@ -21,19 +21,19 @@
     "name": "State Of Rest",
     "query": "\"State Of Rest\"",
     "rank": 4,
-    "tweet_count": "2,416 Tweets"
+    "tweet_count": "2,445 Tweets"
   },
   {
-    "name": "Upheld",
-    "query": "Upheld",
+    "name": "#matildas",
+    "query": "#matildas",
     "rank": 5,
-    "tweet_count": "3,857 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#JPNvAUS",
     "query": "#JPNvAUS",
     "rank": 6,
-    "tweet_count": "7,835 Tweets"
+    "tweet_count": "7,867 Tweets"
   },
   {
     "name": "craig williams",
@@ -45,7 +45,7 @@
     "name": "Protest",
     "query": "Protest",
     "rank": 8,
-    "tweet_count": "154K Tweets"
+    "tweet_count": "156K Tweets"
   },
   {
     "name": "Icebath",
@@ -54,69 +54,69 @@
     "tweet_count": null
   },
   {
-    "name": "Lunar Flare",
-    "query": "\"Lunar Flare\"",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
     "name": "Wallabies",
     "query": "Wallabies",
-    "rank": 11,
-    "tweet_count": "2,814 Tweets"
+    "rank": 10,
+    "tweet_count": "2,848 Tweets"
   },
   {
     "name": "#JAPvAUS",
     "query": "#JAPvAUS",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
-  },
-  {
-    "name": "Lakers",
-    "query": "Lakers",
-    "rank": 13,
-    "tweet_count": "136K Tweets"
   },
   {
     "name": "Gideon Haigh",
     "query": "\"Gideon Haigh\"",
-    "rank": 14,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "St Kilda",
     "query": "\"St Kilda\"",
-    "rank": 15,
-    "tweet_count": "3,113 Tweets"
+    "rank": 13,
+    "tweet_count": "3,143 Tweets"
   },
   {
     "name": "Forgot You",
     "query": "\"Forgot You\"",
-    "rank": 16,
-    "tweet_count": "23.1K Tweets"
+    "rank": 14,
+    "tweet_count": "23.2K Tweets"
   },
   {
     "name": "Alan Jones",
     "query": "\"Alan Jones\"",
-    "rank": 17,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Randwick",
     "query": "Randwick",
-    "rank": 18,
+    "rank": 16,
     "tweet_count": null
+  },
+  {
+    "name": "lakers",
+    "query": "lakers",
+    "rank": 17,
+    "tweet_count": "136K Tweets"
   },
   {
     "name": "Verry Elleegant",
     "query": "\"Verry Elleegant\"",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "#DansLockoutFail",
-    "query": "#DansLockoutFail",
+    "name": "Lebron",
+    "query": "Lebron",
+    "rank": 19,
+    "tweet_count": "43.1K Tweets"
+  },
+  {
+    "name": "Baldwin",
+    "query": "Baldwin",
     "rank": 20,
-    "tweet_count": "2,110 Tweets"
+    "tweet_count": "470K Tweets"
   }
 ]
