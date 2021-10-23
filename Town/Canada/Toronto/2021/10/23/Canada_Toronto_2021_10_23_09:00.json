@@ -1,80 +1,122 @@
 [
   {
-    "name": "Lakers",
-    "query": "Lakers",
+    "name": "Alec Baldwin",
+    "query": "\"Alec Baldwin\"",
     "rank": 1,
-    "tweet_count": "136K Tweets"
-  },
-  {
-    "name": "#LetsGoOilers",
-    "query": "#LetsGoOilers",
-    "rank": 2,
-    "tweet_count": "3,635 Tweets"
+    "tweet_count": "406K Tweets"
   },
   {
     "name": "Scottie Barnes",
     "query": "\"Scottie Barnes\"",
-    "rank": 3,
-    "tweet_count": "9,210 Tweets"
+    "rank": 2,
+    "tweet_count": "9,241 Tweets"
   },
   {
     "name": "Dune",
     "query": "Dune",
+    "rank": 3,
+    "tweet_count": "167K Tweets"
+  },
+  {
+    "name": "Lakers",
+    "query": "Lakers",
     "rank": 4,
-    "tweet_count": "165K Tweets"
+    "tweet_count": "137K Tweets"
   },
   {
-    "name": "Astros",
-    "query": "Astros",
+    "name": "#freecodefridaycontest",
+    "query": "#freecodefridaycontest",
     "rank": 5,
-    "tweet_count": "179K Tweets"
+    "tweet_count": "6,131 Tweets"
   },
   {
-    "name": "Bouchard",
-    "query": "Bouchard",
+    "name": "Brandon Lee",
+    "query": "\"Brandon Lee\"",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "42.7K Tweets"
   },
   {
-    "name": "Celtics",
-    "query": "Celtics",
+    "name": "Hutch",
+    "query": "Hutch",
     "rank": 7,
-    "tweet_count": "32.8K Tweets"
+    "tweet_count": "1,997 Tweets"
+  },
+  {
+    "name": "Hyman",
+    "query": "Hyman",
+    "rank": 8,
+    "tweet_count": "2,935 Tweets"
+  },
+  {
+    "name": "#fridaymorning",
+    "query": "#fridaymorning",
+    "rank": 9,
+    "tweet_count": "18.7K Tweets"
   },
   {
     "name": "Marner",
     "query": "Marner",
-    "rank": 8,
-    "tweet_count": "3,356 Tweets"
-  },
-  {
-    "name": "Matthews",
-    "query": "Matthews",
-    "rank": 9,
-    "tweet_count": "5,303 Tweets"
-  },
-  {
-    "name": "Boston",
-    "query": "Boston",
     "rank": 10,
-    "tweet_count": "51.1K Tweets"
+    "tweet_count": "3,357 Tweets"
   },
   {
-    "name": "Koskinen",
-    "query": "Koskinen",
+    "name": "#mtspdday",
+    "query": "#mtspdday",
     "rank": 11,
-    "tweet_count": "1,039 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Kase",
+    "query": "Kase",
+    "rank": 12,
+    "tweet_count": "21.9K Tweets"
+  },
+  {
+    "name": "Red Sox",
+    "query": "\"Red Sox\"",
+    "rank": 13,
+    "tweet_count": "40K Tweets"
+  },
+  {
+    "name": "#ResignSeanChu",
+    "query": "#ResignSeanChu",
+    "rank": 14,
+    "tweet_count": "2,819 Tweets"
   },
   {
     "name": "#SmackDown",
     "query": "#SmackDown",
-    "rank": 12,
-    "tweet_count": "61.6K Tweets"
+    "rank": 15,
+    "tweet_count": "61.8K Tweets"
   },
   {
-    "name": "Dwight",
-    "query": "Dwight",
-    "rank": 13,
-    "tweet_count": "66.8K Tweets"
+    "name": "Eryn",
+    "query": "Eryn",
+    "rank": 16,
+    "tweet_count": "23.3K Tweets"
+  },
+  {
+    "name": "Newhart",
+    "query": "Newhart",
+    "rank": 17,
+    "tweet_count": "13.1K Tweets"
+  },
+  {
+    "name": "The Crow",
+    "query": "\"The Crow\"",
+    "rank": 18,
+    "tweet_count": "18K Tweets"
+  },
+  {
+    "name": "Matthews",
+    "query": "Matthews",
+    "rank": 19,
+    "tweet_count": "5,328 Tweets"
+  },
+  {
+    "name": "Peter Scolari",
+    "query": "\"Peter Scolari\"",
+    "rank": 20,
+    "tweet_count": "22.5K Tweets"
   }
 ]
