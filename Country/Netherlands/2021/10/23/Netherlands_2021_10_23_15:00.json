@@ -1,67 +1,67 @@
 [
   {
+    "name": "Norwich",
+    "query": "Norwich",
+    "rank": 1,
+    "tweet_count": "104K Tweets"
+  },
+  {
     "name": "#CHENOR",
     "query": "#CHENOR",
-    "rank": 1,
-    "tweet_count": "102K Tweets"
-  },
-  {
-    "name": "Erdogan",
-    "query": "Erdogan",
     "rank": 2,
-    "tweet_count": "75.8K Tweets"
-  },
-  {
-    "name": "#rodemm",
-    "query": "#rodemm",
-    "rank": 3,
-    "tweet_count": null
+    "tweet_count": "103K Tweets"
   },
   {
     "name": "Oostenrijk",
     "query": "Oostenrijk",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
-    "name": "Hans Teeuwen",
-    "query": "\"Hans Teeuwen\"",
+    "name": "Erdogan",
+    "query": "Erdogan",
+    "rank": 4,
+    "tweet_count": "77K Tweets"
+  },
+  {
+    "name": "#rodemm",
+    "query": "#rodemm",
     "rank": 5,
-    "tweet_count": "2,543 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Kovacic",
-    "query": "Kovacic",
+    "name": "Everton",
+    "query": "Everton",
     "rank": 6,
-    "tweet_count": "18.6K Tweets"
-  },
-  {
-    "name": "Volt",
-    "query": "Volt",
-    "rank": 7,
-    "tweet_count": "4,802 Tweets"
+    "tweet_count": "25.1K Tweets"
   },
   {
     "name": "#AIRDROP",
     "query": "#AIRDROP",
-    "rank": 8,
-    "tweet_count": "235K Tweets"
+    "rank": 7,
+    "tweet_count": "237K Tweets"
   },
   {
-    "name": "Lukaku",
-    "query": "Lukaku",
+    "name": "Hans Teeuwen",
+    "query": "\"Hans Teeuwen\"",
+    "rank": 8,
+    "tweet_count": "2,575 Tweets"
+  },
+  {
+    "name": "Volt",
+    "query": "Volt",
     "rank": 9,
-    "tweet_count": "23.2K Tweets"
+    "tweet_count": "4,834 Tweets"
+  },
+  {
+    "name": "Chilwell",
+    "query": "Chilwell",
+    "rank": 10,
+    "tweet_count": "20.1K Tweets"
   },
   {
     "name": "Huisarts in Staphorst",
     "query": "\"Huisarts in Staphorst\"",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Noord-Korea",
-    "query": "Noord-Korea",
     "rank": 11,
     "tweet_count": null
   },
@@ -72,21 +72,27 @@
     "tweet_count": null
   },
   {
+    "name": "Noord-Korea",
+    "query": "Noord-Korea",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
     "name": "Kuipers",
     "query": "Kuipers",
-    "rank": 13,
-    "tweet_count": "1,789 Tweets"
+    "rank": 14,
+    "tweet_count": "1,806 Tweets"
   },
   {
     "name": "#lockdown",
     "query": "#lockdown",
-    "rank": 14,
-    "tweet_count": "5,108 Tweets"
+    "rank": 15,
+    "tweet_count": "5,182 Tweets"
   },
   {
     "name": "Igbo",
     "query": "Igbo",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": "11.3K Tweets"
   }
 ]
