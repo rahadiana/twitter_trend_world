@@ -1,75 +1,75 @@
 [
   {
+    "name": "#ElClasico",
+    "query": "#ElClasico",
+    "rank": 1,
+    "tweet_count": "230K Tweets"
+  },
+  {
     "name": "Sampaoli",
     "query": "Sampaoli",
-    "rank": 1,
-    "tweet_count": "6,590 Tweets"
+    "rank": 2,
+    "tweet_count": "6,785 Tweets"
   },
   {
     "name": "Marsella",
     "query": "Marsella",
-    "rank": 2,
-    "tweet_count": "9,369 Tweets"
-  },
-  {
-    "name": "Liverpool",
-    "query": "Liverpool",
     "rank": 3,
-    "tweet_count": "676K Tweets"
+    "tweet_count": "9,537 Tweets"
   },
   {
     "name": "Pochettino",
     "query": "Pochettino",
     "rank": 4,
-    "tweet_count": "8,219 Tweets"
+    "tweet_count": "9,019 Tweets"
+  },
+  {
+    "name": "Liverpool",
+    "query": "Liverpool",
+    "rank": 5,
+    "tweet_count": "678K Tweets"
   },
   {
     "name": "#btsdivine",
     "query": "#btsdivine",
-    "rank": 5,
-    "tweet_count": "13.1K Tweets"
-  },
-  {
-    "name": "#btsdiscography",
-    "query": "#btsdiscography",
     "rank": 6,
-    "tweet_count": "12.9K Tweets"
+    "tweet_count": "17.5K Tweets"
   },
   {
     "name": "#btsdiamond",
     "query": "#btsdiamond",
     "rank": 7,
-    "tweet_count": "13.4K Tweets"
+    "tweet_count": "17.6K Tweets"
+  },
+  {
+    "name": "#btsdiscography",
+    "query": "#btsdiscography",
+    "rank": 8,
+    "tweet_count": "17.2K Tweets"
+  },
+  {
+    "name": "Neymar",
+    "query": "Neymar",
+    "rank": 9,
+    "tweet_count": "43.9K Tweets"
   },
   {
     "name": "#lapenademorfi",
     "query": "#lapenademorfi",
-    "rank": 8,
-    "tweet_count": "1,225 Tweets"
-  },
-  {
-    "name": "#DeCaminoAlShow",
-    "query": "#DeCaminoAlShow",
-    "rank": 9,
-    "tweet_count": "2,026 Tweets"
-  },
-  {
-    "name": "Alonso",
-    "query": "Alonso",
     "rank": 10,
-    "tweet_count": "31.1K Tweets"
+    "tweet_count": "1,227 Tweets"
   },
   {
     "name": "Alonso",
     "query": "Alonso",
     "rank": 11,
-    "tweet_count": "31.1K Tweets"
+    "tweet_count": "32.4K Tweets"
   },
   {
-    "name": "Manchester",
-    "query": "Manchester",
+    "name": "Payet",
+    "query": "Payet",
     "rank": 12,
-    "tweet_count": "353K Tweets"
+    "tweet_count": "12.2K Tweets"
   },
   {
     "name": "Pasquini",
@@ -78,10 +78,10 @@
     "tweet_count": null
   },
   {
-    "name": "Payet",
-    "query": "Payet",
+    "name": "Manchester",
+    "query": "Manchester",
     "rank": 14,
-    "tweet_count": "11.4K Tweets"
+    "tweet_count": "355K Tweets"
   },
   {
     "name": "Lertora",
@@ -90,8 +90,8 @@
     "tweet_count": null
   },
   {
-    "name": "Zuqui",
-    "query": "Zuqui",
+    "name": "Ayovi",
+    "query": "Ayovi",
     "rank": 16,
     "tweet_count": null
   },
@@ -102,21 +102,21 @@
     "tweet_count": "125K Tweets"
   },
   {
-    "name": "Barcelona",
-    "query": "Barcelona",
+    "name": "Zuqui",
+    "query": "Zuqui",
     "rank": 18,
-    "tweet_count": "191K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Cavani",
     "query": "Cavani",
     "rank": 19,
-    "tweet_count": "13.9K Tweets"
+    "tweet_count": "14K Tweets"
   },
   {
-    "name": "Meza",
-    "query": "Meza",
+    "name": "Hamilton",
+    "query": "Hamilton",
     "rank": 20,
-    "tweet_count": "3,516 Tweets"
+    "tweet_count": "71.8K Tweets"
   }
 ]
