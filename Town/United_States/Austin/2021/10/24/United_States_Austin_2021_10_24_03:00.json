@@ -1,39 +1,39 @@
 [
   {
+    "name": "Penn State",
+    "query": "\"Penn State\"",
+    "rank": 1,
+    "tweet_count": "45.4K Tweets"
+  },
+  {
     "name": "Kansas",
     "query": "Kansas",
-    "rank": 1,
-    "tweet_count": "43K Tweets"
+    "rank": 2,
+    "tweet_count": "43.1K Tweets"
   },
   {
     "name": "Carti",
     "query": "Carti",
-    "rank": 2,
-    "tweet_count": "7,872 Tweets"
+    "rank": 3,
+    "tweet_count": "8,152 Tweets"
   },
   {
     "name": "#BirdsUp",
     "query": "#BirdsUp",
-    "rank": 3,
-    "tweet_count": "2,567 Tweets"
+    "rank": 4,
+    "tweet_count": "2,652 Tweets"
   },
   {
     "name": "South Carolina",
     "query": "\"South Carolina\"",
-    "rank": 4,
-    "tweet_count": "6,650 Tweets"
+    "rank": 5,
+    "tweet_count": "6,710 Tweets"
   },
   {
     "name": "#GigEm",
     "query": "#GigEm",
-    "rank": 5,
-    "tweet_count": "2,126 Tweets"
-  },
-  {
-    "name": "Mavs",
-    "query": "Mavs",
     "rank": 6,
-    "tweet_count": "6,362 Tweets"
+    "tweet_count": "2,185 Tweets"
   },
   {
     "name": "Lonnie",
@@ -42,16 +42,16 @@
     "tweet_count": "1,364 Tweets"
   },
   {
-    "name": "Spiller",
-    "query": "Spiller",
+    "name": "Mavs",
+    "query": "Mavs",
     "rank": 8,
-    "tweet_count": "1,108 Tweets"
+    "tweet_count": "6,392 Tweets"
   },
   {
-    "name": "#PorVida",
-    "query": "#PorVida",
+    "name": "Spiller",
+    "query": "Spiller",
     "rank": 9,
-    "tweet_count": "1,494 Tweets"
+    "tweet_count": "1,114 Tweets"
   },
   {
     "name": "#210TriangleOfToughness",
@@ -60,63 +60,63 @@
     "tweet_count": null
   },
   {
+    "name": "#PorVida",
+    "query": "#PorVida",
+    "rank": 11,
+    "tweet_count": "1,510 Tweets"
+  },
+  {
     "name": "Luka",
     "query": "Luka",
-    "rank": 11,
-    "tweet_count": "22.7K Tweets"
-  },
-  {
-    "name": "Kyle Field",
-    "query": "\"Kyle Field\"",
     "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Bryn",
-    "query": "Bryn",
-    "rank": 13,
-    "tweet_count": "1,332 Tweets"
+    "tweet_count": "22.8K Tweets"
   },
   {
     "name": "Primo",
     "query": "Primo",
+    "rank": 13,
+    "tweet_count": "53.8K Tweets"
+  },
+  {
+    "name": "#MFFL",
+    "query": "#MFFL",
     "rank": 14,
-    "tweet_count": "53.5K Tweets"
+    "tweet_count": "2,835 Tweets"
   },
   {
     "name": "Forbes",
     "query": "Forbes",
     "rank": 15,
-    "tweet_count": "32.8K Tweets"
+    "tweet_count": "33K Tweets"
   },
   {
-    "name": "LA Tech",
-    "query": "\"LA Tech\"",
+    "name": "La Tech",
+    "query": "\"La Tech\"",
     "rank": 16,
-    "tweet_count": "5,253 Tweets"
-  },
-  {
-    "name": "#MonsterJam",
-    "query": "#MonsterJam",
-    "rank": 17,
-    "tweet_count": null
+    "tweet_count": "5,319 Tweets"
   },
   {
     "name": "Kidd",
     "query": "Kidd",
+    "rank": 17,
+    "tweet_count": "9,210 Tweets"
+  },
+  {
+    "name": "Porzingis",
+    "query": "Porzingis",
     "rank": 18,
-    "tweet_count": "9,161 Tweets"
+    "tweet_count": "1,616 Tweets"
   },
   {
     "name": "Iowa State",
     "query": "\"Iowa State\"",
     "rank": 19,
-    "tweet_count": "8,802 Tweets"
+    "tweet_count": "8,828 Tweets"
   },
   {
-    "name": "Penn State",
-    "query": "\"Penn State\"",
+    "name": "Raptors",
+    "query": "Raptors",
     "rank": 20,
-    "tweet_count": "45.3K Tweets"
+    "tweet_count": "16K Tweets"
   }
 ]
