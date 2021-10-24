@@ -1,74 +1,122 @@
 [
   {
+    "name": "#insiders",
+    "query": "#insiders",
+    "rank": 1,
+    "tweet_count": "25.8K Tweets"
+  },
+  {
     "name": "#TheBlock",
     "query": "#TheBlock",
-    "rank": 1,
-    "tweet_count": "1,554 Tweets"
+    "rank": 2,
+    "tweet_count": "1,559 Tweets"
   },
   {
     "name": "#PTD_ON_STAGE",
     "query": "#PTD_ON_STAGE",
-    "rank": 2,
-    "tweet_count": "1.43M Tweets"
+    "rank": 3,
+    "tweet_count": "1.54M Tweets"
   },
   {
     "name": "#MotoGP",
     "query": "#MotoGP",
-    "rank": 3,
-    "tweet_count": "31.4K Tweets"
+    "rank": 4,
+    "tweet_count": "41.7K Tweets"
   },
   {
     "name": "#Newspoll",
     "query": "#Newspoll",
-    "rank": 4,
-    "tweet_count": "1,220 Tweets"
+    "rank": 5,
+    "tweet_count": "1,273 Tweets"
   },
   {
-    "name": "#RHOMelbourne",
-    "query": "#RHOMelbourne",
-    "rank": 5,
+    "name": "Avi Yemini",
+    "query": "\"Avi Yemini\"",
+    "rank": 6,
+    "tweet_count": "6,899 Tweets"
+  },
+  {
+    "name": "Matt Kean",
+    "query": "\"Matt Kean\"",
+    "rank": 7,
+    "tweet_count": "2,922 Tweets"
+  },
+  {
+    "name": "Dune",
+    "query": "Dune",
+    "rank": 8,
+    "tweet_count": "199K Tweets"
+  },
+  {
+    "name": "Anamoe",
+    "query": "Anamoe",
+    "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Liverpool",
-    "query": "Liverpool",
-    "rank": 6,
-    "tweet_count": "138K Tweets"
+    "name": "State Of Rest",
+    "query": "\"State Of Rest\"",
+    "rank": 10,
+    "tweet_count": "2,830 Tweets"
+  },
+  {
+    "name": "Alec Baldwin",
+    "query": "\"Alec Baldwin\"",
+    "rank": 11,
+    "tweet_count": "117K Tweets"
+  },
+  {
+    "name": "Tina",
+    "query": "Tina",
+    "rank": 12,
+    "tweet_count": "82.6K Tweets"
   },
   {
     "name": "hobi",
     "query": "hobi",
-    "rank": 7,
-    "tweet_count": "180K Tweets"
+    "rank": 13,
+    "tweet_count": "185K Tweets"
   },
   {
-    "name": "hoseok",
-    "query": "hoseok",
-    "rank": 8,
-    "tweet_count": "303K Tweets"
+    "name": "Jewish Nazi",
+    "query": "\"Jewish Nazi\"",
+    "rank": 14,
+    "tweet_count": "1,236 Tweets"
   },
   {
-    "name": "Cabinet",
-    "query": "Cabinet",
-    "rank": 9,
-    "tweet_count": "18.6K Tweets"
+    "name": "Barrie",
+    "query": "Barrie",
+    "rank": 15,
+    "tweet_count": "1,830 Tweets"
   },
   {
-    "name": "The Nats",
-    "query": "\"The Nats\"",
-    "rank": 10,
-    "tweet_count": "11.2K Tweets"
+    "name": "Liverpool",
+    "query": "Liverpool",
+    "rank": 16,
+    "tweet_count": "144K Tweets"
   },
   {
-    "name": "#MasterChefAU",
-    "query": "#MasterChefAU",
-    "rank": 11,
+    "name": "Gideon Haigh",
+    "query": "\"Gideon Haigh\"",
+    "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "#SHIBARMY",
-    "query": "#SHIBARMY",
-    "rank": 12,
-    "tweet_count": "114K Tweets"
+    "name": "Niki Savva",
+    "query": "\"Niki Savva\"",
+    "rank": 18,
+    "tweet_count": "2,598 Tweets"
+  },
+  {
+    "name": "Norwich",
+    "query": "Norwich",
+    "rank": 19,
+    "tweet_count": "47.7K Tweets"
+  },
+  {
+    "name": "Invaded",
+    "query": "Invaded",
+    "rank": 20,
+    "tweet_count": "8,754 Tweets"
   }
 ]
