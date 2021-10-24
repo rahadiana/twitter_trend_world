@@ -1,116 +1,122 @@
 [
   {
+    "name": "Navy",
+    "query": "Navy",
+    "rank": 1,
+    "tweet_count": "34.7K Tweets"
+  },
+  {
     "name": "Ohio State",
     "query": "\"Ohio State\"",
-    "rank": 1,
-    "tweet_count": "17.6K Tweets"
+    "rank": 2,
+    "tweet_count": "17.7K Tweets"
   },
   {
     "name": "Oregon",
     "query": "Oregon",
-    "rank": 2,
-    "tweet_count": "28.7K Tweets"
+    "rank": 3,
+    "tweet_count": "28.8K Tweets"
   },
   {
     "name": "Braves",
     "query": "Braves",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": "296K Tweets"
   },
   {
     "name": "#PTD_ON_STAGE",
     "query": "#PTD_ON_STAGE",
-    "rank": 4,
-    "tweet_count": "541K Tweets"
+    "rank": 5,
+    "tweet_count": "550K Tweets"
   },
   {
     "name": "#GetBetterSoonTae",
     "query": "#GetBetterSoonTae",
-    "rank": 5,
-    "tweet_count": "202K Tweets"
+    "rank": 6,
+    "tweet_count": "207K Tweets"
   },
   {
     "name": "Shakur",
     "query": "Shakur",
-    "rank": 6,
-    "tweet_count": "16.1K Tweets"
+    "rank": 7,
+    "tweet_count": "16.2K Tweets"
   },
   {
-    "name": "#ATEEZSPACE",
-    "query": "#ATEEZSPACE",
-    "rank": 7,
-    "tweet_count": "32.9K Tweets"
+    "name": "#ateezspace",
+    "query": "#ateezspace",
+    "rank": 8,
+    "tweet_count": "33.1K Tweets"
   },
   {
     "name": "#SHIB",
     "query": "#SHIB",
-    "rank": 8,
-    "tweet_count": "125K Tweets"
+    "rank": 9,
+    "tweet_count": "126K Tweets"
   },
   {
-    "name": "luke jackson",
-    "query": "\"luke jackson\"",
-    "rank": 9,
-    "tweet_count": "5,529 Tweets"
+    "name": "#BatmanTheLongHalloween",
+    "query": "#BatmanTheLongHalloween",
+    "rank": 10,
+    "tweet_count": "3,876 Tweets"
+  },
+  {
+    "name": "Luke Jackson",
+    "query": "\"Luke Jackson\"",
+    "rank": 11,
+    "tweet_count": "5,530 Tweets"
   },
   {
     "name": "Matzek",
     "query": "Matzek",
-    "rank": 10,
+    "rank": 12,
     "tweet_count": "24K Tweets"
   },
   {
     "name": "Eddie Rosario",
     "query": "\"Eddie Rosario\"",
-    "rank": 11,
-    "tweet_count": "21.9K Tweets"
+    "rank": 13,
+    "tweet_count": "22K Tweets"
   },
   {
-    "name": "TINA",
-    "query": "TINA",
-    "rank": 12,
-    "tweet_count": "78.4K Tweets"
+    "name": "tina",
+    "query": "tina",
+    "rank": 14,
+    "tweet_count": "78.7K Tweets"
   },
   {
     "name": "Will Smith",
     "query": "\"Will Smith\"",
-    "rank": 13,
-    "tweet_count": "9,535 Tweets"
+    "rank": 15,
+    "tweet_count": "9,560 Tweets"
   },
   {
     "name": "Jason Sudeikis",
     "query": "\"Jason Sudeikis\"",
-    "rank": 14,
-    "tweet_count": "6,389 Tweets"
+    "rank": 16,
+    "tweet_count": "6,449 Tweets"
   },
   {
     "name": "Rosario",
     "query": "Rosario",
-    "rank": 15,
-    "tweet_count": "62.6K Tweets"
+    "rank": 17,
+    "tweet_count": "62.7K Tweets"
   },
   {
     "name": "Acuna",
     "query": "Acuna",
-    "rank": 16,
+    "rank": 18,
     "tweet_count": "12.3K Tweets"
-  },
-  {
-    "name": "Kershaw",
-    "query": "Kershaw",
-    "rank": 17,
-    "tweet_count": "4,940 Tweets"
   },
   {
     "name": "Soler",
     "query": "Soler",
-    "rank": 18,
-    "tweet_count": "5,433 Tweets"
+    "rank": 19,
+    "tweet_count": "5,477 Tweets"
   },
   {
     "name": "Mookie",
     "query": "Mookie",
-    "rank": 19,
-    "tweet_count": "6,584 Tweets"
+    "rank": 20,
+    "tweet_count": "6,603 Tweets"
   }
 ]
