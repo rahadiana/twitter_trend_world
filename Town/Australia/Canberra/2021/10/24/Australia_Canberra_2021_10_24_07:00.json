@@ -1,15 +1,15 @@
 [
   {
-    "name": "#PTD_ON_STAGE",
-    "query": "#PTD_ON_STAGE",
-    "rank": 1,
-    "tweet_count": "461K Tweets"
-  },
-  {
     "name": "#insiders",
     "query": "#insiders",
+    "rank": 1,
+    "tweet_count": "22.8K Tweets"
+  },
+  {
+    "name": "#PTD_ON_STAGE",
+    "query": "#PTD_ON_STAGE",
     "rank": 2,
-    "tweet_count": "22.4K Tweets"
+    "tweet_count": "486K Tweets"
   },
   {
     "name": "#AUSvSA",
@@ -18,34 +18,34 @@
     "tweet_count": "19.6K Tweets"
   },
   {
-    "name": "#GetBetterSoonTae",
-    "query": "#GetBetterSoonTae",
-    "rank": 4,
-    "tweet_count": "149K Tweets"
-  },
-  {
     "name": "#AUSvBRA",
     "query": "#AUSvBRA",
-    "rank": 5,
-    "tweet_count": "3,434 Tweets"
+    "rank": 4,
+    "tweet_count": "3,439 Tweets"
   },
   {
-    "name": "hobi",
-    "query": "hobi",
-    "rank": 6,
-    "tweet_count": "95.5K Tweets"
+    "name": "#GetBetterSoonTae",
+    "query": "#GetBetterSoonTae",
+    "rank": 5,
+    "tweet_count": "167K Tweets"
   },
   {
     "name": "Avi Yemini",
     "query": "\"Avi Yemini\"",
-    "rank": 7,
-    "tweet_count": "6,180 Tweets"
+    "rank": 6,
+    "tweet_count": "6,281 Tweets"
   },
   {
     "name": "Matt Kean",
     "query": "\"Matt Kean\"",
+    "rank": 7,
+    "tweet_count": "2,351 Tweets"
+  },
+  {
+    "name": "Cyrus Dehmie",
+    "query": "\"Cyrus Dehmie\"",
     "rank": 8,
-    "tweet_count": "2,315 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Anamoe",
@@ -57,37 +57,37 @@
     "name": "Dune",
     "query": "Dune",
     "rank": 10,
-    "tweet_count": "190K Tweets"
+    "tweet_count": "193K Tweets"
+  },
+  {
+    "name": "Nats",
+    "query": "Nats",
+    "rank": 11,
+    "tweet_count": "33.7K Tweets"
   },
   {
     "name": "Alec Baldwin",
     "query": "\"Alec Baldwin\"",
-    "rank": 11,
-    "tweet_count": "145K Tweets"
+    "rank": 12,
+    "tweet_count": "146K Tweets"
   },
   {
     "name": "State of Rest",
     "query": "\"State of Rest\"",
-    "rank": 12,
-    "tweet_count": "3,541 Tweets"
+    "rank": 13,
+    "tweet_count": "3,567 Tweets"
   },
   {
     "name": "tina",
     "query": "tina",
-    "rank": 13,
-    "tweet_count": "76.1K Tweets"
+    "rank": 14,
+    "tweet_count": "76.9K Tweets"
   },
   {
     "name": "Fowler",
     "query": "Fowler",
-    "rank": 14,
-    "tweet_count": "2,131 Tweets"
-  },
-  {
-    "name": "Braves",
-    "query": "Braves",
     "rank": 15,
-    "tweet_count": "291K Tweets"
+    "tweet_count": "2,082 Tweets"
   },
   {
     "name": "Gideon Haigh",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
+    "name": "Nationals",
+    "query": "Nationals",
+    "rank": 18,
+    "tweet_count": "12.6K Tweets"
+  },
+  {
     "name": "giselle",
     "query": "giselle",
-    "rank": 18,
-    "tweet_count": "83K Tweets"
+    "rank": 19,
+    "tweet_count": "83.6K Tweets"
   },
   {
     "name": "Niki Savva",
     "query": "\"Niki Savva\"",
-    "rank": 19,
-    "tweet_count": "2,012 Tweets"
-  },
-  {
-    "name": "Barrie",
-    "query": "Barrie",
     "rank": 20,
-    "tweet_count": "1,735 Tweets"
+    "tweet_count": "2,054 Tweets"
   }
 ]
