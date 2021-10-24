@@ -3,13 +3,13 @@
     "name": "#PTD_ON_STAGE",
     "query": "#PTD_ON_STAGE",
     "rank": 1,
-    "tweet_count": "837K Tweets"
+    "tweet_count": "911K Tweets"
   },
   {
-    "name": "#Woronicza17",
-    "query": "#Woronicza17",
+    "name": "#woronicza17",
+    "query": "#woronicza17",
     "rank": 2,
-    "tweet_count": "3,294 Tweets"
+    "tweet_count": "3,336 Tweets"
   },
   {
     "name": "#secretobsession",
@@ -21,13 +21,13 @@
     "name": "Tęsknię",
     "query": "Tęsknię",
     "rank": 4,
-    "tweet_count": "1,422 Tweets"
+    "tweet_count": "1,475 Tweets"
   },
   {
-    "name": "El Clasico",
-    "query": "\"El Clasico\"",
+    "name": "#trylogiasecret",
+    "query": "#trylogiasecret",
     "rank": 5,
-    "tweet_count": "47.3K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Legutko",
@@ -48,45 +48,51 @@
     "tweet_count": null
   },
   {
-    "name": "#MLBS4Spoilers",
-    "query": "#MLBS4Spoilers",
-    "rank": 9,
-    "tweet_count": "15.8K Tweets"
-  },
-  {
     "name": "Tina",
     "query": "Tina",
-    "rank": 10,
-    "tweet_count": "80.2K Tweets"
+    "rank": 9,
+    "tweet_count": "80.7K Tweets"
   },
   {
     "name": "Miłej",
     "query": "Miłej",
-    "rank": 11,
-    "tweet_count": "1,294 Tweets"
+    "rank": 10,
+    "tweet_count": "1,323 Tweets"
   },
   {
     "name": "Platformy Obywatelskiej",
     "query": "\"Platformy Obywatelskiej\"",
-    "rank": 12,
-    "tweet_count": "1,680 Tweets"
+    "rank": 11,
+    "tweet_count": "1,750 Tweets"
   },
   {
     "name": "Donald Tusk",
     "query": "\"Donald Tusk\"",
-    "rank": 13,
-    "tweet_count": "4,314 Tweets"
+    "rank": 12,
+    "tweet_count": "4,419 Tweets"
   },
   {
     "name": "Matczaka",
     "query": "Matczaka",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
+  },
+  {
+    "name": "#ElClasico",
+    "query": "#ElClasico",
+    "rank": 14,
+    "tweet_count": "58.7K Tweets"
+  },
+  {
+    "name": "#MLBS4Spoilers",
+    "query": "#MLBS4Spoilers",
+    "rank": 15,
+    "tweet_count": "16.2K Tweets"
   },
   {
     "name": "#ARIAsTaylorSwift",
     "query": "#ARIAsTaylorSwift",
-    "rank": 15,
-    "tweet_count": "370K Tweets"
+    "rank": 16,
+    "tweet_count": "378K Tweets"
   }
 ]
