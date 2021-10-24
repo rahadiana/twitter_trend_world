@@ -1,33 +1,33 @@
 [
   {
+    "name": "El Clásico",
+    "query": "\"El Clásico\"",
+    "rank": 1,
+    "tweet_count": "135K Tweets"
+  },
+  {
     "name": "#btsdivine",
     "query": "#btsdivine",
-    "rank": 1,
-    "tweet_count": "53.1K Tweets"
+    "rank": 2,
+    "tweet_count": "54K Tweets"
   },
   {
     "name": "#btsdiscography",
     "query": "#btsdiscography",
-    "rank": 2,
-    "tweet_count": "52.7K Tweets"
+    "rank": 3,
+    "tweet_count": "53.8K Tweets"
   },
   {
     "name": "#btsdiamond",
     "query": "#btsdiamond",
-    "rank": 3,
-    "tweet_count": "53.7K Tweets"
-  },
-  {
-    "name": "El Clásico",
-    "query": "\"El Clásico\"",
     "rank": 4,
-    "tweet_count": "134K Tweets"
+    "tweet_count": "54.8K Tweets"
   },
   {
     "name": "Liverpool",
     "query": "Liverpool",
     "rank": 5,
-    "tweet_count": "705K Tweets"
+    "tweet_count": "707K Tweets"
   },
   {
     "name": "#PTD_ON_STAGE",
@@ -45,37 +45,37 @@
     "name": "#USGP",
     "query": "#USGP",
     "rank": 8,
-    "tweet_count": "181K Tweets"
+    "tweet_count": "184K Tweets"
   },
   {
     "name": "Old Trafford",
     "query": "\"Old Trafford\"",
     "rank": 9,
-    "tweet_count": "213K Tweets"
+    "tweet_count": "214K Tweets"
   },
   {
     "name": "Jong",
     "query": "Jong",
     "rank": 10,
-    "tweet_count": "38.3K Tweets"
+    "tweet_count": "38.4K Tweets"
   },
   {
     "name": "Manu",
     "query": "Manu",
     "rank": 11,
-    "tweet_count": "94.3K Tweets"
+    "tweet_count": "52.5K Tweets"
   },
   {
     "name": "Checo",
     "query": "Checo",
     "rank": 12,
-    "tweet_count": "31.4K Tweets"
+    "tweet_count": "31.7K Tweets"
   },
   {
     "name": "Feliz Domingo",
     "query": "\"Feliz Domingo\"",
     "rank": 13,
-    "tweet_count": "45.2K Tweets"
+    "tweet_count": "45.5K Tweets"
   },
   {
     "name": "Ansu Fati",
@@ -87,19 +87,19 @@
     "name": "Otoniel",
     "query": "Otoniel",
     "rank": 15,
-    "tweet_count": "213K Tweets"
+    "tweet_count": "215K Tweets"
   },
   {
     "name": "Pogba",
     "query": "Pogba",
     "rank": 16,
-    "tweet_count": "171K Tweets"
+    "tweet_count": "172K Tweets"
   },
   {
     "name": "Juve",
     "query": "Juve",
     "rank": 17,
-    "tweet_count": "37.3K Tweets"
+    "tweet_count": "37.6K Tweets"
   },
   {
     "name": "ismael díaz",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "Durán",
-    "query": "Durán",
+    "name": "durán",
+    "query": "durán",
     "rank": 19,
-    "tweet_count": "16K Tweets"
+    "tweet_count": "16.1K Tweets"
   },
   {
     "name": "Ajax",
     "query": "Ajax",
     "rank": 20,
-    "tweet_count": "34.1K Tweets"
+    "tweet_count": "34.2K Tweets"
   }
 ]
