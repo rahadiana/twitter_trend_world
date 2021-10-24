@@ -1,7 +1,7 @@
 [
   {
-    "name": "Treinador",
-    "query": "Treinador",
+    "name": "treinador",
+    "query": "treinador",
     "rank": 1,
     "tweet_count": "16.5K Tweets"
   },
@@ -9,31 +9,31 @@
     "name": "Diego Ribas",
     "query": "\"Diego Ribas\"",
     "rank": 2,
-    "tweet_count": "2,580 Tweets"
-  },
-  {
-    "name": "Técnico",
-    "query": "Técnico",
-    "rank": 3,
-    "tweet_count": "50.5K Tweets"
+    "tweet_count": "2,587 Tweets"
   },
   {
     "name": "David Luiz",
     "query": "\"David Luiz\"",
+    "rank": 3,
+    "tweet_count": "3,789 Tweets"
+  },
+  {
+    "name": "Técnico",
+    "query": "Técnico",
     "rank": 4,
-    "tweet_count": "3,781 Tweets"
+    "tweet_count": "50.7K Tweets"
   },
   {
     "name": "João Gomes",
     "query": "\"João Gomes\"",
     "rank": 5,
-    "tweet_count": "5,516 Tweets"
+    "tweet_count": "5,539 Tweets"
   },
   {
     "name": "Gerson",
     "query": "Gerson",
     "rank": 6,
-    "tweet_count": "4,611 Tweets"
+    "tweet_count": "4,674 Tweets"
   },
   {
     "name": "Ceni",
@@ -45,7 +45,7 @@
     "name": "Brasileiro",
     "query": "Brasileiro",
     "rank": 8,
-    "tweet_count": "60.3K Tweets"
+    "tweet_count": "60.6K Tweets"
   },
   {
     "name": "Copa do Brasil",
@@ -54,69 +54,69 @@
     "tweet_count": "11.3K Tweets"
   },
   {
+    "name": "Lucca",
+    "query": "Lucca",
+    "rank": 10,
+    "tweet_count": "4,728 Tweets"
+  },
+  {
     "name": "André",
     "query": "André",
-    "rank": 10,
-    "tweet_count": "39.4K Tweets"
+    "rank": 11,
+    "tweet_count": "39.6K Tweets"
+  },
+  {
+    "name": "Diego Alves",
+    "query": "\"Diego Alves\"",
+    "rank": 12,
+    "tweet_count": "2,925 Tweets"
   },
   {
     "name": "Brasil e Libertadores",
     "query": "\"Brasil e Libertadores\"",
-    "rank": 11,
-    "tweet_count": "6,280 Tweets"
+    "rank": 13,
+    "tweet_count": "6,320 Tweets"
   },
   {
     "name": "Martinelli",
     "query": "Martinelli",
-    "rank": 12,
-    "tweet_count": "1,824 Tweets"
+    "rank": 14,
+    "tweet_count": "1,844 Tweets"
+  },
+  {
+    "name": "FLUMINENSE FOOTBALL CLUB",
+    "query": "\"FLUMINENSE FOOTBALL CLUB\"",
+    "rank": 15,
+    "tweet_count": "4,082 Tweets"
   },
   {
     "name": "Noga",
     "query": "Noga",
-    "rank": 13,
-    "tweet_count": "1,341 Tweets"
-  },
-  {
-    "name": "Fluminense Football Club",
-    "query": "\"Fluminense Football Club\"",
-    "rank": 14,
-    "tweet_count": "4,072 Tweets"
-  },
-  {
-    "name": "Renight",
-    "query": "Renight",
-    "rank": 15,
-    "tweet_count": "1,150 Tweets"
-  },
-  {
-    "name": "Gávea",
-    "query": "Gávea",
     "rank": 16,
-    "tweet_count": "1,968 Tweets"
+    "tweet_count": "1,342 Tweets"
   },
   {
     "name": "Landim",
     "query": "Landim",
     "rank": 17,
-    "tweet_count": "2,146 Tweets"
+    "tweet_count": "2,164 Tweets"
   },
   {
-    "name": "Flamengo",
-    "query": "Flamengo",
+    "name": "Gávea",
+    "query": "Gávea",
     "rank": 18,
-    "tweet_count": "279K Tweets"
+    "tweet_count": "1,974 Tweets"
+  },
+  {
+    "name": "Renight",
+    "query": "Renight",
+    "rank": 19,
+    "tweet_count": "1,159 Tweets"
   },
   {
     "name": "#Calamidade",
     "query": "#Calamidade",
-    "rank": 19,
-    "tweet_count": "140K Tweets"
-  },
-  {
-    "name": "Renato",
-    "query": "Renato",
     "rank": 20,
-    "tweet_count": "127K Tweets"
+    "tweet_count": "141K Tweets"
   }
 ]
