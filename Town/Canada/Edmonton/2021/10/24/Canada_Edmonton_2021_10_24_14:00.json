@@ -1,39 +1,39 @@
 [
   {
-    "name": "Leafs",
-    "query": "Leafs",
-    "rank": 1,
-    "tweet_count": "19K Tweets"
-  },
-  {
     "name": "#INDvPAK",
     "query": "#INDvPAK",
-    "rank": 2,
-    "tweet_count": "239K Tweets"
+    "rank": 1,
+    "tweet_count": "257K Tweets"
   },
   {
     "name": "Fauci",
     "query": "Fauci",
+    "rank": 2,
+    "tweet_count": "267K Tweets"
+  },
+  {
+    "name": "#ElClasico",
+    "query": "#ElClasico",
     "rank": 3,
-    "tweet_count": "262K Tweets"
+    "tweet_count": "114K Tweets"
   },
   {
     "name": "#SundayMorning",
     "query": "#SundayMorning",
     "rank": 4,
-    "tweet_count": "12.4K Tweets"
+    "tweet_count": "12.9K Tweets"
   },
   {
     "name": "#PTD_ON_STAGE",
     "query": "#PTD_ON_STAGE",
     "rank": 5,
-    "tweet_count": "1.68M Tweets"
+    "tweet_count": "1.71M Tweets"
   },
   {
-    "name": "#ElClasico",
-    "query": "#ElClasico",
+    "name": "#sundayvibes",
+    "query": "#sundayvibes",
     "rank": 6,
-    "tweet_count": "106K Tweets"
+    "tweet_count": "17K Tweets"
   },
   {
     "name": "Pauvre Edgar",
@@ -42,27 +42,33 @@
     "tweet_count": null
   },
   {
-    "name": "#AskFFT",
-    "query": "#AskFFT",
+    "name": "Chan",
+    "query": "Chan",
     "rank": 8,
-    "tweet_count": "2,464 Tweets"
+    "tweet_count": "311K Tweets"
   },
   {
-    "name": "#sundayvibes",
-    "query": "#sundayvibes",
+    "name": "Army",
+    "query": "Army",
     "rank": 9,
-    "tweet_count": "16.5K Tweets"
+    "tweet_count": "635K Tweets"
+  },
+  {
+    "name": "World Series",
+    "query": "\"World Series\"",
+    "rank": 10,
+    "tweet_count": "152K Tweets"
+  },
+  {
+    "name": "#AskFFT",
+    "query": "#AskFFT",
+    "rank": 11,
+    "tweet_count": "2,641 Tweets"
   },
   {
     "name": "#MUNLIV",
     "query": "#MUNLIV",
-    "rank": 10,
-    "tweet_count": "52.8K Tweets"
-  },
-  {
-    "name": "#SHIB",
-    "query": "#SHIB",
-    "rank": 11,
-    "tweet_count": "175K Tweets"
+    "rank": 12,
+    "tweet_count": "59.6K Tweets"
   }
 ]
