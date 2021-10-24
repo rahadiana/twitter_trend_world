@@ -3,25 +3,25 @@
     "name": "#ElClasico",
     "query": "#ElClasico",
     "rank": 1,
-    "tweet_count": "104K Tweets"
-  },
-  {
-    "name": "#PTD_ON_STAGE",
-    "query": "#PTD_ON_STAGE",
-    "rank": 2,
-    "tweet_count": "1.66M Tweets"
+    "tweet_count": "106K Tweets"
   },
   {
     "name": "#ZAGCRA",
     "query": "#ZAGCRA",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "#PTD_ON_STAGE",
+    "query": "#PTD_ON_STAGE",
+    "rank": 3,
+    "tweet_count": "1.68M Tweets"
   },
   {
     "name": "Tęsknię",
     "query": "Tęsknię",
     "rank": 4,
-    "tweet_count": "1,813 Tweets"
+    "tweet_count": "1,821 Tweets"
   },
   {
     "name": "Realu",
@@ -30,32 +30,32 @@
     "tweet_count": null
   },
   {
+    "name": "Barcelony",
+    "query": "Barcelony",
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
     "name": "Barca",
     "query": "Barca",
-    "rank": 6,
-    "tweet_count": "87.2K Tweets"
+    "rank": 7,
+    "tweet_count": "89.4K Tweets"
   },
   {
     "name": "JUNGKOOK",
     "query": "JUNGKOOK",
-    "rank": 7,
-    "tweet_count": "1.84M Tweets"
+    "rank": 8,
+    "tweet_count": "1.87M Tweets"
   },
   {
     "name": "Miłej",
     "query": "Miłej",
-    "rank": 8,
-    "tweet_count": "1,420 Tweets"
+    "rank": 9,
+    "tweet_count": "1,426 Tweets"
   },
   {
     "name": "#LaZabawa",
     "query": "#LaZabawa",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "#SecretObsession",
-    "query": "#SecretObsession",
     "rank": 10,
     "tweet_count": null
   },
@@ -63,36 +63,48 @@
     "name": "#CanYamanManiaTour",
     "query": "#CanYamanManiaTour",
     "rank": 11,
-    "tweet_count": "67.7K Tweets"
+    "tweet_count": "69.6K Tweets"
+  },
+  {
+    "name": "#SecretObsession",
+    "query": "#SecretObsession",
+    "rank": 12,
+    "tweet_count": null
   },
   {
     "name": "#MotoGP",
     "query": "#MotoGP",
-    "rank": 12,
-    "tweet_count": "49.1K Tweets"
+    "rank": 13,
+    "tweet_count": "50K Tweets"
   },
   {
     "name": "#trylogiasecret",
     "query": "#trylogiasecret",
-    "rank": 13,
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "#DerbyŁodzi",
+    "query": "#DerbyŁodzi",
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "#MLBS4Spoilers",
     "query": "#MLBS4Spoilers",
-    "rank": 14,
-    "tweet_count": "20.5K Tweets"
-  },
-  {
-    "name": "#derbyłodzi",
-    "query": "#derbyłodzi",
-    "rank": 15,
-    "tweet_count": null
+    "rank": 16,
+    "tweet_count": "20.8K Tweets"
   },
   {
     "name": "#GetBetterSoonTae",
     "query": "#GetBetterSoonTae",
-    "rank": 16,
-    "tweet_count": "284K Tweets"
+    "rank": 17,
+    "tweet_count": "285K Tweets"
+  },
+  {
+    "name": "#PlusLiga",
+    "query": "#PlusLiga",
+    "rank": 18,
+    "tweet_count": null
   }
 ]
