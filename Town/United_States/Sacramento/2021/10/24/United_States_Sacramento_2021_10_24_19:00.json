@@ -1,116 +1,122 @@
 [
   {
-    "name": "#earthquake",
-    "query": "#earthquake",
-    "rank": 1,
-    "tweet_count": "13.2K Tweets"
-  },
-  {
     "name": "#RamsHouse",
     "query": "#RamsHouse",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Dante Pettis",
+    "query": "\"Dante Pettis\"",
+    "rank": 2,
+    "tweet_count": "1,022 Tweets"
   },
   {
     "name": "#rain",
     "query": "#rain",
     "rank": 3,
-    "tweet_count": "1,818 Tweets"
+    "tweet_count": "1,877 Tweets"
   },
   {
-    "name": "#cawx",
-    "query": "#cawx",
+    "name": "#earthquake",
+    "query": "#earthquake",
     "rank": 4,
-    "tweet_count": "6,930 Tweets"
+    "tweet_count": "13.2K Tweets"
   },
   {
     "name": "Zidane",
     "query": "Zidane",
     "rank": 5,
-    "tweet_count": "26K Tweets"
+    "tweet_count": "26.6K Tweets"
+  },
+  {
+    "name": "#CAwx",
+    "query": "#CAwx",
+    "rank": 6,
+    "tweet_count": "7,106 Tweets"
   },
   {
     "name": "Barca",
     "query": "Barca",
-    "rank": 6,
-    "tweet_count": "179K Tweets"
+    "rank": 7,
+    "tweet_count": "180K Tweets"
   },
   {
-    "name": "#Hawkeye",
-    "query": "#Hawkeye",
-    "rank": 7,
-    "tweet_count": "9,376 Tweets"
+    "name": "#LIVMUN",
+    "query": "#LIVMUN",
+    "rank": 8,
+    "tweet_count": "8,786 Tweets"
+  },
+  {
+    "name": "Koeman",
+    "query": "Koeman",
+    "rank": 9,
+    "tweet_count": "86.3K Tweets"
   },
   {
     "name": "Cristiano",
     "query": "Cristiano",
-    "rank": 8,
-    "tweet_count": "124K Tweets"
-  },
-  {
-    "name": "Bateman",
-    "query": "Bateman",
-    "rank": 9,
-    "tweet_count": "4,959 Tweets"
-  },
-  {
-    "name": "Fauci",
-    "query": "Fauci",
     "rank": 10,
-    "tweet_count": "314K Tweets"
-  },
-  {
-    "name": "Dest",
-    "query": "Dest",
-    "rank": 11,
-    "tweet_count": "51.6K Tweets"
+    "tweet_count": "126K Tweets"
   },
   {
     "name": "Doge",
     "query": "Doge",
+    "rank": 11,
+    "tweet_count": "157K Tweets"
+  },
+  {
+    "name": "Lewis",
+    "query": "Lewis",
     "rank": 12,
-    "tweet_count": "154K Tweets"
+    "tweet_count": "64.3K Tweets"
+  },
+  {
+    "name": "Bateman",
+    "query": "Bateman",
+    "rank": 13,
+    "tweet_count": "4,989 Tweets"
+  },
+  {
+    "name": "Dest",
+    "query": "Dest",
+    "rank": 14,
+    "tweet_count": "51.7K Tweets"
+  },
+  {
+    "name": "Jared Goff",
+    "query": "\"Jared Goff\"",
+    "rank": 15,
+    "tweet_count": "1,472 Tweets"
   },
   {
     "name": "Big Sur",
     "query": "\"Big Sur\"",
-    "rank": 13,
-    "tweet_count": "3,820 Tweets"
+    "rank": 16,
+    "tweet_count": "3,851 Tweets"
+  },
+  {
+    "name": "Shaw",
+    "query": "Shaw",
+    "rank": 17,
+    "tweet_count": "39K Tweets"
+  },
+  {
+    "name": "Barcelona",
+    "query": "Barcelona",
+    "rank": 18,
+    "tweet_count": "188K Tweets"
   },
   {
     "name": "Northern California",
     "query": "\"Northern California\"",
-    "rank": 14,
-    "tweet_count": "2,272 Tweets"
+    "rank": 19,
+    "tweet_count": "2,318 Tweets"
   },
   {
     "name": "Mother Nature",
     "query": "\"Mother Nature\"",
-    "rank": 15,
-    "tweet_count": "2,863 Tweets"
-  },
-  {
-    "name": "Bauer",
-    "query": "Bauer",
-    "rank": 16,
-    "tweet_count": "6,105 Tweets"
-  },
-  {
-    "name": "Panthers",
-    "query": "Panthers",
-    "rank": 17,
-    "tweet_count": "26.1K Tweets"
-  },
-  {
-    "name": "Falcons",
-    "query": "Falcons",
-    "rank": 18,
-    "tweet_count": "11.4K Tweets"
-  },
-  {
-    "name": "Sam Darnold",
-    "query": "\"Sam Darnold\"",
-    "rank": 19,
-    "tweet_count": "4,338 Tweets"
+    "rank": 20,
+    "tweet_count": "2,910 Tweets"
   }
 ]
