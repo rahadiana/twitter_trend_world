@@ -1,80 +1,86 @@
 [
   {
+    "name": "Capwell",
+    "query": "Capwell",
+    "rank": 1,
+    "tweet_count": "3,332 Tweets"
+  },
+  {
     "name": "#btsdiamond",
     "query": "#btsdiamond",
-    "rank": 1,
-    "tweet_count": "57.6K Tweets"
+    "rank": 2,
+    "tweet_count": "60.2K Tweets"
   },
   {
     "name": "#btsdivine",
     "query": "#btsdivine",
-    "rank": 2,
-    "tweet_count": "56.7K Tweets"
+    "rank": 3,
+    "tweet_count": "59K Tweets"
   },
   {
     "name": "#btsdiscography",
     "query": "#btsdiscography",
-    "rank": 3,
-    "tweet_count": "56.3K Tweets"
-  },
-  {
-    "name": "Capwell",
-    "query": "Capwell",
     "rank": 4,
-    "tweet_count": "2,989 Tweets"
+    "tweet_count": "58.6K Tweets"
   },
   {
     "name": "#Emelec",
     "query": "#Emelec",
     "rank": 5,
-    "tweet_count": "1,308 Tweets"
-  },
-  {
-    "name": "Debió",
-    "query": "Debió",
-    "rank": 6,
-    "tweet_count": "8,761 Tweets"
+    "tweet_count": "1,448 Tweets"
   },
   {
     "name": "#ClasicodelAstillero",
     "query": "#ClasicodelAstillero",
+    "rank": 6,
+    "tweet_count": "2,454 Tweets"
+  },
+  {
+    "name": "Debió",
+    "query": "Debió",
     "rank": 7,
-    "tweet_count": "2,234 Tweets"
+    "tweet_count": "8,973 Tweets"
   },
   {
     "name": "Chimborazo",
     "query": "Chimborazo",
     "rank": 8,
-    "tweet_count": "3,647 Tweets"
+    "tweet_count": "3,779 Tweets"
   },
   {
     "name": "Arroz",
     "query": "Arroz",
     "rank": 9,
-    "tweet_count": "11.9K Tweets"
+    "tweet_count": "12.2K Tweets"
   },
   {
     "name": "Liverpool",
     "query": "Liverpool",
     "rank": 10,
-    "tweet_count": "710K Tweets"
+    "tweet_count": "714K Tweets"
   },
   {
     "name": "Uber",
     "query": "Uber",
     "rank": 11,
-    "tweet_count": "52.5K Tweets"
+    "tweet_count": "53.4K Tweets"
   },
   {
-    "name": "#olmedo",
-    "query": "#olmedo",
+    "name": "Koeman",
+    "query": "Koeman",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "107K Tweets"
   },
   {
-    "name": "#Barcelona",
-    "query": "#Barcelona",
+    "name": "Manchester",
+    "query": "Manchester",
     "rank": 13,
-    "tweet_count": "10.1K Tweets"
+    "tweet_count": "377K Tweets"
+  },
+  {
+    "name": "#BarcelonaSC",
+    "query": "#BarcelonaSC",
+    "rank": 14,
+    "tweet_count": null
   }
 ]
