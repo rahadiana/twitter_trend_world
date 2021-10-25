@@ -1,110 +1,116 @@
 [
   {
-    "name": "#4Corners",
-    "query": "#4Corners",
+    "name": "#4corners",
+    "query": "#4corners",
     "rank": 1,
-    "tweet_count": "2,520 Tweets"
+    "tweet_count": "2,525 Tweets"
   },
   {
     "name": "Leunig",
     "query": "Leunig",
     "rank": 2,
-    "tweet_count": "4,643 Tweets"
+    "tweet_count": "4,680 Tweets"
   },
   {
     "name": "#OneDaywithKIHYUN",
     "query": "#OneDaywithKIHYUN",
     "rank": 3,
-    "tweet_count": "63.7K Tweets"
+    "tweet_count": "65.3K Tweets"
   },
   {
     "name": "#HaloInfinite",
     "query": "#HaloInfinite",
     "rank": 4,
-    "tweet_count": "23K Tweets"
+    "tweet_count": "23.5K Tweets"
   },
   {
-    "name": "Keith Pitt",
-    "query": "\"Keith Pitt\"",
+    "name": "#MUNLIV",
+    "query": "#MUNLIV",
     "rank": 5,
-    "tweet_count": "5,551 Tweets"
+    "tweet_count": "381K Tweets"
+  },
+  {
+    "name": "keith pitt",
+    "query": "\"keith pitt\"",
+    "rank": 6,
+    "tweet_count": "5,562 Tweets"
   },
   {
     "name": "Cabinet",
     "query": "Cabinet",
-    "rank": 6,
-    "tweet_count": "28.3K Tweets"
+    "rank": 7,
+    "tweet_count": "28.6K Tweets"
   },
   {
     "name": "Dune",
     "query": "Dune",
-    "rank": 7,
-    "tweet_count": "210K Tweets"
+    "rank": 8,
+    "tweet_count": "212K Tweets"
   },
   {
     "name": "Matilda",
     "query": "Matilda",
-    "rank": 8,
-    "tweet_count": "3,563 Tweets"
+    "rank": 9,
+    "tweet_count": "3,609 Tweets"
+  },
+  {
+    "name": "Dr Lanzer",
+    "query": "\"Dr Lanzer\"",
+    "rank": 10,
+    "tweet_count": null
   },
   {
     "name": "Nats",
     "query": "Nats",
-    "rank": 9,
-    "tweet_count": "37K Tweets"
+    "rank": 11,
+    "tweet_count": "37.4K Tweets"
   },
   {
     "name": "Embiid",
     "query": "Embiid",
-    "rank": 10,
-    "tweet_count": "5,500 Tweets"
-  },
-  {
-    "name": "dr lanzer",
-    "query": "\"dr lanzer\"",
-    "rank": 11,
-    "tweet_count": null
+    "rank": 12,
+    "tweet_count": "5,542 Tweets"
   },
   {
     "name": "Giddey",
     "query": "Giddey",
-    "rank": 12,
-    "tweet_count": "4,923 Tweets"
+    "rank": 13,
+    "tweet_count": "4,952 Tweets"
   },
   {
     "name": "Gunther",
     "query": "Gunther",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": "107K Tweets"
   },
   {
     "name": "Birmingham",
     "query": "Birmingham",
-    "rank": 14,
-    "tweet_count": "12.3K Tweets"
+    "rank": 15,
+    "tweet_count": "12.4K Tweets"
   },
   {
     "name": "Old Trafford",
     "query": "\"Old Trafford\"",
-    "rank": 15,
-    "tweet_count": "245K Tweets"
+    "rank": 16,
+    "tweet_count": "246K Tweets"
   },
   {
     "name": "ms foster",
     "query": "\"ms foster\"",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Nationals",
-    "query": "Nationals",
     "rank": 17,
-    "tweet_count": "34.8K Tweets"
+    "tweet_count": null
   },
   {
     "name": "john barilaro",
     "query": "\"john barilaro\"",
     "rank": 18,
-    "tweet_count": "1,786 Tweets"
+    "tweet_count": "1,789 Tweets"
+  },
+  {
+    "name": "Ben Stokes",
+    "query": "\"Ben Stokes\"",
+    "rank": 19,
+    "tweet_count": "3,922 Tweets"
   }
 ]

@@ -1,9 +1,9 @@
 [
   {
-    "name": "#imzentrum",
-    "query": "#imzentrum",
+    "name": "#ImZentrum",
+    "query": "#ImZentrum",
     "rank": 1,
-    "tweet_count": "1,639 Tweets"
+    "tweet_count": "1,645 Tweets"
   },
   {
     "name": "#rbsstu",
@@ -18,22 +18,22 @@
     "tweet_count": null
   },
   {
+    "name": "Feiertag",
+    "query": "Feiertag",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
     "name": "#PTD_ON_STAGE",
     "query": "#PTD_ON_STAGE",
-    "rank": 4,
-    "tweet_count": "480K Tweets"
+    "rank": 5,
+    "tweet_count": "482K Tweets"
   },
   {
     "name": "#MUNLIV",
     "query": "#MUNLIV",
-    "rank": 5,
-    "tweet_count": "380K Tweets"
-  },
-  {
-    "name": "Feiertag",
-    "query": "Feiertag",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "381K Tweets"
   },
   {
     "name": "frau fürst",
@@ -42,40 +42,40 @@
     "tweet_count": null
   },
   {
-    "name": "fenstertag",
-    "query": "fenstertag",
+    "name": "Klimaticket",
+    "query": "Klimaticket",
     "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "Fenstertag",
+    "query": "Fenstertag",
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Akten",
     "query": "Akten",
-    "rank": 9,
-    "tweet_count": "1,336 Tweets"
+    "rank": 10,
+    "tweet_count": "1,353 Tweets"
   },
   {
     "name": "Weber",
     "query": "Weber",
-    "rank": 10,
-    "tweet_count": "5,219 Tweets"
+    "rank": 11,
+    "tweet_count": "5,291 Tweets"
   },
   {
     "name": "Impfung",
     "query": "Impfung",
-    "rank": 11,
-    "tweet_count": "33.8K Tweets"
-  },
-  {
-    "name": "Klimaticket",
-    "query": "Klimaticket",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "34.2K Tweets"
   },
   {
-    "name": "kern",
-    "query": "kern",
+    "name": "Kern",
+    "query": "Kern",
     "rank": 13,
-    "tweet_count": "2,390 Tweets"
+    "tweet_count": "2,439 Tweets"
   },
   {
     "name": "Baldachin",
@@ -87,7 +87,7 @@
     "name": "Termine",
     "query": "Termine",
     "rank": 15,
-    "tweet_count": "51.7K Tweets"
+    "tweet_count": "52.4K Tweets"
   },
   {
     "name": "Standpunkt",
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "Halbzeit",
-    "query": "Halbzeit",
+    "name": "Elon",
+    "query": "Elon",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "115K Tweets"
   }
 ]
