@@ -3,17 +3,17 @@
     "name": "#MUNLIV",
     "query": "#MUNLIV",
     "rank": 1,
-    "tweet_count": "100K Tweets"
+    "tweet_count": "101K Tweets"
   },
   {
     "name": "#Kimmich",
     "query": "#Kimmich",
     "rank": 2,
-    "tweet_count": "24.8K Tweets"
+    "tweet_count": "26.1K Tweets"
   },
   {
-    "name": "#elternzeit",
-    "query": "#elternzeit",
+    "name": "#Elternzeit",
+    "query": "#Elternzeit",
     "rank": 3,
     "tweet_count": null
   },
@@ -21,7 +21,7 @@
     "name": "#InterJuve",
     "query": "#InterJuve",
     "rank": 4,
-    "tweet_count": "19.3K Tweets"
+    "tweet_count": "19.4K Tweets"
   },
   {
     "name": "#BindingTreaty",
@@ -39,31 +39,31 @@
     "name": "Lewis",
     "query": "Lewis",
     "rank": 7,
-    "tweet_count": "93.9K Tweets"
+    "tweet_count": "95.1K Tweets"
   },
   {
-    "name": "Wochenstart",
-    "query": "Wochenstart",
+    "name": "Gegenvorschlag",
+    "query": "Gegenvorschlag",
     "rank": 8,
-    "tweet_count": "1,563 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "wochenstart",
+    "query": "wochenstart",
+    "rank": 9,
+    "tweet_count": "1,568 Tweets"
   },
   {
     "name": "Payet",
     "query": "Payet",
-    "rank": 9,
-    "tweet_count": "23.5K Tweets"
+    "rank": 10,
+    "tweet_count": "23.6K Tweets"
   },
   {
     "name": "Hakimi",
     "query": "Hakimi",
-    "rank": 10,
-    "tweet_count": "21K Tweets"
-  },
-  {
-    "name": "Elon",
-    "query": "Elon",
     "rank": 11,
-    "tweet_count": "110K Tweets"
+    "tweet_count": "21.1K Tweets"
   },
   {
     "name": "Weltwoche",
@@ -72,20 +72,20 @@
     "tweet_count": null
   },
   {
+    "name": "Elon",
+    "query": "Elon",
+    "rank": 13,
+    "tweet_count": "112K Tweets"
+  },
+  {
     "name": "Koeman",
     "query": "Koeman",
-    "rank": 13,
-    "tweet_count": "64.9K Tweets"
-  },
-  {
-    "name": "Programm",
-    "query": "Programm",
     "rank": 14,
-    "tweet_count": "2,086 Tweets"
+    "tweet_count": "66K Tweets"
   },
   {
-    "name": "Tausend",
-    "query": "Tausend",
+    "name": "tausend",
+    "query": "tausend",
     "rank": 15,
     "tweet_count": null
   },
@@ -93,30 +93,30 @@
     "name": "Dybala",
     "query": "Dybala",
     "rank": 16,
-    "tweet_count": "14.4K Tweets"
+    "tweet_count": "14.5K Tweets"
   },
   {
     "name": "Firmen",
     "query": "Firmen",
     "rank": 17,
-    "tweet_count": "1,815 Tweets"
+    "tweet_count": "1,845 Tweets"
   },
   {
     "name": "Dumfries",
     "query": "Dumfries",
     "rank": 18,
-    "tweet_count": "12.7K Tweets"
+    "tweet_count": "12.8K Tweets"
   },
   {
-    "name": "Verstappen",
-    "query": "Verstappen",
+    "name": "Saliba",
+    "query": "Saliba",
     "rank": 19,
-    "tweet_count": "87.3K Tweets"
+    "tweet_count": "44.8K Tweets"
   },
   {
-    "name": "Covidioten",
-    "query": "Covidioten",
+    "name": "Old Trafford",
+    "query": "\"Old Trafford\"",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "106K Tweets"
   }
 ]
