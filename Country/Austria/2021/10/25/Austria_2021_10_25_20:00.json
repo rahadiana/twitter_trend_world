@@ -3,11 +3,11 @@
     "name": "#imzentrum",
     "query": "#imzentrum",
     "rank": 1,
-    "tweet_count": "1,305 Tweets"
+    "tweet_count": "1,308 Tweets"
   },
   {
-    "name": "feiertag",
-    "query": "feiertag",
+    "name": "Feiertag",
+    "query": "Feiertag",
     "rank": 2,
     "tweet_count": null
   },
@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "#dhdl",
-    "query": "#dhdl",
-    "rank": 5,
-    "tweet_count": "3,737 Tweets"
-  },
-  {
     "name": "#zib1",
     "query": "#zib1",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "#dhdl",
+    "query": "#dhdl",
+    "rank": 6,
+    "tweet_count": "3,972 Tweets"
   },
   {
     "name": "fenstertag",
@@ -42,40 +42,40 @@
     "tweet_count": null
   },
   {
-    "name": "fürst",
-    "query": "fürst",
+    "name": "Akten",
+    "query": "Akten",
     "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "Fürst",
+    "query": "Fürst",
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Weber",
     "query": "Weber",
-    "rank": 9,
-    "tweet_count": "5,521 Tweets"
-  },
-  {
-    "name": "Akten",
-    "query": "Akten",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "5,557 Tweets"
   },
   {
     "name": "Impfung",
     "query": "Impfung",
     "rank": 11,
-    "tweet_count": "35.5K Tweets"
+    "tweet_count": "35.8K Tweets"
   },
   {
     "name": "Kickl",
     "query": "Kickl",
     "rank": 12,
-    "tweet_count": "1,363 Tweets"
+    "tweet_count": "1,377 Tweets"
   },
   {
     "name": "Kern",
     "query": "Kern",
     "rank": 13,
-    "tweet_count": "2,066 Tweets"
+    "tweet_count": "2,091 Tweets"
   },
   {
     "name": "baldachin",
@@ -87,36 +87,36 @@
     "name": "Portugal",
     "query": "Portugal",
     "rank": 15,
-    "tweet_count": "26.4K Tweets"
+    "tweet_count": "26.6K Tweets"
   },
   {
     "name": "Jugendwort des Jahres",
     "query": "\"Jugendwort des Jahres\"",
     "rank": 16,
-    "tweet_count": "4,172 Tweets"
+    "tweet_count": "4,183 Tweets"
   },
   {
-    "name": "standpunkt",
-    "query": "standpunkt",
+    "name": "Standpunkt",
+    "query": "Standpunkt",
     "rank": 17,
     "tweet_count": null
   },
   {
+    "name": "Liverpool",
+    "query": "Liverpool",
+    "rank": 18,
+    "tweet_count": "243K Tweets"
+  },
+  {
     "name": "Ausgabe",
     "query": "Ausgabe",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Klimakrise",
     "query": "Klimakrise",
-    "rank": 19,
-    "tweet_count": "1,572 Tweets"
-  },
-  {
-    "name": "Totimpfstoff",
-    "query": "Totimpfstoff",
     "rank": 20,
-    "tweet_count": "1,053 Tweets"
+    "tweet_count": "1,581 Tweets"
   }
 ]
