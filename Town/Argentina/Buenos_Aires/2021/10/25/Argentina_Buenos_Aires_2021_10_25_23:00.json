@@ -1,87 +1,87 @@
 [
   {
-    "name": "#VamosRiver",
-    "query": "#VamosRiver",
-    "rank": 1,
-    "tweet_count": "1,781 Tweets"
-  },
-  {
     "name": "Wanda y Mauro",
     "query": "\"Wanda y Mauro\"",
-    "rank": 2,
-    "tweet_count": "2,253 Tweets"
+    "rank": 1,
+    "tweet_count": "2,303 Tweets"
   },
   {
     "name": "Paraguay",
     "query": "Paraguay",
-    "rank": 3,
-    "tweet_count": "9,870 Tweets"
+    "rank": 2,
+    "tweet_count": "9,949 Tweets"
   },
   {
     "name": "Harry Potter",
     "query": "\"Harry Potter\"",
+    "rank": 3,
+    "tweet_count": "28.6K Tweets"
+  },
+  {
+    "name": "Copa Argentina",
+    "query": "\"Copa Argentina\"",
     "rank": 4,
-    "tweet_count": "28.3K Tweets"
+    "tweet_count": "2,555 Tweets"
+  },
+  {
+    "name": "River",
+    "query": "River",
+    "rank": 5,
+    "tweet_count": "141K Tweets"
   },
   {
     "name": "Palavecino",
     "query": "Palavecino",
-    "rank": 5,
-    "tweet_count": "4,171 Tweets"
+    "rank": 6,
+    "tweet_count": "4,348 Tweets"
+  },
+  {
+    "name": "Carrascal",
+    "query": "Carrascal",
+    "rank": 7,
+    "tweet_count": "1,954 Tweets"
   },
   {
     "name": "Romero",
     "query": "Romero",
-    "rank": 6,
-    "tweet_count": "15.9K Tweets"
+    "rank": 8,
+    "tweet_count": "16.2K Tweets"
   },
   {
     "name": "Zuculini",
     "query": "Zuculini",
-    "rank": 7,
-    "tweet_count": "3,873 Tweets"
+    "rank": 9,
+    "tweet_count": "4,020 Tweets"
   },
   {
     "name": "Talleres",
     "query": "Talleres",
-    "rank": 8,
-    "tweet_count": "14.2K Tweets"
-  },
-  {
-    "name": "River Plate",
-    "query": "\"River Plate\"",
-    "rank": 9,
-    "tweet_count": "3,242 Tweets"
+    "rank": 10,
+    "tweet_count": "14.4K Tweets"
   },
   {
     "name": "Berni",
     "query": "Berni",
-    "rank": 10,
-    "tweet_count": "5,388 Tweets"
+    "rank": 11,
+    "tweet_count": "5,585 Tweets"
   },
   {
     "name": "Enzo Fernández",
     "query": "\"Enzo Fernández\"",
-    "rank": 11,
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "#AlivioFiscal",
+    "query": "#AlivioFiscal",
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "#DanInmortal",
     "query": "#DanInmortal",
-    "rank": 12,
-    "tweet_count": "3,552 Tweets"
-  },
-  {
-    "name": "Carrascal",
-    "query": "Carrascal",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "ESTE ES EL FAMOSO RIVER",
-    "query": "\"ESTE ES EL FAMOSO RIVER\"",
     "rank": 14,
-    "tweet_count": null
+    "tweet_count": "3,572 Tweets"
   },
   {
     "name": "Pepe Sand",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
-    "name": "River de Gallardo",
-    "query": "\"River de Gallardo\"",
+    "name": "#ElRelatoDelPoder",
+    "query": "#ElRelatoDelPoder",
     "rank": 16,
-    "tweet_count": "2,347 Tweets"
-  },
-  {
-    "name": "#MileiMarra",
-    "query": "#MileiMarra",
-    "rank": 17,
-    "tweet_count": "1,001 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#AAAJ",
     "query": "#AAAJ",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "#EtiquetadoClaroYA",
     "query": "#EtiquetadoClaroYA",
-    "rank": 19,
-    "tweet_count": "2,778 Tweets"
+    "rank": 18,
+    "tweet_count": "2,835 Tweets"
   },
   {
     "name": "Argentinos",
     "query": "Argentinos",
+    "rank": 19,
+    "tweet_count": "25.5K Tweets"
+  },
+  {
+    "name": "Ponzio",
+    "query": "Ponzio",
     "rank": 20,
-    "tweet_count": "25K Tweets"
+    "tweet_count": null
   }
 ]
