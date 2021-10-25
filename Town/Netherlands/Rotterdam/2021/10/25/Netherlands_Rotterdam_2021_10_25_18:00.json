@@ -1,57 +1,57 @@
 [
   {
-    "name": "#FirstDates",
-    "query": "#FirstDates",
-    "rank": 1,
-    "tweet_count": "1,223 Tweets"
-  },
-  {
     "name": "#coronamaatregelen",
     "query": "#coronamaatregelen",
-    "rank": 2,
-    "tweet_count": "5,892 Tweets"
+    "rank": 1,
+    "tweet_count": "6,180 Tweets"
   },
   {
-    "name": "#persconferentie",
-    "query": "#persconferentie",
+    "name": "#FirstDates",
+    "query": "#FirstDates",
+    "rank": 2,
+    "tweet_count": "1,231 Tweets"
+  },
+  {
+    "name": "#kopenzonderkijken",
+    "query": "#kopenzonderkijken",
     "rank": 3,
-    "tweet_count": "2,475 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Hugo",
     "query": "Hugo",
     "rank": 4,
-    "tweet_count": "57.2K Tweets"
+    "tweet_count": "58.3K Tweets"
   },
   {
     "name": "Kevin",
     "query": "Kevin",
     "rank": 5,
-    "tweet_count": "87.6K Tweets"
+    "tweet_count": "89.2K Tweets"
   },
   {
     "name": "KNMI",
     "query": "KNMI",
     "rank": 6,
-    "tweet_count": "5,311 Tweets"
+    "tweet_count": "5,437 Tweets"
   },
   {
     "name": "Erdogan",
     "query": "Erdogan",
     "rank": 7,
-    "tweet_count": "130K Tweets"
+    "tweet_count": "135K Tweets"
   },
   {
     "name": "Jesse",
     "query": "Jesse",
     "rank": 8,
-    "tweet_count": "18.8K Tweets"
+    "tweet_count": "19.1K Tweets"
   },
   {
-    "name": "Paternotte",
-    "query": "Paternotte",
+    "name": "Conte",
+    "query": "Conte",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "121K Tweets"
   },
   {
     "name": "Europese Unie",
@@ -60,32 +60,32 @@
     "tweet_count": null
   },
   {
-    "name": "Conte",
-    "query": "Conte",
+    "name": "IPOB",
+    "query": "IPOB",
     "rank": 11,
-    "tweet_count": "115K Tweets"
-  },
-  {
-    "name": "Maria",
-    "query": "Maria",
-    "rank": 12,
-    "tweet_count": "257K Tweets"
+    "tweet_count": "27.2K Tweets"
   },
   {
     "name": "Glasgow",
     "query": "Glasgow",
-    "rank": 13,
-    "tweet_count": "47.1K Tweets"
+    "rank": 12,
+    "tweet_count": "48.3K Tweets"
   },
   {
-    "name": "IPOB",
-    "query": "IPOB",
-    "rank": 14,
-    "tweet_count": "26.6K Tweets"
+    "name": "#persconferentie",
+    "query": "#persconferentie",
+    "rank": 13,
+    "tweet_count": "2,677 Tweets"
   },
   {
     "name": "#lldl",
     "query": "#lldl",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "#chateaumeiland",
+    "query": "#chateaumeiland",
     "rank": 15,
     "tweet_count": null
   },
@@ -105,6 +105,6 @@
     "name": "#ongevaccineerden",
     "query": "#ongevaccineerden",
     "rank": 18,
-    "tweet_count": "1,817 Tweets"
+    "tweet_count": "1,882 Tweets"
   }
 ]
