@@ -1,13 +1,13 @@
 [
   {
-    "name": "Arbuckle",
-    "query": "Arbuckle",
+    "name": "Rideau Hall",
+    "query": "\"Rideau Hall\"",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "Rideau Hall",
-    "query": "\"Rideau Hall\"",
+    "name": "Arbuckle",
+    "query": "Arbuckle",
     "rank": 2,
     "tweet_count": null
   },
@@ -15,13 +15,13 @@
     "name": "Jean Chrétien",
     "query": "\"Jean Chrétien\"",
     "rank": 3,
-    "tweet_count": "5,768 Tweets"
+    "tweet_count": "5,799 Tweets"
   },
   {
     "name": "#DrDogKiller",
     "query": "#DrDogKiller",
     "rank": 4,
-    "tweet_count": "23.1K Tweets"
+    "tweet_count": "23.7K Tweets"
   },
   {
     "name": "#flames1stgoal",
@@ -33,49 +33,49 @@
     "name": "Margaret Trudeau",
     "query": "\"Margaret Trudeau\"",
     "rank": 6,
-    "tweet_count": "3,896 Tweets"
+    "tweet_count": "3,912 Tweets"
   },
   {
     "name": "Cabinet",
     "query": "Cabinet",
     "rank": 7,
-    "tweet_count": "30.9K Tweets"
-  },
-  {
-    "name": "Leafs",
-    "query": "Leafs",
-    "rank": 8,
-    "tweet_count": "15K Tweets"
+    "tweet_count": "31.2K Tweets"
   },
   {
     "name": "Demar",
     "query": "Demar",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": "11.6K Tweets"
   },
   {
     "name": "#BCStorm",
     "query": "#BCStorm",
-    "rank": 10,
-    "tweet_count": "3,562 Tweets"
+    "rank": 9,
+    "tweet_count": "3,571 Tweets"
   },
   {
     "name": "Rogers",
     "query": "Rogers",
-    "rank": 11,
-    "tweet_count": "17.7K Tweets"
+    "rank": 10,
+    "tweet_count": "17.8K Tweets"
   },
   {
-    "name": "The G.O.A.T.",
-    "query": "\"The G.O.A.T.\"",
-    "rank": 12,
-    "tweet_count": "15.8K Tweets"
+    "name": "#cdnpoli",
+    "query": "#cdnpoli",
+    "rank": 11,
+    "tweet_count": "16.6K Tweets"
   },
   {
     "name": "Halloween",
     "query": "Halloween",
+    "rank": 12,
+    "tweet_count": "981K Tweets"
+  },
+  {
+    "name": "The G.O.A.T.",
+    "query": "\"The G.O.A.T.\"",
     "rank": 13,
-    "tweet_count": "975K Tweets"
+    "tweet_count": "15.8K Tweets"
   },
   {
     "name": "Steven Guilbeault",
@@ -84,20 +84,20 @@
     "tweet_count": null
   },
   {
-    "name": "#MondayMotivation",
-    "query": "#MondayMotivation",
-    "rank": 15,
-    "tweet_count": "49.4K Tweets"
-  },
-  {
     "name": "Conte",
     "query": "Conte",
-    "rank": 16,
-    "tweet_count": "195K Tweets"
+    "rank": 15,
+    "tweet_count": "196K Tweets"
   },
   {
-    "name": "marc garneau",
-    "query": "\"marc garneau\"",
+    "name": "Marc Garneau",
+    "query": "\"Marc Garneau\"",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Dragic",
+    "query": "Dragic",
     "rank": 17,
     "tweet_count": null
   },
@@ -105,12 +105,12 @@
     "name": "Dune",
     "query": "Dune",
     "rank": 18,
-    "tweet_count": "179K Tweets"
+    "tweet_count": "180K Tweets"
   },
   {
-    "name": "Dragic",
-    "query": "Dragic",
+    "name": "Marner",
+    "query": "Marner",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "4,093 Tweets"
   }
 ]

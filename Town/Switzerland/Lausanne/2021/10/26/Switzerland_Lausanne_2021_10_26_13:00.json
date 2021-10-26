@@ -1,39 +1,39 @@
 [
   {
-    "name": "Swissmedic",
-    "query": "Swissmedic",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#Kimmich",
     "query": "#Kimmich",
-    "rank": 2,
-    "tweet_count": "35K Tweets"
+    "rank": 1,
+    "tweet_count": "35.1K Tweets"
   },
   {
     "name": "#Booster",
     "query": "#Booster",
+    "rank": 2,
+    "tweet_count": "1,579 Tweets"
+  },
+  {
+    "name": "Swissmedic",
+    "query": "Swissmedic",
     "rank": 3,
-    "tweet_count": "1,563 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Verlauf",
     "query": "Verlauf",
     "rank": 4,
-    "tweet_count": "1,050 Tweets"
+    "tweet_count": "1,055 Tweets"
   },
   {
     "name": "Empfehlung",
     "query": "Empfehlung",
     "rank": 5,
-    "tweet_count": "1,011 Tweets"
+    "tweet_count": "1,023 Tweets"
   },
   {
     "name": "Hertz",
     "query": "Hertz",
     "rank": 6,
-    "tweet_count": "51.8K Tweets"
+    "tweet_count": "52K Tweets"
   },
   {
     "name": "Ansteckungen",
@@ -42,63 +42,63 @@
     "tweet_count": null
   },
   {
+    "name": "Langzeitfolgen",
+    "query": "Langzeitfolgen",
+    "rank": 8,
+    "tweet_count": "10.9K Tweets"
+  },
+  {
     "name": "England",
     "query": "England",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": "114K Tweets"
   },
   {
     "name": "Logik",
     "query": "Logik",
-    "rank": 9,
-    "tweet_count": "2,825 Tweets"
+    "rank": 10,
+    "tweet_count": "2,834 Tweets"
   },
   {
     "name": "Mafia",
     "query": "Mafia",
-    "rank": 10,
-    "tweet_count": "55.5K Tweets"
-  },
-  {
-    "name": "firma",
-    "query": "firma",
     "rank": 11,
-    "tweet_count": "25.7K Tweets"
+    "tweet_count": "55.7K Tweets"
   },
   {
     "name": "Lift",
     "query": "Lift",
     "rank": 12,
-    "tweet_count": "39.6K Tweets"
+    "tweet_count": "39.8K Tweets"
   },
   {
-    "name": "Gegenvorschlag",
-    "query": "Gegenvorschlag",
+    "name": "gegenvorschlag",
+    "query": "gegenvorschlag",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "Bevölkerung",
-    "query": "Bevölkerung",
+    "name": "Napoli",
+    "query": "Napoli",
     "rank": 14,
-    "tweet_count": "3,977 Tweets"
+    "tweet_count": "17.5K Tweets"
+  },
+  {
+    "name": "Cnews",
+    "query": "Cnews",
+    "rank": 15,
+    "tweet_count": "69.4K Tweets"
   },
   {
     "name": "Impfschutz",
     "query": "Impfschutz",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Variante",
     "query": "Variante",
-    "rank": 16,
-    "tweet_count": "9,995 Tweets"
-  },
-  {
-    "name": "Napoli",
-    "query": "Napoli",
     "rank": 17,
-    "tweet_count": "17.4K Tweets"
+    "tweet_count": "10.1K Tweets"
   }
 ]
