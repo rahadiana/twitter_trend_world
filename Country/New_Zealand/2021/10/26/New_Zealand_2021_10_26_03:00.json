@@ -1,15 +1,15 @@
 [
   {
-    "name": "Judith Collins",
-    "query": "\"Judith Collins\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#MUNLIV",
     "query": "#MUNLIV",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "37.2K Tweets"
+  },
+  {
+    "name": "Judith Collins",
+    "query": "\"Judith Collins\"",
+    "rank": 2,
+    "tweet_count": null
   },
   {
     "name": "Dave Dobbyn",
@@ -21,7 +21,7 @@
     "name": "Labour Day",
     "query": "\"Labour Day\"",
     "rank": 4,
-    "tweet_count": "2,203 Tweets"
+    "tweet_count": "2,212 Tweets"
   },
   {
     "name": "Grant Robertson",
@@ -30,28 +30,28 @@
     "tweet_count": null
   },
   {
-    "name": "Melo",
-    "query": "Melo",
-    "rank": 6,
-    "tweet_count": "53.2K Tweets"
-  },
-  {
     "name": "Dune",
     "query": "Dune",
+    "rank": 6,
+    "tweet_count": "187K Tweets"
+  },
+  {
+    "name": "Melo",
+    "query": "Melo",
     "rank": 7,
-    "tweet_count": "186K Tweets"
+    "tweet_count": "53.5K Tweets"
   },
   {
     "name": "jaehyun",
     "query": "jaehyun",
     "rank": 8,
-    "tweet_count": "327K Tweets"
+    "tweet_count": "328K Tweets"
   },
   {
     "name": "loopy",
     "query": "loopy",
     "rank": 9,
-    "tweet_count": "1,417 Tweets"
+    "tweet_count": "1,431 Tweets"
   },
   {
     "name": "#DVPit",
@@ -75,13 +75,13 @@
     "name": "#PTD_ON_STAGE",
     "query": "#PTD_ON_STAGE",
     "rank": 13,
-    "tweet_count": "207K Tweets"
+    "tweet_count": "208K Tweets"
   },
   {
     "name": "Welcome Home",
     "query": "\"Welcome Home\"",
     "rank": 14,
-    "tweet_count": "7,405 Tweets"
+    "tweet_count": "7,467 Tweets"
   },
   {
     "name": "Gunther",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "Tokelau",
-    "query": "Tokelau",
+    "name": "National Party",
+    "query": "\"National Party\"",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "8,991 Tweets"
   },
   {
-    "name": "Liverpool",
-    "query": "Liverpool",
+    "name": "Tokelau",
+    "query": "Tokelau",
     "rank": 20,
-    "tweet_count": "188K Tweets"
+    "tweet_count": null
   }
 ]
