@@ -1,7 +1,7 @@
 [
   {
-    "name": "#pauta",
-    "query": "#pauta",
+    "name": "#Pauta",
+    "query": "#Pauta",
     "rank": 1,
     "tweet_count": null
   },
@@ -9,19 +9,19 @@
     "name": "Foco",
     "query": "Foco",
     "rank": 2,
-    "tweet_count": "18.3K Tweets"
+    "tweet_count": "18.4K Tweets"
   },
   {
     "name": "hospital nicolás solano",
     "query": "\"hospital nicolás solano\"",
     "rank": 3,
-    "tweet_count": "1,274 Tweets"
+    "tweet_count": "1,275 Tweets"
   },
   {
     "name": "#HalaMadrid",
     "query": "#HalaMadrid",
     "rank": 4,
-    "tweet_count": "4,043 Tweets"
+    "tweet_count": "4,051 Tweets"
   },
   {
     "name": "trinidad y tobago",
@@ -33,19 +33,19 @@
     "name": "Mayer",
     "query": "Mayer",
     "rank": 6,
-    "tweet_count": "8,082 Tweets"
+    "tweet_count": "8,104 Tweets"
   },
   {
-    "name": "#SendenGidemiyorum",
-    "query": "#SendenGidemiyorum",
+    "name": "yappy",
+    "query": "yappy",
     "rank": 7,
-    "tweet_count": "91.2K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Yappy",
-    "query": "Yappy",
+    "name": "#sendengidemiyorum",
+    "query": "#sendengidemiyorum",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "91.3K Tweets"
   },
   {
     "name": "Liverpool",
@@ -54,14 +54,14 @@
     "tweet_count": "149K Tweets"
   },
   {
-    "name": "#25oct21",
-    "query": "#25oct21",
+    "name": "Fiestas Patrias",
+    "query": "\"Fiestas Patrias\"",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "fiestas patrias",
-    "query": "\"fiestas patrias\"",
+    "name": "#25oct21",
+    "query": "#25oct21",
     "rank": 11,
     "tweet_count": null
   },
@@ -75,48 +75,48 @@
     "name": "Mingueza",
     "query": "Mingueza",
     "rank": 13,
-    "tweet_count": "2,114 Tweets"
+    "tweet_count": "2,122 Tweets"
   },
   {
-    "name": "Team Ambas",
-    "query": "\"Team Ambas\"",
+    "name": "luis francisco sucre",
+    "query": "\"luis francisco sucre\"",
     "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Luis Francisco Sucre",
-    "query": "\"Luis Francisco Sucre\"",
-    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Presos",
     "query": "Presos",
-    "rank": 16,
-    "tweet_count": "33K Tweets"
+    "rank": 15,
+    "tweet_count": "33.1K Tweets"
   },
   {
     "name": "feliz lunes",
     "query": "\"feliz lunes\"",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": "27.6K Tweets"
+  },
+  {
+    "name": "Durán",
+    "query": "Durán",
+    "rank": 17,
+    "tweet_count": "20.6K Tweets"
   },
   {
     "name": "Dest",
     "query": "Dest",
     "rank": 18,
-    "tweet_count": "6,231 Tweets"
-  },
-  {
-    "name": "Durán",
-    "query": "Durán",
-    "rank": 19,
-    "tweet_count": "20.6K Tweets"
+    "tweet_count": "6,266 Tweets"
   },
   {
     "name": "Vini",
     "query": "Vini",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": "18K Tweets"
+  },
+  {
+    "name": "tierra prometida",
+    "query": "\"tierra prometida\"",
+    "rank": 20,
+    "tweet_count": "2,310 Tweets"
   }
 ]
