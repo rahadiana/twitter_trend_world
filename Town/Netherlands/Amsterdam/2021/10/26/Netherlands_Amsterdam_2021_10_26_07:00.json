@@ -1,39 +1,39 @@
 [
   {
-    "name": "Pensioenfonds ABP",
-    "query": "\"Pensioenfonds ABP\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#coronamaatregelen",
     "query": "#coronamaatregelen",
+    "rank": 1,
+    "tweet_count": "12K Tweets"
+  },
+  {
+    "name": "Pensioenfonds ABP",
+    "query": "\"Pensioenfonds ABP\"",
     "rank": 2,
-    "tweet_count": "11.7K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Goedemorgen",
     "query": "Goedemorgen",
     "rank": 3,
-    "tweet_count": "5,653 Tweets"
+    "tweet_count": "6,067 Tweets"
   },
   {
     "name": "#persconferentie",
     "query": "#persconferentie",
     "rank": 4,
-    "tweet_count": "5,146 Tweets"
+    "tweet_count": "5,220 Tweets"
   },
   {
     "name": "KNMI",
     "query": "KNMI",
     "rank": 5,
-    "tweet_count": "7,248 Tweets"
+    "tweet_count": "7,331 Tweets"
   },
   {
     "name": "#MUNLIV",
     "query": "#MUNLIV",
     "rank": 6,
-    "tweet_count": "22.7K Tweets"
+    "tweet_count": "22.8K Tweets"
   },
   {
     "name": "#kopenzonderkijken",
@@ -51,19 +51,19 @@
     "name": "Hugo",
     "query": "Hugo",
     "rank": 9,
-    "tweet_count": "56.9K Tweets"
-  },
-  {
-    "name": "Erdogan",
-    "query": "Erdogan",
-    "rank": 10,
-    "tweet_count": "160K Tweets"
+    "tweet_count": "57.4K Tweets"
   },
   {
     "name": "Mike",
     "query": "Mike",
+    "rank": 10,
+    "tweet_count": "133K Tweets"
+  },
+  {
+    "name": "Erdogan",
+    "query": "Erdogan",
     "rank": 11,
-    "tweet_count": "132K Tweets"
+    "tweet_count": "162K Tweets"
   },
   {
     "name": "MUMC",
@@ -75,48 +75,48 @@
     "name": "Jacqueline",
     "query": "Jacqueline",
     "rank": 13,
-    "tweet_count": "5,212 Tweets"
+    "tweet_count": "5,242 Tweets"
   },
   {
     "name": "Gerrit",
     "query": "Gerrit",
     "rank": 14,
-    "tweet_count": "1,820 Tweets"
+    "tweet_count": "1,841 Tweets"
   },
   {
     "name": "Lydia",
     "query": "Lydia",
     "rank": 15,
-    "tweet_count": "7,902 Tweets"
-  },
-  {
-    "name": "Soedan",
-    "query": "Soedan",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "eNaira",
-    "query": "eNaira",
-    "rank": 17,
-    "tweet_count": "9,074 Tweets"
-  },
-  {
-    "name": "jan paternotte",
-    "query": "\"jan paternotte\"",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "8,005 Tweets"
   },
   {
     "name": "Illy",
     "query": "Illy",
-    "rank": 19,
-    "tweet_count": "1,340 Tweets"
+    "rank": 16,
+    "tweet_count": "1,386 Tweets"
+  },
+  {
+    "name": "Soedan",
+    "query": "Soedan",
+    "rank": 17,
+    "tweet_count": null
   },
   {
     "name": "Zidane",
     "query": "Zidane",
+    "rank": 18,
+    "tweet_count": "49.3K Tweets"
+  },
+  {
+    "name": "eNaira",
+    "query": "eNaira",
+    "rank": 19,
+    "tweet_count": "9,321 Tweets"
+  },
+  {
+    "name": "jan paternotte",
+    "query": "\"jan paternotte\"",
     "rank": 20,
-    "tweet_count": "48.5K Tweets"
+    "tweet_count": null
   }
 ]
