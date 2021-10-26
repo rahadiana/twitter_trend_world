@@ -1,27 +1,27 @@
 [
   {
-    "name": "Legii",
-    "query": "Legii",
-    "rank": 1,
-    "tweet_count": "2,483 Tweets"
-  },
-  {
-    "name": "#PolskiŁad",
-    "query": "#PolskiŁad",
-    "rank": 2,
-    "tweet_count": "6,609 Tweets"
-  },
-  {
     "name": "Treue",
     "query": "Treue",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "Legii",
+    "query": "Legii",
+    "rank": 2,
+    "tweet_count": "2,495 Tweets"
+  },
+  {
+    "name": "Waffen SS",
+    "query": "\"Waffen SS\"",
     "rank": 3,
     "tweet_count": null
   },
   {
-    "name": "#PGLMajor",
-    "query": "#PGLMajor",
+    "name": "#PolskiŁad",
+    "query": "#PolskiŁad",
     "rank": 4,
-    "tweet_count": "4,197 Tweets"
+    "tweet_count": "6,669 Tweets"
   },
   {
     "name": "Meine Ehre",
@@ -30,10 +30,10 @@
     "tweet_count": null
   },
   {
-    "name": "#MODOPBTS",
-    "query": "#MODOPBTS",
+    "name": "#PGLMajor",
+    "query": "#PGLMajor",
     "rank": 6,
-    "tweet_count": "2,819 Tweets"
+    "tweet_count": "4,265 Tweets"
   },
   {
     "name": "Rogne",
@@ -42,10 +42,10 @@
     "tweet_count": null
   },
   {
-    "name": "Conte",
-    "query": "Conte",
+    "name": "#MODOPBTS",
+    "query": "#MODOPBTS",
     "rank": 8,
-    "tweet_count": "203K Tweets"
+    "tweet_count": "2,820 Tweets"
   },
   {
     "name": "#public5city",
@@ -54,62 +54,62 @@
     "tweet_count": null
   },
   {
+    "name": "Conte",
+    "query": "Conte",
+    "rank": 10,
+    "tweet_count": "204K Tweets"
+  },
+  {
     "name": "III WŚ",
     "query": "\"III WŚ\"",
-    "rank": 10,
-    "tweet_count": "1,153 Tweets"
+    "rank": 11,
+    "tweet_count": "1,164 Tweets"
   },
   {
     "name": "Konga",
     "query": "Konga",
-    "rank": 11,
-    "tweet_count": "1,161 Tweets"
+    "rank": 12,
+    "tweet_count": "1,167 Tweets"
   },
   {
     "name": "Papszun",
     "query": "Papszun",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Dykiel",
     "query": "Dykiel",
-    "rank": 13,
-    "tweet_count": "4,976 Tweets"
+    "rank": 14,
+    "tweet_count": "5,002 Tweets"
   },
   {
     "name": "Marek Gołębiewski",
     "query": "\"Marek Gołębiewski\"",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Astralis",
-    "query": "Astralis",
     "rank": 15,
-    "tweet_count": "3,057 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Financial Times",
     "query": "\"Financial Times\"",
     "rank": 16,
-    "tweet_count": "12.5K Tweets"
+    "tweet_count": "12.6K Tweets"
   },
   {
-    "name": "Hermaszewski",
-    "query": "Hermaszewski",
+    "name": "Astralis",
+    "query": "Astralis",
     "rank": 17,
-    "tweet_count": "1,066 Tweets"
+    "tweet_count": "3,099 Tweets"
+  },
+  {
+    "name": "hermaszewski",
+    "query": "hermaszewski",
+    "rank": 18,
+    "tweet_count": "1,074 Tweets"
   },
   {
     "name": "Michniewicza",
     "query": "Michniewicza",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Kongijka",
-    "query": "Kongijka",
     "rank": 19,
     "tweet_count": null
   }
