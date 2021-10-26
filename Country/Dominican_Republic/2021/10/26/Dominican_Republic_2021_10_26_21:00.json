@@ -1,15 +1,15 @@
 [
   {
-    "name": "Aventura",
-    "query": "Aventura",
-    "rank": 1,
-    "tweet_count": "11.3K Tweets"
-  },
-  {
     "name": "#PLDculpables",
     "query": "#PLDculpables",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Aventura",
+    "query": "Aventura",
+    "rank": 2,
+    "tweet_count": "11.5K Tweets"
   },
   {
     "name": "Bauta",
@@ -21,25 +21,25 @@
     "name": "#ElInforme",
     "query": "#ElInforme",
     "rank": 4,
-    "tweet_count": "1,015 Tweets"
+    "tweet_count": "1,017 Tweets"
   },
   {
     "name": "#Nonosdoblegamos",
     "query": "#Nonosdoblegamos",
     "rank": 5,
-    "tweet_count": "6,580 Tweets"
-  },
-  {
-    "name": "Barrilito",
-    "query": "Barrilito",
-    "rank": 6,
-    "tweet_count": "1,823 Tweets"
+    "tweet_count": "6,660 Tweets"
   },
   {
     "name": "Antonio Taveras",
     "query": "\"Antonio Taveras\"",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
+  },
+  {
+    "name": "Barrilito",
+    "query": "Barrilito",
+    "rank": 7,
+    "tweet_count": "1,857 Tweets"
   },
   {
     "name": "Joseph Tavarez",
@@ -54,10 +54,10 @@
     "tweet_count": null
   },
   {
-    "name": "Faride",
-    "query": "Faride",
+    "name": "Senado",
+    "query": "Senado",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "63.5K Tweets"
   },
   {
     "name": "#VacunateYa",
@@ -66,10 +66,10 @@
     "tweet_count": null
   },
   {
-    "name": "Senado",
-    "query": "Senado",
+    "name": "Faride",
+    "query": "Faride",
     "rank": 12,
-    "tweet_count": "62.7K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#pldanilocorrupto",
@@ -81,42 +81,42 @@
     "name": "Pronta",
     "query": "Pronta",
     "rank": 14,
-    "tweet_count": "15.4K Tweets"
+    "tweet_count": "15.6K Tweets"
   },
   {
     "name": "Romeo",
     "query": "Romeo",
     "rank": 15,
-    "tweet_count": "15.3K Tweets"
+    "tweet_count": "15.4K Tweets"
   },
   {
     "name": "Valverde",
     "query": "Valverde",
     "rank": 16,
-    "tweet_count": "3,391 Tweets"
+    "tweet_count": "3,448 Tweets"
+  },
+  {
+    "name": "UASD",
+    "query": "UASD",
+    "rank": 17,
+    "tweet_count": null
   },
   {
     "name": "adán cáceres",
     "query": "\"adán cáceres\"",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Hoy 26",
     "query": "\"Hoy 26\"",
-    "rank": 18,
-    "tweet_count": "22.3K Tweets"
-  },
-  {
-    "name": "Carlos Felipe Jaramillo",
-    "query": "\"Carlos Felipe Jaramillo\"",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "22.5K Tweets"
   },
   {
     "name": "Haití",
     "query": "Haití",
     "rank": 20,
-    "tweet_count": "15.8K Tweets"
+    "tweet_count": "16K Tweets"
   }
 ]
