@@ -1,39 +1,39 @@
 [
   {
+    "name": "Latgales",
+    "query": "Latgales",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "Labdien",
     "query": "Labdien",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#teirdarbs",
     "query": "#teirdarbs",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Tavu",
     "query": "Tavu",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "#budžets2022",
     "query": "#budžets2022",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Pavļuta",
     "query": "Pavļuta",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "COVID-19",
-    "query": "COVID-19",
     "rank": 6,
-    "tweet_count": "376K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Daudz",
@@ -42,14 +42,14 @@
     "tweet_count": null
   },
   {
-    "name": "Juris",
-    "query": "Juris",
+    "name": "COVID-19",
+    "query": "COVID-19",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "378K Tweets"
   },
   {
-    "name": "Latgales",
-    "query": "Latgales",
+    "name": "Juris",
+    "query": "Juris",
     "rank": 9,
     "tweet_count": null
   },
@@ -81,7 +81,7 @@
     "name": "Halloween",
     "query": "Halloween",
     "rank": 14,
-    "tweet_count": "939K Tweets"
+    "tweet_count": "946K Tweets"
   },
   {
     "name": "Daugavas",
@@ -105,6 +105,6 @@
     "name": "Moderna",
     "query": "Moderna",
     "rank": 18,
-    "tweet_count": "137K Tweets"
+    "tweet_count": "138K Tweets"
   }
 ]
