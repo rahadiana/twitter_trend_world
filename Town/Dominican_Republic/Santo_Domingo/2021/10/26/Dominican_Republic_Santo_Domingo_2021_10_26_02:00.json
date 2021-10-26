@@ -1,13 +1,13 @@
 [
   {
-    "name": "#PLDaniloCorrupto",
-    "query": "#PLDaniloCorrupto",
+    "name": "#ElInforme",
+    "query": "#ElInforme",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "#ElInforme",
-    "query": "#ElInforme",
+    "name": "#PLDaniloCorrupto",
+    "query": "#PLDaniloCorrupto",
     "rank": 2,
     "tweet_count": null
   },
@@ -18,16 +18,16 @@
     "tweet_count": null
   },
   {
-    "name": "#Nonosdoblegamos",
-    "query": "#Nonosdoblegamos",
-    "rank": 4,
-    "tweet_count": "4,526 Tweets"
-  },
-  {
     "name": "Alicia Ortega",
     "query": "\"Alicia Ortega\"",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "#nonosdoblegamos",
+    "query": "#nonosdoblegamos",
+    "rank": 5,
+    "tweet_count": "4,598 Tweets"
   },
   {
     "name": "#TheVoiceDominicana",
@@ -39,13 +39,13 @@
     "name": "Senadores",
     "query": "Senadores",
     "rank": 7,
-    "tweet_count": "21.8K Tweets"
+    "tweet_count": "22.1K Tweets"
   },
   {
     "name": "Leonel",
     "query": "Leonel",
     "rank": 8,
-    "tweet_count": "6,365 Tweets"
+    "tweet_count": "6,450 Tweets"
   },
   {
     "name": "Adán Cáceres",
@@ -54,16 +54,16 @@
     "tweet_count": null
   },
   {
-    "name": "Ariel",
-    "query": "Ariel",
-    "rank": 10,
-    "tweet_count": "26K Tweets"
-  },
-  {
     "name": "Barrilito",
     "query": "Barrilito",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
+  },
+  {
+    "name": "Ariel",
+    "query": "Ariel",
+    "rank": 11,
+    "tweet_count": "26.2K Tweets"
   },
   {
     "name": "rd$20",
@@ -75,7 +75,7 @@
     "name": "J Balvin",
     "query": "\"J Balvin\"",
     "rank": 13,
-    "tweet_count": "2,909 Tweets"
+    "tweet_count": "2,944 Tweets"
   },
   {
     "name": "Félix Sánchez",
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
-    "name": "Haití",
-    "query": "Haití",
-    "rank": 17,
-    "tweet_count": "12.6K Tweets"
-  },
-  {
     "name": "Hamilton",
     "query": "Hamilton",
-    "rank": 18,
-    "tweet_count": "23K Tweets"
+    "rank": 17,
+    "tweet_count": "23.1K Tweets"
   },
   {
     "name": "Yohan",
     "query": "Yohan",
-    "rank": 19,
-    "tweet_count": "5,311 Tweets"
+    "rank": 18,
+    "tweet_count": "5,372 Tweets"
   },
   {
     "name": "us$275",
     "query": "us$275",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "Haití",
+    "query": "Haití",
+    "rank": 20,
+    "tweet_count": "12.7K Tweets"
   }
 ]
