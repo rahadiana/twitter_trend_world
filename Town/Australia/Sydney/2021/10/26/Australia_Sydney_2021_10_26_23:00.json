@@ -1,122 +1,98 @@
 [
   {
+    "name": "Michael",
+    "query": "Michael",
+    "rank": 1,
+    "tweet_count": "184K Tweets"
+  },
+  {
+    "name": "#netzero",
+    "query": "#netzero",
+    "rank": 2,
+    "tweet_count": "6,854 Tweets"
+  },
+  {
+    "name": "#SheffieldShield",
+    "query": "#SheffieldShield",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
     "name": "The Australian Way",
     "query": "\"The Australian Way\"",
-    "rank": 1,
-    "tweet_count": "12.3K Tweets"
-  },
-  {
-    "name": "#ScottyfromMarketing",
-    "query": "#ScottyfromMarketing",
-    "rank": 2,
-    "tweet_count": "2,767 Tweets"
-  },
-  {
-    "name": "#auspol",
-    "query": "#auspol",
-    "rank": 3,
-    "tweet_count": "55.4K Tweets"
-  },
-  {
-    "name": "#LNPClimateCriminals",
-    "query": "#LNPClimateCriminals",
     "rank": 4,
-    "tweet_count": "1,213 Tweets"
-  },
-  {
-    "name": "Angus Taylor",
-    "query": "\"Angus Taylor\"",
-    "rank": 5,
-    "tweet_count": "3,493 Tweets"
-  },
-  {
-    "name": "#COP26",
-    "query": "#COP26",
-    "rank": 6,
-    "tweet_count": "82.9K Tweets"
-  },
-  {
-    "name": "The Plan",
-    "query": "\"The Plan\"",
-    "rank": 7,
-    "tweet_count": "213K Tweets"
-  },
-  {
-    "name": "Pfizer",
-    "query": "Pfizer",
-    "rank": 8,
-    "tweet_count": "167K Tweets"
-  },
-  {
-    "name": "#AUSvBRA",
-    "query": "#AUSvBRA",
-    "rank": 9,
-    "tweet_count": "2,102 Tweets"
-  },
-  {
-    "name": "PowerPoint",
-    "query": "PowerPoint",
-    "rank": 10,
-    "tweet_count": "12.3K Tweets"
-  },
-  {
-    "name": "Hannah Gadsby",
-    "query": "\"Hannah Gadsby\"",
-    "rank": 11,
-    "tweet_count": "17.3K Tweets"
-  },
-  {
-    "name": "Crown",
-    "query": "Crown",
-    "rank": 12,
-    "tweet_count": "51.5K Tweets"
+    "tweet_count": "12.4K Tweets"
   },
   {
     "name": "Treasury",
     "query": "Treasury",
-    "rank": 13,
-    "tweet_count": "21.2K Tweets"
+    "rank": 5,
+    "tweet_count": "21.5K Tweets"
   },
   {
-    "name": "Gina Rinehart",
-    "query": "\"Gina Rinehart\"",
-    "rank": 14,
-    "tweet_count": null
+    "name": "Angus Taylor",
+    "query": "\"Angus Taylor\"",
+    "rank": 6,
+    "tweet_count": "3,550 Tweets"
   },
   {
-    "name": "Boris",
-    "query": "Boris",
-    "rank": 15,
-    "tweet_count": "40.5K Tweets"
-  },
-  {
-    "name": "Russell Woolf",
-    "query": "\"Russell Woolf\"",
-    "rank": 16,
-    "tweet_count": "2,532 Tweets"
+    "name": "#ClimateActionNow",
+    "query": "#ClimateActionNow",
+    "rank": 7,
+    "tweet_count": "2,309 Tweets"
   },
   {
     "name": "Quinton de Kock",
     "query": "\"Quinton de Kock\"",
-    "rank": 17,
+    "rank": 8,
     "tweet_count": "28.3K Tweets"
   },
   {
-    "name": "Leigh",
-    "query": "Leigh",
-    "rank": 18,
-    "tweet_count": "16.5K Tweets"
+    "name": "#ClimateCrisis",
+    "query": "#ClimateCrisis",
+    "rank": 9,
+    "tweet_count": "14.6K Tweets"
   },
   {
-    "name": "Brookes",
-    "query": "Brookes",
-    "rank": 19,
-    "tweet_count": "1,836 Tweets"
+    "name": "#ScottyTheAnnouncer",
+    "query": "#ScottyTheAnnouncer",
+    "rank": 10,
+    "tweet_count": "1,502 Tweets"
   },
   {
-    "name": "The TGA",
-    "query": "\"The TGA\"",
-    "rank": 20,
-    "tweet_count": "1,224 Tweets"
+    "name": "PowerPoint",
+    "query": "PowerPoint",
+    "rank": 11,
+    "tweet_count": "12.4K Tweets"
+  },
+  {
+    "name": "The Plan",
+    "query": "\"The Plan\"",
+    "rank": 12,
+    "tweet_count": "214K Tweets"
+  },
+  {
+    "name": "#COP26Glasgow",
+    "query": "#COP26Glasgow",
+    "rank": 13,
+    "tweet_count": "14.7K Tweets"
+  },
+  {
+    "name": "#LNPClimateCriminals",
+    "query": "#LNPClimateCriminals",
+    "rank": 14,
+    "tweet_count": "1,233 Tweets"
+  },
+  {
+    "name": "#auspol2021",
+    "query": "#auspol2021",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "#MorrisonFail",
+    "query": "#MorrisonFail",
+    "rank": 16,
+    "tweet_count": null
   }
 ]
