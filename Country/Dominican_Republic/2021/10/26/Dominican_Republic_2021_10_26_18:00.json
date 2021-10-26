@@ -1,39 +1,39 @@
 [
   {
+    "name": "Aventura",
+    "query": "Aventura",
+    "rank": 1,
+    "tweet_count": "11.1K Tweets"
+  },
+  {
     "name": "#ElInforme",
     "query": "#ElInforme",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#Nonosdoblegamos",
     "query": "#Nonosdoblegamos",
-    "rank": 2,
-    "tweet_count": "6,667 Tweets"
+    "rank": 3,
+    "tweet_count": "6,752 Tweets"
   },
   {
     "name": "Barrilito",
     "query": "Barrilito",
-    "rank": 3,
-    "tweet_count": "1,420 Tweets"
+    "rank": 4,
+    "tweet_count": "1,461 Tweets"
   },
   {
     "name": "Joseph Tavárez",
     "query": "\"Joseph Tavárez\"",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "faride",
-    "query": "faride",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "Danilo",
-    "query": "Danilo",
+    "name": "Faride",
+    "query": "Faride",
     "rank": 6,
-    "tweet_count": "9,271 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Alicia Ortega",
@@ -48,40 +48,40 @@
     "tweet_count": null
   },
   {
+    "name": "Danilo",
+    "query": "Danilo",
+    "rank": 9,
+    "tweet_count": "9,360 Tweets"
+  },
+  {
     "name": "Senadores",
     "query": "Senadores",
-    "rank": 9,
-    "tweet_count": "28.6K Tweets"
+    "rank": 10,
+    "tweet_count": "29K Tweets"
   },
   {
     "name": "#sdecambia",
     "query": "#sdecambia",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Haití",
-    "query": "Haití",
     "rank": 11,
-    "tweet_count": "15K Tweets"
-  },
-  {
-    "name": "#thevoicedominicana",
-    "query": "#thevoicedominicana",
-    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Pronta",
     "query": "Pronta",
-    "rank": 13,
-    "tweet_count": "14.9K Tweets"
+    "rank": 12,
+    "tweet_count": "15.1K Tweets"
   },
   {
-    "name": "Leonel",
-    "query": "Leonel",
+    "name": "Haití",
+    "query": "Haití",
+    "rank": 13,
+    "tweet_count": "15.3K Tweets"
+  },
+  {
+    "name": "#thevoicedominicana",
+    "query": "#thevoicedominicana",
     "rank": 14,
-    "tweet_count": "5,344 Tweets"
+    "tweet_count": null
   },
   {
     "name": "adán cáceres",
@@ -90,10 +90,10 @@
     "tweet_count": null
   },
   {
-    "name": "Hoy 26",
-    "query": "\"Hoy 26\"",
+    "name": "Leonel",
+    "query": "Leonel",
     "rank": 16,
-    "tweet_count": "18.6K Tweets"
+    "tweet_count": "5,383 Tweets"
   },
   {
     "name": "Carlos Felipe Jaramillo",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "Salud Pública",
-    "query": "\"Salud Pública\"",
+    "name": "Valverde",
+    "query": "Valverde",
     "rank": 18,
-    "tweet_count": "5,813 Tweets"
+    "tweet_count": "3,404 Tweets"
   },
   {
     "name": "Policía Nacional",
     "query": "\"Policía Nacional\"",
     "rank": 19,
-    "tweet_count": "8,750 Tweets"
+    "tweet_count": "8,868 Tweets"
   },
   {
-    "name": "Juan Encarnación",
-    "query": "\"Juan Encarnación\"",
+    "name": "Salud Pública",
+    "query": "\"Salud Pública\"",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "5,936 Tweets"
   }
 ]

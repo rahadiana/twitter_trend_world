@@ -1,15 +1,15 @@
 [
   {
-    "name": "#Kimmich",
-    "query": "#Kimmich",
+    "name": "#SUICRO",
+    "query": "#SUICRO",
     "rank": 1,
-    "tweet_count": "28.6K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#Booster",
-    "query": "#Booster",
+    "name": "#Kimmich",
+    "query": "#Kimmich",
     "rank": 2,
-    "tweet_count": "1,802 Tweets"
+    "tweet_count": "28.8K Tweets"
   },
   {
     "name": "Empfehlung",
@@ -18,28 +18,28 @@
     "tweet_count": null
   },
   {
-    "name": "Arzt",
-    "query": "Arzt",
+    "name": "#Booster",
+    "query": "#Booster",
     "rank": 4,
-    "tweet_count": "2,747 Tweets"
+    "tweet_count": "1,835 Tweets"
   },
   {
-    "name": "#BindingTreaty",
-    "query": "#BindingTreaty",
+    "name": "#SwissMedic",
+    "query": "#SwissMedic",
     "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "#swissmedic",
-    "query": "#swissmedic",
-    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "Berger",
     "query": "Berger",
+    "rank": 6,
+    "tweet_count": "3,537 Tweets"
+  },
+  {
+    "name": "Verlauf",
+    "query": "Verlauf",
     "rank": 7,
-    "tweet_count": "3,501 Tweets"
+    "tweet_count": "1,003 Tweets"
   },
   {
     "name": "Bevölkerungsgruppen",
@@ -48,69 +48,69 @@
     "tweet_count": null
   },
   {
-    "name": "Verlauf",
-    "query": "Verlauf",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
     "name": "Bundestag",
     "query": "Bundestag",
-    "rank": 10,
-    "tweet_count": "32.7K Tweets"
+    "rank": 9,
+    "tweet_count": "33.2K Tweets"
   },
   {
-    "name": "Ansteckungen",
-    "query": "Ansteckungen",
-    "rank": 11,
+    "name": "ansteckungen",
+    "query": "ansteckungen",
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Lebenserwartung",
     "query": "Lebenserwartung",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
-  },
-  {
-    "name": "Firma",
-    "query": "Firma",
-    "rank": 13,
-    "tweet_count": "28.6K Tweets"
   },
   {
     "name": "Logik",
     "query": "Logik",
-    "rank": 14,
-    "tweet_count": "2,852 Tweets"
+    "rank": 12,
+    "tweet_count": "2,882 Tweets"
   },
   {
     "name": "EKIF",
     "query": "EKIF",
-    "rank": 15,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Evidenz",
     "query": "Evidenz",
-    "rank": 16,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Hertz",
     "query": "Hertz",
-    "rank": 17,
-    "tweet_count": "38.4K Tweets"
+    "rank": 15,
+    "tweet_count": "38.7K Tweets"
   },
   {
     "name": "Lift",
     "query": "Lift",
-    "rank": 18,
-    "tweet_count": "37.6K Tweets"
+    "rank": 16,
+    "tweet_count": "38.1K Tweets"
   },
   {
-    "name": "Halo",
-    "query": "Halo",
+    "name": "MAFIA",
+    "query": "MAFIA",
+    "rank": 17,
+    "tweet_count": "54.5K Tweets"
+  },
+  {
+    "name": "Elternzeit",
+    "query": "Elternzeit",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Arzt",
+    "query": "Arzt",
     "rank": 19,
-    "tweet_count": "141K Tweets"
+    "tweet_count": "2,799 Tweets"
   }
 ]
