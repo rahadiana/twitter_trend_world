@@ -1,21 +1,21 @@
 [
   {
-    "name": "Henryk Kowalczyk",
-    "query": "\"Henryk Kowalczyk\"",
+    "name": "henryk kowalczyk",
+    "query": "\"henryk kowalczyk\"",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "Błaszczak",
-    "query": "Błaszczak",
-    "rank": 2,
-    "tweet_count": "1,187 Tweets"
-  },
-  {
     "name": "Waffen SS",
     "query": "\"Waffen SS\"",
+    "rank": 2,
+    "tweet_count": "1,000 Tweets"
+  },
+  {
+    "name": "Matty",
+    "query": "Matty",
     "rank": 3,
-    "tweet_count": null
+    "tweet_count": "8,004 Tweets"
   },
   {
     "name": "Treue",
@@ -24,10 +24,10 @@
     "tweet_count": null
   },
   {
-    "name": "Matty Cash",
-    "query": "\"Matty Cash\"",
+    "name": "Błaszczak",
+    "query": "Błaszczak",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "1,211 Tweets"
   },
   {
     "name": "Anna Moskwa",
@@ -39,13 +39,13 @@
     "name": "#PolskiŁad",
     "query": "#PolskiŁad",
     "rank": 7,
-    "tweet_count": "6,002 Tweets"
+    "tweet_count": "6,046 Tweets"
   },
   {
     "name": "Legii",
     "query": "Legii",
     "rank": 8,
-    "tweet_count": "2,051 Tweets"
+    "tweet_count": "2,058 Tweets"
   },
   {
     "name": "Piotr Nowak",
@@ -63,7 +63,7 @@
     "name": "#PGLMajor",
     "query": "#PGLMajor",
     "rank": 11,
-    "tweet_count": "4,789 Tweets"
+    "tweet_count": "4,836 Tweets"
   },
   {
     "name": "#UNILPO",
@@ -72,14 +72,14 @@
     "tweet_count": null
   },
   {
-    "name": "Rogne",
-    "query": "Rogne",
+    "name": "Mateusz Gotówka",
+    "query": "\"Mateusz Gotówka\"",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "Baturina",
-    "query": "Baturina",
+    "name": "Rogne",
+    "query": "Rogne",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,24 +87,24 @@
     "name": "Conte",
     "query": "Conte",
     "rank": 15,
-    "tweet_count": "194K Tweets"
-  },
-  {
-    "name": "Mateusz Gotówka",
-    "query": "\"Mateusz Gotówka\"",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Jarosław Kaczyński",
-    "query": "\"Jarosław Kaczyński\"",
-    "rank": 17,
-    "tweet_count": "1,447 Tweets"
+    "tweet_count": "195K Tweets"
   },
   {
     "name": "III WŚ",
     "query": "\"III WŚ\"",
+    "rank": 16,
+    "tweet_count": "1,116 Tweets"
+  },
+  {
+    "name": "Konga",
+    "query": "Konga",
+    "rank": 17,
+    "tweet_count": "1,241 Tweets"
+  },
+  {
+    "name": "Sobiech",
+    "query": "Sobiech",
     "rank": 18,
-    "tweet_count": "1,107 Tweets"
+    "tweet_count": null
   }
 ]

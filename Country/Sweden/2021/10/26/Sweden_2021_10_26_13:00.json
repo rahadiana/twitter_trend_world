@@ -3,7 +3,7 @@
     "name": "HBO Max",
     "query": "\"HBO Max\"",
     "rank": 1,
-    "tweet_count": "14.9K Tweets"
+    "tweet_count": "15K Tweets"
   },
   {
     "name": "Conte",
@@ -12,20 +12,20 @@
     "tweet_count": "195K Tweets"
   },
   {
+    "name": "Barsebäck",
+    "query": "Barsebäck",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
     "name": "Sudan",
     "query": "Sudan",
-    "rank": 3,
-    "tweet_count": "126K Tweets"
+    "rank": 4,
+    "tweet_count": "127K Tweets"
   },
   {
     "name": "HBO Nordic",
     "query": "\"HBO Nordic\"",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "Barsebäck",
-    "query": "Barsebäck",
     "rank": 5,
     "tweet_count": null
   },
@@ -45,7 +45,7 @@
     "name": "#PGLMajor",
     "query": "#PGLMajor",
     "rank": 8,
-    "tweet_count": "4,795 Tweets"
+    "tweet_count": "4,854 Tweets"
   },
   {
     "name": "Malmö FF",
@@ -54,14 +54,14 @@
     "tweet_count": null
   },
   {
-    "name": "falkenberg",
-    "query": "falkenberg",
+    "name": "#COP26",
+    "query": "#COP26",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "84K Tweets"
   },
   {
-    "name": "israels",
-    "query": "israels",
+    "name": "falkenberg",
+    "query": "falkenberg",
     "rank": 11,
     "tweet_count": null
   },
@@ -69,54 +69,54 @@
     "name": "Barry",
     "query": "Barry",
     "rank": 12,
-    "tweet_count": "15.7K Tweets"
-  },
-  {
-    "name": "#COP26",
-    "query": "#COP26",
-    "rank": 13,
-    "tweet_count": "83.4K Tweets"
+    "tweet_count": "15.8K Tweets"
   },
   {
     "name": "#svtagenda",
     "query": "#svtagenda",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "rotmos",
     "query": "rotmos",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Israels",
+    "query": "Israels",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "Ten Hag",
-    "query": "\"Ten Hag\"",
-    "rank": 16,
-    "tweet_count": "14.1K Tweets"
-  },
-  {
     "name": "Dune",
     "query": "Dune",
-    "rank": 17,
-    "tweet_count": "178K Tweets"
+    "rank": 16,
+    "tweet_count": "179K Tweets"
   },
   {
     "name": "Tesla",
     "query": "Tesla",
-    "rank": 18,
-    "tweet_count": "156K Tweets"
+    "rank": 17,
+    "tweet_count": "157K Tweets"
   },
   {
     "name": "Forsmark",
     "query": "Forsmark",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Bank",
     "query": "Bank",
+    "rank": 19,
+    "tweet_count": "211K Tweets"
+  },
+  {
+    "name": "Ringhals",
+    "query": "Ringhals",
     "rank": 20,
-    "tweet_count": "210K Tweets"
+    "tweet_count": null
   }
 ]

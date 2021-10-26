@@ -1,27 +1,27 @@
 [
   {
-    "name": "#schwarzenegger",
-    "query": "#schwarzenegger",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Амстердама",
     "query": "Амстердама",
+    "rank": 1,
+    "tweet_count": "2,043 Tweets"
+  },
+  {
+    "name": "#schwarzenegger",
+    "query": "#schwarzenegger",
     "rank": 2,
-    "tweet_count": "2,013 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Крым",
     "query": "Крым",
     "rank": 3,
-    "tweet_count": "2,589 Tweets"
+    "tweet_count": "2,629 Tweets"
   },
   {
     "name": "#StageGeniusLeeKnow",
     "query": "#StageGeniusLeeKnow",
     "rank": 4,
-    "tweet_count": "16K Tweets"
+    "tweet_count": "16.1K Tweets"
   },
   {
     "name": "#vindiesel",
@@ -45,13 +45,13 @@
     "name": "Europe",
     "query": "Europe",
     "rank": 8,
-    "tweet_count": "125K Tweets"
+    "tweet_count": "126K Tweets"
   },
   {
     "name": "Чувствую",
     "query": "Чувствую",
     "rank": 9,
-    "tweet_count": "4,929 Tweets"
+    "tweet_count": "4,960 Tweets"
   },
   {
     "name": "Болгары",
@@ -63,60 +63,60 @@
     "name": "ТЕБЯ ЛЮБЛЮ",
     "query": "\"ТЕБЯ ЛЮБЛЮ\"",
     "rank": 11,
-    "tweet_count": "3,771 Tweets"
+    "tweet_count": "3,797 Tweets"
   },
   {
     "name": "Спутник",
     "query": "Спутник",
     "rank": 12,
-    "tweet_count": "1,556 Tweets"
+    "tweet_count": "1,574 Tweets"
   },
   {
     "name": "NATO",
     "query": "NATO",
     "rank": 13,
-    "tweet_count": "25.5K Tweets"
+    "tweet_count": "25.7K Tweets"
   },
   {
     "name": "Halloween",
     "query": "Halloween",
     "rank": 14,
-    "tweet_count": "968K Tweets"
-  },
-  {
-    "name": "Хэллоуин",
-    "query": "Хэллоуин",
-    "rank": 15,
-    "tweet_count": "1,164 Tweets"
+    "tweet_count": "976K Tweets"
   },
   {
     "name": "доброе утро",
     "query": "\"доброе утро\"",
-    "rank": 16,
-    "tweet_count": "6,584 Tweets"
+    "rank": 15,
+    "tweet_count": "6,591 Tweets"
   },
   {
     "name": "Польше",
     "query": "Польше",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Ronaldo",
     "query": "Ronaldo",
-    "rank": 18,
-    "tweet_count": "104K Tweets"
+    "rank": 17,
+    "tweet_count": "105K Tweets"
   },
   {
     "name": "турции",
     "query": "турции",
-    "rank": 19,
-    "tweet_count": "1,664 Tweets"
+    "rank": 18,
+    "tweet_count": "1,669 Tweets"
   },
   {
-    "name": "COVID-19",
-    "query": "COVID-19",
+    "name": "Слушай",
+    "query": "Слушай",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "саакашвили",
+    "query": "саакашвили",
     "rank": 20,
-    "tweet_count": "371K Tweets"
+    "tweet_count": null
   }
 ]
