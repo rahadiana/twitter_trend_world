@@ -1,9 +1,9 @@
 [
   {
-    "name": "#tokens",
-    "query": "#tokens",
+    "name": "#token",
+    "query": "#token",
     "rank": 1,
-    "tweet_count": "8,888 Tweets"
+    "tweet_count": "7,500 Tweets"
   },
   {
     "name": "#schwarzenegger",
@@ -15,7 +15,7 @@
     "name": "#StageGeniusLeeKnow",
     "query": "#StageGeniusLeeKnow",
     "rank": 3,
-    "tweet_count": "37.1K Tweets"
+    "tweet_count": "37.3K Tweets"
   },
   {
     "name": "#vindiesel",
@@ -27,96 +27,96 @@
     "name": "#우리집_큰고양이_리노_생일",
     "query": "#우리집_큰고양이_리노_생일",
     "rank": 5,
-    "tweet_count": "29.5K Tweets"
+    "tweet_count": "29.6K Tweets"
   },
   {
     "name": "Pogba",
     "query": "Pogba",
     "rank": 6,
-    "tweet_count": "32.1K Tweets"
-  },
-  {
-    "name": "Russian",
-    "query": "Russian",
-    "rank": 7,
-    "tweet_count": "52.4K Tweets"
+    "tweet_count": "32.5K Tweets"
   },
   {
     "name": "ТЕБЯ ЛЮБЛЮ",
     "query": "\"ТЕБЯ ЛЮБЛЮ\"",
-    "rank": 8,
-    "tweet_count": "4,022 Tweets"
+    "rank": 7,
+    "tweet_count": "4,082 Tweets"
   },
   {
     "name": "Спутник",
     "query": "Спутник",
+    "rank": 8,
+    "tweet_count": "1,579 Tweets"
+  },
+  {
+    "name": "крыма",
+    "query": "крыма",
     "rank": 9,
-    "tweet_count": "1,540 Tweets"
-  },
-  {
-    "name": "Украину",
-    "query": "Украину",
-    "rank": 10,
-    "tweet_count": "1,817 Tweets"
-  },
-  {
-    "name": "Крыма",
-    "query": "Крыма",
-    "rank": 11,
-    "tweet_count": null
+    "tweet_count": "1,010 Tweets"
   },
   {
     "name": "Ukrainian",
     "query": "Ukrainian",
-    "rank": 12,
-    "tweet_count": "2,705 Tweets"
+    "rank": 10,
+    "tweet_count": "2,755 Tweets"
   },
   {
-    "name": "ДОБРОЕ УТРО",
-    "query": "\"ДОБРОЕ УТРО\"",
-    "rank": 13,
-    "tweet_count": "6,531 Tweets"
-  },
-  {
-    "name": "Liverpool",
-    "query": "Liverpool",
-    "rank": 14,
-    "tweet_count": "145K Tweets"
-  },
-  {
-    "name": "Ronaldo",
-    "query": "Ronaldo",
-    "rank": 15,
-    "tweet_count": "116K Tweets"
+    "name": "доброе утро",
+    "query": "\"доброе утро\"",
+    "rank": 11,
+    "tweet_count": "6,634 Tweets"
   },
   {
     "name": "COVID-19",
     "query": "COVID-19",
-    "rank": 16,
-    "tweet_count": "372K Tweets"
+    "rank": 12,
+    "tweet_count": "377K Tweets"
+  },
+  {
+    "name": "Ronaldo",
+    "query": "Ronaldo",
+    "rank": 13,
+    "tweet_count": "118K Tweets"
   },
   {
     "name": "Болгары",
     "query": "Болгары",
-    "rank": 17,
+    "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "Польше",
-    "query": "Польше",
-    "rank": 18,
+    "name": "польше",
+    "query": "польше",
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Турции",
     "query": "Турции",
-    "rank": 19,
-    "tweet_count": "2,094 Tweets"
+    "rank": 16,
+    "tweet_count": "2,126 Tweets"
   },
   {
-    "name": "СССР",
-    "query": "СССР",
+    "name": "Хорошего",
+    "query": "Хорошего",
+    "rank": 17,
+    "tweet_count": "3,643 Tweets"
+  },
+  {
+    "name": "Halloween",
+    "query": "Halloween",
+    "rank": 18,
+    "tweet_count": "939K Tweets"
+  },
+  {
+    "name": "Украину",
+    "query": "Украину",
+    "rank": 19,
+    "tweet_count": "1,853 Tweets"
+  },
+  {
+    "name": "Слушай",
+    "query": "Слушай",
     "rank": 20,
-    "tweet_count": "4,466 Tweets"
+    "tweet_count": null
   }
 ]
