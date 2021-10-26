@@ -42,16 +42,16 @@
     "tweet_count": null
   },
   {
-    "name": "Saeima",
-    "query": "Saeima",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "Europe",
     "query": "Europe",
+    "rank": 8,
+    "tweet_count": "123K Tweets"
+  },
+  {
+    "name": "Saeima",
+    "query": "Saeima",
     "rank": 9,
-    "tweet_count": "121K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Piekrītu",
@@ -63,7 +63,7 @@
     "name": "Halloween",
     "query": "Halloween",
     "rank": 11,
-    "tweet_count": "997K Tweets"
+    "tweet_count": "1.01M Tweets"
   },
   {
     "name": "#riga",
@@ -87,7 +87,7 @@
     "name": "NFTs",
     "query": "NFTs",
     "rank": 15,
-    "tweet_count": "506K Tweets"
+    "tweet_count": "512K Tweets"
   },
   {
     "name": "labdien",
@@ -108,14 +108,14 @@
     "tweet_count": null
   },
   {
-    "name": "Baltkrievijas",
-    "query": "Baltkrievijas",
+    "name": "baltkrievijas",
+    "query": "baltkrievijas",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "varēja",
-    "query": "varēja",
+    "name": "NMPD",
+    "query": "NMPD",
     "rank": 20,
     "tweet_count": null
   }
