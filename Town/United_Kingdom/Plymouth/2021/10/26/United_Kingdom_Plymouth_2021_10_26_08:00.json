@@ -1,39 +1,39 @@
 [
   {
-    "name": "#CarabaoCup",
-    "query": "#CarabaoCup",
+    "name": "#carabaocup",
+    "query": "#carabaocup",
     "rank": 1,
-    "tweet_count": "1,301 Tweets"
+    "tweet_count": "1,496 Tweets"
   },
   {
     "name": "#COP26",
     "query": "#COP26",
     "rank": 2,
-    "tweet_count": "82K Tweets"
+    "tweet_count": "83.3K Tweets"
   },
   {
     "name": "Victorian",
     "query": "Victorian",
     "rank": 3,
-    "tweet_count": "13.4K Tweets"
+    "tweet_count": "13.6K Tweets"
   },
   {
     "name": "IPOB",
     "query": "IPOB",
     "rank": 4,
-    "tweet_count": "31.6K Tweets"
+    "tweet_count": "32.2K Tweets"
   },
   {
     "name": "#ScottishIndependence10",
     "query": "#ScottishIndependence10",
     "rank": 5,
-    "tweet_count": "25.6K Tweets"
+    "tweet_count": "27.4K Tweets"
   },
   {
-    "name": "#tuesdaymotivations",
-    "query": "#tuesdaymotivations",
+    "name": "#ASongOrMovieForTheScottish",
+    "query": "#ASongOrMovieForTheScottish",
     "rank": 6,
-    "tweet_count": "11.3K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Joanna Lumley",
@@ -42,22 +42,22 @@
     "tweet_count": null
   },
   {
+    "name": "Owen Paterson",
+    "query": "\"Owen Paterson\"",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
     "name": "Hyde Park",
     "query": "\"Hyde Park\"",
-    "rank": 8,
-    "tweet_count": "1,005 Tweets"
+    "rank": 9,
+    "tweet_count": "1,062 Tweets"
   },
   {
     "name": "Animal Rebellion",
     "query": "\"Animal Rebellion\"",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Sir David Attenborough",
-    "query": "\"Sir David Attenborough\"",
     "rank": 10,
-    "tweet_count": "1,268 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Kay Burley",
@@ -66,45 +66,51 @@
     "tweet_count": null
   },
   {
+    "name": "Paul Scully",
+    "query": "\"Paul Scully\"",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "sir david attenborough",
+    "query": "\"sir david attenborough\"",
+    "rank": 13,
+    "tweet_count": "1,362 Tweets"
+  },
+  {
     "name": "Full English",
     "query": "\"Full English\"",
-    "rank": 12,
-    "tweet_count": "4,269 Tweets"
+    "rank": 14,
+    "tweet_count": "4,315 Tweets"
   },
   {
     "name": "Budget",
     "query": "Budget",
-    "rank": 13,
-    "tweet_count": "97.8K Tweets"
-  },
-  {
-    "name": "Homer",
-    "query": "Homer",
-    "rank": 14,
-    "tweet_count": "5,159 Tweets"
+    "rank": 15,
+    "tweet_count": "98.9K Tweets"
   },
   {
     "name": "David Davis",
     "query": "\"David Davis\"",
-    "rank": 15,
-    "tweet_count": "4,538 Tweets"
+    "rank": 16,
+    "tweet_count": "4,652 Tweets"
+  },
+  {
+    "name": "Homer",
+    "query": "Homer",
+    "rank": 17,
+    "tweet_count": "5,223 Tweets"
   },
   {
     "name": "Richard Madeley",
     "query": "\"Richard Madeley\"",
-    "rank": 16,
-    "tweet_count": "4,782 Tweets"
+    "rank": 18,
+    "tweet_count": "4,838 Tweets"
   },
   {
     "name": "Hertz",
     "query": "Hertz",
-    "rank": 17,
-    "tweet_count": "55.4K Tweets"
-  },
-  {
-    "name": "Sunak",
-    "query": "Sunak",
-    "rank": 18,
-    "tweet_count": "21.9K Tweets"
+    "rank": 19,
+    "tweet_count": "55.7K Tweets"
   }
 ]
