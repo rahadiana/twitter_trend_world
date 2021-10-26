@@ -1,80 +1,74 @@
 [
   {
-    "name": "Mr. President",
-    "query": "\"Mr. President\"",
+    "name": "Martha",
+    "query": "Martha",
     "rank": 1,
-    "tweet_count": "7,465 Tweets"
+    "tweet_count": "17.1K Tweets"
   },
   {
-    "name": "#UhuruAt60",
-    "query": "#UhuruAt60",
+    "name": "Mr. President",
+    "query": "\"Mr. President\"",
     "rank": 2,
-    "tweet_count": "12.1K Tweets"
+    "tweet_count": "7,605 Tweets"
+  },
+  {
+    "name": "Politics",
+    "query": "Politics",
+    "rank": 3,
+    "tweet_count": "374K Tweets"
   },
   {
     "name": "Anne Waiguru",
     "query": "\"Anne Waiguru\"",
-    "rank": 3,
-    "tweet_count": "5,398 Tweets"
+    "rank": 4,
+    "tweet_count": "5,909 Tweets"
+  },
+  {
+    "name": "#UhuruAt60",
+    "query": "#UhuruAt60",
+    "rank": 5,
+    "tweet_count": "12.4K Tweets"
   },
   {
     "name": "Ngirici",
     "query": "Ngirici",
-    "rank": 4,
-    "tweet_count": "1,892 Tweets"
+    "rank": 6,
+    "tweet_count": "2,185 Tweets"
+  },
+  {
+    "name": "Kirinyaga",
+    "query": "Kirinyaga",
+    "rank": 7,
+    "tweet_count": "5,393 Tweets"
   },
   {
     "name": "#MartinShabaya",
     "query": "#MartinShabaya",
-    "rank": 5,
-    "tweet_count": "1,795 Tweets"
+    "rank": 8,
+    "tweet_count": "1,838 Tweets"
   },
   {
     "name": "Jubilee",
     "query": "Jubilee",
-    "rank": 6,
-    "tweet_count": "5,194 Tweets"
+    "rank": 9,
+    "tweet_count": "5,380 Tweets"
   },
   {
     "name": "#UhuruKenyatta",
     "query": "#UhuruKenyatta",
-    "rank": 7,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Birds",
     "query": "Birds",
-    "rank": 8,
-    "tweet_count": "47.1K Tweets"
+    "rank": 11,
+    "tweet_count": "47.7K Tweets"
   },
   {
     "name": "Karen",
     "query": "Karen",
-    "rank": 9,
-    "tweet_count": "57.4K Tweets"
-  },
-  {
-    "name": "#mainaandkingangi",
-    "query": "#mainaandkingangi",
-    "rank": 10,
-    "tweet_count": "5,201 Tweets"
-  },
-  {
-    "name": "Islam",
-    "query": "Islam",
-    "rank": 11,
-    "tweet_count": "83.2K Tweets"
-  },
-  {
-    "name": "Mtito Andei",
-    "query": "\"Mtito Andei\"",
     "rank": 12,
-    "tweet_count": "10.3K Tweets"
-  },
-  {
-    "name": "IEBC",
-    "query": "IEBC",
-    "rank": 13,
-    "tweet_count": "1,357 Tweets"
+    "tweet_count": "58.5K Tweets"
   }
 ]
