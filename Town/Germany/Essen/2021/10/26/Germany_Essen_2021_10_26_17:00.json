@@ -1,21 +1,21 @@
 [
   {
-    "name": "Demokratie",
-    "query": "Demokratie",
-    "rank": 1,
-    "tweet_count": "7,120 Tweets"
-  },
-  {
     "name": "#M60S04",
     "query": "#M60S04",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "#SCPBSC",
     "query": "#SCPBSC",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "#DFBPokal",
+    "query": "#DFBPokal",
+    "rank": 3,
+    "tweet_count": "1,980 Tweets"
   },
   {
     "name": "#Kohfeldt",
@@ -24,32 +24,32 @@
     "tweet_count": null
   },
   {
-    "name": "#DFBPokal",
-    "query": "#DFBPokal",
+    "name": "Schalke",
+    "query": "Schalke",
     "rank": 5,
-    "tweet_count": "1,855 Tweets"
+    "tweet_count": "1,716 Tweets"
   },
   {
     "name": "Sorry für Fehler",
     "query": "\"Sorry für Fehler\"",
     "rank": 6,
-    "tweet_count": "1,358 Tweets"
-  },
-  {
-    "name": "Schwalbe",
-    "query": "Schwalbe",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
-    "name": "Schalke",
-    "query": "Schalke",
-    "rank": 8,
-    "tweet_count": "1,570 Tweets"
+    "tweet_count": "1,401 Tweets"
   },
   {
     "name": "Grammozis",
     "query": "Grammozis",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "Demokratie",
+    "query": "Demokratie",
+    "rank": 8,
+    "tweet_count": "7,253 Tweets"
+  },
+  {
+    "name": "Schwalbe",
+    "query": "Schwalbe",
     "rank": 9,
     "tweet_count": null
   },
@@ -57,60 +57,60 @@
     "name": "Parlament",
     "query": "Parlament",
     "rank": 10,
-    "tweet_count": "9,061 Tweets"
+    "tweet_count": "9,304 Tweets"
+  },
+  {
+    "name": "Klaus",
+    "query": "Klaus",
+    "rank": 11,
+    "tweet_count": "8,979 Tweets"
   },
   {
     "name": "Free Palestine",
     "query": "\"Free Palestine\"",
-    "rank": 11,
-    "tweet_count": "6,519 Tweets"
+    "rank": 12,
+    "tweet_count": "6,834 Tweets"
   },
   {
-    "name": "wolfsburg",
-    "query": "wolfsburg",
-    "rank": 12,
-    "tweet_count": "2,150 Tweets"
+    "name": "Wolfsburg",
+    "query": "Wolfsburg",
+    "rank": 13,
+    "tweet_count": "2,212 Tweets"
   },
   {
     "name": "Abgeordnete",
     "query": "Abgeordnete",
-    "rank": 13,
-    "tweet_count": "2,930 Tweets"
-  },
-  {
-    "name": "Fraktionen",
-    "query": "Fraktionen",
     "rank": 14,
-    "tweet_count": null
+    "tweet_count": "2,996 Tweets"
   },
   {
     "name": "Kaufmann",
     "query": "Kaufmann",
     "rank": 15,
-    "tweet_count": "1,815 Tweets"
+    "tweet_count": "1,875 Tweets"
+  },
+  {
+    "name": "Fraktionen",
+    "query": "Fraktionen",
+    "rank": 16,
+    "tweet_count": null
   },
   {
     "name": "Tribüne",
     "query": "Tribüne",
-    "rank": 16,
-    "tweet_count": "2,928 Tweets"
+    "rank": 17,
+    "tweet_count": "2,981 Tweets"
   },
   {
-    "name": "Kandidaten",
-    "query": "Kandidaten",
-    "rank": 17,
-    "tweet_count": "1,185 Tweets"
+    "name": "Volkes",
+    "query": "Volkes",
+    "rank": 18,
+    "tweet_count": "1,272 Tweets"
   },
   {
     "name": "Präsidium",
     "query": "Präsidium",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Klaus",
-    "query": "Klaus",
     "rank": 19,
-    "tweet_count": "8,789 Tweets"
+    "tweet_count": null
   }
 ]
