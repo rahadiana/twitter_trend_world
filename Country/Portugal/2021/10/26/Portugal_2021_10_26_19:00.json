@@ -3,13 +3,13 @@
     "name": "Santa Clara",
     "query": "\"Santa Clara\"",
     "rank": 1,
-    "tweet_count": "2,260 Tweets"
+    "tweet_count": "2,470 Tweets"
   },
   {
-    "name": "Porto",
-    "query": "Porto",
+    "name": "Nanu",
+    "query": "Nanu",
     "rank": 2,
-    "tweet_count": "23.4K Tweets"
+    "tweet_count": "3,664 Tweets"
   },
   {
     "name": "Marcano",
@@ -18,14 +18,14 @@
     "tweet_count": null
   },
   {
-    "name": "Nanu",
-    "query": "Nanu",
-    "rank": 4,
-    "tweet_count": "3,581 Tweets"
-  },
-  {
     "name": "Mbemba",
     "query": "Mbemba",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "Fábio Vieira",
+    "query": "\"Fábio Vieira\"",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,7 +33,7 @@
     "name": "Corona",
     "query": "Corona",
     "rank": 6,
-    "tweet_count": "89.5K Tweets"
+    "tweet_count": "90.8K Tweets"
   },
   {
     "name": "Manafa",
@@ -42,28 +42,28 @@
     "tweet_count": null
   },
   {
+    "name": "O Porto",
+    "query": "\"O Porto\"",
+    "rank": 8,
+    "tweet_count": "6,297 Tweets"
+  },
+  {
     "name": "Bruno Costa",
     "query": "\"Bruno Costa\"",
-    "rank": 8,
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Taça da Liga",
+    "query": "\"Taça da Liga\"",
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Pepê",
     "query": "Pepê",
-    "rank": 9,
-    "tweet_count": "35.3K Tweets"
-  },
-  {
-    "name": "#bbtvi",
-    "query": "#bbtvi",
-    "rank": 10,
-    "tweet_count": "18.8K Tweets"
-  },
-  {
-    "name": "Otávio",
-    "query": "Otávio",
     "rank": 11,
-    "tweet_count": "2,054 Tweets"
+    "tweet_count": "38.2K Tweets"
   },
   {
     "name": "Fábio Cardoso",
@@ -72,51 +72,45 @@
     "tweet_count": null
   },
   {
-    "name": "Jovane",
-    "query": "Jovane",
+    "name": "Rui Rio",
+    "query": "\"Rui Rio\"",
     "rank": 13,
     "tweet_count": null
   },
   {
+    "name": "Marcelo",
+    "query": "Marcelo",
+    "rank": 14,
+    "tweet_count": "25.9K Tweets"
+  },
+  {
+    "name": "Morina",
+    "query": "Morina",
+    "rank": 15,
+    "tweet_count": "3,336 Tweets"
+  },
+  {
+    "name": "Açores",
+    "query": "Açores",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Rangel",
+    "query": "Rangel",
+    "rank": 17,
+    "tweet_count": "5,106 Tweets"
+  },
+  {
     "name": "#OE2022",
     "query": "#OE2022",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "O PS",
-    "query": "\"O PS\"",
-    "rank": 15,
-    "tweet_count": "9,303 Tweets"
-  },
-  {
-    "name": "Conceição",
-    "query": "Conceição",
-    "rank": 16,
-    "tweet_count": "2,580 Tweets"
-  },
-  {
-    "name": "Orçamento",
-    "query": "Orçamento",
-    "rank": 17,
-    "tweet_count": "9,123 Tweets"
-  },
-  {
-    "name": "Halloween",
-    "query": "Halloween",
     "rank": 18,
-    "tweet_count": "1.01M Tweets"
-  },
-  {
-    "name": "be e pcp",
-    "query": "\"be e pcp\"",
-    "rank": 19,
-    "tweet_count": "1,884 Tweets"
-  },
-  {
-    "name": "Taça da Liga",
-    "query": "\"Taça da Liga\"",
-    "rank": 20,
     "tweet_count": null
+  },
+  {
+    "name": "Parlamento",
+    "query": "Parlamento",
+    "rank": 19,
+    "tweet_count": "19.6K Tweets"
   }
 ]
