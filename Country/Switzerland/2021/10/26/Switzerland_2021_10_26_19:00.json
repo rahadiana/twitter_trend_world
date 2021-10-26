@@ -9,29 +9,29 @@
     "name": "#Kimmich",
     "query": "#Kimmich",
     "rank": 2,
-    "tweet_count": "26.8K Tweets"
-  },
-  {
-    "name": "#booster",
-    "query": "#booster",
-    "rank": 3,
-    "tweet_count": "1,841 Tweets"
+    "tweet_count": "27K Tweets"
   },
   {
     "name": "Empfehlung",
     "query": "Empfehlung",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
+  },
+  {
+    "name": "#Booster",
+    "query": "#Booster",
+    "rank": 4,
+    "tweet_count": "1,870 Tweets"
+  },
+  {
+    "name": "#KohLanta",
+    "query": "#KohLanta",
+    "rank": 5,
+    "tweet_count": "4,859 Tweets"
   },
   {
     "name": "#swissmedic",
     "query": "#swissmedic",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "#derbachelor",
-    "query": "#derbachelor",
     "rank": 6,
     "tweet_count": null
   },
@@ -39,17 +39,17 @@
     "name": "Berger",
     "query": "Berger",
     "rank": 7,
-    "tweet_count": "3,307 Tweets"
-  },
-  {
-    "name": "Bevölkerungsgruppen",
-    "query": "Bevölkerungsgruppen",
-    "rank": 8,
-    "tweet_count": null
+    "tweet_count": "3,340 Tweets"
   },
   {
     "name": "Verlauf",
     "query": "Verlauf",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "Bevölkerungsgruppen",
+    "query": "Bevölkerungsgruppen",
     "rank": 9,
     "tweet_count": null
   },
@@ -57,7 +57,7 @@
     "name": "Bundestag",
     "query": "Bundestag",
     "rank": 10,
-    "tweet_count": "33.6K Tweets"
+    "tweet_count": "34K Tweets"
   },
   {
     "name": "Ansteckungen",
@@ -72,16 +72,16 @@
     "tweet_count": null
   },
   {
-    "name": "Firma",
-    "query": "Firma",
-    "rank": 13,
-    "tweet_count": "29K Tweets"
-  },
-  {
     "name": "Logik",
     "query": "Logik",
+    "rank": 13,
+    "tweet_count": "2,866 Tweets"
+  },
+  {
+    "name": "Verstand",
+    "query": "Verstand",
     "rank": 14,
-    "tweet_count": "2,848 Tweets"
+    "tweet_count": "2,599 Tweets"
   },
   {
     "name": "EKIF",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
-    "name": "Verstand",
-    "query": "Verstand",
-    "rank": 16,
-    "tweet_count": "2,556 Tweets"
-  },
-  {
     "name": "Evidenz",
     "query": "Evidenz",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Hertz",
     "query": "Hertz",
-    "rank": 18,
-    "tweet_count": "35.9K Tweets"
+    "rank": 17,
+    "tweet_count": "36.1K Tweets"
   },
   {
     "name": "Langzeitfolgen",
     "query": "Langzeitfolgen",
-    "rank": 19,
-    "tweet_count": "8,131 Tweets"
+    "rank": 18,
+    "tweet_count": "8,196 Tweets"
   },
   {
-    "name": "Lift",
-    "query": "Lift",
+    "name": "Arzt",
+    "query": "Arzt",
+    "rank": 19,
+    "tweet_count": "2,801 Tweets"
+  },
+  {
+    "name": "Mafia",
+    "query": "Mafia",
     "rank": 20,
-    "tweet_count": "36.9K Tweets"
+    "tweet_count": "53.9K Tweets"
   }
 ]

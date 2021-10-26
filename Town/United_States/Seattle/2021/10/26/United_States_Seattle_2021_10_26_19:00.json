@@ -1,87 +1,87 @@
 [
   {
-    "name": "Seahawks",
-    "query": "Seahawks",
-    "rank": 1,
-    "tweet_count": "51.7K Tweets"
-  },
-  {
     "name": "Kim Wyman",
     "query": "\"Kim Wyman\"",
-    "rank": 2,
-    "tweet_count": "3,581 Tweets"
+    "rank": 1,
+    "tweet_count": "3,623 Tweets"
   },
   {
     "name": "Dune 2",
     "query": "\"Dune 2\"",
-    "rank": 3,
-    "tweet_count": "25.1K Tweets"
+    "rank": 2,
+    "tweet_count": "26.6K Tweets"
   },
   {
     "name": "Kyle Rittenhouse",
     "query": "\"Kyle Rittenhouse\"",
-    "rank": 4,
-    "tweet_count": "41.5K Tweets"
+    "rank": 3,
+    "tweet_count": "43.9K Tweets"
   },
   {
-    "name": "#TuesdayFeeling",
-    "query": "#TuesdayFeeling",
+    "name": "Astroworld",
+    "query": "Astroworld",
+    "rank": 4,
+    "tweet_count": "3,145 Tweets"
+  },
+  {
+    "name": "Mediterranean Sea",
+    "query": "\"Mediterranean Sea\"",
     "rank": 5,
-    "tweet_count": "9,475 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Stan Bowman",
     "query": "\"Stan Bowman\"",
     "rank": 6,
-    "tweet_count": "5,439 Tweets"
+    "tweet_count": "5,651 Tweets"
   },
   {
-    "name": "Astroworld",
-    "query": "Astroworld",
+    "name": "#TuesdayFeeling",
+    "query": "#TuesdayFeeling",
     "rank": 7,
-    "tweet_count": "2,867 Tweets"
+    "tweet_count": "9,549 Tweets"
   },
   {
-    "name": "Mike Tomlin",
-    "query": "\"Mike Tomlin\"",
+    "name": "Tomlin",
+    "query": "Tomlin",
     "rank": 8,
-    "tweet_count": "8,793 Tweets"
-  },
-  {
-    "name": "Mediterranean Sea",
-    "query": "\"Mediterranean Sea\"",
-    "rank": 9,
-    "tweet_count": null
+    "tweet_count": "15K Tweets"
   },
   {
     "name": "#NationalPumpkinDay",
     "query": "#NationalPumpkinDay",
+    "rank": 9,
+    "tweet_count": "10.5K Tweets"
+  },
+  {
+    "name": "Ziyech",
+    "query": "Ziyech",
     "rank": 10,
-    "tweet_count": "10.2K Tweets"
+    "tweet_count": "5,365 Tweets"
   },
   {
     "name": "#AdobeMAX",
     "query": "#AdobeMAX",
     "rank": 11,
-    "tweet_count": "8,595 Tweets"
-  },
-  {
-    "name": "#GoldenHarries",
-    "query": "#GoldenHarries",
-    "rank": 12,
-    "tweet_count": "2,959 Tweets"
+    "tweet_count": "8,784 Tweets"
   },
   {
     "name": "#WorldSeries",
     "query": "#WorldSeries",
-    "rank": 13,
-    "tweet_count": "43.1K Tweets"
+    "rank": 12,
+    "tweet_count": "44K Tweets"
   },
   {
-    "name": "Ziyech",
-    "query": "Ziyech",
+    "name": "#GoldenHarries",
+    "query": "#GoldenHarries",
+    "rank": 13,
+    "tweet_count": "3,111 Tweets"
+  },
+  {
+    "name": "Floyd Mayweather",
+    "query": "\"Floyd Mayweather\"",
     "rank": 14,
-    "tweet_count": "3,359 Tweets"
+    "tweet_count": "19K Tweets"
   },
   {
     "name": "Main Street Electrical Parade",
@@ -96,15 +96,9 @@
     "tweet_count": null
   },
   {
-    "name": "Floyd Mayweather",
-    "query": "\"Floyd Mayweather\"",
+    "name": "El Estor",
+    "query": "\"El Estor\"",
     "rank": 17,
-    "tweet_count": "18.6K Tweets"
-  },
-  {
-    "name": "Taco Tuesday",
-    "query": "\"Taco Tuesday\"",
-    "rank": 18,
-    "tweet_count": "3,556 Tweets"
+    "tweet_count": "9,139 Tweets"
   }
 ]

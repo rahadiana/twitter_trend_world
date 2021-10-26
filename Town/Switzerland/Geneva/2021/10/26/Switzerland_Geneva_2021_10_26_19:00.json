@@ -9,19 +9,19 @@
     "name": "#Kimmich",
     "query": "#Kimmich",
     "rank": 2,
-    "tweet_count": "26.8K Tweets"
-  },
-  {
-    "name": "#booster",
-    "query": "#booster",
-    "rank": 3,
-    "tweet_count": "1,838 Tweets"
+    "tweet_count": "27K Tweets"
   },
   {
     "name": "Empfehlung",
     "query": "Empfehlung",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
+  },
+  {
+    "name": "#Booster",
+    "query": "#Booster",
+    "rank": 4,
+    "tweet_count": "1,868 Tweets"
   },
   {
     "name": "#swissmedic",
@@ -33,17 +33,17 @@
     "name": "Berger",
     "query": "Berger",
     "rank": 6,
-    "tweet_count": "3,305 Tweets"
-  },
-  {
-    "name": "Bevölkerungsgruppen",
-    "query": "Bevölkerungsgruppen",
-    "rank": 7,
-    "tweet_count": null
+    "tweet_count": "3,338 Tweets"
   },
   {
     "name": "Verlauf",
     "query": "Verlauf",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "Bevölkerungsgruppen",
+    "query": "Bevölkerungsgruppen",
     "rank": 8,
     "tweet_count": null
   },
@@ -51,7 +51,7 @@
     "name": "Bundestag",
     "query": "Bundestag",
     "rank": 9,
-    "tweet_count": "33.6K Tweets"
+    "tweet_count": "34K Tweets"
   },
   {
     "name": "Ansteckungen",
@@ -66,16 +66,16 @@
     "tweet_count": null
   },
   {
-    "name": "Firma",
-    "query": "Firma",
-    "rank": 12,
-    "tweet_count": "29K Tweets"
-  },
-  {
     "name": "Logik",
     "query": "Logik",
+    "rank": 12,
+    "tweet_count": "2,866 Tweets"
+  },
+  {
+    "name": "Verstand",
+    "query": "Verstand",
     "rank": 13,
-    "tweet_count": "2,845 Tweets"
+    "tweet_count": "2,593 Tweets"
   },
   {
     "name": "EKIF",
@@ -84,33 +84,33 @@
     "tweet_count": null
   },
   {
-    "name": "Verstand",
-    "query": "Verstand",
-    "rank": 15,
-    "tweet_count": "2,544 Tweets"
-  },
-  {
     "name": "Evidenz",
     "query": "Evidenz",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Hertz",
     "query": "Hertz",
-    "rank": 17,
-    "tweet_count": "35.9K Tweets"
+    "rank": 16,
+    "tweet_count": "36.1K Tweets"
   },
   {
     "name": "Langzeitfolgen",
     "query": "Langzeitfolgen",
-    "rank": 18,
-    "tweet_count": "8,124 Tweets"
+    "rank": 17,
+    "tweet_count": "8,192 Tweets"
   },
   {
-    "name": "Lift",
-    "query": "Lift",
+    "name": "Arzt",
+    "query": "Arzt",
+    "rank": 18,
+    "tweet_count": "2,796 Tweets"
+  },
+  {
+    "name": "Mafia",
+    "query": "Mafia",
     "rank": 19,
-    "tweet_count": "36.9K Tweets"
+    "tweet_count": "53.9K Tweets"
   }
 ]
