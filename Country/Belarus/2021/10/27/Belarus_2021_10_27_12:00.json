@@ -1,104 +1,110 @@
 [
   {
+    "name": "#Беларусь",
+    "query": "#Беларусь",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "#PGLMajor",
     "query": "#PGLMajor",
-    "rank": 1,
-    "tweet_count": "4,763 Tweets"
+    "rank": 2,
+    "tweet_count": "4,854 Tweets"
+  },
+  {
+    "name": "Halloween",
+    "query": "Halloween",
+    "rank": 3,
+    "tweet_count": "1.05M Tweets"
   },
   {
     "name": "#schwarzenegger",
     "query": "#schwarzenegger",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "#twiby",
-    "query": "#twiby",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "Минска",
-    "query": "Минска",
     "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "#GenshinImpact",
-    "query": "#GenshinImpact",
+    "name": "#ClimateAction",
+    "query": "#ClimateAction",
     "rank": 5,
-    "tweet_count": "155K Tweets"
+    "tweet_count": "17.3K Tweets"
   },
   {
-    "name": "Беларуси",
-    "query": "Беларуси",
+    "name": "#twiby",
+    "query": "#twiby",
     "rank": 6,
-    "tweet_count": "1,402 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "COVID-19",
-    "query": "COVID-19",
+    "name": "Понимаю",
+    "query": "Понимаю",
     "rank": 7,
-    "tweet_count": "384K Tweets"
-  },
-  {
-    "name": "#CSGO",
-    "query": "#CSGO",
-    "rank": 8,
-    "tweet_count": "12.4K Tweets"
-  },
-  {
-    "name": "нормально",
-    "query": "нормально",
-    "rank": 9,
-    "tweet_count": "6,892 Tweets"
-  },
-  {
-    "name": "Жаль",
-    "query": "Жаль",
-    "rank": 10,
-    "tweet_count": "4,303 Tweets"
+    "tweet_count": "12.6K Tweets"
   },
   {
     "name": "Скорее",
     "query": "Скорее",
-    "rank": 11,
-    "tweet_count": "5,163 Tweets"
+    "rank": 8,
+    "tweet_count": "5,333 Tweets"
   },
   {
-    "name": "путина",
-    "query": "путина",
-    "rank": 12,
-    "tweet_count": "4,419 Tweets"
+    "name": "Жаль",
+    "query": "Жаль",
+    "rank": 9,
+    "tweet_count": "4,444 Tweets"
   },
   {
-    "name": "Похоже",
-    "query": "Похоже",
-    "rank": 13,
-    "tweet_count": "3,081 Tweets"
+    "name": "выглядит",
+    "query": "выглядит",
+    "rank": 10,
+    "tweet_count": "4,523 Tweets"
   },
   {
     "name": "Точно",
     "query": "Точно",
+    "rank": 11,
+    "tweet_count": "9,228 Tweets"
+  },
+  {
+    "name": "Минска",
+    "query": "Минска",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "Нормально",
+    "query": "Нормально",
+    "rank": 13,
+    "tweet_count": "7,119 Tweets"
+  },
+  {
+    "name": "Путина",
+    "query": "Путина",
     "rank": 14,
-    "tweet_count": "8,945 Tweets"
+    "tweet_count": "4,582 Tweets"
   },
   {
     "name": "Круто",
     "query": "Круто",
     "rank": 15,
-    "tweet_count": "3,934 Tweets"
+    "tweet_count": "4,063 Tweets"
   },
   {
-    "name": "Лукашенко",
-    "query": "Лукашенко",
+    "name": "COVID-19",
+    "query": "COVID-19",
     "rank": 16,
-    "tweet_count": "2,138 Tweets"
+    "tweet_count": "395K Tweets"
   },
   {
-    "name": "Полностью",
-    "query": "Полностью",
+    "name": "Аааа",
+    "query": "Аааа",
     "rank": 17,
-    "tweet_count": "3,229 Tweets"
+    "tweet_count": "1,385 Tweets"
+  },
+  {
+    "name": "НЕ МОГУ",
+    "query": "\"НЕ МОГУ\"",
+    "rank": 18,
+    "tweet_count": "15.3K Tweets"
   }
 ]
