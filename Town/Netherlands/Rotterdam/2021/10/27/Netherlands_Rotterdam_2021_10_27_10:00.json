@@ -1,39 +1,39 @@
 [
   {
-    "name": "Feyenoord",
-    "query": "Feyenoord",
-    "rank": 1,
-    "tweet_count": "2,909 Tweets"
-  },
-  {
     "name": "Koevermans",
     "query": "Koevermans",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Black Hand",
+    "query": "\"Black Hand\"",
+    "rank": 2,
+    "tweet_count": "2,855 Tweets"
   },
   {
     "name": "Omtzigt",
     "query": "Omtzigt",
     "rank": 3,
-    "tweet_count": "1,199 Tweets"
+    "tweet_count": "1,227 Tweets"
   },
   {
     "name": "Kuipers",
     "query": "Kuipers",
     "rank": 4,
-    "tweet_count": "3,049 Tweets"
+    "tweet_count": "3,103 Tweets"
   },
   {
     "name": "Raisa",
     "query": "Raisa",
     "rank": 5,
-    "tweet_count": "3,453 Tweets"
+    "tweet_count": "3,515 Tweets"
   },
   {
-    "name": "Osterhaus",
-    "query": "Osterhaus",
+    "name": "#Feyenoord",
+    "query": "#Feyenoord",
     "rank": 6,
-    "tweet_count": "2,140 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Welkom Energie",
@@ -42,63 +42,69 @@
     "tweet_count": null
   },
   {
+    "name": "Ab Osterhaus",
+    "query": "\"Ab Osterhaus\"",
+    "rank": 8,
+    "tweet_count": "1,623 Tweets"
+  },
+  {
     "name": "Eneco",
     "query": "Eneco",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Huis",
     "query": "Huis",
-    "rank": 9,
-    "tweet_count": "5,319 Tweets"
+    "rank": 10,
+    "tweet_count": "5,389 Tweets"
   },
   {
     "name": "Jinek",
     "query": "Jinek",
-    "rank": 10,
-    "tweet_count": "11K Tweets"
+    "rank": 11,
+    "tweet_count": "11.2K Tweets"
   },
   {
     "name": "Defensie",
     "query": "Defensie",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Hoekstra",
     "query": "Hoekstra",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "OMT-leden",
     "query": "OMT-leden",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "#formatie",
     "query": "#formatie",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "eNaira",
     "query": "eNaira",
-    "rank": 15,
-    "tweet_count": "16.3K Tweets"
+    "rank": 16,
+    "tweet_count": "16.5K Tweets"
   },
   {
     "name": "#QRterreur",
     "query": "#QRterreur",
-    "rank": 16,
-    "tweet_count": "2,031 Tweets"
+    "rank": 17,
+    "tweet_count": "2,049 Tweets"
   },
   {
     "name": "#RIVM",
     "query": "#RIVM",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
   }
 ]

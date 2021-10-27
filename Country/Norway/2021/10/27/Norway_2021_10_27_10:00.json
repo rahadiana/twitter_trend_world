@@ -1,27 +1,27 @@
 [
   {
-    "name": "HBO Max",
-    "query": "\"HBO Max\"",
+    "name": "stortinget",
+    "query": "stortinget",
     "rank": 1,
-    "tweet_count": "19.7K Tweets"
-  },
-  {
-    "name": "Stortinget",
-    "query": "Stortinget",
-    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Halloween",
     "query": "Halloween",
+    "rank": 2,
+    "tweet_count": "1.04M Tweets"
+  },
+  {
+    "name": "HBO Max",
+    "query": "\"HBO Max\"",
     "rank": 3,
-    "tweet_count": "1.03M Tweets"
+    "tweet_count": "19.9K Tweets"
   },
   {
     "name": "Conte",
     "query": "Conte",
     "rank": 4,
-    "tweet_count": "52.5K Tweets"
+    "tweet_count": "52.8K Tweets"
   },
   {
     "name": "belgia",
@@ -45,7 +45,7 @@
     "name": "Ben White",
     "query": "\"Ben White\"",
     "rank": 8,
-    "tweet_count": "7,270 Tweets"
+    "tweet_count": "7,301 Tweets"
   },
   {
     "name": "#nrkdebatt",
@@ -57,7 +57,7 @@
     "name": "#PGLMajor",
     "query": "#PGLMajor",
     "rank": 10,
-    "tweet_count": "5,382 Tweets"
+    "tweet_count": "5,434 Tweets"
   },
   {
     "name": "bibelen",
@@ -69,7 +69,7 @@
     "name": "Glasgow",
     "query": "Glasgow",
     "rank": 12,
-    "tweet_count": "77.9K Tweets"
+    "tweet_count": "78.6K Tweets"
   },
   {
     "name": "#klimafrokost",
@@ -81,41 +81,41 @@
     "name": "Berg",
     "query": "Berg",
     "rank": 14,
-    "tweet_count": "5,452 Tweets"
-  },
-  {
-    "name": "Norge",
-    "query": "Norge",
-    "rank": 15,
-    "tweet_count": "1,823 Tweets"
+    "tweet_count": "5,497 Tweets"
   },
   {
     "name": "Equinor",
     "query": "Equinor",
-    "rank": 16,
-    "tweet_count": "1,041 Tweets"
+    "rank": 15,
+    "tweet_count": "1,056 Tweets"
   },
   {
     "name": "#CSGO",
     "query": "#CSGO",
-    "rank": 17,
-    "tweet_count": "12.8K Tweets"
+    "rank": 16,
+    "tweet_count": "12.9K Tweets"
   },
   {
     "name": "enova",
     "query": "enova",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Ferguson",
     "query": "Ferguson",
-    "rank": 19,
-    "tweet_count": "45.9K Tweets"
+    "rank": 18,
+    "tweet_count": "46K Tweets"
   },
   {
     "name": "fant",
     "query": "fant",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "tonje brenna",
+    "query": "\"tonje brenna\"",
     "rank": 20,
     "tweet_count": null
   }
