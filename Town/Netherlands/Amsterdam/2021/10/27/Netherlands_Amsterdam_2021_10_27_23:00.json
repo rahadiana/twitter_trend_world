@@ -3,25 +3,25 @@
     "name": "Koeman",
     "query": "Koeman",
     "rank": 1,
-    "tweet_count": "283K Tweets"
+    "tweet_count": "288K Tweets"
   },
   {
     "name": "Bayern",
     "query": "Bayern",
     "rank": 2,
-    "tweet_count": "135K Tweets"
+    "tweet_count": "136K Tweets"
+  },
+  {
+    "name": "#nieuwsuur",
+    "query": "#nieuwsuur",
+    "rank": 3,
+    "tweet_count": "1,590 Tweets"
   },
   {
     "name": "#ikvertrek",
     "query": "#ikvertrek",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "#Nieuwsuur",
-    "query": "#Nieuwsuur",
     "rank": 4,
-    "tweet_count": "1,586 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#hetperfecteplaatje",
@@ -45,7 +45,7 @@
     "name": "Kees",
     "query": "Kees",
     "rank": 8,
-    "tweet_count": "1,007 Tweets"
+    "tweet_count": "1,013 Tweets"
   },
   {
     "name": "Eneco",
@@ -57,13 +57,13 @@
     "name": "Emmen",
     "query": "Emmen",
     "rank": 10,
-    "tweet_count": "1,864 Tweets"
+    "tweet_count": "1,868 Tweets"
   },
   {
     "name": "#Stateofplay",
     "query": "#Stateofplay",
     "rank": 11,
-    "tweet_count": "16.3K Tweets"
+    "tweet_count": "16.5K Tweets"
   },
   {
     "name": "#rankingthestars",
@@ -75,7 +75,7 @@
     "name": "#SHIBARMY",
     "query": "#SHIBARMY",
     "rank": 13,
-    "tweet_count": "308K Tweets"
+    "tweet_count": "310K Tweets"
   },
   {
     "name": "#RAYBAR",
@@ -90,27 +90,27 @@
     "tweet_count": null
   },
   {
+    "name": "#Welkomenergie",
+    "query": "#Welkomenergie",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
     "name": "#Op1npo",
     "query": "#Op1npo",
-    "rank": 16,
-    "tweet_count": "1,090 Tweets"
-  },
-  {
-    "name": "#welkomenergie",
-    "query": "#welkomenergie",
     "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "#KNVBbeker",
-    "query": "#KNVBbeker",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "1,093 Tweets"
   },
   {
     "name": "#FirstDates",
     "query": "#FirstDates",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": "1,400 Tweets"
+  },
+  {
+    "name": "#KNVBbeker",
+    "query": "#KNVBbeker",
+    "rank": 19,
+    "tweet_count": null
   }
 ]
