@@ -3,19 +3,19 @@
     "name": "Christchurch",
     "query": "Christchurch",
     "rank": 1,
-    "tweet_count": "1,157 Tweets"
-  },
-  {
-    "name": "Auckland",
-    "query": "Auckland",
-    "rank": 2,
-    "tweet_count": "3,606 Tweets"
+    "tweet_count": "1,258 Tweets"
   },
   {
     "name": "Chch",
     "query": "Chch",
+    "rank": 2,
+    "tweet_count": "1,941 Tweets"
+  },
+  {
+    "name": "Auckland",
+    "query": "Auckland",
     "rank": 3,
-    "tweet_count": "1,880 Tweets"
+    "tweet_count": "3,687 Tweets"
   },
   {
     "name": "South Island",
@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "Three Waters",
-    "query": "\"Three Waters\"",
-    "rank": 5,
-    "tweet_count": "1,545 Tweets"
-  },
-  {
     "name": "Russell Coutts",
     "query": "\"Russell Coutts\"",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "Three Waters",
+    "query": "\"Three Waters\"",
+    "rank": 6,
+    "tweet_count": "1,571 Tweets"
   },
   {
     "name": "Waitangi",
@@ -48,10 +48,10 @@
     "tweet_count": null
   },
   {
-    "name": "councils",
-    "query": "councils",
+    "name": "Councils",
+    "query": "Councils",
     "rank": 9,
-    "tweet_count": "7,173 Tweets"
+    "tweet_count": "7,300 Tweets"
   },
   {
     "name": "3 Waters",
@@ -60,63 +60,63 @@
     "tweet_count": null
   },
   {
+    "name": "Covid",
+    "query": "Covid",
+    "rank": 11,
+    "tweet_count": "1.13M Tweets"
+  },
+  {
+    "name": "Chris Hipkins",
+    "query": "\"Chris Hipkins\"",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
     "name": "#ResignJacinda",
     "query": "#ResignJacinda",
-    "rank": 11,
-    "tweet_count": "1,406 Tweets"
+    "rank": 13,
+    "tweet_count": "1,415 Tweets"
   },
   {
     "name": "#footballferns",
     "query": "#footballferns",
-    "rank": 12,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Shib",
     "query": "Shib",
-    "rank": 13,
-    "tweet_count": "763K Tweets"
-  },
-  {
-    "name": "#COVID19",
-    "query": "#COVID19",
-    "rank": 14,
-    "tweet_count": "122K Tweets"
-  },
-  {
-    "name": "Chris Hipkins",
-    "query": "\"Chris Hipkins\"",
     "rank": 15,
-    "tweet_count": null
+    "tweet_count": "783K Tweets"
   },
   {
     "name": "Snapchat",
     "query": "Snapchat",
     "rank": 16,
-    "tweet_count": "51.1K Tweets"
+    "tweet_count": "51.8K Tweets"
   },
   {
     "name": "Pakistan",
     "query": "Pakistan",
     "rank": 17,
-    "tweet_count": "398K Tweets"
+    "tweet_count": "401K Tweets"
   },
   {
     "name": "#nzvspak",
     "query": "#nzvspak",
     "rank": 18,
-    "tweet_count": "4,723 Tweets"
+    "tweet_count": "4,729 Tweets"
   },
   {
     "name": "Canterbury",
     "query": "Canterbury",
     "rank": 19,
-    "tweet_count": "1,919 Tweets"
+    "tweet_count": "1,935 Tweets"
   },
   {
-    "name": "Bible",
-    "query": "Bible",
+    "name": "Air NZ",
+    "query": "\"Air NZ\"",
     "rank": 20,
-    "tweet_count": "49.3K Tweets"
+    "tweet_count": null
   }
 ]
