@@ -1,19 +1,19 @@
 [
   {
-    "name": "pavļuta",
-    "query": "pavļuta",
+    "name": "Pavļuta",
+    "query": "Pavļuta",
     "rank": 1,
-    "tweet_count": null
-  },
-  {
-    "name": "Veselību",
-    "query": "Veselību",
-    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "latvijas ārstu",
     "query": "\"latvijas ārstu\"",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "Veselību",
+    "query": "Veselību",
     "rank": 3,
     "tweet_count": null
   },
@@ -87,7 +87,7 @@
     "name": "COVID-19",
     "query": "COVID-19",
     "rank": 15,
-    "tweet_count": "398K Tweets"
+    "tweet_count": "400K Tweets"
   },
   {
     "name": "NMPD",
