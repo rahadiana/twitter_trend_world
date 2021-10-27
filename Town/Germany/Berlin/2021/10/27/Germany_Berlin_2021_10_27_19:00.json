@@ -1,33 +1,33 @@
 [
   {
-    "name": "Halloween",
-    "query": "Halloween",
-    "rank": 1,
-    "tweet_count": "1.03M Tweets"
-  },
-  {
     "name": "#fcunion",
     "query": "#fcunion",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Halloween",
+    "query": "Halloween",
+    "rank": 2,
+    "tweet_count": "1.04M Tweets"
   },
   {
     "name": "#BMGFCB",
     "query": "#BMGFCB",
     "rank": 3,
-    "tweet_count": "7,292 Tweets"
-  },
-  {
-    "name": "#DFBPokal",
-    "query": "#DFBPokal",
-    "rank": 4,
-    "tweet_count": "6,826 Tweets"
+    "tweet_count": "8,426 Tweets"
   },
   {
     "name": "Gladbach",
     "query": "Gladbach",
+    "rank": 4,
+    "tweet_count": "8,384 Tweets"
+  },
+  {
+    "name": "#DFBPokal",
+    "query": "#DFBPokal",
     "rank": 5,
-    "tweet_count": "7,247 Tweets"
+    "tweet_count": "7,318 Tweets"
   },
   {
     "name": "#BOCFCA",
@@ -36,87 +36,87 @@
     "tweet_count": null
   },
   {
-    "name": "#sgdfcsp",
-    "query": "#sgdfcsp",
+    "name": "#Sommerhaus",
+    "query": "#Sommerhaus",
     "rank": 7,
-    "tweet_count": "1,746 Tweets"
+    "tweet_count": "3,359 Tweets"
   },
   {
     "name": "Mike",
     "query": "Mike",
     "rank": 8,
-    "tweet_count": "145K Tweets"
+    "tweet_count": "146K Tweets"
   },
   {
-    "name": "Elfer",
-    "query": "Elfer",
+    "name": "Riemann",
+    "query": "Riemann",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Elfmeter",
-    "query": "Elfmeter",
+    "name": "Yasin",
+    "query": "Yasin",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "7,029 Tweets"
   },
   {
-    "name": "Michelle",
-    "query": "Michelle",
+    "name": "Elfer",
+    "query": "Elfer",
     "rank": 11,
-    "tweet_count": "35.2K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Nagelsmann",
     "query": "Nagelsmann",
     "rank": 12,
-    "tweet_count": "1,604 Tweets"
+    "tweet_count": "1,827 Tweets"
+  },
+  {
+    "name": "Leverkusen",
+    "query": "Leverkusen",
+    "rank": 13,
+    "tweet_count": "2,992 Tweets"
+  },
+  {
+    "name": "Elfmeter",
+    "query": "Elfmeter",
+    "rank": 14,
+    "tweet_count": null
   },
   {
     "name": "Upamecano",
     "query": "Upamecano",
-    "rank": 13,
-    "tweet_count": "3,110 Tweets"
+    "rank": 15,
+    "tweet_count": "3,249 Tweets"
+  },
+  {
+    "name": "Michelle",
+    "query": "Michelle",
+    "rank": 16,
+    "tweet_count": "35.6K Tweets"
   },
   {
     "name": "Hernandez",
     "query": "Hernandez",
-    "rank": 14,
-    "tweet_count": "47.9K Tweets"
+    "rank": 17,
+    "tweet_count": "48.7K Tweets"
   },
   {
     "name": "Koeman",
     "query": "Koeman",
-    "rank": 15,
-    "tweet_count": "81.7K Tweets"
-  },
-  {
-    "name": "Hofmann",
-    "query": "Hofmann",
-    "rank": 16,
-    "tweet_count": null
+    "rank": 18,
+    "tweet_count": "87.8K Tweets"
   },
   {
     "name": "Borussia",
     "query": "Borussia",
-    "rank": 17,
-    "tweet_count": "8,381 Tweets"
-  },
-  {
-    "name": "Sören",
-    "query": "Sören",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Steff",
-    "query": "Steff",
     "rank": 19,
-    "tweet_count": "2,056 Tweets"
+    "tweet_count": "9,203 Tweets"
   },
   {
-    "name": "Verlängerung",
-    "query": "Verlängerung",
+    "name": "Hofmann",
+    "query": "Hofmann",
     "rank": 20,
-    "tweet_count": "1,006 Tweets"
+    "tweet_count": null
   }
 ]

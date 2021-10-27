@@ -1,39 +1,39 @@
 [
   {
-    "name": "Alfa Semedo",
-    "query": "\"Alfa Semedo\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Nemanja",
     "query": "Nemanja",
-    "rank": 2,
-    "tweet_count": "1,236 Tweets"
+    "rank": 1,
+    "tweet_count": "1,283 Tweets"
   },
   {
     "name": "Pizzi",
     "query": "Pizzi",
+    "rank": 2,
+    "tweet_count": "1,347 Tweets"
+  },
+  {
+    "name": "Alfa Semedo",
+    "query": "\"Alfa Semedo\"",
     "rank": 3,
-    "tweet_count": "1,295 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Radonjic",
     "query": "Radonjic",
     "rank": 4,
-    "tweet_count": "1,741 Tweets"
+    "tweet_count": "1,886 Tweets"
   },
   {
     "name": "#OE2022",
     "query": "#OE2022",
     "rank": 5,
-    "tweet_count": "2,758 Tweets"
+    "tweet_count": "2,824 Tweets"
   },
   {
     "name": "Marcelo",
     "query": "Marcelo",
     "rank": 6,
-    "tweet_count": "30.3K Tweets"
+    "tweet_count": "30.6K Tweets"
   },
   {
     "name": "Multibanco",
@@ -45,7 +45,7 @@
     "name": "Vitória",
     "query": "Vitória",
     "rank": 8,
-    "tweet_count": "40.5K Tweets"
+    "tweet_count": "41.3K Tweets"
   },
   {
     "name": "Meite",
@@ -54,10 +54,10 @@
     "tweet_count": null
   },
   {
-    "name": "Guimarães",
-    "query": "Guimarães",
+    "name": "guimarães",
+    "query": "guimarães",
     "rank": 10,
-    "tweet_count": "2,929 Tweets"
+    "tweet_count": "2,988 Tweets"
   },
   {
     "name": "João Mário",
@@ -69,7 +69,7 @@
     "name": "Varela",
     "query": "Varela",
     "rank": 12,
-    "tweet_count": "7,300 Tweets"
+    "tweet_count": "7,405 Tweets"
   },
   {
     "name": "Helton",
@@ -81,23 +81,23 @@
     "name": "Costa",
     "query": "Costa",
     "rank": 14,
-    "tweet_count": "76.6K Tweets"
-  },
-  {
-    "name": "Juventus",
-    "query": "Juventus",
-    "rank": 15,
-    "tweet_count": "25.9K Tweets"
-  },
-  {
-    "name": "Sagres",
-    "query": "Sagres",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "77.7K Tweets"
   },
   {
     "name": "Taarabt",
     "query": "Taarabt",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Juventus",
+    "query": "Juventus",
+    "rank": 16,
+    "tweet_count": "26.7K Tweets"
+  },
+  {
+    "name": "Sagres",
+    "query": "Sagres",
     "rank": 17,
     "tweet_count": null
   },
@@ -105,18 +105,18 @@
     "name": "Falcão",
     "query": "Falcão",
     "rank": 18,
-    "tweet_count": "58.2K Tweets"
-  },
-  {
-    "name": "#OE22",
-    "query": "#OE22",
-    "rank": 19,
-    "tweet_count": null
+    "tweet_count": "61K Tweets"
   },
   {
     "name": "Koeman",
     "query": "Koeman",
+    "rank": 19,
+    "tweet_count": "88.1K Tweets"
+  },
+  {
+    "name": "#oe22",
+    "query": "#oe22",
     "rank": 20,
-    "tweet_count": "82.5K Tweets"
+    "tweet_count": null
   }
 ]
