@@ -1,122 +1,104 @@
 [
   {
+    "name": "#Canucks",
+    "query": "#Canucks",
+    "rank": 1,
+    "tweet_count": "4,792 Tweets"
+  },
+  {
     "name": "Petey",
     "query": "Petey",
-    "rank": 1,
-    "tweet_count": "1,192 Tweets"
-  },
-  {
-    "name": "Wild",
-    "query": "Wild",
     "rank": 2,
-    "tweet_count": "229K Tweets"
+    "tweet_count": "1,209 Tweets"
   },
   {
-    "name": "Buzz Lightyear",
-    "query": "\"Buzz Lightyear\"",
+    "name": "WILD",
+    "query": "WILD",
     "rank": 3,
-    "tweet_count": "12.7K Tweets"
+    "tweet_count": "236K Tweets"
+  },
+  {
+    "name": "#Lightyear",
+    "query": "#Lightyear",
+    "rank": 4,
+    "tweet_count": "31K Tweets"
   },
   {
     "name": "Pope Francis",
     "query": "\"Pope Francis\"",
-    "rank": 4,
-    "tweet_count": "3,440 Tweets"
-  },
-  {
-    "name": "#wednesdaythought",
-    "query": "#wednesdaythought",
     "rank": 5,
-    "tweet_count": "23.3K Tweets"
-  },
-  {
-    "name": "Cabinet",
-    "query": "Cabinet",
-    "rank": 6,
-    "tweet_count": "54.7K Tweets"
+    "tweet_count": "3,728 Tweets"
   },
   {
     "name": "#DressPurpleDay2021",
     "query": "#DressPurpleDay2021",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
   },
   {
-    "name": "Blackhawks",
-    "query": "Blackhawks",
-    "rank": 8,
-    "tweet_count": "31.4K Tweets"
-  },
-  {
-    "name": "#WorldSeries",
-    "query": "#WorldSeries",
-    "rank": 9,
-    "tweet_count": "92K Tweets"
+    "name": "#wednesdaythought",
+    "query": "#wednesdaythought",
+    "rank": 7,
+    "tweet_count": "24.3K Tweets"
   },
   {
     "name": "SJSE",
     "query": "SJSE",
-    "rank": 10,
+    "rank": 8,
     "tweet_count": null
+  },
+  {
+    "name": "Bank of Canada",
+    "query": "\"Bank of Canada\"",
+    "rank": 9,
+    "tweet_count": "1,565 Tweets"
   },
   {
     "name": "Mile One",
     "query": "\"Mile One\"",
-    "rank": 11,
-    "tweet_count": "1,427 Tweets"
-  },
-  {
-    "name": "#flames1stgoal",
-    "query": "#flames1stgoal",
-    "rank": 12,
-    "tweet_count": null
+    "rank": 10,
+    "tweet_count": "1,487 Tweets"
   },
   {
     "name": "Growlers",
     "query": "Growlers",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "Lagacé",
+    "query": "Lagacé",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "#SHIB",
+    "query": "#SHIB",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "233K Tweets"
   },
   {
-    "name": "Ashayo Johnson",
-    "query": "\"Ashayo Johnson\"",
+    "name": "La Presse",
+    "query": "\"La Presse\"",
     "rank": 14,
-    "tweet_count": "1,284 Tweets"
+    "tweet_count": "12.8K Tweets"
   },
   {
-    "name": "Minister",
-    "query": "Minister",
+    "name": "Team Canada",
+    "query": "\"Team Canada\"",
     "rank": 15,
-    "tweet_count": "222K Tweets"
+    "tweet_count": "2,956 Tweets"
   },
   {
-    "name": "Halloween",
-    "query": "Halloween",
+    "name": "Olympics",
+    "query": "Olympics",
     "rank": 16,
-    "tweet_count": "1.01M Tweets"
+    "tweet_count": "22.6K Tweets"
   },
   {
-    "name": "Toy Story",
-    "query": "\"Toy Story\"",
+    "name": "#polcan",
+    "query": "#polcan",
     "rank": 17,
-    "tweet_count": "6,015 Tweets"
-  },
-  {
-    "name": "#Canucks",
-    "query": "#Canucks",
-    "rank": 18,
-    "tweet_count": "4,774 Tweets"
-  },
-  {
-    "name": "Josh Cavallo",
-    "query": "\"Josh Cavallo\"",
-    "rank": 19,
-    "tweet_count": "10.1K Tweets"
-  },
-  {
-    "name": "Grand Montréal",
-    "query": "\"Grand Montréal\"",
-    "rank": 20,
-    "tweet_count": null
+    "tweet_count": "1,779 Tweets"
   }
 ]

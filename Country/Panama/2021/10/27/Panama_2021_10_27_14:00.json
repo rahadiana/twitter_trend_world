@@ -1,51 +1,51 @@
 [
   {
-    "name": "Interamericana",
-    "query": "Interamericana",
-    "rank": 1,
-    "tweet_count": "4,511 Tweets"
-  },
-  {
-    "name": "Edgardo Voitier",
-    "query": "\"Edgardo Voitier\"",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
     "name": "Vista Alegre",
     "query": "\"Vista Alegre\"",
-    "rank": 3,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "Divisa",
     "query": "Divisa",
+    "rank": 2,
+    "tweet_count": "1,841 Tweets"
+  },
+  {
+    "name": "Edgardo Voitier",
+    "query": "\"Edgardo Voitier\"",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "Interamericana",
+    "query": "Interamericana",
     "rank": 4,
-    "tweet_count": "1,812 Tweets"
-  },
-  {
-    "name": "Santiago",
-    "query": "Santiago",
-    "rank": 5,
-    "tweet_count": "46.6K Tweets"
-  },
-  {
-    "name": "Colón",
-    "query": "Colón",
-    "rank": 6,
-    "tweet_count": "14.7K Tweets"
+    "tweet_count": "4,571 Tweets"
   },
   {
     "name": "hato montaña",
     "query": "\"hato montaña\"",
-    "rank": 7,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Arraiján",
     "query": "Arraiján",
-    "rank": 8,
+    "rank": 6,
     "tweet_count": null
+  },
+  {
+    "name": "Santiago",
+    "query": "Santiago",
+    "rank": 7,
+    "tweet_count": "47.7K Tweets"
+  },
+  {
+    "name": "Colón",
+    "query": "Colón",
+    "rank": 8,
+    "tweet_count": "15K Tweets"
   },
   {
     "name": "Panamá Oeste",
@@ -81,13 +81,13 @@
     "name": "#BattleATL",
     "query": "#BattleATL",
     "rank": 14,
-    "tweet_count": "53.3K Tweets"
+    "tweet_count": "53.6K Tweets"
   },
   {
     "name": "Mainz",
     "query": "Mainz",
     "rank": 15,
-    "tweet_count": "1,996 Tweets"
+    "tweet_count": "2,013 Tweets"
   },
   {
     "name": "Johan Camargo",
@@ -99,7 +99,7 @@
     "name": "Color Fav",
     "query": "\"Color Fav\"",
     "rank": 17,
-    "tweet_count": "4,651 Tweets"
+    "tweet_count": "4,718 Tweets"
   },
   {
     "name": "#26oct21",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "Flor",
-    "query": "Flor",
+    "name": "EE.UU.",
+    "query": "EE.UU.",
     "rank": 19,
-    "tweet_count": "27.8K Tweets"
+    "tweet_count": "20.7K Tweets"
   },
   {
-    "name": "Andrade",
-    "query": "Andrade",
+    "name": "Flor",
+    "query": "Flor",
     "rank": 20,
-    "tweet_count": "9,628 Tweets"
+    "tweet_count": "28.2K Tweets"
   }
 ]
