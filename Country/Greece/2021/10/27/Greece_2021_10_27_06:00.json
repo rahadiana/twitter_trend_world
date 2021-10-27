@@ -1,45 +1,45 @@
 [
   {
-    "name": "#GNTMgr",
-    "query": "#GNTMgr",
+    "name": "#gntmgr",
+    "query": "#gntmgr",
     "rank": 1,
-    "tweet_count": "6,264 Tweets"
+    "tweet_count": "6,276 Tweets"
   },
   {
     "name": "#shoppingstar",
     "query": "#shoppingstar",
     "rank": 2,
-    "tweet_count": "1,233 Tweets"
+    "tweet_count": "1,235 Tweets"
+  },
+  {
+    "name": "Καλημερα Κατια",
+    "query": "\"Καλημερα Κατια\"",
+    "rank": 3,
+    "tweet_count": null
   },
   {
     "name": "#με_την_Αστυνομια",
     "query": "#με_την_Αστυνομια",
-    "rank": 3,
-    "tweet_count": "4,155 Tweets"
+    "rank": 4,
+    "tweet_count": "4,343 Tweets"
   },
   {
     "name": "#ask_arkady",
     "query": "#ask_arkady",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "#ΠαιδωνΑγιαΣοφια27",
     "query": "#ΠαιδωνΑγιαΣοφια27",
-    "rank": 5,
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "Χρονια Πολλα",
     "query": "\"Χρονια Πολλα\"",
-    "rank": 6,
-    "tweet_count": "14K Tweets"
-  },
-  {
-    "name": "Πολυχρονος",
-    "query": "Πολυχρονος",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "14.1K Tweets"
   },
   {
     "name": "Πολυχρονος",
@@ -48,8 +48,8 @@
     "tweet_count": null
   },
   {
-    "name": "Καλημερα Μαιρη",
-    "query": "\"Καλημερα Μαιρη\"",
+    "name": "Πολυχρονος",
+    "query": "Πολυχρονος",
     "rank": 9,
     "tweet_count": null
   },
@@ -57,7 +57,7 @@
     "name": "Αννα",
     "query": "Αννα",
     "rank": 10,
-    "tweet_count": "1,739 Tweets"
+    "tweet_count": "1,745 Tweets"
   },
   {
     "name": "Καλημερα Θεοδωρα",
@@ -69,7 +69,7 @@
     "name": "Ρομα",
     "query": "Ρομα",
     "rank": 12,
-    "tweet_count": "8,962 Tweets"
+    "tweet_count": "9,160 Tweets"
   },
   {
     "name": "27 Οκτωβριου",
@@ -78,14 +78,14 @@
     "tweet_count": null
   },
   {
-    "name": "ΑΤ Ζωγραφου",
-    "query": "\"ΑΤ Ζωγραφου\"",
+    "name": "κυβελη",
+    "query": "κυβελη",
     "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "κυβελη",
-    "query": "κυβελη",
+    "name": "Καλημερααααα",
+    "query": "Καλημερααααα",
     "rank": 15,
     "tweet_count": null
   },
@@ -102,20 +102,20 @@
     "tweet_count": null
   },
   {
+    "name": "Καλημερα Μαιρη",
+    "query": "\"Καλημερα Μαιρη\"",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
     "name": "μαθιος",
     "query": "μαθιος",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "ολγα",
     "query": "ολγα",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "νασος",
-    "query": "νασος",
     "rank": 20,
     "tweet_count": null
   }
