@@ -1,25 +1,25 @@
 [
   {
-    "name": "HBO Max",
-    "query": "\"HBO Max\"",
+    "name": "Belgia",
+    "query": "Belgia",
     "rank": 1,
-    "tweet_count": "19.2K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#PAKvNZ",
     "query": "#PAKvNZ",
     "rank": 2,
-    "tweet_count": "133K Tweets"
+    "tweet_count": "134K Tweets"
+  },
+  {
+    "name": "HBO Max",
+    "query": "\"HBO Max\"",
+    "rank": 3,
+    "tweet_count": "19.4K Tweets"
   },
   {
     "name": "Jagland",
     "query": "Jagland",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "Belgia",
-    "query": "Belgia",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,61 +27,61 @@
     "name": "Conte",
     "query": "Conte",
     "rank": 5,
-    "tweet_count": "40.6K Tweets"
+    "tweet_count": "41.3K Tweets"
   },
   {
     "name": "Halloween",
     "query": "Halloween",
     "rank": 6,
-    "tweet_count": "1.01M Tweets"
-  },
-  {
-    "name": "bibelen",
-    "query": "bibelen",
-    "rank": 7,
-    "tweet_count": null
+    "tweet_count": "1.03M Tweets"
   },
   {
     "name": "#nrkdebatt",
     "query": "#nrkdebatt",
-    "rank": 8,
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Squid Game",
     "query": "\"Squid Game\"",
-    "rank": 9,
-    "tweet_count": "99.5K Tweets"
+    "rank": 8,
+    "tweet_count": "102K Tweets"
   },
   {
     "name": "#PGLMajor",
     "query": "#PGLMajor",
+    "rank": 9,
+    "tweet_count": "4,917 Tweets"
+  },
+  {
+    "name": "bibelen",
+    "query": "bibelen",
     "rank": 10,
-    "tweet_count": "4,683 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Glasgow",
-    "query": "Glasgow",
+    "name": "#COP26Glasgow",
+    "query": "#COP26Glasgow",
     "rank": 11,
-    "tweet_count": "78.2K Tweets"
+    "tweet_count": "14.8K Tweets"
   },
   {
-    "name": "Equinor",
-    "query": "Equinor",
+    "name": "#2hockey",
+    "query": "#2hockey",
     "rank": 12,
-    "tweet_count": "1,146 Tweets"
-  },
-  {
-    "name": "#CSGO",
-    "query": "#CSGO",
-    "rank": 13,
-    "tweet_count": "11.9K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Venstre",
     "query": "Venstre",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
+  },
+  {
+    "name": "Equinor",
+    "query": "Equinor",
+    "rank": 14,
+    "tweet_count": "1,174 Tweets"
   },
   {
     "name": "enova",
@@ -90,20 +90,20 @@
     "tweet_count": null
   },
   {
-    "name": "#Sudan",
-    "query": "#Sudan",
-    "rank": 16,
-    "tweet_count": "17.7K Tweets"
-  },
-  {
     "name": "Fant",
     "query": "Fant",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "tonje brenna",
     "query": "\"tonje brenna\"",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "arktis",
+    "query": "arktis",
     "rank": 18,
     "tweet_count": null
   },
@@ -111,12 +111,12 @@
     "name": "Florida",
     "query": "Florida",
     "rank": 19,
-    "tweet_count": "128K Tweets"
+    "tweet_count": "130K Tweets"
   },
   {
     "name": "Lavrov",
     "query": "Lavrov",
     "rank": 20,
-    "tweet_count": "1,337 Tweets"
+    "tweet_count": "1,487 Tweets"
   }
 ]
