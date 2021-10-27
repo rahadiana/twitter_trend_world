@@ -1,57 +1,57 @@
 [
   {
-    "name": "Helton",
-    "query": "Helton",
-    "rank": 1,
-    "tweet_count": "1,014 Tweets"
-  },
-  {
     "name": "Vitória",
     "query": "Vitória",
+    "rank": 1,
+    "tweet_count": "42K Tweets"
+  },
+  {
+    "name": "Helton",
+    "query": "Helton",
     "rank": 2,
-    "tweet_count": "41.5K Tweets"
+    "tweet_count": "1,075 Tweets"
   },
   {
     "name": "Guimarães",
     "query": "Guimarães",
     "rank": 3,
-    "tweet_count": "3,216 Tweets"
+    "tweet_count": "3,323 Tweets"
   },
   {
-    "name": "pizzi",
-    "query": "pizzi",
+    "name": "Covilhã",
+    "query": "Covilhã",
     "rank": 4,
-    "tweet_count": "1,421 Tweets"
-  },
-  {
-    "name": "Nemanja",
-    "query": "Nemanja",
-    "rank": 5,
-    "tweet_count": "1,418 Tweets"
-  },
-  {
-    "name": "João Mário",
-    "query": "\"João Mário\"",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "Alfa Semedo",
-    "query": "\"Alfa Semedo\"",
-    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "O Bayern",
     "query": "\"O Bayern\"",
-    "rank": 8,
-    "tweet_count": "7,609 Tweets"
+    "rank": 5,
+    "tweet_count": "8,045 Tweets"
   },
   {
-    "name": "Radonjic",
-    "query": "Radonjic",
+    "name": "Pizzi",
+    "query": "Pizzi",
+    "rank": 6,
+    "tweet_count": "1,454 Tweets"
+  },
+  {
+    "name": "João Mário",
+    "query": "\"João Mário\"",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "Alfa Semedo",
+    "query": "\"Alfa Semedo\"",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "Nemanja",
+    "query": "Nemanja",
     "rank": 9,
-    "tweet_count": "2,288 Tweets"
+    "tweet_count": "1,460 Tweets"
   },
   {
     "name": "Meite",
@@ -60,26 +60,26 @@
     "tweet_count": null
   },
   {
-    "name": "Covilhã",
-    "query": "Covilhã",
+    "name": "Radonjic",
+    "query": "Radonjic",
     "rank": 11,
-    "tweet_count": null
+    "tweet_count": "2,381 Tweets"
   },
   {
     "name": "#OE2022",
     "query": "#OE2022",
     "rank": 12,
-    "tweet_count": "2,985 Tweets"
+    "tweet_count": "3,022 Tweets"
   },
   {
     "name": "Marcelo",
     "query": "Marcelo",
     "rank": 13,
-    "tweet_count": "30K Tweets"
+    "tweet_count": "30.2K Tweets"
   },
   {
-    "name": "Multibanco",
-    "query": "Multibanco",
+    "name": "multibanco",
+    "query": "multibanco",
     "rank": 14,
     "tweet_count": null
   },
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
+    "name": "Gonçalo Ramos",
+    "query": "\"Gonçalo Ramos\"",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
     "name": "Everton",
     "query": "Everton",
-    "rank": 16,
-    "tweet_count": "9,324 Tweets"
+    "rank": 17,
+    "tweet_count": "9,423 Tweets"
+  },
+  {
+    "name": "Pepa",
+    "query": "Pepa",
+    "rank": 18,
+    "tweet_count": "3,280 Tweets"
   },
   {
     "name": "Varela",
     "query": "Varela",
-    "rank": 17,
-    "tweet_count": "7,450 Tweets"
-  },
-  {
-    "name": "Sagres",
-    "query": "Sagres",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Gonçalo Ramos",
-    "query": "\"Gonçalo Ramos\"",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "7,427 Tweets"
   },
   {
     "name": "#VSCSLB",
     "query": "#VSCSLB",
     "rank": 20,
-    "tweet_count": "1,157 Tweets"
+    "tweet_count": "1,198 Tweets"
   }
 ]
