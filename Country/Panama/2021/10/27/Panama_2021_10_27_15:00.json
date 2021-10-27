@@ -1,27 +1,27 @@
 [
   {
-    "name": "Vista Alegre",
-    "query": "\"Vista Alegre\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#PCAs",
     "query": "#PCAs",
-    "rank": 2,
-    "tweet_count": "355K Tweets"
+    "rank": 1,
+    "tweet_count": "441K Tweets"
   },
   {
     "name": "Divisa",
     "query": "Divisa",
-    "rank": 3,
-    "tweet_count": "1,913 Tweets"
+    "rank": 2,
+    "tweet_count": "1,925 Tweets"
   },
   {
-    "name": "edgardo voitier",
-    "query": "\"edgardo voitier\"",
-    "rank": 4,
+    "name": "Edgardo Voitier",
+    "query": "\"Edgardo Voitier\"",
+    "rank": 3,
     "tweet_count": null
+  },
+  {
+    "name": "interamericana",
+    "query": "interamericana",
+    "rank": 4,
+    "tweet_count": "4,553 Tweets"
   },
   {
     "name": "#iglesiabendicion",
@@ -30,10 +30,10 @@
     "tweet_count": null
   },
   {
-    "name": "Interamericana",
-    "query": "Interamericana",
+    "name": "#ParkingHistorico",
+    "query": "#ParkingHistorico",
     "rank": 6,
-    "tweet_count": "4,535 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Día del Estudiante",
@@ -42,81 +42,81 @@
     "tweet_count": null
   },
   {
-    "name": "#ParkingHistorico",
-    "query": "#ParkingHistorico",
+    "name": "Colón",
+    "query": "Colón",
     "rank": 8,
+    "tweet_count": "15.5K Tweets"
+  },
+  {
+    "name": "#pauta",
+    "query": "#pauta",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Vista Alegre",
+    "query": "\"Vista Alegre\"",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "hato montaña",
+    "query": "\"hato montaña\"",
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Santiago",
     "query": "Santiago",
-    "rank": 9,
-    "tweet_count": "47.8K Tweets"
-  },
-  {
-    "name": "Colón",
-    "query": "Colón",
-    "rank": 10,
-    "tweet_count": "15.3K Tweets"
-  },
-  {
-    "name": "#pauta",
-    "query": "#pauta",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Hato Montaña",
-    "query": "\"Hato Montaña\"",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "48.4K Tweets"
   },
   {
-    "name": "Endara",
-    "query": "Endara",
+    "name": "Panamá",
+    "query": "Panamá",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "17.4K Tweets"
   },
   {
     "name": "EE.UU.",
     "query": "EE.UU.",
     "rank": 14,
-    "tweet_count": "21.2K Tweets"
-  },
-  {
-    "name": "Panamá",
-    "query": "Panamá",
-    "rank": 15,
-    "tweet_count": "17.2K Tweets"
-  },
-  {
-    "name": "Johan Camargo",
-    "query": "\"Johan Camargo\"",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Arraiján",
-    "query": "Arraiján",
-    "rank": 17,
-    "tweet_count": null
+    "tweet_count": "21.5K Tweets"
   },
   {
     "name": "Mainz",
     "query": "Mainz",
-    "rank": 18,
-    "tweet_count": "1,662 Tweets"
+    "rank": 15,
+    "tweet_count": "1,674 Tweets"
   },
   {
     "name": "Chilibre",
     "query": "Chilibre",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Johan Camargo",
+    "query": "\"Johan Camargo\"",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "arraiján",
+    "query": "arraiján",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "ATTT",
+    "query": "ATTT",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Bravos",
-    "query": "Bravos",
+    "name": "Color Fav",
+    "query": "\"Color Fav\"",
     "rank": 20,
-    "tweet_count": "10.7K Tweets"
+    "tweet_count": "4,768 Tweets"
   }
 ]

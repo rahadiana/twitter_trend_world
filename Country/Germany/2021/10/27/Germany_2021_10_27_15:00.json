@@ -3,7 +3,7 @@
     "name": "#PCAs",
     "query": "#PCAs",
     "rank": 1,
-    "tweet_count": "355K Tweets"
+    "tweet_count": "447K Tweets"
   },
   {
     "name": "#Ofarim",
@@ -12,28 +12,28 @@
     "tweet_count": null
   },
   {
+    "name": "#TXT_Frost",
+    "query": "#TXT_Frost",
+    "rank": 3,
+    "tweet_count": "226K Tweets"
+  },
+  {
     "name": "#Supermarktschlager",
     "query": "#Supermarktschlager",
-    "rank": 3,
-    "tweet_count": "3,810 Tweets"
+    "rank": 4,
+    "tweet_count": "3,845 Tweets"
   },
   {
     "name": "#Kretschmer",
     "query": "#Kretschmer",
-    "rank": 4,
-    "tweet_count": "1,360 Tweets"
+    "rank": 5,
+    "tweet_count": "1,389 Tweets"
   },
   {
     "name": "Polen",
     "query": "Polen",
-    "rank": 5,
-    "tweet_count": "7,827 Tweets"
-  },
-  {
-    "name": "#TXT_Frost",
-    "query": "#TXT_Frost",
     "rank": 6,
-    "tweet_count": "215K Tweets"
+    "tweet_count": "8,001 Tweets"
   },
   {
     "name": "Dr. Hammer",
@@ -45,13 +45,13 @@
     "name": "März 2022",
     "query": "\"März 2022\"",
     "rank": 8,
-    "tweet_count": "1,600 Tweets"
+    "tweet_count": "1,650 Tweets"
   },
   {
     "name": "Christian Lindner",
     "query": "\"Christian Lindner\"",
     "rank": 9,
-    "tweet_count": "1,315 Tweets"
+    "tweet_count": "1,374 Tweets"
   },
   {
     "name": "Ministerpräsidenten",
@@ -60,32 +60,32 @@
     "tweet_count": null
   },
   {
-    "name": "Notlage",
-    "query": "Notlage",
-    "rank": 11,
-    "tweet_count": "3,294 Tweets"
-  },
-  {
     "name": "Freedom Day",
     "query": "\"Freedom Day\"",
-    "rank": 12,
-    "tweet_count": "12.4K Tweets"
-  },
-  {
-    "name": "Mauern",
-    "query": "Mauern",
-    "rank": 13,
-    "tweet_count": "1,206 Tweets"
+    "rank": 11,
+    "tweet_count": "12.6K Tweets"
   },
   {
     "name": "Klischees",
     "query": "Klischees",
-    "rank": 14,
+    "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "Tragweite",
-    "query": "Tragweite",
+    "name": "Notlage",
+    "query": "Notlage",
+    "rank": 13,
+    "tweet_count": "3,322 Tweets"
+  },
+  {
+    "name": "Mauer",
+    "query": "Mauer",
+    "rank": 14,
+    "tweet_count": "1,016 Tweets"
+  },
+  {
+    "name": "tragweite",
+    "query": "tragweite",
     "rank": 15,
     "tweet_count": null
   },
@@ -99,7 +99,7 @@
     "name": "#CisWithTheT",
     "query": "#CisWithTheT",
     "rank": 17,
-    "tweet_count": "18.3K Tweets"
+    "tweet_count": "18.9K Tweets"
   },
   {
     "name": "#EuGH",
@@ -114,8 +114,8 @@
     "tweet_count": null
   },
   {
-    "name": "#ltnrw",
-    "query": "#ltnrw",
+    "name": "#sgdfcsp",
+    "query": "#sgdfcsp",
     "rank": 20,
     "tweet_count": null
   }
