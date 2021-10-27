@@ -1,33 +1,33 @@
 [
   {
+    "name": "#فرج_عامر",
+    "query": "#فرج_عامر",
+    "rank": 1,
+    "tweet_count": "1,358 Tweets"
+  },
+  {
     "name": "الاهلي",
     "query": "الاهلي",
-    "rank": 1,
-    "tweet_count": "116K Tweets"
+    "rank": 2,
+    "tweet_count": "121K Tweets"
   },
   {
     "name": "بيرسي تاو",
     "query": "\"بيرسي تاو\"",
-    "rank": 2,
-    "tweet_count": "6,621 Tweets"
+    "rank": 3,
+    "tweet_count": "8,270 Tweets"
   },
   {
     "name": "عبد القادر",
     "query": "\"عبد القادر\"",
-    "rank": 3,
-    "tweet_count": "1,660 Tweets"
-  },
-  {
-    "name": "#فرج_عامر",
-    "query": "#فرج_عامر",
     "rank": 4,
-    "tweet_count": "1,354 Tweets"
+    "tweet_count": "1,863 Tweets"
   },
   {
     "name": "البايرن",
     "query": "البايرن",
     "rank": 5,
-    "tweet_count": "2,577 Tweets"
+    "tweet_count": "3,934 Tweets"
   },
   {
     "name": "حوار البرجر",
@@ -42,40 +42,40 @@
     "tweet_count": null
   },
   {
+    "name": "حمدي فتحي",
+    "query": "\"حمدي فتحي\"",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
     "name": "علي برجر",
     "query": "\"علي برجر\"",
-    "rank": 8,
-    "tweet_count": "1,531 Tweets"
+    "rank": 9,
+    "tweet_count": "1,659 Tweets"
   },
   {
     "name": "برشلونة",
     "query": "برشلونة",
-    "rank": 9,
-    "tweet_count": "24.4K Tweets"
+    "rank": 10,
+    "tweet_count": "25.8K Tweets"
   },
   {
     "name": "باهر المحمدي",
     "query": "\"باهر المحمدي\"",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "حمدي فتحي",
-    "query": "\"حمدي فتحي\"",
-    "rank": 11,
+    "name": "عصر المانجا",
+    "query": "\"عصر المانجا\"",
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "#يلا_يا_اهلي",
     "query": "#يلا_يا_اهلي",
-    "rank": 12,
-    "tweet_count": "1,416 Tweets"
-  },
-  {
-    "name": "كومان",
-    "query": "كومان",
     "rank": 13,
-    "tweet_count": "8,808 Tweets"
+    "tweet_count": "2,108 Tweets"
   },
   {
     "name": "ميسي تاو",
@@ -84,26 +84,26 @@
     "tweet_count": null
   },
   {
+    "name": "كومان",
+    "query": "كومان",
+    "rank": 15,
+    "tweet_count": "9,451 Tweets"
+  },
+  {
     "name": "ديباي",
     "query": "ديباي",
-    "rank": 15,
-    "tweet_count": "2,560 Tweets"
-  },
-  {
-    "name": "احمد عادل",
-    "query": "\"احمد عادل\"",
     "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "ريد فلاج",
-    "query": "\"ريد فلاج\"",
-    "rank": 17,
-    "tweet_count": null
+    "tweet_count": "2,586 Tweets"
   },
   {
     "name": "علي لطفي",
     "query": "\"علي لطفي\"",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "احمد عادل",
+    "query": "\"احمد عادل\"",
     "rank": 18,
     "tweet_count": null
   },
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "الشوط الاول",
-    "query": "\"الشوط الاول\"",
+    "name": "ريد فلاج",
+    "query": "\"ريد فلاج\"",
     "rank": 20,
-    "tweet_count": "2,342 Tweets"
+    "tweet_count": null
   }
 ]
