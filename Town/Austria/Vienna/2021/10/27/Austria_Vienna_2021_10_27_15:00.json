@@ -1,9 +1,9 @@
 [
   {
-    "name": "bunker",
-    "query": "bunker",
+    "name": "Bunker",
+    "query": "Bunker",
     "rank": 1,
-    "tweet_count": "5,491 Tweets"
+    "tweet_count": "5,616 Tweets"
   },
   {
     "name": "#Nationalfeiertag",
@@ -12,26 +12,26 @@
     "tweet_count": null
   },
   {
-    "name": "Bundesheer",
-    "query": "Bundesheer",
-    "rank": 3,
-    "tweet_count": "1,065 Tweets"
-  },
-  {
     "name": "Thiem",
     "query": "Thiem",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "Bundesheer",
+    "query": "Bundesheer",
     "rank": 4,
+    "tweet_count": "1,087 Tweets"
+  },
+  {
+    "name": "abzeichen",
+    "query": "abzeichen",
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "#niraut",
     "query": "#niraut",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Abzeichen",
-    "query": "Abzeichen",
     "rank": 6,
     "tweet_count": null
   },
@@ -45,7 +45,7 @@
     "name": "Soldat",
     "query": "Soldat",
     "rank": 8,
-    "tweet_count": "3,165 Tweets"
+    "tweet_count": "3,367 Tweets"
   },
   {
     "name": "#Waldbrand",
@@ -54,16 +54,16 @@
     "tweet_count": null
   },
   {
-    "name": "#w2610",
-    "query": "#w2610",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
     "name": "Symbol",
     "query": "Symbol",
+    "rank": 10,
+    "tweet_count": "39.4K Tweets"
+  },
+  {
+    "name": "#w2610",
+    "query": "#w2610",
     "rank": 11,
-    "tweet_count": "38.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Wappen",
@@ -75,48 +75,48 @@
     "name": "Tanner",
     "query": "Tanner",
     "rank": 13,
-    "tweet_count": "3,557 Tweets"
+    "tweet_count": "3,612 Tweets"
   },
   {
     "name": "Polen",
     "query": "Polen",
     "rank": 14,
-    "tweet_count": "7,407 Tweets"
+    "tweet_count": "7,813 Tweets"
   },
   {
     "name": "Patch",
     "query": "Patch",
     "rank": 15,
-    "tweet_count": "38.1K Tweets"
+    "tweet_count": "38.8K Tweets"
   },
   {
     "name": "Holz",
     "query": "Holz",
     "rank": 16,
-    "tweet_count": "1,367 Tweets"
+    "tweet_count": "1,396 Tweets"
+  },
+  {
+    "name": "Krapfen",
+    "query": "Krapfen",
+    "rank": 17,
+    "tweet_count": null
   },
   {
     "name": "Uniform",
     "query": "Uniform",
-    "rank": 17,
-    "tweet_count": "21.8K Tweets"
+    "rank": 18,
+    "tweet_count": "22.3K Tweets"
   },
   {
     "name": "Partie",
     "query": "Partie",
-    "rank": 18,
-    "tweet_count": "26.6K Tweets"
-  },
-  {
-    "name": "Helm",
-    "query": "Helm",
     "rank": 19,
-    "tweet_count": "7,281 Tweets"
+    "tweet_count": "27.2K Tweets"
   },
   {
     "name": "Riss",
     "query": "Riss",
     "rank": 20,
-    "tweet_count": "1,553 Tweets"
+    "tweet_count": "1,469 Tweets"
   }
 ]

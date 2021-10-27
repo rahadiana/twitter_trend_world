@@ -6,32 +6,32 @@
     "tweet_count": null
   },
   {
-    "name": "Veselību",
-    "query": "Veselību",
+    "name": "veselību",
+    "query": "veselību",
     "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "saeima",
-    "query": "saeima",
+    "name": "Saeima",
+    "query": "Saeima",
     "rank": 3,
     "tweet_count": null
   },
   {
-    "name": "Ārstu",
-    "query": "Ārstu",
-    "rank": 4,
-    "tweet_count": "1,095 Tweets"
-  },
-  {
     "name": "Kremļa",
     "query": "Kremļa",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "Latvijas Ārstu",
+    "query": "\"Latvijas Ārstu\"",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "#teirdarbs",
-    "query": "#teirdarbs",
+    "name": "aizsilniece",
+    "query": "aizsilniece",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,20 +42,20 @@
     "tweet_count": null
   },
   {
-    "name": "Aizsilniece",
-    "query": "Aizsilniece",
+    "name": "Gobzemu",
+    "query": "Gobzemu",
     "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "gobzemu",
-    "query": "gobzemu",
-    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "#Barbecue",
     "query": "#Barbecue",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "kariņu",
+    "query": "kariņu",
     "rank": 10,
     "tweet_count": null
   },
@@ -66,56 +66,56 @@
     "tweet_count": null
   },
   {
-    "name": "Kariņu",
-    "query": "Kariņu",
+    "name": "turklāt",
+    "query": "turklāt",
     "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Turklāt",
-    "query": "Turklāt",
-    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Taisnība",
     "query": "Taisnība",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Europe",
-    "query": "Europe",
-    "rank": 15,
-    "tweet_count": "103K Tweets"
-  },
-  {
-    "name": "#Covid19LV",
-    "query": "#Covid19LV",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "NMPD",
-    "query": "NMPD",
-    "rank": 17,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "COVID-19",
     "query": "COVID-19",
-    "rank": 18,
-    "tweet_count": "389K Tweets"
+    "rank": 14,
+    "tweet_count": "397K Tweets"
+  },
+  {
+    "name": "Europe",
+    "query": "Europe",
+    "rank": 15,
+    "tweet_count": "105K Tweets"
+  },
+  {
+    "name": "#covid19lv",
+    "query": "#covid19lv",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "nmpd",
+    "query": "nmpd",
+    "rank": 17,
+    "tweet_count": null
   },
   {
     "name": "Vāciju",
     "query": "Vāciju",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "#teirdarbs",
+    "query": "#teirdarbs",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "zini",
-    "query": "zini",
+    "name": "Zini",
+    "query": "Zini",
     "rank": 20,
     "tweet_count": null
   }
