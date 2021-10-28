@@ -1,116 +1,110 @@
 [
   {
-    "name": "Lakers",
-    "query": "Lakers",
+    "name": "Meta",
+    "query": "Meta",
     "rank": 1,
-    "tweet_count": "103K Tweets"
+    "tweet_count": "130K Tweets"
   },
   {
     "name": "jungkook",
     "query": "jungkook",
     "rank": 2,
-    "tweet_count": "1.01M Tweets"
+    "tweet_count": "1.04M Tweets"
   },
   {
     "name": "Manchin",
     "query": "Manchin",
     "rank": 3,
-    "tweet_count": "224K Tweets"
+    "tweet_count": "230K Tweets"
   },
   {
     "name": "Arm Barn",
     "query": "\"Arm Barn\"",
     "rank": 4,
-    "tweet_count": "1,630 Tweets"
+    "tweet_count": "2,343 Tweets"
   },
   {
     "name": "#NationalFirstRespondersDay",
     "query": "#NationalFirstRespondersDay",
     "rank": 5,
-    "tweet_count": "4,349 Tweets"
-  },
-  {
-    "name": "Jada",
-    "query": "Jada",
-    "rank": 6,
-    "tweet_count": "169K Tweets"
-  },
-  {
-    "name": "#BuildBackBetter",
-    "query": "#BuildBackBetter",
-    "rank": 7,
-    "tweet_count": "22.8K Tweets"
-  },
-  {
-    "name": "Kasie",
-    "query": "Kasie",
-    "rank": 8,
-    "tweet_count": "27.6K Tweets"
-  },
-  {
-    "name": "#BossTalks",
-    "query": "#BossTalks",
-    "rank": 9,
-    "tweet_count": "10.9K Tweets"
-  },
-  {
-    "name": "frank ocean",
-    "query": "\"frank ocean\"",
-    "rank": 10,
-    "tweet_count": "44K Tweets"
+    "tweet_count": "4,616 Tweets"
   },
   {
     "name": "#Facebookconnect",
     "query": "#Facebookconnect",
-    "rank": 11,
-    "tweet_count": "1,256 Tweets"
+    "rank": 6,
+    "tweet_count": "1,756 Tweets"
   },
   {
-    "name": "Brian Cox",
-    "query": "\"Brian Cox\"",
+    "name": "Jada",
+    "query": "Jada",
+    "rank": 7,
+    "tweet_count": "175K Tweets"
+  },
+  {
+    "name": "#BossTalks",
+    "query": "#BossTalks",
+    "rank": 8,
+    "tweet_count": "11.7K Tweets"
+  },
+  {
+    "name": "#BuildBackBetter",
+    "query": "#BuildBackBetter",
+    "rank": 9,
+    "tweet_count": "24K Tweets"
+  },
+  {
+    "name": "Kasie",
+    "query": "Kasie",
+    "rank": 10,
+    "tweet_count": "30.1K Tweets"
+  },
+  {
+    "name": "frank ocean",
+    "query": "\"frank ocean\"",
+    "rank": 11,
+    "tweet_count": "46.3K Tweets"
+  },
+  {
+    "name": "Ready Player One",
+    "query": "\"Ready Player One\"",
     "rank": 12,
-    "tweet_count": "4,219 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#PBPitch",
     "query": "#PBPitch",
     "rank": 13,
-    "tweet_count": "5,977 Tweets"
+    "tweet_count": "6,371 Tweets"
+  },
+  {
+    "name": "Brian Cox",
+    "query": "\"Brian Cox\"",
+    "rank": 14,
+    "tweet_count": "4,416 Tweets"
   },
   {
     "name": "Lord of the Flies",
     "query": "\"Lord of the Flies\"",
-    "rank": 14,
-    "tweet_count": "3,487 Tweets"
+    "rank": 15,
+    "tweet_count": "3,960 Tweets"
   },
   {
     "name": "Wattson",
     "query": "Wattson",
-    "rank": 15,
-    "tweet_count": "3,837 Tweets"
-  },
-  {
-    "name": "Shino",
-    "query": "Shino",
     "rank": 16,
-    "tweet_count": "18.8K Tweets"
+    "tweet_count": "4,204 Tweets"
   },
   {
-    "name": "Joakim Noah",
-    "query": "\"Joakim Noah\"",
+    "name": "Second Life",
+    "query": "\"Second Life\"",
     "rank": 17,
-    "tweet_count": "6,480 Tweets"
+    "tweet_count": "7,352 Tweets"
   },
   {
-    "name": "Framework",
-    "query": "Framework",
+    "name": "Alphabet",
+    "query": "Alphabet",
     "rank": 18,
-    "tweet_count": "65.4K Tweets"
-  },
-  {
-    "name": "Vbank",
-    "query": "Vbank",
-    "rank": 19,
-    "tweet_count": "3,016 Tweets"
+    "tweet_count": "8,643 Tweets"
   }
 ]
