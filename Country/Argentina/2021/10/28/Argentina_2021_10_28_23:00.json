@@ -1,39 +1,39 @@
 [
   {
-    "name": "Meta",
-    "query": "Meta",
-    "rank": 1,
-    "tweet_count": "462K Tweets"
-  },
-  {
-    "name": "#CinturitaRemix",
-    "query": "#CinturitaRemix",
-    "rank": 2,
-    "tweet_count": "13.4K Tweets"
-  },
-  {
-    "name": "#LollapaloozaConLike",
-    "query": "#LollapaloozaConLike",
-    "rank": 3,
-    "tweet_count": "11.1K Tweets"
-  },
-  {
     "name": "#MacriBuscaImpunidad",
     "query": "#MacriBuscaImpunidad",
-    "rank": 4,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Meta",
+    "query": "Meta",
+    "rank": 2,
+    "tweet_count": "468K Tweets"
   },
   {
     "name": "nicki",
     "query": "nicki",
-    "rank": 5,
-    "tweet_count": "32.6K Tweets"
+    "rank": 3,
+    "tweet_count": "32.9K Tweets"
+  },
+  {
+    "name": "#CinturitaRemix",
+    "query": "#CinturitaRemix",
+    "rank": 4,
+    "tweet_count": "15.4K Tweets"
   },
   {
     "name": "yolanda",
     "query": "yolanda",
+    "rank": 5,
+    "tweet_count": "101K Tweets"
+  },
+  {
+    "name": "#LollapaloozaConLike",
+    "query": "#LollapaloozaConLike",
     "rank": 6,
-    "tweet_count": "99.8K Tweets"
+    "tweet_count": "11.2K Tweets"
   },
   {
     "name": "PARTE DE MI",
@@ -45,49 +45,49 @@
     "name": "#louieslvslouis",
     "query": "#louieslvslouis",
     "rank": 8,
-    "tweet_count": "2,154 Tweets"
+    "tweet_count": "2,259 Tweets"
   },
   {
     "name": "#dlibyhproject",
     "query": "#dlibyhproject",
     "rank": 9,
-    "tweet_count": "2,453 Tweets"
+    "tweet_count": "2,563 Tweets"
   },
   {
     "name": "OH NA NA OUT AT MIDNIGHT",
     "query": "\"OH NA NA OUT AT MIDNIGHT\"",
     "rank": 10,
-    "tweet_count": "9,239 Tweets"
+    "tweet_count": "9,755 Tweets"
   },
   {
     "name": "Paredes",
     "query": "Paredes",
     "rank": 11,
-    "tweet_count": "8,596 Tweets"
+    "tweet_count": "8,677 Tweets"
   },
   {
     "name": "Mark Zuckerberg",
     "query": "\"Mark Zuckerberg\"",
     "rank": 12,
-    "tweet_count": "61.2K Tweets"
-  },
-  {
-    "name": "Bava",
-    "query": "Bava",
-    "rank": 13,
-    "tweet_count": "26K Tweets"
-  },
-  {
-    "name": "BASTA DE POLENTA",
-    "query": "\"BASTA DE POLENTA\"",
-    "rank": 14,
-    "tweet_count": "8,045 Tweets"
+    "tweet_count": "61.9K Tweets"
   },
   {
     "name": "Alfonsín",
     "query": "Alfonsín",
+    "rank": 13,
+    "tweet_count": "6,085 Tweets"
+  },
+  {
+    "name": "Bava",
+    "query": "Bava",
+    "rank": 14,
+    "tweet_count": "26.3K Tweets"
+  },
+  {
+    "name": "BASTA DE POLENTA",
+    "query": "\"BASTA DE POLENTA\"",
     "rank": 15,
-    "tweet_count": "5,969 Tweets"
+    "tweet_count": "8,142 Tweets"
   },
   {
     "name": "Thiago Almada",
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
-    "name": "Doja",
-    "query": "Doja",
+    "name": "Lorena Maciel",
+    "query": "\"Lorena Maciel\"",
     "rank": 17,
-    "tweet_count": "105K Tweets"
+    "tweet_count": "8,993 Tweets"
   },
   {
     "name": "Morales",
     "query": "Morales",
     "rank": 18,
-    "tweet_count": "24.4K Tweets"
+    "tweet_count": "24.7K Tweets"
   },
   {
-    "name": "Miley Cyrus",
-    "query": "\"Miley Cyrus\"",
+    "name": "Doja",
+    "query": "Doja",
     "rank": 19,
-    "tweet_count": "38.6K Tweets"
+    "tweet_count": "106K Tweets"
   },
   {
-    "name": "Lorena Maciel",
-    "query": "\"Lorena Maciel\"",
+    "name": "Benedetto",
+    "query": "Benedetto",
     "rank": 20,
-    "tweet_count": "8,860 Tweets"
+    "tweet_count": null
   }
 ]
