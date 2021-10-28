@@ -1,15 +1,15 @@
 [
   {
-    "name": "Molde",
-    "query": "Molde",
-    "rank": 1,
-    "tweet_count": "2,033 Tweets"
-  },
-  {
     "name": "Varme",
     "query": "Varme",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Molde",
+    "query": "Molde",
+    "rank": 2,
+    "tweet_count": "2,063 Tweets"
   },
   {
     "name": "kondolerer",
@@ -21,79 +21,79 @@
     "name": "Xavi",
     "query": "Xavi",
     "rank": 4,
-    "tweet_count": "164K Tweets"
-  },
-  {
-    "name": "Sandefjord",
-    "query": "Sandefjord",
-    "rank": 5,
-    "tweet_count": null
+    "tweet_count": "169K Tweets"
   },
   {
     "name": "aker stadion",
     "query": "\"aker stadion\"",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "#PCAs",
     "query": "#PCAs",
-    "rank": 7,
-    "tweet_count": "3.08M Tweets"
-  },
-  {
-    "name": "mjøndalen",
-    "query": "mjøndalen",
-    "rank": 8,
-    "tweet_count": null
+    "rank": 6,
+    "tweet_count": "3.12M Tweets"
   },
   {
     "name": "Qatar",
     "query": "Qatar",
-    "rank": 9,
-    "tweet_count": "15.6K Tweets"
+    "rank": 7,
+    "tweet_count": "16.3K Tweets"
+  },
+  {
+    "name": "Sandefjord",
+    "query": "Sandefjord",
+    "rank": 8,
+    "tweet_count": null
   },
   {
     "name": "Berg",
     "query": "Berg",
-    "rank": 10,
-    "tweet_count": "4,653 Tweets"
+    "rank": 9,
+    "tweet_count": "4,720 Tweets"
   },
   {
-    "name": "Åråsen",
-    "query": "Åråsen",
+    "name": "Mjøndalen",
+    "query": "Mjøndalen",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "haugesund",
+    "query": "haugesund",
     "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "Ola Solbakken",
-    "query": "\"Ola Solbakken\"",
+    "name": "Åråsen",
+    "query": "Åråsen",
     "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "ola solbakken",
+    "query": "\"ola solbakken\"",
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Unnskyld",
     "query": "Unnskyld",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Halloween",
     "query": "Halloween",
-    "rank": 14,
-    "tweet_count": "1.05M Tweets"
-  },
-  {
-    "name": "haugesund",
-    "query": "haugesund",
     "rank": 15,
-    "tweet_count": null
+    "tweet_count": "1.06M Tweets"
   },
   {
     "name": "#SHIBARMY",
     "query": "#SHIBARMY",
     "rank": 16,
-    "tweet_count": "356K Tweets"
+    "tweet_count": "360K Tweets"
   },
   {
     "name": "Venstre",
@@ -105,18 +105,18 @@
     "name": "Preston",
     "query": "Preston",
     "rank": 18,
-    "tweet_count": "19.5K Tweets"
+    "tweet_count": "19.6K Tweets"
   },
   {
-    "name": "#druesaken",
-    "query": "#druesaken",
+    "name": "Equinor",
+    "query": "Equinor",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "equinor",
-    "query": "equinor",
+    "name": "#ShamitaIsTheBoss",
+    "query": "#ShamitaIsTheBoss",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "10.2K Tweets"
   }
 ]
