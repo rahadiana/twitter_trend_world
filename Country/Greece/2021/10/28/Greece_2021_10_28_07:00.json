@@ -1,33 +1,33 @@
 [
   {
-    "name": "Χρονια Πολλα",
-    "query": "\"Χρονια Πολλα\"",
-    "rank": 1,
-    "tweet_count": "9,035 Tweets"
-  },
-  {
     "name": "#28η_Οκτωβριου",
     "query": "#28η_Οκτωβριου",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Χρονια Πολλα",
+    "query": "\"Χρονια Πολλα\"",
+    "rank": 2,
+    "tweet_count": "10.4K Tweets"
   },
   {
     "name": "Εθνος",
     "query": "Εθνος",
     "rank": 3,
-    "tweet_count": "1,363 Tweets"
-  },
-  {
-    "name": "#Φωφη_Γεννηματα",
-    "query": "#Φωφη_Γεννηματα",
-    "rank": 4,
-    "tweet_count": "7,842 Tweets"
+    "tweet_count": "1,463 Tweets"
   },
   {
     "name": "#OxiDay",
     "query": "#OxiDay",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "#Φωφη_Γεννηματα",
+    "query": "#Φωφη_Γεννηματα",
+    "rank": 5,
+    "tweet_count": "7,856 Tweets"
   },
   {
     "name": "#MousikoKouti",
@@ -39,13 +39,13 @@
     "name": "#με_την_Αστυνομια",
     "query": "#με_την_Αστυνομια",
     "rank": 7,
-    "tweet_count": "7,880 Tweets"
+    "tweet_count": "7,954 Tweets"
   },
   {
-    "name": "Το ΟΧΙ",
-    "query": "\"Το ΟΧΙ\"",
+    "name": "Καλημερα Γιωργο",
+    "query": "\"Καλημερα Γιωργο\"",
     "rank": 8,
-    "tweet_count": "7,294 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Ελλας",
@@ -54,16 +54,16 @@
     "tweet_count": null
   },
   {
-    "name": "καλλιοπη",
-    "query": "καλλιοπη",
+    "name": "Το ΟΧΙ",
+    "query": "\"Το ΟΧΙ\"",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "7,592 Tweets"
   },
   {
-    "name": "Ελληνων",
-    "query": "Ελληνων",
+    "name": "καλλιοπη",
+    "query": "καλλιοπη",
     "rank": 11,
-    "tweet_count": "1,096 Tweets"
+    "tweet_count": null
   },
   {
     "name": "μεικον",
@@ -72,34 +72,34 @@
     "tweet_count": null
   },
   {
-    "name": "Καλημερα Γιωργο",
-    "query": "\"Καλημερα Γιωργο\"",
+    "name": "Ελληνων",
+    "query": "Ελληνων",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "1,173 Tweets"
   },
   {
-    "name": "Οι Ελληνες",
-    "query": "\"Οι Ελληνες\"",
+    "name": "Μεταξα",
+    "query": "Μεταξα",
     "rank": 14,
-    "tweet_count": "1,259 Tweets"
-  },
-  {
-    "name": "Ρομα",
-    "query": "Ρομα",
-    "rank": 15,
-    "tweet_count": "8,815 Tweets"
+    "tweet_count": "1,540 Tweets"
   },
   {
     "name": "Καλημερα Ελλαδα",
     "query": "\"Καλημερα Ελλαδα\"",
-    "rank": 16,
-    "tweet_count": null
+    "rank": 15,
+    "tweet_count": "1,034 Tweets"
   },
   {
-    "name": "Μεταξας",
-    "query": "Μεταξας",
+    "name": "Ρομα",
+    "query": "Ρομα",
+    "rank": 16,
+    "tweet_count": "8,935 Tweets"
+  },
+  {
+    "name": "Οι Ελληνες",
+    "query": "\"Οι Ελληνες\"",
     "rank": 17,
-    "tweet_count": "1,883 Tweets"
+    "tweet_count": "1,345 Tweets"
   },
   {
     "name": "Καλημερα Μαιρη",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "Μερκελ",
-    "query": "Μερκελ",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
     "name": "μητροπολη",
     "query": "μητροπολη",
+    "rank": 19,
+    "tweet_count": "1,566 Tweets"
+  },
+  {
+    "name": "Μερκελ",
+    "query": "Μερκελ",
     "rank": 20,
-    "tweet_count": "1,555 Tweets"
+    "tweet_count": null
   }
 ]
