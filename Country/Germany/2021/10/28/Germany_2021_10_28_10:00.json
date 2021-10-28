@@ -1,9 +1,9 @@
 [
   {
-    "name": "Skandal",
-    "query": "Skandal",
+    "name": "#Skandal",
+    "query": "#Skandal",
     "rank": 1,
-    "tweet_count": "10.8K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Gebauer",
@@ -15,7 +15,7 @@
     "name": "felix",
     "query": "felix",
     "rank": 3,
-    "tweet_count": "76.4K Tweets"
+    "tweet_count": "79.1K Tweets"
   },
   {
     "name": "Erstwähler",
@@ -27,13 +27,13 @@
     "name": "Fleisch",
     "query": "Fleisch",
     "rank": 5,
-    "tweet_count": "1,420 Tweets"
+    "tweet_count": "1,444 Tweets"
   },
   {
     "name": "Mobbing",
     "query": "Mobbing",
     "rank": 6,
-    "tweet_count": "2,168 Tweets"
+    "tweet_count": "2,186 Tweets"
   },
   {
     "name": "NSU 2.0",
@@ -42,40 +42,40 @@
     "tweet_count": null
   },
   {
-    "name": "Gastgeber",
-    "query": "Gastgeber",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "Drachenlord",
     "query": "Drachenlord",
+    "rank": 8,
+    "tweet_count": "8,552 Tweets"
+  },
+  {
+    "name": "Gastgeber",
+    "query": "Gastgeber",
     "rank": 9,
-    "tweet_count": "8,449 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Maskenpflicht",
     "query": "#Maskenpflicht",
     "rank": 10,
-    "tweet_count": "1,088 Tweets"
+    "tweet_count": "1,102 Tweets"
   },
   {
     "name": "Haider",
     "query": "Haider",
     "rank": 11,
-    "tweet_count": "6,837 Tweets"
-  },
-  {
-    "name": "#ThrowbackThursday",
-    "query": "#ThrowbackThursday",
-    "rank": 12,
-    "tweet_count": "4,811 Tweets"
+    "tweet_count": "6,894 Tweets"
   },
   {
     "name": "winkler",
     "query": "winkler",
+    "rank": 12,
+    "tweet_count": "1,647 Tweets"
+  },
+  {
+    "name": "#ThrowbackThursday",
+    "query": "#ThrowbackThursday",
     "rank": 13,
-    "tweet_count": "1,623 Tweets"
+    "tweet_count": "4,922 Tweets"
   },
   {
     "name": "Vegetarier",
@@ -84,39 +84,39 @@
     "tweet_count": null
   },
   {
+    "name": "Impfzentren",
+    "query": "Impfzentren",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
     "name": "Nebel",
     "query": "Nebel",
-    "rank": 15,
-    "tweet_count": "1,710 Tweets"
+    "rank": 16,
+    "tweet_count": "1,714 Tweets"
   },
   {
     "name": "Buffet",
     "query": "Buffet",
-    "rank": 16,
-    "tweet_count": "7,286 Tweets"
-  },
-  {
-    "name": "impfzentren",
-    "query": "impfzentren",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "7,319 Tweets"
   },
   {
     "name": "Lobo",
     "query": "Lobo",
     "rank": 18,
-    "tweet_count": "19.7K Tweets"
+    "tweet_count": "19.8K Tweets"
   },
   {
     "name": "#COP26",
     "query": "#COP26",
     "rank": 19,
-    "tweet_count": "97.7K Tweets"
+    "tweet_count": "98.3K Tweets"
   },
   {
     "name": "Durchseuchung",
     "query": "Durchseuchung",
     "rank": 20,
-    "tweet_count": "1,246 Tweets"
+    "tweet_count": "1,248 Tweets"
   }
 ]
