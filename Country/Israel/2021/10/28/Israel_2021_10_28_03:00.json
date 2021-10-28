@@ -24,14 +24,14 @@
     "tweet_count": "1,132 Tweets"
   },
   {
-    "name": "עוד צער",
-    "query": "\"עוד צער\"",
+    "name": "מחנה יהודה",
+    "query": "\"מחנה יהודה\"",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "מחנה יהודה",
-    "query": "\"מחנה יהודה\"",
+    "name": "עוד צער",
+    "query": "\"עוד צער\"",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,26 +42,26 @@
     "tweet_count": null
   },
   {
-    "name": "#StandWithThe6",
-    "query": "#StandWithThe6",
-    "rank": 8,
-    "tweet_count": "3,222 Tweets"
-  },
-  {
-    "name": "חתולי רחוב",
-    "query": "\"חתולי רחוב\"",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
     "name": "ברק לייזר",
     "query": "\"ברק לייזר\"",
-    "rank": 10,
+    "rank": 8,
     "tweet_count": null
+  },
+  {
+    "name": "#StandWithThe6",
+    "query": "#StandWithThe6",
+    "rank": 9,
+    "tweet_count": "3,231 Tweets"
   },
   {
     "name": "יאיר נתניהו",
     "query": "\"יאיר נתניהו\"",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "חתולי רחוב",
+    "query": "\"חתולי רחוב\"",
     "rank": 11,
     "tweet_count": null
   },
@@ -72,14 +72,14 @@
     "tweet_count": null
   },
   {
-    "name": "Koeman",
-    "query": "Koeman",
-    "rank": 13,
-    "tweet_count": "334K Tweets"
-  },
-  {
     "name": "מיקי לוי",
     "query": "\"מיקי לוי\"",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "של ביבי",
+    "query": "\"של ביבי\"",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,35 +87,35 @@
     "name": "זמן אמת",
     "query": "\"זמן אמת\"",
     "rank": 15,
-    "tweet_count": "1,278 Tweets"
+    "tweet_count": "1,283 Tweets"
   },
   {
     "name": "#CyberAttack",
     "query": "#CyberAttack",
     "rank": 16,
-    "tweet_count": "3,190 Tweets"
+    "tweet_count": "3,201 Tweets"
   },
   {
-    "name": "רפואה שלמה",
-    "query": "\"רפואה שלמה\"",
+    "name": "Koeman",
+    "query": "Koeman",
     "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "#SaudiArabia",
-    "query": "#SaudiArabia",
-    "rank": 18,
-    "tweet_count": "5,403 Tweets"
+    "tweet_count": "335K Tweets"
   },
   {
     "name": "New York",
     "query": "\"New York\"",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": "121K Tweets"
   },
   {
-    "name": "של ביבי",
-    "query": "\"של ביבי\"",
+    "name": "Saudi Arabia",
+    "query": "\"Saudi Arabia\"",
+    "rank": 19,
+    "tweet_count": "19.3K Tweets"
+  },
+  {
+    "name": "רפואה שלמה",
+    "query": "\"רפואה שלמה\"",
     "rank": 20,
     "tweet_count": null
   }
