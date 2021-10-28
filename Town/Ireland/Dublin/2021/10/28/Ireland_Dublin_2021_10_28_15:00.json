@@ -1,27 +1,27 @@
 [
   {
-    "name": "Charlie",
-    "query": "Charlie",
-    "rank": 1,
-    "tweet_count": "71.8K Tweets"
-  },
-  {
     "name": "JUNGKOOK",
     "query": "JUNGKOOK",
-    "rank": 2,
-    "tweet_count": "614K Tweets"
+    "rank": 1,
+    "tweet_count": "694K Tweets"
   },
   {
     "name": "Science Gallery",
     "query": "\"Science Gallery\"",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "Charlie",
+    "query": "Charlie",
+    "rank": 3,
+    "tweet_count": "72.5K Tweets"
   },
   {
     "name": "#AskCesc",
     "query": "#AskCesc",
     "rank": 4,
-    "tweet_count": "4,381 Tweets"
+    "tweet_count": "4,416 Tweets"
   },
   {
     "name": "#PNELIV",
@@ -42,46 +42,46 @@
     "tweet_count": null
   },
   {
-    "name": "#MicaFailedRegs",
-    "query": "#MicaFailedRegs",
+    "name": "#dingletasting",
+    "query": "#dingletasting",
     "rank": 8,
-    "tweet_count": "10.6K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Origi",
     "query": "Origi",
     "rank": 9,
-    "tweet_count": "23.5K Tweets"
+    "tweet_count": "23.6K Tweets"
   },
   {
     "name": "Xavi",
     "query": "Xavi",
     "rank": 10,
-    "tweet_count": "210K Tweets"
+    "tweet_count": "212K Tweets"
+  },
+  {
+    "name": "Koeman",
+    "query": "Koeman",
+    "rank": 11,
+    "tweet_count": "444K Tweets"
   },
   {
     "name": "North West",
     "query": "\"North West\"",
-    "rank": 11,
-    "tweet_count": "6,250 Tweets"
+    "rank": 12,
+    "tweet_count": "6,307 Tweets"
   },
   {
     "name": "Minamino",
     "query": "Minamino",
-    "rank": 12,
-    "tweet_count": "8,084 Tweets"
+    "rank": 13,
+    "tweet_count": "8,113 Tweets"
   },
   {
     "name": "Barca",
     "query": "Barca",
-    "rank": 13,
-    "tweet_count": "278K Tweets"
-  },
-  {
-    "name": "Gomez",
-    "query": "Gomez",
     "rank": 14,
-    "tweet_count": "44K Tweets"
+    "tweet_count": "279K Tweets"
   },
   {
     "name": "Bayern",
@@ -90,33 +90,33 @@
     "tweet_count": "176K Tweets"
   },
   {
+    "name": "Gomez",
+    "query": "Gomez",
+    "rank": 16,
+    "tweet_count": "44.4K Tweets"
+  },
+  {
     "name": "Neco",
     "query": "Neco",
-    "rank": 16,
-    "tweet_count": "20.1K Tweets"
+    "rank": 17,
+    "tweet_count": "20.3K Tweets"
   },
   {
     "name": "Pat Kenny",
     "query": "\"Pat Kenny\"",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Lonely Planet",
     "query": "\"Lonely Planet\"",
-    "rank": 18,
-    "tweet_count": "1,258 Tweets"
+    "rank": 19,
+    "tweet_count": "1,275 Tweets"
   },
   {
     "name": "Technological University",
     "query": "\"Technological University\"",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Preston",
-    "query": "Preston",
     "rank": 20,
-    "tweet_count": "18.4K Tweets"
+    "tweet_count": null
   }
 ]
