@@ -1,33 +1,33 @@
 [
   {
-    "name": "İstanbullu",
-    "query": "İstanbullu",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Suriyeliler",
     "query": "Suriyeliler",
-    "rank": 2,
-    "tweet_count": "3,359 Tweets"
+    "rank": 1,
+    "tweet_count": "3,386 Tweets"
   },
   {
     "name": "Efendiler",
     "query": "Efendiler",
-    "rank": 3,
-    "tweet_count": "29.2K Tweets"
+    "rank": 2,
+    "tweet_count": "29.9K Tweets"
   },
   {
     "name": "#AhmetKaya",
     "query": "#AhmetKaya",
-    "rank": 4,
-    "tweet_count": "14.5K Tweets"
+    "rank": 3,
+    "tweet_count": "14.9K Tweets"
   },
   {
     "name": "#MustafaKemalAtatürk",
     "query": "#MustafaKemalAtatürk",
+    "rank": 4,
+    "tweet_count": "8,136 Tweets"
+  },
+  {
+    "name": "#29Ekim",
+    "query": "#29Ekim",
     "rank": 5,
-    "tweet_count": "7,901 Tweets"
+    "tweet_count": "4,597 Tweets"
   },
   {
     "name": "#MilletinBahçesi",
@@ -36,76 +36,76 @@
     "tweet_count": null
   },
   {
-    "name": "#29Ekim",
-    "query": "#29Ekim",
-    "rank": 7,
-    "tweet_count": "4,436 Tweets"
-  },
-  {
     "name": "#AdanaEmniyeti",
     "query": "#AdanaEmniyeti",
+    "rank": 7,
+    "tweet_count": "21.1K Tweets"
+  },
+  {
+    "name": "RisaleiNurda Mehdi",
+    "query": "\"RisaleiNurda Mehdi\"",
     "rank": 8,
-    "tweet_count": "20.8K Tweets"
-  },
-  {
-    "name": "risaleinurda mehdi",
-    "query": "\"risaleinurda mehdi\"",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Sadece 7",
-    "query": "\"Sadece 7\"",
-    "rank": 10,
-    "tweet_count": "4,154 Tweets"
-  },
-  {
-    "name": "UKOME",
-    "query": "UKOME",
-    "rank": 11,
-    "tweet_count": "7,173 Tweets"
-  },
-  {
-    "name": "B İ Z H A Z I R I Z",
-    "query": "\"B İ Z H A Z I R I Z\"",
-    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Merkez Bankası Başkanı",
     "query": "\"Merkez Bankası Başkanı\"",
-    "rank": 13,
-    "tweet_count": "3,702 Tweets"
+    "rank": 9,
+    "tweet_count": "3,912 Tweets"
+  },
+  {
+    "name": "Sadece 7",
+    "query": "\"Sadece 7\"",
+    "rank": 10,
+    "tweet_count": "4,241 Tweets"
+  },
+  {
+    "name": "UKOME",
+    "query": "UKOME",
+    "rank": 11,
+    "tweet_count": "7,599 Tweets"
   },
   {
     "name": "Ebubekir Sel",
     "query": "\"Ebubekir Sel\"",
+    "rank": 12,
+    "tweet_count": "6,959 Tweets"
+  },
+  {
+    "name": "B İ Z H A Z I R I Z",
+    "query": "\"B İ Z H A Z I R I Z\"",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Taksi",
+    "query": "Taksi",
     "rank": 14,
-    "tweet_count": "6,765 Tweets"
+    "tweet_count": "19.3K Tweets"
   },
   {
     "name": "İslami ProgramaEngel",
     "query": "\"İslami ProgramaEngel\"",
     "rank": 15,
-    "tweet_count": "2,249 Tweets"
-  },
-  {
-    "name": "Taksi",
-    "query": "Taksi",
-    "rank": 16,
-    "tweet_count": "18.2K Tweets"
+    "tweet_count": "2,300 Tweets"
   },
   {
     "name": "Kavcıoğlu",
     "query": "Kavcıoğlu",
-    "rank": 17,
-    "tweet_count": "2,222 Tweets"
+    "rank": 16,
+    "tweet_count": "2,313 Tweets"
   },
   {
     "name": "Murat Sancak",
     "query": "\"Murat Sancak\"",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
+  },
+  {
+    "name": "Uber",
+    "query": "Uber",
+    "rank": 18,
+    "tweet_count": "67.6K Tweets"
   },
   {
     "name": "Süper Lig'de 11",
@@ -117,6 +117,6 @@
     "name": "MONSTA X MOVIE DEBUT",
     "query": "\"MONSTA X MOVIE DEBUT\"",
     "rank": 20,
-    "tweet_count": "4,429 Tweets"
+    "tweet_count": "4,515 Tweets"
   }
 ]
