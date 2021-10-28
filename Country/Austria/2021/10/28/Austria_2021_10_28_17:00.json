@@ -1,21 +1,21 @@
 [
   {
-    "name": "jungkook",
-    "query": "jungkook",
-    "rank": 1,
-    "tweet_count": "971K Tweets"
-  },
-  {
     "name": "#BMGFCB",
     "query": "#BMGFCB",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "26.6K Tweets"
+  },
+  {
+    "name": "jungkook",
+    "query": "jungkook",
+    "rank": 2,
+    "tweet_count": "991K Tweets"
   },
   {
     "name": "Thiem",
     "query": "Thiem",
     "rank": 3,
-    "tweet_count": "1,121 Tweets"
+    "tweet_count": "1,135 Tweets"
   },
   {
     "name": "#stusvr",
@@ -45,49 +45,49 @@
     "name": "Bunker",
     "query": "Bunker",
     "rank": 8,
-    "tweet_count": "5,819 Tweets"
+    "tweet_count": "5,873 Tweets"
   },
   {
     "name": "Inflation",
     "query": "Inflation",
     "rank": 9,
-    "tweet_count": "66K Tweets"
+    "tweet_count": "66.6K Tweets"
   },
   {
     "name": "Xavi",
     "query": "Xavi",
     "rank": 10,
-    "tweet_count": "223K Tweets"
-  },
-  {
-    "name": "abzeichen",
-    "query": "abzeichen",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Bundesheer",
-    "query": "Bundesheer",
-    "rank": 12,
-    "tweet_count": null
+    "tweet_count": "225K Tweets"
   },
   {
     "name": "Jungs",
     "query": "Jungs",
+    "rank": 11,
+    "tweet_count": "2,233 Tweets"
+  },
+  {
+    "name": "abzeichen",
+    "query": "abzeichen",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "bundesheer",
+    "query": "bundesheer",
     "rank": 13,
-    "tweet_count": "2,212 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Soldat",
     "query": "Soldat",
     "rank": 14,
-    "tweet_count": "3,501 Tweets"
+    "tweet_count": "3,521 Tweets"
   },
   {
-    "name": "Gladbach",
-    "query": "Gladbach",
+    "name": "gladbach",
+    "query": "gladbach",
     "rank": 15,
-    "tweet_count": "49.4K Tweets"
+    "tweet_count": "49.5K Tweets"
   },
   {
     "name": "Lächeln",
@@ -99,11 +99,11 @@
     "name": "Schulden",
     "query": "Schulden",
     "rank": 17,
-    "tweet_count": "1,567 Tweets"
+    "tweet_count": "1,584 Tweets"
   },
   {
-    "name": "impftermin",
-    "query": "impftermin",
+    "name": "Impftermin",
+    "query": "Impftermin",
     "rank": 18,
     "tweet_count": null
   },
@@ -111,12 +111,12 @@
     "name": "Banken",
     "query": "Banken",
     "rank": 19,
-    "tweet_count": "1,952 Tweets"
+    "tweet_count": "1,960 Tweets"
   },
   {
     "name": "Haider",
     "query": "Haider",
     "rank": 20,
-    "tweet_count": "7,256 Tweets"
+    "tweet_count": "7,350 Tweets"
   }
 ]
