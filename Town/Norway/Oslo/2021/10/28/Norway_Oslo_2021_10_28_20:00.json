@@ -3,37 +3,37 @@
     "name": "Meta",
     "query": "Meta",
     "rank": 1,
-    "tweet_count": "293K Tweets"
+    "tweet_count": "324K Tweets"
   },
   {
-    "name": "Brann",
-    "query": "Brann",
+    "name": "#nrkdebatt",
+    "query": "#nrkdebatt",
     "rank": 2,
     "tweet_count": null
   },
   {
+    "name": "Brann",
+    "query": "Brann",
+    "rank": 3,
+    "tweet_count": "1,003 Tweets"
+  },
+  {
     "name": "Bergen",
     "query": "Bergen",
-    "rank": 3,
-    "tweet_count": "3,710 Tweets"
+    "rank": 4,
+    "tweet_count": "3,767 Tweets"
   },
   {
     "name": "Jordal",
     "query": "Jordal",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Grill",
     "query": "Grill",
-    "rank": 5,
-    "tweet_count": "8,029 Tweets"
-  },
-  {
-    "name": "#2hockey",
-    "query": "#2hockey",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "8,222 Tweets"
   },
   {
     "name": "Bryggen",
@@ -57,11 +57,11 @@
     "name": "jungkook",
     "query": "jungkook",
     "rank": 10,
-    "tweet_count": "1.09M Tweets"
+    "tweet_count": "1.1M Tweets"
   },
   {
-    "name": "#dax18",
-    "query": "#dax18",
+    "name": "#2hockey",
+    "query": "#2hockey",
     "rank": 11,
     "tweet_count": null
   },
@@ -75,7 +75,7 @@
     "name": "Xavi",
     "query": "Xavi",
     "rank": 13,
-    "tweet_count": "227K Tweets"
+    "tweet_count": "229K Tweets"
   },
   {
     "name": "Sarpsborg",
@@ -87,23 +87,23 @@
     "name": "Halloween",
     "query": "Halloween",
     "rank": 15,
-    "tweet_count": "1.15M Tweets"
+    "tweet_count": "1.18M Tweets"
+  },
+  {
+    "name": "Vålerenga",
+    "query": "Vålerenga",
+    "rank": 16,
+    "tweet_count": null
   },
   {
     "name": "Koeman",
     "query": "Koeman",
-    "rank": 16,
-    "tweet_count": "374K Tweets"
+    "rank": 17,
+    "tweet_count": "376K Tweets"
   },
   {
     "name": "Stavanger",
     "query": "Stavanger",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "#ESNball",
-    "query": "#ESNball",
     "rank": 18,
     "tweet_count": null
   },
@@ -114,8 +114,8 @@
     "tweet_count": null
   },
   {
-    "name": "Sandefjord",
-    "query": "Sandefjord",
+    "name": "#ESNball",
+    "query": "#ESNball",
     "rank": 20,
     "tweet_count": null
   }
