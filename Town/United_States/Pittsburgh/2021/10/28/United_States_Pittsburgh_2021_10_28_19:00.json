@@ -1,116 +1,116 @@
 [
   {
+    "name": "Ingram",
+    "query": "Ingram",
+    "rank": 1,
+    "tweet_count": "24.3K Tweets"
+  },
+  {
     "name": "Pelosi",
     "query": "Pelosi",
-    "rank": 1,
-    "tweet_count": "31.3K Tweets"
+    "rank": 2,
+    "tweet_count": "31.9K Tweets"
   },
   {
     "name": "Happy Halloween",
     "query": "\"Happy Halloween\"",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": "122K Tweets"
   },
   {
     "name": "Senate",
     "query": "Senate",
-    "rank": 3,
-    "tweet_count": "152K Tweets"
+    "rank": 4,
+    "tweet_count": "153K Tweets"
   },
   {
     "name": "Medicare",
     "query": "Medicare",
-    "rank": 4,
-    "tweet_count": "29.6K Tweets"
+    "rank": 5,
+    "tweet_count": "30K Tweets"
   },
   {
     "name": "Meta",
     "query": "Meta",
-    "rank": 5,
-    "tweet_count": "236K Tweets"
-  },
-  {
-    "name": "Ted Lasso",
-    "query": "\"Ted Lasso\"",
     "rank": 6,
-    "tweet_count": "13.6K Tweets"
+    "tweet_count": "252K Tweets"
   },
   {
     "name": "PETA",
     "query": "PETA",
     "rank": 7,
-    "tweet_count": "21.3K Tweets"
+    "tweet_count": "22.6K Tweets"
+  },
+  {
+    "name": "Ted Lasso",
+    "query": "\"Ted Lasso\"",
+    "rank": 8,
+    "tweet_count": "13.9K Tweets"
   },
   {
     "name": "jungkook",
     "query": "jungkook",
-    "rank": 8,
-    "tweet_count": "1.07M Tweets"
+    "rank": 9,
+    "tweet_count": "1.08M Tweets"
   },
   {
     "name": "Alphabet",
     "query": "Alphabet",
-    "rank": 9,
-    "tweet_count": "10.9K Tweets"
-  },
-  {
-    "name": "#PeacocktoberSweepstakes",
-    "query": "#PeacocktoberSweepstakes",
     "rank": 10,
-    "tweet_count": "3,290 Tweets"
-  },
-  {
-    "name": "#NationalFirstRespondersDay",
-    "query": "#NationalFirstRespondersDay",
-    "rank": 11,
-    "tweet_count": "5,164 Tweets"
-  },
-  {
-    "name": "Manchin",
-    "query": "Manchin",
-    "rank": 12,
-    "tweet_count": "234K Tweets"
+    "tweet_count": "11.3K Tweets"
   },
   {
     "name": "yolanda",
     "query": "yolanda",
-    "rank": 13,
-    "tweet_count": "48.7K Tweets"
+    "rank": 11,
+    "tweet_count": "52.1K Tweets"
+  },
+  {
+    "name": "#PeacocktoberSweepstakes",
+    "query": "#PeacocktoberSweepstakes",
+    "rank": 12,
+    "tweet_count": "3,542 Tweets"
   },
   {
     "name": "Gold Glove",
     "query": "\"Gold Glove\"",
+    "rank": 13,
+    "tweet_count": "4,384 Tweets"
+  },
+  {
+    "name": "#NationalFirstRespondersDay",
+    "query": "#NationalFirstRespondersDay",
     "rank": 14,
-    "tweet_count": "3,230 Tweets"
+    "tweet_count": "5,330 Tweets"
   },
   {
     "name": "Second Life",
     "query": "\"Second Life\"",
     "rank": 15,
-    "tweet_count": "7,948 Tweets"
-  },
-  {
-    "name": "So Facebook",
-    "query": "\"So Facebook\"",
-    "rank": 16,
-    "tweet_count": "18K Tweets"
-  },
-  {
-    "name": "#BuildBackBetter",
-    "query": "#BuildBackBetter",
-    "rank": 17,
-    "tweet_count": "25.6K Tweets"
+    "tweet_count": "8,116 Tweets"
   },
   {
     "name": "#BossTalks",
     "query": "#BossTalks",
-    "rank": 18,
-    "tweet_count": "12.7K Tweets"
+    "rank": 16,
+    "tweet_count": "13K Tweets"
   },
   {
-    "name": "Jada",
-    "query": "Jada",
+    "name": "Manchin",
+    "query": "Manchin",
+    "rank": 17,
+    "tweet_count": "236K Tweets"
+  },
+  {
+    "name": "#BuildBackBetter",
+    "query": "#BuildBackBetter",
+    "rank": 18,
+    "tweet_count": "26.1K Tweets"
+  },
+  {
+    "name": "Snow Crash",
+    "query": "\"Snow Crash\"",
     "rank": 19,
-    "tweet_count": "184K Tweets"
+    "tweet_count": null
   }
 ]

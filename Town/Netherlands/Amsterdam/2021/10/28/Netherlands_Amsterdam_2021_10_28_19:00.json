@@ -1,15 +1,15 @@
 [
   {
-    "name": "Meta",
-    "query": "Meta",
-    "rank": 1,
-    "tweet_count": "234K Tweets"
-  },
-  {
     "name": "#bestezangers",
     "query": "#bestezangers",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Meta",
+    "query": "Meta",
+    "rank": 2,
+    "tweet_count": "250K Tweets"
   },
   {
     "name": "#chateauMeiland",
@@ -24,14 +24,14 @@
     "tweet_count": null
   },
   {
-    "name": "Karsu",
-    "query": "Karsu",
+    "name": "#rkcwil",
+    "query": "#rkcwil",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "#rkcwil",
-    "query": "#rkcwil",
+    "name": "Karsu",
+    "query": "Karsu",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,16 +42,16 @@
     "tweet_count": "1,491 Tweets"
   },
   {
-    "name": "jungkook",
-    "query": "jungkook",
-    "rank": 8,
-    "tweet_count": "1.07M Tweets"
-  },
-  {
     "name": "Belle",
     "query": "Belle",
+    "rank": 8,
+    "tweet_count": "90.9K Tweets"
+  },
+  {
+    "name": "jungkook",
+    "query": "jungkook",
     "rank": 9,
-    "tweet_count": "90.2K Tweets"
+    "tweet_count": "1.08M Tweets"
   },
   {
     "name": "Frank de Grave",
@@ -69,31 +69,31 @@
     "name": "Ikea",
     "query": "Ikea",
     "rank": 12,
-    "tweet_count": "9,731 Tweets"
+    "tweet_count": "9,824 Tweets"
+  },
+  {
+    "name": "Gideon",
+    "query": "Gideon",
+    "rank": 13,
+    "tweet_count": "9,324 Tweets"
   },
   {
     "name": "Amber Alert",
     "query": "\"Amber Alert\"",
-    "rank": 13,
-    "tweet_count": "1,308 Tweets"
+    "rank": 14,
+    "tweet_count": "1,316 Tweets"
   },
   {
     "name": "Onana",
     "query": "Onana",
-    "rank": 14,
-    "tweet_count": "2,747 Tweets"
+    "rank": 15,
+    "tweet_count": "2,776 Tweets"
   },
   {
     "name": "Philips",
     "query": "Philips",
-    "rank": 15,
-    "tweet_count": "2,648 Tweets"
-  },
-  {
-    "name": "raad van state",
-    "query": "\"raad van state\"",
     "rank": 16,
-    "tweet_count": "1,242 Tweets"
+    "tweet_count": "2,663 Tweets"
   },
   {
     "name": "#zembla",
