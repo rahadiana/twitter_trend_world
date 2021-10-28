@@ -3,19 +3,19 @@
     "name": "#melbourneweather",
     "query": "#melbourneweather",
     "rank": 1,
-    "tweet_count": "2,844 Tweets"
+    "tweet_count": "2,922 Tweets"
   },
   {
     "name": "Meta",
     "query": "Meta",
     "rank": 2,
-    "tweet_count": "425K Tweets"
+    "tweet_count": "432K Tweets"
   },
   {
     "name": "#melbweather",
     "query": "#melbweather",
     "rank": 3,
-    "tweet_count": "1,116 Tweets"
+    "tweet_count": "1,133 Tweets"
   },
   {
     "name": "#WorldTeachersDay",
@@ -39,13 +39,13 @@
     "name": "Zuckerberg",
     "query": "Zuckerberg",
     "rank": 7,
-    "tweet_count": "99.9K Tweets"
+    "tweet_count": "102K Tweets"
   },
   {
     "name": "Macron",
     "query": "Macron",
     "rank": 8,
-    "tweet_count": "68.1K Tweets"
+    "tweet_count": "68.4K Tweets"
   },
   {
     "name": "Happy World Teachers",
@@ -54,10 +54,10 @@
     "tweet_count": null
   },
   {
-    "name": "Glasgow Cop26",
-    "query": "\"Glasgow Cop26\"",
+    "name": "yolanda",
+    "query": "yolanda",
     "rank": 10,
-    "tweet_count": "39.5K Tweets"
+    "tweet_count": "93.2K Tweets"
   },
   {
     "name": "jungkook",
@@ -72,33 +72,45 @@
     "tweet_count": null
   },
   {
+    "name": "Glasgow Cop26",
+    "query": "\"Glasgow Cop26\"",
+    "rank": 13,
+    "tweet_count": "39.7K Tweets"
+  },
+  {
     "name": "Angus Taylor",
     "query": "\"Angus Taylor\"",
-    "rank": 13,
-    "tweet_count": "1,694 Tweets"
+    "rank": 14,
+    "tweet_count": "1,733 Tweets"
   },
   {
     "name": "Republicans",
     "query": "Republicans",
-    "rank": 14,
-    "tweet_count": "166K Tweets"
+    "rank": 15,
+    "tweet_count": "167K Tweets"
   },
   {
     "name": "#melbournestorm",
     "query": "#melbournestorm",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "#VicWeather",
     "query": "#VicWeather",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "#AUSvSL",
     "query": "#AUSvSL",
-    "rank": 17,
-    "tweet_count": "9,996 Tweets"
+    "rank": 18,
+    "tweet_count": "10K Tweets"
+  },
+  {
+    "name": "#GladysBerejiklian",
+    "query": "#GladysBerejiklian",
+    "rank": 19,
+    "tweet_count": null
   }
 ]
