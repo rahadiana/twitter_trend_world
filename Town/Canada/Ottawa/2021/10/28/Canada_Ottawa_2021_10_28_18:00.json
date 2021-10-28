@@ -1,39 +1,39 @@
 [
   {
+    "name": "Jada",
+    "query": "Jada",
+    "rank": 1,
+    "tweet_count": "178K Tweets"
+  },
+  {
     "name": "Meta",
     "query": "Meta",
-    "rank": 1,
-    "tweet_count": "128K Tweets"
+    "rank": 2,
+    "tweet_count": "175K Tweets"
   },
   {
     "name": "jungkook",
     "query": "jungkook",
-    "rank": 2,
-    "tweet_count": "1.04M Tweets"
+    "rank": 3,
+    "tweet_count": "1.06M Tweets"
   },
   {
     "name": "#Flames1stGoal",
     "query": "#Flames1stGoal",
-    "rank": 3,
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "John Horgan",
+    "query": "\"John Horgan\"",
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "PETA",
     "query": "PETA",
-    "rank": 4,
-    "tweet_count": "17.4K Tweets"
-  },
-  {
-    "name": "Ted Lasso",
-    "query": "\"Ted Lasso\"",
-    "rank": 5,
-    "tweet_count": "12.1K Tweets"
-  },
-  {
-    "name": "#particulesiv",
-    "query": "#particulesiv",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "19K Tweets"
   },
   {
     "name": "#MiracleTreatDay",
@@ -42,75 +42,75 @@
     "tweet_count": null
   },
   {
-    "name": "Zuck",
-    "query": "Zuck",
+    "name": "Premier Horgan",
+    "query": "\"Premier Horgan\"",
     "rank": 8,
-    "tweet_count": "3,393 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Ted Lasso",
+    "query": "\"Ted Lasso\"",
+    "rank": 9,
+    "tweet_count": "12.7K Tweets"
+  },
+  {
+    "name": "#particulesiv",
+    "query": "#particulesiv",
+    "rank": 10,
+    "tweet_count": null
   },
   {
     "name": "#PBPitch",
     "query": "#PBPitch",
-    "rank": 9,
-    "tweet_count": "6,355 Tweets"
+    "rank": 11,
+    "tweet_count": "6,600 Tweets"
   },
   {
     "name": "Brian Cox",
     "query": "\"Brian Cox\"",
-    "rank": 10,
-    "tweet_count": "4,405 Tweets"
+    "rank": 12,
+    "tweet_count": "4,570 Tweets"
   },
   {
     "name": "frank ocean",
     "query": "\"frank ocean\"",
-    "rank": 11,
-    "tweet_count": "46.2K Tweets"
+    "rank": 13,
+    "tweet_count": "47.5K Tweets"
   },
   {
     "name": "Beach",
     "query": "Beach",
-    "rank": 12,
-    "tweet_count": "135K Tweets"
+    "rank": 14,
+    "tweet_count": "137K Tweets"
   },
   {
     "name": "Lord of the Flies",
     "query": "\"Lord of the Flies\"",
-    "rank": 13,
-    "tweet_count": "3,955 Tweets"
-  },
-  {
-    "name": "Jada",
-    "query": "Jada",
-    "rank": 14,
-    "tweet_count": "174K Tweets"
-  },
-  {
-    "name": "Manchin",
-    "query": "Manchin",
     "rank": 15,
-    "tweet_count": "229K Tweets"
+    "tweet_count": "4,199 Tweets"
   },
   {
     "name": "Happy Halloween",
     "query": "\"Happy Halloween\"",
     "rank": 16,
-    "tweet_count": "35.3K Tweets"
+    "tweet_count": "35.6K Tweets"
   },
   {
-    "name": "Tim Allen",
-    "query": "\"Tim Allen\"",
+    "name": "Sinema",
+    "query": "Sinema",
     "rank": 17,
-    "tweet_count": "6,761 Tweets"
+    "tweet_count": "127K Tweets"
   },
   {
-    "name": "#ThursdayThoughts",
-    "query": "#ThursdayThoughts",
+    "name": "Remembrance Day",
+    "query": "\"Remembrance Day\"",
     "rank": 18,
-    "tweet_count": "31.9K Tweets"
+    "tweet_count": "1,229 Tweets"
   },
   {
-    "name": "#COP26",
-    "query": "#COP26",
+    "name": "#StandWithThe6",
+    "query": "#StandWithThe6",
     "rank": 19,
-    "tweet_count": "98.3K Tweets"
+    "tweet_count": "11.1K Tweets"
   }
 ]
