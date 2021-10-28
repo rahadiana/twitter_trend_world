@@ -1,21 +1,21 @@
 [
   {
-    "name": "#melbourneweather",
-    "query": "#melbourneweather",
-    "rank": 1,
-    "tweet_count": "3,092 Tweets"
-  },
-  {
     "name": "Meta",
     "query": "Meta",
-    "rank": 2,
-    "tweet_count": "446K Tweets"
+    "rank": 1,
+    "tweet_count": "461K Tweets"
   },
   {
-    "name": "#melbweather",
-    "query": "#melbweather",
+    "name": "#melbourneweather",
+    "query": "#melbourneweather",
+    "rank": 2,
+    "tweet_count": "3,221 Tweets"
+  },
+  {
+    "name": "#ICAC",
+    "query": "#ICAC",
     "rank": 3,
-    "tweet_count": "1,171 Tweets"
+    "tweet_count": "13.9K Tweets"
   },
   {
     "name": "#WorldTeachersDay",
@@ -24,14 +24,14 @@
     "tweet_count": null
   },
   {
-    "name": "#ThanksVicTeachers",
-    "query": "#ThanksVicTeachers",
+    "name": "#melbweather",
+    "query": "#melbweather",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "1,209 Tweets"
   },
   {
-    "name": "#BrightFuture",
-    "query": "#BrightFuture",
+    "name": "#ThanksVicTeachers",
+    "query": "#ThanksVicTeachers",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,80 +42,80 @@
     "tweet_count": null
   },
   {
+    "name": "Gladys",
+    "query": "Gladys",
+    "rank": 8,
+    "tweet_count": "20.9K Tweets"
+  },
+  {
     "name": "Macron",
     "query": "Macron",
-    "rank": 8,
-    "tweet_count": "68.4K Tweets"
+    "rank": 9,
+    "tweet_count": "69K Tweets"
   },
   {
     "name": "yolanda",
     "query": "yolanda",
-    "rank": 9,
-    "tweet_count": "96.8K Tweets"
-  },
-  {
-    "name": "Mathias Cormann",
-    "query": "\"Mathias Cormann\"",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "99.6K Tweets"
   },
   {
-    "name": "Glasgow Cop26",
-    "query": "\"Glasgow Cop26\"",
+    "name": "Tim Smith",
+    "query": "\"Tim Smith\"",
     "rank": 11,
-    "tweet_count": "39.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "jungkook",
     "query": "jungkook",
     "rank": 12,
-    "tweet_count": "1.16M Tweets"
+    "tweet_count": "1.18M Tweets"
   },
   {
-    "name": "Angus Taylor",
-    "query": "\"Angus Taylor\"",
+    "name": "Mathias Cormann",
+    "query": "\"Mathias Cormann\"",
     "rank": 13,
-    "tweet_count": "1,743 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Glasgow Cop26",
+    "query": "\"Glasgow Cop26\"",
+    "rank": 14,
+    "tweet_count": "39.9K Tweets"
   },
   {
     "name": "Wagga Wagga",
     "query": "\"Wagga Wagga\"",
-    "rank": 14,
-    "tweet_count": "7,516 Tweets"
+    "rank": 15,
+    "tweet_count": "7,613 Tweets"
+  },
+  {
+    "name": "Angus Taylor",
+    "query": "\"Angus Taylor\"",
+    "rank": 16,
+    "tweet_count": "1,815 Tweets"
+  },
+  {
+    "name": "Maguire",
+    "query": "Maguire",
+    "rank": 17,
+    "tweet_count": "30.5K Tweets"
+  },
+  {
+    "name": "Daryl",
+    "query": "Daryl",
+    "rank": 18,
+    "tweet_count": "11.8K Tweets"
   },
   {
     "name": "Republicans",
     "query": "Republicans",
-    "rank": 15,
-    "tweet_count": "162K Tweets"
-  },
-  {
-    "name": "#melbournestorm",
-    "query": "#melbournestorm",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "#VicWeather",
-    "query": "#VicWeather",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "#AUSvSL",
-    "query": "#AUSvSL",
-    "rank": 18,
-    "tweet_count": "10K Tweets"
-  },
-  {
-    "name": "#VoterID",
-    "query": "#VoterID",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "165K Tweets"
   },
   {
-    "name": "#GladysBerejiklian",
-    "query": "#GladysBerejiklian",
+    "name": "#BrightFuture",
+    "query": "#BrightFuture",
     "rank": 20,
     "tweet_count": null
   }
