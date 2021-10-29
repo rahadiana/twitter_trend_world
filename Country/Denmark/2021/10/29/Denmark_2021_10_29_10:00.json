@@ -1,7 +1,7 @@
 [
   {
-    "name": "#sydbankpokalen",
-    "query": "#sydbankpokalen",
+    "name": "#SydbankPokalen",
+    "query": "#SydbankPokalen",
     "rank": 1,
     "tweet_count": null
   },
@@ -9,41 +9,41 @@
     "name": "SMS'er",
     "query": "SMS'er",
     "rank": 2,
-    "tweet_count": "1,502 Tweets"
+    "tweet_count": "1,530 Tweets"
   },
   {
     "name": "#dkpol",
     "query": "#dkpol",
     "rank": 3,
-    "tweet_count": "3,358 Tweets"
+    "tweet_count": "3,478 Tweets"
   },
   {
     "name": "Meta",
     "query": "Meta",
     "rank": 4,
-    "tweet_count": "724K Tweets"
+    "tweet_count": "733K Tweets"
+  },
+  {
+    "name": "#skolechat",
+    "query": "#skolechat",
+    "rank": 5,
+    "tweet_count": null
   },
   {
     "name": "#SletteMette",
     "query": "#SletteMette",
-    "rank": 5,
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "#fcmaab",
     "query": "#fcmaab",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "#skolechat",
-    "query": "#skolechat",
     "rank": 7,
     "tweet_count": null
   },
   {
-    "name": "aalborg freja",
-    "query": "\"aalborg freja\"",
+    "name": "Aalborg Freja",
+    "query": "\"Aalborg Freja\"",
     "rank": 8,
     "tweet_count": null
   },
@@ -51,7 +51,7 @@
     "name": "Emil",
     "query": "Emil",
     "rank": 9,
-    "tweet_count": "7,571 Tweets"
+    "tweet_count": "7,799 Tweets"
   },
   {
     "name": "Hvidovre",
@@ -60,8 +60,8 @@
     "tweet_count": null
   },
   {
-    "name": "Anton Nør",
-    "query": "\"Anton Nør\"",
+    "name": "anton nør",
+    "query": "\"anton nør\"",
     "rank": 11,
     "tweet_count": null
   },
@@ -69,13 +69,13 @@
     "name": "Singh",
     "query": "Singh",
     "rank": 12,
-    "tweet_count": "81.8K Tweets"
+    "tweet_count": "83.1K Tweets"
   },
   {
     "name": "greve",
     "query": "greve",
     "rank": 13,
-    "tweet_count": "12.8K Tweets"
+    "tweet_count": "13K Tweets"
   },
   {
     "name": "Statsministeriet",
@@ -87,36 +87,36 @@
     "name": "Blas",
     "query": "Blas",
     "rank": 15,
-    "tweet_count": "2,393 Tweets"
+    "tweet_count": "2,434 Tweets"
   },
   {
-    "name": "Søren Pind",
-    "query": "\"Søren Pind\"",
+    "name": "søren pind",
+    "query": "\"søren pind\"",
     "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "Riveros",
-    "query": "Riveros",
+    "name": "Koeman",
+    "query": "Koeman",
     "rank": 17,
+    "tweet_count": "89.2K Tweets"
+  },
+  {
+    "name": "riveros",
+    "query": "riveros",
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Every 2",
+    "query": "\"Every 2\"",
+    "rank": 19,
+    "tweet_count": "43.5K Tweets"
   },
   {
     "name": "Xavi",
     "query": "Xavi",
-    "rank": 18,
-    "tweet_count": "120K Tweets"
-  },
-  {
-    "name": "Serie 1",
-    "query": "\"Serie 1\"",
-    "rank": 19,
-    "tweet_count": "54.4K Tweets"
-  },
-  {
-    "name": "folk",
-    "query": "folk",
     "rank": 20,
-    "tweet_count": "28.7K Tweets"
+    "tweet_count": "121K Tweets"
   }
 ]
