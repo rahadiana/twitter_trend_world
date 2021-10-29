@@ -9,25 +9,25 @@
     "name": "Meta",
     "query": "Meta",
     "rank": 2,
-    "tweet_count": "866K Tweets"
+    "tweet_count": "876K Tweets"
   },
   {
-    "name": "#selfiefredag",
-    "query": "#selfiefredag",
+    "name": "#SelfieFredag",
+    "query": "#SelfieFredag",
     "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "#obosligaen",
+    "query": "#obosligaen",
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Halloween",
     "query": "Halloween",
-    "rank": 4,
-    "tweet_count": "1.98M Tweets"
-  },
-  {
-    "name": "#obosligaen",
-    "query": "#obosligaen",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "2.04M Tweets"
   },
   {
     "name": "Brann",
@@ -36,32 +36,32 @@
     "tweet_count": null
   },
   {
-    "name": "#fredagsselfie",
-    "query": "#fredagsselfie",
+    "name": "Munch",
+    "query": "Munch",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "5,079 Tweets"
   },
   {
     "name": "Bergen",
     "query": "Bergen",
     "rank": 8,
-    "tweet_count": "2,860 Tweets"
+    "tweet_count": "2,980 Tweets"
   },
   {
-    "name": "Munch",
-    "query": "Munch",
+    "name": "grorud",
+    "query": "grorud",
     "rank": 9,
-    "tweet_count": "4,926 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Grorud",
-    "query": "Grorud",
+    "name": "bryggen",
+    "query": "bryggen",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Bryggen",
-    "query": "Bryggen",
+    "name": "#fredagsselfie",
+    "query": "#fredagsselfie",
     "rank": 11,
     "tweet_count": null
   },
@@ -81,36 +81,36 @@
     "name": "Oilers",
     "query": "Oilers",
     "rank": 14,
-    "tweet_count": "1,885 Tweets"
-  },
-  {
-    "name": "solbakken",
-    "query": "solbakken",
-    "rank": 15,
-    "tweet_count": null
+    "tweet_count": "1,935 Tweets"
   },
   {
     "name": "gigi",
     "query": "gigi",
+    "rank": 15,
+    "tweet_count": "300K Tweets"
+  },
+  {
+    "name": "Grill",
+    "query": "Grill",
     "rank": 16,
-    "tweet_count": "294K Tweets"
-  },
-  {
-    "name": "grill",
-    "query": "grill",
-    "rank": 17,
-    "tweet_count": "8,198 Tweets"
-  },
-  {
-    "name": "Zuckerberg",
-    "query": "Zuckerberg",
-    "rank": 18,
-    "tweet_count": "206K Tweets"
+    "tweet_count": "8,372 Tweets"
   },
   {
     "name": "Opdal",
     "query": "Opdal",
-    "rank": 19,
+    "rank": 17,
     "tweet_count": null
+  },
+  {
+    "name": "AaFK",
+    "query": "AaFK",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Brexit",
+    "query": "Brexit",
+    "rank": 19,
+    "tweet_count": "106K Tweets"
   }
 ]
