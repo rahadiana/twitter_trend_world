@@ -1,7 +1,7 @@
 [
   {
-    "name": "#Beinschab",
-    "query": "#Beinschab",
+    "name": "#beinschab",
+    "query": "#beinschab",
     "rank": 1,
     "tweet_count": null
   },
@@ -9,7 +9,7 @@
     "name": "#Meta",
     "query": "#Meta",
     "rank": 2,
-    "tweet_count": "115K Tweets"
+    "tweet_count": "116K Tweets"
   },
   {
     "name": "#AmSchauplatz",
@@ -27,11 +27,11 @@
     "name": "thiem",
     "query": "thiem",
     "rank": 5,
-    "tweet_count": "1,075 Tweets"
+    "tweet_count": "1,078 Tweets"
   },
   {
-    "name": "Kronzeugin",
-    "query": "Kronzeugin",
+    "name": "Kronzeugenstatus",
+    "query": "Kronzeugenstatus",
     "rank": 6,
     "tweet_count": null
   },
@@ -51,7 +51,7 @@
     "name": "Neuinfektionen",
     "query": "Neuinfektionen",
     "rank": 9,
-    "tweet_count": "4,002 Tweets"
+    "tweet_count": "4,051 Tweets"
   },
   {
     "name": "Leut",
@@ -63,7 +63,7 @@
     "name": "Monaten",
     "query": "Monaten",
     "rank": 11,
-    "tweet_count": "5,349 Tweets"
+    "tweet_count": "5,434 Tweets"
   },
   {
     "name": "Haltung",
@@ -72,40 +72,40 @@
     "tweet_count": null
   },
   {
-    "name": "Klimaticket",
-    "query": "Klimaticket",
+    "name": "WKStA",
+    "query": "WKStA",
     "rank": 13,
-    "tweet_count": "1,118 Tweets"
+    "tweet_count": "1,115 Tweets"
   },
   {
-    "name": "Bekannte",
-    "query": "Bekannte",
+    "name": "schmid",
+    "query": "schmid",
     "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "WKStA",
-    "query": "WKStA",
+    "name": "Klimaticket",
+    "query": "Klimaticket",
     "rank": 15,
-    "tweet_count": "1,094 Tweets"
+    "tweet_count": "1,133 Tweets"
+  },
+  {
+    "name": "Bekannte",
+    "query": "Bekannte",
+    "rank": 16,
+    "tweet_count": null
   },
   {
     "name": "Fieber",
     "query": "Fieber",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Zuckerberg",
     "query": "Zuckerberg",
-    "rank": 17,
-    "tweet_count": "177K Tweets"
-  },
-  {
-    "name": "schalter",
-    "query": "schalter",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "178K Tweets"
   },
   {
     "name": "fernwärme",
@@ -117,6 +117,6 @@
     "name": "Tennis",
     "query": "Tennis",
     "rank": 20,
-    "tweet_count": "20.5K Tweets"
+    "tweet_count": "20.7K Tweets"
   }
 ]

@@ -1,51 +1,51 @@
 [
   {
-    "name": "The Times",
-    "query": "\"The Times\"",
+    "name": "Brass",
+    "query": "Brass",
     "rank": 1,
-    "tweet_count": "276K Tweets"
+    "tweet_count": "8,401 Tweets"
   },
   {
     "name": "Gabby",
     "query": "Gabby",
     "rank": 2,
-    "tweet_count": "15.6K Tweets"
+    "tweet_count": "15.7K Tweets"
   },
   {
     "name": "Gen Z",
     "query": "\"Gen Z\"",
     "rank": 3,
-    "tweet_count": "21.6K Tweets"
-  },
-  {
-    "name": "Packers",
-    "query": "Packers",
-    "rank": 4,
-    "tweet_count": "159K Tweets"
+    "tweet_count": "21.8K Tweets"
   },
   {
     "name": "Matrix",
     "query": "Matrix",
+    "rank": 4,
+    "tweet_count": "23.8K Tweets"
+  },
+  {
+    "name": "Kathleen Stock",
+    "query": "\"Kathleen Stock\"",
     "rank": 5,
-    "tweet_count": "23.5K Tweets"
+    "tweet_count": "7,406 Tweets"
   },
   {
     "name": "Article 16",
     "query": "\"Article 16\"",
     "rank": 6,
-    "tweet_count": "8,909 Tweets"
+    "tweet_count": "9,013 Tweets"
   },
   {
     "name": "#DragRaceUK",
     "query": "#DragRaceUK",
     "rank": 7,
-    "tweet_count": "15K Tweets"
+    "tweet_count": "15.1K Tweets"
   },
   {
     "name": "#JDSpookySZN",
     "query": "#JDSpookySZN",
     "rank": 8,
-    "tweet_count": "3,145 Tweets"
+    "tweet_count": "3,261 Tweets"
   },
   {
     "name": "#VibePayFriday",
@@ -57,13 +57,13 @@
     "name": "Rodgers",
     "query": "Rodgers",
     "rank": 10,
-    "tweet_count": "56.1K Tweets"
+    "tweet_count": "56.7K Tweets"
   },
   {
-    "name": "LANI",
-    "query": "LANI",
+    "name": "HAPPY BIRTHDAY LANI",
+    "query": "\"HAPPY BIRTHDAY LANI\"",
     "rank": 11,
-    "tweet_count": "5,905 Tweets"
+    "tweet_count": "2,471 Tweets"
   },
   {
     "name": "Stormzy",
@@ -72,33 +72,21 @@
     "tweet_count": null
   },
   {
+    "name": "Mermaids",
+    "query": "Mermaids",
+    "rank": 13,
+    "tweet_count": "3,369 Tweets"
+  },
+  {
     "name": "Owen Jones",
     "query": "\"Owen Jones\"",
-    "rank": 13,
-    "tweet_count": "2,607 Tweets"
+    "rank": 14,
+    "tweet_count": "2,705 Tweets"
   },
   {
     "name": "Happy Birthday Calvin",
     "query": "\"Happy Birthday Calvin\"",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Mermaids",
-    "query": "Mermaids",
     "rank": 15,
-    "tweet_count": "3,188 Tweets"
-  },
-  {
-    "name": "George Eustice",
-    "query": "\"George Eustice\"",
-    "rank": 16,
-    "tweet_count": "6,359 Tweets"
-  },
-  {
-    "name": "somi",
-    "query": "somi",
-    "rank": 17,
-    "tweet_count": "75.1K Tweets"
+    "tweet_count": null
   }
 ]
