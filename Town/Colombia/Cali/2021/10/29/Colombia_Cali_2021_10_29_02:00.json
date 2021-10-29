@@ -1,39 +1,39 @@
 [
   {
-    "name": "Tolima",
-    "query": "Tolima",
-    "rank": 1,
-    "tweet_count": "2,440 Tweets"
-  },
-  {
     "name": "Ospina",
     "query": "Ospina",
-    "rank": 2,
-    "tweet_count": "7,024 Tweets"
+    "rank": 1,
+    "tweet_count": "7,151 Tweets"
   },
   {
     "name": "#YoMeLlamo",
     "query": "#YoMeLlamo",
+    "rank": 2,
+    "tweet_count": "7,949 Tweets"
+  },
+  {
+    "name": "#MissVenezuela2021",
+    "query": "#MissVenezuela2021",
     "rank": 3,
-    "tweet_count": "7,910 Tweets"
+    "tweet_count": "17K Tweets"
+  },
+  {
+    "name": "Vacaxiones",
+    "query": "Vacaxiones",
+    "rank": 4,
+    "tweet_count": "5,425 Tweets"
   },
   {
     "name": "Bad Bunny",
     "query": "\"Bad Bunny\"",
-    "rank": 4,
-    "tweet_count": "33.1K Tweets"
-  },
-  {
-    "name": "VACAXIONES",
-    "query": "VACAXIONES",
     "rank": 5,
-    "tweet_count": "5,271 Tweets"
+    "tweet_count": "33.4K Tweets"
   },
   {
-    "name": "Maluma",
-    "query": "Maluma",
+    "name": "Batalla",
+    "query": "Batalla",
     "rank": 6,
-    "tweet_count": "8,825 Tweets"
+    "tweet_count": "23.3K Tweets"
   },
   {
     "name": "Lucumi",
@@ -42,69 +42,81 @@
     "tweet_count": null
   },
   {
-    "name": "#MissVenezuela2021",
-    "query": "#MissVenezuela2021",
-    "rank": 8,
-    "tweet_count": "15.9K Tweets"
-  },
-  {
     "name": "Feid",
     "query": "Feid",
-    "rank": 9,
-    "tweet_count": "2,808 Tweets"
-  },
-  {
-    "name": "Batalla",
-    "query": "Batalla",
-    "rank": 10,
-    "tweet_count": "23.2K Tweets"
+    "rank": 8,
+    "tweet_count": "2,889 Tweets"
   },
   {
     "name": "gigi",
     "query": "gigi",
+    "rank": 9,
+    "tweet_count": "133K Tweets"
+  },
+  {
+    "name": "Gustavo Torres",
+    "query": "\"Gustavo Torres\"",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "Maluma",
+    "query": "Maluma",
     "rank": 11,
-    "tweet_count": "129K Tweets"
+    "tweet_count": "8,862 Tweets"
   },
   {
     "name": "Selena",
     "query": "Selena",
     "rank": 12,
-    "tweet_count": "35.8K Tweets"
+    "tweet_count": "36.1K Tweets"
   },
   {
     "name": "Quindío",
     "query": "Quindío",
     "rank": 13,
-    "tweet_count": "1,649 Tweets"
-  },
-  {
-    "name": "ariana",
-    "query": "ariana",
-    "rank": 14,
-    "tweet_count": "61K Tweets"
-  },
-  {
-    "name": "KIM LOAIZA",
-    "query": "\"KIM LOAIZA\"",
-    "rank": 15,
-    "tweet_count": "32.1K Tweets"
+    "tweet_count": "1,666 Tweets"
   },
   {
     "name": "Meta",
     "query": "Meta",
-    "rank": 16,
-    "tweet_count": "561K Tweets"
+    "rank": 14,
+    "tweet_count": "567K Tweets"
+  },
+  {
+    "name": "ariana",
+    "query": "ariana",
+    "rank": 15,
+    "tweet_count": "61.3K Tweets"
   },
   {
     "name": "Hinestroza",
     "query": "Hinestroza",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "maia",
-    "query": "maia",
+    "name": "Junior",
+    "query": "Junior",
+    "rank": 17,
+    "tweet_count": "79.5K Tweets"
+  },
+  {
+    "name": "KIM LOAIZA FT ZION Y LENNOX",
+    "query": "\"KIM LOAIZA FT ZION Y LENNOX\"",
     "rank": 18,
-    "tweet_count": "11.3K Tweets"
+    "tweet_count": "31.2K Tweets"
+  },
+  {
+    "name": "Maia",
+    "query": "Maia",
+    "rank": 19,
+    "tweet_count": "11.4K Tweets"
+  },
+  {
+    "name": "bocanegra",
+    "query": "bocanegra",
+    "rank": 20,
+    "tweet_count": null
   }
 ]
