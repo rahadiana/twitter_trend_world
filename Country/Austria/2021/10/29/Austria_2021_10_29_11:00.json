@@ -9,11 +9,11 @@
     "name": "#Meta",
     "query": "#Meta",
     "rank": 2,
-    "tweet_count": "112K Tweets"
+    "tweet_count": "114K Tweets"
   },
   {
-    "name": "#amschauplatz",
-    "query": "#amschauplatz",
+    "name": "#AmSchauplatz",
+    "query": "#AmSchauplatz",
     "rank": 3,
     "tweet_count": null
   },
@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "Kronzeugen",
-    "query": "Kronzeugen",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
     "name": "thiem",
     "query": "thiem",
+    "rank": 5,
+    "tweet_count": "1,072 Tweets"
+  },
+  {
+    "name": "Kronzeugin",
+    "query": "Kronzeugin",
     "rank": 6,
-    "tweet_count": "1,065 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Struppi",
@@ -51,71 +51,71 @@
     "name": "Neuinfektionen",
     "query": "Neuinfektionen",
     "rank": 9,
-    "tweet_count": "3,914 Tweets"
+    "tweet_count": "3,980 Tweets"
+  },
+  {
+    "name": "Leut",
+    "query": "Leut",
+    "rank": 10,
+    "tweet_count": null
   },
   {
     "name": "Monaten",
     "query": "Monaten",
-    "rank": 10,
-    "tweet_count": "5,222 Tweets"
+    "rank": 11,
+    "tweet_count": "5,303 Tweets"
   },
   {
     "name": "abzeichen",
     "query": "abzeichen",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Haltung",
     "query": "Haltung",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Bekannte",
-    "query": "Bekannte",
     "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "WKStA",
-    "query": "WKStA",
-    "rank": 14,
-    "tweet_count": "1,040 Tweets"
-  },
-  {
-    "name": "Fieber",
-    "query": "Fieber",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Zuckerberg",
-    "query": "Zuckerberg",
-    "rank": 16,
-    "tweet_count": "174K Tweets"
-  },
-  {
-    "name": "Schiff",
-    "query": "Schiff",
-    "rank": 17,
-    "tweet_count": "13.3K Tweets"
-  },
-  {
-    "name": "schalter",
-    "query": "schalter",
-    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Klimaticket",
     "query": "Klimaticket",
-    "rank": 19,
-    "tweet_count": "1,081 Tweets"
+    "rank": 14,
+    "tweet_count": "1,109 Tweets"
   },
   {
-    "name": "Fernwärme",
-    "query": "Fernwärme",
+    "name": "Bekannte",
+    "query": "Bekannte",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Fieber",
+    "query": "Fieber",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Zuckerberg",
+    "query": "Zuckerberg",
+    "rank": 17,
+    "tweet_count": "176K Tweets"
+  },
+  {
+    "name": "WKStA",
+    "query": "WKStA",
+    "rank": 18,
+    "tweet_count": "1,075 Tweets"
+  },
+  {
+    "name": "schalter",
+    "query": "schalter",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "fernwärme",
+    "query": "fernwärme",
     "rank": 20,
     "tweet_count": null
   }
