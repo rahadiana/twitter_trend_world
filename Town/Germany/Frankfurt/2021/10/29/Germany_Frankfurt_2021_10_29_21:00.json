@@ -1,49 +1,49 @@
 [
   {
+    "name": "Halloween",
+    "query": "Halloween",
+    "rank": 1,
+    "tweet_count": "1.31M Tweets"
+  },
+  {
     "name": "#TSGBSC",
     "query": "#TSGBSC",
-    "rank": 1,
-    "tweet_count": "1,294 Tweets"
+    "rank": 2,
+    "tweet_count": "1,314 Tweets"
   },
   {
     "name": "#heuteshow",
     "query": "#heuteshow",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#Mattscheibe",
     "query": "#Mattscheibe",
-    "rank": 3,
-    "tweet_count": "1,274 Tweets"
+    "rank": 4,
+    "tweet_count": "1,275 Tweets"
   },
   {
     "name": "Süßigkeiten",
     "query": "Süßigkeiten",
-    "rank": 4,
-    "tweet_count": "1,088 Tweets"
+    "rank": 5,
+    "tweet_count": "1,126 Tweets"
   },
   {
     "name": "Yolanda",
     "query": "Yolanda",
-    "rank": 5,
-    "tweet_count": "229K Tweets"
+    "rank": 6,
+    "tweet_count": "231K Tweets"
   },
   {
     "name": "Grammozis",
     "query": "Grammozis",
-    "rank": 6,
+    "rank": 7,
     "tweet_count": null
   },
   {
-    "name": "Sonja",
-    "query": "Sonja",
-    "rank": 7,
-    "tweet_count": "2,932 Tweets"
-  },
-  {
-    "name": "Freitagabend",
-    "query": "Freitagabend",
+    "name": "Freitag Abend",
+    "query": "\"Freitag Abend\"",
     "rank": 8,
     "tweet_count": null
   },
@@ -54,8 +54,8 @@
     "tweet_count": null
   },
   {
-    "name": "Süßes",
-    "query": "Süßes",
+    "name": "süßes",
+    "query": "süßes",
     "rank": 10,
     "tweet_count": null
   },
@@ -63,37 +63,37 @@
     "name": "Happy Halloween",
     "query": "\"Happy Halloween\"",
     "rank": 11,
-    "tweet_count": "253K Tweets"
-  },
-  {
-    "name": "Feiertag",
-    "query": "Feiertag",
-    "rank": 12,
-    "tweet_count": null
+    "tweet_count": "258K Tweets"
   },
   {
     "name": "Mario Party",
     "query": "\"Mario Party\"",
+    "rank": 12,
+    "tweet_count": "36.7K Tweets"
+  },
+  {
+    "name": "Feiertag",
+    "query": "Feiertag",
     "rank": 13,
-    "tweet_count": "35.8K Tweets"
-  },
-  {
-    "name": "Nebel",
-    "query": "Nebel",
-    "rank": 14,
-    "tweet_count": "1,441 Tweets"
-  },
-  {
-    "name": "Hochdeutsch",
-    "query": "Hochdeutsch",
-    "rank": 15,
     "tweet_count": null
+  },
+  {
+    "name": "nebel",
+    "query": "nebel",
+    "rank": 14,
+    "tweet_count": "1,462 Tweets"
   },
   {
     "name": "gigi",
     "query": "gigi",
+    "rank": 15,
+    "tweet_count": "296K Tweets"
+  },
+  {
+    "name": "#TeamSeas",
+    "query": "#TeamSeas",
     "rank": 16,
-    "tweet_count": "294K Tweets"
+    "tweet_count": "31.6K Tweets"
   },
   {
     "name": "#princesscharming",
@@ -102,9 +102,9 @@
     "tweet_count": null
   },
   {
-    "name": "#TeamSeas",
-    "query": "#TeamSeas",
+    "name": "#zdfmagazin",
+    "query": "#zdfmagazin",
     "rank": 18,
-    "tweet_count": "27.7K Tweets"
+    "tweet_count": null
   }
 ]
