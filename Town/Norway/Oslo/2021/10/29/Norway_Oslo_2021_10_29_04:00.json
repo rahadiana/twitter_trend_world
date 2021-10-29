@@ -3,31 +3,31 @@
     "name": "Meta",
     "query": "Meta",
     "rank": 1,
-    "tweet_count": "594K Tweets"
+    "tweet_count": "608K Tweets"
   },
   {
     "name": "Brann",
     "query": "Brann",
     "rank": 2,
-    "tweet_count": "1,056 Tweets"
+    "tweet_count": "1,038 Tweets"
   },
   {
     "name": "bergen",
     "query": "bergen",
     "rank": 3,
-    "tweet_count": "4,216 Tweets"
-  },
-  {
-    "name": "Grill",
-    "query": "Grill",
-    "rank": 4,
-    "tweet_count": "8,521 Tweets"
+    "tweet_count": "4,237 Tweets"
   },
   {
     "name": "varme",
     "query": "varme",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "Grill",
+    "query": "Grill",
+    "rank": 5,
+    "tweet_count": "8,633 Tweets"
   },
   {
     "name": "joe bell",
@@ -42,40 +42,40 @@
     "tweet_count": null
   },
   {
-    "name": "Halloween",
-    "query": "Halloween",
-    "rank": 8,
-    "tweet_count": "1.24M Tweets"
-  },
-  {
     "name": "#nrkdebatt",
     "query": "#nrkdebatt",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "jordal",
     "query": "jordal",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Halloween",
+    "query": "Halloween",
     "rank": 10,
+    "tweet_count": "1.26M Tweets"
+  },
+  {
+    "name": "Koeman",
+    "query": "Koeman",
+    "rank": 11,
+    "tweet_count": "149K Tweets"
+  },
+  {
+    "name": "finne",
+    "query": "finne",
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "jungkook",
     "query": "jungkook",
-    "rank": 11,
-    "tweet_count": "1.33M Tweets"
-  },
-  {
-    "name": "Koeman",
-    "query": "Koeman",
-    "rank": 12,
-    "tweet_count": "148K Tweets"
-  },
-  {
-    "name": "finne",
-    "query": "finne",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "1.35M Tweets"
   },
   {
     "name": "opdal",
@@ -93,7 +93,7 @@
     "name": "Xavi",
     "query": "Xavi",
     "rank": 16,
-    "tweet_count": "153K Tweets"
+    "tweet_count": "155K Tweets"
   },
   {
     "name": "sandefjord",
@@ -108,8 +108,8 @@
     "tweet_count": null
   },
   {
-    "name": "Kongen",
-    "query": "Kongen",
+    "name": "kongen",
+    "query": "kongen",
     "rank": 19,
     "tweet_count": null
   },
@@ -117,6 +117,6 @@
     "name": "Qatar",
     "query": "Qatar",
     "rank": 20,
-    "tweet_count": "19.7K Tweets"
+    "tweet_count": "19.9K Tweets"
   }
 ]
