@@ -1,55 +1,55 @@
 [
   {
-    "name": "#ЗенитДинамо",
-    "query": "#ЗенитДинамо",
+    "name": "#зенитдинамо",
+    "query": "#зенитдинамо",
     "rank": 1,
-    "tweet_count": "1,026 Tweets"
+    "tweet_count": "1,110 Tweets"
   },
   {
     "name": "Рашкина",
     "query": "Рашкина",
     "rank": 2,
-    "tweet_count": "7,448 Tweets"
-  },
-  {
-    "name": "Meta",
-    "query": "Meta",
-    "rank": 3,
-    "tweet_count": "795K Tweets"
+    "tweet_count": "7,751 Tweets"
   },
   {
     "name": "Лось",
     "query": "Лось",
-    "rank": 4,
-    "tweet_count": "4,390 Tweets"
+    "rank": 3,
+    "tweet_count": "4,577 Tweets"
   },
   {
-    "name": "#FlyAway",
-    "query": "#FlyAway",
-    "rank": 5,
-    "tweet_count": "37.9K Tweets"
+    "name": "Meta",
+    "query": "Meta",
+    "rank": 4,
+    "tweet_count": "803K Tweets"
   },
   {
     "name": "Лося",
     "query": "Лося",
+    "rank": 5,
+    "tweet_count": "10.7K Tweets"
+  },
+  {
+    "name": "#FlyAway",
+    "query": "#FlyAway",
     "rank": 6,
-    "tweet_count": "10.3K Tweets"
+    "tweet_count": "42.8K Tweets"
   },
   {
-    "name": "Клаудиньо",
-    "query": "Клаудиньо",
+    "name": "#OneDaywithHYUNGWON",
+    "query": "#OneDaywithHYUNGWON",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "62.4K Tweets"
   },
   {
-    "name": "thls is chaance",
-    "query": "\"thls is chaance\"",
+    "name": "Яроша",
+    "query": "Яроша",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Марк Цукерберг",
-    "query": "\"Марк Цукерберг\"",
+    "name": "Клаудиньо",
+    "query": "Клаудиньо",
     "rank": 9,
     "tweet_count": null
   },
@@ -60,28 +60,28 @@
     "tweet_count": null
   },
   {
-    "name": "take a part",
-    "query": "\"take a part\"",
-    "rank": 11,
-    "tweet_count": "22.9K Tweets"
-  },
-  {
     "name": "КПРФ",
     "query": "КПРФ",
+    "rank": 11,
+    "tweet_count": "5,024 Tweets"
+  },
+  {
+    "name": "марк цукерберг",
+    "query": "\"марк цукерберг\"",
     "rank": 12,
-    "tweet_count": "4,899 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Хэллоуин",
-    "query": "Хэллоуин",
+    "name": "THlS IS CHAANCE",
+    "query": "\"THlS IS CHAANCE\"",
     "rank": 13,
-    "tweet_count": "3,098 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Василия Блаженного",
-    "query": "\"Василия Блаженного\"",
+    "name": "Саратовской",
+    "query": "Саратовской",
     "rank": 14,
-    "tweet_count": "1,043 Tweets"
+    "tweet_count": "2,556 Tweets"
   },
   {
     "name": "SKZ 2ND THE FIRST TAKE",
@@ -90,15 +90,21 @@
     "tweet_count": "29.3K Tweets"
   },
   {
-    "name": "Зюганов",
-    "query": "Зюганов",
+    "name": "Мета",
+    "query": "Мета",
     "rank": 16,
-    "tweet_count": null
+    "tweet_count": "1,871 Tweets"
   },
   {
-    "name": "PGNiG",
-    "query": "PGNiG",
+    "name": "TAKE A PART",
+    "query": "\"TAKE A PART\"",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "23.4K Tweets"
+  },
+  {
+    "name": "Хэллоуин",
+    "query": "Хэллоуин",
+    "rank": 18,
+    "tweet_count": "3,190 Tweets"
   }
 ]

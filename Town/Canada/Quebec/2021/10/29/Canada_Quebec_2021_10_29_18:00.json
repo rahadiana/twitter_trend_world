@@ -1,57 +1,57 @@
 [
   {
-    "name": "#COP26",
-    "query": "#COP26",
-    "rank": 1,
-    "tweet_count": "106K Tweets"
-  },
-  {
     "name": "#freecodefridaycontest",
     "query": "#freecodefridaycontest",
-    "rank": 2,
-    "tweet_count": "5,367 Tweets"
+    "rank": 1,
+    "tweet_count": "6,328 Tweets"
   },
   {
     "name": "Happy Halloween",
     "query": "\"Happy Halloween\"",
-    "rank": 3,
-    "tweet_count": "229K Tweets"
+    "rank": 2,
+    "tweet_count": "236K Tweets"
   },
   {
     "name": "Rielly",
     "query": "Rielly",
-    "rank": 4,
-    "tweet_count": "3,758 Tweets"
+    "rank": 3,
+    "tweet_count": "4,056 Tweets"
   },
   {
-    "name": "Asif Ali",
-    "query": "\"Asif Ali\"",
-    "rank": 5,
-    "tweet_count": "86.6K Tweets"
+    "name": "#PakvsAfg",
+    "query": "#PakvsAfg",
+    "rank": 4,
+    "tweet_count": "173K Tweets"
   },
   {
     "name": "Mike Ward",
     "query": "\"Mike Ward\"",
-    "rank": 6,
-    "tweet_count": "1,687 Tweets"
+    "rank": 5,
+    "tweet_count": "1,746 Tweets"
   },
   {
     "name": "#RBCisKillingMe",
     "query": "#RBCisKillingMe",
+    "rank": 6,
+    "tweet_count": "1,252 Tweets"
+  },
+  {
+    "name": "#NationalCatDay",
+    "query": "#NationalCatDay",
     "rank": 7,
-    "tweet_count": "1,076 Tweets"
+    "tweet_count": "16.8K Tweets"
   },
   {
     "name": "Cheveldayoff",
     "query": "Cheveldayoff",
     "rank": 8,
-    "tweet_count": "4,193 Tweets"
+    "tweet_count": "4,357 Tweets"
   },
   {
     "name": "Holl",
     "query": "Holl",
     "rank": 9,
-    "tweet_count": "1,231 Tweets"
+    "tweet_count": "1,298 Tweets"
   },
   {
     "name": "Kessel",
@@ -60,51 +60,57 @@
     "tweet_count": null
   },
   {
-    "name": "cupe",
-    "query": "cupe",
+    "name": "CUPE",
+    "query": "CUPE",
     "rank": 11,
-    "tweet_count": "1,503 Tweets"
+    "tweet_count": "1,556 Tweets"
+  },
+  {
+    "name": "Babar",
+    "query": "Babar",
+    "rank": 12,
+    "tweet_count": "29.7K Tweets"
   },
   {
     "name": "The Offspring",
     "query": "\"The Offspring\"",
-    "rank": 12,
-    "tweet_count": "2,243 Tweets"
-  },
-  {
-    "name": "McCann",
-    "query": "McCann",
     "rank": 13,
-    "tweet_count": "1,651 Tweets"
+    "tweet_count": "2,325 Tweets"
   },
   {
-    "name": "Wolverine",
-    "query": "Wolverine",
+    "name": "NACI",
+    "query": "NACI",
     "rank": 14,
-    "tweet_count": "4,435 Tweets"
+    "tweet_count": "7,732 Tweets"
   },
   {
     "name": "Pope",
     "query": "Pope",
     "rank": 15,
-    "tweet_count": "85.4K Tweets"
+    "tweet_count": "88.8K Tweets"
   },
   {
-    "name": "NACI",
-    "query": "NACI",
+    "name": "Higgs",
+    "query": "Higgs",
     "rank": 16,
-    "tweet_count": "7,529 Tweets"
-  },
-  {
-    "name": "True North",
-    "query": "\"True North\"",
-    "rank": 17,
-    "tweet_count": null
+    "tweet_count": "1,415 Tweets"
   },
   {
     "name": "Experts",
     "query": "Experts",
+    "rank": 17,
+    "tweet_count": "61.7K Tweets"
+  },
+  {
+    "name": "Remembrance Day",
+    "query": "\"Remembrance Day\"",
     "rank": 18,
-    "tweet_count": "60.6K Tweets"
+    "tweet_count": "2,671 Tweets"
+  },
+  {
+    "name": "Roblox",
+    "query": "Roblox",
+    "rank": 19,
+    "tweet_count": "224K Tweets"
   }
 ]
