@@ -12,20 +12,20 @@
     "tweet_count": null
   },
   {
-    "name": "Kronzeugin",
-    "query": "Kronzeugin",
+    "name": "#Meta",
+    "query": "#Meta",
     "rank": 3,
+    "tweet_count": "100K Tweets"
+  },
+  {
+    "name": "#amschauplatz",
+    "query": "#amschauplatz",
+    "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "#Meta",
-    "query": "#Meta",
-    "rank": 4,
-    "tweet_count": "98.9K Tweets"
-  },
-  {
-    "name": "#AmSchauplatz",
-    "query": "#AmSchauplatz",
+    "name": "Kronzeugin",
+    "query": "Kronzeugin",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,31 +33,31 @@
     "name": "#bmgfcb",
     "query": "#bmgfcb",
     "rank": 6,
-    "tweet_count": "3,275 Tweets"
+    "tweet_count": "3,312 Tweets"
   },
   {
-    "name": "guten morgen peter",
-    "query": "\"guten morgen peter\"",
+    "name": "Neuinfektionen",
+    "query": "Neuinfektionen",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "4,455 Tweets"
   },
   {
     "name": "Thiem",
     "query": "Thiem",
     "rank": 8,
-    "tweet_count": "1,185 Tweets"
+    "tweet_count": "1,191 Tweets"
+  },
+  {
+    "name": "Peter",
+    "query": "Peter",
+    "rank": 9,
+    "tweet_count": "101K Tweets"
   },
   {
     "name": "WKStA",
     "query": "WKStA",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Neuinfektionen",
-    "query": "Neuinfektionen",
     "rank": 10,
-    "tweet_count": "4,370 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Struppi",
@@ -69,54 +69,54 @@
     "name": "Lockdown",
     "query": "Lockdown",
     "rank": 12,
-    "tweet_count": "63K Tweets"
-  },
-  {
-    "name": "Titel",
-    "query": "Titel",
-    "rank": 13,
-    "tweet_count": "1,875 Tweets"
+    "tweet_count": "63.6K Tweets"
   },
   {
     "name": "Jungs",
     "query": "Jungs",
-    "rank": 14,
-    "tweet_count": "1,670 Tweets"
-  },
-  {
-    "name": "Aufklärung",
-    "query": "Aufklärung",
-    "rank": 15,
-    "tweet_count": "1,049 Tweets"
+    "rank": 13,
+    "tweet_count": "1,692 Tweets"
   },
   {
     "name": "Krone",
     "query": "Krone",
-    "rank": 16,
-    "tweet_count": "2,278 Tweets"
+    "rank": 14,
+    "tweet_count": "2,328 Tweets"
   },
   {
     "name": "Abzeichen",
     "query": "Abzeichen",
-    "rank": 17,
+    "rank": 15,
     "tweet_count": null
-  },
-  {
-    "name": "Fälle",
-    "query": "Fälle",
-    "rank": 18,
-    "tweet_count": "3,355 Tweets"
   },
   {
     "name": "Haltung",
     "query": "Haltung",
-    "rank": 19,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Justiz",
     "query": "Justiz",
+    "rank": 17,
+    "tweet_count": "2,391 Tweets"
+  },
+  {
+    "name": "Fälle",
+    "query": "Fälle",
+    "rank": 18,
+    "tweet_count": "3,413 Tweets"
+  },
+  {
+    "name": "Impftermin",
+    "query": "Impftermin",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Haider",
+    "query": "Haider",
     "rank": 20,
-    "tweet_count": "2,360 Tweets"
+    "tweet_count": "5,621 Tweets"
   }
 ]
