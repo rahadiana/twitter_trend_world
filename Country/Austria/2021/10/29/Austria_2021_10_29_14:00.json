@@ -1,15 +1,15 @@
 [
   {
-    "name": "#Meta",
-    "query": "#Meta",
-    "rank": 1,
-    "tweet_count": "131K Tweets"
-  },
-  {
     "name": "#Beinschab",
     "query": "#Beinschab",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#Meta",
+    "query": "#Meta",
+    "rank": 2,
+    "tweet_count": "133K Tweets"
   },
   {
     "name": "#AmSchauplatz",
@@ -24,8 +24,8 @@
     "tweet_count": null
   },
   {
-    "name": "Struppi",
-    "query": "Struppi",
+    "name": "struppi",
+    "query": "struppi",
     "rank": 5,
     "tweet_count": null
   },
@@ -36,10 +36,10 @@
     "tweet_count": null
   },
   {
-    "name": "#Sommerhaus",
-    "query": "#Sommerhaus",
+    "name": "#sommerhaus",
+    "query": "#sommerhaus",
     "rank": 7,
-    "tweet_count": "4,489 Tweets"
+    "tweet_count": "4,485 Tweets"
   },
   {
     "name": "Thiem",
@@ -51,7 +51,7 @@
     "name": "Neuinfektionen",
     "query": "Neuinfektionen",
     "rank": 9,
-    "tweet_count": "3,500 Tweets"
+    "tweet_count": "3,542 Tweets"
   },
   {
     "name": "klopapier",
@@ -75,7 +75,7 @@
     "name": "Klimaticket",
     "query": "Klimaticket",
     "rank": 13,
-    "tweet_count": "1,110 Tweets"
+    "tweet_count": "1,126 Tweets"
   },
   {
     "name": "Bekannte",
@@ -99,7 +99,7 @@
     "name": "Tennis",
     "query": "Tennis",
     "rank": 17,
-    "tweet_count": "20.9K Tweets"
+    "tweet_count": "21.5K Tweets"
   },
   {
     "name": "Stufenplan",
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "Grippe",
-    "query": "Grippe",
+    "name": "briefe",
+    "query": "briefe",
     "rank": 20,
-    "tweet_count": "3,251 Tweets"
+    "tweet_count": null
   }
 ]
