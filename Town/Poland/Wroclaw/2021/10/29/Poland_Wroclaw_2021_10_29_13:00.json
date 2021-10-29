@@ -12,14 +12,14 @@
     "tweet_count": null
   },
   {
-    "name": "#inflacja",
-    "query": "#inflacja",
+    "name": "Lech Wałęsa",
+    "query": "\"Lech Wałęsa\"",
     "rank": 3,
     "tweet_count": null
   },
   {
-    "name": "Lech Wałęsa",
-    "query": "\"Lech Wałęsa\"",
+    "name": "#inflacja",
+    "query": "#inflacja",
     "rank": 4,
     "tweet_count": null
   },
@@ -33,7 +33,7 @@
     "name": "Marsz Niepodległości",
     "query": "\"Marsz Niepodległości\"",
     "rank": 6,
-    "tweet_count": "5,381 Tweets"
+    "tweet_count": "5,445 Tweets"
   },
   {
     "name": "Polski Walczącej",
@@ -45,7 +45,7 @@
     "name": "LGBT",
     "query": "LGBT",
     "rank": 8,
-    "tweet_count": "82.6K Tweets"
+    "tweet_count": "83K Tweets"
   },
   {
     "name": "Belgii",
@@ -54,22 +54,22 @@
     "tweet_count": null
   },
   {
-    "name": "Trzaskowski",
-    "query": "Trzaskowski",
-    "rank": 10,
-    "tweet_count": "10K Tweets"
-  },
-  {
     "name": "Sąd Apelacyjny",
     "query": "\"Sąd Apelacyjny\"",
+    "rank": 10,
+    "tweet_count": "3,998 Tweets"
+  },
+  {
+    "name": "Trzaskowski",
+    "query": "Trzaskowski",
     "rank": 11,
-    "tweet_count": "3,980 Tweets"
+    "tweet_count": "10.2K Tweets"
   },
   {
     "name": "#teczowypiatek",
     "query": "#teczowypiatek",
     "rank": 12,
-    "tweet_count": "1,369 Tweets"
+    "tweet_count": "1,376 Tweets"
   },
   {
     "name": "Godek",
@@ -81,13 +81,13 @@
     "name": "#Halloween",
     "query": "#Halloween",
     "rank": 14,
-    "tweet_count": "409K Tweets"
+    "tweet_count": "413K Tweets"
   },
   {
     "name": "Policja",
     "query": "Policja",
     "rank": 15,
-    "tweet_count": "2,365 Tweets"
+    "tweet_count": "2,373 Tweets"
   },
   {
     "name": "Wszystkich Świętych",
@@ -96,21 +96,21 @@
     "tweet_count": null
   },
   {
-    "name": "#skijumpingfamily",
-    "query": "#skijumpingfamily",
-    "rank": 17,
-    "tweet_count": "2,207 Tweets"
-  },
-  {
     "name": "Konfederacji",
     "query": "Konfederacji",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
+  },
+  {
+    "name": "#skijumpingfamily",
+    "query": "#skijumpingfamily",
+    "rank": 18,
+    "tweet_count": "2,208 Tweets"
   },
   {
     "name": "gigi",
     "query": "gigi",
     "rank": 19,
-    "tweet_count": "249K Tweets"
+    "tweet_count": "250K Tweets"
   }
 ]
