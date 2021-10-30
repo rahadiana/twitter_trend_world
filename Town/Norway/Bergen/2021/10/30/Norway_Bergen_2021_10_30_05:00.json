@@ -3,7 +3,7 @@
     "name": "Halloween",
     "query": "Halloween",
     "rank": 1,
-    "tweet_count": "2.57M Tweets"
+    "tweet_count": "2.48M Tweets"
   },
   {
     "name": "#selfiefredag",
@@ -15,17 +15,17 @@
     "name": "Meta",
     "query": "Meta",
     "rank": 3,
-    "tweet_count": "452K Tweets"
+    "tweet_count": "453K Tweets"
   },
   {
-    "name": "strømmen",
-    "query": "strømmen",
+    "name": "Strømmen",
+    "query": "Strømmen",
     "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "brann",
-    "query": "brann",
+    "name": "Brann",
+    "query": "Brann",
     "rank": 5,
     "tweet_count": null
   },
@@ -39,7 +39,7 @@
     "name": "#TeamSeas",
     "query": "#TeamSeas",
     "rank": 7,
-    "tweet_count": "63.7K Tweets"
+    "tweet_count": "63.9K Tweets"
   },
   {
     "name": "grorud",
@@ -48,46 +48,46 @@
     "tweet_count": null
   },
   {
-    "name": "elverum",
-    "query": "elverum",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
     "name": "#obosligaen",
     "query": "#obosligaen",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "#fredagsselfie",
     "query": "#fredagsselfie",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "elverum",
+    "query": "elverum",
     "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "nyborg",
+    "query": "nyborg",
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Munch",
     "query": "Munch",
-    "rank": 12,
-    "tweet_count": "5,364 Tweets"
-  },
-  {
-    "name": "Sinner",
-    "query": "Sinner",
     "rank": 13,
-    "tweet_count": "12.9K Tweets"
+    "tweet_count": "5,383 Tweets"
   },
   {
-    "name": "nyborg",
-    "query": "nyborg",
+    "name": "sinner",
+    "query": "sinner",
     "rank": 14,
-    "tweet_count": null
+    "tweet_count": "13K Tweets"
   },
   {
-    "name": "debatten",
-    "query": "debatten",
+    "name": "Debatten",
+    "query": "Debatten",
     "rank": 15,
-    "tweet_count": "1,474 Tweets"
+    "tweet_count": "1,477 Tweets"
   },
   {
     "name": "jessheim",
@@ -96,21 +96,21 @@
     "tweet_count": null
   },
   {
-    "name": "aafk",
-    "query": "aafk",
+    "name": "Finnmark",
+    "query": "Finnmark",
     "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Aafk",
+    "query": "Aafk",
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Brexit",
     "query": "Brexit",
-    "rank": 18,
-    "tweet_count": "91K Tweets"
-  },
-  {
-    "name": "Bergen",
-    "query": "Bergen",
     "rank": 19,
-    "tweet_count": "2,543 Tweets"
+    "tweet_count": "91.1K Tweets"
   }
 ]
