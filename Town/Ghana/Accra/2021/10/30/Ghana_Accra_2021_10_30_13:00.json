@@ -1,33 +1,33 @@
 [
   {
-    "name": "Newcastle",
-    "query": "Newcastle",
-    "rank": 1,
-    "tweet_count": "29.2K Tweets"
-  },
-  {
     "name": "Brentford",
     "query": "Brentford",
-    "rank": 2,
-    "tweet_count": "9,802 Tweets"
+    "rank": 1,
+    "tweet_count": "10.1K Tweets"
   },
   {
     "name": "Arsenal",
     "query": "Arsenal",
-    "rank": 3,
-    "tweet_count": "168K Tweets"
+    "rank": 2,
+    "tweet_count": "179K Tweets"
   },
   {
     "name": "Vinicius",
     "query": "Vinicius",
-    "rank": 4,
-    "tweet_count": "64.6K Tweets"
+    "rank": 3,
+    "tweet_count": "70K Tweets"
   },
   {
     "name": "Mariano",
     "query": "Mariano",
+    "rank": 4,
+    "tweet_count": "34.6K Tweets"
+  },
+  {
+    "name": "Newcastle",
+    "query": "Newcastle",
     "rank": 5,
-    "tweet_count": "34K Tweets"
+    "tweet_count": "29.7K Tweets"
   },
   {
     "name": "#TECNOPL",
@@ -36,8 +36,8 @@
     "tweet_count": null
   },
   {
-    "name": "#Newsfile",
-    "query": "#Newsfile",
+    "name": "#newsfile",
+    "query": "#newsfile",
     "rank": 7,
     "tweet_count": null
   },
@@ -54,22 +54,22 @@
     "tweet_count": null
   },
   {
-    "name": "#TOTMUN",
-    "query": "#TOTMUN",
-    "rank": 10,
-    "tweet_count": "16.3K Tweets"
-  },
-  {
     "name": "Hazard",
     "query": "Hazard",
+    "rank": 10,
+    "tweet_count": "27.4K Tweets"
+  },
+  {
+    "name": "#TOTMUN",
+    "query": "#TOTMUN",
     "rank": 11,
-    "tweet_count": "26.4K Tweets"
+    "tweet_count": "16.6K Tweets"
   },
   {
     "name": "Tottenham",
     "query": "Tottenham",
     "rank": 12,
-    "tweet_count": "34.6K Tweets"
+    "tweet_count": "35.3K Tweets"
   },
   {
     "name": "#MaxPL",
@@ -81,6 +81,6 @@
     "name": "#UGDecides",
     "query": "#UGDecides",
     "rank": 14,
-    "tweet_count": "2,293 Tweets"
+    "tweet_count": "2,308 Tweets"
   }
 ]
