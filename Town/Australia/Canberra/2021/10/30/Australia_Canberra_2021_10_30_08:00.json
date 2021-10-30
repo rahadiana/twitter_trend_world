@@ -3,53 +3,53 @@
     "name": "#RepcoSC",
     "query": "#RepcoSC",
     "rank": 1,
-    "tweet_count": "1,104 Tweets"
+    "tweet_count": "1,174 Tweets"
   },
   {
     "name": "#Melbourneprotest",
     "query": "#Melbourneprotest",
     "rank": 2,
-    "tweet_count": "1,816 Tweets"
+    "tweet_count": "1,872 Tweets"
   },
   {
     "name": "Halloween",
     "query": "Halloween",
     "rank": 3,
-    "tweet_count": "2.66M Tweets"
+    "tweet_count": "2.65M Tweets"
+  },
+  {
+    "name": "#bnestorm",
+    "query": "#bnestorm",
+    "rank": 4,
+    "tweet_count": null
   },
   {
     "name": "Thunderstruck",
     "query": "Thunderstruck",
-    "rank": 4,
-    "tweet_count": "1,373 Tweets"
+    "rank": 5,
+    "tweet_count": "1,390 Tweets"
   },
   {
     "name": "Home Affairs",
     "query": "\"Home Affairs\"",
-    "rank": 5,
-    "tweet_count": "1,387 Tweets"
+    "rank": 6,
+    "tweet_count": "1,429 Tweets"
   },
   {
     "name": "Superstorm",
     "query": "Superstorm",
-    "rank": 6,
-    "tweet_count": "1,091 Tweets"
+    "rank": 7,
+    "tweet_count": "1,100 Tweets"
   },
   {
     "name": "Damien Oliver",
     "query": "\"Damien Oliver\"",
-    "rank": 7,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Alan Davidson",
     "query": "\"Alan Davidson\"",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "JMac",
-    "query": "JMac",
     "rank": 9,
     "tweet_count": null
   },
@@ -57,23 +57,23 @@
     "name": "Hitotsu",
     "query": "Hitotsu",
     "rank": 10,
-    "tweet_count": "2,712 Tweets"
+    "tweet_count": "2,782 Tweets"
+  },
+  {
+    "name": "#halloween2021",
+    "query": "#halloween2021",
+    "rank": 11,
+    "tweet_count": "106K Tweets"
   },
   {
     "name": "Eduardo",
     "query": "Eduardo",
-    "rank": 11,
-    "tweet_count": "44.2K Tweets"
+    "rank": 12,
+    "tweet_count": "44.3K Tweets"
   },
   {
     "name": "#GoldenEagle",
     "query": "#GoldenEagle",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "#MelbourneCup",
-    "query": "#MelbourneCup",
     "rank": 13,
     "tweet_count": null
   },
@@ -81,7 +81,7 @@
     "name": "Ollie",
     "query": "Ollie",
     "rank": 14,
-    "tweet_count": "7,409 Tweets"
+    "tweet_count": "7,505 Tweets"
   },
   {
     "name": "Think It Over",
@@ -90,10 +90,10 @@
     "tweet_count": "16.7K Tweets"
   },
   {
-    "name": "#Flemington",
-    "query": "#Flemington",
+    "name": "Derby",
+    "query": "Derby",
     "rank": 16,
-    "tweet_count": null
+    "tweet_count": "12K Tweets"
   },
   {
     "name": "Rosehill",
@@ -102,9 +102,9 @@
     "tweet_count": null
   },
   {
-    "name": "Derby",
-    "query": "Derby",
+    "name": "Happy Halloween",
+    "query": "\"Happy Halloween\"",
     "rank": 18,
-    "tweet_count": "11.9K Tweets"
+    "tweet_count": "374K Tweets"
   }
 ]
