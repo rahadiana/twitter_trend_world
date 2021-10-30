@@ -1,19 +1,19 @@
 [
   {
+    "name": "Marita",
+    "query": "Marita",
+    "rank": 1,
+    "tweet_count": "1,692 Tweets"
+  },
+  {
     "name": "Halloween",
     "query": "Halloween",
-    "rank": 1,
-    "tweet_count": "2.27M Tweets"
+    "rank": 2,
+    "tweet_count": "1.92M Tweets"
   },
   {
     "name": "trevlig",
     "query": "trevlig",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "Godmorgon",
-    "query": "Godmorgon",
     "rank": 3,
     "tweet_count": null
   },
@@ -21,19 +21,19 @@
     "name": "Meta",
     "query": "Meta",
     "rank": 4,
-    "tweet_count": "395K Tweets"
+    "tweet_count": "396K Tweets"
   },
   {
     "name": "Coronakommissionen",
     "query": "Coronakommissionen",
     "rank": 5,
-    "tweet_count": "1,698 Tweets"
+    "tweet_count": "1,708 Tweets"
   },
   {
     "name": "Expressen",
     "query": "Expressen",
     "rank": 6,
-    "tweet_count": "6,344 Tweets"
+    "tweet_count": "6,462 Tweets"
   },
   {
     "name": "Hallengren",
@@ -45,11 +45,11 @@
     "name": "Tegnell",
     "query": "Tegnell",
     "rank": 8,
-    "tweet_count": "1,162 Tweets"
+    "tweet_count": "1,175 Tweets"
   },
   {
-    "name": "#modose",
-    "query": "#modose",
+    "name": "Godmorgon",
+    "query": "Godmorgon",
     "rank": 9,
     "tweet_count": null
   },
@@ -66,8 +66,8 @@
     "tweet_count": null
   },
   {
-    "name": "dumle",
-    "query": "dumle",
+    "name": "Dumle",
+    "query": "Dumle",
     "rank": 12,
     "tweet_count": null
   },
@@ -75,25 +75,25 @@
     "name": "#TeamSeas",
     "query": "#TeamSeas",
     "rank": 13,
-    "tweet_count": "70.6K Tweets"
+    "tweet_count": "70.9K Tweets"
   },
   {
-    "name": "Barn",
-    "query": "Barn",
+    "name": "Alphabet",
+    "query": "Alphabet",
     "rank": 14,
-    "tweet_count": "19K Tweets"
+    "tweet_count": "9,307 Tweets"
   },
   {
     "name": "Aftonbladet",
     "query": "Aftonbladet",
     "rank": 15,
-    "tweet_count": "2,174 Tweets"
+    "tweet_count": "2,224 Tweets"
   },
   {
-    "name": "Alphabet",
-    "query": "Alphabet",
+    "name": "#FreeCodeFridayContest",
+    "query": "#FreeCodeFridayContest",
     "rank": 16,
-    "tweet_count": "9,284 Tweets"
+    "tweet_count": "11.5K Tweets"
   },
   {
     "name": "Systembolaget",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "#FreeCodeFridayContest",
-    "query": "#FreeCodeFridayContest",
+    "name": "#modose",
+    "query": "#modose",
     "rank": 18,
-    "tweet_count": "11.5K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "mats melin",
-    "query": "\"mats melin\"",
+    "name": "Mats Melin",
+    "query": "\"Mats Melin\"",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "#emmaSweden",
-    "query": "#emmaSweden",
+    "name": "Poch",
+    "query": "Poch",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "13K Tweets"
   }
 ]
