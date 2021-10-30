@@ -1,15 +1,15 @@
 [
   {
-    "name": "Meta",
-    "query": "Meta",
-    "rank": 1,
-    "tweet_count": "422K Tweets"
-  },
-  {
     "name": "Halloween",
     "query": "Halloween",
+    "rank": 1,
+    "tweet_count": "2.65M Tweets"
+  },
+  {
+    "name": "Meta",
+    "query": "Meta",
     "rank": 2,
-    "tweet_count": "2.66M Tweets"
+    "tweet_count": "424K Tweets"
   },
   {
     "name": "trevlig",
@@ -27,13 +27,13 @@
     "name": "Coronakommissionen",
     "query": "Coronakommissionen",
     "rank": 5,
-    "tweet_count": "1,565 Tweets"
+    "tweet_count": "1,590 Tweets"
   },
   {
     "name": "Expressen",
     "query": "Expressen",
     "rank": 6,
-    "tweet_count": "5,879 Tweets"
+    "tweet_count": "5,985 Tweets"
   },
   {
     "name": "Grattis",
@@ -45,77 +45,77 @@
     "name": "Tegnell",
     "query": "Tegnell",
     "rank": 8,
-    "tweet_count": "1,139 Tweets"
-  },
-  {
-    "name": "Happy Halloween",
-    "query": "\"Happy Halloween\"",
-    "rank": 9,
-    "tweet_count": "362K Tweets"
-  },
-  {
-    "name": "aftonbladet",
-    "query": "aftonbladet",
-    "rank": 10,
-    "tweet_count": "1,990 Tweets"
+    "tweet_count": "1,150 Tweets"
   },
   {
     "name": "#modose",
     "query": "#modose",
-    "rank": 11,
+    "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "#fplsverige",
-    "query": "#fplsverige",
-    "rank": 12,
-    "tweet_count": null
+    "name": "Aftonbladet",
+    "query": "Aftonbladet",
+    "rank": 10,
+    "tweet_count": "2,042 Tweets"
   },
   {
     "name": "#PakvsAfg",
     "query": "#PakvsAfg",
-    "rank": 13,
-    "tweet_count": "249K Tweets"
+    "rank": 11,
+    "tweet_count": "250K Tweets"
   },
   {
     "name": "Almega",
     "query": "Almega",
-    "rank": 14,
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "Barn",
+    "query": "Barn",
+    "rank": 13,
+    "tweet_count": "19.2K Tweets"
   },
   {
     "name": "Dumle",
     "query": "Dumle",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Alphabet",
     "query": "Alphabet",
-    "rank": 16,
-    "tweet_count": "10K Tweets"
+    "rank": 15,
+    "tweet_count": "10.1K Tweets"
   },
   {
     "name": "akalla",
     "query": "akalla",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "#TeamSeas",
     "query": "#TeamSeas",
-    "rank": 18,
-    "tweet_count": "67.7K Tweets"
+    "rank": 17,
+    "tweet_count": "68.1K Tweets"
   },
   {
     "name": "#FreeCodeFridayContest",
     "query": "#FreeCodeFridayContest",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": "11.4K Tweets"
   },
   {
     "name": "Per T Ohlsson",
     "query": "\"Per T Ohlsson\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Svenonius",
+    "query": "Svenonius",
     "rank": 20,
     "tweet_count": null
   }
