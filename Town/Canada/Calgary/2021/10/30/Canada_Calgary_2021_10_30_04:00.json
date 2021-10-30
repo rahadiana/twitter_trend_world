@@ -1,122 +1,122 @@
 [
   {
+    "name": "Halloween",
+    "query": "Halloween",
+    "rank": 1,
+    "tweet_count": "2.56M Tweets"
+  },
+  {
+    "name": "#Halloween",
+    "query": "#Halloween",
+    "rank": 2,
+    "tweet_count": "587K Tweets"
+  },
+  {
     "name": "RCMP",
     "query": "RCMP",
-    "rank": 1,
-    "tweet_count": "4,912 Tweets"
-  },
-  {
-    "name": "Happy Halloween",
-    "query": "\"Happy Halloween\"",
-    "rank": 2,
-    "tweet_count": "328K Tweets"
-  },
-  {
-    "name": "#AEWRampage",
-    "query": "#AEWRampage",
     "rank": 3,
-    "tweet_count": "27.7K Tweets"
-  },
-  {
-    "name": "Coffee Crisp",
-    "query": "\"Coffee Crisp\"",
-    "rank": 4,
-    "tweet_count": null
+    "tweet_count": "4,946 Tweets"
   },
   {
     "name": "#Elks",
     "query": "#Elks",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "Coffee Crisp",
+    "query": "\"Coffee Crisp\"",
     "rank": 5,
     "tweet_count": null
   },
   {
+    "name": "#Ticats",
+    "query": "#Ticats",
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "#AEWRampage",
+    "query": "#AEWRampage",
+    "rank": 7,
+    "tweet_count": "28.1K Tweets"
+  },
+  {
     "name": "Suggs",
     "query": "Suggs",
-    "rank": 6,
-    "tweet_count": "3,774 Tweets"
+    "rank": 8,
+    "tweet_count": "3,797 Tweets"
   },
   {
     "name": "Crispy Crunch",
     "query": "\"Crispy Crunch\"",
-    "rank": 7,
+    "rank": 9,
     "tweet_count": null
-  },
-  {
-    "name": "Scottie",
-    "query": "Scottie",
-    "rank": 8,
-    "tweet_count": "15.5K Tweets"
   },
   {
     "name": "#WorldSeries",
     "query": "#WorldSeries",
-    "rank": 9,
-    "tweet_count": "47.7K Tweets"
-  },
-  {
-    "name": "Paul George",
-    "query": "\"Paul George\"",
     "rank": 10,
-    "tweet_count": "3,932 Tweets"
+    "tweet_count": "48.4K Tweets"
   },
   {
     "name": "Cavs",
     "query": "Cavs",
     "rank": 11,
-    "tweet_count": "13.8K Tweets"
+    "tweet_count": "15.2K Tweets"
   },
   {
-    "name": "#SmackDown",
-    "query": "#SmackDown",
+    "name": "Paul George",
+    "query": "\"Paul George\"",
     "rank": 12,
-    "tweet_count": "43.4K Tweets"
+    "tweet_count": "4,341 Tweets"
   },
   {
     "name": "Wilder",
     "query": "Wilder",
     "rank": 13,
-    "tweet_count": "4,470 Tweets"
+    "tweet_count": "4,494 Tweets"
   },
   {
-    "name": "Kit Kat",
-    "query": "\"Kit Kat\"",
+    "name": "Lawrence",
+    "query": "Lawrence",
     "rank": 14,
-    "tweet_count": "3,340 Tweets"
+    "tweet_count": "16.8K Tweets"
   },
   {
     "name": "Mr. Big",
     "query": "\"Mr. Big\"",
     "rank": 15,
-    "tweet_count": "3,257 Tweets"
-  },
-  {
-    "name": "Wunderbar",
-    "query": "Wunderbar",
-    "rank": 16,
-    "tweet_count": "1,489 Tweets"
-  },
-  {
-    "name": "Danielson",
-    "query": "Danielson",
-    "rank": 17,
-    "tweet_count": "5,090 Tweets"
+    "tweet_count": "3,288 Tweets"
   },
   {
     "name": "Mobley",
     "query": "Mobley",
-    "rank": 18,
-    "tweet_count": "4,690 Tweets"
+    "rank": 16,
+    "tweet_count": "5,160 Tweets"
   },
   {
-    "name": "Dallas",
-    "query": "Dallas",
-    "rank": 19,
-    "tweet_count": "26.2K Tweets"
+    "name": "Wunderbar",
+    "query": "Wunderbar",
+    "rank": 17,
+    "tweet_count": "1,497 Tweets"
   },
   {
     "name": "Josh Norris",
     "query": "\"Josh Norris\"",
-    "rank": 20,
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Danielson",
+    "query": "Danielson",
+    "rank": 19,
+    "tweet_count": "5,143 Tweets"
+  },
+  {
+    "name": "Dallas",
+    "query": "Dallas",
+    "rank": 20,
+    "tweet_count": "26.5K Tweets"
   }
 ]
