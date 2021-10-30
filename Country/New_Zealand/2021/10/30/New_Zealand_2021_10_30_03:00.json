@@ -3,31 +3,31 @@
     "name": "Halloween",
     "query": "Halloween",
     "rank": 1,
-    "tweet_count": "2.49M Tweets"
+    "tweet_count": "2.5M Tweets"
   },
   {
     "name": "Tonga",
     "query": "Tonga",
     "rank": 2,
-    "tweet_count": "5,175 Tweets"
+    "tweet_count": "5,199 Tweets"
   },
   {
     "name": "Meta",
     "query": "Meta",
     "rank": 3,
-    "tweet_count": "485K Tweets"
-  },
-  {
-    "name": "Brian Tamaki",
-    "query": "\"Brian Tamaki\"",
-    "rank": 4,
-    "tweet_count": null
+    "tweet_count": "487K Tweets"
   },
   {
     "name": "#TeamSeas",
     "query": "#TeamSeas",
+    "rank": 4,
+    "tweet_count": "60.3K Tweets"
+  },
+  {
+    "name": "Medsafe",
+    "query": "Medsafe",
     "rank": 5,
-    "tweet_count": "60K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Auckland Domain",
@@ -45,31 +45,31 @@
     "name": "Roblox",
     "query": "Roblox",
     "rank": 8,
-    "tweet_count": "354K Tweets"
+    "tweet_count": "356K Tweets"
   },
   {
     "name": "Christchurch",
     "query": "Christchurch",
     "rank": 9,
-    "tweet_count": "1,708 Tweets"
+    "tweet_count": "1,715 Tweets"
   },
   {
-    "name": "Medsafe",
-    "query": "Medsafe",
+    "name": "Selfish",
+    "query": "Selfish",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "29.1K Tweets"
   },
   {
     "name": "Seymour",
     "query": "Seymour",
     "rank": 11,
-    "tweet_count": "1,444 Tweets"
+    "tweet_count": "1,455 Tweets"
   },
   {
-    "name": "Pfizer",
-    "query": "Pfizer",
+    "name": "Brian Tamaki",
+    "query": "\"Brian Tamaki\"",
     "rank": 12,
-    "tweet_count": "201K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#NZASM21",
@@ -84,16 +84,16 @@
     "tweet_count": null
   },
   {
-    "name": "Selfish",
-    "query": "Selfish",
-    "rank": 15,
-    "tweet_count": "28.9K Tweets"
-  },
-  {
     "name": "#canvtas",
     "query": "#canvtas",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
+  },
+  {
+    "name": "Pfizer",
+    "query": "Pfizer",
+    "rank": 16,
+    "tweet_count": "202K Tweets"
   },
   {
     "name": "Chrysler",
@@ -117,6 +117,6 @@
     "name": "#NFTCommmunity",
     "query": "#NFTCommmunity",
     "rank": 20,
-    "tweet_count": "33.2K Tweets"
+    "tweet_count": "33.4K Tweets"
   }
 ]

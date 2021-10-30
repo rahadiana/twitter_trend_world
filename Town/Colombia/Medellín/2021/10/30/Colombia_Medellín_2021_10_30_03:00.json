@@ -1,21 +1,21 @@
 [
   {
-    "name": "Halloween",
-    "query": "Halloween",
-    "rank": 1,
-    "tweet_count": "2.48M Tweets"
-  },
-  {
     "name": "#YoMeLlamo",
     "query": "#YoMeLlamo",
-    "rank": 2,
-    "tweet_count": "6,131 Tweets"
+    "rank": 1,
+    "tweet_count": "6,139 Tweets"
   },
   {
     "name": "#RegistradorRenuncieYA",
     "query": "#RegistradorRenuncieYA",
+    "rank": 2,
+    "tweet_count": "27.7K Tweets"
+  },
+  {
+    "name": "Diego Daza",
+    "query": "\"Diego Daza\"",
     "rank": 3,
-    "tweet_count": "27.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Julio Jaramillo",
@@ -24,10 +24,10 @@
     "tweet_count": null
   },
   {
-    "name": "Diego Daza",
-    "query": "\"Diego Daza\"",
+    "name": "#WorldSeries",
+    "query": "#WorldSeries",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "43.6K Tweets"
   },
   {
     "name": "Gloria Trevi",
@@ -45,13 +45,13 @@
     "name": "harry styles",
     "query": "\"harry styles\"",
     "rank": 8,
-    "tweet_count": "304K Tweets"
+    "tweet_count": "307K Tweets"
   },
   {
     "name": "Karol G",
     "query": "\"Karol G\"",
     "rank": 9,
-    "tweet_count": "3,076 Tweets"
+    "tweet_count": "3,159 Tweets"
   },
   {
     "name": "Yeison",
@@ -63,7 +63,7 @@
     "name": "Louis Tomlinson",
     "query": "\"Louis Tomlinson\"",
     "rank": 11,
-    "tweet_count": "59.1K Tweets"
+    "tweet_count": "60.2K Tweets"
   },
   {
     "name": "Jorge Oñate",
@@ -78,45 +78,45 @@
     "tweet_count": "10.4K Tweets"
   },
   {
-    "name": "#WorldSeries",
-    "query": "#WorldSeries",
-    "rank": 14,
-    "tweet_count": "41.2K Tweets"
-  },
-  {
     "name": "celia cruz",
     "query": "\"celia cruz\"",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Ricardo Arjona",
     "query": "\"Ricardo Arjona\"",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Britney Spears",
     "query": "\"Britney Spears\"",
-    "rank": 17,
-    "tweet_count": "7,028 Tweets"
+    "rank": 16,
+    "tweet_count": "7,078 Tweets"
   },
   {
     "name": "#ESPNF90Colombia",
     "query": "#ESPNF90Colombia",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Sinovac",
     "query": "Sinovac",
+    "rank": 18,
+    "tweet_count": "6,639 Tweets"
+  },
+  {
+    "name": "Halloween",
+    "query": "Halloween",
     "rank": 19,
-    "tweet_count": "6,597 Tweets"
+    "tweet_count": "2.5M Tweets"
   },
   {
     "name": "Amparo",
     "query": "Amparo",
     "rank": 20,
-    "tweet_count": "9,406 Tweets"
+    "tweet_count": "9,441 Tweets"
   }
 ]
