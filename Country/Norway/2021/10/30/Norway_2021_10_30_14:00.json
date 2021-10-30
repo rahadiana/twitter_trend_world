@@ -3,19 +3,19 @@
     "name": "Arsenal",
     "query": "Arsenal",
     "rank": 1,
-    "tweet_count": "200K Tweets"
-  },
-  {
-    "name": "Keita",
-    "query": "Keita",
-    "rank": 2,
-    "tweet_count": "12.7K Tweets"
+    "tweet_count": "206K Tweets"
   },
   {
     "name": "Flint",
     "query": "Flint",
+    "rank": 2,
+    "tweet_count": "2,964 Tweets"
+  },
+  {
+    "name": "Keita",
+    "query": "Keita",
     "rank": 3,
-    "tweet_count": "2,923 Tweets"
+    "tweet_count": "13K Tweets"
   },
   {
     "name": "#målminutt",
@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "John Arne Riise",
-    "query": "\"John Arne Riise\"",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
     "name": "Halloween",
     "query": "Halloween",
+    "rank": 5,
+    "tweet_count": "2.81M Tweets"
+  },
+  {
+    "name": "John Arne Riise",
+    "query": "\"John Arne Riise\"",
     "rank": 6,
-    "tweet_count": "2.77M Tweets"
+    "tweet_count": null
   },
   {
     "name": "Skeid",
@@ -60,16 +60,16 @@
     "tweet_count": null
   },
   {
-    "name": "Mount",
-    "query": "Mount",
+    "name": "Liverpool",
+    "query": "Liverpool",
     "rank": 11,
-    "tweet_count": "29.2K Tweets"
+    "tweet_count": "73.3K Tweets"
   },
   {
-    "name": "Meta",
-    "query": "Meta",
+    "name": "Mount",
+    "query": "Mount",
     "rank": 12,
-    "tweet_count": "321K Tweets"
+    "tweet_count": "29.8K Tweets"
   },
   {
     "name": "#fredagsselfie",
@@ -84,38 +84,38 @@
     "tweet_count": "235K Tweets"
   },
   {
-    "name": "Liverpool",
-    "query": "Liverpool",
-    "rank": 15,
-    "tweet_count": "69.3K Tweets"
-  },
-  {
     "name": "strømmen",
     "query": "strømmen",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "#TeamSeas",
-    "query": "#TeamSeas",
-    "rank": 17,
-    "tweet_count": "78.4K Tweets"
+    "name": "#NUFC",
+    "query": "#NUFC",
+    "rank": 16,
+    "tweet_count": "7,402 Tweets"
   },
   {
     "name": "Sinner",
     "query": "Sinner",
-    "rank": 18,
-    "tweet_count": "14K Tweets"
+    "rank": 17,
+    "tweet_count": "14.2K Tweets"
   },
   {
     "name": "Ziyech",
     "query": "Ziyech",
-    "rank": 19,
-    "tweet_count": "7,705 Tweets"
+    "rank": 18,
+    "tweet_count": "10.3K Tweets"
   },
   {
     "name": "nyborg",
     "query": "nyborg",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "jessheim",
+    "query": "jessheim",
     "rank": 20,
     "tweet_count": null
   }
