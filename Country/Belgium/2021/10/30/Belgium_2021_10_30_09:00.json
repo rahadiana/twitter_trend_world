@@ -3,7 +3,7 @@
     "name": "#ZEVENT2021",
     "query": "#ZEVENT2021",
     "rank": 1,
-    "tweet_count": "150K Tweets"
+    "tweet_count": "154K Tweets"
   },
   {
     "name": "#DALS",
@@ -24,22 +24,22 @@
     "tweet_count": "2.27M Tweets"
   },
   {
-    "name": "Meta",
-    "query": "Meta",
-    "rank": 5,
-    "tweet_count": "391K Tweets"
-  },
-  {
     "name": "#PSGLOSC",
     "query": "#PSGLOSC",
-    "rank": 6,
-    "tweet_count": "41K Tweets"
+    "rank": 5,
+    "tweet_count": "41.3K Tweets"
   },
   {
     "name": "#COP26",
     "query": "#COP26",
+    "rank": 6,
+    "tweet_count": "125K Tweets"
+  },
+  {
+    "name": "meta",
+    "query": "meta",
     "rank": 7,
-    "tweet_count": "121K Tweets"
+    "tweet_count": "394K Tweets"
   },
   {
     "name": "Goeiemorgen",
@@ -51,72 +51,72 @@
     "name": "Doigby",
     "query": "Doigby",
     "rank": 9,
-    "tweet_count": "19.1K Tweets"
+    "tweet_count": "19.4K Tweets"
   },
   {
     "name": "Yolanda",
     "query": "Yolanda",
     "rank": 10,
-    "tweet_count": "153K Tweets"
+    "tweet_count": "155K Tweets"
   },
   {
     "name": "Neymar",
     "query": "Neymar",
     "rank": 11,
-    "tweet_count": "64.1K Tweets"
-  },
-  {
-    "name": "Hoge Gezondheidsraad",
-    "query": "\"Hoge Gezondheidsraad\"",
-    "rank": 12,
-    "tweet_count": null
+    "tweet_count": "64.6K Tweets"
   },
   {
     "name": "Icardi",
     "query": "Icardi",
-    "rank": 13,
-    "tweet_count": "14.5K Tweets"
+    "rank": 12,
+    "tweet_count": "14.6K Tweets"
   },
   {
     "name": "Le PSG",
     "query": "\"Le PSG\"",
-    "rank": 14,
-    "tweet_count": "30.7K Tweets"
+    "rank": 13,
+    "tweet_count": "31.1K Tweets"
   },
   {
-    "name": "Dita",
-    "query": "Dita",
-    "rank": 15,
-    "tweet_count": "16.3K Tweets"
+    "name": "Hoge Gezondheidsraad",
+    "query": "\"Hoge Gezondheidsraad\"",
+    "rank": 14,
+    "tweet_count": null
   },
   {
     "name": "Uber",
     "query": "Uber",
-    "rank": 16,
-    "tweet_count": "68.2K Tweets"
-  },
-  {
-    "name": "Di Maria",
-    "query": "\"Di Maria\"",
-    "rank": 17,
-    "tweet_count": "31K Tweets"
+    "rank": 15,
+    "tweet_count": "69.3K Tweets"
   },
   {
     "name": "Lucie",
     "query": "Lucie",
-    "rank": 18,
-    "tweet_count": "6,245 Tweets"
+    "rank": 16,
+    "tweet_count": "6,317 Tweets"
   },
   {
-    "name": "Pierre",
-    "query": "Pierre",
-    "rank": 19,
-    "tweet_count": "37.4K Tweets"
+    "name": "Dita",
+    "query": "Dita",
+    "rank": 17,
+    "tweet_count": "16.4K Tweets"
+  },
+  {
+    "name": "Di Maria",
+    "query": "\"Di Maria\"",
+    "rank": 18,
+    "tweet_count": "31.2K Tweets"
   },
   {
     "name": "Zwijndrecht",
     "query": "Zwijndrecht",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "De Vlaamse",
+    "query": "\"De Vlaamse\"",
+    "rank": 20,
+    "tweet_count": "1,452 Tweets"
   }
 ]
