@@ -9,7 +9,7 @@
     "name": "Meta",
     "query": "Meta",
     "rank": 2,
-    "tweet_count": "500K Tweets"
+    "tweet_count": "506K Tweets"
   },
   {
     "name": "#amschauplatz",
@@ -18,8 +18,8 @@
     "tweet_count": null
   },
   {
-    "name": "#dancingstars",
-    "query": "#dancingstars",
+    "name": "#DancingStars",
+    "query": "#DancingStars",
     "rank": 4,
     "tweet_count": null
   },
@@ -30,14 +30,14 @@
     "tweet_count": null
   },
   {
-    "name": "#OEVPGameOver",
-    "query": "#OEVPGameOver",
+    "name": "Kronzeugin",
+    "query": "Kronzeugin",
     "rank": 6,
     "tweet_count": null
   },
   {
-    "name": "Kronzeugin",
-    "query": "Kronzeugin",
+    "name": "#OEVPGameOver",
+    "query": "#OEVPGameOver",
     "rank": 7,
     "tweet_count": null
   },
@@ -51,19 +51,19 @@
     "name": "Halloween",
     "query": "Halloween",
     "rank": 9,
-    "tweet_count": "2.35M Tweets"
-  },
-  {
-    "name": "fellner",
-    "query": "fellner",
-    "rank": 10,
-    "tweet_count": null
+    "tweet_count": "2.44M Tweets"
   },
   {
     "name": "Neuinfektionen",
     "query": "Neuinfektionen",
+    "rank": 10,
+    "tweet_count": "2,722 Tweets"
+  },
+  {
+    "name": "fellner",
+    "query": "fellner",
     "rank": 11,
-    "tweet_count": "2,715 Tweets"
+    "tweet_count": null
   },
   {
     "name": "handypeilung",
@@ -75,48 +75,48 @@
     "name": "Yolanda",
     "query": "Yolanda",
     "rank": 13,
-    "tweet_count": "197K Tweets"
-  },
-  {
-    "name": "beschwerde",
-    "query": "beschwerde",
-    "rank": 14,
-    "tweet_count": null
+    "tweet_count": "199K Tweets"
   },
   {
     "name": "geständnis",
     "query": "geständnis",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "Hanger",
-    "query": "Hanger",
-    "rank": 16,
-    "tweet_count": "2,331 Tweets"
+    "name": "hanger",
+    "query": "hanger",
+    "rank": 15,
+    "tweet_count": "2,383 Tweets"
   },
   {
     "name": "Butter",
     "query": "Butter",
-    "rank": 17,
-    "tweet_count": "1.34M Tweets"
+    "rank": 16,
+    "tweet_count": "1.36M Tweets"
   },
   {
     "name": "justiz-abrechnung mit wksta",
     "query": "\"justiz-abrechnung mit wksta\"",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "briefe",
     "query": "briefe",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Aktien",
     "query": "Aktien",
+    "rank": 19,
+    "tweet_count": "1,010 Tweets"
+  },
+  {
+    "name": "impftermin",
+    "query": "impftermin",
     "rank": 20,
-    "tweet_count": "1,008 Tweets"
+    "tweet_count": null
   }
 ]
