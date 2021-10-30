@@ -1,49 +1,49 @@
 [
   {
-    "name": "Madden",
-    "query": "Madden",
+    "name": "#Strictly",
+    "query": "#Strictly",
     "rank": 1,
-    "tweet_count": "6,553 Tweets"
+    "tweet_count": "2,826 Tweets"
   },
   {
     "name": "Ange",
     "query": "Ange",
     "rank": 2,
-    "tweet_count": "13K Tweets"
+    "tweet_count": "13.2K Tweets"
+  },
+  {
+    "name": "Bobby Madden",
+    "query": "\"Bobby Madden\"",
+    "rank": 3,
+    "tweet_count": null
   },
   {
     "name": "Greek",
     "query": "Greek",
-    "rank": 3,
-    "tweet_count": "17.1K Tweets"
+    "rank": 4,
+    "tweet_count": "17.5K Tweets"
   },
   {
     "name": "#ScottishIndependence14",
     "query": "#ScottishIndependence14",
-    "rank": 4,
-    "tweet_count": "107K Tweets"
+    "rank": 5,
+    "tweet_count": "110K Tweets"
   },
   {
     "name": "#SCOvTON",
     "query": "#SCOvTON",
-    "rank": 5,
-    "tweet_count": "1,053 Tweets"
+    "rank": 6,
+    "tweet_count": "1,055 Tweets"
   },
   {
     "name": "#COYR",
     "query": "#COYR",
-    "rank": 6,
-    "tweet_count": "1,034 Tweets"
+    "rank": 7,
+    "tweet_count": "1,068 Tweets"
   },
   {
     "name": "#StandFree",
     "query": "#StandFree",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
-    "name": "Rogic",
-    "query": "Rogic",
     "rank": 8,
     "tweet_count": null
   },
@@ -51,72 +51,72 @@
     "name": "Jota",
     "query": "Jota",
     "rank": 9,
-    "tweet_count": "11.9K Tweets"
+    "tweet_count": "12.1K Tweets"
   },
   {
-    "name": "#TOTMUN",
-    "query": "#TOTMUN",
+    "name": "Spurs",
+    "query": "Spurs",
     "rank": 10,
-    "tweet_count": "81.4K Tweets"
+    "tweet_count": "88.4K Tweets"
+  },
+  {
+    "name": "Kane",
+    "query": "Kane",
+    "rank": 11,
+    "tweet_count": "41.2K Tweets"
+  },
+  {
+    "name": "Varane",
+    "query": "Varane",
+    "rank": 12,
+    "tweet_count": "13.1K Tweets"
   },
   {
     "name": "Reece James",
     "query": "\"Reece James\"",
-    "rank": 11,
-    "tweet_count": "55.6K Tweets"
-  },
-  {
-    "name": "Lo Celso",
-    "query": "\"Lo Celso\"",
-    "rank": 12,
-    "tweet_count": "3,888 Tweets"
+    "rank": 13,
+    "tweet_count": "57.3K Tweets"
   },
   {
     "name": "Romero",
     "query": "Romero",
-    "rank": 13,
-    "tweet_count": "17.8K Tweets"
-  },
-  {
-    "name": "Levy",
-    "query": "Levy",
     "rank": 14,
-    "tweet_count": "8,203 Tweets"
+    "tweet_count": "19.1K Tweets"
   },
   {
-    "name": "Jones",
-    "query": "Jones",
+    "name": "Roy Keane",
+    "query": "\"Roy Keane\"",
     "rank": 15,
-    "tweet_count": "63.8K Tweets"
-  },
-  {
-    "name": "Kyogo",
-    "query": "Kyogo",
-    "rank": 16,
-    "tweet_count": "2,516 Tweets"
-  },
-  {
-    "name": "Juranovic",
-    "query": "Juranovic",
-    "rank": 17,
-    "tweet_count": "1,066 Tweets"
-  },
-  {
-    "name": "McFred",
-    "query": "McFred",
-    "rank": 18,
-    "tweet_count": "9,455 Tweets"
-  },
-  {
-    "name": "Livi",
-    "query": "Livi",
-    "rank": 19,
-    "tweet_count": "4,271 Tweets"
+    "tweet_count": "11.7K Tweets"
   },
   {
     "name": "Martin Tyler",
     "query": "\"Martin Tyler\"",
-    "rank": 20,
+    "rank": 16,
     "tweet_count": null
+  },
+  {
+    "name": "Kyogo",
+    "query": "Kyogo",
+    "rank": 17,
+    "tweet_count": "2,680 Tweets"
+  },
+  {
+    "name": "Moura",
+    "query": "Moura",
+    "rank": 18,
+    "tweet_count": "8,635 Tweets"
+  },
+  {
+    "name": "John and Johannes",
+    "query": "\"John and Johannes\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Jones",
+    "query": "Jones",
+    "rank": 20,
+    "tweet_count": "65.4K Tweets"
   }
 ]
