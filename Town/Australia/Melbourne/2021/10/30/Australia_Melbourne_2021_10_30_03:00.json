@@ -1,37 +1,37 @@
 [
   {
-    "name": "Halloween",
-    "query": "Halloween",
-    "rank": 1,
-    "tweet_count": "2.47M Tweets"
-  },
-  {
     "name": "#ScottyHasAPamphlet",
     "query": "#ScottyHasAPamphlet",
-    "rank": 2,
-    "tweet_count": "3,211 Tweets"
+    "rank": 1,
+    "tweet_count": "3,238 Tweets"
   },
   {
     "name": "Oxley Road",
     "query": "\"Oxley Road\"",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "#AEWRampage",
+    "query": "#AEWRampage",
+    "rank": 3,
+    "tweet_count": "26.1K Tweets"
   },
   {
     "name": "Great House",
     "query": "\"Great House\"",
     "rank": 4,
-    "tweet_count": "6,117 Tweets"
-  },
-  {
-    "name": "#AEWRampage",
-    "query": "#AEWRampage",
-    "rank": 5,
-    "tweet_count": "25.7K Tweets"
+    "tweet_count": "6,169 Tweets"
   },
   {
     "name": "#DerbyDay",
     "query": "#DerbyDay",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "Brooklyn Hustle",
+    "query": "\"Brooklyn Hustle\"",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,28 +42,28 @@
     "tweet_count": null
   },
   {
-    "name": "Brooklyn Hustle",
-    "query": "\"Brooklyn Hustle\"",
+    "name": "Halloween",
+    "query": "Halloween",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "2.48M Tweets"
   },
   {
     "name": "Hughes",
     "query": "Hughes",
     "rank": 9,
-    "tweet_count": "8,927 Tweets"
+    "tweet_count": "9,009 Tweets"
+  },
+  {
+    "name": "#SmackDown",
+    "query": "#SmackDown",
+    "rank": 10,
+    "tweet_count": "41.8K Tweets"
   },
   {
     "name": "#ScottyFromPhotoOps",
     "query": "#ScottyFromPhotoOps",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "#Smackdown",
-    "query": "#Smackdown",
     "rank": 11,
-    "tweet_count": "41.5K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Rosehill",
@@ -72,22 +72,22 @@
     "tweet_count": null
   },
   {
-    "name": "Eagle Farm",
-    "query": "\"Eagle Farm\"",
+    "name": "eagle farm",
+    "query": "\"eagle farm\"",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "Pru Goward",
-    "query": "\"Pru Goward\"",
-    "rank": 14,
-    "tweet_count": "1,444 Tweets"
-  },
-  {
     "name": "Biden",
     "query": "Biden",
+    "rank": 14,
+    "tweet_count": "611K Tweets"
+  },
+  {
+    "name": "Pru Goward",
+    "query": "\"Pru Goward\"",
     "rank": 15,
-    "tweet_count": "608K Tweets"
+    "tweet_count": "1,472 Tweets"
   },
   {
     "name": "Pope",
@@ -96,27 +96,27 @@
     "tweet_count": "129K Tweets"
   },
   {
+    "name": "Happy Halloween",
+    "query": "\"Happy Halloween\"",
+    "rank": 17,
+    "tweet_count": "318K Tweets"
+  },
+  {
     "name": "Bill Gates",
     "query": "\"Bill Gates\"",
-    "rank": 17,
-    "tweet_count": "10.5K Tweets"
+    "rank": 18,
+    "tweet_count": "10.6K Tweets"
   },
   {
     "name": "Macron",
     "query": "Macron",
-    "rank": 18,
-    "tweet_count": "80.7K Tweets"
+    "rank": 19,
+    "tweet_count": "80.9K Tweets"
   },
   {
     "name": "AUKUS",
     "query": "AUKUS",
-    "rank": 19,
-    "tweet_count": "4,256 Tweets"
-  },
-  {
-    "name": "#TeamSeas",
-    "query": "#TeamSeas",
     "rank": 20,
-    "tweet_count": "59.5K Tweets"
+    "tweet_count": "4,301 Tweets"
   }
 ]
