@@ -1,39 +1,39 @@
 [
   {
+    "name": "Falcons",
+    "query": "Falcons",
+    "rank": 1,
+    "tweet_count": "20.5K Tweets"
+  },
+  {
     "name": "Gilmore",
     "query": "Gilmore",
-    "rank": 1,
-    "tweet_count": "5,741 Tweets"
-  },
-  {
-    "name": "Chase",
-    "query": "Chase",
     "rank": 2,
-    "tweet_count": "54.4K Tweets"
-  },
-  {
-    "name": "shaq",
-    "query": "shaq",
-    "rank": 3,
-    "tweet_count": "7,111 Tweets"
+    "tweet_count": "5,911 Tweets"
   },
   {
     "name": "Robby",
     "query": "Robby",
-    "rank": 4,
-    "tweet_count": "4,825 Tweets"
+    "rank": 3,
+    "tweet_count": "4,875 Tweets"
   },
   {
     "name": "Matt Ryan",
     "query": "\"Matt Ryan\"",
-    "rank": 5,
-    "tweet_count": "5,907 Tweets"
+    "rank": 4,
+    "tweet_count": "5,971 Tweets"
   },
   {
-    "name": "Cleveland",
-    "query": "Cleveland",
+    "name": "Eagles",
+    "query": "Eagles",
+    "rank": 5,
+    "tweet_count": "53K Tweets"
+  },
+  {
+    "name": "Shaq",
+    "query": "Shaq",
     "rank": 6,
-    "tweet_count": "30.7K Tweets"
+    "tweet_count": "7,281 Tweets"
   },
   {
     "name": "#LetsGoCanes",
@@ -45,78 +45,78 @@
     "name": "Lamar",
     "query": "Lamar",
     "rank": 8,
-    "tweet_count": "19K Tweets"
+    "tweet_count": "19.4K Tweets"
+  },
+  {
+    "name": "Dolphins",
+    "query": "Dolphins",
+    "rank": 9,
+    "tweet_count": "24.9K Tweets"
+  },
+  {
+    "name": "Bills",
+    "query": "Bills",
+    "rank": 10,
+    "tweet_count": "74.9K Tweets"
   },
   {
     "name": "Defense",
     "query": "Defense",
-    "rank": 9,
-    "tweet_count": "126K Tweets"
+    "rank": 11,
+    "tweet_count": "129K Tweets"
   },
   {
     "name": "#PoopyPantsBiden",
     "query": "#PoopyPantsBiden",
-    "rank": 10,
-    "tweet_count": "147K Tweets"
+    "rank": 12,
+    "tweet_count": "148K Tweets"
   },
   {
     "name": "#halloween2021",
     "query": "#halloween2021",
-    "rank": 11,
-    "tweet_count": "1.05M Tweets"
-  },
-  {
-    "name": "#CINvsNYJ",
-    "query": "#CINvsNYJ",
-    "rank": 12,
-    "tweet_count": "8,316 Tweets"
+    "rank": 13,
+    "tweet_count": "1.07M Tweets"
   },
   {
     "name": "#TBvsNO",
     "query": "#TBvsNO",
-    "rank": 13,
-    "tweet_count": "8,682 Tweets"
-  },
-  {
-    "name": "Denny",
-    "query": "Denny",
     "rank": 14,
-    "tweet_count": "11.5K Tweets"
+    "tweet_count": "10.2K Tweets"
   },
   {
-    "name": "Chargers",
-    "query": "Chargers",
+    "name": "Sean Payton",
+    "query": "\"Sean Payton\"",
     "rank": 15,
-    "tweet_count": "24K Tweets"
+    "tweet_count": "3,463 Tweets"
   },
   {
     "name": "Chargers",
     "query": "Chargers",
     "rank": 16,
-    "tweet_count": "24K Tweets"
+    "tweet_count": "27.9K Tweets"
   },
   {
-    "name": "Wentz",
-    "query": "Wentz",
+    "name": "Jets",
+    "query": "Jets",
     "rank": 17,
-    "tweet_count": "31.8K Tweets"
+    "tweet_count": "116K Tweets"
   },
   {
-    "name": "Jameis",
-    "query": "Jameis",
+    "name": "Broncos",
+    "query": "Broncos",
     "rank": 18,
-    "tweet_count": "13.3K Tweets"
+    "tweet_count": "21.2K Tweets"
   },
   {
-    "name": "Cooper Rush",
-    "query": "\"Cooper Rush\"",
+    "name": "Denny",
+    "query": "Denny",
     "rank": 19,
-    "tweet_count": "5,979 Tweets"
+    "tweet_count": "12K Tweets"
   },
   {
-    "name": "Blewitt",
-    "query": "Blewitt",
+    "name": "#WashingtonFootball",
+    "query": "#WashingtonFootball",
     "rank": 20,
-    "tweet_count": "2,393 Tweets"
+    "tweet_count": "4,466 Tweets"
   }
 ]
