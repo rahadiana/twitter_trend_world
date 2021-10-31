@@ -1,51 +1,51 @@
 [
   {
-    "name": "Dusty",
-    "query": "Dusty",
-    "rank": 1,
-    "tweet_count": "10.2K Tweets"
-  },
-  {
     "name": "Marcus Jones",
     "query": "\"Marcus Jones\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Diaz",
+    "query": "Diaz",
+    "rank": 2,
+    "tweet_count": "48.6K Tweets"
   },
   {
     "name": "Eddie Rosario",
     "query": "\"Eddie Rosario\"",
     "rank": 3,
-    "tweet_count": "6,678 Tweets"
-  },
-  {
-    "name": "Alvarez",
-    "query": "Alvarez",
-    "rank": 4,
-    "tweet_count": "13.3K Tweets"
+    "tweet_count": "6,729 Tweets"
   },
   {
     "name": "Maton",
     "query": "Maton",
+    "rank": 4,
+    "tweet_count": "2,433 Tweets"
+  },
+  {
+    "name": "Bergman",
+    "query": "Bergman",
     "rank": 5,
-    "tweet_count": "2,424 Tweets"
+    "tweet_count": "1,308 Tweets"
+  },
+  {
+    "name": "Yuli",
+    "query": "Yuli",
+    "rank": 6,
+    "tweet_count": "3,214 Tweets"
   },
   {
     "name": "Dejounte",
     "query": "Dejounte",
-    "rank": 6,
-    "tweet_count": "1,915 Tweets"
+    "rank": 7,
+    "tweet_count": "1,933 Tweets"
   },
   {
     "name": "Breggy",
     "query": "Breggy",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
-    "name": "Brantley",
-    "query": "Brantley",
     "rank": 8,
-    "tweet_count": "2,856 Tweets"
+    "tweet_count": null
   },
   {
     "name": "maldy",
@@ -60,63 +60,63 @@
     "tweet_count": null
   },
   {
+    "name": "Maldonado",
+    "query": "Maldonado",
+    "rank": 11,
+    "tweet_count": "3,599 Tweets"
+  },
+  {
     "name": "UTEP",
     "query": "UTEP",
-    "rank": 11,
-    "tweet_count": "2,208 Tweets"
+    "rank": 12,
+    "tweet_count": "2,210 Tweets"
+  },
+  {
+    "name": "#AustinFC",
+    "query": "#AustinFC",
+    "rank": 13,
+    "tweet_count": null
   },
   {
     "name": "#Worlds2021",
     "query": "#Worlds2021",
-    "rank": 12,
+    "rank": 14,
     "tweet_count": "54.6K Tweets"
   },
   {
     "name": "Cougars",
     "query": "Cougars",
-    "rank": 13,
-    "tweet_count": "3,653 Tweets"
+    "rank": 15,
+    "tweet_count": "3,674 Tweets"
   },
   {
     "name": "Clemson",
     "query": "Clemson",
-    "rank": 14,
+    "rank": 16,
     "tweet_count": "16.8K Tweets"
   },
   {
     "name": "#halloween2021",
     "query": "#halloween2021",
-    "rank": 15,
-    "tweet_count": "431K Tweets"
+    "rank": 17,
+    "tweet_count": "438K Tweets"
   },
   {
     "name": "#WorldSeries",
     "query": "#WorldSeries",
-    "rank": 16,
-    "tweet_count": "59K Tweets"
-  },
-  {
-    "name": "#PoopypantsBiden",
-    "query": "#PoopypantsBiden",
-    "rank": 17,
-    "tweet_count": "70.1K Tweets"
+    "rank": 18,
+    "tweet_count": "59.4K Tweets"
   },
   {
     "name": "Soler",
     "query": "Soler",
-    "rank": 18,
-    "tweet_count": "19.3K Tweets"
+    "rank": 19,
+    "tweet_count": "19.4K Tweets"
   },
   {
     "name": "BACK TO BACK",
     "query": "\"BACK TO BACK\"",
-    "rank": 19,
-    "tweet_count": "901K Tweets"
-  },
-  {
-    "name": "DOROTHY",
-    "query": "DOROTHY",
     "rank": 20,
-    "tweet_count": "82.5K Tweets"
+    "tweet_count": "920K Tweets"
   }
 ]
