@@ -3,7 +3,7 @@
     "name": "Spieler",
     "query": "Spieler",
     "rank": 1,
-    "tweet_count": "3,148 Tweets"
+    "tweet_count": "3,176 Tweets"
   },
   {
     "name": "Elfer",
@@ -15,25 +15,25 @@
     "name": "Mannschaft",
     "query": "Mannschaft",
     "rank": 3,
-    "tweet_count": "1,115 Tweets"
+    "tweet_count": "1,137 Tweets"
   },
   {
     "name": "Saison",
     "query": "Saison",
     "rank": 4,
-    "tweet_count": "30.1K Tweets"
+    "tweet_count": "30.6K Tweets"
   },
   {
     "name": "#halloween2021",
     "query": "#halloween2021",
     "rank": 5,
-    "tweet_count": "906K Tweets"
+    "tweet_count": "919K Tweets"
   },
   {
     "name": "#FCAVfB",
     "query": "#FCAVfB",
     "rank": 6,
-    "tweet_count": "2,106 Tweets"
+    "tweet_count": "2,137 Tweets"
   },
   {
     "name": "#BMGBOC",
@@ -45,7 +45,7 @@
     "name": "Süßigkeiten",
     "query": "Süßigkeiten",
     "rank": 8,
-    "tweet_count": "2,598 Tweets"
+    "tweet_count": "2,730 Tweets"
   },
   {
     "name": "Klingel",
@@ -54,50 +54,50 @@
     "tweet_count": null
   },
   {
-    "name": "Augsburg",
-    "query": "Augsburg",
-    "rank": 10,
-    "tweet_count": "1,810 Tweets"
-  },
-  {
     "name": "Süßes oder Saures",
     "query": "\"Süßes oder Saures\"",
-    "rank": 11,
-    "tweet_count": "1,376 Tweets"
+    "rank": 10,
+    "tweet_count": "1,448 Tweets"
   },
   {
     "name": "#IndiaVsNewZealand",
     "query": "#IndiaVsNewZealand",
-    "rank": 12,
-    "tweet_count": "107K Tweets"
+    "rank": 11,
+    "tweet_count": "116K Tweets"
   },
   {
     "name": "#Precht",
     "query": "#Precht",
+    "rank": 12,
+    "tweet_count": "5,200 Tweets"
+  },
+  {
+    "name": "Augsburg",
+    "query": "Augsburg",
     "rank": 13,
-    "tweet_count": "5,082 Tweets"
+    "tweet_count": "1,845 Tweets"
+  },
+  {
+    "name": "Kürbis",
+    "query": "Kürbis",
+    "rank": 14,
+    "tweet_count": "2,651 Tweets"
+  },
+  {
+    "name": "Auslosung",
+    "query": "Auslosung",
+    "rank": 15,
+    "tweet_count": null
   },
   {
     "name": "Didavi",
     "query": "Didavi",
-    "rank": 14,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Kempf",
     "query": "Kempf",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Kürbis",
-    "query": "Kürbis",
-    "rank": 16,
-    "tweet_count": "2,587 Tweets"
-  },
-  {
-    "name": "Führich",
-    "query": "Führich",
     "rank": 17,
     "tweet_count": null
   },
@@ -105,18 +105,18 @@
     "name": "Spaltung",
     "query": "Spaltung",
     "rank": 18,
-    "tweet_count": "1,919 Tweets"
+    "tweet_count": "1,976 Tweets"
+  },
+  {
+    "name": "Führich",
+    "query": "Führich",
+    "rank": 19,
+    "tweet_count": null
   },
   {
     "name": "Luther",
     "query": "Luther",
-    "rank": 19,
-    "tweet_count": "10.4K Tweets"
-  },
-  {
-    "name": "Geister",
-    "query": "Geister",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "10.6K Tweets"
   }
 ]
