@@ -6,32 +6,32 @@
     "tweet_count": "1.08M Tweets"
   },
   {
-    "name": "#sjesif",
-    "query": "#sjesif",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
     "name": "#VFFBIF",
     "query": "#VFFBIF",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#sldk",
     "query": "#sldk",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#fcnaab",
     "query": "#fcnaab",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "#sjesif",
+    "query": "#sjesif",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "sønderjyske",
-    "query": "sønderjyske",
+    "name": "Sønderjyske",
+    "query": "Sønderjyske",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,8 +42,8 @@
     "tweet_count": null
   },
   {
-    "name": "Divkovic",
-    "query": "Divkovic",
+    "name": "divkovic",
+    "query": "divkovic",
     "rank": 8,
     "tweet_count": null
   },
@@ -60,20 +60,20 @@
     "tweet_count": null
   },
   {
-    "name": "Roma",
-    "query": "Roma",
-    "rank": 11,
-    "tweet_count": "182K Tweets"
-  },
-  {
     "name": "mitid",
     "query": "mitid",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "viborg",
-    "query": "viborg",
+    "name": "Roma",
+    "query": "Roma",
+    "rank": 12,
+    "tweet_count": "183K Tweets"
+  },
+  {
+    "name": "Viborg",
+    "query": "Viborg",
     "rank": 13,
     "tweet_count": null
   },
@@ -84,20 +84,20 @@
     "tweet_count": null
   },
   {
-    "name": "haraldsson",
-    "query": "haraldsson",
+    "name": "jonas wind",
+    "query": "\"jonas wind\"",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "Jonas Wind",
-    "query": "\"Jonas Wind\"",
+    "name": "Brighton",
+    "query": "Brighton",
     "rank": 16,
-    "tweet_count": null
+    "tweet_count": "16.5K Tweets"
   },
   {
-    "name": "Kent Nielsen",
-    "query": "\"Kent Nielsen\"",
+    "name": "kent nielsen",
+    "query": "\"kent nielsen\"",
     "rank": 17,
     "tweet_count": null
   },
@@ -111,12 +111,12 @@
     "name": "Noti",
     "query": "Noti",
     "rank": 19,
-    "tweet_count": "28.2K Tweets"
+    "tweet_count": "28.5K Tweets"
   },
   {
-    "name": "Brighton",
-    "query": "Brighton",
+    "name": "haraldsson",
+    "query": "haraldsson",
     "rank": 20,
-    "tweet_count": "16.4K Tweets"
+    "tweet_count": null
   }
 ]
