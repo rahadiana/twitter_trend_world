@@ -3,54 +3,60 @@
     "name": "Morrison",
     "query": "Morrison",
     "rank": 1,
-    "tweet_count": "61.1K Tweets"
+    "tweet_count": "62.4K Tweets"
   },
   {
     "name": "Macron",
     "query": "Macron",
     "rank": 2,
-    "tweet_count": "110K Tweets"
+    "tweet_count": "111K Tweets"
   },
   {
-    "name": "Australian PM",
-    "query": "\"Australian PM\"",
+    "name": "#ICAC_Gladys",
+    "query": "#ICAC_Gladys",
     "rank": 3,
-    "tweet_count": "2,625 Tweets"
+    "tweet_count": null
   },
   {
     "name": "The French",
     "query": "\"The French\"",
     "rank": 4,
-    "tweet_count": "55K Tweets"
+    "tweet_count": "55.7K Tweets"
+  },
+  {
+    "name": "Australian PM",
+    "query": "\"Australian PM\"",
+    "rank": 5,
+    "tweet_count": "2,669 Tweets"
   },
   {
     "name": "#DoctorWhoFlux",
     "query": "#DoctorWhoFlux",
-    "rank": 5,
-    "tweet_count": "23.6K Tweets"
+    "rank": 6,
+    "tweet_count": "23.8K Tweets"
   },
   {
     "name": "Biden",
     "query": "Biden",
-    "rank": 6,
-    "tweet_count": "611K Tweets"
+    "rank": 7,
+    "tweet_count": "616K Tweets"
   },
   {
     "name": "#AUKUS",
     "query": "#AUKUS",
-    "rank": 7,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Cormann",
     "query": "Cormann",
-    "rank": 8,
-    "tweet_count": "1,956 Tweets"
+    "rank": 9,
+    "tweet_count": "1,977 Tweets"
   },
   {
     "name": "#MelbourneCup",
     "query": "#MelbourneCup",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   }
 ]
