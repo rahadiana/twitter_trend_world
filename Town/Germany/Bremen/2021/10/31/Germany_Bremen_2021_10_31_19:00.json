@@ -1,9 +1,9 @@
 [
   {
-    "name": "#halloween2021",
-    "query": "#halloween2021",
+    "name": "#Tatort",
+    "query": "#Tatort",
     "rank": 1,
-    "tweet_count": "973K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#XFactor",
@@ -12,26 +12,26 @@
     "tweet_count": null
   },
   {
+    "name": "#halloween2021",
+    "query": "#halloween2021",
+    "rank": 3,
+    "tweet_count": "985K Tweets"
+  },
+  {
     "name": "Süßigkeiten",
     "query": "Süßigkeiten",
-    "rank": 3,
-    "tweet_count": "3,326 Tweets"
-  },
-  {
-    "name": "#BMGBOC",
-    "query": "#BMGBOC",
     "rank": 4,
-    "tweet_count": "1,365 Tweets"
-  },
-  {
-    "name": "Klingel",
-    "query": "Klingel",
-    "rank": 5,
-    "tweet_count": null
+    "tweet_count": "3,396 Tweets"
   },
   {
     "name": "Jonathan Frakes",
     "query": "\"Jonathan Frakes\"",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "Klingel",
+    "query": "Klingel",
     "rank": 6,
     "tweet_count": null
   },
@@ -39,25 +39,25 @@
     "name": "Süßes oder Saures",
     "query": "\"Süßes oder Saures\"",
     "rank": 7,
-    "tweet_count": "1,793 Tweets"
+    "tweet_count": "1,823 Tweets"
   },
   {
-    "name": "Schüssel",
-    "query": "Schüssel",
+    "name": "Feiertag",
+    "query": "Feiertag",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "1,544 Tweets"
   },
   {
     "name": "An Halloween",
     "query": "\"An Halloween\"",
     "rank": 9,
-    "tweet_count": "101K Tweets"
+    "tweet_count": "103K Tweets"
   },
   {
-    "name": "Feiertag",
-    "query": "Feiertag",
+    "name": "Schüssel",
+    "query": "Schüssel",
     "rank": 10,
-    "tweet_count": "1,483 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Sonntagabend",
@@ -78,33 +78,33 @@
     "tweet_count": null
   },
   {
-    "name": "Süßkram",
-    "query": "Süßkram",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
     "name": "Kürbis",
     "query": "Kürbis",
-    "rank": 15,
-    "tweet_count": "2,944 Tweets"
-  },
-  {
-    "name": "Wolf",
-    "query": "Wolf",
-    "rank": 16,
-    "tweet_count": "101K Tweets"
-  },
-  {
-    "name": "Führich",
-    "query": "Führich",
-    "rank": 17,
-    "tweet_count": null
+    "rank": 14,
+    "tweet_count": "2,990 Tweets"
   },
   {
     "name": "Kostüm",
     "query": "Kostüm",
+    "rank": 15,
+    "tweet_count": "3,221 Tweets"
+  },
+  {
+    "name": "Süßkram",
+    "query": "Süßkram",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Wolf",
+    "query": "Wolf",
+    "rank": 17,
+    "tweet_count": "102K Tweets"
+  },
+  {
+    "name": "Nächstes Jahr",
+    "query": "\"Nächstes Jahr\"",
     "rank": 18,
-    "tweet_count": "3,144 Tweets"
+    "tweet_count": null
   }
 ]
