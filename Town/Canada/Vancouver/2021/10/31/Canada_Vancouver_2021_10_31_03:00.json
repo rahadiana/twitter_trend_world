@@ -3,13 +3,13 @@
     "name": "Oilers",
     "query": "Oilers",
     "rank": 1,
-    "tweet_count": "3,396 Tweets"
+    "tweet_count": "3,486 Tweets"
   },
   {
     "name": "DOROTHY",
     "query": "DOROTHY",
     "rank": 2,
-    "tweet_count": "66.2K Tweets"
+    "tweet_count": "68.2K Tweets"
   },
   {
     "name": "matt devlin",
@@ -21,19 +21,19 @@
     "name": "mitch",
     "query": "mitch",
     "rank": 4,
-    "tweet_count": "30.7K Tweets"
-  },
-  {
-    "name": "#Riders",
-    "query": "#Riders",
-    "rank": 5,
-    "tweet_count": null
+    "tweet_count": "31.1K Tweets"
   },
   {
     "name": "#PoopypantsBiden",
     "query": "#PoopypantsBiden",
+    "rank": 5,
+    "tweet_count": "56.9K Tweets"
+  },
+  {
+    "name": "#Riders",
+    "query": "#Riders",
     "rank": 6,
-    "tweet_count": "54.7K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Scottie",
@@ -48,14 +48,14 @@
     "tweet_count": null
   },
   {
-    "name": "#HNIC",
-    "query": "#HNIC",
+    "name": "Monahan",
+    "query": "Monahan",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Monahan",
-    "query": "Monahan",
+    "name": "#HNIC",
+    "query": "#HNIC",
     "rank": 10,
     "tweet_count": null
   },
@@ -63,13 +63,13 @@
     "name": "#halloween2021",
     "query": "#halloween2021",
     "rank": 11,
-    "tweet_count": "375K Tweets"
+    "tweet_count": "380K Tweets"
   },
   {
     "name": "Bunting",
     "query": "Bunting",
     "rank": 12,
-    "tweet_count": "1,882 Tweets"
+    "tweet_count": "1,886 Tweets"
   },
   {
     "name": "Mrazek",
@@ -87,29 +87,29 @@
     "name": "#TilDeath",
     "query": "#TilDeath",
     "rank": 15,
-    "tweet_count": "26.2K Tweets"
+    "tweet_count": "27K Tweets"
   },
   {
     "name": "Melania",
     "query": "Melania",
     "rank": 16,
-    "tweet_count": "15.7K Tweets"
+    "tweet_count": "16.4K Tweets"
+  },
+  {
+    "name": "Trevor Harris",
+    "query": "\"Trevor Harris\"",
+    "rank": 17,
+    "tweet_count": null
   },
   {
     "name": "Ehlers",
     "query": "Ehlers",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Kerfoot",
     "query": "Kerfoot",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Draisaitl",
-    "query": "Draisaitl",
     "rank": 19,
     "tweet_count": null
   },
@@ -117,6 +117,6 @@
     "name": "Northern Lights",
     "query": "\"Northern Lights\"",
     "rank": 20,
-    "tweet_count": "14.3K Tweets"
+    "tweet_count": "14.4K Tweets"
   }
 ]
