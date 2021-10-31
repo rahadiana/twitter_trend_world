@@ -1,15 +1,15 @@
 [
   {
-    "name": "Halloween",
-    "query": "Halloween",
+    "name": "#halloween2021",
+    "query": "#halloween2021",
     "rank": 1,
-    "tweet_count": "2.78M Tweets"
+    "tweet_count": "956K Tweets"
   },
   {
     "name": "Molde",
     "query": "Molde",
     "rank": 2,
-    "tweet_count": "2,280 Tweets"
+    "tweet_count": "2,436 Tweets"
   },
   {
     "name": "#stjernekamp",
@@ -30,8 +30,8 @@
     "tweet_count": null
   },
   {
-    "name": "Godset",
-    "query": "Godset",
+    "name": "godset",
+    "query": "godset",
     "rank": 6,
     "tweet_count": null
   },
@@ -45,19 +45,19 @@
     "name": "Bjørn",
     "query": "Bjørn",
     "rank": 8,
-    "tweet_count": "1,066 Tweets"
-  },
-  {
-    "name": "Glimt",
-    "query": "Glimt",
-    "rank": 9,
-    "tweet_count": null
+    "tweet_count": "1,087 Tweets"
   },
   {
     "name": "Alexandra",
     "query": "Alexandra",
+    "rank": 9,
+    "tweet_count": "8,198 Tweets"
+  },
+  {
+    "name": "Glimt",
+    "query": "Glimt",
     "rank": 10,
-    "tweet_count": "8,078 Tweets"
+    "tweet_count": null
   },
   {
     "name": "hareide",
@@ -69,31 +69,31 @@
     "name": "#TOTMUN",
     "query": "#TOTMUN",
     "rank": 12,
-    "tweet_count": "53.1K Tweets"
+    "tweet_count": "53.2K Tweets"
   },
   {
-    "name": "Nuno",
-    "query": "Nuno",
+    "name": "West Ham",
+    "query": "\"West Ham\"",
     "rank": 13,
-    "tweet_count": "39.6K Tweets"
+    "tweet_count": "25.4K Tweets"
   },
   {
     "name": "Flint",
     "query": "Flint",
     "rank": 14,
-    "tweet_count": "2,177 Tweets"
-  },
-  {
-    "name": "#ESNball",
-    "query": "#ESNball",
-    "rank": 15,
-    "tweet_count": null
+    "tweet_count": "2,213 Tweets"
   },
   {
     "name": "egersund",
     "query": "egersund",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
+  },
+  {
+    "name": "Nuno",
+    "query": "Nuno",
+    "rank": 16,
+    "tweet_count": "40.4K Tweets"
   },
   {
     "name": "Dostojevskij",
@@ -102,14 +102,14 @@
     "tweet_count": null
   },
   {
-    "name": "West Ham",
-    "query": "\"West Ham\"",
+    "name": "skeid",
+    "query": "skeid",
     "rank": 18,
-    "tweet_count": "23.4K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Skeid",
-    "query": "Skeid",
+    "name": "rosenborg 2",
+    "query": "\"rosenborg 2\"",
     "rank": 19,
     "tweet_count": null
   }

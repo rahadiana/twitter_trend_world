@@ -1,39 +1,39 @@
 [
   {
-    "name": "Halloween",
-    "query": "Halloween",
+    "name": "#halloween2021",
+    "query": "#halloween2021",
     "rank": 1,
-    "tweet_count": "2.4M Tweets"
+    "tweet_count": "956K Tweets"
   },
   {
     "name": "Estoril",
     "query": "Estoril",
     "rank": 2,
-    "tweet_count": "3,544 Tweets"
+    "tweet_count": "3,555 Tweets"
   },
   {
     "name": "João Félix",
     "query": "\"João Félix\"",
     "rank": 3,
-    "tweet_count": "3,826 Tweets"
+    "tweet_count": "4,002 Tweets"
   },
   {
     "name": "Coates",
     "query": "Coates",
     "rank": 4,
-    "tweet_count": "5,285 Tweets"
-  },
-  {
-    "name": "Darwin",
-    "query": "Darwin",
-    "rank": 5,
-    "tweet_count": "9,127 Tweets"
+    "tweet_count": "5,302 Tweets"
   },
   {
     "name": "O CDS",
     "query": "\"O CDS\"",
+    "rank": 5,
+    "tweet_count": "1,781 Tweets"
+  },
+  {
+    "name": "Darwin",
+    "query": "Darwin",
     "rank": 6,
-    "tweet_count": "1,761 Tweets"
+    "tweet_count": "9,226 Tweets"
   },
   {
     "name": "#LALIGAELEVEN",
@@ -48,32 +48,32 @@
     "tweet_count": null
   },
   {
+    "name": "Feliz Halloween",
+    "query": "\"Feliz Halloween\"",
+    "rank": 9,
+    "tweet_count": "71.4K Tweets"
+  },
+  {
     "name": "Boavista",
     "query": "Boavista",
-    "rank": 9,
-    "tweet_count": "1,465 Tweets"
+    "rank": 10,
+    "tweet_count": "1,475 Tweets"
   },
   {
     "name": "Carrasco",
     "query": "Carrasco",
-    "rank": 10,
-    "tweet_count": "11.3K Tweets"
+    "rank": 11,
+    "tweet_count": "11.6K Tweets"
   },
   {
     "name": "Matheus Reis",
     "query": "\"Matheus Reis\"",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "danny loader",
-    "query": "\"danny loader\"",
     "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "Tiago Martins",
-    "query": "\"Tiago Martins\"",
+    "name": "Danny Loader",
+    "query": "\"Danny Loader\"",
     "rank": 13,
     "tweet_count": null
   },
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
-    "name": "West Ham",
-    "query": "\"West Ham\"",
-    "rank": 16,
-    "tweet_count": "23.6K Tweets"
-  },
-  {
     "name": "Brighton",
     "query": "Brighton",
-    "rank": 17,
-    "tweet_count": "19.6K Tweets"
+    "rank": 16,
+    "tweet_count": "19.9K Tweets"
   },
   {
     "name": "O VAR",
     "query": "\"O VAR\"",
-    "rank": 18,
-    "tweet_count": "28.9K Tweets"
+    "rank": 17,
+    "tweet_count": "29.6K Tweets"
   },
   {
     "name": "Hugo Miguel",
     "query": "\"Hugo Miguel\"",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Everton",
     "query": "Everton",
+    "rank": 19,
+    "tweet_count": "14.3K Tweets"
+  },
+  {
+    "name": "dia de sporting",
+    "query": "\"dia de sporting\"",
     "rank": 20,
-    "tweet_count": "14.1K Tweets"
+    "tweet_count": null
   }
 ]
