@@ -1,39 +1,39 @@
 [
   {
-    "name": "Halloween",
-    "query": "Halloween",
-    "rank": 1,
-    "tweet_count": "3.3M Tweets"
-  },
-  {
     "name": "#dax18",
     "query": "#dax18",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Halloween",
+    "query": "Halloween",
+    "rank": 2,
+    "tweet_count": "2.82M Tweets"
   },
   {
     "name": "Conte",
     "query": "Conte",
     "rank": 3,
-    "tweet_count": "214K Tweets"
+    "tweet_count": "216K Tweets"
   },
   {
     "name": "Odds",
     "query": "Odds",
     "rank": 4,
-    "tweet_count": "45.1K Tweets"
-  },
-  {
-    "name": "#COP26",
-    "query": "#COP26",
-    "rank": 5,
-    "tweet_count": "477K Tweets"
+    "tweet_count": "45.7K Tweets"
   },
   {
     "name": "Sogndal",
     "query": "Sogndal",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "#COP26",
+    "query": "#COP26",
+    "rank": 6,
+    "tweet_count": "486K Tweets"
   },
   {
     "name": "nent",
@@ -75,7 +75,7 @@
     "name": "Poch",
     "query": "Poch",
     "rank": 13,
-    "tweet_count": "6,911 Tweets"
+    "tweet_count": "6,962 Tweets"
   },
   {
     "name": "aspmyra",
@@ -87,30 +87,30 @@
     "name": "Potter",
     "query": "Potter",
     "rank": 15,
-    "tweet_count": "67.8K Tweets"
-  },
-  {
-    "name": "rosenborg 2",
-    "query": "\"rosenborg 2\"",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "68.4K Tweets"
   },
   {
     "name": "Kasper",
     "query": "Kasper",
-    "rank": 17,
-    "tweet_count": "1,081 Tweets"
+    "rank": 16,
+    "tweet_count": "1,091 Tweets"
   },
   {
     "name": "Støre",
     "query": "Støre",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
+  },
+  {
+    "name": "Molde",
+    "query": "Molde",
+    "rank": 18,
+    "tweet_count": "2,138 Tweets"
   },
   {
     "name": "Discovery",
     "query": "Discovery",
     "rank": 19,
-    "tweet_count": "22.8K Tweets"
+    "tweet_count": "23.1K Tweets"
   }
 ]
