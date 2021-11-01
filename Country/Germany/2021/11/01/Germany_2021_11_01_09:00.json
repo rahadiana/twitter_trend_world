@@ -3,7 +3,7 @@
     "name": "Feiertag",
     "query": "Feiertag",
     "rank": 1,
-    "tweet_count": "4,176 Tweets"
+    "tweet_count": "4,446 Tweets"
   },
   {
     "name": "Wochenstart",
@@ -12,16 +12,16 @@
     "tweet_count": null
   },
   {
-    "name": "Start in die Woche",
-    "query": "\"Start in die Woche\"",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
     "name": "#Wagenknecht",
     "query": "#Wagenknecht",
+    "rank": 3,
+    "tweet_count": "6,627 Tweets"
+  },
+  {
+    "name": "Start in die Woche",
+    "query": "\"Start in die Woche\"",
     "rank": 4,
-    "tweet_count": "6,307 Tweets"
+    "tweet_count": "1,030 Tweets"
   },
   {
     "name": "#Allerheiligen",
@@ -36,22 +36,22 @@
     "tweet_count": null
   },
   {
-    "name": "#Chatkontrolle",
-    "query": "#Chatkontrolle",
+    "name": "#COP26",
+    "query": "#COP26",
     "rank": 7,
-    "tweet_count": "2,494 Tweets"
+    "tweet_count": "325K Tweets"
+  },
+  {
+    "name": "#Montagslaecheln",
+    "query": "#Montagslaecheln",
+    "rank": 8,
+    "tweet_count": null
   },
   {
     "name": "Happy New Month",
     "query": "\"Happy New Month\"",
-    "rank": 8,
-    "tweet_count": "53.8K Tweets"
-  },
-  {
-    "name": "#montagslaecheln",
-    "query": "#montagslaecheln",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "58.6K Tweets"
   },
   {
     "name": "Start in den November",
@@ -63,35 +63,35 @@
     "name": "Impfzentren",
     "query": "Impfzentren",
     "rank": 11,
-    "tweet_count": "1,618 Tweets"
+    "tweet_count": "1,734 Tweets"
   },
   {
     "name": "Christmas",
     "query": "Christmas",
     "rank": 12,
-    "tweet_count": "247K Tweets"
+    "tweet_count": "251K Tweets"
   },
   {
     "name": "Talkshows",
     "query": "Talkshows",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "1,032 Tweets"
   },
   {
     "name": "Hessen",
     "query": "Hessen",
     "rank": 14,
-    "tweet_count": "1,407 Tweets"
-  },
-  {
-    "name": "Niedersachsen",
-    "query": "Niedersachsen",
-    "rank": 15,
-    "tweet_count": null
+    "tweet_count": "1,446 Tweets"
   },
   {
     "name": "Bundesländern",
     "query": "Bundesländern",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Niedersachsen",
+    "query": "Niedersachsen",
     "rank": 16,
     "tweet_count": null
   },
@@ -99,24 +99,24 @@
     "name": "Überzeugung",
     "query": "Überzeugung",
     "rank": 17,
-    "tweet_count": "1,057 Tweets"
+    "tweet_count": "1,085 Tweets"
+  },
+  {
+    "name": "#Chatkontrolle",
+    "query": "#Chatkontrolle",
+    "rank": 18,
+    "tweet_count": "2,558 Tweets"
   },
   {
     "name": "#MondayMotivation",
     "query": "#MondayMotivation",
-    "rank": 18,
-    "tweet_count": "13K Tweets"
-  },
-  {
-    "name": "#COP26",
-    "query": "#COP26",
     "rank": 19,
-    "tweet_count": "315K Tweets"
+    "tweet_count": "13.9K Tweets"
   },
   {
     "name": "#NoNutNovember",
     "query": "#NoNutNovember",
     "rank": 20,
-    "tweet_count": "19.4K Tweets"
+    "tweet_count": "20.2K Tweets"
   }
 ]
