@@ -1,92 +1,98 @@
 [
   {
+    "name": "Cowboys",
+    "query": "Cowboys",
+    "rank": 1,
+    "tweet_count": "107K Tweets"
+  },
+  {
     "name": "Christmas",
     "query": "Christmas",
-    "rank": 1,
-    "tweet_count": "301K Tweets"
+    "rank": 2,
+    "tweet_count": "311K Tweets"
   },
   {
     "name": "Derrick Henry",
     "query": "\"Derrick Henry\"",
-    "rank": 2,
-    "tweet_count": "13.2K Tweets"
+    "rank": 3,
+    "tweet_count": "15.1K Tweets"
   },
   {
     "name": "#MondayMotivation",
     "query": "#MondayMotivation",
-    "rank": 3,
-    "tweet_count": "24.6K Tweets"
+    "rank": 4,
+    "tweet_count": "25.6K Tweets"
   },
   {
     "name": "Conte",
     "query": "Conte",
-    "rank": 4,
-    "tweet_count": "169K Tweets"
+    "rank": 5,
+    "tweet_count": "177K Tweets"
   },
   {
     "name": "#PMSOverreactionMonday",
     "query": "#PMSOverreactionMonday",
-    "rank": 5,
+    "rank": 6,
     "tweet_count": null
+  },
+  {
+    "name": "#TheBookOfBobaFett",
+    "query": "#TheBookOfBobaFett",
+    "rank": 7,
+    "tweet_count": "14.2K Tweets"
   },
   {
     "name": "#NaNoWriMo",
     "query": "#NaNoWriMo",
-    "rank": 6,
-    "tweet_count": "5,745 Tweets"
-  },
-  {
-    "name": "#COP26",
-    "query": "#COP26",
-    "rank": 7,
-    "tweet_count": "299K Tweets"
+    "rank": 8,
+    "tweet_count": "6,066 Tweets"
   },
   {
     "name": "Mariah Carey",
     "query": "\"Mariah Carey\"",
-    "rank": 8,
-    "tweet_count": "49.3K Tweets"
+    "rank": 9,
+    "tweet_count": "52K Tweets"
+  },
+  {
+    "name": "Juan Williams",
+    "query": "\"Juan Williams\"",
+    "rank": 10,
+    "tweet_count": "1,803 Tweets"
   },
   {
     "name": "Marlon Mack",
     "query": "\"Marlon Mack\"",
-    "rank": 9,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Victory Monday",
     "query": "\"Victory Monday\"",
-    "rank": 10,
-    "tweet_count": "2,599 Tweets"
-  },
-  {
-    "name": "Juan Williams",
-    "query": "\"Juan Williams\"",
-    "rank": 11,
-    "tweet_count": "1,407 Tweets"
+    "rank": 12,
+    "tweet_count": "2,820 Tweets"
   },
   {
     "name": "Titans",
     "query": "Titans",
-    "rank": 12,
-    "tweet_count": "76.5K Tweets"
-  },
-  {
-    "name": "Jeremy McNichols",
-    "query": "\"Jeremy McNichols\"",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "78.6K Tweets"
   },
   {
-    "name": "Andy Uba",
-    "query": "\"Andy Uba\"",
+    "name": "City Edition",
+    "query": "\"City Edition\"",
     "rank": 14,
-    "tweet_count": "2,193 Tweets"
+    "tweet_count": "8,252 Tweets"
   },
   {
-    "name": "hobi",
-    "query": "hobi",
+    "name": "Josh Hawley",
+    "query": "\"Josh Hawley\"",
     "rank": 15,
-    "tweet_count": "215K Tweets"
+    "tweet_count": "2,029 Tweets"
+  },
+  {
+    "name": "Tomorrow is Election Day",
+    "query": "\"Tomorrow is Election Day\"",
+    "rank": 16,
+    "tweet_count": "2,123 Tweets"
   }
 ]
