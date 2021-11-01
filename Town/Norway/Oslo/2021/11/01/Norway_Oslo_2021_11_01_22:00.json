@@ -1,15 +1,15 @@
 [
   {
-    "name": "Happy Halloween",
-    "query": "\"Happy Halloween\"",
-    "rank": 1,
-    "tweet_count": "105K Tweets"
-  },
-  {
     "name": "Conte",
     "query": "Conte",
+    "rank": 1,
+    "tweet_count": "249K Tweets"
+  },
+  {
+    "name": "Happy Halloween",
+    "query": "\"Happy Halloween\"",
     "rank": 2,
-    "tweet_count": "248K Tweets"
+    "tweet_count": "1.81M Tweets"
   },
   {
     "name": "HamKam",
@@ -27,7 +27,7 @@
     "name": "#COP26",
     "query": "#COP26",
     "rank": 5,
-    "tweet_count": "596K Tweets"
+    "tweet_count": "603K Tweets"
   },
   {
     "name": "Hamar",
@@ -57,29 +57,29 @@
     "name": "Odds",
     "query": "Odds",
     "rank": 10,
-    "tweet_count": "47K Tweets"
+    "tweet_count": "47.3K Tweets"
+  },
+  {
+    "name": "Gratulerer",
+    "query": "Gratulerer",
+    "rank": 11,
+    "tweet_count": null
   },
   {
     "name": "Briskeby",
     "query": "Briskeby",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Sandnes",
     "query": "Sandnes",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Jerv",
     "query": "Jerv",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Gratulerer",
-    "query": "Gratulerer",
     "rank": 14,
     "tweet_count": null
   },
