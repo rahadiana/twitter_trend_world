@@ -3,7 +3,7 @@
     "name": "#halloween2021",
     "query": "#halloween2021",
     "rank": 1,
-    "tweet_count": "1.18M Tweets"
+    "tweet_count": "1.19M Tweets"
   },
   {
     "name": "#SecretSantaNZ2021",
@@ -18,22 +18,22 @@
     "tweet_count": "11.9K Tweets"
   },
   {
-    "name": "#WALvNZL",
-    "query": "#WALvNZL",
-    "rank": 4,
-    "tweet_count": "1,132 Tweets"
-  },
-  {
     "name": "Auckland",
     "query": "Auckland",
+    "rank": 4,
+    "tweet_count": "4,359 Tweets"
+  },
+  {
+    "name": "#WALvNZL",
+    "query": "#WALvNZL",
     "rank": 5,
-    "tweet_count": "4,258 Tweets"
+    "tweet_count": "1,134 Tweets"
   },
   {
     "name": "Bird of the Year",
     "query": "\"Bird of the Year\"",
     "rank": 6,
-    "tweet_count": "1,492 Tweets"
+    "tweet_count": "1,510 Tweets"
   },
   {
     "name": "Dr Bloomfield",
@@ -45,49 +45,49 @@
     "name": "Step 2",
     "query": "\"Step 2\"",
     "rank": 8,
-    "tweet_count": "16.8K Tweets"
+    "tweet_count": "16.9K Tweets"
   },
   {
-    "name": "Waikato",
-    "query": "Waikato",
+    "name": "waikato",
+    "query": "waikato",
     "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Hendy",
+    "query": "Hendy",
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "#COP26",
     "query": "#COP26",
-    "rank": 10,
-    "tweet_count": "304K Tweets"
-  },
-  {
-    "name": "Hendy",
-    "query": "Hendy",
     "rank": 11,
-    "tweet_count": null
+    "tweet_count": "305K Tweets"
   },
   {
     "name": "Italians",
     "query": "Italians",
     "rank": 12,
-    "tweet_count": "2,236 Tweets"
+    "tweet_count": "2,249 Tweets"
+  },
+  {
+    "name": "Level 3",
+    "query": "\"Level 3\"",
+    "rank": 13,
+    "tweet_count": "15.3K Tweets"
   },
   {
     "name": "Dame Cath",
     "query": "\"Dame Cath\"",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "#NZvsIND",
     "query": "#NZvsIND",
-    "rank": 14,
-    "tweet_count": "23.9K Tweets"
-  },
-  {
-    "name": "level 3",
-    "query": "\"level 3\"",
     "rank": 15,
-    "tweet_count": "15.2K Tweets"
+    "tweet_count": "23.9K Tweets"
   },
   {
     "name": "Tova",
@@ -99,7 +99,7 @@
     "name": "Gorman",
     "query": "Gorman",
     "rank": 17,
-    "tweet_count": "1,135 Tweets"
+    "tweet_count": "1,145 Tweets"
   },
   {
     "name": "Royal Commission",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "Macron",
-    "query": "Macron",
-    "rank": 19,
-    "tweet_count": "119K Tweets"
-  },
-  {
     "name": "Bats",
     "query": "Bats",
+    "rank": 19,
+    "tweet_count": "16.8K Tweets"
+  },
+  {
+    "name": "Macron",
+    "query": "Macron",
     "rank": 20,
-    "tweet_count": "16.7K Tweets"
+    "tweet_count": "119K Tweets"
   }
 ]
