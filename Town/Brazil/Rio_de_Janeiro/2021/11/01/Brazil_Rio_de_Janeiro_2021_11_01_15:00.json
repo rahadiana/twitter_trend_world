@@ -1,39 +1,39 @@
 [
   {
+    "name": "Londres",
+    "query": "Londres",
+    "rank": 1,
+    "tweet_count": "11.9K Tweets"
+  },
+  {
     "name": "Santana",
     "query": "Santana",
-    "rank": 1,
-    "tweet_count": "15.4K Tweets"
+    "rank": 2,
+    "tweet_count": "15.6K Tweets"
   },
   {
     "name": "Roma",
     "query": "Roma",
-    "rank": 2,
-    "tweet_count": "205K Tweets"
+    "rank": 3,
+    "tweet_count": "207K Tweets"
   },
   {
     "name": "Campo Grande",
     "query": "\"Campo Grande\"",
-    "rank": 3,
-    "tweet_count": "4,950 Tweets"
+    "rank": 4,
+    "tweet_count": "5,018 Tweets"
   },
   {
     "name": "São Pedro",
     "query": "\"São Pedro\"",
-    "rank": 4,
-    "tweet_count": "2,480 Tweets"
-  },
-  {
-    "name": "Londres",
-    "query": "Londres",
     "rank": 5,
-    "tweet_count": "11.8K Tweets"
+    "tweet_count": "2,529 Tweets"
   },
   {
     "name": "Itália",
     "query": "Itália",
     "rank": 6,
-    "tweet_count": "117K Tweets"
+    "tweet_count": "119K Tweets"
   },
   {
     "name": "Zé vaqueiro",
@@ -45,78 +45,78 @@
     "name": "coelho",
     "query": "coelho",
     "rank": 8,
-    "tweet_count": "9,876 Tweets"
+    "tweet_count": "10K Tweets"
   },
   {
     "name": "Kendall",
     "query": "Kendall",
     "rank": 9,
-    "tweet_count": "22K Tweets"
+    "tweet_count": "22.2K Tweets"
   },
   {
-    "name": "jennie",
-    "query": "jennie",
+    "name": "Jennie",
+    "query": "Jennie",
     "rank": 10,
-    "tweet_count": "118K Tweets"
+    "tweet_count": "119K Tweets"
   },
   {
     "name": "#PraCimaDeles",
     "query": "#PraCimaDeles",
     "rank": 11,
-    "tweet_count": "22.2K Tweets"
+    "tweet_count": "23.8K Tweets"
   },
   {
     "name": "#JulietteSessions",
     "query": "#JulietteSessions",
     "rank": 12,
-    "tweet_count": "43.2K Tweets"
-  },
-  {
-    "name": "#athletico",
-    "query": "#athletico",
-    "rank": 13,
-    "tweet_count": "1,546 Tweets"
-  },
-  {
-    "name": "#AlmaECoração",
-    "query": "#AlmaECoração",
-    "rank": 14,
-    "tweet_count": "3,063 Tweets"
+    "tweet_count": "44.8K Tweets"
   },
   {
     "name": "#VamosFlamengo",
     "query": "#VamosFlamengo",
+    "rank": 13,
+    "tweet_count": "9,784 Tweets"
+  },
+  {
+    "name": "#AvantiPalestra",
+    "query": "#AvantiPalestra",
+    "rank": 14,
+    "tweet_count": "14.2K Tweets"
+  },
+  {
+    "name": "#AlmaECoração",
+    "query": "#AlmaECoração",
     "rank": 15,
-    "tweet_count": "9,161 Tweets"
+    "tweet_count": "3,606 Tweets"
   },
   {
     "name": "Nelson Freire",
     "query": "\"Nelson Freire\"",
     "rank": 16,
-    "tweet_count": "2,544 Tweets"
+    "tweet_count": "2,688 Tweets"
   },
   {
     "name": "Natal",
     "query": "Natal",
     "rank": 17,
-    "tweet_count": "49.5K Tweets"
-  },
-  {
-    "name": "VEEEEEEEEEEM ILHA",
-    "query": "\"VEEEEEEEEEEM ILHA\"",
-    "rank": 18,
-    "tweet_count": "6,914 Tweets"
+    "tweet_count": "50.7K Tweets"
   },
   {
     "name": "Toto",
     "query": "Toto",
+    "rank": 18,
+    "tweet_count": "24.5K Tweets"
+  },
+  {
+    "name": "VEEEEEEEEEEM ILHA",
+    "query": "\"VEEEEEEEEEEM ILHA\"",
     "rank": 19,
-    "tweet_count": "24K Tweets"
+    "tweet_count": "6,961 Tweets"
   },
   {
     "name": "It Takes Two",
     "query": "\"It Takes Two\"",
     "rank": 20,
-    "tweet_count": "4,075 Tweets"
+    "tweet_count": "4,192 Tweets"
   }
 ]
