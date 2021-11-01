@@ -1,15 +1,15 @@
 [
   {
-    "name": "Halloween",
-    "query": "Halloween",
-    "rank": 1,
-    "tweet_count": "2.09M Tweets"
-  },
-  {
     "name": "#dax18",
     "query": "#dax18",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Halloween",
+    "query": "Halloween",
+    "rank": 2,
+    "tweet_count": "2.61M Tweets"
   },
   {
     "name": "Emil Pálsson",
@@ -18,16 +18,16 @@
     "tweet_count": null
   },
   {
-    "name": "Conte",
-    "query": "Conte",
+    "name": "Kamma",
+    "query": "Kamma",
     "rank": 4,
-    "tweet_count": "228K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Odds",
-    "query": "Odds",
+    "name": "Conte",
+    "query": "Conte",
     "rank": 5,
-    "tweet_count": "45.2K Tweets"
+    "tweet_count": "231K Tweets"
   },
   {
     "name": "#ffk1903",
@@ -36,81 +36,81 @@
     "tweet_count": null
   },
   {
+    "name": "HamKam",
+    "query": "HamKam",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
     "name": "#COP26",
     "query": "#COP26",
-    "rank": 7,
-    "tweet_count": "507K Tweets"
+    "rank": 8,
+    "tweet_count": "520K Tweets"
   },
   {
     "name": "Sogndal",
     "query": "Sogndal",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "#dagsrevyen",
-    "query": "#dagsrevyen",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "oslo høyre",
-    "query": "\"oslo høyre\"",
+    "name": "Briskeby",
+    "query": "Briskeby",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Sandviken",
-    "query": "Sandviken",
+    "name": "Nuno",
+    "query": "Nuno",
     "rank": 11,
+    "tweet_count": "119K Tweets"
+  },
+  {
+    "name": "#dagsrevyen",
+    "query": "#dagsrevyen",
+    "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "Strømmen",
-    "query": "Strømmen",
-    "rank": 12,
+    "name": "Odds",
+    "query": "Odds",
+    "rank": 13,
+    "tweet_count": "45.9K Tweets"
+  },
+  {
+    "name": "Sandviken",
+    "query": "Sandviken",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "strømmen",
+    "query": "strømmen",
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "støre",
     "query": "støre",
-    "rank": 13,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "aspmyra",
     "query": "aspmyra",
-    "rank": 14,
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Oslo Høyre",
+    "query": "\"Oslo Høyre\"",
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Potter",
     "query": "Potter",
-    "rank": 15,
-    "tweet_count": "63.7K Tweets"
-  },
-  {
-    "name": "Poch",
-    "query": "Poch",
-    "rank": 16,
-    "tweet_count": "7,090 Tweets"
-  },
-  {
-    "name": "Sandnes",
-    "query": "Sandnes",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "NENT",
-    "query": "NENT",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Kasper",
-    "query": "Kasper",
     "rank": 19,
-    "tweet_count": "1,078 Tweets"
+    "tweet_count": "64.4K Tweets"
   }
 ]

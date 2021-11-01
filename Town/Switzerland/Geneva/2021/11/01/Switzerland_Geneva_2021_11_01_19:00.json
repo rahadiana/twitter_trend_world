@@ -1,33 +1,33 @@
 [
   {
-    "name": "Happy Halloween",
-    "query": "\"Happy Halloween\"",
-    "rank": 1,
-    "tweet_count": "130K Tweets"
-  },
-  {
     "name": "#COP26",
     "query": "#COP26",
+    "rank": 1,
+    "tweet_count": "520K Tweets"
+  },
+  {
+    "name": "Halloween",
+    "query": "Halloween",
     "rank": 2,
-    "tweet_count": "507K Tweets"
+    "tweet_count": "2.61M Tweets"
   },
   {
     "name": "#ZEVENT2021",
     "query": "#ZEVENT2021",
     "rank": 3,
-    "tweet_count": "442K Tweets"
+    "tweet_count": "444K Tweets"
   },
   {
     "name": "#Walliserkanne",
     "query": "#Walliserkanne",
     "rank": 4,
-    "tweet_count": "2,003 Tweets"
+    "tweet_count": "2,056 Tweets"
   },
   {
     "name": "Feiertag",
     "query": "Feiertag",
     "rank": 5,
-    "tweet_count": "6,137 Tweets"
+    "tweet_count": "6,174 Tweets"
   },
   {
     "name": "#GPW21",
@@ -45,78 +45,78 @@
     "name": "Tottenham",
     "query": "Tottenham",
     "rank": 8,
-    "tweet_count": "137K Tweets"
+    "tweet_count": "138K Tweets"
   },
   {
     "name": "Ultia",
     "query": "Ultia",
     "rank": 9,
-    "tweet_count": "27.2K Tweets"
+    "tweet_count": "27.5K Tweets"
   },
   {
     "name": "LongCovid",
     "query": "LongCovid",
     "rank": 10,
-    "tweet_count": "20.2K Tweets"
+    "tweet_count": "5,549 Tweets"
   },
   {
     "name": "hobi",
     "query": "hobi",
     "rank": 11,
-    "tweet_count": "187K Tweets"
+    "tweet_count": "188K Tweets"
   },
   {
     "name": "Inox",
     "query": "Inox",
     "rank": 12,
-    "tweet_count": "65.8K Tweets"
-  },
-  {
-    "name": "Corona",
-    "query": "Corona",
-    "rank": 13,
-    "tweet_count": "107K Tweets"
+    "tweet_count": "66.3K Tweets"
   },
   {
     "name": "Pferde",
     "query": "Pferde",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "aussicht",
     "query": "aussicht",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Nuno",
     "query": "Nuno",
+    "rank": 15,
+    "tweet_count": "119K Tweets"
+  },
+  {
+    "name": "Klimaschutz",
+    "query": "Klimaschutz",
     "rank": 16,
-    "tweet_count": "118K Tweets"
+    "tweet_count": "4,177 Tweets"
   },
   {
-    "name": "Klimaschutz",
-    "query": "Klimaschutz",
+    "name": "eu-beitritt",
+    "query": "eu-beitritt",
     "rank": 17,
-    "tweet_count": "4,110 Tweets"
-  },
-  {
-    "name": "Klimaschutz",
-    "query": "Klimaschutz",
-    "rank": 18,
-    "tweet_count": "4,110 Tweets"
-  },
-  {
-    "name": "EU-Beitritt",
-    "query": "EU-Beitritt",
-    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "Corona",
+    "query": "Corona",
+    "rank": 18,
+    "tweet_count": "109K Tweets"
   },
   {
     "name": "Saures",
     "query": "Saures",
+    "rank": 19,
+    "tweet_count": "2,296 Tweets"
+  },
+  {
+    "name": "Jahreszeit",
+    "query": "Jahreszeit",
     "rank": 20,
-    "tweet_count": "2,285 Tweets"
+    "tweet_count": null
   }
 ]
