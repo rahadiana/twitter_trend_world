@@ -1,105 +1,105 @@
 [
   {
-    "name": "Scomo",
-    "query": "Scomo",
+    "name": "#COP26",
+    "query": "#COP26",
     "rank": 1,
-    "tweet_count": "2,050 Tweets"
+    "tweet_count": "303K Tweets"
+  },
+  {
+    "name": "scomo",
+    "query": "scomo",
+    "rank": 2,
+    "tweet_count": "2,097 Tweets"
   },
   {
     "name": "Biden",
     "query": "Biden",
-    "rank": 2,
-    "tweet_count": "608K Tweets"
+    "rank": 3,
+    "tweet_count": "616K Tweets"
   },
   {
     "name": "Macron",
     "query": "Macron",
-    "rank": 3,
-    "tweet_count": "117K Tweets"
+    "rank": 4,
+    "tweet_count": "118K Tweets"
   },
   {
     "name": "Morrison",
     "query": "Morrison",
-    "rank": 4,
-    "tweet_count": "70.9K Tweets"
+    "rank": 5,
+    "tweet_count": "73.2K Tweets"
+  },
+  {
+    "name": "#LiarFromTheShire",
+    "query": "#LiarFromTheShire",
+    "rank": 6,
+    "tweet_count": "3,843 Tweets"
   },
   {
     "name": "#ICAC",
     "query": "#ICAC",
-    "rank": 5,
-    "tweet_count": "12.7K Tweets"
-  },
-  {
-    "name": "Eiffel Tower",
-    "query": "\"Eiffel Tower\"",
-    "rank": 6,
-    "tweet_count": "4,544 Tweets"
+    "rank": 7,
+    "tweet_count": "13.1K Tweets"
   },
   {
     "name": "#MelbourneCup",
     "query": "#MelbourneCup",
-    "rank": 7,
-    "tweet_count": "1,087 Tweets"
+    "rank": 8,
+    "tweet_count": "1,140 Tweets"
+  },
+  {
+    "name": "Eiffel Tower",
+    "query": "\"Eiffel Tower\"",
+    "rank": 9,
+    "tweet_count": "4,600 Tweets"
   },
   {
     "name": "britney",
     "query": "britney",
-    "rank": 8,
-    "tweet_count": "46K Tweets"
-  },
-  {
-    "name": "Mr Robertson",
-    "query": "\"Mr Robertson\"",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Prime Minister",
-    "query": "\"Prime Minister\"",
     "rank": 10,
-    "tweet_count": "64.5K Tweets"
-  },
-  {
-    "name": "#COP26",
-    "query": "#COP26",
-    "rank": 11,
-    "tweet_count": "300K Tweets"
+    "tweet_count": "51.7K Tweets"
   },
   {
     "name": "The French",
     "query": "\"The French\"",
+    "rank": 11,
+    "tweet_count": "58.7K Tweets"
+  },
+  {
+    "name": "Prime Minister",
+    "query": "\"Prime Minister\"",
     "rank": 12,
-    "tweet_count": "58K Tweets"
+    "tweet_count": "65.4K Tweets"
   },
   {
     "name": "French President",
     "query": "\"French President\"",
     "rank": 13,
-    "tweet_count": "13.3K Tweets"
+    "tweet_count": "13.6K Tweets"
   },
   {
     "name": "Berejiklian",
     "query": "Berejiklian",
     "rank": 14,
-    "tweet_count": "5,971 Tweets"
+    "tweet_count": "6,232 Tweets"
   },
   {
     "name": "HAPPY BIRTHDAY GEORGE",
     "query": "\"HAPPY BIRTHDAY GEORGE\"",
     "rank": 15,
-    "tweet_count": "36.4K Tweets"
-  },
-  {
-    "name": "Commissioner",
-    "query": "Commissioner",
-    "rank": 16,
-    "tweet_count": "14.7K Tweets"
+    "tweet_count": "37.2K Tweets"
   },
   {
     "name": "Australian PM",
     "query": "\"Australian PM\"",
+    "rank": 16,
+    "tweet_count": "3,829 Tweets"
+  },
+  {
+    "name": "commissioner",
+    "query": "commissioner",
     "rank": 17,
-    "tweet_count": "3,743 Tweets"
+    "tweet_count": "14.9K Tweets"
   },
   {
     "name": "Turnbull",
@@ -117,6 +117,6 @@
     "name": "#AUKUS",
     "query": "#AUKUS",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "1,000 Tweets"
   }
 ]
