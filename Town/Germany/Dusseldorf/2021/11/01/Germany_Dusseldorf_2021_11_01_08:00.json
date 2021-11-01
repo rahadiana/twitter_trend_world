@@ -3,13 +3,13 @@
     "name": "Halloween",
     "query": "Halloween",
     "rank": 1,
-    "tweet_count": "2.9M Tweets"
+    "tweet_count": "2.46M Tweets"
   },
   {
     "name": "Feiertag",
     "query": "Feiertag",
     "rank": 2,
-    "tweet_count": "3,894 Tweets"
+    "tweet_count": "4,089 Tweets"
   },
   {
     "name": "Wochenstart",
@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "#Wagenknecht",
-    "query": "#Wagenknecht",
-    "rank": 5,
-    "tweet_count": "5,841 Tweets"
-  },
-  {
     "name": "#Allerheiligen",
     "query": "#Allerheiligen",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "#Wagenknecht",
+    "query": "#Wagenknecht",
+    "rank": 6,
+    "tweet_count": "6,109 Tweets"
   },
   {
     "name": "#Hildmann",
@@ -42,52 +42,52 @@
     "tweet_count": null
   },
   {
-    "name": "Happy New Month",
-    "query": "\"Happy New Month\"",
-    "rank": 8,
-    "tweet_count": "47.4K Tweets"
-  },
-  {
     "name": "#Chatkontrolle",
     "query": "#Chatkontrolle",
+    "rank": 8,
+    "tweet_count": "2,442 Tweets"
+  },
+  {
+    "name": "#montagslaecheln",
+    "query": "#montagslaecheln",
     "rank": 9,
-    "tweet_count": "2,362 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Happy New Month",
+    "query": "\"Happy New Month\"",
+    "rank": 10,
+    "tweet_count": "50.6K Tweets"
   },
   {
     "name": "Start in den November",
     "query": "\"Start in den November\"",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "#COP26",
-    "query": "#COP26",
     "rank": 11,
-    "tweet_count": "318K Tweets"
-  },
-  {
-    "name": "Talkshows",
-    "query": "Talkshows",
-    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Impfzentren",
     "query": "Impfzentren",
-    "rank": 13,
-    "tweet_count": "1,626 Tweets"
-  },
-  {
-    "name": "Hessen",
-    "query": "Hessen",
-    "rank": 14,
-    "tweet_count": "1,419 Tweets"
+    "rank": 12,
+    "tweet_count": "1,698 Tweets"
   },
   {
     "name": "Christmas",
     "query": "Christmas",
+    "rank": 13,
+    "tweet_count": "250K Tweets"
+  },
+  {
+    "name": "Talkshows",
+    "query": "Talkshows",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Hessen",
+    "query": "Hessen",
     "rank": 15,
-    "tweet_count": "248K Tweets"
+    "tweet_count": "1,457 Tweets"
   },
   {
     "name": "Niedersachsen",
@@ -99,24 +99,24 @@
     "name": "Überzeugung",
     "query": "Überzeugung",
     "rank": 17,
-    "tweet_count": "1,054 Tweets"
+    "tweet_count": "1,068 Tweets"
   },
   {
-    "name": "#AnneWill",
-    "query": "#AnneWill",
+    "name": "#NoNutNovember",
+    "query": "#NoNutNovember",
     "rank": 18,
-    "tweet_count": "10.2K Tweets"
+    "tweet_count": "18.9K Tweets"
+  },
+  {
+    "name": "#COP26Glasgow",
+    "query": "#COP26Glasgow",
+    "rank": 19,
+    "tweet_count": "54.8K Tweets"
   },
   {
     "name": "#NaNoWriMo",
     "query": "#NaNoWriMo",
-    "rank": 19,
-    "tweet_count": "3,656 Tweets"
-  },
-  {
-    "name": "#Lauterbach",
-    "query": "#Lauterbach",
     "rank": 20,
-    "tweet_count": "2,142 Tweets"
+    "tweet_count": "3,740 Tweets"
   }
 ]
