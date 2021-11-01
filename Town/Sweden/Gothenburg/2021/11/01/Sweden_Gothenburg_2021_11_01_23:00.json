@@ -1,15 +1,15 @@
 [
   {
-    "name": "Halloween",
-    "query": "Halloween",
-    "rank": 1,
-    "tweet_count": "3.43M Tweets"
-  },
-  {
     "name": "Krya",
     "query": "Krya",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Halloween",
+    "query": "Halloween",
+    "rank": 2,
+    "tweet_count": "3.29M Tweets"
   },
   {
     "name": "Värnamo",
@@ -18,32 +18,32 @@
     "tweet_count": null
   },
   {
-    "name": "#ifkgbg",
-    "query": "#ifkgbg",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
     "name": "Conte",
     "query": "Conte",
-    "rank": 5,
-    "tweet_count": "259K Tweets"
-  },
-  {
-    "name": "#COP26",
-    "query": "#COP26",
-    "rank": 6,
-    "tweet_count": "616K Tweets"
+    "rank": 4,
+    "tweet_count": "261K Tweets"
   },
   {
     "name": "Chris Pratt",
     "query": "\"Chris Pratt\"",
-    "rank": 7,
-    "tweet_count": "40.1K Tweets"
+    "rank": 5,
+    "tweet_count": "41.5K Tweets"
   },
   {
     "name": "halmstad",
     "query": "halmstad",
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "#COP26",
+    "query": "#COP26",
+    "rank": 7,
+    "tweet_count": "620K Tweets"
+  },
+  {
+    "name": "#ifkgbg",
+    "query": "#ifkgbg",
     "rank": 8,
     "tweet_count": null
   },
@@ -63,7 +63,7 @@
     "name": "Christmas",
     "query": "Christmas",
     "rank": 11,
-    "tweet_count": "469K Tweets"
+    "tweet_count": "472K Tweets"
   },
   {
     "name": "förrätt",
@@ -87,36 +87,36 @@
     "name": "Milos",
     "query": "Milos",
     "rank": 15,
-    "tweet_count": "1,145 Tweets"
-  },
-  {
-    "name": "Blåvitt",
-    "query": "Blåvitt",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "1,148 Tweets"
   },
   {
     "name": "\"Allsvenskan\"",
     "query": "\"Allsvenskan\"",
-    "rank": 17,
-    "tweet_count": "1,880 Tweets"
+    "rank": 16,
+    "tweet_count": "1,882 Tweets"
   },
   {
     "name": "Strand",
     "query": "Strand",
-    "rank": 18,
-    "tweet_count": "3,979 Tweets"
+    "rank": 17,
+    "tweet_count": "4,009 Tweets"
   },
   {
     "name": "Jonas Thern",
     "query": "\"Jonas Thern\"",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Sentio",
     "query": "Sentio",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "Wolf",
+    "query": "Wolf",
+    "rank": 20,
+    "tweet_count": "105K Tweets"
   }
 ]
