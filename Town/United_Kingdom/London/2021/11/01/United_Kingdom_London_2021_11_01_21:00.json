@@ -1,69 +1,69 @@
 [
   {
+    "name": "Florida",
+    "query": "Florida",
+    "rank": 1,
+    "tweet_count": "112K Tweets"
+  },
+  {
     "name": "#coronationstreet",
     "query": "#coronationstreet",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "Bryce",
+    "query": "Bryce",
+    "rank": 3,
+    "tweet_count": "6,120 Tweets"
   },
   {
     "name": "Melissa",
     "query": "Melissa",
-    "rank": 2,
-    "tweet_count": "14.2K Tweets"
+    "rank": 4,
+    "tweet_count": "14.5K Tweets"
+  },
+  {
+    "name": "Sergio",
+    "query": "Sergio",
+    "rank": 5,
+    "tweet_count": "55.8K Tweets"
   },
   {
     "name": "Marley",
     "query": "Marley",
-    "rank": 3,
-    "tweet_count": "7,816 Tweets"
+    "rank": 6,
+    "tweet_count": "8,041 Tweets"
   },
   {
     "name": "#houseofgames",
     "query": "#houseofgames",
-    "rank": 4,
+    "rank": 7,
     "tweet_count": null
-  },
-  {
-    "name": "Iggy",
-    "query": "Iggy",
-    "rank": 5,
-    "tweet_count": "4,360 Tweets"
   },
   {
     "name": "#UTFT",
     "query": "#UTFT",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "Von Miller",
-    "query": "\"Von Miller\"",
-    "rank": 7,
-    "tweet_count": "55.6K Tweets"
-  },
-  {
-    "name": "Modi",
-    "query": "Modi",
     "rank": 8,
-    "tweet_count": "90.8K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#TheBookOfBobaFett",
     "query": "#TheBookOfBobaFett",
     "rank": 9,
-    "tweet_count": "50.4K Tweets"
+    "tweet_count": "51.1K Tweets"
   },
   {
     "name": "Boxing Day",
     "query": "\"Boxing Day\"",
     "rank": 10,
-    "tweet_count": "1,480 Tweets"
+    "tweet_count": "1,499 Tweets"
   },
   {
-    "name": "Melbourne Cup",
-    "query": "\"Melbourne Cup\"",
+    "name": "Modi",
+    "query": "Modi",
     "rank": 11,
-    "tweet_count": "4,731 Tweets"
+    "tweet_count": "91.3K Tweets"
   },
   {
     "name": "Bart Simpson",
@@ -72,45 +72,45 @@
     "tweet_count": null
   },
   {
+    "name": "Melbourne Cup",
+    "query": "\"Melbourne Cup\"",
+    "rank": 13,
+    "tweet_count": "4,934 Tweets"
+  },
+  {
     "name": "Drogba",
     "query": "Drogba",
-    "rank": 13,
-    "tweet_count": "4,939 Tweets"
+    "rank": 14,
+    "tweet_count": "5,045 Tweets"
   },
   {
     "name": "Sleeping",
     "query": "Sleeping",
-    "rank": 14,
-    "tweet_count": "83.5K Tweets"
+    "rank": 15,
+    "tweet_count": "84.8K Tweets"
   },
   {
     "name": "Morgan",
     "query": "Morgan",
-    "rank": 15,
-    "tweet_count": "30.6K Tweets"
-  },
-  {
-    "name": "Cash",
-    "query": "Cash",
     "rank": 16,
-    "tweet_count": "185K Tweets"
+    "tweet_count": "31.2K Tweets"
   },
   {
-    "name": "Rainbow Warrior",
-    "query": "\"Rainbow Warrior\"",
+    "name": "Bellingham",
+    "query": "Bellingham",
     "rank": 17,
-    "tweet_count": "3,790 Tweets"
+    "tweet_count": "2,736 Tweets"
   },
   {
     "name": "Charles",
     "query": "Charles",
     "rank": 18,
-    "tweet_count": "88.4K Tweets"
+    "tweet_count": "90.1K Tweets"
   },
   {
-    "name": "Everton",
-    "query": "Everton",
+    "name": "Cash",
+    "query": "Cash",
     "rank": 19,
-    "tweet_count": "27.5K Tweets"
+    "tweet_count": "188K Tweets"
   }
 ]
