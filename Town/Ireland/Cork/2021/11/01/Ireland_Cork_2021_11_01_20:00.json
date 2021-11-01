@@ -3,43 +3,43 @@
     "name": "Halloween",
     "query": "Halloween",
     "rank": 1,
-    "tweet_count": "1.83M Tweets"
+    "tweet_count": "1.6M Tweets"
   },
   {
     "name": "#COP26",
     "query": "#COP26",
     "rank": 2,
-    "tweet_count": "551K Tweets"
+    "tweet_count": "557K Tweets"
+  },
+  {
+    "name": "Everton",
+    "query": "Everton",
+    "rank": 3,
+    "tweet_count": "23.2K Tweets"
   },
   {
     "name": "Conte",
     "query": "Conte",
-    "rank": 3,
-    "tweet_count": "238K Tweets"
+    "rank": 4,
+    "tweet_count": "239K Tweets"
   },
   {
     "name": "Christmas",
     "query": "Christmas",
-    "rank": 4,
-    "tweet_count": "429K Tweets"
-  },
-  {
-    "name": "#WOLEVE",
-    "query": "#WOLEVE",
     "rank": 5,
-    "tweet_count": "4,608 Tweets"
-  },
-  {
-    "name": "#tommypodcast",
-    "query": "#tommypodcast",
-    "rank": 6,
-    "tweet_count": "2,338 Tweets"
+    "tweet_count": "432K Tweets"
   },
   {
     "name": "#EastEnders",
     "query": "#EastEnders",
+    "rank": 6,
+    "tweet_count": "2,042 Tweets"
+  },
+  {
+    "name": "#tommypodcast",
+    "query": "#tommypodcast",
     "rank": 7,
-    "tweet_count": "1,546 Tweets"
+    "tweet_count": "2,343 Tweets"
   },
   {
     "name": "Kevin Moran",
@@ -54,69 +54,69 @@
     "tweet_count": null
   },
   {
+    "name": "#WorldVeganDay",
+    "query": "#WorldVeganDay",
+    "rank": 10,
+    "tweet_count": "19.9K Tweets"
+  },
+  {
     "name": "Hwang",
     "query": "Hwang",
-    "rank": 10,
-    "tweet_count": "15.6K Tweets"
+    "rank": 11,
+    "tweet_count": "15.8K Tweets"
   },
   {
     "name": "Simon",
     "query": "Simon",
-    "rank": 11,
-    "tweet_count": "53.7K Tweets"
+    "rank": 12,
+    "tweet_count": "54.1K Tweets"
   },
   {
     "name": "1st of November",
     "query": "\"1st of November\"",
-    "rank": 12,
-    "tweet_count": "49K Tweets"
+    "rank": 13,
+    "tweet_count": "49.4K Tweets"
   },
   {
     "name": "Laytown",
     "query": "Laytown",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Claire",
-    "query": "Claire",
     "rank": 14,
-    "tweet_count": "27.8K Tweets"
-  },
-  {
-    "name": "Kane",
-    "query": "Kane",
-    "rank": 15,
-    "tweet_count": "30.3K Tweets"
-  },
-  {
-    "name": "Repression",
-    "query": "Repression",
-    "rank": 16,
-    "tweet_count": "3,156 Tweets"
-  },
-  {
-    "name": "Rest In Peace",
-    "query": "\"Rest In Peace\"",
-    "rank": 17,
-    "tweet_count": "20.2K Tweets"
-  },
-  {
-    "name": "The Aviva Stadium",
-    "query": "\"The Aviva Stadium\"",
-    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "NIAC",
     "query": "NIAC",
-    "rank": 19,
+    "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "Lisbon",
-    "query": "Lisbon",
+    "name": "Claire",
+    "query": "Claire",
+    "rank": 16,
+    "tweet_count": "28K Tweets"
+  },
+  {
+    "name": "repression",
+    "query": "repression",
+    "rank": 17,
+    "tweet_count": "3,185 Tweets"
+  },
+  {
+    "name": "Kane",
+    "query": "Kane",
+    "rank": 18,
+    "tweet_count": "30.4K Tweets"
+  },
+  {
+    "name": "Rest In Peace",
+    "query": "\"Rest In Peace\"",
+    "rank": 19,
+    "tweet_count": "20.3K Tweets"
+  },
+  {
+    "name": "The Aviva Stadium",
+    "query": "\"The Aviva Stadium\"",
     "rank": 20,
-    "tweet_count": "5,133 Tweets"
+    "tweet_count": null
   }
 ]
