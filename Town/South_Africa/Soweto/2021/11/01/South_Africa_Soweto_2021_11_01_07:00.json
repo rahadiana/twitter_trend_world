@@ -1,75 +1,75 @@
 [
   {
-    "name": "#LandAndJobsManje",
-    "query": "#LandAndJobsManje",
+    "name": "#LGE2021",
+    "query": "#LGE2021",
     "rank": 1,
-    "tweet_count": "5,818 Tweets"
+    "tweet_count": "9,924 Tweets"
   },
   {
     "name": "#Elections2021",
     "query": "#Elections2021",
     "rank": 2,
-    "tweet_count": "2,853 Tweets"
-  },
-  {
-    "name": "#LGE2021",
-    "query": "#LGE2021",
-    "rank": 3,
-    "tweet_count": "9,646 Tweets"
+    "tweet_count": "2,951 Tweets"
   },
   {
     "name": "#VoteActionSA",
     "query": "#VoteActionSA",
-    "rank": 4,
-    "tweet_count": "9,389 Tweets"
+    "rank": 3,
+    "tweet_count": "9,659 Tweets"
   },
   {
     "name": "Election Day",
     "query": "\"Election Day\"",
-    "rank": 5,
-    "tweet_count": "19.6K Tweets"
+    "rank": 4,
+    "tweet_count": "19.8K Tweets"
   },
   {
     "name": "#VoteEFF",
     "query": "#VoteEFF",
+    "rank": 5,
+    "tweet_count": "10.9K Tweets"
+  },
+  {
+    "name": "#votingday",
+    "query": "#votingday",
     "rank": 6,
-    "tweet_count": "10.8K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Happy New Month",
     "query": "\"Happy New Month\"",
     "rank": 7,
-    "tweet_count": "33.5K Tweets"
+    "tweet_count": "35.3K Tweets"
   },
   {
     "name": "Mampintsha",
     "query": "Mampintsha",
     "rank": 8,
-    "tweet_count": "1,920 Tweets"
+    "tweet_count": "2,016 Tweets"
+  },
+  {
+    "name": "Prof",
+    "query": "Prof",
+    "rank": 9,
+    "tweet_count": "64.4K Tweets"
   },
   {
     "name": "iPhone 6",
     "query": "\"iPhone 6\"",
-    "rank": 9,
-    "tweet_count": "16.2K Tweets"
+    "rank": 10,
+    "tweet_count": "16.6K Tweets"
   },
   {
     "name": "Babes",
     "query": "Babes",
-    "rank": 10,
-    "tweet_count": "24.1K Tweets"
+    "rank": 11,
+    "tweet_count": "24.2K Tweets"
   },
   {
     "name": "Andile",
     "query": "Andile",
-    "rank": 11,
-    "tweet_count": "7,124 Tweets"
-  },
-  {
-    "name": "#votingday",
-    "query": "#votingday",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "7,188 Tweets"
   },
   {
     "name": "#localgovernmentelections",
@@ -81,13 +81,13 @@
     "name": "#VoetsekANC",
     "query": "#VoetsekANC",
     "rank": 14,
-    "tweet_count": "8,293 Tweets"
+    "tweet_count": "8,389 Tweets"
   },
   {
     "name": "#VoteANC",
     "query": "#VoteANC",
     "rank": 15,
-    "tweet_count": "10.6K Tweets"
+    "tweet_count": "10.7K Tweets"
   },
   {
     "name": "#SADecides2021",
@@ -102,15 +102,21 @@
     "tweet_count": null
   },
   {
+    "name": "#LandAndJobsManje",
+    "query": "#LandAndJobsManje",
+    "rank": 18,
+    "tweet_count": "5,861 Tweets"
+  },
+  {
     "name": "#VoteDA",
     "query": "#VoteDA",
-    "rank": 18,
-    "tweet_count": "2,119 Tweets"
+    "rank": 19,
+    "tweet_count": "2,163 Tweets"
   },
   {
     "name": "#VoetsekEFF",
     "query": "#VoetsekEFF",
-    "rank": 19,
+    "rank": 20,
     "tweet_count": null
   }
 ]
