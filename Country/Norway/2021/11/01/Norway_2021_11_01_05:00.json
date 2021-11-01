@@ -1,67 +1,67 @@
 [
   {
-    "name": "Halloween",
-    "query": "Halloween",
-    "rank": 1,
-    "tweet_count": "5.09M Tweets"
-  },
-  {
     "name": "#halloween2021",
     "query": "#halloween2021",
-    "rank": 2,
-    "tweet_count": "1.16M Tweets"
+    "rank": 1,
+    "tweet_count": "1.17M Tweets"
   },
   {
-    "name": "#stjernekamp",
-    "query": "#stjernekamp",
-    "rank": 3,
+    "name": "#Stjernekamp",
+    "query": "#Stjernekamp",
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Molde",
     "query": "Molde",
-    "rank": 4,
-    "tweet_count": "2,497 Tweets"
-  },
-  {
-    "name": "Sandviken",
-    "query": "Sandviken",
-    "rank": 5,
-    "tweet_count": null
+    "rank": 3,
+    "tweet_count": "2,500 Tweets"
   },
   {
     "name": "drammen",
     "query": "drammen",
-    "rank": 6,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "#eliteserien",
     "query": "#eliteserien",
-    "rank": 7,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Godset",
     "query": "Godset",
-    "rank": 8,
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "Sandviken",
+    "query": "Sandviken",
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "#TOTMUN",
     "query": "#TOTMUN",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": "13.5K Tweets"
   },
   {
-    "name": "intility",
-    "query": "intility",
+    "name": "Intility",
+    "query": "Intility",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Erling Moe",
+    "query": "\"Erling Moe\"",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "erling moe",
-    "query": "\"erling moe\"",
+    "name": "#studioglimt",
+    "query": "#studioglimt",
     "rank": 11,
     "tweet_count": null
   },
@@ -69,11 +69,11 @@
     "name": "Flint",
     "query": "Flint",
     "rank": 12,
-    "tweet_count": "2,219 Tweets"
+    "tweet_count": "2,221 Tweets"
   },
   {
-    "name": "#studioglimt",
-    "query": "#studioglimt",
+    "name": "egersund",
+    "query": "egersund",
     "rank": 13,
     "tweet_count": null
   },
@@ -84,38 +84,38 @@
     "tweet_count": null
   },
   {
-    "name": "egersund",
-    "query": "egersund",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
     "name": "bjørn",
     "query": "bjørn",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Nuno",
     "query": "Nuno",
-    "rank": 17,
-    "tweet_count": "38.7K Tweets"
+    "rank": 16,
+    "tweet_count": "38.8K Tweets"
   },
   {
-    "name": "Aspmyra",
-    "query": "Aspmyra",
-    "rank": 18,
+    "name": "aspmyra",
+    "query": "aspmyra",
+    "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Marienlyst",
-    "query": "Marienlyst",
-    "rank": 19,
+    "name": "marienlyst",
+    "query": "marienlyst",
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "dostojevskij",
     "query": "dostojevskij",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Sarpsborg 08",
+    "query": "\"Sarpsborg 08\"",
     "rank": 20,
     "tweet_count": null
   }
