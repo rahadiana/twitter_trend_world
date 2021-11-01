@@ -3,37 +3,37 @@
     "name": "Halloween",
     "query": "Halloween",
     "rank": 1,
-    "tweet_count": "1.63M Tweets"
+    "tweet_count": "1.6M Tweets"
   },
   {
     "name": "#COP26",
     "query": "#COP26",
     "rank": 2,
-    "tweet_count": "557K Tweets"
+    "tweet_count": "564K Tweets"
   },
   {
     "name": "#Allerheiligen",
     "query": "#Allerheiligen",
     "rank": 3,
-    "tweet_count": "1,734 Tweets"
+    "tweet_count": "1,739 Tweets"
   },
   {
     "name": "Moderna",
     "query": "Moderna",
     "rank": 4,
-    "tweet_count": "39.7K Tweets"
-  },
-  {
-    "name": "Christmas",
-    "query": "Christmas",
-    "rank": 5,
-    "tweet_count": "433K Tweets"
+    "tweet_count": "39.9K Tweets"
   },
   {
     "name": "#SCRASK",
     "query": "#SCRASK",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "Christmas",
+    "query": "Christmas",
+    "rank": 6,
+    "tweet_count": "437K Tweets"
   },
   {
     "name": "Furz",
@@ -45,19 +45,19 @@
     "name": "Feiertag",
     "query": "Feiertag",
     "rank": 8,
-    "tweet_count": "6,159 Tweets"
+    "tweet_count": "6,167 Tweets"
   },
   {
-    "name": "#Wagenknecht",
-    "query": "#Wagenknecht",
+    "name": "Wagenknecht",
+    "query": "Wagenknecht",
     "rank": 9,
-    "tweet_count": "14.3K Tweets"
+    "tweet_count": "26.8K Tweets"
   },
   {
     "name": "Biontech",
     "query": "Biontech",
     "rank": 10,
-    "tweet_count": "10.1K Tweets"
+    "tweet_count": "10.2K Tweets"
   },
   {
     "name": "Ilse Aichinger",
@@ -75,19 +75,19 @@
     "name": "Astra",
     "query": "Astra",
     "rank": 13,
-    "tweet_count": "7,171 Tweets"
-  },
-  {
-    "name": "#ARSD",
-    "query": "#ARSD",
-    "rank": 14,
-    "tweet_count": "326K Tweets"
+    "tweet_count": "7,229 Tweets"
   },
   {
     "name": "Adresse",
     "query": "Adresse",
+    "rank": 14,
+    "tweet_count": "5,060 Tweets"
+  },
+  {
+    "name": "#ARSD",
+    "query": "#ARSD",
     "rank": 15,
-    "tweet_count": "5,020 Tweets"
+    "tweet_count": "327K Tweets"
   },
   {
     "name": "Pfizer",
@@ -96,27 +96,27 @@
     "tweet_count": "116K Tweets"
   },
   {
+    "name": "#viennablood",
+    "query": "#viennablood",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
     "name": "Doskozil",
     "query": "Doskozil",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Impressum",
     "query": "Impressum",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "hobi",
     "query": "hobi",
-    "rank": 19,
-    "tweet_count": "186K Tweets"
-  },
-  {
-    "name": "Muster",
-    "query": "Muster",
     "rank": 20,
-    "tweet_count": "5,225 Tweets"
+    "tweet_count": "186K Tweets"
   }
 ]

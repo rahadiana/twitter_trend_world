@@ -3,13 +3,13 @@
     "name": "Halloween",
     "query": "Halloween",
     "rank": 1,
-    "tweet_count": "1.57M Tweets"
+    "tweet_count": "1.6M Tweets"
   },
   {
     "name": "#COP26",
     "query": "#COP26",
     "rank": 2,
-    "tweet_count": "557K Tweets"
+    "tweet_count": "564K Tweets"
   },
   {
     "name": "מזל טוב איה",
@@ -21,7 +21,7 @@
     "name": "#ישראלמתאבדת",
     "query": "#ישראלמתאבדת",
     "rank": 4,
-    "tweet_count": "1,098 Tweets"
+    "tweet_count": "1,107 Tweets"
   },
   {
     "name": "מס חמאס",
@@ -33,13 +33,13 @@
     "name": "Conte",
     "query": "Conte",
     "rank": 6,
-    "tweet_count": "239K Tweets"
+    "tweet_count": "240K Tweets"
   },
   {
     "name": "של בנט",
     "query": "\"של בנט\"",
     "rank": 7,
-    "tweet_count": "2,167 Tweets"
+    "tweet_count": "2,193 Tweets"
   },
   {
     "name": "hobi",
@@ -51,7 +51,7 @@
     "name": "Christmas",
     "query": "Christmas",
     "rank": 9,
-    "tweet_count": "433K Tweets"
+    "tweet_count": "437K Tweets"
   },
   {
     "name": "שבוע טוב",
@@ -60,28 +60,28 @@
     "tweet_count": null
   },
   {
+    "name": "Hezbollah",
+    "query": "Hezbollah",
+    "rank": 11,
+    "tweet_count": "2,953 Tweets"
+  },
+  {
     "name": "יום אחד",
     "query": "\"יום אחד\"",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "מס עבאס",
     "query": "\"מס עבאס\"",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Hezbollah",
-    "query": "Hezbollah",
     "rank": 13,
-    "tweet_count": "2,926 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Bibi",
     "query": "Bibi",
     "rank": 14,
-    "tweet_count": "18.5K Tweets"
+    "tweet_count": "18.6K Tweets"
   },
   {
     "name": "תומך טרור",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
+    "name": "Spurs",
+    "query": "Spurs",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
     "name": "של דרעי",
     "query": "\"של דרעי\"",
-    "rank": 16,
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "ברוך ה",
+    "query": "\"ברוך ה\"",
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Yemen",
     "query": "Yemen",
-    "rank": 17,
-    "tweet_count": "14K Tweets"
+    "rank": 19,
+    "tweet_count": "14.2K Tweets"
   },
   {
     "name": "Bible",
     "query": "Bible",
-    "rank": 18,
-    "tweet_count": "58.3K Tweets"
-  },
-  {
-    "name": "ברוך ה",
-    "query": "\"ברוך ה\"",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "וזה עוד",
-    "query": "\"וזה עוד\"",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "58.6K Tweets"
   }
 ]
