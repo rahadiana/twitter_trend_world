@@ -1,21 +1,21 @@
 [
   {
-    "name": "Malema",
-    "query": "Malema",
-    "rank": 1,
-    "tweet_count": "11.3K Tweets"
-  },
-  {
     "name": "Mashaba",
     "query": "Mashaba",
-    "rank": 2,
-    "tweet_count": "6,353 Tweets"
+    "rank": 1,
+    "tweet_count": "6,543 Tweets"
   },
   {
     "name": "#ElectionResults2021",
     "query": "#ElectionResults2021",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "Malema",
+    "query": "Malema",
+    "rank": 3,
+    "tweet_count": "11.5K Tweets"
   },
   {
     "name": "#LGE21",
@@ -27,7 +27,7 @@
     "name": "DA and ANC",
     "query": "\"DA and ANC\"",
     "rank": 5,
-    "tweet_count": "6,713 Tweets"
+    "tweet_count": "6,843 Tweets"
   },
   {
     "name": "#ThomasAndSkhumba",
@@ -36,16 +36,16 @@
     "tweet_count": null
   },
   {
-    "name": "Action SA",
-    "query": "\"Action SA\"",
+    "name": "ActionSA",
+    "query": "ActionSA",
     "rank": 7,
-    "tweet_count": "11.8K Tweets"
+    "tweet_count": "5,735 Tweets"
   },
   {
     "name": "Eastern Cape",
     "query": "\"Eastern Cape\"",
     "rank": 8,
-    "tweet_count": "3,232 Tweets"
+    "tweet_count": "3,324 Tweets"
   },
   {
     "name": "#powerbreakfast",
@@ -57,25 +57,25 @@
     "name": "Ekurhuleni",
     "query": "Ekurhuleni",
     "rank": 10,
-    "tweet_count": "2,016 Tweets"
+    "tweet_count": "2,065 Tweets"
   },
   {
     "name": "The EFF",
     "query": "\"The EFF\"",
     "rank": 11,
-    "tweet_count": "20.3K Tweets"
+    "tweet_count": "20.6K Tweets"
   },
   {
     "name": "Gauteng",
     "query": "Gauteng",
     "rank": 12,
-    "tweet_count": "4,704 Tweets"
+    "tweet_count": "4,771 Tweets"
   },
   {
     "name": "Tshwane",
     "query": "Tshwane",
     "rank": 13,
-    "tweet_count": "2,724 Tweets"
+    "tweet_count": "2,776 Tweets"
   },
   {
     "name": "Youth",
@@ -87,36 +87,36 @@
     "name": "Johannesburg",
     "query": "Johannesburg",
     "rank": 15,
-    "tweet_count": "5,205 Tweets"
+    "tweet_count": "5,253 Tweets"
   },
   {
     "name": "The IEC",
     "query": "\"The IEC\"",
     "rank": 16,
-    "tweet_count": "15.3K Tweets"
+    "tweet_count": "15.5K Tweets"
   },
   {
     "name": "Soweto",
     "query": "Soweto",
     "rank": 17,
-    "tweet_count": "9,103 Tweets"
-  },
-  {
-    "name": "Cope",
-    "query": "Cope",
-    "rank": 18,
-    "tweet_count": "31.5K Tweets"
+    "tweet_count": "9,183 Tweets"
   },
   {
     "name": "#localgovernmentelections",
     "query": "#localgovernmentelections",
-    "rank": 19,
-    "tweet_count": "1,057 Tweets"
+    "rank": 18,
+    "tweet_count": "1,074 Tweets"
   },
   {
-    "name": "#COP26",
-    "query": "#COP26",
+    "name": "COPE",
+    "query": "COPE",
+    "rank": 19,
+    "tweet_count": "31.5K Tweets"
+  },
+  {
+    "name": "Zille",
+    "query": "Zille",
     "rank": 20,
-    "tweet_count": "696K Tweets"
+    "tweet_count": "8,021 Tweets"
   }
 ]
