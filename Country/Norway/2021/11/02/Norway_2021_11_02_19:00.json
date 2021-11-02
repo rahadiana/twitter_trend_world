@@ -1,21 +1,21 @@
 [
   {
-    "name": "#dax18",
-    "query": "#dax18",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#COP26",
     "query": "#COP26",
+    "rank": 1,
+    "tweet_count": "718K Tweets"
+  },
+  {
+    "name": "#dax18",
+    "query": "#dax18",
     "rank": 2,
-    "tweet_count": "709K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Conte",
     "query": "Conte",
     "rank": 3,
-    "tweet_count": "272K Tweets"
+    "tweet_count": "274K Tweets"
   },
   {
     "name": "støre",
@@ -33,7 +33,7 @@
     "name": "Emil Pálsson",
     "query": "\"Emil Pálsson\"",
     "rank": 6,
-    "tweet_count": "2,933 Tweets"
+    "tweet_count": "2,971 Tweets"
   },
   {
     "name": "HamKam",
@@ -48,28 +48,28 @@
     "tweet_count": null
   },
   {
-    "name": "Chris Pratt",
-    "query": "\"Chris Pratt\"",
-    "rank": 9,
-    "tweet_count": "158K Tweets"
-  },
-  {
     "name": "Thomas Lehne Olsen",
     "query": "\"Thomas Lehne Olsen\"",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
+  },
+  {
+    "name": "Chris Pratt",
+    "query": "\"Chris Pratt\"",
+    "rank": 10,
+    "tweet_count": "160K Tweets"
   },
   {
     "name": "#COYS",
     "query": "#COYS",
     "rank": 11,
-    "tweet_count": "9,489 Tweets"
+    "tweet_count": "9,541 Tweets"
   },
   {
     "name": "Halloween",
     "query": "Halloween",
     "rank": 12,
-    "tweet_count": "1.82M Tweets"
+    "tweet_count": "1.83M Tweets"
   },
   {
     "name": "Bjørkan",
@@ -87,7 +87,7 @@
     "name": "Spurs",
     "query": "Spurs",
     "rank": 15,
-    "tweet_count": "104K Tweets"
+    "tweet_count": "105K Tweets"
   },
   {
     "name": "martin kolberg",
@@ -99,7 +99,7 @@
     "name": "Christmas",
     "query": "Christmas",
     "rank": 17,
-    "tweet_count": "443K Tweets"
+    "tweet_count": "447K Tweets"
   },
   {
     "name": "Kamma",
@@ -117,6 +117,6 @@
     "name": "Pogba",
     "query": "Pogba",
     "rank": 20,
-    "tweet_count": "11.2K Tweets"
+    "tweet_count": "11.6K Tweets"
   }
 ]
