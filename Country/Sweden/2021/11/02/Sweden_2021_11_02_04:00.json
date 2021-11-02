@@ -1,7 +1,7 @@
 [
   {
-    "name": "Värnamo",
-    "query": "Värnamo",
+    "name": "värnamo",
+    "query": "värnamo",
     "rank": 1,
     "tweet_count": null
   },
@@ -9,7 +9,7 @@
     "name": "Halloween",
     "query": "Halloween",
     "rank": 2,
-    "tweet_count": "3.93M Tweets"
+    "tweet_count": "3.95M Tweets"
   },
   {
     "name": "Krya",
@@ -21,19 +21,19 @@
     "name": "Conte",
     "query": "Conte",
     "rank": 4,
-    "tweet_count": "276K Tweets"
+    "tweet_count": "277K Tweets"
   },
   {
-    "name": "#ifkgbg",
-    "query": "#ifkgbg",
+    "name": "Happy Halloween",
+    "query": "\"Happy Halloween\"",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "998K Tweets"
   },
   {
     "name": "#COP26",
     "query": "#COP26",
     "rank": 6,
-    "tweet_count": "674K Tweets"
+    "tweet_count": "678K Tweets"
   },
   {
     "name": "Halmstad",
@@ -48,10 +48,10 @@
     "tweet_count": null
   },
   {
-    "name": "Christmas",
-    "query": "Christmas",
+    "name": "#ifkgbg",
+    "query": "#ifkgbg",
     "rank": 9,
-    "tweet_count": "505K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Bartosz",
@@ -60,56 +60,56 @@
     "tweet_count": null
   },
   {
+    "name": "Christmas",
+    "query": "Christmas",
+    "rank": 11,
+    "tweet_count": "510K Tweets"
+  },
+  {
+    "name": "allsvenskan",
+    "query": "allsvenskan",
+    "rank": 12,
+    "tweet_count": "1,905 Tweets"
+  },
+  {
     "name": "Milos",
     "query": "Milos",
-    "rank": 11,
-    "tweet_count": "1,191 Tweets"
-  },
-  {
-    "name": "Allsvenskan",
-    "query": "Allsvenskan",
-    "rank": 12,
-    "tweet_count": "1,903 Tweets"
-  },
-  {
-    "name": "Strand",
-    "query": "Strand",
     "rank": 13,
-    "tweet_count": "3,899 Tweets"
+    "tweet_count": "1,204 Tweets"
+  },
+  {
+    "name": "strand",
+    "query": "strand",
+    "rank": 14,
+    "tweet_count": "3,928 Tweets"
   },
   {
     "name": "Chris Pratt",
     "query": "\"Chris Pratt\"",
-    "rank": 14,
-    "tweet_count": "77.6K Tweets"
-  },
-  {
-    "name": "Mjällby",
-    "query": "Mjällby",
     "rank": 15,
-    "tweet_count": null
+    "tweet_count": "79.4K Tweets"
   },
   {
-    "name": "Jonas Thern",
-    "query": "\"Jonas Thern\"",
+    "name": "Amoo",
+    "query": "Amoo",
     "rank": 16,
+    "tweet_count": "11.5K Tweets"
+  },
+  {
+    "name": "jonas thern",
+    "query": "\"jonas thern\"",
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Wolf",
     "query": "Wolf",
-    "rank": 17,
-    "tweet_count": "98K Tweets"
-  },
-  {
-    "name": "Amoo",
-    "query": "Amoo",
     "rank": 18,
-    "tweet_count": "11.4K Tweets"
+    "tweet_count": "99K Tweets"
   },
   {
-    "name": "dree low",
-    "query": "\"dree low\"",
+    "name": "Mjällby",
+    "query": "Mjällby",
     "rank": 19,
     "tweet_count": null
   },
