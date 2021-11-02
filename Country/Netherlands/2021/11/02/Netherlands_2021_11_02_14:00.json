@@ -3,17 +3,17 @@
     "name": "Amsterdam Dance Event",
     "query": "\"Amsterdam Dance Event\"",
     "rank": 1,
+    "tweet_count": "1,009 Tweets"
+  },
+  {
+    "name": "Gezondheidsraad",
+    "query": "Gezondheidsraad",
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#vragenuurtje",
     "query": "#vragenuurtje",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "Gezondheidsraad",
-    "query": "Gezondheidsraad",
     "rank": 3,
     "tweet_count": null
   },
@@ -21,13 +21,13 @@
     "name": "#ikdoenietmeermee",
     "query": "#ikdoenietmeermee",
     "rank": 4,
-    "tweet_count": "2,230 Tweets"
+    "tweet_count": "2,276 Tweets"
   },
   {
     "name": "#persconferentie",
     "query": "#persconferentie",
     "rank": 5,
-    "tweet_count": "6,364 Tweets"
+    "tweet_count": "6,474 Tweets"
   },
   {
     "name": "Volendam",
@@ -45,25 +45,25 @@
     "name": "#QRweigeraar",
     "query": "#QRweigeraar",
     "rank": 8,
-    "tweet_count": "1,343 Tweets"
+    "tweet_count": "1,368 Tweets"
   },
   {
     "name": "Mondkapje",
     "query": "Mondkapje",
     "rank": 9,
-    "tweet_count": "3,976 Tweets"
+    "tweet_count": "3,997 Tweets"
   },
   {
     "name": "Brussel",
     "query": "Brussel",
     "rank": 10,
-    "tweet_count": "2,595 Tweets"
+    "tweet_count": "2,625 Tweets"
   },
   {
     "name": "Theo van Gogh",
     "query": "\"Theo van Gogh\"",
     "rank": 11,
-    "tweet_count": "2,103 Tweets"
+    "tweet_count": "2,122 Tweets"
   },
   {
     "name": "Spurs",
@@ -75,23 +75,23 @@
     "name": "Grapperhaus",
     "query": "Grapperhaus",
     "rank": 13,
-    "tweet_count": "1,219 Tweets"
+    "tweet_count": "1,239 Tweets"
+  },
+  {
+    "name": "Conte",
+    "query": "Conte",
+    "rank": 14,
+    "tweet_count": "265K Tweets"
   },
   {
     "name": "Anton",
     "query": "Anton",
-    "rank": 14,
-    "tweet_count": "8,952 Tweets"
+    "rank": 15,
+    "tweet_count": "9,019 Tweets"
   },
   {
     "name": "#coronapaspoort",
     "query": "#coronapaspoort",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "#Allerzielen",
-    "query": "#Allerzielen",
     "rank": 16,
     "tweet_count": null
   },
@@ -99,18 +99,24 @@
     "name": "#VaccinatieSchade",
     "query": "#VaccinatieSchade",
     "rank": 17,
-    "tweet_count": "1,715 Tweets"
+    "tweet_count": "1,757 Tweets"
+  },
+  {
+    "name": "#Allerzielen",
+    "query": "#Allerzielen",
+    "rank": 18,
+    "tweet_count": null
   },
   {
     "name": "#sportschool",
     "query": "#sportschool",
-    "rank": 18,
-    "tweet_count": "1,153 Tweets"
+    "rank": 19,
+    "tweet_count": "1,154 Tweets"
   },
   {
     "name": "#nexit",
     "query": "#nexit",
-    "rank": 19,
+    "rank": 20,
     "tweet_count": null
   }
 ]
