@@ -1,51 +1,51 @@
 [
   {
-    "name": "#Elections2021",
-    "query": "#Elections2021",
-    "rank": 1,
-    "tweet_count": "28.5K Tweets"
-  },
-  {
     "name": "South Africans",
     "query": "\"South Africans\"",
-    "rank": 2,
-    "tweet_count": "10.9K Tweets"
+    "rank": 1,
+    "tweet_count": "11.3K Tweets"
   },
   {
     "name": "Soweto",
     "query": "Soweto",
-    "rank": 3,
-    "tweet_count": "8,865 Tweets"
+    "rank": 2,
+    "tweet_count": "9,019 Tweets"
   },
   {
     "name": "Julius",
     "query": "Julius",
-    "rank": 4,
-    "tweet_count": "29.6K Tweets"
+    "rank": 3,
+    "tweet_count": "30.1K Tweets"
   },
   {
     "name": "#ElectionResults2021",
     "query": "#ElectionResults2021",
+    "rank": 4,
+    "tweet_count": "1,343 Tweets"
+  },
+  {
+    "name": "Malema",
+    "query": "Malema",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "12.6K Tweets"
   },
   {
     "name": "Mashaba",
     "query": "Mashaba",
     "rank": 6,
-    "tweet_count": "7,057 Tweets"
+    "tweet_count": "7,501 Tweets"
   },
   {
-    "name": "Malema",
-    "query": "Malema",
+    "name": "Eastern Cape",
+    "query": "\"Eastern Cape\"",
     "rank": 7,
-    "tweet_count": "11.9K Tweets"
+    "tweet_count": "3,916 Tweets"
   },
   {
     "name": "da and anc",
     "query": "\"da and anc\"",
     "rank": 8,
-    "tweet_count": "7,147 Tweets"
+    "tweet_count": "7,421 Tweets"
   },
   {
     "name": "#LGE21",
@@ -54,16 +54,16 @@
     "tweet_count": null
   },
   {
-    "name": "Eastern Cape",
-    "query": "\"Eastern Cape\"",
+    "name": "Ekurhuleni",
+    "query": "Ekurhuleni",
     "rank": 10,
-    "tweet_count": "3,612 Tweets"
+    "tweet_count": "2,604 Tweets"
   },
   {
-    "name": "ActionSA",
-    "query": "ActionSA",
+    "name": "Uncle Waffles",
+    "query": "\"Uncle Waffles\"",
     "rank": 11,
-    "tweet_count": "5,927 Tweets"
+    "tweet_count": "1,658 Tweets"
   },
   {
     "name": "#ThomasAndSkhumba",
@@ -72,51 +72,51 @@
     "tweet_count": null
   },
   {
-    "name": "The EFF",
-    "query": "\"The EFF\"",
-    "rank": 13,
-    "tweet_count": "21.2K Tweets"
-  },
-  {
-    "name": "Uncle Waffles",
-    "query": "\"Uncle Waffles\"",
-    "rank": 14,
-    "tweet_count": "1,476 Tweets"
-  },
-  {
     "name": "Gauteng",
     "query": "Gauteng",
+    "rank": 13,
+    "tweet_count": "5,126 Tweets"
+  },
+  {
+    "name": "Action SA",
+    "query": "\"Action SA\"",
+    "rank": 14,
+    "tweet_count": "12.3K Tweets"
+  },
+  {
+    "name": "The EFF",
+    "query": "\"The EFF\"",
     "rank": 15,
-    "tweet_count": "4,881 Tweets"
-  },
-  {
-    "name": "Ekurhuleni",
-    "query": "Ekurhuleni",
-    "rank": 16,
-    "tweet_count": "2,335 Tweets"
-  },
-  {
-    "name": "#powerbreakfast",
-    "query": "#powerbreakfast",
-    "rank": 17,
-    "tweet_count": null
+    "tweet_count": "22.2K Tweets"
   },
   {
     "name": "Adiwele",
     "query": "Adiwele",
-    "rank": 18,
-    "tweet_count": "1,024 Tweets"
+    "rank": 16,
+    "tweet_count": "1,154 Tweets"
   },
   {
     "name": "Tshwane",
     "query": "Tshwane",
-    "rank": 19,
-    "tweet_count": "2,909 Tweets"
+    "rank": 17,
+    "tweet_count": "3,074 Tweets"
+  },
+  {
+    "name": "Petrol",
+    "query": "Petrol",
+    "rank": 18,
+    "tweet_count": "43.9K Tweets"
   },
   {
     "name": "Limpopo",
     "query": "Limpopo",
+    "rank": 19,
+    "tweet_count": "3,944 Tweets"
+  },
+  {
+    "name": "Elections",
+    "query": "Elections",
     "rank": 20,
-    "tweet_count": "3,839 Tweets"
+    "tweet_count": "122K Tweets"
   }
 ]
