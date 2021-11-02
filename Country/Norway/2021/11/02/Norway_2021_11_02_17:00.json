@@ -1,31 +1,31 @@
 [
   {
-    "name": "#COP26",
-    "query": "#COP26",
-    "rank": 1,
-    "tweet_count": "726K Tweets"
-  },
-  {
     "name": "#dax18",
     "query": "#dax18",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "Høyre",
-    "query": "Høyre",
-    "rank": 3,
-    "tweet_count": null
+    "name": "#COP26",
+    "query": "#COP26",
+    "rank": 2,
+    "tweet_count": "736K Tweets"
   },
   {
     "name": "Conte",
     "query": "Conte",
-    "rank": 4,
-    "tweet_count": "270K Tweets"
+    "rank": 3,
+    "tweet_count": "274K Tweets"
   },
   {
-    "name": "Støre",
-    "query": "Støre",
+    "name": "Høyre",
+    "query": "Høyre",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "støre",
+    "query": "støre",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,7 +33,7 @@
     "name": "Emil Pálsson",
     "query": "\"Emil Pálsson\"",
     "rank": 6,
-    "tweet_count": "2,883 Tweets"
+    "tweet_count": "2,924 Tweets"
   },
   {
     "name": "thomas lehne olsen",
@@ -57,13 +57,13 @@
     "name": "Chris Pratt",
     "query": "\"Chris Pratt\"",
     "rank": 10,
-    "tweet_count": "144K Tweets"
+    "tweet_count": "147K Tweets"
   },
   {
     "name": "Spurs",
     "query": "Spurs",
     "rank": 11,
-    "tweet_count": "107K Tweets"
+    "tweet_count": "109K Tweets"
   },
   {
     "name": "Bjørkan",
@@ -78,44 +78,44 @@
     "tweet_count": null
   },
   {
-    "name": "#COYS",
-    "query": "#COYS",
-    "rank": 14,
-    "tweet_count": "9,655 Tweets"
-  },
-  {
     "name": "Halloween",
     "query": "Halloween",
-    "rank": 15,
-    "tweet_count": "2.02M Tweets"
+    "rank": 14,
+    "tweet_count": "2.03M Tweets"
   },
   {
     "name": "#SSC2021",
     "query": "#SSC2021",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Kane",
     "query": "Kane",
-    "rank": 17,
-    "tweet_count": "26.9K Tweets"
+    "rank": 16,
+    "tweet_count": "27.2K Tweets"
   },
   {
     "name": "kamma",
     "query": "kamma",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "sandnes",
     "query": "sandnes",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "martin kolberg",
     "query": "\"martin kolberg\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Strømmen",
+    "query": "Strømmen",
     "rank": 20,
     "tweet_count": null
   }
