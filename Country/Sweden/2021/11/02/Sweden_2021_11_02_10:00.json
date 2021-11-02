@@ -1,15 +1,15 @@
 [
   {
-    "name": "Värnamo",
-    "query": "Värnamo",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#COP26",
     "query": "#COP26",
+    "rank": 1,
+    "tweet_count": "742K Tweets"
+  },
+  {
+    "name": "Värnamo",
+    "query": "Värnamo",
     "rank": 2,
-    "tweet_count": "738K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Krya",
@@ -27,11 +27,11 @@
     "name": "Happy Halloween",
     "query": "\"Happy Halloween\"",
     "rank": 5,
-    "tweet_count": "41.4K Tweets"
+    "tweet_count": "41.5K Tweets"
   },
   {
-    "name": "abdirizak waberi",
-    "query": "\"abdirizak waberi\"",
+    "name": "Abdirizak Waberi",
+    "query": "\"Abdirizak Waberi\"",
     "rank": 6,
     "tweet_count": null
   },
@@ -45,7 +45,7 @@
     "name": "Somalia",
     "query": "Somalia",
     "rank": 8,
-    "tweet_count": "8,069 Tweets"
+    "tweet_count": "8,119 Tweets"
   },
   {
     "name": "Bartosz",
@@ -54,16 +54,16 @@
     "tweet_count": null
   },
   {
-    "name": "Conte",
-    "query": "Conte",
-    "rank": 10,
-    "tweet_count": "261K Tweets"
-  },
-  {
     "name": "Klarna",
     "query": "Klarna",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
+  },
+  {
+    "name": "Conte",
+    "query": "Conte",
+    "rank": 11,
+    "tweet_count": "262K Tweets"
   },
   {
     "name": "Halmstad",
@@ -75,7 +75,7 @@
     "name": "Chris Pratt",
     "query": "\"Chris Pratt\"",
     "rank": 13,
-    "tweet_count": "100K Tweets"
+    "tweet_count": "101K Tweets"
   },
   {
     "name": "#ifkgbg",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
-    "name": "Hertz",
-    "query": "Hertz",
-    "rank": 16,
-    "tweet_count": "13K Tweets"
-  },
-  {
     "name": "Greta",
     "query": "Greta",
-    "rank": 17,
-    "tweet_count": "67.4K Tweets"
-  },
-  {
-    "name": "milos",
-    "query": "milos",
-    "rank": 18,
-    "tweet_count": "1,495 Tweets"
+    "rank": 16,
+    "tweet_count": "67.7K Tweets"
   },
   {
     "name": "Amoo",
     "query": "Amoo",
-    "rank": 19,
+    "rank": 17,
     "tweet_count": "11.5K Tweets"
+  },
+  {
+    "name": "Hertz",
+    "query": "Hertz",
+    "rank": 18,
+    "tweet_count": "13.1K Tweets"
   },
   {
     "name": "vilhelmsson",
     "query": "vilhelmsson",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "Milos",
+    "query": "Milos",
+    "rank": 20,
+    "tweet_count": "1,509 Tweets"
   }
 ]
