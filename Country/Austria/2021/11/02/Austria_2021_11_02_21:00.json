@@ -27,25 +27,25 @@
     "name": "#WOBSAL",
     "query": "#WOBSAL",
     "rank": 5,
-    "tweet_count": "1,413 Tweets"
+    "tweet_count": "1,415 Tweets"
+  },
+  {
+    "name": "Schnitt",
+    "query": "Schnitt",
+    "rank": 6,
+    "tweet_count": null
   },
   {
     "name": "Oberösterreich",
     "query": "Oberösterreich",
-    "rank": 6,
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Wolfsburg",
     "query": "Wolfsburg",
-    "rank": 7,
-    "tweet_count": "7,853 Tweets"
-  },
-  {
-    "name": "Schnitt",
-    "query": "Schnitt",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "7,884 Tweets"
   },
   {
     "name": "Drohung",
@@ -57,13 +57,13 @@
     "name": "Christmas",
     "query": "Christmas",
     "rank": 10,
-    "tweet_count": "424K Tweets"
+    "tweet_count": "426K Tweets"
   },
   {
-    "name": "Halloween",
-    "query": "Halloween",
+    "name": "Bevölkerung",
+    "query": "Bevölkerung",
     "rank": 11,
-    "tweet_count": "1.66M Tweets"
+    "tweet_count": "3,760 Tweets"
   },
   {
     "name": "Innenminister",
@@ -75,48 +75,48 @@
     "name": "Thoma",
     "query": "Thoma",
     "rank": 13,
-    "tweet_count": "124K Tweets"
-  },
-  {
-    "name": "Gedenken",
-    "query": "Gedenken",
-    "rank": 14,
-    "tweet_count": "1,343 Tweets"
+    "tweet_count": "125K Tweets"
   },
   {
     "name": "Hu Tao",
     "query": "\"Hu Tao\"",
-    "rank": 15,
-    "tweet_count": "139K Tweets"
+    "rank": 14,
+    "tweet_count": "177K Tweets"
   },
   {
     "name": "Impfpass",
     "query": "Impfpass",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
+  },
+  {
+    "name": "Gedenken",
+    "query": "Gedenken",
+    "rank": 16,
+    "tweet_count": "1,349 Tweets"
   },
   {
     "name": "Moderna",
     "query": "Moderna",
     "rank": 17,
-    "tweet_count": "56.1K Tweets"
-  },
-  {
-    "name": "Bevölkerung",
-    "query": "Bevölkerung",
-    "rank": 18,
-    "tweet_count": "3,707 Tweets"
+    "tweet_count": "56.3K Tweets"
   },
   {
     "name": "Strich",
     "query": "Strich",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Wagenknecht",
     "query": "Wagenknecht",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": "10.6K Tweets"
+  },
+  {
+    "name": "Attentäter",
+    "query": "Attentäter",
+    "rank": 20,
+    "tweet_count": null
   }
 ]
