@@ -3,25 +3,25 @@
     "name": "Conte",
     "query": "Conte",
     "rank": 1,
-    "tweet_count": "282K Tweets"
-  },
-  {
-    "name": "Halloween",
-    "query": "Halloween",
-    "rank": 2,
-    "tweet_count": "3.43M Tweets"
-  },
-  {
-    "name": "hamkam",
-    "query": "hamkam",
-    "rank": 3,
-    "tweet_count": null
+    "tweet_count": "285K Tweets"
   },
   {
     "name": "#COP26",
     "query": "#COP26",
+    "rank": 2,
+    "tweet_count": "697K Tweets"
+  },
+  {
+    "name": "Halloween",
+    "query": "Halloween",
+    "rank": 3,
+    "tweet_count": "3.35M Tweets"
+  },
+  {
+    "name": "hamkam",
+    "query": "hamkam",
     "rank": 4,
-    "tweet_count": "687K Tweets"
+    "tweet_count": null
   },
   {
     "name": "sogndal",
@@ -33,7 +33,7 @@
     "name": "Emil Palsson",
     "query": "\"Emil Palsson\"",
     "rank": 6,
-    "tweet_count": "1,144 Tweets"
+    "tweet_count": "1,172 Tweets"
   },
   {
     "name": "AaFK",
@@ -45,11 +45,11 @@
     "name": "Odds",
     "query": "Odds",
     "rank": 8,
-    "tweet_count": "43.9K Tweets"
+    "tweet_count": "44.6K Tweets"
   },
   {
-    "name": "Kamma",
-    "query": "Kamma",
+    "name": "kamma",
+    "query": "kamma",
     "rank": 9,
     "tweet_count": null
   },
@@ -57,7 +57,7 @@
     "name": "Levy",
     "query": "Levy",
     "rank": 10,
-    "tweet_count": "33.3K Tweets"
+    "tweet_count": "33.6K Tweets"
   },
   {
     "name": "#ffk1903",
@@ -93,29 +93,29 @@
     "name": "Chris Pratt",
     "query": "\"Chris Pratt\"",
     "rank": 16,
-    "tweet_count": "88.5K Tweets"
+    "tweet_count": "89.7K Tweets"
   },
   {
-    "name": "Tottenham",
-    "query": "Tottenham",
+    "name": "Christmas",
+    "query": "Christmas",
     "rank": 17,
-    "tweet_count": "168K Tweets"
-  },
-  {
-    "name": "Raufoss",
-    "query": "Raufoss",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Aalesund",
-    "query": "Aalesund",
-    "rank": 19,
-    "tweet_count": null
+    "tweet_count": "503K Tweets"
   },
   {
     "name": "Briskeby",
     "query": "Briskeby",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Tottenham",
+    "query": "Tottenham",
+    "rank": 19,
+    "tweet_count": "170K Tweets"
+  },
+  {
+    "name": "Raufoss",
+    "query": "Raufoss",
     "rank": 20,
     "tweet_count": null
   }
