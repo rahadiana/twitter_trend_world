@@ -1,39 +1,39 @@
 [
   {
+    "name": "#orfreport",
+    "query": "#orfreport",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "#WOBSAL",
     "query": "#WOBSAL",
-    "rank": 1,
-    "tweet_count": "1,371 Tweets"
+    "rank": 2,
+    "tweet_count": "1,375 Tweets"
   },
   {
     "name": "#WOBRBS",
     "query": "#WOBRBS",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#COP26",
     "query": "#COP26",
-    "rank": 3,
-    "tweet_count": "701K Tweets"
+    "rank": 4,
+    "tweet_count": "706K Tweets"
   },
   {
     "name": "#viennaattack",
     "query": "#viennaattack",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Wolfsburg",
     "query": "Wolfsburg",
-    "rank": 5,
-    "tweet_count": "7,627 Tweets"
-  },
-  {
-    "name": "#Impfversagen",
-    "query": "#Impfversagen",
     "rank": 6,
-    "tweet_count": "9,634 Tweets"
+    "tweet_count": "7,704 Tweets"
   },
   {
     "name": "Drohung",
@@ -45,25 +45,25 @@
     "name": "Christmas",
     "query": "Christmas",
     "rank": 8,
-    "tweet_count": "433K Tweets"
+    "tweet_count": "435K Tweets"
+  },
+  {
+    "name": "Innenminister",
+    "query": "Innenminister",
+    "rank": 9,
+    "tweet_count": null
   },
   {
     "name": "Hu Tao",
     "query": "\"Hu Tao\"",
-    "rank": 9,
-    "tweet_count": "173K Tweets"
+    "rank": 10,
+    "tweet_count": "174K Tweets"
   },
   {
     "name": "Gedenken",
     "query": "Gedenken",
-    "rank": 10,
-    "tweet_count": "1,308 Tweets"
-  },
-  {
-    "name": "Moderna",
-    "query": "Moderna",
     "rank": 11,
-    "tweet_count": "56.3K Tweets"
+    "tweet_count": "1,327 Tweets"
   },
   {
     "name": "Thoma",
@@ -72,34 +72,34 @@
     "tweet_count": "121K Tweets"
   },
   {
+    "name": "Schmitt",
+    "query": "Schmitt",
+    "rank": 13,
+    "tweet_count": "2,050 Tweets"
+  },
+  {
     "name": "Kindergarten",
     "query": "Kindergarten",
-    "rank": 13,
-    "tweet_count": "4,957 Tweets"
+    "rank": 14,
+    "tweet_count": "4,993 Tweets"
   },
   {
     "name": "Impfpass",
     "query": "Impfpass",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": null
+  },
+  {
+    "name": "Moderna",
+    "query": "Moderna",
+    "rank": 16,
+    "tweet_count": "56.7K Tweets"
   },
   {
     "name": "Pfizer",
     "query": "Pfizer",
-    "rank": 15,
-    "tweet_count": "132K Tweets"
-  },
-  {
-    "name": "Schmitt",
-    "query": "Schmitt",
-    "rank": 16,
-    "tweet_count": "2,030 Tweets"
-  },
-  {
-    "name": "Innenminister",
-    "query": "Innenminister",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "133K Tweets"
   },
   {
     "name": "Strich",
@@ -114,9 +114,9 @@
     "tweet_count": "11.3K Tweets"
   },
   {
-    "name": "Nehammer",
-    "query": "Nehammer",
+    "name": "Vanessa",
+    "query": "Vanessa",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "30.9K Tweets"
   }
 ]
