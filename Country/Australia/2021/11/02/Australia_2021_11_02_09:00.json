@@ -1,86 +1,122 @@
 [
   {
+    "name": "Macron",
+    "query": "Macron",
+    "rank": 1,
+    "tweet_count": "150K Tweets"
+  },
+  {
     "name": "#MelbourneCup",
     "query": "#MelbourneCup",
-    "rank": 1,
-    "tweet_count": "8,360 Tweets"
-  },
-  {
-    "name": "Verry Elleegant",
-    "query": "\"Verry Elleegant\"",
     "rank": 2,
-    "tweet_count": "2,744 Tweets"
+    "tweet_count": "8,382 Tweets"
   },
   {
-    "name": "#parentalguidance",
-    "query": "#parentalguidance",
+    "name": "Morrison",
+    "query": "Morrison",
     "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "#BBAUvip",
-    "query": "#BBAUvip",
-    "rank": 4,
-    "tweet_count": "1,061 Tweets"
-  },
-  {
-    "name": "$38b in JobKeeper",
-    "query": "\"$38b in JobKeeper\"",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Chris Pratt",
-    "query": "\"Chris Pratt\"",
-    "rank": 6,
-    "tweet_count": "96.6K Tweets"
-  },
-  {
-    "name": "Joe Rogan",
-    "query": "\"Joe Rogan\"",
-    "rank": 7,
-    "tweet_count": "2,768 Tweets"
+    "tweet_count": "116K Tweets"
   },
   {
     "name": "#NuptotheCup",
     "query": "#NuptotheCup",
+    "rank": 4,
+    "tweet_count": "4,354 Tweets"
+  },
+  {
+    "name": "Verry Elleegant",
+    "query": "\"Verry Elleegant\"",
+    "rank": 5,
+    "tweet_count": "2,757 Tweets"
+  },
+  {
+    "name": "Australia",
+    "query": "Australia",
+    "rank": 6,
+    "tweet_count": "176K Tweets"
+  },
+  {
+    "name": "#COP26",
+    "query": "#COP26",
+    "rank": 7,
+    "tweet_count": "730K Tweets"
+  },
+  {
+    "name": "Chris Pratt",
+    "query": "\"Chris Pratt\"",
     "rank": 8,
-    "tweet_count": "4,339 Tweets"
-  },
-  {
-    "name": "james mcdonald",
-    "query": "\"james mcdonald\"",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "#TheProjectTV",
-    "query": "#TheProjectTV",
-    "rank": 10,
-    "tweet_count": "1,273 Tweets"
+    "tweet_count": "97K Tweets"
   },
   {
     "name": "Incentivise",
     "query": "Incentivise",
+    "rank": 9,
+    "tweet_count": "2,452 Tweets"
+  },
+  {
+    "name": "Halloween",
+    "query": "Halloween",
+    "rank": 10,
+    "tweet_count": "2.69M Tweets"
+  },
+  {
+    "name": "#BBAUvip",
+    "query": "#BBAUvip",
     "rank": 11,
-    "tweet_count": "2,431 Tweets"
+    "tweet_count": "1,096 Tweets"
   },
   {
-    "name": "Flemington",
-    "query": "Flemington",
+    "name": "The French",
+    "query": "\"The French\"",
     "rank": 12,
-    "tweet_count": "2,503 Tweets"
-  },
-  {
-    "name": "Tralee Rose",
-    "query": "\"Tralee Rose\"",
-    "rank": 13,
-    "tweet_count": null
+    "tweet_count": "68.8K Tweets"
   },
   {
     "name": "#IDontThinkIKnow",
     "query": "#IDontThinkIKnow",
+    "rank": 13,
+    "tweet_count": "2,597 Tweets"
+  },
+  {
+    "name": "Tim Smith",
+    "query": "\"Tim Smith\"",
     "rank": 14,
-    "tweet_count": "2,588 Tweets"
+    "tweet_count": "5,039 Tweets"
+  },
+  {
+    "name": "French President",
+    "query": "\"French President\"",
+    "rank": 15,
+    "tweet_count": "10.6K Tweets"
+  },
+  {
+    "name": "Flemington",
+    "query": "Flemington",
+    "rank": 16,
+    "tweet_count": "2,525 Tweets"
+  },
+  {
+    "name": "Prime Minister",
+    "query": "\"Prime Minister\"",
+    "rank": 17,
+    "tweet_count": "82.4K Tweets"
+  },
+  {
+    "name": "Scomo",
+    "query": "Scomo",
+    "rank": 18,
+    "tweet_count": "3,355 Tweets"
+  },
+  {
+    "name": "Jmac",
+    "query": "Jmac",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "AUKUS",
+    "query": "AUKUS",
+    "rank": 20,
+    "tweet_count": "6,494 Tweets"
   }
 ]

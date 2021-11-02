@@ -1,15 +1,15 @@
 [
   {
-    "name": "Conte",
-    "query": "Conte",
-    "rank": 1,
-    "tweet_count": "298K Tweets"
-  },
-  {
     "name": "#COP26",
     "query": "#COP26",
+    "rank": 1,
+    "tweet_count": "730K Tweets"
+  },
+  {
+    "name": "conte",
+    "query": "conte",
     "rank": 2,
-    "tweet_count": "725K Tweets"
+    "tweet_count": "299K Tweets"
   },
   {
     "name": "hamkam",
@@ -18,16 +18,16 @@
     "tweet_count": null
   },
   {
-    "name": "Sogndal",
-    "query": "Sogndal",
+    "name": "sogndal",
+    "query": "sogndal",
     "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "emil palsson",
-    "query": "\"emil palsson\"",
+    "name": "Emil Palsson",
+    "query": "\"Emil Palsson\"",
     "rank": 5,
-    "tweet_count": "1,419 Tweets"
+    "tweet_count": "1,466 Tweets"
   },
   {
     "name": "Spurs",
@@ -39,77 +39,77 @@
     "name": "Halloween",
     "query": "Halloween",
     "rank": 7,
-    "tweet_count": "2.28M Tweets"
-  },
-  {
-    "name": "Odds",
-    "query": "Odds",
-    "rank": 8,
-    "tweet_count": "45.7K Tweets"
-  },
-  {
-    "name": "Kamma",
-    "query": "Kamma",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "støre",
-    "query": "støre",
-    "rank": 10,
-    "tweet_count": null
+    "tweet_count": "2.67M Tweets"
   },
   {
     "name": "Kina",
     "query": "Kina",
-    "rank": 11,
-    "tweet_count": "10.4K Tweets"
+    "rank": 8,
+    "tweet_count": "10.5K Tweets"
   },
   {
-    "name": "Gratulerer",
-    "query": "Gratulerer",
-    "rank": 12,
+    "name": "Støre",
+    "query": "Støre",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Odds",
+    "query": "Odds",
+    "rank": 10,
+    "tweet_count": "46K Tweets"
+  },
+  {
+    "name": "Kamma",
+    "query": "Kamma",
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Chris Pratt",
     "query": "\"Chris Pratt\"",
-    "rank": 13,
-    "tweet_count": "96.5K Tweets"
+    "rank": 12,
+    "tweet_count": "97K Tweets"
   },
   {
     "name": "Kane",
     "query": "Kane",
-    "rank": 14,
-    "tweet_count": "32.2K Tweets"
+    "rank": 13,
+    "tweet_count": "32.3K Tweets"
   },
   {
     "name": "Aalesund",
     "query": "Aalesund",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "Sandnes",
-    "query": "Sandnes",
-    "rank": 16,
+    "name": "Aafk",
+    "query": "Aafk",
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Bjørkan",
     "query": "Bjørkan",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "briskeby",
+    "query": "briskeby",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "AaFK",
-    "query": "AaFK",
+    "name": "sandnes",
+    "query": "sandnes",
     "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "Briskeby",
-    "query": "Briskeby",
+    "name": "Oslo Høyre",
+    "query": "\"Oslo Høyre\"",
     "rank": 19,
     "tweet_count": null
   }
