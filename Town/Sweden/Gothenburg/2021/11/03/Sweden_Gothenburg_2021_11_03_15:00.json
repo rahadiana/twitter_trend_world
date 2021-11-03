@@ -1,21 +1,21 @@
 [
   {
-    "name": "#skongress",
-    "query": "#skongress",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#COP26",
     "query": "#COP26",
+    "rank": 1,
+    "tweet_count": "612K Tweets"
+  },
+  {
+    "name": "#skongress",
+    "query": "#skongress",
     "rank": 2,
-    "tweet_count": "606K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Virginia",
     "query": "Virginia",
     "rank": 3,
-    "tweet_count": "1.16M Tweets"
+    "tweet_count": "1.18M Tweets"
   },
   {
     "name": "#Guacamoments",
@@ -33,13 +33,13 @@
     "name": "#GuacTheTailgate",
     "query": "#GuacTheTailgate",
     "rank": 6,
-    "tweet_count": "10.2K Tweets"
+    "tweet_count": "10.3K Tweets"
   },
   {
     "name": "#ATAMUN",
     "query": "#ATAMUN",
     "rank": 7,
-    "tweet_count": "42.2K Tweets"
+    "tweet_count": "42.3K Tweets"
   },
   {
     "name": "Stefan Löfven",
@@ -51,7 +51,7 @@
     "name": "Happy Birthday Ranboo",
     "query": "\"Happy Birthday Ranboo\"",
     "rank": 9,
-    "tweet_count": "57K Tweets"
+    "tweet_count": "57.1K Tweets"
   },
   {
     "name": "Chelsea",
@@ -78,28 +78,28 @@
     "tweet_count": null
   },
   {
-    "name": "Avanza",
-    "query": "Avanza",
-    "rank": 14,
-    "tweet_count": "13.2K Tweets"
-  },
-  {
     "name": "svedberg",
     "query": "svedberg",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Harry Maguire",
     "query": "\"Harry Maguire\"",
-    "rank": 16,
-    "tweet_count": "26.1K Tweets"
+    "rank": 15,
+    "tweet_count": "26.2K Tweets"
   },
   {
     "name": "Damberg",
     "query": "Damberg",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
+  },
+  {
+    "name": "Avanza",
+    "query": "Avanza",
+    "rank": 17,
+    "tweet_count": "13.4K Tweets"
   },
   {
     "name": "pudas",
@@ -117,6 +117,6 @@
     "name": "kvinnor",
     "query": "kvinnor",
     "rank": 20,
-    "tweet_count": "2,561 Tweets"
+    "tweet_count": "2,606 Tweets"
   }
 ]
