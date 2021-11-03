@@ -1,7 +1,7 @@
 [
   {
-    "name": "#Pilnacek",
-    "query": "#Pilnacek",
+    "name": "#pilnacek",
+    "query": "#pilnacek",
     "rank": 1,
     "tweet_count": null
   },
@@ -9,7 +9,7 @@
     "name": "#zib2",
     "query": "#zib2",
     "rank": 2,
-    "tweet_count": "1,849 Tweets"
+    "tweet_count": "1,851 Tweets"
   },
   {
     "name": "#ORFReport",
@@ -18,8 +18,8 @@
     "tweet_count": null
   },
   {
-    "name": "Missstand",
-    "query": "Missstand",
+    "name": "missstand",
+    "query": "missstand",
     "rank": 4,
     "tweet_count": null
   },
@@ -42,32 +42,32 @@
     "tweet_count": null
   },
   {
-    "name": "Justiz",
-    "query": "Justiz",
+    "name": "justiz",
+    "query": "justiz",
     "rank": 8,
-    "tweet_count": "2,003 Tweets"
+    "tweet_count": "2,037 Tweets"
+  },
+  {
+    "name": "Klimaticket",
+    "query": "Klimaticket",
+    "rank": 9,
+    "tweet_count": null
   },
   {
     "name": "#COP26",
     "query": "#COP26",
-    "rank": 9,
-    "tweet_count": "614K Tweets"
+    "rank": 10,
+    "tweet_count": "619K Tweets"
   },
   {
     "name": "Drohung",
     "query": "Drohung",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Schnitt",
     "query": "Schnitt",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Klimaticket",
-    "query": "Klimaticket",
     "rank": 12,
     "tweet_count": null
   },
@@ -75,7 +75,7 @@
     "name": "Wolfsburg",
     "query": "Wolfsburg",
     "rank": 13,
-    "tweet_count": "7,584 Tweets"
+    "tweet_count": "7,598 Tweets"
   },
   {
     "name": "Metaller",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
+    "name": "Karte",
+    "query": "Karte",
+    "rank": 16,
+    "tweet_count": "16.1K Tweets"
+  },
+  {
     "name": "Innenminister",
     "query": "Innenminister",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Weber",
-    "query": "Weber",
-    "rank": 17,
-    "tweet_count": "5,855 Tweets"
+    "name": "Stefan Weber",
+    "query": "\"Stefan Weber\"",
+    "rank": 18,
+    "tweet_count": null
   },
   {
     "name": "Klenk",
     "query": "Klenk",
-    "rank": 18,
-    "tweet_count": "1,095 Tweets"
+    "rank": 19,
+    "tweet_count": "1,101 Tweets"
   },
   {
     "name": "Conte",
     "query": "Conte",
-    "rank": 19,
-    "tweet_count": "130K Tweets"
-  },
-  {
-    "name": "Verfahren",
-    "query": "Verfahren",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "131K Tweets"
   }
 ]
