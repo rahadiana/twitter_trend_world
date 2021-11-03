@@ -1,27 +1,27 @@
 [
   {
-    "name": "#COP26",
-    "query": "#COP26",
-    "rank": 1,
-    "tweet_count": "624K Tweets"
-  },
-  {
     "name": "#skongress",
     "query": "#skongress",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#COP26",
+    "query": "#COP26",
+    "rank": 2,
+    "tweet_count": "628K Tweets"
   },
   {
     "name": "Virginia",
     "query": "Virginia",
     "rank": 3,
-    "tweet_count": "1.11M Tweets"
+    "tweet_count": "1.12M Tweets"
   },
   {
     "name": "Avanza",
     "query": "Avanza",
     "rank": 4,
-    "tweet_count": "13.2K Tweets"
+    "tweet_count": "13.3K Tweets"
   },
   {
     "name": "#atamun",
@@ -48,16 +48,16 @@
     "tweet_count": null
   },
   {
-    "name": "Chelsea",
-    "query": "Chelsea",
-    "rank": 9,
-    "tweet_count": "115K Tweets"
-  },
-  {
     "name": "HAPPY BIRTHDAY RANBOO",
     "query": "\"HAPPY BIRTHDAY RANBOO\"",
+    "rank": 9,
+    "tweet_count": "55.3K Tweets"
+  },
+  {
+    "name": "Chelsea",
+    "query": "Chelsea",
     "rank": 10,
-    "tweet_count": "55.1K Tweets"
+    "tweet_count": "115K Tweets"
   },
   {
     "name": "Waberi",
@@ -84,39 +84,39 @@
     "tweet_count": null
   },
   {
-    "name": "nordnet",
-    "query": "nordnet",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
     "name": "Harry Maguire",
     "query": "\"Harry Maguire\"",
-    "rank": 16,
-    "tweet_count": "24.6K Tweets"
+    "rank": 15,
+    "tweet_count": "24.7K Tweets"
   },
   {
     "name": "pudas",
     "query": "pudas",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Ronaldo",
     "query": "Ronaldo",
-    "rank": 18,
-    "tweet_count": "672K Tweets"
+    "rank": 17,
+    "tweet_count": "674K Tweets"
   },
   {
     "name": "pennan",
     "query": "pennan",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Varane",
     "query": "Varane",
+    "rank": 19,
+    "tweet_count": "41.3K Tweets"
+  },
+  {
+    "name": "Svenonius",
+    "query": "Svenonius",
     "rank": 20,
-    "tweet_count": "41.2K Tweets"
+    "tweet_count": null
   }
 ]
