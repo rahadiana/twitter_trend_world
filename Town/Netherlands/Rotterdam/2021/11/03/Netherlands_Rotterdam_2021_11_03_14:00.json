@@ -1,122 +1,110 @@
 [
   {
-    "name": "#persconferentie",
-    "query": "#persconferentie",
+    "name": "#coronadebat",
+    "query": "#coronadebat",
     "rank": 1,
-    "tweet_count": "34.5K Tweets"
+    "tweet_count": "1,131 Tweets"
   },
   {
-    "name": "#ikdoenietmeermee",
-    "query": "#ikdoenietmeermee",
+    "name": "Vries",
+    "query": "Vries",
     "rank": 2,
-    "tweet_count": "9,448 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#ikdoewelmee",
     "query": "#ikdoewelmee",
     "rank": 3,
-    "tweet_count": "1,907 Tweets"
-  },
-  {
-    "name": "#QRweigeraar",
-    "query": "#QRweigeraar",
-    "rank": 4,
-    "tweet_count": "5,411 Tweets"
-  },
-  {
-    "name": "#mondkapjesplicht",
-    "query": "#mondkapjesplicht",
-    "rank": 5,
-    "tweet_count": "3,355 Tweets"
-  },
-  {
-    "name": "QR-code",
-    "query": "QR-code",
-    "rank": 6,
-    "tweet_count": "7,855 Tweets"
+    "tweet_count": "1,929 Tweets"
   },
   {
     "name": "Kuipers",
     "query": "Kuipers",
-    "rank": 7,
-    "tweet_count": "4,215 Tweets"
+    "rank": 4,
+    "tweet_count": "4,286 Tweets"
   },
   {
-    "name": "Ronaldo",
-    "query": "Ronaldo",
-    "rank": 8,
-    "tweet_count": "682K Tweets"
-  },
-  {
-    "name": "Virginia",
-    "query": "Virginia",
-    "rank": 9,
-    "tweet_count": "1.14M Tweets"
-  },
-  {
-    "name": "papa bruls",
-    "query": "\"papa bruls\"",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Hugo",
-    "query": "Hugo",
-    "rank": 11,
-    "tweet_count": "68.1K Tweets"
-  },
-  {
-    "name": "Ongehoord Nederland",
-    "query": "\"Ongehoord Nederland\"",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Ethiopië",
-    "query": "Ethiopië",
-    "rank": 13,
-    "tweet_count": "1,896 Tweets"
-  },
-  {
-    "name": "Van Dissel",
-    "query": "\"Van Dissel\"",
-    "rank": 14,
-    "tweet_count": "1,394 Tweets"
-  },
-  {
-    "name": "andries",
-    "query": "andries",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Rutte",
-    "query": "Rutte",
-    "rank": 16,
-    "tweet_count": "14.9K Tweets"
-  },
-  {
-    "name": "Maguire",
-    "query": "Maguire",
-    "rank": 17,
-    "tweet_count": "136K Tweets"
+    "name": "#QRweigeraar",
+    "query": "#QRweigeraar",
+    "rank": 5,
+    "tweet_count": "5,461 Tweets"
   },
   {
     "name": "Raad van Europa",
     "query": "\"Raad van Europa\"",
-    "rank": 18,
-    "tweet_count": "1,157 Tweets"
+    "rank": 6,
+    "tweet_count": "1,220 Tweets"
   },
   {
-    "name": "Amsterdam Dance Event",
-    "query": "\"Amsterdam Dance Event\"",
-    "rank": 19,
-    "tweet_count": "1,186 Tweets"
+    "name": "Van Dissel",
+    "query": "\"Van Dissel\"",
+    "rank": 7,
+    "tweet_count": "1,405 Tweets"
   },
   {
-    "name": "Vries",
-    "query": "Vries",
-    "rank": 20,
+    "name": "#rescongres",
+    "query": "#rescongres",
+    "rank": 8,
     "tweet_count": null
+  },
+  {
+    "name": "Ongehoord Nederland",
+    "query": "\"Ongehoord Nederland\"",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Dortmund",
+    "query": "Dortmund",
+    "rank": 10,
+    "tweet_count": "9,199 Tweets"
+  },
+  {
+    "name": "Virginia",
+    "query": "Virginia",
+    "rank": 11,
+    "tweet_count": "1.16M Tweets"
+  },
+  {
+    "name": "Grapperhaus",
+    "query": "Grapperhaus",
+    "rank": 12,
+    "tweet_count": "1,160 Tweets"
+  },
+  {
+    "name": "Sywert",
+    "query": "Sywert",
+    "rank": 13,
+    "tweet_count": "1,179 Tweets"
+  },
+  {
+    "name": "Berlijn",
+    "query": "Berlijn",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Fleur",
+    "query": "Fleur",
+    "rank": 15,
+    "tweet_count": "8,441 Tweets"
+  },
+  {
+    "name": "#dankdag",
+    "query": "#dankdag",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "#mist",
+    "query": "#mist",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "#BVBAJA",
+    "query": "#BVBAJA",
+    "rank": 18,
+    "tweet_count": "1,404 Tweets"
   }
 ]
