@@ -1,122 +1,122 @@
 [
   {
+    "name": "#CFMTL",
+    "query": "#CFMTL",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "Air Canada",
     "query": "\"Air Canada\"",
-    "rank": 1,
-    "tweet_count": "4,183 Tweets"
+    "rank": 2,
+    "tweet_count": "4,243 Tweets"
   },
   {
     "name": "Pfizer",
     "query": "Pfizer",
-    "rank": 2,
-    "tweet_count": "261K Tweets"
+    "rank": 3,
+    "tweet_count": "262K Tweets"
+  },
+  {
+    "name": "Dubé",
+    "query": "Dubé",
+    "rank": 4,
+    "tweet_count": "4,005 Tweets"
   },
   {
     "name": "Tkachuk",
     "query": "Tkachuk",
-    "rank": 3,
-    "tweet_count": "3,590 Tweets"
+    "rank": 5,
+    "tweet_count": "3,674 Tweets"
+  },
+  {
+    "name": "Eichel",
+    "query": "Eichel",
+    "rank": 6,
+    "tweet_count": "6,675 Tweets"
+  },
+  {
+    "name": "Buffalo",
+    "query": "Buffalo",
+    "rank": 7,
+    "tweet_count": "34.1K Tweets"
   },
   {
     "name": "Flames",
     "query": "Flames",
-    "rank": 4,
-    "tweet_count": "20.4K Tweets"
-  },
-  {
-    "name": "Quebec",
-    "query": "Quebec",
-    "rank": 5,
-    "tweet_count": "23.4K Tweets"
+    "rank": 8,
+    "tweet_count": "20.5K Tweets"
   },
   {
     "name": "Nashville",
     "query": "Nashville",
-    "rank": 6,
-    "tweet_count": "8,143 Tweets"
+    "rank": 9,
+    "tweet_count": "8,259 Tweets"
+  },
+  {
+    "name": "Quebec",
+    "query": "Quebec",
+    "rank": 10,
+    "tweet_count": "23.7K Tweets"
   },
   {
     "name": "#LIVATM",
     "query": "#LIVATM",
-    "rank": 7,
-    "tweet_count": "42.5K Tweets"
+    "rank": 11,
+    "tweet_count": "42.7K Tweets"
   },
   {
     "name": "Aaron Rodgers",
     "query": "\"Aaron Rodgers\"",
-    "rank": 8,
-    "tweet_count": "112K Tweets"
-  },
-  {
-    "name": "Ford",
-    "query": "Ford",
-    "rank": 9,
-    "tweet_count": "61.4K Tweets"
-  },
-  {
-    "name": "#CallofDutyVanguard",
-    "query": "#CallofDutyVanguard",
-    "rank": 10,
-    "tweet_count": "1,917 Tweets"
+    "rank": 12,
+    "tweet_count": "113K Tweets"
   },
   {
     "name": "Michael Rousseau",
     "query": "\"Michael Rousseau\"",
-    "rank": 11,
+    "rank": 13,
     "tweet_count": null
+  },
+  {
+    "name": "Ford",
+    "query": "Ford",
+    "rank": 14,
+    "tweet_count": "61.7K Tweets"
+  },
+  {
+    "name": "Atletico",
+    "query": "Atletico",
+    "rank": 15,
+    "tweet_count": "105K Tweets"
   },
   {
     "name": "Ajax",
     "query": "Ajax",
-    "rank": 12,
-    "tweet_count": "52.7K Tweets"
+    "rank": 16,
+    "tweet_count": "53.3K Tweets"
   },
   {
     "name": "Zary",
     "query": "Zary",
-    "rank": 13,
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "#CallofDutyVanguard",
+    "query": "#CallofDutyVanguard",
+    "rank": 18,
+    "tweet_count": "1,928 Tweets"
+  },
+  {
+    "name": "Monahan",
+    "query": "Monahan",
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "#onFlowNYC",
     "query": "#onFlowNYC",
-    "rank": 14,
-    "tweet_count": "5,780 Tweets"
-  },
-  {
-    "name": "#COVID19AB",
-    "query": "#COVID19AB",
-    "rank": 15,
-    "tweet_count": "1,468 Tweets"
-  },
-  {
-    "name": "Gaudreau",
-    "query": "Gaudreau",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Happy Diwali",
-    "query": "\"Happy Diwali\"",
-    "rank": 17,
-    "tweet_count": "157K Tweets"
-  },
-  {
-    "name": "#instagramdown",
-    "query": "#instagramdown",
-    "rank": 18,
-    "tweet_count": "22.2K Tweets"
-  },
-  {
-    "name": "Attaran",
-    "query": "Attaran",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "HCWs",
-    "query": "HCWs",
     "rank": 20,
-    "tweet_count": "2,295 Tweets"
+    "tweet_count": "5,842 Tweets"
   }
 ]

@@ -1,15 +1,15 @@
 [
   {
-    "name": "Whanganui",
-    "query": "Whanganui",
-    "rank": 1,
-    "tweet_count": "1,233 Tweets"
-  },
-  {
     "name": "Chris Parker",
     "query": "\"Chris Parker\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Whanganui",
+    "query": "Whanganui",
+    "rank": 2,
+    "tweet_count": "1,234 Tweets"
   },
   {
     "name": "#NZvSCO",
@@ -21,19 +21,19 @@
     "name": "Simeon",
     "query": "Simeon",
     "rank": 4,
-    "tweet_count": "2,279 Tweets"
+    "tweet_count": "2,285 Tweets"
   },
   {
     "name": "Cleo Smith",
     "query": "\"Cleo Smith\"",
     "rank": 5,
-    "tweet_count": "17.4K Tweets"
+    "tweet_count": "17.5K Tweets"
   },
   {
     "name": "Virginia",
     "query": "Virginia",
     "rank": 6,
-    "tweet_count": "1.23M Tweets"
+    "tweet_count": "1.24M Tweets"
   },
   {
     "name": "Aucklanders",
@@ -42,34 +42,34 @@
     "tweet_count": null
   },
   {
-    "name": "Marsden",
-    "query": "Marsden",
+    "name": "Carl Hayman",
+    "query": "\"Carl Hayman\"",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Carl Hayman",
-    "query": "\"Carl Hayman\"",
+    "name": "Christmas",
+    "query": "Christmas",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "299K Tweets"
   },
   {
     "name": "Diwali",
     "query": "Diwali",
     "rank": 10,
-    "tweet_count": "774K Tweets"
-  },
-  {
-    "name": "Christmas",
-    "query": "Christmas",
-    "rank": 11,
-    "tweet_count": "298K Tweets"
+    "tweet_count": "775K Tweets"
   },
   {
     "name": "#Eternals",
     "query": "#Eternals",
+    "rank": 11,
+    "tweet_count": "65.6K Tweets"
+  },
+  {
+    "name": "Democrat",
+    "query": "Democrat",
     "rank": 12,
-    "tweet_count": "65.3K Tweets"
+    "tweet_count": "252K Tweets"
   },
   {
     "name": "#celebritytreasureisland",
@@ -81,13 +81,13 @@
     "name": "Steve Bannon",
     "query": "\"Steve Bannon\"",
     "rank": 14,
-    "tweet_count": "9,548 Tweets"
+    "tweet_count": "9,596 Tweets"
   },
   {
     "name": "namjoon",
     "query": "namjoon",
     "rank": 15,
-    "tweet_count": "321K Tweets"
+    "tweet_count": "323K Tweets"
   },
   {
     "name": "Tova",
@@ -99,24 +99,24 @@
     "name": "Chris Pratt",
     "query": "\"Chris Pratt\"",
     "rank": 17,
-    "tweet_count": "68.1K Tweets"
-  },
-  {
-    "name": "#COP26",
-    "query": "#COP26",
-    "rank": 18,
-    "tweet_count": "520K Tweets"
+    "tweet_count": "68.3K Tweets"
   },
   {
     "name": "Hipkins",
     "query": "Hipkins",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "#COP26",
+    "query": "#COP26",
+    "rank": 19,
+    "tweet_count": "521K Tweets"
   },
   {
     "name": "Island Bay",
     "query": "\"Island Bay\"",
     "rank": 20,
-    "tweet_count": "2,589 Tweets"
+    "tweet_count": "2,591 Tweets"
   }
 ]
