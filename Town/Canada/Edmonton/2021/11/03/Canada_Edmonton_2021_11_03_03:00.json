@@ -1,110 +1,122 @@
 [
   {
-    "name": "#flames1stgoal",
-    "query": "#flames1stgoal",
+    "name": "Republicans",
+    "query": "Republicans",
     "rank": 1,
-    "tweet_count": null
+    "tweet_count": "235K Tweets"
   },
   {
     "name": "#WorldSeries",
     "query": "#WorldSeries",
     "rank": 2,
-    "tweet_count": "90.7K Tweets"
-  },
-  {
-    "name": "#TheBachelorette",
-    "query": "#TheBachelorette",
-    "rank": 3,
-    "tweet_count": "21.9K Tweets"
-  },
-  {
-    "name": "Freddie Freeman",
-    "query": "\"Freddie Freeman\"",
-    "rank": 4,
-    "tweet_count": "11.3K Tweets"
+    "tweet_count": "107K Tweets"
   },
   {
     "name": "Alex Anthopoulos",
     "query": "\"Alex Anthopoulos\"",
-    "rank": 5,
+    "rank": 3,
     "tweet_count": null
+  },
+  {
+    "name": "#TheBachelorette",
+    "query": "#TheBachelorette",
+    "rank": 4,
+    "tweet_count": "22K Tweets"
   },
   {
     "name": "Virginia",
     "query": "Virginia",
-    "rank": 6,
-    "tweet_count": "837K Tweets"
+    "rank": 5,
+    "tweet_count": "847K Tweets"
   },
   {
-    "name": "Del Zotto",
-    "query": "\"Del Zotto\"",
-    "rank": 7,
+    "name": "#VWFC",
+    "query": "#VWFC",
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "Matthews",
     "query": "Matthews",
+    "rank": 7,
+    "tweet_count": "5,931 Tweets"
+  },
+  {
+    "name": "Del Zotto",
+    "query": "\"Del Zotto\"",
     "rank": 8,
-    "tweet_count": "5,911 Tweets"
-  },
-  {
-    "name": "Dems",
-    "query": "Dems",
-    "rank": 9,
-    "tweet_count": "156K Tweets"
-  },
-  {
-    "name": "#GoJetsGo",
-    "query": "#GoJetsGo",
-    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Democrats",
     "query": "Democrats",
-    "rank": 11,
-    "tweet_count": "364K Tweets"
+    "rank": 9,
+    "tweet_count": "370K Tweets"
+  },
+  {
+    "name": "Dems",
+    "query": "Dems",
+    "rank": 10,
+    "tweet_count": "158K Tweets"
   },
   {
     "name": "Soler",
     "query": "Soler",
+    "rank": 11,
+    "tweet_count": "69.4K Tweets"
+  },
+  {
+    "name": "#BudFirstGoal",
+    "query": "#BudFirstGoal",
     "rank": 12,
-    "tweet_count": "67.9K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Freeman",
+    "query": "Freeman",
+    "rank": 13,
+    "tweet_count": "34.7K Tweets"
+  },
+  {
+    "name": "#DWCS",
+    "query": "#DWCS",
+    "rank": 14,
+    "tweet_count": "5,685 Tweets"
   },
   {
     "name": "JT Miller",
     "query": "\"JT Miller\"",
-    "rank": 13,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Rangers",
     "query": "Rangers",
-    "rank": 14,
-    "tweet_count": "17.2K Tweets"
-  },
-  {
-    "name": "The Braves",
-    "query": "\"The Braves\"",
-    "rank": 15,
-    "tweet_count": "146K Tweets"
-  },
-  {
-    "name": "Forge",
-    "query": "Forge",
     "rank": 16,
-    "tweet_count": "5,422 Tweets"
+    "tweet_count": "18.6K Tweets"
   },
   {
-    "name": "Willy",
-    "query": "Willy",
+    "name": "Lowry",
+    "query": "Lowry",
     "rank": 17,
-    "tweet_count": "16K Tweets"
+    "tweet_count": "11.2K Tweets"
   },
   {
-    "name": "Nick Suzuki",
-    "query": "\"Nick Suzuki\"",
+    "name": "Chiasson",
+    "query": "Chiasson",
     "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Max Fried",
+    "query": "\"Max Fried\"",
+    "rank": 19,
+    "tweet_count": "17.7K Tweets"
+  },
+  {
+    "name": "New Jersey",
+    "query": "\"New Jersey\"",
+    "rank": 20,
+    "tweet_count": "97.6K Tweets"
   }
 ]
