@@ -9,11 +9,11 @@
     "name": "#WorldSeries",
     "query": "#WorldSeries",
     "rank": 2,
-    "tweet_count": "156K Tweets"
+    "tweet_count": "157K Tweets"
   },
   {
-    "name": "#MLBporTeleantillas",
-    "query": "#MLBporTeleantillas",
+    "name": "#mlbporteleantillas",
+    "query": "#mlbporteleantillas",
     "rank": 3,
     "tweet_count": null
   },
@@ -21,13 +21,13 @@
     "name": "Lakers",
     "query": "Lakers",
     "rank": 4,
-    "tweet_count": "60.1K Tweets"
+    "tweet_count": "61.2K Tweets"
   },
   {
     "name": "Soler",
     "query": "Soler",
     "rank": 5,
-    "tweet_count": "88.7K Tweets"
+    "tweet_count": "89.1K Tweets"
   },
   {
     "name": "faride",
@@ -42,40 +42,40 @@
     "tweet_count": null
   },
   {
-    "name": "Houston",
-    "query": "Houston",
-    "rank": 8,
-    "tweet_count": "98.1K Tweets"
-  },
-  {
     "name": "Lebron",
     "query": "Lebron",
-    "rank": 9,
-    "tweet_count": "53.4K Tweets"
+    "rank": 8,
+    "tweet_count": "54.2K Tweets"
   },
   {
-    "name": "claude joseph",
-    "query": "\"claude joseph\"",
-    "rank": 10,
+    "name": "Claude Joseph",
+    "query": "\"Claude Joseph\"",
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "samaná",
     "query": "samaná",
-    "rank": 11,
-    "tweet_count": "1,271 Tweets"
+    "rank": 10,
+    "tweet_count": "1,280 Tweets"
   },
   {
-    "name": "#smESPN",
-    "query": "#smESPN",
+    "name": "#BattleATL",
+    "query": "#BattleATL",
+    "rank": 11,
+    "tweet_count": "155K Tweets"
+  },
+  {
+    "name": "#smespn",
+    "query": "#smespn",
     "rank": 12,
-    "tweet_count": "2,242 Tweets"
+    "tweet_count": "2,244 Tweets"
   },
   {
     "name": "Toros",
     "query": "Toros",
     "rank": 13,
-    "tweet_count": "5,528 Tweets"
+    "tweet_count": "5,558 Tweets"
   },
   {
     "name": "Licey",
@@ -93,7 +93,7 @@
     "name": "Abel",
     "query": "Abel",
     "rank": 16,
-    "tweet_count": "22.2K Tweets"
+    "tweet_count": "22.3K Tweets"
   },
   {
     "name": "Fieles Difuntos",
@@ -105,17 +105,17 @@
     "name": "Senadora",
     "query": "Senadora",
     "rank": 18,
-    "tweet_count": "11.6K Tweets"
-  },
-  {
-    "name": "ensanche ozama",
-    "query": "\"ensanche ozama\"",
-    "rank": 19,
-    "tweet_count": null
+    "tweet_count": "11.7K Tweets"
   },
   {
     "name": "Victoria Yeb",
     "query": "\"Victoria Yeb\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "ensanche ozama",
+    "query": "\"ensanche ozama\"",
     "rank": 20,
     "tweet_count": null
   }
