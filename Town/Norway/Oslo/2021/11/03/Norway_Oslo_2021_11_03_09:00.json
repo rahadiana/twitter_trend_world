@@ -1,21 +1,21 @@
 [
   {
-    "name": "Kondolerer",
-    "query": "Kondolerer",
+    "name": "Bailly",
+    "query": "Bailly",
     "rank": 1,
-    "tweet_count": null
+    "tweet_count": "103K Tweets"
   },
   {
     "name": "Bailly",
     "query": "Bailly",
     "rank": 2,
-    "tweet_count": "102K Tweets"
+    "tweet_count": "103K Tweets"
   },
   {
     "name": "#COP26",
     "query": "#COP26",
     "rank": 3,
-    "tweet_count": "660K Tweets"
+    "tweet_count": "665K Tweets"
   },
   {
     "name": "#nrkdebatt",
@@ -27,13 +27,13 @@
     "name": "#ATAMUN",
     "query": "#ATAMUN",
     "rank": 5,
-    "tweet_count": "41.4K Tweets"
+    "tweet_count": "41.5K Tweets"
   },
   {
-    "name": "Atalanta",
-    "query": "Atalanta",
+    "name": "Kondolerer",
+    "query": "Kondolerer",
     "rank": 6,
-    "tweet_count": "153K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Støre",
@@ -45,7 +45,7 @@
     "name": "Ronaldo",
     "query": "Ronaldo",
     "rank": 8,
-    "tweet_count": "631K Tweets"
+    "tweet_count": "634K Tweets"
   },
   {
     "name": "De Gea",
@@ -54,69 +54,69 @@
     "tweet_count": "24.5K Tweets"
   },
   {
-    "name": "Varane",
-    "query": "Varane",
-    "rank": 10,
-    "tweet_count": "37.2K Tweets"
-  },
-  {
     "name": "ola solbakken",
     "query": "\"ola solbakken\"",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "#polkvart",
     "query": "#polkvart",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
-  },
-  {
-    "name": "Conte",
-    "query": "Conte",
-    "rank": 13,
-    "tweet_count": "227K Tweets"
   },
   {
     "name": "Thomas Lehne Olsen",
     "query": "\"Thomas Lehne Olsen\"",
-    "rank": 14,
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "Halloween",
+    "query": "Halloween",
+    "rank": 13,
+    "tweet_count": "984K Tweets"
+  },
+  {
+    "name": "Shaw",
+    "query": "Shaw",
+    "rank": 14,
+    "tweet_count": "22.4K Tweets"
   },
   {
     "name": "Bergamo",
     "query": "Bergamo",
     "rank": 15,
-    "tweet_count": "8,582 Tweets"
-  },
-  {
-    "name": "Halloween",
-    "query": "Halloween",
-    "rank": 16,
-    "tweet_count": "980K Tweets"
-  },
-  {
-    "name": "Shaw",
-    "query": "Shaw",
-    "rank": 17,
-    "tweet_count": "22.2K Tweets"
+    "tweet_count": "8,607 Tweets"
   },
   {
     "name": "bjørkan",
     "query": "bjørkan",
-    "rank": 18,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Virginia",
     "query": "Virginia",
-    "rank": 19,
+    "rank": 17,
     "tweet_count": "1.03M Tweets"
   },
   {
     "name": "ham-kam",
     "query": "ham-kam",
-    "rank": 20,
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Sancho",
+    "query": "Sancho",
+    "rank": 19,
+    "tweet_count": "39.6K Tweets"
+  },
+  {
+    "name": "Rashford",
+    "query": "Rashford",
+    "rank": 20,
+    "tweet_count": "16.4K Tweets"
   }
 ]
