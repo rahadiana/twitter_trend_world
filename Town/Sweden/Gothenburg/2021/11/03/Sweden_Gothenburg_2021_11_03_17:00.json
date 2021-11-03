@@ -9,7 +9,7 @@
     "name": "#COP26",
     "query": "#COP26",
     "rank": 2,
-    "tweet_count": "575K Tweets"
+    "tweet_count": "585K Tweets"
   },
   {
     "name": "Sinch",
@@ -21,7 +21,7 @@
     "name": "Virginia",
     "query": "Virginia",
     "rank": 4,
-    "tweet_count": "1.18M Tweets"
+    "tweet_count": "1.2M Tweets"
   },
   {
     "name": "#Guacamoments",
@@ -30,8 +30,8 @@
     "tweet_count": "10.1K Tweets"
   },
   {
-    "name": "#guacthetailgate",
-    "query": "#guacthetailgate",
+    "name": "#GuacTheTailgate",
+    "query": "#GuacTheTailgate",
     "rank": 6,
     "tweet_count": "10.2K Tweets"
   },
@@ -42,50 +42,50 @@
     "tweet_count": "42.3K Tweets"
   },
   {
-    "name": "taemin",
-    "query": "taemin",
-    "rank": 8,
-    "tweet_count": "50.1K Tweets"
-  },
-  {
     "name": "Happy Birthday Ranboo",
     "query": "\"Happy Birthday Ranboo\"",
+    "rank": 8,
+    "tweet_count": "58.5K Tweets"
+  },
+  {
+    "name": "stefan löfven",
+    "query": "\"stefan löfven\"",
     "rank": 9,
-    "tweet_count": "58.3K Tweets"
-  },
-  {
-    "name": "Stefan Löfven",
-    "query": "\"Stefan Löfven\"",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Niki",
-    "query": "Niki",
-    "rank": 11,
-    "tweet_count": "36.2K Tweets"
-  },
-  {
-    "name": "Malmo",
-    "query": "Malmo",
-    "rank": 12,
-    "tweet_count": "18.9K Tweets"
-  },
-  {
-    "name": "Svedberg",
-    "query": "Svedberg",
-    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Riks",
     "query": "Riks",
-    "rank": 14,
+    "rank": 10,
     "tweet_count": null
+  },
+  {
+    "name": "Malmo",
+    "query": "Malmo",
+    "rank": 11,
+    "tweet_count": "18.9K Tweets"
+  },
+  {
+    "name": "Svedberg",
+    "query": "Svedberg",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "Harry Maguire",
+    "query": "\"Harry Maguire\"",
+    "rank": 13,
+    "tweet_count": "27.2K Tweets"
   },
   {
     "name": "Waberi",
     "query": "Waberi",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Svenonius",
+    "query": "Svenonius",
     "rank": 15,
     "tweet_count": null
   },
@@ -96,20 +96,20 @@
     "tweet_count": null
   },
   {
+    "name": "taemin",
+    "query": "taemin",
+    "rank": 17,
+    "tweet_count": "52.8K Tweets"
+  },
+  {
     "name": "EU-nämnden",
     "query": "EU-nämnden",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Damberg",
     "query": "Damberg",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Svenonius",
-    "query": "Svenonius",
     "rank": 19,
     "tweet_count": null
   },
@@ -117,6 +117,6 @@
     "name": "Chelsea",
     "query": "Chelsea",
     "rank": 20,
-    "tweet_count": "95.7K Tweets"
+    "tweet_count": "96.8K Tweets"
   }
 ]

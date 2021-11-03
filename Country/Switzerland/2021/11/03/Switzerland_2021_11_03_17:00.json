@@ -1,15 +1,15 @@
 [
   {
-    "name": "#ohWunder",
-    "query": "#ohWunder",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#COP26",
     "query": "#COP26",
+    "rank": 1,
+    "tweet_count": "586K Tweets"
+  },
+  {
+    "name": "#ohWunder",
+    "query": "#ohWunder",
     "rank": 2,
-    "tweet_count": "576K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Impfwoche",
@@ -24,46 +24,46 @@
     "tweet_count": null
   },
   {
+    "name": "Stück",
+    "query": "Stück",
+    "rank": 5,
+    "tweet_count": "1,695 Tweets"
+  },
+  {
     "name": "Virginia",
     "query": "Virginia",
-    "rank": 5,
-    "tweet_count": "1.18M Tweets"
+    "rank": 6,
+    "tweet_count": "1.2M Tweets"
   },
   {
     "name": "#KohLanta",
     "query": "#KohLanta",
-    "rank": 6,
-    "tweet_count": "87.4K Tweets"
+    "rank": 7,
+    "tweet_count": "87.6K Tweets"
   },
   {
     "name": "#bsk21",
     "query": "#bsk21",
-    "rank": 7,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Bailly",
     "query": "Bailly",
-    "rank": 8,
-    "tweet_count": "118K Tweets"
-  },
-  {
-    "name": "Stück",
-    "query": "Stück",
     "rank": 9,
-    "tweet_count": "1,652 Tweets"
+    "tweet_count": "119K Tweets"
   },
   {
     "name": "Bayern",
     "query": "Bayern",
     "rank": 10,
-    "tweet_count": "71.1K Tweets"
+    "tweet_count": "71.7K Tweets"
   },
   {
-    "name": "Cristiano Ronaldo",
-    "query": "\"Cristiano Ronaldo\"",
+    "name": "Maguire",
+    "query": "Maguire",
     "rank": 11,
-    "tweet_count": "353K Tweets"
+    "tweet_count": "141K Tweets"
   },
   {
     "name": "Coumba",
@@ -75,19 +75,19 @@
     "name": "Le Conseil",
     "query": "\"Le Conseil\"",
     "rank": 13,
-    "tweet_count": "26.7K Tweets"
+    "tweet_count": "27.2K Tweets"
   },
   {
     "name": "Donald Trump",
     "query": "\"Donald Trump\"",
     "rank": 14,
-    "tweet_count": "67.1K Tweets"
+    "tweet_count": "68.3K Tweets"
   },
   {
     "name": "Analyse",
     "query": "Analyse",
     "rank": 15,
-    "tweet_count": "10.5K Tweets"
+    "tweet_count": "10.7K Tweets"
   },
   {
     "name": "kanne",
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
+    "name": "Impfung",
+    "query": "Impfung",
+    "rank": 17,
+    "tweet_count": "29.6K Tweets"
+  },
+  {
     "name": "Testen",
     "query": "Testen",
-    "rank": 17,
-    "tweet_count": "9,011 Tweets"
+    "rank": 18,
+    "tweet_count": "9,147 Tweets"
   },
   {
     "name": "gesuch",
     "query": "gesuch",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Microsoft",
     "query": "Microsoft",
-    "rank": 19,
-    "tweet_count": "69.7K Tweets"
-  },
-  {
-    "name": "rapperswil",
-    "query": "rapperswil",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "71.2K Tweets"
   }
 ]
