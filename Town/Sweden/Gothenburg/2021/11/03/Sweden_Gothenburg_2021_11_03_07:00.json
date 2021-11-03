@@ -6,34 +6,34 @@
     "tweet_count": "1M Tweets"
   },
   {
-    "name": "Godmorgon",
-    "query": "Godmorgon",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
     "name": "#COP26",
     "query": "#COP26",
+    "rank": 2,
+    "tweet_count": "676K Tweets"
+  },
+  {
+    "name": "Godmorgon",
+    "query": "Godmorgon",
     "rank": 3,
-    "tweet_count": "673K Tweets"
-  },
-  {
-    "name": "#ATAMUN",
-    "query": "#ATAMUN",
-    "rank": 4,
-    "tweet_count": "40.3K Tweets"
-  },
-  {
-    "name": "Chelsea",
-    "query": "Chelsea",
-    "rank": 5,
-    "tweet_count": "129K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Magdalena Andersson",
     "query": "\"Magdalena Andersson\"",
-    "rank": 6,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "Pogba",
+    "query": "Pogba",
+    "rank": 5,
+    "tweet_count": "60.6K Tweets"
+  },
+  {
+    "name": "Chelsea",
+    "query": "Chelsea",
+    "rank": 6,
+    "tweet_count": "130K Tweets"
   },
   {
     "name": "#Guacamoments",
@@ -60,50 +60,50 @@
     "tweet_count": null
   },
   {
+    "name": "#GuacTheTailgate",
+    "query": "#GuacTheTailgate",
+    "rank": 11,
+    "tweet_count": "10.2K Tweets"
+  },
+  {
     "name": "Bartosz",
     "query": "Bartosz",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Sinch",
     "query": "Sinch",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "HAPPY BIRTHDAY RANBOO",
     "query": "\"HAPPY BIRTHDAY RANBOO\"",
-    "rank": 13,
-    "tweet_count": "50.4K Tweets"
+    "rank": 14,
+    "tweet_count": "50.5K Tweets"
   },
   {
     "name": "Halloween",
     "query": "Halloween",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": "1.05M Tweets"
   },
   {
     "name": "Waberi",
     "query": "Waberi",
-    "rank": 15,
-    "tweet_count": "1,233 Tweets"
+    "rank": 16,
+    "tweet_count": "1,236 Tweets"
+  },
+  {
+    "name": "Moderaterna",
+    "query": "Moderaterna",
+    "rank": 17,
+    "tweet_count": "2,392 Tweets"
   },
   {
     "name": "Krya",
     "query": "Krya",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Chris Pratt",
-    "query": "\"Chris Pratt\"",
-    "rank": 17,
-    "tweet_count": "124K Tweets"
-  },
-  {
-    "name": "damberg",
-    "query": "damberg",
     "rank": 18,
     "tweet_count": null
   },
@@ -117,6 +117,6 @@
     "name": "Tina",
     "query": "Tina",
     "rank": 20,
-    "tweet_count": "26.5K Tweets"
+    "tweet_count": "26.6K Tweets"
   }
 ]
