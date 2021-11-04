@@ -1,21 +1,21 @@
 [
   {
+    "name": "#dkpol",
+    "query": "#dkpol",
+    "rank": 1,
+    "tweet_count": "6,007 Tweets"
+  },
+  {
     "name": "#minkgate",
     "query": "#minkgate",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Mette",
     "query": "Mette",
-    "rank": 2,
-    "tweet_count": "11.1K Tweets"
-  },
-  {
-    "name": "#dkpol",
-    "query": "#dkpol",
     "rank": 3,
-    "tweet_count": "5,935 Tweets"
+    "tweet_count": "11.2K Tweets"
   },
   {
     "name": "#cldk",
@@ -27,7 +27,7 @@
     "name": "iCloud",
     "query": "iCloud",
     "rank": 5,
-    "tweet_count": "4,620 Tweets"
+    "tweet_count": "4,748 Tweets"
   },
   {
     "name": "Barbara Bertelsen",
@@ -45,31 +45,31 @@
     "name": "Signal",
     "query": "Signal",
     "rank": 8,
-    "tweet_count": "49.7K Tweets"
+    "tweet_count": "50.2K Tweets"
+  },
+  {
+    "name": "SMS'er",
+    "query": "SMS'er",
+    "rank": 9,
+    "tweet_count": "2,143 Tweets"
   },
   {
     "name": "#LIVATM",
     "query": "#LIVATM",
-    "rank": 9,
-    "tweet_count": "44.2K Tweets"
+    "rank": 10,
+    "tweet_count": "44.4K Tweets"
   },
   {
     "name": "knud meldgaard",
     "query": "\"knud meldgaard\"",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "#pressemøde",
     "query": "#pressemøde",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "SMS'er",
-    "query": "SMS'er",
     "rank": 12,
-    "tweet_count": "2,114 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Kurt Thyboe",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
-    "name": "Mogens Jensen",
-    "query": "\"Mogens Jensen\"",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
     "name": "Statsministeren",
     "query": "Statsministeren",
-    "rank": 17,
-    "tweet_count": "1,183 Tweets"
+    "rank": 16,
+    "tweet_count": "1,200 Tweets"
   },
   {
     "name": "iPhone",
     "query": "iPhone",
-    "rank": 18,
-    "tweet_count": "355K Tweets"
+    "rank": 17,
+    "tweet_count": "359K Tweets"
   },
   {
     "name": "Maguire",
     "query": "Maguire",
+    "rank": 18,
+    "tweet_count": "44.6K Tweets"
+  },
+  {
+    "name": "Mogens",
+    "query": "Mogens",
     "rank": 19,
-    "tweet_count": "44.5K Tweets"
+    "tweet_count": null
   },
   {
     "name": "iMessage",
     "query": "iMessage",
     "rank": 20,
-    "tweet_count": "4,333 Tweets"
+    "tweet_count": "4,372 Tweets"
   }
 ]
