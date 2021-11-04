@@ -1,63 +1,63 @@
 [
   {
-    "name": "Pandemie",
-    "query": "Pandemie",
-    "rank": 1,
-    "tweet_count": "28.8K Tweets"
-  },
-  {
     "name": "Ludwig",
     "query": "Ludwig",
-    "rank": 2,
-    "tweet_count": "5,555 Tweets"
+    "rank": 1,
+    "tweet_count": "5,840 Tweets"
   },
   {
     "name": "#BVBAJA",
     "query": "#BVBAJA",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": "20.7K Tweets"
   },
   {
-    "name": "#wienliebe",
-    "query": "#wienliebe",
-    "rank": 4,
-    "tweet_count": null
+    "name": "Wien",
+    "query": "Wien",
+    "rank": 3,
+    "tweet_count": "8,188 Tweets"
   },
   {
-    "name": "#Kickl",
-    "query": "#Kickl",
-    "rank": 5,
+    "name": "Kickl",
+    "query": "Kickl",
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "#Neuinfektionen",
     "query": "#Neuinfektionen",
-    "rank": 6,
-    "tweet_count": "1,884 Tweets"
+    "rank": 5,
+    "tweet_count": "1,943 Tweets"
   },
   {
     "name": "Maßnahmen",
     "query": "Maßnahmen",
-    "rank": 7,
-    "tweet_count": "8,262 Tweets"
+    "rank": 6,
+    "tweet_count": "8,460 Tweets"
   },
   {
     "name": "#Stelzer",
     "query": "#Stelzer",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "#Pressekonferenz",
+    "query": "#Pressekonferenz",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Gastro",
-    "query": "Gastro",
+    "name": "#Pilnacek",
+    "query": "#Pilnacek",
     "rank": 9,
-    "tweet_count": "2,428 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Lockdown",
     "query": "Lockdown",
     "rank": 10,
-    "tweet_count": "53.8K Tweets"
+    "tweet_count": "54.7K Tweets"
   },
   {
     "name": "Impflotterie",
@@ -69,13 +69,13 @@
     "name": "Baum",
     "query": "Baum",
     "rank": 12,
-    "tweet_count": "2,501 Tweets"
+    "tweet_count": "2,556 Tweets"
   },
   {
-    "name": "stuhl",
-    "query": "stuhl",
+    "name": "Pandemie",
+    "query": "Pandemie",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "29.6K Tweets"
   },
   {
     "name": "links sessel",
@@ -87,36 +87,36 @@
     "name": "taemin",
     "query": "taemin",
     "rank": 15,
-    "tweet_count": "65.4K Tweets"
+    "tweet_count": "66.1K Tweets"
+  },
+  {
+    "name": "Gastro",
+    "query": "Gastro",
+    "rank": 16,
+    "tweet_count": "2,484 Tweets"
   },
   {
     "name": "Verlauf",
     "query": "Verlauf",
-    "rank": 16,
-    "tweet_count": "1,509 Tweets"
+    "rank": 17,
+    "tweet_count": "1,542 Tweets"
   },
   {
-    "name": "Missstand",
-    "query": "Missstand",
-    "rank": 17,
+    "name": "Stuhl",
+    "query": "Stuhl",
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Doskozil",
     "query": "Doskozil",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Wachstum",
-    "query": "Wachstum",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "fauteuil",
-    "query": "fauteuil",
+    "name": "missstand",
+    "query": "missstand",
     "rank": 20,
-    "tweet_count": "1,128 Tweets"
+    "tweet_count": null
   }
 ]
