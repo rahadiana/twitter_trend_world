@@ -1,15 +1,15 @@
 [
   {
-    "name": "#Pilnacek",
-    "query": "#Pilnacek",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#BVBAJA",
     "query": "#BVBAJA",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "20.2K Tweets"
+  },
+  {
+    "name": "#Pilnacek",
+    "query": "#Pilnacek",
+    "rank": 2,
+    "tweet_count": null
   },
   {
     "name": "#dok1",
@@ -33,7 +33,7 @@
     "name": "Baum",
     "query": "Baum",
     "rank": 6,
-    "tweet_count": "2,749 Tweets"
+    "tweet_count": "2,768 Tweets"
   },
   {
     "name": "Links Sessel",
@@ -48,75 +48,75 @@
     "tweet_count": null
   },
   {
-    "name": "Freispruch",
-    "query": "Freispruch",
+    "name": "Neuinfektionen",
+    "query": "Neuinfektionen",
     "rank": 9,
+    "tweet_count": "3,720 Tweets"
+  },
+  {
+    "name": "freispruch",
+    "query": "freispruch",
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Stuhl",
     "query": "Stuhl",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "taemin",
-    "query": "taemin",
     "rank": 11,
-    "tweet_count": "84.1K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Lockdown",
     "query": "Lockdown",
     "rank": 12,
-    "tweet_count": "59K Tweets"
+    "tweet_count": "59.5K Tweets"
   },
   {
-    "name": "Peter",
-    "query": "Peter",
+    "name": "taemin",
+    "query": "taemin",
     "rank": 13,
-    "tweet_count": "126K Tweets"
-  },
-  {
-    "name": "schnitt",
-    "query": "schnitt",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Namjoon",
-    "query": "Namjoon",
-    "rank": 15,
-    "tweet_count": "379K Tweets"
-  },
-  {
-    "name": "Verlauf",
-    "query": "Verlauf",
-    "rank": 16,
-    "tweet_count": "1,403 Tweets"
-  },
-  {
-    "name": "missstand",
-    "query": "missstand",
-    "rank": 17,
-    "tweet_count": null
+    "tweet_count": "84.3K Tweets"
   },
   {
     "name": "Pandemie",
     "query": "Pandemie",
+    "rank": 14,
+    "tweet_count": "29.7K Tweets"
+  },
+  {
+    "name": "Peter",
+    "query": "Peter",
+    "rank": 15,
+    "tweet_count": "127K Tweets"
+  },
+  {
+    "name": "Missstand",
+    "query": "Missstand",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "namjoon",
+    "query": "namjoon",
+    "rank": 17,
+    "tweet_count": "380K Tweets"
+  },
+  {
+    "name": "Schnitt",
+    "query": "Schnitt",
     "rank": 18,
-    "tweet_count": "29.4K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Verlauf",
+    "query": "Verlauf",
+    "rank": 19,
+    "tweet_count": "1,418 Tweets"
   },
   {
     "name": "Fauteuil",
     "query": "Fauteuil",
-    "rank": 19,
-    "tweet_count": "1,227 Tweets"
-  },
-  {
-    "name": "Akku",
-    "query": "Akku",
     "rank": 20,
-    "tweet_count": "1,531 Tweets"
+    "tweet_count": "1,239 Tweets"
   }
 ]
