@@ -1,57 +1,57 @@
 [
   {
-    "name": "Joe Rogan",
-    "query": "\"Joe Rogan\"",
-    "rank": 1,
-    "tweet_count": "4,854 Tweets"
-  },
-  {
     "name": "#eqnz",
     "query": "#eqnz",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Joe Rogan",
+    "query": "\"Joe Rogan\"",
+    "rank": 2,
+    "tweet_count": "4,935 Tweets"
   },
   {
     "name": "Diwali",
     "query": "Diwali",
     "rank": 3,
-    "tweet_count": "1.37M Tweets"
+    "tweet_count": "1.42M Tweets"
   },
   {
-    "name": "#nzvsco",
-    "query": "#nzvsco",
+    "name": "#NZvSCO",
+    "query": "#NZvSCO",
     "rank": 4,
     "tweet_count": "10.2K Tweets"
   },
   {
-    "name": "Christmas",
-    "query": "Christmas",
+    "name": "#aurora",
+    "query": "#aurora",
     "rank": 5,
-    "tweet_count": "269K Tweets"
+    "tweet_count": "5,821 Tweets"
   },
   {
     "name": "Cleo Smith",
     "query": "\"Cleo Smith\"",
     "rank": 6,
-    "tweet_count": "13.1K Tweets"
+    "tweet_count": "13.4K Tweets"
+  },
+  {
+    "name": "Christmas",
+    "query": "Christmas",
+    "rank": 7,
+    "tweet_count": "274K Tweets"
   },
   {
     "name": "simeon",
     "query": "simeon",
-    "rank": 7,
-    "tweet_count": "2,556 Tweets"
+    "rank": 8,
+    "tweet_count": "2,586 Tweets"
   },
   {
     "name": "Aucklanders",
     "query": "Aucklanders",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "John Key",
-    "query": "\"John Key\"",
     "rank": 9,
-    "tweet_count": "1,693 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Whanganui",
@@ -60,10 +60,10 @@
     "tweet_count": null
   },
   {
-    "name": "Aurora",
-    "query": "Aurora",
+    "name": "Guy Fawkes",
+    "query": "\"Guy Fawkes\"",
     "rank": 11,
-    "tweet_count": "41.2K Tweets"
+    "tweet_count": "2,264 Tweets"
   },
   {
     "name": "Christine Fletcher",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
-    "name": "sign the petition",
-    "query": "\"sign the petition\"",
+    "name": "Sign the Petition",
+    "query": "\"Sign the Petition\"",
     "rank": 16,
-    "tweet_count": "25.9K Tweets"
+    "tweet_count": "26.5K Tweets"
   },
   {
     "name": "Bloomfield",
     "query": "Bloomfield",
     "rank": 17,
-    "tweet_count": "1,262 Tweets"
+    "tweet_count": "1,277 Tweets"
+  },
+  {
+    "name": "John Key",
+    "query": "\"John Key\"",
+    "rank": 18,
+    "tweet_count": "1,701 Tweets"
   },
   {
     "name": "Hipkins",
     "query": "Hipkins",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "#Eternals",
     "query": "#Eternals",
-    "rank": 19,
-    "tweet_count": "67.2K Tweets"
-  },
-  {
-    "name": "Virginia",
-    "query": "Virginia",
     "rank": 20,
-    "tweet_count": "773K Tweets"
+    "tweet_count": "68.5K Tweets"
   }
 ]
