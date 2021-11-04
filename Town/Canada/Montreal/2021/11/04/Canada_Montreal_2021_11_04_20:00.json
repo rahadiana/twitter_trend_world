@@ -1,93 +1,93 @@
 [
   {
-    "name": "Air Canada",
-    "query": "\"Air Canada\"",
-    "rank": 1,
-    "tweet_count": "9,626 Tweets"
-  },
-  {
     "name": "Happy Diwali",
     "query": "\"Happy Diwali\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "1.12M Tweets"
   },
   {
     "name": "#flames1stGoal",
     "query": "#flames1stGoal",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Premier Horgan",
     "query": "\"Premier Horgan\"",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "#CanMNT",
+    "query": "#CanMNT",
     "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "John Horgan",
-    "query": "\"John Horgan\"",
+    "name": "#ELDENRING",
+    "query": "#ELDENRING",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "32K Tweets"
   },
   {
-    "name": "Elden Ring",
-    "query": "\"Elden Ring\"",
+    "name": "John Horgan",
+    "query": "\"John Horgan\"",
     "rank": 6,
-    "tweet_count": "59.2K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Dave Portnoy",
     "query": "\"Dave Portnoy\"",
     "rank": 7,
-    "tweet_count": "13.6K Tweets"
-  },
-  {
-    "name": "#CanMNT",
-    "query": "#CanMNT",
-    "rank": 8,
-    "tweet_count": null
+    "tweet_count": "14.8K Tweets"
   },
   {
     "name": "Sarver",
     "query": "Sarver",
+    "rank": 8,
+    "tweet_count": "24.3K Tweets"
+  },
+  {
+    "name": "#BuildOntario",
+    "query": "#BuildOntario",
     "rank": 9,
-    "tweet_count": "23.2K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Eichel",
     "query": "Eichel",
     "rank": 10,
-    "tweet_count": "36.6K Tweets"
-  },
-  {
-    "name": "Rand Paul",
-    "query": "\"Rand Paul\"",
-    "rank": 11,
-    "tweet_count": "24.3K Tweets"
+    "tweet_count": "37K Tweets"
   },
   {
     "name": "Moose",
     "query": "Moose",
+    "rank": 11,
+    "tweet_count": "13.5K Tweets"
+  },
+  {
+    "name": "Rand Paul",
+    "query": "\"Rand Paul\"",
     "rank": 12,
-    "tweet_count": "12.9K Tweets"
+    "tweet_count": "26.1K Tweets"
   },
   {
     "name": "Saskatoon",
     "query": "Saskatoon",
     "rank": 13,
-    "tweet_count": "4,653 Tweets"
+    "tweet_count": "4,966 Tweets"
   },
   {
     "name": "#RedTaylorsVersion",
     "query": "#RedTaylorsVersion",
     "rank": 14,
-    "tweet_count": "16.3K Tweets"
+    "tweet_count": "17.1K Tweets"
   },
   {
     "name": "Persona 5",
     "query": "\"Persona 5\"",
     "rank": 15,
-    "tweet_count": "11.1K Tweets"
+    "tweet_count": "11.7K Tweets"
   },
   {
     "name": "Meanwhile in Canada",
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
-    "name": "#Mapat20",
-    "query": "#Mapat20",
+    "name": "Bill Davis",
+    "query": "\"Bill Davis\"",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Bill Davis",
-    "query": "\"Bill Davis\"",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Rousseau",
-    "query": "Rousseau",
-    "rank": 19,
-    "tweet_count": "4,515 Tweets"
-  },
-  {
     "name": "Brian Jean",
     "query": "\"Brian Jean\"",
+    "rank": 18,
+    "tweet_count": "1,223 Tweets"
+  },
+  {
+    "name": "Michael Rousseau",
+    "query": "\"Michael Rousseau\"",
+    "rank": 19,
+    "tweet_count": "1,770 Tweets"
+  },
+  {
+    "name": "Vanguard",
+    "query": "Vanguard",
     "rank": 20,
-    "tweet_count": "1,195 Tweets"
+    "tweet_count": "87.1K Tweets"
   }
 ]

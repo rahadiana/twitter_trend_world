@@ -1,39 +1,39 @@
 [
   {
+    "name": "Miranda",
+    "query": "Miranda",
+    "rank": 1,
+    "tweet_count": "28.9K Tweets"
+  },
+  {
     "name": "Joaquín",
     "query": "Joaquín",
-    "rank": 1,
-    "tweet_count": "19K Tweets"
+    "rank": 2,
+    "tweet_count": "19.4K Tweets"
   },
   {
     "name": "Igualada",
     "query": "Igualada",
-    "rank": 2,
-    "tweet_count": "45K Tweets"
+    "rank": 3,
+    "tweet_count": "45.9K Tweets"
   },
   {
     "name": "#SecretGala8",
     "query": "#SecretGala8",
-    "rank": 3,
-    "tweet_count": "15.6K Tweets"
+    "rank": 4,
+    "tweet_count": "20.1K Tweets"
   },
   {
     "name": "#Secret4N",
     "query": "#Secret4N",
-    "rank": 4,
-    "tweet_count": "62.7K Tweets"
+    "rank": 5,
+    "tweet_count": "65.2K Tweets"
   },
   {
     "name": "#MásGiraParaAnaGuerra",
     "query": "#MásGiraParaAnaGuerra",
-    "rank": 5,
-    "tweet_count": "1,500 Tweets"
-  },
-  {
-    "name": "Stuani",
-    "query": "Stuani",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "2,091 Tweets"
   },
   {
     "name": "#Pasapalabra388",
@@ -42,75 +42,81 @@
     "tweet_count": null
   },
   {
+    "name": "#CrisLu4N",
+    "query": "#CrisLu4N",
+    "rank": 8,
+    "tweet_count": "43.7K Tweets"
+  },
+  {
+    "name": "Stuani",
+    "query": "Stuani",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
     "name": "Elden Ring",
     "query": "\"Elden Ring\"",
-    "rank": 8,
-    "tweet_count": "59.2K Tweets"
-  },
-  {
-    "name": "Zaragoza",
-    "query": "Zaragoza",
-    "rank": 9,
-    "tweet_count": "9,288 Tweets"
-  },
-  {
-    "name": "Álvaro Giménez",
-    "query": "\"Álvaro Giménez\"",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "60.5K Tweets"
   },
   {
     "name": "Rufián",
     "query": "Rufián",
     "rank": 11,
-    "tweet_count": "15.3K Tweets"
+    "tweet_count": "16K Tweets"
+  },
+  {
+    "name": "Bartra",
+    "query": "Bartra",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "Álvaro Giménez",
+    "query": "\"Álvaro Giménez\"",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Zaragoza",
+    "query": "Zaragoza",
+    "rank": 14,
+    "tweet_count": "9,604 Tweets"
   },
   {
     "name": "Mónaco",
     "query": "Mónaco",
-    "rank": 12,
-    "tweet_count": "10.4K Tweets"
-  },
-  {
-    "name": "Bermejo",
-    "query": "Bermejo",
-    "rank": 13,
-    "tweet_count": "3,203 Tweets"
-  },
-  {
-    "name": "Lost Ark",
-    "query": "\"Lost Ark\"",
-    "rank": 14,
-    "tweet_count": "4,951 Tweets"
+    "rank": 15,
+    "tweet_count": "11K Tweets"
   },
   {
     "name": "Portu",
     "query": "Portu",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": null
+  },
+  {
+    "name": "Lost Ark",
+    "query": "\"Lost Ark\"",
+    "rank": 17,
+    "tweet_count": "5,128 Tweets"
+  },
+  {
+    "name": "Bermejo",
+    "query": "Bermejo",
+    "rank": 18,
+    "tweet_count": "3,251 Tweets"
   },
   {
     "name": "Mirasierra",
     "query": "Mirasierra",
-    "rank": 16,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Zapater",
     "query": "Zapater",
-    "rank": 17,
+    "rank": 20,
     "tweet_count": null
-  },
-  {
-    "name": "Sturm Graz",
-    "query": "\"Sturm Graz\"",
-    "rank": 18,
-    "tweet_count": "1,333 Tweets"
-  },
-  {
-    "name": "Jinx",
-    "query": "Jinx",
-    "rank": 19,
-    "tweet_count": "30.4K Tweets"
   }
 ]

@@ -1,27 +1,27 @@
 [
   {
+    "name": "#sasmos",
+    "query": "#sasmos",
+    "rank": 1,
+    "tweet_count": "5,760 Tweets"
+  },
+  {
     "name": "#με_τον_Κεριακο",
     "query": "#με_τον_Κεριακο",
-    "rank": 1,
-    "tweet_count": "8,345 Tweets"
+    "rank": 2,
+    "tweet_count": "8,570 Tweets"
   },
   {
     "name": "#paobc",
     "query": "#paobc",
-    "rank": 2,
-    "tweet_count": "2,047 Tweets"
+    "rank": 3,
+    "tweet_count": "2,141 Tweets"
   },
   {
     "name": "#OLYSGE",
     "query": "#OLYSGE",
-    "rank": 3,
-    "tweet_count": "2,669 Tweets"
-  },
-  {
-    "name": "#sasmos",
-    "query": "#sasmos",
     "rank": 4,
-    "tweet_count": "4,587 Tweets"
+    "tweet_count": "2,791 Tweets"
   },
   {
     "name": "#OLYFRA",
@@ -42,56 +42,56 @@
     "tweet_count": null
   },
   {
-    "name": "Merck",
-    "query": "Merck",
+    "name": "Αστερη",
+    "query": "Αστερη",
     "rank": 8,
-    "tweet_count": "29.3K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Ιερα Συνοδος",
-    "query": "\"Ιερα Συνοδος\"",
+    "name": "Καλλιοπη",
+    "query": "Καλλιοπη",
     "rank": 9,
-    "tweet_count": "2,143 Tweets"
-  },
-  {
-    "name": "Πριφτη",
-    "query": "Πριφτη",
-    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Βελιγραδι",
     "query": "Βελιγραδι",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Ονιεκουρου",
-    "query": "Ονιεκουρου",
+    "name": "Merck",
+    "query": "Merck",
+    "rank": 11,
+    "tweet_count": "29.7K Tweets"
+  },
+  {
+    "name": "Ιερα Συνοδος",
+    "query": "\"Ιερα Συνοδος\"",
     "rank": 12,
+    "tweet_count": "2,190 Tweets"
+  },
+  {
+    "name": "Πριφτης",
+    "query": "Πριφτης",
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Αιντραχτ",
     "query": "Αιντραχτ",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Αστερη",
-    "query": "Αστερη",
     "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "αρετουλα",
-    "query": "αρετουλα",
+    "name": "Ονιεκουρου",
+    "query": "Ονιεκουρου",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "Ελ Αραμπι",
-    "query": "\"Ελ Αραμπι\"",
+    "name": "ελ αραμπι",
+    "query": "\"ελ αραμπι\"",
     "rank": 16,
     "tweet_count": null
   },
@@ -102,8 +102,8 @@
     "tweet_count": null
   },
   {
-    "name": "Καλλιοπη",
-    "query": "Καλλιοπη",
+    "name": "Ολυμπιακος",
+    "query": "Ολυμπιακος",
     "rank": 18,
     "tweet_count": null
   },
@@ -114,8 +114,8 @@
     "tweet_count": null
   },
   {
-    "name": "Σταθη",
-    "query": "Σταθη",
+    "name": "Πετρης",
+    "query": "Πετρης",
     "rank": 20,
     "tweet_count": null
   }
