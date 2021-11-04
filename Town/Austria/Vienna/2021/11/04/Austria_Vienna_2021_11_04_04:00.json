@@ -1,15 +1,15 @@
 [
   {
-    "name": "#orfreport",
-    "query": "#orfreport",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#zib2",
     "query": "#zib2",
+    "rank": 1,
+    "tweet_count": "1,127 Tweets"
+  },
+  {
+    "name": "#orfreport",
+    "query": "#orfreport",
     "rank": 2,
-    "tweet_count": "1,151 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#pilnacek",
@@ -24,8 +24,8 @@
     "tweet_count": "19.3K Tweets"
   },
   {
-    "name": "#dok1",
-    "query": "#dok1",
+    "name": "#Dok1",
+    "query": "#Dok1",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,17 +33,17 @@
     "name": "Baum",
     "query": "Baum",
     "rank": 6,
-    "tweet_count": "2,565 Tweets"
+    "tweet_count": "2,581 Tweets"
   },
   {
-    "name": "Freispruch",
-    "query": "Freispruch",
+    "name": "freispruch",
+    "query": "freispruch",
     "rank": 7,
     "tweet_count": null
   },
   {
-    "name": "Impflotterie",
-    "query": "Impflotterie",
+    "name": "impflotterie",
+    "query": "impflotterie",
     "rank": 8,
     "tweet_count": null
   },
@@ -51,7 +51,7 @@
     "name": "taemin",
     "query": "taemin",
     "rank": 9,
-    "tweet_count": "79.5K Tweets"
+    "tweet_count": "80.8K Tweets"
   },
   {
     "name": "Schnitt",
@@ -60,46 +60,46 @@
     "tweet_count": null
   },
   {
-    "name": "Missstand",
-    "query": "Missstand",
+    "name": "drohung",
+    "query": "drohung",
     "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "Verlauf",
-    "query": "Verlauf",
+    "name": "Missstand",
+    "query": "Missstand",
     "rank": 12,
-    "tweet_count": "1,331 Tweets"
-  },
-  {
-    "name": "drohung",
-    "query": "drohung",
-    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "namjoon",
     "query": "namjoon",
-    "rank": 14,
-    "tweet_count": "361K Tweets"
+    "rank": 13,
+    "tweet_count": "367K Tweets"
   },
   {
     "name": "Vorsatz",
     "query": "Vorsatz",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "stuhl",
-    "query": "stuhl",
-    "rank": 16,
+    "name": "Stuhl",
+    "query": "Stuhl",
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Akku",
     "query": "Akku",
+    "rank": 16,
+    "tweet_count": "1,524 Tweets"
+  },
+  {
+    "name": "Verlauf",
+    "query": "Verlauf",
     "rank": 17,
-    "tweet_count": "1,487 Tweets"
+    "tweet_count": "1,341 Tweets"
   },
   {
     "name": "Richterin",
@@ -108,14 +108,14 @@
     "tweet_count": null
   },
   {
-    "name": "Stefan Weber",
-    "query": "\"Stefan Weber\"",
+    "name": "Tory",
+    "query": "Tory",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "240K Tweets"
   },
   {
-    "name": "empörung",
-    "query": "empörung",
+    "name": "stefan weber",
+    "query": "\"stefan weber\"",
     "rank": 20,
     "tweet_count": null
   }
