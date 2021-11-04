@@ -1,50 +1,122 @@
 [
   {
-    "name": "Buffalo",
-    "query": "Buffalo",
-    "rank": 1,
-    "tweet_count": "48.8K Tweets"
-  },
-  {
     "name": "Quebec",
     "query": "Quebec",
-    "rank": 2,
-    "tweet_count": "36.6K Tweets"
-  },
-  {
-    "name": "Air Canada",
-    "query": "\"Air Canada\"",
-    "rank": 3,
-    "tweet_count": "9,355 Tweets"
-  },
-  {
-    "name": "Eichel",
-    "query": "Eichel",
-    "rank": 4,
-    "tweet_count": "32.1K Tweets"
+    "rank": 1,
+    "tweet_count": "37.4K Tweets"
   },
   {
     "name": "Happy Diwali",
     "query": "\"Happy Diwali\"",
+    "rank": 2,
+    "tweet_count": "1.04M Tweets"
+  },
+  {
+    "name": "Eichel",
+    "query": "Eichel",
+    "rank": 3,
+    "tweet_count": "32.9K Tweets"
+  },
+  {
+    "name": "#Flames1stGoal",
+    "query": "#Flames1stGoal",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "Elden Ring",
+    "query": "\"Elden Ring\"",
     "rank": 5,
-    "tweet_count": "1.03M Tweets"
+    "tweet_count": "51.8K Tweets"
+  },
+  {
+    "name": "Sarver",
+    "query": "Sarver",
+    "rank": 6,
+    "tweet_count": "12.4K Tweets"
+  },
+  {
+    "name": "Air Canada",
+    "query": "\"Air Canada\"",
+    "rank": 7,
+    "tweet_count": "9,582 Tweets"
+  },
+  {
+    "name": "Stone",
+    "query": "Stone",
+    "rank": 8,
+    "tweet_count": "79.2K Tweets"
+  },
+  {
+    "name": "Brian Jean",
+    "query": "\"Brian Jean\"",
+    "rank": 9,
+    "tweet_count": null
   },
   {
     "name": "Rousseau",
     "query": "Rousseau",
-    "rank": 6,
-    "tweet_count": "4,328 Tweets"
+    "rank": 10,
+    "tweet_count": "4,472 Tweets"
   },
   {
-    "name": "Le PDG",
-    "query": "\"Le PDG\"",
-    "rank": 7,
-    "tweet_count": "3,057 Tweets"
-  },
-  {
-    "name": "CHSLD",
-    "query": "CHSLD",
-    "rank": 8,
+    "name": "LTIR",
+    "query": "LTIR",
+    "rank": 11,
     "tweet_count": null
+  },
+  {
+    "name": "Bill Davis",
+    "query": "\"Bill Davis\"",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "#thursdayvibes",
+    "query": "#thursdayvibes",
+    "rank": 13,
+    "tweet_count": "16.5K Tweets"
+  },
+  {
+    "name": "#HappyDeepavali",
+    "query": "#HappyDeepavali",
+    "rank": 14,
+    "tweet_count": "186K Tweets"
+  },
+  {
+    "name": "#BandiChhorDivas",
+    "query": "#BandiChhorDivas",
+    "rank": 15,
+    "tweet_count": "2,227 Tweets"
+  },
+  {
+    "name": "Animal Crossing",
+    "query": "\"Animal Crossing\"",
+    "rank": 16,
+    "tweet_count": "92K Tweets"
+  },
+  {
+    "name": "#straykids",
+    "query": "#straykids",
+    "rank": 17,
+    "tweet_count": "1.84M Tweets"
+  },
+  {
+    "name": "Hindu",
+    "query": "Hindu",
+    "rank": 18,
+    "tweet_count": "87.6K Tweets"
+  },
+  {
+    "name": "Treliving",
+    "query": "Treliving",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Dembele",
+    "query": "Dembele",
+    "rank": 20,
+    "tweet_count": "38.6K Tweets"
   }
 ]
