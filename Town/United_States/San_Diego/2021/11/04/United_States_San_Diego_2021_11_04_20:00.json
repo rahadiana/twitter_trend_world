@@ -9,31 +9,31 @@
     "name": "Newsmax",
     "query": "Newsmax",
     "rank": 2,
-    "tweet_count": "61K Tweets"
+    "tweet_count": "61.6K Tweets"
   },
   {
-    "name": "Rittenhouse",
-    "query": "Rittenhouse",
+    "name": "DJax",
+    "query": "DJax",
     "rank": 3,
-    "tweet_count": "106K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Canelo",
     "query": "Canelo",
     "rank": 4,
-    "tweet_count": "16.4K Tweets"
-  },
-  {
-    "name": "#BreedersCup",
-    "query": "#BreedersCup",
-    "rank": 5,
-    "tweet_count": "1,772 Tweets"
+    "tweet_count": "16.5K Tweets"
   },
   {
     "name": "changmin",
     "query": "changmin",
+    "rank": 5,
+    "tweet_count": "57.8K Tweets"
+  },
+  {
+    "name": "#BreedersCup",
+    "query": "#BreedersCup",
     "rank": 6,
-    "tweet_count": "57.7K Tweets"
+    "tweet_count": "1,784 Tweets"
   },
   {
     "name": "Kathy",
@@ -42,69 +42,63 @@
     "tweet_count": "11.5K Tweets"
   },
   {
-    "name": "Derek Carr",
-    "query": "\"Derek Carr\"",
+    "name": "Carr",
+    "query": "Carr",
     "rank": 8,
-    "tweet_count": "24.5K Tweets"
+    "tweet_count": "35.8K Tweets"
   },
   {
     "name": "Joe Budden",
     "query": "\"Joe Budden\"",
     "rank": 9,
-    "tweet_count": "4,236 Tweets"
+    "tweet_count": "4,667 Tweets"
   },
   {
     "name": "Dave Portnoy",
     "query": "\"Dave Portnoy\"",
     "rank": 10,
-    "tweet_count": "14.8K Tweets"
+    "tweet_count": "15.3K Tweets"
   },
   {
     "name": "OSHA",
     "query": "OSHA",
     "rank": 11,
-    "tweet_count": "69.8K Tweets"
+    "tweet_count": "70.9K Tweets"
   },
   {
     "name": "Anna Faris",
     "query": "\"Anna Faris\"",
     "rank": 12,
-    "tweet_count": "5,266 Tweets"
+    "tweet_count": "5,658 Tweets"
   },
   {
     "name": "Sarver",
     "query": "Sarver",
     "rank": 13,
-    "tweet_count": "24.3K Tweets"
+    "tweet_count": "24.7K Tweets"
   },
   {
     "name": "Maserati",
     "query": "Maserati",
     "rank": 14,
-    "tweet_count": "5,500 Tweets"
-  },
-  {
-    "name": "Elden Ring",
-    "query": "\"Elden Ring\"",
-    "rank": 15,
-    "tweet_count": "60.5K Tweets"
+    "tweet_count": "5,841 Tweets"
   },
   {
     "name": "Rand Paul",
     "query": "\"Rand Paul\"",
+    "rank": 15,
+    "tweet_count": "26.9K Tweets"
+  },
+  {
+    "name": "Elden Ring",
+    "query": "\"Elden Ring\"",
     "rank": 16,
-    "tweet_count": "26.2K Tweets"
+    "tweet_count": "60.9K Tweets"
   },
   {
     "name": "Happy Diwali",
     "query": "\"Happy Diwali\"",
     "rank": 17,
-    "tweet_count": "1.12M Tweets"
-  },
-  {
-    "name": "Jenna Ryan",
-    "query": "\"Jenna Ryan\"",
-    "rank": 18,
-    "tweet_count": "22.2K Tweets"
+    "tweet_count": "1.13M Tweets"
   }
 ]

@@ -3,7 +3,7 @@
     "name": "Roma",
     "query": "Roma",
     "rank": 1,
-    "tweet_count": "61.1K Tweets"
+    "tweet_count": "61.6K Tweets"
   },
   {
     "name": "#2hockey",
@@ -12,16 +12,16 @@
     "tweet_count": null
   },
   {
-    "name": "#LIVATM",
-    "query": "#LIVATM",
-    "rank": 3,
-    "tweet_count": "20.5K Tweets"
-  },
-  {
     "name": "Jordal",
     "query": "Jordal",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
+  },
+  {
+    "name": "#livatm",
+    "query": "#livatm",
+    "rank": 4,
+    "tweet_count": "20.5K Tweets"
   },
   {
     "name": "Bodø",
@@ -33,41 +33,41 @@
     "name": "Atletico",
     "query": "Atletico",
     "rank": 6,
-    "tweet_count": "120K Tweets"
-  },
-  {
-    "name": "#dax18",
-    "query": "#dax18",
-    "rank": 7,
-    "tweet_count": null
+    "tweet_count": "121K Tweets"
   },
   {
     "name": "Sonos",
     "query": "Sonos",
-    "rank": 8,
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "#dagsrevyen",
     "query": "#dagsrevyen",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "hummels",
-    "query": "hummels",
-    "rank": 10,
-    "tweet_count": "8,232 Tweets"
+    "name": "#UECL",
+    "query": "#UECL",
+    "rank": 9,
+    "tweet_count": "5,867 Tweets"
   },
   {
-    "name": "Spetalen",
-    "query": "Spetalen",
+    "name": "Hummels",
+    "query": "Hummels",
+    "rank": 10,
+    "tweet_count": "8,237 Tweets"
+  },
+  {
+    "name": "spetalen",
+    "query": "spetalen",
     "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "Søreide",
-    "query": "Søreide",
+    "name": "søreide",
+    "query": "søreide",
     "rank": 12,
     "tweet_count": null
   },
@@ -81,13 +81,13 @@
     "name": "Elden Ring",
     "query": "\"Elden Ring\"",
     "rank": 14,
-    "tweet_count": "60.5K Tweets"
+    "tweet_count": "60.9K Tweets"
   },
   {
     "name": "Antony",
     "query": "Antony",
     "rank": 15,
-    "tweet_count": "27.1K Tweets"
+    "tweet_count": "27.2K Tweets"
   },
   {
     "name": "ruter",
@@ -111,6 +111,6 @@
     "name": "Ajax",
     "query": "Ajax",
     "rank": 19,
-    "tweet_count": "64.7K Tweets"
+    "tweet_count": "64.9K Tweets"
   }
 ]
