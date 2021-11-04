@@ -1,55 +1,55 @@
 [
   {
-    "name": "#ToryCorruption",
-    "query": "#ToryCorruption",
+    "name": "Tories",
+    "query": "Tories",
     "rank": 1,
-    "tweet_count": "124K Tweets"
+    "tweet_count": "153K Tweets"
+  },
+  {
+    "name": "#TorySleaze",
+    "query": "#TorySleaze",
+    "rank": 2,
+    "tweet_count": "80.1K Tweets"
   },
   {
     "name": "Mings",
     "query": "Mings",
-    "rank": 2,
-    "tweet_count": "2,958 Tweets"
+    "rank": 3,
+    "tweet_count": "3,421 Tweets"
   },
   {
     "name": "Happy Diwali",
     "query": "\"Happy Diwali\"",
-    "rank": 3,
-    "tweet_count": "894K Tweets"
+    "rank": 4,
+    "tweet_count": "901K Tweets"
   },
   {
     "name": "John Lewis",
     "query": "\"John Lewis\"",
-    "rank": 4,
-    "tweet_count": "109K Tweets"
-  },
-  {
-    "name": "U-turn",
-    "query": "U-turn",
     "rank": 5,
-    "tweet_count": "20.3K Tweets"
+    "tweet_count": "109K Tweets"
   },
   {
     "name": "Elden Ring",
     "query": "\"Elden Ring\"",
     "rank": 6,
-    "tweet_count": "27.2K Tweets"
+    "tweet_count": "31.3K Tweets"
+  },
+  {
+    "name": "U-turn",
+    "query": "U-turn",
+    "rank": 7,
+    "tweet_count": "20.8K Tweets"
   },
   {
     "name": "Bowen",
     "query": "Bowen",
-    "rank": 7,
-    "tweet_count": "4,751 Tweets"
-  },
-  {
-    "name": "#SNTA",
-    "query": "#SNTA",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "4,844 Tweets"
   },
   {
-    "name": "#AskTheAdmin",
-    "query": "#AskTheAdmin",
+    "name": "Albania and San Marino",
+    "query": "\"Albania and San Marino\"",
     "rank": 9,
     "tweet_count": null
   },
@@ -57,60 +57,60 @@
     "name": "#OutdoorClassroomDay",
     "query": "#OutdoorClassroomDay",
     "rank": 10,
-    "tweet_count": "1,037 Tweets"
+    "tweet_count": "1,069 Tweets"
+  },
+  {
+    "name": "#AskTheAdmin",
+    "query": "#AskTheAdmin",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "#SNTA",
+    "query": "#SNTA",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "#FestivalOfLights",
+    "query": "#FestivalOfLights",
+    "rank": 13,
+    "tweet_count": "23.1K Tweets"
   },
   {
     "name": "Ivermectin",
     "query": "Ivermectin",
-    "rank": 11,
-    "tweet_count": "23.6K Tweets"
+    "rank": 14,
+    "tweet_count": "23.7K Tweets"
+  },
+  {
+    "name": "No ESR",
+    "query": "\"No ESR\"",
+    "rank": 15,
+    "tweet_count": null
   },
   {
     "name": "Prowse",
     "query": "Prowse",
-    "rank": 12,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Bank of England",
     "query": "\"Bank of England\"",
-    "rank": 13,
-    "tweet_count": "3,816 Tweets"
+    "rank": 17,
+    "tweet_count": "3,884 Tweets"
+  },
+  {
+    "name": "Guehi",
+    "query": "Guehi",
+    "rank": 18,
+    "tweet_count": null
   },
   {
     "name": "Lee Hurst",
     "query": "\"Lee Hurst\"",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "#BritishJournalismAwards",
-    "query": "#BritishJournalismAwards",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Marbella",
-    "query": "Marbella",
-    "rank": 16,
-    "tweet_count": "3,378 Tweets"
-  },
-  {
-    "name": "Kilman",
-    "query": "Kilman",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Kwasi Kwarteng",
-    "query": "\"Kwasi Kwarteng\"",
-    "rank": 18,
-    "tweet_count": "9,592 Tweets"
-  },
-  {
-    "name": "Tonga",
-    "query": "Tonga",
     "rank": 19,
-    "tweet_count": "2,029 Tweets"
+    "tweet_count": null
   }
 ]
