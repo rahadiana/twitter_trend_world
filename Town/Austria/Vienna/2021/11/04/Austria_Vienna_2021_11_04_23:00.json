@@ -12,28 +12,28 @@
     "tweet_count": null
   },
   {
-    "name": "#Kickl",
-    "query": "#Kickl",
+    "name": "#kickl",
+    "query": "#kickl",
     "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "#RSOSTU",
+    "query": "#RSOSTU",
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Skandal",
     "query": "Skandal",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": "10K Tweets"
   },
   {
     "name": "Ludwig",
     "query": "Ludwig",
-    "rank": 5,
-    "tweet_count": "6,320 Tweets"
-  },
-  {
-    "name": "#RSOSTU",
-    "query": "#RSOSTU",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "6,352 Tweets"
   },
   {
     "name": "Kulis",
@@ -45,55 +45,55 @@
     "name": "Pandemie",
     "query": "Pandemie",
     "rank": 8,
-    "tweet_count": "31K Tweets"
+    "tweet_count": "31.1K Tweets"
   },
   {
     "name": "Wien",
     "query": "Wien",
     "rank": 9,
-    "tweet_count": "12.5K Tweets"
+    "tweet_count": "12.6K Tweets"
   },
   {
-    "name": "Rapid",
-    "query": "Rapid",
+    "name": "rapid",
+    "query": "rapid",
     "rank": 10,
-    "tweet_count": "27.5K Tweets"
+    "tweet_count": "27.6K Tweets"
   },
   {
-    "name": "#SCR2021",
-    "query": "#SCR2021",
+    "name": "#scr2021",
+    "query": "#scr2021",
     "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "#Neuinfektionen",
-    "query": "#Neuinfektionen",
-    "rank": 12,
-    "tweet_count": "2,953 Tweets"
-  },
-  {
     "name": "Impfung",
     "query": "Impfung",
-    "rank": 13,
-    "tweet_count": "40.5K Tweets"
+    "rank": 12,
+    "tweet_count": "40.6K Tweets"
   },
   {
-    "name": "Maßnahmen",
-    "query": "Maßnahmen",
-    "rank": 14,
-    "tweet_count": "9,127 Tweets"
+    "name": "#Neuinfektionen",
+    "query": "#Neuinfektionen",
+    "rank": 13,
+    "tweet_count": "2,964 Tweets"
   },
   {
     "name": "Friseur",
     "query": "Friseur",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
+  },
+  {
+    "name": "Maßnahmen",
+    "query": "Maßnahmen",
+    "rank": 15,
+    "tweet_count": "9,149 Tweets"
   },
   {
     "name": "Lockdown",
     "query": "Lockdown",
     "rank": 16,
-    "tweet_count": "50K Tweets"
+    "tweet_count": "50.3K Tweets"
   },
   {
     "name": "Traktor",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "Doskozil",
-    "query": "Doskozil",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
     "name": "Gastro",
     "query": "Gastro",
+    "rank": 18,
+    "tweet_count": "2,386 Tweets"
+  },
+  {
+    "name": "Dosko",
+    "query": "Dosko",
     "rank": 19,
-    "tweet_count": "2,382 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Ivermectin",
     "query": "Ivermectin",
     "rank": 20,
-    "tweet_count": "20.3K Tweets"
+    "tweet_count": "20.4K Tweets"
   }
 ]

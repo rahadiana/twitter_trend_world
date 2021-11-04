@@ -3,23 +3,23 @@
     "name": "Roma",
     "query": "Roma",
     "rank": 1,
-    "tweet_count": "65.8K Tweets"
+    "tweet_count": "66.1K Tweets"
   },
   {
     "name": "Mourinho",
     "query": "Mourinho",
     "rank": 2,
-    "tweet_count": "13.2K Tweets"
-  },
-  {
-    "name": "Botheim",
-    "query": "Botheim",
-    "rank": 3,
-    "tweet_count": null
+    "tweet_count": "13.3K Tweets"
   },
   {
     "name": "Ola Solbakken",
     "query": "\"Ola Solbakken\"",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "botheim",
+    "query": "botheim",
     "rank": 4,
     "tweet_count": null
   },
@@ -48,16 +48,16 @@
     "tweet_count": null
   },
   {
-    "name": "Atletico",
-    "query": "Atletico",
-    "rank": 9,
-    "tweet_count": "102K Tweets"
-  },
-  {
     "name": "Vitesse",
     "query": "Vitesse",
+    "rank": 9,
+    "tweet_count": "20.4K Tweets"
+  },
+  {
+    "name": "Atletico",
+    "query": "Atletico",
     "rank": 10,
-    "tweet_count": "20.3K Tweets"
+    "tweet_count": "103K Tweets"
   },
   {
     "name": "Elias Hagen",
@@ -69,7 +69,7 @@
     "name": "Mane",
     "query": "Mane",
     "rank": 12,
-    "tweet_count": "38.1K Tweets"
+    "tweet_count": "38.3K Tweets"
   },
   {
     "name": "Stadio Olimpico",
@@ -84,26 +84,26 @@
     "tweet_count": null
   },
   {
-    "name": "#nrkdebatt",
-    "query": "#nrkdebatt",
+    "name": "#førrevig",
+    "query": "#førrevig",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "#FørrEvig",
-    "query": "#FørrEvig",
+    "name": "#nrkdebatt",
+    "query": "#nrkdebatt",
     "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "søreide",
+    "query": "søreide",
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Rosenborg",
     "query": "Rosenborg",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Søreide",
-    "query": "Søreide",
     "rank": 18,
     "tweet_count": null
   },
