@@ -1,33 +1,33 @@
 [
   {
-    "name": "Puerto Plata",
-    "query": "\"Puerto Plata\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Haití",
     "query": "Haití",
-    "rank": 2,
-    "tweet_count": "17.1K Tweets"
+    "rank": 1,
+    "tweet_count": "17.3K Tweets"
   },
   {
     "name": "Uber",
     "query": "Uber",
-    "rank": 3,
-    "tweet_count": "60.8K Tweets"
+    "rank": 2,
+    "tweet_count": "61.2K Tweets"
   },
   {
     "name": "Intrant",
     "query": "Intrant",
-    "rank": 4,
-    "tweet_count": "2,749 Tweets"
+    "rank": 3,
+    "tweet_count": "2,763 Tweets"
   },
   {
     "name": "Código Penal",
     "query": "\"Código Penal\"",
+    "rank": 4,
+    "tweet_count": "8,174 Tweets"
+  },
+  {
+    "name": "Puerto Plata",
+    "query": "\"Puerto Plata\"",
     "rank": 5,
-    "tweet_count": "8,106 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#brmejorbanco",
@@ -51,7 +51,7 @@
     "name": "#FelizJueves",
     "query": "#FelizJueves",
     "rank": 9,
-    "tweet_count": "18.4K Tweets"
+    "tweet_count": "18.6K Tweets"
   },
   {
     "name": "#PLDquiereMasImpuestos",
@@ -63,7 +63,7 @@
     "name": "Palacio Nacional",
     "query": "\"Palacio Nacional\"",
     "rank": 11,
-    "tweet_count": "3,729 Tweets"
+    "tweet_count": "3,773 Tweets"
   },
   {
     "name": "Faride",
@@ -75,13 +75,13 @@
     "name": "Ministerio de Defensa",
     "query": "\"Ministerio de Defensa\"",
     "rank": 13,
-    "tweet_count": "3,430 Tweets"
+    "tweet_count": "3,451 Tweets"
   },
   {
     "name": "Barbecue",
     "query": "Barbecue",
     "rank": 14,
-    "tweet_count": "2,336 Tweets"
+    "tweet_count": "2,355 Tweets"
   },
   {
     "name": "Ozuna",
@@ -111,12 +111,12 @@
     "name": "Dominicanos",
     "query": "Dominicanos",
     "rank": 19,
-    "tweet_count": "3,692 Tweets"
+    "tweet_count": "3,722 Tweets"
   },
   {
     "name": "Haina",
     "query": "Haina",
     "rank": 20,
-    "tweet_count": "2,862 Tweets"
+    "tweet_count": "2,882 Tweets"
   }
 ]
