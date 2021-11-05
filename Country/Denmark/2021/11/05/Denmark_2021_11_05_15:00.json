@@ -1,39 +1,39 @@
 [
   {
-    "name": "glen",
-    "query": "glen",
-    "rank": 1,
-    "tweet_count": "8,269 Tweets"
-  },
-  {
     "name": "J-dag",
     "query": "J-dag",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "#dkpol",
     "query": "#dkpol",
-    "rank": 3,
-    "tweet_count": "3,349 Tweets"
+    "rank": 2,
+    "tweet_count": "3,367 Tweets"
   },
   {
     "name": "#bifrfc",
     "query": "#bifrfc",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#eldk",
     "query": "#eldk",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "Glen",
+    "query": "Glen",
+    "rank": 5,
+    "tweet_count": "8,349 Tweets"
   },
   {
     "name": "Kalle",
     "query": "Kalle",
     "rank": 6,
-    "tweet_count": "1,445 Tweets"
+    "tweet_count": "1,452 Tweets"
   },
   {
     "name": "grabara",
@@ -63,7 +63,7 @@
     "name": "Loud",
     "query": "Loud",
     "rank": 11,
-    "tweet_count": "118K Tweets"
+    "tweet_count": "119K Tweets"
   },
   {
     "name": "ankersen",
@@ -81,13 +81,13 @@
     "name": "Rangers",
     "query": "Rangers",
     "rank": 14,
-    "tweet_count": "20.5K Tweets"
+    "tweet_count": "20.6K Tweets"
   },
   {
     "name": "Coronapas",
     "query": "Coronapas",
     "rank": 15,
-    "tweet_count": "8,831 Tweets"
+    "tweet_count": "8,902 Tweets"
   },
   {
     "name": "brostrøm",
@@ -99,7 +99,7 @@
     "name": "Signal",
     "query": "Signal",
     "rank": 17,
-    "tweet_count": "32.4K Tweets"
+    "tweet_count": "32.7K Tweets"
   },
   {
     "name": "Aabenraa",
@@ -111,12 +111,12 @@
     "name": "Mette",
     "query": "Mette",
     "rank": 19,
-    "tweet_count": "8,355 Tweets"
+    "tweet_count": "8,426 Tweets"
   },
   {
     "name": "Lyon",
     "query": "Lyon",
     "rank": 20,
-    "tweet_count": "22.4K Tweets"
+    "tweet_count": "22.6K Tweets"
   }
 ]
