@@ -1,87 +1,87 @@
 [
   {
-    "name": "Medellín",
-    "query": "Medellín",
-    "rank": 1,
-    "tweet_count": "68.6K Tweets"
-  },
-  {
     "name": "#SuperamosAlCineCon",
     "query": "#SuperamosAlCineCon",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Medellín",
+    "query": "Medellín",
+    "rank": 2,
+    "tweet_count": "68.8K Tweets"
   },
   {
     "name": "Gorillaz",
     "query": "Gorillaz",
     "rank": 3,
-    "tweet_count": "6,224 Tweets"
+    "tweet_count": "6,237 Tweets"
   },
   {
     "name": "Eternals",
     "query": "Eternals",
     "rank": 4,
-    "tweet_count": "267K Tweets"
+    "tweet_count": "268K Tweets"
   },
   {
     "name": "Capturamos",
     "query": "Capturamos",
     "rank": 5,
-    "tweet_count": "1,728 Tweets"
+    "tweet_count": "1,736 Tweets"
   },
   {
     "name": "Las Vegas",
     "query": "\"Las Vegas\"",
     "rank": 6,
-    "tweet_count": "28.3K Tweets"
-  },
-  {
-    "name": "Metrallo",
-    "query": "Metrallo",
-    "rank": 7,
-    "tweet_count": "3,918 Tweets"
+    "tweet_count": "28.5K Tweets"
   },
   {
     "name": "Alfonso Cano",
     "query": "\"Alfonso Cano\"",
+    "rank": 7,
+    "tweet_count": "5,529 Tweets"
+  },
+  {
+    "name": "Metrallo",
+    "query": "Metrallo",
     "rank": 8,
-    "tweet_count": "5,497 Tweets"
+    "tweet_count": "3,940 Tweets"
   },
   {
     "name": "Montealegre",
     "query": "Montealegre",
     "rank": 9,
-    "tweet_count": "12.6K Tweets"
+    "tweet_count": "12.8K Tweets"
   },
   {
     "name": "Rueda",
     "query": "Rueda",
     "rank": 10,
-    "tweet_count": "12K Tweets"
+    "tweet_count": "12.1K Tweets"
   },
   {
     "name": "David Barguil",
     "query": "\"David Barguil\"",
     "rank": 11,
-    "tweet_count": "2,627 Tweets"
-  },
-  {
-    "name": "PRELUDE AT MIDNIGHT",
-    "query": "\"PRELUDE AT MIDNIGHT\"",
-    "rank": 12,
-    "tweet_count": "19.9K Tweets"
-  },
-  {
-    "name": "el poblado",
-    "query": "\"el poblado\"",
-    "rank": 13,
-    "tweet_count": "6,170 Tweets"
+    "tweet_count": "2,649 Tweets"
   },
   {
     "name": "La Casa de Papel",
     "query": "\"La Casa de Papel\"",
+    "rank": 12,
+    "tweet_count": "7,144 Tweets"
+  },
+  {
+    "name": "PRELUDE AT MIDNIGHT",
+    "query": "\"PRELUDE AT MIDNIGHT\"",
+    "rank": 13,
+    "tweet_count": "19.9K Tweets"
+  },
+  {
+    "name": "Poblado",
+    "query": "Poblado",
     "rank": 14,
-    "tweet_count": "7,115 Tweets"
+    "tweet_count": "6,971 Tweets"
   },
   {
     "name": "Sebastián Gómez",
@@ -93,6 +93,6 @@
     "name": "1 PCR",
     "query": "\"1 PCR\"",
     "rank": 16,
-    "tweet_count": "25.3K Tweets"
+    "tweet_count": "25.5K Tweets"
   }
 ]
