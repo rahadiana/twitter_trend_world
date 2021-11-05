@@ -1,9 +1,9 @@
 [
   {
-    "name": "Glen",
-    "query": "Glen",
+    "name": "glen",
+    "query": "glen",
     "rank": 1,
-    "tweet_count": "8,160 Tweets"
+    "tweet_count": "8,269 Tweets"
   },
   {
     "name": "J-dag",
@@ -15,7 +15,7 @@
     "name": "#dkpol",
     "query": "#dkpol",
     "rank": 3,
-    "tweet_count": "3,316 Tweets"
+    "tweet_count": "3,349 Tweets"
   },
   {
     "name": "#bifrfc",
@@ -33,7 +33,7 @@
     "name": "Kalle",
     "query": "Kalle",
     "rank": 6,
-    "tweet_count": "1,426 Tweets"
+    "tweet_count": "1,445 Tweets"
   },
   {
     "name": "grabara",
@@ -42,52 +42,52 @@
     "tweet_count": null
   },
   {
-    "name": "#bogforum",
-    "query": "#bogforum",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "#DrivingIT21",
     "query": "#DrivingIT21",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Mærsk",
     "query": "Mærsk",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "#paokfck",
+    "query": "#paokfck",
     "rank": 10,
     "tweet_count": null
   },
   {
+    "name": "Loud",
+    "query": "Loud",
+    "rank": 11,
+    "tweet_count": "118K Tweets"
+  },
+  {
     "name": "ankersen",
     "query": "ankersen",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "kurt thyboe",
     "query": "\"kurt thyboe\"",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Rangers",
     "query": "Rangers",
-    "rank": 13,
-    "tweet_count": "20.3K Tweets"
+    "rank": 14,
+    "tweet_count": "20.5K Tweets"
   },
   {
     "name": "Coronapas",
     "query": "Coronapas",
-    "rank": 14,
-    "tweet_count": "8,748 Tweets"
-  },
-  {
-    "name": "Signal",
-    "query": "Signal",
     "rank": 15,
-    "tweet_count": "32.1K Tweets"
+    "tweet_count": "8,831 Tweets"
   },
   {
     "name": "brostrøm",
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
-    "name": "Loud",
-    "query": "Loud",
+    "name": "Signal",
+    "query": "Signal",
     "rank": 17,
-    "tweet_count": "117K Tweets"
-  },
-  {
-    "name": "The Office",
-    "query": "\"The Office\"",
-    "rank": 18,
-    "tweet_count": "171K Tweets"
-  },
-  {
-    "name": "Lyon",
-    "query": "Lyon",
-    "rank": 19,
-    "tweet_count": "22.2K Tweets"
+    "tweet_count": "32.4K Tweets"
   },
   {
     "name": "Aabenraa",
     "query": "Aabenraa",
-    "rank": 20,
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Mette",
+    "query": "Mette",
+    "rank": 19,
+    "tweet_count": "8,355 Tweets"
+  },
+  {
+    "name": "Lyon",
+    "query": "Lyon",
+    "rank": 20,
+    "tweet_count": "22.4K Tweets"
   }
 ]
