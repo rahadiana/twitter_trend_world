@@ -1,15 +1,15 @@
 [
   {
-    "name": "Kondolerer",
-    "query": "Kondolerer",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Roma",
     "query": "Roma",
+    "rank": 1,
+    "tweet_count": "66.6K Tweets"
+  },
+  {
+    "name": "Kondolerer",
+    "query": "Kondolerer",
     "rank": 2,
-    "tweet_count": "66.1K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#dax18",
@@ -45,13 +45,13 @@
     "name": "#GW11",
     "query": "#GW11",
     "rank": 8,
-    "tweet_count": "1,978 Tweets"
+    "tweet_count": "2,003 Tweets"
   },
   {
     "name": "#UECL",
     "query": "#UECL",
     "rank": 9,
-    "tweet_count": "9,462 Tweets"
+    "tweet_count": "9,476 Tweets"
   },
   {
     "name": "#rombod",
@@ -60,22 +60,22 @@
     "tweet_count": null
   },
   {
-    "name": "Cancelo",
-    "query": "Cancelo",
-    "rank": 11,
-    "tweet_count": "6,617 Tweets"
-  },
-  {
     "name": "Osloskolen",
     "query": "Osloskolen",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "stadio olimpico",
     "query": "\"stadio olimpico\"",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "Cancelo",
+    "query": "Cancelo",
+    "rank": 13,
+    "tweet_count": "6,698 Tweets"
   },
   {
     "name": "Rapportert",
@@ -84,39 +84,39 @@
     "tweet_count": null
   },
   {
+    "name": "Pfizer",
+    "query": "Pfizer",
+    "rank": 15,
+    "tweet_count": "304K Tweets"
+  },
+  {
     "name": "hummels",
     "query": "hummels",
-    "rank": 15,
-    "tweet_count": null
+    "rank": 16,
+    "tweet_count": "1,002 Tweets"
   },
   {
     "name": "ABBA",
     "query": "ABBA",
-    "rank": 16,
-    "tweet_count": "49.9K Tweets"
+    "rank": 17,
+    "tweet_count": "50.7K Tweets"
   },
   {
     "name": "Elias Hagen",
     "query": "\"Elias Hagen\"",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Odds",
     "query": "Odds",
-    "rank": 18,
-    "tweet_count": "50.8K Tweets"
+    "rank": 19,
+    "tweet_count": "51.2K Tweets"
   },
   {
     "name": "Jordal",
     "query": "Jordal",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "taylor",
-    "query": "taylor",
     "rank": 20,
-    "tweet_count": "327K Tweets"
+    "tweet_count": null
   }
 ]
