@@ -1,39 +1,39 @@
 [
   {
-    "name": "Odell",
-    "query": "Odell",
-    "rank": 1,
-    "tweet_count": "83.8K Tweets"
-  },
-  {
     "name": "Aaron Rodgers",
     "query": "\"Aaron Rodgers\"",
-    "rank": 2,
-    "tweet_count": "215K Tweets"
+    "rank": 1,
+    "tweet_count": "219K Tweets"
   },
   {
     "name": "#TheChampsParade",
     "query": "#TheChampsParade",
-    "rank": 3,
-    "tweet_count": "12.6K Tweets"
+    "rank": 2,
+    "tweet_count": "12.8K Tweets"
   },
   {
     "name": "#FreeCodeFridayContest",
     "query": "#FreeCodeFridayContest",
-    "rank": 4,
-    "tweet_count": "8,747 Tweets"
+    "rank": 3,
+    "tweet_count": "8,800 Tweets"
   },
   {
     "name": "#ThankYouBrandon",
     "query": "#ThankYouBrandon",
-    "rank": 5,
-    "tweet_count": "84.9K Tweets"
+    "rank": 4,
+    "tweet_count": "85.9K Tweets"
   },
   {
     "name": "#AskSummerWalker",
     "query": "#AskSummerWalker",
+    "rank": 5,
+    "tweet_count": "2,147 Tweets"
+  },
+  {
+    "name": "Echo Zulu",
+    "query": "\"Echo Zulu\"",
     "rank": 6,
-    "tweet_count": "2,074 Tweets"
+    "tweet_count": "1,108 Tweets"
   },
   {
     "name": "Go Gina",
@@ -42,75 +42,75 @@
     "tweet_count": null
   },
   {
-    "name": "Echo Zulu",
-    "query": "\"Echo Zulu\"",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "Ashley Biden",
     "query": "\"Ashley Biden\"",
+    "rank": 8,
+    "tweet_count": "31.5K Tweets"
+  },
+  {
+    "name": "Canelo",
+    "query": "Canelo",
     "rank": 9,
-    "tweet_count": "30.5K Tweets"
+    "tweet_count": "22.2K Tweets"
   },
   {
     "name": "Wade Miley",
     "query": "\"Wade Miley\"",
     "rank": 10,
-    "tweet_count": "2,104 Tweets"
+    "tweet_count": "2,114 Tweets"
   },
   {
-    "name": "Canelo",
-    "query": "Canelo",
+    "name": "PROUD OF TINA",
+    "query": "\"PROUD OF TINA\"",
     "rank": 11,
-    "tweet_count": "21.8K Tweets"
-  },
-  {
-    "name": "minseok",
-    "query": "minseok",
-    "rank": 12,
-    "tweet_count": "10.3K Tweets"
-  },
-  {
-    "name": "Pelosi",
-    "query": "Pelosi",
-    "rank": 13,
-    "tweet_count": "55.4K Tweets"
-  },
-  {
-    "name": "Intelligent",
-    "query": "Intelligent",
-    "rank": 14,
-    "tweet_count": "27.1K Tweets"
-  },
-  {
-    "name": "Patchy Mix",
-    "query": "\"Patchy Mix\"",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "James Gallagher",
-    "query": "\"James Gallagher\"",
-    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Big Mouth",
     "query": "\"Big Mouth\"",
-    "rank": 17,
-    "tweet_count": "12K Tweets"
+    "rank": 12,
+    "tweet_count": "12.2K Tweets"
+  },
+  {
+    "name": "Intelligent",
+    "query": "Intelligent",
+    "rank": 13,
+    "tweet_count": "27.4K Tweets"
+  },
+  {
+    "name": "minseok",
+    "query": "minseok",
+    "rank": 14,
+    "tweet_count": "10.6K Tweets"
+  },
+  {
+    "name": "Pelosi",
+    "query": "Pelosi",
+    "rank": 15,
+    "tweet_count": "56.2K Tweets"
+  },
+  {
+    "name": "Phylicia",
+    "query": "Phylicia",
+    "rank": 16,
+    "tweet_count": null
   },
   {
     "name": "Rinu",
     "query": "Rinu",
-    "rank": 18,
-    "tweet_count": "20.7K Tweets"
+    "rank": 17,
+    "tweet_count": "20.8K Tweets"
   },
   {
     "name": "Colin Powell",
     "query": "\"Colin Powell\"",
+    "rank": 18,
+    "tweet_count": "25K Tweets"
+  },
+  {
+    "name": "Re-sign Freddie",
+    "query": "\"Re-sign Freddie\"",
     "rank": 19,
-    "tweet_count": "24.7K Tweets"
+    "tweet_count": "2,298 Tweets"
   }
 ]
