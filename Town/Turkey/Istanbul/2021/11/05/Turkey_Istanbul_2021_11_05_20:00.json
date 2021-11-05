@@ -1,19 +1,19 @@
 [
   {
-    "name": "Yalan Söylüyorlar",
-    "query": "\"Yalan Söylüyorlar\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#asdepisbarisiistiyor",
     "query": "#asdepisbarisiistiyor",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "32.8K Tweets"
   },
   {
     "name": "#SevgiÇiçeği",
     "query": "#SevgiÇiçeği",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "Yalan Söylüyorlar",
+    "query": "\"Yalan Söylüyorlar\"",
     "rank": 3,
     "tweet_count": null
   },
@@ -21,19 +21,19 @@
     "name": "Sisli",
     "query": "Sisli",
     "rank": 4,
-    "tweet_count": "3,945 Tweets"
+    "tweet_count": "4,020 Tweets"
   },
   {
-    "name": "Kurtuluşa Yaklaşıyoruz",
-    "query": "\"Kurtuluşa Yaklaşıyoruz\"",
+    "name": "V for Vendetta",
+    "query": "\"V for Vendetta\"",
     "rank": 5,
-    "tweet_count": "1,022 Tweets"
+    "tweet_count": "7,098 Tweets"
   },
   {
     "name": "#EuroLeague",
     "query": "#EuroLeague",
     "rank": 6,
-    "tweet_count": "2,474 Tweets"
+    "tweet_count": "2,528 Tweets"
   },
   {
     "name": "Fatih Aydın",
@@ -45,49 +45,49 @@
     "name": "#MexicoGP",
     "query": "#MexicoGP",
     "rank": 8,
-    "tweet_count": "49.8K Tweets"
+    "tweet_count": "50.3K Tweets"
   },
   {
     "name": "5 Kasım",
     "query": "\"5 Kasım\"",
     "rank": 9,
-    "tweet_count": "12.8K Tweets"
+    "tweet_count": "12.9K Tweets"
   },
   {
     "name": "Ümraniye",
     "query": "Ümraniye",
     "rank": 10,
-    "tweet_count": "40.7K Tweets"
-  },
-  {
-    "name": "Kenan Karaman",
-    "query": "\"Kenan Karaman\"",
-    "rank": 11,
-    "tweet_count": "1,779 Tweets"
+    "tweet_count": "41K Tweets"
   },
   {
     "name": "#siyahbeyazchallenge",
     "query": "#siyahbeyazchallenge",
-    "rank": 12,
-    "tweet_count": "1,596 Tweets"
+    "rank": 11,
+    "tweet_count": "1,606 Tweets"
   },
   {
-    "name": "real yoyow",
-    "query": "\"real yoyow\"",
-    "rank": 13,
+    "name": "Real Yoyow",
+    "query": "\"Real Yoyow\"",
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Lütfü Türkkan",
     "query": "\"Lütfü Türkkan\"",
-    "rank": 14,
-    "tweet_count": "124K Tweets"
+    "rank": 13,
+    "tweet_count": "127K Tweets"
   },
   {
     "name": "Halis Özkahya",
     "query": "\"Halis Özkahya\"",
+    "rank": 14,
+    "tweet_count": "2,223 Tweets"
+  },
+  {
+    "name": "Nitroex Ntx",
+    "query": "\"Nitroex Ntx\"",
     "rank": 15,
-    "tweet_count": "2,117 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Apidai Metaverse",
@@ -99,7 +99,7 @@
     "name": "KışınSonu ElbetBahardır",
     "query": "\"KışınSonu ElbetBahardır\"",
     "rank": 17,
-    "tweet_count": "19.8K Tweets"
+    "tweet_count": "20.5K Tweets"
   },
   {
     "name": "K A R Ş I Y I Z",
@@ -111,12 +111,12 @@
     "name": "Şehit",
     "query": "Şehit",
     "rank": 19,
-    "tweet_count": "147K Tweets"
+    "tweet_count": "150K Tweets"
   },
   {
     "name": "Cem Küçük",
     "query": "\"Cem Küçük\"",
     "rank": 20,
-    "tweet_count": "1,515 Tweets"
+    "tweet_count": "1,629 Tweets"
   }
 ]
