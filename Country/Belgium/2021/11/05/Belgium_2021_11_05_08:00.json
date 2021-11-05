@@ -1,49 +1,49 @@
 [
   {
+    "name": "Summer Walker",
+    "query": "\"Summer Walker\"",
+    "rank": 1,
+    "tweet_count": "219K Tweets"
+  },
+  {
     "name": "#GNKWHU",
     "query": "#GNKWHU",
-    "rank": 1,
-    "tweet_count": "2,655 Tweets"
+    "rank": 2,
+    "tweet_count": "2,658 Tweets"
   },
   {
     "name": "#ANTFEN",
     "query": "#ANTFEN",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Niska",
     "query": "Niska",
-    "rank": 3,
-    "tweet_count": "43.7K Tweets"
+    "rank": 4,
+    "tweet_count": "44.2K Tweets"
+  },
+  {
+    "name": "Elchardus",
+    "query": "Elchardus",
+    "rank": 5,
+    "tweet_count": null
   },
   {
     "name": "Marbella",
     "query": "Marbella",
-    "rank": 4,
-    "tweet_count": "13.2K Tweets"
-  },
-  {
-    "name": "Summer Walker",
-    "query": "\"Summer Walker\"",
-    "rank": 5,
-    "tweet_count": "216K Tweets"
+    "rank": 6,
+    "tweet_count": "13.3K Tweets"
   },
   {
     "name": "#Pfizergate",
     "query": "#Pfizergate",
-    "rank": 6,
-    "tweet_count": "124K Tweets"
+    "rank": 7,
+    "tweet_count": "125K Tweets"
   },
   {
     "name": "#GNTPAR",
     "query": "#GNTPAR",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
-    "name": "#klimaatplan",
-    "query": "#klimaatplan",
     "rank": 8,
     "tweet_count": null
   },
@@ -51,43 +51,43 @@
     "name": "Goedemorgen",
     "query": "Goedemorgen",
     "rank": 9,
-    "tweet_count": "6,562 Tweets"
+    "tweet_count": "6,927 Tweets"
+  },
+  {
+    "name": "#klimaatplan",
+    "query": "#klimaatplan",
+    "rank": 10,
+    "tweet_count": null
   },
   {
     "name": "FVDB",
     "query": "FVDB",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "West Ham",
     "query": "\"West Ham\"",
-    "rank": 11,
-    "tweet_count": "18.5K Tweets"
+    "rank": 12,
+    "tweet_count": "18.6K Tweets"
   },
   {
     "name": "ABBA",
     "query": "ABBA",
-    "rank": 12,
-    "tweet_count": "23.2K Tweets"
+    "rank": 13,
+    "tweet_count": "23.7K Tweets"
   },
   {
     "name": "Vlaming",
     "query": "Vlaming",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Vlaamse",
-    "query": "Vlaamse",
     "rank": 14,
-    "tweet_count": "2,417 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Gelukkige",
-    "query": "Gelukkige",
+    "name": "Flandre",
+    "query": "Flandre",
     "rank": 15,
-    "tweet_count": null
+    "tweet_count": "1,313 Tweets"
   },
   {
     "name": "UZ Gent",
@@ -96,10 +96,10 @@
     "tweet_count": null
   },
   {
-    "name": "Genk",
-    "query": "Genk",
+    "name": "Vlaams",
+    "query": "Vlaams",
     "rank": 17,
-    "tweet_count": "8,431 Tweets"
+    "tweet_count": "1,736 Tweets"
   },
   {
     "name": "Rekenhof",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "Flandre",
-    "query": "Flandre",
+    "name": "Genk",
+    "query": "Genk",
     "rank": 19,
-    "tweet_count": "1,296 Tweets"
+    "tweet_count": "8,491 Tweets"
   },
   {
-    "name": "1plike",
-    "query": "1plike",
+    "name": "Gelukkige",
+    "query": "Gelukkige",
     "rank": 20,
-    "tweet_count": "6,395 Tweets"
+    "tweet_count": null
   }
 ]

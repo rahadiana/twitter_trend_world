@@ -1,13 +1,13 @@
 [
   {
-    "name": "Kugelschreiber",
-    "query": "Kugelschreiber",
+    "name": "kugelschreiber",
+    "query": "kugelschreiber",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "#kickl",
-    "query": "#kickl",
+    "name": "#Kickl",
+    "query": "#Kickl",
     "rank": 2,
     "tweet_count": null
   },
@@ -21,13 +21,13 @@
     "name": "Ludwig",
     "query": "Ludwig",
     "rank": 4,
-    "tweet_count": "6,633 Tweets"
+    "tweet_count": "6,674 Tweets"
   },
   {
     "name": "Pandemie",
     "query": "Pandemie",
     "rank": 5,
-    "tweet_count": "32.5K Tweets"
+    "tweet_count": "33.1K Tweets"
   },
   {
     "name": "Guten Morgen Peter",
@@ -42,52 +42,52 @@
     "tweet_count": null
   },
   {
-    "name": "#RSOSTU",
-    "query": "#RSOSTU",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "Wien",
     "query": "Wien",
+    "rank": 8,
+    "tweet_count": "13.6K Tweets"
+  },
+  {
+    "name": "#RSOSTU",
+    "query": "#RSOSTU",
     "rank": 9,
-    "tweet_count": "13.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Impfung",
     "query": "Impfung",
     "rank": 10,
-    "tweet_count": "36.8K Tweets"
-  },
-  {
-    "name": "Friseur",
-    "query": "Friseur",
-    "rank": 11,
-    "tweet_count": null
+    "tweet_count": "37.4K Tweets"
   },
   {
     "name": "Lockdown",
     "query": "Lockdown",
+    "rank": 11,
+    "tweet_count": "46.7K Tweets"
+  },
+  {
+    "name": "Friseur",
+    "query": "Friseur",
     "rank": 12,
-    "tweet_count": "46.1K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Neuinfektionen",
     "query": "#Neuinfektionen",
     "rank": 13,
-    "tweet_count": "2,902 Tweets"
+    "tweet_count": "2,956 Tweets"
   },
   {
-    "name": "Maßnahmen",
-    "query": "Maßnahmen",
+    "name": "#COVID19",
+    "query": "#COVID19",
     "rank": 14,
-    "tweet_count": "9,003 Tweets"
+    "tweet_count": "138K Tweets"
   },
   {
     "name": "Gastro",
     "query": "Gastro",
     "rank": 15,
-    "tweet_count": "2,107 Tweets"
+    "tweet_count": "2,134 Tweets"
   },
   {
     "name": "guten morgen andreas",
@@ -96,10 +96,10 @@
     "tweet_count": null
   },
   {
-    "name": "#Stelzer",
-    "query": "#Stelzer",
+    "name": "Maßnahmen",
+    "query": "Maßnahmen",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "9,139 Tweets"
   },
   {
     "name": "Thomas Staudinger",
@@ -111,12 +111,12 @@
     "name": "Ivermectin",
     "query": "Ivermectin",
     "rank": 19,
-    "tweet_count": "18.7K Tweets"
+    "tweet_count": "18.9K Tweets"
   },
   {
     "name": "Lehrer",
     "query": "Lehrer",
     "rank": 20,
-    "tweet_count": "1,766 Tweets"
+    "tweet_count": "1,788 Tweets"
   }
 ]
