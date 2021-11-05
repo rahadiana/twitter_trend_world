@@ -1,31 +1,31 @@
 [
   {
-    "name": "Wintersaison",
-    "query": "Wintersaison",
+    "name": "Pandemie",
+    "query": "Pandemie",
     "rank": 1,
-    "tweet_count": null
+    "tweet_count": "34.2K Tweets"
   },
   {
     "name": "DYLAN",
     "query": "DYLAN",
     "rank": 2,
-    "tweet_count": "75.7K Tweets"
-  },
-  {
-    "name": "Pandemie",
-    "query": "Pandemie",
-    "rank": 3,
-    "tweet_count": "33.9K Tweets"
+    "tweet_count": "77.9K Tweets"
   },
   {
     "name": "Lockdown",
     "query": "Lockdown",
-    "rank": 4,
-    "tweet_count": "49.1K Tweets"
+    "rank": 3,
+    "tweet_count": "49.6K Tweets"
   },
   {
     "name": "Kugelschreiber",
     "query": "Kugelschreiber",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "Wintersaison",
+    "query": "Wintersaison",
     "rank": 5,
     "tweet_count": null
   },
@@ -45,19 +45,19 @@
     "name": "Impfung",
     "query": "Impfung",
     "rank": 8,
-    "tweet_count": "34.7K Tweets"
-  },
-  {
-    "name": "#neuinfektionen",
-    "query": "#neuinfektionen",
-    "rank": 9,
-    "tweet_count": "3,111 Tweets"
+    "tweet_count": "34.9K Tweets"
   },
   {
     "name": "#köstinger",
     "query": "#köstinger",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
+  },
+  {
+    "name": "#Neuinfektionen",
+    "query": "#Neuinfektionen",
+    "rank": 10,
+    "tweet_count": "3,130 Tweets"
   },
   {
     "name": "#COVID19at",
@@ -69,13 +69,13 @@
     "name": "Ludwig",
     "query": "Ludwig",
     "rank": 12,
-    "tweet_count": "6,421 Tweets"
+    "tweet_count": "6,454 Tweets"
   },
   {
     "name": "Wien",
     "query": "Wien",
     "rank": 13,
-    "tweet_count": "11.5K Tweets"
+    "tweet_count": "11.6K Tweets"
   },
   {
     "name": "kulis",
@@ -87,36 +87,36 @@
     "name": "Maßnahmen",
     "query": "Maßnahmen",
     "rank": 15,
-    "tweet_count": "8,673 Tweets"
+    "tweet_count": "8,740 Tweets"
   },
   {
     "name": "durchseuchung",
     "query": "durchseuchung",
     "rank": 16,
-    "tweet_count": "2,060 Tweets"
-  },
-  {
-    "name": "Viertel",
-    "query": "Viertel",
-    "rank": 17,
-    "tweet_count": null
+    "tweet_count": "2,069 Tweets"
   },
   {
     "name": "Aspirin",
     "query": "Aspirin",
-    "rank": 18,
-    "tweet_count": "1,418 Tweets"
+    "rank": 17,
+    "tweet_count": "1,431 Tweets"
   },
   {
     "name": "Ivermectin",
     "query": "Ivermectin",
-    "rank": 19,
-    "tweet_count": "19.1K Tweets"
+    "rank": 18,
+    "tweet_count": "19.4K Tweets"
   },
   {
     "name": "Xavi",
     "query": "Xavi",
+    "rank": 19,
+    "tweet_count": "169K Tweets"
+  },
+  {
+    "name": "Viertel",
+    "query": "Viertel",
     "rank": 20,
-    "tweet_count": "166K Tweets"
+    "tweet_count": null
   }
 ]
