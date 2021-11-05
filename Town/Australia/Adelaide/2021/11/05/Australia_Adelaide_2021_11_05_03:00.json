@@ -1,43 +1,43 @@
 [
   {
-    "name": "Simon Birmingham",
-    "query": "\"Simon Birmingham\"",
-    "rank": 1,
-    "tweet_count": "2,425 Tweets"
-  },
-  {
     "name": "McGowan",
     "query": "McGowan",
-    "rank": 2,
-    "tweet_count": "2,942 Tweets"
-  },
-  {
-    "name": "Keith Lee",
-    "query": "\"Keith Lee\"",
-    "rank": 3,
-    "tweet_count": "26.5K Tweets"
+    "rank": 1,
+    "tweet_count": "2,979 Tweets"
   },
   {
     "name": "Jets",
     "query": "Jets",
+    "rank": 2,
+    "tweet_count": "84.8K Tweets"
+  },
+  {
+    "name": "Simon Birmingham",
+    "query": "\"Simon Birmingham\"",
+    "rank": 3,
+    "tweet_count": "2,485 Tweets"
+  },
+  {
+    "name": "Keith Lee",
+    "query": "\"Keith Lee\"",
     "rank": 4,
-    "tweet_count": "81.5K Tweets"
+    "tweet_count": "26.7K Tweets"
   },
   {
     "name": "ariana",
     "query": "ariana",
     "rank": 5,
-    "tweet_count": "91.3K Tweets"
-  },
-  {
-    "name": "Barilaro",
-    "query": "Barilaro",
-    "rank": 6,
-    "tweet_count": "2,219 Tweets"
+    "tweet_count": "92.8K Tweets"
   },
   {
     "name": "Bruz",
     "query": "Bruz",
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "Mr Barilaro",
+    "query": "\"Mr Barilaro\"",
     "rank": 7,
     "tweet_count": null
   },
@@ -45,42 +45,48 @@
     "name": "Birmo",
     "query": "Birmo",
     "rank": 8,
-    "tweet_count": "3,568 Tweets"
+    "tweet_count": "3,656 Tweets"
   },
   {
     "name": "Brittany Higgins",
     "query": "\"Brittany Higgins\"",
     "rank": 9,
-    "tweet_count": "2,269 Tweets"
+    "tweet_count": "2,317 Tweets"
+  },
+  {
+    "name": "#wapol",
+    "query": "#wapol",
+    "rank": 10,
+    "tweet_count": null
   },
   {
     "name": "Western Australia",
     "query": "\"Western Australia\"",
-    "rank": 10,
-    "tweet_count": "3,654 Tweets"
+    "rank": 11,
+    "tweet_count": "3,692 Tweets"
   },
   {
     "name": "#ScottyTheLeaker",
     "query": "#ScottyTheLeaker",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Elden Ring",
     "query": "\"Elden Ring\"",
-    "rank": 12,
-    "tweet_count": "71.5K Tweets"
+    "rank": 13,
+    "tweet_count": "71.8K Tweets"
   },
   {
     "name": "#straykids",
     "query": "#straykids",
-    "rank": 13,
-    "tweet_count": "2.66M Tweets"
+    "rank": 14,
+    "tweet_count": "2.73M Tweets"
   },
   {
     "name": "#ForzaHorizon5",
     "query": "#ForzaHorizon5",
-    "rank": 14,
-    "tweet_count": "20.9K Tweets"
+    "rank": 15,
+    "tweet_count": "21K Tweets"
   }
 ]
