@@ -1,21 +1,21 @@
 [
   {
+    "name": "#Pressekonferenz",
+    "query": "#Pressekonferenz",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "Lockdown",
     "query": "Lockdown",
-    "rank": 1,
-    "tweet_count": "54.6K Tweets"
+    "rank": 2,
+    "tweet_count": "55.1K Tweets"
   },
   {
     "name": "Wintersaison",
     "query": "Wintersaison",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "Pandemie",
-    "query": "Pandemie",
     "rank": 3,
-    "tweet_count": "34.3K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#LigaZwa",
@@ -24,98 +24,98 @@
     "tweet_count": null
   },
   {
+    "name": "Pandemie",
+    "query": "Pandemie",
+    "rank": 5,
+    "tweet_count": "34.6K Tweets"
+  },
+  {
     "name": "Impfung",
     "query": "Impfung",
-    "rank": 5,
-    "tweet_count": "31.9K Tweets"
+    "rank": 6,
+    "tweet_count": "32.1K Tweets"
   },
   {
     "name": "#COVID19at",
     "query": "#COVID19at",
-    "rank": 6,
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Kickl",
     "query": "Kickl",
-    "rank": 7,
-    "tweet_count": "1,826 Tweets"
+    "rank": 8,
+    "tweet_count": "1,843 Tweets"
   },
   {
     "name": "Impfpflicht",
     "query": "Impfpflicht",
-    "rank": 8,
-    "tweet_count": "23.7K Tweets"
+    "rank": 9,
+    "tweet_count": "23.8K Tweets"
   },
   {
     "name": "#zib1",
     "query": "#zib1",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Kugelschreiber",
     "query": "Kugelschreiber",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "#Neuinfektionen",
     "query": "#Neuinfektionen",
-    "rank": 11,
-    "tweet_count": "2,835 Tweets"
-  },
-  {
-    "name": "#doublecheck",
-    "query": "#doublecheck",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "2,851 Tweets"
   },
   {
     "name": "Wien",
     "query": "Wien",
     "rank": 13,
-    "tweet_count": "8,841 Tweets"
+    "tweet_count": "8,907 Tweets"
   },
   {
     "name": "Ludwig",
     "query": "Ludwig",
     "rank": 14,
-    "tweet_count": "5,958 Tweets"
+    "tweet_count": "5,987 Tweets"
   },
   {
     "name": "Dylan",
     "query": "Dylan",
     "rank": 15,
-    "tweet_count": "108K Tweets"
+    "tweet_count": "109K Tweets"
   },
   {
     "name": "Maßnahmen",
     "query": "Maßnahmen",
     "rank": 16,
-    "tweet_count": "8,557 Tweets"
+    "tweet_count": "8,634 Tweets"
+  },
+  {
+    "name": "2G-Regel",
+    "query": "2G-Regel",
+    "rank": 17,
+    "tweet_count": "2,274 Tweets"
   },
   {
     "name": "Durchseuchung",
     "query": "Durchseuchung",
-    "rank": 17,
-    "tweet_count": "1,842 Tweets"
+    "rank": 18,
+    "tweet_count": "1,856 Tweets"
   },
   {
     "name": "Ivermectin",
     "query": "Ivermectin",
-    "rank": 18,
-    "tweet_count": "34.8K Tweets"
-  },
-  {
-    "name": "Oberstes Ziel",
-    "query": "\"Oberstes Ziel\"",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "36.3K Tweets"
   },
   {
-    "name": "thomas staudinger",
-    "query": "\"thomas staudinger\"",
+    "name": "Wintertourismus",
+    "query": "Wintertourismus",
     "rank": 20,
     "tweet_count": null
   }
