@@ -3,67 +3,67 @@
     "name": "Stimmen",
     "query": "Stimmen",
     "rank": 1,
-    "tweet_count": "3,258 Tweets"
+    "tweet_count": "3,461 Tweets"
   },
   {
-    "name": "Start ins Wochenende",
-    "query": "\"Start ins Wochenende\"",
+    "name": "#Thelen",
+    "query": "#Thelen",
     "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "#thelen",
-    "query": "#thelen",
-    "rank": 3,
-    "tweet_count": "1,763 Tweets"
+    "tweet_count": "1,889 Tweets"
   },
   {
     "name": "#ABBA",
     "query": "#ABBA",
+    "rank": 3,
+    "tweet_count": "5,868 Tweets"
+  },
+  {
+    "name": "Start ins Wochenende",
+    "query": "\"Start ins Wochenende\"",
     "rank": 4,
-    "tweet_count": "5,537 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Wortbruch",
     "query": "Wortbruch",
     "rank": 5,
-    "tweet_count": "2,108 Tweets"
-  },
-  {
-    "name": "Schönen Freitag",
-    "query": "\"Schönen Freitag\"",
-    "rank": 6,
-    "tweet_count": "1,647 Tweets"
-  },
-  {
-    "name": "#Nuhr",
-    "query": "#Nuhr",
-    "rank": 7,
-    "tweet_count": null
+    "tweet_count": "2,264 Tweets"
   },
   {
     "name": "#Impfpflicht",
     "query": "#Impfpflicht",
+    "rank": 6,
+    "tweet_count": "6,671 Tweets"
+  },
+  {
+    "name": "Schönen Freitag",
+    "query": "\"Schönen Freitag\"",
+    "rank": 7,
+    "tweet_count": "1,727 Tweets"
+  },
+  {
+    "name": "#Pankow",
+    "query": "#Pankow",
     "rank": 8,
-    "tweet_count": "6,374 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Lesch",
     "query": "#Lesch",
     "rank": 9,
-    "tweet_count": "1,551 Tweets"
-  },
-  {
-    "name": "Wettbewerb",
-    "query": "Wettbewerb",
-    "rank": 10,
-    "tweet_count": "1,105 Tweets"
+    "tweet_count": "1,648 Tweets"
   },
   {
     "name": "Benn",
     "query": "Benn",
+    "rank": 10,
+    "tweet_count": "5,379 Tweets"
+  },
+  {
+    "name": "Wettbewerb",
+    "query": "Wettbewerb",
     "rank": 11,
-    "tweet_count": "5,188 Tweets"
+    "tweet_count": "1,162 Tweets"
   },
   {
     "name": "Privatisierung",
@@ -75,11 +75,11 @@
     "name": "Bürgermeister",
     "query": "Bürgermeister",
     "rank": 13,
-    "tweet_count": "2,743 Tweets"
+    "tweet_count": "2,877 Tweets"
   },
   {
-    "name": "dynamik",
-    "query": "dynamik",
+    "name": "Dynamik",
+    "query": "Dynamik",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,17 +87,17 @@
     "name": "Mehrheit der Deutschen",
     "query": "\"Mehrheit der Deutschen\"",
     "rank": 15,
-    "tweet_count": "3,888 Tweets"
+    "tweet_count": "3,995 Tweets"
   },
   {
     "name": "Infektionszahlen",
     "query": "Infektionszahlen",
     "rank": 16,
-    "tweet_count": "1,365 Tweets"
+    "tweet_count": "1,394 Tweets"
   },
   {
-    "name": "#Pankow",
-    "query": "#Pankow",
+    "name": "#Nuhr",
+    "query": "#Nuhr",
     "rank": 17,
     "tweet_count": null
   },
@@ -105,12 +105,18 @@
     "name": "#Neuinfektionen",
     "query": "#Neuinfektionen",
     "rank": 18,
-    "tweet_count": "2,805 Tweets"
+    "tweet_count": "2,904 Tweets"
   },
   {
     "name": "#Wettendass",
     "query": "#Wettendass",
     "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "#lockdown",
+    "query": "#lockdown",
+    "rank": 20,
+    "tweet_count": "3,415 Tweets"
   }
 ]
