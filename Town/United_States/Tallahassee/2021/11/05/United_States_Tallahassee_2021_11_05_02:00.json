@@ -1,116 +1,116 @@
 [
   {
+    "name": "Hedman",
+    "query": "Hedman",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "Tom Wilson",
     "query": "\"Tom Wilson\"",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Vasy",
     "query": "Vasy",
-    "rank": 2,
-    "tweet_count": "2,456 Tweets"
+    "rank": 3,
+    "tweet_count": "2,483 Tweets"
   },
   {
     "name": "Leafs",
     "query": "Leafs",
-    "rank": 3,
-    "tweet_count": "8,641 Tweets"
-  },
-  {
-    "name": "Wentz",
-    "query": "Wentz",
     "rank": 4,
-    "tweet_count": "9,047 Tweets"
-  },
-  {
-    "name": "Barkov",
-    "query": "Barkov",
-    "rank": 5,
-    "tweet_count": null
+    "tweet_count": "8,983 Tweets"
   },
   {
     "name": "Toronto",
     "query": "Toronto",
+    "rank": 5,
+    "tweet_count": "30.3K Tweets"
+  },
+  {
+    "name": "Barkov",
+    "query": "Barkov",
     "rank": 6,
-    "tweet_count": "29.8K Tweets"
-  },
-  {
-    "name": "#TBLvsTOR",
-    "query": "#TBLvsTOR",
-    "rank": 7,
     "tweet_count": null
-  },
-  {
-    "name": "#UFC268",
-    "query": "#UFC268",
-    "rank": 8,
-    "tweet_count": "20.8K Tweets"
-  },
-  {
-    "name": "OSHA",
-    "query": "OSHA",
-    "rank": 9,
-    "tweet_count": "106K Tweets"
   },
   {
     "name": "Durham",
     "query": "Durham",
+    "rank": 7,
+    "tweet_count": "99.3K Tweets"
+  },
+  {
+    "name": "Turkey",
+    "query": "Turkey",
+    "rank": 8,
+    "tweet_count": "53K Tweets"
+  },
+  {
+    "name": "#UFC268",
+    "query": "#UFC268",
+    "rank": 9,
+    "tweet_count": "21.3K Tweets"
+  },
+  {
+    "name": "OSHA",
+    "query": "OSHA",
     "rank": 10,
-    "tweet_count": "95.3K Tweets"
+    "tweet_count": "107K Tweets"
   },
   {
     "name": "Rand Paul",
     "query": "\"Rand Paul\"",
     "rank": 11,
-    "tweet_count": "41K Tweets"
+    "tweet_count": "42K Tweets"
   },
   {
-    "name": "Milk",
-    "query": "Milk",
+    "name": "The Harder They Fall",
+    "query": "\"The Harder They Fall\"",
     "rank": 12,
-    "tweet_count": "263K Tweets"
-  },
-  {
-    "name": "Turkey",
-    "query": "Turkey",
-    "rank": 13,
-    "tweet_count": "52.3K Tweets"
+    "tweet_count": "13.5K Tweets"
   },
   {
     "name": "Vanguard",
     "query": "Vanguard",
-    "rank": 14,
-    "tweet_count": "90.4K Tweets"
-  },
-  {
-    "name": "Kyle Rittenhouse",
-    "query": "\"Kyle Rittenhouse\"",
-    "rank": 15,
-    "tweet_count": "83.3K Tweets"
-  },
-  {
-    "name": "Mike White",
-    "query": "\"Mike White\"",
-    "rank": 16,
-    "tweet_count": "28.7K Tweets"
+    "rank": 13,
+    "tweet_count": "93.5K Tweets"
   },
   {
     "name": "Jets",
     "query": "Jets",
-    "rank": 17,
-    "tweet_count": "67.3K Tweets"
+    "rank": 14,
+    "tweet_count": "76.2K Tweets"
   },
   {
-    "name": "Keith Lee",
-    "query": "\"Keith Lee\"",
+    "name": "Jets",
+    "query": "Jets",
+    "rank": 15,
+    "tweet_count": "76.2K Tweets"
+  },
+  {
+    "name": "Jonathan Taylor",
+    "query": "\"Jonathan Taylor\"",
+    "rank": 16,
+    "tweet_count": "9,081 Tweets"
+  },
+  {
+    "name": "Mike White",
+    "query": "\"Mike White\"",
+    "rank": 17,
+    "tweet_count": "30K Tweets"
+  },
+  {
+    "name": "#NYJvsIND",
+    "query": "#NYJvsIND",
     "rank": 18,
-    "tweet_count": "24.1K Tweets"
+    "tweet_count": "11.5K Tweets"
   },
   {
     "name": "Josh Johnson",
     "query": "\"Josh Johnson\"",
     "rank": 19,
-    "tweet_count": "16.3K Tweets"
+    "tweet_count": "16.9K Tweets"
   }
 ]
