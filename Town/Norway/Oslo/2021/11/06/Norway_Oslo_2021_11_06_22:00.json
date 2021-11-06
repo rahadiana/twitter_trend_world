@@ -9,11 +9,11 @@
     "name": "#MUNMCI",
     "query": "#MUNMCI",
     "rank": 2,
-    "tweet_count": "137K Tweets"
+    "tweet_count": "138K Tweets"
   },
   {
-    "name": "#Unibet10k",
-    "query": "#Unibet10k",
+    "name": "#unibet10k",
+    "query": "#unibet10k",
     "rank": 3,
     "tweet_count": null
   },
@@ -21,47 +21,47 @@
     "name": "Shaw",
     "query": "Shaw",
     "rank": 4,
-    "tweet_count": "73.5K Tweets"
+    "tweet_count": "73.7K Tweets"
   },
   {
-    "name": "jan thomas",
-    "query": "\"jan thomas\"",
+    "name": "Jan Thomas",
+    "query": "\"Jan Thomas\"",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "birgit skarstein",
-    "query": "\"birgit skarstein\"",
+    "name": "Birgit Skarstein",
+    "query": "\"Birgit Skarstein\"",
     "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "Viktor Hovland",
-    "query": "\"Viktor Hovland\"",
-    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Burnley",
     "query": "Burnley",
+    "rank": 7,
+    "tweet_count": "43.7K Tweets"
+  },
+  {
+    "name": "#MexicoGP",
+    "query": "#MexicoGP",
     "rank": 8,
-    "tweet_count": "43.6K Tweets"
+    "tweet_count": "94.7K Tweets"
   },
   {
     "name": "Cancelo",
     "query": "Cancelo",
     "rank": 9,
-    "tweet_count": "45K Tweets"
+    "tweet_count": "45.1K Tweets"
   },
   {
-    "name": "egersund",
-    "query": "egersund",
+    "name": "Hovland",
+    "query": "Hovland",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Brann",
-    "query": "Brann",
+    "name": "Egersund",
+    "query": "Egersund",
     "rank": 11,
     "tweet_count": null
   },
@@ -72,32 +72,32 @@
     "tweet_count": "43K Tweets"
   },
   {
+    "name": "Brann",
+    "query": "Brann",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
     "name": "Old Trafford",
     "query": "\"Old Trafford\"",
-    "rank": 13,
-    "tweet_count": "48.6K Tweets"
+    "rank": 14,
+    "tweet_count": "48.7K Tweets"
   },
   {
     "name": "Kondolerer",
     "query": "Kondolerer",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "aafk",
-    "query": "aafk",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "Jerv",
-    "query": "Jerv",
+    "name": "jerv",
+    "query": "jerv",
     "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "Heltne Nilsen",
-    "query": "\"Heltne Nilsen\"",
+    "name": "heltne nilsen",
+    "query": "\"heltne nilsen\"",
     "rank": 17,
     "tweet_count": null
   },
@@ -105,18 +105,18 @@
     "name": "Farke",
     "query": "Farke",
     "rank": 18,
-    "tweet_count": "18.2K Tweets"
-  },
-  {
-    "name": "#2hockey",
-    "query": "#2hockey",
-    "rank": 19,
-    "tweet_count": null
+    "tweet_count": "18.4K Tweets"
   },
   {
     "name": "#PGLMajor",
     "query": "#PGLMajor",
+    "rank": 19,
+    "tweet_count": "10.5K Tweets"
+  },
+  {
+    "name": "aafk",
+    "query": "aafk",
     "rank": 20,
-    "tweet_count": "10.4K Tweets"
+    "tweet_count": null
   }
 ]
