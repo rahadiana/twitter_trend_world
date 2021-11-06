@@ -1,122 +1,122 @@
 [
   {
-    "name": "Rutgers",
-    "query": "Rutgers",
-    "rank": 1,
-    "tweet_count": "3,018 Tweets"
-  },
-  {
     "name": "Badgers",
     "query": "Badgers",
-    "rank": 2,
-    "tweet_count": "2,672 Tweets"
+    "rank": 1,
+    "tweet_count": "2,811 Tweets"
   },
   {
     "name": "Astroworld",
     "query": "Astroworld",
+    "rank": 2,
+    "tweet_count": "386K Tweets"
+  },
+  {
+    "name": "Purdue",
+    "query": "Purdue",
     "rank": 3,
-    "tweet_count": "374K Tweets"
+    "tweet_count": "8,755 Tweets"
   },
   {
     "name": "Nebraska",
     "query": "Nebraska",
     "rank": 4,
-    "tweet_count": "28.9K Tweets"
-  },
-  {
-    "name": "Purdue",
-    "query": "Purdue",
-    "rank": 5,
-    "tweet_count": "7,676 Tweets"
+    "tweet_count": "29.4K Tweets"
   },
   {
     "name": "Wake Forest",
     "query": "\"Wake Forest\"",
+    "rank": 5,
+    "tweet_count": "9,398 Tweets"
+  },
+  {
+    "name": "Big Bird",
+    "query": "\"Big Bird\"",
     "rank": 6,
-    "tweet_count": "9,165 Tweets"
+    "tweet_count": "3,190 Tweets"
   },
   {
     "name": "Milton",
     "query": "Milton",
     "rank": 7,
-    "tweet_count": "6,953 Tweets"
+    "tweet_count": "7,123 Tweets"
+  },
+  {
+    "name": "Loves Only You",
+    "query": "\"Loves Only You\"",
+    "rank": 8,
+    "tweet_count": "5,835 Tweets"
   },
   {
     "name": "#Caturday",
     "query": "#Caturday",
-    "rank": 8,
-    "tweet_count": "23.2K Tweets"
-  },
-  {
-    "name": "Big Bird",
-    "query": "\"Big Bird\"",
     "rank": 9,
-    "tweet_count": "2,738 Tweets"
-  },
-  {
-    "name": "Life Is Good",
-    "query": "\"Life Is Good\"",
-    "rank": 10,
-    "tweet_count": "38.8K Tweets"
-  },
-  {
-    "name": "Alaba",
-    "query": "Alaba",
-    "rank": 11,
-    "tweet_count": "10.5K Tweets"
-  },
-  {
-    "name": "#SurvivorSeries",
-    "query": "#SurvivorSeries",
-    "rank": 12,
-    "tweet_count": "9,537 Tweets"
-  },
-  {
-    "name": "Minnesota",
-    "query": "Minnesota",
-    "rank": 13,
-    "tweet_count": "16.4K Tweets"
-  },
-  {
-    "name": "Coan",
-    "query": "Coan",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "#RiotXArcane",
-    "query": "#RiotXArcane",
-    "rank": 15,
-    "tweet_count": "8,236 Tweets"
+    "tweet_count": "23.7K Tweets"
   },
   {
     "name": "#404twtselfieday",
     "query": "#404twtselfieday",
-    "rank": 16,
-    "tweet_count": "1,960 Tweets"
+    "rank": 10,
+    "tweet_count": "2,903 Tweets"
+  },
+  {
+    "name": "Grant Morgan",
+    "query": "\"Grant Morgan\"",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "Survivor Series",
+    "query": "\"Survivor Series\"",
+    "rank": 12,
+    "tweet_count": "3,821 Tweets"
+  },
+  {
+    "name": "Alaba",
+    "query": "Alaba",
+    "rank": 13,
+    "tweet_count": "11.2K Tweets"
   },
   {
     "name": "5th Circuit",
     "query": "\"5th Circuit\"",
+    "rank": 14,
+    "tweet_count": "12.5K Tweets"
+  },
+  {
+    "name": "Coan",
+    "query": "Coan",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Minnesota",
+    "query": "Minnesota",
+    "rank": 16,
+    "tweet_count": "16.7K Tweets"
+  },
+  {
+    "name": "#UFC268",
+    "query": "#UFC268",
     "rank": 17,
-    "tweet_count": "11.7K Tweets"
+    "tweet_count": "27.4K Tweets"
   },
   {
     "name": "Prevea Health",
     "query": "\"Prevea Health\"",
     "rank": 18,
-    "tweet_count": "4,952 Tweets"
+    "tweet_count": "5,341 Tweets"
   },
   {
     "name": "Jeremy Colliton",
     "query": "\"Jeremy Colliton\"",
     "rank": 19,
-    "tweet_count": "3,812 Tweets"
+    "tweet_count": "3,938 Tweets"
   },
   {
-    "name": "Mr Bayo",
-    "query": "\"Mr Bayo\"",
+    "name": "#RiotXArcane",
+    "query": "#RiotXArcane",
     "rank": 20,
-    "tweet_count": "34.7K Tweets"
+    "tweet_count": "8,374 Tweets"
   }
 ]
