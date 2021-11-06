@@ -3,7 +3,7 @@
     "name": "שבת שלום",
     "query": "\"שבת שלום\"",
     "rank": 1,
-    "tweet_count": "3,284 Tweets"
+    "tweet_count": "3,263 Tweets"
   },
   {
     "name": "חודש טוב",
@@ -12,10 +12,10 @@
     "tweet_count": null
   },
   {
-    "name": "Shabbat Shalom",
-    "query": "\"Shabbat Shalom\"",
+    "name": "shabbat shalom",
+    "query": "\"shabbat shalom\"",
     "rank": 3,
-    "tweet_count": "4,406 Tweets"
+    "tweet_count": "4,418 Tweets"
   },
   {
     "name": "אורלי לוי",
@@ -42,22 +42,22 @@
     "tweet_count": null
   },
   {
-    "name": "western wall",
-    "query": "\"western wall\"",
+    "name": "Western Wall",
+    "query": "\"Western Wall\"",
     "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "עבד כי",
+    "query": "\"עבד כי\"",
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "#sigd",
     "query": "#sigd",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Taylor",
-    "query": "Taylor",
     "rank": 10,
-    "tweet_count": "336K Tweets"
+    "tweet_count": null
   },
   {
     "name": "דין דוד",
@@ -66,8 +66,8 @@
     "tweet_count": null
   },
   {
-    "name": "מיקי לוי",
-    "query": "\"מיקי לוי\"",
+    "name": "עבר תקציב",
+    "query": "\"עבר תקציב\"",
     "rank": 12,
     "tweet_count": null
   },
@@ -78,8 +78,8 @@
     "tweet_count": null
   },
   {
-    "name": "עבד כי",
-    "query": "\"עבד כי\"",
+    "name": "מיקי לוי",
+    "query": "\"מיקי לוי\"",
     "rank": 14,
     "tweet_count": null
   },
@@ -93,30 +93,30 @@
     "name": "Netanyahu",
     "query": "Netanyahu",
     "rank": 16,
-    "tweet_count": "6,400 Tweets"
+    "tweet_count": "6,432 Tweets"
   },
   {
     "name": "Earth",
     "query": "Earth",
     "rank": 17,
-    "tweet_count": "225K Tweets"
-  },
-  {
-    "name": "עבר תקציב",
-    "query": "\"עבר תקציב\"",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "226K Tweets"
   },
   {
     "name": "Women of the Wall",
     "query": "\"Women of the Wall\"",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "מי עוד",
     "query": "\"מי עוד\"",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "#straykids",
+    "query": "#straykids",
+    "rank": 20,
+    "tweet_count": "1.64M Tweets"
   }
 ]
