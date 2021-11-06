@@ -1,39 +1,39 @@
 [
   {
-    "name": "#salzbachtalbruecke",
-    "query": "#salzbachtalbruecke",
+    "name": "#Messerattacke",
+    "query": "#Messerattacke",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "#Messerattacke",
-    "query": "#Messerattacke",
+    "name": "#salzbachtalbruecke",
+    "query": "#salzbachtalbruecke",
     "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "#effzehMV",
+    "query": "#effzehMV",
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#Dialga",
     "query": "#Dialga",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Sprengung",
     "query": "Sprengung",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "#wettendass",
-    "query": "#wettendass",
     "rank": 5,
-    "tweet_count": "1,121 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Schönen Samstag",
     "query": "\"Schönen Samstag\"",
     "rank": 6,
-    "tweet_count": "1,527 Tweets"
+    "tweet_count": "1,546 Tweets"
   },
   {
     "name": "Radikalisierung",
@@ -42,14 +42,14 @@
     "tweet_count": null
   },
   {
-    "name": "Verfassungsschutz",
-    "query": "Verfassungsschutz",
+    "name": "Karneval",
+    "query": "Karneval",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Karneval",
-    "query": "Karneval",
+    "name": "Verfassungsschutz",
+    "query": "Verfassungsschutz",
     "rank": 9,
     "tweet_count": null
   },
@@ -57,31 +57,31 @@
     "name": "#le0611",
     "query": "#le0611",
     "rank": 10,
-    "tweet_count": "2,303 Tweets"
-  },
-  {
-    "name": "#effzehMV",
-    "query": "#effzehMV",
-    "rank": 11,
-    "tweet_count": null
+    "tweet_count": "2,418 Tweets"
   },
   {
     "name": "#MUNMCI",
     "query": "#MUNMCI",
-    "rank": 12,
-    "tweet_count": "30.9K Tweets"
+    "rank": 11,
+    "tweet_count": "35.4K Tweets"
   },
   {
-    "name": "#Caturday",
-    "query": "#Caturday",
-    "rank": 13,
-    "tweet_count": "6,064 Tweets"
+    "name": "#wettendass",
+    "query": "#wettendass",
+    "rank": 12,
+    "tweet_count": "1,157 Tweets"
   },
   {
     "name": "#VfBDSC",
     "query": "#VfBDSC",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
+  },
+  {
+    "name": "#Caturday",
+    "query": "#Caturday",
+    "rank": 14,
+    "tweet_count": "6,390 Tweets"
   },
   {
     "name": "#wiesbaden",
@@ -99,7 +99,7 @@
     "name": "#ASTROWORLDFest",
     "query": "#ASTROWORLDFest",
     "rank": 17,
-    "tweet_count": "64.7K Tweets"
+    "tweet_count": "66.7K Tweets"
   },
   {
     "name": "#FCSFCK",
@@ -111,6 +111,6 @@
     "name": "#FCBSCF",
     "query": "#FCBSCF",
     "rank": 19,
-    "tweet_count": "1,013 Tweets"
+    "tweet_count": "1,033 Tweets"
   }
 ]

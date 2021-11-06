@@ -1,21 +1,21 @@
 [
   {
+    "name": "#MUNMCI",
+    "query": "#MUNMCI",
+    "rank": 1,
+    "tweet_count": "35.4K Tweets"
+  },
+  {
     "name": "Xavi",
     "query": "Xavi",
-    "rank": 1,
-    "tweet_count": "326K Tweets"
+    "rank": 2,
+    "tweet_count": "329K Tweets"
   },
   {
     "name": "#Newsfile",
     "query": "#Newsfile",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "#MUNMCI",
-    "query": "#MUNMCI",
     "rank": 3,
-    "tweet_count": "30.9K Tweets"
+    "tweet_count": null
   },
   {
     "name": "R2bees",
@@ -27,7 +27,7 @@
     "name": "Burnley",
     "query": "Burnley",
     "rank": 5,
-    "tweet_count": "11K Tweets"
+    "tweet_count": "11.2K Tweets"
   },
   {
     "name": "#wakenbake",
@@ -45,13 +45,13 @@
     "name": "#FridayVibe",
     "query": "#FridayVibe",
     "rank": 8,
-    "tweet_count": "1,248 Tweets"
+    "tweet_count": "1,249 Tweets"
   },
   {
     "name": "Kalyjay",
     "query": "Kalyjay",
     "rank": 9,
-    "tweet_count": "2,221 Tweets"
+    "tweet_count": "2,233 Tweets"
   },
   {
     "name": "Cecilia Marfo",
@@ -60,63 +60,63 @@
     "tweet_count": null
   },
   {
-    "name": "WAFA",
-    "query": "WAFA",
+    "name": "Greenwood",
+    "query": "Greenwood",
     "rank": 11,
-    "tweet_count": "4,285 Tweets"
+    "tweet_count": "10.3K Tweets"
+  },
+  {
+    "name": "Wafa",
+    "query": "Wafa",
+    "rank": 12,
+    "tweet_count": "4,310 Tweets"
   },
   {
     "name": "Kanye",
     "query": "Kanye",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": "144K Tweets"
+  },
+  {
+    "name": "Man City",
+    "query": "\"Man City\"",
+    "rank": 14,
+    "tweet_count": "36.1K Tweets"
+  },
+  {
+    "name": "Cavani",
+    "query": "Cavani",
+    "rank": 15,
+    "tweet_count": "10.5K Tweets"
   },
   {
     "name": "Evelyn Badu",
     "query": "\"Evelyn Badu\"",
-    "rank": 13,
+    "rank": 16,
     "tweet_count": null
+  },
+  {
+    "name": "Chelsea",
+    "query": "Chelsea",
+    "rank": 17,
+    "tweet_count": "55.3K Tweets"
   },
   {
     "name": "Afrochella",
     "query": "Afrochella",
-    "rank": 14,
+    "rank": 18,
     "tweet_count": "16.1K Tweets"
   },
   {
     "name": "Hasaacas Ladies",
     "query": "\"Hasaacas Ladies\"",
-    "rank": 15,
-    "tweet_count": "2,396 Tweets"
+    "rank": 19,
+    "tweet_count": "2,403 Tweets"
   },
   {
     "name": "Zizou",
     "query": "Zizou",
-    "rank": 16,
-    "tweet_count": "2,337 Tweets"
-  },
-  {
-    "name": "Aston Villa",
-    "query": "\"Aston Villa\"",
-    "rank": 17,
-    "tweet_count": "11.4K Tweets"
-  },
-  {
-    "name": "Ethiopia",
-    "query": "Ethiopia",
-    "rank": 18,
-    "tweet_count": "212K Tweets"
-  },
-  {
-    "name": "al sadd",
-    "query": "\"al sadd\"",
-    "rank": 19,
-    "tweet_count": "26.2K Tweets"
-  },
-  {
-    "name": "Travis",
-    "query": "Travis",
     "rank": 20,
-    "tweet_count": "139K Tweets"
+    "tweet_count": "2,363 Tweets"
   }
 ]
