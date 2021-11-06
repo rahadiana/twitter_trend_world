@@ -1,122 +1,122 @@
 [
   {
-    "name": "#OLPAction",
-    "query": "#OLPAction",
+    "name": "Boston",
+    "query": "Boston",
     "rank": 1,
+    "tweet_count": "26.8K Tweets"
+  },
+  {
+    "name": "#olpaction",
+    "query": "#olpaction",
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Josh Brown",
     "query": "\"Josh Brown\"",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
-    "name": "Astroworld",
-    "query": "Astroworld",
-    "rank": 3,
-    "tweet_count": "433K Tweets"
+    "name": "#BreedersCup",
+    "query": "#BreedersCup",
+    "rank": 4,
+    "tweet_count": "13K Tweets"
   },
   {
     "name": "#UFC268",
     "query": "#UFC268",
-    "rank": 4,
-    "tweet_count": "33.2K Tweets"
-  },
-  {
-    "name": "Angelo Mosca",
-    "query": "\"Angelo Mosca\"",
     "rank": 5,
-    "tweet_count": "1,249 Tweets"
-  },
-  {
-    "name": "#MexicoGP",
-    "query": "#MexicoGP",
-    "rank": 6,
-    "tweet_count": "94.6K Tweets"
-  },
-  {
-    "name": "#itsbudtime",
-    "query": "#itsbudtime",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
-    "name": "#Argos",
-    "query": "#Argos",
-    "rank": 8,
-    "tweet_count": null
+    "tweet_count": "36.2K Tweets"
   },
   {
     "name": "Bruins",
     "query": "Bruins",
-    "rank": 9,
-    "tweet_count": "3,148 Tweets"
+    "rank": 6,
+    "tweet_count": "3,531 Tweets"
+  },
+  {
+    "name": "Astroworld",
+    "query": "Astroworld",
+    "rank": 7,
+    "tweet_count": "444K Tweets"
   },
   {
     "name": "Big Bird",
     "query": "\"Big Bird\"",
+    "rank": 8,
+    "tweet_count": "9,245 Tweets"
+  },
+  {
+    "name": "#Argos",
+    "query": "#Argos",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Angelo Mosca",
+    "query": "\"Angelo Mosca\"",
     "rank": 10,
-    "tweet_count": "7,012 Tweets"
+    "tweet_count": "1,299 Tweets"
+  },
+  {
+    "name": "#MexicoGP",
+    "query": "#MexicoGP",
+    "rank": 11,
+    "tweet_count": "96.5K Tweets"
   },
   {
     "name": "Go Leafs Go",
     "query": "\"Go Leafs Go\"",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "minghao",
-    "query": "minghao",
-    "rank": 12,
-    "tweet_count": "83.3K Tweets"
+    "name": "Purdue",
+    "query": "Purdue",
+    "rank": 13,
+    "tweet_count": "22.6K Tweets"
   },
   {
     "name": "Chandler",
     "query": "Chandler",
-    "rank": 13,
-    "tweet_count": "11K Tweets"
+    "rank": 14,
+    "tweet_count": "11.4K Tweets"
   },
   {
     "name": "Barca",
     "query": "Barca",
-    "rank": 14,
-    "tweet_count": "168K Tweets"
-  },
-  {
-    "name": "Gretzky",
-    "query": "Gretzky",
     "rank": 15,
-    "tweet_count": "1,884 Tweets"
+    "tweet_count": "170K Tweets"
   },
   {
-    "name": "#Flames1stGoal",
-    "query": "#Flames1stGoal",
+    "name": "Spencer",
+    "query": "Spencer",
     "rank": 16,
+    "tweet_count": "27.2K Tweets"
+  },
+  {
+    "name": "#ItsBudTime",
+    "query": "#ItsBudTime",
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "#ForTheW",
     "query": "#ForTheW",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "#ExtraLife2021",
-    "query": "#ExtraLife2021",
-    "rank": 18,
-    "tweet_count": "2,915 Tweets"
-  },
-  {
-    "name": "#CaneloPlant",
-    "query": "#CaneloPlant",
+    "name": "#extralife2021",
+    "query": "#extralife2021",
     "rank": 19,
-    "tweet_count": "9,499 Tweets"
+    "tweet_count": "2,979 Tweets"
   },
   {
-    "name": "#DaylightSavingTime",
-    "query": "#DaylightSavingTime",
+    "name": "#Flames1stGoal",
+    "query": "#Flames1stGoal",
     "rank": 20,
-    "tweet_count": "4,240 Tweets"
+    "tweet_count": null
   }
 ]
