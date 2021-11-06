@@ -1,62 +1,86 @@
 [
   {
-    "name": "Chelsea",
-    "query": "Chelsea",
+    "name": "Celta",
+    "query": "Celta",
     "rank": 1,
-    "tweet_count": "95.8K Tweets"
+    "tweet_count": "40K Tweets"
   },
   {
-    "name": "Fernando Daniel",
-    "query": "\"Fernando Daniel\"",
+    "name": "Chelsea",
+    "query": "Chelsea",
     "rank": 2,
-    "tweet_count": null
+    "tweet_count": "103K Tweets"
   },
   {
     "name": "Travis",
     "query": "Travis",
     "rank": 3,
-    "tweet_count": "296K Tweets"
-  },
-  {
-    "name": "Shaw",
-    "query": "Shaw",
-    "rank": 4,
-    "tweet_count": "68.2K Tweets"
+    "tweet_count": "317K Tweets"
   },
   {
     "name": "#Worlds2021",
     "query": "#Worlds2021",
+    "rank": 4,
+    "tweet_count": "71.3K Tweets"
+  },
+  {
+    "name": "Fernando Daniel",
+    "query": "\"Fernando Daniel\"",
     "rank": 5,
-    "tweet_count": "59.9K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Bernardo",
+    "query": "Bernardo",
+    "rank": 6,
+    "tweet_count": "38.4K Tweets"
   },
   {
     "name": "Cancelo",
     "query": "Cancelo",
-    "rank": 6,
-    "tweet_count": "41.6K Tweets"
-  },
-  {
-    "name": "Lindelof",
-    "query": "Lindelof",
     "rank": 7,
-    "tweet_count": "10.1K Tweets"
+    "tweet_count": "42.2K Tweets"
   },
   {
-    "name": "O City",
-    "query": "\"O City\"",
+    "name": "Solskjaer",
+    "query": "Solskjaer",
     "rank": 8,
-    "tweet_count": "14.3K Tweets"
+    "tweet_count": "69.2K Tweets"
+  },
+  {
+    "name": "Maguire",
+    "query": "Maguire",
+    "rank": 9,
+    "tweet_count": "60.3K Tweets"
   },
   {
     "name": "Chan",
     "query": "Chan",
-    "rank": 9,
-    "tweet_count": "361K Tweets"
+    "rank": 10,
+    "tweet_count": "368K Tweets"
+  },
+  {
+    "name": "Telles",
+    "query": "Telles",
+    "rank": 11,
+    "tweet_count": "9,071 Tweets"
   },
   {
     "name": "Guardiola",
     "query": "Guardiola",
-    "rank": 10,
-    "tweet_count": "33.4K Tweets"
+    "rank": 12,
+    "tweet_count": "34.9K Tweets"
+  },
+  {
+    "name": "O United",
+    "query": "\"O United\"",
+    "rank": 13,
+    "tweet_count": "17.1K Tweets"
+  },
+  {
+    "name": "Xavi",
+    "query": "Xavi",
+    "rank": 14,
+    "tweet_count": "282K Tweets"
   }
 ]
