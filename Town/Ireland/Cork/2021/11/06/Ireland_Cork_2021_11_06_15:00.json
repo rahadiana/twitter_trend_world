@@ -1,74 +1,80 @@
 [
   {
-    "name": "#MUNMCI",
-    "query": "#MUNMCI",
-    "rank": 1,
-    "tweet_count": "127K Tweets"
-  },
-  {
     "name": "#IREvJPN",
     "query": "#IREvJPN",
-    "rank": 2,
-    "tweet_count": "5,670 Tweets"
+    "rank": 1,
+    "tweet_count": "6,023 Tweets"
   },
   {
-    "name": "Japan",
-    "query": "Japan",
-    "rank": 3,
-    "tweet_count": "447K Tweets"
+    "name": "#MUNMCI",
+    "query": "#MUNMCI",
+    "rank": 2,
+    "tweet_count": "130K Tweets"
   },
   {
     "name": "#ShoulderToShoulder",
     "query": "#ShoulderToShoulder",
+    "rank": 3,
+    "tweet_count": "1,298 Tweets"
+  },
+  {
+    "name": "Japan",
+    "query": "Japan",
     "rank": 4,
-    "tweet_count": "1,211 Tweets"
-  },
-  {
-    "name": "#AutumnNationsSeries",
-    "query": "#AutumnNationsSeries",
-    "rank": 5,
-    "tweet_count": "1,849 Tweets"
-  },
-  {
-    "name": "Donny",
-    "query": "Donny",
-    "rank": 6,
-    "tweet_count": "55.9K Tweets"
+    "tweet_count": "454K Tweets"
   },
   {
     "name": "#TeamOfUs",
     "query": "#TeamOfUs",
+    "rank": 5,
+    "tweet_count": "1,078 Tweets"
+  },
+  {
+    "name": "#OleIn",
+    "query": "#OleIn",
+    "rank": 6,
+    "tweet_count": "7,651 Tweets"
+  },
+  {
+    "name": "Donny",
+    "query": "Donny",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "57.7K Tweets"
+  },
+  {
+    "name": "Conway",
+    "query": "Conway",
+    "rank": 8,
+    "tweet_count": "3,714 Tweets"
   },
   {
     "name": "Aviva",
     "query": "Aviva",
-    "rank": 8,
-    "tweet_count": "1,240 Tweets"
+    "rank": 9,
+    "tweet_count": "1,326 Tweets"
   },
   {
     "name": "Johnny",
     "query": "Johnny",
-    "rank": 9,
-    "tweet_count": "126K Tweets"
+    "rank": 10,
+    "tweet_count": "129K Tweets"
   },
   {
     "name": "Mary",
     "query": "Mary",
-    "rank": 10,
-    "tweet_count": "91.4K Tweets"
+    "rank": 11,
+    "tweet_count": "93.8K Tweets"
   },
   {
     "name": "#IrishRugby",
     "query": "#IrishRugby",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "#ClimateJustice",
     "query": "#ClimateJustice",
-    "rank": 12,
-    "tweet_count": "10.2K Tweets"
+    "rank": 13,
+    "tweet_count": "10.9K Tweets"
   }
 ]
