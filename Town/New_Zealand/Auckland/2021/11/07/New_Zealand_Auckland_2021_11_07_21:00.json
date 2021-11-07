@@ -12,16 +12,16 @@
     "tweet_count": null
   },
   {
-    "name": "#NZvAFG",
-    "query": "#NZvAFG",
-    "rank": 3,
-    "tweet_count": "110K Tweets"
-  },
-  {
     "name": "West Ham",
     "query": "\"West Ham\"",
+    "rank": 3,
+    "tweet_count": "133K Tweets"
+  },
+  {
+    "name": "#NZvAFG",
+    "query": "#NZvAFG",
     "rank": 4,
-    "tweet_count": "131K Tweets"
+    "tweet_count": "110K Tweets"
   },
   {
     "name": "#SecretSantaNZ2021",
@@ -33,7 +33,7 @@
     "name": "Astroworld",
     "query": "Astroworld",
     "rank": 6,
-    "tweet_count": "411K Tweets"
+    "tweet_count": "415K Tweets"
   },
   {
     "name": "#CaneloPlant",
@@ -42,32 +42,32 @@
     "tweet_count": "143K Tweets"
   },
   {
+    "name": "Simon",
+    "query": "Simon",
+    "rank": 8,
+    "tweet_count": "46K Tweets"
+  },
+  {
     "name": "Black Ferns",
     "query": "\"Black Ferns\"",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Big Bird",
     "query": "\"Big Bird\"",
-    "rank": 9,
-    "tweet_count": "174K Tweets"
-  },
-  {
-    "name": "Colby",
-    "query": "Colby",
     "rank": 10,
-    "tweet_count": "62.2K Tweets"
+    "tweet_count": "178K Tweets"
   },
   {
     "name": "Chandler",
     "query": "Chandler",
     "rank": 11,
-    "tweet_count": "58.6K Tweets"
+    "tweet_count": "58.9K Tweets"
   },
   {
-    "name": "Jack Tame",
-    "query": "\"Jack Tame\"",
+    "name": "jack tame",
+    "query": "\"jack tame\"",
     "rank": 12,
     "tweet_count": null
   },
@@ -84,39 +84,39 @@
     "tweet_count": null
   },
   {
+    "name": "Colby",
+    "query": "Colby",
+    "rank": 15,
+    "tweet_count": "62.2K Tweets"
+  },
+  {
     "name": "Hone",
     "query": "Hone",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": "16.3K Tweets"
   },
   {
     "name": "New Zealander",
     "query": "\"New Zealander\"",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Coutts",
     "query": "Coutts",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Terrible",
     "query": "Terrible",
-    "rank": 18,
-    "tweet_count": "123K Tweets"
+    "rank": 19,
+    "tweet_count": "126K Tweets"
   },
   {
     "name": "Long Covid",
     "query": "\"Long Covid\"",
-    "rank": 19,
-    "tweet_count": "16.7K Tweets"
-  },
-  {
-    "name": "World Cup",
-    "query": "\"World Cup\"",
     "rank": 20,
-    "tweet_count": "5,726 Tweets"
+    "tweet_count": "17.1K Tweets"
   }
 ]

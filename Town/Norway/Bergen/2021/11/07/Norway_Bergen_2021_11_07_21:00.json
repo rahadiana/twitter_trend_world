@@ -1,9 +1,9 @@
 [
   {
-    "name": "West Ham",
-    "query": "\"West Ham\"",
+    "name": "#WHULIV",
+    "query": "#WHULIV",
     "rank": 1,
-    "tweet_count": "131K Tweets"
+    "tweet_count": "63.5K Tweets"
   },
   {
     "name": "Åråsen",
@@ -12,105 +12,105 @@
     "tweet_count": null
   },
   {
+    "name": "#MexicoGP",
+    "query": "#MexicoGP",
+    "rank": 3,
+    "tweet_count": "221K Tweets"
+  },
+  {
     "name": "Mjøndalen",
     "query": "Mjøndalen",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Thunberg",
     "query": "Thunberg",
-    "rank": 4,
-    "tweet_count": "13.9K Tweets"
-  },
-  {
-    "name": "#MexicoGP",
-    "query": "#MexicoGP",
     "rank": 5,
-    "tweet_count": "193K Tweets"
-  },
-  {
-    "name": "#WHULIV",
-    "query": "#WHULIV",
-    "rank": 6,
-    "tweet_count": "63.1K Tweets"
+    "tweet_count": "14.4K Tweets"
   },
   {
     "name": "Auba",
     "query": "Auba",
-    "rank": 7,
-    "tweet_count": "27.7K Tweets"
+    "rank": 6,
+    "tweet_count": "27.8K Tweets"
   },
   {
     "name": "Maskorama",
     "query": "Maskorama",
-    "rank": 8,
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "#UFC268",
     "query": "#UFC268",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": "345K Tweets"
-  },
-  {
-    "name": "Allison",
-    "query": "Allison",
-    "rank": 10,
-    "tweet_count": "10.9K Tweets"
   },
   {
     "name": "Sandviken",
     "query": "Sandviken",
-    "rank": 11,
+    "rank": 9,
     "tweet_count": null
+  },
+  {
+    "name": "Hovland",
+    "query": "Hovland",
+    "rank": 10,
+    "tweet_count": "3,076 Tweets"
   },
   {
     "name": "#oddsbk",
     "query": "#oddsbk",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Origi",
     "query": "Origi",
-    "rank": 13,
-    "tweet_count": "13.2K Tweets"
+    "rank": 12,
+    "tweet_count": "13.3K Tweets"
   },
   {
     "name": "Trent",
     "query": "Trent",
-    "rank": 14,
-    "tweet_count": "41K Tweets"
+    "rank": 13,
+    "tweet_count": "41.3K Tweets"
   },
   {
-    "name": "Hovland",
-    "query": "Hovland",
-    "rank": 15,
-    "tweet_count": "2,957 Tweets"
+    "name": "Allison",
+    "query": "Allison",
+    "rank": 14,
+    "tweet_count": "11K Tweets"
   },
   {
     "name": "Rose",
     "query": "Rose",
-    "rank": 16,
-    "tweet_count": "520K Tweets"
+    "rank": 15,
+    "tweet_count": "525K Tweets"
   },
   {
     "name": "Travis Scott",
     "query": "\"Travis Scott\"",
-    "rank": 17,
-    "tweet_count": "491K Tweets"
+    "rank": 16,
+    "tweet_count": "496K Tweets"
   },
   {
     "name": "Klopp",
     "query": "Klopp",
-    "rank": 18,
-    "tweet_count": "22.6K Tweets"
+    "rank": 17,
+    "tweet_count": "23.1K Tweets"
   },
   {
     "name": "Rodgers",
     "query": "Rodgers",
+    "rank": 18,
+    "tweet_count": "164K Tweets"
+  },
+  {
+    "name": "lsk-vif",
+    "query": "lsk-vif",
     "rank": 19,
-    "tweet_count": "161K Tweets"
+    "tweet_count": null
   }
 ]
