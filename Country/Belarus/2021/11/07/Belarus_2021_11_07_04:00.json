@@ -1,116 +1,122 @@
 [
   {
+    "name": "Точно",
+    "query": "Точно",
+    "rank": 1,
+    "tweet_count": "10.9K Tweets"
+  },
+  {
     "name": "#straykids",
     "query": "#straykids",
-    "rank": 1,
-    "tweet_count": "957K Tweets"
+    "rank": 2,
+    "tweet_count": "970K Tweets"
   },
   {
     "name": "#에이티즈",
     "query": "#에이티즈",
-    "rank": 2,
-    "tweet_count": "473K Tweets"
-  },
-  {
-    "name": "#GlobalCrisis",
-    "query": "#GlobalCrisis",
     "rank": 3,
-    "tweet_count": "1,508 Tweets"
+    "tweet_count": "478K Tweets"
   },
   {
-    "name": "Belarus",
-    "query": "Belarus",
+    "name": "капец",
+    "query": "капец",
     "rank": 4,
-    "tweet_count": "9,626 Tweets"
+    "tweet_count": "2,030 Tweets"
+  },
+  {
+    "name": "belarus",
+    "query": "belarus",
+    "rank": 5,
+    "tweet_count": "9,665 Tweets"
   },
   {
     "name": "#Time4Truth",
     "query": "#Time4Truth",
-    "rank": 5,
-    "tweet_count": "1,338 Tweets"
-  },
-  {
-    "name": "Дааа",
-    "query": "Дааа",
     "rank": 6,
-    "tweet_count": "1,263 Tweets"
+    "tweet_count": "1,344 Tweets"
   },
   {
-    "name": "#PGLMajor",
-    "query": "#PGLMajor",
+    "name": "#GlobalCrisis",
+    "query": "#GlobalCrisis",
     "rank": 7,
-    "tweet_count": "10.8K Tweets"
+    "tweet_count": "1,519 Tweets"
   },
   {
     "name": "Крым",
     "query": "Крым",
     "rank": 8,
-    "tweet_count": "1,843 Tweets"
-  },
-  {
-    "name": "Украине",
-    "query": "Украине",
-    "rank": 9,
-    "tweet_count": "3,176 Tweets"
+    "tweet_count": "1,854 Tweets"
   },
   {
     "name": "Люблю",
     "query": "Люблю",
+    "rank": 9,
+    "tweet_count": "23.6K Tweets"
+  },
+  {
+    "name": "реально",
+    "query": "реально",
     "rank": 10,
-    "tweet_count": "23.5K Tweets"
+    "tweet_count": "9,521 Tweets"
+  },
+  {
+    "name": "Дааа",
+    "query": "Дааа",
+    "rank": 11,
+    "tweet_count": "1,269 Tweets"
+  },
+  {
+    "name": "Москве",
+    "query": "Москве",
+    "rank": 12,
+    "tweet_count": "7,117 Tweets"
+  },
+  {
+    "name": "#ClimateCrisis",
+    "query": "#ClimateCrisis",
+    "rank": 13,
+    "tweet_count": "13.7K Tweets"
   },
   {
     "name": "Боже",
     "query": "Боже",
-    "rank": 11,
-    "tweet_count": "7,456 Tweets"
+    "rank": 14,
+    "tweet_count": "7,475 Tweets"
   },
   {
     "name": "Блин",
     "query": "Блин",
-    "rank": 12,
-    "tweet_count": "9,458 Tweets"
-  },
-  {
-    "name": "Отлично",
-    "query": "Отлично",
-    "rank": 13,
-    "tweet_count": "2,306 Tweets"
-  },
-  {
-    "name": "СССР",
-    "query": "СССР",
-    "rank": 14,
-    "tweet_count": "5,673 Tweets"
-  },
-  {
-    "name": "Понимаю",
-    "query": "Понимаю",
     "rank": 15,
-    "tweet_count": "13.9K Tweets"
+    "tweet_count": "9,485 Tweets"
   },
   {
-    "name": "Ужас",
-    "query": "Ужас",
+    "name": "Господи",
+    "query": "Господи",
     "rank": 16,
-    "tweet_count": "3,304 Tweets"
+    "tweet_count": "5,228 Tweets"
   },
   {
-    "name": "Ладно",
-    "query": "Ладно",
+    "name": "Украины",
+    "query": "Украины",
     "rank": 17,
-    "tweet_count": "10.2K Tweets"
+    "tweet_count": "5,400 Tweets"
   },
   {
-    "name": "Скорее",
-    "query": "Скорее",
+    "name": "Лукашенко",
+    "query": "Лукашенко",
     "rank": 18,
-    "tweet_count": "4,797 Tweets"
+    "tweet_count": "1,928 Tweets"
   },
   {
-    "name": "Вроде",
-    "query": "Вроде",
+    "name": "минск",
+    "query": "минск",
     "rank": 19,
-    "tweet_count": "8,519 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "альбедо",
+    "query": "альбедо",
+    "rank": 20,
+    "tweet_count": "1,248 Tweets"
   }
 ]
