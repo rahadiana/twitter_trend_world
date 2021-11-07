@@ -1,63 +1,63 @@
 [
   {
+    "name": "Tony Romo",
+    "query": "\"Tony Romo\"",
+    "rank": 1,
+    "tweet_count": "1,221 Tweets"
+  },
+  {
     "name": "Odell",
     "query": "Odell",
-    "rank": 1,
-    "tweet_count": "28.5K Tweets"
+    "rank": 2,
+    "tweet_count": "28.9K Tweets"
   },
   {
     "name": "Chase",
     "query": "Chase",
-    "rank": 2,
-    "tweet_count": "50.6K Tweets"
+    "rank": 3,
+    "tweet_count": "51.3K Tweets"
   },
   {
     "name": "Zac Taylor",
     "query": "\"Zac Taylor\"",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "Newsome",
-    "query": "Newsome",
     "rank": 4,
-    "tweet_count": "1,437 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Myles Garrett",
     "query": "\"Myles Garrett\"",
     "rank": 5,
-    "tweet_count": "2,674 Tweets"
+    "tweet_count": "2,724 Tweets"
+  },
+  {
+    "name": "Newsome",
+    "query": "Newsome",
+    "rank": 6,
+    "tweet_count": "1,471 Tweets"
   },
   {
     "name": "Njoku",
     "query": "Njoku",
-    "rank": 6,
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "#Crew96",
+    "query": "#Crew96",
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Perine",
     "query": "Perine",
-    "rank": 7,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Teller",
     "query": "Teller",
-    "rank": 8,
-    "tweet_count": "5,284 Tweets"
-  },
-  {
-    "name": "#Crew96",
-    "query": "#Crew96",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "AFC North",
-    "query": "\"AFC North\"",
     "rank": 10,
-    "tweet_count": "1,350 Tweets"
+    "tweet_count": "5,355 Tweets"
   },
   {
     "name": "Clowney",
@@ -66,16 +66,16 @@
     "tweet_count": null
   },
   {
-    "name": "Joe Woods",
-    "query": "\"Joe Woods\"",
+    "name": "AFC North",
+    "query": "\"AFC North\"",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "1,510 Tweets"
   },
   {
-    "name": "Defense",
-    "query": "Defense",
+    "name": "Joe Woods",
+    "query": "\"Joe Woods\"",
     "rank": 13,
-    "tweet_count": "140K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Tyler Boyd",
@@ -84,39 +84,39 @@
     "tweet_count": null
   },
   {
-    "name": "#DawgPound",
-    "query": "#DawgPound",
+    "name": "Defense",
+    "query": "Defense",
     "rank": 15,
+    "tweet_count": "142K Tweets"
+  },
+  {
+    "name": "#dawgpound",
+    "query": "#dawgpound",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "#FCCincy",
+    "query": "#FCCincy",
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Bates",
     "query": "Bates",
-    "rank": 16,
-    "tweet_count": "2,368 Tweets"
-  },
-  {
-    "name": "#RuleTheJungle",
-    "query": "#RuleTheJungle",
-    "rank": 17,
-    "tweet_count": "2,666 Tweets"
+    "rank": 18,
+    "tweet_count": "2,391 Tweets"
   },
   {
     "name": "Free OBJ",
     "query": "\"Free OBJ\"",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Joe Mixon",
-    "query": "\"Joe Mixon\"",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "#DENvsDAL",
-    "query": "#DENvsDAL",
+    "name": "#RuleTheJungle",
+    "query": "#RuleTheJungle",
     "rank": 20,
-    "tweet_count": "14.9K Tweets"
+    "tweet_count": "2,682 Tweets"
   }
 ]
