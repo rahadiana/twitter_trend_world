@@ -1,104 +1,110 @@
 [
   {
+    "name": "Texas",
+    "query": "Texas",
+    "rank": 1,
+    "tweet_count": "139K Tweets"
+  },
+  {
     "name": "#DENvsDAL",
     "query": "#DENvsDAL",
-    "rank": 1,
-    "tweet_count": "12.6K Tweets"
+    "rank": 2,
+    "tweet_count": "13.5K Tweets"
   },
   {
     "name": "#BUFvsJAX",
     "query": "#BUFvsJAX",
-    "rank": 2,
-    "tweet_count": "7,015 Tweets"
-  },
-  {
-    "name": "Pats",
-    "query": "Pats",
     "rank": 3,
-    "tweet_count": "14.1K Tweets"
+    "tweet_count": "7,291 Tweets"
   },
   {
-    "name": "#CLEvsCIN",
-    "query": "#CLEvsCIN",
+    "name": "#NEvsCAR",
+    "query": "#NEvsCAR",
     "rank": 4,
-    "tweet_count": "7,936 Tweets"
+    "tweet_count": "4,976 Tweets"
   },
   {
     "name": "#MINvsBAL",
     "query": "#MINvsBAL",
     "rank": 5,
-    "tweet_count": "3,581 Tweets"
+    "tweet_count": "3,860 Tweets"
   },
   {
-    "name": "Saints",
-    "query": "Saints",
+    "name": "Falcons",
+    "query": "Falcons",
     "rank": 6,
-    "tweet_count": "44.9K Tweets"
-  },
-  {
-    "name": "Terry Bradshaw",
-    "query": "\"Terry Bradshaw\"",
-    "rank": 7,
-    "tweet_count": "9,979 Tweets"
+    "tweet_count": "16.8K Tweets"
   },
   {
     "name": "Carr",
     "query": "Carr",
-    "rank": 8,
-    "tweet_count": "10.5K Tweets"
+    "rank": 7,
+    "tweet_count": "11.9K Tweets"
   },
   {
-    "name": "Duvernay",
-    "query": "Duvernay",
+    "name": "Terry Bradshaw",
+    "query": "\"Terry Bradshaw\"",
+    "rank": 8,
+    "tweet_count": "10.9K Tweets"
+  },
+  {
+    "name": "Raiders",
+    "query": "Raiders",
     "rank": 9,
-    "tweet_count": "1,652 Tweets"
+    "tweet_count": "36.7K Tweets"
+  },
+  {
+    "name": "Zimmer",
+    "query": "Zimmer",
+    "rank": 10,
+    "tweet_count": "5,017 Tweets"
   },
   {
     "name": "Big Bird",
     "query": "\"Big Bird\"",
-    "rank": 10,
-    "tweet_count": "170K Tweets"
+    "rank": 11,
+    "tweet_count": "172K Tweets"
   },
   {
     "name": "Trevon Diggs",
     "query": "\"Trevon Diggs\"",
-    "rank": 11,
-    "tweet_count": "2,756 Tweets"
-  },
-  {
-    "name": "Denzel Ward",
-    "query": "\"Denzel Ward\"",
     "rank": 12,
-    "tweet_count": "6,184 Tweets"
+    "tweet_count": "2,841 Tweets"
   },
   {
     "name": "Trevor Lawrence",
     "query": "\"Trevor Lawrence\"",
     "rank": 13,
-    "tweet_count": "2,913 Tweets"
+    "tweet_count": "2,953 Tweets"
   },
   {
     "name": "Wilbur",
     "query": "Wilbur",
     "rank": 14,
-    "tweet_count": "19.1K Tweets"
+    "tweet_count": "19.4K Tweets"
   },
   {
-    "name": "McKinney",
-    "query": "McKinney",
+    "name": "Dak Prescott",
+    "query": "\"Dak Prescott\"",
     "rank": 15,
-    "tweet_count": "3,125 Tweets"
+    "tweet_count": "4,464 Tweets"
   },
   {
-    "name": "Gesicki",
-    "query": "Gesicki",
+    "name": "Tyrod Taylor",
+    "query": "\"Tyrod Taylor\"",
     "rank": 16,
-    "tweet_count": "2,817 Tweets"
+    "tweet_count": "1,958 Tweets"
   },
   {
-    "name": "Bridgewater",
-    "query": "Bridgewater",
+    "name": "#Browns",
+    "query": "#Browns",
     "rank": 17,
-    "tweet_count": "3,653 Tweets"
+    "tweet_count": "28.4K Tweets"
+  },
+  {
+    "name": "#CLEvsCIN",
+    "query": "#CLEvsCIN",
+    "rank": 18,
+    "tweet_count": "8,060 Tweets"
   }
 ]
