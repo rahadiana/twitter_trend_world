@@ -3,7 +3,7 @@
     "name": "שבוע טוב",
     "query": "\"שבוע טוב\"",
     "rank": 1,
-    "tweet_count": "2,201 Tweets"
+    "tweet_count": "2,206 Tweets"
   },
   {
     "name": "בוקר טוב",
@@ -18,16 +18,16 @@
     "tweet_count": null
   },
   {
-    "name": "Iraq",
-    "query": "Iraq",
-    "rank": 4,
-    "tweet_count": "23.9K Tweets"
-  },
-  {
     "name": "בוקר אור",
     "query": "\"בוקר אור\"",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "iraq",
+    "query": "iraq",
+    "rank": 5,
+    "tweet_count": "24K Tweets"
   },
   {
     "name": "#MUNMCI",
@@ -45,7 +45,7 @@
     "name": "Israelis",
     "query": "Israelis",
     "rank": 8,
-    "tweet_count": "1,804 Tweets"
+    "tweet_count": "1,816 Tweets"
   },
   {
     "name": "Barca",
@@ -60,22 +60,22 @@
     "tweet_count": null
   },
   {
-    "name": "فلسطين",
-    "query": "فلسطين",
+    "name": "#MUFC",
+    "query": "#MUFC",
     "rank": 11,
-    "tweet_count": "10.9K Tweets"
-  },
-  {
-    "name": "#shabbatshalom",
-    "query": "#shabbatshalom",
-    "rank": 12,
-    "tweet_count": null
+    "tweet_count": "144K Tweets"
   },
   {
     "name": "#CanYaman",
     "query": "#CanYaman",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": "15.3K Tweets"
+  },
+  {
+    "name": "אמנון אברמוביץ",
+    "query": "\"אמנון אברמוביץ\"",
+    "rank": 13,
+    "tweet_count": null
   },
   {
     "name": "אורלי לוי",
@@ -87,7 +87,7 @@
     "name": "#advyout",
     "query": "#advyout",
     "rank": 15,
-    "tweet_count": "7,385 Tweets"
+    "tweet_count": "7,389 Tweets"
   },
   {
     "name": "Earth",
@@ -96,27 +96,27 @@
     "tweet_count": "182K Tweets"
   },
   {
-    "name": "Xavi",
-    "query": "Xavi",
-    "rank": 17,
-    "tweet_count": "170K Tweets"
-  },
-  {
     "name": "בני אדם",
     "query": "\"בני אדם\"",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
+  },
+  {
+    "name": "Xavi",
+    "query": "Xavi",
+    "rank": 18,
+    "tweet_count": "171K Tweets"
   },
   {
     "name": "#straykids",
     "query": "#straykids",
     "rank": 19,
-    "tweet_count": "904K Tweets"
+    "tweet_count": "908K Tweets"
   },
   {
-    "name": "חיים שלי",
-    "query": "\"חיים שלי\"",
+    "name": "I VOTE",
+    "query": "\"I VOTE\"",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "1.86M Tweets"
   }
 ]
