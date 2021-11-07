@@ -1,69 +1,69 @@
 [
   {
+    "name": "#Flames",
+    "query": "#Flames",
+    "rank": 1,
+    "tweet_count": "1,909 Tweets"
+  },
+  {
     "name": "Rangers",
     "query": "Rangers",
-    "rank": 1,
-    "tweet_count": "17.6K Tweets"
+    "rank": 2,
+    "tweet_count": "18K Tweets"
   },
   {
     "name": "Tkachuk",
     "query": "Tkachuk",
-    "rank": 2,
-    "tweet_count": "1,757 Tweets"
+    "rank": 3,
+    "tweet_count": "1,775 Tweets"
   },
   {
     "name": "#UFC268",
     "query": "#UFC268",
-    "rank": 3,
-    "tweet_count": "324K Tweets"
+    "rank": 4,
+    "tweet_count": "328K Tweets"
   },
   {
     "name": "Canelo",
     "query": "Canelo",
-    "rank": 4,
-    "tweet_count": "382K Tweets"
+    "rank": 5,
+    "tweet_count": "388K Tweets"
   },
   {
     "name": "#Arcane",
     "query": "#Arcane",
-    "rank": 5,
-    "tweet_count": "98.2K Tweets"
+    "rank": 6,
+    "tweet_count": "101K Tweets"
   },
   {
-    "name": "#Flames",
-    "query": "#Flames",
-    "rank": 6,
-    "tweet_count": "1,881 Tweets"
+    "name": "Rose",
+    "query": "Rose",
+    "rank": 7,
+    "tweet_count": "633K Tweets"
   },
   {
     "name": "Chandler",
     "query": "Chandler",
-    "rank": 7,
-    "tweet_count": "54.6K Tweets"
+    "rank": 8,
+    "tweet_count": "55.1K Tweets"
   },
   {
     "name": "Big Bird",
     "query": "\"Big Bird\"",
-    "rank": 8,
-    "tweet_count": "71.3K Tweets"
+    "rank": 9,
+    "tweet_count": "72.9K Tweets"
   },
   {
     "name": "#DaylightSavingTime",
     "query": "#DaylightSavingTime",
-    "rank": 9,
-    "tweet_count": "8,794 Tweets"
-  },
-  {
-    "name": "markstrom",
-    "query": "markstrom",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "9,054 Tweets"
   },
   {
-    "name": "Luka",
-    "query": "Luka",
+    "name": "Travis Scott",
+    "query": "\"Travis Scott\"",
     "rank": 11,
-    "tweet_count": "67.5K Tweets"
+    "tweet_count": "526K Tweets"
   },
   {
     "name": "Adam Fox",
@@ -72,51 +72,39 @@
     "tweet_count": null
   },
   {
-    "name": "Travis Scott",
-    "query": "\"Travis Scott\"",
+    "name": "Luka",
+    "query": "Luka",
     "rank": 13,
-    "tweet_count": "511K Tweets"
+    "tweet_count": "70.3K Tweets"
   },
   {
     "name": "#bcstorm",
     "query": "#bcstorm",
     "rank": 14,
-    "tweet_count": "2,813 Tweets"
-  },
-  {
-    "name": "Kurt",
-    "query": "Kurt",
-    "rank": 15,
-    "tweet_count": "22.7K Tweets"
+    "tweet_count": "2,849 Tweets"
   },
   {
     "name": "Westbrook",
     "query": "Westbrook",
-    "rank": 16,
-    "tweet_count": "13.1K Tweets"
+    "rank": 15,
+    "tweet_count": "13.5K Tweets"
   },
   {
     "name": "Bruins",
     "query": "Bruins",
-    "rank": 17,
-    "tweet_count": "5,713 Tweets"
+    "rank": 16,
+    "tweet_count": "5,737 Tweets"
   },
   {
     "name": "Putin",
     "query": "Putin",
+    "rank": 17,
+    "tweet_count": "14.3K Tweets"
+  },
+  {
+    "name": "#ExtraLife2021",
+    "query": "#ExtraLife2021",
     "rank": 18,
-    "tweet_count": "13.9K Tweets"
-  },
-  {
-    "name": "Sesame Street",
-    "query": "\"Sesame Street\"",
-    "rank": 19,
-    "tweet_count": "22K Tweets"
-  },
-  {
-    "name": "Tavares",
-    "query": "Tavares",
-    "rank": 20,
-    "tweet_count": "4,819 Tweets"
+    "tweet_count": "3,536 Tweets"
   }
 ]
