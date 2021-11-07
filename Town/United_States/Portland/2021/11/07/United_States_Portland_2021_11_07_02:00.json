@@ -1,122 +1,122 @@
 [
   {
-    "name": "Pac-12",
-    "query": "Pac-12",
-    "rank": 1,
-    "tweet_count": "3,360 Tweets"
-  },
-  {
-    "name": "Washington",
-    "query": "Washington",
-    "rank": 2,
-    "tweet_count": "64K Tweets"
-  },
-  {
     "name": "#GoBeavs",
     "query": "#GoBeavs",
-    "rank": 3,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Anthony Brown",
+    "query": "\"Anthony Brown\"",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "Pac-12",
+    "query": "Pac-12",
+    "rank": 3,
+    "tweet_count": "3,578 Tweets"
+  },
+  {
+    "name": "Oregon State",
+    "query": "\"Oregon State\"",
+    "rank": 4,
+    "tweet_count": "3,672 Tweets"
+  },
+  {
+    "name": "Beavers",
+    "query": "Beavers",
+    "rank": 5,
+    "tweet_count": "2,280 Tweets"
   },
   {
     "name": "#UFC268",
     "query": "#UFC268",
-    "rank": 4,
-    "tweet_count": "105K Tweets"
-  },
-  {
-    "name": "Big Bird",
-    "query": "\"Big Bird\"",
-    "rank": 5,
-    "tweet_count": "38.9K Tweets"
+    "rank": 6,
+    "tweet_count": "152K Tweets"
   },
   {
     "name": "Bama",
     "query": "Bama",
-    "rank": 6,
-    "tweet_count": "16.2K Tweets"
+    "rank": 7,
+    "tweet_count": "19.4K Tweets"
   },
   {
-    "name": "Dan Mullen",
-    "query": "\"Dan Mullen\"",
-    "rank": 7,
-    "tweet_count": "3,701 Tweets"
+    "name": "Big Bird",
+    "query": "\"Big Bird\"",
+    "rank": 8,
+    "tweet_count": "44K Tweets"
   },
   {
     "name": "#Arcane",
     "query": "#Arcane",
-    "rank": 8,
-    "tweet_count": "51K Tweets"
-  },
-  {
-    "name": "Max Johnson",
-    "query": "\"Max Johnson\"",
     "rank": 9,
-    "tweet_count": "1,648 Tweets"
-  },
-  {
-    "name": "Purdue",
-    "query": "Purdue",
-    "rank": 10,
-    "tweet_count": "30K Tweets"
-  },
-  {
-    "name": "#LAMH",
-    "query": "#LAMH",
-    "rank": 11,
-    "tweet_count": "2,961 Tweets"
-  },
-  {
-    "name": "#Smack8",
-    "query": "#Smack8",
-    "rank": 12,
-    "tweet_count": "9,066 Tweets"
-  },
-  {
-    "name": "Bobby Green",
-    "query": "\"Bobby Green\"",
-    "rank": 13,
-    "tweet_count": "3,651 Tweets"
-  },
-  {
-    "name": "Lonzo",
-    "query": "Lonzo",
-    "rank": 14,
-    "tweet_count": "8,148 Tweets"
-  },
-  {
-    "name": "Travis Scott",
-    "query": "\"Travis Scott\"",
-    "rank": 15,
-    "tweet_count": "396K Tweets"
+    "tweet_count": "57.9K Tweets"
   },
   {
     "name": "Kentucky",
     "query": "Kentucky",
+    "rank": 10,
+    "tweet_count": "24.7K Tweets"
+  },
+  {
+    "name": "Dan Mullen",
+    "query": "\"Dan Mullen\"",
+    "rank": 11,
+    "tweet_count": "4,337 Tweets"
+  },
+  {
+    "name": "Max Johnson",
+    "query": "\"Max Johnson\"",
+    "rank": 12,
+    "tweet_count": "2,477 Tweets"
+  },
+  {
+    "name": "Embiid",
+    "query": "Embiid",
+    "rank": 13,
+    "tweet_count": "10.4K Tweets"
+  },
+  {
+    "name": "#Smack8",
+    "query": "#Smack8",
+    "rank": 14,
+    "tweet_count": "9,776 Tweets"
+  },
+  {
+    "name": "#LAMH",
+    "query": "#LAMH",
+    "rank": 15,
+    "tweet_count": "3,144 Tweets"
+  },
+  {
+    "name": "Purdue",
+    "query": "Purdue",
     "rank": 16,
-    "tweet_count": "20.7K Tweets"
+    "tweet_count": "30.6K Tweets"
   },
   {
-    "name": "South Carolina",
-    "query": "\"South Carolina\"",
+    "name": "Travis Scott",
+    "query": "\"Travis Scott\"",
     "rank": 17,
-    "tweet_count": "12.5K Tweets"
-  },
-  {
-    "name": "Chandler",
-    "query": "Chandler",
-    "rank": 18,
-    "tweet_count": "15.5K Tweets"
+    "tweet_count": "412K Tweets"
   },
   {
     "name": "Canelo",
     "query": "Canelo",
-    "rank": 19,
-    "tweet_count": "48.9K Tweets"
+    "rank": 18,
+    "tweet_count": "54.3K Tweets"
   },
   {
-    "name": "Chris Curtis",
-    "query": "\"Chris Curtis\"",
+    "name": "Pereira",
+    "query": "Pereira",
+    "rank": 19,
+    "tweet_count": "21.7K Tweets"
+  },
+  {
+    "name": "South Carolina",
+    "query": "\"South Carolina\"",
     "rank": 20,
-    "tweet_count": "1,923 Tweets"
+    "tweet_count": "13.3K Tweets"
   }
 ]

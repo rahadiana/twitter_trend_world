@@ -1,122 +1,122 @@
 [
   {
-    "name": "Malik",
-    "query": "Malik",
-    "rank": 1,
-    "tweet_count": "36.7K Tweets"
-  },
-  {
     "name": "Defense",
     "query": "Defense",
+    "rank": 1,
+    "tweet_count": "121K Tweets"
+  },
+  {
+    "name": "Malik",
+    "query": "Malik",
     "rank": 2,
-    "tweet_count": "117K Tweets"
+    "tweet_count": "37.3K Tweets"
+  },
+  {
+    "name": "Brad White",
+    "query": "\"Brad White\"",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "#UKFootball",
+    "query": "#UKFootball",
+    "rank": 4,
+    "tweet_count": null
   },
   {
     "name": "Robinson",
     "query": "Robinson",
-    "rank": 3,
-    "tweet_count": "18.7K Tweets"
+    "rank": 5,
+    "tweet_count": "19.1K Tweets"
   },
   {
     "name": "Cats",
     "query": "Cats",
-    "rank": 4,
-    "tweet_count": "96.7K Tweets"
+    "rank": 6,
+    "tweet_count": "98.5K Tweets"
+  },
+  {
+    "name": "#WeAreUK",
+    "query": "#WeAreUK",
+    "rank": 7,
+    "tweet_count": null
   },
   {
     "name": "Kroger Field",
     "query": "\"Kroger Field\"",
-    "rank": 5,
+    "rank": 8,
     "tweet_count": null
+  },
+  {
+    "name": "Lexington",
+    "query": "Lexington",
+    "rank": 9,
+    "tweet_count": "2,428 Tweets"
   },
   {
     "name": "#GoCards",
     "query": "#GoCards",
-    "rank": 6,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "#UFC268",
     "query": "#UFC268",
-    "rank": 7,
-    "tweet_count": "105K Tweets"
-  },
-  {
-    "name": "Big Bird",
-    "query": "\"Big Bird\"",
-    "rank": 8,
-    "tweet_count": "38.9K Tweets"
+    "rank": 11,
+    "tweet_count": "152K Tweets"
   },
   {
     "name": "Bama",
     "query": "Bama",
-    "rank": 9,
-    "tweet_count": "16.1K Tweets"
+    "rank": 12,
+    "tweet_count": "19.4K Tweets"
+  },
+  {
+    "name": "Big Bird",
+    "query": "\"Big Bird\"",
+    "rank": 13,
+    "tweet_count": "44K Tweets"
   },
   {
     "name": "#Arcane",
     "query": "#Arcane",
-    "rank": 10,
-    "tweet_count": "51.1K Tweets"
-  },
-  {
-    "name": "Dan Mullen",
-    "query": "\"Dan Mullen\"",
-    "rank": 11,
-    "tweet_count": "3,680 Tweets"
-  },
-  {
-    "name": "Max Johnson",
-    "query": "\"Max Johnson\"",
-    "rank": 12,
-    "tweet_count": "1,648 Tweets"
-  },
-  {
-    "name": "Purdue",
-    "query": "Purdue",
-    "rank": 13,
-    "tweet_count": "30K Tweets"
-  },
-  {
-    "name": "#LAMH",
-    "query": "#LAMH",
     "rank": 14,
-    "tweet_count": "2,955 Tweets"
-  },
-  {
-    "name": "#Smack8",
-    "query": "#Smack8",
-    "rank": 15,
-    "tweet_count": "9,066 Tweets"
-  },
-  {
-    "name": "Bobby Green",
-    "query": "\"Bobby Green\"",
-    "rank": 16,
-    "tweet_count": "3,651 Tweets"
-  },
-  {
-    "name": "Lonzo",
-    "query": "Lonzo",
-    "rank": 17,
-    "tweet_count": "8,113 Tweets"
-  },
-  {
-    "name": "Travis Scott",
-    "query": "\"Travis Scott\"",
-    "rank": 18,
-    "tweet_count": "396K Tweets"
+    "tweet_count": "57.9K Tweets"
   },
   {
     "name": "Kentucky",
     "query": "Kentucky",
-    "rank": 19,
-    "tweet_count": "20.6K Tweets"
+    "rank": 15,
+    "tweet_count": "24.7K Tweets"
   },
   {
-    "name": "South Carolina",
-    "query": "\"South Carolina\"",
+    "name": "Dan Mullen",
+    "query": "\"Dan Mullen\"",
+    "rank": 16,
+    "tweet_count": "4,337 Tweets"
+  },
+  {
+    "name": "Max Johnson",
+    "query": "\"Max Johnson\"",
+    "rank": 17,
+    "tweet_count": "2,477 Tweets"
+  },
+  {
+    "name": "Embiid",
+    "query": "Embiid",
+    "rank": 18,
+    "tweet_count": "10.4K Tweets"
+  },
+  {
+    "name": "Purdue",
+    "query": "Purdue",
+    "rank": 19,
+    "tweet_count": "30.6K Tweets"
+  },
+  {
+    "name": "Travis Scott",
+    "query": "\"Travis Scott\"",
     "rank": 20,
-    "tweet_count": "12.5K Tweets"
+    "tweet_count": "412K Tweets"
   }
 ]
