@@ -3,31 +3,31 @@
     "name": "Hinestroza",
     "query": "Hinestroza",
     "rank": 1,
-    "tweet_count": "1,159 Tweets"
+    "tweet_count": "1,303 Tweets"
   },
   {
     "name": "Junior",
     "query": "Junior",
     "rank": 2,
-    "tweet_count": "67.4K Tweets"
+    "tweet_count": "68.7K Tweets"
   },
   {
     "name": "Santa Fe",
     "query": "\"Santa Fe\"",
     "rank": 3,
-    "tweet_count": "6,414 Tweets"
-  },
-  {
-    "name": "Viera",
-    "query": "Viera",
-    "rank": 4,
-    "tweet_count": "5,253 Tweets"
+    "tweet_count": "6,770 Tweets"
   },
   {
     "name": "Reyes",
     "query": "Reyes",
+    "rank": 4,
+    "tweet_count": "26K Tweets"
+  },
+  {
+    "name": "Viera",
+    "query": "Viera",
     "rank": 5,
-    "tweet_count": "25.2K Tweets"
+    "tweet_count": "5,384 Tweets"
   },
   {
     "name": "Sambueza",
@@ -42,22 +42,22 @@
     "tweet_count": null
   },
   {
-    "name": "Kelvin Osorio",
-    "query": "\"Kelvin Osorio\"",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "Larry",
     "query": "Larry",
-    "rank": 9,
-    "tweet_count": "31.9K Tweets"
+    "rank": 8,
+    "tweet_count": "32.6K Tweets"
   },
   {
-    "name": "Checo",
-    "query": "Checo",
+    "name": "Kelvin",
+    "query": "Kelvin",
+    "rank": 9,
+    "tweet_count": "7,719 Tweets"
+  },
+  {
+    "name": "#MexicoGP",
+    "query": "#MexicoGP",
     "rank": 10,
-    "tweet_count": "120K Tweets"
+    "tweet_count": "255K Tweets"
   },
   {
     "name": "Linda Caicedo",
@@ -66,39 +66,57 @@
     "tweet_count": null
   },
   {
-    "name": "#TiranoExpropiadorArdido",
-    "query": "#TiranoExpropiadorArdido",
+    "name": "Pedroza",
+    "query": "Pedroza",
     "rank": 12,
-    "tweet_count": "38.6K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Israel",
-    "query": "Israel",
+    "name": "Vamos Millonarios",
+    "query": "\"Vamos Millonarios\"",
     "rank": 13,
-    "tweet_count": "76.5K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "#TiranoExpropiadorArdido",
+    "query": "#TiranoExpropiadorArdido",
+    "rank": 14,
+    "tweet_count": "39.4K Tweets"
   },
   {
     "name": "Muro",
     "query": "Muro",
-    "rank": 14,
-    "tweet_count": "20.8K Tweets"
+    "rank": 15,
+    "tweet_count": "22.1K Tweets"
   },
   {
     "name": "El Campín",
     "query": "\"El Campín\"",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "#Formula1",
-    "query": "#Formula1",
-    "rank": 16,
-    "tweet_count": "13.9K Tweets"
+    "name": "Israel",
+    "query": "Israel",
+    "rank": 17,
+    "tweet_count": "77.7K Tweets"
   },
   {
     "name": "Histórico",
     "query": "Histórico",
-    "rank": 17,
-    "tweet_count": "50.2K Tweets"
+    "rank": 18,
+    "tweet_count": "51.4K Tweets"
+  },
+  {
+    "name": "Nicaragua",
+    "query": "Nicaragua",
+    "rank": 19,
+    "tweet_count": "163K Tweets"
+  },
+  {
+    "name": "#Formula1",
+    "query": "#Formula1",
+    "rank": 20,
+    "tweet_count": "14.1K Tweets"
   }
 ]
