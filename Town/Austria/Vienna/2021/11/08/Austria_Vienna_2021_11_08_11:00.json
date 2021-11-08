@@ -1,21 +1,21 @@
 [
   {
+    "name": "Ausweis",
+    "query": "Ausweis",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "#imzentrum",
     "query": "#imzentrum",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#Wettendass",
     "query": "#Wettendass",
-    "rank": 2,
-    "tweet_count": "6,018 Tweets"
-  },
-  {
-    "name": "Ausweis",
-    "query": "Ausweis",
     "rank": 3,
-    "tweet_count": null
+    "tweet_count": "6,034 Tweets"
   },
   {
     "name": "schönen sonntag",
@@ -27,13 +27,13 @@
     "name": "gescannt",
     "query": "gescannt",
     "rank": 5,
-    "tweet_count": "1,039 Tweets"
+    "tweet_count": "1,050 Tweets"
   },
   {
     "name": "#MexicoGP",
     "query": "#MexicoGP",
     "rank": 6,
-    "tweet_count": "277K Tweets"
+    "tweet_count": "278K Tweets"
   },
   {
     "name": "#wacscr",
@@ -45,11 +45,11 @@
     "name": "#Tatort",
     "query": "#Tatort",
     "rank": 8,
-    "tweet_count": "2,626 Tweets"
+    "tweet_count": "2,627 Tweets"
   },
   {
-    "name": "Abschaffung der 2G",
-    "query": "\"Abschaffung der 2G\"",
+    "name": "abschaffung der 2g",
+    "query": "\"abschaffung der 2g\"",
     "rank": 9,
     "tweet_count": null
   },
@@ -57,17 +57,17 @@
     "name": "Start in die Woche",
     "query": "\"Start in die Woche\"",
     "rank": 10,
-    "tweet_count": "2,289 Tweets"
-  },
-  {
-    "name": "Wochenbeginn",
-    "query": "Wochenbeginn",
-    "rank": 11,
-    "tweet_count": null
+    "tweet_count": "2,314 Tweets"
   },
   {
     "name": "Verordnung",
     "query": "Verordnung",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "Wochenbeginn",
+    "query": "Wochenbeginn",
     "rank": 12,
     "tweet_count": null
   },
@@ -81,42 +81,42 @@
     "name": "Lokal",
     "query": "Lokal",
     "rank": 14,
-    "tweet_count": "20.8K Tweets"
+    "tweet_count": "21K Tweets"
   },
   {
     "name": "Pandemie",
     "query": "Pandemie",
     "rank": 15,
-    "tweet_count": "29.8K Tweets"
+    "tweet_count": "30.1K Tweets"
   },
   {
     "name": "Bottas",
     "query": "Bottas",
     "rank": 16,
-    "tweet_count": "53.5K Tweets"
+    "tweet_count": "53.6K Tweets"
   },
   {
     "name": "Forschung",
     "query": "Forschung",
     "rank": 17,
-    "tweet_count": "1,779 Tweets"
+    "tweet_count": "1,793 Tweets"
   },
   {
-    "name": "Grüner Pass",
-    "query": "\"Grüner Pass\"",
+    "name": "Fassung",
+    "query": "Fassung",
     "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "grüner pass",
+    "query": "\"grüner pass\"",
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Travis Scott",
     "query": "\"Travis Scott\"",
-    "rank": 19,
-    "tweet_count": "358K Tweets"
-  },
-  {
-    "name": "Steiermark",
-    "query": "Steiermark",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "359K Tweets"
   }
 ]
