@@ -12,20 +12,20 @@
     "tweet_count": null
   },
   {
-    "name": "#sldk",
-    "query": "#sldk",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
     "name": "#WHULIV",
     "query": "#WHULIV",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": "66.5K Tweets"
   },
   {
     "name": "#vbsje",
     "query": "#vbsje",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "#sldk",
+    "query": "#sldk",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,25 +33,25 @@
     "name": "West Ham",
     "query": "\"West Ham\"",
     "rank": 6,
-    "tweet_count": "154K Tweets"
+    "tweet_count": "56.7K Tweets"
   },
   {
-    "name": "Grabara",
-    "query": "Grabara",
+    "name": "grabara",
+    "query": "grabara",
     "rank": 7,
     "tweet_count": null
   },
   {
-    "name": "onyedika",
-    "query": "onyedika",
+    "name": "Polen",
+    "query": "Polen",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "12K Tweets"
   },
   {
-    "name": "Travis",
-    "query": "Travis",
+    "name": "Onyedika",
+    "query": "Onyedika",
     "rank": 9,
-    "tweet_count": "544K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Silkeborg",
@@ -63,29 +63,29 @@
     "name": "Belarus",
     "query": "Belarus",
     "rank": 11,
-    "tweet_count": "43.1K Tweets"
+    "tweet_count": "44.7K Tweets"
+  },
+  {
+    "name": "Travis",
+    "query": "Travis",
+    "rank": 12,
+    "tweet_count": "549K Tweets"
   },
   {
     "name": "Auba",
     "query": "Auba",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": "19.4K Tweets"
   },
   {
-    "name": "Polen",
-    "query": "Polen",
-    "rank": 13,
-    "tweet_count": "11.5K Tweets"
+    "name": "Wolt",
+    "query": "Wolt",
+    "rank": 14,
+    "tweet_count": "1,025 Tweets"
   },
   {
     "name": "daramy",
     "query": "daramy",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "thorup",
-    "query": "thorup",
     "rank": 15,
     "tweet_count": null
   },
@@ -93,11 +93,11 @@
     "name": "Kalle",
     "query": "Kalle",
     "rank": 16,
-    "tweet_count": "1,074 Tweets"
+    "tweet_count": "1,096 Tweets"
   },
   {
-    "name": "FC Midtjylland",
-    "query": "\"FC Midtjylland\"",
+    "name": "hedlund",
+    "query": "hedlund",
     "rank": 17,
     "tweet_count": null
   },
@@ -105,11 +105,11 @@
     "name": "Watford",
     "query": "Watford",
     "rank": 18,
-    "tweet_count": "40.2K Tweets"
+    "tweet_count": "40.5K Tweets"
   },
   {
-    "name": "hedlund",
-    "query": "hedlund",
+    "name": "Thorup",
+    "query": "Thorup",
     "rank": 19,
     "tweet_count": null
   },
@@ -117,6 +117,6 @@
     "name": "Arcane",
     "query": "Arcane",
     "rank": 20,
-    "tweet_count": "181K Tweets"
+    "tweet_count": "182K Tweets"
   }
 ]
