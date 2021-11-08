@@ -1,13 +1,13 @@
 [
   {
-    "name": "Åråsen",
-    "query": "Åråsen",
+    "name": "åråsen",
+    "query": "åråsen",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "#WHULIV",
-    "query": "#WHULIV",
+    "name": "#whuliv",
+    "query": "#whuliv",
     "rank": 2,
     "tweet_count": "66.3K Tweets"
   },
@@ -21,7 +21,7 @@
     "name": "hovland",
     "query": "hovland",
     "rank": 4,
-    "tweet_count": "4,215 Tweets"
+    "tweet_count": "4,222 Tweets"
   },
   {
     "name": "Thunberg",
@@ -42,16 +42,16 @@
     "tweet_count": null
   },
   {
-    "name": "#MexicoGP",
-    "query": "#MexicoGP",
-    "rank": 8,
-    "tweet_count": "273K Tweets"
-  },
-  {
     "name": "Auba",
     "query": "Auba",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": "28.4K Tweets"
+  },
+  {
+    "name": "#MexicoGP",
+    "query": "#MexicoGP",
+    "rank": 9,
+    "tweet_count": "274K Tweets"
   },
   {
     "name": "sandviken",
@@ -60,57 +60,57 @@
     "tweet_count": null
   },
   {
-    "name": "Liverpool",
-    "query": "Liverpool",
-    "rank": 11,
-    "tweet_count": "182K Tweets"
-  },
-  {
     "name": "Origi",
     "query": "Origi",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": "13.9K Tweets"
-  },
-  {
-    "name": "Moyes",
-    "query": "Moyes",
-    "rank": 13,
-    "tweet_count": "37.4K Tweets"
   },
   {
     "name": "Watford",
     "query": "Watford",
-    "rank": 14,
+    "rank": 12,
     "tweet_count": "48.5K Tweets"
   },
   {
     "name": "Laca",
     "query": "Laca",
-    "rank": 15,
-    "tweet_count": "6,810 Tweets"
+    "rank": 13,
+    "tweet_count": "6,823 Tweets"
   },
   {
     "name": "Allison",
     "query": "Allison",
-    "rank": 16,
-    "tweet_count": "11K Tweets"
+    "rank": 14,
+    "tweet_count": "11.1K Tweets"
   },
   {
     "name": "Trent",
     "query": "Trent",
-    "rank": 17,
-    "tweet_count": "42.3K Tweets"
+    "rank": 15,
+    "tweet_count": "42.4K Tweets"
   },
   {
     "name": "Rose",
     "query": "Rose",
-    "rank": 18,
-    "tweet_count": "507K Tweets"
+    "rank": 16,
+    "tweet_count": "515K Tweets"
   },
   {
     "name": "Hamilton",
     "query": "Hamilton",
+    "rank": 17,
+    "tweet_count": "75.3K Tweets"
+  },
+  {
+    "name": "Elon",
+    "query": "Elon",
+    "rank": 18,
+    "tweet_count": "172K Tweets"
+  },
+  {
+    "name": "Leicester",
+    "query": "Leicester",
     "rank": 19,
-    "tweet_count": "75.1K Tweets"
+    "tweet_count": "38.3K Tweets"
   }
 ]
