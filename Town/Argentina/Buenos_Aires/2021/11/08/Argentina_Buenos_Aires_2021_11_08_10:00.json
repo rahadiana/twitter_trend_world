@@ -1,15 +1,15 @@
 [
   {
-    "name": "Julián Álvarez",
-    "query": "\"Julián Álvarez\"",
-    "rank": 1,
-    "tweet_count": "33.5K Tweets"
-  },
-  {
     "name": "#BuenLunes",
     "query": "#BuenLunes",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Julián Álvarez",
+    "query": "\"Julián Álvarez\"",
+    "rank": 2,
+    "tweet_count": "33.5K Tweets"
   },
   {
     "name": "#ElClubDelMoro",
@@ -27,13 +27,13 @@
     "name": "Córdoba",
     "query": "Córdoba",
     "rank": 5,
-    "tweet_count": "75.6K Tweets"
+    "tweet_count": "75.9K Tweets"
   },
   {
     "name": "River",
     "query": "River",
     "rank": 6,
-    "tweet_count": "131K Tweets"
+    "tweet_count": "132K Tweets"
   },
   {
     "name": "Patronato",
@@ -45,41 +45,41 @@
     "name": "Ramos Mejía",
     "query": "\"Ramos Mejía\"",
     "rank": 8,
-    "tweet_count": "32.6K Tweets"
-  },
-  {
-    "name": "#Destapate",
-    "query": "#Destapate",
-    "rank": 9,
-    "tweet_count": null
+    "tweet_count": "32.7K Tweets"
   },
   {
     "name": "Facundo",
     "query": "Facundo",
-    "rank": 10,
-    "tweet_count": "9,249 Tweets"
+    "rank": 9,
+    "tweet_count": "9,265 Tweets"
   },
   {
     "name": "#FelizLunes",
     "query": "#FelizLunes",
-    "rank": 11,
-    "tweet_count": "5,024 Tweets"
+    "rank": 10,
+    "tweet_count": "5,176 Tweets"
   },
   {
     "name": "Canelo",
     "query": "Canelo",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": "133K Tweets"
+  },
+  {
+    "name": "#Destapate",
+    "query": "#Destapate",
+    "rank": 12,
+    "tweet_count": null
   },
   {
     "name": "La Matanza",
     "query": "\"La Matanza\"",
     "rank": 13,
-    "tweet_count": "49.4K Tweets"
+    "tweet_count": "49.7K Tweets"
   },
   {
-    "name": "Torrico",
-    "query": "Torrico",
+    "name": "torrico",
+    "query": "torrico",
     "rank": 14,
     "tweet_count": null
   },
@@ -93,30 +93,30 @@
     "name": "Espinoza",
     "query": "Espinoza",
     "rank": 16,
-    "tweet_count": "15.5K Tweets"
+    "tweet_count": "15.6K Tweets"
   },
   {
     "name": "CARRASCAL",
     "query": "CARRASCAL",
     "rank": 17,
-    "tweet_count": "3,280 Tweets"
+    "tweet_count": "3,283 Tweets"
   },
   {
     "name": "palavecino",
     "query": "palavecino",
     "rank": 18,
-    "tweet_count": "4,573 Tweets"
+    "tweet_count": "4,580 Tweets"
   },
   {
     "name": "Ibáñez",
     "query": "Ibáñez",
     "rank": 19,
-    "tweet_count": "4,787 Tweets"
+    "tweet_count": "4,795 Tweets"
   },
   {
     "name": "Kalia",
     "query": "Kalia",
     "rank": 20,
-    "tweet_count": "2,262 Tweets"
+    "tweet_count": "2,263 Tweets"
   }
 ]
