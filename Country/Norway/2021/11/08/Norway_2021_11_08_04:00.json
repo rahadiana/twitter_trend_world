@@ -1,15 +1,15 @@
 [
   {
-    "name": "Åråsen",
-    "query": "Åråsen",
+    "name": "åråsen",
+    "query": "åråsen",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "#WHULIV",
-    "query": "#WHULIV",
+    "name": "West Ham",
+    "query": "\"West Ham\"",
     "rank": 2,
-    "tweet_count": "66.6K Tweets"
+    "tweet_count": "52.1K Tweets"
   },
   {
     "name": "Mjøndalen",
@@ -18,34 +18,34 @@
     "tweet_count": null
   },
   {
+    "name": "#WHULIV",
+    "query": "#WHULIV",
+    "rank": 4,
+    "tweet_count": "66.7K Tweets"
+  },
+  {
     "name": "Hovland",
     "query": "Hovland",
-    "rank": 4,
-    "tweet_count": "4,267 Tweets"
+    "rank": 5,
+    "tweet_count": "4,289 Tweets"
   },
   {
     "name": "#UFC268",
     "query": "#UFC268",
-    "rank": 5,
-    "tweet_count": "127K Tweets"
-  },
-  {
-    "name": "#maskorama",
-    "query": "#maskorama",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "128K Tweets"
   },
   {
     "name": "Thunberg",
     "query": "Thunberg",
     "rank": 7,
-    "tweet_count": "15.6K Tweets"
+    "tweet_count": "15.7K Tweets"
   },
   {
-    "name": "#MexicoGP",
-    "query": "#MexicoGP",
+    "name": "#maskorama",
+    "query": "#maskorama",
     "rank": 8,
-    "tweet_count": "276K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Auba",
@@ -54,69 +54,69 @@
     "tweet_count": "28.5K Tweets"
   },
   {
+    "name": "#MexicoGP",
+    "query": "#MexicoGP",
+    "rank": 10,
+    "tweet_count": "277K Tweets"
+  },
+  {
     "name": "sandviken",
     "query": "sandviken",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Liverpool",
     "query": "Liverpool",
-    "rank": 11,
-    "tweet_count": "183K Tweets"
+    "rank": 12,
+    "tweet_count": "184K Tweets"
   },
   {
-    "name": "#vikingfk",
-    "query": "#vikingfk",
-    "rank": 12,
+    "name": "#oddsbk",
+    "query": "#oddsbk",
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Origi",
     "query": "Origi",
-    "rank": 13,
-    "tweet_count": "14.3K Tweets"
+    "rank": 14,
+    "tweet_count": "14.4K Tweets"
+  },
+  {
+    "name": "Alisson",
+    "query": "Alisson",
+    "rank": 15,
+    "tweet_count": "23.2K Tweets"
+  },
+  {
+    "name": "Moyes",
+    "query": "Moyes",
+    "rank": 16,
+    "tweet_count": "39K Tweets"
   },
   {
     "name": "Watford",
     "query": "Watford",
-    "rank": 14,
-    "tweet_count": "48.7K Tweets"
+    "rank": 17,
+    "tweet_count": "48.8K Tweets"
+  },
+  {
+    "name": "Laca",
+    "query": "Laca",
+    "rank": 18,
+    "tweet_count": "6,861 Tweets"
+  },
+  {
+    "name": "Allison",
+    "query": "Allison",
+    "rank": 19,
+    "tweet_count": "11.1K Tweets"
   },
   {
     "name": "Trent",
     "query": "Trent",
-    "rank": 15,
-    "tweet_count": "42.4K Tweets"
-  },
-  {
-    "name": "Rose",
-    "query": "Rose",
-    "rank": 16,
-    "tweet_count": "490K Tweets"
-  },
-  {
-    "name": "Hamilton",
-    "query": "Hamilton",
-    "rank": 17,
-    "tweet_count": "75.5K Tweets"
-  },
-  {
-    "name": "Elon",
-    "query": "Elon",
-    "rank": 18,
-    "tweet_count": "174K Tweets"
-  },
-  {
-    "name": "Leicester",
-    "query": "Leicester",
-    "rank": 19,
-    "tweet_count": "38.5K Tweets"
-  },
-  {
-    "name": "gauseth",
-    "query": "gauseth",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "42.5K Tweets"
   }
 ]
