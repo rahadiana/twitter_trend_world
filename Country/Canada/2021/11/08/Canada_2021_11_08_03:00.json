@@ -1,21 +1,21 @@
 [
   {
-    "name": "#Yellowstone",
-    "query": "#Yellowstone",
-    "rank": 1,
-    "tweet_count": "5,758 Tweets"
-  },
-  {
     "name": "#polmun",
     "query": "#polmun",
+    "rank": 1,
+    "tweet_count": "2,481 Tweets"
+  },
+  {
+    "name": "#Yellowstone",
+    "query": "#Yellowstone",
     "rank": 2,
-    "tweet_count": "2,386 Tweets"
+    "tweet_count": "5,858 Tweets"
   },
   {
     "name": "#Insecure",
     "query": "#Insecure",
     "rank": 3,
-    "tweet_count": "13.8K Tweets"
+    "tweet_count": "15.5K Tweets"
   },
   {
     "name": "Canadian Pickers",
@@ -39,43 +39,43 @@
     "name": "Stafford",
     "query": "Stafford",
     "rank": 7,
-    "tweet_count": "22.6K Tweets"
-  },
-  {
-    "name": "Oak Island",
-    "query": "\"Oak Island\"",
-    "rank": 8,
-    "tweet_count": null
+    "tweet_count": "22.7K Tweets"
   },
   {
     "name": "Sherbrooke",
     "query": "Sherbrooke",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
+  },
+  {
+    "name": "Titans",
+    "query": "Titans",
+    "rank": 9,
+    "tweet_count": "58.4K Tweets"
   },
   {
     "name": "Rubio",
     "query": "Rubio",
     "rank": 10,
-    "tweet_count": "35.7K Tweets"
+    "tweet_count": "36K Tweets"
   },
   {
     "name": "Big Bird",
     "query": "\"Big Bird\"",
     "rank": 11,
-    "tweet_count": "208K Tweets"
-  },
-  {
-    "name": "Saguenay",
-    "query": "Saguenay",
-    "rank": 12,
-    "tweet_count": null
+    "tweet_count": "210K Tweets"
   },
   {
     "name": "Radio-Canada",
     "query": "Radio-Canada",
+    "rank": 12,
+    "tweet_count": "2,033 Tweets"
+  },
+  {
+    "name": "Saguenay",
+    "query": "Saguenay",
     "rank": 13,
-    "tweet_count": "2,004 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Montréalais",
@@ -87,7 +87,7 @@
     "name": "Robin",
     "query": "Robin",
     "rank": 15,
-    "tweet_count": "33.2K Tweets"
+    "tweet_count": "33.4K Tweets"
   },
   {
     "name": "utica",
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
+    "name": "Alexandra",
+    "query": "Alexandra",
+    "rank": 17,
+    "tweet_count": "7,875 Tweets"
+  },
+  {
+    "name": "Pearson",
+    "query": "Pearson",
+    "rank": 18,
+    "tweet_count": "2,442 Tweets"
+  },
+  {
     "name": "Marcus",
     "query": "Marcus",
-    "rank": 17,
-    "tweet_count": "36.5K Tweets"
+    "rank": 19,
+    "tweet_count": "36.6K Tweets"
   },
   {
     "name": "Stevens",
     "query": "Stevens",
-    "rank": 18,
-    "tweet_count": "5,345 Tweets"
-  },
-  {
-    "name": "Quebec City",
-    "query": "\"Quebec City\"",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Mahomes",
-    "query": "Mahomes",
     "rank": 20,
-    "tweet_count": "23.1K Tweets"
+    "tweet_count": "5,369 Tweets"
   }
 ]
