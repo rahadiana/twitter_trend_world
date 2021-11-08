@@ -1,33 +1,33 @@
 [
   {
-    "name": "Ausweis",
-    "query": "Ausweis",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#imzentrum",
     "query": "#imzentrum",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "#Wettendass",
     "query": "#Wettendass",
+    "rank": 2,
+    "tweet_count": "6,018 Tweets"
+  },
+  {
+    "name": "Ausweis",
+    "query": "Ausweis",
     "rank": 3,
-    "tweet_count": "5,974 Tweets"
+    "tweet_count": null
   },
   {
     "name": "schönen sonntag",
     "query": "\"schönen sonntag\"",
     "rank": 4,
-    "tweet_count": "1,960 Tweets"
+    "tweet_count": "1,968 Tweets"
   },
   {
-    "name": "Gescannt",
-    "query": "Gescannt",
+    "name": "gescannt",
+    "query": "gescannt",
     "rank": 5,
-    "tweet_count": "1,012 Tweets"
+    "tweet_count": "1,039 Tweets"
   },
   {
     "name": "#MexicoGP",
@@ -36,44 +36,44 @@
     "tweet_count": "277K Tweets"
   },
   {
-    "name": "Start in die Woche",
-    "query": "\"Start in die Woche\"",
+    "name": "#wacscr",
+    "query": "#wacscr",
     "rank": 7,
-    "tweet_count": "2,241 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Tatort",
     "query": "#Tatort",
     "rank": 8,
-    "tweet_count": "2,638 Tweets"
-  },
-  {
-    "name": "#wacscr",
-    "query": "#wacscr",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Wochenstart",
-    "query": "Wochenstart",
-    "rank": 10,
-    "tweet_count": "1,445 Tweets"
+    "tweet_count": "2,626 Tweets"
   },
   {
     "name": "Abschaffung der 2G",
     "query": "\"Abschaffung der 2G\"",
-    "rank": 11,
+    "rank": 9,
     "tweet_count": null
+  },
+  {
+    "name": "Start in die Woche",
+    "query": "\"Start in die Woche\"",
+    "rank": 10,
+    "tweet_count": "2,289 Tweets"
   },
   {
     "name": "Wochenbeginn",
     "query": "Wochenbeginn",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Verordnung",
     "query": "Verordnung",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "Kogler",
+    "query": "Kogler",
     "rank": 13,
     "tweet_count": null
   },
@@ -81,42 +81,42 @@
     "name": "Lokal",
     "query": "Lokal",
     "rank": 14,
-    "tweet_count": "20.5K Tweets"
-  },
-  {
-    "name": "Peter",
-    "query": "Peter",
-    "rank": 15,
-    "tweet_count": "113K Tweets"
+    "tweet_count": "20.8K Tweets"
   },
   {
     "name": "Pandemie",
     "query": "Pandemie",
-    "rank": 16,
-    "tweet_count": "29.2K Tweets"
+    "rank": 15,
+    "tweet_count": "29.8K Tweets"
   },
   {
     "name": "Bottas",
     "query": "Bottas",
-    "rank": 17,
-    "tweet_count": "53.3K Tweets"
+    "rank": 16,
+    "tweet_count": "53.5K Tweets"
   },
   {
     "name": "Forschung",
     "query": "Forschung",
-    "rank": 18,
-    "tweet_count": "1,743 Tweets"
+    "rank": 17,
+    "tweet_count": "1,779 Tweets"
   },
   {
     "name": "Grüner Pass",
     "query": "\"Grüner Pass\"",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Travis Scott",
     "query": "\"Travis Scott\"",
+    "rank": 19,
+    "tweet_count": "358K Tweets"
+  },
+  {
+    "name": "Steiermark",
+    "query": "Steiermark",
     "rank": 20,
-    "tweet_count": "355K Tweets"
+    "tweet_count": null
   }
 ]
