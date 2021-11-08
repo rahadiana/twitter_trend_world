@@ -1,39 +1,39 @@
 [
   {
-    "name": "#TeCuento",
-    "query": "#TeCuento",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
-    "name": "#BuenFin",
-    "query": "#BuenFin",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
     "name": "#FelizLunes",
     "query": "#FelizLunes",
-    "rank": 3,
-    "tweet_count": "13K Tweets"
+    "rank": 1,
+    "tweet_count": "13.4K Tweets"
   },
   {
     "name": "#MexicoGP",
     "query": "#MexicoGP",
-    "rank": 4,
-    "tweet_count": "276K Tweets"
+    "rank": 2,
+    "tweet_count": "277K Tweets"
   },
   {
-    "name": "#ElEliminadoEs",
-    "query": "#ElEliminadoEs",
-    "rank": 5,
+    "name": "#MexicoGP",
+    "query": "#MexicoGP",
+    "rank": 3,
+    "tweet_count": "277K Tweets"
+  },
+  {
+    "name": "#eleliminadoes",
+    "query": "#eleliminadoes",
+    "rank": 4,
     "tweet_count": "12.1K Tweets"
   },
   {
     "name": "Canelo",
     "query": "Canelo",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": "111K Tweets"
+  },
+  {
+    "name": "#QuiénEsLaMáscara",
+    "query": "#QuiénEsLaMáscara",
+    "rank": 6,
+    "tweet_count": "23.1K Tweets"
   },
   {
     "name": "Pumas",
@@ -42,81 +42,81 @@
     "tweet_count": "30.2K Tweets"
   },
   {
-    "name": "Checo",
-    "query": "Checo",
-    "rank": 8,
-    "tweet_count": "145K Tweets"
-  },
-  {
     "name": "Enrique Rocha",
     "query": "\"Enrique Rocha\"",
-    "rank": 9,
-    "tweet_count": "24.3K Tweets"
+    "rank": 8,
+    "tweet_count": "24.4K Tweets"
   },
   {
     "name": "Guatemala",
     "query": "Guatemala",
-    "rank": 10,
-    "tweet_count": "72.4K Tweets"
-  },
-  {
-    "name": "Ricardo Anaya",
-    "query": "\"Ricardo Anaya\"",
-    "rank": 11,
-    "tweet_count": "5,441 Tweets"
+    "rank": 9,
+    "tweet_count": "72.9K Tweets"
   },
   {
     "name": "Cruz Azul",
     "query": "\"Cruz Azul\"",
-    "rank": 12,
+    "rank": 10,
     "tweet_count": "21.1K Tweets"
   },
   {
     "name": "Reynoso",
     "query": "Reynoso",
-    "rank": 13,
-    "tweet_count": "8,519 Tweets"
+    "rank": 11,
+    "tweet_count": "8,549 Tweets"
   },
   {
     "name": "Dulce María",
     "query": "\"Dulce María\"",
-    "rank": 14,
-    "tweet_count": "5,188 Tweets"
-  },
-  {
-    "name": "Santiago Nieto",
-    "query": "\"Santiago Nieto\"",
-    "rank": 15,
-    "tweet_count": "31.3K Tweets"
+    "rank": 12,
+    "tweet_count": "5,207 Tweets"
   },
   {
     "name": "Hamilton",
     "query": "Hamilton",
-    "rank": 16,
-    "tweet_count": "77.4K Tweets"
+    "rank": 13,
+    "tweet_count": "77.6K Tweets"
+  },
+  {
+    "name": "Santiago Nieto",
+    "query": "\"Santiago Nieto\"",
+    "rank": 14,
+    "tweet_count": "31.5K Tweets"
   },
   {
     "name": "Passerini",
     "query": "Passerini",
-    "rank": 17,
-    "tweet_count": "6,334 Tweets"
+    "rank": 15,
+    "tweet_count": "6,367 Tweets"
+  },
+  {
+    "name": "Ricardo Anaya",
+    "query": "\"Ricardo Anaya\"",
+    "rank": 16,
+    "tweet_count": "5,698 Tweets"
   },
   {
     "name": "Briseida",
     "query": "Briseida",
-    "rank": 18,
-    "tweet_count": "2,463 Tweets"
+    "rank": 17,
+    "tweet_count": "2,465 Tweets"
   },
   {
     "name": "Morena",
     "query": "Morena",
-    "rank": 19,
-    "tweet_count": "61.5K Tweets"
+    "rank": 18,
+    "tweet_count": "62K Tweets"
   },
   {
     "name": "Nicaragua",
     "query": "Nicaragua",
+    "rank": 19,
+    "tweet_count": "281K Tweets"
+  },
+  {
+    "name": "Verstappen",
+    "query": "Verstappen",
     "rank": 20,
-    "tweet_count": "279K Tweets"
+    "tweet_count": "75.2K Tweets"
   }
 ]
