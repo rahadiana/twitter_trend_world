@@ -6,34 +6,34 @@
     "tweet_count": "10.3K Tweets"
   },
   {
-    "name": "Start in die Woche",
-    "query": "\"Start in die Woche\"",
+    "name": "Wochenstart",
+    "query": "Wochenstart",
     "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "Wochenstart",
-    "query": "Wochenstart",
+    "name": "Start in die Woche",
+    "query": "\"Start in die Woche\"",
     "rank": 3,
-    "tweet_count": null
+    "tweet_count": "1,047 Tweets"
   },
   {
     "name": "#LegalisierungJetzt",
     "query": "#LegalisierungJetzt",
     "rank": 4,
-    "tweet_count": "65K Tweets"
-  },
-  {
-    "name": "#SGFSGE",
-    "query": "#SGFSGE",
-    "rank": 5,
-    "tweet_count": "3,006 Tweets"
+    "tweet_count": "65.9K Tweets"
   },
   {
     "name": "#TyranneiDerUngeimpften",
     "query": "#TyranneiDerUngeimpften",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "#SGFSGE",
+    "query": "#SGFSGE",
+    "rank": 6,
+    "tweet_count": "3,006 Tweets"
   },
   {
     "name": "#MexicoGP",
@@ -45,19 +45,19 @@
     "name": "schönen sonntag",
     "query": "\"schönen sonntag\"",
     "rank": 8,
-    "tweet_count": "5,354 Tweets"
+    "tweet_count": "5,362 Tweets"
   },
   {
     "name": "Gottschalk",
     "query": "Gottschalk",
     "rank": 9,
-    "tweet_count": "6,167 Tweets"
+    "tweet_count": "6,191 Tweets"
   },
   {
-    "name": "Montag Morgen",
-    "query": "\"Montag Morgen\"",
+    "name": "Arbeitswoche",
+    "query": "Arbeitswoche",
     "rank": 10,
-    "tweet_count": "1,045 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Guten Morgen ihr Lieben",
@@ -66,16 +66,16 @@
     "tweet_count": null
   },
   {
-    "name": "Arbeitswoche",
-    "query": "Arbeitswoche",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
     "name": "Gumo",
     "query": "Gumo",
+    "rank": 12,
+    "tweet_count": "1,533 Tweets"
+  },
+  {
+    "name": "Montag Morgen",
+    "query": "\"Montag Morgen\"",
     "rank": 13,
-    "tweet_count": "1,471 Tweets"
+    "tweet_count": "1,152 Tweets"
   },
   {
     "name": "Wochenbeginn",
@@ -87,36 +87,36 @@
     "name": "Travis Scott",
     "query": "\"Travis Scott\"",
     "rank": 15,
-    "tweet_count": "401K Tweets"
-  },
-  {
-    "name": "Guten Morgen Claudi",
-    "query": "\"Guten Morgen Claudi\"",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Guten Morgen Twitter",
-    "query": "\"Guten Morgen Twitter\"",
-    "rank": 17,
-    "tweet_count": "6,732 Tweets"
+    "tweet_count": "404K Tweets"
   },
   {
     "name": "Tests",
     "query": "Tests",
-    "rank": 18,
-    "tweet_count": "47.3K Tweets"
+    "rank": 16,
+    "tweet_count": "47.9K Tweets"
   },
   {
-    "name": "sendung",
-    "query": "sendung",
-    "rank": 19,
-    "tweet_count": "3,181 Tweets"
-  },
-  {
-    "name": "Guten Morgen Swen",
-    "query": "\"Guten Morgen Swen\"",
-    "rank": 20,
+    "name": "Neuwahlen",
+    "query": "Neuwahlen",
+    "rank": 17,
     "tweet_count": null
+  },
+  {
+    "name": "Sendung",
+    "query": "Sendung",
+    "rank": 18,
+    "tweet_count": "3,215 Tweets"
+  },
+  {
+    "name": "Laycon",
+    "query": "Laycon",
+    "rank": 19,
+    "tweet_count": "27.3K Tweets"
+  },
+  {
+    "name": "Guten Morgen Twitter",
+    "query": "\"Guten Morgen Twitter\"",
+    "rank": 20,
+    "tweet_count": "7,027 Tweets"
   }
 ]
