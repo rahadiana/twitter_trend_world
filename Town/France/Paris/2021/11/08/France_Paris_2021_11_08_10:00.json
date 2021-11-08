@@ -1,98 +1,116 @@
 [
   {
+    "name": "#recrutement",
+    "query": "#recrutement",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "Pétain",
+    "query": "Pétain",
+    "rank": 2,
+    "tweet_count": "5,081 Tweets"
+  },
+  {
     "name": "#Cannes",
     "query": "#Cannes",
-    "rank": 1,
-    "tweet_count": "4,434 Tweets"
+    "rank": 3,
+    "tweet_count": "4,926 Tweets"
   },
   {
     "name": "#MondayMotivation",
     "query": "#MondayMotivation",
-    "rank": 2,
-    "tweet_count": "47.7K Tweets"
+    "rank": 4,
+    "tweet_count": "49.6K Tweets"
   },
   {
     "name": "#SANTEXPO",
     "query": "#SANTEXPO",
-    "rank": 3,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "#Argenteuil",
     "query": "#Argenteuil",
-    "rank": 4,
-    "tweet_count": "1,817 Tweets"
-  },
-  {
-    "name": "#LundiMotivation",
-    "query": "#LundiMotivation",
-    "rank": 5,
-    "tweet_count": null
+    "rank": 6,
+    "tweet_count": "2,047 Tweets"
   },
   {
     "name": "Darmanin",
     "query": "Darmanin",
-    "rank": 6,
-    "tweet_count": "2,572 Tweets"
+    "rank": 7,
+    "tweet_count": "2,734 Tweets"
   },
   {
     "name": "Xi Jinping",
     "query": "\"Xi Jinping\"",
-    "rank": 7,
-    "tweet_count": "8,399 Tweets"
-  },
-  {
-    "name": "Léa Salamé",
-    "query": "\"Léa Salamé\"",
     "rank": 8,
-    "tweet_count": "1,581 Tweets"
-  },
-  {
-    "name": "Montebourg",
-    "query": "Montebourg",
-    "rank": 9,
-    "tweet_count": "41K Tweets"
+    "tweet_count": "8,624 Tweets"
   },
   {
     "name": "Gaulle",
     "query": "Gaulle",
+    "rank": 9,
+    "tweet_count": "12K Tweets"
+  },
+  {
+    "name": "Léa Salamé",
+    "query": "\"Léa Salamé\"",
     "rank": 10,
-    "tweet_count": "11.8K Tweets"
+    "tweet_count": "1,669 Tweets"
+  },
+  {
+    "name": "Montebourg",
+    "query": "Montebourg",
+    "rank": 11,
+    "tweet_count": "41.6K Tweets"
+  },
+  {
+    "name": "Thomas Sotto",
+    "query": "\"Thomas Sotto\"",
+    "rank": 12,
+    "tweet_count": "2,146 Tweets"
   },
   {
     "name": "Lynette",
     "query": "Lynette",
-    "rank": 11,
-    "tweet_count": "1,824 Tweets"
+    "rank": 13,
+    "tweet_count": "1,863 Tweets"
   },
   {
     "name": "GETTR",
     "query": "GETTR",
-    "rank": 12,
-    "tweet_count": "14.5K Tweets"
+    "rank": 14,
+    "tweet_count": "14.9K Tweets"
   },
   {
     "name": "#SpiderManNoWayHome",
     "query": "#SpiderManNoWayHome",
-    "rank": 13,
-    "tweet_count": "172K Tweets"
+    "rank": 15,
+    "tweet_count": "176K Tweets"
+  },
+  {
+    "name": "#lundimotivation",
+    "query": "#lundimotivation",
+    "rank": 16,
+    "tweet_count": null
   },
   {
     "name": "#le79Inter",
     "query": "#le79Inter",
-    "rank": 14,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "#LayconAt28",
     "query": "#LayconAt28",
-    "rank": 15,
-    "tweet_count": "66.1K Tweets"
+    "rank": 18,
+    "tweet_count": "69.3K Tweets"
   },
   {
     "name": "#Macron20h",
     "query": "#Macron20h",
-    "rank": 16,
-    "tweet_count": "7,311 Tweets"
+    "rank": 19,
+    "tweet_count": "7,535 Tweets"
   }
 ]
