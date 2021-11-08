@@ -1,13 +1,13 @@
 [
   {
-    "name": "#imzentrum",
-    "query": "#imzentrum",
+    "name": "Ausweis",
+    "query": "Ausweis",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "Ausweis",
-    "query": "Ausweis",
+    "name": "#imzentrum",
+    "query": "#imzentrum",
     "rank": 2,
     "tweet_count": null
   },
@@ -21,19 +21,19 @@
     "name": "#Wettendass",
     "query": "#Wettendass",
     "rank": 4,
-    "tweet_count": "7,803 Tweets"
+    "tweet_count": "7,824 Tweets"
   },
   {
     "name": "schönen sonntag",
     "query": "\"schönen sonntag\"",
     "rank": 5,
-    "tweet_count": "2,953 Tweets"
+    "tweet_count": "2,959 Tweets"
   },
   {
     "name": "Peter",
     "query": "Peter",
     "rank": 6,
-    "tweet_count": "115K Tweets"
+    "tweet_count": "116K Tweets"
   },
   {
     "name": "#MexicoGP",
@@ -45,25 +45,25 @@
     "name": "Start in die Woche",
     "query": "\"Start in die Woche\"",
     "rank": 8,
-    "tweet_count": "1,948 Tweets"
+    "tweet_count": "2,000 Tweets"
   },
   {
     "name": "#Tatort",
     "query": "#Tatort",
     "rank": 9,
-    "tweet_count": "2,637 Tweets"
+    "tweet_count": "2,638 Tweets"
   },
   {
     "name": "Wochenstart",
     "query": "Wochenstart",
     "rank": 10,
-    "tweet_count": "1,232 Tweets"
+    "tweet_count": "1,268 Tweets"
   },
   {
     "name": "Andreas",
     "query": "Andreas",
     "rank": 11,
-    "tweet_count": "11.3K Tweets"
+    "tweet_count": "11.4K Tweets"
   },
   {
     "name": "Wochenbeginn",
@@ -78,45 +78,45 @@
     "tweet_count": null
   },
   {
-    "name": "Wien",
-    "query": "Wien",
-    "rank": 14,
-    "tweet_count": "4,372 Tweets"
-  },
-  {
     "name": "Wissenschaft",
     "query": "Wissenschaft",
-    "rank": 15,
-    "tweet_count": "4,181 Tweets"
+    "rank": 14,
+    "tweet_count": "4,230 Tweets"
   },
   {
     "name": "Pandemie",
     "query": "Pandemie",
-    "rank": 16,
-    "tweet_count": "30.1K Tweets"
+    "rank": 15,
+    "tweet_count": "30.4K Tweets"
   },
   {
     "name": "Bottas",
     "query": "Bottas",
-    "rank": 17,
-    "tweet_count": "53.5K Tweets"
+    "rank": 16,
+    "tweet_count": "53.6K Tweets"
   },
   {
     "name": "Unterstützung",
     "query": "Unterstützung",
-    "rank": 18,
-    "tweet_count": "2,334 Tweets"
+    "rank": 17,
+    "tweet_count": "2,352 Tweets"
   },
   {
     "name": "Travis Scott",
     "query": "\"Travis Scott\"",
-    "rank": 19,
-    "tweet_count": "374K Tweets"
+    "rank": 18,
+    "tweet_count": "376K Tweets"
   },
   {
     "name": "Lokal",
     "query": "Lokal",
+    "rank": 19,
+    "tweet_count": "21.3K Tweets"
+  },
+  {
+    "name": "Wien",
+    "query": "Wien",
     "rank": 20,
-    "tweet_count": "21.1K Tweets"
+    "tweet_count": "4,438 Tweets"
   }
 ]
