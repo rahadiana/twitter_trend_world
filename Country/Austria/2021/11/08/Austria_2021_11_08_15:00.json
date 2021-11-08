@@ -1,15 +1,15 @@
 [
   {
-    "name": "#imzentrum",
-    "query": "#imzentrum",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#Belarus",
     "query": "#Belarus",
+    "rank": 1,
+    "tweet_count": "11.8K Tweets"
+  },
+  {
+    "name": "#imzentrum",
+    "query": "#imzentrum",
     "rank": 2,
-    "tweet_count": "11.5K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Ausweis",
@@ -33,13 +33,13 @@
     "name": "#Wettendass",
     "query": "#Wettendass",
     "rank": 6,
-    "tweet_count": "4,028 Tweets"
+    "tweet_count": "4,045 Tweets"
   },
   {
     "name": "Polen",
     "query": "Polen",
     "rank": 7,
-    "tweet_count": "14K Tweets"
+    "tweet_count": "14.4K Tweets"
   },
   {
     "name": "Verordnung",
@@ -51,7 +51,7 @@
     "name": "Start in die Woche",
     "query": "\"Start in die Woche\"",
     "rank": 9,
-    "tweet_count": "2,636 Tweets"
+    "tweet_count": "2,642 Tweets"
   },
   {
     "name": "Abschaffung der 2G",
@@ -63,7 +63,7 @@
     "name": "Gescannt",
     "query": "Gescannt",
     "rank": 11,
-    "tweet_count": "1,090 Tweets"
+    "tweet_count": "1,095 Tweets"
   },
   {
     "name": "wochenbeginn",
@@ -72,8 +72,8 @@
     "tweet_count": null
   },
   {
-    "name": "leut",
-    "query": "leut",
+    "name": "Leut",
+    "query": "Leut",
     "rank": 13,
     "tweet_count": null
   },
@@ -81,13 +81,13 @@
     "name": "Lukaschenko",
     "query": "Lukaschenko",
     "rank": 14,
-    "tweet_count": "2,558 Tweets"
+    "tweet_count": "2,628 Tweets"
   },
   {
     "name": "Wochenstart",
     "query": "Wochenstart",
     "rank": 15,
-    "tweet_count": "1,727 Tweets"
+    "tweet_count": "1,733 Tweets"
   },
   {
     "name": "Bewertung",
@@ -99,24 +99,24 @@
     "name": "Status",
     "query": "Status",
     "rank": 17,
-    "tweet_count": "4.63M Tweets"
-  },
-  {
-    "name": "lokal",
-    "query": "lokal",
-    "rank": 18,
-    "tweet_count": "22K Tweets"
+    "tweet_count": "5.35M Tweets"
   },
   {
     "name": "Intensivbetten",
     "query": "Intensivbetten",
-    "rank": 19,
-    "tweet_count": "3,165 Tweets"
+    "rank": 18,
+    "tweet_count": "3,190 Tweets"
   },
   {
     "name": "Fassung",
     "query": "Fassung",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "Lokal",
+    "query": "Lokal",
+    "rank": 20,
+    "tweet_count": "22.3K Tweets"
   }
 ]
