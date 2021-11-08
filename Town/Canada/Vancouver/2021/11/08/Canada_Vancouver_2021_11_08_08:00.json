@@ -1,122 +1,122 @@
 [
   {
-    "name": "canucks",
-    "query": "canucks",
-    "rank": 1,
-    "tweet_count": "9,434 Tweets"
-  },
-  {
-    "name": "Miller",
-    "query": "Miller",
-    "rank": 2,
-    "tweet_count": "32.2K Tweets"
-  },
-  {
-    "name": "Myers",
-    "query": "Myers",
-    "rank": 3,
-    "tweet_count": "6,201 Tweets"
-  },
-  {
     "name": "Garland",
     "query": "Garland",
-    "rank": 4,
-    "tweet_count": "40.1K Tweets"
+    "rank": 1,
+    "tweet_count": "40.2K Tweets"
   },
   {
     "name": "Dallas",
     "query": "Dallas",
-    "rank": 5,
-    "tweet_count": "56.5K Tweets"
+    "rank": 2,
+    "tweet_count": "56.6K Tweets"
+  },
+  {
+    "name": "Pettersson",
+    "query": "Pettersson",
+    "rank": 3,
+    "tweet_count": null
   },
   {
     "name": "#InsecureHBO",
     "query": "#InsecureHBO",
-    "rank": 6,
-    "tweet_count": "39.4K Tweets"
+    "rank": 4,
+    "tweet_count": "39.7K Tweets"
   },
   {
     "name": "#Yellowstone",
     "query": "#Yellowstone",
-    "rank": 7,
-    "tweet_count": "6,713 Tweets"
+    "rank": 5,
+    "tweet_count": "6,722 Tweets"
   },
   {
     "name": "#polmun",
     "query": "#polmun",
-    "rank": 8,
-    "tweet_count": "3,180 Tweets"
-  },
-  {
-    "name": "Canadian Pickers",
-    "query": "\"Canadian Pickers\"",
-    "rank": 9,
-    "tweet_count": null
+    "rank": 6,
+    "tweet_count": "3,179 Tweets"
   },
   {
     "name": "Podkolzin",
     "query": "Podkolzin",
-    "rank": 10,
+    "rank": 7,
     "tweet_count": null
   },
   {
-    "name": "marie-josée savard",
-    "query": "\"marie-josée savard\"",
-    "rank": 11,
-    "tweet_count": "1,158 Tweets"
-  },
-  {
-    "name": "#DexterNewBlood",
-    "query": "#DexterNewBlood",
-    "rank": 12,
-    "tweet_count": "7,525 Tweets"
+    "name": "Canadian Pickers",
+    "query": "\"Canadian Pickers\"",
+    "rank": 8,
+    "tweet_count": null
   },
   {
     "name": "#ElectionsMunicipales2021",
     "query": "#ElectionsMunicipales2021",
-    "rank": 13,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Petey",
     "query": "Petey",
-    "rank": 14,
-    "tweet_count": "1,470 Tweets"
+    "rank": 10,
+    "tweet_count": "1,476 Tweets"
+  },
+  {
+    "name": "#DexterNewBlood",
+    "query": "#DexterNewBlood",
+    "rank": 11,
+    "tweet_count": "7,562 Tweets"
+  },
+  {
+    "name": "Marie-Josée Savard",
+    "query": "\"Marie-Josée Savard\"",
+    "rank": 12,
+    "tweet_count": "1,160 Tweets"
   },
   {
     "name": "Demko",
     "query": "Demko",
-    "rank": 15,
-    "tweet_count": "1,192 Tweets"
-  },
-  {
-    "name": "Coderre",
-    "query": "Coderre",
-    "rank": 16,
-    "tweet_count": "2,247 Tweets"
+    "rank": 13,
+    "tweet_count": "1,200 Tweets"
   },
   {
     "name": "Valérie Plante",
     "query": "\"Valérie Plante\"",
-    "rank": 17,
-    "tweet_count": "1,860 Tweets"
+    "rank": 14,
+    "tweet_count": "1,866 Tweets"
   },
   {
-    "name": "Pettersson",
-    "query": "Pettersson",
-    "rank": 18,
+    "name": "Denis Coderre",
+    "query": "\"Denis Coderre\"",
+    "rank": 15,
     "tweet_count": null
+  },
+  {
+    "name": "Miller",
+    "query": "Miller",
+    "rank": 16,
+    "tweet_count": "32.4K Tweets"
+  },
+  {
+    "name": "Longueuil",
+    "query": "Longueuil",
+    "rank": 17,
+    "tweet_count": "1,290 Tweets"
   },
   {
     "name": "Titans",
     "query": "Titans",
-    "rank": 19,
-    "tweet_count": "90.7K Tweets"
+    "rank": 18,
+    "tweet_count": "91.1K Tweets"
   },
   {
     "name": "Ted Cruz",
     "query": "\"Ted Cruz\"",
+    "rank": 19,
+    "tweet_count": "77.1K Tweets"
+  },
+  {
+    "name": "#SpiderManNoWayHome",
+    "query": "#SpiderManNoWayHome",
     "rank": 20,
-    "tweet_count": "76.9K Tweets"
+    "tweet_count": "161K Tweets"
   }
 ]
