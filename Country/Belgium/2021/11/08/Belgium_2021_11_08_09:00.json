@@ -1,15 +1,15 @@
 [
   {
-    "name": "#ANTAND",
-    "query": "#ANTAND",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#CLUSTA",
     "query": "#CLUSTA",
+    "rank": 1,
+    "tweet_count": "1,419 Tweets"
+  },
+  {
+    "name": "#antand",
+    "query": "#antand",
     "rank": 2,
-    "tweet_count": "1,416 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#sergnt",
@@ -36,76 +36,76 @@
     "tweet_count": null
   },
   {
-    "name": "Astroworld",
-    "query": "Astroworld",
+    "name": "Travis Scott",
+    "query": "\"Travis Scott\"",
     "rank": 7,
-    "tweet_count": "248K Tweets"
+    "tweet_count": "373K Tweets"
   },
   {
-    "name": "pvda",
-    "query": "pvda",
+    "name": "Bottas",
+    "query": "Bottas",
     "rank": 8,
-    "tweet_count": "1,292 Tweets"
+    "tweet_count": "53.4K Tweets"
   },
   {
     "name": "Remi",
     "query": "Remi",
     "rank": 9,
-    "tweet_count": "11.1K Tweets"
+    "tweet_count": "11.3K Tweets"
   },
   {
-    "name": "Goeiemorgen",
-    "query": "Goeiemorgen",
+    "name": "PVDA",
+    "query": "PVDA",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "1,321 Tweets"
   },
   {
     "name": "Gordon",
     "query": "Gordon",
     "rank": 11,
-    "tweet_count": "20.3K Tweets"
-  },
-  {
-    "name": "Blij",
-    "query": "Blij",
-    "rank": 12,
-    "tweet_count": "3,013 Tweets"
-  },
-  {
-    "name": "zirkzee",
-    "query": "zirkzee",
-    "rank": 13,
-    "tweet_count": null
+    "tweet_count": "20.5K Tweets"
   },
   {
     "name": "Sardella",
     "query": "Sardella",
-    "rank": 14,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Mignolet",
     "query": "Mignolet",
-    "rank": 15,
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Goeiemorgen",
+    "query": "Goeiemorgen",
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Knokke",
     "query": "Knokke",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
-  },
-  {
-    "name": "hanne",
-    "query": "hanne",
-    "rank": 17,
-    "tweet_count": "1,224 Tweets"
   },
   {
     "name": "Bouchez",
     "query": "Bouchez",
-    "rank": 18,
+    "rank": 16,
     "tweet_count": null
+  },
+  {
+    "name": "Hamilton",
+    "query": "Hamilton",
+    "rank": 17,
+    "tweet_count": "76.6K Tweets"
+  },
+  {
+    "name": "hanne",
+    "query": "hanne",
+    "rank": 18,
+    "tweet_count": "1,236 Tweets"
   },
   {
     "name": "Manou",
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "Bruges",
-    "query": "Bruges",
+    "name": "El Hadj",
+    "query": "\"El Hadj\"",
     "rank": 20,
-    "tweet_count": "1,763 Tweets"
+    "tweet_count": null
   }
 ]
