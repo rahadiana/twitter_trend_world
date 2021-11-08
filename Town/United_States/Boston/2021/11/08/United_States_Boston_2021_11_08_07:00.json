@@ -1,7 +1,7 @@
 [
   {
-    "name": "cowboys",
-    "query": "cowboys",
+    "name": "Cowboys",
+    "query": "Cowboys",
     "rank": 1,
     "tweet_count": "94.5K Tweets"
   },
@@ -9,7 +9,7 @@
     "name": "Patriots",
     "query": "Patriots",
     "rank": 2,
-    "tweet_count": "85.3K Tweets"
+    "tweet_count": "85.4K Tweets"
   },
   {
     "name": "Big Bird",
@@ -18,22 +18,22 @@
     "tweet_count": "216K Tweets"
   },
   {
-    "name": "Chiefs",
-    "query": "Chiefs",
-    "rank": 4,
-    "tweet_count": "72.7K Tweets"
-  },
-  {
     "name": "Jordan",
     "query": "Jordan",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": "128K Tweets"
+  },
+  {
+    "name": "Chiefs",
+    "query": "Chiefs",
+    "rank": 5,
+    "tweet_count": "72.8K Tweets"
   },
   {
     "name": "#InsecureHBO",
     "query": "#InsecureHBO",
     "rank": 6,
-    "tweet_count": "37.9K Tweets"
+    "tweet_count": "38.1K Tweets"
   },
   {
     "name": "#Titans",
@@ -45,7 +45,7 @@
     "name": "#RHOSLC",
     "query": "#RHOSLC",
     "rank": 8,
-    "tweet_count": "16.8K Tweets"
+    "tweet_count": "16.9K Tweets"
   },
   {
     "name": "#StillScaredDammit",
@@ -69,54 +69,54 @@
     "name": "Green Goblin",
     "query": "\"Green Goblin\"",
     "rank": 12,
-    "tweet_count": "13.9K Tweets"
+    "tweet_count": "14K Tweets"
   },
   {
     "name": "Joji",
     "query": "Joji",
     "rank": 13,
-    "tweet_count": "18.1K Tweets"
+    "tweet_count": "18.4K Tweets"
   },
   {
     "name": "Adrian Peterson",
     "query": "\"Adrian Peterson\"",
     "rank": 14,
-    "tweet_count": "7,806 Tweets"
+    "tweet_count": "7,821 Tweets"
   },
   {
     "name": "Aaron Donald",
     "query": "\"Aaron Donald\"",
     "rank": 15,
-    "tweet_count": "2,869 Tweets"
-  },
-  {
-    "name": "Ricky Rubio",
-    "query": "\"Ricky Rubio\"",
-    "rank": 16,
-    "tweet_count": "17.2K Tweets"
+    "tweet_count": "2,875 Tweets"
   },
   {
     "name": "Gold Glove",
     "query": "\"Gold Glove\"",
+    "rank": 16,
+    "tweet_count": "26.6K Tweets"
+  },
+  {
+    "name": "McVay",
+    "query": "McVay",
     "rank": 17,
-    "tweet_count": "26.5K Tweets"
+    "tweet_count": "2,879 Tweets"
   },
   {
     "name": "Last Waltz",
     "query": "\"Last Waltz\"",
     "rank": 18,
-    "tweet_count": "6,698 Tweets"
+    "tweet_count": "6,743 Tweets"
+  },
+  {
+    "name": "Ricky Rubio",
+    "query": "\"Ricky Rubio\"",
+    "rank": 19,
+    "tweet_count": "17.4K Tweets"
   },
   {
     "name": "Tacoma",
     "query": "Tacoma",
-    "rank": 19,
-    "tweet_count": "16K Tweets"
-  },
-  {
-    "name": "Cardinals",
-    "query": "Cardinals",
     "rank": 20,
-    "tweet_count": "33K Tweets"
+    "tweet_count": "16.4K Tweets"
   }
 ]
