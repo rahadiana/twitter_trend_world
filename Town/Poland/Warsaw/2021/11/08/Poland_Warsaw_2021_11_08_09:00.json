@@ -1,25 +1,25 @@
 [
   {
-    "name": "#LEGSTM",
-    "query": "#LEGSTM",
-    "rank": 1,
-    "tweet_count": "2,415 Tweets"
-  },
-  {
-    "name": "kuźnicy",
-    "query": "kuźnicy",
-    "rank": 2,
-    "tweet_count": "2,330 Tweets"
-  },
-  {
     "name": "Frontex",
     "query": "Frontex",
-    "rank": 3,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#LEGSTM",
+    "query": "#LEGSTM",
+    "rank": 2,
+    "tweet_count": "2,416 Tweets"
   },
   {
     "name": "Białorusi",
     "query": "Białorusi",
+    "rank": 3,
+    "tweet_count": "2,564 Tweets"
+  },
+  {
+    "name": "Kuźnicy",
+    "query": "Kuźnicy",
     "rank": 4,
     "tweet_count": "2,433 Tweets"
   },
@@ -27,13 +27,13 @@
     "name": "Łukaszenki",
     "query": "Łukaszenki",
     "rank": 5,
-    "tweet_count": "3,223 Tweets"
+    "tweet_count": "3,427 Tweets"
   },
   {
-    "name": "#Jedziemy",
-    "query": "#Jedziemy",
+    "name": "#woronicza17",
+    "query": "#woronicza17",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "1,673 Tweets"
   },
   {
     "name": "#Minęła9",
@@ -42,22 +42,22 @@
     "tweet_count": null
   },
   {
-    "name": "Miłego",
-    "query": "Miłego",
-    "rank": 8,
-    "tweet_count": "12.5K Tweets"
-  },
-  {
     "name": "#WISCRA",
     "query": "#WISCRA",
-    "rank": 9,
-    "tweet_count": "1,189 Tweets"
+    "rank": 8,
+    "tweet_count": "1,195 Tweets"
   },
   {
     "name": "Niemiec",
     "query": "Niemiec",
+    "rank": 9,
+    "tweet_count": "3,901 Tweets"
+  },
+  {
+    "name": "Miłego",
+    "query": "Miłego",
     "rank": 10,
-    "tweet_count": "3,835 Tweets"
+    "tweet_count": "12.7K Tweets"
   },
   {
     "name": "Napieralski",
@@ -72,51 +72,51 @@
     "tweet_count": "2,339 Tweets"
   },
   {
-    "name": "wisła pany",
-    "query": "\"wisła pany\"",
+    "name": "WISŁA PANY",
+    "query": "\"WISŁA PANY\"",
     "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Strzelać",
+    "query": "Strzelać",
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Pszczynie",
     "query": "Pszczynie",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": "10.2K Tweets"
   },
   {
-    "name": "Strzelać",
-    "query": "Strzelać",
-    "rank": 15,
-    "tweet_count": null
+    "name": "Polskę",
+    "query": "Polskę",
+    "rank": 16,
+    "tweet_count": "3,880 Tweets"
   },
   {
     "name": "Terlecki",
     "query": "Terlecki",
-    "rank": 16,
-    "tweet_count": "3,167 Tweets"
-  },
-  {
-    "name": "Mińska",
-    "query": "Mińska",
     "rank": 17,
-    "tweet_count": "1,577 Tweets"
+    "tweet_count": "3,173 Tweets"
   },
   {
     "name": "Gargamel",
     "query": "Gargamel",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "1,003 Tweets"
+  },
+  {
+    "name": "Unia",
+    "query": "Unia",
+    "rank": 19,
+    "tweet_count": "1,060 Tweets"
   },
   {
     "name": "Legii",
     "query": "Legii",
-    "rank": 19,
-    "tweet_count": "2,550 Tweets"
-  },
-  {
-    "name": "Polską",
-    "query": "Polską",
     "rank": 20,
-    "tweet_count": "23.6K Tweets"
+    "tweet_count": "2,562 Tweets"
   }
 ]
