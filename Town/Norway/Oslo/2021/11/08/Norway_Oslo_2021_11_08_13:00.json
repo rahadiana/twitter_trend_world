@@ -6,14 +6,14 @@
     "tweet_count": null
   },
   {
-    "name": "#WHULIV",
-    "query": "#WHULIV",
+    "name": "#whuliv",
+    "query": "#whuliv",
     "rank": 2,
     "tweet_count": "67K Tweets"
   },
   {
-    "name": "åråsen",
-    "query": "åråsen",
+    "name": "Åråsen",
+    "query": "Åråsen",
     "rank": 3,
     "tweet_count": null
   },
@@ -21,61 +21,61 @@
     "name": "West Ham",
     "query": "\"West Ham\"",
     "rank": 4,
-    "tweet_count": "154K Tweets"
+    "tweet_count": "56.5K Tweets"
   },
   {
-    "name": "Mjøndalen",
-    "query": "Mjøndalen",
+    "name": "mjøndalen",
+    "query": "mjøndalen",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "Viktor Hovland",
-    "query": "\"Viktor Hovland\"",
-    "rank": 6,
-    "tweet_count": "4,027 Tweets"
-  },
-  {
     "name": "Auba",
     "query": "Auba",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": "26.3K Tweets"
   },
   {
-    "name": "sandviken",
-    "query": "sandviken",
+    "name": "Viktor Hovland",
+    "query": "\"Viktor Hovland\"",
+    "rank": 7,
+    "tweet_count": "4,034 Tweets"
+  },
+  {
+    "name": "Sandviken",
+    "query": "Sandviken",
     "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "#oddsbk",
+    "query": "#oddsbk",
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Solberg",
     "query": "Solberg",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Origi",
     "query": "Origi",
-    "rank": 10,
-    "tweet_count": "17.1K Tweets"
-  },
-  {
-    "name": "#oddsbk",
-    "query": "#oddsbk",
     "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Thunberg",
-    "query": "Thunberg",
-    "rank": 12,
-    "tweet_count": "14.7K Tweets"
+    "tweet_count": "17.1K Tweets"
   },
   {
     "name": "Vedum",
     "query": "Vedum",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "thunberg",
+    "query": "thunberg",
+    "rank": 13,
+    "tweet_count": "14.8K Tweets"
   },
   {
     "name": "Stortinget",
@@ -93,30 +93,30 @@
     "name": "Laca",
     "query": "Laca",
     "rank": 16,
-    "tweet_count": "6,816 Tweets"
+    "tweet_count": "6,837 Tweets"
+  },
+  {
+    "name": "Støre",
+    "query": "Støre",
+    "rank": 17,
+    "tweet_count": null
   },
   {
     "name": "Rose",
     "query": "Rose",
-    "rank": 17,
-    "tweet_count": "451K Tweets"
-  },
-  {
-    "name": "Elon",
-    "query": "Elon",
     "rank": 18,
-    "tweet_count": "171K Tweets"
+    "tweet_count": "457K Tweets"
   },
   {
     "name": "Norge",
     "query": "Norge",
     "rank": 19,
-    "tweet_count": "1,685 Tweets"
+    "tweet_count": "1,718 Tweets"
   },
   {
-    "name": "Hamilton",
-    "query": "Hamilton",
+    "name": "Elon",
+    "query": "Elon",
     "rank": 20,
-    "tweet_count": "77.4K Tweets"
+    "tweet_count": "173K Tweets"
   }
 ]
