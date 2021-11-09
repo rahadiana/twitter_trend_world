@@ -1,110 +1,110 @@
 [
   {
-    "name": "Green Bay",
-    "query": "\"Green Bay\"",
-    "rank": 1,
-    "tweet_count": "14K Tweets"
-  },
-  {
     "name": "Spider-Man",
     "query": "Spider-Man",
-    "rank": 2,
-    "tweet_count": "69.9K Tweets"
+    "rank": 1,
+    "tweet_count": "70.8K Tweets"
   },
   {
     "name": "Wyatt Teller",
     "query": "\"Wyatt Teller\"",
-    "rank": 3,
-    "tweet_count": "6,837 Tweets"
+    "rank": 2,
+    "tweet_count": "6,900 Tweets"
   },
   {
     "name": "Twitter Blue",
     "query": "\"Twitter Blue\"",
-    "rank": 4,
-    "tweet_count": "198K Tweets"
+    "rank": 3,
+    "tweet_count": "202K Tweets"
   },
   {
     "name": "#smiletwtselfieday",
     "query": "#smiletwtselfieday",
-    "rank": 5,
-    "tweet_count": "6,995 Tweets"
+    "rank": 4,
+    "tweet_count": "7,992 Tweets"
   },
   {
     "name": "Schiff",
     "query": "Schiff",
+    "rank": 5,
+    "tweet_count": "35.7K Tweets"
+  },
+  {
+    "name": "Pence",
+    "query": "Pence",
     "rank": 6,
-    "tweet_count": "32.8K Tweets"
+    "tweet_count": "39.4K Tweets"
   },
   {
     "name": "#expensivepain",
     "query": "#expensivepain",
     "rank": 7,
-    "tweet_count": "3,200 Tweets"
-  },
-  {
-    "name": "Pence",
-    "query": "Pence",
-    "rank": 8,
-    "tweet_count": "36.7K Tweets"
+    "tweet_count": "3,308 Tweets"
   },
   {
     "name": "Hatch Act",
     "query": "\"Hatch Act\"",
-    "rank": 9,
-    "tweet_count": "15.3K Tweets"
+    "rank": 8,
+    "tweet_count": "16.2K Tweets"
   },
   {
     "name": "Breaking Bad",
     "query": "\"Breaking Bad\"",
-    "rank": 10,
-    "tweet_count": "8,139 Tweets"
-  },
-  {
-    "name": "Josh Reynolds",
-    "query": "\"Josh Reynolds\"",
-    "rank": 11,
-    "tweet_count": null
+    "rank": 9,
+    "tweet_count": "8,423 Tweets"
   },
   {
     "name": "Bo Davis",
     "query": "\"Bo Davis\"",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "#StupidQuestionsForRunners",
+    "query": "#StupidQuestionsForRunners",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "Josh Reynolds",
+    "query": "\"Josh Reynolds\"",
     "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "Frank Gore",
-    "query": "\"Frank Gore\"",
-    "rank": 13,
-    "tweet_count": "6,351 Tweets"
-  },
-  {
     "name": "#EmptyShelvesTrump",
     "query": "#EmptyShelvesTrump",
-    "rank": 14,
-    "tweet_count": "18.2K Tweets"
+    "rank": 13,
+    "tweet_count": "18.8K Tweets"
   },
   {
-    "name": "Gosar",
-    "query": "Gosar",
+    "name": "#HouseOfGucci",
+    "query": "#HouseOfGucci",
+    "rank": 14,
+    "tweet_count": "54.9K Tweets"
+  },
+  {
+    "name": "Frank Gore",
+    "query": "\"Frank Gore\"",
     "rank": 15,
-    "tweet_count": "372K Tweets"
+    "tweet_count": "6,468 Tweets"
   },
   {
     "name": "Rise of Skywalker",
     "query": "\"Rise of Skywalker\"",
     "rank": 16,
-    "tweet_count": "2,097 Tweets"
+    "tweet_count": "2,188 Tweets"
   },
   {
-    "name": "#HouseOfGucci",
-    "query": "#HouseOfGucci",
+    "name": "Matt Barkley",
+    "query": "\"Matt Barkley\"",
     "rank": 17,
-    "tweet_count": "51K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Jokic",
     "query": "Jokic",
     "rank": 18,
-    "tweet_count": "173K Tweets"
+    "tweet_count": "175K Tweets"
   }
 ]
