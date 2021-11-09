@@ -1,13 +1,13 @@
 [
   {
-    "name": "Polijas",
-    "query": "Polijas",
+    "name": "Georga",
+    "query": "Georga",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "georga",
-    "query": "georga",
+    "name": "Polijas",
+    "query": "Polijas",
     "rank": 2,
     "tweet_count": null
   },
@@ -18,22 +18,22 @@
     "tweet_count": null
   },
   {
-    "name": "Lukašenko",
-    "query": "Lukašenko",
+    "name": "lukašenko",
+    "query": "lukašenko",
     "rank": 4,
-    "tweet_count": "1,377 Tweets"
+    "tweet_count": "1,392 Tweets"
   },
   {
     "name": "No 15",
     "query": "\"No 15\"",
     "rank": 5,
-    "tweet_count": "73.6K Tweets"
+    "tweet_count": "74.3K Tweets"
   },
   {
     "name": "Florida",
     "query": "Florida",
     "rank": 6,
-    "tweet_count": "153K Tweets"
+    "tweet_count": "154K Tweets"
   },
   {
     "name": "Vāciju",
@@ -48,20 +48,20 @@
     "tweet_count": null
   },
   {
+    "name": "Belarus",
+    "query": "Belarus",
+    "rank": 9,
+    "tweet_count": "93K Tweets"
+  },
+  {
     "name": "eiropu",
     "query": "eiropu",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "jēkabpils",
     "query": "jēkabpils",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Atkal",
-    "query": "Atkal",
     "rank": 11,
     "tweet_count": null
   },
@@ -69,19 +69,19 @@
     "name": "Poland",
     "query": "Poland",
     "rank": 12,
-    "tweet_count": "85.9K Tweets"
+    "tweet_count": "86.6K Tweets"
   },
   {
-    "name": "Rīgas",
-    "query": "Rīgas",
+    "name": "Atkal",
+    "query": "Atkal",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "Belarus",
-    "query": "Belarus",
+    "name": "Rīgas",
+    "query": "Rīgas",
     "rank": 14,
-    "tweet_count": "92.3K Tweets"
+    "tweet_count": null
   },
   {
     "name": "turies",
@@ -90,27 +90,27 @@
     "tweet_count": null
   },
   {
-    "name": "Putins",
-    "query": "Putins",
+    "name": "lāčplēša",
+    "query": "lāčplēša",
     "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "lāčplēša",
-    "query": "lāčplēša",
+    "name": "Putins",
+    "query": "Putins",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Christmas",
-    "query": "Christmas",
-    "rank": 18,
-    "tweet_count": "331K Tweets"
-  },
-  {
     "name": "#Crypto",
     "query": "#Crypto",
+    "rank": 18,
+    "tweet_count": "305K Tweets"
+  },
+  {
+    "name": "Priekš",
+    "query": "Priekš",
     "rank": 19,
-    "tweet_count": "302K Tweets"
+    "tweet_count": null
   }
 ]
