@@ -1,39 +1,39 @@
 [
   {
-    "name": "özür yetmez",
-    "query": "\"özür yetmez\"",
-    "rank": 1,
-    "tweet_count": "1,016 Tweets"
-  },
-  {
     "name": "#İdoscan",
     "query": "#İdoscan",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "#Türkkanİstifa",
     "query": "#Türkkanİstifa",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#UtanİstifaEt",
     "query": "#UtanİstifaEt",
+    "rank": 3,
+    "tweet_count": "6,172 Tweets"
+  },
+  {
+    "name": "Özür Yetmez",
+    "query": "\"Özür Yetmez\"",
     "rank": 4,
-    "tweet_count": "5,445 Tweets"
+    "tweet_count": "1,074 Tweets"
   },
   {
     "name": "Yavşak",
     "query": "Yavşak",
     "rank": 5,
-    "tweet_count": "16.9K Tweets"
+    "tweet_count": "20.7K Tweets"
   },
   {
     "name": "Meral Akşener",
     "query": "\"Meral Akşener\"",
     "rank": 6,
-    "tweet_count": "83.5K Tweets"
+    "tweet_count": "88.6K Tweets"
   },
   {
     "name": "Barış Alper Yılmaz",
@@ -45,31 +45,31 @@
     "name": "Mehmet Barlas",
     "query": "\"Mehmet Barlas\"",
     "rank": 8,
-    "tweet_count": "5,483 Tweets"
-  },
-  {
-    "name": "İnsansız Kara Araçları",
-    "query": "\"İnsansız Kara Araçları\"",
-    "rank": 9,
-    "tweet_count": null
+    "tweet_count": "6,014 Tweets"
   },
   {
     "name": "Farioli",
     "query": "Farioli",
-    "rank": 10,
-    "tweet_count": "1,948 Tweets"
+    "rank": 9,
+    "tweet_count": "2,278 Tweets"
   },
   {
-    "name": "Cengiz Ünder",
-    "query": "\"Cengiz Ünder\"",
+    "name": "Serdar Gürler",
+    "query": "\"Serdar Gürler\"",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "İnsansız Kara Araçları",
+    "query": "\"İnsansız Kara Araçları\"",
     "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "Devlet Bahçeli",
-    "query": "\"Devlet Bahçeli\"",
+    "name": "Cengiz Ünder",
+    "query": "\"Cengiz Ünder\"",
     "rank": 12,
-    "tweet_count": "27.6K Tweets"
+    "tweet_count": null
   },
   {
     "name": "YİNE CUMHUR KAZANACAK",
@@ -78,33 +78,33 @@
     "tweet_count": null
   },
   {
+    "name": "devlet bahçeli",
+    "query": "\"devlet bahçeli\"",
+    "rank": 14,
+    "tweet_count": "29K Tweets"
+  },
+  {
+    "name": "Atam",
+    "query": "Atam",
+    "rank": 15,
+    "tweet_count": "6,175 Tweets"
+  },
+  {
     "name": "Ayasofya",
     "query": "Ayasofya",
-    "rank": 14,
-    "tweet_count": "12.9K Tweets"
+    "rank": 16,
+    "tweet_count": "14.2K Tweets"
   },
   {
     "name": "S O N U N U Z G E L D İ",
     "query": "\"S O N U N U Z G E L D İ\"",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Serdar Gürler",
-    "query": "\"Serdar Gürler\"",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Bilgin",
     "query": "Bilgin",
-    "rank": 17,
-    "tweet_count": "2,403 Tweets"
-  },
-  {
-    "name": "Ersun Yanal",
-    "query": "\"Ersun Yanal\"",
     "rank": 18,
-    "tweet_count": "4,317 Tweets"
+    "tweet_count": "2,588 Tweets"
   }
 ]
