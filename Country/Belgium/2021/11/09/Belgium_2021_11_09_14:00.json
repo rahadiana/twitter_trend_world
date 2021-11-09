@@ -1,69 +1,69 @@
 [
   {
-    "name": "#clusta",
-    "query": "#clusta",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#Belarus",
     "query": "#Belarus",
-    "rank": 2,
-    "tweet_count": "23.4K Tweets"
+    "rank": 1,
+    "tweet_count": "23.8K Tweets"
   },
   {
     "name": "Jokic",
     "query": "Jokic",
+    "rank": 2,
+    "tweet_count": "96.5K Tweets"
+  },
+  {
+    "name": "Wit-Rusland",
+    "query": "Wit-Rusland",
     "rank": 3,
-    "tweet_count": "94.2K Tweets"
+    "tweet_count": "1,841 Tweets"
   },
   {
     "name": "Polen",
     "query": "Polen",
     "rank": 4,
-    "tweet_count": "40.4K Tweets"
+    "tweet_count": "41K Tweets"
   },
   {
-    "name": "Wit-Rusland",
-    "query": "Wit-Rusland",
+    "name": "#Poland",
+    "query": "#Poland",
     "rank": 5,
-    "tweet_count": "1,830 Tweets"
-  },
-  {
-    "name": "MEPs",
-    "query": "MEPs",
-    "rank": 6,
-    "tweet_count": "1,623 Tweets"
+    "tweet_count": "24.2K Tweets"
   },
   {
     "name": "#EUatCOP26",
     "query": "#EUatCOP26",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "#pandemiewet",
     "query": "#pandemiewet",
-    "rank": 8,
+    "rank": 7,
     "tweet_count": null
   },
   {
-    "name": "#Fitfor55",
-    "query": "#Fitfor55",
+    "name": "MEPs",
+    "query": "MEPs",
+    "rank": 8,
+    "tweet_count": "1,634 Tweets"
+  },
+  {
+    "name": "#ANTAND",
+    "query": "#ANTAND",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Van Ranst",
-    "query": "\"Van Ranst\"",
-    "rank": 10,
-    "tweet_count": "3,012 Tweets"
-  },
-  {
     "name": "Marokkaanse",
     "query": "Marokkaanse",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
+  },
+  {
+    "name": "Cuba",
+    "query": "Cuba",
+    "rank": 11,
+    "tweet_count": "139K Tweets"
   },
   {
     "name": "Hoge Gezondheidsraad",
@@ -72,51 +72,51 @@
     "tweet_count": null
   },
   {
-    "name": "De Wever",
-    "query": "\"De Wever\"",
+    "name": "Van Ranst",
+    "query": "\"Van Ranst\"",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "3,018 Tweets"
   },
   {
-    "name": "energie 100",
-    "query": "\"energie 100\"",
+    "name": "Kamer",
+    "query": "Kamer",
     "rank": 14,
-    "tweet_count": null
+    "tweet_count": "6,595 Tweets"
+  },
+  {
+    "name": "Minsk",
+    "query": "Minsk",
+    "rank": 15,
+    "tweet_count": "11.6K Tweets"
   },
   {
     "name": "Poolse",
     "query": "Poolse",
-    "rank": 15,
-    "tweet_count": "2,669 Tweets"
+    "rank": 16,
+    "tweet_count": "2,711 Tweets"
   },
   {
-    "name": "knokke-heist",
-    "query": "knokke-heist",
-    "rank": 16,
+    "name": "Johnson & Johnson",
+    "query": "\"Johnson & Johnson\"",
+    "rank": 17,
+    "tweet_count": "213K Tweets"
+  },
+  {
+    "name": "Peter Mertens",
+    "query": "\"Peter Mertens\"",
+    "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "Frances Haugen",
-    "query": "\"Frances Haugen\"",
-    "rank": 17,
-    "tweet_count": "2,559 Tweets"
-  },
-  {
-    "name": "Lukashenko",
-    "query": "Lukashenko",
-    "rank": 18,
-    "tweet_count": "19.4K Tweets"
-  },
-  {
-    "name": "Frontex",
-    "query": "Frontex",
+    "name": "Member States",
+    "query": "\"Member States\"",
     "rank": 19,
-    "tweet_count": "9,008 Tweets"
+    "tweet_count": "4,379 Tweets"
   },
   {
-    "name": "Cuba",
-    "query": "Cuba",
+    "name": "Wetstraat",
+    "query": "Wetstraat",
     "rank": 20,
-    "tweet_count": "137K Tweets"
+    "tweet_count": null
   }
 ]
