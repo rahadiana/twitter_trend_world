@@ -1,39 +1,39 @@
 [
   {
-    "name": "#polkvart",
-    "query": "#polkvart",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Siv Jensen",
     "query": "\"Siv Jensen\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "#statsbudsjettet",
     "query": "#statsbudsjettet",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Josimar",
     "query": "Josimar",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Vedum",
     "query": "Vedum",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Qatar",
     "query": "Qatar",
+    "rank": 5,
+    "tweet_count": "20.6K Tweets"
+  },
+  {
+    "name": "#polkvart",
+    "query": "#polkvart",
     "rank": 6,
-    "tweet_count": "20.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Hviterussland",
@@ -51,13 +51,13 @@
     "name": "Polen",
     "query": "Polen",
     "rank": 9,
-    "tweet_count": "39K Tweets"
+    "tweet_count": "39.4K Tweets"
   },
   {
     "name": "Oslo",
     "query": "Oslo",
     "rank": 10,
-    "tweet_count": "3,121 Tweets"
+    "tweet_count": "3,147 Tweets"
   },
   {
     "name": "Vegar Hoel",
@@ -69,7 +69,7 @@
     "name": "#dogecoin",
     "query": "#dogecoin",
     "rank": 12,
-    "tweet_count": "71.5K Tweets"
+    "tweet_count": "71.9K Tweets"
   },
   {
     "name": "mjøndalen",
@@ -81,7 +81,7 @@
     "name": "Black",
     "query": "Black",
     "rank": 14,
-    "tweet_count": "773K Tweets"
+    "tweet_count": "776K Tweets"
   },
   {
     "name": "Island",
@@ -96,21 +96,21 @@
     "tweet_count": null
   },
   {
-    "name": "Glazers",
-    "query": "Glazers",
-    "rank": 17,
-    "tweet_count": "15.1K Tweets"
-  },
-  {
     "name": "klepp",
     "query": "klepp",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Elon",
     "query": "Elon",
+    "rank": 18,
+    "tweet_count": "144K Tweets"
+  },
+  {
+    "name": "#nrkdebatt",
+    "query": "#nrkdebatt",
     "rank": 19,
-    "tweet_count": "143K Tweets"
+    "tweet_count": null
   }
 ]
