@@ -9,83 +9,83 @@
     "name": "Oslo",
     "query": "Oslo",
     "rank": 2,
-    "tweet_count": "3,846 Tweets"
+    "tweet_count": "4,111 Tweets"
+  },
+  {
+    "name": "kongsberg",
+    "query": "kongsberg",
+    "rank": 3,
+    "tweet_count": null
   },
   {
     "name": "Siv Jensen",
     "query": "\"Siv Jensen\"",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "#statsbudsjettet",
     "query": "#statsbudsjettet",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Josimar",
     "query": "Josimar",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Politiet",
-    "query": "Politiet",
     "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "Simonsen Vogt Wiig",
-    "query": "\"Simonsen Vogt Wiig\"",
-    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Vedum",
     "query": "Vedum",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "Simonsen Vogt Wiig",
+    "query": "\"Simonsen Vogt Wiig\"",
     "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "Politiet",
+    "query": "Politiet",
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "#polkvart",
     "query": "#polkvart",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Polen",
     "query": "Polen",
-    "rank": 10,
-    "tweet_count": "41.3K Tweets"
+    "rank": 11,
+    "tweet_count": "41.8K Tweets"
   },
   {
     "name": "Hviterussland",
     "query": "Hviterussland",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Qatar",
     "query": "Qatar",
-    "rank": 12,
-    "tweet_count": "20.9K Tweets"
+    "rank": 13,
+    "tweet_count": "21.1K Tweets"
   },
   {
     "name": "Solberg",
     "query": "Solberg",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Vegar Hoel",
-    "query": "\"Vegar Hoel\"",
     "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "Kongsberg",
-    "query": "Kongsberg",
+    "name": "vegar hoel",
+    "query": "\"vegar hoel\"",
     "rank": 15,
     "tweet_count": null
   },
@@ -99,7 +99,7 @@
     "name": "#dogecoin",
     "query": "#dogecoin",
     "rank": 17,
-    "tweet_count": "69.6K Tweets"
+    "tweet_count": "70.3K Tweets"
   },
   {
     "name": "mjøndalen",
@@ -111,12 +111,12 @@
     "name": "Black",
     "query": "Black",
     "rank": 19,
-    "tweet_count": "771K Tweets"
+    "tweet_count": "778K Tweets"
   },
   {
-    "name": "åråsen",
-    "query": "åråsen",
+    "name": "#Africa",
+    "query": "#Africa",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "14.1K Tweets"
   }
 ]
