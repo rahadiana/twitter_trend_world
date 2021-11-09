@@ -12,28 +12,28 @@
     "tweet_count": null
   },
   {
+    "name": "lukašenko",
+    "query": "lukašenko",
+    "rank": 3,
+    "tweet_count": "1,434 Tweets"
+  },
+  {
+    "name": "vāciju",
+    "query": "vāciju",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
     "name": "No 15",
     "query": "\"No 15\"",
-    "rank": 3,
-    "tweet_count": "74.8K Tweets"
-  },
-  {
-    "name": "Lukašenko",
-    "query": "Lukašenko",
-    "rank": 4,
-    "tweet_count": "1,409 Tweets"
-  },
-  {
-    "name": "Vāciju",
-    "query": "Vāciju",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "76K Tweets"
   },
   {
     "name": "Florida",
     "query": "Florida",
     "rank": 6,
-    "tweet_count": "150K Tweets"
+    "tweet_count": "152K Tweets"
   },
   {
     "name": "#teirdarbs",
@@ -42,22 +42,22 @@
     "tweet_count": null
   },
   {
-    "name": "Belarus",
-    "query": "Belarus",
-    "rank": 8,
-    "tweet_count": "101K Tweets"
-  },
-  {
-    "name": "eiropu",
-    "query": "eiropu",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
     "name": "Jēkabpils",
     "query": "Jēkabpils",
-    "rank": 10,
+    "rank": 8,
     "tweet_count": null
+  },
+  {
+    "name": "Poland",
+    "query": "Poland",
+    "rank": 9,
+    "tweet_count": "92.3K Tweets"
+  },
+  {
+    "name": "Belarus",
+    "query": "Belarus",
+    "rank": 10,
+    "tweet_count": "103K Tweets"
   },
   {
     "name": "Atkal",
@@ -66,10 +66,10 @@
     "tweet_count": null
   },
   {
-    "name": "Poland",
-    "query": "Poland",
+    "name": "Eiropu",
+    "query": "Eiropu",
     "rank": 12,
-    "tweet_count": "90.7K Tweets"
+    "tweet_count": null
   },
   {
     "name": "kongresu",
@@ -90,14 +90,14 @@
     "tweet_count": null
   },
   {
-    "name": "Turies",
-    "query": "Turies",
+    "name": "Rīgas",
+    "query": "Rīgas",
     "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "rīgas",
-    "query": "rīgas",
+    "name": "Turies",
+    "query": "Turies",
     "rank": 17,
     "tweet_count": null
   },
@@ -105,7 +105,7 @@
     "name": "Christmas",
     "query": "Christmas",
     "rank": 18,
-    "tweet_count": "331K Tweets"
+    "tweet_count": "338K Tweets"
   },
   {
     "name": "Priekš",
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "kādu",
-    "query": "kādu",
+    "name": "#valoda",
+    "query": "#valoda",
     "rank": 20,
-    "tweet_count": "2,731 Tweets"
+    "tweet_count": null
   }
 ]
