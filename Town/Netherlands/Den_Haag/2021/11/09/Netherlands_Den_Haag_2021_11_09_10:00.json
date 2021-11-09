@@ -1,87 +1,87 @@
 [
   {
-    "name": "Goedemorgen",
-    "query": "Goedemorgen",
-    "rank": 1,
-    "tweet_count": "6,605 Tweets"
-  },
-  {
     "name": "#sinterklaasjournaal",
     "query": "#sinterklaasjournaal",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Goedemorgen",
+    "query": "Goedemorgen",
+    "rank": 2,
+    "tweet_count": "6,799 Tweets"
   },
   {
     "name": "#QRankzinnigheid",
     "query": "#QRankzinnigheid",
     "rank": 3,
-    "tweet_count": "2,113 Tweets"
+    "tweet_count": "2,150 Tweets"
   },
   {
     "name": "#Spoedwet",
     "query": "#Spoedwet",
     "rank": 4,
-    "tweet_count": "4,592 Tweets"
+    "tweet_count": "4,629 Tweets"
   },
   {
     "name": "Haga",
     "query": "Haga",
     "rank": 5,
-    "tweet_count": "79.7K Tweets"
+    "tweet_count": "80.5K Tweets"
+  },
+  {
+    "name": "Limburgse",
+    "query": "Limburgse",
+    "rank": 6,
+    "tweet_count": null
   },
   {
     "name": "Polen",
     "query": "Polen",
-    "rank": 6,
-    "tweet_count": "39.6K Tweets"
-  },
-  {
-    "name": "#firstdates",
-    "query": "#firstdates",
     "rank": 7,
-    "tweet_count": "1,477 Tweets"
+    "tweet_count": "40.4K Tweets"
   },
   {
     "name": "Belarus",
     "query": "Belarus",
     "rank": 8,
-    "tweet_count": "112K Tweets"
+    "tweet_count": "114K Tweets"
+  },
+  {
+    "name": "#lockdown",
+    "query": "#lockdown",
+    "rank": 9,
+    "tweet_count": "6,057 Tweets"
   },
   {
     "name": "#ajagae",
     "query": "#ajagae",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Wit-Rusland",
     "query": "Wit-Rusland",
-    "rank": 10,
-    "tweet_count": "1,993 Tweets"
-  },
-  {
-    "name": "Janssen",
-    "query": "Janssen",
     "rank": 11,
-    "tweet_count": "7,204 Tweets"
-  },
-  {
-    "name": "Limburgse",
-    "query": "Limburgse",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Oostenrijk",
-    "query": "Oostenrijk",
-    "rank": 13,
-    "tweet_count": "1,825 Tweets"
+    "tweet_count": "2,022 Tweets"
   },
   {
     "name": "Zwarte Piet",
     "query": "\"Zwarte Piet\"",
+    "rank": 12,
+    "tweet_count": "2,665 Tweets"
+  },
+  {
+    "name": "Janssen",
+    "query": "Janssen",
+    "rank": 13,
+    "tweet_count": "7,394 Tweets"
+  },
+  {
+    "name": "Oostenrijk",
+    "query": "Oostenrijk",
     "rank": 14,
-    "tweet_count": "2,551 Tweets"
+    "tweet_count": "1,866 Tweets"
   },
   {
     "name": "Bas van der Vlies",
@@ -93,13 +93,13 @@
     "name": "Big Bird",
     "query": "\"Big Bird\"",
     "rank": 16,
-    "tweet_count": "187K Tweets"
+    "tweet_count": "188K Tweets"
   },
   {
-    "name": "MediaMarkt",
-    "query": "MediaMarkt",
+    "name": "Mediamarkt",
+    "query": "Mediamarkt",
     "rank": 17,
-    "tweet_count": "3,499 Tweets"
+    "tweet_count": "3,590 Tweets"
   },
   {
     "name": "Loekasjenko",
@@ -117,6 +117,6 @@
     "name": "Poolse",
     "query": "Poolse",
     "rank": 20,
-    "tweet_count": "2,513 Tweets"
+    "tweet_count": "2,560 Tweets"
   }
 ]

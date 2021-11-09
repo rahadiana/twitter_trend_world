@@ -12,22 +12,22 @@
     "tweet_count": null
   },
   {
-    "name": "Baltkrievijas",
-    "query": "Baltkrievijas",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
     "name": "eiropa",
     "query": "eiropa",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Lukašenko",
     "query": "Lukašenko",
+    "rank": 4,
+    "tweet_count": "1,403 Tweets"
+  },
+  {
+    "name": "Baltkrievijas",
+    "query": "Baltkrievijas",
     "rank": 5,
-    "tweet_count": "1,363 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Vāciju",
@@ -39,7 +39,7 @@
     "name": "Florida",
     "query": "Florida",
     "rank": 7,
-    "tweet_count": "145K Tweets"
+    "tweet_count": "146K Tweets"
   },
   {
     "name": "Jēkabpils",
@@ -51,13 +51,13 @@
     "name": "Belarus",
     "query": "Belarus",
     "rank": 9,
-    "tweet_count": "112K Tweets"
+    "tweet_count": "114K Tweets"
   },
   {
     "name": "Poland",
     "query": "Poland",
     "rank": 10,
-    "tweet_count": "95.4K Tweets"
+    "tweet_count": "97K Tweets"
   },
   {
     "name": "Lāčplēša",
@@ -66,56 +66,56 @@
     "tweet_count": null
   },
   {
+    "name": "COVID-19",
+    "query": "COVID-19",
+    "rank": 12,
+    "tweet_count": "419K Tweets"
+  },
+  {
     "name": "#teirdarbs",
     "query": "#teirdarbs",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Kongresu",
     "query": "Kongresu",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Varētu",
     "query": "Varētu",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Spotify",
-    "query": "Spotify",
     "rank": 15,
-    "tweet_count": "1M Tweets"
-  },
-  {
-    "name": "nebūs",
-    "query": "nebūs",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "kamēr",
-    "query": "kamēr",
-    "rank": 17,
-    "tweet_count": "6,234 Tweets"
-  },
-  {
-    "name": "tavas",
-    "query": "tavas",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Putins",
-    "query": "Putins",
-    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Latvijas",
     "query": "Latvijas",
+    "rank": 16,
+    "tweet_count": "1,032 Tweets"
+  },
+  {
+    "name": "Spotify",
+    "query": "Spotify",
+    "rank": 17,
+    "tweet_count": "1.02M Tweets"
+  },
+  {
+    "name": "nebūs",
+    "query": "nebūs",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "kamēr",
+    "query": "kamēr",
+    "rank": 19,
+    "tweet_count": "6,376 Tweets"
+  },
+  {
+    "name": "tavas",
+    "query": "tavas",
     "rank": 20,
     "tweet_count": null
   }
