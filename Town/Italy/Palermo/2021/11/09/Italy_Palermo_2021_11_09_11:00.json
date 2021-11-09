@@ -1,37 +1,37 @@
 [
   {
+    "name": "#gfvip",
+    "query": "#gfvip",
+    "rank": 1,
+    "tweet_count": "103K Tweets"
+  },
+  {
     "name": "Nicola",
     "query": "Nicola",
-    "rank": 1,
-    "tweet_count": "31.9K Tweets"
+    "rank": 2,
+    "tweet_count": "32.4K Tweets"
   },
   {
     "name": "#DAZN",
     "query": "#DAZN",
-    "rank": 2,
-    "tweet_count": "3,421 Tweets"
+    "rank": 3,
+    "tweet_count": "3,764 Tweets"
   },
   {
     "name": "#9novembre",
     "query": "#9novembre",
-    "rank": 3,
-    "tweet_count": "6,437 Tweets"
+    "rank": 4,
+    "tweet_count": "6,978 Tweets"
   },
   {
     "name": "#cinebiden",
     "query": "#cinebiden",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "#murodiberlino",
     "query": "#murodiberlino",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "#DelPiero",
-    "query": "#DelPiero",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,75 +42,81 @@
     "tweet_count": null
   },
   {
-    "name": "Capitano",
-    "query": "Capitano",
-    "rank": 8,
-    "tweet_count": "3,432 Tweets"
-  },
-  {
-    "name": "Morris",
-    "query": "Morris",
-    "rank": 9,
-    "tweet_count": "56.1K Tweets"
-  },
-  {
     "name": "Jokic",
     "query": "Jokic",
-    "rank": 10,
-    "tweet_count": "78.8K Tweets"
+    "rank": 8,
+    "tweet_count": "80.1K Tweets"
   },
   {
-    "name": "SkyGo",
-    "query": "SkyGo",
-    "rank": 11,
+    "name": "Capitano",
+    "query": "Capitano",
+    "rank": 9,
+    "tweet_count": "3,562 Tweets"
+  },
+  {
+    "name": "Skygo",
+    "query": "Skygo",
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Faivre",
     "query": "Faivre",
+    "rank": 11,
+    "tweet_count": "2,602 Tweets"
+  },
+  {
+    "name": "Benetton",
+    "query": "Benetton",
     "rank": 12,
-    "tweet_count": "2,507 Tweets"
+    "tweet_count": "8,690 Tweets"
   },
   {
     "name": "Marc",
     "query": "Marc",
     "rank": 13,
-    "tweet_count": "35.3K Tweets"
-  },
-  {
-    "name": "Benetton",
-    "query": "Benetton",
-    "rank": 14,
-    "tweet_count": "8,554 Tweets"
+    "tweet_count": "35.9K Tweets"
   },
   {
     "name": "Il 9",
     "query": "\"Il 9\"",
+    "rank": 14,
+    "tweet_count": "9,580 Tweets"
+  },
+  {
+    "name": "Autostrade",
+    "query": "Autostrade",
     "rank": 15,
-    "tweet_count": "9,322 Tweets"
+    "tweet_count": "2,473 Tweets"
   },
   {
     "name": "Camilla",
     "query": "Camilla",
     "rank": 16,
-    "tweet_count": "39.8K Tweets"
+    "tweet_count": "40.1K Tweets"
+  },
+  {
+    "name": "Gruber",
+    "query": "Gruber",
+    "rank": 17,
+    "tweet_count": "1,768 Tweets"
   },
   {
     "name": "Buon Compleanno",
     "query": "\"Buon Compleanno\"",
-    "rank": 17,
-    "tweet_count": "4,669 Tweets"
+    "rank": 18,
+    "tweet_count": "4,816 Tweets"
+  },
+  {
+    "name": "#DelPiero",
+    "query": "#DelPiero",
+    "rank": 19,
+    "tweet_count": null
   },
   {
     "name": "#speranzadimettiti",
     "query": "#speranzadimettiti",
-    "rank": 18,
-    "tweet_count": "1,534 Tweets"
-  },
-  {
-    "name": "#hoTrovato",
-    "query": "#hoTrovato",
-    "rank": 19,
-    "tweet_count": "4,277 Tweets"
+    "rank": 20,
+    "tweet_count": "1,678 Tweets"
   }
 ]
