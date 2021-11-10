@@ -1,21 +1,21 @@
 [
   {
+    "name": "Banco Central",
+    "query": "\"Banco Central\"",
+    "rank": 1,
+    "tweet_count": "5,092 Tweets"
+  },
+  {
     "name": "#farmaciasdelpueblo",
     "query": "#farmaciasdelpueblo",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "Banco Central",
-    "query": "\"Banco Central\"",
-    "rank": 2,
-    "tweet_count": "5,040 Tweets"
-  },
-  {
-    "name": "h-2b",
-    "query": "h-2b",
+    "name": "H-2B",
+    "query": "H-2B",
     "rank": 3,
-    "tweet_count": "1,149 Tweets"
+    "tweet_count": "1,153 Tweets"
   },
   {
     "name": "Espaillat",
@@ -27,13 +27,13 @@
     "name": "Alexis Victoria Yeb",
     "query": "\"Alexis Victoria Yeb\"",
     "rank": 5,
-    "tweet_count": "1,402 Tweets"
+    "tweet_count": "1,403 Tweets"
   },
   {
-    "name": "#FelizMiercoles",
-    "query": "#FelizMiercoles",
+    "name": "Hoy 10",
+    "query": "\"Hoy 10\"",
     "rank": 6,
-    "tweet_count": "14.4K Tweets"
+    "tweet_count": "32.2K Tweets"
   },
   {
     "name": "Danilo Medina",
@@ -42,81 +42,81 @@
     "tweet_count": null
   },
   {
-    "name": "Hoy 10",
-    "query": "\"Hoy 10\"",
+    "name": "#tsadecideya",
+    "query": "#tsadecideya",
     "rank": 8,
-    "tweet_count": "31.9K Tweets"
-  },
-  {
-    "name": "#TSADecideYa",
-    "query": "#TSADecideYa",
-    "rank": 9,
-    "tweet_count": "1,419 Tweets"
+    "tweet_count": "1,422 Tweets"
   },
   {
     "name": "Córdoba",
     "query": "Córdoba",
-    "rank": 10,
-    "tweet_count": "28.9K Tweets"
+    "rank": 9,
+    "tweet_count": "29.1K Tweets"
   },
   {
     "name": "Hank Aaron",
     "query": "\"Hank Aaron\"",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": "10.9K Tweets"
   },
   {
     "name": "Senabri Silvestre",
     "query": "\"Senabri Silvestre\"",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "#hoynarrafranklinmirabal",
     "query": "#hoynarrafranklinmirabal",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": "3,697 Tweets"
   },
   {
     "name": "Antonio Marte",
     "query": "\"Antonio Marte\"",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Edenorte",
     "query": "Edenorte",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "#EstoNoEsRadio",
     "query": "#EstoNoEsRadio",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Adán Peguero",
     "query": "\"Adán Peguero\"",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Jokic",
     "query": "Jokic",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": "113K Tweets"
+  },
+  {
+    "name": "#FelizMiercoles",
+    "query": "#FelizMiercoles",
+    "rank": 18,
+    "tweet_count": "14.7K Tweets"
   },
   {
     "name": "Uber",
     "query": "Uber",
     "rank": 19,
-    "tweet_count": "59.2K Tweets"
+    "tweet_count": "59.6K Tweets"
   },
   {
     "name": "Ministerio de Trabajo",
     "query": "\"Ministerio de Trabajo\"",
     "rank": 20,
-    "tweet_count": "1,450 Tweets"
+    "tweet_count": "1,464 Tweets"
   }
 ]
