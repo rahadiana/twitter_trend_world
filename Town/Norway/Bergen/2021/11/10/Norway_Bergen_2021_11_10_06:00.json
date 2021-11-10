@@ -1,25 +1,25 @@
 [
   {
-    "name": "#nrkdebatt",
-    "query": "#nrkdebatt",
+    "name": "Bislett",
+    "query": "Bislett",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "Bislett",
-    "query": "Bislett",
+    "name": "#nrkdebatt",
+    "query": "#nrkdebatt",
     "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "Kongsberg",
-    "query": "Kongsberg",
-    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Siv Jensen",
     "query": "\"Siv Jensen\"",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "Kongsberg",
+    "query": "Kongsberg",
     "rank": 4,
     "tweet_count": null
   },
@@ -48,46 +48,46 @@
     "tweet_count": null
   },
   {
-    "name": "Morris",
-    "query": "Morris",
-    "rank": 9,
-    "tweet_count": "94.3K Tweets"
-  },
-  {
     "name": "Xavi",
     "query": "Xavi",
-    "rank": 10,
-    "tweet_count": "123K Tweets"
+    "rank": 9,
+    "tweet_count": "124K Tweets"
   },
   {
     "name": "Qatar",
     "query": "Qatar",
-    "rank": 11,
-    "tweet_count": "20.2K Tweets"
+    "rank": 10,
+    "tweet_count": "20.6K Tweets"
   },
   {
     "name": "ola borten moe",
     "query": "\"ola borten moe\"",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Belarus",
     "query": "Belarus",
-    "rank": 13,
-    "tweet_count": "79.2K Tweets"
+    "rank": 12,
+    "tweet_count": "80K Tweets"
   },
   {
     "name": "Nordic",
     "query": "Nordic",
-    "rank": 14,
-    "tweet_count": "4,206 Tweets"
+    "rank": 13,
+    "tweet_count": "4,239 Tweets"
   },
   {
     "name": "Oslo",
     "query": "Oslo",
+    "rank": 14,
+    "tweet_count": "12.6K Tweets"
+  },
+  {
+    "name": "Politiet",
+    "query": "Politiet",
     "rank": 15,
-    "tweet_count": "12.5K Tweets"
+    "tweet_count": "2,019 Tweets"
   },
   {
     "name": "solberg",
@@ -96,21 +96,21 @@
     "tweet_count": null
   },
   {
-    "name": "Jokic",
-    "query": "Jokic",
-    "rank": 17,
-    "tweet_count": "150K Tweets"
-  },
-  {
     "name": "#statsbudsjettet",
     "query": "#statsbudsjettet",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Islam",
     "query": "Islam",
+    "rank": 18,
+    "tweet_count": "65.5K Tweets"
+  },
+  {
+    "name": "Polen",
+    "query": "Polen",
     "rank": 19,
-    "tweet_count": "64.3K Tweets"
+    "tweet_count": "35.8K Tweets"
   }
 ]
