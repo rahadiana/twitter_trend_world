@@ -1,15 +1,15 @@
 [
   {
-    "name": "Reggie Miller",
-    "query": "\"Reggie Miller\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Wisconsin",
     "query": "Wisconsin",
+    "rank": 1,
+    "tweet_count": "19.8K Tweets"
+  },
+  {
+    "name": "Reggie Miller",
+    "query": "\"Reggie Miller\"",
     "rank": 2,
-    "tweet_count": "19.7K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Georges Niang",
@@ -18,14 +18,14 @@
     "tweet_count": null
   },
   {
-    "name": "Capel",
-    "query": "Capel",
+    "name": "Patrick Reed",
+    "query": "\"Patrick Reed\"",
     "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "Patrick Reed",
-    "query": "\"Patrick Reed\"",
+    "name": "Capel",
+    "query": "Capel",
     "rank": 5,
     "tweet_count": null
   },
@@ -45,78 +45,78 @@
     "name": "Pete",
     "query": "Pete",
     "rank": 8,
-    "tweet_count": "72.4K Tweets"
+    "tweet_count": "73K Tweets"
   },
   {
     "name": "#TheBachelorette",
     "query": "#TheBachelorette",
     "rank": 9,
-    "tweet_count": "16.9K Tweets"
+    "tweet_count": "17K Tweets"
   },
   {
     "name": "#ChampionsClassic",
     "query": "#ChampionsClassic",
     "rank": 10,
-    "tweet_count": "2,228 Tweets"
+    "tweet_count": "2,274 Tweets"
   },
   {
     "name": "Brian Williams",
     "query": "\"Brian Williams\"",
     "rank": 11,
-    "tweet_count": "11.5K Tweets"
+    "tweet_count": "12.1K Tweets"
   },
   {
     "name": "#Supergirl",
     "query": "#Supergirl",
     "rank": 12,
-    "tweet_count": "116K Tweets"
+    "tweet_count": "119K Tweets"
   },
   {
-    "name": "Giannis",
-    "query": "Giannis",
+    "name": "#chucky",
+    "query": "#chucky",
     "rank": 13,
-    "tweet_count": "22.9K Tweets"
-  },
-  {
-    "name": "Giannis",
-    "query": "Giannis",
-    "rank": 14,
-    "tweet_count": "22.9K Tweets"
-  },
-  {
-    "name": "#WWENXT",
-    "query": "#WWENXT",
-    "rank": 15,
-    "tweet_count": "17.6K Tweets"
+    "tweet_count": "8,196 Tweets"
   },
   {
     "name": "Banchero",
     "query": "Banchero",
+    "rank": 14,
+    "tweet_count": "2,333 Tweets"
+  },
+  {
+    "name": "Giannis",
+    "query": "Giannis",
+    "rank": 15,
+    "tweet_count": "23.1K Tweets"
+  },
+  {
+    "name": "Giannis",
+    "query": "Giannis",
     "rank": 16,
-    "tweet_count": "2,104 Tweets"
+    "tweet_count": "23.1K Tweets"
   },
   {
     "name": "Coach K",
     "query": "\"Coach K\"",
     "rank": 17,
-    "tweet_count": "5,963 Tweets"
+    "tweet_count": "6,144 Tweets"
   },
   {
-    "name": "vaughn",
-    "query": "vaughn",
+    "name": "Wheeler",
+    "query": "Wheeler",
     "rank": 18,
-    "tweet_count": "4,663 Tweets"
-  },
-  {
-    "name": "Wendell Moore",
-    "query": "\"Wendell Moore\"",
-    "rank": 19,
-    "tweet_count": null
+    "tweet_count": "8,362 Tweets"
   },
   {
     "name": "Geraldo",
     "query": "Geraldo",
+    "rank": 19,
+    "tweet_count": "4,232 Tweets"
+  },
+  {
+    "name": "Plaintiff",
+    "query": "Plaintiff",
     "rank": 20,
-    "tweet_count": "4,017 Tweets"
+    "tweet_count": "5,633 Tweets"
   }
 ]
