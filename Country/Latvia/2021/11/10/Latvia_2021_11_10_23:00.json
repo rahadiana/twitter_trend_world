@@ -42,26 +42,26 @@
     "tweet_count": null
   },
   {
-    "name": "Polijai",
-    "query": "Polijai",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "Florida",
     "query": "Florida",
+    "rank": 8,
+    "tweet_count": "112K Tweets"
+  },
+  {
+    "name": "Polijai",
+    "query": "Polijai",
     "rank": 9,
-    "tweet_count": "110K Tweets"
+    "tweet_count": null
   },
   {
     "name": "jāni",
     "query": "jāni",
     "rank": 10,
-    "tweet_count": "11.7K Tweets"
+    "tweet_count": "11.8K Tweets"
   },
   {
-    "name": "Vāciju",
-    "query": "Vāciju",
+    "name": "vāciju",
+    "query": "vāciju",
     "rank": 11,
     "tweet_count": null
   },
@@ -75,7 +75,7 @@
     "name": "NO 15",
     "query": "\"NO 15\"",
     "rank": 13,
-    "tweet_count": "84.9K Tweets"
+    "tweet_count": "85.5K Tweets"
   },
   {
     "name": "Rīgas",
@@ -93,13 +93,13 @@
     "name": "ISIS",
     "query": "ISIS",
     "rank": 16,
-    "tweet_count": "21.7K Tweets"
+    "tweet_count": "21.9K Tweets"
   },
   {
     "name": "Germany",
     "query": "Germany",
     "rank": 17,
-    "tweet_count": "89.8K Tweets"
+    "tweet_count": "90.3K Tweets"
   },
   {
     "name": "Eiropu",
@@ -111,12 +111,12 @@
     "name": "Belarus",
     "query": "Belarus",
     "rank": 19,
-    "tweet_count": "73.6K Tweets"
+    "tweet_count": "73.9K Tweets"
   },
   {
     "name": "Moderna",
     "query": "Moderna",
     "rank": 20,
-    "tweet_count": "83.2K Tweets"
+    "tweet_count": "83.7K Tweets"
   }
 ]
