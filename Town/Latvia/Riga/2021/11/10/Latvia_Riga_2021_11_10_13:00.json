@@ -18,28 +18,28 @@
     "tweet_count": null
   },
   {
-    "name": "Polijas",
-    "query": "Polijas",
+    "name": "Latviju",
+    "query": "Latviju",
     "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "Poliju",
+    "query": "Poliju",
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Baltkrieviju",
     "query": "Baltkrieviju",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Latviju",
-    "query": "Latviju",
     "rank": 6,
     "tweet_count": null
   },
   {
-    "name": "No 15",
-    "query": "\"No 15\"",
+    "name": "no 15",
+    "query": "\"no 15\"",
     "rank": 7,
-    "tweet_count": "76.8K Tweets"
+    "tweet_count": "78.3K Tweets"
   },
   {
     "name": "jēkabpils",
@@ -48,14 +48,14 @@
     "tweet_count": null
   },
   {
-    "name": "Labdien",
-    "query": "Labdien",
+    "name": "Vāciju",
+    "query": "Vāciju",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Vāciju",
-    "query": "Vāciju",
+    "name": "Eiropu",
+    "query": "Eiropu",
     "rank": 10,
     "tweet_count": null
   },
@@ -63,11 +63,11 @@
     "name": "Belarus",
     "query": "Belarus",
     "rank": 11,
-    "tweet_count": "73.1K Tweets"
+    "tweet_count": "74.9K Tweets"
   },
   {
-    "name": "Eiropu",
-    "query": "Eiropu",
+    "name": "Rīgas",
+    "query": "Rīgas",
     "rank": 12,
     "tweet_count": null
   },
@@ -87,30 +87,30 @@
     "name": "ISIS",
     "query": "ISIS",
     "rank": 15,
-    "tweet_count": "14.4K Tweets"
+    "tweet_count": "15.4K Tweets"
   },
   {
     "name": "Poland",
     "query": "Poland",
     "rank": 16,
-    "tweet_count": "61.8K Tweets"
-  },
-  {
-    "name": "Rīgas",
-    "query": "Rīgas",
-    "rank": 17,
-    "tweet_count": null
+    "tweet_count": "63K Tweets"
   },
   {
     "name": "#covid19lv",
     "query": "#covid19lv",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "katrs",
     "query": "katrs",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Minsku",
+    "query": "Minsku",
+    "rank": 19,
+    "tweet_count": "1,094 Tweets"
   }
 ]
