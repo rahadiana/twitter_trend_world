@@ -12,14 +12,14 @@
     "tweet_count": null
   },
   {
-    "name": "#nrkdebatt",
-    "query": "#nrkdebatt",
+    "name": "Kongsberg",
+    "query": "Kongsberg",
     "rank": 3,
     "tweet_count": null
   },
   {
-    "name": "Kongsberg",
-    "query": "Kongsberg",
+    "name": "#nrkdebatt",
+    "query": "#nrkdebatt",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,7 +27,7 @@
     "name": "Villa",
     "query": "Villa",
     "rank": 5,
-    "tweet_count": "56.7K Tweets"
+    "tweet_count": "58.6K Tweets"
   },
   {
     "name": "#nordicevsummit",
@@ -51,7 +51,7 @@
     "name": "Polen",
     "query": "Polen",
     "rank": 9,
-    "tweet_count": "33.8K Tweets"
+    "tweet_count": "34.5K Tweets"
   },
   {
     "name": "Norges Bank",
@@ -63,19 +63,19 @@
     "name": "Oslo",
     "query": "Oslo",
     "rank": 11,
-    "tweet_count": "7,987 Tweets"
-  },
-  {
-    "name": "Islam",
-    "query": "Islam",
-    "rank": 12,
-    "tweet_count": "69.9K Tweets"
+    "tweet_count": "8,090 Tweets"
   },
   {
     "name": "Jens Stoltenberg",
     "query": "\"Jens Stoltenberg\"",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "Islam",
+    "query": "Islam",
+    "rank": 13,
+    "tweet_count": "71.6K Tweets"
   },
   {
     "name": "hviterussland",
@@ -84,39 +84,39 @@
     "tweet_count": null
   },
   {
-    "name": "Politiet",
-    "query": "Politiet",
-    "rank": 15,
-    "tweet_count": "1,245 Tweets"
-  },
-  {
     "name": "Josimar",
     "query": "Josimar",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "#ehin2021",
     "query": "#ehin2021",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Kåre",
     "query": "Kåre",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "#polkvart",
     "query": "#polkvart",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Qatar",
     "query": "Qatar",
+    "rank": 19,
+    "tweet_count": "19.7K Tweets"
+  },
+  {
+    "name": "Politiet",
+    "query": "Politiet",
     "rank": 20,
-    "tweet_count": "19.3K Tweets"
+    "tweet_count": "1,272 Tweets"
   }
 ]
