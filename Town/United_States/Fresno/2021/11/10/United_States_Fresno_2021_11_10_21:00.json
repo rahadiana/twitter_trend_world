@@ -1,99 +1,99 @@
 [
   {
+    "name": "#USMC",
+    "query": "#USMC",
+    "rank": 1,
+    "tweet_count": "4,123 Tweets"
+  },
+  {
+    "name": "Rivian",
+    "query": "Rivian",
+    "rank": 2,
+    "tweet_count": "12.6K Tweets"
+  },
+  {
     "name": "Palo Alto",
     "query": "\"Palo Alto\"",
-    "rank": 1,
-    "tweet_count": "1,413 Tweets"
+    "rank": 3,
+    "tweet_count": "1,457 Tweets"
+  },
+  {
+    "name": "#ENGvsNZ",
+    "query": "#ENGvsNZ",
+    "rank": 4,
+    "tweet_count": "51.2K Tweets"
   },
   {
     "name": "Notifications",
     "query": "Notifications",
-    "rank": 2,
-    "tweet_count": "80.2K Tweets"
+    "rank": 5,
+    "tweet_count": "80.9K Tweets"
   },
   {
     "name": "#AWE2021",
     "query": "#AWE2021",
-    "rank": 3,
-    "tweet_count": "1,080 Tweets"
+    "rank": 6,
+    "tweet_count": "1,104 Tweets"
   },
   {
     "name": "#RedTaylorsVersion",
     "query": "#RedTaylorsVersion",
-    "rank": 4,
-    "tweet_count": "44K Tweets"
+    "rank": 7,
+    "tweet_count": "44.8K Tweets"
   },
   {
     "name": "McDonalds",
     "query": "McDonalds",
-    "rank": 5,
-    "tweet_count": "39.4K Tweets"
+    "rank": 8,
+    "tweet_count": "40.5K Tweets"
+  },
+  {
+    "name": "Wolf",
+    "query": "Wolf",
+    "rank": 9,
+    "tweet_count": "84.8K Tweets"
   },
   {
     "name": "Caruso",
     "query": "Caruso",
-    "rank": 6,
-    "tweet_count": "8,727 Tweets"
+    "rank": 10,
+    "tweet_count": "8,985 Tweets"
   },
   {
     "name": "#GOPLies",
     "query": "#GOPLies",
-    "rank": 7,
-    "tweet_count": "27.7K Tweets"
-  },
-  {
-    "name": "#PermissionToGo",
-    "query": "#PermissionToGo",
-    "rank": 8,
-    "tweet_count": "33.1K Tweets"
+    "rank": 11,
+    "tweet_count": "28K Tweets"
   },
   {
     "name": "Rittenhouse",
     "query": "Rittenhouse",
-    "rank": 9,
-    "tweet_count": "491K Tweets"
-  },
-  {
-    "name": "#askpunk",
-    "query": "#askpunk",
-    "rank": 10,
-    "tweet_count": "1,201 Tweets"
+    "rank": 12,
+    "tweet_count": "518K Tweets"
   },
   {
     "name": "DSMP",
     "query": "DSMP",
-    "rank": 11,
-    "tweet_count": "19K Tweets"
-  },
-  {
-    "name": "Steam Deck",
-    "query": "\"Steam Deck\"",
-    "rank": 12,
-    "tweet_count": "3,637 Tweets"
-  },
-  {
-    "name": "Veterans Day",
-    "query": "\"Veterans Day\"",
     "rank": 13,
-    "tweet_count": "23.7K Tweets"
-  },
-  {
-    "name": "Evergrande",
-    "query": "Evergrande",
-    "rank": 14,
-    "tweet_count": "31.1K Tweets"
-  },
-  {
-    "name": "COLLEEN",
-    "query": "COLLEEN",
-    "rank": 15,
-    "tweet_count": "6,698 Tweets"
+    "tweet_count": "20.4K Tweets"
   },
   {
     "name": "Toobin",
     "query": "Toobin",
+    "rank": 14,
+    "tweet_count": "5,831 Tweets"
+  },
+  {
+    "name": "Evergrande",
+    "query": "Evergrande",
+    "rank": 15,
+    "tweet_count": "34K Tweets"
+  },
+  {
+    "name": "Veterans Day",
+    "query": "\"Veterans Day\"",
     "rank": 16,
-    "tweet_count": "4,754 Tweets"
+    "tweet_count": "24.5K Tweets"
   },
   {
     "name": "Scott Boras",
@@ -102,15 +102,15 @@
     "tweet_count": null
   },
   {
-    "name": "Jim Gardner",
-    "query": "\"Jim Gardner\"",
+    "name": "Steam Deck",
+    "query": "\"Steam Deck\"",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "3,846 Tweets"
   },
   {
-    "name": "Will and Jada",
-    "query": "\"Will and Jada\"",
+    "name": "Colleen",
+    "query": "Colleen",
     "rank": 19,
-    "tweet_count": "4,843 Tweets"
+    "tweet_count": "6,856 Tweets"
   }
 ]

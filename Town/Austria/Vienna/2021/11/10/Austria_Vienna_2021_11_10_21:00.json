@@ -1,69 +1,69 @@
 [
   {
+    "name": "#zib1",
+    "query": "#zib1",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "#zib2",
+    "query": "#zib2",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
     "name": "#Haslauer",
     "query": "#Haslauer",
-    "rank": 1,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#TVtotal",
     "query": "#TVtotal",
-    "rank": 2,
-    "tweet_count": "8,292 Tweets"
+    "rank": 4,
+    "tweet_count": "8,434 Tweets"
   },
   {
     "name": "Lockdown",
     "query": "Lockdown",
-    "rank": 3,
-    "tweet_count": "57.2K Tweets"
+    "rank": 5,
+    "tweet_count": "58.2K Tweets"
   },
   {
     "name": "#Haberlander",
     "query": "#Haberlander",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "#morgenjournal",
-    "query": "#morgenjournal",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Depression",
-    "query": "Depression",
     "rank": 6,
-    "tweet_count": "58.9K Tweets"
-  },
-  {
-    "name": "#COVID19at",
-    "query": "#COVID19at",
-    "rank": 7,
-    "tweet_count": "1,340 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Virologen",
     "query": "Virologen",
-    "rank": 8,
-    "tweet_count": "1,617 Tweets"
+    "rank": 7,
+    "tweet_count": "1,648 Tweets"
   },
   {
-    "name": "Leitner",
-    "query": "Leitner",
-    "rank": 9,
+    "name": "leitner",
+    "query": "leitner",
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Landeshauptmann",
     "query": "Landeshauptmann",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Gesundheitsminister",
     "query": "Gesundheitsminister",
+    "rank": 10,
+    "tweet_count": "2,084 Tweets"
+  },
+  {
+    "name": "Polen",
+    "query": "Polen",
     "rank": 11,
-    "tweet_count": "2,025 Tweets"
+    "tweet_count": "33.4K Tweets"
   },
   {
     "name": "Landeshauptleute",
@@ -72,51 +72,51 @@
     "tweet_count": null
   },
   {
-    "name": "Polen",
-    "query": "Polen",
+    "name": "Greil",
+    "query": "Greil",
     "rank": 13,
-    "tweet_count": "33K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Nina Proll",
-    "query": "\"Nina Proll\"",
+    "name": "Depression",
+    "query": "Depression",
     "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Mücke",
-    "query": "Mücke",
-    "rank": 15,
-    "tweet_count": null
+    "tweet_count": "60K Tweets"
   },
   {
     "name": "Otto Pendl",
     "query": "\"Otto Pendl\"",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Intensivbetten",
+    "query": "Intensivbetten",
     "rank": 16,
-    "tweet_count": null
+    "tweet_count": "3,484 Tweets"
   },
   {
-    "name": "Greil",
-    "query": "Greil",
+    "name": "Didi",
+    "query": "Didi",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "14.3K Tweets"
   },
   {
-    "name": "Zimmer",
-    "query": "Zimmer",
+    "name": "Mücke",
+    "query": "Mücke",
     "rank": 18,
-    "tweet_count": "4,623 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Prost",
     "query": "Prost",
     "rank": 19,
-    "tweet_count": "1,078 Tweets"
+    "tweet_count": "1,092 Tweets"
   },
   {
-    "name": "Intensivbetten",
-    "query": "Intensivbetten",
+    "name": "Zimmer",
+    "query": "Zimmer",
     "rank": 20,
-    "tweet_count": "3,416 Tweets"
+    "tweet_count": "4,846 Tweets"
   }
 ]
