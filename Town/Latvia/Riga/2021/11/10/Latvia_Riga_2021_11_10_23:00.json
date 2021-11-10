@@ -42,16 +42,16 @@
     "tweet_count": null
   },
   {
-    "name": "Polijai",
-    "query": "Polijai",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "Florida",
     "query": "Florida",
+    "rank": 8,
+    "tweet_count": "113K Tweets"
+  },
+  {
+    "name": "Polijai",
+    "query": "Polijai",
     "rank": 9,
-    "tweet_count": "112K Tweets"
+    "tweet_count": null
   },
   {
     "name": "jāni",
@@ -75,7 +75,7 @@
     "name": "NO 15",
     "query": "\"NO 15\"",
     "rank": 13,
-    "tweet_count": "85.5K Tweets"
+    "tweet_count": "86K Tweets"
   },
   {
     "name": "Rīgas",
@@ -93,13 +93,13 @@
     "name": "ISIS",
     "query": "ISIS",
     "rank": 16,
-    "tweet_count": "21.8K Tweets"
+    "tweet_count": "22K Tweets"
   },
   {
     "name": "Germany",
     "query": "Germany",
     "rank": 17,
-    "tweet_count": "90.2K Tweets"
+    "tweet_count": "90.8K Tweets"
   },
   {
     "name": "Eiropu",
@@ -111,6 +111,6 @@
     "name": "Belarus",
     "query": "Belarus",
     "rank": 19,
-    "tweet_count": "73.9K Tweets"
+    "tweet_count": "74.1K Tweets"
   }
 ]
