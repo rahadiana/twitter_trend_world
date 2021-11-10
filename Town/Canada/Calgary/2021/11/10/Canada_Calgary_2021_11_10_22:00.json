@@ -1,39 +1,39 @@
 [
   {
-    "name": "Harper",
-    "query": "Harper",
-    "rank": 1,
-    "tweet_count": "27.4K Tweets"
-  },
-  {
     "name": "Rittenhouse",
     "query": "Rittenhouse",
-    "rank": 2,
-    "tweet_count": "587K Tweets"
+    "rank": 1,
+    "tweet_count": "600K Tweets"
   },
   {
     "name": "Remembrance Day",
     "query": "\"Remembrance Day\"",
-    "rank": 3,
-    "tweet_count": "13.3K Tweets"
+    "rank": 2,
+    "tweet_count": "13.6K Tweets"
   },
   {
     "name": "Evergrande",
     "query": "Evergrande",
-    "rank": 4,
-    "tweet_count": "43.8K Tweets"
+    "rank": 3,
+    "tweet_count": "44.9K Tweets"
   },
   {
     "name": "DSMP",
     "query": "DSMP",
-    "rank": 5,
-    "tweet_count": "21.9K Tweets"
+    "rank": 4,
+    "tweet_count": "22.3K Tweets"
   },
   {
     "name": "Timbiebs",
     "query": "Timbiebs",
+    "rank": 5,
+    "tweet_count": "8,357 Tweets"
+  },
+  {
+    "name": "Khamzat",
+    "query": "Khamzat",
     "rank": 6,
-    "tweet_count": "8,287 Tweets"
+    "tweet_count": "5,324 Tweets"
   },
   {
     "name": "Annamie Paul",
@@ -45,78 +45,78 @@
     "name": "Girard",
     "query": "Girard",
     "rank": 8,
-    "tweet_count": "1,345 Tweets"
-  },
-  {
-    "name": "Khamzat",
-    "query": "Khamzat",
-    "rank": 9,
-    "tweet_count": "4,976 Tweets"
+    "tweet_count": "1,377 Tweets"
   },
   {
     "name": "#askpunk",
     "query": "#askpunk",
-    "rank": 10,
-    "tweet_count": "1,502 Tweets"
+    "rank": 9,
+    "tweet_count": "1,545 Tweets"
   },
   {
     "name": "Steam Deck",
     "query": "\"Steam Deck\"",
-    "rank": 11,
-    "tweet_count": "4,319 Tweets"
-  },
-  {
-    "name": "Green Party",
-    "query": "\"Green Party\"",
-    "rank": 12,
-    "tweet_count": "3,412 Tweets"
+    "rank": 10,
+    "tweet_count": "4,375 Tweets"
   },
   {
     "name": "Kenosha",
     "query": "Kenosha",
-    "rank": 13,
-    "tweet_count": "46.3K Tweets"
+    "rank": 11,
+    "tweet_count": "47K Tweets"
   },
   {
-    "name": "COLLEEN",
-    "query": "COLLEEN",
-    "rank": 14,
-    "tweet_count": "7,104 Tweets"
+    "name": "Colleen",
+    "query": "Colleen",
+    "rank": 12,
+    "tweet_count": "7,186 Tweets"
   },
   {
     "name": "Paul Rudd",
     "query": "\"Paul Rudd\"",
-    "rank": 15,
-    "tweet_count": "50.7K Tweets"
-  },
-  {
-    "name": "#mbstorm",
-    "query": "#mbstorm",
-    "rank": 16,
-    "tweet_count": null
+    "rank": 13,
+    "tweet_count": "51.3K Tweets"
   },
   {
     "name": "Terry Crews",
     "query": "\"Terry Crews\"",
-    "rank": 17,
-    "tweet_count": "7,713 Tweets"
+    "rank": 14,
+    "tweet_count": "7,869 Tweets"
   },
   {
-    "name": "Greens",
-    "query": "Greens",
-    "rank": 18,
-    "tweet_count": "10.2K Tweets"
-  },
-  {
-    "name": "#ottnews",
-    "query": "#ottnews",
-    "rank": 19,
+    "name": "#mbstorm",
+    "query": "#mbstorm",
+    "rank": 15,
     "tweet_count": null
+  },
+  {
+    "name": "#OttNews",
+    "query": "#OttNews",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Highway 413",
+    "query": "\"Highway 413\"",
+    "rank": 17,
+    "tweet_count": "1,291 Tweets"
   },
   {
     "name": "#wednesdaythought",
     "query": "#wednesdaythought",
+    "rank": 18,
+    "tweet_count": "28.4K Tweets"
+  },
+  {
+    "name": "#RedTaylorsVersion",
+    "query": "#RedTaylorsVersion",
+    "rank": 19,
+    "tweet_count": "48.1K Tweets"
+  },
+  {
+    "name": "Wisconsin",
+    "query": "Wisconsin",
     "rank": 20,
-    "tweet_count": "28.3K Tweets"
+    "tweet_count": "36.8K Tweets"
   }
 ]
