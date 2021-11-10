@@ -1,7 +1,7 @@
 [
   {
-    "name": "georga",
-    "query": "georga",
+    "name": "Georga",
+    "query": "Georga",
     "rank": 1,
     "tweet_count": null
   },
@@ -12,14 +12,14 @@
     "tweet_count": null
   },
   {
-    "name": "Lukašenko",
-    "query": "Lukašenko",
+    "name": "Iesalnieks",
+    "query": "Iesalnieks",
     "rank": 3,
     "tweet_count": null
   },
   {
-    "name": "Iesalnieks",
-    "query": "Iesalnieks",
+    "name": "Lukašenko",
+    "query": "Lukašenko",
     "rank": 4,
     "tweet_count": null
   },
@@ -36,40 +36,40 @@
     "tweet_count": null
   },
   {
-    "name": "Jāni",
-    "query": "Jāni",
-    "rank": 7,
-    "tweet_count": "10.9K Tweets"
-  },
-  {
     "name": "Rīgas",
     "query": "Rīgas",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "Jāni",
+    "query": "Jāni",
     "rank": 8,
+    "tweet_count": "11.1K Tweets"
+  },
+  {
+    "name": "Eiropu",
+    "query": "Eiropu",
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Vāciju",
     "query": "Vāciju",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Eiropu",
-    "query": "Eiropu",
     "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "turies",
-    "query": "turies",
-    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "No 15",
     "query": "\"No 15\"",
+    "rank": 11,
+    "tweet_count": "81.9K Tweets"
+  },
+  {
+    "name": "turies",
+    "query": "turies",
     "rank": 12,
-    "tweet_count": "80.6K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Latviju",
@@ -78,33 +78,39 @@
     "tweet_count": null
   },
   {
-    "name": "ISIS",
-    "query": "ISIS",
-    "rank": 14,
-    "tweet_count": "19.2K Tweets"
-  },
-  {
     "name": "atkal",
     "query": "atkal",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
+  },
+  {
+    "name": "ISIS",
+    "query": "ISIS",
+    "rank": 15,
+    "tweet_count": "19.5K Tweets"
   },
   {
     "name": "Belarus",
     "query": "Belarus",
     "rank": 16,
-    "tweet_count": "71.1K Tweets"
+    "tweet_count": "72K Tweets"
   },
   {
-    "name": "Kādu",
-    "query": "Kādu",
+    "name": "Moderna",
+    "query": "Moderna",
     "rank": 17,
-    "tweet_count": "3,151 Tweets"
+    "tweet_count": "83.5K Tweets"
   },
   {
-    "name": "Briseles",
-    "query": "Briseles",
+    "name": "#Covid19LV",
+    "query": "#Covid19LV",
     "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Parasti",
+    "query": "Parasti",
+    "rank": 19,
     "tweet_count": null
   }
 ]
