@@ -1,15 +1,15 @@
 [
   {
-    "name": "#TPMP",
-    "query": "#TPMP",
-    "rank": 1,
-    "tweet_count": "5,830 Tweets"
-  },
-  {
     "name": "#LFAUIT",
     "query": "#LFAUIT",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#TPMP",
+    "query": "#TPMP",
+    "rank": 2,
+    "tweet_count": "5,891 Tweets"
   },
   {
     "name": "#CatchRAW",
@@ -24,10 +24,10 @@
     "tweet_count": null
   },
   {
-    "name": "#LMvsMonde6",
-    "query": "#LMvsMonde6",
+    "name": "#BurgerQuiz",
+    "query": "#BurgerQuiz",
     "rank": 5,
-    "tweet_count": "1,667 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Jimmy Cabot",
@@ -45,7 +45,7 @@
     "name": "Rochedy",
     "query": "Rochedy",
     "rank": 8,
-    "tweet_count": "1,991 Tweets"
+    "tweet_count": "2,024 Tweets"
   },
   {
     "name": "Yacine Mihoub",
@@ -57,49 +57,49 @@
     "name": "Lacrim",
     "query": "Lacrim",
     "rank": 10,
-    "tweet_count": "2,930 Tweets"
+    "tweet_count": "3,059 Tweets"
   },
   {
     "name": "Bill Gates",
     "query": "\"Bill Gates\"",
     "rank": 11,
-    "tweet_count": "35.4K Tweets"
-  },
-  {
-    "name": "Paga",
-    "query": "Paga",
-    "rank": 12,
-    "tweet_count": "56.5K Tweets"
+    "tweet_count": "35.9K Tweets"
   },
   {
     "name": "Burna",
     "query": "Burna",
+    "rank": 12,
+    "tweet_count": "13.4K Tweets"
+  },
+  {
+    "name": "Paga",
+    "query": "Paga",
     "rank": 13,
-    "tweet_count": "13.2K Tweets"
+    "tweet_count": "57K Tweets"
   },
   {
     "name": "Bruce Toussaint",
     "query": "\"Bruce Toussaint\"",
     "rank": 14,
-    "tweet_count": "7,584 Tweets"
+    "tweet_count": "7,834 Tweets"
   },
   {
     "name": "Kanki",
     "query": "Kanki",
     "rank": 15,
-    "tweet_count": "1,704 Tweets"
+    "tweet_count": "1,723 Tweets"
   },
   {
     "name": "François Hollande",
     "query": "\"François Hollande\"",
     "rank": 16,
-    "tweet_count": "3,396 Tweets"
+    "tweet_count": "3,564 Tweets"
   },
   {
     "name": "Guantanamo",
     "query": "Guantanamo",
     "rank": 17,
-    "tweet_count": "3,408 Tweets"
+    "tweet_count": "3,440 Tweets"
   },
   {
     "name": "Adixia",
@@ -111,12 +111,12 @@
     "name": "Corleone",
     "query": "Corleone",
     "rank": 19,
-    "tweet_count": "2,805 Tweets"
+    "tweet_count": "2,842 Tweets"
   },
   {
     "name": "Didier Raoult",
     "query": "\"Didier Raoult\"",
     "rank": 20,
-    "tweet_count": "10.9K Tweets"
+    "tweet_count": "11.1K Tweets"
   }
 ]
