@@ -1,7 +1,7 @@
 [
   {
-    "name": "bislett",
-    "query": "bislett",
+    "name": "Bislett",
+    "query": "Bislett",
     "rank": 1,
     "tweet_count": null
   },
@@ -27,7 +27,7 @@
     "name": "Polen",
     "query": "Polen",
     "rank": 5,
-    "tweet_count": "33.9K Tweets"
+    "tweet_count": "34.1K Tweets"
   },
   {
     "name": "#nordicevsummit",
@@ -42,22 +42,22 @@
     "tweet_count": null
   },
   {
-    "name": "Bryggen",
-    "query": "Bryggen",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "hviterussland",
     "query": "hviterussland",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Oslo",
     "query": "Oslo",
+    "rank": 9,
+    "tweet_count": "5,903 Tweets"
+  },
+  {
+    "name": "#dax18",
+    "query": "#dax18",
     "rank": 10,
-    "tweet_count": "5,870 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#nrkdebatt",
@@ -66,40 +66,40 @@
     "tweet_count": null
   },
   {
-    "name": "#dax18",
-    "query": "#dax18",
+    "name": "Kyle",
+    "query": "Kyle",
     "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Politiet",
-    "query": "Politiet",
-    "rank": 13,
-    "tweet_count": null
+    "tweet_count": "386K Tweets"
   },
   {
     "name": "#ehin2021",
     "query": "#ehin2021",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
-  },
-  {
-    "name": "Kyle",
-    "query": "Kyle",
-    "rank": 15,
-    "tweet_count": "377K Tweets"
   },
   {
     "name": "Stor",
     "query": "Stor",
+    "rank": 14,
+    "tweet_count": "3,165 Tweets"
+  },
+  {
+    "name": "Politiet",
+    "query": "Politiet",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Bryggen",
+    "query": "Bryggen",
     "rank": 16,
-    "tweet_count": "3,151 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Belarus",
     "query": "Belarus",
     "rank": 17,
-    "tweet_count": "73.5K Tweets"
+    "tweet_count": "74.2K Tweets"
   },
   {
     "name": "Kåre",
@@ -111,6 +111,6 @@
     "name": "Qatar",
     "query": "Qatar",
     "rank": 19,
-    "tweet_count": "18.8K Tweets"
+    "tweet_count": "18.9K Tweets"
   }
 ]
