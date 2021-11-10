@@ -6,40 +6,40 @@
     "tweet_count": "12.3K Tweets"
   },
   {
-    "name": "Panamá",
-    "query": "Panamá",
-    "rank": 2,
-    "tweet_count": "32.8K Tweets"
-  },
-  {
     "name": "Varela",
     "query": "Varela",
-    "rank": 3,
-    "tweet_count": "6,849 Tweets"
+    "rank": 2,
+    "tweet_count": "6,857 Tweets"
   },
   {
     "name": "Balbina",
     "query": "Balbina",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": "1,135 Tweets"
   },
   {
-    "name": "NO CULPABLE",
-    "query": "\"NO CULPABLE\"",
+    "name": "no culpable",
+    "query": "\"no culpable\"",
+    "rank": 4,
+    "tweet_count": "8,092 Tweets"
+  },
+  {
+    "name": "Pinchazos",
+    "query": "Pinchazos",
     "rank": 5,
-    "tweet_count": "8,074 Tweets"
+    "tweet_count": "3,386 Tweets"
   },
   {
-    "name": "pinchazos",
-    "query": "pinchazos",
+    "name": "Sistema Penal Acusatorio",
+    "query": "\"Sistema Penal Acusatorio\"",
     "rank": 6,
-    "tweet_count": "3,381 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "sistema penal acusatorio",
-    "query": "\"sistema penal acusatorio\"",
+    "name": "tribunal de juicio",
+    "query": "\"tribunal de juicio\"",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "1,318 Tweets"
   },
   {
     "name": "plaza ágora",
@@ -48,28 +48,28 @@
     "tweet_count": null
   },
   {
-    "name": "tribunal de juicio",
-    "query": "\"tribunal de juicio\"",
-    "rank": 9,
-    "tweet_count": "1,315 Tweets"
-  },
-  {
     "name": "Picuiro",
     "query": "Picuiro",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "#fullbeis",
     "query": "#fullbeis",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Salón de la Fama",
     "query": "\"Salón de la Fama\"",
+    "rank": 11,
+    "tweet_count": "2,613 Tweets"
+  },
+  {
+    "name": "Panamá Metro",
+    "query": "\"Panamá Metro\"",
     "rank": 12,
-    "tweet_count": "2,611 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#unidoslohacemos",
@@ -78,28 +78,28 @@
     "tweet_count": null
   },
   {
-    "name": "Absuelto",
-    "query": "Absuelto",
+    "name": "absuelto",
+    "query": "absuelto",
     "rank": 14,
-    "tweet_count": "3,394 Tweets"
+    "tweet_count": "3,406 Tweets"
   },
   {
     "name": "Juan Diego",
     "query": "\"Juan Diego\"",
     "rank": 15,
-    "tweet_count": "1,836 Tweets"
+    "tweet_count": "1,839 Tweets"
   },
   {
-    "name": "Chiriquí",
-    "query": "Chiriquí",
+    "name": "Inocente",
+    "query": "Inocente",
     "rank": 16,
-    "tweet_count": "1,038 Tweets"
+    "tweet_count": "16.1K Tweets"
   },
   {
-    "name": "#ÚltimaHora",
-    "query": "#ÚltimaHora",
+    "name": "chiriquí",
+    "query": "chiriquí",
     "rank": 17,
-    "tweet_count": "16.2K Tweets"
+    "tweet_count": "1,038 Tweets"
   },
   {
     "name": "pandeportes",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "Inocente",
-    "query": "Inocente",
+    "name": "Noriega",
+    "query": "Noriega",
     "rank": 19,
-    "tweet_count": "16K Tweets"
+    "tweet_count": "2,306 Tweets"
   },
   {
-    "name": "Camacho",
-    "query": "Camacho",
+    "name": "vernon ramos",
+    "query": "\"vernon ramos\"",
     "rank": 20,
-    "tweet_count": "3,982 Tweets"
+    "tweet_count": null
   }
 ]
