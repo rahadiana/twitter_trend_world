@@ -1,39 +1,39 @@
 [
   {
-    "name": "José Hernández",
-    "query": "\"José Hernández\"",
+    "name": "josé hernández",
+    "query": "\"josé hernández\"",
     "rank": 1,
-    "tweet_count": "2,632 Tweets"
+    "tweet_count": "2,740 Tweets"
   },
   {
     "name": "#diadelatradicion",
     "query": "#diadelatradicion",
     "rank": 2,
-    "tweet_count": "1,186 Tweets"
+    "tweet_count": "1,293 Tweets"
   },
   {
     "name": "#BuenMiercoles",
     "query": "#BuenMiercoles",
     "rank": 3,
-    "tweet_count": "1,701 Tweets"
+    "tweet_count": "1,792 Tweets"
   },
   {
     "name": "Martín Fierro",
     "query": "\"Martín Fierro\"",
     "rank": 4,
-    "tweet_count": "3,990 Tweets"
+    "tweet_count": "4,112 Tweets"
   },
   {
     "name": "#HabraConsecuencias",
     "query": "#HabraConsecuencias",
     "rank": 5,
-    "tweet_count": "3,535 Tweets"
+    "tweet_count": "3,564 Tweets"
   },
   {
     "name": "Sumo",
     "query": "Sumo",
     "rank": 6,
-    "tweet_count": "11.3K Tweets"
+    "tweet_count": "11.5K Tweets"
   },
   {
     "name": "#10DeNoviembre",
@@ -42,63 +42,75 @@
     "tweet_count": null
   },
   {
+    "name": "AFIP",
+    "query": "AFIP",
+    "rank": 8,
+    "tweet_count": "2,090 Tweets"
+  },
+  {
     "name": "Soda",
     "query": "Soda",
-    "rank": 8,
-    "tweet_count": "27.7K Tweets"
+    "rank": 9,
+    "tweet_count": "28.1K Tweets"
   },
   {
     "name": "río Paraná",
     "query": "\"río Paraná\"",
-    "rank": 9,
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "Campana",
+    "query": "Campana",
+    "rank": 11,
+    "tweet_count": "114K Tweets"
+  },
+  {
+    "name": "El 10",
+    "query": "\"El 10\"",
+    "rank": 12,
+    "tweet_count": "187K Tweets"
+  },
+  {
+    "name": "Fecha 22",
+    "query": "\"Fecha 22\"",
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Viva la Patria",
     "query": "\"Viva la Patria\"",
-    "rank": 10,
-    "tweet_count": "3,506 Tweets"
+    "rank": 14,
+    "tweet_count": "3,555 Tweets"
   },
   {
     "name": "Lavagna",
     "query": "Lavagna",
-    "rank": 11,
-    "tweet_count": "1,886 Tweets"
-  },
-  {
-    "name": "Tinelli",
-    "query": "Tinelli",
-    "rank": 12,
-    "tweet_count": "16.9K Tweets"
-  },
-  {
-    "name": "Maldonado",
-    "query": "Maldonado",
-    "rank": 13,
-    "tweet_count": "9,948 Tweets"
+    "rank": 15,
+    "tweet_count": "1,933 Tweets"
   },
   {
     "name": "Guzmán",
     "query": "Guzmán",
-    "rank": 14,
-    "tweet_count": "13.6K Tweets"
+    "rank": 16,
+    "tweet_count": "13.8K Tweets"
+  },
+  {
+    "name": "Maldonado",
+    "query": "Maldonado",
+    "rank": 17,
+    "tweet_count": "10K Tweets"
+  },
+  {
+    "name": "Andes",
+    "query": "Andes",
+    "rank": 18,
+    "tweet_count": "6,397 Tweets"
   },
   {
     "name": "#nadiedicenada",
     "query": "#nadiedicenada",
-    "rank": 15,
+    "rank": 19,
     "tweet_count": null
-  },
-  {
-    "name": "#ElClubDelMoro",
-    "query": "#ElClubDelMoro",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "#Elecciones",
-    "query": "#Elecciones",
-    "rank": 17,
-    "tweet_count": "1,101 Tweets"
   }
 ]

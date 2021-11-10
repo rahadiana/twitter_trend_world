@@ -3,7 +3,7 @@
     "name": "Bąkiewicza",
     "query": "Bąkiewicza",
     "rank": 1,
-    "tweet_count": "1,807 Tweets"
+    "tweet_count": "1,865 Tweets"
   },
   {
     "name": "Róża Thun",
@@ -15,25 +15,25 @@
     "name": "Dmowskiego",
     "query": "Dmowskiego",
     "rank": 3,
-    "tweet_count": "1,323 Tweets"
+    "tweet_count": "1,369 Tweets"
   },
   {
     "name": "Święto Niepodległości",
     "query": "\"Święto Niepodległości\"",
     "rank": 4,
-    "tweet_count": "1,788 Tweets"
-  },
-  {
-    "name": "Warszawy",
-    "query": "Warszawy",
-    "rank": 5,
-    "tweet_count": "3,257 Tweets"
+    "tweet_count": "1,848 Tweets"
   },
   {
     "name": "Trzaskowskiego",
     "query": "Trzaskowskiego",
+    "rank": 5,
+    "tweet_count": "1,738 Tweets"
+  },
+  {
+    "name": "Warszawę",
+    "query": "Warszawę",
     "rank": 6,
-    "tweet_count": "1,698 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#11Listopada",
@@ -42,21 +42,27 @@
     "tweet_count": null
   },
   {
-    "name": "Empik",
-    "query": "Empik",
+    "name": "Empikiem",
+    "query": "Empikiem",
     "rank": 8,
-    "tweet_count": "1,514 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Rosja",
+    "query": "Rosja",
+    "rank": 9,
+    "tweet_count": "3,825 Tweets"
   },
   {
     "name": "Watykan",
     "query": "Watykan",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Ukrainę",
     "query": "Ukrainę",
-    "rank": 10,
-    "tweet_count": "16.8K Tweets"
+    "rank": 11,
+    "tweet_count": "17.1K Tweets"
   }
 ]
