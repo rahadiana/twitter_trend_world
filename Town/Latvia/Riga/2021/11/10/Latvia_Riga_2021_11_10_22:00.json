@@ -1,7 +1,7 @@
 [
   {
-    "name": "#KasNotiekLatvijā",
-    "query": "#KasNotiekLatvijā",
+    "name": "#kasnotieklatvijā",
+    "query": "#kasnotieklatvijā",
     "rank": 1,
     "tweet_count": null
   },
@@ -24,14 +24,14 @@
     "tweet_count": null
   },
   {
-    "name": "Baltkrieviju",
-    "query": "Baltkrieviju",
+    "name": "Iesalnieks",
+    "query": "Iesalnieks",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "iesalnieks",
-    "query": "iesalnieks",
+    "name": "baltkrieviju",
+    "query": "baltkrieviju",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,69 +42,75 @@
     "tweet_count": null
   },
   {
-    "name": "polijai",
-    "query": "polijai",
+    "name": "Polijai",
+    "query": "Polijai",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Jāni",
-    "query": "Jāni",
+    "name": "jāni",
+    "query": "jāni",
     "rank": 9,
     "tweet_count": "11.6K Tweets"
   },
   {
+    "name": "Florida",
+    "query": "Florida",
+    "rank": 10,
+    "tweet_count": "110K Tweets"
+  },
+  {
     "name": "Vāciju",
     "query": "Vāciju",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Rīgas",
     "query": "Rīgas",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "No 15",
-    "query": "\"No 15\"",
-    "rank": 12,
-    "tweet_count": "84.3K Tweets"
+    "name": "Zemessardzē",
+    "query": "Zemessardzē",
+    "rank": 13,
+    "tweet_count": null
   },
   {
-    "name": "ISIS",
-    "query": "ISIS",
-    "rank": 13,
-    "tweet_count": "21.4K Tweets"
+    "name": "NO 15",
+    "query": "\"NO 15\"",
+    "rank": 14,
+    "tweet_count": "85.8K Tweets"
   },
   {
     "name": "atkal",
     "query": "atkal",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "Moderna",
-    "query": "Moderna",
-    "rank": 15,
-    "tweet_count": "81.3K Tweets"
+    "name": "ISIS",
+    "query": "ISIS",
+    "rank": 16,
+    "tweet_count": "21.6K Tweets"
   },
   {
-    "name": "Belarus",
-    "query": "Belarus",
-    "rank": 16,
-    "tweet_count": "72.4K Tweets"
+    "name": "Lietuvā",
+    "query": "Lietuvā",
+    "rank": 17,
+    "tweet_count": null
   },
   {
     "name": "Germany",
     "query": "Germany",
-    "rank": 17,
-    "tweet_count": "87.7K Tweets"
+    "rank": 18,
+    "tweet_count": "89.2K Tweets"
   },
   {
-    "name": "eiropu",
-    "query": "eiropu",
-    "rank": 18,
+    "name": "Eiropu",
+    "query": "Eiropu",
+    "rank": 19,
     "tweet_count": null
   }
 ]

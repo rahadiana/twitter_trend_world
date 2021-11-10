@@ -6,14 +6,14 @@
     "tweet_count": null
   },
   {
-    "name": "Bislett",
-    "query": "Bislett",
+    "name": "norges bank",
+    "query": "\"norges bank\"",
     "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "Norges Bank",
-    "query": "\"Norges Bank\"",
+    "name": "bislett",
+    "query": "bislett",
     "rank": 3,
     "tweet_count": null
   },
@@ -27,7 +27,7 @@
     "name": "Polen",
     "query": "Polen",
     "rank": 5,
-    "tweet_count": "33K Tweets"
+    "tweet_count": "33.2K Tweets"
   },
   {
     "name": "Kongsberg",
@@ -42,44 +42,44 @@
     "tweet_count": null
   },
   {
+    "name": "Oslo",
+    "query": "Oslo",
+    "rank": 8,
+    "tweet_count": "5,332 Tweets"
+  },
+  {
     "name": "#nrkdebatt",
     "query": "#nrkdebatt",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Kyle",
     "query": "Kyle",
-    "rank": 9,
-    "tweet_count": "453K Tweets"
-  },
-  {
-    "name": "Oslo",
-    "query": "Oslo",
     "rank": 10,
-    "tweet_count": "5,271 Tweets"
-  },
-  {
-    "name": "#dax18",
-    "query": "#dax18",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "#T20WorldCup",
-    "query": "#T20WorldCup",
-    "rank": 12,
-    "tweet_count": "88.4K Tweets"
-  },
-  {
-    "name": "Hviterussland",
-    "query": "Hviterussland",
-    "rank": 13,
-    "tweet_count": null
+    "tweet_count": "476K Tweets"
   },
   {
     "name": "#ehin2021",
     "query": "#ehin2021",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "hviterussland",
+    "query": "hviterussland",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "#dax18",
+    "query": "#dax18",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "#polkvart",
+    "query": "#polkvart",
     "rank": 14,
     "tweet_count": null
   },
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
-    "name": "Kåre",
-    "query": "Kåre",
+    "name": "Belarus",
+    "query": "Belarus",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "73.5K Tweets"
   },
   {
-    "name": "Josimar",
-    "query": "Josimar",
+    "name": "kåre",
+    "query": "kåre",
     "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "Bedre",
-    "query": "Bedre",
+    "name": "Qatar",
+    "query": "Qatar",
     "rank": 19,
-    "tweet_count": "1,277 Tweets"
+    "tweet_count": "18.8K Tweets"
   },
   {
-    "name": "Belarus",
-    "query": "Belarus",
+    "name": "Josimar",
+    "query": "Josimar",
     "rank": 20,
-    "tweet_count": "72.5K Tweets"
+    "tweet_count": null
   }
 ]
