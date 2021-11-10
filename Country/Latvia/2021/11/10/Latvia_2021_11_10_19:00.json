@@ -18,14 +18,14 @@
     "tweet_count": null
   },
   {
-    "name": "Baltkrievijas",
-    "query": "Baltkrievijas",
+    "name": "Iesalnieks",
+    "query": "Iesalnieks",
     "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "Iesalnieks",
-    "query": "Iesalnieks",
+    "name": "baltkrievijas",
+    "query": "baltkrievijas",
     "rank": 5,
     "tweet_count": null
   },
@@ -42,16 +42,16 @@
     "tweet_count": null
   },
   {
-    "name": "Jāni",
-    "query": "Jāni",
-    "rank": 8,
-    "tweet_count": "11.5K Tweets"
-  },
-  {
     "name": "Rīgas",
     "query": "Rīgas",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
+  },
+  {
+    "name": "Jāni",
+    "query": "Jāni",
+    "rank": 9,
+    "tweet_count": "11.6K Tweets"
   },
   {
     "name": "Eiropu",
@@ -60,20 +60,20 @@
     "tweet_count": null
   },
   {
-    "name": "no 15",
-    "query": "\"no 15\"",
+    "name": "NO 15",
+    "query": "\"NO 15\"",
     "rank": 11,
-    "tweet_count": "83.8K Tweets"
+    "tweet_count": "85.2K Tweets"
   },
   {
-    "name": "Moderna",
-    "query": "Moderna",
+    "name": "latviju",
+    "query": "latviju",
     "rank": 12,
-    "tweet_count": "82.4K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Latviju",
-    "query": "Latviju",
+    "name": "atkal",
+    "query": "atkal",
     "rank": 13,
     "tweet_count": null
   },
@@ -81,42 +81,42 @@
     "name": "ISIS",
     "query": "ISIS",
     "rank": 14,
-    "tweet_count": "20.7K Tweets"
+    "tweet_count": "21K Tweets"
   },
   {
-    "name": "atkal",
-    "query": "atkal",
+    "name": "Moderna",
+    "query": "Moderna",
     "rank": 15,
-    "tweet_count": null
+    "tweet_count": "83.6K Tweets"
   },
   {
     "name": "Belarus",
     "query": "Belarus",
     "rank": 16,
-    "tweet_count": "71.6K Tweets"
+    "tweet_count": "72.7K Tweets"
   },
   {
-    "name": "Briseles",
-    "query": "Briseles",
+    "name": "briseles",
+    "query": "briseles",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "kādu",
-    "query": "kādu",
+    "name": "Parasti",
+    "query": "Parasti",
     "rank": 18,
-    "tweet_count": "3,143 Tweets"
-  },
-  {
-    "name": "tāda",
-    "query": "tāda",
-    "rank": 19,
-    "tweet_count": "7,303 Tweets"
-  },
-  {
-    "name": "#teirdarbs",
-    "query": "#teirdarbs",
-    "rank": 20,
     "tweet_count": null
+  },
+  {
+    "name": "Kādu",
+    "query": "Kādu",
+    "rank": 19,
+    "tweet_count": "3,165 Tweets"
+  },
+  {
+    "name": "#Crypto",
+    "query": "#Crypto",
+    "rank": 20,
+    "tweet_count": "335K Tweets"
   }
 ]
