@@ -6,16 +6,16 @@
     "tweet_count": null
   },
   {
-    "name": "Polijas",
-    "query": "Polijas",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
     "name": "Lukašenko",
     "query": "Lukašenko",
+    "rank": 2,
+    "tweet_count": "1,093 Tweets"
+  },
+  {
+    "name": "Polijas",
+    "query": "Polijas",
     "rank": 3,
-    "tweet_count": "1,075 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Baltkrieviju",
@@ -33,7 +33,7 @@
     "name": "Belarus",
     "query": "Belarus",
     "rank": 6,
-    "tweet_count": "78.5K Tweets"
+    "tweet_count": "79.2K Tweets"
   },
   {
     "name": "Vāciju",
@@ -48,16 +48,16 @@
     "tweet_count": null
   },
   {
-    "name": "No 15",
-    "query": "\"No 15\"",
-    "rank": 9,
-    "tweet_count": "78.3K Tweets"
-  },
-  {
     "name": "atkal",
     "query": "atkal",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
+  },
+  {
+    "name": "No 15",
+    "query": "\"No 15\"",
+    "rank": 10,
+    "tweet_count": "78.7K Tweets"
   },
   {
     "name": "Labāk",
@@ -84,39 +84,39 @@
     "tweet_count": null
   },
   {
+    "name": "ISIS",
+    "query": "ISIS",
+    "rank": 15,
+    "tweet_count": "13.2K Tweets"
+  },
+  {
     "name": "#Crypto",
     "query": "#Crypto",
-    "rank": 15,
-    "tweet_count": "316K Tweets"
+    "rank": 16,
+    "tweet_count": "323K Tweets"
+  },
+  {
+    "name": "Mani",
+    "query": "Mani",
+    "rank": 17,
+    "tweet_count": "21.3K Tweets"
   },
   {
     "name": "Poland",
     "query": "Poland",
-    "rank": 16,
-    "tweet_count": "71.6K Tweets"
+    "rank": 18,
+    "tweet_count": "72.1K Tweets"
   },
   {
     "name": "#teirdarbs",
     "query": "#teirdarbs",
-    "rank": 17,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Putina",
     "query": "Putina",
-    "rank": 18,
-    "tweet_count": "4,650 Tweets"
-  },
-  {
-    "name": "Priekš",
-    "query": "Priekš",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Nevajag",
-    "query": "Nevajag",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "4,706 Tweets"
   }
 ]
