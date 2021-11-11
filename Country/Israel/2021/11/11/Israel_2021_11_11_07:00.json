@@ -1,13 +1,13 @@
 [
   {
-    "name": "בוקר טוב",
-    "query": "\"בוקר טוב\"",
+    "name": "בוקר אור",
+    "query": "\"בוקר אור\"",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "בוקר אור",
-    "query": "\"בוקר אור\"",
+    "name": "בוקר טוב",
+    "query": "\"בוקר טוב\"",
     "rank": 2,
     "tweet_count": null
   },
@@ -15,13 +15,13 @@
     "name": "רמי לוי",
     "query": "\"רמי לוי\"",
     "rank": 3,
-    "tweet_count": "1,276 Tweets"
+    "tweet_count": "1,288 Tweets"
   },
   {
     "name": "מזל טוב",
     "query": "\"מזל טוב\"",
     "rank": 4,
-    "tweet_count": "1,041 Tweets"
+    "tweet_count": "1,060 Tweets"
   },
   {
     "name": "Kristallnacht",
@@ -30,58 +30,58 @@
     "tweet_count": "14.5K Tweets"
   },
   {
-    "name": "#mfacadets37",
-    "query": "#mfacadets37",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "מנסור עבאס",
-    "query": "\"מנסור עבאס\"",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
     "name": "#finest_invitational",
     "query": "#finest_invitational",
-    "rank": 8,
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "Syria",
     "query": "Syria",
-    "rank": 9,
-    "tweet_count": "15.5K Tweets"
-  },
-  {
-    "name": "#Antisemitism",
-    "query": "#Antisemitism",
-    "rank": 10,
-    "tweet_count": "1,036 Tweets"
-  },
-  {
-    "name": "בן גביר",
-    "query": "\"בן גביר\"",
-    "rank": 11,
-    "tweet_count": null
+    "rank": 7,
+    "tweet_count": "15.6K Tweets"
   },
   {
     "name": "#coronavirus",
     "query": "#coronavirus",
-    "rank": 12,
-    "tweet_count": "16.7K Tweets"
+    "rank": 8,
+    "tweet_count": "17K Tweets"
+  },
+  {
+    "name": "#DeFi",
+    "query": "#DeFi",
+    "rank": 9,
+    "tweet_count": "135K Tweets"
   },
   {
     "name": "למה רק",
     "query": "\"למה רק\"",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "#Antisemitism",
+    "query": "#Antisemitism",
+    "rank": 11,
+    "tweet_count": "1,060 Tweets"
+  },
+  {
+    "name": "London",
+    "query": "London",
+    "rank": 12,
+    "tweet_count": "151K Tweets"
+  },
+  {
+    "name": "#MFACadets37",
+    "query": "#MFACadets37",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "Germany",
-    "query": "Germany",
+    "name": "Apple",
+    "query": "Apple",
     "rank": 14,
-    "tweet_count": "90K Tweets"
+    "tweet_count": "494K Tweets"
   },
   {
     "name": "יום טוב",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
-    "name": "Hezbollah",
-    "query": "Hezbollah",
+    "name": "Queen",
+    "query": "Queen",
     "rank": 16,
-    "tweet_count": "2,266 Tweets"
+    "tweet_count": "270K Tweets"
   },
   {
-    "name": "#FlyAway",
-    "query": "#FlyAway",
+    "name": "Taliban",
+    "query": "Taliban",
     "rank": 17,
-    "tweet_count": "160K Tweets"
+    "tweet_count": "30K Tweets"
   },
   {
-    "name": "Apple",
-    "query": "Apple",
+    "name": "Ronaldo",
+    "query": "Ronaldo",
     "rank": 18,
-    "tweet_count": "488K Tweets"
+    "tweet_count": "47.4K Tweets"
   },
   {
-    "name": "London",
-    "query": "London",
+    "name": "בן גביר",
+    "query": "\"בן גביר\"",
     "rank": 19,
-    "tweet_count": "149K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Belarus",
     "query": "Belarus",
     "rank": 20,
-    "tweet_count": "70.7K Tweets"
+    "tweet_count": "71.6K Tweets"
   }
 ]
