@@ -3,37 +3,37 @@
     "name": "#IRLPOR",
     "query": "#IRLPOR",
     "rank": 1,
-    "tweet_count": "2,734 Tweets"
+    "tweet_count": "2,987 Tweets"
   },
   {
     "name": "Ronaldo",
     "query": "Ronaldo",
     "rank": 2,
-    "tweet_count": "57.9K Tweets"
+    "tweet_count": "58.6K Tweets"
   },
   {
     "name": "Portugal",
     "query": "Portugal",
     "rank": 3,
-    "tweet_count": "51.7K Tweets"
+    "tweet_count": "53K Tweets"
+  },
+  {
+    "name": "Aviva",
+    "query": "Aviva",
+    "rank": 4,
+    "tweet_count": "1,555 Tweets"
   },
   {
     "name": "Liam Brady",
     "query": "\"Liam Brady\"",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Shane Duffy",
     "query": "\"Shane Duffy\"",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Aviva",
-    "query": "Aviva",
     "rank": 6,
-    "tweet_count": "1,517 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Ogbene",
@@ -45,11 +45,11 @@
     "name": "Portuguese",
     "query": "Portuguese",
     "rank": 8,
-    "tweet_count": "7,277 Tweets"
+    "tweet_count": "7,341 Tweets"
   },
   {
-    "name": "Matt Doherty",
-    "query": "\"Matt Doherty\"",
+    "name": "Callum Robinson",
+    "query": "\"Callum Robinson\"",
     "rank": 9,
     "tweet_count": null
   },
@@ -60,15 +60,27 @@
     "tweet_count": null
   },
   {
+    "name": "Matt Doherty",
+    "query": "\"Matt Doherty\"",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
     "name": "#PAKvAUS",
     "query": "#PAKvAUS",
-    "rank": 11,
-    "tweet_count": "285K Tweets"
+    "rank": 12,
+    "tweet_count": "286K Tweets"
   },
   {
     "name": "#RedTaylorsVersion",
     "query": "#RedTaylorsVersion",
-    "rank": 12,
-    "tweet_count": "198K Tweets"
+    "rank": 13,
+    "tweet_count": "201K Tweets"
+  },
+  {
+    "name": "World Cup",
+    "query": "\"World Cup\"",
+    "rank": 14,
+    "tweet_count": "11.8K Tweets"
   }
 ]
