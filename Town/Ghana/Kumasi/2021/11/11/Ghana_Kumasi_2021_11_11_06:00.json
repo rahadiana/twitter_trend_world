@@ -1,27 +1,27 @@
 [
   {
-    "name": "Westbrook",
-    "query": "Westbrook",
-    "rank": 1,
-    "tweet_count": "25K Tweets"
-  },
-  {
     "name": "Wiggins",
     "query": "Wiggins",
-    "rank": 2,
-    "tweet_count": "30.6K Tweets"
+    "rank": 1,
+    "tweet_count": "31.6K Tweets"
   },
   {
     "name": "Lakers",
     "query": "Lakers",
+    "rank": 2,
+    "tweet_count": "85.4K Tweets"
+  },
+  {
+    "name": "Westbrook",
+    "query": "Westbrook",
     "rank": 3,
-    "tweet_count": "82.7K Tweets"
+    "tweet_count": "25.9K Tweets"
   },
   {
     "name": "Russ",
     "query": "Russ",
     "rank": 4,
-    "tweet_count": "28K Tweets"
+    "tweet_count": "28.5K Tweets"
   },
   {
     "name": "#Phobia110",
@@ -30,16 +30,16 @@
     "tweet_count": null
   },
   {
-    "name": "Warriors",
-    "query": "Warriors",
-    "rank": 6,
-    "tweet_count": "70.5K Tweets"
-  },
-  {
     "name": "#ThankGhanaAddress",
     "query": "#ThankGhanaAddress",
+    "rank": 6,
+    "tweet_count": "8,165 Tweets"
+  },
+  {
+    "name": "Warriors",
+    "query": "Warriors",
     "rank": 7,
-    "tweet_count": "8,054 Tweets"
+    "tweet_count": "72.6K Tweets"
   },
   {
     "name": "#puredrive",
@@ -48,14 +48,14 @@
     "tweet_count": "1,255 Tweets"
   },
   {
-    "name": "#kalyjayspace",
-    "query": "#kalyjayspace",
+    "name": "#FormulaOne",
+    "query": "#FormulaOne",
     "rank": 9,
-    "tweet_count": "2,685 Tweets"
+    "tweet_count": "1,380 Tweets"
   },
   {
-    "name": "#askcina",
-    "query": "#askcina",
+    "name": "#RoyalSports",
+    "query": "#RoyalSports",
     "rank": 10,
     "tweet_count": null
   },
@@ -63,60 +63,54 @@
     "name": "King George",
     "query": "\"King George\"",
     "rank": 11,
-    "tweet_count": "1,578 Tweets"
-  },
-  {
-    "name": "Klay",
-    "query": "Klay",
-    "rank": 12,
-    "tweet_count": "8,976 Tweets"
-  },
-  {
-    "name": "Melo",
-    "query": "Melo",
-    "rank": 13,
-    "tweet_count": "32.7K Tweets"
+    "tweet_count": "1,625 Tweets"
   },
   {
     "name": "Latif",
     "query": "Latif",
+    "rank": 12,
+    "tweet_count": "2,576 Tweets"
+  },
+  {
+    "name": "Klay",
+    "query": "Klay",
+    "rank": 13,
+    "tweet_count": "9,156 Tweets"
+  },
+  {
+    "name": "Melo",
+    "query": "Melo",
     "rank": 14,
-    "tweet_count": "2,564 Tweets"
+    "tweet_count": "33K Tweets"
   },
   {
     "name": "Steph",
     "query": "Steph",
     "rank": 15,
-    "tweet_count": "33.3K Tweets"
+    "tweet_count": "33.9K Tweets"
   },
   {
     "name": "peduase valley resort",
     "query": "\"peduase valley resort\"",
     "rank": 16,
-    "tweet_count": null
+    "tweet_count": "1,005 Tweets"
   },
   {
     "name": "John Mahama",
     "query": "\"John Mahama\"",
     "rank": 17,
-    "tweet_count": "5,536 Tweets"
+    "tweet_count": "5,613 Tweets"
   },
   {
     "name": "captain smart",
     "query": "\"captain smart\"",
     "rank": 18,
-    "tweet_count": "1,631 Tweets"
+    "tweet_count": "1,636 Tweets"
   },
   {
     "name": "Queen Elizabeth",
     "query": "\"Queen Elizabeth\"",
     "rank": 19,
-    "tweet_count": "4,599 Tweets"
-  },
-  {
-    "name": "sam george",
-    "query": "\"sam george\"",
-    "rank": 20,
-    "tweet_count": null
+    "tweet_count": "4,644 Tweets"
   }
 ]

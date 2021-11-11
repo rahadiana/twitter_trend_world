@@ -1,21 +1,21 @@
 [
   {
+    "name": "בוקר טוב",
+    "query": "\"בוקר טוב\"",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "בוקר אור",
     "query": "\"בוקר אור\"",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "רמי לוי",
     "query": "\"רמי לוי\"",
-    "rank": 2,
-    "tweet_count": "1,270 Tweets"
-  },
-  {
-    "name": "בוקר טוב",
-    "query": "\"בוקר טוב\"",
     "rank": 3,
-    "tweet_count": null
+    "tweet_count": "1,281 Tweets"
   },
   {
     "name": "מזל טוב הגר",
@@ -27,7 +27,7 @@
     "name": "Kristallnacht",
     "query": "Kristallnacht",
     "rank": 5,
-    "tweet_count": "15K Tweets"
+    "tweet_count": "15.1K Tweets"
   },
   {
     "name": "#mfacadets37",
@@ -36,87 +36,87 @@
     "tweet_count": null
   },
   {
+    "name": "מנסור עבאס",
+    "query": "\"מנסור עבאס\"",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
     "name": "#finest_invitational",
     "query": "#finest_invitational",
-    "rank": 7,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Syria",
     "query": "Syria",
-    "rank": 8,
-    "tweet_count": "15.7K Tweets"
-  },
-  {
-    "name": "London",
-    "query": "London",
     "rank": 9,
-    "tweet_count": "152K Tweets"
-  },
-  {
-    "name": "#coronavirus",
-    "query": "#coronavirus",
-    "rank": 10,
-    "tweet_count": "16.9K Tweets"
-  },
-  {
-    "name": "#DeFi",
-    "query": "#DeFi",
-    "rank": 11,
-    "tweet_count": "136K Tweets"
-  },
-  {
-    "name": "למה רק",
-    "query": "\"למה רק\"",
-    "rank": 12,
-    "tweet_count": null
+    "tweet_count": "15.9K Tweets"
   },
   {
     "name": "#Antisemitism",
     "query": "#Antisemitism",
-    "rank": 13,
-    "tweet_count": "1,075 Tweets"
+    "rank": 10,
+    "tweet_count": "1,081 Tweets"
   },
   {
-    "name": "Apple",
-    "query": "Apple",
-    "rank": 14,
-    "tweet_count": "496K Tweets"
-  },
-  {
-    "name": "Hezbollah",
-    "query": "Hezbollah",
-    "rank": 15,
-    "tweet_count": "2,303 Tweets"
-  },
-  {
-    "name": "Queen",
-    "query": "Queen",
-    "rank": 16,
-    "tweet_count": "270K Tweets"
-  },
-  {
-    "name": "Taliban",
-    "query": "Taliban",
-    "rank": 17,
-    "tweet_count": "29.8K Tweets"
-  },
-  {
-    "name": "Ronaldo",
-    "query": "Ronaldo",
-    "rank": 18,
-    "tweet_count": "47.7K Tweets"
+    "name": "London",
+    "query": "London",
+    "rank": 11,
+    "tweet_count": "153K Tweets"
   },
   {
     "name": "בן גביר",
     "query": "\"בן גביר\"",
-    "rank": 19,
+    "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "Belarus",
-    "query": "Belarus",
+    "name": "#coronavirus",
+    "query": "#coronavirus",
+    "rank": 13,
+    "tweet_count": "17.1K Tweets"
+  },
+  {
+    "name": "למה רק",
+    "query": "\"למה רק\"",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Germany",
+    "query": "Germany",
+    "rank": 15,
+    "tweet_count": "92K Tweets"
+  },
+  {
+    "name": "יום טוב",
+    "query": "\"יום טוב\"",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Congress",
+    "query": "Congress",
+    "rank": 17,
+    "tweet_count": "204K Tweets"
+  },
+  {
+    "name": "Hezbollah",
+    "query": "Hezbollah",
+    "rank": 18,
+    "tweet_count": "2,316 Tweets"
+  },
+  {
+    "name": "#FlyAway",
+    "query": "#FlyAway",
+    "rank": 19,
+    "tweet_count": "163K Tweets"
+  },
+  {
+    "name": "Apple",
+    "query": "Apple",
     "rank": 20,
-    "tweet_count": "72.6K Tweets"
+    "tweet_count": "501K Tweets"
   }
 ]
