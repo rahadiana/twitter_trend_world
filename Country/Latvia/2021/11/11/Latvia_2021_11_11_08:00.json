@@ -12,20 +12,20 @@
     "tweet_count": null
   },
   {
-    "name": "#kasnotieklatvijā",
-    "query": "#kasnotieklatvijā",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
     "name": "Satversmes",
     "query": "Satversmes",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Georga",
     "query": "Georga",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "#KasNotiekLatvijā",
+    "query": "#KasNotiekLatvijā",
     "rank": 5,
     "tweet_count": null
   },
@@ -42,34 +42,34 @@
     "tweet_count": null
   },
   {
+    "name": "Valsts",
+    "query": "Valsts",
+    "rank": 8,
+    "tweet_count": "1,233 Tweets"
+  },
+  {
     "name": "Lukašenko",
     "query": "Lukašenko",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Baltkrievijas",
     "query": "Baltkrievijas",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "mārtiņš freimanis",
     "query": "\"mārtiņš freimanis\"",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Zemessardzē",
     "query": "Zemessardzē",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Valsts",
-    "query": "Valsts",
     "rank": 12,
-    "tweet_count": "1,201 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Poliju",
@@ -87,7 +87,7 @@
     "name": "Belarus",
     "query": "Belarus",
     "rank": 15,
-    "tweet_count": "71.3K Tweets"
+    "tweet_count": "72.2K Tweets"
   },
   {
     "name": "latviešu",
@@ -96,8 +96,8 @@
     "tweet_count": null
   },
   {
-    "name": "Lietuva",
-    "query": "Lietuva",
+    "name": "lietuva",
+    "query": "lietuva",
     "rank": 17,
     "tweet_count": null
   },
@@ -111,7 +111,7 @@
     "name": "Germany",
     "query": "Germany",
     "rank": 19,
-    "tweet_count": "91.7K Tweets"
+    "tweet_count": "92.9K Tweets"
   },
   {
     "name": "Brīvības",
