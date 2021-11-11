@@ -1,39 +1,39 @@
 [
   {
-    "name": "Veterans Day",
-    "query": "\"Veterans Day\"",
+    "name": "#VeteransDay",
+    "query": "#VeteransDay",
     "rank": 1,
-    "tweet_count": "77.8K Tweets"
+    "tweet_count": "42.7K Tweets"
   },
   {
     "name": "#ThursdayMotivation",
     "query": "#ThursdayMotivation",
     "rank": 2,
-    "tweet_count": "9,279 Tweets"
+    "tweet_count": "9,946 Tweets"
   },
   {
     "name": "#FreeKyleRittennhouse",
     "query": "#FreeKyleRittennhouse",
     "rank": 3,
-    "tweet_count": "2,982 Tweets"
-  },
-  {
-    "name": "#ThursdayThoughts",
-    "query": "#ThursdayThoughts",
-    "rank": 4,
-    "tweet_count": "17.4K Tweets"
+    "tweet_count": "3,561 Tweets"
   },
   {
     "name": "FW de Klerk",
     "query": "\"FW de Klerk\"",
-    "rank": 5,
-    "tweet_count": "43.5K Tweets"
+    "rank": 4,
+    "tweet_count": "49K Tweets"
   },
   {
-    "name": "Lakers",
-    "query": "Lakers",
+    "name": "LeBron",
+    "query": "LeBron",
+    "rank": 5,
+    "tweet_count": "44.3K Tweets"
+  },
+  {
+    "name": "#ImAuditioningForARoleAs",
+    "query": "#ImAuditioningForARoleAs",
     "rank": 6,
-    "tweet_count": "94.1K Tweets"
+    "tweet_count": null
   },
   {
     "name": "St. Martin of Tours",
@@ -48,63 +48,69 @@
     "tweet_count": null
   },
   {
-    "name": "Steven Gerrard",
-    "query": "\"Steven Gerrard\"",
-    "rank": 9,
-    "tweet_count": "76.3K Tweets"
-  },
-  {
     "name": "Lindsey",
     "query": "Lindsey",
+    "rank": 9,
+    "tweet_count": "9,004 Tweets"
+  },
+  {
+    "name": "Steven Gerrard",
+    "query": "\"Steven Gerrard\"",
     "rank": 10,
-    "tweet_count": "8,374 Tweets"
-  },
-  {
-    "name": "#GratitudeMission",
-    "query": "#GratitudeMission",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Jiminie",
-    "query": "Jiminie",
-    "rank": 12,
-    "tweet_count": "18.7K Tweets"
-  },
-  {
-    "name": "God Bless the USA",
-    "query": "\"God Bless the USA\"",
-    "rank": 13,
-    "tweet_count": "11.1K Tweets"
-  },
-  {
-    "name": "Debra",
-    "query": "Debra",
-    "rank": 14,
-    "tweet_count": "4,176 Tweets"
-  },
-  {
-    "name": "Skyrim",
-    "query": "Skyrim",
-    "rank": 15,
-    "tweet_count": "23.7K Tweets"
+    "tweet_count": "80.1K Tweets"
   },
   {
     "name": "Memorial Day",
     "query": "\"Memorial Day\"",
+    "rank": 11,
+    "tweet_count": "5,332 Tweets"
+  },
+  {
+    "name": "Debra",
+    "query": "Debra",
+    "rank": 12,
+    "tweet_count": "4,317 Tweets"
+  },
+  {
+    "name": "Skyrim",
+    "query": "Skyrim",
+    "rank": 13,
+    "tweet_count": "24.5K Tweets"
+  },
+  {
+    "name": "God Bless the USA",
+    "query": "\"God Bless the USA\"",
+    "rank": 14,
+    "tweet_count": "11.4K Tweets"
+  },
+  {
+    "name": "Gerrard",
+    "query": "Gerrard",
+    "rank": 15,
+    "tweet_count": "121K Tweets"
+  },
+  {
+    "name": "Westbrook",
+    "query": "Westbrook",
     "rank": 16,
-    "tweet_count": "5,087 Tweets"
+    "tweet_count": "29.9K Tweets"
   },
   {
-    "name": "Wiggins",
-    "query": "Wiggins",
+    "name": "Jiminie",
+    "query": "Jiminie",
     "rank": 17,
-    "tweet_count": "38.2K Tweets"
+    "tweet_count": "19.6K Tweets"
   },
   {
-    "name": "Lowtax",
-    "query": "Lowtax",
+    "name": "Land of the Free",
+    "query": "\"Land of the Free\"",
     "rank": 18,
-    "tweet_count": "14.3K Tweets"
+    "tweet_count": "2,522 Tweets"
+  },
+  {
+    "name": "Censure",
+    "query": "Censure",
+    "rank": 19,
+    "tweet_count": "19.6K Tweets"
   }
 ]
