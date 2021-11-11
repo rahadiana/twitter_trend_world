@@ -1,7 +1,7 @@
 [
   {
-    "name": "#Haslauer",
-    "query": "#Haslauer",
+    "name": "#haslauer",
+    "query": "#haslauer",
     "rank": 1,
     "tweet_count": null
   },
@@ -9,37 +9,37 @@
     "name": "Lockdown",
     "query": "Lockdown",
     "rank": 2,
-    "tweet_count": "66.1K Tweets"
+    "tweet_count": "69.4K Tweets"
   },
   {
     "name": "#TVtotal",
     "query": "#TVtotal",
     "rank": 3,
-    "tweet_count": "9,506 Tweets"
+    "tweet_count": "9,529 Tweets"
   },
   {
-    "name": "#mueckstein",
-    "query": "#mueckstein",
+    "name": "Fellner",
+    "query": "Fellner",
     "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "#Covid19at",
-    "query": "#Covid19at",
+    "name": "#mueckstein",
+    "query": "#mueckstein",
     "rank": 5,
-    "tweet_count": "1,331 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "#COVID19at",
+    "query": "#COVID19at",
+    "rank": 6,
+    "tweet_count": "1,354 Tweets"
   },
   {
     "name": "Köstinger",
     "query": "Köstinger",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "Solidarität",
-    "query": "Solidarität",
     "rank": 7,
-    "tweet_count": "2,979 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Lopatka",
@@ -51,31 +51,31 @@
     "name": "Gesundheitsminister",
     "query": "Gesundheitsminister",
     "rank": 9,
-    "tweet_count": "2,573 Tweets"
-  },
-  {
-    "name": "Virologen",
-    "query": "Virologen",
-    "rank": 10,
-    "tweet_count": "2,048 Tweets"
+    "tweet_count": "2,609 Tweets"
   },
   {
     "name": "Plunder",
     "query": "Plunder",
+    "rank": 10,
+    "tweet_count": "1,818 Tweets"
+  },
+  {
+    "name": "Virologen",
+    "query": "Virologen",
     "rank": 11,
-    "tweet_count": "1,772 Tweets"
+    "tweet_count": "2,095 Tweets"
   },
   {
-    "name": "#Salzburg",
-    "query": "#Salzburg",
+    "name": "Schallenberg",
+    "query": "Schallenberg",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "1,646 Tweets"
   },
   {
-    "name": "Landeshauptmann",
-    "query": "Landeshauptmann",
+    "name": "#impfpflichtjetzt",
+    "query": "#impfpflichtjetzt",
     "rank": 13,
-    "tweet_count": "1,235 Tweets"
+    "tweet_count": "1,697 Tweets"
   },
   {
     "name": "greil",
@@ -84,10 +84,10 @@
     "tweet_count": null
   },
   {
-    "name": "Faschingsbeginn",
-    "query": "Faschingsbeginn",
+    "name": "Fasching",
+    "query": "Fasching",
     "rank": 15,
-    "tweet_count": null
+    "tweet_count": "1,122 Tweets"
   },
   {
     "name": "Mitterlehner",
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
-    "name": "Nebel",
-    "query": "Nebel",
+    "name": "Landeshauptmann",
+    "query": "Landeshauptmann",
     "rank": 17,
-    "tweet_count": "1,646 Tweets"
+    "tweet_count": "1,267 Tweets"
+  },
+  {
+    "name": "Landeshauptleute",
+    "query": "Landeshauptleute",
+    "rank": 18,
+    "tweet_count": null
   },
   {
     "name": "Depression",
     "query": "Depression",
-    "rank": 18,
-    "tweet_count": "67.2K Tweets"
-  },
-  {
-    "name": "Gipfel",
-    "query": "Gipfel",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "69.1K Tweets"
   },
   {
-    "name": "Neuinfektionen",
-    "query": "Neuinfektionen",
+    "name": "Nebel",
+    "query": "Nebel",
     "rank": 20,
-    "tweet_count": "11.4K Tweets"
+    "tweet_count": "1,677 Tweets"
   }
 ]

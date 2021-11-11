@@ -1,37 +1,37 @@
 [
   {
-    "name": "#boosterprik",
-    "query": "#boosterprik",
-    "rank": 1,
-    "tweet_count": "4,351 Tweets"
-  },
-  {
     "name": "#lockdown",
     "query": "#lockdown",
+    "rank": 1,
+    "tweet_count": "12.9K Tweets"
+  },
+  {
+    "name": "Het OMT",
+    "query": "\"Het OMT\"",
     "rank": 2,
-    "tweet_count": "11.9K Tweets"
+    "tweet_count": "10.2K Tweets"
   },
   {
     "name": "#2GRegel",
     "query": "#2GRegel",
     "rank": 3,
-    "tweet_count": "2,154 Tweets"
-  },
-  {
-    "name": "Het OMT",
-    "query": "\"Het OMT\"",
-    "rank": 4,
-    "tweet_count": "9,424 Tweets"
+    "tweet_count": "2,253 Tweets"
   },
   {
     "name": "Sint Maarten",
     "query": "\"Sint Maarten\"",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "Arjen",
+    "query": "Arjen",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "#Deltacongres",
-    "query": "#Deltacongres",
+    "name": "#deltacongres",
+    "query": "#deltacongres",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,32 +42,32 @@
     "tweet_count": null
   },
   {
-    "name": "Arjen",
-    "query": "Arjen",
+    "name": "#elfdevandeelfde",
+    "query": "#elfdevandeelfde",
     "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "OMT-advies",
+    "query": "OMT-advies",
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Aston Villa",
     "query": "\"Aston Villa\"",
-    "rank": 9,
-    "tweet_count": "67.2K Tweets"
-  },
-  {
-    "name": "OMT-advies",
-    "query": "OMT-advies",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "73K Tweets"
   },
   {
     "name": "Sammie",
     "query": "Sammie",
     "rank": 11,
-    "tweet_count": "13K Tweets"
+    "tweet_count": "13.2K Tweets"
   },
   {
-    "name": "van lienden",
-    "query": "\"van lienden\"",
+    "name": "Van Lienden",
+    "query": "\"Van Lienden\"",
     "rank": 12,
     "tweet_count": null
   },
@@ -75,17 +75,17 @@
     "name": "Brabant",
     "query": "Brabant",
     "rank": 13,
-    "tweet_count": "1,061 Tweets"
+    "tweet_count": "1,116 Tweets"
   },
   {
-    "name": "#SinglesDay",
-    "query": "#SinglesDay",
+    "name": "#carnaval",
+    "query": "#carnaval",
     "rank": 14,
-    "tweet_count": "5,025 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#MarsMetDeMoeders",
-    "query": "#MarsMetDeMoeders",
+    "name": "#marsmetdemoeders",
+    "query": "#marsmetdemoeders",
     "rank": 15,
     "tweet_count": null
   },
@@ -96,20 +96,20 @@
     "tweet_count": null
   },
   {
-    "name": "#carnaval",
-    "query": "#carnaval",
+    "name": "#SinglesDay",
+    "query": "#SinglesDay",
     "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "#elfdevandeelfde",
-    "query": "#elfdevandeelfde",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "5,483 Tweets"
   },
   {
     "name": "#kabinet",
     "query": "#kabinet",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "#horeca",
+    "query": "#horeca",
     "rank": 19,
     "tweet_count": null
   }
