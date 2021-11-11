@@ -1,27 +1,27 @@
 [
   {
-    "name": "#Wapenstilstand",
-    "query": "#Wapenstilstand",
+    "name": "#wapenstilstand",
+    "query": "#wapenstilstand",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "#armisticeday",
-    "query": "#armisticeday",
-    "rank": 2,
-    "tweet_count": "8,759 Tweets"
-  },
-  {
     "name": "#11Novembre",
     "query": "#11Novembre",
+    "rank": 2,
+    "tweet_count": "11.5K Tweets"
+  },
+  {
+    "name": "#armisticeday",
+    "query": "#armisticeday",
     "rank": 3,
-    "tweet_count": "10.9K Tweets"
+    "tweet_count": "9,247 Tweets"
   },
   {
     "name": "#LestWeForget",
     "query": "#LestWeForget",
     "rank": 4,
-    "tweet_count": "29.5K Tweets"
+    "tweet_count": "30.3K Tweets"
   },
   {
     "name": "Vilvoorde",
@@ -30,64 +30,64 @@
     "tweet_count": null
   },
   {
-    "name": "#RemembranceDay",
-    "query": "#RemembranceDay",
+    "name": "#deafspraak",
+    "query": "#deafspraak",
     "rank": 6,
-    "tweet_count": "26K Tweets"
-  },
-  {
-    "name": "Goeiemorgen",
-    "query": "Goeiemorgen",
-    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Demir",
     "query": "Demir",
+    "rank": 7,
+    "tweet_count": "11.9K Tweets"
+  },
+  {
+    "name": "Goedemorgen",
+    "query": "Goedemorgen",
     "rank": 8,
-    "tweet_count": "11.8K Tweets"
+    "tweet_count": "6,527 Tweets"
   },
   {
     "name": "Groen",
     "query": "Groen",
     "rank": 9,
-    "tweet_count": "7,196 Tweets"
+    "tweet_count": "7,243 Tweets"
+  },
+  {
+    "name": "Engie",
+    "query": "Engie",
+    "rank": 10,
+    "tweet_count": "1,104 Tweets"
   },
   {
     "name": "Test Aankoop",
     "query": "\"Test Aankoop\"",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Vivaldi",
     "query": "Vivaldi",
-    "rank": 11,
-    "tweet_count": "2,071 Tweets"
+    "rank": 12,
+    "tweet_count": "2,090 Tweets"
   },
   {
     "name": "Bestaat",
     "query": "Bestaat",
-    "rank": 12,
-    "tweet_count": "1,951 Tweets"
-  },
-  {
-    "name": "Engie",
-    "query": "Engie",
     "rank": 13,
-    "tweet_count": "1,098 Tweets"
-  },
-  {
-    "name": "N-VA",
-    "query": "N-VA",
-    "rank": 14,
-    "tweet_count": null
+    "tweet_count": "1,970 Tweets"
   },
   {
     "name": "Arctic",
     "query": "Arctic",
+    "rank": 14,
+    "tweet_count": "8,527 Tweets"
+  },
+  {
+    "name": "N-VA",
+    "query": "N-VA",
     "rank": 15,
-    "tweet_count": "8,492 Tweets"
+    "tweet_count": null
   },
   {
     "name": "hans bonte",
@@ -96,10 +96,10 @@
     "tweet_count": null
   },
   {
-    "name": "Nami",
-    "query": "Nami",
+    "name": "Geert",
+    "query": "Geert",
     "rank": 17,
-    "tweet_count": "46.4K Tweets"
+    "tweet_count": "1,381 Tweets"
   },
   {
     "name": "De Wever",
@@ -117,6 +117,6 @@
     "name": "Wit-Rusland",
     "query": "Wit-Rusland",
     "rank": 20,
-    "tweet_count": "1,414 Tweets"
+    "tweet_count": "1,418 Tweets"
   }
 ]
