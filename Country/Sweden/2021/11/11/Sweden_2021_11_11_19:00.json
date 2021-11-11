@@ -1,39 +1,39 @@
 [
   {
-    "name": "Georgien",
-    "query": "Georgien",
-    "rank": 1,
-    "tweet_count": "1,086 Tweets"
-  },
-  {
     "name": "Zlatan",
     "query": "Zlatan",
+    "rank": 1,
+    "tweet_count": "6,639 Tweets"
+  },
+  {
+    "name": "Georgien",
+    "query": "Georgien",
     "rank": 2,
-    "tweet_count": "6,506 Tweets"
+    "tweet_count": "1,113 Tweets"
   },
   {
     "name": "Spanien",
     "query": "Spanien",
     "rank": 3,
-    "tweet_count": "1,368 Tweets"
+    "tweet_count": "1,394 Tweets"
   },
   {
     "name": "Qatar",
     "query": "Qatar",
     "rank": 4,
-    "tweet_count": "41K Tweets"
+    "tweet_count": "41.4K Tweets"
   },
   {
     "name": "Isak",
     "query": "Isak",
     "rank": 5,
-    "tweet_count": "3,014 Tweets"
+    "tweet_count": "3,053 Tweets"
   },
   {
     "name": "Janne",
     "query": "Janne",
     "rank": 6,
-    "tweet_count": "2,990 Tweets"
+    "tweet_count": "3,004 Tweets"
   },
   {
     "name": "#GEOSWE",
@@ -42,14 +42,14 @@
     "tweet_count": null
   },
   {
-    "name": "Lindelöf",
-    "query": "Lindelöf",
+    "name": "Grekland",
+    "query": "Grekland",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Grekland",
-    "query": "Grekland",
+    "name": "Lindelöf",
+    "query": "Lindelöf",
     "rank": 9,
     "tweet_count": null
   },
@@ -60,45 +60,63 @@
     "tweet_count": null
   },
   {
-    "name": "kulusevski",
-    "query": "kulusevski",
+    "name": "Kulusevski",
+    "query": "Kulusevski",
     "rank": 11,
-    "tweet_count": "1,156 Tweets"
+    "tweet_count": "1,174 Tweets"
+  },
+  {
+    "name": "Ygeman",
+    "query": "Ygeman",
+    "rank": 12,
+    "tweet_count": "1,414 Tweets"
   },
   {
     "name": "Kristoffer Olsson",
     "query": "\"Kristoffer Olsson\"",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Claesson",
     "query": "Claesson",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
+  },
+  {
+    "name": "Belarus",
+    "query": "Belarus",
+    "rank": 15,
+    "tweet_count": "67.4K Tweets"
+  },
+  {
+    "name": "Polen",
+    "query": "Polen",
+    "rank": 16,
+    "tweet_count": "21.9K Tweets"
   },
   {
     "name": "Dejan",
     "query": "Dejan",
-    "rank": 14,
-    "tweet_count": "37.6K Tweets"
+    "rank": 17,
+    "tweet_count": "38K Tweets"
   },
   {
-    "name": "Ygeman",
-    "query": "Ygeman",
-    "rank": 15,
-    "tweet_count": "1,391 Tweets"
+    "name": "#fotboll",
+    "query": "#fotboll",
+    "rank": 18,
+    "tweet_count": null
   },
   {
     "name": "Minsk",
     "query": "Minsk",
-    "rank": 16,
-    "tweet_count": "9,385 Tweets"
+    "rank": 19,
+    "tweet_count": "9,486 Tweets"
   },
   {
-    "name": "Vänsterpartiet",
-    "query": "Vänsterpartiet",
-    "rank": 17,
+    "name": "Åke Unger",
+    "query": "\"Åke Unger\"",
+    "rank": 20,
     "tweet_count": null
   }
 ]
