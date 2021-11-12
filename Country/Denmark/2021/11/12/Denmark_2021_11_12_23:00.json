@@ -1,19 +1,19 @@
 [
   {
-    "name": "#DENFAR",
-    "query": "#DENFAR",
+    "name": "#denfar",
+    "query": "#denfar",
     "rank": 1,
-    "tweet_count": null
-  },
-  {
-    "name": "#ForDanmark",
-    "query": "#ForDanmark",
-    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "færøerne",
     "query": "færøerne",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "#ForDanmark",
+    "query": "#ForDanmark",
     "rank": 3,
     "tweet_count": null
   },
@@ -21,7 +21,7 @@
     "name": "Britney",
     "query": "Britney",
     "rank": 4,
-    "tweet_count": "258K Tweets"
+    "tweet_count": "298K Tweets"
   },
   {
     "name": "Schmeichel",
@@ -42,28 +42,28 @@
     "tweet_count": null
   },
   {
-    "name": "Dani Alves",
-    "query": "\"Dani Alves\"",
-    "rank": 8,
-    "tweet_count": "96.3K Tweets"
-  },
-  {
-    "name": "lindstrøm",
-    "query": "lindstrøm",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
     "name": "#Besserwisserne",
     "query": "#Besserwisserne",
-    "rank": 10,
+    "rank": 8,
     "tweet_count": null
+  },
+  {
+    "name": "Dani Alves",
+    "query": "\"Dani Alves\"",
+    "rank": 9,
+    "tweet_count": "98.8K Tweets"
   },
   {
     "name": "#RedTaylorsVersion",
     "query": "#RedTaylorsVersion",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": "1.04M Tweets"
+  },
+  {
+    "name": "lindstrøm",
+    "query": "lindstrøm",
+    "rank": 11,
+    "tweet_count": null
   },
   {
     "name": "Mogens Jensen",
@@ -72,8 +72,8 @@
     "tweet_count": null
   },
   {
-    "name": "daramy",
-    "query": "daramy",
+    "name": "Daramy",
+    "query": "Daramy",
     "rank": 13,
     "tweet_count": null
   },
@@ -81,7 +81,7 @@
     "name": "Grand",
     "query": "Grand",
     "rank": 14,
-    "tweet_count": "230K Tweets"
+    "tweet_count": "236K Tweets"
   },
   {
     "name": "Morten Olsen",
@@ -90,32 +90,32 @@
     "tweet_count": null
   },
   {
+    "name": "Omar",
+    "query": "Omar",
+    "rank": 16,
+    "tweet_count": "69.8K Tweets"
+  },
+  {
     "name": "Rittenhouse",
     "query": "Rittenhouse",
-    "rank": 16,
-    "tweet_count": "499K Tweets"
+    "rank": 17,
+    "tweet_count": "505K Tweets"
   },
   {
     "name": "Singh",
     "query": "Singh",
-    "rank": 17,
-    "tweet_count": "111K Tweets"
-  },
-  {
-    "name": "Lynetteholmen",
-    "query": "Lynetteholmen",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "112K Tweets"
   },
   {
     "name": "Albedo",
     "query": "Albedo",
     "rank": 19,
-    "tweet_count": "284K Tweets"
+    "tweet_count": "289K Tweets"
   },
   {
-    "name": "Østrig",
-    "query": "Østrig",
+    "name": "Lynetteholmen",
+    "query": "Lynetteholmen",
     "rank": 20,
     "tweet_count": null
   }
