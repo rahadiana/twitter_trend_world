@@ -1,21 +1,21 @@
 [
   {
-    "name": "#MyLeagueLook",
-    "query": "#MyLeagueLook",
-    "rank": 1,
-    "tweet_count": "6,735 Tweets"
-  },
-  {
     "name": "#Mattscheibe",
     "query": "#Mattscheibe",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#MyLeagueLook",
+    "query": "#MyLeagueLook",
+    "rank": 2,
+    "tweet_count": "7,234 Tweets"
   },
   {
     "name": "#2GPlus",
     "query": "#2GPlus",
     "rank": 3,
-    "tweet_count": "4,429 Tweets"
+    "tweet_count": "4,495 Tweets"
   },
   {
     "name": "Echte Männer",
@@ -36,14 +36,14 @@
     "tweet_count": null
   },
   {
-    "name": "nadine",
-    "query": "nadine",
-    "rank": 7,
-    "tweet_count": "29.6K Tweets"
-  },
-  {
     "name": "Handschrift",
     "query": "Handschrift",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "Allergien",
+    "query": "Allergien",
     "rank": 8,
     "tweet_count": null
   },
@@ -51,11 +51,11 @@
     "name": "Itto",
     "query": "Itto",
     "rank": 9,
-    "tweet_count": "114K Tweets"
+    "tweet_count": "115K Tweets"
   },
   {
-    "name": "Allergien",
-    "query": "Allergien",
+    "name": "Glühwein",
+    "query": "Glühwein",
     "rank": 10,
     "tweet_count": null
   },
@@ -63,37 +63,37 @@
     "name": "Innovation",
     "query": "Innovation",
     "rank": 11,
-    "tweet_count": "54.5K Tweets"
-  },
-  {
-    "name": "Glühwein",
-    "query": "Glühwein",
-    "rank": 12,
-    "tweet_count": null
+    "tweet_count": "54.9K Tweets"
   },
   {
     "name": "Albedo",
     "query": "Albedo",
-    "rank": 13,
-    "tweet_count": "244K Tweets"
+    "rank": 12,
+    "tweet_count": "246K Tweets"
   },
   {
     "name": "Elden Ring",
     "query": "\"Elden Ring\"",
-    "rank": 14,
-    "tweet_count": "24.2K Tweets"
+    "rank": 13,
+    "tweet_count": "24.4K Tweets"
   },
   {
     "name": "Jens Spahn",
     "query": "\"Jens Spahn\"",
-    "rank": 15,
-    "tweet_count": "1,686 Tweets"
+    "rank": 14,
+    "tweet_count": "1,694 Tweets"
   },
   {
     "name": "Taylor Swift",
     "query": "\"Taylor Swift\"",
+    "rank": 15,
+    "tweet_count": "546K Tweets"
+  },
+  {
+    "name": "#FröhlichFeschVollFatal",
+    "query": "#FröhlichFeschVollFatal",
     "rank": 16,
-    "tweet_count": "542K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#FirstDates",
@@ -105,6 +105,6 @@
     "name": "#GERPOL",
     "query": "#GERPOL",
     "rank": 18,
-    "tweet_count": "1,112 Tweets"
+    "tweet_count": "1,233 Tweets"
   }
 ]
