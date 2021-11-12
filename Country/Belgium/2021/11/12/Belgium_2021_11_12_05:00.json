@@ -1,39 +1,39 @@
 [
   {
+    "name": "#RedTaylorsVersion",
+    "query": "#RedTaylorsVersion",
+    "rank": 1,
+    "tweet_count": "533K Tweets"
+  },
+  {
     "name": "Ziak",
     "query": "Ziak",
-    "rank": 1,
-    "tweet_count": "48.6K Tweets"
+    "rank": 2,
+    "tweet_count": "48.8K Tweets"
   },
   {
     "name": "#ArmisticeDay",
     "query": "#ArmisticeDay",
-    "rank": 2,
-    "tweet_count": "49K Tweets"
+    "rank": 3,
+    "tweet_count": "49.1K Tweets"
   },
   {
     "name": "#wapenstilstand",
     "query": "#wapenstilstand",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "#11Novembre",
-    "query": "#11Novembre",
-    "rank": 4,
-    "tweet_count": "63.3K Tweets"
-  },
-  {
-    "name": "#RedTaylorsVersion",
-    "query": "#RedTaylorsVersion",
+    "name": "#11novembre",
+    "query": "#11novembre",
     "rank": 5,
-    "tweet_count": "445K Tweets"
+    "tweet_count": "63.5K Tweets"
   },
   {
-    "name": "#LestWeForget",
-    "query": "#LestWeForget",
+    "name": "#lagrandecauserie",
+    "query": "#lagrandecauserie",
     "rank": 6,
-    "tweet_count": "128K Tweets"
+    "tweet_count": "1,967 Tweets"
   },
   {
     "name": "vilvoorde",
@@ -45,61 +45,61 @@
     "name": "Niel",
     "query": "Niel",
     "rank": 8,
-    "tweet_count": "5,977 Tweets"
+    "tweet_count": "6,010 Tweets"
   },
   {
     "name": "joon",
     "query": "joon",
     "rank": 9,
-    "tweet_count": "66.3K Tweets"
+    "tweet_count": "66.8K Tweets"
+  },
+  {
+    "name": "Spotify",
+    "query": "Spotify",
+    "rank": 10,
+    "tweet_count": "1.03M Tweets"
   },
   {
     "name": "poetin",
     "query": "poetin",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Sint Maarten",
     "query": "\"Sint Maarten\"",
-    "rank": 11,
-    "tweet_count": "2,124 Tweets"
+    "rank": 12,
+    "tweet_count": "2,125 Tweets"
   },
   {
     "name": "Loekasjenko",
     "query": "Loekasjenko",
-    "rank": 12,
-    "tweet_count": "1,537 Tweets"
+    "rank": 13,
+    "tweet_count": "1,546 Tweets"
   },
   {
     "name": "de vriendt",
     "query": "\"de vriendt\"",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "squeezie",
     "query": "squeezie",
-    "rank": 14,
-    "tweet_count": "2,838 Tweets"
-  },
-  {
-    "name": "Spotify",
-    "query": "Spotify",
     "rank": 15,
-    "tweet_count": "977K Tweets"
+    "tweet_count": "2,851 Tweets"
   },
   {
     "name": "Le 11",
     "query": "\"Le 11\"",
     "rank": 16,
-    "tweet_count": "133K Tweets"
+    "tweet_count": "134K Tweets"
   },
   {
-    "name": "wit-rusland",
-    "query": "wit-rusland",
+    "name": "Wit-Rusland",
+    "query": "Wit-Rusland",
     "rank": 17,
-    "tweet_count": "1,384 Tweets"
+    "tweet_count": "1,368 Tweets"
   },
   {
     "name": "test aankoop",
@@ -111,12 +111,12 @@
     "name": "Shonen",
     "query": "Shonen",
     "rank": 19,
-    "tweet_count": "12.3K Tweets"
+    "tweet_count": "12.4K Tweets"
   },
   {
     "name": "Demir",
     "query": "Demir",
     "rank": 20,
-    "tweet_count": "9,947 Tweets"
+    "tweet_count": "10K Tweets"
   }
 ]
