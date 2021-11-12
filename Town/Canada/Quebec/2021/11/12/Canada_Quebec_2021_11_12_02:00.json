@@ -1,104 +1,110 @@
 [
   {
+    "name": "#GoHabsGo",
+    "query": "#GoHabsGo",
+    "rank": 1,
+    "tweet_count": "3,443 Tweets"
+  },
+  {
     "name": "#Flames",
     "query": "#Flames",
-    "rank": 1,
-    "tweet_count": "1,003 Tweets"
+    "rank": 2,
+    "tweet_count": "1,169 Tweets"
   },
   {
     "name": "Allen",
     "query": "Allen",
-    "rank": 2,
-    "tweet_count": "96.2K Tweets"
+    "rank": 3,
+    "tweet_count": "98K Tweets"
+  },
+  {
+    "name": "Ceci",
+    "query": "Ceci",
+    "rank": 4,
+    "tweet_count": "11.6K Tweets"
   },
   {
     "name": "Maxey",
     "query": "Maxey",
-    "rank": 3,
-    "tweet_count": "4,896 Tweets"
-  },
-  {
-    "name": "Boucher",
-    "query": "Boucher",
-    "rank": 4,
-    "tweet_count": "2,325 Tweets"
-  },
-  {
-    "name": "#Station19",
-    "query": "#Station19",
     "rank": 5,
-    "tweet_count": "33.6K Tweets"
+    "tweet_count": "6,559 Tweets"
   },
   {
-    "name": "Gudbranson",
-    "query": "Gudbranson",
+    "name": "#Raptors",
+    "query": "#Raptors",
     "rank": 6,
     "tweet_count": null
   },
   {
-    "name": "Hyman",
-    "query": "Hyman",
+    "name": "Bruins",
+    "query": "Bruins",
     "rank": 7,
+    "tweet_count": "5,226 Tweets"
+  },
+  {
+    "name": "Nick Suzuki",
+    "query": "\"Nick Suzuki\"",
+    "rank": 8,
     "tweet_count": null
+  },
+  {
+    "name": "Freddy",
+    "query": "Freddy",
+    "rank": 9,
+    "tweet_count": "14.3K Tweets"
   },
   {
     "name": "Carlo",
     "query": "Carlo",
-    "rank": 8,
-    "tweet_count": "10.4K Tweets"
+    "rank": 10,
+    "tweet_count": "10.8K Tweets"
   },
   {
     "name": "Drummond",
     "query": "Drummond",
-    "rank": 9,
-    "tweet_count": "3,608 Tweets"
-  },
-  {
-    "name": "Precious",
-    "query": "Precious",
-    "rank": 10,
-    "tweet_count": "93.4K Tweets"
-  },
-  {
-    "name": "Torts",
-    "query": "Torts",
     "rank": 11,
-    "tweet_count": null
+    "tweet_count": "4,111 Tweets"
   },
   {
-    "name": "Ben Chiarot",
-    "query": "\"Ben Chiarot\"",
+    "name": "Gudbranson",
+    "query": "Gudbranson",
     "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "#RedTaylorsVersion",
-    "query": "#RedTaylorsVersion",
-    "rank": 13,
-    "tweet_count": "310K Tweets"
-  },
-  {
     "name": "Drai",
     "query": "Drai",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Precious",
+    "query": "Precious",
     "rank": 14,
+    "tweet_count": "95.4K Tweets"
+  },
+  {
+    "name": "Torts",
+    "query": "Torts",
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Koskinen",
     "query": "Koskinen",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Gene Simmons",
-    "query": "\"Gene Simmons\"",
     "rank": 16,
-    "tweet_count": "12.9K Tweets"
+    "tweet_count": "1,027 Tweets"
   },
   {
-    "name": "76ers",
-    "query": "76ers",
+    "name": "Marchand",
+    "query": "Marchand",
     "rank": 17,
-    "tweet_count": "4,060 Tweets"
+    "tweet_count": "1,824 Tweets"
+  },
+  {
+    "name": "Ben Chiarot",
+    "query": "\"Ben Chiarot\"",
+    "rank": 18,
+    "tweet_count": null
   }
 ]
