@@ -3,25 +3,25 @@
     "name": "#ANDPOL",
     "query": "#ANDPOL",
     "rank": 1,
-    "tweet_count": "6,422 Tweets"
+    "tweet_count": "7,002 Tweets"
   },
   {
     "name": "Andora",
     "query": "Andora",
     "rank": 2,
-    "tweet_count": "2,379 Tweets"
+    "tweet_count": "2,580 Tweets"
   },
   {
     "name": "San Marino",
     "query": "\"San Marino\"",
     "rank": 3,
-    "tweet_count": "3,230 Tweets"
+    "tweet_count": "3,616 Tweets"
   },
   {
-    "name": "#GERPOL",
-    "query": "#GERPOL",
+    "name": "Matty Cash",
+    "query": "\"Matty Cash\"",
     "rank": 4,
-    "tweet_count": "1,475 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Krychowiak",
@@ -30,8 +30,8 @@
     "tweet_count": null
   },
   {
-    "name": "Matty Cash",
-    "query": "\"Matty Cash\"",
+    "name": "Węgrami",
+    "query": "Węgrami",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,26 +42,26 @@
     "tweet_count": null
   },
   {
-    "name": "Węgrami",
-    "query": "Węgrami",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "Milik",
     "query": "Milik",
-    "rank": 9,
-    "tweet_count": "13.2K Tweets"
-  },
-  {
-    "name": "Szczęsny",
-    "query": "Szczęsny",
-    "rank": 10,
-    "tweet_count": null
+    "rank": 8,
+    "tweet_count": "13.3K Tweets"
   },
   {
     "name": "#FORUM",
     "query": "#FORUM",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "#GERPOL",
+    "query": "#GERPOL",
+    "rank": 10,
+    "tweet_count": "1,488 Tweets"
+  },
+  {
+    "name": "Szczęsny",
+    "query": "Szczęsny",
     "rank": 11,
     "tweet_count": null
   },
@@ -93,29 +93,29 @@
     "name": "Lewy",
     "query": "Lewy",
     "rank": 16,
-    "tweet_count": "1,684 Tweets"
-  },
-  {
-    "name": "niemcami",
-    "query": "niemcami",
-    "rank": 17,
-    "tweet_count": "1,111 Tweets"
-  },
-  {
-    "name": "Krycha",
-    "query": "Krycha",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "1,770 Tweets"
   },
   {
     "name": "Mateusz Gotówka",
     "query": "\"Mateusz Gotówka\"",
-    "rank": 19,
+    "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Anglia",
-    "query": "Anglia",
+    "name": "Anglią",
+    "query": "Anglią",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Niemcami",
+    "query": "Niemcami",
+    "rank": 19,
+    "tweet_count": "1,127 Tweets"
+  },
+  {
+    "name": "Krycha",
+    "query": "Krycha",
     "rank": 20,
     "tweet_count": null
   }
