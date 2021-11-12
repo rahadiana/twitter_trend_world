@@ -1,92 +1,122 @@
 [
   {
-    "name": "#persconferentie",
-    "query": "#persconferentie",
+    "name": "#lockdown",
+    "query": "#lockdown",
     "rank": 1,
-    "tweet_count": "9,362 Tweets"
+    "tweet_count": "27.2K Tweets"
   },
   {
     "name": "#terugvolgvrijdag",
     "query": "#terugvolgvrijdag",
     "rank": 2,
-    "tweet_count": "4,086 Tweets"
-  },
-  {
-    "name": "#horeca",
-    "query": "#horeca",
-    "rank": 3,
-    "tweet_count": "1,567 Tweets"
-  },
-  {
-    "name": "Staken",
-    "query": "Staken",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "#ongevaccineerden",
-    "query": "#ongevaccineerden",
-    "rank": 5,
-    "tweet_count": "6,307 Tweets"
+    "tweet_count": "4,131 Tweets"
   },
   {
     "name": "#2GRegel",
     "query": "#2GRegel",
+    "rank": 3,
+    "tweet_count": "10.2K Tweets"
+  },
+  {
+    "name": "#persconferentie",
+    "query": "#persconferentie",
+    "rank": 4,
+    "tweet_count": "9,625 Tweets"
+  },
+  {
+    "name": "#sintmaarten",
+    "query": "#sintmaarten",
+    "rank": 5,
+    "tweet_count": "1,191 Tweets"
+  },
+  {
+    "name": "Staken",
+    "query": "Staken",
     "rank": 6,
-    "tweet_count": "10.1K Tweets"
-  },
-  {
-    "name": "Irma Sluis",
-    "query": "\"Irma Sluis\"",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
-    "name": "Kanaleneiland",
-    "query": "Kanaleneiland",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "KNVB",
-    "query": "KNVB",
-    "rank": 9,
-    "tweet_count": "2,427 Tweets"
-  },
-  {
-    "name": "Kante",
-    "query": "Kante",
-    "rank": 10,
-    "tweet_count": "8,038 Tweets"
-  },
-  {
-    "name": "CoronaCheck",
-    "query": "CoronaCheck",
-    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Kensington",
     "query": "Kensington",
-    "rank": 12,
-    "tweet_count": "2,303 Tweets"
+    "rank": 7,
+    "tweet_count": "2,352 Tweets"
   },
   {
-    "name": "Taylor",
-    "query": "Taylor",
-    "rank": 13,
-    "tweet_count": "1.28M Tweets"
-  },
-  {
-    "name": "Vanavond",
-    "query": "Vanavond",
-    "rank": 14,
-    "tweet_count": "6,771 Tweets"
-  },
-  {
-    "name": "#maatregelen",
-    "query": "#maatregelen",
-    "rank": 15,
+    "name": "Irma Sluis",
+    "query": "\"Irma Sluis\"",
+    "rank": 8,
     "tweet_count": null
+  },
+  {
+    "name": "Den Bosch",
+    "query": "\"Den Bosch\"",
+    "rank": 9,
+    "tweet_count": "1,940 Tweets"
+  },
+  {
+    "name": "Het OMT",
+    "query": "\"Het OMT\"",
+    "rank": 10,
+    "tweet_count": "6,580 Tweets"
+  },
+  {
+    "name": "Brabant",
+    "query": "Brabant",
+    "rank": 11,
+    "tweet_count": "2,055 Tweets"
+  },
+  {
+    "name": "Kanaleneiland",
+    "query": "Kanaleneiland",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "OMT-advies",
+    "query": "OMT-advies",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "scholen",
+    "query": "scholen",
+    "rank": 14,
+    "tweet_count": "3,414 Tweets"
+  },
+  {
+    "name": "Claudia",
+    "query": "Claudia",
+    "rank": 15,
+    "tweet_count": "32.5K Tweets"
+  },
+  {
+    "name": "Kante",
+    "query": "Kante",
+    "rank": 16,
+    "tweet_count": "8,236 Tweets"
+  },
+  {
+    "name": "KNVB",
+    "query": "KNVB",
+    "rank": 17,
+    "tweet_count": "2,457 Tweets"
+  },
+  {
+    "name": "Silk Sonic",
+    "query": "\"Silk Sonic\"",
+    "rank": 18,
+    "tweet_count": "81.1K Tweets"
+  },
+  {
+    "name": "Catshuis",
+    "query": "Catshuis",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Theaters",
+    "query": "Theaters",
+    "rank": 20,
+    "tweet_count": "28.6K Tweets"
   }
 ]
