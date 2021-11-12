@@ -1,21 +1,21 @@
 [
   {
+    "name": "#TodosAVotar",
+    "query": "#TodosAVotar",
+    "rank": 1,
+    "tweet_count": "1,439 Tweets"
+  },
+  {
     "name": "#BuenViernes",
     "query": "#BuenViernes",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Taylor",
     "query": "Taylor",
-    "rank": 2,
-    "tweet_count": "1.15M Tweets"
-  },
-  {
-    "name": "#TodosAVotar",
-    "query": "#TodosAVotar",
     "rank": 3,
-    "tweet_count": null
+    "tweet_count": "1.16M Tweets"
   },
   {
     "name": "#ElClubDelMoro",
@@ -24,52 +24,52 @@
     "tweet_count": null
   },
   {
-    "name": "State of Grace",
-    "query": "\"State of Grace\"",
-    "rank": 5,
-    "tweet_count": "36.8K Tweets"
-  },
-  {
     "name": "Spotify",
     "query": "Spotify",
-    "rank": 6,
-    "tweet_count": "1.17M Tweets"
+    "rank": 5,
+    "tweet_count": "1.19M Tweets"
   },
   {
     "name": "Scaloneta",
     "query": "Scaloneta",
+    "rank": 6,
+    "tweet_count": "5,021 Tweets"
+  },
+  {
+    "name": "Ronan",
+    "query": "Ronan",
     "rank": 7,
-    "tweet_count": "4,967 Tweets"
+    "tweet_count": "38.5K Tweets"
   },
   {
     "name": "swiftie",
     "query": "swiftie",
     "rank": 8,
-    "tweet_count": "31.3K Tweets"
+    "tweet_count": "31.5K Tweets"
   },
   {
     "name": "Red TV",
     "query": "\"Red TV\"",
     "rank": 9,
-    "tweet_count": "121K Tweets"
+    "tweet_count": "122K Tweets"
   },
   {
     "name": "#ItsRedSeason",
     "query": "#ItsRedSeason",
     "rank": 10,
-    "tweet_count": "37.8K Tweets"
+    "tweet_count": "38K Tweets"
   },
   {
-    "name": "#debateenel9",
-    "query": "#debateenel9",
+    "name": "#FormulaOfLove",
+    "query": "#FormulaOfLove",
     "rank": 11,
-    "tweet_count": "3,061 Tweets"
+    "tweet_count": "493K Tweets"
   },
   {
     "name": "Neymar",
     "query": "Neymar",
     "rank": 12,
-    "tweet_count": "99.5K Tweets"
+    "tweet_count": "100K Tweets"
   },
   {
     "name": "Flor Vigna",
@@ -81,6 +81,12 @@
     "name": "#SCIENTIST",
     "query": "#SCIENTIST",
     "rank": 14,
-    "tweet_count": "534K Tweets"
+    "tweet_count": "539K Tweets"
+  },
+  {
+    "name": "#DebateEnEl9",
+    "query": "#DebateEnEl9",
+    "rank": 15,
+    "tweet_count": "3,073 Tweets"
   }
 ]
