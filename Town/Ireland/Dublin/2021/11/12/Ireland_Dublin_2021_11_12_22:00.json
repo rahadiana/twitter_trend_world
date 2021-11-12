@@ -1,21 +1,21 @@
 [
   {
+    "name": "Rovers",
+    "query": "Rovers",
+    "rank": 1,
+    "tweet_count": "3,014 Tweets"
+  },
+  {
     "name": "#Bohs",
     "query": "#Bohs",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#DMA2021",
     "query": "#DMA2021",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "Rovers",
-    "query": "Rovers",
     "rank": 3,
-    "tweet_count": "2,981 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#anewdeal",
@@ -27,13 +27,13 @@
     "name": "Labour",
     "query": "Labour",
     "rank": 5,
-    "tweet_count": "57.7K Tweets"
+    "tweet_count": "58.4K Tweets"
   },
   {
     "name": "#LateLateShow",
     "query": "#LateLateShow",
     "rank": 6,
-    "tweet_count": "1,192 Tweets"
+    "tweet_count": "1,273 Tweets"
   },
   {
     "name": "Ronan Keating",
@@ -42,16 +42,16 @@
     "tweet_count": null
   },
   {
-    "name": "Albania",
-    "query": "Albania",
-    "rank": 8,
-    "tweet_count": "43K Tweets"
-  },
-  {
     "name": "Britney",
     "query": "Britney",
+    "rank": 8,
+    "tweet_count": "177K Tweets"
+  },
+  {
+    "name": "Albania",
+    "query": "Albania",
     "rank": 9,
-    "tweet_count": "133K Tweets"
+    "tweet_count": "43.4K Tweets"
   },
   {
     "name": "#IREvUSA",
@@ -69,54 +69,48 @@
     "name": "Reece James",
     "query": "\"Reece James\"",
     "rank": 12,
-    "tweet_count": "5,176 Tweets"
-  },
-  {
-    "name": "Harry Kane",
-    "query": "\"Harry Kane\"",
-    "rank": 13,
-    "tweet_count": "18K Tweets"
+    "tweet_count": "5,267 Tweets"
   },
   {
     "name": "Harry Maguire",
     "query": "\"Harry Maguire\"",
-    "rank": 14,
-    "tweet_count": "7,302 Tweets"
+    "rank": 13,
+    "tweet_count": "7,470 Tweets"
   },
   {
-    "name": "Gaga",
-    "query": "Gaga",
-    "rank": 15,
-    "tweet_count": "41.2K Tweets"
+    "name": "Lady Gaga",
+    "query": "\"Lady Gaga\"",
+    "rank": 14,
+    "tweet_count": "24.9K Tweets"
   },
   {
     "name": "Italy",
     "query": "Italy",
-    "rank": 16,
-    "tweet_count": "46.3K Tweets"
+    "rank": 15,
+    "tweet_count": "46.8K Tweets"
   },
   {
     "name": "Disney",
     "query": "Disney",
-    "rank": 17,
-    "tweet_count": "367K Tweets"
+    "rank": 16,
+    "tweet_count": "369K Tweets"
   },
   {
     "name": "#BlockRockinBeats",
     "query": "#BlockRockinBeats",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "#LP21",
     "query": "#LP21",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "#BrazilGP",
     "query": "#BrazilGP",
-    "rank": 20,
-    "tweet_count": "68.9K Tweets"
+    "rank": 19,
+    "tweet_count": "69.7K Tweets"
   }
 ]

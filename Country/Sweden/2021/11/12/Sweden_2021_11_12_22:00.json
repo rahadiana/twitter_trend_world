@@ -1,9 +1,9 @@
 [
   {
-    "name": "georgien",
-    "query": "georgien",
+    "name": "Britney",
+    "query": "Britney",
     "rank": 1,
-    "tweet_count": null
+    "tweet_count": "180K Tweets"
   },
   {
     "name": "Thåström",
@@ -12,22 +12,22 @@
     "tweet_count": null
   },
   {
+    "name": "georgien",
+    "query": "georgien",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
     "name": "#geoswe",
     "query": "#geoswe",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Zlatan",
     "query": "Zlatan",
-    "rank": 4,
-    "tweet_count": "4,168 Tweets"
-  },
-  {
-    "name": "Britney",
-    "query": "Britney",
     "rank": 5,
-    "tweet_count": "137K Tweets"
+    "tweet_count": "4,227 Tweets"
   },
   {
     "name": "Skavlan",
@@ -45,7 +45,7 @@
     "name": "Harry Kane",
     "query": "\"Harry Kane\"",
     "rank": 8,
-    "tweet_count": "18K Tweets"
+    "tweet_count": "18.3K Tweets"
   },
   {
     "name": "#RedTaylorsVersion",
@@ -57,13 +57,13 @@
     "name": "Spanien",
     "query": "Spanien",
     "rank": 10,
-    "tweet_count": "1,908 Tweets"
+    "tweet_count": "1,917 Tweets"
   },
   {
     "name": "Ygeman",
     "query": "Ygeman",
     "rank": 11,
-    "tweet_count": "1,027 Tweets"
+    "tweet_count": "1,028 Tweets"
   },
   {
     "name": "#IdolSE",
@@ -81,13 +81,13 @@
     "name": "Isak",
     "query": "Isak",
     "rank": 14,
-    "tweet_count": "2,224 Tweets"
+    "tweet_count": "2,228 Tweets"
   },
   {
     "name": "Dani Alves",
     "query": "\"Dani Alves\"",
     "rank": 15,
-    "tweet_count": "91.7K Tweets"
+    "tweet_count": "93.1K Tweets"
   },
   {
     "name": "Västervik",
@@ -99,7 +99,7 @@
     "name": "Qatar",
     "query": "Qatar",
     "rank": 17,
-    "tweet_count": "57.4K Tweets"
+    "tweet_count": "57.7K Tweets"
   },
   {
     "name": "#HV71",
@@ -111,12 +111,12 @@
     "name": "kulusevski",
     "query": "kulusevski",
     "rank": 19,
-    "tweet_count": "1,361 Tweets"
+    "tweet_count": "1,362 Tweets"
   },
   {
     "name": "Janne",
     "query": "Janne",
     "rank": 20,
-    "tweet_count": "2,796 Tweets"
+    "tweet_count": "2,817 Tweets"
   }
 ]
