@@ -1,15 +1,15 @@
 [
   {
-    "name": "Taylor",
-    "query": "Taylor",
-    "rank": 1,
-    "tweet_count": "1.12M Tweets"
-  },
-  {
     "name": "#BuenViernes",
     "query": "#BuenViernes",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Taylor",
+    "query": "Taylor",
+    "rank": 2,
+    "tweet_count": "1.14M Tweets"
   },
   {
     "name": "#ElClubDelMoro",
@@ -18,57 +18,75 @@
     "tweet_count": null
   },
   {
+    "name": "#TodosAVotar",
+    "query": "#TodosAVotar",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "State of Grace",
+    "query": "\"State of Grace\"",
+    "rank": 5,
+    "tweet_count": "36.7K Tweets"
+  },
+  {
     "name": "Spotify",
     "query": "Spotify",
-    "rank": 4,
-    "tweet_count": "1.16M Tweets"
-  },
-  {
-    "name": "swiftie",
-    "query": "swiftie",
-    "rank": 5,
-    "tweet_count": "30.9K Tweets"
-  },
-  {
-    "name": "#ItsRedSeason",
-    "query": "#ItsRedSeason",
     "rank": 6,
-    "tweet_count": "37.4K Tweets"
+    "tweet_count": "1.17M Tweets"
+  },
+  {
+    "name": "Ronan",
+    "query": "Ronan",
+    "rank": 7,
+    "tweet_count": "38.3K Tweets"
   },
   {
     "name": "Scaloneta",
     "query": "Scaloneta",
-    "rank": 7,
-    "tweet_count": "4,869 Tweets"
+    "rank": 8,
+    "tweet_count": "4,953 Tweets"
+  },
+  {
+    "name": "swiftie",
+    "query": "swiftie",
+    "rank": 9,
+    "tweet_count": "31.3K Tweets"
   },
   {
     "name": "Red TV",
     "query": "\"Red TV\"",
-    "rank": 8,
-    "tweet_count": "119K Tweets"
+    "rank": 10,
+    "tweet_count": "121K Tweets"
   },
   {
-    "name": "#debateenel9",
-    "query": "#debateenel9",
-    "rank": 9,
-    "tweet_count": "3,038 Tweets"
+    "name": "#ItsRedSeason",
+    "query": "#ItsRedSeason",
+    "rank": 11,
+    "tweet_count": "37.8K Tweets"
   },
   {
     "name": "Neymar",
     "query": "Neymar",
-    "rank": 10,
-    "tweet_count": "98.6K Tweets"
+    "rank": 12,
+    "tweet_count": "99.5K Tweets"
   },
   {
     "name": "Flor Vigna",
     "query": "\"Flor Vigna\"",
-    "rank": 11,
-    "tweet_count": "21.5K Tweets"
+    "rank": 13,
+    "tweet_count": "21.6K Tweets"
+  },
+  {
+    "name": "#debateenel9",
+    "query": "#debateenel9",
+    "rank": 14,
+    "tweet_count": "3,061 Tweets"
   },
   {
     "name": "#SCIENTIST",
     "query": "#SCIENTIST",
-    "rank": 12,
-    "tweet_count": "525K Tweets"
+    "rank": 15,
+    "tweet_count": "534K Tweets"
   }
 ]
