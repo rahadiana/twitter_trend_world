@@ -1,19 +1,19 @@
 [
   {
-    "name": "#impfpflichtjetzt",
-    "query": "#impfpflichtjetzt",
-    "rank": 1,
-    "tweet_count": "4,674 Tweets"
-  },
-  {
     "name": "#Wieler",
     "query": "#Wieler",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "#Spahn",
     "query": "#Spahn",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "#2GPlus",
+    "query": "#2GPlus",
     "rank": 3,
     "tweet_count": null
   },
@@ -21,7 +21,7 @@
     "name": "#RedTaylorsVersion",
     "query": "#RedTaylorsVersion",
     "rank": 4,
-    "tweet_count": "937K Tweets"
+    "tweet_count": "947K Tweets"
   },
   {
     "name": "Freiheitsverständnis",
@@ -30,34 +30,34 @@
     "tweet_count": null
   },
   {
+    "name": "Studium",
+    "query": "Studium",
+    "rank": 6,
+    "tweet_count": "1,695 Tweets"
+  },
+  {
     "name": "Start ins Wochenende",
     "query": "\"Start ins Wochenende\"",
-    "rank": 6,
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Akademikereltern",
     "query": "Akademikereltern",
-    "rank": 7,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Hochrisikogebiet",
     "query": "Hochrisikogebiet",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Nebel",
-    "query": "Nebel",
-    "rank": 9,
-    "tweet_count": "2,243 Tweets"
-  },
-  {
-    "name": "Schönen Freitag",
-    "query": "\"Schönen Freitag\"",
+    "name": "Veranstaltungen",
+    "query": "Veranstaltungen",
     "rank": 10,
-    "tweet_count": "1,681 Tweets"
+    "tweet_count": "3,970 Tweets"
   },
   {
     "name": "Weltmeister",
@@ -66,51 +66,51 @@
     "tweet_count": null
   },
   {
-    "name": "Großveranstaltungen",
-    "query": "Großveranstaltungen",
+    "name": "Nebel",
+    "query": "Nebel",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "2,289 Tweets"
+  },
+  {
+    "name": "Schönen Freitag",
+    "query": "\"Schönen Freitag\"",
+    "rank": 13,
+    "tweet_count": "1,716 Tweets"
   },
   {
     "name": "Verachtung",
     "query": "Verachtung",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Schulschließungen",
     "query": "Schulschließungen",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Lockdowns",
     "query": "Lockdowns",
-    "rank": 15,
-    "tweet_count": "20.4K Tweets"
-  },
-  {
-    "name": "#2GPlus",
-    "query": "#2GPlus",
     "rank": 16,
-    "tweet_count": null
+    "tweet_count": "20.7K Tweets"
   },
   {
     "name": "#LockdownJetzt",
     "query": "#LockdownJetzt",
     "rank": 17,
-    "tweet_count": "2,894 Tweets"
+    "tweet_count": "3,036 Tweets"
+  },
+  {
+    "name": "#AllTooWellTenMinuteVersion",
+    "query": "#AllTooWellTenMinuteVersion",
+    "rank": 18,
+    "tweet_count": "53.3K Tweets"
   },
   {
     "name": "#Röttgen",
     "query": "#Röttgen",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "#VierteWelle",
-    "query": "#VierteWelle",
     "rank": 19,
-    "tweet_count": "3,549 Tweets"
+    "tweet_count": null
   }
 ]
