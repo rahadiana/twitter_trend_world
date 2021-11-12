@@ -1,56 +1,50 @@
 [
   {
-    "name": "Chile",
-    "query": "Chile",
-    "rank": 1,
-    "tweet_count": "200K Tweets"
-  },
-  {
     "name": "#RedTaylorsVersion",
     "query": "#RedTaylorsVersion",
+    "rank": 1,
+    "tweet_count": "415K Tweets"
+  },
+  {
+    "name": "Chile",
+    "query": "Chile",
     "rank": 2,
-    "tweet_count": "386K Tweets"
+    "tweet_count": "202K Tweets"
+  },
+  {
+    "name": "Neymar",
+    "query": "Neymar",
+    "rank": 3,
+    "tweet_count": "97.5K Tweets"
   },
   {
     "name": "#Qatar2022",
     "query": "#Qatar2022",
-    "rank": 3,
-    "tweet_count": "15K Tweets"
+    "rank": 4,
+    "tweet_count": "15.3K Tweets"
   },
   {
     "name": "Alfaro",
     "query": "Alfaro",
-    "rank": 4,
-    "tweet_count": "7,952 Tweets"
+    "rank": 5,
+    "tweet_count": "8,056 Tweets"
   },
   {
     "name": "Santiago",
     "query": "Santiago",
-    "rank": 5,
-    "tweet_count": "71.7K Tweets"
+    "rank": 6,
+    "tweet_count": "72.4K Tweets"
   },
   {
     "name": "Sarmiento",
     "query": "Sarmiento",
-    "rank": 6,
-    "tweet_count": "5,010 Tweets"
+    "rank": 7,
+    "tweet_count": "5,038 Tweets"
   },
   {
     "name": "Piero Hincapié",
     "query": "\"Piero Hincapié\"",
-    "rank": 7,
-    "tweet_count": "3,537 Tweets"
-  },
-  {
-    "name": "Cruz",
-    "query": "Cruz",
     "rank": 8,
-    "tweet_count": "63.8K Tweets"
-  },
-  {
-    "name": "Reasco",
-    "query": "Reasco",
-    "rank": 9,
-    "tweet_count": "1,154 Tweets"
+    "tweet_count": "3,581 Tweets"
   }
 ]
