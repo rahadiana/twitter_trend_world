@@ -6,20 +6,20 @@
     "tweet_count": null
   },
   {
+    "name": "Parken",
+    "query": "Parken",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
     "name": "#besserwisserne",
     "query": "#besserwisserne",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#ForDanmark",
     "query": "#ForDanmark",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "Parken",
-    "query": "Parken",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,13 +27,13 @@
     "name": "Dani Alves",
     "query": "\"Dani Alves\"",
     "rank": 5,
-    "tweet_count": "63.9K Tweets"
+    "tweet_count": "67.5K Tweets"
   },
   {
     "name": "#RedTaylorsVersion",
     "query": "#RedTaylorsVersion",
     "rank": 6,
-    "tweet_count": "1.05M Tweets"
+    "tweet_count": "1.06M Tweets"
   },
   {
     "name": "Daramy",
@@ -42,22 +42,22 @@
     "tweet_count": null
   },
   {
-    "name": "Mogens Jensen",
-    "query": "\"Mogens Jensen\"",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "#PAKvAUS",
     "query": "#PAKvAUS",
+    "rank": 8,
+    "tweet_count": "77.2K Tweets"
+  },
+  {
+    "name": "Mogens Jensen",
+    "query": "\"Mogens Jensen\"",
     "rank": 9,
-    "tweet_count": "77.1K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Grand",
     "query": "Grand",
     "rank": 10,
-    "tweet_count": "186K Tweets"
+    "tweet_count": "187K Tweets"
   },
   {
     "name": "Færøerne",
@@ -75,11 +75,11 @@
     "name": "Rittenhouse",
     "query": "Rittenhouse",
     "rank": 13,
-    "tweet_count": "564K Tweets"
+    "tweet_count": "567K Tweets"
   },
   {
-    "name": "østrig",
-    "query": "østrig",
+    "name": "Østrig",
+    "query": "Østrig",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,7 +87,7 @@
     "name": "Albedo",
     "query": "Albedo",
     "rank": 15,
-    "tweet_count": "258K Tweets"
+    "tweet_count": "260K Tweets"
   },
   {
     "name": "Lynetteholmen",
@@ -99,24 +99,24 @@
     "name": "Spanien",
     "query": "Spanien",
     "rank": 17,
-    "tweet_count": "1,954 Tweets"
+    "tweet_count": "1,964 Tweets"
   },
   {
-    "name": "SMS'er",
-    "query": "SMS'er",
+    "name": "Omar",
+    "query": "Omar",
     "rank": 18,
+    "tweet_count": "89.6K Tweets"
+  },
+  {
+    "name": "herlev",
+    "query": "herlev",
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Dean",
     "query": "Dean",
-    "rank": 19,
-    "tweet_count": "38.1K Tweets"
-  },
-  {
-    "name": "Omar",
-    "query": "Omar",
     "rank": 20,
-    "tweet_count": "88.9K Tweets"
+    "tweet_count": "38.3K Tweets"
   }
 ]
