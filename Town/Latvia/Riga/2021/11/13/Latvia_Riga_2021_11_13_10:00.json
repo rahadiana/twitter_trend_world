@@ -12,20 +12,20 @@
     "tweet_count": null
   },
   {
-    "name": "Latvia",
-    "query": "Latvia",
-    "rank": 3,
-    "tweet_count": "15.2K Tweets"
-  },
-  {
     "name": "Maxima",
     "query": "Maxima",
-    "rank": 4,
-    "tweet_count": "17.2K Tweets"
+    "rank": 3,
+    "tweet_count": "17.3K Tweets"
   },
   {
     "name": "Pasaules",
     "query": "Pasaules",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "Gobzems",
+    "query": "Gobzems",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,7 +33,7 @@
     "name": "no 15",
     "query": "\"no 15\"",
     "rank": 6,
-    "tweet_count": "65.8K Tweets"
+    "tweet_count": "66.7K Tweets"
   },
   {
     "name": "minsku",
@@ -45,37 +45,37 @@
     "name": "Taylor",
     "query": "Taylor",
     "rank": 8,
-    "tweet_count": "1.54M Tweets"
+    "tweet_count": "1.56M Tweets"
   },
   {
     "name": "Russia",
     "query": "Russia",
     "rank": 9,
-    "tweet_count": "88.3K Tweets"
+    "tweet_count": "89.6K Tweets"
   },
   {
-    "name": "Lāčplēša",
-    "query": "Lāčplēša",
+    "name": "Latviju",
+    "query": "Latviju",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "jūsu",
-    "query": "jūsu",
+    "name": "lāčplēša",
+    "query": "lāčplēša",
     "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "Jūsu",
+    "query": "Jūsu",
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "irākas",
     "query": "irākas",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Putins",
-    "query": "Putins",
     "rank": 13,
-    "tweet_count": "1,445 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Baltkrievijas",
@@ -99,18 +99,18 @@
     "name": "Moderna",
     "query": "Moderna",
     "rank": 17,
-    "tweet_count": "60.6K Tweets"
-  },
-  {
-    "name": "COVID-19",
-    "query": "COVID-19",
-    "rank": 18,
-    "tweet_count": "331K Tweets"
+    "tweet_count": "62.4K Tweets"
   },
   {
     "name": "Belarus",
     "query": "Belarus",
+    "rank": 18,
+    "tweet_count": "80.6K Tweets"
+  },
+  {
+    "name": "georga",
+    "query": "georga",
     "rank": 19,
-    "tweet_count": "79.3K Tweets"
+    "tweet_count": null
   }
 ]
