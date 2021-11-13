@@ -1,39 +1,39 @@
 [
   {
+    "name": "#kalytera",
+    "query": "#kalytera",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "#ιδεα_μητσοτακη",
     "query": "#ιδεα_μητσοτακη",
-    "rank": 1,
-    "tweet_count": "4,442 Tweets"
+    "rank": 2,
+    "tweet_count": "4,650 Tweets"
   },
   {
     "name": "#fosstotounel",
     "query": "#fosstotounel",
-    "rank": 2,
-    "tweet_count": "2,207 Tweets"
-  },
-  {
-    "name": "#kalytera",
-    "query": "#kalytera",
     "rank": 3,
-    "tweet_count": null
+    "tweet_count": "2,211 Tweets"
   },
   {
     "name": "#Vinylio",
     "query": "#Vinylio",
     "rank": 4,
-    "tweet_count": "2,614 Tweets"
+    "tweet_count": "2,616 Tweets"
   },
   {
     "name": "Καλο Σαββατοκυριακο",
     "query": "\"Καλο Σαββατοκυριακο\"",
     "rank": 5,
-    "tweet_count": "2,727 Tweets"
+    "tweet_count": "2,797 Tweets"
   },
   {
-    "name": "#sympetheroiaptatirana",
-    "query": "#sympetheroiaptatirana",
+    "name": "#zenoly",
+    "query": "#zenoly",
     "rank": 6,
-    "tweet_count": "1,212 Tweets"
+    "tweet_count": null
   },
   {
     "name": "στηβ",
@@ -45,31 +45,31 @@
     "name": "hobi",
     "query": "hobi",
     "rank": 8,
-    "tweet_count": "100K Tweets"
-  },
-  {
-    "name": "Νασος",
-    "query": "Νασος",
-    "rank": 9,
-    "tweet_count": "1,252 Tweets"
+    "tweet_count": "104K Tweets"
   },
   {
     "name": "Παρθενωνα",
     "query": "Παρθενωνα",
-    "rank": 10,
-    "tweet_count": "1,571 Tweets"
+    "rank": 9,
+    "tweet_count": "1,604 Tweets"
   },
   {
     "name": "κωστης",
     "query": "κωστης",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Ολυμπιας",
-    "query": "Ολυμπιας",
+    "name": "ολυμπιας",
+    "query": "ολυμπιας",
+    "rank": 11,
+    "tweet_count": "2,859 Tweets"
+  },
+  {
+    "name": "Νασος",
+    "query": "Νασος",
     "rank": 12,
-    "tweet_count": "2,832 Tweets"
+    "tweet_count": "1,261 Tweets"
   },
   {
     "name": "ξενια",
@@ -84,26 +84,26 @@
     "tweet_count": null
   },
   {
-    "name": "Sadie",
-    "query": "Sadie",
-    "rank": 15,
-    "tweet_count": "355K Tweets"
-  },
-  {
     "name": "στιβ",
     "query": "στιβ",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "ιζαμπελα",
     "query": "ιζαμπελα",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "Αγγελω",
-    "query": "Αγγελω",
+    "name": "sadie",
+    "query": "sadie",
+    "rank": 17,
+    "tweet_count": "361K Tweets"
+  },
+  {
+    "name": "αγγελω",
+    "query": "αγγελω",
     "rank": 18,
     "tweet_count": null
   },
@@ -117,6 +117,6 @@
     "name": "UNESCO",
     "query": "UNESCO",
     "rank": 20,
-    "tweet_count": "15.4K Tweets"
+    "tweet_count": "15.8K Tweets"
   }
 ]

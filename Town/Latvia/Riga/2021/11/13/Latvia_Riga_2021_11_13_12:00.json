@@ -18,16 +18,16 @@
     "tweet_count": null
   },
   {
-    "name": "Pasaules",
-    "query": "Pasaules",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
     "name": "NATO",
     "query": "NATO",
+    "rank": 4,
+    "tweet_count": "32K Tweets"
+  },
+  {
+    "name": "Pasaules",
+    "query": "Pasaules",
     "rank": 5,
-    "tweet_count": "31K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Viņiem",
@@ -36,28 +36,28 @@
     "tweet_count": null
   },
   {
-    "name": "no 15",
-    "query": "\"no 15\"",
+    "name": "Lukašenko",
+    "query": "Lukašenko",
     "rank": 7,
-    "tweet_count": "63.6K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "No 15",
+    "query": "\"No 15\"",
+    "rank": 8,
+    "tweet_count": "64.8K Tweets"
   },
   {
     "name": "Nebūs",
     "query": "Nebūs",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Taylor",
     "query": "Taylor",
-    "rank": 9,
-    "tweet_count": "1.52M Tweets"
-  },
-  {
-    "name": "Russia",
-    "query": "Russia",
     "rank": 10,
-    "tweet_count": "86K Tweets"
+    "tweet_count": "1.55M Tweets"
   },
   {
     "name": "Latviju",
@@ -66,50 +66,50 @@
     "tweet_count": null
   },
   {
-    "name": "lāčplēša",
-    "query": "lāčplēša",
+    "name": "Russian",
+    "query": "Russian",
     "rank": 12,
+    "tweet_count": "69.5K Tweets"
+  },
+  {
+    "name": "Lāčplēša",
+    "query": "Lāčplēša",
+    "rank": 13,
     "tweet_count": null
+  },
+  {
+    "name": "Rimi",
+    "query": "Rimi",
+    "rank": 14,
+    "tweet_count": "2,409 Tweets"
   },
   {
     "name": "irākas",
     "query": "irākas",
-    "rank": 13,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Baltkrievijas",
     "query": "Baltkrievijas",
-    "rank": 14,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Labi",
     "query": "Labi",
-    "rank": 15,
-    "tweet_count": "2,477 Tweets"
+    "rank": 17,
+    "tweet_count": "2,563 Tweets"
   },
   {
-    "name": "Šķiet",
-    "query": "Šķiet",
-    "rank": 16,
+    "name": "šķiet",
+    "query": "šķiet",
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Ukrainas",
     "query": "Ukrainas",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Valmieras",
-    "query": "Valmieras",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Jūsu",
-    "query": "Jūsu",
     "rank": 19,
     "tweet_count": null
   }
