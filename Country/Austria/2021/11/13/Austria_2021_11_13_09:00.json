@@ -1,7 +1,7 @@
 [
   {
-    "name": "#autisr",
-    "query": "#autisr",
+    "name": "#AUTISR",
+    "query": "#AUTISR",
     "rank": 1,
     "tweet_count": null
   },
@@ -9,31 +9,31 @@
     "name": "Lockdown",
     "query": "Lockdown",
     "rank": 2,
-    "tweet_count": "192K Tweets"
-  },
-  {
-    "name": "#Haslauer",
-    "query": "#Haslauer",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "Fälle",
-    "query": "Fälle",
-    "rank": 4,
-    "tweet_count": "3,909 Tweets"
+    "tweet_count": "193K Tweets"
   },
   {
     "name": "Neuinfektionen",
     "query": "Neuinfektionen",
-    "rank": 5,
-    "tweet_count": "7,752 Tweets"
+    "rank": 3,
+    "tweet_count": "7,816 Tweets"
+  },
+  {
+    "name": "#Haslauer",
+    "query": "#Haslauer",
+    "rank": 4,
+    "tweet_count": null
   },
   {
     "name": "Impfpflicht",
     "query": "Impfpflicht",
+    "rank": 5,
+    "tweet_count": "14.7K Tweets"
+  },
+  {
+    "name": "Fälle",
+    "query": "Fälle",
     "rank": 6,
-    "tweet_count": "14.6K Tweets"
+    "tweet_count": "3,960 Tweets"
   },
   {
     "name": "#zibspezial",
@@ -45,7 +45,7 @@
     "name": "#RedTaylorsVersion",
     "query": "#RedTaylorsVersion",
     "rank": 8,
-    "tweet_count": "486K Tweets"
+    "tweet_count": "487K Tweets"
   },
   {
     "name": "Bundesheer",
@@ -54,40 +54,40 @@
     "tweet_count": null
   },
   {
+    "name": "#2GPlus",
+    "query": "#2GPlus",
+    "rank": 10,
+    "tweet_count": "7,558 Tweets"
+  },
+  {
     "name": "Kombination",
     "query": "Kombination",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "#2GPlus",
-    "query": "#2GPlus",
-    "rank": 11,
-    "tweet_count": "7,515 Tweets"
-  },
-  {
-    "name": "Gesundheitsberufe",
-    "query": "Gesundheitsberufe",
+    "name": "gesundheitsberufe",
+    "query": "gesundheitsberufe",
     "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "Wagner",
-    "query": "Wagner",
-    "rank": 13,
-    "tweet_count": "19.1K Tweets"
-  },
-  {
     "name": "Impfung",
     "query": "Impfung",
+    "rank": 13,
+    "tweet_count": "36.4K Tweets"
+  },
+  {
+    "name": "Wagner",
+    "query": "Wagner",
     "rank": 14,
-    "tweet_count": "36K Tweets"
+    "tweet_count": "19.3K Tweets"
   },
   {
     "name": "Britney",
     "query": "Britney",
     "rank": 15,
-    "tweet_count": "545K Tweets"
+    "tweet_count": "547K Tweets"
   },
   {
     "name": "Empörungskultur",
@@ -96,8 +96,8 @@
     "tweet_count": null
   },
   {
-    "name": "Gemeinwohl",
-    "query": "Gemeinwohl",
+    "name": "gemeinwohl",
+    "query": "gemeinwohl",
     "rank": 17,
     "tweet_count": null
   },
@@ -105,17 +105,17 @@
     "name": "Felber",
     "query": "Felber",
     "rank": 18,
-    "tweet_count": "5,162 Tweets"
-  },
-  {
-    "name": "Nebenwirkungen",
-    "query": "Nebenwirkungen",
-    "rank": 19,
-    "tweet_count": "2,380 Tweets"
+    "tweet_count": "5,172 Tweets"
   },
   {
     "name": "peter klimek",
     "query": "\"peter klimek\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Griss",
+    "query": "Griss",
     "rank": 20,
     "tweet_count": null
   }
