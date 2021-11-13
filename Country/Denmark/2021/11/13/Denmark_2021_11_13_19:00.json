@@ -18,8 +18,8 @@
     "tweet_count": null
   },
   {
-    "name": "Parken",
-    "query": "Parken",
+    "name": "parken",
+    "query": "parken",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,7 +27,7 @@
     "name": "Britney",
     "query": "Britney",
     "rank": 5,
-    "tweet_count": "639K Tweets"
+    "tweet_count": "642K Tweets"
   },
   {
     "name": "#denfro",
@@ -45,11 +45,11 @@
     "name": "Coop",
     "query": "Coop",
     "rank": 8,
-    "tweet_count": "7,816 Tweets"
+    "tweet_count": "7,899 Tweets"
   },
   {
-    "name": "#besserwisserne",
-    "query": "#besserwisserne",
+    "name": "Lindstrøm",
+    "query": "Lindstrøm",
     "rank": 9,
     "tweet_count": null
   },
@@ -60,52 +60,52 @@
     "tweet_count": "104K Tweets"
   },
   {
-    "name": "lindstrøm",
-    "query": "lindstrøm",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
     "name": "Arcane",
     "query": "Arcane",
-    "rank": 12,
-    "tweet_count": "153K Tweets"
+    "rank": 11,
+    "tweet_count": "156K Tweets"
   },
   {
     "name": "#landsholdet",
     "query": "#landsholdet",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "#besserwisserne",
+    "query": "#besserwisserne",
     "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Kasper Schmeichel",
-    "query": "\"Kasper Schmeichel\"",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Syrien",
-    "query": "Syrien",
-    "rank": 15,
-    "tweet_count": "1,116 Tweets"
-  },
-  {
-    "name": "Lars Høgh",
-    "query": "\"Lars Høgh\"",
-    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Aalborg",
     "query": "Aalborg",
-    "rank": 17,
+    "rank": 14,
     "tweet_count": null
+  },
+  {
+    "name": "kasper schmeichel",
+    "query": "\"kasper schmeichel\"",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "lars høgh",
+    "query": "\"lars høgh\"",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Syrien",
+    "query": "Syrien",
+    "rank": 17,
+    "tweet_count": "1,143 Tweets"
   },
   {
     "name": "sadie",
     "query": "sadie",
     "rank": 18,
-    "tweet_count": "413K Tweets"
+    "tweet_count": "415K Tweets"
   },
   {
     "name": "Morten Olsen",
@@ -117,6 +117,6 @@
     "name": "Taylor Swift",
     "query": "\"Taylor Swift\"",
     "rank": 20,
-    "tweet_count": "598K Tweets"
+    "tweet_count": "602K Tweets"
   }
 ]
