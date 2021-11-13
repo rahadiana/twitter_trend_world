@@ -12,16 +12,16 @@
     "tweet_count": null
   },
   {
-    "name": "Parken",
-    "query": "Parken",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
     "name": "Britney",
     "query": "Britney",
+    "rank": 3,
+    "tweet_count": "472K Tweets"
+  },
+  {
+    "name": "#COP26",
+    "query": "#COP26",
     "rank": 4,
-    "tweet_count": "469K Tweets"
+    "tweet_count": "169K Tweets"
   },
   {
     "name": "Færøerne",
@@ -33,23 +33,23 @@
     "name": "Hamilton",
     "query": "Hamilton",
     "rank": 6,
-    "tweet_count": "192K Tweets"
+    "tweet_count": "194K Tweets"
+  },
+  {
+    "name": "parken",
+    "query": "parken",
+    "rank": 7,
+    "tweet_count": null
   },
   {
     "name": "Arcane",
     "query": "Arcane",
-    "rank": 7,
-    "tweet_count": "171K Tweets"
-  },
-  {
-    "name": "østrig",
-    "query": "østrig",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "176K Tweets"
   },
   {
-    "name": "Lars Høgh",
-    "query": "\"Lars Høgh\"",
+    "name": "Østrig",
+    "query": "Østrig",
     "rank": 9,
     "tweet_count": null
   },
@@ -57,31 +57,31 @@
     "name": "Lewis",
     "query": "Lewis",
     "rank": 10,
-    "tweet_count": "150K Tweets"
+    "tweet_count": "153K Tweets"
   },
   {
-    "name": "#COP26",
-    "query": "#COP26",
+    "name": "Lars Høgh",
+    "query": "\"Lars Høgh\"",
     "rank": 11,
-    "tweet_count": "164K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Coop",
     "query": "Coop",
     "rank": 12,
-    "tweet_count": "7,662 Tweets"
-  },
-  {
-    "name": "Lindstrøm",
-    "query": "Lindstrøm",
-    "rank": 13,
-    "tweet_count": null
+    "tweet_count": "7,776 Tweets"
   },
   {
     "name": "Dani Alves",
     "query": "\"Dani Alves\"",
+    "rank": 13,
+    "tweet_count": "59.8K Tweets"
+  },
+  {
+    "name": "lindstrøm",
+    "query": "lindstrøm",
     "rank": 14,
-    "tweet_count": "59.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#landsholdet",
@@ -90,8 +90,8 @@
     "tweet_count": null
   },
   {
-    "name": "kasper schmeichel",
-    "query": "\"kasper schmeichel\"",
+    "name": "Kasper Schmeichel",
+    "query": "\"Kasper Schmeichel\"",
     "rank": 16,
     "tweet_count": null
   },
@@ -99,17 +99,17 @@
     "name": "Syrien",
     "query": "Syrien",
     "rank": 17,
-    "tweet_count": "1,235 Tweets"
+    "tweet_count": "1,273 Tweets"
   },
   {
-    "name": "Hans Engell",
-    "query": "\"Hans Engell\"",
+    "name": "hans engell",
+    "query": "\"hans engell\"",
     "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "#kv21",
-    "query": "#kv21",
+    "name": "#minkkommissionen",
+    "query": "#minkkommissionen",
     "rank": 19,
     "tweet_count": null
   },
@@ -117,6 +117,6 @@
     "name": "Glasgow",
     "query": "Glasgow",
     "rank": 20,
-    "tweet_count": "57.6K Tweets"
+    "tweet_count": "59.9K Tweets"
   }
 ]

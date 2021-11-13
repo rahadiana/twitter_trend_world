@@ -6,34 +6,34 @@
     "tweet_count": null
   },
   {
-    "name": "Oslo",
-    "query": "Oslo",
+    "name": "saeimas",
+    "query": "saeimas",
     "rank": 2,
-    "tweet_count": "3,017 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Saeimas",
-    "query": "Saeimas",
+    "name": "Putin",
+    "query": "Putin",
     "rank": 3,
+    "tweet_count": "35.9K Tweets"
+  },
+  {
+    "name": "Oslo",
+    "query": "Oslo",
+    "rank": 4,
+    "tweet_count": "3,071 Tweets"
+  },
+  {
+    "name": "gobzems",
+    "query": "gobzems",
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "NATO",
     "query": "NATO",
-    "rank": 4,
-    "tweet_count": "27K Tweets"
-  },
-  {
-    "name": "Putin",
-    "query": "Putin",
-    "rank": 5,
-    "tweet_count": "35.2K Tweets"
-  },
-  {
-    "name": "gobzems",
-    "query": "gobzems",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "27.4K Tweets"
   },
   {
     "name": "Satversmi",
@@ -51,43 +51,43 @@
     "name": "Taylor",
     "query": "Taylor",
     "rank": 9,
-    "tweet_count": "1.38M Tweets"
-  },
-  {
-    "name": "Russia",
-    "query": "Russia",
-    "rank": 10,
-    "tweet_count": "74.8K Tweets"
+    "tweet_count": "1.39M Tweets"
   },
   {
     "name": "lāčplēša",
     "query": "lāčplēša",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Varētu",
-    "query": "Varētu",
-    "rank": 12,
-    "tweet_count": null
+    "name": "Russia",
+    "query": "Russia",
+    "rank": 11,
+    "tweet_count": "76.1K Tweets"
   },
   {
     "name": "Pasaules",
     "query": "Pasaules",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "gribēju",
     "query": "gribēju",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Varētu",
+    "query": "Varētu",
     "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "Prieks",
-    "query": "Prieks",
+    "name": "No 15",
+    "query": "\"No 15\"",
     "rank": 15,
-    "tweet_count": null
+    "tweet_count": "59K Tweets"
   },
   {
     "name": "polija",
@@ -96,10 +96,10 @@
     "tweet_count": null
   },
   {
-    "name": "No 15",
-    "query": "\"No 15\"",
+    "name": "nebūs",
+    "query": "nebūs",
     "rank": 17,
-    "tweet_count": "57.8K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Viņiem",
@@ -108,14 +108,14 @@
     "tweet_count": null
   },
   {
-    "name": "Nebūs",
-    "query": "Nebūs",
+    "name": "Brīvības",
+    "query": "Brīvības",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Toties",
-    "query": "Toties",
+    "name": "Valmieras",
+    "query": "Valmieras",
     "rank": 20,
     "tweet_count": null
   }
