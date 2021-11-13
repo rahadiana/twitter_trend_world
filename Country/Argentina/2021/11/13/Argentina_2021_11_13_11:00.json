@@ -12,16 +12,16 @@
     "tweet_count": null
   },
   {
-    "name": "Uruguay",
-    "query": "Uruguay",
-    "rank": 3,
-    "tweet_count": "77.4K Tweets"
-  },
-  {
     "name": "Di María",
     "query": "\"Di María\"",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": "30.2K Tweets"
+  },
+  {
+    "name": "Uruguay",
+    "query": "Uruguay",
+    "rank": 4,
+    "tweet_count": "77.6K Tweets"
   },
   {
     "name": "Dybala",
@@ -33,19 +33,19 @@
     "name": "sadie",
     "query": "sadie",
     "rank": 6,
-    "tweet_count": "349K Tweets"
+    "tweet_count": "351K Tweets"
   },
   {
     "name": "Tini",
     "query": "Tini",
     "rank": 7,
-    "tweet_count": "21K Tweets"
+    "tweet_count": "21.1K Tweets"
   },
   {
     "name": "#MarchaDeLasVelas",
     "query": "#MarchaDeLasVelas",
     "rank": 8,
-    "tweet_count": "30.9K Tweets"
+    "tweet_count": "31K Tweets"
   },
   {
     "name": "Argentina",
@@ -57,25 +57,25 @@
     "name": "Scaloneta",
     "query": "Scaloneta",
     "rank": 10,
-    "tweet_count": "20.4K Tweets"
+    "tweet_count": "20.5K Tweets"
   },
   {
     "name": "Jake Gyllenhaal",
     "query": "\"Jake Gyllenhaal\"",
     "rank": 11,
-    "tweet_count": "293K Tweets"
+    "tweet_count": "294K Tweets"
+  },
+  {
+    "name": "#PalermoWuhan",
+    "query": "#PalermoWuhan",
+    "rank": 12,
+    "tweet_count": null
   },
   {
     "name": "Messi",
     "query": "Messi",
-    "rank": 12,
-    "tweet_count": "129K Tweets"
-  },
-  {
-    "name": "Nicki Nicole",
-    "query": "\"Nicki Nicole\"",
     "rank": 13,
-    "tweet_count": "13.1K Tweets"
+    "tweet_count": "130K Tweets"
   },
   {
     "name": "Dibu",
@@ -84,39 +84,39 @@
     "tweet_count": "15.9K Tweets"
   },
   {
-    "name": "cuti romero",
-    "query": "\"cuti romero\"",
+    "name": "Nicki Nicole",
+    "query": "\"Nicki Nicole\"",
     "rank": 15,
-    "tweet_count": "4,612 Tweets"
+    "tweet_count": "13.1K Tweets"
   },
   {
     "name": "Britney",
     "query": "Britney",
     "rank": 16,
-    "tweet_count": "559K Tweets"
+    "tweet_count": "560K Tweets"
   },
   {
-    "name": "#PalermoWuhan",
-    "query": "#PalermoWuhan",
+    "name": "Cuti Romero",
+    "query": "\"Cuti Romero\"",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "4,624 Tweets"
   },
   {
     "name": "Paredes",
     "query": "Paredes",
     "rank": 18,
-    "tweet_count": "10.6K Tweets"
-  },
-  {
-    "name": "Guido Rodríguez",
-    "query": "\"Guido Rodríguez\"",
-    "rank": 19,
-    "tweet_count": "2,112 Tweets"
+    "tweet_count": "10.7K Tweets"
   },
   {
     "name": "#VotoAVotoLaDamosVuelta",
     "query": "#VotoAVotoLaDamosVuelta",
+    "rank": 19,
+    "tweet_count": "23.6K Tweets"
+  },
+  {
+    "name": "Guido Rodríguez",
+    "query": "\"Guido Rodríguez\"",
     "rank": 20,
-    "tweet_count": "23.5K Tweets"
+    "tweet_count": "2,117 Tweets"
   }
 ]
