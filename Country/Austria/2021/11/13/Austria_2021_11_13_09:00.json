@@ -6,16 +6,16 @@
     "tweet_count": null
   },
   {
-    "name": "Lockdown für Ungeimpfte",
-    "query": "\"Lockdown für Ungeimpfte\"",
+    "name": "Lockdown",
+    "query": "Lockdown",
     "rank": 2,
-    "tweet_count": "4,820 Tweets"
+    "tweet_count": "190K Tweets"
   },
   {
-    "name": "Neuinfektionen",
-    "query": "Neuinfektionen",
+    "name": "Fälle",
+    "query": "Fälle",
     "rank": 3,
-    "tweet_count": "7,518 Tweets"
+    "tweet_count": "3,853 Tweets"
   },
   {
     "name": "#Haslauer",
@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "Fälle",
-    "query": "Fälle",
+    "name": "Neuinfektionen",
+    "query": "Neuinfektionen",
     "rank": 5,
-    "tweet_count": "3,722 Tweets"
+    "tweet_count": "7,679 Tweets"
   },
   {
     "name": "Impfpflicht",
     "query": "Impfpflicht",
     "rank": 6,
-    "tweet_count": "14.2K Tweets"
+    "tweet_count": "14.5K Tweets"
   },
   {
     "name": "#zibspezial",
@@ -45,25 +45,25 @@
     "name": "#RedTaylorsVersion",
     "query": "#RedTaylorsVersion",
     "rank": 8,
-    "tweet_count": "483K Tweets"
+    "tweet_count": "485K Tweets"
   },
   {
-    "name": "Kombination",
-    "query": "Kombination",
+    "name": "Impfung",
+    "query": "Impfung",
     "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Bundesheer",
-    "query": "Bundesheer",
-    "rank": 10,
-    "tweet_count": null
+    "tweet_count": "35.6K Tweets"
   },
   {
     "name": "#2GPlus",
     "query": "#2GPlus",
+    "rank": 10,
+    "tweet_count": "7,454 Tweets"
+  },
+  {
+    "name": "Kombination",
+    "query": "Kombination",
     "rank": 11,
-    "tweet_count": "7,326 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Gesundheitsberufe",
@@ -72,22 +72,22 @@
     "tweet_count": null
   },
   {
-    "name": "Wagner",
-    "query": "Wagner",
+    "name": "Bundesheer",
+    "query": "Bundesheer",
     "rank": 13,
-    "tweet_count": "18.7K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Impfung",
-    "query": "Impfung",
+    "name": "Wagner",
+    "query": "Wagner",
     "rank": 14,
-    "tweet_count": "34.8K Tweets"
+    "tweet_count": "19K Tweets"
   },
   {
     "name": "Britney",
     "query": "Britney",
     "rank": 15,
-    "tweet_count": "539K Tweets"
+    "tweet_count": "543K Tweets"
   },
   {
     "name": "empörungskultur",
@@ -96,26 +96,26 @@
     "tweet_count": null
   },
   {
-    "name": "Wien",
-    "query": "Wien",
-    "rank": 17,
-    "tweet_count": "6,683 Tweets"
-  },
-  {
     "name": "gemeinwohl",
     "query": "gemeinwohl",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Felber",
     "query": "Felber",
-    "rank": 19,
-    "tweet_count": "5,104 Tweets"
+    "rank": 18,
+    "tweet_count": "5,151 Tweets"
   },
   {
     "name": "peter klimek",
     "query": "\"peter klimek\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Griss",
+    "query": "Griss",
     "rank": 20,
     "tweet_count": null
   }
