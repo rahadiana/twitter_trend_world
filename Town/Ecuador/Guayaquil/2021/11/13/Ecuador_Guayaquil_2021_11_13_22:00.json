@@ -1,75 +1,75 @@
 [
   {
+    "name": "Presidente",
+    "query": "Presidente",
+    "rank": 1,
+    "tweet_count": "445K Tweets"
+  },
+  {
     "name": "Correa",
     "query": "Correa",
-    "rank": 1,
-    "tweet_count": "29.4K Tweets"
+    "rank": 2,
+    "tweet_count": "29.6K Tweets"
   },
   {
     "name": "#CrisisCarcelaria",
     "query": "#CrisisCarcelaria",
-    "rank": 2,
-    "tweet_count": "12.6K Tweets"
+    "rank": 3,
+    "tweet_count": "12.8K Tweets"
   },
   {
     "name": "Corte Constitucional",
     "query": "\"Corte Constitucional\"",
-    "rank": 3,
-    "tweet_count": "18.7K Tweets"
+    "rank": 4,
+    "tweet_count": "19K Tweets"
   },
   {
     "name": "#PenitenciariaDelLitoral",
     "query": "#PenitenciariaDelLitoral",
-    "rank": 4,
-    "tweet_count": "42.3K Tweets"
+    "rank": 5,
+    "tweet_count": "42.7K Tweets"
   },
   {
-    "name": "Presidente",
-    "query": "Presidente",
-    "rank": 5,
-    "tweet_count": "441K Tweets"
+    "name": "Carlos Jijón",
+    "query": "\"Carlos Jijón\"",
+    "rank": 6,
+    "tweet_count": null
   },
   {
     "name": "#LassoRenuncia",
     "query": "#LassoRenuncia",
-    "rank": 6,
-    "tweet_count": "1,749 Tweets"
+    "rank": 7,
+    "tweet_count": "1,792 Tweets"
   },
   {
     "name": "Ejecutivo",
     "query": "Ejecutivo",
-    "rank": 7,
-    "tweet_count": "9,463 Tweets"
-  },
-  {
-    "name": "FFAA",
-    "query": "FFAA",
     "rank": 8,
-    "tweet_count": "5,649 Tweets"
+    "tweet_count": "9,581 Tweets"
   },
   {
     "name": "Abraham Muñoz",
     "query": "\"Abraham Muñoz\"",
     "rank": 9,
-    "tweet_count": "1,430 Tweets"
+    "tweet_count": "1,446 Tweets"
+  },
+  {
+    "name": "FFAA",
+    "query": "FFAA",
+    "rank": 10,
+    "tweet_count": "5,715 Tweets"
   },
   {
     "name": "PPLs",
     "query": "PPLs",
-    "rank": 10,
-    "tweet_count": "7,347 Tweets"
+    "rank": 11,
+    "tweet_count": "7,392 Tweets"
   },
   {
     "name": "Moreno",
     "query": "Moreno",
-    "rank": 11,
-    "tweet_count": "41.7K Tweets"
-  },
-  {
-    "name": "#ElManualDelCorreísta",
-    "query": "#ElManualDelCorreísta",
     "rank": 12,
-    "tweet_count": "3,706 Tweets"
+    "tweet_count": "42K Tweets"
   },
   {
     "name": "#LassoEvassor",
@@ -78,45 +78,45 @@
     "tweet_count": null
   },
   {
+    "name": "#ElManualDelCorreísta",
+    "query": "#ElManualDelCorreísta",
+    "rank": 14,
+    "tweet_count": "3,722 Tweets"
+  },
+  {
     "name": "INEPTO",
     "query": "INEPTO",
-    "rank": 14,
-    "tweet_count": "6,519 Tweets"
+    "rank": 15,
+    "tweet_count": "6,611 Tweets"
   },
   {
     "name": "DDHH",
     "query": "DDHH",
-    "rank": 15,
-    "tweet_count": "32.6K Tweets"
+    "rank": 16,
+    "tweet_count": "33K Tweets"
   },
   {
     "name": "Salcedo",
     "query": "Salcedo",
-    "rank": 16,
-    "tweet_count": "2,336 Tweets"
+    "rank": 17,
+    "tweet_count": "2,363 Tweets"
   },
   {
     "name": "Hamilton",
     "query": "Hamilton",
-    "rank": 17,
-    "tweet_count": "195K Tweets"
-  },
-  {
-    "name": "SNAI",
-    "query": "SNAI",
     "rank": 18,
-    "tweet_count": "8,988 Tweets"
+    "tweet_count": "196K Tweets"
   },
   {
     "name": "Pablo Arosemena",
     "query": "\"Pablo Arosemena\"",
     "rank": 19,
-    "tweet_count": "2,451 Tweets"
+    "tweet_count": "2,484 Tweets"
   },
   {
-    "name": "Fuerzas Armadas",
-    "query": "\"Fuerzas Armadas\"",
+    "name": "SNAI",
+    "query": "SNAI",
     "rank": 20,
-    "tweet_count": "5,909 Tweets"
+    "tweet_count": "9,074 Tweets"
   }
 ]
