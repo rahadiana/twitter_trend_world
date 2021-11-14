@@ -1,37 +1,37 @@
 [
   {
+    "name": "#Presseclub",
+    "query": "#Presseclub",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "Schönen Sonntag",
     "query": "\"Schönen Sonntag\"",
-    "rank": 1,
-    "tweet_count": "3,861 Tweets"
+    "rank": 2,
+    "tweet_count": "3,993 Tweets"
   },
   {
     "name": "#ImpftEuchInsKnie",
     "query": "#ImpftEuchInsKnie",
-    "rank": 2,
-    "tweet_count": "2,372 Tweets"
+    "rank": 3,
+    "tweet_count": "2,585 Tweets"
   },
   {
     "name": "Impfpflicht ist OK",
     "query": "\"Impfpflicht ist OK\"",
-    "rank": 3,
-    "tweet_count": "1,910 Tweets"
+    "rank": 4,
+    "tweet_count": "2,199 Tweets"
   },
   {
     "name": "#Volkstrauertag",
     "query": "#Volkstrauertag",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "#dopa",
-    "query": "#dopa",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "1,060 Tweets"
   },
   {
-    "name": "Sonntagmorgen",
-    "query": "Sonntagmorgen",
+    "name": "sonntagmorgen",
+    "query": "sonntagmorgen",
     "rank": 6,
     "tweet_count": null
   },
@@ -45,7 +45,7 @@
     "name": "wonho",
     "query": "wonho",
     "rank": 8,
-    "tweet_count": "117K Tweets"
+    "tweet_count": "120K Tweets"
   },
   {
     "name": "Moin Klaus",
@@ -57,25 +57,25 @@
     "name": "Juristen",
     "query": "Juristen",
     "rank": 10,
-    "tweet_count": "1,975 Tweets"
-  },
-  {
-    "name": "Homöopathie",
-    "query": "Homöopathie",
-    "rank": 11,
-    "tweet_count": "1,409 Tweets"
+    "tweet_count": "2,057 Tweets"
   },
   {
     "name": "schlagzeile",
     "query": "schlagzeile",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "Streeck",
-    "query": "Streeck",
+    "name": "Homöopathie",
+    "query": "Homöopathie",
+    "rank": 12,
+    "tweet_count": "1,453 Tweets"
+  },
+  {
+    "name": "#dopa",
+    "query": "#dopa",
     "rank": 13,
-    "tweet_count": "4,409 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Kretschmer",
@@ -84,21 +84,27 @@
     "tweet_count": null
   },
   {
+    "name": "#TransAwarenessWeek",
+    "query": "#TransAwarenessWeek",
+    "rank": 15,
+    "tweet_count": "19.6K Tweets"
+  },
+  {
     "name": "#Habeck",
     "query": "#Habeck",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "#SchlussmitderImpfdebatte",
-    "query": "#SchlussmitderImpfdebatte",
-    "rank": 16,
+    "name": "#schlussmitderimpfdebatte",
+    "query": "#schlussmitderimpfdebatte",
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "#litcampherbst21",
     "query": "#litcampherbst21",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
   }
 ]
