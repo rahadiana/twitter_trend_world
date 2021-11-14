@@ -9,19 +9,19 @@
     "name": "Latvia",
     "query": "Latvia",
     "rank": 2,
-    "tweet_count": "6,784 Tweets"
-  },
-  {
-    "name": "#norlat",
-    "query": "#norlat",
-    "rank": 3,
-    "tweet_count": null
+    "tweet_count": "6,813 Tweets"
   },
   {
     "name": "Nederland",
     "query": "Nederland",
+    "rank": 3,
+    "tweet_count": "21.5K Tweets"
+  },
+  {
+    "name": "#norlat",
+    "query": "#norlat",
     "rank": 4,
-    "tweet_count": "21.3K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Montenegro",
@@ -33,7 +33,7 @@
     "name": "Qatar",
     "query": "Qatar",
     "rank": 6,
-    "tweet_count": "41.9K Tweets"
+    "tweet_count": "42.1K Tweets"
   },
   {
     "name": "Sørloth",
@@ -42,8 +42,8 @@
     "tweet_count": null
   },
   {
-    "name": "tyrkia",
-    "query": "tyrkia",
+    "name": "Tyrkia",
+    "query": "Tyrkia",
     "rank": 8,
     "tweet_count": null
   },
@@ -51,7 +51,7 @@
     "name": "Norge",
     "query": "Norge",
     "rank": 9,
-    "tweet_count": "3,116 Tweets"
+    "tweet_count": "3,130 Tweets"
   },
   {
     "name": "#norlva",
@@ -69,7 +69,7 @@
     "name": "Haaland",
     "query": "Haaland",
     "rank": 12,
-    "tweet_count": "7,405 Tweets"
+    "tweet_count": "7,456 Tweets"
   },
   {
     "name": "lehne olsen",
@@ -90,10 +90,10 @@
     "tweet_count": null
   },
   {
-    "name": "Erna",
-    "query": "Erna",
+    "name": "Hamilton",
+    "query": "Hamilton",
     "rank": 16,
-    "tweet_count": "1,600 Tweets"
+    "tweet_count": "176K Tweets"
   },
   {
     "name": "Solbakken",
@@ -102,15 +102,15 @@
     "tweet_count": null
   },
   {
-    "name": "Hamilton",
-    "query": "Hamilton",
-    "rank": 18,
-    "tweet_count": "176K Tweets"
-  },
-  {
     "name": "Lode",
     "query": "Lode",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Erna",
+    "query": "Erna",
+    "rank": 19,
+    "tweet_count": "1,615 Tweets"
   }
 ]
