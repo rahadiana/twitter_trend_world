@@ -1,31 +1,31 @@
 [
   {
+    "name": "Hamilton",
+    "query": "Hamilton",
+    "rank": 1,
+    "tweet_count": "394K Tweets"
+  },
+  {
+    "name": "Breida",
+    "query": "Breida",
+    "rank": 2,
+    "tweet_count": "2,297 Tweets"
+  },
+  {
     "name": "Saleh",
     "query": "Saleh",
-    "rank": 1,
-    "tweet_count": "17.4K Tweets"
+    "rank": 3,
+    "tweet_count": "17.8K Tweets"
   },
   {
     "name": "Allen",
     "query": "Allen",
-    "rank": 2,
-    "tweet_count": "50K Tweets"
-  },
-  {
-    "name": "Flacco",
-    "query": "Flacco",
-    "rank": 3,
-    "tweet_count": null
+    "rank": 4,
+    "tweet_count": "50.9K Tweets"
   },
   {
     "name": "AJ Klein",
     "query": "\"AJ Klein\"",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "Spencer Brown",
-    "query": "\"Spencer Brown\"",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,7 +33,7 @@
     "name": "McKenzie",
     "query": "McKenzie",
     "rank": 6,
-    "tweet_count": "3,553 Tweets"
+    "tweet_count": "3,635 Tweets"
   },
   {
     "name": "Ed Oliver",
@@ -42,81 +42,81 @@
     "tweet_count": null
   },
   {
-    "name": "Moss",
-    "query": "Moss",
+    "name": "Spencer Brown",
+    "query": "\"Spencer Brown\"",
     "rank": 8,
-    "tweet_count": "14.7K Tweets"
-  },
-  {
-    "name": "Dawkins",
-    "query": "Dawkins",
-    "rank": 9,
-    "tweet_count": "1,724 Tweets"
-  },
-  {
-    "name": "Daboll",
-    "query": "Daboll",
-    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Guidry",
     "query": "Guidry",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Joe Douglas",
+    "query": "\"Joe Douglas\"",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "Daboll",
+    "query": "Daboll",
     "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "#BillsByABillion",
-    "query": "#BillsByABillion",
+    "name": "Dawkins",
+    "query": "Dawkins",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "1,744 Tweets"
   },
   {
     "name": "#BrazilianGP",
     "query": "#BrazilianGP",
     "rank": 13,
-    "tweet_count": "38K Tweets"
+    "tweet_count": "38.3K Tweets"
   },
   {
-    "name": "Sanders",
-    "query": "Sanders",
+    "name": "#BillsByABillion",
+    "query": "#BillsByABillion",
     "rank": 14,
-    "tweet_count": "17.7K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Lewis",
+    "query": "Lewis",
+    "rank": 15,
+    "tweet_count": "311K Tweets"
   },
   {
     "name": "Knox",
     "query": "Knox",
-    "rank": 15,
-    "tweet_count": "6,128 Tweets"
+    "rank": 16,
+    "tweet_count": "6,213 Tweets"
   },
   {
-    "name": "#FanDuelisPHENOMENAL",
-    "query": "#FanDuelisPHENOMENAL",
-    "rank": 16,
-    "tweet_count": "3,679 Tweets"
+    "name": "#BrazilGP",
+    "query": "#BrazilGP",
+    "rank": 17,
+    "tweet_count": "244K Tweets"
   },
   {
     "name": "Portugal",
     "query": "Portugal",
-    "rank": 17,
-    "tweet_count": "57.3K Tweets"
-  },
-  {
-    "name": "Stevenson",
-    "query": "Stevenson",
     "rank": 18,
-    "tweet_count": "11.8K Tweets"
+    "tweet_count": "60K Tweets"
   },
   {
-    "name": "Newark",
-    "query": "Newark",
+    "name": "#ATLvsDAL",
+    "query": "#ATLvsDAL",
     "rank": 19,
-    "tweet_count": "2,723 Tweets"
+    "tweet_count": "31.3K Tweets"
   },
   {
-    "name": "#AskFFT",
-    "query": "#AskFFT",
+    "name": "#DETvsPIT",
+    "query": "#DETvsPIT",
     "rank": 20,
-    "tweet_count": "6,567 Tweets"
+    "tweet_count": "5,822 Tweets"
   }
 ]
