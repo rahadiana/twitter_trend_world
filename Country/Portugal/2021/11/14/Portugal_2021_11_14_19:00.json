@@ -3,73 +3,73 @@
     "name": "Hamilton",
     "query": "Hamilton",
     "rank": 1,
-    "tweet_count": "389K Tweets"
+    "tweet_count": "400K Tweets"
   },
   {
     "name": "Danilo",
     "query": "Danilo",
     "rank": 2,
-    "tweet_count": "9,201 Tweets"
-  },
-  {
-    "name": "#F1ELEVEN",
-    "query": "#F1ELEVEN",
-    "rank": 3,
-    "tweet_count": "1,246 Tweets"
+    "tweet_count": "9,435 Tweets"
   },
   {
     "name": "Palhinha",
     "query": "Palhinha",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Moutinho",
     "query": "Moutinho",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "#F1ELEVEN",
+    "query": "#F1ELEVEN",
+    "rank": 5,
+    "tweet_count": "1,261 Tweets"
   },
   {
     "name": "Bruno Fernandes",
     "query": "\"Bruno Fernandes\"",
     "rank": 6,
-    "tweet_count": "1,492 Tweets"
+    "tweet_count": "1,542 Tweets"
+  },
+  {
+    "name": "Renato",
+    "query": "Renato",
+    "rank": 7,
+    "tweet_count": "54.3K Tweets"
   },
   {
     "name": "Senna",
     "query": "Senna",
-    "rank": 7,
-    "tweet_count": "35.2K Tweets"
-  },
-  {
-    "name": "#BrazilianGP",
-    "query": "#BrazilianGP",
     "rank": 8,
-    "tweet_count": "38.1K Tweets"
+    "tweet_count": "37.6K Tweets"
   },
   {
-    "name": "Ferrari",
-    "query": "Ferrari",
+    "name": "Michael",
+    "query": "Michael",
     "rank": 9,
-    "tweet_count": "23.9K Tweets"
+    "tweet_count": "233K Tweets"
   },
   {
-    "name": "Norris",
-    "query": "Norris",
+    "name": "Bottas",
+    "query": "Bottas",
     "rank": 10,
-    "tweet_count": "19.6K Tweets"
+    "tweet_count": "57.8K Tweets"
   },
   {
-    "name": "GOAT",
-    "query": "GOAT",
+    "name": "Estádio da Luz",
+    "query": "\"Estádio da Luz\"",
     "rank": 11,
-    "tweet_count": "93.5K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Lando",
-    "query": "Lando",
+    "name": "Sérvia",
+    "query": "Sérvia",
     "rank": 12,
-    "tweet_count": "27.2K Tweets"
+    "tweet_count": "2,800 Tweets"
   },
   {
     "name": "Fernando Santos",
@@ -78,21 +78,45 @@
     "tweet_count": null
   },
   {
-    "name": "Rossi",
-    "query": "Rossi",
+    "name": "#BrazilianGP",
+    "query": "#BrazilianGP",
     "rank": 14,
-    "tweet_count": "63.5K Tweets"
+    "tweet_count": "38.7K Tweets"
   },
   {
-    "name": "Sérvia",
-    "query": "Sérvia",
+    "name": "Perez",
+    "query": "Perez",
     "rank": 15,
-    "tweet_count": "2,579 Tweets"
+    "tweet_count": "79.6K Tweets"
   },
   {
-    "name": "#fpfopenchallenge",
-    "query": "#fpfopenchallenge",
+    "name": "Ferrari",
+    "query": "Ferrari",
     "rank": 16,
-    "tweet_count": null
+    "tweet_count": "24.4K Tweets"
+  },
+  {
+    "name": "Norris",
+    "query": "Norris",
+    "rank": 17,
+    "tweet_count": "19.8K Tweets"
+  },
+  {
+    "name": "GOAT",
+    "query": "GOAT",
+    "rank": 18,
+    "tweet_count": "95.3K Tweets"
+  },
+  {
+    "name": "Lando",
+    "query": "Lando",
+    "rank": 19,
+    "tweet_count": "27.4K Tweets"
+  },
+  {
+    "name": "Red Bull",
+    "query": "\"Red Bull\"",
+    "rank": 20,
+    "tweet_count": "31.8K Tweets"
   }
 ]
