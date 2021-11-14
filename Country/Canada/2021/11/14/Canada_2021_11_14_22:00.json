@@ -1,122 +1,122 @@
 [
   {
-    "name": "Steelers",
-    "query": "Steelers",
+    "name": "#DETvsPIT",
+    "query": "#DETvsPIT",
     "rank": 1,
-    "tweet_count": "93.7K Tweets"
-  },
-  {
-    "name": "Lions",
-    "query": "Lions",
-    "rank": 2,
-    "tweet_count": "110K Tweets"
+    "tweet_count": "9,044 Tweets"
   },
   {
     "name": "Portugal",
     "query": "Portugal",
-    "rank": 3,
-    "tweet_count": "111K Tweets"
+    "rank": 2,
+    "tweet_count": "122K Tweets"
   },
   {
     "name": "Cam Newton",
     "query": "\"Cam Newton\"",
+    "rank": 3,
+    "tweet_count": "46.2K Tweets"
+  },
+  {
+    "name": "#twug",
+    "query": "#twug",
     "rank": 4,
-    "tweet_count": "43.3K Tweets"
-  },
-  {
-    "name": "#DETvsPIT",
-    "query": "#DETvsPIT",
-    "rank": 5,
-    "tweet_count": "8,873 Tweets"
-  },
-  {
-    "name": "#TWUG",
-    "query": "#TWUG",
-    "rank": 6,
-    "tweet_count": "1,516 Tweets"
+    "tweet_count": "2,478 Tweets"
   },
   {
     "name": "Serbia",
     "query": "Serbia",
-    "rank": 7,
-    "tweet_count": "47K Tweets"
+    "rank": 5,
+    "tweet_count": "52.9K Tweets"
   },
   {
-    "name": "Goff",
-    "query": "Goff",
-    "rank": 8,
-    "tweet_count": "17.6K Tweets"
+    "name": "Jared Goff",
+    "query": "\"Jared Goff\"",
+    "rank": 6,
+    "tweet_count": "7,048 Tweets"
   },
   {
     "name": "#ForeverNE",
     "query": "#ForeverNE",
-    "rank": 9,
-    "tweet_count": "13.6K Tweets"
+    "rank": 7,
+    "tweet_count": "13.9K Tweets"
   },
   {
     "name": "Elon",
     "query": "Elon",
-    "rank": 10,
-    "tweet_count": "155K Tweets"
+    "rank": 8,
+    "tweet_count": "160K Tweets"
   },
   {
     "name": "Cowboys",
     "query": "Cowboys",
-    "rank": 11,
-    "tweet_count": "56K Tweets"
-  },
-  {
-    "name": "Fernando Santos",
-    "query": "\"Fernando Santos\"",
-    "rank": 12,
-    "tweet_count": "31.7K Tweets"
-  },
-  {
-    "name": "Browns",
-    "query": "Browns",
-    "rank": 13,
-    "tweet_count": "74.7K Tweets"
+    "rank": 9,
+    "tweet_count": "57.2K Tweets"
   },
   {
     "name": "Mac Jones",
     "query": "\"Mac Jones\"",
-    "rank": 14,
-    "tweet_count": "28.1K Tweets"
+    "rank": 10,
+    "tweet_count": "28.6K Tweets"
   },
   {
-    "name": "#BillsMafia",
-    "query": "#BillsMafia",
-    "rank": 15,
+    "name": "#CLEvsNE",
+    "query": "#CLEvsNE",
+    "rank": 11,
     "tweet_count": "10.8K Tweets"
   },
   {
-    "name": "#OnePride",
-    "query": "#OnePride",
-    "rank": 16,
-    "tweet_count": "5,167 Tweets"
-  },
-  {
-    "name": "Mason Rudolph",
-    "query": "\"Mason Rudolph\"",
-    "rank": 17,
-    "tweet_count": "12.3K Tweets"
+    "name": "#Flames1stGoal",
+    "query": "#Flames1stGoal",
+    "rank": 12,
+    "tweet_count": null
   },
   {
     "name": "Patriots",
     "query": "Patriots",
+    "rank": 13,
+    "tweet_count": "96.8K Tweets"
+  },
+  {
+    "name": "Bucs",
+    "query": "Bucs",
+    "rank": 14,
+    "tweet_count": "20.5K Tweets"
+  },
+  {
+    "name": "Mike White",
+    "query": "\"Mike White\"",
+    "rank": 15,
+    "tweet_count": "12.7K Tweets"
+  },
+  {
+    "name": "Meyers",
+    "query": "Meyers",
+    "rank": 16,
+    "tweet_count": "13.2K Tweets"
+  },
+  {
+    "name": "Lewis",
+    "query": "Lewis",
+    "rank": 17,
+    "tweet_count": "319K Tweets"
+  },
+  {
+    "name": "Jota",
+    "query": "Jota",
     "rank": 18,
-    "tweet_count": "94.9K Tweets"
+    "tweet_count": "14.7K Tweets"
   },
   {
-    "name": "Brady",
-    "query": "Brady",
+    "name": "Baker",
+    "query": "Baker",
     "rank": 19,
-    "tweet_count": "35.6K Tweets"
+    "tweet_count": "47.3K Tweets"
   },
   {
-    "name": "Bernie",
-    "query": "Bernie",
+    "name": "Washington",
+    "query": "Washington",
     "rank": 20,
-    "tweet_count": "44K Tweets"
+    "tweet_count": "93.8K Tweets"
   }
 ]
