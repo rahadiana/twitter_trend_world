@@ -1,33 +1,33 @@
 [
   {
-    "name": "montembeault",
-    "query": "montembeault",
+    "name": "Larkin",
+    "query": "Larkin",
     "rank": 1,
-    "tweet_count": null
+    "tweet_count": "3,233 Tweets"
   },
   {
     "name": "Allen",
     "query": "Allen",
     "rank": 2,
-    "tweet_count": "58.7K Tweets"
+    "tweet_count": "59.1K Tweets"
   },
   {
     "name": "#Canucks",
     "query": "#Canucks",
     "rank": 3,
-    "tweet_count": "4,536 Tweets"
-  },
-  {
-    "name": "#AEWFullGear",
-    "query": "#AEWFullGear",
-    "rank": 4,
-    "tweet_count": "199K Tweets"
+    "tweet_count": "4,662 Tweets"
   },
   {
     "name": "#TaylorOnSNL",
     "query": "#TaylorOnSNL",
+    "rank": 4,
+    "tweet_count": "72.1K Tweets"
+  },
+  {
+    "name": "#AEWFullGear",
+    "query": "#AEWFullGear",
     "rank": 5,
-    "tweet_count": "69.5K Tweets"
+    "tweet_count": "200K Tweets"
   },
   {
     "name": "Demko",
@@ -39,7 +39,7 @@
     "name": "Pistons",
     "query": "Pistons",
     "rank": 7,
-    "tweet_count": "7,273 Tweets"
+    "tweet_count": "7,326 Tweets"
   },
   {
     "name": "McNabb",
@@ -48,51 +48,51 @@
     "tweet_count": null
   },
   {
-    "name": "Hoglander",
-    "query": "Hoglander",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Myers",
-    "query": "Myers",
-    "rank": 10,
-    "tweet_count": "4,861 Tweets"
-  },
-  {
-    "name": "Larkin",
-    "query": "Larkin",
-    "rank": 11,
-    "tweet_count": "3,204 Tweets"
-  },
-  {
     "name": "Petey",
     "query": "Petey",
-    "rank": 12,
-    "tweet_count": "1,317 Tweets"
+    "rank": 9,
+    "tweet_count": "1,335 Tweets"
   },
   {
     "name": "Hangman",
     "query": "Hangman",
-    "rank": 13,
-    "tweet_count": "34.2K Tweets"
+    "rank": 10,
+    "tweet_count": "35K Tweets"
   },
   {
     "name": "Rielly",
     "query": "Rielly",
-    "rank": 14,
-    "tweet_count": "1,465 Tweets"
-  },
-  {
-    "name": "Woll",
-    "query": "Woll",
-    "rank": 15,
-    "tweet_count": "2,655 Tweets"
+    "rank": 11,
+    "tweet_count": "1,473 Tweets"
   },
   {
     "name": "Horvat",
     "query": "Horvat",
-    "rank": 16,
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "Primeau",
+    "query": "Primeau",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Dermott",
+    "query": "Dermott",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Darby",
+    "query": "Darby",
+    "rank": 15,
+    "tweet_count": "10.5K Tweets"
+  },
+  {
+    "name": "Flynn",
+    "query": "Flynn",
+    "rank": 16,
+    "tweet_count": "66.4K Tweets"
   }
 ]
