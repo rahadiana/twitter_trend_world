@@ -1,15 +1,15 @@
 [
   {
-    "name": "#BELEST",
-    "query": "#BELEST",
+    "name": "#belest",
+    "query": "#belest",
     "rank": 1,
-    "tweet_count": "2,543 Tweets"
+    "tweet_count": "2,546 Tweets"
   },
   {
     "name": "#GrazieVale",
     "query": "#GrazieVale",
     "rank": 2,
-    "tweet_count": "129K Tweets"
+    "tweet_count": "139K Tweets"
   },
   {
     "name": "#7dag",
@@ -27,96 +27,96 @@
     "name": "Conner",
     "query": "Conner",
     "rank": 5,
-    "tweet_count": "3,432 Tweets"
-  },
-  {
-    "name": "Tabor",
-    "query": "Tabor",
-    "rank": 6,
-    "tweet_count": "1,294 Tweets"
+    "tweet_count": "3,500 Tweets"
   },
   {
     "name": "#CXWorldCup",
     "query": "#CXWorldCup",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "Qatar",
     "query": "Qatar",
+    "rank": 7,
+    "tweet_count": "42.6K Tweets"
+  },
+  {
+    "name": "Tabor",
+    "query": "Tabor",
     "rank": 8,
-    "tweet_count": "42.1K Tweets"
+    "tweet_count": "1,341 Tweets"
   },
   {
     "name": "Kazakhstan",
     "query": "Kazakhstan",
     "rank": 9,
-    "tweet_count": "36.3K Tweets"
+    "tweet_count": "36.5K Tweets"
   },
   {
     "name": "Hamilton",
     "query": "Hamilton",
     "rank": 10,
-    "tweet_count": "171K Tweets"
-  },
-  {
-    "name": "#BrazilGP",
-    "query": "#BrazilGP",
-    "rank": 11,
-    "tweet_count": "157K Tweets"
+    "tweet_count": "172K Tweets"
   },
   {
     "name": "Benteke",
     "query": "Benteke",
+    "rank": 11,
+    "tweet_count": "1,455 Tweets"
+  },
+  {
+    "name": "#BrazilGP",
+    "query": "#BrazilGP",
     "rank": 12,
-    "tweet_count": "1,452 Tweets"
+    "tweet_count": "158K Tweets"
   },
   {
     "name": "Verstappen",
     "query": "Verstappen",
     "rank": 13,
-    "tweet_count": "62.5K Tweets"
+    "tweet_count": "62.9K Tweets"
+  },
+  {
+    "name": "Sint",
+    "query": "Sint",
+    "rank": 14,
+    "tweet_count": "2,332 Tweets"
   },
   {
     "name": "Jambon",
     "query": "Jambon",
-    "rank": 14,
-    "tweet_count": "1,734 Tweets"
+    "rank": 15,
+    "tweet_count": "1,786 Tweets"
   },
   {
     "name": "Witsel",
     "query": "Witsel",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Coman",
     "query": "Coman",
-    "rank": 16,
-    "tweet_count": "33.1K Tweets"
-  },
-  {
-    "name": "Sint",
-    "query": "Sint",
     "rank": 17,
-    "tweet_count": "2,273 Tweets"
+    "tweet_count": "33.3K Tweets"
   },
   {
-    "name": "Denayer",
-    "query": "Denayer",
+    "name": "Bénin",
+    "query": "Bénin",
     "rank": 18,
+    "tweet_count": "7,249 Tweets"
+  },
+  {
+    "name": "Lachaert",
+    "query": "Lachaert",
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Carrasco",
     "query": "Carrasco",
-    "rank": 19,
-    "tweet_count": "9,861 Tweets"
-  },
-  {
-    "name": "Frank Vandenbroucke",
-    "query": "\"Frank Vandenbroucke\"",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "9,929 Tweets"
   }
 ]
