@@ -1,25 +1,25 @@
 [
   {
-    "name": "#HayCambio",
-    "query": "#HayCambio",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#BrazilGP",
     "query": "#BrazilGP",
+    "rank": 1,
+    "tweet_count": "253K Tweets"
+  },
+  {
+    "name": "#HayCambio",
+    "query": "#HayCambio",
     "rank": 2,
-    "tweet_count": "247K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#BrazilianGP",
     "query": "#BrazilianGP",
     "rank": 3,
-    "tweet_count": "37.5K Tweets"
+    "tweet_count": "38.1K Tweets"
   },
   {
-    "name": "toxic crow",
-    "query": "\"toxic crow\"",
+    "name": "Toxic Crow",
+    "query": "\"Toxic Crow\"",
     "rank": 4,
     "tweet_count": null
   },
@@ -33,13 +33,13 @@
     "name": "Laje",
     "query": "Laje",
     "rank": 6,
-    "tweet_count": "2,031 Tweets"
+    "tweet_count": "2,042 Tweets"
   },
   {
     "name": "Día Mundial de la Diabetes",
     "query": "\"Día Mundial de la Diabetes\"",
     "rank": 7,
-    "tweet_count": "5,816 Tweets"
+    "tweet_count": "5,916 Tweets"
   },
   {
     "name": "wilfredo tejada",
@@ -48,8 +48,8 @@
     "tweet_count": null
   },
   {
-    "name": "junior noboa",
-    "query": "\"junior noboa\"",
+    "name": "Junior Noboa",
+    "query": "\"Junior Noboa\"",
     "rank": 9,
     "tweet_count": null
   },
@@ -57,47 +57,47 @@
     "name": "Feliz Domingo",
     "query": "\"Feliz Domingo\"",
     "rank": 10,
-    "tweet_count": "41.1K Tweets"
-  },
-  {
-    "name": "Austria",
-    "query": "Austria",
-    "rank": 11,
-    "tweet_count": "91.8K Tweets"
+    "tweet_count": "41.5K Tweets"
   },
   {
     "name": "Gaby",
     "query": "Gaby",
+    "rank": 11,
+    "tweet_count": "14.7K Tweets"
+  },
+  {
+    "name": "Austria",
+    "query": "Austria",
     "rank": 12,
-    "tweet_count": "14.6K Tweets"
-  },
-  {
-    "name": "Disque",
-    "query": "Disque",
-    "rank": 13,
-    "tweet_count": "3,602 Tweets"
-  },
-  {
-    "name": "#MargaritaEnSDN",
-    "query": "#MargaritaEnSDN",
-    "rank": 14,
-    "tweet_count": null
+    "tweet_count": "93.9K Tweets"
   },
   {
     "name": "#FelizSabado",
     "query": "#FelizSabado",
-    "rank": 15,
-    "tweet_count": "8,751 Tweets"
-  },
-  {
-    "name": "Danny Santana",
-    "query": "\"Danny Santana\"",
-    "rank": 16,
-    "tweet_count": null
+    "rank": 13,
+    "tweet_count": "8,768 Tweets"
   },
   {
     "name": "Loma Miranda",
     "query": "\"Loma Miranda\"",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "disque",
+    "query": "disque",
+    "rank": 15,
+    "tweet_count": "3,636 Tweets"
+  },
+  {
+    "name": "#MargaritaEnSDN",
+    "query": "#MargaritaEnSDN",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Danny Santana",
+    "query": "\"Danny Santana\"",
     "rank": 17,
     "tweet_count": null
   },
@@ -105,7 +105,7 @@
     "name": "Gabi",
     "query": "Gabi",
     "rank": 18,
-    "tweet_count": "34.7K Tweets"
+    "tweet_count": "35.8K Tweets"
   },
   {
     "name": "Offerman",
@@ -117,6 +117,6 @@
     "name": "Hoy 14",
     "query": "\"Hoy 14\"",
     "rank": 20,
-    "tweet_count": "16.8K Tweets"
+    "tweet_count": "17.1K Tweets"
   }
 ]
