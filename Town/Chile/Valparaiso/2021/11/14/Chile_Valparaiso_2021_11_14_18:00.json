@@ -1,63 +1,63 @@
 [
   {
+    "name": "Hamilton",
+    "query": "Hamilton",
+    "rank": 1,
+    "tweet_count": "327K Tweets"
+  },
+  {
     "name": "#NoPasaran",
     "query": "#NoPasaran",
-    "rank": 1,
-    "tweet_count": "5,692 Tweets"
+    "rank": 2,
+    "tweet_count": "6,100 Tweets"
   },
   {
     "name": "Mario Horton",
     "query": "\"Mario Horton\"",
-    "rank": 2,
-    "tweet_count": "1,722 Tweets"
-  },
-  {
-    "name": "Hamilton",
-    "query": "Hamilton",
     "rank": 3,
-    "tweet_count": "233K Tweets"
-  },
-  {
-    "name": "#MesaCentral",
-    "query": "#MesaCentral",
-    "rank": 4,
-    "tweet_count": "8,556 Tweets"
+    "tweet_count": "1,779 Tweets"
   },
   {
     "name": "Alfredo Castro",
     "query": "\"Alfredo Castro\"",
-    "rank": 5,
-    "tweet_count": "1,540 Tweets"
+    "rank": 4,
+    "tweet_count": "1,613 Tweets"
   },
   {
     "name": "#BrazilianGP",
     "query": "#BrazilianGP",
+    "rank": 5,
+    "tweet_count": "35K Tweets"
+  },
+  {
+    "name": "#Formula1",
+    "query": "#Formula1",
     "rank": 6,
-    "tweet_count": "28.5K Tweets"
+    "tweet_count": "13.3K Tweets"
+  },
+  {
+    "name": "Felipe Avello",
+    "query": "\"Felipe Avello\"",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "Checo",
+    "query": "Checo",
+    "rank": 8,
+    "tweet_count": "30.8K Tweets"
   },
   {
     "name": "La Cabrera",
     "query": "\"La Cabrera\"",
-    "rank": 7,
-    "tweet_count": "13.9K Tweets"
+    "rank": 9,
+    "tweet_count": "14.1K Tweets"
   },
   {
     "name": "Capitán América",
     "query": "\"Capitán América\"",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "Heidi",
-    "query": "Heidi",
-    "rank": 9,
-    "tweet_count": "6,360 Tweets"
-  },
-  {
-    "name": "OUR NOVEMBER STAR JAKE",
-    "query": "\"OUR NOVEMBER STAR JAKE\"",
     "rank": 10,
-    "tweet_count": "451K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Silvio Rodríguez",
@@ -66,26 +66,26 @@
     "tweet_count": null
   },
   {
-    "name": "Garzón",
-    "query": "Garzón",
-    "rank": 12,
-    "tweet_count": "7,658 Tweets"
-  },
-  {
     "name": "Francisca Walker",
     "query": "\"Francisca Walker\"",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "Heidi",
+    "query": "Heidi",
+    "rank": 13,
+    "tweet_count": "6,503 Tweets"
+  },
+  {
+    "name": "Garzón",
+    "query": "Garzón",
+    "rank": 14,
+    "tweet_count": "7,770 Tweets"
   },
   {
     "name": "Alberto Plaza",
     "query": "\"Alberto Plaza\"",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Felipe Avello",
-    "query": "\"Felipe Avello\"",
     "rank": 15,
     "tweet_count": null
   },
@@ -99,12 +99,12 @@
     "name": "Arjona",
     "query": "Arjona",
     "rank": 17,
-    "tweet_count": "1,780 Tweets"
+    "tweet_count": "1,827 Tweets"
   },
   {
-    "name": "Kramer",
-    "query": "Kramer",
+    "name": "Stefan",
+    "query": "Stefan",
     "rank": 18,
-    "tweet_count": "3,182 Tweets"
+    "tweet_count": "13.4K Tweets"
   }
 ]
