@@ -1,39 +1,39 @@
 [
   {
-    "name": "Hamilton",
-    "query": "Hamilton",
-    "rank": 1,
-    "tweet_count": "438K Tweets"
-  },
-  {
     "name": "#HayCambio",
     "query": "#HayCambio",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "Negrín",
     "query": "Negrín",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "carlos franco",
     "query": "\"carlos franco\"",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Pippen",
     "query": "Pippen",
-    "rank": 5,
-    "tweet_count": "2,805 Tweets"
+    "rank": 4,
+    "tweet_count": "2,810 Tweets"
   },
   {
     "name": "junior noboa",
     "query": "\"junior noboa\"",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "Hamilton",
+    "query": "Hamilton",
+    "rank": 6,
+    "tweet_count": "439K Tweets"
   },
   {
     "name": "#BrazilGP",
@@ -48,32 +48,32 @@
     "tweet_count": null
   },
   {
-    "name": "#BrazilianGP",
-    "query": "#BrazilianGP",
-    "rank": 9,
-    "tweet_count": "39.9K Tweets"
-  },
-  {
     "name": "Jesús",
     "query": "Jesús",
+    "rank": 9,
+    "tweet_count": "239K Tweets"
+  },
+  {
+    "name": "#BrazilianGP",
+    "query": "#BrazilianGP",
     "rank": 10,
-    "tweet_count": "238K Tweets"
+    "tweet_count": "40K Tweets"
   },
   {
     "name": "Laje",
     "query": "Laje",
     "rank": 11,
-    "tweet_count": "1,694 Tweets"
-  },
-  {
-    "name": "Toxic Crow",
-    "query": "\"Toxic Crow\"",
-    "rank": 12,
-    "tweet_count": null
+    "tweet_count": "1,705 Tweets"
   },
   {
     "name": "wilfredo tejada",
     "query": "\"wilfredo tejada\"",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "Toxic Crow",
+    "query": "\"Toxic Crow\"",
     "rank": 13,
     "tweet_count": null
   },
@@ -87,7 +87,7 @@
     "name": "Fermín",
     "query": "Fermín",
     "rank": 15,
-    "tweet_count": "2,807 Tweets"
+    "tweet_count": "2,897 Tweets"
   },
   {
     "name": "Amén",
@@ -105,7 +105,7 @@
     "name": "Día Mundial de la Diabetes",
     "query": "\"Día Mundial de la Diabetes\"",
     "rank": 18,
-    "tweet_count": "7,509 Tweets"
+    "tweet_count": "7,525 Tweets"
   },
   {
     "name": "#Azua",
@@ -117,6 +117,6 @@
     "name": "Adele",
     "query": "Adele",
     "rank": 20,
-    "tweet_count": "222K Tweets"
+    "tweet_count": "223K Tweets"
   }
 ]
