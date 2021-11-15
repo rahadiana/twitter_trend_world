@@ -1,81 +1,81 @@
 [
   {
-    "name": "#TopGear",
-    "query": "#TopGear",
-    "rank": 1,
-    "tweet_count": "3,094 Tweets"
-  },
-  {
     "name": "Lewis",
     "query": "Lewis",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "340K Tweets"
   },
   {
     "name": "World Cup",
     "query": "\"World Cup\"",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": "175K Tweets"
-  },
-  {
-    "name": "Hamilton",
-    "query": "Hamilton",
-    "rank": 4,
-    "tweet_count": "430K Tweets"
   },
   {
     "name": "#AdeleOneNightOnly",
     "query": "#AdeleOneNightOnly",
-    "rank": 5,
-    "tweet_count": "35.2K Tweets"
+    "rank": 3,
+    "tweet_count": "35.4K Tweets"
   },
   {
     "name": "#ChiefsKingdom",
     "query": "#ChiefsKingdom",
-    "rank": 6,
-    "tweet_count": "17.2K Tweets"
+    "rank": 4,
+    "tweet_count": "17.3K Tweets"
   },
   {
     "name": "Hornets",
     "query": "Hornets",
-    "rank": 7,
-    "tweet_count": "17.8K Tweets"
-  },
-  {
-    "name": "Eddie Kidd",
-    "query": "\"Eddie Kidd\"",
-    "rank": 8,
-    "tweet_count": "2,938 Tweets"
+    "rank": 5,
+    "tweet_count": "17.9K Tweets"
   },
   {
     "name": "Portugal",
     "query": "Portugal",
-    "rank": 9,
+    "rank": 6,
     "tweet_count": "157K Tweets"
   },
   {
-    "name": "#AngelaBlack",
-    "query": "#AngelaBlack",
-    "rank": 10,
-    "tweet_count": "1,823 Tweets"
+    "name": "Eddie Kidd",
+    "query": "\"Eddie Kidd\"",
+    "rank": 7,
+    "tweet_count": "2,939 Tweets"
+  },
+  {
+    "name": "#angelablack",
+    "query": "#angelablack",
+    "rank": 8,
+    "tweet_count": "1,824 Tweets"
+  },
+  {
+    "name": "#DoctorWhoFlux",
+    "query": "#DoctorWhoFlux",
+    "rank": 9,
+    "tweet_count": "16.2K Tweets"
   },
   {
     "name": "Elon",
     "query": "Elon",
-    "rank": 11,
-    "tweet_count": "235K Tweets"
+    "rank": 10,
+    "tweet_count": "236K Tweets"
   },
   {
-    "name": "David Perry",
-    "query": "\"David Perry\"",
+    "name": "Packers",
+    "query": "Packers",
+    "rank": 11,
+    "tweet_count": "84.7K Tweets"
+  },
+  {
+    "name": "Top Gear",
+    "query": "\"Top Gear\"",
     "rank": 12,
-    "tweet_count": "4,605 Tweets"
+    "tweet_count": "3,256 Tweets"
   },
   {
     "name": "Paddy",
     "query": "Paddy",
     "rank": 13,
-    "tweet_count": "6,998 Tweets"
+    "tweet_count": "7,023 Tweets"
   },
   {
     "name": "Steelers",
@@ -84,9 +84,9 @@
     "tweet_count": "102K Tweets"
   },
   {
-    "name": "#DoctorWhoFlux",
-    "query": "#DoctorWhoFlux",
+    "name": "#liverpoolwomenshospital",
+    "query": "#liverpoolwomenshospital",
     "rank": 15,
-    "tweet_count": "16.2K Tweets"
+    "tweet_count": null
   }
 ]

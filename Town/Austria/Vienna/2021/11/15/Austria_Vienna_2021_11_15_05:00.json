@@ -1,21 +1,21 @@
 [
   {
-    "name": "#imzentrum",
-    "query": "#imzentrum",
-    "rank": 1,
-    "tweet_count": "1,214 Tweets"
-  },
-  {
     "name": "#allesindenArm",
     "query": "#allesindenArm",
+    "rank": 1,
+    "tweet_count": "57.4K Tweets"
+  },
+  {
+    "name": "#imzentrum",
+    "query": "#imzentrum",
     "rank": 2,
-    "tweet_count": "57.1K Tweets"
+    "tweet_count": "1,221 Tweets"
   },
   {
     "name": "Gutachten",
     "query": "Gutachten",
     "rank": 3,
-    "tweet_count": "2,886 Tweets"
+    "tweet_count": "2,891 Tweets"
   },
   {
     "name": "#pressekonferenz",
@@ -27,13 +27,13 @@
     "name": "Wissenschaft und Solidarität",
     "query": "\"Wissenschaft und Solidarität\"",
     "rank": 5,
-    "tweet_count": "27.9K Tweets"
+    "tweet_count": "28K Tweets"
   },
   {
-    "name": "#lockdownfuerungeimpfte",
-    "query": "#lockdownfuerungeimpfte",
+    "name": "#LockdownFuerUngeimpfte",
+    "query": "#LockdownFuerUngeimpfte",
     "rank": 6,
-    "tweet_count": "2,098 Tweets"
+    "tweet_count": "2,100 Tweets"
   },
   {
     "name": "#zibspezial",
@@ -45,7 +45,7 @@
     "name": "Lasst Euch",
     "query": "\"Lasst Euch\"",
     "rank": 8,
-    "tweet_count": "36.6K Tweets"
+    "tweet_count": "36.7K Tweets"
   },
   {
     "name": "Schönen Sonntag",
@@ -69,53 +69,53 @@
     "name": "Ausgangsbeschränkungen",
     "query": "Ausgangsbeschränkungen",
     "rank": 12,
-    "tweet_count": "1,553 Tweets"
+    "tweet_count": "1,559 Tweets"
   },
   {
     "name": "Pocken",
     "query": "Pocken",
     "rank": 13,
-    "tweet_count": "2,763 Tweets"
-  },
-  {
-    "name": "Uni Wien",
-    "query": "\"Uni Wien\"",
-    "rank": 14,
-    "tweet_count": null
+    "tweet_count": "2,770 Tweets"
   },
   {
     "name": "Impfpflicht",
     "query": "Impfpflicht",
-    "rank": 15,
-    "tweet_count": "30.4K Tweets"
+    "rank": 14,
+    "tweet_count": "30.5K Tweets"
   },
   {
     "name": "Ausgangssperre",
     "query": "Ausgangssperre",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Uni Wien",
+    "query": "\"Uni Wien\"",
     "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "lewisch",
-    "query": "lewisch",
-    "rank": 17,
-    "tweet_count": "1,562 Tweets"
-  },
-  {
     "name": "laer",
     "query": "laer",
-    "rank": 18,
-    "tweet_count": "1,141 Tweets"
+    "rank": 17,
+    "tweet_count": "1,145 Tweets"
   },
   {
-    "name": "Strolz",
-    "query": "Strolz",
+    "name": "Lewisch",
+    "query": "Lewisch",
+    "rank": 18,
+    "tweet_count": "1,565 Tweets"
+  },
+  {
+    "name": "Verordnung",
+    "query": "Verordnung",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Rechtsmittel",
-    "query": "Rechtsmittel",
+    "name": "strolz",
+    "query": "strolz",
     "rank": 20,
     "tweet_count": null
   }
