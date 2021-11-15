@@ -1,9 +1,9 @@
 [
   {
-    "name": "forsberg",
-    "query": "forsberg",
+    "name": "Forsberg",
+    "query": "Forsberg",
     "rank": 1,
-    "tweet_count": "2,482 Tweets"
+    "tweet_count": "2,474 Tweets"
   },
   {
     "name": "Hässelby",
@@ -15,107 +15,107 @@
     "name": "Janne",
     "query": "Janne",
     "rank": 3,
-    "tweet_count": "3,794 Tweets"
+    "tweet_count": "3,858 Tweets"
   },
   {
     "name": "Spanien",
     "query": "Spanien",
     "rank": 4,
-    "tweet_count": "2,122 Tweets"
+    "tweet_count": "2,143 Tweets"
   },
   {
     "name": "Portugal",
     "query": "Portugal",
     "rank": 5,
-    "tweet_count": "184K Tweets"
-  },
-  {
-    "name": "Färjestad",
-    "query": "Färjestad",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "Wallin",
-    "query": "Wallin",
-    "rank": 7,
-    "tweet_count": null
+    "tweet_count": "186K Tweets"
   },
   {
     "name": "#ESPSWE",
     "query": "#ESPSWE",
-    "rank": 8,
-    "tweet_count": "2,124 Tweets"
+    "rank": 6,
+    "tweet_count": "2,119 Tweets"
   },
   {
-    "name": "Zlatan",
-    "query": "Zlatan",
-    "rank": 9,
-    "tweet_count": "15K Tweets"
+    "name": "Rickard Wallin",
+    "query": "\"Rickard Wallin\"",
+    "rank": 7,
+    "tweet_count": null
   },
   {
     "name": "Peter Jakobsson",
     "query": "\"Peter Jakobsson\"",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "Färjestad",
+    "query": "Färjestad",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Zlatan",
+    "query": "Zlatan",
     "rank": 10,
+    "tweet_count": "15.3K Tweets"
+  },
+  {
+    "name": "Kristersson",
+    "query": "Kristersson",
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Senegal",
     "query": "Senegal",
-    "rank": 11,
-    "tweet_count": "24.2K Tweets"
-  },
-  {
-    "name": "#fbkse",
-    "query": "#fbkse",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "24.4K Tweets"
   },
   {
-    "name": "#spaswe",
-    "query": "#spaswe",
+    "name": "#SPASWE",
+    "query": "#SPASWE",
     "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Kristersson",
-    "query": "Kristersson",
-    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Martin Olsson",
     "query": "\"Martin Olsson\"",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Agenda",
-    "query": "Agenda",
-    "rank": 16,
-    "tweet_count": "124K Tweets"
-  },
-  {
-    "name": "#Farsdag",
-    "query": "#Farsdag",
-    "rank": 17,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Isak",
     "query": "Isak",
-    "rank": 18,
-    "tweet_count": "4,077 Tweets"
+    "rank": 15,
+    "tweet_count": "4,128 Tweets"
+  },
+  {
+    "name": "Agenda",
+    "query": "Agenda",
+    "rank": 16,
+    "tweet_count": "126K Tweets"
   },
   {
     "name": "#vmkval",
     "query": "#vmkval",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "#fbkse",
+    "query": "#fbkse",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Foppa",
+    "query": "Foppa",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "foppa",
-    "query": "foppa",
+    "name": "#farsdag",
+    "query": "#farsdag",
     "rank": 20,
     "tweet_count": null
   }
