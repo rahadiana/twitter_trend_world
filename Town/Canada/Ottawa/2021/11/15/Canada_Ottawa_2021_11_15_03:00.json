@@ -1,75 +1,75 @@
 [
   {
-    "name": "Jenny",
-    "query": "Jenny",
-    "rank": 1,
-    "tweet_count": "20.8K Tweets"
-  },
-  {
     "name": "Logan",
     "query": "Logan",
-    "rank": 2,
-    "tweet_count": "18.3K Tweets"
+    "rank": 1,
+    "tweet_count": "18.6K Tweets"
   },
   {
-    "name": "Warriors",
-    "query": "Warriors",
-    "rank": 3,
-    "tweet_count": "77.2K Tweets"
+    "name": "Chargers",
+    "query": "Chargers",
+    "rank": 2,
+    "tweet_count": "28.5K Tweets"
   },
   {
     "name": "#Flames",
     "query": "#Flames",
+    "rank": 3,
+    "tweet_count": "1,103 Tweets"
+  },
+  {
+    "name": "Cowboys",
+    "query": "Cowboys",
     "rank": 4,
-    "tweet_count": "1,091 Tweets"
+    "tweet_count": "66.9K Tweets"
   },
   {
     "name": "#Adele",
     "query": "#Adele",
     "rank": 5,
-    "tweet_count": "41.3K Tweets"
+    "tweet_count": "44.3K Tweets"
   },
   {
     "name": "#ODDANSLOUEST",
     "query": "#ODDANSLOUEST",
     "rank": 6,
-    "tweet_count": "2,795 Tweets"
+    "tweet_count": "2,830 Tweets"
   },
   {
-    "name": "#90DayFiance",
-    "query": "#90DayFiance",
+    "name": "#Canucks",
+    "query": "#Canucks",
     "rank": 7,
-    "tweet_count": "5,140 Tweets"
+    "tweet_count": "5,949 Tweets"
   },
   {
-    "name": "#tlmep",
-    "query": "#tlmep",
+    "name": "#InsecureHBO",
+    "query": "#InsecureHBO",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "17.5K Tweets"
   },
   {
-    "name": "Petry",
-    "query": "Petry",
+    "name": "Desean Jackson",
+    "query": "\"Desean Jackson\"",
     "rank": 9,
-    "tweet_count": "1,759 Tweets"
+    "tweet_count": "5,078 Tweets"
   },
   {
     "name": "McLeod",
     "query": "McLeod",
     "rank": 10,
-    "tweet_count": "1,315 Tweets"
+    "tweet_count": "1,324 Tweets"
+  },
+  {
+    "name": "Petry",
+    "query": "Petry",
+    "rank": 11,
+    "tweet_count": "1,776 Tweets"
   },
   {
     "name": "Hornets",
     "query": "Hornets",
-    "rank": 11,
-    "tweet_count": "15.6K Tweets"
-  },
-  {
-    "name": "Sumit",
-    "query": "Sumit",
     "rank": 12,
-    "tweet_count": "5,499 Tweets"
+    "tweet_count": "15.9K Tweets"
   },
   {
     "name": "Nuge",
@@ -78,45 +78,45 @@
     "tweet_count": null
   },
   {
-    "name": "Marilou",
-    "query": "Marilou",
+    "name": "Raiders",
+    "query": "Raiders",
     "rank": 14,
-    "tweet_count": "2,367 Tweets"
+    "tweet_count": "50.5K Tweets"
   },
   {
     "name": "Draymond",
     "query": "Draymond",
     "rank": 15,
-    "tweet_count": "4,518 Tweets"
-  },
-  {
-    "name": "Oprah",
-    "query": "Oprah",
-    "rank": 16,
-    "tweet_count": "19.2K Tweets"
-  },
-  {
-    "name": "Kendall",
-    "query": "Kendall",
-    "rank": 17,
-    "tweet_count": "9,761 Tweets"
+    "tweet_count": "4,579 Tweets"
   },
   {
     "name": "Life of the Party",
     "query": "\"Life of the Party\"",
+    "rank": 16,
+    "tweet_count": "13.7K Tweets"
+  },
+  {
+    "name": "Blues",
+    "query": "Blues",
+    "rank": 17,
+    "tweet_count": "24K Tweets"
+  },
+  {
+    "name": "Shiv",
+    "query": "Shiv",
     "rank": 18,
-    "tweet_count": "13.3K Tweets"
+    "tweet_count": "12.9K Tweets"
   },
   {
-    "name": "Bruins",
-    "query": "Bruins",
+    "name": "Curry",
+    "query": "Curry",
     "rank": 19,
-    "tweet_count": "5,501 Tweets"
+    "tweet_count": "78.2K Tweets"
   },
   {
-    "name": "Raiders",
-    "query": "Raiders",
+    "name": "Koskinen",
+    "query": "Koskinen",
     "rank": 20,
-    "tweet_count": "48.8K Tweets"
+    "tweet_count": null
   }
 ]
