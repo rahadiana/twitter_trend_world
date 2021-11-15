@@ -3,72 +3,90 @@
     "name": "#DoctorWhoFlux",
     "query": "#DoctorWhoFlux",
     "rank": 1,
-    "tweet_count": "16.2K Tweets"
+    "tweet_count": "16.3K Tweets"
+  },
+  {
+    "name": "Liverpool",
+    "query": "Liverpool",
+    "rank": 2,
+    "tweet_count": "69.5K Tweets"
+  },
+  {
+    "name": "#MondayMorning",
+    "query": "#MondayMorning",
+    "rank": 3,
+    "tweet_count": "5,263 Tweets"
   },
   {
     "name": "#AdeleOneNightOnly",
     "query": "#AdeleOneNightOnly",
-    "rank": 2,
-    "tweet_count": "36.3K Tweets"
+    "rank": 4,
+    "tweet_count": "36.8K Tweets"
   },
   {
     "name": "#ChiefsKingdom",
     "query": "#ChiefsKingdom",
-    "rank": 3,
-    "tweet_count": "17.6K Tweets"
+    "rank": 5,
+    "tweet_count": "17.8K Tweets"
+  },
+  {
+    "name": "#AntiBullyingWeek",
+    "query": "#AntiBullyingWeek",
+    "rank": 6,
+    "tweet_count": "1,736 Tweets"
   },
   {
     "name": "Hornets",
     "query": "Hornets",
-    "rank": 4,
-    "tweet_count": "18.2K Tweets"
+    "rank": 7,
+    "tweet_count": "18.4K Tweets"
   },
   {
     "name": "Portugal",
     "query": "Portugal",
-    "rank": 5,
-    "tweet_count": "158K Tweets"
-  },
-  {
-    "name": "Eddie Kidd",
-    "query": "\"Eddie Kidd\"",
-    "rank": 6,
-    "tweet_count": "2,958 Tweets"
-  },
-  {
-    "name": "#angelablack",
-    "query": "#angelablack",
-    "rank": 7,
-    "tweet_count": "1,830 Tweets"
-  },
-  {
-    "name": "Elon",
-    "query": "Elon",
     "rank": 8,
-    "tweet_count": "236K Tweets"
+    "tweet_count": "160K Tweets"
   },
   {
-    "name": "Packers",
-    "query": "Packers",
+    "name": "Elon Musk",
+    "query": "\"Elon Musk\"",
     "rank": 9,
-    "tweet_count": "85K Tweets"
+    "tweet_count": "104K Tweets"
   },
   {
     "name": "Paddy",
     "query": "Paddy",
     "rank": 10,
-    "tweet_count": "6,829 Tweets"
-  },
-  {
-    "name": "Liverpool Women's Hospital",
-    "query": "\"Liverpool Women's Hospital\"",
-    "rank": 11,
-    "tweet_count": "16K Tweets"
+    "tweet_count": "6,891 Tweets"
   },
   {
     "name": "Steelers",
     "query": "Steelers",
+    "rank": 11,
+    "tweet_count": "103K Tweets"
+  },
+  {
+    "name": "#OddSocksDay",
+    "query": "#OddSocksDay",
     "rank": 12,
-    "tweet_count": "102K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "#OneKindWord",
+    "query": "#OneKindWord",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "#EddieKidd",
+    "query": "#EddieKidd",
+    "rank": 14,
+    "tweet_count": "1,597 Tweets"
+  },
+  {
+    "name": "#AngelaBlack",
+    "query": "#AngelaBlack",
+    "rank": 15,
+    "tweet_count": "1,835 Tweets"
   }
 ]
