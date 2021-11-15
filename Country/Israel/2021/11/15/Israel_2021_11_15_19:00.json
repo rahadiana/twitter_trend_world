@@ -1,39 +1,39 @@
 [
   {
-    "name": "שבוע טוב",
-    "query": "\"שבוע טוב\"",
+    "name": "אלף דולר",
+    "query": "\"אלף דולר\"",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "אלף דולר",
-    "query": "\"אלף דולר\"",
+    "name": "Xbox",
+    "query": "Xbox",
     "rank": 2,
+    "tweet_count": "190K Tweets"
+  },
+  {
+    "name": "harry styles",
+    "query": "\"harry styles\"",
+    "rank": 3,
+    "tweet_count": "204K Tweets"
+  },
+  {
+    "name": "נו ו",
+    "query": "\"נו ו\"",
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "ניר חפץ",
     "query": "\"ניר חפץ\"",
-    "rank": 3,
-    "tweet_count": "1,637 Tweets"
-  },
-  {
-    "name": "harry styles",
-    "query": "\"harry styles\"",
-    "rank": 4,
-    "tweet_count": "200K Tweets"
-  },
-  {
-    "name": "באר שבע",
-    "query": "\"באר שבע\"",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "1,654 Tweets"
   },
   {
     "name": "Erdogan",
     "query": "Erdogan",
     "rank": 6,
-    "tweet_count": "63.5K Tweets"
+    "tweet_count": "64.9K Tweets"
   },
   {
     "name": "אלי אבידר",
@@ -42,70 +42,70 @@
     "tweet_count": null
   },
   {
-    "name": "The Israeli",
-    "query": "\"The Israeli\"",
-    "rank": 8,
-    "tweet_count": "15.6K Tweets"
-  },
-  {
     "name": "Polish",
     "query": "Polish",
+    "rank": 8,
+    "tweet_count": "58.2K Tweets"
+  },
+  {
+    "name": "The Israeli",
+    "query": "\"The Israeli\"",
     "rank": 9,
-    "tweet_count": "57.2K Tweets"
+    "tweet_count": "15.9K Tweets"
   },
   {
     "name": "Saudi Arabia",
     "query": "\"Saudi Arabia\"",
     "rank": 10,
-    "tweet_count": "14.5K Tweets"
+    "tweet_count": "14.9K Tweets"
   },
   {
     "name": "#Turkey",
     "query": "#Turkey",
     "rank": 11,
-    "tweet_count": "5,558 Tweets"
+    "tweet_count": "5,624 Tweets"
   },
   {
-    "name": "Lizzie",
-    "query": "Lizzie",
+    "name": "#NFTartists",
+    "query": "#NFTartists",
     "rank": 12,
-    "tweet_count": "7,332 Tweets"
+    "tweet_count": "48.2K Tweets"
   },
   {
     "name": "Torah",
     "query": "Torah",
     "rank": 13,
-    "tweet_count": "1,222 Tweets"
+    "tweet_count": "1,238 Tweets"
   },
   {
     "name": "Delta",
     "query": "Delta",
     "rank": 14,
-    "tweet_count": "48.2K Tweets"
+    "tweet_count": "48.7K Tweets"
   },
   {
     "name": "Netanyahu",
     "query": "Netanyahu",
     "rank": 15,
-    "tweet_count": "3,924 Tweets"
-  },
-  {
-    "name": "חוש הומור",
-    "query": "\"חוש הומור\"",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "4,071 Tweets"
   },
   {
     "name": "David",
     "query": "David",
-    "rank": 17,
-    "tweet_count": "238K Tweets"
+    "rank": 16,
+    "tweet_count": "242K Tweets"
   },
   {
     "name": "İstanbul",
     "query": "İstanbul",
+    "rank": 17,
+    "tweet_count": "15.4K Tweets"
+  },
+  {
+    "name": "#vaccine",
+    "query": "#vaccine",
     "rank": 18,
-    "tweet_count": "14.9K Tweets"
+    "tweet_count": "6,074 Tweets"
   },
   {
     "name": "אחר כך",
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "#vaccine",
-    "query": "#vaccine",
+    "name": "Poland",
+    "query": "Poland",
     "rank": 20,
-    "tweet_count": "5,848 Tweets"
+    "tweet_count": "61.8K Tweets"
   }
 ]
