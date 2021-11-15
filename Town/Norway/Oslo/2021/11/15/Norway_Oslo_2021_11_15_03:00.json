@@ -18,22 +18,22 @@
     "tweet_count": "244K Tweets"
   },
   {
-    "name": "fløy",
-    "query": "fløy",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
     "name": "Nederland",
     "query": "Nederland",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": "21.2K Tweets"
   },
   {
     "name": "Latvia",
     "query": "Latvia",
+    "rank": 5,
+    "tweet_count": "5,486 Tweets"
+  },
+  {
+    "name": "fløy",
+    "query": "fløy",
     "rank": 6,
-    "tweet_count": "5,470 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#farsdag",
@@ -42,40 +42,40 @@
     "tweet_count": null
   },
   {
+    "name": "Verstappen",
+    "query": "Verstappen",
+    "rank": 8,
+    "tweet_count": "112K Tweets"
+  },
+  {
     "name": "Montenegro",
     "query": "Montenegro",
-    "rank": 8,
-    "tweet_count": "6,254 Tweets"
-  },
-  {
-    "name": "Sørloth",
-    "query": "Sørloth",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "6,284 Tweets"
   },
   {
-    "name": "Norge",
-    "query": "Norge",
+    "name": "sørloth",
+    "query": "sørloth",
     "rank": 10,
-    "tweet_count": "1,806 Tweets"
-  },
-  {
-    "name": "Qatar",
-    "query": "Qatar",
-    "rank": 11,
-    "tweet_count": "73.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Serbia",
     "query": "Serbia",
-    "rank": 12,
-    "tweet_count": "72.3K Tweets"
+    "rank": 11,
+    "tweet_count": "72.6K Tweets"
   },
   {
     "name": "Zlatan",
     "query": "Zlatan",
+    "rank": 12,
+    "tweet_count": "15.8K Tweets"
+  },
+  {
+    "name": "Norge",
+    "query": "Norge",
     "rank": 13,
-    "tweet_count": "15.7K Tweets"
+    "tweet_count": "1,807 Tweets"
   },
   {
     "name": "ødegaard",
@@ -84,39 +84,39 @@
     "tweet_count": null
   },
   {
-    "name": "arendal",
-    "query": "arendal",
+    "name": "Qatar",
+    "query": "Qatar",
     "rank": 15,
-    "tweet_count": null
+    "tweet_count": "73.6K Tweets"
   },
   {
-    "name": "Erna",
-    "query": "Erna",
+    "name": "arendal",
+    "query": "arendal",
     "rank": 16,
-    "tweet_count": "1,153 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Lewis",
     "query": "Lewis",
     "rank": 17,
-    "tweet_count": "337K Tweets"
+    "tweet_count": "338K Tweets"
   },
   {
-    "name": "Elon",
-    "query": "Elon",
+    "name": "skeid",
+    "query": "skeid",
     "rank": 18,
-    "tweet_count": "223K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Tyrkia",
-    "query": "Tyrkia",
+    "name": "tyrkia",
+    "query": "tyrkia",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Nardo",
-    "query": "Nardo",
+    "name": "Elon",
+    "query": "Elon",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "225K Tweets"
   }
 ]

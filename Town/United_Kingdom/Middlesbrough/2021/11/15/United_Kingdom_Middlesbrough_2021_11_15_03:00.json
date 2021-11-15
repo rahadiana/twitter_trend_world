@@ -1,21 +1,21 @@
 [
   {
-    "name": "Curry",
-    "query": "Curry",
-    "rank": 1,
-    "tweet_count": "78.2K Tweets"
-  },
-  {
     "name": "Rutland Avenue",
     "query": "\"Rutland Avenue\"",
+    "rank": 1,
+    "tweet_count": "3,478 Tweets"
+  },
+  {
+    "name": "Curry",
+    "query": "Curry",
     "rank": 2,
-    "tweet_count": "3,472 Tweets"
+    "tweet_count": "78.7K Tweets"
   },
   {
     "name": "Rihanna",
     "query": "Rihanna",
     "rank": 3,
-    "tweet_count": "34.6K Tweets"
+    "tweet_count": "34.9K Tweets"
   },
   {
     "name": "Sara",
@@ -24,16 +24,16 @@
     "tweet_count": "118K Tweets"
   },
   {
-    "name": "Lewis",
-    "query": "Lewis",
-    "rank": 5,
-    "tweet_count": "337K Tweets"
-  },
-  {
     "name": "#BrazilianGP",
     "query": "#BrazilianGP",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": "39K Tweets"
+  },
+  {
+    "name": "Lewis",
+    "query": "Lewis",
+    "rank": 6,
+    "tweet_count": "337K Tweets"
   },
   {
     "name": "#BrazilGP",
@@ -45,13 +45,13 @@
     "name": "Hamilton",
     "query": "Hamilton",
     "rank": 8,
-    "tweet_count": "426K Tweets"
+    "tweet_count": "427K Tweets"
   },
   {
     "name": "#AdeleOneNightOnly",
     "query": "#AdeleOneNightOnly",
     "rank": 9,
-    "tweet_count": "28.5K Tweets"
+    "tweet_count": "29.7K Tweets"
   },
   {
     "name": "eddie kidd",
@@ -63,54 +63,54 @@
     "name": "#RaiderNation",
     "query": "#RaiderNation",
     "rank": 11,
-    "tweet_count": "12.8K Tweets"
-  },
-  {
-    "name": "Portugal",
-    "query": "Portugal",
-    "rank": 12,
-    "tweet_count": "153K Tweets"
+    "tweet_count": "13.2K Tweets"
   },
   {
     "name": "Hornets",
     "query": "Hornets",
-    "rank": 13,
-    "tweet_count": "15.9K Tweets"
+    "rank": 12,
+    "tweet_count": "16.1K Tweets"
   },
   {
-    "name": "#AngelaBlack",
-    "query": "#AngelaBlack",
+    "name": "#ChiefsKingdom",
+    "query": "#ChiefsKingdom",
+    "rank": 13,
+    "tweet_count": "11K Tweets"
+  },
+  {
+    "name": "Portugal",
+    "query": "Portugal",
     "rank": 14,
-    "tweet_count": "1,788 Tweets"
+    "tweet_count": "154K Tweets"
   },
   {
     "name": "Donda",
     "query": "Donda",
     "rank": 15,
-    "tweet_count": "32.3K Tweets"
+    "tweet_count": "32.7K Tweets"
   },
   {
     "name": "David Perry",
     "query": "\"David Perry\"",
     "rank": 16,
-    "tweet_count": "4,382 Tweets"
-  },
-  {
-    "name": "Cudi",
-    "query": "Cudi",
-    "rank": 17,
-    "tweet_count": "5,946 Tweets"
-  },
-  {
-    "name": "Mitrovic",
-    "query": "Mitrovic",
-    "rank": 18,
-    "tweet_count": "16.2K Tweets"
+    "tweet_count": "4,396 Tweets"
   },
   {
     "name": "Elon",
     "query": "Elon",
+    "rank": 17,
+    "tweet_count": "225K Tweets"
+  },
+  {
+    "name": "Paddy",
+    "query": "Paddy",
+    "rank": 18,
+    "tweet_count": "7,242 Tweets"
+  },
+  {
+    "name": "Lakers",
+    "query": "Lakers",
     "rank": 19,
-    "tweet_count": "223K Tweets"
+    "tweet_count": "48.4K Tweets"
   }
 ]
