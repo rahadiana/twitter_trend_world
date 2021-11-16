@@ -1,33 +1,33 @@
 [
   {
-    "name": "Spotify",
-    "query": "Spotify",
-    "rank": 1,
-    "tweet_count": "767K Tweets"
-  },
-  {
-    "name": "Government",
-    "query": "Government",
-    "rank": 2,
-    "tweet_count": "547K Tweets"
-  },
-  {
     "name": "Snapchat",
     "query": "Snapchat",
-    "rank": 3,
-    "tweet_count": "85.4K Tweets"
+    "rank": 1,
+    "tweet_count": "86.3K Tweets"
+  },
+  {
+    "name": "Spotify",
+    "query": "Spotify",
+    "rank": 2,
+    "tweet_count": "779K Tweets"
   },
   {
     "name": "#GBBO",
     "query": "#GBBO",
-    "rank": 4,
-    "tweet_count": "19.8K Tweets"
+    "rank": 3,
+    "tweet_count": "20.7K Tweets"
   },
   {
     "name": "#rtept",
     "query": "#rtept",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "Fallon Sherrock",
+    "query": "\"Fallon Sherrock\"",
+    "rank": 5,
+    "tweet_count": "2,953 Tweets"
   },
   {
     "name": "#RTEFolkAwards",
@@ -42,45 +42,51 @@
     "tweet_count": null
   },
   {
-    "name": "#Covid_19",
-    "query": "#Covid_19",
+    "name": "#faircity",
+    "query": "#faircity",
     "rank": 8,
-    "tweet_count": "23.2K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "alan kelly",
+    "query": "\"alan kelly\"",
+    "rank": 9,
+    "tweet_count": null
   },
   {
     "name": "Taoiseach",
     "query": "Taoiseach",
-    "rank": 9,
-    "tweet_count": "3,466 Tweets"
-  },
-  {
-    "name": "Alan Kelly",
-    "query": "\"Alan Kelly\"",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "3,620 Tweets"
   },
   {
-    "name": "#faircity",
-    "query": "#faircity",
+    "name": "Government",
+    "query": "Government",
     "rank": 11,
-    "tweet_count": null
+    "tweet_count": "557K Tweets"
+  },
+  {
+    "name": "#Covid_19",
+    "query": "#Covid_19",
+    "rank": 12,
+    "tweet_count": "23.8K Tweets"
   },
   {
     "name": "#NPHET",
     "query": "#NPHET",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "#nightclubs",
     "query": "#nightclubs",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "#edchatie",
     "query": "#edchatie",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": null
   }
 ]

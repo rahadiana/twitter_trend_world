@@ -1,37 +1,37 @@
 [
   {
-    "name": "My Covid Record",
-    "query": "\"My Covid Record\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Apple Wallet",
     "query": "\"Apple Wallet\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "Vaccine Pass",
     "query": "\"Vaccine Pass\"",
+    "rank": 2,
+    "tweet_count": "3,606 Tweets"
+  },
+  {
+    "name": "My Covid Record",
+    "query": "\"My Covid Record\"",
     "rank": 3,
-    "tweet_count": "3,539 Tweets"
+    "tweet_count": null
   },
   {
     "name": "RealMe",
     "query": "RealMe",
     "rank": 4,
-    "tweet_count": "4,754 Tweets"
-  },
-  {
-    "name": "Matt King",
-    "query": "\"Matt King\"",
-    "rank": 5,
-    "tweet_count": null
+    "tweet_count": "4,781 Tweets"
   },
   {
     "name": "colin craig",
     "query": "\"colin craig\"",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "Matt King",
+    "query": "\"Matt King\"",
     "rank": 6,
     "tweet_count": null
   },
@@ -39,7 +39,7 @@
     "name": "All Whites",
     "query": "\"All Whites\"",
     "rank": 7,
-    "tweet_count": "1,409 Tweets"
+    "tweet_count": "1,461 Tweets"
   },
   {
     "name": "Barry Soper",
@@ -51,13 +51,13 @@
     "name": "Halo Infinite",
     "query": "\"Halo Infinite\"",
     "rank": 9,
-    "tweet_count": "76.1K Tweets"
+    "tweet_count": "76.9K Tweets"
   },
   {
     "name": "#Xbox20",
     "query": "#Xbox20",
     "rank": 10,
-    "tweet_count": "38.8K Tweets"
+    "tweet_count": "39K Tweets"
   },
   {
     "name": "Tatua",
@@ -69,13 +69,13 @@
     "name": "Bridges",
     "query": "Bridges",
     "rank": 12,
-    "tweet_count": "64.5K Tweets"
+    "tweet_count": "65.4K Tweets"
   },
   {
     "name": "The Gambia",
     "query": "\"The Gambia\"",
     "rank": 13,
-    "tweet_count": "1,013 Tweets"
+    "tweet_count": "1,038 Tweets"
   },
   {
     "name": "ansell",
@@ -93,7 +93,7 @@
     "name": "Bold",
     "query": "Bold",
     "rank": 16,
-    "tweet_count": "36.4K Tweets"
+    "tweet_count": "37K Tweets"
   },
   {
     "name": "#shortlandstreet",
@@ -114,8 +114,8 @@
     "tweet_count": null
   },
   {
-    "name": "#NZLvGAM",
-    "query": "#NZLvGAM",
+    "name": "#nzlvgam",
+    "query": "#nzlvgam",
     "rank": 20,
     "tweet_count": null
   }
