@@ -3,37 +3,37 @@
     "name": "#orfreport",
     "query": "#orfreport",
     "rank": 1,
-    "tweet_count": null
+    "tweet_count": "1,000 Tweets"
   },
   {
     "name": "#zib2",
     "query": "#zib2",
     "rank": 2,
-    "tweet_count": "1,070 Tweets"
-  },
-  {
-    "name": "#OeNr",
-    "query": "#OeNr",
-    "rank": 3,
-    "tweet_count": "1,514 Tweets"
-  },
-  {
-    "name": "#rundertisch",
-    "query": "#rundertisch",
-    "rank": 4,
-    "tweet_count": null
+    "tweet_count": "1,175 Tweets"
   },
   {
     "name": "#Triage",
     "query": "#Triage",
+    "rank": 3,
+    "tweet_count": "1,874 Tweets"
+  },
+  {
+    "name": "#OeNr",
+    "query": "#OeNr",
+    "rank": 4,
+    "tweet_count": "1,521 Tweets"
+  },
+  {
+    "name": "#rundertisch",
+    "query": "#rundertisch",
     "rank": 5,
-    "tweet_count": "1,841 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Beileid",
     "query": "Beileid",
     "rank": 6,
-    "tweet_count": "1,425 Tweets"
+    "tweet_count": "1,435 Tweets"
   },
   {
     "name": "Michael Ludwig",
@@ -45,25 +45,25 @@
     "name": "Entwurmungsmittel",
     "query": "Entwurmungsmittel",
     "rank": 8,
-    "tweet_count": "6,644 Tweets"
+    "tweet_count": "6,738 Tweets"
   },
   {
     "name": "Fritz",
     "query": "Fritz",
     "rank": 9,
-    "tweet_count": "3,369 Tweets"
-  },
-  {
-    "name": "Salzburg",
-    "query": "Salzburg",
-    "rank": 10,
-    "tweet_count": "7,018 Tweets"
+    "tweet_count": "3,380 Tweets"
   },
   {
     "name": "guerot",
     "query": "guerot",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
+  },
+  {
+    "name": "Salzburg",
+    "query": "Salzburg",
+    "rank": 11,
+    "tweet_count": "7,073 Tweets"
   },
   {
     "name": "heinz mayer",
@@ -72,34 +72,34 @@
     "tweet_count": null
   },
   {
-    "name": "Felix Gottwald",
-    "query": "\"Felix Gottwald\"",
+    "name": "felix gottwald",
+    "query": "\"felix gottwald\"",
     "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Neuwahlen",
-    "query": "Neuwahlen",
-    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "hobi",
     "query": "hobi",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": "268K Tweets"
   },
   {
-    "name": "Spotify",
-    "query": "Spotify",
-    "rank": 16,
-    "tweet_count": "775K Tweets"
+    "name": "Neuwahlen",
+    "query": "Neuwahlen",
+    "rank": 15,
+    "tweet_count": null
   },
   {
     "name": "Vergiftungen",
     "query": "Vergiftungen",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
+  },
+  {
+    "name": "Spotify",
+    "query": "Spotify",
+    "rank": 17,
+    "tweet_count": "780K Tweets"
   },
   {
     "name": "Ausgangssperre",
@@ -117,6 +117,6 @@
     "name": "Tumor",
     "query": "Tumor",
     "rank": 20,
-    "tweet_count": "5,900 Tweets"
+    "tweet_count": "5,946 Tweets"
   }
 ]
