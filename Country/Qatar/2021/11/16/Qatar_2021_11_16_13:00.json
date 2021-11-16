@@ -1,39 +1,39 @@
 [
   {
-    "name": "ايطاليا",
-    "query": "ايطاليا",
-    "rank": 1,
-    "tweet_count": "24K Tweets"
-  },
-  {
     "name": "#كاس_Ooredoo",
     "query": "#كاس_Ooredoo",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "ايطاليا",
+    "query": "ايطاليا",
+    "rank": 2,
+    "tweet_count": "24.1K Tweets"
+  },
+  {
+    "name": "اللغه العربيه",
+    "query": "\"اللغه العربيه\"",
+    "rank": 3,
+    "tweet_count": "4,424 Tweets"
   },
   {
     "name": "World Cup",
     "query": "\"World Cup\"",
-    "rank": 3,
-    "tweet_count": "105K Tweets"
-  },
-  {
-    "name": "COVID-19",
-    "query": "COVID-19",
     "rank": 4,
-    "tweet_count": "363K Tweets"
+    "tweet_count": "105K Tweets"
   },
   {
     "name": "#QatarGP",
     "query": "#QatarGP",
     "rank": 5,
-    "tweet_count": "2,947 Tweets"
+    "tweet_count": "2,960 Tweets"
   },
   {
     "name": "Happiest",
     "query": "Happiest",
     "rank": 6,
-    "tweet_count": "28.9K Tweets"
+    "tweet_count": "29K Tweets"
   },
   {
     "name": "Portugal",
@@ -42,81 +42,81 @@
     "tweet_count": "104K Tweets"
   },
   {
-    "name": "الجوله الخامسه",
-    "query": "\"الجوله الخامسه\"",
+    "name": "COVID-19",
+    "query": "COVID-19",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "365K Tweets"
   },
   {
     "name": "اسبانيا",
     "query": "اسبانيا",
     "rank": 9,
-    "tweet_count": "3,938 Tweets"
+    "tweet_count": "3,950 Tweets"
   },
   {
-    "name": "#الا_رسول_الله",
-    "query": "#الا_رسول_الله",
+    "name": "الجوله الخامسه",
+    "query": "\"الجوله الخامسه\"",
     "rank": 10,
-    "tweet_count": "18.3K Tweets"
-  },
-  {
-    "name": "كاس العالم",
-    "query": "\"كاس العالم\"",
-    "rank": 11,
-    "tweet_count": "34.8K Tweets"
-  },
-  {
-    "name": "المنتخبات المتاهله",
-    "query": "\"المنتخبات المتاهله\"",
-    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "#قطر2022",
     "query": "#قطر2022",
-    "rank": 13,
-    "tweet_count": "2,050 Tweets"
+    "rank": 11,
+    "tweet_count": "2,057 Tweets"
   },
   {
-    "name": "فرنسا",
-    "query": "فرنسا",
+    "name": "ليفربول",
+    "query": "ليفربول",
+    "rank": 12,
+    "tweet_count": "5,704 Tweets"
+  },
+  {
+    "name": "كاس العالم",
+    "query": "\"كاس العالم\"",
+    "rank": 13,
+    "tweet_count": "35.1K Tweets"
+  },
+  {
+    "name": "#كاس_العرب",
+    "query": "#كاس_العرب",
     "rank": 14,
-    "tweet_count": "8,643 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "تركيا",
+    "query": "تركيا",
+    "rank": 15,
+    "tweet_count": "27.2K Tweets"
+  },
+  {
+    "name": "المنتخبات المتاهله",
+    "query": "\"المنتخبات المتاهله\"",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "#الا_رسول_الله",
+    "query": "#الا_رسول_الله",
+    "rank": 17,
+    "tweet_count": "18.3K Tweets"
   },
   {
     "name": "Taylor Swift",
     "query": "\"Taylor Swift\"",
-    "rank": 15,
-    "tweet_count": "233K Tweets"
+    "rank": 18,
+    "tweet_count": "234K Tweets"
   },
   {
     "name": "صربيا",
     "query": "صربيا",
-    "rank": 16,
-    "tweet_count": "4,531 Tweets"
-  },
-  {
-    "name": "رونالدو",
-    "query": "رونالدو",
-    "rank": 17,
-    "tweet_count": "6,833 Tweets"
+    "rank": 19,
+    "tweet_count": "4,534 Tweets"
   },
   {
     "name": "Jake",
     "query": "Jake",
-    "rank": 18,
-    "tweet_count": "687K Tweets"
-  },
-  {
-    "name": "#اليوم_العالمي_للسكري",
-    "query": "#اليوم_العالمي_للسكري",
-    "rank": 19,
-    "tweet_count": "3,734 Tweets"
-  },
-  {
-    "name": "Raila",
-    "query": "Raila",
     "rank": 20,
-    "tweet_count": "8,295 Tweets"
+    "tweet_count": "688K Tweets"
   }
 ]
