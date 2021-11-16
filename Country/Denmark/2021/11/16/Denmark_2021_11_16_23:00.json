@@ -3,17 +3,17 @@
     "name": "#kv21",
     "query": "#kv21",
     "rank": 1,
-    "tweet_count": "3,355 Tweets"
-  },
-  {
-    "name": "Bornholm",
-    "query": "Bornholm",
-    "rank": 2,
-    "tweet_count": null
+    "tweet_count": "3,413 Tweets"
   },
   {
     "name": "Kolding",
     "query": "Kolding",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "Bornholm",
+    "query": "Bornholm",
     "rank": 3,
     "tweet_count": null
   },
@@ -42,8 +42,8 @@
     "tweet_count": null
   },
   {
-    "name": "Konservative",
-    "query": "Konservative",
+    "name": "Villy Søvndal",
+    "query": "\"Villy Søvndal\"",
     "rank": 8,
     "tweet_count": null
   },
@@ -54,32 +54,32 @@
     "tweet_count": null
   },
   {
-    "name": "Kristian Thulesen Dahl",
-    "query": "\"Kristian Thulesen Dahl\"",
+    "name": "Konservative",
+    "query": "Konservative",
     "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "Eva Kjer Hansen",
+    "query": "\"Eva Kjer Hansen\"",
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Fanø",
     "query": "Fanø",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "#SCODEN",
     "query": "#SCODEN",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": "2,587 Tweets"
   },
   {
     "name": "Venstre",
     "query": "Venstre",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Villy Søvndal",
-    "query": "\"Villy Søvndal\"",
     "rank": 14,
     "tweet_count": null
   },
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
+    "name": "Kristian Thulesen Dahl",
+    "query": "\"Kristian Thulesen Dahl\"",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
     "name": "København",
     "query": "København",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Viborg",
     "query": "Viborg",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Aalborg",
-    "query": "Aalborg",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Roskilde",
-    "query": "Roskilde",
+    "name": "#dkpol",
+    "query": "#dkpol",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "3,929 Tweets"
   }
 ]
