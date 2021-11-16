@@ -6,8 +6,8 @@
     "tweet_count": null
   },
   {
-    "name": "Hässelby",
-    "query": "Hässelby",
+    "name": "hässelby",
+    "query": "hässelby",
     "rank": 2,
     "tweet_count": null
   },
@@ -24,22 +24,22 @@
     "tweet_count": null
   },
   {
-    "name": "San Marino",
-    "query": "\"San Marino\"",
-    "rank": 5,
-    "tweet_count": "84.4K Tweets"
-  },
-  {
     "name": "Senegal",
     "query": "Senegal",
-    "rank": 6,
-    "tweet_count": "10.1K Tweets"
+    "rank": 5,
+    "tweet_count": "10.2K Tweets"
   },
   {
-    "name": "Italien",
-    "query": "Italien",
+    "name": "italien",
+    "query": "italien",
+    "rank": 6,
+    "tweet_count": "4,069 Tweets"
+  },
+  {
+    "name": "San Marino",
+    "query": "\"San Marino\"",
     "rank": 7,
-    "tweet_count": "4,043 Tweets"
+    "tweet_count": "84.5K Tweets"
   },
   {
     "name": "Lidköping",
@@ -48,40 +48,40 @@
     "tweet_count": null
   },
   {
-    "name": "Ukraina",
-    "query": "Ukraina",
-    "rank": 9,
-    "tweet_count": "2,637 Tweets"
-  },
-  {
     "name": "Portugal",
     "query": "Portugal",
+    "rank": 9,
+    "tweet_count": "104K Tweets"
+  },
+  {
+    "name": "Ukraina",
+    "query": "Ukraina",
     "rank": 10,
-    "tweet_count": "103K Tweets"
+    "tweet_count": "2,663 Tweets"
   },
   {
-    "name": "janne",
-    "query": "janne",
+    "name": "Janne",
+    "query": "Janne",
     "rank": 11,
-    "tweet_count": "3,048 Tweets"
-  },
-  {
-    "name": "Halo",
-    "query": "Halo",
-    "rank": 12,
-    "tweet_count": "381K Tweets"
+    "tweet_count": "3,095 Tweets"
   },
   {
     "name": "#Xbox20",
     "query": "#Xbox20",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": "114K Tweets"
   },
   {
     "name": "Estonia",
     "query": "Estonia",
+    "rank": 13,
+    "tweet_count": "7,868 Tweets"
+  },
+  {
+    "name": "#EndSARS",
+    "query": "#EndSARS",
     "rank": 14,
-    "tweet_count": "7,807 Tweets"
+    "tweet_count": "154K Tweets"
   },
   {
     "name": "martin olsson",
@@ -90,32 +90,32 @@
     "tweet_count": null
   },
   {
-    "name": "#EndSARS",
-    "query": "#EndSARS",
-    "rank": 16,
-    "tweet_count": "152K Tweets"
-  },
-  {
     "name": "rickard wallin",
     "query": "\"rickard wallin\"",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Vetlanda",
-    "query": "Vetlanda",
-    "rank": 18,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "peter jakobsson",
     "query": "\"peter jakobsson\"",
-    "rank": 19,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "#farsdag",
     "query": "#farsdag",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Agenda",
+    "query": "Agenda",
+    "rank": 19,
+    "tweet_count": "140K Tweets"
+  },
+  {
+    "name": "Magdalena Andersson",
+    "query": "\"Magdalena Andersson\"",
     "rank": 20,
     "tweet_count": null
   }

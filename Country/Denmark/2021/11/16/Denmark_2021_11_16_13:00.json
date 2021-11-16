@@ -3,7 +3,7 @@
     "name": "#kv21",
     "query": "#kv21",
     "rank": 1,
-    "tweet_count": "1,859 Tweets"
+    "tweet_count": "1,875 Tweets"
   },
   {
     "name": "#SCODEN",
@@ -12,20 +12,20 @@
     "tweet_count": "16K Tweets"
   },
   {
-    "name": "#fordanmark",
-    "query": "#fordanmark",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
     "name": "Frihedslisten",
     "query": "Frihedslisten",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Sisto",
     "query": "Sisto",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "#fordanmark",
+    "query": "#fordanmark",
     "rank": 5,
     "tweet_count": null
   },
@@ -45,13 +45,13 @@
     "name": "San Marino",
     "query": "\"San Marino\"",
     "rank": 8,
-    "tweet_count": "84.4K Tweets"
+    "tweet_count": "84.5K Tweets"
   },
   {
-    "name": "#dkpol",
-    "query": "#dkpol",
+    "name": "STEM",
+    "query": "STEM",
     "rank": 9,
-    "tweet_count": "3,243 Tweets"
+    "tweet_count": "20K Tweets"
   },
   {
     "name": "#obdk",
@@ -60,22 +60,22 @@
     "tweet_count": null
   },
   {
-    "name": "STEM",
-    "query": "STEM",
-    "rank": 11,
-    "tweet_count": "19.8K Tweets"
-  },
-  {
     "name": "cornelius",
     "query": "cornelius",
-    "rank": 12,
-    "tweet_count": "1,661 Tweets"
+    "rank": 11,
+    "tweet_count": "1,667 Tweets"
   },
   {
     "name": "Hjulmand",
     "query": "Hjulmand",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "#dkpol",
+    "query": "#dkpol",
+    "rank": 13,
+    "tweet_count": "3,269 Tweets"
   },
   {
     "name": "Stine",
@@ -96,26 +96,26 @@
     "tweet_count": null
   },
   {
-    "name": "Musk",
-    "query": "Musk",
-    "rank": 17,
-    "tweet_count": "134K Tweets"
-  },
-  {
     "name": "østrig",
     "query": "østrig",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
+  },
+  {
+    "name": "Musk",
+    "query": "Musk",
+    "rank": 18,
+    "tweet_count": "135K Tweets"
   },
   {
     "name": "Schweiz",
     "query": "Schweiz",
     "rank": 19,
-    "tweet_count": "5,411 Tweets"
+    "tweet_count": "5,458 Tweets"
   },
   {
-    "name": "København",
-    "query": "København",
+    "name": "Kolding",
+    "query": "Kolding",
     "rank": 20,
     "tweet_count": null
   }
