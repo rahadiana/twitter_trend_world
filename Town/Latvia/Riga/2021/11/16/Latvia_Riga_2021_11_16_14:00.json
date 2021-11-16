@@ -15,7 +15,7 @@
     "name": "Top 3",
     "query": "\"Top 3\"",
     "rank": 3,
-    "tweet_count": "125K Tweets"
+    "tweet_count": "127K Tweets"
   },
   {
     "name": "Salacgrīvu",
@@ -33,7 +33,7 @@
     "name": "trīs",
     "query": "trīs",
     "rank": 6,
-    "tweet_count": "2,301 Tweets"
+    "tweet_count": "2,343 Tweets"
   },
   {
     "name": "#teirdarbs",
@@ -45,7 +45,7 @@
     "name": "Rīgā",
     "query": "Rīgā",
     "rank": 8,
-    "tweet_count": "1,634 Tweets"
+    "tweet_count": "1,659 Tweets"
   },
   {
     "name": "jūrmalā",
@@ -54,14 +54,14 @@
     "tweet_count": null
   },
   {
-    "name": "Polija",
-    "query": "Polija",
+    "name": "Ķīnas",
+    "query": "Ķīnas",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Ķīnas",
-    "query": "Ķīnas",
+    "name": "Varu",
+    "query": "Varu",
     "rank": 11,
     "tweet_count": null
   },
@@ -90,22 +90,22 @@
     "tweet_count": null
   },
   {
-    "name": "Latvijas",
-    "query": "Latvijas",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
     "name": "Pasaules",
     "query": "Pasaules",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Runa",
     "query": "Runa",
+    "rank": 17,
+    "tweet_count": "15.6K Tweets"
+  },
+  {
+    "name": "Latvijas",
+    "query": "Latvijas",
     "rank": 18,
-    "tweet_count": "15.2K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Labdien",
@@ -117,6 +117,6 @@
     "name": "Russia",
     "query": "Russia",
     "rank": 20,
-    "tweet_count": "109K Tweets"
+    "tweet_count": "111K Tweets"
   }
 ]
