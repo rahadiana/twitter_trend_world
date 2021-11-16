@@ -15,31 +15,31 @@
     "name": "Top 3",
     "query": "\"Top 3\"",
     "rank": 3,
-    "tweet_count": "129K Tweets"
+    "tweet_count": "130K Tweets"
+  },
+  {
+    "name": "Spotify",
+    "query": "Spotify",
+    "rank": 4,
+    "tweet_count": "753K Tweets"
   },
   {
     "name": "salacgrīvu",
     "query": "salacgrīvu",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Lucavsalā",
     "query": "Lucavsalā",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Spotify",
-    "query": "Spotify",
     "rank": 6,
-    "tweet_count": "740K Tweets"
+    "tweet_count": null
   },
   {
     "name": "trīs",
     "query": "trīs",
     "rank": 7,
-    "tweet_count": "2,394 Tweets"
+    "tweet_count": "2,411 Tweets"
   },
   {
     "name": "#teirdarbs",
@@ -51,7 +51,7 @@
     "name": "Rīgā",
     "query": "Rīgā",
     "rank": 9,
-    "tweet_count": "1,547 Tweets"
+    "tweet_count": "1,557 Tweets"
   },
   {
     "name": "#Budžets2022",
@@ -60,26 +60,26 @@
     "tweet_count": null
   },
   {
+    "name": "Neviens",
+    "query": "Neviens",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
     "name": "jūrmalā",
     "query": "jūrmalā",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Valmieras",
     "query": "Valmieras",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "ķīnas",
     "query": "ķīnas",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "kādēļ",
-    "query": "kādēļ",
     "rank": 14,
     "tweet_count": null
   },
@@ -93,7 +93,7 @@
     "name": "China",
     "query": "China",
     "rank": 16,
-    "tweet_count": "280K Tweets"
+    "tweet_count": "282K Tweets"
   },
   {
     "name": "Polijā",
@@ -111,12 +111,12 @@
     "name": "#NFTs",
     "query": "#NFTs",
     "rank": 19,
-    "tweet_count": "394K Tweets"
+    "tweet_count": "397K Tweets"
   },
   {
     "name": "Tādi",
     "query": "Tādi",
     "rank": 20,
-    "tweet_count": "57.7K Tweets"
+    "tweet_count": "57.8K Tweets"
   }
 ]
