@@ -12,8 +12,8 @@
     "tweet_count": null
   },
   {
-    "name": "Salacgrīvā",
-    "query": "Salacgrīvā",
+    "name": "salacgrīvā",
+    "query": "salacgrīvā",
     "rank": 3,
     "tweet_count": null
   },
@@ -21,19 +21,19 @@
     "name": "Top 3",
     "query": "\"Top 3\"",
     "rank": 4,
-    "tweet_count": "130K Tweets"
+    "tweet_count": "131K Tweets"
   },
   {
-    "name": "Rīgā",
-    "query": "Rīgā",
+    "name": "Rīgas",
+    "query": "Rīgas",
     "rank": 5,
-    "tweet_count": "1,681 Tweets"
+    "tweet_count": null
   },
   {
     "name": "trīs",
     "query": "trīs",
     "rank": 6,
-    "tweet_count": "2,405 Tweets"
+    "tweet_count": "2,417 Tweets"
   },
   {
     "name": "edijs",
@@ -48,8 +48,8 @@
     "tweet_count": null
   },
   {
-    "name": "ķīnas",
-    "query": "ķīnas",
+    "name": "Ķīnas",
+    "query": "Ķīnas",
     "rank": 9,
     "tweet_count": null
   },
@@ -60,20 +60,20 @@
     "tweet_count": null
   },
   {
-    "name": "Kādēļ",
-    "query": "Kādēļ",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
     "name": "Eiropā",
     "query": "Eiropā",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Labdien",
     "query": "Labdien",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "Kādēļ",
+    "query": "Kādēļ",
     "rank": 13,
     "tweet_count": null
   },
@@ -84,14 +84,14 @@
     "tweet_count": null
   },
   {
-    "name": "Runa",
-    "query": "Runa",
+    "name": "RUNA",
+    "query": "RUNA",
     "rank": 15,
-    "tweet_count": "15.9K Tweets"
+    "tweet_count": "16.1K Tweets"
   },
   {
-    "name": "Nebūs",
-    "query": "Nebūs",
+    "name": "nebūs",
+    "query": "nebūs",
     "rank": 16,
     "tweet_count": null
   },
@@ -102,20 +102,20 @@
     "tweet_count": null
   },
   {
+    "name": "tevi",
+    "query": "tevi",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
     "name": "ceru",
     "query": "ceru",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "vairāk",
     "query": "vairāk",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Tevi",
-    "query": "Tevi",
     "rank": 20,
     "tweet_count": null
   }
