@@ -1,33 +1,33 @@
 [
   {
-    "name": "#zibspezial",
-    "query": "#zibspezial",
-    "rank": 1,
-    "tweet_count": "1,990 Tweets"
-  },
-  {
     "name": "#rundertisch",
     "query": "#rundertisch",
-    "rank": 2,
-    "tweet_count": "1,135 Tweets"
+    "rank": 1,
+    "tweet_count": "1,145 Tweets"
   },
   {
-    "name": "#kickl",
-    "query": "#kickl",
-    "rank": 3,
-    "tweet_count": "1,122 Tweets"
+    "name": "#zibspezial",
+    "query": "#zibspezial",
+    "rank": 2,
+    "tweet_count": "2,019 Tweets"
   },
   {
     "name": "#allesindenArm",
     "query": "#allesindenArm",
-    "rank": 4,
-    "tweet_count": "43.5K Tweets"
+    "rank": 3,
+    "tweet_count": "43.7K Tweets"
   },
   {
     "name": "#autmda",
     "query": "#autmda",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "#Kickl",
+    "query": "#Kickl",
+    "rank": 5,
+    "tweet_count": "1,128 Tweets"
   },
   {
     "name": "Heinz Mayer",
@@ -45,78 +45,78 @@
     "name": "Verlauf",
     "query": "Verlauf",
     "rank": 8,
-    "tweet_count": "2,741 Tweets"
-  },
-  {
-    "name": "Klaus",
-    "query": "Klaus",
-    "rank": 9,
-    "tweet_count": "12.8K Tweets"
+    "tweet_count": "2,774 Tweets"
   },
   {
     "name": "Guerot",
     "query": "Guerot",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "gutachten",
-    "query": "gutachten",
+    "name": "Klaus",
+    "query": "Klaus",
+    "rank": 10,
+    "tweet_count": "12.9K Tweets"
+  },
+  {
+    "name": "Franz",
+    "query": "Franz",
     "rank": 11,
-    "tweet_count": "1,808 Tweets"
+    "tweet_count": "5,780 Tweets"
   },
   {
     "name": "Lasst Euch",
     "query": "\"Lasst Euch\"",
     "rank": 12,
-    "tweet_count": "19.5K Tweets"
+    "tweet_count": "19.7K Tweets"
   },
   {
-    "name": "Mückstein",
-    "query": "Mückstein",
+    "name": "Gutachten",
+    "query": "Gutachten",
     "rank": 13,
-    "tweet_count": "2,324 Tweets"
+    "tweet_count": "1,840 Tweets"
+  },
+  {
+    "name": "Lockdown",
+    "query": "Lockdown",
+    "rank": 14,
+    "tweet_count": "148K Tweets"
   },
   {
     "name": "Genesung",
     "query": "Genesung",
-    "rank": 14,
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Gipfel",
+    "query": "Gipfel",
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "wochenstart",
     "query": "wochenstart",
-    "rank": 15,
-    "tweet_count": "1,401 Tweets"
+    "rank": 17,
+    "tweet_count": "1,189 Tweets"
   },
   {
     "name": "Thomas",
     "query": "Thomas",
-    "rank": 16,
-    "tweet_count": "82.1K Tweets"
-  },
-  {
-    "name": "ausgangssperre",
-    "query": "ausgangssperre",
-    "rank": 17,
-    "tweet_count": "1,112 Tweets"
-  },
-  {
-    "name": "Sitzplatz",
-    "query": "Sitzplatz",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "83.1K Tweets"
+  },
+  {
+    "name": "Ausgangssperre",
+    "query": "Ausgangssperre",
+    "rank": 19,
+    "tweet_count": "1,120 Tweets"
   },
   {
     "name": "Gesundheitsminister",
     "query": "Gesundheitsminister",
-    "rank": 19,
-    "tweet_count": "2,311 Tweets"
-  },
-  {
-    "name": "Gipfel",
-    "query": "Gipfel",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "2,379 Tweets"
   }
 ]
