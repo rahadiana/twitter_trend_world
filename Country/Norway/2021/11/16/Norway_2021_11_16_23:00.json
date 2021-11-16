@@ -1,27 +1,27 @@
 [
   {
-    "name": "Nederland",
-    "query": "Nederland",
-    "rank": 1,
-    "tweet_count": "23K Tweets"
-  },
-  {
     "name": "#NEDNOR",
     "query": "#NEDNOR",
+    "rank": 1,
+    "tweet_count": "11.9K Tweets"
+  },
+  {
+    "name": "Nederland",
+    "query": "Nederland",
     "rank": 2,
-    "tweet_count": "11.8K Tweets"
+    "tweet_count": "23.2K Tweets"
   },
   {
     "name": "Qatar",
     "query": "Qatar",
     "rank": 3,
-    "tweet_count": "64.7K Tweets"
+    "tweet_count": "66.7K Tweets"
   },
   {
     "name": "Latvia",
     "query": "Latvia",
     "rank": 4,
-    "tweet_count": "4,926 Tweets"
+    "tweet_count": "4,986 Tweets"
   },
   {
     "name": "Solbakken",
@@ -42,28 +42,28 @@
     "tweet_count": null
   },
   {
-    "name": "#nrkdebatt",
-    "query": "#nrkdebatt",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "Lehne Olsen",
     "query": "\"Lehne Olsen\"",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Van Dijk",
     "query": "\"Van Dijk\"",
-    "rank": 10,
-    "tweet_count": "3,415 Tweets"
+    "rank": 9,
+    "tweet_count": "3,516 Tweets"
   },
   {
     "name": "Haaland",
     "query": "Haaland",
+    "rank": 10,
+    "tweet_count": "15.6K Tweets"
+  },
+  {
+    "name": "#nrkdebatt",
+    "query": "#nrkdebatt",
     "rank": 11,
-    "tweet_count": "15K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Trond Giske",
@@ -78,16 +78,16 @@
     "tweet_count": null
   },
   {
-    "name": "Sørloth",
-    "query": "Sørloth",
+    "name": "sørloth",
+    "query": "sørloth",
     "rank": 14,
-    "tweet_count": "1,183 Tweets"
+    "tweet_count": "1,188 Tweets"
   },
   {
     "name": "Montenegro",
     "query": "Montenegro",
     "rank": 15,
-    "tweet_count": "5,997 Tweets"
+    "tweet_count": "6,065 Tweets"
   },
   {
     "name": "sbanken",
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
-    "name": "Gibraltar",
-    "query": "Gibraltar",
-    "rank": 17,
-    "tweet_count": "39.4K Tweets"
-  },
-  {
     "name": "Knutsen",
     "query": "Knutsen",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
+  },
+  {
+    "name": "Gibraltar",
+    "query": "Gibraltar",
+    "rank": 18,
+    "tweet_count": "40.2K Tweets"
   },
   {
     "name": "Rotterdam",
     "query": "Rotterdam",
     "rank": 19,
-    "tweet_count": "3,862 Tweets"
+    "tweet_count": "3,902 Tweets"
   },
   {
     "name": "Van Gaal",
     "query": "\"Van Gaal\"",
     "rank": 20,
-    "tweet_count": "4,055 Tweets"
+    "tweet_count": "4,204 Tweets"
   }
 ]
