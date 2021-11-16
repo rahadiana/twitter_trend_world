@@ -1,7 +1,7 @@
 [
   {
-    "name": "#OeNr",
-    "query": "#OeNr",
+    "name": "#oenr",
+    "query": "#oenr",
     "rank": 1,
     "tweet_count": null
   },
@@ -9,13 +9,13 @@
     "name": "#zibspezial",
     "query": "#zibspezial",
     "rank": 2,
-    "tweet_count": "2,232 Tweets"
+    "tweet_count": "2,243 Tweets"
   },
   {
-    "name": "#RunderTisch",
-    "query": "#RunderTisch",
+    "name": "#rundertisch",
+    "query": "#rundertisch",
     "rank": 3,
-    "tweet_count": "1,218 Tweets"
+    "tweet_count": "1,229 Tweets"
   },
   {
     "name": "#Kickl",
@@ -27,13 +27,13 @@
     "name": "#AllesInDenArm",
     "query": "#AllesInDenArm",
     "rank": 5,
-    "tweet_count": "26.5K Tweets"
+    "tweet_count": "26.8K Tweets"
   },
   {
-    "name": "Triage",
-    "query": "Triage",
+    "name": "Triageteam",
+    "query": "Triageteam",
     "rank": 6,
-    "tweet_count": "3,429 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Heinz Mayer",
@@ -45,25 +45,25 @@
     "name": "Patient",
     "query": "Patient",
     "rank": 8,
-    "tweet_count": "70.8K Tweets"
-  },
-  {
-    "name": "guerot",
-    "query": "guerot",
-    "rank": 9,
-    "tweet_count": null
+    "tweet_count": "72.4K Tweets"
   },
   {
     "name": "Salzburg",
     "query": "Salzburg",
+    "rank": 9,
+    "tweet_count": "3,234 Tweets"
+  },
+  {
+    "name": "guerot",
+    "query": "guerot",
     "rank": 10,
-    "tweet_count": "2,959 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Gipfel",
     "query": "Gipfel",
     "rank": 11,
-    "tweet_count": "1,056 Tweets"
+    "tweet_count": "1,088 Tweets"
   },
   {
     "name": "Streit",
@@ -72,50 +72,50 @@
     "tweet_count": null
   },
   {
-    "name": "felix gottwald",
-    "query": "\"felix gottwald\"",
+    "name": "Felix Gottwald",
+    "query": "\"Felix Gottwald\"",
     "rank": 13,
-    "tweet_count": "1,172 Tweets"
+    "tweet_count": "1,190 Tweets"
   },
   {
     "name": "Verlauf",
     "query": "Verlauf",
     "rank": 14,
-    "tweet_count": "2,541 Tweets"
+    "tweet_count": "2,649 Tweets"
   },
   {
     "name": "Entwurmungsmittel",
     "query": "Entwurmungsmittel",
     "rank": 15,
-    "tweet_count": "1,297 Tweets"
-  },
-  {
-    "name": "Parlament",
-    "query": "Parlament",
-    "rank": 16,
-    "tweet_count": "3,692 Tweets"
+    "tweet_count": "1,532 Tweets"
   },
   {
     "name": "Maßnahmen",
     "query": "Maßnahmen",
-    "rank": 17,
-    "tweet_count": "13.9K Tweets"
+    "rank": 16,
+    "tweet_count": "14.3K Tweets"
   },
   {
     "name": "Ausgangssperre",
     "query": "Ausgangssperre",
-    "rank": 18,
-    "tweet_count": "1,042 Tweets"
-  },
-  {
-    "name": "Nationalrat",
-    "query": "Nationalrat",
-    "rank": 19,
-    "tweet_count": null
+    "rank": 17,
+    "tweet_count": "1,052 Tweets"
   },
   {
     "name": "thomas hofer",
     "query": "\"thomas hofer\"",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "vertrauensarzt",
+    "query": "vertrauensarzt",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Zorn",
+    "query": "Zorn",
     "rank": 20,
     "tweet_count": null
   }
