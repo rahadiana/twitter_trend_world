@@ -1,87 +1,87 @@
 [
   {
+    "name": "#Kontrakt",
+    "query": "#Kontrakt",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "Dziambor",
     "query": "Dziambor",
-    "rank": 1,
-    "tweet_count": "1,057 Tweets"
+    "rank": 2,
+    "tweet_count": "1,084 Tweets"
   },
   {
     "name": "Żołnierz",
     "query": "Żołnierz",
-    "rank": 2,
-    "tweet_count": "1,695 Tweets"
-  },
-  {
-    "name": "Węgrami",
-    "query": "Węgrami",
     "rank": 3,
-    "tweet_count": "1,183 Tweets"
+    "tweet_count": "1,752 Tweets"
   },
   {
     "name": "#StopSegregacjiSanitarnej",
     "query": "#StopSegregacjiSanitarnej",
     "rank": 4,
-    "tweet_count": "1,083 Tweets"
+    "tweet_count": "1,114 Tweets"
+  },
+  {
+    "name": "Węgrami",
+    "query": "Węgrami",
+    "rank": 5,
+    "tweet_count": "1,221 Tweets"
   },
   {
     "name": "Różański",
     "query": "Różański",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Braun",
-    "query": "Braun",
     "rank": 6,
-    "tweet_count": "7,126 Tweets"
-  },
-  {
-    "name": "Lewandowskiego",
-    "query": "Lewandowskiego",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
-    "name": "#JusticeWorldTourKrakow",
-    "query": "#JusticeWorldTourKrakow",
-    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Syrii",
     "query": "Syrii",
+    "rank": 7,
+    "tweet_count": "1,178 Tweets"
+  },
+  {
+    "name": "Braun",
+    "query": "Braun",
+    "rank": 8,
+    "tweet_count": "7,201 Tweets"
+  },
+  {
+    "name": "Lewandowskiego",
+    "query": "Lewandowskiego",
     "rank": 9,
-    "tweet_count": "1,148 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#Covid",
-    "query": "#Covid",
+    "name": "#JusticeWorldTourKrakow",
+    "query": "#JusticeWorldTourKrakow",
     "rank": 10,
-    "tweet_count": "30.6K Tweets"
-  },
-  {
-    "name": "Dziennikarze",
-    "query": "Dziennikarze",
-    "rank": 11,
-    "tweet_count": "3,747 Tweets"
-  },
-  {
-    "name": "Konfederacja",
-    "query": "Konfederacja",
-    "rank": 12,
-    "tweet_count": "5,911 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#ATEEZinWarsaw",
     "query": "#ATEEZinWarsaw",
-    "rank": 13,
+    "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "Dworczyk",
-    "query": "Dworczyk",
+    "name": "Dziennikarze",
+    "query": "Dziennikarze",
+    "rank": 12,
+    "tweet_count": "3,859 Tweets"
+  },
+  {
+    "name": "Konfederacja",
+    "query": "Konfederacja",
+    "rank": 13,
+    "tweet_count": "6,020 Tweets"
+  },
+  {
+    "name": "dworczyk",
+    "query": "dworczyk",
     "rank": 14,
-    "tweet_count": "1,828 Tweets"
+    "tweet_count": "1,853 Tweets"
   },
   {
     "name": "Korwina",
@@ -90,15 +90,27 @@
     "tweet_count": null
   },
   {
+    "name": "PZPN",
+    "query": "PZPN",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "#Covid",
+    "query": "#Covid",
+    "rank": 17,
+    "tweet_count": "30.9K Tweets"
+  },
+  {
     "name": "#Sejm",
     "query": "#Sejm",
-    "rank": 16,
-    "tweet_count": "1,811 Tweets"
+    "rank": 18,
+    "tweet_count": "1,845 Tweets"
   },
   {
     "name": "#studia2021",
     "query": "#studia2021",
-    "rank": 17,
+    "rank": 19,
     "tweet_count": null
   }
 ]
