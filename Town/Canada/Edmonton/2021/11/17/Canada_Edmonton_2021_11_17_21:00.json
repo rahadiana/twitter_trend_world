@@ -1,69 +1,69 @@
 [
   {
-    "name": "#CANMNT",
-    "query": "#CANMNT",
-    "rank": 1,
-    "tweet_count": "39.5K Tweets"
-  },
-  {
     "name": "Young Dolph",
     "query": "\"Young Dolph\"",
-    "rank": 2,
-    "tweet_count": "415K Tweets"
+    "rank": 1,
+    "tweet_count": "428K Tweets"
   },
   {
     "name": "Davido",
     "query": "Davido",
+    "rank": 2,
+    "tweet_count": "394K Tweets"
+  },
+  {
+    "name": "Gosar",
+    "query": "Gosar",
     "rank": 3,
-    "tweet_count": "390K Tweets"
+    "tweet_count": "207K Tweets"
   },
   {
     "name": "#ShoppersDougMart",
     "query": "#ShoppersDougMart",
     "rank": 4,
-    "tweet_count": "4,088 Tweets"
-  },
-  {
-    "name": "Gosar",
-    "query": "Gosar",
-    "rank": 5,
-    "tweet_count": "200K Tweets"
+    "tweet_count": "4,130 Tweets"
   },
   {
     "name": "SLOBS",
     "query": "SLOBS",
-    "rank": 6,
-    "tweet_count": "39.9K Tweets"
+    "rank": 5,
+    "tweet_count": "40.1K Tweets"
   },
   {
     "name": "John Horgan",
     "query": "\"John Horgan\"",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "#emergencyalert",
     "query": "#emergencyalert",
-    "rank": 8,
+    "rank": 7,
     "tweet_count": null
+  },
+  {
+    "name": "#bcfloods",
+    "query": "#bcfloods",
+    "rank": 8,
+    "tweet_count": "13.2K Tweets"
   },
   {
     "name": "State of Emergency",
     "query": "\"State of Emergency\"",
     "rank": 9,
-    "tweet_count": "17.1K Tweets"
+    "tweet_count": "17.3K Tweets"
   },
   {
     "name": "#WorldPrematurityDay",
     "query": "#WorldPrematurityDay",
     "rank": 10,
-    "tweet_count": "7,979 Tweets"
+    "tweet_count": "8,039 Tweets"
   },
   {
-    "name": "#bcfloods",
-    "query": "#bcfloods",
+    "name": "Kevin McCarthy",
+    "query": "\"Kevin McCarthy\"",
     "rank": 11,
-    "tweet_count": "13K Tweets"
+    "tweet_count": "32K Tweets"
   },
   {
     "name": "Adam Brooks",
@@ -75,48 +75,42 @@
     "name": "Verlander",
     "query": "Verlander",
     "rank": 13,
-    "tweet_count": "4,345 Tweets"
+    "tweet_count": "4,398 Tweets"
+  },
+  {
+    "name": "StreamElements",
+    "query": "StreamElements",
+    "rank": 14,
+    "tweet_count": "8,401 Tweets"
   },
   {
     "name": "Abbotsford",
     "query": "Abbotsford",
-    "rank": 14,
-    "tweet_count": "27.2K Tweets"
+    "rank": 15,
+    "tweet_count": "27.3K Tweets"
   },
   {
     "name": "Joey",
     "query": "Joey",
-    "rank": 15,
-    "tweet_count": "23K Tweets"
+    "rank": 16,
+    "tweet_count": "23.2K Tweets"
   },
   {
     "name": "Gordon Lightfoot",
     "query": "\"Gordon Lightfoot\"",
-    "rank": 16,
-    "tweet_count": "1,384 Tweets"
-  },
-  {
-    "name": "Rexall",
-    "query": "Rexall",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "1,407 Tweets"
   },
   {
     "name": "Ashlee Simpson",
     "query": "\"Ashlee Simpson\"",
     "rank": 18,
-    "tweet_count": "5,259 Tweets"
+    "tweet_count": "5,272 Tweets"
   },
   {
-    "name": "Visa",
-    "query": "Visa",
+    "name": "Rexall",
+    "query": "Rexall",
     "rank": 19,
-    "tweet_count": "57.5K Tweets"
-  },
-  {
-    "name": "Kyrie",
-    "query": "Kyrie",
-    "rank": 20,
-    "tweet_count": "30.8K Tweets"
+    "tweet_count": null
   }
 ]
