@@ -1,39 +1,39 @@
 [
   {
-    "name": "#TheChase",
-    "query": "#TheChase",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#c4news",
     "query": "#c4news",
+    "rank": 1,
+    "tweet_count": "1,127 Tweets"
+  },
+  {
+    "name": "Kevin",
+    "query": "Kevin",
     "rank": 2,
-    "tweet_count": "1,100 Tweets"
+    "tweet_count": "140K Tweets"
   },
   {
     "name": "#SWA21",
     "query": "#SWA21",
     "rank": 3,
-    "tweet_count": "1,031 Tweets"
-  },
-  {
-    "name": "Kevin",
-    "query": "Kevin",
-    "rank": 4,
-    "tweet_count": "138K Tweets"
+    "tweet_count": "1,037 Tweets"
   },
   {
     "name": "Roux",
     "query": "Roux",
+    "rank": 4,
+    "tweet_count": "2,885 Tweets"
+  },
+  {
+    "name": "Tobey Maguire",
+    "query": "\"Tobey Maguire\"",
     "rank": 5,
-    "tweet_count": "2,872 Tweets"
+    "tweet_count": "76K Tweets"
   },
   {
     "name": "NICU",
     "query": "NICU",
     "rank": 6,
-    "tweet_count": "2,974 Tweets"
+    "tweet_count": "2,999 Tweets"
   },
   {
     "name": "#StanleyJohnson",
@@ -42,75 +42,75 @@
     "tweet_count": null
   },
   {
-    "name": "Young Dolph",
-    "query": "\"Young Dolph\"",
+    "name": "#WorldCOPDDay",
+    "query": "#WorldCOPDDay",
     "rank": 8,
-    "tweet_count": "297K Tweets"
+    "tweet_count": "2,814 Tweets"
   },
   {
-    "name": "Davido",
-    "query": "Davido",
+    "name": "Young Dolph",
+    "query": "\"Young Dolph\"",
     "rank": 9,
-    "tweet_count": "360K Tweets"
+    "tweet_count": "318K Tweets"
   },
   {
     "name": "Stockport",
     "query": "Stockport",
     "rank": 10,
-    "tweet_count": "2,671 Tweets"
+    "tweet_count": "2,922 Tweets"
+  },
+  {
+    "name": "Davido",
+    "query": "Davido",
+    "rank": 11,
+    "tweet_count": "366K Tweets"
   },
   {
     "name": "TWO Return Flights to Hawaii",
     "query": "\"TWO Return Flights to Hawaii\"",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "David Lacey",
     "query": "\"David Lacey\"",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Ghislaine Maxwell",
     "query": "\"Ghislaine Maxwell\"",
-    "rank": 13,
-    "tweet_count": "8,073 Tweets"
-  },
-  {
-    "name": "Shamima Begum",
-    "query": "\"Shamima Begum\"",
     "rank": 14,
-    "tweet_count": "3,113 Tweets"
+    "tweet_count": "8,233 Tweets"
   },
   {
     "name": "Ebony",
     "query": "Ebony",
     "rank": 15,
-    "tweet_count": "10.5K Tweets"
+    "tweet_count": "10.6K Tweets"
   },
   {
-    "name": "Rassie",
-    "query": "Rassie",
+    "name": "Shamima Begum",
+    "query": "\"Shamima Begum\"",
     "rank": 16,
-    "tweet_count": "2,242 Tweets"
-  },
-  {
-    "name": "Meena",
-    "query": "Meena",
-    "rank": 17,
-    "tweet_count": "6,986 Tweets"
-  },
-  {
-    "name": "Rob Cross",
-    "query": "\"Rob Cross\"",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "3,199 Tweets"
   },
   {
     "name": "Edgeley Park",
     "query": "\"Edgeley Park\"",
-    "rank": 19,
+    "rank": 17,
     "tweet_count": null
+  },
+  {
+    "name": "Rassie",
+    "query": "Rassie",
+    "rank": 18,
+    "tweet_count": "2,286 Tweets"
+  },
+  {
+    "name": "Meena",
+    "query": "Meena",
+    "rank": 19,
+    "tweet_count": "7,011 Tweets"
   }
 ]
