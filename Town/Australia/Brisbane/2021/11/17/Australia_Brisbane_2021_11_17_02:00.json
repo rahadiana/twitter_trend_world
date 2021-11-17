@@ -1,80 +1,92 @@
 [
   {
-    "name": "Victoria",
-    "query": "Victoria",
-    "rank": 1,
-    "tweet_count": "102K Tweets"
-  },
-  {
     "name": "#SpiderManNoWayHome",
     "query": "#SpiderManNoWayHome",
+    "rank": 1,
+    "tweet_count": "871K Tweets"
+  },
+  {
+    "name": "Tobey",
+    "query": "Tobey",
     "rank": 2,
-    "tweet_count": "736K Tweets"
+    "tweet_count": "185K Tweets"
+  },
+  {
+    "name": "Gwen",
+    "query": "Gwen",
+    "rank": 3,
+    "tweet_count": "53.3K Tweets"
+  },
+  {
+    "name": "Steph",
+    "query": "Steph",
+    "rank": 4,
+    "tweet_count": "59.3K Tweets"
   },
   {
     "name": "Khawaja",
     "query": "Khawaja",
-    "rank": 3,
-    "tweet_count": "1,285 Tweets"
+    "rank": 5,
+    "tweet_count": "1,413 Tweets"
+  },
+  {
+    "name": "Curry",
+    "query": "Curry",
+    "rank": 6,
+    "tweet_count": "76.3K Tweets"
   },
   {
     "name": "#Ashes",
     "query": "#Ashes",
-    "rank": 4,
-    "tweet_count": "1,284 Tweets"
+    "rank": 7,
+    "tweet_count": "1,411 Tweets"
   },
   {
     "name": "#IStandWithDan",
     "query": "#IStandWithDan",
-    "rank": 5,
-    "tweet_count": "13.7K Tweets"
+    "rank": 8,
+    "tweet_count": "14.2K Tweets"
   },
   {
     "name": "Paramount",
     "query": "Paramount",
-    "rank": 6,
-    "tweet_count": "12.3K Tweets"
+    "rank": 9,
+    "tweet_count": "12.6K Tweets"
   },
   {
     "name": "Harris",
     "query": "Harris",
-    "rank": 7,
-    "tweet_count": "66K Tweets"
+    "rank": 10,
+    "tweet_count": "68.3K Tweets"
   },
   {
     "name": "Discovery",
     "query": "Discovery",
-    "rank": 8,
-    "tweet_count": "28K Tweets"
+    "rank": 11,
+    "tweet_count": "28.4K Tweets"
   },
   {
     "name": "Star Trek",
     "query": "\"Star Trek\"",
-    "rank": 9,
-    "tweet_count": "8,736 Tweets"
+    "rank": 12,
+    "tweet_count": "8,966 Tweets"
   },
   {
     "name": "GOTY",
     "query": "GOTY",
-    "rank": 10,
-    "tweet_count": "24.6K Tweets"
-  },
-  {
-    "name": "#Covid_19",
-    "query": "#Covid_19",
-    "rank": 11,
-    "tweet_count": "25.9K Tweets"
+    "rank": 13,
+    "tweet_count": "25.3K Tweets"
   },
   {
     "name": "Herald Sun",
     "query": "\"Herald Sun\"",
-    "rank": 12,
-    "tweet_count": null
+    "rank": 14,
+    "tweet_count": "1,021 Tweets"
   },
   {
     "name": "Centrelink",
     "query": "Centrelink",
-    "rank": 13,
-    "tweet_count": "1,622 Tweets"
+    "rank": 15,
+    "tweet_count": "1,709 Tweets"
   }
 ]

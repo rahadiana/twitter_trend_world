@@ -1,7 +1,7 @@
 [
   {
-    "name": "#nednor",
-    "query": "#nednor",
+    "name": "#NEDNOR",
+    "query": "#NEDNOR",
     "rank": 1,
     "tweet_count": "12K Tweets"
   },
@@ -15,11 +15,11 @@
     "name": "Qatar",
     "query": "Qatar",
     "rank": 3,
-    "tweet_count": "88.7K Tweets"
+    "tweet_count": "109K Tweets"
   },
   {
-    "name": "Solbakken",
-    "query": "Solbakken",
+    "name": "solbakken",
+    "query": "solbakken",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,7 +27,7 @@
     "name": "Latvia",
     "query": "Latvia",
     "rank": 5,
-    "tweet_count": "4,850 Tweets"
+    "tweet_count": "4,889 Tweets"
   },
   {
     "name": "tyrkia",
@@ -45,25 +45,25 @@
     "name": "Van Dijk",
     "query": "\"Van Dijk\"",
     "rank": 8,
-    "tweet_count": "3,775 Tweets"
-  },
-  {
-    "name": "Haaland",
-    "query": "Haaland",
-    "rank": 9,
-    "tweet_count": "17.1K Tweets"
+    "tweet_count": "3,802 Tweets"
   },
   {
     "name": "lehne olsen",
     "query": "\"lehne olsen\"",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
+  },
+  {
+    "name": "Haaland",
+    "query": "Haaland",
+    "rank": 10,
+    "tweet_count": "17.3K Tweets"
   },
   {
     "name": "Montenegro",
     "query": "Montenegro",
     "rank": 11,
-    "tweet_count": "6,050 Tweets"
+    "tweet_count": "6,108 Tweets"
   },
   {
     "name": "sørloth",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "Gibraltar",
-    "query": "Gibraltar",
+    "name": "gibraltar",
+    "query": "gibraltar",
     "rank": 18,
-    "tweet_count": "42.9K Tweets"
+    "tweet_count": "43.4K Tweets"
   },
   {
     "name": "Rotterdam",
     "query": "Rotterdam",
     "rank": 19,
-    "tweet_count": "4,028 Tweets"
+    "tweet_count": "4,072 Tweets"
   },
   {
     "name": "Netherlands",
     "query": "Netherlands",
     "rank": 20,
-    "tweet_count": "27.1K Tweets"
+    "tweet_count": "27.4K Tweets"
   }
 ]

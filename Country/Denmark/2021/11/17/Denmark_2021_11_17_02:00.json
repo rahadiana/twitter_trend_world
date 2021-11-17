@@ -3,7 +3,7 @@
     "name": "#kv21",
     "query": "#kv21",
     "rank": 1,
-    "tweet_count": "3,786 Tweets"
+    "tweet_count": "3,810 Tweets"
   },
   {
     "name": "Frederiksberg",
@@ -12,14 +12,14 @@
     "tweet_count": null
   },
   {
-    "name": "Bornholm",
-    "query": "Bornholm",
+    "name": "Kolding",
+    "query": "Kolding",
     "rank": 3,
     "tweet_count": null
   },
   {
-    "name": "Kolding",
-    "query": "Kolding",
+    "name": "Bornholm",
+    "query": "Bornholm",
     "rank": 4,
     "tweet_count": null
   },
@@ -60,32 +60,32 @@
     "tweet_count": null
   },
   {
-    "name": "Hvidovre",
-    "query": "Hvidovre",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "aggesen",
-    "query": "aggesen",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
     "name": "#scoden",
     "query": "#scoden",
-    "rank": 13,
-    "tweet_count": "1,947 Tweets"
+    "rank": 11,
+    "tweet_count": "1,863 Tweets"
   },
   {
-    "name": "kerteminde",
-    "query": "kerteminde",
-    "rank": 14,
+    "name": "Simon Aggesen",
+    "query": "\"Simon Aggesen\"",
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "København",
     "query": "København",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Kerteminde",
+    "query": "Kerteminde",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "frihedslisten",
+    "query": "frihedslisten",
     "rank": 15,
     "tweet_count": null
   },
@@ -96,26 +96,26 @@
     "tweet_count": null
   },
   {
-    "name": "frihedslisten",
-    "query": "frihedslisten",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
     "name": "Enhedslisten",
     "query": "Enhedslisten",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Fanø",
     "query": "Fanø",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Pelle Dragsted",
+    "query": "\"Pelle Dragsted\"",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Socialdemokratiet",
-    "query": "Socialdemokratiet",
+    "name": "Venstre",
+    "query": "Venstre",
     "rank": 20,
     "tweet_count": null
   }
