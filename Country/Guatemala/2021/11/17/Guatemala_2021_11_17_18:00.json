@@ -24,26 +24,26 @@
     "tweet_count": "121K Tweets"
   },
   {
-    "name": "El Estor",
-    "query": "\"El Estor\"",
-    "rank": 5,
-    "tweet_count": "2,896 Tweets"
-  },
-  {
     "name": "Canadá",
     "query": "Canadá",
-    "rank": 6,
-    "tweet_count": "242K Tweets"
+    "rank": 5,
+    "tweet_count": "244K Tweets"
   },
   {
-    "name": "CODECA",
-    "query": "CODECA",
-    "rank": 7,
-    "tweet_count": "1,361 Tweets"
+    "name": "El Estor",
+    "query": "\"El Estor\"",
+    "rank": 6,
+    "tweet_count": "2,968 Tweets"
   },
   {
     "name": "#paroplurinacional",
     "query": "#paroplurinacional",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "#codeca",
+    "query": "#codeca",
     "rank": 8,
     "tweet_count": null
   },
@@ -57,7 +57,7 @@
     "name": "#SanaFrecuenciaCap14",
     "query": "#SanaFrecuenciaCap14",
     "rank": 10,
-    "tweet_count": "6,806 Tweets"
+    "tweet_count": "6,900 Tweets"
   },
   {
     "name": "Clásico 316",
@@ -69,13 +69,13 @@
     "name": "Argentina",
     "query": "Argentina",
     "rank": 12,
-    "tweet_count": "382K Tweets"
+    "tweet_count": "384K Tweets"
   },
   {
     "name": "happy birthday jd pantoja",
     "query": "\"happy birthday jd pantoja\"",
     "rank": 13,
-    "tweet_count": "7,566 Tweets"
+    "tweet_count": "7,567 Tweets"
   },
   {
     "name": "Vinicius",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
-    "name": "#LMD4",
-    "query": "#LMD4",
-    "rank": 16,
-    "tweet_count": "25.8K Tweets"
-  },
-  {
     "name": "Guatemala",
     "query": "Guatemala",
-    "rank": 17,
-    "tweet_count": "13K Tweets"
+    "rank": 16,
+    "tweet_count": "13.1K Tweets"
   },
   {
     "name": "Sony",
     "query": "Sony",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": "121K Tweets"
   },
   {
     "name": "Marvel",
     "query": "Marvel",
-    "rank": 19,
-    "tweet_count": "285K Tweets"
+    "rank": 18,
+    "tweet_count": "287K Tweets"
   },
   {
     "name": "San Julián",
     "query": "\"San Julián\"",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "Uruguay",
+    "query": "Uruguay",
+    "rank": 20,
+    "tweet_count": "67K Tweets"
   }
 ]
