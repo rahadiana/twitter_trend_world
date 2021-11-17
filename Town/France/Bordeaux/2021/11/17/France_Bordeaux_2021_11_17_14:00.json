@@ -1,39 +1,39 @@
 [
   {
-    "name": "#FINFRA",
-    "query": "#FINFRA",
-    "rank": 1,
-    "tweet_count": "31.1K Tweets"
-  },
-  {
     "name": "Orelsan",
     "query": "Orelsan",
-    "rank": 2,
-    "tweet_count": "10.2K Tweets"
+    "rank": 1,
+    "tweet_count": "10.8K Tweets"
   },
   {
     "name": "Davido",
     "query": "Davido",
-    "rank": 3,
-    "tweet_count": "60.3K Tweets"
+    "rank": 2,
+    "tweet_count": "71.3K Tweets"
   },
   {
-    "name": "#GiletsJaunes",
-    "query": "#GiletsJaunes",
-    "rank": 4,
-    "tweet_count": "8,491 Tweets"
+    "name": "#MissFrance",
+    "query": "#MissFrance",
+    "rank": 3,
+    "tweet_count": null
   },
   {
     "name": "Suicide Social",
     "query": "\"Suicide Social\"",
+    "rank": 4,
+    "tweet_count": "1,592 Tweets"
+  },
+  {
+    "name": "#GiletsJaunes",
+    "query": "#GiletsJaunes",
     "rank": 5,
-    "tweet_count": "1,510 Tweets"
+    "tweet_count": "8,793 Tweets"
   },
   {
     "name": "Spiderman",
     "query": "Spiderman",
     "rank": 6,
-    "tweet_count": "66K Tweets"
+    "tweet_count": "465K Tweets"
   },
   {
     "name": "#civilisation",
@@ -42,28 +42,28 @@
     "tweet_count": null
   },
   {
-    "name": "raelsan",
-    "query": "raelsan",
+    "name": "#JeSoutiensZemmour",
+    "query": "#JeSoutiensZemmour",
     "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "#ONEUS1stWin",
-    "query": "#ONEUS1stWin",
-    "rank": 9,
-    "tweet_count": "96.6K Tweets"
+    "tweet_count": "8,351 Tweets"
   },
   {
     "name": "Robert",
     "query": "Robert",
-    "rank": 10,
-    "tweet_count": "90.3K Tweets"
+    "rank": 9,
+    "tweet_count": "91.9K Tweets"
   },
   {
-    "name": "#JeSoutiensZemmour",
-    "query": "#JeSoutiensZemmour",
+    "name": "Raelsan",
+    "query": "Raelsan",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "Streamlabs",
+    "query": "Streamlabs",
     "rank": 11,
-    "tweet_count": "7,891 Tweets"
+    "tweet_count": "45.8K Tweets"
   },
   {
     "name": "CLIP OFFICIEL",
@@ -72,51 +72,45 @@
     "tweet_count": null
   },
   {
+    "name": "Skread",
+    "query": "Skread",
+    "rank": 13,
+    "tweet_count": "8,658 Tweets"
+  },
+  {
     "name": "Meian",
     "query": "Meian",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "Skread",
-    "query": "Skread",
-    "rank": 14,
-    "tweet_count": "8,317 Tweets"
-  },
-  {
-    "name": "Streamlabs",
-    "query": "Streamlabs",
+    "name": "Rublev",
+    "query": "Rublev",
     "rank": 15,
-    "tweet_count": "44.4K Tweets"
+    "tweet_count": "1,884 Tweets"
   },
   {
     "name": "Delfraissy",
     "query": "Delfraissy",
     "rank": 16,
-    "tweet_count": "6,595 Tweets"
-  },
-  {
-    "name": "Staples Center",
-    "query": "\"Staples Center\"",
-    "rank": 17,
-    "tweet_count": "46.5K Tweets"
+    "tweet_count": "6,829 Tweets"
   },
   {
     "name": "Masters",
     "query": "Masters",
+    "rank": 17,
+    "tweet_count": "39.3K Tweets"
+  },
+  {
+    "name": "Gwen",
+    "query": "Gwen",
     "rank": 18,
-    "tweet_count": "38.7K Tweets"
+    "tweet_count": "84.3K Tweets"
   },
   {
-    "name": "gwen",
-    "query": "gwen",
+    "name": "Staples Center",
+    "query": "\"Staples Center\"",
     "rank": 19,
-    "tweet_count": "83.5K Tweets"
-  },
-  {
-    "name": "Strange",
-    "query": "Strange",
-    "rank": 20,
-    "tweet_count": "107K Tweets"
+    "tweet_count": "47.8K Tweets"
   }
 ]
