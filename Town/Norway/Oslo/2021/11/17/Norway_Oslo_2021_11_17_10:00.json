@@ -6,28 +6,28 @@
     "tweet_count": null
   },
   {
-    "name": "Giske",
-    "query": "Giske",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
     "name": "#NEDNOR",
     "query": "#NEDNOR",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": "12.1K Tweets"
   },
   {
     "name": "Nederland",
     "query": "Nederland",
+    "rank": 3,
+    "tweet_count": "20.8K Tweets"
+  },
+  {
+    "name": "Giske",
+    "query": "Giske",
     "rank": 4,
-    "tweet_count": "20.5K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Qatar",
     "query": "Qatar",
     "rank": 5,
-    "tweet_count": "137K Tweets"
+    "tweet_count": "139K Tweets"
   },
   {
     "name": "Solbakken",
@@ -45,13 +45,13 @@
     "name": "Latvia",
     "query": "Latvia",
     "rank": 8,
-    "tweet_count": "4,228 Tweets"
+    "tweet_count": "4,272 Tweets"
   },
   {
     "name": "Van Dijk",
     "query": "\"Van Dijk\"",
     "rank": 9,
-    "tweet_count": "4,228 Tweets"
+    "tweet_count": "4,316 Tweets"
   },
   {
     "name": "Tyrkia",
@@ -69,13 +69,13 @@
     "name": "sørloth",
     "query": "sørloth",
     "rank": 12,
-    "tweet_count": "1,142 Tweets"
+    "tweet_count": "1,141 Tweets"
   },
   {
-    "name": "Haaland",
-    "query": "Haaland",
+    "name": "Stortingspresident",
+    "query": "Stortingspresident",
     "rank": 13,
-    "tweet_count": "19.7K Tweets"
+    "tweet_count": null
   },
   {
     "name": "hauge",
@@ -84,14 +84,14 @@
     "tweet_count": null
   },
   {
-    "name": "Ropstad",
-    "query": "Ropstad",
+    "name": "Haaland",
+    "query": "Haaland",
     "rank": 15,
-    "tweet_count": null
+    "tweet_count": "20K Tweets"
   },
   {
-    "name": "Stortingspresidenten",
-    "query": "Stortingspresidenten",
+    "name": "Ropstad",
+    "query": "Ropstad",
     "rank": 16,
     "tweet_count": null
   },
@@ -111,12 +111,12 @@
     "name": "Netherlands",
     "query": "Netherlands",
     "rank": 19,
-    "tweet_count": "27.2K Tweets"
+    "tweet_count": "27.6K Tweets"
   },
   {
     "name": "Van Gaal",
     "query": "\"Van Gaal\"",
     "rank": 20,
-    "tweet_count": "4,960 Tweets"
+    "tweet_count": "5,021 Tweets"
   }
 ]
