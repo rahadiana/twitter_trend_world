@@ -6,22 +6,22 @@
     "tweet_count": "12.1K Tweets"
   },
   {
+    "name": "Stortinget",
+    "query": "Stortinget",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
     "name": "Nederland",
     "query": "Nederland",
-    "rank": 2,
-    "tweet_count": "21.6K Tweets"
+    "rank": 3,
+    "tweet_count": "21.9K Tweets"
   },
   {
     "name": "Qatar",
     "query": "Qatar",
-    "rank": 3,
-    "tweet_count": "137K Tweets"
-  },
-  {
-    "name": "Stortinget",
-    "query": "Stortinget",
     "rank": 4,
-    "tweet_count": null
+    "tweet_count": "138K Tweets"
   },
   {
     "name": "Solbakken",
@@ -39,7 +39,7 @@
     "name": "Latvia",
     "query": "Latvia",
     "rank": 7,
-    "tweet_count": "4,570 Tweets"
+    "tweet_count": "4,598 Tweets"
   },
   {
     "name": "tyrkia",
@@ -51,7 +51,7 @@
     "name": "Van Dijk",
     "query": "\"Van Dijk\"",
     "rank": 9,
-    "tweet_count": "4,214 Tweets"
+    "tweet_count": "4,250 Tweets"
   },
   {
     "name": "Eva Kristin Hansen",
@@ -72,22 +72,22 @@
     "tweet_count": "1,162 Tweets"
   },
   {
-    "name": "Hauge",
-    "query": "Hauge",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
     "name": "Haaland",
     "query": "Haaland",
+    "rank": 13,
+    "tweet_count": "19.5K Tweets"
+  },
+  {
+    "name": "Hauge",
+    "query": "Hauge",
     "rank": 14,
-    "tweet_count": "19.3K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Netherlands",
     "query": "Netherlands",
     "rank": 15,
-    "tweet_count": "27.5K Tweets"
+    "tweet_count": "27.9K Tweets"
   },
   {
     "name": "thorsby",
@@ -111,6 +111,6 @@
     "name": "Van Gaal",
     "query": "\"Van Gaal\"",
     "rank": 19,
-    "tweet_count": "4,900 Tweets"
+    "tweet_count": "4,942 Tweets"
   }
 ]
