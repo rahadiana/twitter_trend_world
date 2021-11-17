@@ -1,15 +1,15 @@
 [
   {
-    "name": "stortinget",
-    "query": "stortinget",
+    "name": "Stortinget",
+    "query": "Stortinget",
     "rank": 1,
-    "tweet_count": "1,708 Tweets"
+    "tweet_count": "1,714 Tweets"
   },
   {
     "name": "Giske",
     "query": "Giske",
     "rank": 2,
-    "tweet_count": "1,001 Tweets"
+    "tweet_count": "1,007 Tweets"
   },
   {
     "name": "#NEDNOR",
@@ -27,17 +27,17 @@
     "name": "Stortingspresidenten",
     "query": "Stortingspresidenten",
     "rank": 5,
-    "tweet_count": "1,536 Tweets"
+    "tweet_count": "1,542 Tweets"
   },
   {
-    "name": "trondheim",
-    "query": "trondheim",
+    "name": "Trondheim",
+    "query": "Trondheim",
     "rank": 6,
     "tweet_count": null
   },
   {
-    "name": "Ropstad",
-    "query": "Ropstad",
+    "name": "ropstad",
+    "query": "ropstad",
     "rank": 7,
     "tweet_count": null
   },
@@ -48,26 +48,26 @@
     "tweet_count": null
   },
   {
+    "name": "Norge",
+    "query": "Norge",
+    "rank": 9,
+    "tweet_count": "2,283 Tweets"
+  },
+  {
     "name": "Nederland",
     "query": "Nederland",
-    "rank": 9,
-    "tweet_count": "18.4K Tweets"
+    "rank": 10,
+    "tweet_count": "18.6K Tweets"
   },
   {
     "name": "#esntennis",
     "query": "#esntennis",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "Norge",
-    "query": "Norge",
-    "rank": 11,
-    "tweet_count": "2,273 Tweets"
-  },
-  {
-    "name": "#pendlerbolig",
-    "query": "#pendlerbolig",
+    "name": "#Pendlerbolig",
+    "query": "#Pendlerbolig",
     "rank": 12,
     "tweet_count": null
   },
@@ -93,13 +93,13 @@
     "name": "Oslo",
     "query": "Oslo",
     "rank": 16,
-    "tweet_count": "3,275 Tweets"
+    "tweet_count": "3,292 Tweets"
   },
   {
     "name": "Van Dijk",
     "query": "\"Van Dijk\"",
     "rank": 17,
-    "tweet_count": "2,873 Tweets"
+    "tweet_count": "2,880 Tweets"
   },
   {
     "name": "Knutsen",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "SLOBS",
-    "query": "SLOBS",
+    "name": "Tyrkia",
+    "query": "Tyrkia",
     "rank": 19,
-    "tweet_count": "41.9K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Solbakken",
-    "query": "Solbakken",
+    "name": "#SpiderManNoWayHome",
+    "query": "#SpiderManNoWayHome",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "1.45M Tweets"
   }
 ]
