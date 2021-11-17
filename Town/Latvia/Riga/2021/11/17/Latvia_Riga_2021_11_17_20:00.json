@@ -18,20 +18,20 @@
     "tweet_count": null
   },
   {
-    "name": "Latvijas Republikas",
-    "query": "\"Latvijas Republikas\"",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
     "name": "Pievienojos",
     "query": "Pievienojos",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "merkele",
     "query": "merkele",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "Latvijas Republikas",
+    "query": "\"Latvijas Republikas\"",
     "rank": 6,
     "tweet_count": null
   },
@@ -48,14 +48,14 @@
     "tweet_count": null
   },
   {
-    "name": "eiropa",
-    "query": "eiropa",
+    "name": "Prieks",
+    "query": "Prieks",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Prieks",
-    "query": "Prieks",
+    "name": "eiropa",
+    "query": "eiropa",
     "rank": 10,
     "tweet_count": null
   },
@@ -111,6 +111,6 @@
     "name": "#NFTs",
     "query": "#NFTs",
     "rank": 19,
-    "tweet_count": "449K Tweets"
+    "tweet_count": "455K Tweets"
   }
 ]

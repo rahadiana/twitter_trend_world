@@ -3,35 +3,35 @@
     "name": "#kv21",
     "query": "#kv21",
     "rank": 1,
-    "tweet_count": "2,938 Tweets"
+    "tweet_count": "2,976 Tweets"
   },
   {
     "name": "Frederiksberg",
     "query": "Frederiksberg",
     "rank": 2,
-    "tweet_count": "1,052 Tweets"
+    "tweet_count": "1,058 Tweets"
   },
   {
     "name": "København",
     "query": "København",
     "rank": 3,
-    "tweet_count": "1,108 Tweets"
+    "tweet_count": "1,120 Tweets"
   },
   {
     "name": "Tulle",
     "query": "Tulle",
     "rank": 4,
-    "tweet_count": "1,638 Tweets"
-  },
-  {
-    "name": "#kv2021",
-    "query": "#kv2021",
-    "rank": 5,
-    "tweet_count": null
+    "tweet_count": "1,657 Tweets"
   },
   {
     "name": "Kolding",
     "query": "Kolding",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "#kv2021",
+    "query": "#kv2021",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,40 +42,40 @@
     "tweet_count": null
   },
   {
-    "name": "Mette Frederiksens",
-    "query": "\"Mette Frederiksens\"",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "Konservative",
     "query": "Konservative",
-    "rank": 9,
-    "tweet_count": "1,148 Tweets"
+    "rank": 8,
+    "tweet_count": "1,161 Tweets"
   },
   {
     "name": "#valgamok",
     "query": "#valgamok",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "SMS'er",
-    "query": "SMS'er",
-    "rank": 11,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Holbæk",
     "query": "Holbæk",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "enhedslisten",
+    "query": "enhedslisten",
+    "rank": 11,
+    "tweet_count": "1,612 Tweets"
+  },
+  {
+    "name": "SMS'er",
+    "query": "SMS'er",
     "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "Enhedslisten",
-    "query": "Enhedslisten",
+    "name": "#SletteMette",
+    "query": "#SletteMette",
     "rank": 13,
-    "tweet_count": "1,573 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#minkgate",
@@ -90,8 +90,8 @@
     "tweet_count": null
   },
   {
-    "name": "Venstre",
-    "query": "Venstre",
+    "name": "Nick Hækkerup",
+    "query": "\"Nick Hækkerup\"",
     "rank": 16,
     "tweet_count": null
   },
@@ -102,20 +102,20 @@
     "tweet_count": null
   },
   {
+    "name": "Venstre",
+    "query": "Venstre",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
     "name": "Dansk Folkeparti",
     "query": "\"Dansk Folkeparti\"",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Solrød",
     "query": "Solrød",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Kerteminde",
-    "query": "Kerteminde",
     "rank": 20,
     "tweet_count": null
   }
