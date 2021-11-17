@@ -18,16 +18,16 @@
     "tweet_count": null
   },
   {
-    "name": "Nederland",
-    "query": "Nederland",
-    "rank": 4,
-    "tweet_count": "20.5K Tweets"
-  },
-  {
     "name": "Qatar",
     "query": "Qatar",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": "141K Tweets"
+  },
+  {
+    "name": "Nederland",
+    "query": "Nederland",
+    "rank": 5,
+    "tweet_count": "20.6K Tweets"
   },
   {
     "name": "Eva Kristin Hansen",
@@ -45,13 +45,13 @@
     "name": "Van Dijk",
     "query": "\"Van Dijk\"",
     "rank": 8,
-    "tweet_count": "4,362 Tweets"
+    "tweet_count": "4,376 Tweets"
   },
   {
     "name": "Latvia",
     "query": "Latvia",
     "rank": 9,
-    "tweet_count": "4,052 Tweets"
+    "tweet_count": "4,064 Tweets"
   },
   {
     "name": "Tyrkia",
@@ -66,16 +66,16 @@
     "tweet_count": null
   },
   {
-    "name": "sørloth",
-    "query": "sørloth",
+    "name": "Ropstad",
+    "query": "Ropstad",
     "rank": 12,
-    "tweet_count": "1,137 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Haaland",
-    "query": "Haaland",
+    "name": "sørloth",
+    "query": "sørloth",
     "rank": 13,
-    "tweet_count": "20K Tweets"
+    "tweet_count": "1,137 Tweets"
   },
   {
     "name": "hauge",
@@ -84,10 +84,10 @@
     "tweet_count": null
   },
   {
-    "name": "Ropstad",
-    "query": "Ropstad",
+    "name": "Haaland",
+    "query": "Haaland",
     "rank": 15,
-    "tweet_count": null
+    "tweet_count": "20.1K Tweets"
   },
   {
     "name": "thorsby",
@@ -96,8 +96,8 @@
     "tweet_count": null
   },
   {
-    "name": "#debatten",
-    "query": "#debatten",
+    "name": "#Debatten",
+    "query": "#Debatten",
     "rank": 17,
     "tweet_count": null
   },
@@ -105,18 +105,18 @@
     "name": "Netherlands",
     "query": "Netherlands",
     "rank": 18,
-    "tweet_count": "27.4K Tweets"
+    "tweet_count": "27.5K Tweets"
+  },
+  {
+    "name": "Knutsen",
+    "query": "Knutsen",
+    "rank": 19,
+    "tweet_count": null
   },
   {
     "name": "Gibraltar",
     "query": "Gibraltar",
-    "rank": 19,
-    "tweet_count": "48.2K Tweets"
-  },
-  {
-    "name": "knutsen",
-    "query": "knutsen",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "48.4K Tweets"
   }
 ]
