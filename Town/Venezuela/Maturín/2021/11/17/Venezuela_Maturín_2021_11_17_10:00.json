@@ -15,7 +15,7 @@
     "name": "Spotify",
     "query": "Spotify",
     "rank": 3,
-    "tweet_count": "786K Tweets"
+    "tweet_count": "788K Tweets"
   },
   {
     "name": "#VacúnateYCuídate",
@@ -27,13 +27,13 @@
     "name": "#FelizMiercoles",
     "query": "#FelizMiercoles",
     "rank": 5,
-    "tweet_count": "5,695 Tweets"
+    "tweet_count": "5,840 Tweets"
   },
   {
-    "name": "#FelizMartes",
-    "query": "#FelizMartes",
+    "name": "#saludoplanetario",
+    "query": "#saludoplanetario",
     "rank": 6,
-    "tweet_count": "16K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Perú",
@@ -45,25 +45,25 @@
     "name": "Argentina",
     "query": "Argentina",
     "rank": 8,
-    "tweet_count": "382K Tweets"
-  },
-  {
-    "name": "Tolerancia",
-    "query": "Tolerancia",
-    "rank": 9,
-    "tweet_count": "17.5K Tweets"
-  },
-  {
-    "name": "Vinotinto",
-    "query": "Vinotinto",
-    "rank": 10,
-    "tweet_count": "7,759 Tweets"
+    "tweet_count": "383K Tweets"
   },
   {
     "name": "HAVE A SAFE FLIGHT",
     "query": "\"HAVE A SAFE FLIGHT\"",
+    "rank": 9,
+    "tweet_count": "521K Tweets"
+  },
+  {
+    "name": "tolerancia",
+    "query": "tolerancia",
+    "rank": 10,
+    "tweet_count": "17.6K Tweets"
+  },
+  {
+    "name": "Vinotinto",
+    "query": "Vinotinto",
     "rank": 11,
-    "tweet_count": "528K Tweets"
+    "tweet_count": "7,779 Tweets"
   },
   {
     "name": "Leo González",
@@ -72,22 +72,22 @@
     "tweet_count": null
   },
   {
-    "name": "Aristeguieta",
-    "query": "Aristeguieta",
+    "name": "aristeguieta",
+    "query": "aristeguieta",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "Otamendi",
-    "query": "Otamendi",
-    "rank": 14,
-    "tweet_count": "103K Tweets"
-  },
-  {
     "name": "Cariaco",
     "query": "Cariaco",
+    "rank": 14,
+    "tweet_count": "1,012 Tweets"
+  },
+  {
+    "name": "Otamendi",
+    "query": "Otamendi",
     "rank": 15,
-    "tweet_count": "1,006 Tweets"
+    "tweet_count": "103K Tweets"
   },
   {
     "name": "Fariñez",
@@ -99,24 +99,24 @@
     "name": "Vinicius",
     "query": "Vinicius",
     "rank": 17,
-    "tweet_count": "90.5K Tweets"
+    "tweet_count": "90.9K Tweets"
   },
   {
-    "name": "Ronald Hernández",
-    "query": "\"Ronald Hernández\"",
+    "name": "ronald hernández",
+    "query": "\"ronald hernández\"",
     "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "Bolivia",
-    "query": "Bolivia",
+    "name": "Savarino",
+    "query": "Savarino",
     "rank": 19,
-    "tweet_count": "70.1K Tweets"
+    "tweet_count": "4,643 Tweets"
   },
   {
-    "name": "machis",
-    "query": "machis",
+    "name": "Bolivia",
+    "query": "Bolivia",
     "rank": 20,
-    "tweet_count": "5,017 Tweets"
+    "tweet_count": "70.3K Tweets"
   }
 ]
