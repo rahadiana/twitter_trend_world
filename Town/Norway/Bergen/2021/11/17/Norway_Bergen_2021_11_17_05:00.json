@@ -9,25 +9,25 @@
     "name": "Nederland",
     "query": "Nederland",
     "rank": 2,
-    "tweet_count": "22.9K Tweets"
+    "tweet_count": "23K Tweets"
   },
   {
     "name": "Qatar",
     "query": "Qatar",
     "rank": 3,
-    "tweet_count": "135K Tweets"
+    "tweet_count": "136K Tweets"
+  },
+  {
+    "name": "Solbakken",
+    "query": "Solbakken",
+    "rank": 4,
+    "tweet_count": null
   },
   {
     "name": "Latvia",
     "query": "Latvia",
-    "rank": 4,
-    "tweet_count": "4,764 Tweets"
-  },
-  {
-    "name": "solbakken",
-    "query": "solbakken",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "4,777 Tweets"
   },
   {
     "name": "tyrkia",
@@ -42,10 +42,10 @@
     "tweet_count": null
   },
   {
-    "name": "van dijk",
-    "query": "\"van dijk\"",
+    "name": "Van Dijk",
+    "query": "\"Van Dijk\"",
     "rank": 8,
-    "tweet_count": "3,940 Tweets"
+    "tweet_count": "3,955 Tweets"
   },
   {
     "name": "lehne olsen",
@@ -57,13 +57,13 @@
     "name": "Haaland",
     "query": "Haaland",
     "rank": 10,
-    "tweet_count": "18.2K Tweets"
+    "tweet_count": "18.3K Tweets"
   },
   {
     "name": "Montenegro",
     "query": "Montenegro",
     "rank": 11,
-    "tweet_count": "6,128 Tweets"
+    "tweet_count": "6,143 Tweets"
   },
   {
     "name": "sørloth",
@@ -72,32 +72,32 @@
     "tweet_count": "1,170 Tweets"
   },
   {
+    "name": "knutsen",
+    "query": "knutsen",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "#debatten",
+    "query": "#debatten",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
     "name": "sbanken",
     "query": "sbanken",
-    "rank": 13,
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "hauge",
+    "query": "hauge",
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "ødegaard",
     "query": "ødegaard",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "#Debatten",
-    "query": "#Debatten",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Hauge",
-    "query": "Hauge",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Knutsen",
-    "query": "Knutsen",
     "rank": 17,
     "tweet_count": null
   },
@@ -105,12 +105,12 @@
     "name": "Gibraltar",
     "query": "Gibraltar",
     "rank": 18,
-    "tweet_count": "44.5K Tweets"
+    "tweet_count": "44.7K Tweets"
   },
   {
     "name": "Rotterdam",
     "query": "Rotterdam",
     "rank": 19,
-    "tweet_count": "4,184 Tweets"
+    "tweet_count": "4,201 Tweets"
   }
 ]
