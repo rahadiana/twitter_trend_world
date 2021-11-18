@@ -3,25 +3,25 @@
     "name": "#kv21",
     "query": "#kv21",
     "rank": 1,
-    "tweet_count": "1,719 Tweets"
+    "tweet_count": "1,721 Tweets"
   },
   {
-    "name": "Frederiksberg",
-    "query": "Frederiksberg",
+    "name": "frederiksberg",
+    "query": "frederiksberg",
     "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "tulle",
-    "query": "tulle",
-    "rank": 3,
-    "tweet_count": "1,318 Tweets"
-  },
-  {
     "name": "#kv2021",
     "query": "#kv2021",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
+  },
+  {
+    "name": "Tulle",
+    "query": "Tulle",
+    "rank": 4,
+    "tweet_count": "1,365 Tweets"
   },
   {
     "name": "holbæk",
@@ -30,14 +30,14 @@
     "tweet_count": null
   },
   {
-    "name": "kolding",
-    "query": "kolding",
+    "name": "København",
+    "query": "København",
     "rank": 6,
     "tweet_count": null
   },
   {
-    "name": "København",
-    "query": "København",
+    "name": "kolding",
+    "query": "kolding",
     "rank": 7,
     "tweet_count": null
   },
@@ -48,8 +48,8 @@
     "tweet_count": null
   },
   {
-    "name": "Bornholm",
-    "query": "Bornholm",
+    "name": "bornholm",
+    "query": "bornholm",
     "rank": 9,
     "tweet_count": null
   },
@@ -75,17 +75,17 @@
     "name": "Enhedslisten",
     "query": "Enhedslisten",
     "rank": 13,
-    "tweet_count": "1,404 Tweets"
+    "tweet_count": "1,399 Tweets"
   },
   {
-    "name": "venstre",
-    "query": "venstre",
+    "name": "Venstre",
+    "query": "Venstre",
     "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "dansk folkeparti",
-    "query": "\"dansk folkeparti\"",
+    "name": "Dansk Folkeparti",
+    "query": "\"Dansk Folkeparti\"",
     "rank": 15,
     "tweet_count": null
   },
@@ -93,29 +93,29 @@
     "name": "Pape",
     "query": "Pape",
     "rank": 16,
-    "tweet_count": "3,787 Tweets"
+    "tweet_count": "3,858 Tweets"
   },
   {
-    "name": "Justitsministeriet",
-    "query": "Justitsministeriet",
+    "name": "justitsministeriet",
+    "query": "justitsministeriet",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "sms'erne",
-    "query": "sms'erne",
+    "name": "eva kjer",
+    "query": "\"eva kjer\"",
     "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "solrød",
-    "query": "solrød",
+    "name": "SMS'erne",
+    "query": "SMS'erne",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "aggesen",
-    "query": "aggesen",
+    "name": "socialdemokratiet",
+    "query": "socialdemokratiet",
     "rank": 20,
     "tweet_count": null
   }
