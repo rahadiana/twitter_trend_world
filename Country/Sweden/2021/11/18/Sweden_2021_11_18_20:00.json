@@ -1,43 +1,43 @@
 [
   {
-    "name": "Brynäs",
-    "query": "Brynäs",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#fbkse",
     "query": "#fbkse",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "Leksand",
-    "query": "Leksand",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "Luleå",
-    "query": "Luleå",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "#timraik",
-    "query": "#timraik",
-    "rank": 5,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "Rögle",
     "query": "Rögle",
-    "rank": 6,
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "Brynäs",
+    "query": "Brynäs",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "Leksand",
+    "query": "Leksand",
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Södermalm",
     "query": "Södermalm",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "Luleå",
+    "query": "Luleå",
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "#timraik",
+    "query": "#timraik",
     "rank": 7,
     "tweet_count": null
   },
@@ -48,28 +48,28 @@
     "tweet_count": null
   },
   {
-    "name": "Eneroth",
-    "query": "Eneroth",
+    "name": "Färjestad",
+    "query": "Färjestad",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Färjestad",
-    "query": "Färjestad",
+    "name": "Eneroth",
+    "query": "Eneroth",
     "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "hjällbo",
+    "query": "hjällbo",
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Gallo",
     "query": "Gallo",
-    "rank": 11,
-    "tweet_count": "9,031 Tweets"
-  },
-  {
-    "name": "hjällbo",
-    "query": "hjällbo",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "9,131 Tweets"
   },
   {
     "name": "Djurgården",
@@ -81,11 +81,11 @@
     "name": "Åkesson",
     "query": "Åkesson",
     "rank": 14,
-    "tweet_count": "1,177 Tweets"
+    "tweet_count": "1,198 Tweets"
   },
   {
-    "name": "Breivik",
-    "query": "Breivik",
+    "name": "breivik",
+    "query": "breivik",
     "rank": 15,
     "tweet_count": null
   },
@@ -99,24 +99,24 @@
     "name": "Gibraltar",
     "query": "Gibraltar",
     "rank": 17,
-    "tweet_count": "22.3K Tweets"
-  },
-  {
-    "name": "#storajournalistpriset",
-    "query": "#storajournalistpriset",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "22.7K Tweets"
   },
   {
     "name": "bengt westerberg",
     "query": "\"bengt westerberg\"",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "#AntimicrobialResistance",
     "query": "#AntimicrobialResistance",
+    "rank": 19,
+    "tweet_count": "3,427 Tweets"
+  },
+  {
+    "name": "Linköping",
+    "query": "Linköping",
     "rank": 20,
-    "tweet_count": "3,401 Tweets"
+    "tweet_count": null
   }
 ]
