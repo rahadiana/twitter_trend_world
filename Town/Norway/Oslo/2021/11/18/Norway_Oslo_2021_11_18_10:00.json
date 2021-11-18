@@ -3,7 +3,7 @@
     "name": "Stortinget",
     "query": "Stortinget",
     "rank": 1,
-    "tweet_count": "1,513 Tweets"
+    "tweet_count": "1,544 Tweets"
   },
   {
     "name": "Giske",
@@ -21,7 +21,7 @@
     "name": "Stortingspresidenten",
     "query": "Stortingspresidenten",
     "rank": 4,
-    "tweet_count": "1,262 Tweets"
+    "tweet_count": "1,280 Tweets"
   },
   {
     "name": "Ropstad",
@@ -36,14 +36,14 @@
     "tweet_count": null
   },
   {
-    "name": "Norge",
-    "query": "Norge",
+    "name": "norge",
+    "query": "norge",
     "rank": 7,
-    "tweet_count": "2,065 Tweets"
+    "tweet_count": "2,100 Tweets"
   },
   {
-    "name": "#pendlerbolig",
-    "query": "#pendlerbolig",
+    "name": "#Pendlerbolig",
+    "query": "#Pendlerbolig",
     "rank": 8,
     "tweet_count": null
   },
@@ -60,22 +60,22 @@
     "tweet_count": null
   },
   {
-    "name": "Oslo",
-    "query": "Oslo",
-    "rank": 11,
-    "tweet_count": "3,060 Tweets"
-  },
-  {
     "name": "Van Dijk",
     "query": "\"Van Dijk\"",
-    "rank": 12,
-    "tweet_count": "1,938 Tweets"
+    "rank": 11,
+    "tweet_count": "1,968 Tweets"
   },
   {
-    "name": "Solbakken",
-    "query": "Solbakken",
-    "rank": 13,
+    "name": "#dax18",
+    "query": "#dax18",
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "Oslo",
+    "query": "Oslo",
+    "rank": 13,
+    "tweet_count": "3,113 Tweets"
   },
   {
     "name": "tyrkia",
@@ -87,36 +87,36 @@
     "name": "#SpiderManNoWayHome",
     "query": "#SpiderManNoWayHome",
     "rank": 15,
-    "tweet_count": "373K Tweets"
+    "tweet_count": "374K Tweets"
   },
   {
-    "name": "SLOBS",
-    "query": "SLOBS",
+    "name": "solbakken",
+    "query": "solbakken",
     "rank": 16,
-    "tweet_count": "29.6K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Black Friday",
+    "query": "\"Black Friday\"",
+    "rank": 17,
+    "tweet_count": "67.4K Tweets"
   },
   {
     "name": "Nixon",
     "query": "Nixon",
-    "rank": 17,
-    "tweet_count": "4,845 Tweets"
-  },
-  {
-    "name": "#dax18",
-    "query": "#dax18",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "4,884 Tweets"
   },
   {
-    "name": "Knutsen",
-    "query": "Knutsen",
+    "name": "SLOBS",
+    "query": "SLOBS",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "29.8K Tweets"
   },
   {
-    "name": "NAV-klient",
-    "query": "NAV-klient",
+    "name": "Husker",
+    "query": "Husker",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "3,123 Tweets"
   }
 ]
