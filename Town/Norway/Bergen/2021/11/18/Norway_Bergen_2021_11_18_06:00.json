@@ -1,9 +1,9 @@
 [
   {
-    "name": "Stortinget",
-    "query": "Stortinget",
+    "name": "stortinget",
+    "query": "stortinget",
     "rank": 1,
-    "tweet_count": "1,720 Tweets"
+    "tweet_count": "1,728 Tweets"
   },
   {
     "name": "#nednor",
@@ -15,7 +15,7 @@
     "name": "Giske",
     "query": "Giske",
     "rank": 3,
-    "tweet_count": "1,008 Tweets"
+    "tweet_count": "1,013 Tweets"
   },
   {
     "name": "Eva Kristin Hansen",
@@ -33,7 +33,7 @@
     "name": "Stortingspresidenten",
     "query": "Stortingspresidenten",
     "rank": 6,
-    "tweet_count": "1,521 Tweets"
+    "tweet_count": "1,528 Tweets"
   },
   {
     "name": "Ropstad",
@@ -42,16 +42,16 @@
     "tweet_count": null
   },
   {
-    "name": "Norge",
-    "query": "Norge",
-    "rank": 8,
-    "tweet_count": "2,189 Tweets"
-  },
-  {
     "name": "Nederland",
     "query": "Nederland",
+    "rank": 8,
+    "tweet_count": "19K Tweets"
+  },
+  {
+    "name": "Norge",
+    "query": "Norge",
     "rank": 9,
-    "tweet_count": "18.7K Tweets"
+    "tweet_count": "2,211 Tweets"
   },
   {
     "name": "Trondheim",
@@ -60,8 +60,8 @@
     "tweet_count": null
   },
   {
-    "name": "#Pendlerbolig",
-    "query": "#Pendlerbolig",
+    "name": "#pendlerbolig",
+    "query": "#pendlerbolig",
     "rank": 11,
     "tweet_count": null
   },
@@ -75,23 +75,23 @@
     "name": "Oslo",
     "query": "Oslo",
     "rank": 13,
-    "tweet_count": "3,341 Tweets"
+    "tweet_count": "3,358 Tweets"
   },
   {
     "name": "Van Dijk",
     "query": "\"Van Dijk\"",
     "rank": 14,
-    "tweet_count": "2,274 Tweets"
+    "tweet_count": "2,303 Tweets"
   },
   {
-    "name": "knutsen",
-    "query": "knutsen",
+    "name": "Solbakken",
+    "query": "Solbakken",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "tyrkia",
-    "query": "tyrkia",
+    "name": "Tyrkia",
+    "query": "Tyrkia",
     "rank": 16,
     "tweet_count": null
   },
@@ -99,18 +99,18 @@
     "name": "#SpiderManNoWayHome",
     "query": "#SpiderManNoWayHome",
     "rank": 17,
-    "tweet_count": "493K Tweets"
+    "tweet_count": "494K Tweets"
   },
   {
-    "name": "Solbakken",
-    "query": "Solbakken",
+    "name": "SLOBS",
+    "query": "SLOBS",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "34.9K Tweets"
   },
   {
-    "name": "nixon",
-    "query": "nixon",
+    "name": "Quatar",
+    "query": "Quatar",
     "rank": 19,
-    "tweet_count": "5,125 Tweets"
+    "tweet_count": null
   }
 ]
