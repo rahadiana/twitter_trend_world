@@ -1,25 +1,25 @@
 [
   {
-    "name": "Eneroth",
-    "query": "Eneroth",
+    "name": "Hjällbo",
+    "query": "Hjällbo",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "Hjällbo",
-    "query": "Hjällbo",
+    "name": "Eneroth",
+    "query": "Eneroth",
     "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "#30minuter",
-    "query": "#30minuter",
-    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Bengt Westerberg",
     "query": "\"Bengt Westerberg\"",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "#30minuter",
+    "query": "#30minuter",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,13 +27,13 @@
     "name": "Åkesson",
     "query": "Åkesson",
     "rank": 5,
-    "tweet_count": "1,108 Tweets"
+    "tweet_count": "1,137 Tweets"
   },
   {
     "name": "Vaccinpass",
     "query": "Vaccinpass",
     "rank": 6,
-    "tweet_count": "4,105 Tweets"
+    "tweet_count": "4,256 Tweets"
   },
   {
     "name": "Embracer",
@@ -42,75 +42,75 @@
     "tweet_count": null
   },
   {
-    "name": "Shawn",
-    "query": "Shawn",
+    "name": "Gibraltar",
+    "query": "Gibraltar",
     "rank": 8,
-    "tweet_count": "291K Tweets"
+    "tweet_count": "29.1K Tweets"
+  },
+  {
+    "name": "shawn",
+    "query": "shawn",
+    "rank": 9,
+    "tweet_count": "297K Tweets"
   },
   {
     "name": "Breivik",
     "query": "Breivik",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Gibraltar",
-    "query": "Gibraltar",
     "rank": 10,
-    "tweet_count": "28.4K Tweets"
-  },
-  {
-    "name": "SLOBS",
-    "query": "SLOBS",
-    "rank": 11,
-    "tweet_count": "27.5K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#ATINYDAY",
     "query": "#ATINYDAY",
-    "rank": 12,
-    "tweet_count": "90.3K Tweets"
+    "rank": 11,
+    "tweet_count": "90.4K Tweets"
   },
   {
-    "name": "Damallsvenskan",
-    "query": "Damallsvenskan",
-    "rank": 13,
+    "name": "damallsvenskan",
+    "query": "damallsvenskan",
+    "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "Aron Flam",
-    "query": "\"Aron Flam\"",
-    "rank": 14,
+    "name": "aron flam",
+    "query": "\"aron flam\"",
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Osby",
     "query": "Osby",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Hultqvist",
+    "query": "Hultqvist",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "sabuni",
-    "query": "sabuni",
+    "name": "Liberal",
+    "query": "Liberal",
     "rank": 16,
-    "tweet_count": "2,269 Tweets"
+    "tweet_count": "90.4K Tweets"
   },
   {
     "name": "Davido",
     "query": "Davido",
     "rank": 17,
-    "tweet_count": "552K Tweets"
-  },
-  {
-    "name": "Hultqvist",
-    "query": "Hultqvist",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "558K Tweets"
   },
   {
     "name": "Holmberg",
     "query": "Holmberg",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Sabuni",
+    "query": "Sabuni",
+    "rank": 19,
+    "tweet_count": "2,316 Tweets"
   }
 ]
