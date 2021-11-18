@@ -1,15 +1,15 @@
 [
   {
-    "name": "Stortinget",
-    "query": "Stortinget",
-    "rank": 1,
-    "tweet_count": "1,252 Tweets"
-  },
-  {
     "name": "#nrkdebatt",
     "query": "#nrkdebatt",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Stortinget",
+    "query": "Stortinget",
+    "rank": 2,
+    "tweet_count": "1,256 Tweets"
   },
   {
     "name": "Eva Kristin Hansen",
@@ -18,20 +18,20 @@
     "tweet_count": null
   },
   {
-    "name": "Giske",
-    "query": "Giske",
+    "name": "#2hockey",
+    "query": "#2hockey",
     "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "#2hockey",
-    "query": "#2hockey",
+    "name": "giske",
+    "query": "giske",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "Stortingspresidenten",
-    "query": "Stortingspresidenten",
+    "name": "stortingspresidenten",
+    "query": "stortingspresidenten",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,14 +42,14 @@
     "tweet_count": null
   },
   {
-    "name": "stjernen",
-    "query": "stjernen",
+    "name": "Stjernen",
+    "query": "Stjernen",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Jordal",
-    "query": "Jordal",
+    "name": "jordal",
+    "query": "jordal",
     "rank": 9,
     "tweet_count": null
   },
@@ -60,16 +60,16 @@
     "tweet_count": null
   },
   {
-    "name": "Oslo",
-    "query": "Oslo",
-    "rank": 11,
-    "tweet_count": "3,336 Tweets"
-  },
-  {
     "name": "Ropstad",
     "query": "Ropstad",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
+  },
+  {
+    "name": "Oslo",
+    "query": "Oslo",
+    "rank": 12,
+    "tweet_count": "3,350 Tweets"
   },
   {
     "name": "riksrevisjonen",
@@ -78,45 +78,45 @@
     "tweet_count": null
   },
   {
-    "name": "#dax18",
-    "query": "#dax18",
+    "name": "#innekm",
+    "query": "#innekm",
     "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Blå L",
-    "query": "\"Blå L\"",
-    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Listhaug",
     "query": "Listhaug",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Nord",
     "query": "Nord",
-    "rank": 17,
-    "tweet_count": "16.9K Tweets"
+    "rank": 16,
+    "tweet_count": "17K Tweets"
   },
   {
     "name": "Jonas Gahr Støre",
     "query": "\"Jonas Gahr Støre\"",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Shawn",
     "query": "Shawn",
-    "rank": 19,
-    "tweet_count": "363K Tweets"
+    "rank": 18,
+    "tweet_count": "364K Tweets"
   },
   {
-    "name": "lite",
-    "query": "lite",
+    "name": "Lite",
+    "query": "Lite",
+    "rank": 19,
+    "tweet_count": "67.1K Tweets"
+  },
+  {
+    "name": "Black Friday",
+    "query": "\"Black Friday\"",
     "rank": 20,
-    "tweet_count": "66.3K Tweets"
+    "tweet_count": "90.2K Tweets"
   }
 ]

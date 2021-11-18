@@ -1,7 +1,7 @@
 [
   {
-    "name": "södermalm",
-    "query": "södermalm",
+    "name": "Södermalm",
+    "query": "Södermalm",
     "rank": 1,
     "tweet_count": null
   },
@@ -12,8 +12,8 @@
     "tweet_count": null
   },
   {
-    "name": "eneroth",
-    "query": "eneroth",
+    "name": "Eneroth",
+    "query": "Eneroth",
     "rank": 3,
     "tweet_count": null
   },
@@ -33,7 +33,7 @@
     "name": "Gallo",
     "query": "Gallo",
     "rank": 6,
-    "tweet_count": "8,959 Tweets"
+    "tweet_count": "9,019 Tweets"
   },
   {
     "name": "hjällbo",
@@ -66,40 +66,40 @@
     "tweet_count": null
   },
   {
-    "name": "Åkesson",
-    "query": "Åkesson",
-    "rank": 12,
-    "tweet_count": "1,096 Tweets"
-  },
-  {
     "name": "#timraik",
     "query": "#timraik",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "Åkesson",
+    "query": "Åkesson",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "1,099 Tweets"
   },
   {
-    "name": "bengt westerberg",
-    "query": "\"bengt westerberg\"",
+    "name": "Bengt Westerberg",
+    "query": "\"Bengt Westerberg\"",
     "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Luleå",
-    "query": "Luleå",
-    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "liljeholmen",
     "query": "liljeholmen",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Sean Connery",
     "query": "\"Sean Connery\"",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
+  },
+  {
+    "name": "Gibraltar",
+    "query": "Gibraltar",
+    "rank": 17,
+    "tweet_count": "22K Tweets"
   },
   {
     "name": "#storajournalistpriset",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "Gibraltar",
-    "query": "Gibraltar",
-    "rank": 19,
-    "tweet_count": "21.9K Tweets"
-  },
-  {
     "name": "Hovet",
     "query": "Hovet",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "Milos",
+    "query": "Milos",
+    "rank": 20,
+    "tweet_count": "1,580 Tweets"
   }
 ]

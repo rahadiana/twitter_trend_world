@@ -12,22 +12,22 @@
     "tweet_count": null
   },
   {
-    "name": "#AgVenture",
-    "query": "#AgVenture",
+    "name": "Dr Nick",
+    "query": "\"Dr Nick\"",
     "rank": 3,
     "tweet_count": null
   },
   {
-    "name": "Dr Nick",
-    "query": "\"Dr Nick\"",
+    "name": "#BacheloretteAU",
+    "query": "#BacheloretteAU",
     "rank": 4,
-    "tweet_count": null
+    "tweet_count": "4,144 Tweets"
   },
   {
-    "name": "#bacheloretteau",
-    "query": "#bacheloretteau",
+    "name": "#AgVenture",
+    "query": "#AgVenture",
     "rank": 5,
-    "tweet_count": "4,132 Tweets"
+    "tweet_count": null
   },
   {
     "name": "David Marr",
@@ -36,10 +36,10 @@
     "tweet_count": null
   },
   {
-    "name": "konrad",
-    "query": "konrad",
+    "name": "Konrad",
+    "query": "Konrad",
     "rank": 7,
-    "tweet_count": "2,737 Tweets"
+    "tweet_count": "2,746 Tweets"
   },
   {
     "name": "Adem",
@@ -48,58 +48,58 @@
     "tweet_count": "14.8K Tweets"
   },
   {
-    "name": "Shawn",
-    "query": "Shawn",
-    "rank": 9,
-    "tweet_count": "363K Tweets"
-  },
-  {
     "name": "Saddest",
     "query": "Saddest",
+    "rank": 9,
+    "tweet_count": "50K Tweets"
+  },
+  {
+    "name": "Shawn",
+    "query": "Shawn",
     "rank": 10,
-    "tweet_count": "49.8K Tweets"
+    "tweet_count": "364K Tweets"
   },
   {
     "name": "Nick Coatsworth",
     "query": "\"Nick Coatsworth\"",
     "rank": 11,
-    "tweet_count": "2,680 Tweets"
+    "tweet_count": "2,912 Tweets"
   },
   {
-    "name": "Optus Sport",
-    "query": "\"Optus Sport\"",
+    "name": "Simon Birmingham",
+    "query": "\"Simon Birmingham\"",
     "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "Sora",
-    "query": "Sora",
-    "rank": 13,
-    "tweet_count": "66.5K Tweets"
-  },
-  {
     "name": "Brooke",
     "query": "Brooke",
+    "rank": 13,
+    "tweet_count": "7,385 Tweets"
+  },
+  {
+    "name": "Sora",
+    "query": "Sora",
     "rank": 14,
-    "tweet_count": "7,319 Tweets"
+    "tweet_count": "66.8K Tweets"
   },
   {
-    "name": "The PM",
-    "query": "\"The PM\"",
+    "name": "Optus",
+    "query": "Optus",
     "rank": 15,
-    "tweet_count": "236K Tweets"
-  },
-  {
-    "name": "John Hewson",
-    "query": "\"John Hewson\"",
-    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Victoria",
     "query": "Victoria",
+    "rank": 16,
+    "tweet_count": "113K Tweets"
+  },
+  {
+    "name": "The PM",
+    "query": "\"The PM\"",
     "rank": 17,
-    "tweet_count": "112K Tweets"
+    "tweet_count": "237K Tweets"
   },
   {
     "name": "Barry Jones",
@@ -111,6 +111,6 @@
     "name": "Peng Shuai",
     "query": "\"Peng Shuai\"",
     "rank": 19,
-    "tweet_count": "50.4K Tweets"
+    "tweet_count": "51K Tweets"
   }
 ]
