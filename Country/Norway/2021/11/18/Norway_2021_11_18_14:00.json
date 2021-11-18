@@ -3,17 +3,17 @@
     "name": "Stortinget",
     "query": "Stortinget",
     "rank": 1,
-    "tweet_count": "1,420 Tweets"
-  },
-  {
-    "name": "Giske",
-    "query": "Giske",
-    "rank": 2,
-    "tweet_count": null
+    "tweet_count": "1,443 Tweets"
   },
   {
     "name": "Eva Kristin Hansen",
     "query": "\"Eva Kristin Hansen\"",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "Giske",
+    "query": "Giske",
     "rank": 3,
     "tweet_count": null
   },
@@ -27,7 +27,7 @@
     "name": "Norge",
     "query": "Norge",
     "rank": 5,
-    "tweet_count": "1,978 Tweets"
+    "tweet_count": "2,018 Tweets"
   },
   {
     "name": "Ropstad",
@@ -51,19 +51,19 @@
     "name": "Oslo",
     "query": "Oslo",
     "rank": 9,
-    "tweet_count": "2,949 Tweets"
+    "tweet_count": "3,021 Tweets"
   },
   {
     "name": "Shawn",
     "query": "Shawn",
     "rank": 10,
-    "tweet_count": "309K Tweets"
+    "tweet_count": "312K Tweets"
   },
   {
     "name": "Van Dijk",
     "query": "\"Van Dijk\"",
     "rank": 11,
-    "tweet_count": "1,730 Tweets"
+    "tweet_count": "1,756 Tweets"
   },
   {
     "name": "Riksrevisjonen",
@@ -84,8 +84,8 @@
     "tweet_count": null
   },
   {
-    "name": "Knutsen",
-    "query": "Knutsen",
+    "name": "knutsen",
+    "query": "knutsen",
     "rank": 15,
     "tweet_count": null
   },
@@ -93,7 +93,7 @@
     "name": "Nixon",
     "query": "Nixon",
     "rank": 16,
-    "tweet_count": "4,838 Tweets"
+    "tweet_count": "4,963 Tweets"
   },
   {
     "name": "nav-klient",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "sogndal",
-    "query": "sogndal",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
     "name": "Black Friday",
     "query": "\"Black Friday\"",
+    "rank": 19,
+    "tweet_count": "73.4K Tweets"
+  },
+  {
+    "name": "sogndal",
+    "query": "sogndal",
     "rank": 20,
-    "tweet_count": "71.7K Tweets"
+    "tweet_count": null
   }
 ]
