@@ -1,27 +1,27 @@
 [
   {
-    "name": "#Bundestag",
-    "query": "#Bundestag",
-    "rank": 1,
-    "tweet_count": "5,304 Tweets"
-  },
-  {
     "name": "#Infektionsschutzgesetz",
     "query": "#Infektionsschutzgesetz",
-    "rank": 2,
-    "tweet_count": "1,433 Tweets"
+    "rank": 1,
+    "tweet_count": "1,560 Tweets"
   },
   {
-    "name": "Bundesrat",
-    "query": "Bundesrat",
-    "rank": 3,
-    "tweet_count": "2,360 Tweets"
+    "name": "#Bundestag",
+    "query": "#Bundestag",
+    "rank": 2,
+    "tweet_count": "5,564 Tweets"
   },
   {
     "name": "#Baerbock",
     "query": "#Baerbock",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
+  },
+  {
+    "name": "Bundesrat",
+    "query": "Bundesrat",
+    "rank": 4,
+    "tweet_count": "2,408 Tweets"
   },
   {
     "name": "#Gassen",
@@ -42,81 +42,81 @@
     "tweet_count": null
   },
   {
-    "name": "Notlage",
-    "query": "Notlage",
-    "rank": 8,
-    "tweet_count": "6,338 Tweets"
-  },
-  {
     "name": "Tribüne",
     "query": "Tribüne",
+    "rank": 8,
+    "tweet_count": "2,884 Tweets"
+  },
+  {
+    "name": "Notlage",
+    "query": "Notlage",
     "rank": 9,
-    "tweet_count": "2,804 Tweets"
+    "tweet_count": "6,455 Tweets"
   },
   {
     "name": "Wieler",
     "query": "Wieler",
     "rank": 10,
-    "tweet_count": "28.8K Tweets"
+    "tweet_count": "29.1K Tweets"
   },
   {
     "name": "Tragweite",
     "query": "Tragweite",
     "rank": 11,
-    "tweet_count": "1,291 Tweets"
+    "tweet_count": "1,316 Tweets"
   },
   {
     "name": "Shawn",
     "query": "Shawn",
     "rank": 12,
-    "tweet_count": "304K Tweets"
-  },
-  {
-    "name": "Camila",
-    "query": "Camila",
-    "rank": 13,
-    "tweet_count": "366K Tweets"
+    "tweet_count": "307K Tweets"
   },
   {
     "name": "Wutrede",
     "query": "Wutrede",
-    "rank": 14,
-    "tweet_count": "1,079 Tweets"
+    "rank": 13,
+    "tweet_count": "1,122 Tweets"
   },
   {
     "name": "Instrumente",
     "query": "Instrumente",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "Weihnachtsmarkt",
-    "query": "Weihnachtsmarkt",
-    "rank": 16,
-    "tweet_count": "2,337 Tweets"
-  },
-  {
-    "name": "Neuinfektionen",
-    "query": "Neuinfektionen",
-    "rank": 17,
-    "tweet_count": "8,469 Tweets"
+    "name": "3G am Arbeitsplatz",
+    "query": "\"3G am Arbeitsplatz\"",
+    "rank": 15,
+    "tweet_count": "1,100 Tweets"
   },
   {
     "name": "Abgeordneten",
     "query": "Abgeordneten",
-    "rank": 18,
-    "tweet_count": "1,041 Tweets"
+    "rank": 16,
+    "tweet_count": "1,085 Tweets"
+  },
+  {
+    "name": "Weihnachtsmärkte",
+    "query": "Weihnachtsmärkte",
+    "rank": 17,
+    "tweet_count": "1,363 Tweets"
   },
   {
     "name": "Weihnachtsfest",
     "query": "Weihnachtsfest",
-    "rank": 19,
-    "tweet_count": "1,460 Tweets"
+    "rank": 18,
+    "tweet_count": "1,528 Tweets"
   },
   {
-    "name": "Jens Spahn",
-    "query": "\"Jens Spahn\"",
+    "name": "Tierarzt",
+    "query": "Tierarzt",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "jens spahn",
+    "query": "\"jens spahn\"",
     "rank": 20,
-    "tweet_count": "1,327 Tweets"
+    "tweet_count": "1,354 Tweets"
   }
 ]
