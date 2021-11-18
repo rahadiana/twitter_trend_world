@@ -1,15 +1,15 @@
 [
   {
-    "name": "#nrkdebatt",
-    "query": "#nrkdebatt",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Stortinget",
     "query": "Stortinget",
+    "rank": 1,
+    "tweet_count": "1,250 Tweets"
+  },
+  {
+    "name": "#nrkdebatt",
+    "query": "#nrkdebatt",
     "rank": 2,
-    "tweet_count": "1,238 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Eva Kristin Hansen",
@@ -36,8 +36,8 @@
     "tweet_count": null
   },
   {
-    "name": "stortingspresidenten",
-    "query": "stortingspresidenten",
+    "name": "Stortingspresidenten",
+    "query": "Stortingspresidenten",
     "rank": 7,
     "tweet_count": null
   },
@@ -57,7 +57,7 @@
     "name": "Nord",
     "query": "Nord",
     "rank": 10,
-    "tweet_count": "16.5K Tweets"
+    "tweet_count": "16.8K Tweets"
   },
   {
     "name": "#kilden2021",
@@ -75,35 +75,35 @@
     "name": "Oslo",
     "query": "Oslo",
     "rank": 13,
-    "tweet_count": "3,141 Tweets"
-  },
-  {
-    "name": "#innekm",
-    "query": "#innekm",
-    "rank": 14,
-    "tweet_count": null
+    "tweet_count": "3,207 Tweets"
   },
   {
     "name": "Riksrevisjonen",
     "query": "Riksrevisjonen",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "#dax18",
+    "query": "#dax18",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "SOLBAKKEN",
-    "query": "SOLBAKKEN",
+    "name": "Blå L",
+    "query": "\"Blå L\"",
     "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "støre",
-    "query": "støre",
-    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Listhaug",
     "query": "Listhaug",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "støre",
+    "query": "støre",
     "rank": 18,
     "tweet_count": null
   },
@@ -111,12 +111,12 @@
     "name": "Shawn",
     "query": "Shawn",
     "rank": 19,
-    "tweet_count": "357K Tweets"
+    "tweet_count": "359K Tweets"
   },
   {
     "name": "Lite",
     "query": "Lite",
     "rank": 20,
-    "tweet_count": "61.2K Tweets"
+    "tweet_count": "62K Tweets"
   }
 ]
