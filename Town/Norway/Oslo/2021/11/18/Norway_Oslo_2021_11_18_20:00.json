@@ -3,23 +3,23 @@
     "name": "Stortinget",
     "query": "Stortinget",
     "rank": 1,
-    "tweet_count": "1,233 Tweets"
+    "tweet_count": "1,240 Tweets"
+  },
+  {
+    "name": "#2hockey",
+    "query": "#2hockey",
+    "rank": 2,
+    "tweet_count": null
   },
   {
     "name": "Eva Kristin Hansen",
     "query": "\"Eva Kristin Hansen\"",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Giske",
     "query": "Giske",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "#2hockey",
-    "query": "#2hockey",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,7 +27,7 @@
     "name": "stortingspresidenten",
     "query": "stortingspresidenten",
     "rank": 5,
-    "tweet_count": "1,007 Tweets"
+    "tweet_count": "1,009 Tweets"
   },
   {
     "name": "Jordal",
@@ -63,7 +63,7 @@
     "name": "Spotify",
     "query": "Spotify",
     "rank": 11,
-    "tweet_count": "755K Tweets"
+    "tweet_count": "759K Tweets"
   },
   {
     "name": "Riksrevisjonen",
@@ -75,7 +75,7 @@
     "name": "Oslo",
     "query": "Oslo",
     "rank": 13,
-    "tweet_count": "3,120 Tweets"
+    "tweet_count": "3,142 Tweets"
   },
   {
     "name": "Blå L",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
-    "name": "Nixon",
-    "query": "Nixon",
-    "rank": 16,
-    "tweet_count": "6,071 Tweets"
-  },
-  {
     "name": "Nord",
     "query": "Nord",
+    "rank": 16,
+    "tweet_count": "16.7K Tweets"
+  },
+  {
+    "name": "Nixon",
+    "query": "Nixon",
     "rank": 17,
-    "tweet_count": "16.6K Tweets"
+    "tweet_count": "6,117 Tweets"
+  },
+  {
+    "name": "#nrkdebatt",
+    "query": "#nrkdebatt",
+    "rank": 18,
+    "tweet_count": null
   },
   {
     "name": "Jonas Gahr Støre",
     "query": "\"Jonas Gahr Støre\"",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Shawn",
     "query": "Shawn",
-    "rank": 19,
-    "tweet_count": "351K Tweets"
-  },
-  {
-    "name": "Lite",
-    "query": "Lite",
     "rank": 20,
-    "tweet_count": "62.8K Tweets"
+    "tweet_count": "351K Tweets"
   }
 ]
