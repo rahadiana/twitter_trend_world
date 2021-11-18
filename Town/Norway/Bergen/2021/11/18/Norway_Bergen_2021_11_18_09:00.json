@@ -3,7 +3,7 @@
     "name": "Stortinget",
     "query": "Stortinget",
     "rank": 1,
-    "tweet_count": "1,578 Tweets"
+    "tweet_count": "1,586 Tweets"
   },
   {
     "name": "Giske",
@@ -18,22 +18,22 @@
     "tweet_count": null
   },
   {
-    "name": "#polkvart",
-    "query": "#polkvart",
+    "name": "Stortingspresidenten",
+    "query": "Stortingspresidenten",
     "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "stortingspresidenten",
-    "query": "stortingspresidenten",
-    "rank": 5,
-    "tweet_count": "1,341 Tweets"
+    "tweet_count": "1,351 Tweets"
   },
   {
     "name": "Ropstad",
     "query": "Ropstad",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "Norge",
+    "query": "Norge",
+    "rank": 6,
+    "tweet_count": "2,134 Tweets"
   },
   {
     "name": "Trondheim",
@@ -42,14 +42,14 @@
     "tweet_count": null
   },
   {
-    "name": "Norge",
-    "query": "Norge",
-    "rank": 8,
-    "tweet_count": "2,117 Tweets"
-  },
-  {
     "name": "#pendlerbolig",
     "query": "#pendlerbolig",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "#polkvart",
+    "query": "#polkvart",
     "rank": 9,
     "tweet_count": null
   },
@@ -63,13 +63,13 @@
     "name": "Oslo",
     "query": "Oslo",
     "rank": 11,
-    "tweet_count": "3,212 Tweets"
+    "tweet_count": "3,227 Tweets"
   },
   {
     "name": "Van Dijk",
     "query": "\"Van Dijk\"",
     "rank": 12,
-    "tweet_count": "2,079 Tweets"
+    "tweet_count": "2,089 Tweets"
   },
   {
     "name": "Solbakken",
@@ -87,7 +87,7 @@
     "name": "#SpiderManNoWayHome",
     "query": "#SpiderManNoWayHome",
     "rank": 15,
-    "tweet_count": "402K Tweets"
+    "tweet_count": "403K Tweets"
   },
   {
     "name": "SLOBS",
@@ -99,7 +99,7 @@
     "name": "Nixon",
     "query": "Nixon",
     "rank": 17,
-    "tweet_count": "4,984 Tweets"
+    "tweet_count": "5,002 Tweets"
   },
   {
     "name": "#dax18",
@@ -108,8 +108,8 @@
     "tweet_count": null
   },
   {
-    "name": "Trøndelag",
-    "query": "Trøndelag",
+    "name": "nav-klient",
+    "query": "nav-klient",
     "rank": 19,
     "tweet_count": null
   }
