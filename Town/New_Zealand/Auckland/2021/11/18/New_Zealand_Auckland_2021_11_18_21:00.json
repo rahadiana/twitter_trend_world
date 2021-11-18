@@ -1,39 +1,39 @@
 [
   {
+    "name": "John Bishop",
+    "query": "\"John Bishop\"",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "Groundswell",
     "query": "Groundswell",
-    "rank": 1,
-    "tweet_count": "1,080 Tweets"
+    "rank": 2,
+    "tweet_count": "1,100 Tweets"
   },
   {
     "name": "#Adele",
     "query": "#Adele",
-    "rank": 2,
-    "tweet_count": "17.6K Tweets"
+    "rank": 3,
+    "tweet_count": "18K Tweets"
   },
   {
     "name": "Shawn",
     "query": "Shawn",
-    "rank": 3,
-    "tweet_count": "355K Tweets"
+    "rank": 4,
+    "tweet_count": "356K Tweets"
   },
   {
     "name": "Nash",
     "query": "Nash",
-    "rank": 4,
-    "tweet_count": "7,385 Tweets"
+    "rank": 5,
+    "tweet_count": "7,439 Tweets"
   },
   {
     "name": "Camila",
     "query": "Camila",
-    "rank": 5,
-    "tweet_count": "380K Tweets"
-  },
-  {
-    "name": "Hosking",
-    "query": "Hosking",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "382K Tweets"
   },
   {
     "name": "tory whanau",
@@ -42,52 +42,52 @@
     "tweet_count": null
   },
   {
-    "name": "Paddy",
-    "query": "Paddy",
+    "name": "Hosking",
+    "query": "Hosking",
     "rank": 8,
-    "tweet_count": "16K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#AEWDynamite",
     "query": "#AEWDynamite",
     "rank": 9,
-    "tweet_count": "69.3K Tweets"
+    "tweet_count": "69.4K Tweets"
+  },
+  {
+    "name": "Paddy",
+    "query": "Paddy",
+    "rank": 10,
+    "tweet_count": "16K Tweets"
   },
   {
     "name": "Gisborne",
     "query": "Gisborne",
-    "rank": 10,
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "free speech union",
+    "query": "\"free speech union\"",
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Shelly Bay",
     "query": "\"Shelly Bay\"",
-    "rank": 11,
+    "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "Free Speech Union",
-    "query": "\"Free Speech Union\"",
-    "rank": 12,
-    "tweet_count": null
+    "name": "Wood",
+    "query": "Wood",
+    "rank": 14,
+    "tweet_count": "42.3K Tweets"
   },
   {
     "name": "#Covid_19",
     "query": "#Covid_19",
-    "rank": 13,
-    "tweet_count": "36.2K Tweets"
-  },
-  {
-    "name": "Peng Shuai",
-    "query": "\"Peng Shuai\"",
-    "rank": 14,
-    "tweet_count": "44.8K Tweets"
-  },
-  {
-    "name": "Gibraltar",
-    "query": "Gibraltar",
     "rank": 15,
-    "tweet_count": "22.2K Tweets"
+    "tweet_count": "36.8K Tweets"
   },
   {
     "name": "my covid record",
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
+    "name": "Peng Shuai",
+    "query": "\"Peng Shuai\"",
+    "rank": 17,
+    "tweet_count": "45.9K Tweets"
+  },
+  {
+    "name": "Gibraltar",
+    "query": "Gibraltar",
+    "rank": 18,
+    "tweet_count": "22.5K Tweets"
+  },
+  {
     "name": "Rassie",
     "query": "Rassie",
-    "rank": 17,
-    "tweet_count": "3,842 Tweets"
+    "rank": 19,
+    "tweet_count": "3,856 Tweets"
   },
   {
     "name": "Google Pay",
     "query": "\"Google Pay\"",
-    "rank": 18,
-    "tweet_count": "3,087 Tweets"
-  },
-  {
-    "name": "Exciting",
-    "query": "Exciting",
-    "rank": 19,
-    "tweet_count": "86.5K Tweets"
-  },
-  {
-    "name": "Wood",
-    "query": "Wood",
     "rank": 20,
-    "tweet_count": "41.8K Tweets"
+    "tweet_count": "3,120 Tweets"
   }
 ]
