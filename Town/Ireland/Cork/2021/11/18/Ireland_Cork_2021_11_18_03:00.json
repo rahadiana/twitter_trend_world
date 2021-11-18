@@ -1,33 +1,33 @@
 [
   {
-    "name": "#AEWDynamite",
-    "query": "#AEWDynamite",
-    "rank": 1,
-    "tweet_count": "60K Tweets"
-  },
-  {
     "name": "#micasos",
     "query": "#micasos",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "13.3K Tweets"
   },
   {
     "name": "#GBBO",
     "query": "#GBBO",
+    "rank": 2,
+    "tweet_count": "4,468 Tweets"
+  },
+  {
+    "name": "#AEWDynamite",
+    "query": "#AEWDynamite",
     "rank": 3,
-    "tweet_count": "4,459 Tweets"
+    "tweet_count": "60.4K Tweets"
   },
   {
     "name": "Davido",
     "query": "Davido",
     "rank": 4,
-    "tweet_count": "456K Tweets"
+    "tweet_count": "457K Tweets"
   },
   {
     "name": "Christmas",
     "query": "Christmas",
     "rank": 5,
-    "tweet_count": "651K Tweets"
+    "tweet_count": "654K Tweets"
   },
   {
     "name": "Noel King",
@@ -39,13 +39,13 @@
     "name": "Stephen Donnelly",
     "query": "\"Stephen Donnelly\"",
     "rank": 7,
-    "tweet_count": "1,297 Tweets"
+    "tweet_count": "1,298 Tweets"
   },
   {
     "name": "Jurgen",
     "query": "Jurgen",
     "rank": 8,
-    "tweet_count": "4,000 Tweets"
+    "tweet_count": "4,006 Tweets"
   },
   {
     "name": "Taoiseach",
@@ -57,23 +57,23 @@
     "name": "NICU",
     "query": "NICU",
     "rank": 10,
-    "tweet_count": "3,274 Tweets"
+    "tweet_count": "3,288 Tweets"
   },
   {
     "name": "Government",
     "query": "Government",
     "rank": 11,
-    "tweet_count": "585K Tweets"
+    "tweet_count": "587K Tweets"
   },
   {
     "name": "Minister for Health",
     "query": "\"Minister for Health\"",
     "rank": 12,
-    "tweet_count": "2,246 Tweets"
+    "tweet_count": "2,258 Tweets"
   },
   {
-    "name": "Tony Holohan",
-    "query": "\"Tony Holohan\"",
+    "name": "tony holohan",
+    "query": "\"tony holohan\"",
     "rank": 13,
     "tweet_count": null
   },
@@ -93,7 +93,7 @@
     "name": "Young Dolph",
     "query": "\"Young Dolph\"",
     "rank": 16,
-    "tweet_count": "666K Tweets"
+    "tweet_count": "669K Tweets"
   },
   {
     "name": "Brendan",
@@ -105,6 +105,6 @@
     "name": "Zara",
     "query": "Zara",
     "rank": 18,
-    "tweet_count": "19.2K Tweets"
+    "tweet_count": "19.3K Tweets"
   }
 ]
