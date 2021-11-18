@@ -1,21 +1,21 @@
 [
   {
+    "name": "#Merkel",
+    "query": "#Merkel",
+    "rank": 1,
+    "tweet_count": "3,299 Tweets"
+  },
+  {
     "name": "#LegalisierungKOMMT",
     "query": "#LegalisierungKOMMT",
-    "rank": 1,
-    "tweet_count": "4,440 Tweets"
+    "rank": 2,
+    "tweet_count": "4,851 Tweets"
   },
   {
     "name": "#Infektionsschutzgesetz",
     "query": "#Infektionsschutzgesetz",
-    "rank": 2,
-    "tweet_count": "4,448 Tweets"
-  },
-  {
-    "name": "#Pressekonferenz",
-    "query": "#Pressekonferenz",
     "rank": 3,
-    "tweet_count": null
+    "tweet_count": "4,618 Tweets"
   },
   {
     "name": "#dasperfektedinner",
@@ -27,43 +27,43 @@
     "name": "Bund und Länder",
     "query": "\"Bund und Länder\"",
     "rank": 5,
-    "tweet_count": "1,366 Tweets"
+    "tweet_count": "1,415 Tweets"
   },
   {
     "name": "Spotify",
     "query": "Spotify",
     "rank": 6,
-    "tweet_count": "730K Tweets"
-  },
-  {
-    "name": "Hospitalisierungsrate",
-    "query": "Hospitalisierungsrate",
-    "rank": 7,
-    "tweet_count": null
+    "tweet_count": "744K Tweets"
   },
   {
     "name": "Bundesrat",
     "query": "Bundesrat",
-    "rank": 8,
-    "tweet_count": "2,553 Tweets"
+    "rank": 7,
+    "tweet_count": "2,592 Tweets"
   },
   {
     "name": "Beschlüsse",
     "query": "Beschlüsse",
-    "rank": 9,
-    "tweet_count": "1,484 Tweets"
+    "rank": 8,
+    "tweet_count": "1,537 Tweets"
   },
   {
     "name": "Vogel",
     "query": "Vogel",
+    "rank": 9,
+    "tweet_count": "9,976 Tweets"
+  },
+  {
+    "name": "David",
+    "query": "David",
     "rank": 10,
-    "tweet_count": "9,915 Tweets"
+    "tweet_count": "200K Tweets"
   },
   {
     "name": "3G am Arbeitsplatz",
     "query": "\"3G am Arbeitsplatz\"",
     "rank": 11,
-    "tweet_count": "1,711 Tweets"
+    "tweet_count": "1,744 Tweets"
   },
   {
     "name": "Tierarzt",
@@ -78,16 +78,16 @@
     "tweet_count": null
   },
   {
-    "name": "Schulschließungen",
-    "query": "Schulschließungen",
+    "name": "#Pressekonferenz",
+    "query": "#Pressekonferenz",
     "rank": 14,
-    "tweet_count": "2,561 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Weedmob",
     "query": "#Weedmob",
     "rank": 15,
-    "tweet_count": "1,865 Tweets"
+    "tweet_count": "2,041 Tweets"
   },
   {
     "name": "#Ministerpraesidentenkonferenz",
@@ -96,21 +96,21 @@
     "tweet_count": null
   },
   {
+    "name": "#Hospitalisierungsrate",
+    "query": "#Hospitalisierungsrate",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
     "name": "#Wellenbrecher",
     "query": "#Wellenbrecher",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "#GassenEntlassen",
     "query": "#GassenEntlassen",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "#FirstDates",
-    "query": "#FirstDates",
     "rank": 19,
-    "tweet_count": "1,442 Tweets"
+    "tweet_count": null
   }
 ]
