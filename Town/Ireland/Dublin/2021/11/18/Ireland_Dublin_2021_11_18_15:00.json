@@ -6,14 +6,14 @@
     "tweet_count": null
   },
   {
-    "name": "Oireachtas",
-    "query": "Oireachtas",
+    "name": "Garth Brooks",
+    "query": "\"Garth Brooks\"",
     "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "Garth Brooks",
-    "query": "\"Garth Brooks\"",
+    "name": "Oireachtas",
+    "query": "Oireachtas",
     "rank": 3,
     "tweet_count": null
   },
@@ -24,28 +24,28 @@
     "tweet_count": null
   },
   {
-    "name": "tds and senators",
-    "query": "\"tds and senators\"",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
     "name": "Ceann Comhairle",
     "query": "\"Ceann Comhairle\"",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "#GBBO",
     "query": "#GBBO",
+    "rank": 6,
+    "tweet_count": "2,690 Tweets"
+  },
+  {
+    "name": "tds and senators",
+    "query": "\"tds and senators\"",
     "rank": 7,
-    "tweet_count": "2,662 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Christmas",
     "query": "Christmas",
     "rank": 8,
-    "tweet_count": "533K Tweets"
+    "tweet_count": "563K Tweets"
   },
   {
     "name": "#MicaSOS",
@@ -57,35 +57,35 @@
     "name": "#Covid_19",
     "query": "#Covid_19",
     "rank": 10,
-    "tweet_count": "33.1K Tweets"
+    "tweet_count": "33.7K Tweets"
   },
   {
     "name": "Davido",
     "query": "Davido",
     "rank": 11,
-    "tweet_count": "462K Tweets"
-  },
-  {
-    "name": "graham dwyer",
-    "query": "\"graham dwyer\"",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Coppers",
-    "query": "Coppers",
-    "rank": 13,
-    "tweet_count": null
+    "tweet_count": "466K Tweets"
   },
   {
     "name": "Leinster House",
     "query": "\"Leinster House\"",
-    "rank": 14,
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "graham dwyer",
+    "query": "\"graham dwyer\"",
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Croke Park",
     "query": "\"Croke Park\"",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Coppers",
+    "query": "Coppers",
     "rank": 15,
     "tweet_count": null
   },
@@ -96,26 +96,26 @@
     "tweet_count": null
   },
   {
-    "name": "RIP Jack",
-    "query": "\"RIP Jack\"",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
     "name": "Government",
     "query": "Government",
-    "rank": 18,
-    "tweet_count": "555K Tweets"
+    "rank": 17,
+    "tweet_count": "567K Tweets"
   },
   {
     "name": "Jurgen",
     "query": "Jurgen",
-    "rank": 19,
-    "tweet_count": "3,261 Tweets"
+    "rank": 18,
+    "tweet_count": "3,335 Tweets"
   },
   {
     "name": "Agility Award",
     "query": "\"Agility Award\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "RIP Jack",
+    "query": "\"RIP Jack\"",
     "rank": 20,
     "tweet_count": null
   }
