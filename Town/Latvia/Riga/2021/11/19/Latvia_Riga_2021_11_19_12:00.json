@@ -12,22 +12,22 @@
     "tweet_count": null
   },
   {
-    "name": "Brīvības",
-    "query": "Brīvības",
+    "name": "brīvības",
+    "query": "brīvības",
     "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "labrīt",
-    "query": "labrīt",
-    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "daba",
     "query": "daba",
+    "rank": 4,
+    "tweet_count": "16.2K Tweets"
+  },
+  {
+    "name": "Labrīt",
+    "query": "Labrīt",
     "rank": 5,
-    "tweet_count": "15.9K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#LV103",
@@ -39,13 +39,13 @@
     "name": "Lidl",
     "query": "Lidl",
     "rank": 7,
-    "tweet_count": "3,720 Tweets"
+    "tweet_count": "3,887 Tweets"
   },
   {
     "name": "LGBT",
     "query": "LGBT",
     "rank": 8,
-    "tweet_count": "39.5K Tweets"
+    "tweet_count": "40.6K Tweets"
   },
   {
     "name": "Sveiciens",
@@ -54,14 +54,14 @@
     "tweet_count": null
   },
   {
-    "name": "rietumu",
-    "query": "rietumu",
+    "name": "Austrijas",
+    "query": "Austrijas",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Tāpēc",
-    "query": "Tāpēc",
+    "name": "rietumu",
+    "query": "rietumu",
     "rank": 11,
     "tweet_count": null
   },
@@ -78,38 +78,38 @@
     "tweet_count": null
   },
   {
-    "name": "austrijas",
-    "query": "austrijas",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
     "name": "Labi",
     "query": "Labi",
-    "rank": 15,
-    "tweet_count": "1,971 Tweets"
+    "rank": 14,
+    "tweet_count": "2,026 Tweets"
   },
   {
     "name": "Labdien",
     "query": "Labdien",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "valsts",
+    "query": "valsts",
     "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "PSRS",
-    "query": "PSRS",
+    "name": "Valmieras",
+    "query": "Valmieras",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Valsts",
-    "query": "Valsts",
+    "name": "#bewithme",
+    "query": "#bewithme",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "161K Tweets"
   },
   {
-    "name": "varbūt",
-    "query": "varbūt",
+    "name": "eiropas",
+    "query": "eiropas",
     "rank": 19,
     "tweet_count": null
   }
