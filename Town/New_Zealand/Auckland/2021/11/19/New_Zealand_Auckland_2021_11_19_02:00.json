@@ -1,57 +1,57 @@
 [
   {
+    "name": "Auckland DHB",
+    "query": "\"Auckland DHB\"",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "Groundswell",
     "query": "Groundswell",
-    "rank": 1,
-    "tweet_count": "1,515 Tweets"
+    "rank": 2,
+    "tweet_count": "1,570 Tweets"
   },
   {
     "name": "John Bishop",
     "query": "\"John Bishop\"",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Adele",
     "query": "Adele",
-    "rank": 3,
-    "tweet_count": "185K Tweets"
+    "rank": 4,
+    "tweet_count": "189K Tweets"
   },
   {
     "name": "#rāmereshorts",
     "query": "#rāmereshorts",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "Wellington",
-    "query": "Wellington",
     "rank": 5,
-    "tweet_count": "4,526 Tweets"
-  },
-  {
-    "name": "Auckland DHB",
-    "query": "\"Auckland DHB\"",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "Nash",
-    "query": "Nash",
-    "rank": 7,
-    "tweet_count": "6,989 Tweets"
-  },
-  {
-    "name": "Bay of Plenty",
-    "query": "\"Bay of Plenty\"",
-    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Shawn",
     "query": "Shawn",
+    "rank": 6,
+    "tweet_count": "250K Tweets"
+  },
+  {
+    "name": "Bay of Plenty",
+    "query": "\"Bay of Plenty\"",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "Wellington",
+    "query": "Wellington",
+    "rank": 8,
+    "tweet_count": "4,638 Tweets"
+  },
+  {
+    "name": "Nash",
+    "query": "Nash",
     "rank": 9,
-    "tweet_count": "248K Tweets"
+    "tweet_count": "7,141 Tweets"
   },
   {
     "name": "Tory Whanau",
@@ -60,26 +60,26 @@
     "tweet_count": null
   },
   {
-    "name": "#AEWDynamite",
-    "query": "#AEWDynamite",
-    "rank": 11,
-    "tweet_count": "23.8K Tweets"
-  },
-  {
     "name": "#PokemonBrilliantDiamond",
     "query": "#PokemonBrilliantDiamond",
+    "rank": 11,
+    "tweet_count": "19.8K Tweets"
+  },
+  {
+    "name": "#AEWDynamite",
+    "query": "#AEWDynamite",
     "rank": 12,
-    "tweet_count": "19.4K Tweets"
+    "tweet_count": "23.9K Tweets"
   },
   {
     "name": "Paddy",
     "query": "Paddy",
     "rank": 13,
-    "tweet_count": "15.7K Tweets"
+    "tweet_count": "15.9K Tweets"
   },
   {
-    "name": "Taxpayers Union",
-    "query": "\"Taxpayers Union\"",
+    "name": "taxpayers union",
+    "query": "\"taxpayers union\"",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,30 +87,30 @@
     "name": "Peng Shuai",
     "query": "\"Peng Shuai\"",
     "rank": 15,
-    "tweet_count": "56.7K Tweets"
+    "tweet_count": "58.7K Tweets"
+  },
+  {
+    "name": "Clint",
+    "query": "Clint",
+    "rank": 16,
+    "tweet_count": "7,351 Tweets"
   },
   {
     "name": "free speech union",
     "query": "\"free speech union\"",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Hosking",
     "query": "Hosking",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Clint",
-    "query": "Clint",
     "rank": 18,
-    "tweet_count": "7,192 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Wood",
     "query": "Wood",
     "rank": 19,
-    "tweet_count": "40.9K Tweets"
+    "tweet_count": "41.7K Tweets"
   }
 ]
