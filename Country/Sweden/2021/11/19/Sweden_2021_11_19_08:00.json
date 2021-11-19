@@ -1,19 +1,19 @@
 [
   {
-    "name": "Godmorgon",
-    "query": "Godmorgon",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#SurvivingSophia",
     "query": "#SurvivingSophia",
-    "rank": 2,
-    "tweet_count": "49.2K Tweets"
+    "rank": 1,
+    "tweet_count": "50.3K Tweets"
   },
   {
     "name": "Södermalm",
     "query": "Södermalm",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "Godmorgon",
+    "query": "Godmorgon",
     "rank": 3,
     "tweet_count": null
   },
@@ -30,8 +30,8 @@
     "tweet_count": null
   },
   {
-    "name": "Sabuni",
-    "query": "Sabuni",
+    "name": "Cementa",
+    "query": "Cementa",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,81 +42,81 @@
     "tweet_count": null
   },
   {
-    "name": "Cementa",
-    "query": "Cementa",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "Grattis",
     "query": "Grattis",
-    "rank": 9,
-    "tweet_count": "1,194 Tweets"
+    "rank": 8,
+    "tweet_count": "1,230 Tweets"
   },
   {
     "name": "hjällbo",
     "query": "hjällbo",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "#Brynäs",
     "query": "#Brynäs",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "liljeholmen",
-    "query": "liljeholmen",
-    "rank": 12,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Adele",
     "query": "Adele",
-    "rank": 13,
-    "tweet_count": "271K Tweets"
+    "rank": 11,
+    "tweet_count": "277K Tweets"
   },
   {
-    "name": "Gallo",
-    "query": "Gallo",
-    "rank": 14,
-    "tweet_count": "8,918 Tweets"
+    "name": "Sabuni",
+    "query": "Sabuni",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "liljeholmen",
+    "query": "liljeholmen",
+    "rank": 13,
+    "tweet_count": null
   },
   {
     "name": "#storajournalistpriset",
     "query": "#storajournalistpriset",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Sean Connery",
     "query": "\"Sean Connery\"",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
-  },
-  {
-    "name": "Gibraltar",
-    "query": "Gibraltar",
-    "rank": 17,
-    "tweet_count": "19.6K Tweets"
   },
   {
     "name": "Rögle",
     "query": "Rögle",
-    "rank": 18,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "#timraik",
     "query": "#timraik",
-    "rank": 19,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Hovet",
     "query": "Hovet",
-    "rank": 20,
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "#AntimicrobialResistance",
+    "query": "#AntimicrobialResistance",
+    "rank": 19,
+    "tweet_count": "3,680 Tweets"
+  },
+  {
+    "name": "Gallo",
+    "query": "Gallo",
+    "rank": 20,
+    "tweet_count": "8,991 Tweets"
   }
 ]
