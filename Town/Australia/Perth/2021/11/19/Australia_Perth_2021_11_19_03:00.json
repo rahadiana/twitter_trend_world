@@ -3,23 +3,23 @@
     "name": "Tim Paine",
     "query": "\"Tim Paine\"",
     "rank": 1,
-    "tweet_count": null
-  },
-  {
-    "name": "#ausmusictshirtday",
-    "query": "#ausmusictshirtday",
-    "rank": 2,
-    "tweet_count": null
+    "tweet_count": "1,115 Tweets"
   },
   {
     "name": "Andy",
     "query": "Andy",
-    "rank": 3,
-    "tweet_count": "58.9K Tweets"
+    "rank": 2,
+    "tweet_count": "59.5K Tweets"
   },
   {
-    "name": "Kikau",
-    "query": "Kikau",
+    "name": "#ausmusictshirtday",
+    "query": "#ausmusictshirtday",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "kikau",
+    "query": "kikau",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,13 +27,13 @@
     "name": "#AgDayAU",
     "query": "#AgDayAU",
     "rank": 5,
-    "tweet_count": "1,194 Tweets"
+    "tweet_count": "1,216 Tweets"
   },
   {
     "name": "Bulldogs",
     "query": "Bulldogs",
     "rank": 6,
-    "tweet_count": "3,923 Tweets"
+    "tweet_count": "3,974 Tweets"
   },
   {
     "name": "Dr Nick",
@@ -42,34 +42,34 @@
     "tweet_count": null
   },
   {
+    "name": "#Ashes",
+    "query": "#Ashes",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
     "name": "#InternationalMensDay",
     "query": "#InternationalMensDay",
-    "rank": 8,
-    "tweet_count": "43.7K Tweets"
-  },
-  {
-    "name": "#PokemonBrilliantDiamond",
-    "query": "#PokemonBrilliantDiamond",
     "rank": 9,
-    "tweet_count": "19.9K Tweets"
-  },
-  {
-    "name": "Panthers",
-    "query": "Panthers",
-    "rank": 10,
-    "tweet_count": "19.4K Tweets"
-  },
-  {
-    "name": "Cavs",
-    "query": "Cavs",
-    "rank": 11,
-    "tweet_count": "15.9K Tweets"
+    "tweet_count": "44.5K Tweets"
   },
   {
     "name": "Dani",
     "query": "Dani",
+    "rank": 10,
+    "tweet_count": "65.9K Tweets"
+  },
+  {
+    "name": "Panthers",
+    "query": "Panthers",
+    "rank": 11,
+    "tweet_count": "19.6K Tweets"
+  },
+  {
+    "name": "Cavs",
+    "query": "Cavs",
     "rank": 12,
-    "tweet_count": "65.5K Tweets"
+    "tweet_count": "16.2K Tweets"
   },
   {
     "name": "David Marr",
@@ -78,39 +78,39 @@
     "tweet_count": null
   },
   {
-    "name": "Premiers",
-    "query": "Premiers",
-    "rank": 14,
-    "tweet_count": "17.4K Tweets"
-  },
-  {
     "name": "Penrith",
     "query": "Penrith",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
+  },
+  {
+    "name": "Premiers",
+    "query": "Premiers",
+    "rank": 15,
+    "tweet_count": "17.5K Tweets"
   },
   {
     "name": "The PM",
     "query": "\"The PM\"",
     "rank": 16,
-    "tweet_count": "241K Tweets"
-  },
-  {
-    "name": "#AgVenture",
-    "query": "#AgVenture",
-    "rank": 17,
-    "tweet_count": null
+    "tweet_count": "243K Tweets"
   },
   {
     "name": "#ScottyFromQanon",
     "query": "#ScottyFromQanon",
-    "rank": 18,
-    "tweet_count": "1,955 Tweets"
+    "rank": 17,
+    "tweet_count": "1,987 Tweets"
   },
   {
-    "name": "#SmashSummit12",
-    "query": "#SmashSummit12",
+    "name": "#PokemonBrilliantDiamond",
+    "query": "#PokemonBrilliantDiamond",
+    "rank": 18,
+    "tweet_count": "20K Tweets"
+  },
+  {
+    "name": "#AgVenture",
+    "query": "#AgVenture",
     "rank": 19,
-    "tweet_count": "1,611 Tweets"
+    "tweet_count": null
   }
 ]
