@@ -1,7 +1,7 @@
 [
   {
-    "name": "#Unspoken",
-    "query": "#Unspoken",
+    "name": "#unspoken",
+    "query": "#unspoken",
     "rank": 1,
     "tweet_count": null
   },
@@ -15,25 +15,25 @@
     "name": "Oireachtas",
     "query": "Oireachtas",
     "rank": 3,
-    "tweet_count": "1,022 Tweets"
+    "tweet_count": "1,024 Tweets"
   },
   {
     "name": "Christmas",
     "query": "Christmas",
     "rank": 4,
-    "tweet_count": "512K Tweets"
+    "tweet_count": "516K Tweets"
   },
   {
     "name": "#Adele30",
     "query": "#Adele30",
     "rank": 5,
-    "tweet_count": "81.5K Tweets"
+    "tweet_count": "85.4K Tweets"
   },
   {
     "name": "Covid",
     "query": "Covid",
     "rank": 6,
-    "tweet_count": "1.13M Tweets"
+    "tweet_count": "1.14M Tweets"
   },
   {
     "name": "#socentconf",
@@ -48,22 +48,22 @@
     "tweet_count": null
   },
   {
-    "name": "#KingJamesBibleStudy",
-    "query": "#KingJamesBibleStudy",
-    "rank": 9,
-    "tweet_count": "16.1K Tweets"
-  },
-  {
     "name": "#IRISSCON",
     "query": "#IRISSCON",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Ceann Comhairle",
     "query": "\"Ceann Comhairle\"",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
+  },
+  {
+    "name": "#KingJamesBibleStudy",
+    "query": "#KingJamesBibleStudy",
+    "rank": 11,
+    "tweet_count": "16.1K Tweets"
   },
   {
     "name": "norma foley",
@@ -75,29 +75,29 @@
     "name": "Romain Molina",
     "query": "\"Romain Molina\"",
     "rank": 13,
-    "tweet_count": "132K Tweets"
-  },
-  {
-    "name": "Spotify",
-    "query": "Spotify",
-    "rank": 14,
-    "tweet_count": "856K Tweets"
-  },
-  {
-    "name": "Vicky",
-    "query": "Vicky",
-    "rank": 15,
-    "tweet_count": "14.9K Tweets"
+    "tweet_count": "136K Tweets"
   },
   {
     "name": "Davido",
     "query": "Davido",
-    "rank": 16,
-    "tweet_count": "198K Tweets"
+    "rank": 14,
+    "tweet_count": "200K Tweets"
   },
   {
-    "name": "bertie ahern",
-    "query": "\"bertie ahern\"",
+    "name": "Spotify",
+    "query": "Spotify",
+    "rank": 15,
+    "tweet_count": "865K Tweets"
+  },
+  {
+    "name": "Vicky",
+    "query": "Vicky",
+    "rank": 16,
+    "tweet_count": "15.1K Tweets"
+  },
+  {
+    "name": "Bertie Ahern",
+    "query": "\"Bertie Ahern\"",
     "rank": 17,
     "tweet_count": null
   },
@@ -108,14 +108,14 @@
     "tweet_count": null
   },
   {
-    "name": "Jack Byrne",
-    "query": "\"Jack Byrne\"",
+    "name": "Achtung Baby",
+    "query": "\"Achtung Baby\"",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "3,685 Tweets"
   },
   {
-    "name": "Agility Award",
-    "query": "\"Agility Award\"",
+    "name": "agility award",
+    "query": "\"agility award\"",
     "rank": 20,
     "tweet_count": null
   }
