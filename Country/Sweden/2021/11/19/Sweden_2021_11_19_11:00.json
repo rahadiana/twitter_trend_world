@@ -1,13 +1,13 @@
 [
   {
-    "name": "#FPLSverige",
-    "query": "#FPLSverige",
+    "name": "Bromma",
+    "query": "Bromma",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "Bromma",
-    "query": "Bromma",
+    "name": "#FPLSverige",
+    "query": "#FPLSverige",
     "rank": 2,
     "tweet_count": null
   },
@@ -33,7 +33,7 @@
     "name": "#SurvivingSophia",
     "query": "#SurvivingSophia",
     "rank": 6,
-    "tweet_count": "53.8K Tweets"
+    "tweet_count": "54.2K Tweets"
   },
   {
     "name": "Biskopsgården",
@@ -63,7 +63,7 @@
     "name": "Adele",
     "query": "Adele",
     "rank": 11,
-    "tweet_count": "294K Tweets"
+    "tweet_count": "299K Tweets"
   },
   {
     "name": "Östermalm",
@@ -72,14 +72,14 @@
     "tweet_count": null
   },
   {
-    "name": "sabuni",
-    "query": "sabuni",
+    "name": "liljeholmen",
+    "query": "liljeholmen",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "liljeholmen",
-    "query": "liljeholmen",
+    "name": "Sabuni",
+    "query": "Sabuni",
     "rank": 14,
     "tweet_count": null
   },
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
+    "name": "#InternationalMensDay",
+    "query": "#InternationalMensDay",
+    "rank": 16,
+    "tweet_count": "91.1K Tweets"
+  },
+  {
     "name": "#storajournalistpriset",
     "query": "#storajournalistpriset",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Gallo",
-    "query": "Gallo",
     "rank": 17,
-    "tweet_count": "8,429 Tweets"
-  },
-  {
-    "name": "Peng Shuai",
-    "query": "\"Peng Shuai\"",
-    "rank": 18,
-    "tweet_count": "80.8K Tweets"
-  },
-  {
-    "name": "#landsmöte21",
-    "query": "#landsmöte21",
-    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Österrike",
     "query": "Österrike",
-    "rank": 20,
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Gallo",
+    "query": "Gallo",
+    "rank": 19,
+    "tweet_count": "8,492 Tweets"
+  },
+  {
+    "name": "Peng Shuai",
+    "query": "\"Peng Shuai\"",
+    "rank": 20,
+    "tweet_count": "82.2K Tweets"
   }
 ]
