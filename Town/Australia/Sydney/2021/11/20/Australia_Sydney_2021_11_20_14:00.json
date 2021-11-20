@@ -1,75 +1,75 @@
 [
   {
-    "name": "#SydneyIsSkyBlue",
-    "query": "#SydneyIsSkyBlue",
+    "name": "#SydneyDerby",
+    "query": "#SydneyDerby",
     "rank": 1,
+    "tweet_count": "1,286 Tweets"
+  },
+  {
+    "name": "#sydneyisskyblue",
+    "query": "#sydneyisskyblue",
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#LeiChe",
     "query": "#LeiChe",
-    "rank": 2,
-    "tweet_count": "64.5K Tweets"
+    "rank": 3,
+    "tweet_count": "70.5K Tweets"
   },
   {
     "name": "#PERvADL",
     "query": "#PERvADL",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Kante",
     "query": "Kante",
-    "rank": 4,
-    "tweet_count": "47K Tweets"
+    "rank": 5,
+    "tweet_count": "50.2K Tweets"
   },
   {
     "name": "#Arcane",
     "query": "#Arcane",
-    "rank": 5,
-    "tweet_count": "166K Tweets"
-  },
-  {
-    "name": "#SydneyDerby",
-    "query": "#SydneyDerby",
     "rank": 6,
-    "tweet_count": "1,284 Tweets"
+    "tweet_count": "170K Tweets"
   },
   {
     "name": "Sturridge",
     "query": "Sturridge",
     "rank": 7,
-    "tweet_count": "1,129 Tweets"
+    "tweet_count": "1,142 Tweets"
   },
   {
     "name": "Perth",
     "query": "Perth",
     "rank": 8,
-    "tweet_count": "17.6K Tweets"
+    "tweet_count": "18.5K Tweets"
   },
   {
     "name": "harry styles",
     "query": "\"harry styles\"",
     "rank": 9,
-    "tweet_count": "1.42M Tweets"
-  },
-  {
-    "name": "Victory",
-    "query": "Victory",
-    "rank": 10,
-    "tweet_count": "133K Tweets"
+    "tweet_count": "1.43M Tweets"
   },
   {
     "name": "Freedom",
     "query": "Freedom",
-    "rank": 11,
-    "tweet_count": "227K Tweets"
+    "rank": 10,
+    "tweet_count": null
   },
   {
-    "name": "#WUNvMVC",
-    "query": "#WUNvMVC",
-    "rank": 12,
+    "name": "#wunvmvc",
+    "query": "#wunvmvc",
+    "rank": 11,
     "tweet_count": null
+  },
+  {
+    "name": "#QatarGP",
+    "query": "#QatarGP",
+    "rank": 12,
+    "tweet_count": "61.9K Tweets"
   },
   {
     "name": "#WSWvSYD",
@@ -78,21 +78,15 @@
     "tweet_count": null
   },
   {
-    "name": "#QatarGP",
-    "query": "#QatarGP",
-    "rank": 14,
-    "tweet_count": "55.5K Tweets"
-  },
-  {
     "name": "#RepcoSC",
     "query": "#RepcoSC",
-    "rank": 15,
-    "tweet_count": "1,709 Tweets"
+    "rank": 14,
+    "tweet_count": "1,711 Tweets"
   },
   {
     "name": "#ALeague",
     "query": "#ALeague",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   }
 ]
