@@ -1,55 +1,55 @@
 [
   {
+    "name": "#KVMCLU",
+    "query": "#KVMCLU",
+    "rank": 1,
+    "tweet_count": "1,149 Tweets"
+  },
+  {
     "name": "Chris Van",
     "query": "\"Chris Van\"",
-    "rank": 1,
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "Kankeroperatie Chris",
+    "query": "\"Kankeroperatie Chris\"",
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Abeele",
     "query": "Abeele",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "#KVMCLU",
-    "query": "#KVMCLU",
-    "rank": 3,
-    "tweet_count": "1,147 Tweets"
-  },
-  {
-    "name": "Kankeroperatie Chris",
-    "query": "\"Kankeroperatie Chris\"",
     "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "#DALS",
-    "query": "#DALS",
-    "rank": 5,
-    "tweet_count": "26K Tweets"
-  },
-  {
-    "name": "Rotterdam",
-    "query": "Rotterdam",
-    "rank": 6,
-    "tweet_count": "178K Tweets"
-  },
-  {
-    "name": "#TPMT",
-    "query": "#TPMT",
-    "rank": 7,
-    "tweet_count": "15.3K Tweets"
-  },
-  {
-    "name": "#spaceafrooo",
-    "query": "#spaceafrooo",
-    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Vandenbroucke",
     "query": "Vandenbroucke",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "#DALS",
+    "query": "#DALS",
+    "rank": 6,
+    "tweet_count": "26K Tweets"
+  },
+  {
+    "name": "Rotterdam",
+    "query": "Rotterdam",
+    "rank": 7,
+    "tweet_count": "180K Tweets"
+  },
+  {
+    "name": "#TPMT",
+    "query": "#TPMT",
+    "rank": 8,
+    "tweet_count": "15.3K Tweets"
+  },
+  {
+    "name": "#spaceafrooo",
+    "query": "#spaceafrooo",
     "rank": 9,
     "tweet_count": null
   },
@@ -57,7 +57,7 @@
     "name": "#WorldChildrensDay",
     "query": "#WorldChildrensDay",
     "rank": 10,
-    "tweet_count": "19.6K Tweets"
+    "tweet_count": "20K Tweets"
   },
   {
     "name": "Tayc",
@@ -72,50 +72,50 @@
     "tweet_count": "119K Tweets"
   },
   {
+    "name": "Covid Safe Ticket",
+    "query": "\"Covid Safe Ticket\"",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
     "name": "Michou",
     "query": "Michou",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": "14.3K Tweets"
   },
   {
     "name": "Kyle Rittenhouse",
     "query": "\"Kyle Rittenhouse\"",
-    "rank": 14,
-    "tweet_count": "1.66M Tweets"
-  },
-  {
-    "name": "harry styles",
-    "query": "\"harry styles\"",
     "rank": 15,
-    "tweet_count": "1.07M Tweets"
-  },
-  {
-    "name": "Harry Potter",
-    "query": "\"Harry Potter\"",
-    "rank": 16,
-    "tweet_count": "49.2K Tweets"
+    "tweet_count": "1.66M Tweets"
   },
   {
     "name": "Kabila",
     "query": "Kabila",
-    "rank": 17,
-    "tweet_count": "14.3K Tweets"
+    "rank": 16,
+    "tweet_count": "14.4K Tweets"
   },
   {
-    "name": "Goeiemorgen",
-    "query": "Goeiemorgen",
-    "rank": 18,
-    "tweet_count": null
+    "name": "Harry Potter",
+    "query": "\"Harry Potter\"",
+    "rank": 17,
+    "tweet_count": "49.4K Tweets"
   },
   {
     "name": "Mignolet",
     "query": "Mignolet",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "Covid Safe Ticket",
-    "query": "\"Covid Safe Ticket\"",
+    "name": "hobi",
+    "query": "hobi",
+    "rank": 19,
+    "tweet_count": "380K Tweets"
+  },
+  {
+    "name": "Goeiemorgen",
+    "query": "Goeiemorgen",
     "rank": 20,
     "tweet_count": null
   }
