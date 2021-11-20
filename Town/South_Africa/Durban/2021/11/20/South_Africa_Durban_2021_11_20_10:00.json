@@ -1,13 +1,13 @@
 [
   {
-    "name": "Money",
-    "query": "Money",
-    "rank": 1,
-    "tweet_count": "824K Tweets"
-  },
-  {
     "name": "#DropGig",
     "query": "#DropGig",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "#GigaNathi",
+    "query": "#GigaNathi",
     "rank": 2,
     "tweet_count": null
   },
@@ -30,10 +30,10 @@
     "tweet_count": null
   },
   {
-    "name": "#GigaNathi",
-    "query": "#GigaNathi",
+    "name": "#TakealotBlueDotSale",
+    "query": "#TakealotBlueDotSale",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "3,557 Tweets"
   },
   {
     "name": "Cape Town City",
@@ -45,37 +45,37 @@
     "name": "Strawberries",
     "query": "Strawberries",
     "rank": 8,
-    "tweet_count": "5,555 Tweets"
-  },
-  {
-    "name": "Liverpool",
-    "query": "Liverpool",
-    "rank": 9,
-    "tweet_count": "62.3K Tweets"
+    "tweet_count": "5,591 Tweets"
   },
   {
     "name": "Arsenal",
     "query": "Arsenal",
+    "rank": 9,
+    "tweet_count": "78.5K Tweets"
+  },
+  {
+    "name": "Liverpool",
+    "query": "Liverpool",
     "rank": 10,
-    "tweet_count": "77.6K Tweets"
+    "tweet_count": "63K Tweets"
   },
   {
     "name": "Beyoncé",
     "query": "Beyoncé",
     "rank": 11,
-    "tweet_count": "25.5K Tweets"
+    "tweet_count": "25.6K Tweets"
   },
   {
     "name": "Watermelon",
     "query": "Watermelon",
     "rank": 12,
-    "tweet_count": "47.1K Tweets"
+    "tweet_count": "48K Tweets"
   },
   {
     "name": "Lakers",
     "query": "Lakers",
     "rank": 13,
-    "tweet_count": "102K Tweets"
+    "tweet_count": "103K Tweets"
   },
   {
     "name": "Mamelodi Sundowns",
@@ -90,27 +90,27 @@
     "tweet_count": "2.2M Tweets"
   },
   {
-    "name": "Mbeki",
-    "query": "Mbeki",
-    "rank": 16,
-    "tweet_count": "2,592 Tweets"
-  },
-  {
     "name": "Awakening",
     "query": "Awakening",
-    "rank": 17,
-    "tweet_count": "15K Tweets"
+    "rank": 16,
+    "tweet_count": "15.1K Tweets"
   },
   {
     "name": "Vuyo Dabula",
     "query": "\"Vuyo Dabula\"",
-    "rank": 18,
-    "tweet_count": "7,945 Tweets"
+    "rank": 17,
+    "tweet_count": "7,969 Tweets"
   },
   {
     "name": "#EFFSiyabongaRally",
     "query": "#EFFSiyabongaRally",
+    "rank": 18,
+    "tweet_count": "7,499 Tweets"
+  },
+  {
+    "name": "#konkhekuhambakahleClothing",
+    "query": "#konkhekuhambakahleClothing",
     "rank": 19,
-    "tweet_count": "7,406 Tweets"
+    "tweet_count": "1,128 Tweets"
   }
 ]
