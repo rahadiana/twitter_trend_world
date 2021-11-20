@@ -3,25 +3,25 @@
     "name": "#MaskedSinger",
     "query": "#MaskedSinger",
     "rank": 1,
-    "tweet_count": "6,251 Tweets"
+    "tweet_count": "6,270 Tweets"
   },
   {
-    "name": "#SVWS04",
-    "query": "#SVWS04",
+    "name": "#svws04",
+    "query": "#svws04",
     "rank": 2,
-    "tweet_count": "6,034 Tweets"
+    "tweet_count": "6,066 Tweets"
   },
   {
     "name": "Elfmeter",
     "query": "Elfmeter",
     "rank": 3,
-    "tweet_count": "1,830 Tweets"
+    "tweet_count": "1,846 Tweets"
   },
   {
     "name": "Elfer",
     "query": "Elfer",
     "rank": 4,
-    "tweet_count": "1,374 Tweets"
+    "tweet_count": "1,396 Tweets"
   },
   {
     "name": "Handspiel",
@@ -36,22 +36,22 @@
     "tweet_count": null
   },
   {
-    "name": "Stieler",
-    "query": "Stieler",
-    "rank": 7,
-    "tweet_count": "1,006 Tweets"
-  },
-  {
     "name": "Fehlentscheidung",
     "query": "Fehlentscheidung",
-    "rank": 8,
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Schwalbe",
     "query": "Schwalbe",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
+  },
+  {
+    "name": "Stieler",
+    "query": "Stieler",
+    "rank": 9,
+    "tweet_count": "1,020 Tweets"
   },
   {
     "name": "Mülli",
@@ -60,14 +60,14 @@
     "tweet_count": "1,190 Tweets"
   },
   {
-    "name": "Schiri",
-    "query": "Schiri",
+    "name": "#Gesundheitsministerium",
+    "query": "#Gesundheitsministerium",
     "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "#Gesundheitsministerium",
-    "query": "#Gesundheitsministerium",
+    "name": "Schiri",
+    "query": "Schiri",
     "rank": 12,
     "tweet_count": null
   },
@@ -81,7 +81,7 @@
     "name": "Sandy",
     "query": "Sandy",
     "rank": 14,
-    "tweet_count": "18.4K Tweets"
+    "tweet_count": "18.5K Tweets"
   },
   {
     "name": "Christina Stürmer",
@@ -93,7 +93,7 @@
     "name": "Bremer",
     "query": "Bremer",
     "rank": 16,
-    "tweet_count": "1,139 Tweets"
+    "tweet_count": "1,144 Tweets"
   },
   {
     "name": "#kleingegengroß",
@@ -102,8 +102,8 @@
     "tweet_count": null
   },
   {
-    "name": "schalker",
-    "query": "schalker",
+    "name": "Schalker",
+    "query": "Schalker",
     "rank": 18,
     "tweet_count": null
   },
@@ -117,6 +117,6 @@
     "name": "Staffel",
     "query": "Staffel",
     "rank": 20,
-    "tweet_count": "1,099 Tweets"
+    "tweet_count": "1,104 Tweets"
   }
 ]

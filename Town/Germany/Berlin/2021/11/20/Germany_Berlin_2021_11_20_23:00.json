@@ -1,45 +1,45 @@
 [
   {
-    "name": "#MaskedSinger",
-    "query": "#MaskedSinger",
+    "name": "#fcunion",
+    "query": "#fcunion",
     "rank": 1,
-    "tweet_count": "6,250 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#svws04",
-    "query": "#svws04",
+    "name": "#MaskedSinger",
+    "query": "#MaskedSinger",
     "rank": 2,
-    "tweet_count": "6,033 Tweets"
+    "tweet_count": "6,268 Tweets"
+  },
+  {
+    "name": "#SVWS04",
+    "query": "#SVWS04",
+    "rank": 3,
+    "tweet_count": "6,063 Tweets"
   },
   {
     "name": "Elfmeter",
     "query": "Elfmeter",
-    "rank": 3,
-    "tweet_count": "1,830 Tweets"
+    "rank": 4,
+    "tweet_count": "1,846 Tweets"
   },
   {
     "name": "Elfer",
     "query": "Elfer",
-    "rank": 4,
-    "tweet_count": "1,371 Tweets"
+    "rank": 5,
+    "tweet_count": "1,395 Tweets"
   },
   {
     "name": "Handspiel",
     "query": "Handspiel",
-    "rank": 5,
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "Alexander Klaws",
     "query": "\"Alexander Klaws\"",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "Stieler",
-    "query": "Stieler",
     "rank": 7,
-    "tweet_count": "1,006 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Fehlentscheidung",
@@ -54,16 +54,16 @@
     "tweet_count": null
   },
   {
-    "name": "Mülli",
-    "query": "Mülli",
+    "name": "Stieler",
+    "query": "Stieler",
     "rank": 10,
-    "tweet_count": "1,190 Tweets"
+    "tweet_count": "1,020 Tweets"
   },
   {
-    "name": "Schiri",
-    "query": "Schiri",
+    "name": "Mülli",
+    "query": "Mülli",
     "rank": 11,
-    "tweet_count": null
+    "tweet_count": "1,190 Tweets"
   },
   {
     "name": "#Gesundheitsministerium",
@@ -72,51 +72,51 @@
     "tweet_count": null
   },
   {
+    "name": "Schiri",
+    "query": "Schiri",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
     "name": "Berührung",
     "query": "Berührung",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Sandy",
     "query": "Sandy",
-    "rank": 14,
-    "tweet_count": "18.4K Tweets"
+    "rank": 15,
+    "tweet_count": "18.5K Tweets"
   },
   {
     "name": "Christina Stürmer",
     "query": "\"Christina Stürmer\"",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Bremer",
     "query": "Bremer",
-    "rank": 16,
-    "tweet_count": "1,138 Tweets"
+    "rank": 17,
+    "tweet_count": "1,143 Tweets"
   },
   {
     "name": "#kleingegengroß",
     "query": "#kleingegengroß",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "schalker",
-    "query": "schalker",
-    "rank": 18,
+    "name": "Schalker",
+    "query": "Schalker",
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Schiedsrichter",
     "query": "Schiedsrichter",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Staffel",
-    "query": "Staffel",
     "rank": 20,
-    "tweet_count": "1,097 Tweets"
+    "tweet_count": null
   }
 ]
