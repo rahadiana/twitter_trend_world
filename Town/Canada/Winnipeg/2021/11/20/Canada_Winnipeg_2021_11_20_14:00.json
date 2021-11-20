@@ -1,122 +1,104 @@
 [
   {
+    "name": "Jets",
+    "query": "Jets",
+    "rank": 1,
+    "tweet_count": "41.6K Tweets"
+  },
+  {
     "name": "Wheeler",
     "query": "Wheeler",
-    "rank": 1,
-    "tweet_count": "4,531 Tweets"
+    "rank": 2,
+    "tweet_count": "4,590 Tweets"
+  },
+  {
+    "name": "Chelsea",
+    "query": "Chelsea",
+    "rank": 3,
+    "tweet_count": "132K Tweets"
   },
   {
     "name": "Kante",
     "query": "Kante",
-    "rank": 2,
-    "tweet_count": "40.7K Tweets"
-  },
-  {
-    "name": "Kyle Rittenhouse",
-    "query": "\"Kyle Rittenhouse\"",
-    "rank": 3,
-    "tweet_count": "1.74M Tweets"
+    "rank": 4,
+    "tweet_count": "44.1K Tweets"
   },
   {
     "name": "#TransDayOfRemembrance",
     "query": "#TransDayOfRemembrance",
-    "rank": 4,
-    "tweet_count": "11.2K Tweets"
+    "rank": 5,
+    "tweet_count": "12.3K Tweets"
   },
   {
     "name": "#TDOR",
     "query": "#TDOR",
-    "rank": 5,
-    "tweet_count": "11.2K Tweets"
-  },
-  {
-    "name": "Adele",
-    "query": "Adele",
     "rank": 6,
-    "tweet_count": "318K Tweets"
+    "tweet_count": "12K Tweets"
   },
   {
-    "name": "#Caturday",
-    "query": "#Caturday",
+    "name": "Chilwell",
+    "query": "Chilwell",
     "rank": 7,
-    "tweet_count": "10.5K Tweets"
+    "tweet_count": "11.7K Tweets"
   },
   {
-    "name": "#SaturdayMorning",
-    "query": "#SaturdayMorning",
+    "name": "Rudiger",
+    "query": "Rudiger",
     "rank": 8,
-    "tweet_count": "17.1K Tweets"
+    "tweet_count": "13.1K Tweets"
   },
   {
-    "name": "Wet'suwet'en",
-    "query": "Wet'suwet'en",
+    "name": "#NationalChildDay",
+    "query": "#NationalChildDay",
     "rank": 9,
-    "tweet_count": "17.8K Tweets"
-  },
-  {
-    "name": "#SurvivingSophia",
-    "query": "#SurvivingSophia",
-    "rank": 10,
-    "tweet_count": "30.3K Tweets"
-  },
-  {
-    "name": "Not Guilty",
-    "query": "\"Not Guilty\"",
-    "rank": 11,
-    "tweet_count": "800K Tweets"
-  },
-  {
-    "name": "Nordiques",
-    "query": "Nordiques",
-    "rank": 12,
-    "tweet_count": "2,560 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Davido",
     "query": "Davido",
+    "rank": 10,
+    "tweet_count": "179K Tweets"
+  },
+  {
+    "name": "#WorldChildrensDay",
+    "query": "#WorldChildrensDay",
+    "rank": 11,
+    "tweet_count": "39.1K Tweets"
+  },
+  {
+    "name": "#Arcane",
+    "query": "#Arcane",
+    "rank": 12,
+    "tweet_count": "163K Tweets"
+  },
+  {
+    "name": "Nordiques",
+    "query": "Nordiques",
     "rank": 13,
-    "tweet_count": "170K Tweets"
-  },
-  {
-    "name": "Lizzo",
-    "query": "Lizzo",
-    "rank": 14,
-    "tweet_count": "1.35M Tweets"
-  },
-  {
-    "name": "Kristi",
-    "query": "Kristi",
-    "rank": 15,
-    "tweet_count": "2,490 Tweets"
-  },
-  {
-    "name": "Justice",
-    "query": "Justice",
-    "rank": 16,
-    "tweet_count": "1.07M Tweets"
-  },
-  {
-    "name": "Cowboy Bebop",
-    "query": "\"Cowboy Bebop\"",
-    "rank": 17,
-    "tweet_count": "55.1K Tweets"
+    "tweet_count": "2,648 Tweets"
   },
   {
     "name": "Chapman",
     "query": "Chapman",
-    "rank": 18,
-    "tweet_count": "4,797 Tweets"
+    "rank": 14,
+    "tweet_count": "4,899 Tweets"
   },
   {
-    "name": "Mendy",
-    "query": "Mendy",
-    "rank": 19,
-    "tweet_count": "20.3K Tweets"
+    "name": "Lizzo",
+    "query": "Lizzo",
+    "rank": 15,
+    "tweet_count": "1.37M Tweets"
   },
   {
-    "name": "Gilbert",
-    "query": "Gilbert",
-    "rank": 20,
-    "tweet_count": "6,766 Tweets"
+    "name": "CHSLD",
+    "query": "CHSLD",
+    "rank": 16,
+    "tweet_count": "2,390 Tweets"
+  },
+  {
+    "name": "#QatarGP",
+    "query": "#QatarGP",
+    "rank": 17,
+    "tweet_count": "53.5K Tweets"
   }
 ]

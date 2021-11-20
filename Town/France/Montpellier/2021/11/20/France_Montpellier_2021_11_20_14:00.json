@@ -1,110 +1,104 @@
 [
   {
-    "name": "#DALS",
-    "query": "#DALS",
-    "rank": 1,
-    "tweet_count": "26.6K Tweets"
-  },
-  {
     "name": "#LeiChe",
     "query": "#LeiChe",
-    "rank": 2,
-    "tweet_count": "47.2K Tweets"
+    "rank": 1,
+    "tweet_count": "57.5K Tweets"
   },
   {
     "name": "#Arcane",
     "query": "#Arcane",
+    "rank": 2,
+    "tweet_count": "163K Tweets"
+  },
+  {
+    "name": "Kanté",
+    "query": "Kanté",
     "rank": 3,
-    "tweet_count": "158K Tweets"
+    "tweet_count": "44.6K Tweets"
   },
   {
     "name": "Reece James",
     "query": "\"Reece James\"",
     "rank": 4,
-    "tweet_count": "6,622 Tweets"
+    "tweet_count": "7,912 Tweets"
+  },
+  {
+    "name": "Van De Beek",
+    "query": "\"Van De Beek\"",
+    "rank": 5,
+    "tweet_count": "9,739 Tweets"
+  },
+  {
+    "name": "Tuchel",
+    "query": "Tuchel",
+    "rank": 6,
+    "tweet_count": "17.6K Tweets"
   },
   {
     "name": "CROUS",
     "query": "CROUS",
-    "rank": 5,
-    "tweet_count": "4,330 Tweets"
+    "rank": 7,
+    "tweet_count": "4,649 Tweets"
   },
   {
-    "name": "Willy Wonka",
-    "query": "\"Willy Wonka\"",
-    "rank": 6,
-    "tweet_count": "1,003 Tweets"
+    "name": "Thiago Silva",
+    "query": "\"Thiago Silva\"",
+    "rank": 8,
+    "tweet_count": "4,777 Tweets"
   },
   {
     "name": "Dreamcatcher",
     "query": "Dreamcatcher",
-    "rank": 7,
-    "tweet_count": "8,757 Tweets"
+    "rank": 9,
+    "tweet_count": "10.9K Tweets"
+  },
+  {
+    "name": "Rudiger",
+    "query": "Rudiger",
+    "rank": 10,
+    "tweet_count": "13.2K Tweets"
+  },
+  {
+    "name": "Willy Wonka",
+    "query": "\"Willy Wonka\"",
+    "rank": 11,
+    "tweet_count": "1,027 Tweets"
   },
   {
     "name": "Palkia",
     "query": "Palkia",
-    "rank": 8,
-    "tweet_count": "6,963 Tweets"
+    "rank": 12,
+    "tweet_count": "7,054 Tweets"
   },
   {
     "name": "Davido",
     "query": "Davido",
-    "rank": 9,
-    "tweet_count": "170K Tweets"
-  },
-  {
-    "name": "Petit Pied",
-    "query": "\"Petit Pied\"",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Billy Bornéo",
-    "query": "\"Billy Bornéo\"",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Rama Yade",
-    "query": "\"Rama Yade\"",
-    "rank": 12,
-    "tweet_count": "6,424 Tweets"
-  },
-  {
-    "name": "Colbert",
-    "query": "Colbert",
     "rank": 13,
-    "tweet_count": "8,467 Tweets"
+    "tweet_count": "179K Tweets"
   },
   {
     "name": "Dialga",
     "query": "Dialga",
     "rank": 14,
-    "tweet_count": "7,694 Tweets"
+    "tweet_count": "7,791 Tweets"
   },
   {
-    "name": "estrosi",
-    "query": "estrosi",
+    "name": "Colbert",
+    "query": "Colbert",
     "rank": 15,
-    "tweet_count": "2,017 Tweets"
+    "tweet_count": "8,629 Tweets"
   },
   {
-    "name": "Boateng",
-    "query": "Boateng",
+    "name": "Petit Pied",
+    "query": "\"Petit Pied\"",
     "rank": 16,
-    "tweet_count": "3,393 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Lizzo",
-    "query": "Lizzo",
+    "name": "Billy Bornéo",
+    "query": "\"Billy Bornéo\"",
     "rank": 17,
-    "tweet_count": "1.35M Tweets"
-  },
-  {
-    "name": "Liverpool",
-    "query": "Liverpool",
-    "rank": 18,
-    "tweet_count": "68.7K Tweets"
+    "tweet_count": null
   }
 ]
