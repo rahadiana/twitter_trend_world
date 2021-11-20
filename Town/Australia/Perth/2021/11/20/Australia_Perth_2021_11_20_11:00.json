@@ -1,21 +1,21 @@
 [
   {
-    "name": "America",
-    "query": "America",
-    "rank": 1,
-    "tweet_count": "838K Tweets"
-  },
-  {
     "name": "#WUNvMVC",
     "query": "#WUNvMVC",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "#SydneyDerby",
     "query": "#SydneyDerby",
+    "rank": 2,
+    "tweet_count": "1,223 Tweets"
+  },
+  {
+    "name": "#PERvADL",
+    "query": "#PERvADL",
     "rank": 3,
-    "tweet_count": "1,207 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#WSWvSYD",
@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "#PERvADL",
-    "query": "#PERvADL",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
     "name": "#Arcane",
     "query": "#Arcane",
+    "rank": 5,
+    "tweet_count": "132K Tweets"
+  },
+  {
+    "name": "Rodwell",
+    "query": "Rodwell",
     "rank": 6,
-    "tweet_count": "130K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Western Empire",
@@ -45,43 +45,43 @@
     "name": "Victory",
     "query": "Victory",
     "rank": 8,
-    "tweet_count": "141K Tweets"
+    "tweet_count": "142K Tweets"
   },
   {
     "name": "Paramount",
     "query": "Paramount",
     "rank": 9,
-    "tweet_count": "6,692 Tweets"
+    "tweet_count": "6,721 Tweets"
   },
   {
-    "name": "harry styles",
-    "query": "\"harry styles\"",
+    "name": "Lizzo",
+    "query": "Lizzo",
     "rank": 10,
-    "tweet_count": "1.17M Tweets"
+    "tweet_count": "1.16M Tweets"
   },
   {
     "name": "Freedom",
     "query": "Freedom",
     "rank": 11,
-    "tweet_count": "231K Tweets"
+    "tweet_count": "233K Tweets"
   },
   {
     "name": "karl",
     "query": "karl",
     "rank": 12,
-    "tweet_count": "41.1K Tweets"
+    "tweet_count": "41.4K Tweets"
   },
   {
     "name": "Ascot",
     "query": "Ascot",
     "rank": 13,
-    "tweet_count": "2,863 Tweets"
+    "tweet_count": "2,906 Tweets"
   },
   {
     "name": "#RepcoSC",
     "query": "#RepcoSC",
     "rank": 14,
-    "tweet_count": "1,652 Tweets"
+    "tweet_count": "1,661 Tweets"
   },
   {
     "name": "#SydneyIsSkyBlue",
@@ -96,21 +96,21 @@
     "tweet_count": null
   },
   {
-    "name": "#ALeagueMen",
-    "query": "#ALeagueMen",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
     "name": "#sydneyprotest",
     "query": "#sydneyprotest",
+    "rank": 17,
+    "tweet_count": "2,495 Tweets"
+  },
+  {
+    "name": "#ALeagueMen",
+    "query": "#ALeagueMen",
     "rank": 18,
-    "tweet_count": "2,452 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Melbourneprotest",
     "query": "#Melbourneprotest",
     "rank": 19,
-    "tweet_count": "15.3K Tweets"
+    "tweet_count": "15.4K Tweets"
   }
 ]
