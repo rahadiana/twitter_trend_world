@@ -1,21 +1,21 @@
 [
   {
-    "name": "Oregon",
-    "query": "Oregon",
-    "rank": 1,
-    "tweet_count": "20.8K Tweets"
-  },
-  {
     "name": "#Bearcats",
     "query": "#Bearcats",
-    "rank": 2,
-    "tweet_count": "1,087 Tweets"
+    "rank": 1,
+    "tweet_count": "1,181 Tweets"
   },
   {
     "name": "Teague",
     "query": "Teague",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "Oregon",
+    "query": "Oregon",
+    "rank": 3,
+    "tweet_count": "21.3K Tweets"
   },
   {
     "name": "#dayton6th",
@@ -24,99 +24,99 @@
     "tweet_count": null
   },
   {
-    "name": "#CFBPlayoff",
-    "query": "#CFBPlayoff",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
     "name": "Harbaugh",
     "query": "Harbaugh",
-    "rank": 6,
-    "tweet_count": "2,394 Tweets"
+    "rank": 5,
+    "tweet_count": "2,472 Tweets"
   },
   {
     "name": "Big 10",
     "query": "\"Big 10\"",
-    "rank": 7,
-    "tweet_count": "22.1K Tweets"
+    "rank": 6,
+    "tweet_count": "22.4K Tweets"
   },
   {
     "name": "Ann Arbor",
     "query": "\"Ann Arbor\"",
+    "rank": 7,
+    "tweet_count": "1,134 Tweets"
+  },
+  {
+    "name": "Big Ten",
+    "query": "\"Big Ten\"",
     "rank": 8,
-    "tweet_count": "1,107 Tweets"
+    "tweet_count": "4,606 Tweets"
   },
   {
     "name": "The Shoe",
     "query": "\"The Shoe\"",
     "rank": 9,
-    "tweet_count": "9,006 Tweets"
-  },
-  {
-    "name": "Big Ten",
-    "query": "\"Big Ten\"",
-    "rank": 10,
-    "tweet_count": "4,499 Tweets"
+    "tweet_count": "9,151 Tweets"
   },
   {
     "name": "NCAA",
     "query": "NCAA",
-    "rank": 11,
-    "tweet_count": "15.8K Tweets"
-  },
-  {
-    "name": "Bama",
-    "query": "Bama",
-    "rank": 12,
-    "tweet_count": "10.3K Tweets"
-  },
-  {
-    "name": "#LoudSpace",
-    "query": "#LoudSpace",
-    "rank": 13,
-    "tweet_count": "7,780 Tweets"
+    "rank": 10,
+    "tweet_count": "16.1K Tweets"
   },
   {
     "name": "Buckeyes",
     "query": "Buckeyes",
-    "rank": 14,
-    "tweet_count": "14.9K Tweets"
+    "rank": 11,
+    "tweet_count": "15.1K Tweets"
+  },
+  {
+    "name": "#LoudSpace",
+    "query": "#LoudSpace",
+    "rank": 12,
+    "tweet_count": "8,287 Tweets"
+  },
+  {
+    "name": "#DOOP",
+    "query": "#DOOP",
+    "rank": 13,
+    "tweet_count": "2,561 Tweets"
   },
   {
     "name": "Durden",
     "query": "Durden",
-    "rank": 15,
-    "tweet_count": "2,946 Tweets"
+    "rank": 14,
+    "tweet_count": "3,250 Tweets"
   },
   {
     "name": "#armysgottalent",
     "query": "#armysgottalent",
-    "rank": 16,
-    "tweet_count": "23.9K Tweets"
-  },
-  {
-    "name": "Braelon Allen",
-    "query": "\"Braelon Allen\"",
-    "rank": 17,
-    "tweet_count": null
+    "rank": 15,
+    "tweet_count": "25.3K Tweets"
   },
   {
     "name": "Xavi",
     "query": "Xavi",
+    "rank": 16,
+    "tweet_count": "93.4K Tweets"
+  },
+  {
+    "name": "Nebraska",
+    "query": "Nebraska",
+    "rank": 17,
+    "tweet_count": "8,538 Tweets"
+  },
+  {
+    "name": "Iowa",
+    "query": "Iowa",
     "rank": 18,
-    "tweet_count": "83.8K Tweets"
+    "tweet_count": "22.9K Tweets"
   },
   {
     "name": "Heisman",
     "query": "Heisman",
     "rank": 19,
-    "tweet_count": "12.3K Tweets"
+    "tweet_count": "12.6K Tweets"
   },
   {
-    "name": "Clemson",
-    "query": "Clemson",
+    "name": "Notre Dame",
+    "query": "\"Notre Dame\"",
     "rank": 20,
-    "tweet_count": "9,771 Tweets"
+    "tweet_count": "6,569 Tweets"
   }
 ]
