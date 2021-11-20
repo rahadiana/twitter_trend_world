@@ -1,39 +1,39 @@
 [
   {
-    "name": "تشافي",
-    "query": "تشافي",
-    "rank": 1,
-    "tweet_count": "17K Tweets"
-  },
-  {
     "name": "ديباي",
     "query": "ديباي",
-    "rank": 2,
-    "tweet_count": "4,636 Tweets"
+    "rank": 1,
+    "tweet_count": "4,646 Tweets"
   },
   {
-    "name": "برشلونة",
-    "query": "برشلونة",
+    "name": "تشافي",
+    "query": "تشافي",
+    "rank": 2,
+    "tweet_count": "17.2K Tweets"
+  },
+  {
+    "name": "اسبانيول",
+    "query": "اسبانيول",
     "rank": 3,
-    "tweet_count": "24.7K Tweets"
+    "tweet_count": "12.7K Tweets"
   },
   {
     "name": "صوت المطر",
     "query": "\"صوت المطر\"",
     "rank": 4,
-    "tweet_count": "3,546 Tweets"
+    "tweet_count": "3,552 Tweets"
+  },
+  {
+    "name": "برشلونة",
+    "query": "برشلونة",
+    "rank": 5,
+    "tweet_count": "24.8K Tweets"
   },
   {
     "name": "#قلب_محارب",
     "query": "#قلب_محارب",
-    "rank": 5,
-    "tweet_count": "6,364 Tweets"
-  },
-  {
-    "name": "واتفورد",
-    "query": "واتفورد",
     "rank": 6,
-    "tweet_count": "18.3K Tweets"
+    "tweet_count": "6,429 Tweets"
   },
   {
     "name": "تشيلسي",
@@ -42,64 +42,64 @@
     "tweet_count": "14.6K Tweets"
   },
   {
-    "name": "كره القدم",
-    "query": "\"كره القدم\"",
+    "name": "واتفورد",
+    "query": "واتفورد",
     "rank": 8,
-    "tweet_count": "13.3K Tweets"
+    "tweet_count": "18.3K Tweets"
   },
   {
     "name": "توخيل",
     "query": "توخيل",
     "rank": 9,
-    "tweet_count": "3,973 Tweets"
+    "tweet_count": "3,985 Tweets"
+  },
+  {
+    "name": "كره القدم",
+    "query": "\"كره القدم\"",
+    "rank": 10,
+    "tweet_count": "13.3K Tweets"
   },
   {
     "name": "ارسنال",
     "query": "ارسنال",
-    "rank": 10,
-    "tweet_count": "23.2K Tweets"
-  },
-  {
-    "name": "#Arcane",
-    "query": "#Arcane",
     "rank": 11,
-    "tweet_count": "285K Tweets"
-  },
-  {
-    "name": "#WorldChildrensDay",
-    "query": "#WorldChildrensDay",
-    "rank": 12,
-    "tweet_count": "114K Tweets"
+    "tweet_count": "23.2K Tweets"
   },
   {
     "name": "اليونايتد",
     "query": "اليونايتد",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": "10.3K Tweets"
   },
   {
-    "name": "#اليوم_العالمي_للرجل",
-    "query": "#اليوم_العالمي_للرجل",
-    "rank": 14,
-    "tweet_count": "56.3K Tweets"
+    "name": "صوت الشتا",
+    "query": "\"صوت الشتا\"",
+    "rank": 13,
+    "tweet_count": null
   },
   {
-    "name": "ليفربول",
-    "query": "ليفربول",
-    "rank": 15,
-    "tweet_count": "23.8K Tweets"
+    "name": "#WorldChildrensDay",
+    "query": "#WorldChildrensDay",
+    "rank": 14,
+    "tweet_count": "114K Tweets"
   },
   {
     "name": "Adele",
     "query": "Adele",
-    "rank": 16,
-    "tweet_count": "227K Tweets"
+    "rank": 15,
+    "tweet_count": "228K Tweets"
   },
   {
     "name": "Messi",
     "query": "Messi",
+    "rank": 16,
+    "tweet_count": "240K Tweets"
+  },
+  {
+    "name": "#اليوم_العالمي_للرجل",
+    "query": "#اليوم_العالمي_للرجل",
     "rank": 17,
-    "tweet_count": "239K Tweets"
+    "tweet_count": "56.4K Tweets"
   },
   {
     "name": "علي نعمه المطر",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "محمد",
-    "query": "محمد",
+    "name": "#Arcane",
+    "query": "#Arcane",
     "rank": 19,
-    "tweet_count": "286K Tweets"
+    "tweet_count": "287K Tweets"
   },
   {
-    "name": "بريطانيا",
-    "query": "بريطانيا",
+    "name": "ليفربول",
+    "query": "ليفربول",
     "rank": 20,
-    "tweet_count": "22.1K Tweets"
+    "tweet_count": "23.8K Tweets"
   }
 ]
