@@ -1,116 +1,110 @@
 [
   {
+    "name": "Watford",
+    "query": "Watford",
+    "rank": 1,
+    "tweet_count": "46.5K Tweets"
+  },
+  {
+    "name": "Sarr",
+    "query": "Sarr",
+    "rank": 2,
+    "tweet_count": "13.3K Tweets"
+  },
+  {
     "name": "Chelsea",
     "query": "Chelsea",
-    "rank": 1,
-    "tweet_count": "158K Tweets"
+    "rank": 3,
+    "tweet_count": "162K Tweets"
+  },
+  {
+    "name": "#QatarGP",
+    "query": "#QatarGP",
+    "rank": 4,
+    "tweet_count": "76.4K Tweets"
+  },
+  {
+    "name": "Kante",
+    "query": "Kante",
+    "rank": 5,
+    "tweet_count": "55.5K Tweets"
   },
   {
     "name": "Perez",
     "query": "Perez",
-    "rank": 2,
-    "tweet_count": "62.6K Tweets"
-  },
-  {
-    "name": "Donny",
-    "query": "Donny",
-    "rank": 3,
-    "tweet_count": "77.1K Tweets"
-  },
-  {
-    "name": "Reece James",
-    "query": "\"Reece James\"",
-    "rank": 4,
-    "tweet_count": "9,557 Tweets"
-  },
-  {
-    "name": "#PUSB",
-    "query": "#PUSB",
-    "rank": 5,
-    "tweet_count": "1,582 Tweets"
-  },
-  {
-    "name": "#SCOvJPN",
-    "query": "#SCOvJPN",
     "rank": 6,
-    "tweet_count": "3,473 Tweets"
+    "tweet_count": "65.2K Tweets"
   },
   {
-    "name": "Checo",
-    "query": "Checo",
+    "name": "Darlow",
+    "query": "Darlow",
     "rank": 7,
-    "tweet_count": "7,610 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Darlow",
+    "query": "Darlow",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "Pulisic",
+    "query": "Pulisic",
+    "rank": 9,
+    "tweet_count": "22.1K Tweets"
+  },
+  {
+    "name": "#ENGvSA",
+    "query": "#ENGvSA",
+    "rank": 10,
+    "tweet_count": null
   },
   {
     "name": "#TransDayOfRemembrance",
     "query": "#TransDayOfRemembrance",
-    "rank": 8,
-    "tweet_count": "14.5K Tweets"
+    "rank": 11,
+    "tweet_count": "16.3K Tweets"
   },
   {
-    "name": "TEAM NEWS",
-    "query": "\"TEAM NEWS\"",
-    "rank": 9,
-    "tweet_count": "36.9K Tweets"
+    "name": "#SCOvJPN",
+    "query": "#SCOvJPN",
+    "rank": 12,
+    "tweet_count": "3,631 Tweets"
   },
   {
     "name": "KICK OFF",
     "query": "\"KICK OFF\"",
-    "rank": 10,
-    "tweet_count": "21.4K Tweets"
+    "rank": 13,
+    "tweet_count": "22.1K Tweets"
   },
   {
-    "name": "Bravemansgame",
-    "query": "Bravemansgame",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "#HairAndBeautyCelebsOrBands",
-    "query": "#HairAndBeautyCelebsOrBands",
-    "rank": 12,
-    "tweet_count": "1,113 Tweets"
+    "name": "Checo",
+    "query": "Checo",
+    "rank": 14,
+    "tweet_count": "9,255 Tweets"
   },
   {
     "name": "Gasly",
     "query": "Gasly",
-    "rank": 13,
-    "tweet_count": "8,647 Tweets"
-  },
-  {
-    "name": "Lostintranslation",
-    "query": "Lostintranslation",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Ayew",
-    "query": "Ayew",
     "rank": 15,
+    "tweet_count": "12.3K Tweets"
+  },
+  {
+    "name": "TEAM NEWS",
+    "query": "\"TEAM NEWS\"",
+    "rank": 16,
+    "tweet_count": "37.3K Tweets"
+  },
+  {
+    "name": "Josh King",
+    "query": "\"Josh King\"",
+    "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "#Caturday",
-    "query": "#Caturday",
-    "rank": 16,
-    "tweet_count": "12.6K Tweets"
-  },
-  {
-    "name": "Captain America",
-    "query": "\"Captain America\"",
-    "rank": 17,
-    "tweet_count": "8,101 Tweets"
-  },
-  {
-    "name": "Davido",
-    "query": "Davido",
+    "name": "Dubravka",
+    "query": "Dubravka",
     "rank": 18,
-    "tweet_count": "189K Tweets"
-  },
-  {
-    "name": "Tim Sherwood",
-    "query": "\"Tim Sherwood\"",
-    "rank": 19,
     "tweet_count": null
   }
 ]
