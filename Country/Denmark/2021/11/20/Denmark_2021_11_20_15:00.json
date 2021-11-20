@@ -1,21 +1,21 @@
 [
   {
-    "name": "#pldk",
-    "query": "#pldk",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Watford",
     "query": "Watford",
+    "rank": 1,
+    "tweet_count": "62K Tweets"
+  },
+  {
+    "name": "#pldk",
+    "query": "#pldk",
     "rank": 2,
-    "tweet_count": "50.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Chelsea",
     "query": "Chelsea",
     "rank": 3,
-    "tweet_count": "165K Tweets"
+    "tweet_count": "168K Tweets"
   },
   {
     "name": "#obvff",
@@ -30,70 +30,70 @@
     "tweet_count": "1.79M Tweets"
   },
   {
+    "name": "#mufcdk",
+    "query": "#mufcdk",
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
     "name": "Özlem",
     "query": "Özlem",
-    "rank": 6,
-    "tweet_count": "5,155 Tweets"
+    "rank": 7,
+    "tweet_count": "5,188 Tweets"
   },
   {
     "name": "#BørnenesKampdag",
     "query": "#BørnenesKampdag",
-    "rank": 7,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "#besserwisserne",
     "query": "#besserwisserne",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Kante",
     "query": "Kante",
-    "rank": 9,
-    "tweet_count": "55.5K Tweets"
-  },
-  {
-    "name": "#obdk",
-    "query": "#obdk",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "56.7K Tweets"
   },
   {
-    "name": "Jebali",
-    "query": "Jebali",
+    "name": "jebali",
+    "query": "jebali",
     "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Arsenal",
-    "query": "Arsenal",
-    "rank": 12,
-    "tweet_count": "98.5K Tweets"
-  },
-  {
-    "name": "sabbi",
-    "query": "sabbi",
-    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Liverpool",
     "query": "Liverpool",
-    "rank": 14,
-    "tweet_count": "74.7K Tweets"
+    "rank": 12,
+    "tweet_count": "76.1K Tweets"
+  },
+  {
+    "name": "Sabbi",
+    "query": "Sabbi",
+    "rank": 13,
+    "tweet_count": null
   },
   {
     "name": "Arcane",
     "query": "Arcane",
-    "rank": 15,
-    "tweet_count": "254K Tweets"
+    "rank": 14,
+    "tweet_count": "260K Tweets"
   },
   {
-    "name": "lars høgh",
-    "query": "\"lars høgh\"",
-    "rank": 16,
+    "name": "Lars Høgh",
+    "query": "\"Lars Høgh\"",
+    "rank": 15,
     "tweet_count": null
+  },
+  {
+    "name": "Arsenal",
+    "query": "Arsenal",
+    "rank": 16,
+    "tweet_count": "99.9K Tweets"
   },
   {
     "name": "Viborg",
@@ -105,13 +105,13 @@
     "name": "America",
     "query": "America",
     "rank": 18,
-    "tweet_count": "828K Tweets"
+    "tweet_count": "833K Tweets"
   },
   {
     "name": "Adele",
     "query": "Adele",
     "rank": 19,
-    "tweet_count": "305K Tweets"
+    "tweet_count": "307K Tweets"
   },
   {
     "name": "hækkerup",
