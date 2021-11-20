@@ -1,27 +1,27 @@
 [
   {
-    "name": "Arteta",
-    "query": "Arteta",
-    "rank": 1,
-    "tweet_count": "37.6K Tweets"
-  },
-  {
-    "name": "#WATMUN",
-    "query": "#WATMUN",
-    "rank": 2,
-    "tweet_count": "90.7K Tweets"
-  },
-  {
     "name": "#LIVARS",
     "query": "#LIVARS",
-    "rank": 3,
-    "tweet_count": "62.9K Tweets"
+    "rank": 1,
+    "tweet_count": "71.9K Tweets"
   },
   {
     "name": "Eskilstuna",
     "query": "Eskilstuna",
-    "rank": 4,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "Maguire",
+    "query": "Maguire",
+    "rank": 3,
+    "tweet_count": "119K Tweets"
+  },
+  {
+    "name": "Watford",
+    "query": "Watford",
+    "rank": 4,
+    "tweet_count": "191K Tweets"
   },
   {
     "name": "Tetrick Wania",
@@ -30,22 +30,22 @@
     "tweet_count": null
   },
   {
-    "name": "Häcken",
-    "query": "Häcken",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
     "name": "Messi",
     "query": "Messi",
-    "rank": 7,
-    "tweet_count": "205K Tweets"
+    "rank": 6,
+    "tweet_count": "211K Tweets"
   },
   {
     "name": "Donny",
     "query": "Donny",
+    "rank": 7,
+    "tweet_count": "136K Tweets"
+  },
+  {
+    "name": "Häcken",
+    "query": "Häcken",
     "rank": 8,
-    "tweet_count": "135K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Allsvenskan",
@@ -54,10 +54,10 @@
     "tweet_count": null
   },
   {
-    "name": "#fbkse",
-    "query": "#fbkse",
+    "name": "Chelsea",
+    "query": "Chelsea",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "209K Tweets"
   },
   {
     "name": "frölunda",
@@ -72,21 +72,15 @@
     "tweet_count": null
   },
   {
-    "name": "Rögle",
-    "query": "Rögle",
+    "name": "#fbkse",
+    "query": "#fbkse",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "Sundsvall",
-    "query": "Sundsvall",
+    "name": "rögle",
+    "query": "rögle",
     "rank": 14,
     "tweet_count": null
-  },
-  {
-    "name": "Chelsea",
-    "query": "Chelsea",
-    "rank": 15,
-    "tweet_count": "206K Tweets"
   }
 ]
