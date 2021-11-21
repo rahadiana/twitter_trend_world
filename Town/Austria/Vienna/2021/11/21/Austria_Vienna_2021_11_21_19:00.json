@@ -9,23 +9,23 @@
     "name": "Demo",
     "query": "Demo",
     "rank": 2,
-    "tweet_count": "50K Tweets"
-  },
-  {
-    "name": "#STUASK",
-    "query": "#STUASK",
-    "rank": 3,
-    "tweet_count": null
+    "tweet_count": "50.4K Tweets"
   },
   {
     "name": "#Tatort",
     "query": "#Tatort",
+    "rank": 3,
+    "tweet_count": "1,342 Tweets"
+  },
+  {
+    "name": "#Pressestunde",
+    "query": "#Pressestunde",
     "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "#pressestunde",
-    "query": "#pressestunde",
+    "name": "#STUASK",
+    "query": "#STUASK",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,7 +33,7 @@
     "name": "#QatarGP",
     "query": "#QatarGP",
     "rank": 6,
-    "tweet_count": "246K Tweets"
+    "tweet_count": "248K Tweets"
   },
   {
     "name": "Skifahren",
@@ -45,55 +45,55 @@
     "name": "Schönen Sonntag",
     "query": "\"Schönen Sonntag\"",
     "rank": 8,
-    "tweet_count": "5,632 Tweets"
+    "tweet_count": "5,638 Tweets"
   },
   {
-    "name": "körperöffnungen",
-    "query": "körperöffnungen",
+    "name": "Körperöffnungen",
+    "query": "Körperöffnungen",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Kanaldeckel",
-    "query": "Kanaldeckel",
+    "name": "Bottas",
+    "query": "Bottas",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "70.8K Tweets"
   },
   {
-    "name": "Mitläufer",
-    "query": "Mitläufer",
+    "name": "Kanaldeckel",
+    "query": "Kanaldeckel",
     "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "Neonazis",
-    "query": "Neonazis",
-    "rank": 12,
-    "tweet_count": "5,432 Tweets"
-  },
-  {
     "name": "Diktatur",
     "query": "Diktatur",
-    "rank": 13,
-    "tweet_count": "4,227 Tweets"
+    "rank": 12,
+    "tweet_count": "4,281 Tweets"
   },
   {
-    "name": "Impfpflicht",
-    "query": "Impfpflicht",
-    "rank": 14,
-    "tweet_count": "44.3K Tweets"
+    "name": "Neonazis",
+    "query": "Neonazis",
+    "rank": 13,
+    "tweet_count": "5,489 Tweets"
   },
   {
     "name": "Schulen",
     "query": "Schulen",
+    "rank": 14,
+    "tweet_count": "8,043 Tweets"
+  },
+  {
+    "name": "Impfpflicht",
+    "query": "Impfpflicht",
     "rank": 15,
-    "tweet_count": "7,927 Tweets"
+    "tweet_count": "45.1K Tweets"
   },
   {
     "name": "Rechtsextremen",
     "query": "Rechtsextremen",
     "rank": 16,
-    "tweet_count": "1,227 Tweets"
+    "tweet_count": "1,236 Tweets"
   },
   {
     "name": "Gräben",
@@ -105,18 +105,18 @@
     "name": "Schnee",
     "query": "Schnee",
     "rank": 18,
-    "tweet_count": "2,387 Tweets"
+    "tweet_count": "2,393 Tweets"
   },
   {
-    "name": "Innenstadt",
-    "query": "Innenstadt",
+    "name": "Mitläufer",
+    "query": "Mitläufer",
     "rank": 19,
-    "tweet_count": "1,395 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Holocaust",
-    "query": "Holocaust",
+    "name": "Polizist",
+    "query": "Polizist",
     "rank": 20,
-    "tweet_count": "12.3K Tweets"
+    "tweet_count": null
   }
 ]

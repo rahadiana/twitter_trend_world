@@ -1,9 +1,9 @@
 [
   {
-    "name": "Go Birds",
-    "query": "\"Go Birds\"",
+    "name": "#GoBirds",
+    "query": "#GoBirds",
     "rank": 1,
-    "tweet_count": "2,040 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Jason Kelce",
@@ -21,102 +21,102 @@
     "name": "Maddox",
     "query": "Maddox",
     "rank": 4,
-    "tweet_count": "2,348 Tweets"
+    "tweet_count": "2,365 Tweets"
   },
   {
     "name": "Sirianni",
     "query": "Sirianni",
     "rank": 5,
-    "tweet_count": "1,022 Tweets"
+    "tweet_count": "1,136 Tweets"
   },
   {
     "name": "Seahawks",
     "query": "Seahawks",
     "rank": 6,
-    "tweet_count": "7,106 Tweets"
+    "tweet_count": "7,254 Tweets"
   },
   {
     "name": "Justin Herbert",
     "query": "\"Justin Herbert\"",
     "rank": 7,
-    "tweet_count": "1,592 Tweets"
+    "tweet_count": "1,606 Tweets"
   },
   {
     "name": "Bateman",
     "query": "Bateman",
     "rank": 8,
-    "tweet_count": "8,841 Tweets"
+    "tweet_count": "8,876 Tweets"
+  },
+  {
+    "name": "Linc",
+    "query": "Linc",
+    "rank": 9,
+    "tweet_count": "3,568 Tweets"
   },
   {
     "name": "#SurvivorSeries",
     "query": "#SurvivorSeries",
-    "rank": 9,
-    "tweet_count": "20.6K Tweets"
+    "rank": 10,
+    "tweet_count": "21.4K Tweets"
   },
   {
     "name": "#INDvsBUF",
     "query": "#INDvsBUF",
-    "rank": 10,
-    "tweet_count": "3,341 Tweets"
+    "rank": 11,
+    "tweet_count": "3,480 Tweets"
   },
   {
     "name": "#WASvsCAR",
     "query": "#WASvsCAR",
-    "rank": 11,
-    "tweet_count": "4,325 Tweets"
-  },
-  {
-    "name": "#GBvsMIN",
-    "query": "#GBvsMIN",
     "rank": 12,
-    "tweet_count": "5,522 Tweets"
+    "tweet_count": "4,679 Tweets"
   },
   {
-    "name": "#DETvsCLE",
-    "query": "#DETvsCLE",
+    "name": "#NOvsPHI",
+    "query": "#NOvsPHI",
     "rank": 13,
-    "tweet_count": "2,219 Tweets"
+    "tweet_count": "9,355 Tweets"
   },
   {
-    "name": "Sanders",
-    "query": "Sanders",
+    "name": "sanders",
+    "query": "sanders",
     "rank": 14,
-    "tweet_count": "17.4K Tweets"
-  },
-  {
-    "name": "Kevin King",
-    "query": "\"Kevin King\"",
-    "rank": 15,
-    "tweet_count": "1,431 Tweets"
+    "tweet_count": "17.9K Tweets"
   },
   {
     "name": "Dan Mullen",
     "query": "\"Dan Mullen\"",
-    "rank": 16,
-    "tweet_count": "24.3K Tweets"
+    "rank": 15,
+    "tweet_count": "25K Tweets"
   },
   {
-    "name": "Tim Boyle",
-    "query": "\"Tim Boyle\"",
-    "rank": 17,
-    "tweet_count": "3,995 Tweets"
+    "name": "Tannehill",
+    "query": "Tannehill",
+    "rank": 16,
+    "tweet_count": "2,407 Tweets"
   },
   {
     "name": "Luke Walton",
     "query": "\"Luke Walton\"",
+    "rank": 17,
+    "tweet_count": "10.2K Tweets"
+  },
+  {
+    "name": "Tim Boyle",
+    "query": "\"Tim Boyle\"",
     "rank": 18,
-    "tweet_count": "9,746 Tweets"
+    "tweet_count": "4,122 Tweets"
   },
   {
     "name": "Jags",
     "query": "Jags",
     "rank": 19,
-    "tweet_count": "4,577 Tweets"
+    "tweet_count": "4,807 Tweets"
   },
   {
-    "name": "Flacco",
-    "query": "Flacco",
+    "name": "Trevor Siemian",
+    "query": "\"Trevor Siemian\"",
     "rank": 20,
-    "tweet_count": "3,570 Tweets"
+    "tweet_count": "1,125 Tweets"
   }
 ]
