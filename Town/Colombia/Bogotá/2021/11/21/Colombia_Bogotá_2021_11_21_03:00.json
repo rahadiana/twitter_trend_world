@@ -1,21 +1,21 @@
 [
   {
-    "name": "#QuienEsLaMascaraColombia",
-    "query": "#QuienEsLaMascaraColombia",
+    "name": "Barcelona",
+    "query": "Barcelona",
     "rank": 1,
-    "tweet_count": null
+    "tweet_count": "119K Tweets"
   },
   {
-    "name": "#YoMeLlamo",
-    "query": "#YoMeLlamo",
+    "name": "#QuienEsLaMascaraColombia",
+    "query": "#QuienEsLaMascaraColombia",
     "rank": 2,
-    "tweet_count": "1,615 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#PoliciaNazional",
     "query": "#PoliciaNazional",
     "rank": 3,
-    "tweet_count": "9,617 Tweets"
+    "tweet_count": "9,645 Tweets"
   },
   {
     "name": "ICFES",
@@ -24,22 +24,22 @@
     "tweet_count": "10.3K Tweets"
   },
   {
-    "name": "Tuluá",
-    "query": "Tuluá",
-    "rank": 5,
-    "tweet_count": "18.1K Tweets"
-  },
-  {
     "name": "Dios y Patria",
     "query": "\"Dios y Patria\"",
-    "rank": 6,
-    "tweet_count": "8,369 Tweets"
+    "rank": 5,
+    "tweet_count": "8,432 Tweets"
   },
   {
-    "name": "bruno mars",
-    "query": "\"bruno mars\"",
+    "name": "#YoMeLlamo",
+    "query": "#YoMeLlamo",
+    "rank": 6,
+    "tweet_count": "1,788 Tweets"
+  },
+  {
+    "name": "Tuluá",
+    "query": "Tuluá",
     "rank": 7,
-    "tweet_count": "7,718 Tweets"
+    "tweet_count": "18.2K Tweets"
   },
   {
     "name": "Lola Beltrán",
@@ -48,14 +48,14 @@
     "tweet_count": null
   },
   {
-    "name": "#PerseveranciaCoomeva2021",
-    "query": "#PerseveranciaCoomeva2021",
+    "name": "Bruno Mars",
+    "query": "\"Bruno Mars\"",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "7,790 Tweets"
   },
   {
-    "name": "#doradoes",
-    "query": "#doradoes",
+    "name": "#ComunismoCaracol",
+    "query": "#ComunismoCaracol",
     "rank": 10,
     "tweet_count": null
   },
@@ -66,22 +66,22 @@
     "tweet_count": "138K Tweets"
   },
   {
+    "name": "#doradoes",
+    "query": "#doradoes",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
     "name": "Nazis",
     "query": "Nazis",
-    "rank": 12,
-    "tweet_count": "68K Tweets"
+    "rank": 13,
+    "tweet_count": "68.3K Tweets"
   },
   {
     "name": "Alemania",
     "query": "Alemania",
-    "rank": 13,
-    "tweet_count": "34.3K Tweets"
-  },
-  {
-    "name": "Solskjaer",
-    "query": "Solskjaer",
     "rank": 14,
-    "tweet_count": "287K Tweets"
+    "tweet_count": "34.4K Tweets"
   },
   {
     "name": "Laura Pausini",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
-    "name": "Fabra",
-    "query": "Fabra",
+    "name": "Solskjaer",
+    "query": "Solskjaer",
     "rank": 16,
-    "tweet_count": "4,565 Tweets"
-  },
-  {
-    "name": "Pedro Fernández",
-    "query": "\"Pedro Fernández\"",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Andrea Nieto",
-    "query": "\"Andrea Nieto\"",
-    "rank": 18,
-    "tweet_count": "2,180 Tweets"
+    "tweet_count": "289K Tweets"
   },
   {
     "name": "Jorgito",
     "query": "Jorgito",
-    "rank": 19,
-    "tweet_count": "3,984 Tweets"
+    "rank": 17,
+    "tweet_count": "4,014 Tweets"
   },
   {
-    "name": "Nacho",
-    "query": "Nacho",
+    "name": "Watford",
+    "query": "Watford",
+    "rank": 18,
+    "tweet_count": "229K Tweets"
+  },
+  {
+    "name": "andrea nieto",
+    "query": "\"andrea nieto\"",
+    "rank": 19,
+    "tweet_count": "2,195 Tweets"
+  },
+  {
+    "name": "pedro fernández",
+    "query": "\"pedro fernández\"",
     "rank": 20,
-    "tweet_count": "12K Tweets"
+    "tweet_count": null
   }
 ]
