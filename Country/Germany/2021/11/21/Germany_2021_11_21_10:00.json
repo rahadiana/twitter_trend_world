@@ -1,122 +1,68 @@
 [
   {
-    "name": "#SVWS04",
-    "query": "#SVWS04",
-    "rank": 1,
-    "tweet_count": "6,378 Tweets"
-  },
-  {
     "name": "#Gesundheitsministerium",
     "query": "#Gesundheitsministerium",
-    "rank": 2,
-    "tweet_count": "4,372 Tweets"
+    "rank": 1,
+    "tweet_count": "4,526 Tweets"
   },
   {
     "name": "Schönen Sonntag",
     "query": "\"Schönen Sonntag\"",
+    "rank": 2,
+    "tweet_count": "3,688 Tweets"
+  },
+  {
+    "name": "#dopa",
+    "query": "#dopa",
     "rank": 3,
-    "tweet_count": "3,592 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Moderna",
-    "query": "Moderna",
+    "name": "#Totensonntag",
+    "query": "#Totensonntag",
     "rank": 4,
-    "tweet_count": "36.1K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#w2011",
-    "query": "#w2011",
+    "name": "#Ampelkoalition",
+    "query": "#Ampelkoalition",
     "rank": 5,
-    "tweet_count": "38.4K Tweets"
-  },
-  {
-    "name": "#MaskedSinger",
-    "query": "#MaskedSinger",
-    "rank": 6,
-    "tweet_count": "6,445 Tweets"
-  },
-  {
-    "name": "#Werder",
-    "query": "#Werder",
-    "rank": 7,
-    "tweet_count": "3,883 Tweets"
-  },
-  {
-    "name": "Elfer",
-    "query": "Elfer",
-    "rank": 8,
-    "tweet_count": "1,711 Tweets"
-  },
-  {
-    "name": "Elfmeter",
-    "query": "Elfmeter",
-    "rank": 9,
-    "tweet_count": "2,266 Tweets"
-  },
-  {
-    "name": "Biontech",
-    "query": "Biontech",
-    "rank": 10,
-    "tweet_count": "22K Tweets"
+    "tweet_count": "1,286 Tweets"
   },
   {
     "name": "Sonntagmorgen",
     "query": "Sonntagmorgen",
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "#Ewigkeitssonntag",
+    "query": "#Ewigkeitssonntag",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "Baerbock",
+    "query": "Baerbock",
+    "rank": 8,
+    "tweet_count": "5,009 Tweets"
+  },
+  {
+    "name": "#Kimmich",
+    "query": "#Kimmich",
+    "rank": 9,
+    "tweet_count": "2,263 Tweets"
+  },
+  {
+    "name": "#Moderna",
+    "query": "#Moderna",
+    "rank": 10,
+    "tweet_count": "3,683 Tweets"
+  },
+  {
+    "name": "#Biontech",
+    "query": "#Biontech",
     "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Handspiel",
-    "query": "Handspiel",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Schiri",
-    "query": "Schiri",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "mülli",
-    "query": "mülli",
-    "rank": 14,
-    "tweet_count": "1,231 Tweets"
-  },
-  {
-    "name": "christina stürmer",
-    "query": "\"christina stürmer\"",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Stieler",
-    "query": "Stieler",
-    "rank": 16,
-    "tweet_count": "1,245 Tweets"
-  },
-  {
-    "name": "Trainer",
-    "query": "Trainer",
-    "rank": 17,
-    "tweet_count": "23K Tweets"
-  },
-  {
-    "name": "Schalke",
-    "query": "Schalke",
-    "rank": 18,
-    "tweet_count": "2,708 Tweets"
-  },
-  {
-    "name": "Alexander Klaws",
-    "query": "\"Alexander Klaws\"",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Fehlentscheidung",
-    "query": "Fehlentscheidung",
-    "rank": 20,
-    "tweet_count": null
+    "tweet_count": "2,731 Tweets"
   }
 ]
