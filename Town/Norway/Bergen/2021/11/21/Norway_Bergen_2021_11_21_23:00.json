@@ -3,19 +3,19 @@
     "name": "Solskjær",
     "query": "Solskjær",
     "rank": 1,
-    "tweet_count": "434K Tweets"
+    "tweet_count": "436K Tweets"
   },
   {
     "name": "Molde",
     "query": "Molde",
     "rank": 2,
-    "tweet_count": "4,611 Tweets"
+    "tweet_count": "4,675 Tweets"
   },
   {
     "name": "Watford",
     "query": "Watford",
     "rank": 3,
-    "tweet_count": "50.4K Tweets"
+    "tweet_count": "50.6K Tweets"
   },
   {
     "name": "Aspmyra",
@@ -30,28 +30,28 @@
     "tweet_count": null
   },
   {
-    "name": "Man Utd",
-    "query": "\"Man Utd\"",
-    "rank": 6,
-    "tweet_count": "69.8K Tweets"
-  },
-  {
     "name": "Carrick",
     "query": "Carrick",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": "115K Tweets"
   },
   {
     "name": "Horneland",
     "query": "Horneland",
-    "rank": 8,
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Rosenborg",
     "query": "Rosenborg",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
+  },
+  {
+    "name": "Man Utd",
+    "query": "\"Man Utd\"",
+    "rank": 9,
+    "tweet_count": "260K Tweets"
   },
   {
     "name": "#TOTLEE",
@@ -75,42 +75,36 @@
     "name": "Ramsdale",
     "query": "Ramsdale",
     "rank": 13,
-    "tweet_count": "7,672 Tweets"
-  },
-  {
-    "name": "#LIVARS",
-    "query": "#LIVARS",
-    "rank": 14,
-    "tweet_count": "7,643 Tweets"
+    "tweet_count": "7,697 Tweets"
   },
   {
     "name": "Leeds",
     "query": "Leeds",
-    "rank": 15,
-    "tweet_count": "48.5K Tweets"
-  },
-  {
-    "name": "Ten Hag",
-    "query": "\"Ten Hag\"",
-    "rank": 16,
-    "tweet_count": "41.4K Tweets"
-  },
-  {
-    "name": "sandefjord",
-    "query": "sandefjord",
-    "rank": 17,
-    "tweet_count": null
+    "rank": 14,
+    "tweet_count": "48.8K Tweets"
   },
   {
     "name": "#maskorama",
     "query": "#maskorama",
-    "rank": 18,
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "#glimt",
+    "query": "#glimt",
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Conte",
     "query": "Conte",
-    "rank": 19,
-    "tweet_count": "53.9K Tweets"
+    "rank": 17,
+    "tweet_count": "54.5K Tweets"
+  },
+  {
+    "name": "Sandefjord",
+    "query": "Sandefjord",
+    "rank": 18,
+    "tweet_count": null
   }
 ]
