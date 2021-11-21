@@ -1,15 +1,15 @@
 [
   {
-    "name": "Avenida Petapa",
-    "query": "\"Avenida Petapa\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Antigua",
     "query": "Antigua",
+    "rank": 1,
+    "tweet_count": "6,084 Tweets"
+  },
+  {
+    "name": "Avenida Petapa",
+    "query": "\"Avenida Petapa\"",
     "rank": 2,
-    "tweet_count": "5,760 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Malacateco",
@@ -18,16 +18,16 @@
     "tweet_count": null
   },
   {
-    "name": "Marquense",
-    "query": "Marquense",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
     "name": "#BTSxAMAs",
     "query": "#BTSxAMAs",
+    "rank": 4,
+    "tweet_count": "301K Tweets"
+  },
+  {
+    "name": "Marquense",
+    "query": "Marquense",
     "rank": 5,
-    "tweet_count": "290K Tweets"
+    "tweet_count": null
   },
   {
     "name": "TEAM ARANA MATA",
@@ -42,28 +42,28 @@
     "tweet_count": "16.3K Tweets"
   },
   {
+    "name": "moyo",
+    "query": "moyo",
+    "rank": 8,
+    "tweet_count": "3,643 Tweets"
+  },
+  {
     "name": "#QatarGP",
     "query": "#QatarGP",
-    "rank": 8,
-    "tweet_count": "247K Tweets"
+    "rank": 9,
+    "tweet_count": "249K Tweets"
   },
   {
     "name": "Granada",
     "query": "Granada",
-    "rank": 9,
-    "tweet_count": "35K Tweets"
+    "rank": 10,
+    "tweet_count": "36.3K Tweets"
   },
   {
     "name": "Vini",
     "query": "Vini",
-    "rank": 10,
-    "tweet_count": "28.1K Tweets"
-  },
-  {
-    "name": "Moyo",
-    "query": "Moyo",
     "rank": 11,
-    "tweet_count": "3,602 Tweets"
+    "tweet_count": "28.6K Tweets"
   },
   {
     "name": "Gambeta",
@@ -81,19 +81,19 @@
     "name": "Municipal",
     "query": "Municipal",
     "rank": 14,
-    "tweet_count": "23.6K Tweets"
+    "tweet_count": "24.1K Tweets"
   },
   {
     "name": "Benzema",
     "query": "Benzema",
     "rank": 15,
-    "tweet_count": "17.3K Tweets"
+    "tweet_count": "17.9K Tweets"
   },
   {
     "name": "Cristo Rey",
     "query": "\"Cristo Rey\"",
     "rank": 16,
-    "tweet_count": "16.6K Tweets"
+    "tweet_count": "17K Tweets"
   },
   {
     "name": "Nueva Concepción",
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "#btsareamazing",
-    "query": "#btsareamazing",
+    "name": "Arsenal",
+    "query": "Arsenal",
     "rank": 20,
-    "tweet_count": "405K Tweets"
+    "tweet_count": "81.3K Tweets"
   }
 ]
