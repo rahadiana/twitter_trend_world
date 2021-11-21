@@ -1,122 +1,122 @@
 [
   {
-    "name": "Packers",
-    "query": "Packers",
-    "rank": 1,
-    "tweet_count": "30K Tweets"
-  },
-  {
-    "name": "Josh Allen",
-    "query": "\"Josh Allen\"",
-    "rank": 2,
-    "tweet_count": "3,502 Tweets"
-  },
-  {
     "name": "Buffalo",
     "query": "Buffalo",
-    "rank": 3,
-    "tweet_count": "14K Tweets"
+    "rank": 1,
+    "tweet_count": "14.9K Tweets"
+  },
+  {
+    "name": "Herbert",
+    "query": "Herbert",
+    "rank": 2,
+    "tweet_count": "10.1K Tweets"
   },
   {
     "name": "Chiefs",
     "query": "Chiefs",
+    "rank": 3,
+    "tweet_count": "26.5K Tweets"
+  },
+  {
+    "name": "#INDvsBUF",
+    "query": "#INDvsBUF",
     "rank": 4,
-    "tweet_count": "25.6K Tweets"
+    "tweet_count": "3,193 Tweets"
   },
   {
-    "name": "Cowboys",
-    "query": "Cowboys",
+    "name": "#WASvsCAR",
+    "query": "#WASvsCAR",
     "rank": 5,
-    "tweet_count": "20.5K Tweets"
+    "tweet_count": "3,679 Tweets"
   },
   {
-    "name": "Colts",
-    "query": "Colts",
+    "name": "#GBvsMIN",
+    "query": "#GBvsMIN",
     "rank": 6,
-    "tweet_count": "18.2K Tweets"
+    "tweet_count": "4,707 Tweets"
   },
   {
-    "name": "Crosby",
-    "query": "Crosby",
+    "name": "#Browns",
+    "query": "#Browns",
     "rank": 7,
-    "tweet_count": "22.4K Tweets"
-  },
-  {
-    "name": "Jonathan Taylor",
-    "query": "\"Jonathan Taylor\"",
-    "rank": 8,
-    "tweet_count": "4,412 Tweets"
-  },
-  {
-    "name": "Vikings",
-    "query": "Vikings",
-    "rank": 9,
-    "tweet_count": "24.5K Tweets"
-  },
-  {
-    "name": "Bills",
-    "query": "Bills",
-    "rank": 10,
-    "tweet_count": "61.5K Tweets"
-  },
-  {
-    "name": "#SKOL",
-    "query": "#SKOL",
-    "rank": 11,
-    "tweet_count": "5,729 Tweets"
-  },
-  {
-    "name": "#FanDuelisFANTASTIC",
-    "query": "#FanDuelisFANTASTIC",
-    "rank": 12,
-    "tweet_count": "4,894 Tweets"
-  },
-  {
-    "name": "Kevin King",
-    "query": "\"Kevin King\"",
-    "rank": 13,
-    "tweet_count": "1,282 Tweets"
-  },
-  {
-    "name": "Justin Jefferson",
-    "query": "\"Justin Jefferson\"",
-    "rank": 14,
-    "tweet_count": "2,763 Tweets"
-  },
-  {
-    "name": "#FlyEaglesFly",
-    "query": "#FlyEaglesFly",
-    "rank": 15,
-    "tweet_count": "7,525 Tweets"
-  },
-  {
-    "name": "#askfft",
-    "query": "#askfft",
-    "rank": 16,
-    "tweet_count": "6,111 Tweets"
-  },
-  {
-    "name": "#KeepPounding",
-    "query": "#KeepPounding",
-    "rank": 17,
-    "tweet_count": "12.4K Tweets"
-  },
-  {
-    "name": "Lamar",
-    "query": "Lamar",
-    "rank": 18,
-    "tweet_count": "31.5K Tweets"
+    "tweet_count": "9,203 Tweets"
   },
   {
     "name": "Texans",
     "query": "Texans",
-    "rank": 19,
-    "tweet_count": "10.3K Tweets"
+    "rank": 8,
+    "tweet_count": "11.4K Tweets"
+  },
+  {
+    "name": "Miles Sanders",
+    "query": "\"Miles Sanders\"",
+    "rank": 9,
+    "tweet_count": "4,560 Tweets"
+  },
+  {
+    "name": "Josh Allen",
+    "query": "\"Josh Allen\"",
+    "rank": 10,
+    "tweet_count": "4,071 Tweets"
+  },
+  {
+    "name": "#askfft",
+    "query": "#askfft",
+    "rank": 11,
+    "tweet_count": "6,139 Tweets"
   },
   {
     "name": "Dan Mullen",
     "query": "\"Dan Mullen\"",
+    "rank": 12,
+    "tweet_count": "23.6K Tweets"
+  },
+  {
+    "name": "Luke Walton",
+    "query": "\"Luke Walton\"",
+    "rank": 13,
+    "tweet_count": "9,428 Tweets"
+  },
+  {
+    "name": "Tannehill",
+    "query": "Tannehill",
+    "rank": 14,
+    "tweet_count": "1,938 Tweets"
+  },
+  {
+    "name": "Kenny Clark",
+    "query": "\"Kenny Clark\"",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Flacco",
+    "query": "Flacco",
+    "rank": 16,
+    "tweet_count": "3,491 Tweets"
+  },
+  {
+    "name": "Jordan Howard",
+    "query": "\"Jordan Howard\"",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Gibson",
+    "query": "Gibson",
+    "rank": 18,
+    "tweet_count": "7,962 Tweets"
+  },
+  {
+    "name": "Chubb",
+    "query": "Chubb",
+    "rank": 19,
+    "tweet_count": "3,995 Tweets"
+  },
+  {
+    "name": "Wyatt Teller",
+    "query": "\"Wyatt Teller\"",
     "rank": 20,
-    "tweet_count": "22.1K Tweets"
+    "tweet_count": null
   }
 ]
