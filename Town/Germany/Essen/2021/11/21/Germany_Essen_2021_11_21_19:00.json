@@ -1,33 +1,33 @@
 [
   {
-    "name": "#ranNFL",
-    "query": "#ranNFL",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Saison",
     "query": "Saison",
-    "rank": 2,
-    "tweet_count": "36K Tweets"
+    "rank": 1,
+    "tweet_count": "36.4K Tweets"
   },
   {
     "name": "#Tatort",
     "query": "#Tatort",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#M05KOE",
     "query": "#M05KOE",
-    "rank": 4,
-    "tweet_count": "1,435 Tweets"
+    "rank": 3,
+    "tweet_count": "1,473 Tweets"
   },
   {
     "name": "#Kubicki",
     "query": "#Kubicki",
+    "rank": 4,
+    "tweet_count": "10.6K Tweets"
+  },
+  {
+    "name": "#ich_bin_keine_Zahl",
+    "query": "#ich_bin_keine_Zahl",
     "rank": 5,
-    "tweet_count": "10.4K Tweets"
+    "tweet_count": "2,424 Tweets"
   },
   {
     "name": "Sonntagabend",
@@ -45,19 +45,19 @@
     "name": "Saddam Hussein",
     "query": "\"Saddam Hussein\"",
     "rank": 8,
-    "tweet_count": "7,190 Tweets"
+    "tweet_count": "7,268 Tweets"
   },
   {
     "name": "Mainz",
     "query": "Mainz",
     "rank": 9,
-    "tweet_count": "1,750 Tweets"
+    "tweet_count": "1,772 Tweets"
   },
   {
     "name": "Zverev",
     "query": "Zverev",
     "rank": 10,
-    "tweet_count": "18.9K Tweets"
+    "tweet_count": "19.1K Tweets"
   },
   {
     "name": "Schnurrbart",
@@ -69,25 +69,25 @@
     "name": "AMAs",
     "query": "AMAs",
     "rank": 12,
-    "tweet_count": "717K Tweets"
+    "tweet_count": "728K Tweets"
   },
   {
     "name": "Freiburg",
     "query": "Freiburg",
     "rank": 13,
-    "tweet_count": "1,734 Tweets"
-  },
-  {
-    "name": "Stammkneipe",
-    "query": "Stammkneipe",
-    "rank": 14,
-    "tweet_count": null
+    "tweet_count": "1,749 Tweets"
   },
   {
     "name": "Chan",
     "query": "Chan",
+    "rank": 14,
+    "tweet_count": "318K Tweets"
+  },
+  {
+    "name": "Stammkneipe",
+    "query": "Stammkneipe",
     "rank": 15,
-    "tweet_count": "317K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Plätzchen",
@@ -99,7 +99,7 @@
     "name": "Karl Lauterbach",
     "query": "\"Karl Lauterbach\"",
     "rank": 17,
-    "tweet_count": "20K Tweets"
+    "tweet_count": "20.2K Tweets"
   },
   {
     "name": "Gerücht",
@@ -111,6 +111,6 @@
     "name": "Gelb",
     "query": "Gelb",
     "rank": 19,
-    "tweet_count": "1,484 Tweets"
+    "tweet_count": "1,491 Tweets"
   }
 ]
