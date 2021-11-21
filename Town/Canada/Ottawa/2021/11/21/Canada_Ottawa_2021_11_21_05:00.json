@@ -1,63 +1,63 @@
 [
   {
-    "name": "Penguins",
-    "query": "Penguins",
-    "rank": 1,
-    "tweet_count": "10.9K Tweets"
-  },
-  {
     "name": "#CrawfordPorter",
     "query": "#CrawfordPorter",
-    "rank": 2,
-    "tweet_count": "28K Tweets"
+    "rank": 1,
+    "tweet_count": "29.6K Tweets"
   },
   {
     "name": "#chatwithmark",
     "query": "#chatwithmark",
-    "rank": 3,
-    "tweet_count": "149K Tweets"
+    "rank": 2,
+    "tweet_count": "154K Tweets"
   },
   {
     "name": "Oilers",
     "query": "Oilers",
-    "rank": 4,
-    "tweet_count": "4,229 Tweets"
+    "rank": 3,
+    "tweet_count": "4,331 Tweets"
   },
   {
     "name": "#GoHabsGo",
     "query": "#GoHabsGo",
-    "rank": 5,
-    "tweet_count": "4,557 Tweets"
+    "rank": 4,
+    "tweet_count": "4,589 Tweets"
   },
   {
     "name": "McLeod",
     "query": "McLeod",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Seth Jones",
     "query": "\"Seth Jones\"",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "#ONEPIECE1000",
     "query": "#ONEPIECE1000",
+    "rank": 7,
+    "tweet_count": "65.7K Tweets"
+  },
+  {
+    "name": "Draisaitl",
+    "query": "Draisaitl",
     "rank": 8,
-    "tweet_count": "64.8K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Kane",
     "query": "Kane",
     "rank": 9,
-    "tweet_count": "17.4K Tweets"
+    "tweet_count": "17.5K Tweets"
   },
   {
     "name": "#TurningPoint",
     "query": "#TurningPoint",
     "rank": 10,
-    "tweet_count": "8,577 Tweets"
+    "tweet_count": "8,904 Tweets"
   },
   {
     "name": "Caleb Jones",
@@ -84,27 +84,33 @@
     "tweet_count": null
   },
   {
+    "name": "Bouchard",
+    "query": "Bouchard",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
     "name": "Jarry",
     "query": "Jarry",
-    "rank": 15,
-    "tweet_count": "2,166 Tweets"
+    "rank": 16,
+    "tweet_count": "2,172 Tweets"
   },
   {
     "name": "Barrie",
     "query": "Barrie",
-    "rank": 16,
-    "tweet_count": "1,760 Tweets"
+    "rank": 17,
+    "tweet_count": "1,765 Tweets"
   },
   {
     "name": "Project L",
     "query": "\"Project L\"",
-    "rank": 17,
-    "tweet_count": "21.9K Tweets"
+    "rank": 18,
+    "tweet_count": "22.1K Tweets"
   },
   {
-    "name": "Josh Anderson",
-    "query": "\"Josh Anderson\"",
-    "rank": 18,
-    "tweet_count": null
+    "name": "Holl",
+    "query": "Holl",
+    "rank": 19,
+    "tweet_count": "1,191 Tweets"
   }
 ]
