@@ -1,39 +1,39 @@
 [
   {
-    "name": "Gus Johnson",
-    "query": "\"Gus Johnson\"",
+    "name": "john johnson",
+    "query": "\"john johnson\"",
     "rank": 1,
-    "tweet_count": "1,022 Tweets"
+    "tweet_count": "1,290 Tweets"
+  },
+  {
+    "name": "Zac Taylor",
+    "query": "\"Zac Taylor\"",
+    "rank": 2,
+    "tweet_count": null
   },
   {
     "name": "Wyatt Teller",
     "query": "\"Wyatt Teller\"",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "THE WARDEN",
     "query": "\"THE WARDEN\"",
-    "rank": 3,
-    "tweet_count": "1,983 Tweets"
+    "rank": 4,
+    "tweet_count": "2,001 Tweets"
   },
   {
     "name": "Detroit",
     "query": "Detroit",
-    "rank": 4,
-    "tweet_count": "18K Tweets"
+    "rank": 5,
+    "tweet_count": "18.3K Tweets"
   },
   {
     "name": "Felton",
     "query": "Felton",
-    "rank": 5,
-    "tweet_count": "1,615 Tweets"
-  },
-  {
-    "name": "Jarvis",
-    "query": "Jarvis",
     "rank": 6,
-    "tweet_count": "5,107 Tweets"
+    "tweet_count": "1,633 Tweets"
   },
   {
     "name": "Clowney",
@@ -45,13 +45,13 @@
     "name": "Bradley",
     "query": "Bradley",
     "rank": 8,
-    "tweet_count": "9,646 Tweets"
+    "tweet_count": "9,733 Tweets"
   },
   {
     "name": "Hooper",
     "query": "Hooper",
     "rank": 9,
-    "tweet_count": "1,853 Tweets"
+    "tweet_count": "1,877 Tweets"
   },
   {
     "name": "njoku",
@@ -60,63 +60,63 @@
     "tweet_count": null
   },
   {
-    "name": "#WhoDey",
-    "query": "#WhoDey",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
     "name": "Higgins",
     "query": "Higgins",
+    "rank": 11,
+    "tweet_count": "4,223 Tweets"
+  },
+  {
+    "name": "Notifications",
+    "query": "Notifications",
     "rank": 12,
-    "tweet_count": "4,152 Tweets"
+    "tweet_count": "142K Tweets"
   },
   {
     "name": "Kid Rock",
     "query": "\"Kid Rock\"",
     "rank": 13,
-    "tweet_count": "18.7K Tweets"
+    "tweet_count": "18.9K Tweets"
   },
   {
     "name": "#RuleTheJungle",
     "query": "#RuleTheJungle",
     "rank": 14,
-    "tweet_count": "1,319 Tweets"
+    "tweet_count": "1,346 Tweets"
   },
   {
     "name": "Hollywood",
     "query": "Hollywood",
     "rank": 15,
-    "tweet_count": "74.1K Tweets"
+    "tweet_count": "75.1K Tweets"
   },
   {
     "name": "#GBvsMIN",
     "query": "#GBvsMIN",
     "rank": 16,
-    "tweet_count": "13.8K Tweets"
+    "tweet_count": "14K Tweets"
   },
   {
     "name": "#INDvsBUF",
     "query": "#INDvsBUF",
     "rank": 17,
-    "tweet_count": "6,169 Tweets"
+    "tweet_count": "6,237 Tweets"
   },
   {
     "name": "#BALvsCHI",
     "query": "#BALvsCHI",
     "rank": 18,
-    "tweet_count": "6,659 Tweets"
+    "tweet_count": "6,768 Tweets"
   },
   {
-    "name": "Baker",
-    "query": "Baker",
+    "name": "Cowboys",
+    "query": "Cowboys",
     "rank": 19,
-    "tweet_count": "34.1K Tweets"
+    "tweet_count": "32.3K Tweets"
   },
   {
-    "name": "Rodgers",
-    "query": "Rodgers",
+    "name": "#DETvsCLE",
+    "query": "#DETvsCLE",
     "rank": 20,
-    "tweet_count": "42.3K Tweets"
+    "tweet_count": "4,302 Tweets"
   }
 ]
