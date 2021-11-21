@@ -1,9 +1,9 @@
 [
   {
-    "name": "#Agenda",
-    "query": "#Agenda",
+    "name": "Agenda",
+    "query": "Agenda",
     "rank": 1,
-    "tweet_count": "1,413 Tweets"
+    "tweet_count": "107K Tweets"
   },
   {
     "name": "Sverige 2021",
@@ -18,16 +18,16 @@
     "tweet_count": null
   },
   {
-    "name": "Bulan",
-    "query": "Bulan",
-    "rank": 4,
-    "tweet_count": "89.7K Tweets"
-  },
-  {
     "name": "Baudin",
     "query": "Baudin",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "Bulan",
+    "query": "Bulan",
+    "rank": 5,
+    "tweet_count": "89.9K Tweets"
   },
   {
     "name": "Sebastian Larsson",
@@ -51,7 +51,7 @@
     "name": "Watford",
     "query": "Watford",
     "rank": 9,
-    "tweet_count": "59.6K Tweets"
+    "tweet_count": "59.7K Tweets"
   },
   {
     "name": "Degerfors",
@@ -63,37 +63,37 @@
     "name": "#WATMUN",
     "query": "#WATMUN",
     "rank": 11,
-    "tweet_count": "8,833 Tweets"
+    "tweet_count": "8,850 Tweets"
   },
   {
     "name": "Tottenham",
     "query": "Tottenham",
     "rank": 12,
-    "tweet_count": "32.4K Tweets"
+    "tweet_count": "32.8K Tweets"
   },
   {
     "name": "Carrick",
     "query": "Carrick",
     "rank": 13,
-    "tweet_count": "116K Tweets"
-  },
-  {
-    "name": "HTFF",
-    "query": "HTFF",
-    "rank": 14,
-    "tweet_count": null
+    "tweet_count": "117K Tweets"
   },
   {
     "name": "Sirius",
     "query": "Sirius",
+    "rank": 14,
+    "tweet_count": "9,817 Tweets"
+  },
+  {
+    "name": "Elfsborg",
+    "query": "Elfsborg",
     "rank": 15,
-    "tweet_count": "9,698 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Rittenhouse",
     "query": "Rittenhouse",
     "rank": 16,
-    "tweet_count": "583K Tweets"
+    "tweet_count": "592K Tweets"
   },
   {
     "name": "#bajen",
@@ -102,16 +102,16 @@
     "tweet_count": null
   },
   {
-    "name": "Maguire",
-    "query": "Maguire",
+    "name": "HTFF",
+    "query": "HTFF",
     "rank": 18,
-    "tweet_count": "65.9K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Elfsborg",
-    "query": "Elfsborg",
+    "name": "Maguire",
+    "query": "Maguire",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "66.5K Tweets"
   },
   {
     "name": "Halmstad",

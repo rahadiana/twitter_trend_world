@@ -1,51 +1,51 @@
 [
   {
+    "name": "#zib2",
+    "query": "#zib2",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "#w2011",
     "query": "#w2011",
-    "rank": 1,
-    "tweet_count": "11.2K Tweets"
+    "rank": 2,
+    "tweet_count": "11.3K Tweets"
   },
   {
     "name": "#Tatort",
     "query": "#Tatort",
-    "rank": 2,
-    "tweet_count": "3,427 Tweets"
+    "rank": 3,
+    "tweet_count": "3,498 Tweets"
+  },
+  {
+    "name": "Impfeuropameister",
+    "query": "Impfeuropameister",
+    "rank": 4,
+    "tweet_count": null
   },
   {
     "name": "Demo",
     "query": "Demo",
-    "rank": 3,
-    "tweet_count": "47.5K Tweets"
+    "rank": 5,
+    "tweet_count": "48K Tweets"
   },
   {
     "name": "#procontra",
     "query": "#procontra",
-    "rank": 4,
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "#Pressestunde",
     "query": "#Pressestunde",
-    "rank": 5,
+    "rank": 7,
     "tweet_count": null
-  },
-  {
-    "name": "#QatarGP",
-    "query": "#QatarGP",
-    "rank": 6,
-    "tweet_count": "250K Tweets"
   },
   {
     "name": "Schönen Sonntag",
     "query": "\"Schönen Sonntag\"",
-    "rank": 7,
-    "tweet_count": "5,678 Tweets"
-  },
-  {
-    "name": "Körperöffnungen",
-    "query": "Körperöffnungen",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "5,692 Tweets"
   },
   {
     "name": "Skifahren",
@@ -63,11 +63,11 @@
     "name": "Bottas",
     "query": "Bottas",
     "rank": 11,
-    "tweet_count": "69.7K Tweets"
+    "tweet_count": "69.8K Tweets"
   },
   {
-    "name": "Kanaldeckel",
-    "query": "Kanaldeckel",
+    "name": "kanaldeckel",
+    "query": "kanaldeckel",
     "rank": 12,
     "tweet_count": null
   },
@@ -75,48 +75,48 @@
     "name": "Diktatur",
     "query": "Diktatur",
     "rank": 13,
-    "tweet_count": "3,873 Tweets"
+    "tweet_count": "3,944 Tweets"
   },
   {
     "name": "Impfpflicht",
     "query": "Impfpflicht",
     "rank": 14,
-    "tweet_count": "43.6K Tweets"
-  },
-  {
-    "name": "Neonazis",
-    "query": "Neonazis",
-    "rank": 15,
-    "tweet_count": "4,774 Tweets"
+    "tweet_count": "44.8K Tweets"
   },
   {
     "name": "Schulen",
     "query": "Schulen",
+    "rank": 15,
+    "tweet_count": "8,187 Tweets"
+  },
+  {
+    "name": "Neonazis",
+    "query": "Neonazis",
     "rank": 16,
-    "tweet_count": "8,008 Tweets"
+    "tweet_count": "4,841 Tweets"
   },
   {
-    "name": "gräben",
-    "query": "gräben",
+    "name": "Gräben",
+    "query": "Gräben",
     "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Mitläufer",
-    "query": "Mitläufer",
-    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Rosam",
     "query": "Rosam",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Polizist",
+    "query": "Polizist",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Innenstadt",
-    "query": "Innenstadt",
+    "name": "Mitläufer",
+    "query": "Mitläufer",
     "rank": 20,
-    "tweet_count": "1,377 Tweets"
+    "tweet_count": null
   }
 ]
