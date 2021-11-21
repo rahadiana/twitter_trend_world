@@ -1,75 +1,75 @@
 [
   {
+    "name": "Chile",
+    "query": "Chile",
+    "rank": 1,
+    "tweet_count": "288K Tweets"
+  },
+  {
     "name": "Madrid",
     "query": "Madrid",
-    "rank": 1,
-    "tweet_count": "143K Tweets"
+    "rank": 2,
+    "tweet_count": "144K Tweets"
   },
   {
     "name": "Calcaterra",
     "query": "Calcaterra",
-    "rank": 2,
-    "tweet_count": "2,255 Tweets"
-  },
-  {
-    "name": "Cristal",
-    "query": "Cristal",
     "rank": 3,
-    "tweet_count": "11.5K Tweets"
-  },
-  {
-    "name": "Cristal",
-    "query": "Cristal",
-    "rank": 4,
-    "tweet_count": "11.5K Tweets"
+    "tweet_count": "2,335 Tweets"
   },
   {
     "name": "Haro",
     "query": "Haro",
+    "rank": 4,
+    "tweet_count": "5,415 Tweets"
+  },
+  {
+    "name": "Cristal",
+    "query": "Cristal",
     "rank": 5,
-    "tweet_count": "5,337 Tweets"
+    "tweet_count": "11.7K Tweets"
+  },
+  {
+    "name": "Alianza",
+    "query": "Alianza",
+    "rank": 6,
+    "tweet_count": "23.6K Tweets"
   },
   {
     "name": "Barcos",
     "query": "Barcos",
-    "rank": 6,
-    "tweet_count": "4,270 Tweets"
-  },
-  {
-    "name": "Campos",
-    "query": "Campos",
     "rank": 7,
-    "tweet_count": "19.2K Tweets"
-  },
-  {
-    "name": "Riquelme",
-    "query": "Riquelme",
-    "rank": 8,
-    "tweet_count": "5,677 Tweets"
+    "tweet_count": "4,334 Tweets"
   },
   {
     "name": "#BTSxAMAs",
     "query": "#BTSxAMAs",
+    "rank": 8,
+    "tweet_count": "407K Tweets"
+  },
+  {
+    "name": "Campos",
+    "query": "Campos",
     "rank": 9,
-    "tweet_count": "389K Tweets"
+    "tweet_count": "19.5K Tweets"
+  },
+  {
+    "name": "Riquelme",
+    "query": "Riquelme",
+    "rank": 10,
+    "tweet_count": "5,752 Tweets"
   },
   {
     "name": "Mosquera",
     "query": "Mosquera",
-    "rank": 10,
-    "tweet_count": "1,411 Tweets"
+    "rank": 11,
+    "tweet_count": "1,473 Tweets"
   },
   {
     "name": "Duarte",
     "query": "Duarte",
-    "rank": 11,
-    "tweet_count": "6,874 Tweets"
-  },
-  {
-    "name": "Faltan 90",
-    "query": "\"Faltan 90\"",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "7,034 Tweets"
   },
   {
     "name": "Farfán",
@@ -78,45 +78,45 @@
     "tweet_count": null
   },
   {
+    "name": "Faltan 90",
+    "query": "\"Faltan 90\"",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
     "name": "Lora",
     "query": "Lora",
-    "rank": 14,
-    "tweet_count": "4,509 Tweets"
+    "rank": 15,
+    "tweet_count": "4,547 Tweets"
   },
   {
     "name": "#LAGRANFINALXGOLPERU",
     "query": "#LAGRANFINALXGOLPERU",
-    "rank": 15,
-    "tweet_count": "1,978 Tweets"
+    "rank": 16,
+    "tweet_count": "1,995 Tweets"
+  },
+  {
+    "name": "Kast",
+    "query": "Kast",
+    "rank": 17,
+    "tweet_count": "185K Tweets"
+  },
+  {
+    "name": "Boric",
+    "query": "Boric",
+    "rank": 18,
+    "tweet_count": "166K Tweets"
   },
   {
     "name": "Hohberg",
     "query": "Hohberg",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Aguirre",
-    "query": "Aguirre",
-    "rank": 17,
-    "tweet_count": "10.1K Tweets"
-  },
-  {
-    "name": "Portales",
-    "query": "Portales",
-    "rank": 18,
-    "tweet_count": "3,063 Tweets"
-  },
-  {
-    "name": "Beingolea",
-    "query": "Beingolea",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Merlo",
-    "query": "Merlo",
+    "name": "Portales",
+    "query": "Portales",
     "rank": 20,
-    "tweet_count": "1,586 Tweets"
+    "tweet_count": "3,114 Tweets"
   }
 ]
