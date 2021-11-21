@@ -1,25 +1,25 @@
 [
   {
-    "name": "#Rotterdam",
-    "query": "#Rotterdam",
-    "rank": 1,
-    "tweet_count": "56.7K Tweets"
-  },
-  {
     "name": "#wnlopzondag",
     "query": "#wnlopzondag",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#Rotterdam",
+    "query": "#Rotterdam",
+    "rank": 2,
+    "tweet_count": "56.8K Tweets"
   },
   {
     "name": "Goedemorgen",
     "query": "Goedemorgen",
     "rank": 3,
-    "tweet_count": "4,952 Tweets"
+    "tweet_count": "5,183 Tweets"
   },
   {
-    "name": "#psvvit",
-    "query": "#psvvit",
+    "name": "#PSVVIT",
+    "query": "#PSVVIT",
     "rank": 4,
     "tweet_count": "1,407 Tweets"
   },
@@ -27,13 +27,13 @@
     "name": "AIVD",
     "query": "AIVD",
     "rank": 5,
-    "tweet_count": "3,134 Tweets"
+    "tweet_count": "3,177 Tweets"
   },
   {
     "name": "#WATMUN",
     "query": "#WATMUN",
     "rank": 6,
-    "tweet_count": "97.1K Tweets"
+    "tweet_count": "97.2K Tweets"
   },
   {
     "name": "#AZNEC",
@@ -42,81 +42,81 @@
     "tweet_count": null
   },
   {
-    "name": "Chelsea",
-    "query": "Chelsea",
+    "name": "Sarr",
+    "query": "Sarr",
     "rank": 8,
-    "tweet_count": "232K Tweets"
+    "tweet_count": "31.2K Tweets"
   },
   {
-    "name": "Zwarte Piet",
-    "query": "\"Zwarte Piet\"",
+    "name": "Maguire",
+    "query": "Maguire",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "151K Tweets"
+  },
+  {
+    "name": "Chelsea",
+    "query": "Chelsea",
+    "rank": 10,
+    "tweet_count": "233K Tweets"
   },
   {
     "name": "Fijne",
     "query": "Fijne",
-    "rank": 10,
-    "tweet_count": "5,300 Tweets"
+    "rank": 11,
+    "tweet_count": "5,457 Tweets"
+  },
+  {
+    "name": "Zwarte Piet",
+    "query": "\"Zwarte Piet\"",
+    "rank": 12,
+    "tweet_count": null
   },
   {
     "name": "Gefeliciteerd",
     "query": "Gefeliciteerd",
-    "rank": 11,
-    "tweet_count": "2,254 Tweets"
+    "rank": 13,
+    "tweet_count": "2,295 Tweets"
   },
   {
     "name": "Liverpool",
     "query": "Liverpool",
-    "rank": 12,
+    "rank": 14,
     "tweet_count": "196K Tweets"
+  },
+  {
+    "name": "Donny",
+    "query": "Donny",
+    "rank": 15,
+    "tweet_count": "162K Tweets"
   },
   {
     "name": "Aboutaleb",
     "query": "Aboutaleb",
-    "rank": 13,
-    "tweet_count": "2,892 Tweets"
+    "rank": 16,
+    "tweet_count": "2,907 Tweets"
+  },
+  {
+    "name": "Ramsdale",
+    "query": "Ramsdale",
+    "rank": 17,
+    "tweet_count": "50.2K Tweets"
   },
   {
     "name": "Gasly",
     "query": "Gasly",
-    "rank": 14,
-    "tweet_count": "20K Tweets"
-  },
-  {
-    "name": "El Salvador",
-    "query": "\"El Salvador\"",
-    "rank": 15,
-    "tweet_count": "39.4K Tweets"
+    "rank": 18,
+    "tweet_count": "20.1K Tweets"
   },
   {
     "name": "Agnes Kant",
     "query": "\"Agnes Kant\"",
-    "rank": 16,
-    "tweet_count": "1,409 Tweets"
-  },
-  {
-    "name": "Mogguh",
-    "query": "Mogguh",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Jemen",
-    "query": "Jemen",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Leicester",
-    "query": "Leicester",
     "rank": 19,
-    "tweet_count": "89.5K Tweets"
+    "tweet_count": "1,431 Tweets"
   },
   {
-    "name": "Mogge",
-    "query": "Mogge",
+    "name": "El Salvador",
+    "query": "\"El Salvador\"",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "39.8K Tweets"
   }
 ]
