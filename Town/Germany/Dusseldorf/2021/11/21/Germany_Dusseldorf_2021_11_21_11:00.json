@@ -1,15 +1,15 @@
 [
   {
-    "name": "#SVWS04",
-    "query": "#SVWS04",
+    "name": "#svws04",
+    "query": "#svws04",
     "rank": 1,
-    "tweet_count": "6,395 Tweets"
+    "tweet_count": "6,411 Tweets"
   },
   {
     "name": "#Gesundheitsministerium",
     "query": "#Gesundheitsministerium",
     "rank": 2,
-    "tweet_count": "5,222 Tweets"
+    "tweet_count": "5,360 Tweets"
   },
   {
     "name": "#dopa",
@@ -18,16 +18,16 @@
     "tweet_count": null
   },
   {
-    "name": "Schönen Sonntag",
-    "query": "\"Schönen Sonntag\"",
-    "rank": 4,
-    "tweet_count": "4,090 Tweets"
-  },
-  {
     "name": "#Presseclub",
     "query": "#Presseclub",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "Schönen Sonntag",
+    "query": "\"Schönen Sonntag\"",
+    "rank": 5,
+    "tweet_count": "4,159 Tweets"
   },
   {
     "name": "#Totensonntag",
@@ -45,37 +45,37 @@
     "name": "Baerbock",
     "query": "Baerbock",
     "rank": 8,
-    "tweet_count": "5,340 Tweets"
+    "tweet_count": "5,418 Tweets"
   },
   {
     "name": "Manchester United",
     "query": "\"Manchester United\"",
     "rank": 9,
-    "tweet_count": "475K Tweets"
+    "tweet_count": "482K Tweets"
   },
   {
-    "name": "Schiedsrichter",
-    "query": "Schiedsrichter",
+    "name": "Verteidigung",
+    "query": "Verteidigung",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "#KeinLiberalerGM",
-    "query": "#KeinLiberalerGM",
+    "name": "Schiedsrichter",
+    "query": "Schiedsrichter",
     "rank": 11,
-    "tweet_count": "1,116 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Ampelkoalition",
     "query": "#Ampelkoalition",
     "rank": 12,
-    "tweet_count": "1,446 Tweets"
+    "tweet_count": "1,483 Tweets"
   },
   {
-    "name": "#Kimmich",
-    "query": "#Kimmich",
+    "name": "#KeinLiberalerGM",
+    "query": "#KeinLiberalerGM",
     "rank": 13,
-    "tweet_count": "2,388 Tweets"
+    "tweet_count": "1,211 Tweets"
   },
   {
     "name": "#Ewigkeitssonntag",
@@ -84,21 +84,27 @@
     "tweet_count": null
   },
   {
+    "name": "#Kimmich",
+    "query": "#Kimmich",
+    "rank": 15,
+    "tweet_count": "2,458 Tweets"
+  },
+  {
     "name": "#ONEPIECE1000",
     "query": "#ONEPIECE1000",
-    "rank": 15,
-    "tweet_count": "92.6K Tweets"
+    "rank": 16,
+    "tweet_count": "93.3K Tweets"
   },
   {
     "name": "#Moderna",
     "query": "#Moderna",
-    "rank": 16,
-    "tweet_count": "3,565 Tweets"
+    "rank": 17,
+    "tweet_count": "3,595 Tweets"
   },
   {
     "name": "#Biontech",
     "query": "#Biontech",
-    "rank": 17,
-    "tweet_count": "2,715 Tweets"
+    "rank": 18,
+    "tweet_count": "2,754 Tweets"
   }
 ]
