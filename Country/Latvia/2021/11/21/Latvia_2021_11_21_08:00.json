@@ -1,39 +1,39 @@
 [
   {
+    "name": "Lidl",
+    "query": "Lidl",
+    "rank": 1,
+    "tweet_count": "2,291 Tweets"
+  },
+  {
     "name": "Russia",
     "query": "Russia",
-    "rank": 1,
-    "tweet_count": "64.2K Tweets"
+    "rank": 2,
+    "tweet_count": "64.8K Tweets"
   },
   {
     "name": "nopietni",
     "query": "nopietni",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "austrijā",
     "query": "austrijā",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Kremļa",
     "query": "Kremļa",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "pasaules",
     "query": "pasaules",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Lidl",
-    "query": "Lidl",
     "rank": 6,
-    "tweet_count": "2,260 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#tonsilstones",
@@ -42,80 +42,80 @@
     "tweet_count": null
   },
   {
-    "name": "Tevi",
-    "query": "Tevi",
+    "name": "Tieši",
+    "query": "Tieši",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "mums",
-    "query": "mums",
+    "name": "Kāpēc",
+    "query": "Kāpēc",
     "rank": 9,
-    "tweet_count": "5,120 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Šajā",
-    "query": "Šajā",
+    "name": "Bija",
+    "query": "Bija",
     "rank": 10,
-    "tweet_count": "59.5K Tweets"
+    "tweet_count": "1,330 Tweets"
   },
   {
-    "name": "latvijā",
-    "query": "latvijā",
+    "name": "Tevi",
+    "query": "Tevi",
     "rank": 11,
     "tweet_count": null
   },
   {
+    "name": "Šajā",
+    "query": "Šajā",
+    "rank": 12,
+    "tweet_count": "60.2K Tweets"
+  },
+  {
     "name": "Lietuvā",
     "query": "Lietuvā",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "#NFTs",
     "query": "#NFTs",
-    "rank": 13,
-    "tweet_count": "434K Tweets"
-  },
-  {
-    "name": "Kāpēc",
-    "query": "Kāpēc",
     "rank": 14,
-    "tweet_count": null
+    "tweet_count": "439K Tweets"
   },
   {
-    "name": "liels",
-    "query": "liels",
+    "name": "Latvijā",
+    "query": "Latvijā",
     "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "vajag",
-    "query": "vajag",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Interesanti",
-    "query": "Interesanti",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Putins",
-    "query": "Putins",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Diemžēl",
-    "query": "Diemžēl",
-    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Galvenais",
     "query": "Galvenais",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "liels",
+    "query": "liels",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "vajag",
+    "query": "vajag",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Interesanti",
+    "query": "Interesanti",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Putins",
+    "query": "Putins",
     "rank": 20,
     "tweet_count": null
   }
