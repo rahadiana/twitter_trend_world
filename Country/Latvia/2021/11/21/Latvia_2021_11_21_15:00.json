@@ -1,21 +1,21 @@
 [
   {
-    "name": "Russia",
-    "query": "Russia",
-    "rank": 1,
-    "tweet_count": "64.9K Tweets"
-  },
-  {
     "name": "Lidl",
     "query": "Lidl",
-    "rank": 2,
-    "tweet_count": "2,394 Tweets"
+    "rank": 1,
+    "tweet_count": "2,454 Tweets"
   },
   {
     "name": "Neesmu",
     "query": "Neesmu",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "Russia",
+    "query": "Russia",
+    "rank": 3,
+    "tweet_count": "66.3K Tweets"
   },
   {
     "name": "austrijā",
@@ -27,7 +27,7 @@
     "name": "Ukraine",
     "query": "Ukraine",
     "rank": 5,
-    "tweet_count": "33.4K Tweets"
+    "tweet_count": "34.3K Tweets"
   },
   {
     "name": "kremļa",
@@ -45,7 +45,7 @@
     "name": "Pats",
     "query": "Pats",
     "rank": 8,
-    "tweet_count": "7,386 Tweets"
+    "tweet_count": "7,565 Tweets"
   },
   {
     "name": "#tonsilstones",
@@ -57,7 +57,7 @@
     "name": "IKEA",
     "query": "IKEA",
     "rank": 10,
-    "tweet_count": "31.8K Tweets"
+    "tweet_count": "32.2K Tweets"
   },
   {
     "name": "nopietni",
@@ -69,31 +69,31 @@
     "name": "#NFTs",
     "query": "#NFTs",
     "rank": 12,
-    "tweet_count": "421K Tweets"
-  },
-  {
-    "name": "Baltkrievijas",
-    "query": "Baltkrievijas",
-    "rank": 13,
-    "tweet_count": null
+    "tweet_count": "436K Tweets"
   },
   {
     "name": "Pasaules",
     "query": "Pasaules",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
-  },
-  {
-    "name": "šajā",
-    "query": "šajā",
-    "rank": 15,
-    "tweet_count": "60.3K Tweets"
   },
   {
     "name": "Labs",
     "query": "Labs",
+    "rank": 14,
+    "tweet_count": "14.3K Tweets"
+  },
+  {
+    "name": "Šajā",
+    "query": "Šajā",
+    "rank": 15,
+    "tweet_count": "61.9K Tweets"
+  },
+  {
+    "name": "Biju",
+    "query": "Biju",
     "rank": 16,
-    "tweet_count": "13.9K Tweets"
+    "tweet_count": "3,030 Tweets"
   },
   {
     "name": "Lietuvā",
@@ -105,18 +105,18 @@
     "name": "#crypto",
     "query": "#crypto",
     "rank": 18,
-    "tweet_count": "318K Tweets"
-  },
-  {
-    "name": "Biju",
-    "query": "Biju",
-    "rank": 19,
-    "tweet_count": "2,868 Tweets"
+    "tweet_count": "326K Tweets"
   },
   {
     "name": "#vintage",
     "query": "#vintage",
+    "rank": 19,
+    "tweet_count": "7,574 Tweets"
+  },
+  {
+    "name": "#vertigo",
+    "query": "#vertigo",
     "rank": 20,
-    "tweet_count": "7,422 Tweets"
+    "tweet_count": null
   }
 ]
