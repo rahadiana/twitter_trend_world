@@ -6,32 +6,32 @@
     "tweet_count": null
   },
   {
-    "name": "Vikes",
-    "query": "Vikes",
-    "rank": 2,
-    "tweet_count": "2,208 Tweets"
-  },
-  {
     "name": "Thielen",
     "query": "Thielen",
-    "rank": 3,
-    "tweet_count": "2,381 Tweets"
+    "rank": 2,
+    "tweet_count": "2,395 Tweets"
   },
   {
     "name": "Xavier Woods",
     "query": "\"Xavier Woods\"",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
+  },
+  {
+    "name": "Vikes",
+    "query": "Vikes",
+    "rank": 4,
+    "tweet_count": "2,230 Tweets"
   },
   {
     "name": "Davante Adams",
     "query": "\"Davante Adams\"",
     "rank": 5,
-    "tweet_count": "2,094 Tweets"
+    "tweet_count": "2,100 Tweets"
   },
   {
-    "name": "harrison smith",
-    "query": "\"harrison smith\"",
+    "name": "Harrison Smith",
+    "query": "\"Harrison Smith\"",
     "rank": 6,
     "tweet_count": null
   },
@@ -45,7 +45,7 @@
     "name": "Cook",
     "query": "Cook",
     "rank": 8,
-    "tweet_count": "69.5K Tweets"
+    "tweet_count": "69.9K Tweets"
   },
   {
     "name": "Kenny Clark",
@@ -66,57 +66,57 @@
     "tweet_count": null
   },
   {
-    "name": "Mason Cole",
-    "query": "\"Mason Cole\"",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
     "name": "Cowboys",
     "query": "Cowboys",
-    "rank": 13,
-    "tweet_count": "38.3K Tweets"
+    "rank": 12,
+    "tweet_count": "40K Tweets"
   },
   {
     "name": "Jonathan Taylor",
     "query": "\"Jonathan Taylor\"",
-    "rank": 14,
-    "tweet_count": "37.1K Tweets"
+    "rank": 13,
+    "tweet_count": "37.4K Tweets"
   },
   {
     "name": "#GBvsMIN",
     "query": "#GBvsMIN",
-    "rank": 15,
-    "tweet_count": "14.2K Tweets"
+    "rank": 14,
+    "tweet_count": "14.3K Tweets"
   },
   {
     "name": "#BALvsCHI",
     "query": "#BALvsCHI",
-    "rank": 16,
-    "tweet_count": "6,863 Tweets"
+    "rank": 15,
+    "tweet_count": "6,882 Tweets"
   },
   {
     "name": "Andy Dalton",
     "query": "\"Andy Dalton\"",
+    "rank": 16,
+    "tweet_count": "9,056 Tweets"
+  },
+  {
+    "name": "Baker",
+    "query": "Baker",
     "rank": 17,
-    "tweet_count": "9,029 Tweets"
+    "tweet_count": "35.6K Tweets"
   },
   {
-    "name": "#DETvsCLE",
-    "query": "#DETvsCLE",
+    "name": "Jalen",
+    "query": "Jalen",
     "rank": 18,
-    "tweet_count": "4,383 Tweets"
+    "tweet_count": "17.9K Tweets"
   },
   {
-    "name": "#NOvsPHI",
-    "query": "#NOvsPHI",
+    "name": "Sneed",
+    "query": "Sneed",
     "rank": 19,
-    "tweet_count": "16.1K Tweets"
+    "tweet_count": "2,427 Tweets"
   },
   {
-    "name": "Cam Newton",
-    "query": "\"Cam Newton\"",
+    "name": "Tannehill",
+    "query": "Tannehill",
     "rank": 20,
-    "tweet_count": "25.4K Tweets"
+    "tweet_count": "7,203 Tweets"
   }
 ]
