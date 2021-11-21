@@ -1,27 +1,27 @@
 [
   {
+    "name": "Gus Johnson",
+    "query": "\"Gus Johnson\"",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "Wyatt Teller",
     "query": "\"Wyatt Teller\"",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Jarvis",
     "query": "Jarvis",
-    "rank": 2,
-    "tweet_count": "5,221 Tweets"
-  },
-  {
-    "name": "Denzel Ward",
-    "query": "\"Denzel Ward\"",
     "rank": 3,
-    "tweet_count": null
+    "tweet_count": "5,267 Tweets"
   },
   {
-    "name": "The Warden",
-    "query": "\"The Warden\"",
+    "name": "Felton",
+    "query": "Felton",
     "rank": 4,
-    "tweet_count": "1,935 Tweets"
+    "tweet_count": "1,598 Tweets"
   },
   {
     "name": "Clowney",
@@ -33,84 +33,84 @@
     "name": "Detroit",
     "query": "Detroit",
     "rank": 6,
-    "tweet_count": "17.3K Tweets"
+    "tweet_count": "17.5K Tweets"
+  },
+  {
+    "name": "Dan Campbell",
+    "query": "\"Dan Campbell\"",
+    "rank": 7,
+    "tweet_count": null
   },
   {
     "name": "Hooper",
     "query": "Hooper",
-    "rank": 7,
-    "tweet_count": "1,849 Tweets"
+    "rank": 8,
+    "tweet_count": "1,867 Tweets"
   },
   {
     "name": "Higgins",
     "query": "Higgins",
-    "rank": 8,
-    "tweet_count": "3,858 Tweets"
+    "rank": 9,
+    "tweet_count": "3,895 Tweets"
   },
   {
     "name": "Bradley",
     "query": "Bradley",
-    "rank": 9,
-    "tweet_count": "9,589 Tweets"
+    "rank": 10,
+    "tweet_count": "9,684 Tweets"
   },
   {
     "name": "Juice",
     "query": "Juice",
-    "rank": 10,
-    "tweet_count": "38.5K Tweets"
+    "rank": 11,
+    "tweet_count": "38.9K Tweets"
   },
   {
     "name": "Njoku",
     "query": "Njoku",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Who Dey",
     "query": "\"Who Dey\"",
-    "rank": 12,
-    "tweet_count": "4,322 Tweets"
+    "rank": 13,
+    "tweet_count": "4,375 Tweets"
   },
   {
     "name": "Hollywood",
     "query": "Hollywood",
-    "rank": 13,
-    "tweet_count": "71.4K Tweets"
+    "rank": 14,
+    "tweet_count": "72.3K Tweets"
   },
   {
     "name": "#INDvsBUF",
     "query": "#INDvsBUF",
-    "rank": 14,
-    "tweet_count": "5,267 Tweets"
-  },
-  {
-    "name": "#BALvsCHI",
-    "query": "#BALvsCHI",
     "rank": 15,
-    "tweet_count": "4,425 Tweets"
-  },
-  {
-    "name": "#BALvsCHI",
-    "query": "#BALvsCHI",
-    "rank": 16,
-    "tweet_count": "4,425 Tweets"
+    "tweet_count": "5,419 Tweets"
   },
   {
     "name": "#GBvsMIN",
     "query": "#GBvsMIN",
-    "rank": 17,
-    "tweet_count": "8,710 Tweets"
+    "rank": 16,
+    "tweet_count": "9,545 Tweets"
   },
   {
     "name": "#DETvsCLE",
     "query": "#DETvsCLE",
-    "rank": 18,
-    "tweet_count": "3,500 Tweets"
+    "rank": 17,
+    "tweet_count": "3,730 Tweets"
   },
   {
-    "name": "Cam Newton",
-    "query": "\"Cam Newton\"",
+    "name": "Titans",
+    "query": "Titans",
+    "rank": 18,
+    "tweet_count": "37.9K Tweets"
+  },
+  {
+    "name": "#BALvsCHI",
+    "query": "#BALvsCHI",
     "rank": 19,
-    "tweet_count": "21.7K Tweets"
+    "tweet_count": "4,588 Tweets"
   }
 ]
