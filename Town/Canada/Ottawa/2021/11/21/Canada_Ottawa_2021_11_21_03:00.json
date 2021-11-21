@@ -1,110 +1,116 @@
 [
   {
-    "name": "Pens",
-    "query": "Pens",
-    "rank": 1,
-    "tweet_count": "9,364 Tweets"
-  },
-  {
-    "name": "Simmonds",
-    "query": "Simmonds",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
     "name": "Penguins",
     "query": "Penguins",
-    "rank": 3,
-    "tweet_count": "9,476 Tweets"
+    "rank": 1,
+    "tweet_count": "9,869 Tweets"
+  },
+  {
+    "name": "Tavares",
+    "query": "Tavares",
+    "rank": 2,
+    "tweet_count": "20.7K Tweets"
   },
   {
     "name": "#ticats",
     "query": "#ticats",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#GoHabsGo",
     "query": "#GoHabsGo",
-    "rank": 5,
-    "tweet_count": "3,934 Tweets"
+    "rank": 4,
+    "tweet_count": "4,248 Tweets"
   },
   {
     "name": "Duchene",
     "query": "Duchene",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Muzzin",
     "query": "Muzzin",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
-    "name": "#UFCVegas43",
-    "query": "#UFCVegas43",
-    "rank": 8,
-    "tweet_count": "26.4K Tweets"
-  },
-  {
-    "name": "Jarry",
-    "query": "Jarry",
-    "rank": 9,
-    "tweet_count": "1,936 Tweets"
-  },
-  {
-    "name": "Fix You",
-    "query": "\"Fix You\"",
-    "rank": 10,
-    "tweet_count": "29.8K Tweets"
-  },
-  {
-    "name": "Nashville",
-    "query": "Nashville",
-    "rank": 11,
-    "tweet_count": "8,705 Tweets"
-  },
-  {
-    "name": "Josh Anderson",
-    "query": "\"Josh Anderson\"",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Montembeault",
-    "query": "Montembeault",
-    "rank": 13,
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "#ONEPIECE1000",
     "query": "#ONEPIECE1000",
+    "rank": 7,
+    "tweet_count": "47.6K Tweets"
+  },
+  {
+    "name": "Bunting",
+    "query": "Bunting",
+    "rank": 8,
+    "tweet_count": "1,491 Tweets"
+  },
+  {
+    "name": "Jarry",
+    "query": "Jarry",
+    "rank": 9,
+    "tweet_count": "2,060 Tweets"
+  },
+  {
+    "name": "#UFCVegas43",
+    "query": "#UFCVegas43",
+    "rank": 10,
+    "tweet_count": "26.6K Tweets"
+  },
+  {
+    "name": "Montembeault",
+    "query": "Montembeault",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "Nashville",
+    "query": "Nashville",
+    "rank": 12,
+    "tweet_count": "8,865 Tweets"
+  },
+  {
+    "name": "Project L",
+    "query": "\"Project L\"",
+    "rank": 13,
+    "tweet_count": "19.2K Tweets"
+  },
+  {
+    "name": "Josh Anderson",
+    "query": "\"Josh Anderson\"",
     "rank": 14,
-    "tweet_count": "42.9K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Islanders",
     "query": "Islanders",
     "rank": 15,
-    "tweet_count": "5,206 Tweets"
+    "tweet_count": "5,336 Tweets"
   },
   {
-    "name": "Project L",
-    "query": "\"Project L\"",
+    "name": "Bombers",
+    "query": "Bombers",
     "rank": 16,
-    "tweet_count": "18.5K Tweets"
+    "tweet_count": "3,120 Tweets"
   },
   {
-    "name": "#ForTheW",
-    "query": "#ForTheW",
+    "name": "#VWFC",
+    "query": "#VWFC",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "1,384 Tweets"
   },
   {
-    "name": "Chiesa",
-    "query": "Chiesa",
+    "name": "Monty",
+    "query": "Monty",
     "rank": 18,
-    "tweet_count": "8,305 Tweets"
+    "tweet_count": "7,180 Tweets"
+  },
+  {
+    "name": "Simmonds",
+    "query": "Simmonds",
+    "rank": 19,
+    "tweet_count": null
   }
 ]
