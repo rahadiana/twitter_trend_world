@@ -6,34 +6,34 @@
     "tweet_count": "37.7K Tweets"
   },
   {
-    "name": "demo",
-    "query": "demo",
+    "name": "Demo",
+    "query": "Demo",
     "rank": 2,
-    "tweet_count": "59.3K Tweets"
+    "tweet_count": "59.5K Tweets"
+  },
+  {
+    "name": "#MaskedSinger",
+    "query": "#MaskedSinger",
+    "rank": 3,
+    "tweet_count": "6,320 Tweets"
   },
   {
     "name": "#lockdown",
     "query": "#lockdown",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": "21.8K Tweets"
   },
   {
-    "name": "#maskedsinger",
-    "query": "#maskedsinger",
-    "rank": 4,
-    "tweet_count": "6,319 Tweets"
+    "name": "Diktatur",
+    "query": "Diktatur",
+    "rank": 5,
+    "tweet_count": "6,232 Tweets"
   },
   {
     "name": "#scralt",
     "query": "#scralt",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "diktatur",
-    "query": "diktatur",
     "rank": 6,
-    "tweet_count": "6,230 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Impfpflicht",
@@ -45,13 +45,13 @@
     "name": "Schulen",
     "query": "Schulen",
     "rank": 8,
-    "tweet_count": "7,438 Tweets"
+    "tweet_count": "7,442 Tweets"
   },
   {
     "name": "heldenplatz",
     "query": "heldenplatz",
     "rank": 9,
-    "tweet_count": "2,513 Tweets"
+    "tweet_count": "2,517 Tweets"
   },
   {
     "name": "Körperöffnungen",
@@ -66,14 +66,14 @@
     "tweet_count": null
   },
   {
-    "name": "hubschrauber",
-    "query": "hubschrauber",
+    "name": "Hubschrauber",
+    "query": "Hubschrauber",
     "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "narren",
-    "query": "narren",
+    "name": "Narren",
+    "query": "Narren",
     "rank": 13,
     "tweet_count": null
   },
@@ -84,22 +84,22 @@
     "tweet_count": "1,802 Tweets"
   },
   {
-    "name": "innenstadt",
-    "query": "innenstadt",
+    "name": "Wasserwerfer",
+    "query": "Wasserwerfer",
     "rank": 15,
-    "tweet_count": "2,021 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "wasserwerfer",
-    "query": "wasserwerfer",
+    "name": "Innenstadt",
+    "query": "Innenstadt",
     "rank": 16,
-    "tweet_count": null
+    "tweet_count": "2,022 Tweets"
   },
   {
     "name": "Neonazis",
     "query": "Neonazis",
     "rank": 17,
-    "tweet_count": "6,486 Tweets"
+    "tweet_count": "6,497 Tweets"
   },
   {
     "name": "Kanaldeckel",
@@ -114,8 +114,8 @@
     "tweet_count": "1,125 Tweets"
   },
   {
-    "name": "Mitte der Gesellschaft",
-    "query": "\"Mitte der Gesellschaft\"",
+    "name": "mitte der gesellschaft",
+    "query": "\"mitte der gesellschaft\"",
     "rank": 20,
     "tweet_count": null
   }
