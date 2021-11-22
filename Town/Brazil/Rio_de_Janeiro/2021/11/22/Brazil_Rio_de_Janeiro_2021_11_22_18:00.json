@@ -1,69 +1,69 @@
 [
   {
-    "name": "Copa do Brasil",
-    "query": "\"Copa do Brasil\"",
-    "rank": 1,
-    "tweet_count": "7,940 Tweets"
-  },
-  {
     "name": "México",
     "query": "México",
+    "rank": 1,
+    "tweet_count": "224K Tweets"
+  },
+  {
+    "name": "Champions",
+    "query": "Champions",
     "rank": 2,
-    "tweet_count": "218K Tweets"
+    "tweet_count": "80.1K Tweets"
+  },
+  {
+    "name": "Copa do Brasil",
+    "query": "\"Copa do Brasil\"",
+    "rank": 3,
+    "tweet_count": "8,074 Tweets"
   },
   {
     "name": "Lukaku",
     "query": "Lukaku",
-    "rank": 3,
-    "tweet_count": "6,178 Tweets"
+    "rank": 4,
+    "tweet_count": "6,518 Tweets"
+  },
+  {
+    "name": "Interpol",
+    "query": "Interpol",
+    "rank": 5,
+    "tweet_count": "14.2K Tweets"
+  },
+  {
+    "name": "Kerem",
+    "query": "Kerem",
+    "rank": 6,
+    "tweet_count": "24.2K Tweets"
   },
   {
     "name": "#UFVtaosso",
     "query": "#UFVtaosso",
-    "rank": 4,
-    "tweet_count": "12.1K Tweets"
+    "rank": 7,
+    "tweet_count": "12.3K Tweets"
+  },
+  {
+    "name": "Bruyne",
+    "query": "Bruyne",
+    "rank": 8,
+    "tweet_count": "5,849 Tweets"
   },
   {
     "name": "#F90BR",
     "query": "#F90BR",
-    "rank": 5,
+    "rank": 9,
     "tweet_count": null
-  },
-  {
-    "name": "De Bruyne",
-    "query": "\"De Bruyne\"",
-    "rank": 6,
-    "tweet_count": "5,115 Tweets"
-  },
-  {
-    "name": "Independiente",
-    "query": "Independiente",
-    "rank": 7,
-    "tweet_count": "21.3K Tweets"
   },
   {
     "name": "San Lorenzo",
     "query": "\"San Lorenzo\"",
-    "rank": 8,
-    "tweet_count": "4,425 Tweets"
-  },
-  {
-    "name": "The Best",
-    "query": "\"The Best\"",
-    "rank": 9,
-    "tweet_count": "1.93M Tweets"
-  },
-  {
-    "name": "PREVISÕES COM KIMARISES",
-    "query": "\"PREVISÕES COM KIMARISES\"",
     "rank": 10,
-    "tweet_count": "9,712 Tweets"
+    "tweet_count": "4,523 Tweets"
   },
   {
-    "name": "Lewa",
-    "query": "Lewa",
+    "name": "Independiente",
+    "query": "Independiente",
     "rank": 11,
-    "tweet_count": "2,192 Tweets"
+    "tweet_count": "21.9K Tweets"
   },
   {
     "name": "#chegayoutube",
@@ -72,51 +72,51 @@
     "tweet_count": null
   },
   {
-    "name": "R$9,00",
-    "query": "R$9,00",
+    "name": "Lewa",
+    "query": "Lewa",
     "rank": 13,
-    "tweet_count": "4,175 Tweets"
+    "tweet_count": "2,353 Tweets"
+  },
+  {
+    "name": "The Best",
+    "query": "\"The Best\"",
+    "rank": 14,
+    "tweet_count": "1.55M Tweets"
   },
   {
     "name": "Mendy",
     "query": "Mendy",
-    "rank": 14,
-    "tweet_count": "13.2K Tweets"
-  },
-  {
-    "name": "#YanınaKalmayacak",
-    "query": "#YanınaKalmayacak",
     "rank": 15,
-    "tweet_count": "41.3K Tweets"
+    "tweet_count": "13.9K Tweets"
   },
   {
-    "name": "Time Warp",
-    "query": "\"Time Warp\"",
+    "name": "PREVISÕES COM KIMARISES",
+    "query": "\"PREVISÕES COM KIMARISES\"",
     "rank": 16,
-    "tweet_count": null
+    "tweet_count": "9,692 Tweets"
   },
   {
-    "name": "River",
-    "query": "River",
+    "name": "Paulo Paixão",
+    "query": "\"Paulo Paixão\"",
     "rank": 17,
-    "tweet_count": "104K Tweets"
-  },
-  {
-    "name": "Interpol",
-    "query": "Interpol",
-    "rank": 18,
-    "tweet_count": "13.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#SelecaoSportv",
     "query": "#SelecaoSportv",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "Freddie",
-    "query": "Freddie",
+    "name": "#YanınaKalmayacak",
+    "query": "#YanınaKalmayacak",
+    "rank": 19,
+    "tweet_count": "46.1K Tweets"
+  },
+  {
+    "name": "Time Warp",
+    "query": "\"Time Warp\"",
     "rank": 20,
-    "tweet_count": "19.5K Tweets"
+    "tweet_count": null
   }
 ]
