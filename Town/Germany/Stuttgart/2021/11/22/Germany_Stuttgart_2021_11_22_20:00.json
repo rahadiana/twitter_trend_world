@@ -1,25 +1,25 @@
 [
   {
+    "name": "#hartaberfair",
+    "query": "#hartaberfair",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "#AdamsuchtEva",
     "query": "#AdamsuchtEva",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#bauersuchtfrau",
     "query": "#bauersuchtfrau",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#goodbyedeutschland",
     "query": "#goodbyedeutschland",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "#hartaberfair",
-    "query": "#hartaberfair",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,25 +27,25 @@
     "name": "Drogen",
     "query": "Drogen",
     "rank": 5,
-    "tweet_count": "2,300 Tweets"
-  },
-  {
-    "name": "Herr Söder",
-    "query": "\"Herr Söder\"",
-    "rank": 6,
-    "tweet_count": "1,004 Tweets"
+    "tweet_count": "2,337 Tweets"
   },
   {
     "name": "Winters",
     "query": "Winters",
+    "rank": 6,
+    "tweet_count": "7,040 Tweets"
+  },
+  {
+    "name": "Herr Söder",
+    "query": "\"Herr Söder\"",
     "rank": 7,
-    "tweet_count": "6,894 Tweets"
+    "tweet_count": "1,025 Tweets"
   },
   {
     "name": "Markus",
     "query": "Markus",
     "rank": 8,
-    "tweet_count": "20.7K Tweets"
+    "tweet_count": "21.1K Tweets"
   },
   {
     "name": "Einzelfälle",
@@ -60,22 +60,22 @@
     "tweet_count": null
   },
   {
+    "name": "#wirwollenKarl",
+    "query": "#wirwollenKarl",
+    "rank": 11,
+    "tweet_count": "9,873 Tweets"
+  },
+  {
     "name": "#BaywatchBerlin",
     "query": "#BaywatchBerlin",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "#Polizeiproblem",
     "query": "#Polizeiproblem",
-    "rank": 12,
-    "tweet_count": "1,088 Tweets"
-  },
-  {
-    "name": "#wirwollenKarl",
-    "query": "#wirwollenKarl",
     "rank": 13,
-    "tweet_count": "9,646 Tweets"
+    "tweet_count": "1,129 Tweets"
   },
   {
     "name": "#Kretschmann",
@@ -90,27 +90,27 @@
     "tweet_count": null
   },
   {
-    "name": "#firstdates",
-    "query": "#firstdates",
+    "name": "#FirstDates",
+    "query": "#FirstDates",
     "rank": 16,
-    "tweet_count": "1,385 Tweets"
+    "tweet_count": "1,393 Tweets"
+  },
+  {
+    "name": "#svmvik",
+    "query": "#svmvik",
+    "rank": 17,
+    "tweet_count": null
   },
   {
     "name": "#Weihnachtsmarkt",
     "query": "#Weihnachtsmarkt",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "#Polizeigewalt",
     "query": "#Polizeigewalt",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "#Krankmeldung",
-    "query": "#Krankmeldung",
     "rank": 19,
-    "tweet_count": "1,881 Tweets"
+    "tweet_count": null
   }
 ]
