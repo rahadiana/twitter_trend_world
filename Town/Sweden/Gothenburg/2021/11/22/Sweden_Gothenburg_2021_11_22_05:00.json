@@ -1,9 +1,9 @@
 [
   {
-    "name": "#AMAs",
-    "query": "#AMAs",
+    "name": "AMAs",
+    "query": "AMAs",
     "rank": 1,
-    "tweet_count": "3.2M Tweets"
+    "tweet_count": "3.27M Tweets"
   },
   {
     "name": "Sverige 2021",
@@ -24,10 +24,10 @@
     "tweet_count": null
   },
   {
-    "name": "bulan",
-    "query": "bulan",
+    "name": "Bulan",
+    "query": "Bulan",
     "rank": 5,
-    "tweet_count": "85.6K Tweets"
+    "tweet_count": "86.8K Tweets"
   },
   {
     "name": "Varberg",
@@ -51,7 +51,7 @@
     "name": "#Agenda",
     "query": "#Agenda",
     "rank": 9,
-    "tweet_count": "1,054 Tweets"
+    "tweet_count": "1,059 Tweets"
   },
   {
     "name": "Degerfors",
@@ -63,7 +63,7 @@
     "name": "#watmun",
     "query": "#watmun",
     "rank": 11,
-    "tweet_count": "5,419 Tweets"
+    "tweet_count": "5,427 Tweets"
   },
   {
     "name": "elfsborg",
@@ -75,7 +75,7 @@
     "name": "Carrick",
     "query": "Carrick",
     "rank": 13,
-    "tweet_count": "92.6K Tweets"
+    "tweet_count": "92.7K Tweets"
   },
   {
     "name": "akropolis",
@@ -87,7 +87,7 @@
     "name": "Paulinho",
     "query": "Paulinho",
     "rank": 15,
-    "tweet_count": "1,437 Tweets"
+    "tweet_count": "1,441 Tweets"
   },
   {
     "name": "HTFF",
@@ -102,21 +102,21 @@
     "tweet_count": "11.5K Tweets"
   },
   {
+    "name": "#bajen",
+    "query": "#bajen",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
     "name": "Cancelo",
     "query": "Cancelo",
-    "rank": 18,
-    "tweet_count": "58.6K Tweets"
+    "rank": 19,
+    "tweet_count": "58.8K Tweets"
   },
   {
     "name": "halmstad",
     "query": "halmstad",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Rittenhouse",
-    "query": "Rittenhouse",
     "rank": 20,
-    "tweet_count": "521K Tweets"
+    "tweet_count": null
   }
 ]

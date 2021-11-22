@@ -1,39 +1,39 @@
 [
   {
-    "name": "#AMAs",
-    "query": "#AMAs",
+    "name": "AMAs",
+    "query": "AMAs",
     "rank": 1,
-    "tweet_count": "3.2M Tweets"
-  },
-  {
-    "name": "ARTIST OF THE YEAR",
-    "query": "\"ARTIST OF THE YEAR\"",
-    "rank": 2,
-    "tweet_count": "1.93M Tweets"
-  },
-  {
-    "name": "#AMAsBTS",
-    "query": "#AMAsBTS",
-    "rank": 3,
-    "tweet_count": "334K Tweets"
+    "tweet_count": "3.28M Tweets"
   },
   {
     "name": "#الحب_وش_طعمه",
     "query": "#الحب_وش_طعمه",
-    "rank": 4,
-    "tweet_count": "29.7K Tweets"
+    "rank": 2,
+    "tweet_count": "29.8K Tweets"
   },
   {
     "name": "#مليونيه21نوفمبر",
     "query": "#مليونيه21نوفمبر",
-    "rank": 5,
+    "rank": 3,
     "tweet_count": "104K Tweets"
+  },
+  {
+    "name": "#AMAs",
+    "query": "#AMAs",
+    "rank": 4,
+    "tweet_count": "3.07M Tweets"
   },
   {
     "name": "#الجزيره_العين",
     "query": "#الجزيره_العين",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "#AMAs2021",
+    "query": "#AMAs2021",
+    "rank": 6,
+    "tweet_count": "391K Tweets"
   },
   {
     "name": "النصر",
@@ -57,13 +57,13 @@
     "name": "مهدي علي",
     "query": "\"مهدي علي\"",
     "rank": 10,
-    "tweet_count": "2,203 Tweets"
+    "tweet_count": "2,216 Tweets"
   },
   {
     "name": "نابولي",
     "query": "نابولي",
     "rank": 11,
-    "tweet_count": "7,251 Tweets"
+    "tweet_count": "7,261 Tweets"
   },
   {
     "name": "مدريد",
@@ -75,48 +75,48 @@
     "name": "Conte",
     "query": "Conte",
     "rank": 13,
-    "tweet_count": "54.8K Tweets"
+    "tweet_count": "55K Tweets"
   },
   {
     "name": "fletcher",
     "query": "fletcher",
     "rank": 14,
-    "tweet_count": "41.6K Tweets"
-  },
-  {
-    "name": "الاتفاق السياسي",
-    "query": "\"الاتفاق السياسي\"",
-    "rank": 15,
-    "tweet_count": "6,699 Tweets"
+    "tweet_count": "41.7K Tweets"
   },
   {
     "name": "Maguire",
     "query": "Maguire",
-    "rank": 16,
-    "tweet_count": "54.5K Tweets"
+    "rank": 15,
+    "tweet_count": "54.6K Tweets"
   },
   {
     "name": "الغساني",
     "query": "الغساني",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Manchester United",
     "query": "\"Manchester United\"",
-    "rank": 18,
-    "tweet_count": "331K Tweets"
+    "rank": 17,
+    "tweet_count": "332K Tweets"
   },
   {
-    "name": "bottas",
-    "query": "bottas",
-    "rank": 19,
+    "name": "Bottas",
+    "query": "Bottas",
+    "rank": 18,
     "tweet_count": "69.5K Tweets"
   },
   {
     "name": "الشوط الثاني",
     "query": "\"الشوط الثاني\"",
+    "rank": 19,
+    "tweet_count": "2,341 Tweets"
+  },
+  {
+    "name": "الاتفاق السياسي",
+    "query": "\"الاتفاق السياسي\"",
     "rank": 20,
-    "tweet_count": "2,340 Tweets"
+    "tweet_count": "6,720 Tweets"
   }
 ]
