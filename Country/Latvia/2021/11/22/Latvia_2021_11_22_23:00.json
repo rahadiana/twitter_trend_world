@@ -18,20 +18,20 @@
     "tweet_count": null
   },
   {
+    "name": "Ukraine",
+    "query": "Ukraine",
+    "rank": 4,
+    "tweet_count": "36.2K Tweets"
+  },
+  {
     "name": "cerams",
     "query": "cerams",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "Ukraine",
-    "query": "Ukraine",
-    "rank": 5,
-    "tweet_count": "36K Tweets"
-  },
-  {
-    "name": "krievija",
-    "query": "krievija",
+    "name": "Krievija",
+    "query": "Krievija",
     "rank": 6,
     "tweet_count": null
   },
@@ -72,14 +72,14 @@
     "tweet_count": null
   },
   {
-    "name": "rīgai",
-    "query": "rīgai",
+    "name": "Rīgai",
+    "query": "Rīgai",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "kremļa",
-    "query": "kremļa",
+    "name": "Kremļa",
+    "query": "Kremļa",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,17 +87,17 @@
     "name": "Tommy",
     "query": "Tommy",
     "rank": 15,
-    "tweet_count": "42.4K Tweets"
+    "tweet_count": "42.9K Tweets"
   },
   {
     "name": "Russia",
     "query": "Russia",
     "rank": 16,
-    "tweet_count": "94.3K Tweets"
+    "tweet_count": "94.8K Tweets"
   },
   {
-    "name": "Principā",
-    "query": "Principā",
+    "name": "principā",
+    "query": "principā",
     "rank": 17,
     "tweet_count": null
   },
@@ -108,15 +108,15 @@
     "tweet_count": "11.7K Tweets"
   },
   {
-    "name": "#florbols",
-    "query": "#florbols",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
     "name": "Putin",
     "query": "Putin",
+    "rank": 19,
+    "tweet_count": "31K Tweets"
+  },
+  {
+    "name": "#florbols",
+    "query": "#florbols",
     "rank": 20,
-    "tweet_count": "30.9K Tweets"
+    "tweet_count": null
   }
 ]
