@@ -1,57 +1,57 @@
 [
   {
-    "name": "#Insecure",
-    "query": "#Insecure",
+    "name": "#insecure",
+    "query": "#insecure",
     "rank": 1,
-    "tweet_count": "15.2K Tweets"
+    "tweet_count": "15.3K Tweets"
   },
   {
     "name": "#Succession",
     "query": "#Succession",
     "rank": 2,
-    "tweet_count": "6,583 Tweets"
+    "tweet_count": "6,624 Tweets"
   },
   {
     "name": "Chargers",
     "query": "Chargers",
     "rank": 3,
-    "tweet_count": "69.5K Tweets"
+    "tweet_count": "69.9K Tweets"
   },
   {
     "name": "#AMAs",
     "query": "#AMAs",
     "rank": 4,
-    "tweet_count": "7.38M Tweets"
+    "tweet_count": "6.7M Tweets"
   },
   {
     "name": "#RHOP",
     "query": "#RHOP",
     "rank": 5,
-    "tweet_count": "68.3K Tweets"
+    "tweet_count": "68.6K Tweets"
   },
   {
     "name": "#MondayMotivation",
     "query": "#MondayMotivation",
     "rank": 6,
-    "tweet_count": "56.6K Tweets"
+    "tweet_count": "57.7K Tweets"
   },
   {
     "name": "Thanksgiving",
     "query": "Thanksgiving",
     "rank": 7,
-    "tweet_count": "222K Tweets"
+    "tweet_count": "227K Tweets"
   },
   {
     "name": "Powell",
     "query": "Powell",
     "rank": 8,
-    "tweet_count": "25.5K Tweets"
+    "tweet_count": "26.7K Tweets"
   },
   {
     "name": "Waukesha",
     "query": "Waukesha",
     "rank": 9,
-    "tweet_count": "412K Tweets"
+    "tweet_count": "421K Tweets"
   },
   {
     "name": "Devil in a New Dress",
@@ -63,59 +63,59 @@
     "name": "George Clooney",
     "query": "\"George Clooney\"",
     "rank": 11,
-    "tweet_count": "1,340 Tweets"
+    "tweet_count": "1,513 Tweets"
+  },
+  {
+    "name": "Linda Dunikoski",
+    "query": "\"Linda Dunikoski\"",
+    "rank": 12,
+    "tweet_count": null
   },
   {
     "name": "Baba Suwe",
     "query": "\"Baba Suwe\"",
-    "rank": 12,
-    "tweet_count": "4,569 Tweets"
+    "rank": 13,
+    "tweet_count": "5,357 Tweets"
   },
   {
     "name": "Sagittarius",
     "query": "Sagittarius",
-    "rank": 13,
-    "tweet_count": "79.3K Tweets"
+    "rank": 14,
+    "tweet_count": "80.7K Tweets"
   },
   {
     "name": "Black Friday",
     "query": "\"Black Friday\"",
-    "rank": 14,
-    "tweet_count": "168K Tweets"
-  },
-  {
-    "name": "President John F. Kennedy",
-    "query": "\"President John F. Kennedy\"",
     "rank": 15,
-    "tweet_count": "4,362 Tweets"
+    "tweet_count": "170K Tweets"
   },
   {
-    "name": "Yun Jin",
-    "query": "\"Yun Jin\"",
+    "name": "president john f. kennedy",
+    "query": "\"president john f. kennedy\"",
     "rank": 16,
-    "tweet_count": "44.7K Tweets"
-  },
-  {
-    "name": "Shenhe",
-    "query": "Shenhe",
-    "rank": 17,
-    "tweet_count": "120K Tweets"
+    "tweet_count": "4,630 Tweets"
   },
   {
     "name": "Poch",
     "query": "Poch",
-    "rank": 18,
-    "tweet_count": "27.7K Tweets"
+    "rank": 17,
+    "tweet_count": "28.6K Tweets"
   },
   {
     "name": "Tucker Carlson",
     "query": "\"Tucker Carlson\"",
-    "rank": 19,
-    "tweet_count": "68.2K Tweets"
+    "rank": 18,
+    "tweet_count": "69.3K Tweets"
   },
   {
-    "name": "Eric Bledsoe",
-    "query": "\"Eric Bledsoe\"",
+    "name": "Yun Jin",
+    "query": "\"Yun Jin\"",
+    "rank": 19,
+    "tweet_count": "32.9K Tweets"
+  },
+  {
+    "name": "Alex Cora",
+    "query": "\"Alex Cora\"",
     "rank": 20,
     "tweet_count": null
   }
