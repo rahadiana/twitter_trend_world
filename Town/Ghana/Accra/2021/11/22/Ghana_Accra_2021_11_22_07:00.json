@@ -1,25 +1,25 @@
 [
   {
+    "name": "Legend",
+    "query": "Legend",
+    "rank": 1,
+    "tweet_count": "251K Tweets"
+  },
+  {
     "name": "Lebron",
     "query": "Lebron",
-    "rank": 1,
-    "tweet_count": "237K Tweets"
+    "rank": 2,
+    "tweet_count": "238K Tweets"
   },
   {
     "name": "#RoyalSports",
     "query": "#RoyalSports",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#joysms",
     "query": "#joysms",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "#RYSENSHYNE",
-    "query": "#RYSENSHYNE",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,85 +27,85 @@
     "name": "#GDIW21",
     "query": "#GDIW21",
     "rank": 5,
-    "tweet_count": "3,267 Tweets"
+    "tweet_count": "4,111 Tweets"
+  },
+  {
+    "name": "#rysenshyne",
+    "query": "#rysenshyne",
+    "rank": 6,
+    "tweet_count": null
   },
   {
     "name": "#MondayMotivation",
     "query": "#MondayMotivation",
-    "rank": 6,
-    "tweet_count": "19.3K Tweets"
-  },
-  {
-    "name": "Manchester United",
-    "query": "\"Manchester United\"",
     "rank": 7,
-    "tweet_count": "311K Tweets"
+    "tweet_count": "20.1K Tweets"
   },
   {
     "name": "Carrick",
     "query": "Carrick",
     "rank": 8,
-    "tweet_count": "80.3K Tweets"
-  },
-  {
-    "name": "Legend",
-    "query": "Legend",
-    "rank": 9,
-    "tweet_count": "250K Tweets"
+    "tweet_count": "80.6K Tweets"
   },
   {
     "name": "Fletcher",
     "query": "Fletcher",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": "27.2K Tweets"
+  },
+  {
+    "name": "Manchester United",
+    "query": "\"Manchester United\"",
+    "rank": 10,
+    "tweet_count": "312K Tweets"
   },
   {
     "name": "Gyan",
     "query": "Gyan",
     "rank": 11,
-    "tweet_count": "35.8K Tweets"
+    "tweet_count": "36.4K Tweets"
   },
   {
     "name": "Cancelo",
     "query": "Cancelo",
     "rank": 12,
-    "tweet_count": "59.5K Tweets"
+    "tweet_count": "59.6K Tweets"
   },
   {
     "name": "accra aca",
     "query": "\"accra aca\"",
     "rank": 13,
-    "tweet_count": "2,269 Tweets"
+    "tweet_count": "2,279 Tweets"
   },
   {
     "name": "Chelsea",
     "query": "Chelsea",
     "rank": 14,
-    "tweet_count": "89.8K Tweets"
-  },
-  {
-    "name": "samuel boadu",
-    "query": "\"samuel boadu\"",
-    "rank": 15,
-    "tweet_count": null
+    "tweet_count": "90.4K Tweets"
   },
   {
     "name": "Roma",
     "query": "Roma",
+    "rank": 15,
+    "tweet_count": "70.2K Tweets"
+  },
+  {
+    "name": "samuel boadu",
+    "query": "\"samuel boadu\"",
     "rank": 16,
-    "tweet_count": "69.7K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Prempeh",
     "query": "Prempeh",
     "rank": 17,
-    "tweet_count": "7,459 Tweets"
+    "tweet_count": "7,475 Tweets"
   },
   {
     "name": "kass",
     "query": "kass",
     "rank": 18,
-    "tweet_count": "5,763 Tweets"
+    "tweet_count": "5,774 Tweets"
   },
   {
     "name": "Bottas",
@@ -117,6 +117,6 @@
     "name": "Westbrook",
     "query": "Westbrook",
     "rank": 20,
-    "tweet_count": "28.8K Tweets"
+    "tweet_count": "29K Tweets"
   }
 ]
