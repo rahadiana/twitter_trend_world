@@ -6,56 +6,56 @@
     "tweet_count": null
   },
   {
-    "name": "ماستر اوف",
-    "query": "\"ماستر اوف\"",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
     "name": "الاهلي",
     "query": "الاهلي",
+    "rank": 2,
+    "tweet_count": "120K Tweets"
+  },
+  {
+    "name": "ماستر اوف",
+    "query": "\"ماستر اوف\"",
     "rank": 3,
-    "tweet_count": "114K Tweets"
+    "tweet_count": null
   },
   {
     "name": "علي معلول",
     "query": "\"علي معلول\"",
     "rank": 4,
-    "tweet_count": null
+    "tweet_count": "1,660 Tweets"
   },
   {
     "name": "غزل المحله",
     "query": "\"غزل المحله\"",
     "rank": 5,
-    "tweet_count": "3,877 Tweets"
+    "tweet_count": "4,521 Tweets"
   },
   {
-    "name": "بيرسي تاو",
-    "query": "\"بيرسي تاو\"",
+    "name": "اكرم توفيق",
+    "query": "\"اكرم توفيق\"",
     "rank": 6,
+    "tweet_count": "1,624 Tweets"
+  },
+  {
+    "name": "#مراهقه_ساويرس",
+    "query": "#مراهقه_ساويرس",
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "حسام حسن",
     "query": "\"حسام حسن\"",
-    "rank": 7,
+    "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "اكرم توفيق",
-    "query": "\"اكرم توفيق\"",
-    "rank": 8,
-    "tweet_count": "1,277 Tweets"
-  },
-  {
-    "name": "#مراهقه_ساويرس",
-    "query": "#مراهقه_ساويرس",
+    "name": "بيرسي تاو",
+    "query": "\"بيرسي تاو\"",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "عبد القادر",
-    "query": "\"عبد القادر\"",
+    "name": "الجول",
+    "query": "الجول",
     "rank": 10,
     "tweet_count": null
   },
@@ -66,33 +66,39 @@
     "tweet_count": null
   },
   {
-    "name": "الشناوي",
-    "query": "الشناوي",
+    "name": "#يلا_يا_اهلي",
+    "query": "#يلا_يا_اهلي",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "1,402 Tweets"
   },
   {
-    "name": "ياسر ابراهيم",
-    "query": "\"ياسر ابراهيم\"",
+    "name": "الشناوي",
+    "query": "الشناوي",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "الجول",
-    "query": "الجول",
+    "name": "عبد القادر",
+    "query": "\"عبد القادر\"",
     "rank": 14,
+    "tweet_count": "1,259 Tweets"
+  },
+  {
+    "name": "ياسر ابراهيم",
+    "query": "\"ياسر ابراهيم\"",
+    "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "#يلا_يا_اهلي",
-    "query": "#يلا_يا_اهلي",
-    "rank": 15,
-    "tweet_count": "1,168 Tweets"
+    "name": "الدوري المصري",
+    "query": "\"الدوري المصري\"",
+    "rank": 16,
+    "tweet_count": "1,878 Tweets"
   },
   {
     "name": "#الاسكندريه",
     "query": "#الاسكندريه",
-    "rank": 16,
-    "tweet_count": "2,657 Tweets"
+    "rank": 17,
+    "tweet_count": "2,753 Tweets"
   }
 ]
