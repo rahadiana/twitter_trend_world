@@ -3,55 +3,55 @@
     "name": "#AMAs",
     "query": "#AMAs",
     "rank": 1,
-    "tweet_count": "2.82M Tweets"
+    "tweet_count": "3.36M Tweets"
   },
   {
     "name": "#Tatort",
     "query": "#Tatort",
     "rank": 2,
-    "tweet_count": "3,650 Tweets"
+    "tweet_count": "3,652 Tweets"
   },
   {
     "name": "#annewill",
     "query": "#annewill",
     "rank": 3,
-    "tweet_count": "6,523 Tweets"
+    "tweet_count": "6,585 Tweets"
   },
   {
-    "name": "#kubicki",
-    "query": "#kubicki",
+    "name": "#Kubicki",
+    "query": "#Kubicki",
     "rank": 4,
     "tweet_count": "13.6K Tweets"
   },
   {
-    "name": "#gesundheitsministerium",
-    "query": "#gesundheitsministerium",
-    "rank": 5,
-    "tweet_count": "8,618 Tweets"
-  },
-  {
     "name": "Wochenstart",
     "query": "Wochenstart",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "#gesundheitsministerium",
+    "query": "#gesundheitsministerium",
     "rank": 6,
+    "tweet_count": "8,633 Tweets"
+  },
+  {
+    "name": "Start in die Woche",
+    "query": "\"Start in die Woche\"",
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "schönen sonntag",
     "query": "\"schönen sonntag\"",
-    "rank": 7,
-    "tweet_count": "5,705 Tweets"
+    "rank": 8,
+    "tweet_count": "5,709 Tweets"
   },
   {
     "name": "Moderna",
     "query": "Moderna",
-    "rank": 8,
-    "tweet_count": "38.2K Tweets"
-  },
-  {
-    "name": "Start in die Woche",
-    "query": "\"Start in die Woche\"",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "39K Tweets"
   },
   {
     "name": "Lars Eidinger",
@@ -63,7 +63,7 @@
     "name": "Saddam Hussein",
     "query": "\"Saddam Hussein\"",
     "rank": 11,
-    "tweet_count": "8,634 Tweets"
+    "tweet_count": "8,655 Tweets"
   },
   {
     "name": "Elfer",
@@ -72,40 +72,40 @@
     "tweet_count": null
   },
   {
+    "name": "YOONGIS",
+    "query": "YOONGIS",
+    "rank": 13,
+    "tweet_count": "16.1K Tweets"
+  },
+  {
     "name": "Biontech",
     "query": "Biontech",
-    "rank": 13,
-    "tweet_count": "21.5K Tweets"
-  },
-  {
-    "name": "elfmeter",
-    "query": "elfmeter",
     "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "As a German",
-    "query": "\"As a German\"",
-    "rank": 15,
-    "tweet_count": "11.5K Tweets"
+    "tweet_count": "21.7K Tweets"
   },
   {
     "name": "Cardi",
     "query": "Cardi",
-    "rank": 16,
-    "tweet_count": "343K Tweets"
+    "rank": 15,
+    "tweet_count": "348K Tweets"
   },
   {
     "name": "Murot",
     "query": "Murot",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "sonntagabend",
     "query": "sonntagabend",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
+  },
+  {
+    "name": "as a german",
+    "query": "\"as a german\"",
+    "rank": 18,
+    "tweet_count": "11.5K Tweets"
   },
   {
     "name": "Bottas",
@@ -114,9 +114,9 @@
     "tweet_count": "69.5K Tweets"
   },
   {
-    "name": "Lebron",
-    "query": "Lebron",
+    "name": "Elfmeter",
+    "query": "Elfmeter",
     "rank": 20,
-    "tweet_count": "207K Tweets"
+    "tweet_count": null
   }
 ]
