@@ -1,122 +1,116 @@
 [
   {
-    "name": "#SJSharks",
-    "query": "#SJSharks",
-    "rank": 1,
-    "tweet_count": "1,223 Tweets"
-  },
-  {
     "name": "Nordstrom",
     "query": "Nordstrom",
-    "rank": 2,
-    "tweet_count": "6,996 Tweets"
+    "rank": 1,
+    "tweet_count": "7,085 Tweets"
   },
   {
     "name": "#GRAMMYs",
     "query": "#GRAMMYs",
-    "rank": 3,
-    "tweet_count": "336K Tweets"
-  },
-  {
-    "name": "Beethoven",
-    "query": "Beethoven",
-    "rank": 4,
-    "tweet_count": "25.2K Tweets"
+    "rank": 2,
+    "tweet_count": "394K Tweets"
   },
   {
     "name": "Larry",
     "query": "Larry",
-    "rank": 5,
-    "tweet_count": "47K Tweets"
-  },
-  {
-    "name": "#GivingTuesday",
-    "query": "#GivingTuesday",
-    "rank": 6,
-    "tweet_count": "7,971 Tweets"
+    "rank": 3,
+    "tweet_count": "47.9K Tweets"
   },
   {
     "name": "Wizkid",
     "query": "Wizkid",
-    "rank": 7,
-    "tweet_count": "46.7K Tweets"
+    "rank": 4,
+    "tweet_count": "52.5K Tweets"
   },
   {
-    "name": "#tuesdayvibe",
-    "query": "#tuesdayvibe",
-    "rank": 8,
-    "tweet_count": "25.4K Tweets"
+    "name": "#GivingTuesday",
+    "query": "#GivingTuesday",
+    "rank": 5,
+    "tweet_count": "8,263 Tweets"
+  },
+  {
+    "name": "olivia",
+    "query": "olivia",
+    "rank": 6,
+    "tweet_count": "63.5K Tweets"
   },
   {
     "name": "#Thanksgiving",
     "query": "#Thanksgiving",
-    "rank": 9,
-    "tweet_count": "34.3K Tweets"
+    "rank": 7,
+    "tweet_count": "34.9K Tweets"
   },
   {
     "name": "kacey",
     "query": "kacey",
-    "rank": 10,
-    "tweet_count": "3,675 Tweets"
+    "rank": 8,
+    "tweet_count": "3,990 Tweets"
+  },
+  {
+    "name": "#tuesdayvibe",
+    "query": "#tuesdayvibe",
+    "rank": 9,
+    "tweet_count": "25.7K Tweets"
   },
   {
     "name": "Chrono Cross",
     "query": "\"Chrono Cross\"",
-    "rank": 11,
-    "tweet_count": "1,557 Tweets"
+    "rank": 10,
+    "tweet_count": "1,687 Tweets"
   },
   {
     "name": "Nagy",
     "query": "Nagy",
-    "rank": 12,
-    "tweet_count": "19.6K Tweets"
-  },
-  {
-    "name": "Doja",
-    "query": "Doja",
-    "rank": 13,
-    "tweet_count": "34K Tweets"
-  },
-  {
-    "name": "JACK ANTONOFF",
-    "query": "\"JACK ANTONOFF\"",
-    "rank": 14,
-    "tweet_count": "6,000 Tweets"
-  },
-  {
-    "name": "OPEC",
-    "query": "OPEC",
-    "rank": 15,
-    "tweet_count": "17.6K Tweets"
-  },
-  {
-    "name": "McFred",
-    "query": "McFred",
-    "rank": 16,
-    "tweet_count": "6,764 Tweets"
+    "rank": 11,
+    "tweet_count": "20.1K Tweets"
   },
   {
     "name": "Dollar Tree",
     "query": "\"Dollar Tree\"",
-    "rank": 17,
-    "tweet_count": "3,908 Tweets"
+    "rank": 12,
+    "tweet_count": "4,339 Tweets"
   },
   {
     "name": "Carrick",
     "query": "Carrick",
-    "rank": 18,
-    "tweet_count": "36K Tweets"
+    "rank": 13,
+    "tweet_count": "37.9K Tweets"
+  },
+  {
+    "name": "OPEC",
+    "query": "OPEC",
+    "rank": 14,
+    "tweet_count": "18K Tweets"
+  },
+  {
+    "name": "McFred",
+    "query": "McFred",
+    "rank": 15,
+    "tweet_count": "7,079 Tweets"
+  },
+  {
+    "name": "Best Music Video",
+    "query": "\"Best Music Video\"",
+    "rank": 16,
+    "tweet_count": "76.8K Tweets"
   },
   {
     "name": "Barack Obama",
     "query": "\"Barack Obama\"",
-    "rank": 19,
-    "tweet_count": "9,450 Tweets"
+    "rank": 17,
+    "tweet_count": "9,731 Tweets"
   },
   {
-    "name": "Thomas Jefferson",
-    "query": "\"Thomas Jefferson\"",
-    "rank": 20,
-    "tweet_count": "17.1K Tweets"
+    "name": "Louis CK",
+    "query": "\"Louis CK\"",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Phillip Lindsay",
+    "query": "\"Phillip Lindsay\"",
+    "rank": 19,
+    "tweet_count": "1,152 Tweets"
   }
 ]
