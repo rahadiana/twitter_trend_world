@@ -1,7 +1,7 @@
 [
   {
-    "name": "#jeunetalent",
-    "query": "#jeunetalent",
+    "name": "#JeuneTalent",
+    "query": "#JeuneTalent",
     "rank": 1,
     "tweet_count": "33.3K Tweets"
   },
@@ -9,7 +9,7 @@
     "name": "Paléo",
     "query": "Paléo",
     "rank": 2,
-    "tweet_count": "1,258 Tweets"
+    "tweet_count": "1,266 Tweets"
   },
   {
     "name": "Künstler",
@@ -24,16 +24,16 @@
     "tweet_count": "18.7K Tweets"
   },
   {
-    "name": "#MondayMotivation",
-    "query": "#MondayMotivation",
-    "rank": 5,
-    "tweet_count": "45.7K Tweets"
-  },
-  {
     "name": "zibelemärit",
     "query": "zibelemärit",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "#MondayMotivation",
+    "query": "#MondayMotivation",
+    "rank": 6,
+    "tweet_count": "45.8K Tweets"
   },
   {
     "name": "Evidenz",
@@ -42,22 +42,22 @@
     "tweet_count": null
   },
   {
-    "name": "#EndSARS",
-    "query": "#EndSARS",
-    "rank": 8,
-    "tweet_count": "30.2K Tweets"
-  },
-  {
     "name": "#MC12",
     "query": "#MC12",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "lukas engelberger",
     "query": "\"lukas engelberger\"",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
+  },
+  {
+    "name": "#EndSARS",
+    "query": "#EndSARS",
+    "rank": 10,
+    "tweet_count": "30.4K Tweets"
   },
   {
     "name": "#tatort",
@@ -69,13 +69,13 @@
     "name": "Stewart",
     "query": "Stewart",
     "rank": 12,
-    "tweet_count": "89.9K Tweets"
+    "tweet_count": "90K Tweets"
   },
   {
     "name": "Black Friday",
     "query": "\"Black Friday\"",
     "rank": 13,
-    "tweet_count": "227K Tweets"
+    "tweet_count": "228K Tweets"
   },
   {
     "name": "Energiewende",
@@ -90,16 +90,16 @@
     "tweet_count": null
   },
   {
-    "name": "barberio",
-    "query": "barberio",
+    "name": "Commission",
+    "query": "Commission",
     "rank": 16,
-    "tweet_count": null
+    "tweet_count": "166K Tweets"
   },
   {
     "name": "Herzog",
     "query": "Herzog",
     "rank": 17,
-    "tweet_count": "4,250 Tweets"
+    "tweet_count": "4,301 Tweets"
   },
   {
     "name": "Homeoffice",
@@ -111,12 +111,12 @@
     "name": "Napoli",
     "query": "Napoli",
     "rank": 19,
-    "tweet_count": "12.8K Tweets"
+    "tweet_count": "12.9K Tweets"
   },
   {
     "name": "Marc",
     "query": "Marc",
     "rank": 20,
-    "tweet_count": "38.6K Tweets"
+    "tweet_count": "38.8K Tweets"
   }
 ]

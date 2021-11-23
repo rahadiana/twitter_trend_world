@@ -1,25 +1,25 @@
 [
   {
-    "name": "#Strache",
-    "query": "#Strache",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Spenden",
     "query": "Spenden",
-    "rank": 2,
-    "tweet_count": "1,799 Tweets"
+    "rank": 1,
+    "tweet_count": "1,812 Tweets"
   },
   {
     "name": "#Impflotterie",
     "query": "#Impflotterie",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#stöckl",
     "query": "#stöckl",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "#strache",
+    "query": "#strache",
     "rank": 4,
     "tweet_count": null
   },
@@ -42,34 +42,34 @@
     "tweet_count": "11K Tweets"
   },
   {
-    "name": "skihütten",
-    "query": "skihütten",
+    "name": "Skihütten",
+    "query": "Skihütten",
     "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "skifahren",
-    "query": "skifahren",
-    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Englisch",
     "query": "Englisch",
-    "rank": 10,
-    "tweet_count": "1,198 Tweets"
+    "rank": 9,
+    "tweet_count": "1,204 Tweets"
   },
   {
     "name": "Pizza",
     "query": "Pizza",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": "125K Tweets"
+  },
+  {
+    "name": "Skifahren",
+    "query": "Skifahren",
+    "rank": 11,
+    "tweet_count": null
   },
   {
     "name": "Tag 2",
     "query": "\"Tag 2\"",
     "rank": 12,
-    "tweet_count": "236K Tweets"
+    "tweet_count": "237K Tweets"
   },
   {
     "name": "Grundstück",
@@ -81,17 +81,17 @@
     "name": "Cent",
     "query": "Cent",
     "rank": 14,
-    "tweet_count": "18.9K Tweets"
+    "tweet_count": "19K Tweets"
   },
   {
-    "name": "Fertigteilhaus",
-    "query": "Fertigteilhaus",
+    "name": "fertigteilhaus",
+    "query": "fertigteilhaus",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "WKStA",
-    "query": "WKStA",
+    "name": "wksta",
+    "query": "wksta",
     "rank": 16,
     "tweet_count": null
   },
@@ -99,7 +99,7 @@
     "name": "Tag 1",
     "query": "\"Tag 1\"",
     "rank": 17,
-    "tweet_count": "695K Tweets"
+    "tweet_count": "699K Tweets"
   },
   {
     "name": "Seilbahnen",
@@ -108,14 +108,14 @@
     "tweet_count": null
   },
   {
-    "name": "Kaufhaus Österreich",
-    "query": "\"Kaufhaus Österreich\"",
+    "name": "Petrovic",
+    "query": "Petrovic",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Petrovic",
-    "query": "Petrovic",
+    "name": "Kaufhaus Österreich",
+    "query": "\"Kaufhaus Österreich\"",
     "rank": 20,
     "tweet_count": null
   }
