@@ -1,27 +1,27 @@
 [
   {
+    "name": "#KohLanta",
+    "query": "#KohLanta",
+    "rank": 1,
+    "tweet_count": "11.4K Tweets"
+  },
+  {
     "name": "Sancho",
     "query": "Sancho",
-    "rank": 1,
-    "tweet_count": "101K Tweets"
+    "rank": 2,
+    "tweet_count": "103K Tweets"
   },
   {
     "name": "#Jeunetalent",
     "query": "#Jeunetalent",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": "32.5K Tweets"
   },
   {
     "name": "#GRAMMYs",
     "query": "#GRAMMYs",
-    "rank": 3,
-    "tweet_count": "1.16M Tweets"
-  },
-  {
-    "name": "#CleanAirHolidays",
-    "query": "#CleanAirHolidays",
     "rank": 4,
-    "tweet_count": "10.3K Tweets"
+    "tweet_count": "1.17M Tweets"
   },
   {
     "name": "#YBATA",
@@ -33,7 +33,7 @@
     "name": "paléo",
     "query": "paléo",
     "rank": 6,
-    "tweet_count": "1,640 Tweets"
+    "tweet_count": "1,656 Tweets"
   },
   {
     "name": "Künstler",
@@ -42,28 +42,28 @@
     "tweet_count": null
   },
   {
-    "name": "Biontech",
-    "query": "Biontech",
+    "name": "Benfica",
+    "query": "Benfica",
     "rank": 8,
-    "tweet_count": "14.9K Tweets"
+    "tweet_count": "52.6K Tweets"
   },
   {
-    "name": "Wizkid",
-    "query": "Wizkid",
+    "name": "Biontech",
+    "query": "Biontech",
     "rank": 9,
-    "tweet_count": "75.9K Tweets"
+    "tweet_count": "15.1K Tweets"
+  },
+  {
+    "name": "Chelsea",
+    "query": "Chelsea",
+    "rank": 10,
+    "tweet_count": "118K Tweets"
   },
   {
     "name": "Black Friday",
     "query": "\"Black Friday\"",
-    "rank": 10,
-    "tweet_count": "239K Tweets"
-  },
-  {
-    "name": "Benfica",
-    "query": "Benfica",
     "rank": 11,
-    "tweet_count": "49.1K Tweets"
+    "tweet_count": "241K Tweets"
   },
   {
     "name": "Mitte Dezember",
@@ -81,36 +81,36 @@
     "name": "Sending",
     "query": "Sending",
     "rank": 14,
-    "tweet_count": "143K Tweets"
+    "tweet_count": "144K Tweets"
   },
   {
     "name": "Marc",
     "query": "Marc",
     "rank": 15,
-    "tweet_count": "38.6K Tweets"
+    "tweet_count": "38.9K Tweets"
   },
   {
     "name": "Geneva",
     "query": "Geneva",
     "rank": 16,
-    "tweet_count": "3,462 Tweets"
+    "tweet_count": "3,480 Tweets"
+  },
+  {
+    "name": "Barça",
+    "query": "Barça",
+    "rank": 17,
+    "tweet_count": "73.6K Tweets"
   },
   {
     "name": "Vignette",
     "query": "Vignette",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Chelsea",
-    "query": "Chelsea",
     "rank": 18,
-    "tweet_count": "115K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Japan",
     "query": "Japan",
     "rank": 19,
-    "tweet_count": "385K Tweets"
+    "tweet_count": "386K Tweets"
   }
 ]
