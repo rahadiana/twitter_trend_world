@@ -1,9 +1,9 @@
 [
   {
-    "name": "#GRAMMYs",
-    "query": "#GRAMMYs",
+    "name": "#Grammys",
+    "query": "#Grammys",
     "rank": 1,
-    "tweet_count": "1.18M Tweets"
+    "tweet_count": "1.2M Tweets"
   },
   {
     "name": "#baddietalk",
@@ -15,96 +15,102 @@
     "name": "#CheJuv",
     "query": "#CheJuv",
     "rank": 3,
-    "tweet_count": "28.3K Tweets"
+    "tweet_count": "41.7K Tweets"
+  },
+  {
+    "name": "#lvrjeonspejs",
+    "query": "#lvrjeonspejs",
+    "rank": 4,
+    "tweet_count": null
   },
   {
     "name": "Ibrahim",
     "query": "Ibrahim",
-    "rank": 4,
-    "tweet_count": "21.8K Tweets"
+    "rank": 5,
+    "tweet_count": "22.3K Tweets"
+  },
+  {
+    "name": "Demir",
+    "query": "Demir",
+    "rank": 6,
+    "tweet_count": "30K Tweets"
   },
   {
     "name": "Nico",
     "query": "Nico",
-    "rank": 5,
-    "tweet_count": "128K Tweets"
-  },
-  {
-    "name": "Halsey",
-    "query": "Halsey",
-    "rank": 6,
-    "tweet_count": "64.7K Tweets"
-  },
-  {
-    "name": "Boczek",
-    "query": "Boczek",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "130K Tweets"
+  },
+  {
+    "name": "Villarreal",
+    "query": "Villarreal",
+    "rank": 8,
+    "tweet_count": "80.1K Tweets"
   },
   {
     "name": "Messiego",
     "query": "Messiego",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "\"Dziady\"",
-    "query": "\"Dziady\"",
-    "rank": 9,
-    "tweet_count": "3,146 Tweets"
-  },
-  {
-    "name": "Bayernu",
-    "query": "Bayernu",
+    "name": "Boczek",
+    "query": "Boczek",
     "rank": 10,
     "tweet_count": null
   },
   {
+    "name": "Olivia",
+    "query": "Olivia",
+    "rank": 11,
+    "tweet_count": "156K Tweets"
+  },
+  {
+    "name": "\"Dziady\"",
+    "query": "\"Dziady\"",
+    "rank": 12,
+    "tweet_count": "3,221 Tweets"
+  },
+  {
+    "name": "Bayernu",
+    "query": "Bayernu",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Butter",
+    "query": "Butter",
+    "rank": 14,
+    "tweet_count": "1.07M Tweets"
+  },
+  {
     "name": "ariana",
     "query": "ariana",
-    "rank": 11,
-    "tweet_count": "95.3K Tweets"
+    "rank": 15,
+    "tweet_count": "96.8K Tweets"
   },
   {
     "name": "Ligi Mistrzów",
     "query": "\"Ligi Mistrzów\"",
-    "rank": 12,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Parlament Europejski",
     "query": "\"Parlament Europejski\"",
-    "rank": 13,
-    "tweet_count": "1,141 Tweets"
+    "rank": 17,
+    "tweet_count": "1,160 Tweets"
   },
   {
     "name": "Nowak",
     "query": "Nowak",
-    "rank": 14,
-    "tweet_count": "5,146 Tweets"
+    "rank": 18,
+    "tweet_count": "5,231 Tweets"
   },
   {
     "name": "Bugu",
     "query": "Bugu",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Dziadów",
-    "query": "Dziadów",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "#EUPHORIA",
-    "query": "#EUPHORIA",
-    "rank": 17,
-    "tweet_count": "5,581 Tweets"
-  },
-  {
-    "name": "#lvrjeonspejs",
-    "query": "#lvrjeonspejs",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   }
 ]
