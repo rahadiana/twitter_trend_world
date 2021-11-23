@@ -1,31 +1,31 @@
 [
   {
-    "name": "peter lundgren",
-    "query": "\"peter lundgren\"",
-    "rank": 1,
-    "tweet_count": "1,240 Tweets"
-  },
-  {
-    "name": "Greta Gris",
-    "query": "\"Greta Gris\"",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
     "name": "Avanza",
     "query": "Avanza",
-    "rank": 3,
-    "tweet_count": "15.5K Tweets"
+    "rank": 1,
+    "tweet_count": "15.7K Tweets"
+  },
+  {
+    "name": "Peter Lundgren",
+    "query": "\"Peter Lundgren\"",
+    "rank": 2,
+    "tweet_count": "1,245 Tweets"
   },
   {
     "name": "Peking",
     "query": "Peking",
-    "rank": 4,
-    "tweet_count": "1,607 Tweets"
+    "rank": 3,
+    "tweet_count": "1,620 Tweets"
   },
   {
     "name": "Sverige 2021",
     "query": "\"Sverige 2021\"",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "Greta Gris",
+    "query": "\"Greta Gris\"",
     "rank": 5,
     "tweet_count": null
   },
@@ -51,31 +51,31 @@
     "name": "Rolex",
     "query": "Rolex",
     "rank": 9,
-    "tweet_count": "5,269 Tweets"
+    "tweet_count": "5,307 Tweets"
   },
   {
     "name": "#singyourdialect",
     "query": "#singyourdialect",
     "rank": 10,
-    "tweet_count": "45.7K Tweets"
-  },
-  {
-    "name": "Poch",
-    "query": "Poch",
-    "rank": 11,
-    "tweet_count": "43.7K Tweets"
-  },
-  {
-    "name": "Peppa Pig",
-    "query": "\"Peppa Pig\"",
-    "rank": 12,
-    "tweet_count": "95.7K Tweets"
+    "tweet_count": "45.9K Tweets"
   },
   {
     "name": "Kalmar",
     "query": "Kalmar",
-    "rank": 13,
+    "rank": 11,
     "tweet_count": null
+  },
+  {
+    "name": "Poch",
+    "query": "Poch",
+    "rank": 12,
+    "tweet_count": "44.1K Tweets"
+  },
+  {
+    "name": "Peppa Pig",
+    "query": "\"Peppa Pig\"",
+    "rank": 13,
+    "tweet_count": "96.2K Tweets"
   },
   {
     "name": "Veronica Palm",
@@ -90,20 +90,20 @@
     "tweet_count": null
   },
   {
+    "name": "Jomshof",
+    "query": "Jomshof",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
     "name": "löfgren",
     "query": "löfgren",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "magnus eriksson",
     "query": "\"magnus eriksson\"",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Norling",
-    "query": "Norling",
     "rank": 18,
     "tweet_count": null
   },
@@ -117,6 +117,6 @@
     "name": "#MondayMotivation",
     "query": "#MondayMotivation",
     "rank": 20,
-    "tweet_count": "58.1K Tweets"
+    "tweet_count": "58.2K Tweets"
   }
 ]

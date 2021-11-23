@@ -1,21 +1,21 @@
 [
   {
-    "name": "Andrew",
-    "query": "Andrew",
-    "rank": 1,
-    "tweet_count": "115K Tweets"
-  },
-  {
     "name": "#ImACeleb",
     "query": "#ImACeleb",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "16.9K Tweets"
+  },
+  {
+    "name": "Andrew",
+    "query": "Andrew",
+    "rank": 2,
+    "tweet_count": "116K Tweets"
   },
   {
     "name": "#singyourdialect",
     "query": "#singyourdialect",
     "rank": 3,
-    "tweet_count": "45.7K Tweets"
+    "tweet_count": "45.9K Tweets"
   },
   {
     "name": "Marc Bircham",
@@ -27,13 +27,13 @@
     "name": "Waterford",
     "query": "Waterford",
     "rank": 5,
-    "tweet_count": "1,161 Tweets"
+    "tweet_count": "1,171 Tweets"
   },
   {
     "name": "Poch",
     "query": "Poch",
     "rank": 6,
-    "tweet_count": "43.7K Tweets"
+    "tweet_count": "44.2K Tweets"
   },
   {
     "name": "#cblive",
@@ -45,31 +45,31 @@
     "name": "Garth Brooks",
     "query": "\"Garth Brooks\"",
     "rank": 8,
-    "tweet_count": "1,164 Tweets"
-  },
-  {
-    "name": "Peppa Pig",
-    "query": "\"Peppa Pig\"",
-    "rank": 9,
-    "tweet_count": "95.7K Tweets"
-  },
-  {
-    "name": "Ryanair",
-    "query": "Ryanair",
-    "rank": 10,
-    "tweet_count": "2,093 Tweets"
+    "tweet_count": "1,172 Tweets"
   },
   {
     "name": "#BackingGreen",
     "query": "#BackingGreen",
-    "rank": 11,
+    "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "#MondayMotivation",
-    "query": "#MondayMotivation",
+    "name": "Peppa Pig",
+    "query": "\"Peppa Pig\"",
+    "rank": 10,
+    "tweet_count": "96.2K Tweets"
+  },
+  {
+    "name": "Ryanair",
+    "query": "Ryanair",
+    "rank": 11,
+    "tweet_count": "2,107 Tweets"
+  },
+  {
+    "name": "#ThankYouOle",
+    "query": "#ThankYouOle",
     "rank": 12,
-    "tweet_count": "58.1K Tweets"
+    "tweet_count": "1,006 Tweets"
   },
   {
     "name": "NUIG",
@@ -81,11 +81,11 @@
     "name": "Carrick",
     "query": "Carrick",
     "rank": 14,
-    "tweet_count": "28K Tweets"
+    "tweet_count": "28.3K Tweets"
   },
   {
-    "name": "Eoin",
-    "query": "Eoin",
+    "name": "flat 7up",
+    "query": "\"flat 7up\"",
     "rank": 15,
     "tweet_count": null
   },
@@ -93,24 +93,24 @@
     "name": "David Ginola",
     "query": "\"David Ginola\"",
     "rank": 16,
-    "tweet_count": "1,376 Tweets"
-  },
-  {
-    "name": "flat 7up",
-    "query": "\"flat 7up\"",
-    "rank": 17,
-    "tweet_count": null
+    "tweet_count": "1,378 Tweets"
   },
   {
     "name": "Black Friday",
     "query": "\"Black Friday\"",
-    "rank": 18,
-    "tweet_count": "229K Tweets"
+    "rank": 17,
+    "tweet_count": "231K Tweets"
   },
   {
     "name": "Bulgaria",
     "query": "Bulgaria",
+    "rank": 18,
+    "tweet_count": "8,887 Tweets"
+  },
+  {
+    "name": "Emma Thompson",
+    "query": "\"Emma Thompson\"",
     "rank": 19,
-    "tweet_count": "8,712 Tweets"
+    "tweet_count": "7,798 Tweets"
   }
 ]
