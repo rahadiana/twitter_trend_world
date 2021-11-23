@@ -1,39 +1,39 @@
 [
   {
-    "name": "Modesto",
-    "query": "Modesto",
-    "rank": 1,
-    "tweet_count": "2,754 Tweets"
-  },
-  {
     "name": "San Bernardino",
     "query": "\"San Bernardino\"",
-    "rank": 2,
-    "tweet_count": "1,447 Tweets"
+    "rank": 1,
+    "tweet_count": "1,494 Tweets"
   },
   {
     "name": "Miyoung",
     "query": "Miyoung",
-    "rank": 3,
-    "tweet_count": "4,581 Tweets"
+    "rank": 2,
+    "tweet_count": "4,682 Tweets"
   },
   {
     "name": "Chula Vista",
     "query": "\"Chula Vista\"",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#sunset",
     "query": "#sunset",
-    "rank": 5,
-    "tweet_count": "6,794 Tweets"
+    "rank": 4,
+    "tweet_count": "6,820 Tweets"
   },
   {
     "name": "Wood",
     "query": "Wood",
+    "rank": 5,
+    "tweet_count": "65.8K Tweets"
+  },
+  {
+    "name": "Roger Stone",
+    "query": "\"Roger Stone\"",
     "rank": 6,
-    "tweet_count": "64.4K Tweets"
+    "tweet_count": "33.5K Tweets"
   },
   {
     "name": "Hosmer",
@@ -42,75 +42,69 @@
     "tweet_count": null
   },
   {
-    "name": "gausman",
-    "query": "gausman",
+    "name": "The Last Duel",
+    "query": "\"The Last Duel\"",
     "rank": 8,
+    "tweet_count": "3,988 Tweets"
+  },
+  {
+    "name": "Matt Damon",
+    "query": "\"Matt Damon\"",
+    "rank": 9,
+    "tweet_count": "2,456 Tweets"
+  },
+  {
+    "name": "Gausman",
+    "query": "Gausman",
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "#Thanksgiving",
     "query": "#Thanksgiving",
-    "rank": 9,
-    "tweet_count": "29K Tweets"
+    "rank": 11,
+    "tweet_count": "29.2K Tweets"
   },
   {
-    "name": "House of Gucci",
-    "query": "\"House of Gucci\"",
-    "rank": 10,
-    "tweet_count": "19.9K Tweets"
+    "name": "Gore",
+    "query": "Gore",
+    "rank": 12,
+    "tweet_count": "42.2K Tweets"
+  },
+  {
+    "name": "Millennials",
+    "query": "Millennials",
+    "rank": 13,
+    "tweet_count": "12.2K Tweets"
   },
   {
     "name": "Darrell Brooks",
     "query": "\"Darrell Brooks\"",
-    "rank": 11,
-    "tweet_count": "201K Tweets"
+    "rank": 14,
+    "tweet_count": "202K Tweets"
   },
   {
-    "name": "Ahmaud Arbery",
-    "query": "\"Ahmaud Arbery\"",
-    "rank": 12,
-    "tweet_count": "43.2K Tweets"
+    "name": "Walked",
+    "query": "Walked",
+    "rank": 15,
+    "tweet_count": "46.8K Tweets"
   },
   {
     "name": "Stuffing",
     "query": "Stuffing",
-    "rank": 13,
-    "tweet_count": "12.1K Tweets"
+    "rank": 16,
+    "tweet_count": "12.2K Tweets"
+  },
+  {
+    "name": "House of Gucci",
+    "query": "\"House of Gucci\"",
+    "rank": 17,
+    "tweet_count": "20.1K Tweets"
   },
   {
     "name": "Bonds",
     "query": "Bonds",
-    "rank": 14,
-    "tweet_count": "32.6K Tweets"
-  },
-  {
-    "name": "Keanu",
-    "query": "Keanu",
-    "rank": 15,
-    "tweet_count": "22.2K Tweets"
-  },
-  {
-    "name": "Gen Z",
-    "query": "\"Gen Z\"",
-    "rank": 16,
-    "tweet_count": "27K Tweets"
-  },
-  {
-    "name": "#DWTS",
-    "query": "#DWTS",
-    "rank": 17,
-    "tweet_count": "32.1K Tweets"
-  },
-  {
-    "name": "#NYGvsTB",
-    "query": "#NYGvsTB",
     "rank": 18,
-    "tweet_count": "9,569 Tweets"
-  },
-  {
-    "name": "#WWERaw",
-    "query": "#WWERaw",
-    "rank": 19,
-    "tweet_count": "53.1K Tweets"
+    "tweet_count": "32.8K Tweets"
   }
 ]

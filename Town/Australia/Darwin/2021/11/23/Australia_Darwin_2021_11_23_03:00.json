@@ -1,122 +1,122 @@
 [
   {
+    "name": "Speaker",
+    "query": "Speaker",
+    "rank": 1,
+    "tweet_count": "68.9K Tweets"
+  },
+  {
     "name": "Hawaii",
     "query": "Hawaii",
-    "rank": 1,
-    "tweet_count": "29.2K Tweets"
+    "rank": 2,
+    "tweet_count": "29.3K Tweets"
   },
   {
     "name": "Lambie",
     "query": "Lambie",
-    "rank": 2,
-    "tweet_count": "10.9K Tweets"
-  },
-  {
-    "name": "Speaker",
-    "query": "Speaker",
     "rank": 3,
-    "tweet_count": "68.2K Tweets"
+    "tweet_count": "11.1K Tweets"
   },
   {
-    "name": "La Niña",
-    "query": "\"La Niña\"",
+    "name": "Shanghai Sam",
+    "query": "\"Shanghai Sam\"",
     "rank": 4,
-    "tweet_count": "26.8K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "La Nina",
+    "query": "\"La Nina\"",
+    "rank": 5,
+    "tweet_count": "27K Tweets"
   },
   {
     "name": "#ESAus21",
     "query": "#ESAus21",
-    "rank": 5,
-    "tweet_count": "1,005 Tweets"
+    "rank": 6,
+    "tweet_count": "1,017 Tweets"
   },
   {
     "name": "#AMAsTNT",
     "query": "#AMAsTNT",
-    "rank": 6,
+    "rank": 7,
     "tweet_count": "293K Tweets"
   },
   {
     "name": "#LiarLiarShartOnFire",
     "query": "#LiarLiarShartOnFire",
-    "rank": 7,
-    "tweet_count": "2,153 Tweets"
+    "rank": 8,
+    "tweet_count": "2,165 Tweets"
   },
   {
     "name": "Gladys",
     "query": "Gladys",
-    "rank": 8,
-    "tweet_count": "15.1K Tweets"
+    "rank": 9,
+    "tweet_count": "15.3K Tweets"
   },
   {
     "name": "Andrew Wallace",
     "query": "\"Andrew Wallace\"",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Grace Tame",
-    "query": "\"Grace Tame\"",
     "rank": 10,
-    "tweet_count": "5,133 Tweets"
-  },
-  {
-    "name": "#MasterChefAU",
-    "query": "#MasterChefAU",
-    "rank": 11,
-    "tweet_count": "1,306 Tweets"
-  },
-  {
-    "name": "Adele",
-    "query": "Adele",
-    "rank": 12,
-    "tweet_count": "259K Tweets"
+    "tweet_count": null
   },
   {
     "name": "One Nation",
     "query": "\"One Nation\"",
+    "rank": 11,
+    "tweet_count": "20.4K Tweets"
+  },
+  {
+    "name": "Grace Tame",
+    "query": "\"Grace Tame\"",
+    "rank": 12,
+    "tweet_count": "5,152 Tweets"
+  },
+  {
+    "name": "#MasterChefAU",
+    "query": "#MasterChefAU",
     "rank": 13,
-    "tweet_count": "20.2K Tweets"
-  },
-  {
-    "name": "#AustralianStory",
-    "query": "#AustralianStory",
-    "rank": 14,
-    "tweet_count": "3,522 Tweets"
-  },
-  {
-    "name": "Hanson",
-    "query": "Hanson",
-    "rank": 15,
-    "tweet_count": "10.1K Tweets"
-  },
-  {
-    "name": "Albo",
-    "query": "Albo",
-    "rank": 16,
-    "tweet_count": "18.7K Tweets"
+    "tweet_count": "1,306 Tweets"
   },
   {
     "name": "Tony Smith",
     "query": "\"Tony Smith\"",
+    "rank": 14,
+    "tweet_count": "1,583 Tweets"
+  },
+  {
+    "name": "#AustralianStory",
+    "query": "#AustralianStory",
+    "rank": 15,
+    "tweet_count": "3,536 Tweets"
+  },
+  {
+    "name": "Barnaby",
+    "query": "Barnaby",
+    "rank": 16,
+    "tweet_count": "1,808 Tweets"
+  },
+  {
+    "name": "Adele",
+    "query": "Adele",
     "rank": 17,
-    "tweet_count": "1,553 Tweets"
+    "tweet_count": "260K Tweets"
+  },
+  {
+    "name": "Pauline Hanson",
+    "query": "\"Pauline Hanson\"",
+    "rank": 18,
+    "tweet_count": "5,563 Tweets"
+  },
+  {
+    "name": "Albo",
+    "query": "Albo",
+    "rank": 19,
+    "tweet_count": "18.8K Tweets"
   },
   {
     "name": "Fairfield",
     "query": "Fairfield",
-    "rank": 18,
-    "tweet_count": "1,208 Tweets"
-  },
-  {
-    "name": "Chant",
-    "query": "Chant",
-    "rank": 19,
-    "tweet_count": "45.8K Tweets"
-  },
-  {
-    "name": "Black Friday",
-    "query": "\"Black Friday\"",
     "rank": 20,
-    "tweet_count": "233K Tweets"
+    "tweet_count": "1,239 Tweets"
   }
 ]
