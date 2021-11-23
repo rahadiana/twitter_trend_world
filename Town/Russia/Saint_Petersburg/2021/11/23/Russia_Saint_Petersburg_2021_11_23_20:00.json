@@ -3,19 +3,19 @@
     "name": "#GRAMMYs",
     "query": "#GRAMMYs",
     "rank": 1,
-    "tweet_count": "1.13M Tweets"
+    "tweet_count": "1.15M Tweets"
   },
   {
     "name": "Грэмми",
     "query": "Грэмми",
     "rank": 2,
-    "tweet_count": "10.3K Tweets"
+    "tweet_count": "10.6K Tweets"
   },
   {
-    "name": "#AMAsTNT",
-    "query": "#AMAsTNT",
+    "name": "#МальмёЗенит",
+    "query": "#МальмёЗенит",
     "rank": 3,
-    "tweet_count": "22.7K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#импровизация",
@@ -24,10 +24,10 @@
     "tweet_count": null
   },
   {
-    "name": "#rushhour1stwin",
-    "query": "#rushhour1stwin",
+    "name": "#RushHour1stWin",
+    "query": "#RushHour1stWin",
     "rank": 5,
-    "tweet_count": "98.5K Tweets"
+    "tweet_count": "98.9K Tweets"
   },
   {
     "name": "Бетховена",
@@ -36,34 +36,34 @@
     "tweet_count": null
   },
   {
-    "name": "Бастрыкин",
-    "query": "Бастрыкин",
+    "name": "Бастрыкина",
+    "query": "Бастрыкина",
     "rank": 7,
-    "tweet_count": "4,084 Tweets"
-  },
-  {
-    "name": "Арсений",
-    "query": "Арсений",
-    "rank": 8,
-    "tweet_count": "1,522 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Halsey",
     "query": "Halsey",
+    "rank": 8,
+    "tweet_count": "63K Tweets"
+  },
+  {
+    "name": "Арсения",
+    "query": "Арсения",
     "rank": 9,
-    "tweet_count": "61.6K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "olivia",
-    "query": "olivia",
+    "name": "В Казани",
+    "query": "\"В Казани\"",
     "rank": 10,
-    "tweet_count": "149K Tweets"
+    "tweet_count": "2,474 Tweets"
   },
   {
-    "name": "в казани",
-    "query": "\"в казани\"",
+    "name": "Молдавии",
+    "query": "Молдавии",
     "rank": 11,
-    "tweet_count": "2,457 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Арса",
@@ -72,34 +72,34 @@
     "tweet_count": null
   },
   {
-    "name": "Молдавии",
-    "query": "Молдавии",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
     "name": "Моргенштерн",
     "query": "Моргенштерн",
+    "rank": 13,
+    "tweet_count": "1,029 Tweets"
+  },
+  {
+    "name": "в госдуму",
+    "query": "\"в госдуму\"",
     "rank": 14,
-    "tweet_count": "1,002 Tweets"
-  },
-  {
-    "name": "итто",
-    "query": "итто",
-    "rank": 15,
-    "tweet_count": "4,609 Tweets"
-  },
-  {
-    "name": "Шэнь Хэ",
-    "query": "\"Шэнь Хэ\"",
-    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "selena",
-    "query": "selena",
+    "name": "шэнь хэ",
+    "query": "\"шэнь хэ\"",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Итто",
+    "query": "Итто",
+    "rank": 16,
+    "tweet_count": "4,700 Tweets"
+  },
+  {
+    "name": "Selena",
+    "query": "Selena",
     "rank": 17,
-    "tweet_count": "105K Tweets"
+    "tweet_count": "108K Tweets"
   },
   {
     "name": "BIG AlRDR0P",
@@ -108,8 +108,8 @@
     "tweet_count": null
   },
   {
-    "name": "Приднестровье",
-    "query": "Приднестровье",
+    "name": "литву",
+    "query": "литву",
     "rank": 19,
     "tweet_count": null
   }
