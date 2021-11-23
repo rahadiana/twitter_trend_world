@@ -1,15 +1,15 @@
 [
   {
-    "name": "Zulia",
-    "query": "Zulia",
-    "rank": 1,
-    "tweet_count": "41.9K Tweets"
-  },
-  {
     "name": "#22Nov",
     "query": "#22Nov",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "107K Tweets"
+  },
+  {
+    "name": "Zulia",
+    "query": "Zulia",
+    "rank": 2,
+    "tweet_count": "42K Tweets"
   },
   {
     "name": "#VictoriaPopular",
@@ -21,7 +21,7 @@
     "name": "Rosales",
     "query": "Rosales",
     "rank": 4,
-    "tweet_count": "34.3K Tweets"
+    "tweet_count": "34.4K Tweets"
   },
   {
     "name": "Barinas",
@@ -45,7 +45,7 @@
     "name": "Omar Malavé",
     "query": "\"Omar Malavé\"",
     "rank": 8,
-    "tweet_count": "8,995 Tweets"
+    "tweet_count": "9,030 Tweets"
   },
   {
     "name": "#MegaElecciones2021",
@@ -57,31 +57,31 @@
     "name": "Cojedes",
     "query": "Cojedes",
     "rank": 10,
-    "tweet_count": "7,759 Tweets"
+    "tweet_count": "7,765 Tweets"
   },
   {
     "name": "#Regionales2021",
     "query": "#Regionales2021",
     "rank": 11,
-    "tweet_count": "3,099 Tweets"
+    "tweet_count": "3,102 Tweets"
   },
   {
     "name": "Capriles",
     "query": "Capriles",
     "rank": 12,
-    "tweet_count": "9,533 Tweets"
+    "tweet_count": "9,547 Tweets"
   },
   {
     "name": "Superlano",
     "query": "Superlano",
     "rank": 13,
-    "tweet_count": "6,610 Tweets"
+    "tweet_count": "6,649 Tweets"
   },
   {
     "name": "Logrado",
     "query": "Logrado",
     "rank": 14,
-    "tweet_count": "19.8K Tweets"
+    "tweet_count": "19.9K Tweets"
   },
   {
     "name": "Santa Cecilia",
@@ -93,11 +93,11 @@
     "name": "Chile",
     "query": "Chile",
     "rank": 16,
-    "tweet_count": "391K Tweets"
+    "tweet_count": "392K Tweets"
   },
   {
-    "name": "Táchira",
-    "query": "Táchira",
+    "name": "táchira",
+    "query": "táchira",
     "rank": 17,
     "tweet_count": "13.9K Tweets"
   },
@@ -105,18 +105,18 @@
     "name": "Revocatorio",
     "query": "Revocatorio",
     "rank": 18,
-    "tweet_count": "8,544 Tweets"
+    "tweet_count": "8,558 Tweets"
   },
   {
     "name": "Bernal",
     "query": "Bernal",
     "rank": 19,
-    "tweet_count": "5,929 Tweets"
+    "tweet_count": "5,944 Tweets"
   },
   {
-    "name": "Jorge Rondón",
-    "query": "\"Jorge Rondón\"",
+    "name": "Guanipa",
+    "query": "Guanipa",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "4,754 Tweets"
   }
 ]

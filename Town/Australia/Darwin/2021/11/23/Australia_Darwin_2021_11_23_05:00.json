@@ -3,31 +3,31 @@
     "name": "Speaker",
     "query": "Speaker",
     "rank": 1,
-    "tweet_count": "71.9K Tweets"
+    "tweet_count": "72.6K Tweets"
   },
   {
     "name": "La Niña",
     "query": "\"La Niña\"",
     "rank": 2,
-    "tweet_count": "27.4K Tweets"
-  },
-  {
-    "name": "Shanghai Sam",
-    "query": "\"Shanghai Sam\"",
-    "rank": 3,
-    "tweet_count": "1,381 Tweets"
+    "tweet_count": "27.5K Tweets"
   },
   {
     "name": "#afternoonbriefing",
     "query": "#afternoonbriefing",
+    "rank": 3,
+    "tweet_count": "1,751 Tweets"
+  },
+  {
+    "name": "Shanghai Sam",
+    "query": "\"Shanghai Sam\"",
     "rank": 4,
-    "tweet_count": "1,617 Tweets"
+    "tweet_count": "1,466 Tweets"
   },
   {
     "name": "Malcolm Roberts",
     "query": "\"Malcolm Roberts\"",
     "rank": 5,
-    "tweet_count": "1,213 Tweets"
+    "tweet_count": "1,259 Tweets"
   },
   {
     "name": "Cricket Tasmania",
@@ -45,66 +45,72 @@
     "name": "Tony Smith",
     "query": "\"Tony Smith\"",
     "rank": 8,
-    "tweet_count": "1,748 Tweets"
-  },
-  {
-    "name": "Jeff Kennett",
-    "query": "\"Jeff Kennett\"",
-    "rank": 9,
-    "tweet_count": null
+    "tweet_count": "1,777 Tweets"
   },
   {
     "name": "#ESAus21",
     "query": "#ESAus21",
+    "rank": 9,
+    "tweet_count": "1,110 Tweets"
+  },
+  {
+    "name": "Question Time",
+    "query": "\"Question Time\"",
     "rank": 10,
-    "tweet_count": "1,076 Tweets"
+    "tweet_count": "14.6K Tweets"
+  },
+  {
+    "name": "Jeff Kennett",
+    "query": "\"Jeff Kennett\"",
+    "rank": 11,
+    "tweet_count": null
   },
   {
     "name": "Penny Wong",
     "query": "\"Penny Wong\"",
-    "rank": 11,
-    "tweet_count": "2,182 Tweets"
+    "rank": 12,
+    "tweet_count": "2,222 Tweets"
   },
   {
     "name": "One Nation",
     "query": "\"One Nation\"",
-    "rank": 12,
-    "tweet_count": "19.2K Tweets"
+    "rank": 13,
+    "tweet_count": "19.4K Tweets"
   },
   {
     "name": "#LiarFromTheShire",
     "query": "#LiarFromTheShire",
-    "rank": 13,
-    "tweet_count": "3,407 Tweets"
+    "rank": 14,
+    "tweet_count": "3,459 Tweets"
   },
   {
     "name": "#libspill",
     "query": "#libspill",
-    "rank": 14,
-    "tweet_count": "1,282 Tweets"
+    "rank": 15,
+    "tweet_count": "1,311 Tweets"
+  },
+  {
+    "name": "#AFLDraft",
+    "query": "#AFLDraft",
+    "rank": 16,
+    "tweet_count": null
   },
   {
     "name": "Indigenous",
     "query": "Indigenous",
-    "rank": 15,
-    "tweet_count": "55.1K Tweets"
-  },
-  {
-    "name": "#LiarLiarShartOnFire",
-    "query": "#LiarLiarShartOnFire",
-    "rank": 16,
-    "tweet_count": "2,358 Tweets"
+    "rank": 17,
+    "tweet_count": "55.6K Tweets"
   },
   {
     "name": "Northern Territory",
     "query": "\"Northern Territory\"",
-    "rank": 17,
-    "tweet_count": "4,170 Tweets"
+    "rank": 18,
+    "tweet_count": "4,220 Tweets"
   },
   {
-    "name": "Black Friday",
-    "query": "\"Black Friday\"",
-    "rank": 18,
-    "tweet_count": "237K Tweets"
+    "name": "#LiarLiarShartOnFire",
+    "query": "#LiarLiarShartOnFire",
+    "rank": 19,
+    "tweet_count": "2,372 Tweets"
   }
 ]
