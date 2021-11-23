@@ -1,39 +1,39 @@
 [
   {
-    "name": "Avanza",
-    "query": "Avanza",
-    "rank": 1,
-    "tweet_count": "16.1K Tweets"
-  },
-  {
     "name": "Åmål",
     "query": "Åmål",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Avanza",
+    "query": "Avanza",
+    "rank": 2,
+    "tweet_count": "16.6K Tweets"
   },
   {
     "name": "Peter Lundgren",
     "query": "\"Peter Lundgren\"",
     "rank": 3,
-    "tweet_count": "1,109 Tweets"
+    "tweet_count": "1,121 Tweets"
   },
   {
     "name": "Peking",
     "query": "Peking",
     "rank": 4,
-    "tweet_count": "1,452 Tweets"
-  },
-  {
-    "name": "greta gris",
-    "query": "\"greta gris\"",
-    "rank": 5,
-    "tweet_count": null
+    "tweet_count": "1,471 Tweets"
   },
   {
     "name": "Rolex",
     "query": "Rolex",
+    "rank": 5,
+    "tweet_count": "5,417 Tweets"
+  },
+  {
+    "name": "greta gris",
+    "query": "\"greta gris\"",
     "rank": 6,
-    "tweet_count": "5,163 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Sverige 2021",
@@ -42,52 +42,52 @@
     "tweet_count": null
   },
   {
+    "name": "Kalmar",
+    "query": "Kalmar",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
     "name": "Östersund",
     "query": "Östersund",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Norrköping",
     "query": "Norrköping",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "#singyourdialect",
-    "query": "#singyourdialect",
     "rank": 10,
-    "tweet_count": "47.2K Tweets"
-  },
-  {
-    "name": "Kalmar",
-    "query": "Kalmar",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Boris Johnson",
-    "query": "\"Boris Johnson\"",
-    "rank": 12,
-    "tweet_count": "112K Tweets"
-  },
-  {
-    "name": "Veronica Palm",
-    "query": "\"Veronica Palm\"",
-    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Poch",
     "query": "Poch",
+    "rank": 11,
+    "tweet_count": "46.7K Tweets"
+  },
+  {
+    "name": "#singyourdialect",
+    "query": "#singyourdialect",
+    "rank": 12,
+    "tweet_count": "47.7K Tweets"
+  },
+  {
+    "name": "Boris Johnson",
+    "query": "\"Boris Johnson\"",
+    "rank": 13,
+    "tweet_count": "114K Tweets"
+  },
+  {
+    "name": "Veronica Palm",
+    "query": "\"Veronica Palm\"",
     "rank": 14,
-    "tweet_count": "44.5K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Peppa Pig",
     "query": "\"Peppa Pig\"",
     "rank": 15,
-    "tweet_count": "90.6K Tweets"
+    "tweet_count": "92.1K Tweets"
   },
   {
     "name": "Federley",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "#finanstwitter",
-    "query": "#finanstwitter",
+    "name": "Eneroth",
+    "query": "Eneroth",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "#internetdagarna",
-    "query": "#internetdagarna",
+    "name": "#MondayMotivation",
+    "query": "#MondayMotivation",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "50.5K Tweets"
   }
 ]
