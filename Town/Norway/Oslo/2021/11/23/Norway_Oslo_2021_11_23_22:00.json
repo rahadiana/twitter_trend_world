@@ -1,27 +1,27 @@
 [
   {
-    "name": "#nrkdebatt",
-    "query": "#nrkdebatt",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Kim Friele",
     "query": "\"Kim Friele\"",
+    "rank": 1,
+    "tweet_count": "1,204 Tweets"
+  },
+  {
+    "name": "#nrkdebatt",
+    "query": "#nrkdebatt",
     "rank": 2,
-    "tweet_count": "1,201 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Reece James",
     "query": "\"Reece James\"",
     "rank": 3,
-    "tweet_count": "40.6K Tweets"
+    "tweet_count": "42.9K Tweets"
   },
   {
     "name": "Juventus",
     "query": "Juventus",
     "rank": 4,
-    "tweet_count": "77.4K Tweets"
+    "tweet_count": "78.7K Tweets"
   },
   {
     "name": "#dax18",
@@ -33,7 +33,7 @@
     "name": "#VILMUN",
     "query": "#VILMUN",
     "rank": 6,
-    "tweet_count": "39.4K Tweets"
+    "tweet_count": "39.6K Tweets"
   },
   {
     "name": "Trond Giske",
@@ -42,80 +42,80 @@
     "tweet_count": null
   },
   {
-    "name": "Villarreal",
-    "query": "Villarreal",
+    "name": "Young Boys",
+    "query": "\"Young Boys\"",
     "rank": 8,
-    "tweet_count": "83K Tweets"
+    "tweet_count": "18.6K Tweets"
+  },
+  {
+    "name": "#singyourdialect",
+    "query": "#singyourdialect",
+    "rank": 9,
+    "tweet_count": "38.5K Tweets"
   },
   {
     "name": "Logan Paul",
     "query": "\"Logan Paul\"",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "McTominay",
     "query": "McTominay",
-    "rank": 10,
-    "tweet_count": "16.5K Tweets"
-  },
-  {
-    "name": "Poch",
-    "query": "Poch",
     "rank": 11,
-    "tweet_count": "38.9K Tweets"
+    "tweet_count": "16.5K Tweets"
   },
   {
     "name": "#GRAMMYs",
     "query": "#GRAMMYs",
     "rank": 12,
-    "tweet_count": "1.24M Tweets"
+    "tweet_count": "1.26M Tweets"
+  },
+  {
+    "name": "Poch",
+    "query": "Poch",
+    "rank": 13,
+    "tweet_count": "39.1K Tweets"
   },
   {
     "name": "Donny",
     "query": "Donny",
-    "rank": 13,
-    "tweet_count": "48.5K Tweets"
+    "rank": 14,
+    "tweet_count": "48.6K Tweets"
   },
   {
     "name": "Champions League",
     "query": "\"Champions League\"",
-    "rank": 14,
-    "tweet_count": "144K Tweets"
+    "rank": 15,
+    "tweet_count": "147K Tweets"
+  },
+  {
+    "name": "Villarreal",
+    "query": "Villarreal",
+    "rank": 16,
+    "tweet_count": "83.5K Tweets"
   },
   {
     "name": "Bryggen",
     "query": "Bryggen",
-    "rank": 15,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Ahus",
     "query": "Ahus",
-    "rank": 16,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Bergen",
     "query": "Bergen",
-    "rank": 17,
-    "tweet_count": "1,862 Tweets"
-  },
-  {
-    "name": "Oslo S",
-    "query": "\"Oslo S\"",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Benfica",
-    "query": "Benfica",
     "rank": 19,
-    "tweet_count": "90.5K Tweets"
+    "tweet_count": "1,879 Tweets"
   },
   {
-    "name": "#Bybanen",
-    "query": "#Bybanen",
+    "name": "oslo s",
+    "query": "\"oslo s\"",
     "rank": 20,
     "tweet_count": null
   }
