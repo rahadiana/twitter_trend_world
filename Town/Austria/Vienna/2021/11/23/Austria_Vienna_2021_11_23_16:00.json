@@ -21,11 +21,11 @@
     "name": "Spenden",
     "query": "Spenden",
     "rank": 4,
-    "tweet_count": "1,773 Tweets"
+    "tweet_count": "1,839 Tweets"
   },
   {
-    "name": "europameister",
-    "query": "europameister",
+    "name": "Europameister",
+    "query": "Europameister",
     "rank": 5,
     "tweet_count": null
   },
@@ -39,47 +39,47 @@
     "name": "#lockdown",
     "query": "#lockdown",
     "rank": 7,
-    "tweet_count": "10.6K Tweets"
+    "tweet_count": "11K Tweets"
   },
   {
-    "name": "Pizza",
-    "query": "Pizza",
+    "name": "Skifahren",
+    "query": "Skifahren",
     "rank": 8,
-    "tweet_count": "117K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Englisch",
     "query": "Englisch",
     "rank": 9,
-    "tweet_count": "1,133 Tweets"
+    "tweet_count": "1,166 Tweets"
   },
   {
     "name": "Cent",
     "query": "Cent",
     "rank": 10,
-    "tweet_count": "19.2K Tweets"
-  },
-  {
-    "name": "Skifahren",
-    "query": "Skifahren",
-    "rank": 11,
-    "tweet_count": null
+    "tweet_count": "19.9K Tweets"
   },
   {
     "name": "Grundstück",
     "query": "Grundstück",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Skihütten",
     "query": "Skihütten",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "fertigteilhaus",
-    "query": "fertigteilhaus",
+    "name": "Pizza",
+    "query": "Pizza",
+    "rank": 13,
+    "tweet_count": "120K Tweets"
+  },
+  {
+    "name": "Fertigteilhaus",
+    "query": "Fertigteilhaus",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,13 +87,13 @@
     "name": "Tasche",
     "query": "Tasche",
     "rank": 15,
-    "tweet_count": null
+    "tweet_count": "1,047 Tweets"
   },
   {
-    "name": "Tag 1",
-    "query": "\"Tag 1\"",
+    "name": "Tag 2",
+    "query": "\"Tag 2\"",
     "rank": 16,
-    "tweet_count": "677K Tweets"
+    "tweet_count": "231K Tweets"
   },
   {
     "name": "Petrovic",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "Tag 2",
-    "query": "\"Tag 2\"",
-    "rank": 18,
-    "tweet_count": "225K Tweets"
-  },
-  {
     "name": "seilbahnen",
     "query": "seilbahnen",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Schulen",
     "query": "Schulen",
+    "rank": 19,
+    "tweet_count": "9,481 Tweets"
+  },
+  {
+    "name": "Daumen",
+    "query": "Daumen",
     "rank": 20,
-    "tweet_count": "9,138 Tweets"
+    "tweet_count": "1,790 Tweets"
   }
 ]
