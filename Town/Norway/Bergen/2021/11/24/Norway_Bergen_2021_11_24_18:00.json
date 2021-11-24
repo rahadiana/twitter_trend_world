@@ -1,15 +1,15 @@
 [
   {
-    "name": "Bergen",
-    "query": "Bergen",
+    "name": "bergen",
+    "query": "bergen",
     "rank": 1,
-    "tweet_count": "2,381 Tweets"
+    "tweet_count": "2,482 Tweets"
   },
   {
     "name": "Qatar",
     "query": "Qatar",
     "rank": 2,
-    "tweet_count": "27.2K Tweets"
+    "tweet_count": "27.8K Tweets"
   },
   {
     "name": "#dax18",
@@ -24,8 +24,8 @@
     "tweet_count": null
   },
   {
-    "name": "#nrkdebatt",
-    "query": "#nrkdebatt",
+    "name": "Bryggen",
+    "query": "Bryggen",
     "rank": 5,
     "tweet_count": null
   },
@@ -36,8 +36,8 @@
     "tweet_count": null
   },
   {
-    "name": "Bryggen",
-    "query": "Bryggen",
+    "name": "#nrkdebatt",
+    "query": "#nrkdebatt",
     "rank": 7,
     "tweet_count": null
   },
@@ -51,61 +51,61 @@
     "name": "#VILMUN",
     "query": "#VILMUN",
     "rank": 9,
-    "tweet_count": "38K Tweets"
-  },
-  {
-    "name": "Rødt",
-    "query": "Rødt",
-    "rank": 10,
-    "tweet_count": null
+    "tweet_count": "38.2K Tweets"
   },
   {
     "name": "Åsane",
     "query": "Åsane",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "Rødt",
+    "query": "Rødt",
     "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "Juventus",
-    "query": "Juventus",
-    "rank": 12,
-    "tweet_count": "92.3K Tweets"
-  },
-  {
-    "name": "Høyre",
-    "query": "Høyre",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Elden",
-    "query": "Elden",
-    "rank": 14,
-    "tweet_count": "11K Tweets"
-  },
-  {
     "name": "Trond Giske",
     "query": "\"Trond Giske\"",
-    "rank": 15,
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "Hobi",
+    "query": "Hobi",
+    "rank": 13,
+    "tweet_count": "158K Tweets"
   },
   {
     "name": "Magdalena Andersson",
     "query": "\"Magdalena Andersson\"",
-    "rank": 16,
-    "tweet_count": "13.7K Tweets"
+    "rank": 14,
+    "tweet_count": "14.4K Tweets"
   },
   {
     "name": "eva kristin hansen",
     "query": "\"eva kristin hansen\"",
-    "rank": 17,
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Høyre",
+    "query": "Høyre",
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Donny",
     "query": "Donny",
+    "rank": 17,
+    "tweet_count": "21.6K Tweets"
+  },
+  {
+    "name": "Elden",
+    "query": "Elden",
     "rank": 18,
-    "tweet_count": "21.5K Tweets"
+    "tweet_count": "11.2K Tweets"
   },
   {
     "name": "Masud Gharahkhani",
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "Young Boys",
-    "query": "\"Young Boys\"",
+    "name": "Alonso",
+    "query": "Alonso",
     "rank": 20,
-    "tweet_count": "20.1K Tweets"
+    "tweet_count": "27.9K Tweets"
   }
 ]
