@@ -3,7 +3,7 @@
     "name": "#KohLanta",
     "query": "#KohLanta",
     "rank": 1,
-    "tweet_count": "36K Tweets"
+    "tweet_count": "36.1K Tweets"
   },
   {
     "name": "Premier Concert",
@@ -12,8 +12,8 @@
     "tweet_count": null
   },
   {
-    "name": "Pire Concert",
-    "query": "\"Pire Concert\"",
+    "name": "Dernier Concert",
+    "query": "\"Dernier Concert\"",
     "rank": 3,
     "tweet_count": null
   },
@@ -30,8 +30,8 @@
     "tweet_count": null
   },
   {
-    "name": "Dernier Concert",
-    "query": "\"Dernier Concert\"",
+    "name": "Pire Concert",
+    "query": "\"Pire Concert\"",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,81 +42,81 @@
     "tweet_count": null
   },
   {
+    "name": "#facealarue",
+    "query": "#facealarue",
+    "rank": 8,
+    "tweet_count": "3,486 Tweets"
+  },
+  {
     "name": "#Benzema",
     "query": "#Benzema",
-    "rank": 8,
-    "tweet_count": "1,853 Tweets"
+    "rank": 9,
+    "tweet_count": "2,100 Tweets"
   },
   {
     "name": "#Muselier",
     "query": "#Muselier",
-    "rank": 9,
-    "tweet_count": "1,223 Tweets"
+    "rank": 10,
+    "tweet_count": "1,357 Tweets"
   },
   {
     "name": "#Hawkeye",
     "query": "#Hawkeye",
-    "rank": 10,
-    "tweet_count": "52.5K Tweets"
+    "rank": 11,
+    "tweet_count": "55.5K Tweets"
   },
   {
     "name": "Valbuena",
     "query": "Valbuena",
-    "rank": 11,
-    "tweet_count": "6,707 Tweets"
-  },
-  {
-    "name": "#facealarue",
-    "query": "#facealarue",
     "rank": 12,
-    "tweet_count": "2,185 Tweets"
+    "tweet_count": "8,396 Tweets"
   },
   {
     "name": "Les Républicains",
     "query": "\"Les Républicains\"",
     "rank": 13,
-    "tweet_count": "2,133 Tweets"
-  },
-  {
-    "name": "Freddie Mercury",
-    "query": "\"Freddie Mercury\"",
-    "rank": 14,
-    "tweet_count": "21.3K Tweets"
+    "tweet_count": "2,301 Tweets"
   },
   {
     "name": "Stéphane Richard",
     "query": "\"Stéphane Richard\"",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
+  },
+  {
+    "name": "Freddie Mercury",
+    "query": "\"Freddie Mercury\"",
+    "rank": 15,
+    "tweet_count": "22.7K Tweets"
   },
   {
     "name": "Namjoon",
     "query": "Namjoon",
     "rank": 16,
-    "tweet_count": "935K Tweets"
-  },
-  {
-    "name": "PACA",
-    "query": "PACA",
-    "rank": 17,
-    "tweet_count": "3,262 Tweets"
-  },
-  {
-    "name": "Most Surprising",
-    "query": "\"Most Surprising\"",
-    "rank": 18,
-    "tweet_count": "2,606 Tweets"
-  },
-  {
-    "name": "Next Concert",
-    "query": "\"Next Concert\"",
-    "rank": 19,
-    "tweet_count": "4,302 Tweets"
+    "tweet_count": "962K Tweets"
   },
   {
     "name": "Seen The Most",
     "query": "\"Seen The Most\"",
+    "rank": 17,
+    "tweet_count": "44.6K Tweets"
+  },
+  {
+    "name": "Dream Concert",
+    "query": "\"Dream Concert\"",
+    "rank": 18,
+    "tweet_count": "4,758 Tweets"
+  },
+  {
+    "name": "Worst Concert",
+    "query": "\"Worst Concert\"",
+    "rank": 19,
+    "tweet_count": "6,076 Tweets"
+  },
+  {
+    "name": "Most Surprising",
+    "query": "\"Most Surprising\"",
     "rank": 20,
-    "tweet_count": "44.1K Tweets"
+    "tweet_count": "2,661 Tweets"
   }
 ]
