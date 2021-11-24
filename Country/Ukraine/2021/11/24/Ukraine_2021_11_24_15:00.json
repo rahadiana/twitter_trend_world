@@ -1,25 +1,25 @@
 [
   {
-    "name": "Альбедо",
-    "query": "Альбедо",
-    "rank": 1,
-    "tweet_count": "11.1K Tweets"
-  },
-  {
     "name": "#Hawkeye",
     "query": "#Hawkeye",
-    "rank": 2,
-    "tweet_count": "85K Tweets"
+    "rank": 1,
+    "tweet_count": "89.6K Tweets"
   },
   {
     "name": "#GRAMMYs",
     "query": "#GRAMMYs",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": "1.65M Tweets"
   },
   {
-    "name": "грэмми",
-    "query": "грэмми",
+    "name": "Альбедо",
+    "query": "Альбедо",
+    "rank": 3,
+    "tweet_count": "11.3K Tweets"
+  },
+  {
+    "name": "Грэмми",
+    "query": "Грэмми",
     "rank": 4,
     "tweet_count": "13K Tweets"
   },
@@ -33,25 +33,25 @@
     "name": "Thanksgiving",
     "query": "Thanksgiving",
     "rank": 6,
-    "tweet_count": "583K Tweets"
+    "tweet_count": "606K Tweets"
   },
   {
     "name": "Chelsea",
     "query": "Chelsea",
     "rank": 7,
-    "tweet_count": "303K Tweets"
-  },
-  {
-    "name": "#Crimea",
-    "query": "#Crimea",
-    "rank": 8,
-    "tweet_count": null
+    "tweet_count": "306K Tweets"
   },
   {
     "name": "#BlackFriday",
     "query": "#BlackFriday",
+    "rank": 8,
+    "tweet_count": "77K Tweets"
+  },
+  {
+    "name": "#Crimea",
+    "query": "#Crimea",
     "rank": 9,
-    "tweet_count": "75K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Donbas",
@@ -60,28 +60,28 @@
     "tweet_count": null
   },
   {
-    "name": "Поздравляю",
-    "query": "Поздравляю",
+    "name": "в киеве",
+    "query": "\"в киеве\"",
     "rank": 11,
-    "tweet_count": "7,549 Tweets"
+    "tweet_count": "1,408 Tweets"
   },
   {
     "name": "javelin",
     "query": "javelin",
     "rank": 12,
-    "tweet_count": "2,395 Tweets"
+    "tweet_count": "2,433 Tweets"
   },
   {
-    "name": "Украину",
-    "query": "Украину",
+    "name": "Поздравляю",
+    "query": "Поздравляю",
     "rank": 13,
-    "tweet_count": "4,790 Tweets"
+    "tweet_count": "7,686 Tweets"
   },
   {
-    "name": "Твиттере",
-    "query": "Твиттере",
+    "name": "Pfizer",
+    "query": "Pfizer",
     "rank": 14,
-    "tweet_count": "2,437 Tweets"
+    "tweet_count": "106K Tweets"
   },
   {
     "name": "sergh",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
-    "name": "Добре",
-    "query": "Добре",
-    "rank": 16,
-    "tweet_count": "1,012 Tweets"
-  },
-  {
-    "name": "Юнги",
-    "query": "Юнги",
-    "rank": 17,
-    "tweet_count": "3,124 Tweets"
-  },
-  {
     "name": "Moscow",
     "query": "Moscow",
-    "rank": 18,
-    "tweet_count": "9,828 Tweets"
+    "rank": 16,
+    "tweet_count": "10.1K Tweets"
   },
   {
-    "name": "Судя",
-    "query": "Судя",
-    "rank": 19,
-    "tweet_count": "1,610 Tweets"
+    "name": "ОРДЛО",
+    "query": "ОРДЛО",
+    "rank": 17,
+    "tweet_count": null
   },
   {
     "name": "Итто",
     "query": "Итто",
+    "rank": 18,
+    "tweet_count": "4,784 Tweets"
+  },
+  {
+    "name": "Добре",
+    "query": "Добре",
+    "rank": 19,
+    "tweet_count": "1,030 Tweets"
+  },
+  {
+    "name": "OpenSea",
+    "query": "OpenSea",
     "rank": 20,
-    "tweet_count": "4,679 Tweets"
+    "tweet_count": "252K Tweets"
   }
 ]
