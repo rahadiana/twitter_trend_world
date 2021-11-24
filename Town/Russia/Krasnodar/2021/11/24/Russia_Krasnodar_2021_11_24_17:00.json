@@ -1,110 +1,122 @@
 [
   {
-    "name": "#StaySelcaDay",
-    "query": "#StaySelcaDay",
-    "rank": 1,
-    "tweet_count": "113K Tweets"
-  },
-  {
     "name": "#СпартакНаполи",
     "query": "#СпартакНаполи",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#StaySelcaDay",
+    "query": "#StaySelcaDay",
+    "rank": 2,
+    "tweet_count": "115K Tweets"
   },
   {
     "name": "#Hawkeye",
     "query": "#Hawkeye",
     "rank": 3,
-    "tweet_count": "107K Tweets"
+    "tweet_count": "109K Tweets"
+  },
+  {
+    "name": "С Победой",
+    "query": "\"С Победой\"",
+    "rank": 4,
+    "tweet_count": null
   },
   {
     "name": "#StrayKids",
     "query": "#StrayKids",
-    "rank": 4,
-    "tweet_count": "319K Tweets"
+    "rank": 5,
+    "tweet_count": "322K Tweets"
   },
   {
     "name": "Альбедо",
     "query": "Альбедо",
-    "rank": 5,
-    "tweet_count": "11.6K Tweets"
+    "rank": 6,
+    "tweet_count": "11.7K Tweets"
+  },
+  {
+    "name": "Grammys",
+    "query": "Grammys",
+    "rank": 7,
+    "tweet_count": "1.51M Tweets"
+  },
+  {
+    "name": "#HAPPYSHOTARODAY",
+    "query": "#HAPPYSHOTARODAY",
+    "rank": 8,
+    "tweet_count": "279K Tweets"
+  },
+  {
+    "name": "hobi",
+    "query": "hobi",
+    "rank": 9,
+    "tweet_count": "140K Tweets"
   },
   {
     "name": "Бастрыкин",
     "query": "Бастрыкин",
-    "rank": 6,
-    "tweet_count": "3,471 Tweets"
+    "rank": 10,
+    "tweet_count": "3,496 Tweets"
+  },
+  {
+    "name": "Селихов",
+    "query": "Селихов",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "Моргенштерна",
+    "query": "Моргенштерна",
+    "rank": 12,
+    "tweet_count": null
   },
   {
     "name": "Грэмми",
     "query": "Грэмми",
-    "rank": 7,
-    "tweet_count": "10.2K Tweets"
+    "rank": 13,
+    "tweet_count": "10.3K Tweets"
   },
   {
-    "name": "Моргенштерн",
-    "query": "Моргенштерн",
-    "rank": 8,
-    "tweet_count": "2,049 Tweets"
-  },
-  {
-    "name": "Горо",
-    "query": "Горо",
-    "rank": 9,
-    "tweet_count": "2,944 Tweets"
-  },
-  {
-    "name": "Молдавии",
-    "query": "Молдавии",
-    "rank": 10,
+    "name": "Соболев",
+    "query": "Соболев",
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Итто",
     "query": "Итто",
-    "rank": 11,
-    "tweet_count": "4,844 Tweets"
+    "rank": 15,
+    "tweet_count": "4,933 Tweets"
   },
   {
     "name": "Эолу",
     "query": "Эолу",
-    "rank": 12,
-    "tweet_count": "1,318 Tweets"
+    "rank": 16,
+    "tweet_count": "1,326 Tweets"
   },
   {
     "name": "namjoon",
     "query": "namjoon",
-    "rank": 13,
-    "tweet_count": "1.21M Tweets"
+    "rank": 17,
+    "tweet_count": "1.22M Tweets"
   },
   {
-    "name": "Спутник М",
-    "query": "\"Спутник М\"",
-    "rank": 14,
+    "name": "Молдавии",
+    "query": "Молдавии",
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "росздравнадзора",
     "query": "росздравнадзора",
-    "rank": 15,
+    "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Юнь Цзинь",
-    "query": "\"Юнь Цзинь\"",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "следственный",
-    "query": "следственный",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Шукшина",
-    "query": "Шукшина",
-    "rank": 18,
+    "name": "спутник м",
+    "query": "\"спутник м\"",
+    "rank": 20,
     "tweet_count": null
   }
 ]
