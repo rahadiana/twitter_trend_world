@@ -1,21 +1,21 @@
 [
   {
-    "name": "בוקר טוב",
-    "query": "\"בוקר טוב\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Australia",
     "query": "Australia",
+    "rank": 1,
+    "tweet_count": "144K Tweets"
+  },
+  {
+    "name": "בוקר טוב",
+    "query": "\"בוקר טוב\"",
     "rank": 2,
-    "tweet_count": "142K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Hezbollah",
     "query": "Hezbollah",
     "rank": 3,
-    "tweet_count": "3,415 Tweets"
+    "tweet_count": "3,558 Tweets"
   },
   {
     "name": "ברוך דיין",
@@ -45,25 +45,25 @@
     "name": "#Syria",
     "query": "#Syria",
     "rank": 8,
-    "tweet_count": "3,481 Tweets"
-  },
-  {
-    "name": "איזה אסון",
-    "query": "\"איזה אסון\"",
-    "rank": 9,
-    "tweet_count": null
+    "tweet_count": "3,554 Tweets"
   },
   {
     "name": "#GRAMMYs",
     "query": "#GRAMMYs",
+    "rank": 9,
+    "tweet_count": "1.48M Tweets"
+  },
+  {
+    "name": "איזה אסון",
+    "query": "\"איזה אסון\"",
     "rank": 10,
-    "tweet_count": "1.47M Tweets"
+    "tweet_count": null
   },
   {
     "name": "ניר חפץ",
     "query": "\"ניר חפץ\"",
     "rank": 11,
-    "tweet_count": "3,788 Tweets"
+    "tweet_count": "3,805 Tweets"
   },
   {
     "name": "עד מדינה",
@@ -78,45 +78,45 @@
     "tweet_count": null
   },
   {
-    "name": "חיים שדמי",
-    "query": "\"חיים שדמי\"",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
     "name": "צפון איראן",
     "query": "\"צפון איראן\"",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "#חוסמים_את_הנוכל",
     "query": "#חוסמים_את_הנוכל",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Romans",
     "query": "Romans",
-    "rank": 17,
-    "tweet_count": "13.6K Tweets"
+    "rank": 16,
+    "tweet_count": "13.7K Tweets"
   },
   {
     "name": "פתח תקווה",
     "query": "\"פתח תקווה\"",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Hanukkah",
     "query": "Hanukkah",
-    "rank": 19,
-    "tweet_count": "4,546 Tweets"
+    "rank": 18,
+    "tweet_count": "4,895 Tweets"
   },
   {
     "name": "#nftcollectors",
     "query": "#nftcollectors",
+    "rank": 19,
+    "tweet_count": "74.5K Tweets"
+  },
+  {
+    "name": "Erdogan",
+    "query": "Erdogan",
     "rank": 20,
-    "tweet_count": "73.5K Tweets"
+    "tweet_count": "320K Tweets"
   }
 ]
