@@ -15,7 +15,7 @@
     "name": "Bayern",
     "query": "Bayern",
     "rank": 3,
-    "tweet_count": "97.2K Tweets"
+    "tweet_count": "97.5K Tweets"
   },
   {
     "name": "Meilleur Concert",
@@ -24,28 +24,28 @@
     "tweet_count": null
   },
   {
-    "name": "Dernier Concert",
-    "query": "\"Dernier Concert\"",
+    "name": "Premier Concert",
+    "query": "\"Premier Concert\"",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "Premier Concert",
-    "query": "\"Premier Concert\"",
+    "name": "Dernier Concert",
+    "query": "\"Dernier Concert\"",
     "rank": 6,
     "tweet_count": null
   },
   {
-    "name": "Pire Concert",
-    "query": "\"Pire Concert\"",
-    "rank": 7,
-    "tweet_count": "1,008 Tweets"
-  },
-  {
     "name": "Prochain Concert",
     "query": "\"Prochain Concert\"",
+    "rank": 7,
+    "tweet_count": "1,026 Tweets"
+  },
+  {
+    "name": "Pire Concert",
+    "query": "\"Pire Concert\"",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "1,046 Tweets"
   },
   {
     "name": "Concert de Rêve",
@@ -57,43 +57,43 @@
     "name": "#facealarue",
     "query": "#facealarue",
     "rank": 10,
-    "tweet_count": "4,076 Tweets"
+    "tweet_count": "4,479 Tweets"
   },
   {
     "name": "#Benzema",
     "query": "#Benzema",
     "rank": 11,
-    "tweet_count": "2,195 Tweets"
-  },
-  {
-    "name": "#Guillotière",
-    "query": "#Guillotière",
-    "rank": 12,
-    "tweet_count": "2,299 Tweets"
+    "tweet_count": "2,245 Tweets"
   },
   {
     "name": "Nicolas Hulot",
     "query": "\"Nicolas Hulot\"",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "#Guillotière",
+    "query": "#Guillotière",
+    "rank": 13,
+    "tweet_count": "2,569 Tweets"
   },
   {
     "name": "Valbuena",
     "query": "Valbuena",
     "rank": 14,
-    "tweet_count": "9,027 Tweets"
+    "tweet_count": "9,430 Tweets"
   },
   {
-    "name": "Les Républicains",
-    "query": "\"Les Républicains\"",
+    "name": "Seen The Most",
+    "query": "\"Seen The Most\"",
     "rank": 15,
-    "tweet_count": "2,372 Tweets"
+    "tweet_count": "44.9K Tweets"
   },
   {
-    "name": "Next Concert",
-    "query": "\"Next Concert\"",
+    "name": "Bardella",
+    "query": "Bardella",
     "rank": 16,
-    "tweet_count": "4,621 Tweets"
+    "tweet_count": "7,704 Tweets"
   },
   {
     "name": "Stéphane Richard",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
+    "name": "Dream Concert",
+    "query": "\"Dream Concert\"",
+    "rank": 18,
+    "tweet_count": "4,819 Tweets"
+  },
+  {
     "name": "Most Surprising",
     "query": "\"Most Surprising\"",
-    "rank": 18,
-    "tweet_count": "2,683 Tweets"
-  },
-  {
-    "name": "Bardella",
-    "query": "Bardella",
     "rank": 19,
-    "tweet_count": "7,284 Tweets"
+    "tweet_count": "2,701 Tweets"
   },
   {
-    "name": "Freddie Mercury",
-    "query": "\"Freddie Mercury\"",
+    "name": "Les Républicains",
+    "query": "\"Les Républicains\"",
     "rank": 20,
-    "tweet_count": "23.3K Tweets"
+    "tweet_count": "2,439 Tweets"
   }
 ]
