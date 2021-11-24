@@ -1,110 +1,116 @@
 [
   {
+    "name": "Jennifer Arias",
+    "query": "\"Jennifer Arias\"",
+    "rank": 1,
+    "tweet_count": "92.3K Tweets"
+  },
+  {
+    "name": "Zuluaga",
+    "query": "Zuluaga",
+    "rank": 2,
+    "tweet_count": "23.6K Tweets"
+  },
+  {
+    "name": "#HayTrampaEn",
+    "query": "#HayTrampaEn",
+    "rank": 3,
+    "tweet_count": "8,948 Tweets"
+  },
+  {
+    "name": "Benfica",
+    "query": "Benfica",
+    "rank": 4,
+    "tweet_count": "102K Tweets"
+  },
+  {
+    "name": "#GRAMMYs",
+    "query": "#GRAMMYs",
+    "rank": 5,
+    "tweet_count": "1.45M Tweets"
+  },
+  {
+    "name": "#AMAsTNT",
+    "query": "#AMAsTNT",
+    "rank": 6,
+    "tweet_count": "9,829 Tweets"
+  },
+  {
+    "name": "Petro",
+    "query": "Petro",
+    "rank": 7,
+    "tweet_count": "70.7K Tweets"
+  },
+  {
+    "name": "#DeAlejandroGaviriaPienso",
+    "query": "#DeAlejandroGaviriaPienso",
+    "rank": 8,
+    "tweet_count": "1,700 Tweets"
+  },
+  {
+    "name": "Cabal",
+    "query": "Cabal",
+    "rank": 9,
+    "tweet_count": "33K Tweets"
+  },
+  {
+    "name": "Uribe",
+    "query": "Uribe",
+    "rank": 10,
+    "tweet_count": "37.4K Tweets"
+  },
+  {
     "name": "Encanto",
     "query": "Encanto",
-    "rank": 1,
-    "tweet_count": "22.2K Tweets"
+    "rank": 11,
+    "tweet_count": "22.5K Tweets"
   },
   {
     "name": "Totto",
     "query": "Totto",
-    "rank": 2,
-    "tweet_count": "1,596 Tweets"
+    "rank": 12,
+    "tweet_count": "1,632 Tweets"
   },
   {
-    "name": "#fajardoenlasopinadoras",
-    "query": "#fajardoenlasopinadoras",
-    "rank": 3,
-    "tweet_count": null
+    "name": "Universidad",
+    "query": "Universidad",
+    "rank": 13,
+    "tweet_count": "64.4K Tweets"
+  },
+  {
+    "name": "Centro Democrático",
+    "query": "\"Centro Democrático\"",
+    "rank": 14,
+    "tweet_count": "20.3K Tweets"
+  },
+  {
+    "name": "Mauricio Leal",
+    "query": "\"Mauricio Leal\"",
+    "rank": 15,
+    "tweet_count": "1,618 Tweets"
   },
   {
     "name": "María Antonia",
     "query": "\"María Antonia\"",
-    "rank": 4,
+    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "#RenuncieVaga",
-    "query": "#RenuncieVaga",
-    "rank": 5,
-    "tweet_count": "6,931 Tweets"
+    "name": "Chelsea",
+    "query": "Chelsea",
+    "rank": 17,
+    "tweet_count": "264K Tweets"
   },
   {
-    "name": "Cardi B",
-    "query": "\"Cardi B\"",
-    "rank": 6,
-    "tweet_count": "18.9K Tweets"
-  },
-  {
-    "name": "juanes",
-    "query": "juanes",
-    "rank": 7,
-    "tweet_count": "3,123 Tweets"
-  },
-  {
-    "name": "Maluma",
-    "query": "Maluma",
-    "rank": 8,
-    "tweet_count": "3,364 Tweets"
-  },
-  {
-    "name": "Atalanta",
-    "query": "Atalanta",
-    "rank": 9,
-    "tweet_count": "24.3K Tweets"
+    "name": "Depay",
+    "query": "Depay",
+    "rank": 18,
+    "tweet_count": "26.5K Tweets"
   },
   {
     "name": "Barcelona",
     "query": "Barcelona",
-    "rank": 10,
-    "tweet_count": "130K Tweets"
-  },
-  {
-    "name": "Las FARC",
-    "query": "\"Las FARC\"",
-    "rank": 11,
-    "tweet_count": "37.6K Tweets"
-  },
-  {
-    "name": "Bayern",
-    "query": "Bayern",
-    "rank": 12,
-    "tweet_count": "89.2K Tweets"
-  },
-  {
-    "name": "Biden",
-    "query": "Biden",
-    "rank": 13,
-    "tweet_count": "675K Tweets"
-  },
-  {
-    "name": "Dimayor",
-    "query": "Dimayor",
-    "rank": 14,
-    "tweet_count": "2,767 Tweets"
-  },
-  {
-    "name": "Champions",
-    "query": "Champions",
-    "rank": 15,
-    "tweet_count": "333K Tweets"
-  },
-  {
-    "name": "Andes",
-    "query": "Andes",
-    "rank": 16,
-    "tweet_count": "5,888 Tweets"
-  },
-  {
-    "name": "Corte Suprema",
-    "query": "\"Corte Suprema\"",
-    "rank": 17,
-    "tweet_count": "14.7K Tweets"
-  },
-  {
-    "name": "Europa League",
-    "query": "\"Europa League\"",
-    "rank": 18,
-    "tweet_count": "26.8K Tweets"
+    "rank": 19,
+    "tweet_count": "131K Tweets"
   }
 ]
