@@ -1,21 +1,21 @@
 [
   {
-    "name": "Bridges",
-    "query": "Bridges",
-    "rank": 1,
-    "tweet_count": "25.2K Tweets"
-  },
-  {
     "name": "Collins",
     "query": "Collins",
+    "rank": 1,
+    "tweet_count": "35.1K Tweets"
+  },
+  {
+    "name": "Bridges",
+    "query": "Bridges",
     "rank": 2,
-    "tweet_count": "34.6K Tweets"
+    "tweet_count": "25.4K Tweets"
   },
   {
     "name": "National Party",
     "query": "\"National Party\"",
     "rank": 3,
-    "tweet_count": "8,717 Tweets"
+    "tweet_count": "8,863 Tweets"
   },
   {
     "name": "Luxon",
@@ -27,67 +27,67 @@
     "name": "#nzpol",
     "query": "#nzpol",
     "rank": 5,
-    "tweet_count": "1,678 Tweets"
-  },
-  {
-    "name": "Mitchell",
-    "query": "Mitchell",
-    "rank": 6,
-    "tweet_count": "11.5K Tweets"
+    "tweet_count": "1,724 Tweets"
   },
   {
     "name": "Shane Reti",
     "query": "\"Shane Reti\"",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
   },
   {
-    "name": "Willis",
-    "query": "Willis",
-    "rank": 8,
-    "tweet_count": "9,859 Tweets"
+    "name": "Mitchell",
+    "query": "Mitchell",
+    "rank": 7,
+    "tweet_count": "11.6K Tweets"
   },
   {
     "name": "Nats",
     "query": "Nats",
-    "rank": 9,
-    "tweet_count": "30.9K Tweets"
+    "rank": 8,
+    "tweet_count": "31.1K Tweets"
   },
   {
-    "name": "Tova",
-    "query": "Tova",
-    "rank": 10,
-    "tweet_count": "1,130 Tweets"
+    "name": "Willis",
+    "query": "Willis",
+    "rank": 9,
+    "tweet_count": "9,903 Tweets"
   },
   {
     "name": "Jacqui Dean",
     "query": "\"Jacqui Dean\"",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "Tova",
+    "query": "Tova",
     "rank": 11,
-    "tweet_count": null
+    "tweet_count": "1,143 Tweets"
   },
   {
-    "name": "bill english",
-    "query": "\"bill english\"",
+    "name": "Bill English",
+    "query": "\"Bill English\"",
     "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Thanksgiving",
-    "query": "Thanksgiving",
-    "rank": 13,
-    "tweet_count": "892K Tweets"
-  },
-  {
-    "name": "Chris Bishop",
-    "query": "\"Chris Bishop\"",
-    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Muller",
     "query": "Muller",
+    "rank": 13,
+    "tweet_count": "6,979 Tweets"
+  },
+  {
+    "name": "Thanksgiving",
+    "query": "Thanksgiving",
+    "rank": 14,
+    "tweet_count": "904K Tweets"
+  },
+  {
+    "name": "Chris Bishop",
+    "query": "\"Chris Bishop\"",
     "rank": 15,
-    "tweet_count": "6,923 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Goodfellow",
@@ -99,24 +99,24 @@
     "name": "Parliament",
     "query": "Parliament",
     "rank": 17,
-    "tweet_count": "87.3K Tweets"
+    "tweet_count": "87.7K Tweets"
+  },
+  {
+    "name": "National Caucus",
+    "query": "\"National Caucus\"",
+    "rank": 18,
+    "tweet_count": null
   },
   {
     "name": "Labour",
     "query": "Labour",
-    "rank": 18,
-    "tweet_count": "64.6K Tweets"
+    "rank": 19,
+    "tweet_count": "64.9K Tweets"
   },
   {
     "name": "#NationalNotFitToGovern",
     "query": "#NationalNotFitToGovern",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "#Hawkeye",
-    "query": "#Hawkeye",
     "rank": 20,
-    "tweet_count": "152K Tweets"
+    "tweet_count": null
   }
 ]
