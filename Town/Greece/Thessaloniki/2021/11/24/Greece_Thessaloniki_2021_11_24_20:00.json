@@ -1,33 +1,33 @@
 [
   {
+    "name": "#sasmos",
+    "query": "#sasmos",
+    "rank": 1,
+    "tweet_count": "3,844 Tweets"
+  },
+  {
     "name": "#Σερβεταλης",
     "query": "#Σερβεταλης",
-    "rank": 1,
-    "tweet_count": "5,081 Tweets"
+    "rank": 2,
+    "tweet_count": "5,141 Tweets"
   },
   {
     "name": "#radio_taverna",
     "query": "#radio_taverna",
-    "rank": 2,
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "#mousikokouti",
+    "query": "#mousikokouti",
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "#λοκνταουν",
     "query": "#λοκνταουν",
-    "rank": 3,
-    "tweet_count": "4,103 Tweets"
-  },
-  {
-    "name": "#sasmos",
-    "query": "#sasmos",
-    "rank": 4,
-    "tweet_count": "3,062 Tweets"
-  },
-  {
-    "name": "#shoppingstar",
-    "query": "#shoppingstar",
     "rank": 5,
-    "tweet_count": "1,162 Tweets"
+    "tweet_count": "4,227 Tweets"
   },
   {
     "name": "Ανθουλα",
@@ -63,13 +63,13 @@
     "name": "Hobi",
     "query": "Hobi",
     "rank": 11,
-    "tweet_count": "167K Tweets"
+    "tweet_count": "169K Tweets"
   },
   {
     "name": "Φουρθιωτη",
     "query": "Φουρθιωτη",
     "rank": 12,
-    "tweet_count": "1,591 Tweets"
+    "tweet_count": "1,597 Tweets"
   },
   {
     "name": "Καλλιοπη",
@@ -81,25 +81,25 @@
     "name": "Thanksgiving",
     "query": "Thanksgiving",
     "rank": 14,
-    "tweet_count": "752K Tweets"
-  },
-  {
-    "name": "Freddie Mercury",
-    "query": "\"Freddie Mercury\"",
-    "rank": 15,
-    "tweet_count": "60.1K Tweets"
+    "tweet_count": "776K Tweets"
   },
   {
     "name": "καλημερα αθηνα",
     "query": "\"καλημερα αθηνα\"",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
+  },
+  {
+    "name": "Freddie Mercury",
+    "query": "\"Freddie Mercury\"",
+    "rank": 16,
+    "tweet_count": "61.5K Tweets"
   },
   {
     "name": "namjoon",
     "query": "namjoon",
     "rank": 17,
-    "tweet_count": "1.22M Tweets"
+    "tweet_count": "1.23M Tweets"
   },
   {
     "name": "καλημερα γιασεμη",
@@ -108,14 +108,14 @@
     "tweet_count": null
   },
   {
-    "name": "kαλημερα",
-    "query": "kαλημερα",
+    "name": "Ανουνακι",
+    "query": "Ανουνακι",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "ανχελιτα",
-    "query": "ανχελιτα",
+    "name": "kαλημερα",
+    "query": "kαλημερα",
     "rank": 20,
     "tweet_count": null
   }
