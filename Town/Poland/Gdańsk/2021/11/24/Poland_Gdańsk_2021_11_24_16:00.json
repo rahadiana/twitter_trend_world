@@ -1,39 +1,39 @@
 [
   {
-    "name": "#GRAMMYs",
-    "query": "#GRAMMYs",
+    "name": "Konstytucją",
+    "query": "Konstytucją",
     "rank": 1,
-    "tweet_count": "1.63M Tweets"
+    "tweet_count": "2,370 Tweets"
   },
   {
     "name": "#matura2022",
     "query": "#matura2022",
     "rank": 2,
-    "tweet_count": "3,096 Tweets"
+    "tweet_count": "3,239 Tweets"
+  },
+  {
+    "name": "#GRAMMYs",
+    "query": "#GRAMMYs",
+    "rank": 3,
+    "tweet_count": "1.64M Tweets"
   },
   {
     "name": "Mejza",
     "query": "Mejza",
-    "rank": 3,
-    "tweet_count": "10.4K Tweets"
-  },
-  {
-    "name": "Konstytucją",
-    "query": "Konstytucją",
     "rank": 4,
-    "tweet_count": "1,563 Tweets"
+    "tweet_count": "11K Tweets"
   },
   {
     "name": "#HawkeyeSeries",
     "query": "#HawkeyeSeries",
     "rank": 5,
-    "tweet_count": "11.4K Tweets"
+    "tweet_count": "12.4K Tweets"
   },
   {
     "name": "Gowin",
     "query": "Gowin",
     "rank": 6,
-    "tweet_count": "3,361 Tweets"
+    "tweet_count": "3,538 Tweets"
   },
   {
     "name": "#baddietalk",
@@ -51,23 +51,23 @@
     "name": "\"Dziady\"",
     "query": "\"Dziady\"",
     "rank": 9,
-    "tweet_count": "3,090 Tweets"
+    "tweet_count": "3,153 Tweets"
   },
   {
-    "name": "#stayselcaday",
-    "query": "#stayselcaday",
+    "name": "#katolspejs",
+    "query": "#katolspejs",
     "rank": 10,
-    "tweet_count": "94.6K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Witek",
     "query": "Witek",
     "rank": 11,
-    "tweet_count": "3,468 Tweets"
+    "tweet_count": "3,672 Tweets"
   },
   {
-    "name": "Przyłębska",
-    "query": "Przyłębska",
+    "name": "Trybunał Konstytucyjny",
+    "query": "\"Trybunał Konstytucyjny\"",
     "rank": 12,
     "tweet_count": null
   },
@@ -78,34 +78,34 @@
     "tweet_count": null
   },
   {
-    "name": "Trybunał Konstytucyjny",
-    "query": "\"Trybunał Konstytucyjny\"",
+    "name": "Przyłębska",
+    "query": "Przyłębska",
     "rank": 14,
     "tweet_count": null
   },
   {
+    "name": "Freddie Mercury",
+    "query": "\"Freddie Mercury\"",
+    "rank": 15,
+    "tweet_count": "47.9K Tweets"
+  },
+  {
     "name": "İbrahim",
     "query": "İbrahim",
-    "rank": 15,
-    "tweet_count": "23K Tweets"
+    "rank": 16,
+    "tweet_count": "23.8K Tweets"
   },
   {
     "name": "Depresja",
     "query": "Depresja",
-    "rank": 16,
-    "tweet_count": "1,724 Tweets"
-  },
-  {
-    "name": "Freddie Mercury",
-    "query": "\"Freddie Mercury\"",
     "rank": 17,
-    "tweet_count": "45K Tweets"
+    "tweet_count": "1,782 Tweets"
   },
   {
     "name": "Albedo",
     "query": "Albedo",
     "rank": 18,
-    "tweet_count": "192K Tweets"
+    "tweet_count": "197K Tweets"
   },
   {
     "name": "\"Dziadów\"",
@@ -117,6 +117,6 @@
     "name": "Zaszczepiona",
     "query": "Zaszczepiona",
     "rank": 20,
-    "tweet_count": "1,422 Tweets"
+    "tweet_count": "1,485 Tweets"
   }
 ]

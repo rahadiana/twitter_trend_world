@@ -1,121 +1,121 @@
 [
   {
+    "name": "#Gebauer",
+    "query": "#Gebauer",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "#Koalitionsvertrag",
     "query": "#Koalitionsvertrag",
-    "rank": 1,
-    "tweet_count": "22.9K Tweets"
+    "rank": 2,
+    "tweet_count": "26.5K Tweets"
   },
   {
     "name": "#CannabisLegal",
     "query": "#CannabisLegal",
-    "rank": 2,
-    "tweet_count": "3,640 Tweets"
+    "rank": 3,
+    "tweet_count": "4,455 Tweets"
   },
   {
-    "name": "#mehrfortschrittwagen",
-    "query": "#mehrfortschrittwagen",
-    "rank": 3,
-    "tweet_count": null
+    "name": "#MehrFortschrittWagen",
+    "query": "#MehrFortschrittWagen",
+    "rank": 4,
+    "tweet_count": "1,045 Tweets"
+  },
+  {
+    "name": "#PlayItForward",
+    "query": "#PlayItForward",
+    "rank": 5,
+    "tweet_count": "1,925 Tweets"
   },
   {
     "name": "Scholz",
     "query": "Scholz",
-    "rank": 4,
-    "tweet_count": "10.8K Tweets"
-  },
-  {
-    "name": "#219a",
-    "query": "#219a",
-    "rank": 5,
-    "tweet_count": "1,277 Tweets"
-  },
-  {
-    "name": "#Habeck",
-    "query": "#Habeck",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "11.9K Tweets"
   },
   {
-    "name": "Verkehrsministerium",
-    "query": "Verkehrsministerium",
+    "name": "Lindner",
+    "query": "Lindner",
     "rank": 7,
-    "tweet_count": "1,601 Tweets"
-  },
-  {
-    "name": "Kanzler",
-    "query": "Kanzler",
-    "rank": 8,
-    "tweet_count": "2,822 Tweets"
-  },
-  {
-    "name": "Christian Lindner",
-    "query": "\"Christian Lindner\"",
-    "rank": 9,
-    "tweet_count": "1,652 Tweets"
+    "tweet_count": "12.6K Tweets"
   },
   {
     "name": "Aufbruch",
     "query": "Aufbruch",
-    "rank": 10,
+    "rank": 8,
     "tweet_count": null
+  },
+  {
+    "name": "Kanzler",
+    "query": "Kanzler",
+    "rank": 9,
+    "tweet_count": "2,995 Tweets"
   },
   {
     "name": "Vorhaben",
     "query": "Vorhaben",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Bündnis für Freiheit",
-    "query": "\"Bündnis für Freiheit\"",
-    "rank": 12,
+    "name": "Drohnen",
+    "query": "Drohnen",
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Umsetzung",
     "query": "Umsetzung",
+    "rank": 12,
+    "tweet_count": "1,295 Tweets"
+  },
+  {
+    "name": "Wahlalter 16",
+    "query": "\"Wahlalter 16\"",
     "rank": 13,
-    "tweet_count": "1,183 Tweets"
-  },
-  {
-    "name": "Drohnen",
-    "query": "Drohnen",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Wahlrecht ab 16",
-    "query": "\"Wahlrecht ab 16\"",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Außenpolitik",
-    "query": "Außenpolitik",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Geländer",
-    "query": "Geländer",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Tempolimit",
-    "query": "Tempolimit",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Krisenstab",
-    "query": "Krisenstab",
-    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Eigenanbau",
     "query": "Eigenanbau",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Außenpolitik",
+    "query": "Außenpolitik",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Wahlrecht ab 16",
+    "query": "\"Wahlrecht ab 16\"",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Kohleausstieg",
+    "query": "Kohleausstieg",
+    "rank": 17,
+    "tweet_count": "2,530 Tweets"
+  },
+  {
+    "name": "Pressekonferenz",
+    "query": "Pressekonferenz",
+    "rank": 18,
+    "tweet_count": "1,616 Tweets"
+  },
+  {
+    "name": "StGB",
+    "query": "StGB",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Tempolimit",
+    "query": "Tempolimit",
     "rank": 20,
     "tweet_count": null
   }
