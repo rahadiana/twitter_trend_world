@@ -1,39 +1,39 @@
 [
   {
-    "name": "#kohlanta",
-    "query": "#kohlanta",
+    "name": "#KohLanta",
+    "query": "#KohLanta",
     "rank": 1,
-    "tweet_count": "36.7K Tweets"
+    "tweet_count": "36.8K Tweets"
   },
   {
     "name": "#srfclub",
     "query": "#srfclub",
     "rank": 2,
-    "tweet_count": "1,075 Tweets"
+    "tweet_count": "1,078 Tweets"
   },
   {
     "name": "namjoon",
     "query": "namjoon",
     "rank": 3,
-    "tweet_count": "1.1M Tweets"
+    "tweet_count": "1.11M Tweets"
   },
   {
-    "name": "#YBATA",
-    "query": "#YBATA",
+    "name": "#ybata",
+    "query": "#ybata",
     "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "Berger",
-    "query": "Berger",
-    "rank": 5,
-    "tweet_count": "3,365 Tweets"
-  },
-  {
     "name": "Bayern",
     "query": "Bayern",
+    "rank": 5,
+    "tweet_count": "101K Tweets"
+  },
+  {
+    "name": "Berger",
+    "query": "Berger",
     "rank": 6,
-    "tweet_count": "100K Tweets"
+    "tweet_count": "3,400 Tweets"
   },
   {
     "name": "#GRAMMYs",
@@ -45,78 +45,78 @@
     "name": "Seferovic",
     "query": "Seferovic",
     "rank": 8,
-    "tweet_count": "54.3K Tweets"
+    "tweet_count": "54.6K Tweets"
   },
   {
     "name": "Demir",
     "query": "Demir",
     "rank": 9,
-    "tweet_count": "32.7K Tweets"
-  },
-  {
-    "name": "Dernier Concert",
-    "query": "\"Dernier Concert\"",
-    "rank": 10,
-    "tweet_count": "1,866 Tweets"
+    "tweet_count": "32.8K Tweets"
   },
   {
     "name": "Pire Concert",
     "query": "\"Pire Concert\"",
+    "rank": 10,
+    "tweet_count": "2,086 Tweets"
+  },
+  {
+    "name": "#ChelseaJuve",
+    "query": "#ChelseaJuve",
     "rank": 11,
-    "tweet_count": "1,994 Tweets"
+    "tweet_count": "20K Tweets"
+  },
+  {
+    "name": "le conseil",
+    "query": "\"le conseil\"",
+    "rank": 12,
+    "tweet_count": "13.1K Tweets"
   },
   {
     "name": "Meilleur Concert",
     "query": "\"Meilleur Concert\"",
-    "rank": 12,
-    "tweet_count": "1,890 Tweets"
-  },
-  {
-    "name": "#ChampionsLeague",
-    "query": "#ChampionsLeague",
     "rank": 13,
-    "tweet_count": "25K Tweets"
+    "tweet_count": "1,985 Tweets"
   },
   {
-    "name": "Le Conseil",
-    "query": "\"Le Conseil\"",
+    "name": "Dernier Concert",
+    "query": "\"Dernier Concert\"",
     "rank": 14,
-    "tweet_count": "12.9K Tweets"
+    "tweet_count": "1,961 Tweets"
   },
   {
     "name": "Memphis",
     "query": "Memphis",
     "rank": 15,
-    "tweet_count": "41.3K Tweets"
+    "tweet_count": "41.6K Tweets"
   },
   {
     "name": "Benfica",
     "query": "Benfica",
     "rank": 16,
-    "tweet_count": "99.4K Tweets"
-  },
-  {
-    "name": "paléo",
-    "query": "paléo",
-    "rank": 17,
-    "tweet_count": "1,896 Tweets"
+    "tweet_count": "99.8K Tweets"
   },
   {
     "name": "Olivia",
     "query": "Olivia",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": "178K Tweets"
   },
   {
     "name": "Künstler",
     "query": "Künstler",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Reece James",
     "query": "\"Reece James\"",
+    "rank": 19,
+    "tweet_count": "75.5K Tweets"
+  },
+  {
+    "name": "Strafe",
+    "query": "Strafe",
     "rank": 20,
-    "tweet_count": "75.1K Tweets"
+    "tweet_count": "1,563 Tweets"
   }
 ]
