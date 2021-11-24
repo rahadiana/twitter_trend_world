@@ -1,104 +1,116 @@
 [
   {
+    "name": "#ImACeleb",
+    "query": "#ImACeleb",
+    "rank": 1,
+    "tweet_count": "21.9K Tweets"
+  },
+  {
+    "name": "#GBBOFinal",
+    "query": "#GBBOFinal",
+    "rank": 2,
+    "tweet_count": "19.7K Tweets"
+  },
+  {
     "name": "Chelsea",
     "query": "Chelsea",
-    "rank": 1,
-    "tweet_count": "274K Tweets"
+    "rank": 3,
+    "tweet_count": "278K Tweets"
   },
   {
     "name": "Sancho",
     "query": "Sancho",
-    "rank": 2,
-    "tweet_count": "125K Tweets"
+    "rank": 4,
+    "tweet_count": "126K Tweets"
   },
   {
-    "name": "Carrick",
-    "query": "Carrick",
-    "rank": 3,
-    "tweet_count": "112K Tweets"
+    "name": "#wednesdaythought",
+    "query": "#wednesdaythought",
+    "rank": 5,
+    "tweet_count": "12.6K Tweets"
   },
   {
     "name": "#FFBWednesday",
     "query": "#FFBWednesday",
-    "rank": 4,
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "Namjoon",
     "query": "Namjoon",
-    "rank": 5,
-    "tweet_count": "667K Tweets"
-  },
-  {
-    "name": "#wednesdaythought",
-    "query": "#wednesdaythought",
-    "rank": 6,
-    "tweet_count": "12K Tweets"
-  },
-  {
-    "name": "#FreddieMercury30",
-    "query": "#FreddieMercury30",
     "rank": 7,
-    "tweet_count": "1,505 Tweets"
+    "tweet_count": "741K Tweets"
   },
   {
     "name": "#WednesdayMotivation",
     "query": "#WednesdayMotivation",
     "rank": 8,
-    "tweet_count": "11.9K Tweets"
-  },
-  {
-    "name": "#singyourdialect",
-    "query": "#singyourdialect",
-    "rank": 9,
-    "tweet_count": "52.5K Tweets"
+    "tweet_count": "12.4K Tweets"
   },
   {
     "name": "Reece James",
     "query": "\"Reece James\"",
-    "rank": 10,
-    "tweet_count": "62.7K Tweets"
+    "rank": 9,
+    "tweet_count": "63.7K Tweets"
   },
   {
     "name": "Naughty Boy",
     "query": "\"Naughty Boy\"",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": "13.4K Tweets"
   },
   {
     "name": "John Fleck",
     "query": "\"John Fleck\"",
-    "rank": 12,
-    "tweet_count": "5,635 Tweets"
+    "rank": 11,
+    "tweet_count": "5,776 Tweets"
   },
   {
     "name": "Giuseppe",
     "query": "Giuseppe",
-    "rank": 13,
-    "tweet_count": "13K Tweets"
+    "rank": 12,
+    "tweet_count": "13.1K Tweets"
   },
   {
     "name": "Arlene",
     "query": "Arlene",
+    "rank": 13,
+    "tweet_count": "3,341 Tweets"
+  },
+  {
+    "name": "#FreddieMercury30",
+    "query": "#FreddieMercury30",
     "rank": 14,
-    "tweet_count": "3,324 Tweets"
+    "tweet_count": "1,617 Tweets"
   },
   {
-    "name": "#DARTMission",
-    "query": "#DARTMission",
+    "name": "#Windrush",
+    "query": "#Windrush",
     "rank": 15,
-    "tweet_count": "10.8K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#teacher5oclockclub",
-    "query": "#teacher5oclockclub",
+    "name": "#HarpersLaw",
+    "query": "#HarpersLaw",
     "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "#Hawkeye",
-    "query": "#Hawkeye",
+    "name": "#SINGYOURDIALECT",
+    "query": "#SINGYOURDIALECT",
     "rank": 17,
-    "tweet_count": "37.2K Tweets"
+    "tweet_count": "52.8K Tweets"
+  },
+  {
+    "name": "#DARTMission",
+    "query": "#DARTMission",
+    "rank": 18,
+    "tweet_count": "11.6K Tweets"
+  },
+  {
+    "name": "#teacher5oclockclub",
+    "query": "#teacher5oclockclub",
+    "rank": 19,
+    "tweet_count": null
   }
 ]
