@@ -1,7 +1,7 @@
 [
   {
-    "name": "#SINGYOURDIALECT",
-    "query": "#SINGYOURDIALECT",
+    "name": "#singyourdialect",
+    "query": "#singyourdialect",
     "rank": 1,
     "tweet_count": "52.9K Tweets"
   },
@@ -12,76 +12,76 @@
     "tweet_count": "21.8K Tweets"
   },
   {
-    "name": "#GBBO",
-    "query": "#GBBO",
+    "name": "Super League",
+    "query": "\"Super League\"",
     "rank": 3,
-    "tweet_count": "16.3K Tweets"
+    "tweet_count": "12.7K Tweets"
   },
   {
-    "name": "#THElive",
-    "query": "#THElive",
+    "name": "#JeremyVine",
+    "query": "#JeremyVine",
     "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "Super League",
-    "query": "\"Super League\"",
+    "name": "Thanksgiving",
+    "query": "Thanksgiving",
     "rank": 5,
-    "tweet_count": "12.7K Tweets"
+    "tweet_count": "535K Tweets"
   },
   {
     "name": "Reece",
     "query": "Reece",
     "rank": 6,
-    "tweet_count": "82.6K Tweets"
+    "tweet_count": "83K Tweets"
   },
   {
     "name": "#wednesdaythought",
     "query": "#wednesdaythought",
     "rank": 7,
-    "tweet_count": "16.2K Tweets"
+    "tweet_count": "16.5K Tweets"
+  },
+  {
+    "name": "#FreddieMercury",
+    "query": "#FreddieMercury",
+    "rank": 8,
+    "tweet_count": "8,928 Tweets"
   },
   {
     "name": "Dominic Raab",
     "query": "\"Dominic Raab\"",
-    "rank": 8,
-    "tweet_count": "3,176 Tweets"
-  },
-  {
-    "name": "Namjoon",
-    "query": "Namjoon",
     "rank": 9,
-    "tweet_count": "916K Tweets"
-  },
-  {
-    "name": "Windrush",
-    "query": "Windrush",
-    "rank": 10,
-    "tweet_count": "4,229 Tweets"
+    "tweet_count": "3,307 Tweets"
   },
   {
     "name": "Shaun Murphy",
     "query": "\"Shaun Murphy\"",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "Prison FC",
+    "query": "\"Prison FC\"",
     "rank": 11,
     "tweet_count": null
   },
   {
+    "name": "Windrush",
+    "query": "Windrush",
+    "rank": 12,
+    "tweet_count": "4,383 Tweets"
+  },
+  {
+    "name": "Namjoon",
+    "query": "Namjoon",
+    "rank": 13,
+    "tweet_count": "925K Tweets"
+  },
+  {
     "name": "Stella Creasy",
     "query": "\"Stella Creasy\"",
-    "rank": 12,
-    "tweet_count": "1,163 Tweets"
-  },
-  {
-    "name": "Commons",
-    "query": "Commons",
-    "rank": 13,
-    "tweet_count": "25.8K Tweets"
-  },
-  {
-    "name": "NASA",
-    "query": "NASA",
     "rank": 14,
-    "tweet_count": "124K Tweets"
+    "tweet_count": "1,210 Tweets"
   },
   {
     "name": "Adil Ray",
@@ -93,18 +93,18 @@
     "name": "Channel 4",
     "query": "\"Channel 4\"",
     "rank": 16,
-    "tweet_count": "24.2K Tweets"
+    "tweet_count": "24.3K Tweets"
   },
   {
-    "name": "Nadine Dorries",
-    "query": "\"Nadine Dorries\"",
+    "name": "NASA",
+    "query": "NASA",
     "rank": 17,
-    "tweet_count": "22.7K Tweets"
+    "tweet_count": "126K Tweets"
   },
   {
     "name": "John Fleck",
     "query": "\"John Fleck\"",
     "rank": 18,
-    "tweet_count": "7,002 Tweets"
+    "tweet_count": "7,077 Tweets"
   }
 ]
