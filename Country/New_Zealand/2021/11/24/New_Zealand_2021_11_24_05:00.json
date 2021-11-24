@@ -1,33 +1,33 @@
 [
   {
-    "name": "Barry",
-    "query": "Barry",
-    "rank": 1,
-    "tweet_count": "20K Tweets"
-  },
-  {
     "name": "Grammys",
     "query": "Grammys",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "1.97M Tweets"
+  },
+  {
+    "name": "Barry",
+    "query": "Barry",
+    "rank": 2,
+    "tweet_count": "20.1K Tweets"
   },
   {
     "name": "Australia",
     "query": "Australia",
     "rank": 3,
-    "tweet_count": "143K Tweets"
+    "tweet_count": "144K Tweets"
   },
   {
     "name": "Black Friday",
     "query": "\"Black Friday\"",
     "rank": 4,
-    "tweet_count": "271K Tweets"
+    "tweet_count": "273K Tweets"
   },
   {
     "name": "Lakers",
     "query": "Lakers",
     "rank": 5,
-    "tweet_count": "67.5K Tweets"
+    "tweet_count": "67.9K Tweets"
   },
   {
     "name": "Hipkins",
@@ -45,7 +45,7 @@
     "name": "#singyourdialect",
     "query": "#singyourdialect",
     "rank": 8,
-    "tweet_count": "52.8K Tweets"
+    "tweet_count": "53K Tweets"
   },
   {
     "name": "hannah tamaki",
@@ -63,13 +63,13 @@
     "name": "Russ",
     "query": "Russ",
     "rank": 11,
-    "tweet_count": "18.4K Tweets"
+    "tweet_count": "18.5K Tweets"
   },
   {
     "name": "Christmas",
     "query": "Christmas",
     "rank": 12,
-    "tweet_count": "754K Tweets"
+    "tweet_count": "759K Tweets"
   },
   {
     "name": "Richard Prebble",
@@ -96,27 +96,27 @@
     "tweet_count": "126K Tweets"
   },
   {
+    "name": "#SecretSantaNZ2021",
+    "query": "#SecretSantaNZ2021",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
     "name": "Linux",
     "query": "Linux",
-    "rank": 17,
-    "tweet_count": "28.3K Tweets"
+    "rank": 18,
+    "tweet_count": "28.6K Tweets"
   },
   {
     "name": "Hendy",
     "query": "Hendy",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "legislation bill",
     "query": "\"legislation bill\"",
-    "rank": 19,
-    "tweet_count": "4,129 Tweets"
-  },
-  {
-    "name": "Realme",
-    "query": "Realme",
     "rank": 20,
-    "tweet_count": "3,237 Tweets"
+    "tweet_count": "4,167 Tweets"
   }
 ]
