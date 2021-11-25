@@ -6,16 +6,16 @@
     "tweet_count": "154K Tweets"
   },
   {
-    "name": "#спартакнаполи",
-    "query": "#спартакнаполи",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
     "name": "#HawkeyeSeries",
     "query": "#HawkeyeSeries",
+    "rank": 2,
+    "tweet_count": "26.6K Tweets"
+  },
+  {
+    "name": "#спартакнаполи",
+    "query": "#спартакнаполи",
     "rank": 3,
-    "tweet_count": "26.5K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#нюдсочетверг",
@@ -27,31 +27,31 @@
     "name": "Альбедо",
     "query": "Альбедо",
     "rank": 5,
-    "tweet_count": "9,708 Tweets"
-  },
-  {
-    "name": "#коточетверг",
-    "query": "#коточетверг",
-    "rank": 6,
-    "tweet_count": null
+    "tweet_count": "9,725 Tweets"
   },
   {
     "name": "Интеллект",
     "query": "Интеллект",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "Бастрыкин",
     "query": "Бастрыкин",
+    "rank": 7,
+    "tweet_count": "2,409 Tweets"
+  },
+  {
+    "name": "сводка чс",
+    "query": "\"сводка чс\"",
     "rank": 8,
-    "tweet_count": "2,402 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Моргенштерн",
     "query": "Моргенштерн",
     "rank": 9,
-    "tweet_count": "2,552 Tweets"
+    "tweet_count": "2,565 Tweets"
   },
   {
     "name": "с победой",
@@ -60,16 +60,16 @@
     "tweet_count": null
   },
   {
-    "name": "Лоза",
-    "query": "Лоза",
+    "name": "грэмми",
+    "query": "грэмми",
     "rank": 11,
-    "tweet_count": "1,153 Tweets"
+    "tweet_count": "2,924 Tweets"
   },
   {
-    "name": "Грэмми",
-    "query": "Грэмми",
+    "name": "Горо",
+    "query": "Горо",
     "rank": 12,
-    "tweet_count": "2,923 Tweets"
+    "tweet_count": "3,284 Tweets"
   },
   {
     "name": "росздравнадзора",
@@ -78,45 +78,33 @@
     "tweet_count": null
   },
   {
-    "name": "Итто",
-    "query": "Итто",
+    "name": "Лоза",
+    "query": "Лоза",
     "rank": 14,
-    "tweet_count": "4,916 Tweets"
+    "tweet_count": "1,164 Tweets"
   },
   {
-    "name": "Селихов",
-    "query": "Селихов",
+    "name": "итто",
+    "query": "итто",
     "rank": 15,
-    "tweet_count": null
+    "tweet_count": "4,929 Tweets"
   },
   {
-    "name": "Горо",
-    "query": "Горо",
+    "name": "Молдавии",
+    "query": "Молдавии",
     "rank": 16,
-    "tweet_count": "3,274 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Шукшина",
     "query": "Шукшина",
     "rank": 17,
-    "tweet_count": "1,222 Tweets"
+    "tweet_count": "1,237 Tweets"
   },
   {
     "name": "Порошок",
     "query": "Порошок",
     "rank": 18,
-    "tweet_count": "3,275 Tweets"
-  },
-  {
-    "name": "Thanksgiving",
-    "query": "Thanksgiving",
-    "rank": 19,
-    "tweet_count": "1.15M Tweets"
-  },
-  {
-    "name": "СОБОЛЕВ",
-    "query": "СОБОЛЕВ",
-    "rank": 20,
-    "tweet_count": null
+    "tweet_count": "3,330 Tweets"
   }
 ]
