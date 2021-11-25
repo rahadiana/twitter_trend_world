@@ -1,63 +1,63 @@
 [
   {
-    "name": "Leon",
-    "query": "Leon",
-    "rank": 1,
-    "tweet_count": "70.6K Tweets"
-  },
-  {
-    "name": "Connor",
-    "query": "Connor",
-    "rank": 2,
-    "tweet_count": "13.6K Tweets"
-  },
-  {
     "name": "Thanksgiving",
     "query": "Thanksgiving",
-    "rank": 3,
-    "tweet_count": "1.13M Tweets"
+    "rank": 1,
+    "tweet_count": "1.15M Tweets"
   },
   {
     "name": "Spezza",
     "query": "Spezza",
-    "rank": 4,
-    "tweet_count": "1,057 Tweets"
+    "rank": 2,
+    "tweet_count": "1,133 Tweets"
+  },
+  {
+    "name": "Kings",
+    "query": "Kings",
+    "rank": 3,
+    "tweet_count": "56.4K Tweets"
   },
   {
     "name": "Yuta",
     "query": "Yuta",
+    "rank": 4,
+    "tweet_count": "63.2K Tweets"
+  },
+  {
+    "name": "#AEWDynamite",
+    "query": "#AEWDynamite",
     "rank": 5,
-    "tweet_count": "62.3K Tweets"
+    "tweet_count": "61.9K Tweets"
   },
   {
     "name": "#WeTheNorth",
     "query": "#WeTheNorth",
     "rank": 6,
-    "tweet_count": "1,745 Tweets"
+    "tweet_count": "1,775 Tweets"
   },
   {
-    "name": "#AEWDynamite",
-    "query": "#AEWDynamite",
+    "name": "Matt Murray",
+    "query": "\"Matt Murray\"",
     "rank": 7,
-    "tweet_count": "61.5K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Simmonds",
-    "query": "Simmonds",
+    "name": "Kassian",
+    "query": "Kassian",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "#Survivor",
-    "query": "#Survivor",
-    "rank": 9,
-    "tweet_count": "10.5K Tweets"
-  },
-  {
     "name": "karl",
     "query": "karl",
+    "rank": 9,
+    "tweet_count": "50.3K Tweets"
+  },
+  {
+    "name": "#Survivor",
+    "query": "#Survivor",
     "rank": 10,
-    "tweet_count": "49.5K Tweets"
+    "tweet_count": "10.7K Tweets"
   },
   {
     "name": "#TORvsLAK",
@@ -66,57 +66,57 @@
     "tweet_count": null
   },
   {
-    "name": "Scottie",
-    "query": "Scottie",
+    "name": "Bunting",
+    "query": "Bunting",
     "rank": 12,
-    "tweet_count": "5,751 Tweets"
+    "tweet_count": "1,316 Tweets"
   },
   {
-    "name": "Kassian",
-    "query": "Kassian",
+    "name": "Danault",
+    "query": "Danault",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "Matt Murray",
-    "query": "\"Matt Murray\"",
+    "name": "Engvall",
+    "query": "Engvall",
     "rank": 14,
     "tweet_count": null
   },
   {
+    "name": "Scottie",
+    "query": "Scottie",
+    "rank": 15,
+    "tweet_count": "5,820 Tweets"
+  },
+  {
     "name": "Durzi",
     "query": "Durzi",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "Kampf",
-    "query": "Kampf",
-    "rank": 16,
-    "tweet_count": "3,648 Tweets"
-  },
-  {
-    "name": "Precious",
-    "query": "Precious",
+    "name": "Auston Matthews",
+    "query": "\"Auston Matthews\"",
     "rank": 17,
-    "tweet_count": "102K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Anthony Edwards",
     "query": "\"Anthony Edwards\"",
     "rank": 18,
-    "tweet_count": "18K Tweets"
+    "tweet_count": "19K Tweets"
   },
   {
-    "name": "Dillon Brooks",
-    "query": "\"Dillon Brooks\"",
+    "name": "Kampf",
+    "query": "Kampf",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "3,690 Tweets"
   },
   {
-    "name": "Bron",
-    "query": "Bron",
+    "name": "Connor Brown",
+    "query": "\"Connor Brown\"",
     "rank": 20,
-    "tweet_count": "32.6K Tweets"
+    "tweet_count": null
   }
 ]
