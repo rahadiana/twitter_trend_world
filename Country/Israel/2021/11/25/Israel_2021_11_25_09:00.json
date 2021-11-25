@@ -1,15 +1,15 @@
 [
   {
-    "name": "מזל טוב גלי",
-    "query": "\"מזל טוב גלי\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Thanksgiving",
     "query": "Thanksgiving",
+    "rank": 1,
+    "tweet_count": "1.28M Tweets"
+  },
+  {
+    "name": "מזל טוב גלי",
+    "query": "\"מזל טוב גלי\"",
     "rank": 2,
-    "tweet_count": "1.27M Tweets"
+    "tweet_count": null
   },
   {
     "name": "עוד צער",
@@ -39,7 +39,7 @@
     "name": "Grammy",
     "query": "Grammy",
     "rank": 7,
-    "tweet_count": "208K Tweets"
+    "tweet_count": "209K Tweets"
   },
   {
     "name": "אלי כהן",
@@ -51,7 +51,7 @@
     "name": "xiao",
     "query": "xiao",
     "rank": 9,
-    "tweet_count": "76.8K Tweets"
+    "tweet_count": "77.7K Tweets"
   },
   {
     "name": "דנה וייס",
@@ -63,7 +63,7 @@
     "name": "Black Friday",
     "query": "\"Black Friday\"",
     "rank": 11,
-    "tweet_count": "398K Tweets"
+    "tweet_count": "401K Tweets"
   },
   {
     "name": "אלי אבידר",
@@ -75,13 +75,13 @@
     "name": "#Morocco",
     "query": "#Morocco",
     "rank": 13,
-    "tweet_count": "1,349 Tweets"
+    "tweet_count": "1,361 Tweets"
   },
   {
     "name": "#nftcollectors",
     "query": "#nftcollectors",
     "rank": 14,
-    "tweet_count": "82.4K Tweets"
+    "tweet_count": "83K Tweets"
   },
   {
     "name": "לילה טוב",
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
-    "name": "Belgium",
-    "query": "Belgium",
-    "rank": 17,
-    "tweet_count": "13K Tweets"
-  },
-  {
     "name": "Homs",
     "query": "Homs",
-    "rank": 18,
-    "tweet_count": "1,988 Tweets"
+    "rank": 17,
+    "tweet_count": "1,991 Tweets"
   },
   {
     "name": "ממשלה של",
     "query": "\"ממשלה של\"",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Belgium",
+    "query": "Belgium",
+    "rank": 19,
+    "tweet_count": "13.1K Tweets"
   },
   {
     "name": "Liverpool",
     "query": "Liverpool",
     "rank": 20,
-    "tweet_count": "91.6K Tweets"
+    "tweet_count": "92.1K Tweets"
   }
 ]
