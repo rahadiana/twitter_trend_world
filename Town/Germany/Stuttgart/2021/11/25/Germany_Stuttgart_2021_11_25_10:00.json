@@ -1,122 +1,92 @@
 [
   {
-    "name": "#Koalitionsvertrag",
-    "query": "#Koalitionsvertrag",
+    "name": "Ampel",
+    "query": "Ampel",
     "rank": 1,
-    "tweet_count": "52.3K Tweets"
+    "tweet_count": "43.9K Tweets"
   },
   {
     "name": "#TagGegenGewaltAnFrauen",
     "query": "#TagGegenGewaltAnFrauen",
     "rank": 2,
-    "tweet_count": "2,266 Tweets"
-  },
-  {
-    "name": "#CannabisLegal",
-    "query": "#CannabisLegal",
-    "rank": 3,
-    "tweet_count": "10.1K Tweets"
-  },
-  {
-    "name": "#SCPBVB",
-    "query": "#SCPBVB",
-    "rank": 4,
-    "tweet_count": "10K Tweets"
+    "tweet_count": "2,377 Tweets"
   },
   {
     "name": "#OrangeTheWorld",
     "query": "#OrangeTheWorld",
-    "rank": 5,
-    "tweet_count": "31K Tweets"
+    "rank": 3,
+    "tweet_count": "31.8K Tweets"
+  },
+  {
+    "name": "#schweigenbrechen",
+    "query": "#schweigenbrechen",
+    "rank": 4,
+    "tweet_count": null
   },
   {
     "name": "Thanksgiving",
     "query": "Thanksgiving",
-    "rank": 6,
-    "tweet_count": "1.3M Tweets"
+    "rank": 5,
+    "tweet_count": "1.31M Tweets"
   },
   {
-    "name": "Verkehrsministerium",
-    "query": "Verkehrsministerium",
-    "rank": 7,
-    "tweet_count": "2,664 Tweets"
+    "name": "#gewaltgegenfrauen",
+    "query": "#gewaltgegenfrauen",
+    "rank": 6,
+    "tweet_count": null
   },
   {
     "name": "Tage Zeit",
     "query": "\"Tage Zeit\"",
-    "rank": 8,
-    "tweet_count": "1,234 Tweets"
+    "rank": 7,
+    "tweet_count": "1,257 Tweets"
   },
   {
-    "name": "DJI Kalender",
-    "query": "DJI Kalender",
+    "name": "bürgergeld",
+    "query": "bürgergeld",
+    "rank": 8,
+    "tweet_count": "2,633 Tweets"
+  },
+  {
+    "name": "#mailab",
+    "query": "#mailab",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Impfpflicht",
-    "query": "Impfpflicht",
+    "name": "#femizid",
+    "query": "#femizid",
     "rank": 10,
-    "tweet_count": "34K Tweets"
-  },
-  {
-    "name": "Aufbruch",
-    "query": "Aufbruch",
-    "rank": 11,
-    "tweet_count": "2,124 Tweets"
-  },
-  {
-    "name": "DJI Mini 2 Fly More Combo",
-    "query": "\"DJI Mini 2 Fly More Combo\"",
-    "rank": 12,
-    "tweet_count": "1,171 Tweets"
-  },
-  {
-    "name": "Scholz",
-    "query": "Scholz",
-    "rank": 13,
-    "tweet_count": "20.5K Tweets"
-  },
-  {
-    "name": "Siebträger",
-    "query": "Siebträger",
-    "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "Bürgergeld",
-    "query": "Bürgergeld",
+    "name": "#stadtrat_live",
+    "query": "#stadtrat_live",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "#orangeday",
+    "query": "#orangeday",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "#FlattenTheCurve",
+    "query": "#FlattenTheCurve",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "#BlackFriday",
+    "query": "#BlackFriday",
+    "rank": 14,
+    "tweet_count": "103K Tweets"
+  },
+  {
+    "name": "#Wissing",
+    "query": "#Wissing",
     "rank": 15,
-    "tweet_count": "2,624 Tweets"
-  },
-  {
-    "name": "Wahlrecht ab 16",
-    "query": "\"Wahlrecht ab 16\"",
-    "rank": 16,
-    "tweet_count": "1,182 Tweets"
-  },
-  {
-    "name": "Hygienefilter",
-    "query": "Hygienefilter",
-    "rank": 17,
-    "tweet_count": "1,672 Tweets"
-  },
-  {
-    "name": "Tote",
-    "query": "Tote",
-    "rank": 18,
-    "tweet_count": "13.8K Tweets"
-  },
-  {
-    "name": "Europa League",
-    "query": "\"Europa League\"",
-    "rank": 19,
-    "tweet_count": "39.6K Tweets"
-  },
-  {
-    "name": "Sporting",
-    "query": "Sporting",
-    "rank": 20,
-    "tweet_count": "69.5K Tweets"
+    "tweet_count": null
   }
 ]
