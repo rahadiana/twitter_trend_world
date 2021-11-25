@@ -3,31 +3,31 @@
     "name": "Thanksgiving",
     "query": "Thanksgiving",
     "rank": 1,
-    "tweet_count": "2.06M Tweets"
+    "tweet_count": "2.29M Tweets"
   },
   {
     "name": "#OrangeTheWorld",
     "query": "#OrangeTheWorld",
     "rank": 2,
-    "tweet_count": "57.5K Tweets"
+    "tweet_count": "60.8K Tweets"
   },
   {
     "name": "#Koalitionsvertrag",
     "query": "#Koalitionsvertrag",
     "rank": 3,
-    "tweet_count": "34.4K Tweets"
-  },
-  {
-    "name": "#Ampelkoalition",
-    "query": "#Ampelkoalition",
-    "rank": 4,
-    "tweet_count": "5,300 Tweets"
+    "tweet_count": "35.2K Tweets"
   },
   {
     "name": "#16Tage",
     "query": "#16Tage",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "#Ampelkoalition",
+    "query": "#Ampelkoalition",
+    "rank": 5,
+    "tweet_count": "5,444 Tweets"
   },
   {
     "name": "Herr Schmid",
@@ -51,37 +51,37 @@
     "name": "Gewalt gegen Frauen",
     "query": "\"Gewalt gegen Frauen\"",
     "rank": 9,
-    "tweet_count": "5,590 Tweets"
+    "tweet_count": "5,879 Tweets"
   },
   {
     "name": "Motor",
     "query": "Motor",
     "rank": 10,
-    "tweet_count": "40.3K Tweets"
+    "tweet_count": "41.5K Tweets"
+  },
+  {
+    "name": "Südafrika",
+    "query": "Südafrika",
+    "rank": 11,
+    "tweet_count": "1,252 Tweets"
   },
   {
     "name": "Gutachten",
     "query": "Gutachten",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Olaf Scholz",
     "query": "\"Olaf Scholz\"",
-    "rank": 12,
-    "tweet_count": "7,054 Tweets"
-  },
-  {
-    "name": "doku",
-    "query": "doku",
     "rank": 13,
-    "tweet_count": "5,204 Tweets"
+    "tweet_count": "7,198 Tweets"
   },
   {
-    "name": "Zombies",
-    "query": "Zombies",
+    "name": "Doku",
+    "query": "Doku",
     "rank": 14,
-    "tweet_count": "12.3K Tweets"
+    "tweet_count": "5,361 Tweets"
   },
   {
     "name": "Verletzungen",
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
-    "name": "Variante",
-    "query": "Variante",
-    "rank": 17,
-    "tweet_count": "17.9K Tweets"
-  },
-  {
     "name": "Großteil",
     "query": "Großteil",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Afrika",
-    "query": "Afrika",
-    "rank": 19,
-    "tweet_count": "10K Tweets"
+    "name": "Zulassung",
+    "query": "Zulassung",
+    "rank": 18,
+    "tweet_count": "3,463 Tweets"
   },
   {
-    "name": "Ministerien",
-    "query": "Ministerien",
+    "name": "Mediathek",
+    "query": "Mediathek",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Messer",
+    "query": "Messer",
     "rank": 20,
-    "tweet_count": "1,318 Tweets"
+    "tweet_count": "1,071 Tweets"
   }
 ]

@@ -3,19 +3,19 @@
     "name": "Thanksgiving",
     "query": "Thanksgiving",
     "rank": 1,
-    "tweet_count": "2.06M Tweets"
+    "tweet_count": "2.22M Tweets"
   },
   {
     "name": "Ralf Rangnick",
     "query": "\"Ralf Rangnick\"",
     "rank": 2,
-    "tweet_count": "55.9K Tweets"
+    "tweet_count": "75.3K Tweets"
   },
   {
     "name": "Bergen",
     "query": "Bergen",
     "rank": 3,
-    "tweet_count": "3,864 Tweets"
+    "tweet_count": "3,995 Tweets"
   },
   {
     "name": "Bryggen",
@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "Qatar",
-    "query": "Qatar",
-    "rank": 5,
-    "tweet_count": "25.5K Tweets"
-  },
-  {
     "name": "Rødt",
     "query": "Rødt",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "Qatar",
+    "query": "Qatar",
+    "rank": 6,
+    "tweet_count": "26.4K Tweets"
   },
   {
     "name": "#unibet10k",
@@ -45,25 +45,25 @@
     "name": "#16Days",
     "query": "#16Days",
     "rank": 8,
-    "tweet_count": "59.7K Tweets"
+    "tweet_count": "62.9K Tweets"
   },
   {
     "name": "Thiago",
     "query": "Thiago",
     "rank": 9,
-    "tweet_count": "92.7K Tweets"
+    "tweet_count": "94.5K Tweets"
+  },
+  {
+    "name": "Ten Hag",
+    "query": "\"Ten Hag\"",
+    "rank": 10,
+    "tweet_count": "15.8K Tweets"
   },
   {
     "name": "Høyre",
     "query": "Høyre",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "FIFA",
-    "query": "FIFA",
     "rank": 11,
-    "tweet_count": "44.9K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Zerokonferansen",
@@ -72,34 +72,34 @@
     "tweet_count": null
   },
   {
+    "name": "FIFA",
+    "query": "FIFA",
+    "rank": 13,
+    "tweet_count": "46.7K Tweets"
+  },
+  {
     "name": "#Hawkeye",
     "query": "#Hawkeye",
-    "rank": 13,
-    "tweet_count": "133K Tweets"
-  },
-  {
-    "name": "Ten Hag",
-    "query": "\"Ten Hag\"",
     "rank": 14,
-    "tweet_count": "14.4K Tweets"
-  },
-  {
-    "name": "Bybanen",
-    "query": "Bybanen",
-    "rank": 15,
-    "tweet_count": null
+    "tweet_count": "135K Tweets"
   },
   {
     "name": "Messi",
     "query": "Messi",
+    "rank": 15,
+    "tweet_count": "263K Tweets"
+  },
+  {
+    "name": "Bybanen",
+    "query": "Bybanen",
     "rank": 16,
-    "tweet_count": "256K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Milan",
     "query": "Milan",
     "rank": 17,
-    "tweet_count": "96.5K Tweets"
+    "tweet_count": "98.2K Tweets"
   },
   {
     "name": "Valhammer",
@@ -114,8 +114,8 @@
     "tweet_count": null
   },
   {
-    "name": "raudt",
-    "query": "raudt",
+    "name": "Nakstad",
+    "query": "Nakstad",
     "rank": 20,
     "tweet_count": null
   }
