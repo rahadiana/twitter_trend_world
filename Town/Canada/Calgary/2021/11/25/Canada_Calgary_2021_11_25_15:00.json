@@ -9,31 +9,31 @@
     "name": "Thanksgiving",
     "query": "Thanksgiving",
     "rank": 2,
-    "tweet_count": "1.7M Tweets"
+    "tweet_count": "2.03M Tweets"
   },
   {
     "name": "#16Days",
     "query": "#16Days",
     "rank": 3,
-    "tweet_count": "59K Tweets"
+    "tweet_count": "59.7K Tweets"
   },
   {
-    "name": "#MacysParade",
-    "query": "#MacysParade",
+    "name": "International Day",
+    "query": "\"International Day\"",
     "rank": 4,
-    "tweet_count": "75.3K Tweets"
+    "tweet_count": "46.6K Tweets"
   },
   {
     "name": "American Friends",
     "query": "\"American Friends\"",
     "rank": 5,
-    "tweet_count": "11.7K Tweets"
+    "tweet_count": "12K Tweets"
   },
   {
-    "name": "Bears",
-    "query": "Bears",
+    "name": "#IDEVAW",
+    "query": "#IDEVAW",
     "rank": 6,
-    "tweet_count": "52.3K Tweets"
+    "tweet_count": "20K Tweets"
   },
   {
     "name": "Massey Hall",
@@ -42,33 +42,39 @@
     "tweet_count": null
   },
   {
+    "name": "Bears",
+    "query": "Bears",
+    "rank": 8,
+    "tweet_count": "53.4K Tweets"
+  },
+  {
     "name": "wooyoung",
     "query": "wooyoung",
-    "rank": 8,
-    "tweet_count": "127K Tweets"
+    "rank": 9,
+    "tweet_count": "132K Tweets"
   },
   {
     "name": "#16jours",
     "query": "#16jours",
-    "rank": 9,
-    "tweet_count": "2,800 Tweets"
-  },
-  {
-    "name": "#JustInflation",
-    "query": "#JustInflation",
     "rank": 10,
-    "tweet_count": "4,520 Tweets"
-  },
-  {
-    "name": "Klopp",
-    "query": "Klopp",
-    "rank": 11,
-    "tweet_count": "30.3K Tweets"
+    "tweet_count": "2,825 Tweets"
   },
   {
     "name": "Black Friday",
     "query": "\"Black Friday\"",
+    "rank": 11,
+    "tweet_count": "442K Tweets"
+  },
+  {
+    "name": "#JustInflation",
+    "query": "#JustInflation",
     "rank": 12,
-    "tweet_count": "438K Tweets"
+    "tweet_count": "4,586 Tweets"
+  },
+  {
+    "name": "Klopp",
+    "query": "Klopp",
+    "rank": 13,
+    "tweet_count": "31.2K Tweets"
   }
 ]
