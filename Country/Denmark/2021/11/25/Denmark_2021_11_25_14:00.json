@@ -3,13 +3,13 @@
     "name": "Thanksgiving",
     "query": "Thanksgiving",
     "rank": 1,
-    "tweet_count": "1.69M Tweets"
+    "tweet_count": "1.75M Tweets"
   },
   {
     "name": "#BLASTPremier",
     "query": "#BLASTPremier",
     "rank": 2,
-    "tweet_count": "3,896 Tweets"
+    "tweet_count": "3,921 Tweets"
   },
   {
     "name": "#cldk",
@@ -21,23 +21,23 @@
     "name": "#16Days",
     "query": "#16Days",
     "rank": 4,
-    "tweet_count": "55.8K Tweets"
+    "tweet_count": "56.9K Tweets"
   },
   {
-    "name": "#OrangeTheWorld",
-    "query": "#OrangeTheWorld",
+    "name": "Esbern Snare",
+    "query": "\"Esbern Snare\"",
     "rank": 5,
-    "tweet_count": "50.9K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Mundbind",
     "query": "Mundbind",
     "rank": 6,
-    "tweet_count": "1,389 Tweets"
+    "tweet_count": "1,395 Tweets"
   },
   {
-    "name": "Esbern Snare",
-    "query": "\"Esbern Snare\"",
+    "name": "#dkaid",
+    "query": "#dkaid",
     "rank": 7,
     "tweet_count": null
   },
@@ -48,10 +48,10 @@
     "tweet_count": null
   },
   {
-    "name": "#svpol",
-    "query": "#svpol",
+    "name": "#ElectricCity2021",
+    "query": "#ElectricCity2021",
     "rank": 9,
-    "tweet_count": "5,088 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Esbjerg",
@@ -60,20 +60,20 @@
     "tweet_count": null
   },
   {
-    "name": "Europa League",
-    "query": "\"Europa League\"",
-    "rank": 11,
-    "tweet_count": "38.7K Tweets"
-  },
-  {
     "name": "Alex",
     "query": "Alex",
-    "rank": 12,
-    "tweet_count": "186K Tweets"
+    "rank": 11,
+    "tweet_count": "189K Tweets"
   },
   {
-    "name": "brostrøm",
-    "query": "brostrøm",
+    "name": "Europa League",
+    "query": "\"Europa League\"",
+    "rank": 12,
+    "tweet_count": "38.9K Tweets"
+  },
+  {
+    "name": "Brostrøm",
+    "query": "Brostrøm",
     "rank": 13,
     "tweet_count": null
   },
@@ -81,19 +81,19 @@
     "name": "Ghana",
     "query": "Ghana",
     "rank": 14,
-    "tweet_count": "32.7K Tweets"
+    "tweet_count": "33.1K Tweets"
   },
   {
     "name": "Afrika",
     "query": "Afrika",
     "rank": 15,
-    "tweet_count": "10K Tweets"
+    "tweet_count": "10.1K Tweets"
   },
   {
     "name": "Santa",
     "query": "Santa",
     "rank": 16,
-    "tweet_count": "212K Tweets"
+    "tweet_count": "214K Tweets"
   },
   {
     "name": "grønland",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "Held",
-    "query": "Held",
+    "name": "held",
+    "query": "held",
     "rank": 18,
-    "tweet_count": "144K Tweets"
+    "tweet_count": "145K Tweets"
+  },
+  {
+    "name": "frankrig",
+    "query": "frankrig",
+    "rank": 19,
+    "tweet_count": null
   },
   {
     "name": "Black Friday",
     "query": "\"Black Friday\"",
-    "rank": 19,
-    "tweet_count": "426K Tweets"
-  },
-  {
-    "name": "Frankrig",
-    "query": "Frankrig",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "432K Tweets"
   }
 ]

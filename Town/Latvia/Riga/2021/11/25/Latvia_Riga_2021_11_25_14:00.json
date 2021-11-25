@@ -1,7 +1,7 @@
 [
   {
-    "name": "Mārtiņš Brauns",
-    "query": "\"Mārtiņš Brauns\"",
+    "name": "mārtiņš brauns",
+    "query": "\"mārtiņš brauns\"",
     "rank": 1,
     "tweet_count": null
   },
@@ -9,13 +9,13 @@
     "name": "Thanksgiving",
     "query": "Thanksgiving",
     "rank": 2,
-    "tweet_count": "1.68M Tweets"
+    "tweet_count": "1.75M Tweets"
   },
   {
     "name": "#OrangeTheWorld",
     "query": "#OrangeTheWorld",
     "rank": 3,
-    "tweet_count": "50.8K Tweets"
+    "tweet_count": "52.3K Tweets"
   },
   {
     "name": "#kasnotieklatvijā",
@@ -30,10 +30,10 @@
     "tweet_count": null
   },
   {
-    "name": "Latvia",
-    "query": "Latvia",
+    "name": "vācija",
+    "query": "vācija",
     "rank": 6,
-    "tweet_count": "1,433 Tweets"
+    "tweet_count": null
   },
   {
     "name": "izturību",
@@ -45,23 +45,23 @@
     "name": "Black Friday",
     "query": "\"Black Friday\"",
     "rank": 8,
-    "tweet_count": "425K Tweets"
-  },
-  {
-    "name": "vācija",
-    "query": "vācija",
-    "rank": 9,
-    "tweet_count": null
+    "tweet_count": "432K Tweets"
   },
   {
     "name": "Kozins",
     "query": "Kozins",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "tajā",
     "query": "tajā",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "#teirdarbs",
+    "query": "#teirdarbs",
     "rank": 11,
     "tweet_count": null
   },
@@ -72,51 +72,45 @@
     "tweet_count": null
   },
   {
-    "name": "Izskatās",
-    "query": "Izskatās",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "#COVID19",
-    "query": "#COVID19",
-    "rank": 14,
-    "tweet_count": "167K Tweets"
-  },
-  {
-    "name": "#teirdarbs",
-    "query": "#teirdarbs",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
     "name": "Moderna",
     "query": "Moderna",
-    "rank": 16,
-    "tweet_count": "82.9K Tweets"
+    "rank": 13,
+    "tweet_count": "85.8K Tweets"
+  },
+  {
+    "name": "Izskatās",
+    "query": "Izskatās",
+    "rank": 14,
+    "tweet_count": null
   },
   {
     "name": "zviedrijā",
     "query": "zviedrijā",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "veselību",
+    "query": "veselību",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Apsveicu",
+    "query": "Apsveicu",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Veselību",
-    "query": "Veselību",
+    "name": "Prieks",
+    "query": "Prieks",
     "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "paldies",
-    "query": "paldies",
+    "name": "Apple",
+    "query": "Apple",
     "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "apsveicu",
-    "query": "apsveicu",
-    "rank": 20,
-    "tweet_count": null
+    "tweet_count": "681K Tweets"
   }
 ]
