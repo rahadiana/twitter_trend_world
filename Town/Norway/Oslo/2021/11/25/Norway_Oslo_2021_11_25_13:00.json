@@ -3,25 +3,25 @@
     "name": "Bergen",
     "query": "Bergen",
     "rank": 1,
-    "tweet_count": "3,808 Tweets"
-  },
-  {
-    "name": "Qatar",
-    "query": "Qatar",
-    "rank": 2,
-    "tweet_count": "25.8K Tweets"
-  },
-  {
-    "name": "#16Days",
-    "query": "#16Days",
-    "rank": 3,
-    "tweet_count": "50.2K Tweets"
+    "tweet_count": "3,891 Tweets"
   },
   {
     "name": "Thanksgiving",
     "query": "Thanksgiving",
+    "rank": 2,
+    "tweet_count": "1.49M Tweets"
+  },
+  {
+    "name": "Qatar",
+    "query": "Qatar",
+    "rank": 3,
+    "tweet_count": "26.4K Tweets"
+  },
+  {
+    "name": "#16Days",
+    "query": "#16Days",
     "rank": 4,
-    "tweet_count": "1.42M Tweets"
+    "tweet_count": "52.4K Tweets"
   },
   {
     "name": "Bryggen",
@@ -33,7 +33,7 @@
     "name": "Thiago",
     "query": "Thiago",
     "rank": 6,
-    "tweet_count": "87.8K Tweets"
+    "tweet_count": "89.4K Tweets"
   },
   {
     "name": "#unibet10k",
@@ -42,38 +42,38 @@
     "tweet_count": null
   },
   {
-    "name": "FIFA",
-    "query": "FIFA",
-    "rank": 8,
-    "tweet_count": "45.3K Tweets"
-  },
-  {
     "name": "Rødt",
     "query": "Rødt",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
+  },
+  {
+    "name": "FIFA",
+    "query": "FIFA",
+    "rank": 9,
+    "tweet_count": "46.2K Tweets"
   },
   {
     "name": "Milan",
     "query": "Milan",
     "rank": 10,
-    "tweet_count": "92.9K Tweets"
-  },
-  {
-    "name": "#singyourdialect",
-    "query": "#singyourdialect",
-    "rank": 11,
-    "tweet_count": "4,206 Tweets"
+    "tweet_count": "93.9K Tweets"
   },
   {
     "name": "Høyre",
     "query": "Høyre",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "#Zerokonferansen",
-    "query": "#Zerokonferansen",
+    "name": "#singyourdialect",
+    "query": "#singyourdialect",
+    "rank": 12,
+    "tweet_count": "4,223 Tweets"
+  },
+  {
+    "name": "#zerokonferansen",
+    "query": "#zerokonferansen",
     "rank": 13,
     "tweet_count": null
   },
@@ -81,7 +81,7 @@
     "name": "Messi",
     "query": "Messi",
     "rank": 14,
-    "tweet_count": "249K Tweets"
+    "tweet_count": "253K Tweets"
   },
   {
     "name": "#Bybanen",
@@ -93,30 +93,30 @@
     "name": "Magdalena Andersson",
     "query": "\"Magdalena Andersson\"",
     "rank": 16,
-    "tweet_count": "15.3K Tweets"
+    "tweet_count": "15.4K Tweets"
   },
   {
-    "name": "Nakstad",
-    "query": "Nakstad",
+    "name": "nakstad",
+    "query": "nakstad",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Valhammer",
-    "query": "Valhammer",
+    "name": "Nydelig",
+    "query": "Nydelig",
     "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "myrli",
-    "query": "myrli",
-    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Klopp",
     "query": "Klopp",
+    "rank": 19,
+    "tweet_count": "26.4K Tweets"
+  },
+  {
+    "name": "Valhammer",
+    "query": "Valhammer",
     "rank": 20,
-    "tweet_count": "25.6K Tweets"
+    "tweet_count": null
   }
 ]
