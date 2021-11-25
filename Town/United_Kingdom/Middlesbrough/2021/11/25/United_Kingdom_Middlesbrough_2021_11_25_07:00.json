@@ -1,116 +1,116 @@
 [
   {
-    "name": "#MCIPSG",
-    "query": "#MCIPSG",
+    "name": "#mcipsg",
+    "query": "#mcipsg",
     "rank": 1,
-    "tweet_count": "91K Tweets"
+    "tweet_count": "91.3K Tweets"
+  },
+  {
+    "name": "Hawkeye",
+    "query": "Hawkeye",
+    "rank": 2,
+    "tweet_count": "275K Tweets"
   },
   {
     "name": "#ImACeleb",
     "query": "#ImACeleb",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": "11.8K Tweets"
   },
   {
     "name": "Thanksgiving",
     "query": "Thanksgiving",
-    "rank": 3,
-    "tweet_count": "1.21M Tweets"
+    "rank": 4,
+    "tweet_count": "1.22M Tweets"
   },
   {
     "name": "#thursdayvibes",
     "query": "#thursdayvibes",
-    "rank": 4,
-    "tweet_count": "3,748 Tweets"
+    "rank": 5,
+    "tweet_count": "4,063 Tweets"
   },
   {
     "name": "#thursdaymorning",
     "query": "#thursdaymorning",
-    "rank": 5,
-    "tweet_count": "3,125 Tweets"
-  },
-  {
-    "name": "#AEWDynamite",
-    "query": "#AEWDynamite",
     "rank": 6,
-    "tweet_count": "64.5K Tweets"
+    "tweet_count": "3,337 Tweets"
   },
   {
-    "name": "Lebron",
-    "query": "Lebron",
+    "name": "#ThursdayThoughts",
+    "query": "#ThursdayThoughts",
     "rank": 7,
-    "tweet_count": "121K Tweets"
-  },
-  {
-    "name": "Thiago",
-    "query": "Thiago",
-    "rank": 8,
-    "tweet_count": "83.4K Tweets"
+    "tweet_count": "13.4K Tweets"
   },
   {
     "name": "Channel",
     "query": "Channel",
+    "rank": 8,
+    "tweet_count": "692K Tweets"
+  },
+  {
+    "name": "Lebron",
+    "query": "Lebron",
     "rank": 9,
-    "tweet_count": "683K Tweets"
+    "tweet_count": "123K Tweets"
   },
   {
     "name": "The French",
     "query": "\"The French\"",
     "rank": 10,
-    "tweet_count": "64K Tweets"
+    "tweet_count": "65.1K Tweets"
+  },
+  {
+    "name": "Thiago",
+    "query": "Thiago",
+    "rank": 11,
+    "tweet_count": "84K Tweets"
   },
   {
     "name": "Calais",
     "query": "Calais",
-    "rank": 11,
-    "tweet_count": "25.4K Tweets"
-  },
-  {
-    "name": "Mr Beast",
-    "query": "\"Mr Beast\"",
     "rank": 12,
-    "tweet_count": "106K Tweets"
-  },
-  {
-    "name": "RNLI",
-    "query": "RNLI",
-    "rank": 13,
-    "tweet_count": "6,816 Tweets"
-  },
-  {
-    "name": "Mrs Claus",
-    "query": "\"Mrs Claus\"",
-    "rank": 14,
-    "tweet_count": "2,841 Tweets"
+    "tweet_count": "26K Tweets"
   },
   {
     "name": "Macron",
     "query": "Macron",
-    "rank": 15,
-    "tweet_count": "62K Tweets"
+    "rank": 13,
+    "tweet_count": "63K Tweets"
   },
   {
-    "name": "Hawkeye",
-    "query": "Hawkeye",
-    "rank": 16,
-    "tweet_count": "273K Tweets"
+    "name": "RNLI",
+    "query": "RNLI",
+    "rank": 14,
+    "tweet_count": "7,091 Tweets"
+  },
+  {
+    "name": "Mrs Claus",
+    "query": "\"Mrs Claus\"",
+    "rank": 15,
+    "tweet_count": "2,867 Tweets"
   },
   {
     "name": "Dortmund",
     "query": "Dortmund",
-    "rank": 17,
-    "tweet_count": "41.8K Tweets"
+    "rank": 16,
+    "tweet_count": "42K Tweets"
   },
   {
-    "name": "etihad",
-    "query": "etihad",
-    "rank": 18,
-    "tweet_count": "11.5K Tweets"
+    "name": "#AEWDynamite",
+    "query": "#AEWDynamite",
+    "rank": 17,
+    "tweet_count": "65K Tweets"
   },
   {
     "name": "#SackPritiPatel",
     "query": "#SackPritiPatel",
+    "rank": 18,
+    "tweet_count": "43.5K Tweets"
+  },
+  {
+    "name": "#16Days",
+    "query": "#16Days",
     "rank": 19,
-    "tweet_count": "42.9K Tweets"
+    "tweet_count": "29.7K Tweets"
   }
 ]
