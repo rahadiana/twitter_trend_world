@@ -1,39 +1,39 @@
 [
   {
-    "name": "الاهلي",
-    "query": "الاهلي",
-    "rank": 1,
-    "tweet_count": "86.6K Tweets"
-  },
-  {
     "name": "#طريق_الكباش",
     "query": "#طريق_الكباش",
+    "rank": 1,
+    "tweet_count": "19.7K Tweets"
+  },
+  {
+    "name": "#احتفاليه_الكباش",
+    "query": "#احتفاليه_الكباش",
     "rank": 2,
-    "tweet_count": "16.5K Tweets"
+    "tweet_count": "4,524 Tweets"
   },
   {
     "name": "#اغنيه_انا_بنسحب_احمدخليل",
     "query": "#اغنيه_انا_بنسحب_احمدخليل",
     "rank": 3,
-    "tweet_count": "1,339 Tweets"
+    "tweet_count": "1,369 Tweets"
   },
   {
     "name": "#حكام_الزمالك_مشبوهين",
     "query": "#حكام_الزمالك_مشبوهين",
     "rank": 4,
-    "tweet_count": "63.2K Tweets"
-  },
-  {
-    "name": "#احتفاليه_الكباش",
-    "query": "#احتفاليه_الكباش",
-    "rank": 5,
-    "tweet_count": "3,620 Tweets"
+    "tweet_count": "64.4K Tweets"
   },
   {
     "name": "#اقوي_كارت_من_اتصالات",
     "query": "#اقوي_كارت_من_اتصالات",
+    "rank": 5,
+    "tweet_count": "1,459 Tweets"
+  },
+  {
+    "name": "بلد سواح",
+    "query": "\"بلد سواح\"",
     "rank": 6,
-    "tweet_count": "1,438 Tweets"
+    "tweet_count": null
   },
   {
     "name": "وزير السياحه",
@@ -42,8 +42,8 @@
     "tweet_count": null
   },
   {
-    "name": "بلاد الدنيا",
-    "query": "\"بلاد الدنيا\"",
+    "name": "وايل الفشني",
+    "query": "\"وايل الفشني\"",
     "rank": 8,
     "tweet_count": null
   },
@@ -54,10 +54,10 @@
     "tweet_count": null
   },
   {
-    "name": "حماقي",
-    "query": "حماقي",
+    "name": "بلاد الدنيا",
+    "query": "\"بلاد الدنيا\"",
     "rank": 10,
-    "tweet_count": "2,085 Tweets"
+    "tweet_count": null
   },
   {
     "name": "ايمان الحصري",
@@ -66,32 +66,32 @@
     "tweet_count": null
   },
   {
+    "name": "حماقي",
+    "query": "حماقي",
+    "rank": 12,
+    "tweet_count": "2,277 Tweets"
+  },
+  {
     "name": "السيسي",
     "query": "السيسي",
-    "rank": 12,
-    "tweet_count": "20.7K Tweets"
+    "rank": 13,
+    "tweet_count": "21.6K Tweets"
+  },
+  {
+    "name": "وائل",
+    "query": "وائل",
+    "rank": 14,
+    "tweet_count": "2,826 Tweets"
   },
   {
     "name": "اسماء ابو اليزيد",
     "query": "\"اسماء ابو اليزيد\"",
-    "rank": 13,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "خالد العناني",
     "query": "\"خالد العناني\"",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "بلد سواح",
-    "query": "\"بلد سواح\"",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "محمود عزت",
-    "query": "\"محمود عزت\"",
     "rank": 16,
     "tweet_count": null
   },
@@ -99,24 +99,24 @@
     "name": "بيرسي تاو",
     "query": "\"بيرسي تاو\"",
     "rank": 17,
-    "tweet_count": "5,410 Tweets"
-  },
-  {
-    "name": "صاحب القاضيه",
-    "query": "\"صاحب القاضيه\"",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "5,494 Tweets"
   },
   {
     "name": "محمد معروف",
     "query": "\"محمد معروف\"",
-    "rank": 19,
-    "tweet_count": "4,310 Tweets"
+    "rank": 18,
+    "tweet_count": "4,380 Tweets"
   },
   {
     "name": "علم اليمن",
     "query": "\"علم اليمن\"",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "حسين الشحات",
+    "query": "\"حسين الشحات\"",
+    "rank": 20,
+    "tweet_count": "1,889 Tweets"
   }
 ]
