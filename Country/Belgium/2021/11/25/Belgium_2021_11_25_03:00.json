@@ -1,15 +1,15 @@
 [
   {
-    "name": "#histoirede",
-    "query": "#histoirede",
-    "rank": 1,
-    "tweet_count": "2,790 Tweets"
-  },
-  {
     "name": "#CLURBL",
     "query": "#CLURBL",
+    "rank": 1,
+    "tweet_count": "3,170 Tweets"
+  },
+  {
+    "name": "#histoirede",
+    "query": "#histoirede",
     "rank": 2,
-    "tweet_count": "3,169 Tweets"
+    "tweet_count": "2,782 Tweets"
   },
   {
     "name": "#BRURBL",
@@ -21,19 +21,19 @@
     "name": "#MCIPSG",
     "query": "#MCIPSG",
     "rank": 4,
-    "tweet_count": "90K Tweets"
-  },
-  {
-    "name": "Clement",
-    "query": "Clement",
-    "rank": 5,
-    "tweet_count": "5,964 Tweets"
+    "tweet_count": "90.1K Tweets"
   },
   {
     "name": "#Koalitionsvertrag",
     "query": "#Koalitionsvertrag",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": "45.9K Tweets"
+  },
+  {
+    "name": "Clement",
+    "query": "Clement",
+    "rank": 6,
+    "tweet_count": "5,978 Tweets"
   },
   {
     "name": "Leipzig",
@@ -42,80 +42,80 @@
     "tweet_count": "15.4K Tweets"
   },
   {
-    "name": "Sowah",
-    "query": "Sowah",
+    "name": "sowah",
+    "query": "sowah",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Bruges",
-    "query": "Bruges",
-    "rank": 9,
-    "tweet_count": "4,178 Tweets"
-  },
-  {
     "name": "Uber",
     "query": "Uber",
-    "rank": 10,
-    "tweet_count": "51.8K Tweets"
-  },
-  {
-    "name": "Club Brugge",
-    "query": "\"Club Brugge\"",
-    "rank": 11,
-    "tweet_count": "3,750 Tweets"
+    "rank": 9,
+    "tweet_count": "52.1K Tweets"
   },
   {
     "name": "Meilleur Concert",
     "query": "\"Meilleur Concert\"",
+    "rank": 10,
+    "tweet_count": "3,851 Tweets"
+  },
+  {
+    "name": "Pire Concert",
+    "query": "\"Pire Concert\"",
+    "rank": 11,
+    "tweet_count": "3,935 Tweets"
+  },
+  {
+    "name": "bruges",
+    "query": "bruges",
     "rank": 12,
-    "tweet_count": "3,840 Tweets"
+    "tweet_count": "4,182 Tweets"
   },
   {
     "name": "Dernier Concert",
     "query": "\"Dernier Concert\"",
     "rank": 13,
-    "tweet_count": "3,741 Tweets"
-  },
-  {
-    "name": "Pire Concert",
-    "query": "\"Pire Concert\"",
-    "rank": 14,
-    "tweet_count": "3,924 Tweets"
-  },
-  {
-    "name": "Premier Concert",
-    "query": "\"Premier Concert\"",
-    "rank": 15,
-    "tweet_count": "3,373 Tweets"
-  },
-  {
-    "name": "Thanksgiving",
-    "query": "Thanksgiving",
-    "rank": 16,
-    "tweet_count": "1.06M Tweets"
-  },
-  {
-    "name": "Claude",
-    "query": "Claude",
-    "rank": 17,
-    "tweet_count": "15.4K Tweets"
+    "tweet_count": "3,752 Tweets"
   },
   {
     "name": "Concert de Rêve",
     "query": "\"Concert de Rêve\"",
-    "rank": 18,
-    "tweet_count": "3,550 Tweets"
+    "rank": 14,
+    "tweet_count": "3,560 Tweets"
+  },
+  {
+    "name": "Claude",
+    "query": "Claude",
+    "rank": 15,
+    "tweet_count": "15.5K Tweets"
   },
   {
     "name": "Prochain Concert",
     "query": "\"Prochain Concert\"",
-    "rank": 19,
-    "tweet_count": "3,639 Tweets"
+    "rank": 16,
+    "tweet_count": "3,649 Tweets"
   },
   {
-    "name": "Nsoki",
-    "query": "Nsoki",
+    "name": "Thanksgiving",
+    "query": "Thanksgiving",
+    "rank": 17,
+    "tweet_count": "1.07M Tweets"
+  },
+  {
+    "name": "Club Brugge",
+    "query": "\"Club Brugge\"",
+    "rank": 18,
+    "tweet_count": "3,757 Tweets"
+  },
+  {
+    "name": "Premier Concert",
+    "query": "\"Premier Concert\"",
+    "rank": 19,
+    "tweet_count": "3,381 Tweets"
+  },
+  {
+    "name": "nsoki",
+    "query": "nsoki",
     "rank": 20,
     "tweet_count": null
   }

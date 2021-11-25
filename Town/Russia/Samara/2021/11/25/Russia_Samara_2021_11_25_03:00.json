@@ -9,7 +9,7 @@
     "name": "#HawkeyeSeries",
     "query": "#HawkeyeSeries",
     "rank": 2,
-    "tweet_count": "25K Tweets"
+    "tweet_count": "25.2K Tweets"
   },
   {
     "name": "#спартакнаполи",
@@ -24,99 +24,87 @@
     "tweet_count": "11K Tweets"
   },
   {
-    "name": "#нюдсочетверг",
-    "query": "#нюдсочетверг",
+    "name": "Сводка ЧС",
+    "query": "\"Сводка ЧС\"",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "Моргенштерн",
-    "query": "Моргенштерн",
-    "rank": 6,
-    "tweet_count": "2,480 Tweets"
-  },
-  {
     "name": "#GRAMMYs",
     "query": "#GRAMMYs",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": "362K Tweets"
   },
   {
     "name": "Бастрыкин",
     "query": "Бастрыкин",
-    "rank": 8,
-    "tweet_count": "2,626 Tweets"
+    "rank": 7,
+    "tweet_count": "2,634 Tweets"
   },
   {
-    "name": "Сводка ЧС",
-    "query": "\"Сводка ЧС\"",
+    "name": "Моргенштерн",
+    "query": "Моргенштерн",
+    "rank": 8,
+    "tweet_count": "2,486 Tweets"
+  },
+  {
+    "name": "с победой",
+    "query": "\"с победой\"",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "С Победой",
-    "query": "\"С Победой\"",
+    "name": "Горо",
+    "query": "Горо",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "3,357 Tweets"
+  },
+  {
+    "name": "грэмми",
+    "query": "грэмми",
+    "rank": 11,
+    "tweet_count": "3,226 Tweets"
   },
   {
     "name": "Интеллект",
     "query": "Интеллект",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Грэмми",
-    "query": "Грэмми",
     "rank": 12,
-    "tweet_count": "3,221 Tweets"
-  },
-  {
-    "name": "Главного",
-    "query": "Главного",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "итто",
-    "query": "итто",
-    "rank": 14,
-    "tweet_count": "5,095 Tweets"
-  },
-  {
-    "name": "росздравнадзора",
-    "query": "росздравнадзора",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Лоза",
-    "query": "Лоза",
-    "rank": 16,
-    "tweet_count": "1,052 Tweets"
-  },
-  {
-    "name": "горо",
-    "query": "горо",
-    "rank": 17,
-    "tweet_count": "3,346 Tweets"
-  },
-  {
-    "name": "Следственный",
-    "query": "Следственный",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Селихов",
-    "query": "Селихов",
-    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Молдавии",
     "query": "Молдавии",
-    "rank": 20,
+    "rank": 13,
     "tweet_count": null
+  },
+  {
+    "name": "росздравнадзора",
+    "query": "росздравнадзора",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Главного",
+    "query": "Главного",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "следственный",
+    "query": "следственный",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Шукшина",
+    "query": "Шукшина",
+    "rank": 17,
+    "tweet_count": "1,131 Tweets"
+  },
+  {
+    "name": "итто",
+    "query": "итто",
+    "rank": 18,
+    "tweet_count": "5,110 Tweets"
   }
 ]
