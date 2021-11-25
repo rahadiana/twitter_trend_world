@@ -3,7 +3,7 @@
     "name": "Thanksgiving",
     "query": "Thanksgiving",
     "rank": 1,
-    "tweet_count": "2.39M Tweets"
+    "tweet_count": "1.73M Tweets"
   },
   {
     "name": "#نادي_الهلال_بطل_اسيا",
@@ -15,19 +15,19 @@
     "name": "#دعاء_كميل",
     "query": "#دعاء_كميل",
     "rank": 3,
-    "tweet_count": "1,098 Tweets"
-  },
-  {
-    "name": "Black Friday",
-    "query": "\"Black Friday\"",
-    "rank": 4,
-    "tweet_count": "487K Tweets"
+    "tweet_count": "1,112 Tweets"
   },
   {
     "name": "Happy Thanksgiving",
     "query": "\"Happy Thanksgiving\"",
+    "rank": 4,
+    "tweet_count": "1.54M Tweets"
+  },
+  {
+    "name": "Black Friday",
+    "query": "\"Black Friday\"",
     "rank": 5,
-    "tweet_count": "1.37M Tweets"
+    "tweet_count": "493K Tweets"
   },
   {
     "name": "#حبيبي_حسين",
@@ -36,87 +36,69 @@
     "tweet_count": null
   },
   {
-    "name": "#مساء_الخير",
-    "query": "#مساء_الخير",
-    "rank": 7,
-    "tweet_count": "12.9K Tweets"
-  },
-  {
     "name": "علي بالي",
     "query": "\"علي بالي\"",
-    "rank": 8,
-    "tweet_count": "4,176 Tweets"
+    "rank": 7,
+    "tweet_count": "4,227 Tweets"
   },
   {
-    "name": "#الامارات",
-    "query": "#الامارات",
+    "name": "#مساء_الخير",
+    "query": "#مساء_الخير",
+    "rank": 8,
+    "tweet_count": "13K Tweets"
+  },
+  {
+    "name": "برشلونة",
+    "query": "برشلونة",
     "rank": 9,
-    "tweet_count": "21.3K Tweets"
+    "tweet_count": "8,298 Tweets"
   },
   {
     "name": "علي السلامه",
     "query": "\"علي السلامه\"",
     "rank": 10,
-    "tweet_count": "5,571 Tweets"
+    "tweet_count": "5,653 Tweets"
   },
   {
     "name": "Ronaldo",
     "query": "Ronaldo",
     "rank": 11,
-    "tweet_count": "86.6K Tweets"
+    "tweet_count": "87.7K Tweets"
   },
   {
-    "name": "محمد",
-    "query": "محمد",
+    "name": "#Dubai",
+    "query": "#Dubai",
     "rank": 12,
-    "tweet_count": "346K Tweets"
+    "tweet_count": "6,103 Tweets"
+  },
+  {
+    "name": "Christmas",
+    "query": "Christmas",
+    "rank": 13,
+    "tweet_count": "739K Tweets"
   },
   {
     "name": "باريس",
     "query": "باريس",
-    "rank": 13,
-    "tweet_count": "14.1K Tweets"
-  },
-  {
-    "name": "برشلونة",
-    "query": "برشلونة",
     "rank": 14,
-    "tweet_count": "8,228 Tweets"
-  },
-  {
-    "name": "الرياض",
-    "query": "الرياض",
-    "rank": 15,
-    "tweet_count": "199K Tweets"
+    "tweet_count": "14.2K Tweets"
   },
   {
     "name": "Messi",
     "query": "Messi",
-    "rank": 16,
-    "tweet_count": "201K Tweets"
+    "rank": 15,
+    "tweet_count": "203K Tweets"
   },
   {
     "name": "ميسي",
     "query": "ميسي",
+    "rank": 16,
+    "tweet_count": "19.3K Tweets"
+  },
+  {
+    "name": "الرياض",
+    "query": "الرياض",
     "rank": 17,
-    "tweet_count": "19.2K Tweets"
-  },
-  {
-    "name": "اليونايتد",
-    "query": "اليونايتد",
-    "rank": 18,
-    "tweet_count": "2,301 Tweets"
-  },
-  {
-    "name": "Happiest",
-    "query": "Happiest",
-    "rank": 19,
-    "tweet_count": "32.3K Tweets"
-  },
-  {
-    "name": "ايران",
-    "query": "ايران",
-    "rank": 20,
-    "tweet_count": "78.8K Tweets"
+    "tweet_count": "202K Tweets"
   }
 ]
