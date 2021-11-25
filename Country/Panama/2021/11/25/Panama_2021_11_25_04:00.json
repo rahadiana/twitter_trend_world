@@ -1,39 +1,39 @@
 [
   {
-    "name": "Medina",
-    "query": "Medina",
+    "name": "Bombo Medina",
+    "query": "\"Bombo Medina\"",
     "rank": 1,
-    "tweet_count": "10.4K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Yemil",
-    "query": "Yemil",
+    "name": "YEMIL",
+    "query": "YEMIL",
     "rank": 2,
-    "tweet_count": "1,422 Tweets"
-  },
-  {
-    "name": "Alianza",
-    "query": "Alianza",
-    "rank": 3,
-    "tweet_count": "16.5K Tweets"
+    "tweet_count": "1,439 Tweets"
   },
   {
     "name": "Kroos",
     "query": "Kroos",
-    "rank": 4,
-    "tweet_count": "27.2K Tweets"
+    "rank": 3,
+    "tweet_count": "27.3K Tweets"
   },
   {
     "name": "Urri",
     "query": "Urri",
+    "rank": 4,
+    "tweet_count": "1,425 Tweets"
+  },
+  {
+    "name": "Alianza",
+    "query": "Alianza",
     "rank": 5,
-    "tweet_count": "1,406 Tweets"
+    "tweet_count": "16.7K Tweets"
   },
   {
     "name": "#Hawkeye",
     "query": "#Hawkeye",
     "rank": 6,
-    "tweet_count": "176K Tweets"
+    "tweet_count": "178K Tweets"
   },
   {
     "name": "Benfica",
@@ -45,13 +45,13 @@
     "name": "Depay",
     "query": "Depay",
     "rank": 8,
-    "tweet_count": "7,824 Tweets"
+    "tweet_count": "7,838 Tweets"
   },
   {
     "name": "Alaba",
     "query": "Alaba",
     "rank": 9,
-    "tweet_count": "28.4K Tweets"
+    "tweet_count": "28.6K Tweets"
   },
   {
     "name": "Seferovic",
@@ -60,34 +60,34 @@
     "tweet_count": "16.6K Tweets"
   },
   {
+    "name": "Thanksgiving",
+    "query": "Thanksgiving",
+    "rank": 11,
+    "tweet_count": "1.11M Tweets"
+  },
+  {
     "name": "Memphis",
     "query": "Memphis",
-    "rank": 11,
-    "tweet_count": "20.4K Tweets"
+    "rank": 12,
+    "tweet_count": "21.2K Tweets"
   },
   {
     "name": "Manchester City",
     "query": "\"Manchester City\"",
-    "rank": 12,
-    "tweet_count": "69.5K Tweets"
-  },
-  {
-    "name": "Thanksgiving",
-    "query": "Thanksgiving",
     "rank": 13,
-    "tweet_count": "1.08M Tweets"
+    "tweet_count": "69.7K Tweets"
   },
   {
     "name": "Milan",
     "query": "Milan",
     "rank": 14,
-    "tweet_count": "85.7K Tweets"
+    "tweet_count": "86.3K Tweets"
   },
   {
     "name": "Europa League",
     "query": "\"Europa League\"",
     "rank": 15,
-    "tweet_count": "39.9K Tweets"
+    "tweet_count": "40.2K Tweets"
   },
   {
     "name": "Garbo",
@@ -99,7 +99,7 @@
     "name": "Sheriff",
     "query": "Sheriff",
     "rank": 17,
-    "tweet_count": "52.8K Tweets"
+    "tweet_count": "53.2K Tweets"
   },
   {
     "name": "plaza amador",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "Bayern",
-    "query": "Bayern",
-    "rank": 19,
-    "tweet_count": "69.4K Tweets"
-  },
-  {
     "name": "West",
     "query": "West",
+    "rank": 19,
+    "tweet_count": "193K Tweets"
+  },
+  {
+    "name": "#AndrelfiLatamTeApoya",
+    "query": "#AndrelfiLatamTeApoya",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "1,766 Tweets"
   }
 ]
