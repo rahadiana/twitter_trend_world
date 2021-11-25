@@ -3,25 +3,25 @@
     "name": "Thanksgiving",
     "query": "Thanksgiving",
     "rank": 1,
-    "tweet_count": "1.82M Tweets"
+    "tweet_count": "2.34M Tweets"
   },
   {
     "name": "Happy Thanksgiving",
     "query": "\"Happy Thanksgiving\"",
     "rank": 2,
-    "tweet_count": "1.2M Tweets"
-  },
-  {
-    "name": "#OrangeTheWorld",
-    "query": "#OrangeTheWorld",
-    "rank": 3,
-    "tweet_count": "122K Tweets"
+    "tweet_count": "1.5M Tweets"
   },
   {
     "name": "#HappyThanksgiving",
     "query": "#HappyThanksgiving",
+    "rank": 3,
+    "tweet_count": "187K Tweets"
+  },
+  {
+    "name": "#OrangeTheWorld",
+    "query": "#OrangeTheWorld",
     "rank": 4,
-    "tweet_count": "186K Tweets"
+    "tweet_count": "122K Tweets"
   },
   {
     "name": "מזל טוב גלי",
@@ -39,7 +39,7 @@
     "name": "#Thanksgiving2021",
     "query": "#Thanksgiving2021",
     "rank": 7,
-    "tweet_count": "67.9K Tweets"
+    "tweet_count": "68.3K Tweets"
   },
   {
     "name": "גבר שמרים יד",
@@ -51,7 +51,7 @@
     "name": "#16Days",
     "query": "#16Days",
     "rank": 9,
-    "tweet_count": "78.2K Tweets"
+    "tweet_count": "78.5K Tweets"
   },
   {
     "name": "#DevOpsDaysTLV",
@@ -69,13 +69,13 @@
     "name": "International Day",
     "query": "\"International Day\"",
     "rank": 12,
-    "tweet_count": "59.5K Tweets"
+    "tweet_count": "59.8K Tweets"
   },
   {
     "name": "Black Friday",
     "query": "\"Black Friday\"",
     "rank": 13,
-    "tweet_count": "492K Tweets"
+    "tweet_count": "496K Tweets"
   },
   {
     "name": "גבר אמיתי",
@@ -84,14 +84,14 @@
     "tweet_count": null
   },
   {
-    "name": "Morocco",
-    "query": "Morocco",
-    "rank": 15,
-    "tweet_count": "8,738 Tweets"
-  },
-  {
     "name": "שלוש שנים",
     "query": "\"שלוש שנים\"",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Chicago Tribune TV Week",
+    "query": "\"Chicago Tribune TV Week\"",
     "rank": 16,
     "tweet_count": null
   },
@@ -102,10 +102,10 @@
     "tweet_count": null
   },
   {
-    "name": "Belgium",
-    "query": "Belgium",
+    "name": "נגד נשים",
+    "query": "\"נגד נשים\"",
     "rank": 18,
-    "tweet_count": "10.6K Tweets"
+    "tweet_count": "1,290 Tweets"
   },
   {
     "name": "בוקר טוב",
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "Chicago Tribune TV Week",
-    "query": "\"Chicago Tribune TV Week\"",
+    "name": "Belgium",
+    "query": "Belgium",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "10.7K Tweets"
   }
 ]
