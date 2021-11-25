@@ -1,25 +1,25 @@
 [
   {
-    "name": "#polkvart",
-    "query": "#polkvart",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Bergen",
     "query": "Bergen",
+    "rank": 1,
+    "tweet_count": "3,494 Tweets"
+  },
+  {
+    "name": "#polkvart",
+    "query": "#polkvart",
     "rank": 2,
-    "tweet_count": "3,442 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Qatar",
     "query": "Qatar",
     "rank": 3,
-    "tweet_count": "26.1K Tweets"
+    "tweet_count": "26.6K Tweets"
   },
   {
-    "name": "#NNPF",
-    "query": "#NNPF",
+    "name": "#nnpf",
+    "query": "#nnpf",
     "rank": 4,
     "tweet_count": null
   },
@@ -30,20 +30,20 @@
     "tweet_count": null
   },
   {
-    "name": "Thiago",
-    "query": "Thiago",
-    "rank": 6,
-    "tweet_count": "83.7K Tweets"
-  },
-  {
     "name": "#bybanen",
     "query": "#bybanen",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
   },
   {
-    "name": "#Unibet10k",
-    "query": "#Unibet10k",
+    "name": "Thiago",
+    "query": "Thiago",
+    "rank": 7,
+    "tweet_count": "84.7K Tweets"
+  },
+  {
+    "name": "#unibet10k",
+    "query": "#unibet10k",
     "rank": 8,
     "tweet_count": null
   },
@@ -54,22 +54,22 @@
     "tweet_count": null
   },
   {
+    "name": "Thanksgiving",
+    "query": "Thanksgiving",
+    "rank": 10,
+    "tweet_count": "1.27M Tweets"
+  },
+  {
     "name": "FIFA",
     "query": "FIFA",
-    "rank": 10,
-    "tweet_count": "47.2K Tweets"
+    "rank": 11,
+    "tweet_count": "47.8K Tweets"
   },
   {
     "name": "Kim Friele",
     "query": "\"Kim Friele\"",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Thanksgiving",
-    "query": "Thanksgiving",
     "rank": 12,
-    "tweet_count": "1.26M Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Zerokonferansen",
@@ -81,41 +81,41 @@
     "name": "Milan",
     "query": "Milan",
     "rank": 14,
-    "tweet_count": "89.4K Tweets"
+    "tweet_count": "90.4K Tweets"
   },
   {
     "name": "Messi",
     "query": "Messi",
     "rank": 15,
-    "tweet_count": "241K Tweets"
+    "tweet_count": "245K Tweets"
   },
   {
-    "name": "Magdalena Andersson",
-    "query": "\"Magdalena Andersson\"",
+    "name": "Oslo",
+    "query": "Oslo",
     "rank": 16,
-    "tweet_count": "18.3K Tweets"
+    "tweet_count": "3,348 Tweets"
   },
   {
-    "name": "Valhammer",
-    "query": "Valhammer",
+    "name": "Rødt",
+    "query": "Rødt",
     "rank": 17,
     "tweet_count": null
   },
   {
+    "name": "Magdalena Andersson",
+    "query": "\"Magdalena Andersson\"",
+    "rank": 18,
+    "tweet_count": "18.4K Tweets"
+  },
+  {
     "name": "Høyre",
     "query": "Høyre",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Alonso",
-    "query": "Alonso",
-    "rank": 19,
-    "tweet_count": "27.2K Tweets"
-  },
-  {
-    "name": "logan paul",
-    "query": "\"logan paul\"",
+    "name": "Valhammer",
+    "query": "Valhammer",
     "rank": 20,
     "tweet_count": null
   }
