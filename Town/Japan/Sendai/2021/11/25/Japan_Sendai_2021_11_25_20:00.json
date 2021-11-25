@@ -1,81 +1,81 @@
 [
   {
-    "name": "日本シリーズ",
-    "query": "日本シリーズ",
-    "rank": 1,
-    "tweet_count": "129K Tweets"
-  },
-  {
     "name": "オリックス",
     "query": "オリックス",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "142K Tweets"
+  },
+  {
+    "name": "#日本シリーズ",
+    "query": "#日本シリーズ",
+    "rank": 2,
+    "tweet_count": "67.7K Tweets"
   },
   {
     "name": "ヤクルト",
     "query": "ヤクルト",
     "rank": 3,
-    "tweet_count": "89.4K Tweets"
+    "tweet_count": "89.5K Tweets"
   },
   {
     "name": "#まほやく2周年",
     "query": "#まほやく2周年",
     "rank": 4,
-    "tweet_count": "49.7K Tweets"
-  },
-  {
-    "name": "#マヂラブANN0",
-    "query": "#マヂラブANN0",
-    "rank": 5,
-    "tweet_count": "3,021 Tweets"
+    "tweet_count": "50.1K Tweets"
   },
   {
     "name": "プロセカ登場キャラ",
     "query": "プロセカ登場キャラ",
-    "rank": 6,
-    "tweet_count": "1,373 Tweets"
+    "rank": 5,
+    "tweet_count": "1,422 Tweets"
   },
   {
     "name": "#この動画や音楽知ってほしいの魂胆です",
     "query": "#この動画や音楽知ってほしいの魂胆です",
+    "rank": 6,
+    "tweet_count": "1,376 Tweets"
+  },
+  {
+    "name": "#マヂラブANN0",
+    "query": "#マヂラブANN0",
     "rank": 7,
-    "tweet_count": "1,330 Tweets"
-  },
-  {
-    "name": "#大野智誕生祭",
-    "query": "#大野智誕生祭",
-    "rank": 8,
-    "tweet_count": "27.8K Tweets"
-  },
-  {
-    "name": "#songofjapan",
-    "query": "#songofjapan",
-    "rank": 9,
-    "tweet_count": "1,203 Tweets"
+    "tweet_count": "3,092 Tweets"
   },
   {
     "name": "大野くん",
     "query": "大野くん",
-    "rank": 10,
-    "tweet_count": "11.1K Tweets"
+    "rank": 8,
+    "tweet_count": "11.3K Tweets"
   },
   {
     "name": "ギアさん",
     "query": "ギアさん",
-    "rank": 11,
-    "tweet_count": "4,152 Tweets"
+    "rank": 9,
+    "tweet_count": "4,177 Tweets"
   },
   {
-    "name": "Knights",
-    "query": "Knights",
-    "rank": 12,
-    "tweet_count": "51.3K Tweets"
+    "name": "五輪支持要求",
+    "query": "五輪支持要求",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "お前たち政治家のボーナス",
+    "query": "お前たち政治家のボーナス",
+    "rank": 11,
+    "tweet_count": null
   },
   {
     "name": "月4000円賃上げ",
     "query": "月4000円賃上げ",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "風呂の日",
+    "query": "風呂の日",
+    "rank": 13,
+    "tweet_count": "5,434 Tweets"
   },
   {
     "name": "東京五輪全力支持",
@@ -84,39 +84,33 @@
     "tweet_count": null
   },
   {
-    "name": "五輪支持要求",
-    "query": "五輪支持要求",
+    "name": "梅沢富美男",
+    "query": "梅沢富美男",
     "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "お前たち政治家のボーナス",
-    "query": "お前たち政治家のボーナス",
-    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "ラングニック",
     "query": "ラングニック",
+    "rank": 16,
+    "tweet_count": "2,252 Tweets"
+  },
+  {
+    "name": "Knights",
+    "query": "Knights",
     "rank": 17,
-    "tweet_count": "2,224 Tweets"
+    "tweet_count": "51.7K Tweets"
   },
   {
-    "name": "風呂の日",
-    "query": "風呂の日",
+    "name": "雇用保険料",
+    "query": "雇用保険料",
     "rank": 18,
-    "tweet_count": "5,225 Tweets"
+    "tweet_count": "6,938 Tweets"
   },
   {
-    "name": "ハイパーインフレーション",
-    "query": "ハイパーインフレーション",
+    "name": "リアル二次会",
+    "query": "リアル二次会",
     "rank": 19,
-    "tweet_count": "2,170 Tweets"
-  },
-  {
-    "name": "東京リベンジャーズのキャラ",
-    "query": "東京リベンジャーズのキャラ",
-    "rank": 20,
-    "tweet_count": "2,901 Tweets"
+    "tweet_count": "2,025 Tweets"
   }
 ]
