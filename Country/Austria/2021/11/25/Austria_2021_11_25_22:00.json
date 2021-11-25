@@ -9,49 +9,49 @@
     "name": "Thanksgiving",
     "query": "Thanksgiving",
     "rank": 2,
-    "tweet_count": "2.36M Tweets"
+    "tweet_count": "1.9M Tweets"
   },
   {
     "name": "Happy Thanksgiving",
     "query": "\"Happy Thanksgiving\"",
     "rank": 3,
-    "tweet_count": "1.5M Tweets"
+    "tweet_count": "1.06M Tweets"
   },
   {
     "name": "#OrangeTheWorld",
     "query": "#OrangeTheWorld",
     "rank": 4,
-    "tweet_count": "122K Tweets"
+    "tweet_count": "123K Tweets"
   },
   {
     "name": "#SCRWHU",
     "query": "#SCRWHU",
     "rank": 5,
-    "tweet_count": "2,379 Tweets"
-  },
-  {
-    "name": "#tvog",
-    "query": "#tvog",
-    "rank": 6,
-    "tweet_count": "1,613 Tweets"
+    "tweet_count": "2,385 Tweets"
   },
   {
     "name": "#16Days",
     "query": "#16Days",
+    "rank": 6,
+    "tweet_count": "78.8K Tweets"
+  },
+  {
+    "name": "#PSVSTU",
+    "query": "#PSVSTU",
     "rank": 7,
-    "tweet_count": "78.5K Tweets"
+    "tweet_count": "1,206 Tweets"
   },
   {
     "name": "B.1.1.529",
     "query": "B.1.1.529",
     "rank": 8,
-    "tweet_count": "45.9K Tweets"
+    "tweet_count": "46.9K Tweets"
   },
   {
     "name": "Südafrika",
     "query": "Südafrika",
     "rank": 9,
-    "tweet_count": "4,793 Tweets"
+    "tweet_count": "4,862 Tweets"
   },
   {
     "name": "Herr Schmid",
@@ -69,13 +69,13 @@
     "name": "Variante",
     "query": "Variante",
     "rank": 12,
-    "tweet_count": "34.8K Tweets"
+    "tweet_count": "35.4K Tweets"
   },
   {
     "name": "Mutation",
     "query": "Mutation",
     "rank": 13,
-    "tweet_count": "7,740 Tweets"
+    "tweet_count": "7,873 Tweets"
   },
   {
     "name": "Bühne",
@@ -84,8 +84,8 @@
     "tweet_count": null
   },
   {
-    "name": "Golfen",
-    "query": "Golfen",
+    "name": "golfen",
+    "query": "golfen",
     "rank": 15,
     "tweet_count": null
   },
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
-    "name": "TVThek",
-    "query": "TVThek",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
     "name": "Baum",
     "query": "Baum",
-    "rank": 18,
-    "tweet_count": "2,210 Tweets"
+    "rank": 17,
+    "tweet_count": "2,223 Tweets"
   },
   {
-    "name": "West Ham",
-    "query": "\"West Ham\"",
-    "rank": 19,
-    "tweet_count": "8,572 Tweets"
+    "name": "tvthek",
+    "query": "tvthek",
+    "rank": 18,
+    "tweet_count": null
   },
   {
     "name": "Apotheken",
     "query": "Apotheken",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "West Ham",
+    "query": "\"West Ham\"",
+    "rank": 20,
+    "tweet_count": "8,666 Tweets"
   }
 ]
