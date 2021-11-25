@@ -1,33 +1,33 @@
 [
   {
-    "name": "#QandA",
-    "query": "#QandA",
-    "rank": 1,
-    "tweet_count": "5,787 Tweets"
-  },
-  {
     "name": "Thanksgiving",
     "query": "Thanksgiving",
+    "rank": 1,
+    "tweet_count": "1.65M Tweets"
+  },
+  {
+    "name": "#QandA",
+    "query": "#QandA",
     "rank": 2,
-    "tweet_count": "1.51M Tweets"
+    "tweet_count": "5,875 Tweets"
   },
   {
     "name": "#BacheloretteAU",
     "query": "#BacheloretteAU",
     "rank": 3,
-    "tweet_count": "5,515 Tweets"
+    "tweet_count": "5,560 Tweets"
   },
   {
     "name": "#GetBack",
     "query": "#GetBack",
     "rank": 4,
-    "tweet_count": "1,394 Tweets"
+    "tweet_count": "1,436 Tweets"
   },
   {
     "name": "Brooke",
     "query": "Brooke",
     "rank": 5,
-    "tweet_count": "8,982 Tweets"
+    "tweet_count": "9,051 Tweets"
   },
   {
     "name": "Greg Clark",
@@ -36,8 +36,8 @@
     "tweet_count": null
   },
   {
-    "name": "Falinski",
-    "query": "Falinski",
+    "name": "falinski",
+    "query": "falinski",
     "rank": 7,
     "tweet_count": null
   },
@@ -45,78 +45,66 @@
     "name": "Darvid",
     "query": "Darvid",
     "rank": 8,
-    "tweet_count": "2,058 Tweets"
+    "tweet_count": "2,090 Tweets"
   },
   {
-    "name": "#AFLDraft",
-    "query": "#AFLDraft",
+    "name": "#afldraft",
+    "query": "#afldraft",
     "rank": 9,
-    "tweet_count": "2,644 Tweets"
+    "tweet_count": "2,646 Tweets"
   },
   {
-    "name": "jamie lee",
-    "query": "\"jamie lee\"",
+    "name": "Jamie Lee",
+    "query": "\"Jamie Lee\"",
     "rank": 10,
-    "tweet_count": "1,368 Tweets"
+    "tweet_count": "1,383 Tweets"
   },
   {
     "name": "ICAC",
     "query": "ICAC",
     "rank": 11,
-    "tweet_count": "26.4K Tweets"
+    "tweet_count": "26.6K Tweets"
   },
   {
-    "name": "#netballchaos",
-    "query": "#netballchaos",
+    "name": "Zoe Daniel",
+    "query": "\"Zoe Daniel\"",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "3,062 Tweets"
   },
   {
     "name": "Solomon Islands",
     "query": "\"Solomon Islands\"",
     "rank": 13,
-    "tweet_count": "6,720 Tweets"
-  },
-  {
-    "name": "Zoe Daniel",
-    "query": "\"Zoe Daniel\"",
-    "rank": 14,
-    "tweet_count": "3,046 Tweets"
+    "tweet_count": "6,934 Tweets"
   },
   {
     "name": "Tim Wilson",
     "query": "\"Tim Wilson\"",
-    "rank": 15,
-    "tweet_count": "3,199 Tweets"
+    "rank": 14,
+    "tweet_count": "3,218 Tweets"
   },
   {
     "name": "Goldstein",
     "query": "Goldstein",
+    "rank": 15,
+    "tweet_count": "5,395 Tweets"
+  },
+  {
+    "name": "Go Zoe",
+    "query": "\"Go Zoe\"",
     "rank": 16,
-    "tweet_count": "5,349 Tweets"
-  },
-  {
-    "name": "go zoe",
-    "query": "\"go zoe\"",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Beatles",
-    "query": "Beatles",
-    "rank": 18,
-    "tweet_count": "36.5K Tweets"
-  },
-  {
-    "name": "Essendon",
-    "query": "Essendon",
-    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "#WBBL07",
     "query": "#WBBL07",
-    "rank": 20,
-    "tweet_count": "1,512 Tweets"
+    "rank": 17,
+    "tweet_count": "1,526 Tweets"
+  },
+  {
+    "name": "#BlackFriday",
+    "query": "#BlackFriday",
+    "rank": 18,
+    "tweet_count": "109K Tweets"
   }
 ]
