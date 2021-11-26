@@ -1,39 +1,39 @@
 [
   {
-    "name": "#BelfastHour",
-    "query": "#BelfastHour",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
-    "name": "Spurs",
-    "query": "Spurs",
-    "rank": 2,
-    "tweet_count": "36.8K Tweets"
-  },
-  {
     "name": "#PinkFridayWithPLT",
     "query": "#PinkFridayWithPLT",
-    "rank": 3,
-    "tweet_count": "8,734 Tweets"
+    "rank": 1,
+    "tweet_count": "10.3K Tweets"
   },
   {
-    "name": "#BoohooBlackFriday",
-    "query": "#BoohooBlackFriday",
-    "rank": 4,
-    "tweet_count": "15.7K Tweets"
+    "name": "#BlackFriday",
+    "query": "#BlackFriday",
+    "rank": 2,
+    "tweet_count": "216K Tweets"
+  },
+  {
+    "name": "#ISawItFirst",
+    "query": "#ISawItFirst",
+    "rank": 3,
+    "tweet_count": "2,660 Tweets"
   },
   {
     "name": "#fridaymorning",
     "query": "#fridaymorning",
+    "rank": 4,
+    "tweet_count": "13.4K Tweets"
+  },
+  {
+    "name": "#FridayFeeling",
+    "query": "#FridayFeeling",
     "rank": 5,
-    "tweet_count": "12.9K Tweets"
+    "tweet_count": "6,027 Tweets"
   },
   {
     "name": "Macron",
     "query": "Macron",
     "rank": 6,
-    "tweet_count": "77.6K Tweets"
+    "tweet_count": "79.9K Tweets"
   },
   {
     "name": "RIP Ava",
@@ -42,63 +42,75 @@
     "tweet_count": null
   },
   {
-    "name": "South Africa",
-    "query": "\"South Africa\"",
+    "name": "Ava White",
+    "query": "\"Ava White\"",
     "rank": 8,
-    "tweet_count": "130K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Ben Affleck",
+    "query": "\"Ben Affleck\"",
+    "rank": 9,
+    "tweet_count": "1,513 Tweets"
   },
   {
     "name": "Extinction Rebellion",
     "query": "\"Extinction Rebellion\"",
-    "rank": 9,
-    "tweet_count": "1,346 Tweets"
+    "rank": 10,
+    "tweet_count": "1,526 Tweets"
   },
   {
-    "name": "Millie",
-    "query": "Millie",
-    "rank": 10,
-    "tweet_count": "4,803 Tweets"
+    "name": "South Africa",
+    "query": "\"South Africa\"",
+    "rank": 11,
+    "tweet_count": "134K Tweets"
+  },
+  {
+    "name": "Jennifer Lopez",
+    "query": "\"Jennifer Lopez\"",
+    "rank": 12,
+    "tweet_count": "1,603 Tweets"
+  },
+  {
+    "name": "Tony Blair",
+    "query": "\"Tony Blair\"",
+    "rank": 13,
+    "tweet_count": "2,054 Tweets"
   },
   {
     "name": "Grant Shapps",
     "query": "\"Grant Shapps\"",
-    "rank": 11,
-    "tweet_count": "1,099 Tweets"
-  },
-  {
-    "name": "Betsy",
-    "query": "Betsy",
-    "rank": 12,
-    "tweet_count": "1,729 Tweets"
-  },
-  {
-    "name": "The French",
-    "query": "\"The French\"",
-    "rank": 13,
-    "tweet_count": "57.9K Tweets"
-  },
-  {
-    "name": "Gary Speed",
-    "query": "\"Gary Speed\"",
     "rank": 14,
+    "tweet_count": "1,306 Tweets"
+  },
+  {
+    "name": "Millie and Liam",
+    "query": "\"Millie and Liam\"",
+    "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "Priti Patel",
-    "query": "\"Priti Patel\"",
-    "rank": 15,
-    "tweet_count": "57.8K Tweets"
-  },
-  {
-    "name": "Bobbi-Anne McLeod",
-    "query": "\"Bobbi-Anne McLeod\"",
+    "name": "Oh Lewis",
+    "query": "\"Oh Lewis\"",
     "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "Delta",
-    "query": "Delta",
+    "name": "BBC News - France",
+    "query": "\"BBC News - France\"",
     "rank": 17,
+    "tweet_count": "2,012 Tweets"
+  },
+  {
+    "name": "Gary Speed",
+    "query": "\"Gary Speed\"",
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "The French",
+    "query": "\"The French\"",
+    "rank": 19,
+    "tweet_count": "60K Tweets"
   }
 ]
