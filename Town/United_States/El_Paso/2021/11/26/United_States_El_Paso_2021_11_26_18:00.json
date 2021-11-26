@@ -1,45 +1,45 @@
 [
   {
-    "name": "#HookEm",
-    "query": "#HookEm",
-    "rank": 1,
-    "tweet_count": "1,194 Tweets"
-  },
-  {
     "name": "K-State",
     "query": "K-State",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "Black Friday",
     "query": "\"Black Friday\"",
+    "rank": 2,
+    "tweet_count": "488K Tweets"
+  },
+  {
+    "name": "Omicron",
+    "query": "Omicron",
     "rank": 3,
-    "tweet_count": "1.1M Tweets"
+    "tweet_count": "21.1K Tweets"
   },
   {
     "name": "Portugal",
     "query": "Portugal",
     "rank": 4,
-    "tweet_count": "122K Tweets"
+    "tweet_count": "128K Tweets"
   },
   {
     "name": "South Africa",
     "query": "\"South Africa\"",
     "rank": 5,
-    "tweet_count": "206K Tweets"
+    "tweet_count": "212K Tweets"
   },
   {
     "name": "#NativeAmericanHeritageDay",
     "query": "#NativeAmericanHeritageDay",
     "rank": 6,
-    "tweet_count": "4,338 Tweets"
+    "tweet_count": "4,729 Tweets"
   },
   {
-    "name": "Omicron",
-    "query": "Omicron",
+    "name": "B.1.1.529",
+    "query": "B.1.1.529",
     "rank": 7,
-    "tweet_count": "3,726 Tweets"
+    "tweet_count": "208K Tweets"
   },
   {
     "name": "Will Howard",
@@ -51,25 +51,25 @@
     "name": "#FursuitFriday",
     "query": "#FursuitFriday",
     "rank": 9,
-    "tweet_count": "11.7K Tweets"
+    "tweet_count": "12.2K Tweets"
+  },
+  {
+    "name": "#HookEm",
+    "query": "#HookEm",
+    "rank": 10,
+    "tweet_count": "1,446 Tweets"
   },
   {
     "name": "#SmallBusinessSaturday",
     "query": "#SmallBusinessSaturday",
-    "rank": 10,
-    "tweet_count": "2,625 Tweets"
-  },
-  {
-    "name": "Hauser",
-    "query": "Hauser",
     "rank": 11,
-    "tweet_count": "1,023 Tweets"
+    "tweet_count": "2,767 Tweets"
   },
   {
-    "name": "Deuce Vaughn",
-    "query": "\"Deuce Vaughn\"",
+    "name": "Boebert",
+    "query": "Boebert",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "82K Tweets"
   },
   {
     "name": "#SupPMS",
@@ -78,38 +78,38 @@
     "tweet_count": null
   },
   {
-    "name": "Chanyeol",
-    "query": "Chanyeol",
+    "name": "Hauser",
+    "query": "Hauser",
     "rank": 14,
-    "tweet_count": "563K Tweets"
+    "tweet_count": "1,056 Tweets"
   },
   {
-    "name": "Boebert",
-    "query": "Boebert",
+    "name": "Deuce Vaughn",
+    "query": "\"Deuce Vaughn\"",
     "rank": 15,
-    "tweet_count": "76.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Dave Chappelle",
     "query": "\"Dave Chappelle\"",
     "rank": 16,
-    "tweet_count": "11.9K Tweets"
+    "tweet_count": "12.5K Tweets"
   },
   {
-    "name": "Akins",
-    "query": "Akins",
+    "name": "Chanyeol",
+    "query": "Chanyeol",
     "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Susan Sarandon",
-    "query": "\"Susan Sarandon\"",
-    "rank": 18,
-    "tweet_count": "5,961 Tweets"
+    "tweet_count": "571K Tweets"
   },
   {
     "name": "Casey Thompson",
     "query": "\"Casey Thompson\"",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Akins",
+    "query": "Akins",
     "rank": 19,
     "tweet_count": null
   }
