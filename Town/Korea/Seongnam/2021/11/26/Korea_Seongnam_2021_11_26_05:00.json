@@ -3,120 +3,114 @@
     "name": "콘서트 취소",
     "query": "\"콘서트 취소\"",
     "rank": 1,
-    "tweet_count": "4,657 Tweets"
+    "tweet_count": "5,403 Tweets"
   },
   {
-    "name": "#심리테스트",
-    "query": "#심리테스트",
+    "name": "자선야구",
+    "query": "자선야구",
     "rank": 2,
-    "tweet_count": "3,260 Tweets"
-  },
-  {
-    "name": "테스트 결과",
-    "query": "\"테스트 결과\"",
-    "rank": 3,
-    "tweet_count": "1,762 Tweets"
-  },
-  {
-    "name": "나의 성격",
-    "query": "\"나의 성격\"",
-    "rank": 4,
-    "tweet_count": "2,229 Tweets"
-  },
-  {
-    "name": "조슈아 코스튬",
-    "query": "\"조슈아 코스튬\"",
-    "rank": 5,
-    "tweet_count": "21K Tweets"
-  },
-  {
-    "name": "#MMA티켓이벤트",
-    "query": "#MMA티켓이벤트",
-    "rank": 6,
-    "tweet_count": "4,136 Tweets"
+    "tweet_count": null
   },
   {
     "name": "유흥업소",
     "query": "유흥업소",
-    "rank": 7,
-    "tweet_count": "2,004 Tweets"
+    "rank": 3,
+    "tweet_count": "2,174 Tweets"
   },
   {
-    "name": "유성나이츠",
-    "query": "유성나이츠",
-    "rank": 8,
-    "tweet_count": "12.6K Tweets"
-  },
-  {
-    "name": "Thanksgiving",
-    "query": "Thanksgiving",
-    "rank": 9,
-    "tweet_count": "4.41M Tweets"
-  },
-  {
-    "name": "#사랑둥이_우요_태어나줘서_고마워",
-    "query": "#사랑둥이_우요_태어나줘서_고마워",
-    "rank": 10,
-    "tweet_count": "156K Tweets"
+    "name": "알타보이즈",
+    "query": "알타보이즈",
+    "rank": 4,
+    "tweet_count": "3,464 Tweets"
   },
   {
     "name": "성신여대",
     "query": "성신여대",
-    "rank": 11,
+    "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "아내 살해",
-    "query": "\"아내 살해\"",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "유형검사",
-    "query": "유형검사",
-    "rank": 13,
-    "tweet_count": "1,088 Tweets"
-  },
-  {
-    "name": "어떤 문파",
-    "query": "\"어떤 문파\"",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "#MMA2021",
-    "query": "#MMA2021",
-    "rank": 15,
-    "tweet_count": "4,880 Tweets"
-  },
-  {
-    "name": "진라면 순한맛",
-    "query": "\"진라면 순한맛\"",
-    "rank": 16,
-    "tweet_count": "8,083 Tweets"
-  },
-  {
-    "name": "#Made_With_Doda",
-    "query": "#Made_With_Doda",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "츠키스타",
-    "query": "츠키스타",
-    "rank": 18,
-    "tweet_count": "1,153 Tweets"
-  },
-  {
-    "name": "추수감사절",
-    "query": "추수감사절",
-    "rank": 19,
-    "tweet_count": "3,413 Tweets"
+    "name": "이재명 조카",
+    "query": "\"이재명 조카\"",
+    "rank": 6,
+    "tweet_count": "25.4K Tweets"
   },
   {
     "name": "홀로라이브",
     "query": "홀로라이브",
-    "rank": 20,
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "데이트 폭력",
+    "query": "\"데이트 폭력\"",
+    "rank": 8,
+    "tweet_count": "17K Tweets"
+  },
+  {
+    "name": "마법의 소라고동",
+    "query": "\"마법의 소라고동\"",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "블랙프라이데이",
+    "query": "블랙프라이데이",
+    "rank": 10,
+    "tweet_count": "29.8K Tweets"
+  },
+  {
+    "name": "#BTS_Butter",
+    "query": "#BTS_Butter",
+    "rank": 11,
+    "tweet_count": "20.7K Tweets"
+  },
+  {
+    "name": "가요대축제",
+    "query": "가요대축제",
+    "rank": 12,
+    "tweet_count": "1,946 Tweets"
+  },
+  {
+    "name": "청려 생카",
+    "query": "\"청려 생카\"",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Thanksgiving",
+    "query": "Thanksgiving",
+    "rank": 14,
+    "tweet_count": "4.45M Tweets"
+  },
+  {
+    "name": "#Made_With_Doda",
+    "query": "#Made_With_Doda",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "음주운전",
+    "query": "음주운전",
+    "rank": 16,
+    "tweet_count": "8,517 Tweets"
+  },
+  {
+    "name": "유형검사",
+    "query": "유형검사",
+    "rank": 17,
+    "tweet_count": "1,093 Tweets"
+  },
+  {
+    "name": "진라면 순한맛",
+    "query": "\"진라면 순한맛\"",
+    "rank": 18,
+    "tweet_count": "8,193 Tweets"
+  },
+  {
+    "name": "어떤 문파",
+    "query": "\"어떤 문파\"",
+    "rank": 19,
     "tweet_count": null
   }
 ]
