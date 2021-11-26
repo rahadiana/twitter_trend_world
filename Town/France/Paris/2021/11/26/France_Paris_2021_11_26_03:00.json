@@ -1,45 +1,45 @@
 [
   {
+    "name": "#GALOM",
+    "query": "#GALOM",
+    "rank": 1,
+    "tweet_count": "18.3K Tweets"
+  },
+  {
     "name": "Black Friday",
     "query": "\"Black Friday\"",
-    "rank": 1,
-    "tweet_count": "585K Tweets"
+    "rank": 2,
+    "tweet_count": "205K Tweets"
+  },
+  {
+    "name": "#FaceaBFM",
+    "query": "#FaceaBFM",
+    "rank": 3,
+    "tweet_count": "25K Tweets"
   },
   {
     "name": "Booba",
     "query": "Booba",
-    "rank": 2,
-    "tweet_count": "9,083 Tweets"
-  },
-  {
-    "name": "#GALOM",
-    "query": "#GALOM",
-    "rank": 3,
-    "tweet_count": "18.3K Tweets"
+    "rank": 4,
+    "tweet_count": "9,127 Tweets"
   },
   {
     "name": "Maes",
     "query": "Maes",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": "15.6K Tweets"
   },
   {
     "name": "#EnvoyeSpecial",
     "query": "#EnvoyeSpecial",
-    "rank": 5,
-    "tweet_count": "14.3K Tweets"
-  },
-  {
-    "name": "#FaceaBFM",
-    "query": "#FaceaBFM",
     "rank": 6,
-    "tweet_count": "25K Tweets"
+    "tweet_count": "14.3K Tweets"
   },
   {
     "name": "Thanksgiving",
     "query": "Thanksgiving",
     "rank": 7,
-    "tweet_count": "4.11M Tweets"
+    "tweet_count": "4.22M Tweets"
   },
   {
     "name": "#Hulot",
@@ -51,13 +51,13 @@
     "name": "#AmongLegends",
     "query": "#AmongLegends",
     "rank": 9,
-    "tweet_count": "5,133 Tweets"
+    "tweet_count": "5,140 Tweets"
   },
   {
     "name": "Rohff",
     "query": "Rohff",
     "rank": 10,
-    "tweet_count": "4,280 Tweets"
+    "tweet_count": "4,282 Tweets"
   },
   {
     "name": "Zara",
@@ -66,57 +66,57 @@
     "tweet_count": "33.7K Tweets"
   },
   {
-    "name": "Zumba",
-    "query": "Zumba",
-    "rank": 12,
-    "tweet_count": "2,132 Tweets"
-  },
-  {
     "name": "Cherki",
     "query": "Cherki",
-    "rank": 13,
-    "tweet_count": "8,107 Tweets"
+    "rank": 12,
+    "tweet_count": "8,111 Tweets"
   },
   {
     "name": "Happy Thanksgiving",
     "query": "\"Happy Thanksgiving\"",
-    "rank": 14,
-    "tweet_count": "2.24M Tweets"
+    "rank": 13,
+    "tweet_count": "2.25M Tweets"
   },
   {
     "name": "Monaco",
     "query": "Monaco",
-    "rank": 15,
-    "tweet_count": "13.3K Tweets"
-  },
-  {
-    "name": "moulinex",
-    "query": "moulinex",
-    "rank": 16,
-    "tweet_count": "1,809 Tweets"
+    "rank": 14,
+    "tweet_count": "13.4K Tweets"
   },
   {
     "name": "Micro",
     "query": "Micro",
-    "rank": 17,
-    "tweet_count": "29.9K Tweets"
+    "rank": 15,
+    "tweet_count": "30K Tweets"
   },
   {
     "name": "Afrique du Sud",
     "query": "\"Afrique du Sud\"",
-    "rank": 18,
-    "tweet_count": "2,456 Tweets"
+    "rank": 16,
+    "tweet_count": "2,461 Tweets"
   },
   {
     "name": "#NFLextra",
     "query": "#NFLextra",
-    "rank": 19,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "#lemeilleurpatissier",
     "query": "#lemeilleurpatissier",
-    "rank": 20,
+    "rank": 18,
     "tweet_count": "1,016 Tweets"
+  },
+  {
+    "name": "#HistoireDe",
+    "query": "#HistoireDe",
+    "rank": 19,
+    "tweet_count": "1,657 Tweets"
+  },
+  {
+    "name": "#TeufeurSG",
+    "query": "#TeufeurSG",
+    "rank": 20,
+    "tweet_count": "8,170 Tweets"
   }
 ]
