@@ -1,69 +1,69 @@
 [
   {
-    "name": "Omicron",
-    "query": "Omicron",
+    "name": "South Africa",
+    "query": "\"South Africa\"",
     "rank": 1,
-    "tweet_count": "60K Tweets"
+    "tweet_count": "235K Tweets"
   },
   {
     "name": "Black Friday",
     "query": "\"Black Friday\"",
     "rank": 2,
-    "tweet_count": "505K Tweets"
+    "tweet_count": "1.2M Tweets"
   },
   {
     "name": "Portugal",
     "query": "Portugal",
     "rank": 3,
-    "tweet_count": "133K Tweets"
+    "tweet_count": "135K Tweets"
   },
   {
-    "name": "South Africa",
-    "query": "\"South Africa\"",
+    "name": "Forsberg",
+    "query": "Forsberg",
     "rank": 4,
-    "tweet_count": "229K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#covidvariant",
-    "query": "#covidvariant",
+    "name": "Belgium",
+    "query": "Belgium",
     "rank": 5,
-    "tweet_count": "7,177 Tweets"
+    "tweet_count": "34.6K Tweets"
   },
   {
     "name": "Afrique du Sud",
     "query": "\"Afrique du Sud\"",
     "rank": 6,
-    "tweet_count": "11.4K Tweets"
-  },
-  {
-    "name": "Belgium",
-    "query": "Belgium",
-    "rank": 7,
-    "tweet_count": "33.8K Tweets"
+    "tweet_count": "11.5K Tweets"
   },
   {
     "name": "Avril Lavigne",
     "query": "\"Avril Lavigne\"",
-    "rank": 8,
-    "tweet_count": "2,690 Tweets"
+    "rank": 7,
+    "tweet_count": "2,739 Tweets"
   },
   {
     "name": "Transformers",
     "query": "Transformers",
-    "rank": 9,
-    "tweet_count": "6,132 Tweets"
+    "rank": 8,
+    "tweet_count": "6,296 Tweets"
   },
   {
     "name": "Botswana",
     "query": "Botswana",
-    "rank": 10,
-    "tweet_count": "70.4K Tweets"
+    "rank": 9,
+    "tweet_count": "72.3K Tweets"
   },
   {
     "name": "Hong Kong",
     "query": "\"Hong Kong\"",
+    "rank": 10,
+    "tweet_count": "47.4K Tweets"
+  },
+  {
+    "name": "Concacaf",
+    "query": "Concacaf",
     "rank": 11,
-    "tweet_count": "46.8K Tweets"
+    "tweet_count": "5,159 Tweets"
   },
   {
     "name": "#BuiltFanProud",
@@ -72,51 +72,51 @@
     "tweet_count": null
   },
   {
+    "name": "Lauren Boebert",
+    "query": "\"Lauren Boebert\"",
+    "rank": 13,
+    "tweet_count": "75.4K Tweets"
+  },
+  {
     "name": "New Zealand",
     "query": "\"New Zealand\"",
-    "rank": 13,
-    "tweet_count": "22.6K Tweets"
+    "rank": 14,
+    "tweet_count": "22.7K Tweets"
+  },
+  {
+    "name": "#FridayFeeling",
+    "query": "#FridayFeeling",
+    "rank": 15,
+    "tweet_count": "19.5K Tweets"
   },
   {
     "name": "#BuyNothingDay",
     "query": "#BuyNothingDay",
-    "rank": 14,
-    "tweet_count": "2,650 Tweets"
+    "rank": 16,
+    "tweet_count": "2,713 Tweets"
   },
   {
     "name": "#coronavirus",
     "query": "#coronavirus",
-    "rank": 15,
-    "tweet_count": "34K Tweets"
-  },
-  {
-    "name": "Boebert",
-    "query": "Boebert",
-    "rank": 16,
-    "tweet_count": "98K Tweets"
+    "rank": 17,
+    "tweet_count": "34.5K Tweets"
   },
   {
     "name": "#shoplocal",
     "query": "#shoplocal",
-    "rank": 17,
-    "tweet_count": "5,060 Tweets"
+    "rank": 18,
+    "tweet_count": "5,112 Tweets"
   },
   {
     "name": "Advent",
     "query": "Advent",
-    "rank": 18,
-    "tweet_count": "19.1K Tweets"
+    "rank": 19,
+    "tweet_count": "19.3K Tweets"
   },
   {
     "name": "Murray",
     "query": "Murray",
-    "rank": 19,
-    "tweet_count": "6,882 Tweets"
-  },
-  {
-    "name": "#GivingTuesday",
-    "query": "#GivingTuesday",
     "rank": 20,
-    "tweet_count": "6,035 Tweets"
+    "tweet_count": "6,964 Tweets"
   }
 ]
