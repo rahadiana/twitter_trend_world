@@ -1,13 +1,13 @@
 [
   {
-    "name": "āfrikas",
-    "query": "āfrikas",
+    "name": "Āfrikas",
+    "query": "Āfrikas",
     "rank": 1,
-    "tweet_count": "1,028 Tweets"
+    "tweet_count": "1,031 Tweets"
   },
   {
-    "name": "āfriku",
-    "query": "āfriku",
+    "name": "Āfriku",
+    "query": "Āfriku",
     "rank": 2,
     "tweet_count": null
   },
@@ -15,7 +15,7 @@
     "name": "Gustavo",
     "query": "Gustavo",
     "rank": 3,
-    "tweet_count": "47.5K Tweets"
+    "tweet_count": "47.9K Tweets"
   },
   {
     "name": "Thanksgiving",
@@ -24,22 +24,22 @@
     "tweet_count": "2.3M Tweets"
   },
   {
-    "name": "#BlackFriday",
-    "query": "#BlackFriday",
+    "name": "pasaules",
+    "query": "pasaules",
     "rank": 5,
-    "tweet_count": "482K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Pasaules",
-    "query": "Pasaules",
+    "name": "#BlackFriday",
+    "query": "#BlackFriday",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "484K Tweets"
   },
   {
     "name": "Delta",
     "query": "Delta",
     "rank": 7,
-    "tweet_count": "140K Tweets"
+    "tweet_count": "141K Tweets"
   },
   {
     "name": "Forši",
@@ -48,38 +48,38 @@
     "tweet_count": null
   },
   {
+    "name": "mārtiņa brauna",
+    "query": "\"mārtiņa brauna\"",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
     "name": "Happy Thanksgiving",
     "query": "\"Happy Thanksgiving\"",
-    "rank": 9,
-    "tweet_count": "870K Tweets"
+    "rank": 10,
+    "tweet_count": "871K Tweets"
   },
   {
     "name": "#BLASTPremier",
     "query": "#BLASTPremier",
-    "rank": 10,
-    "tweet_count": "4,761 Tweets"
+    "rank": 11,
+    "tweet_count": "4,800 Tweets"
   },
   {
     "name": "kozins",
     "query": "kozins",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Covid",
     "query": "Covid",
-    "rank": 12,
-    "tweet_count": "1.37M Tweets"
-  },
-  {
-    "name": "Mārtiņa Brauna",
-    "query": "\"Mārtiņa Brauna\"",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "1.38M Tweets"
   },
   {
-    "name": "Apsveicu",
-    "query": "Apsveicu",
+    "name": "apsveicu",
+    "query": "apsveicu",
     "rank": 14,
     "tweet_count": null
   },
@@ -99,7 +99,7 @@
     "name": "Apple",
     "query": "Apple",
     "rank": 17,
-    "tweet_count": "490K Tweets"
+    "tweet_count": "492K Tweets"
   },
   {
     "name": "Baigi",
@@ -108,14 +108,14 @@
     "tweet_count": null
   },
   {
-    "name": "Gobzems",
-    "query": "Gobzems",
+    "name": "Varu",
+    "query": "Varu",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Varu",
-    "query": "Varu",
+    "name": "Gobzems",
+    "query": "Gobzems",
     "rank": 20,
     "tweet_count": null
   }
