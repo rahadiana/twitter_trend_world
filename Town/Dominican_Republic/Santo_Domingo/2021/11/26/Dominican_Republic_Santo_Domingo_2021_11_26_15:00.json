@@ -6,58 +6,58 @@
     "tweet_count": "1,163 Tweets"
   },
   {
-    "name": "Thanksgiving",
-    "query": "Thanksgiving",
-    "rank": 2,
-    "tweet_count": "3.95M Tweets"
-  },
-  {
     "name": "Black Friday",
     "query": "\"Black Friday\"",
+    "rank": 2,
+    "tweet_count": "983K Tweets"
+  },
+  {
+    "name": "Thanksgiving",
+    "query": "Thanksgiving",
     "rank": 3,
-    "tweet_count": "970K Tweets"
+    "tweet_count": "3.96M Tweets"
   },
   {
     "name": "Mirabal",
     "query": "Mirabal",
     "rank": 4,
-    "tweet_count": "13.9K Tweets"
+    "tweet_count": "14K Tweets"
   },
   {
     "name": "Policía Nacional",
     "query": "\"Policía Nacional\"",
     "rank": 5,
-    "tweet_count": "7,350 Tweets"
-  },
-  {
-    "name": "Día Nacional del Merengue",
-    "query": "\"Día Nacional del Merengue\"",
-    "rank": 6,
-    "tweet_count": null
+    "tweet_count": "7,454 Tweets"
   },
   {
     "name": "Director",
     "query": "Director",
-    "rank": 7,
-    "tweet_count": "128K Tweets"
+    "rank": 6,
+    "tweet_count": "129K Tweets"
   },
   {
-    "name": "Edes",
-    "query": "Edes",
-    "rank": 8,
-    "tweet_count": "2,725 Tweets"
+    "name": "edes",
+    "query": "edes",
+    "rank": 7,
+    "tweet_count": "2,759 Tweets"
   },
   {
     "name": "Hoy 26",
     "query": "\"Hoy 26\"",
-    "rank": 9,
-    "tweet_count": "13.4K Tweets"
+    "rank": 8,
+    "tweet_count": "13.7K Tweets"
   },
   {
-    "name": "#NoViolenciaContraLaMujer",
-    "query": "#NoViolenciaContraLaMujer",
+    "name": "Happy Thanksgiving",
+    "query": "\"Happy Thanksgiving\"",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Día Nacional del Merengue",
+    "query": "\"Día Nacional del Merengue\"",
     "rank": 10,
-    "tweet_count": "2,903 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#TCRDEscuchanos",
@@ -66,20 +66,20 @@
     "tweet_count": null
   },
   {
-    "name": "#25denoviembre",
-    "query": "#25denoviembre",
+    "name": "#NoViolenciaContraLaMujer",
+    "query": "#NoViolenciaContraLaMujer",
     "rank": 12,
-    "tweet_count": "7,975 Tweets"
+    "tweet_count": "2,906 Tweets"
+  },
+  {
+    "name": "#25DeNoviembre",
+    "query": "#25DeNoviembre",
+    "rank": 13,
+    "tweet_count": "7,994 Tweets"
   },
   {
     "name": "Alexis Medina",
     "query": "\"Alexis Medina\"",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "miches",
-    "query": "miches",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,36 +87,36 @@
     "name": "Rosario",
     "query": "Rosario",
     "rank": 15,
-    "tweet_count": "22.3K Tweets"
+    "tweet_count": "22.5K Tweets"
+  },
+  {
+    "name": "Miches",
+    "query": "Miches",
+    "rank": 16,
+    "tweet_count": null
   },
   {
     "name": "Anuel",
     "query": "Anuel",
-    "rank": 16,
-    "tweet_count": "22.7K Tweets"
-  },
-  {
-    "name": "Viernes Negro",
-    "query": "\"Viernes Negro\"",
     "rank": 17,
-    "tweet_count": "5,892 Tweets"
-  },
-  {
-    "name": "Chris Duarte",
-    "query": "\"Chris Duarte\"",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Sudáfrica",
-    "query": "Sudáfrica",
-    "rank": 19,
-    "tweet_count": "34.7K Tweets"
+    "tweet_count": "22.9K Tweets"
   },
   {
     "name": "Eduardo Alberto Then",
     "query": "\"Eduardo Alberto Then\"",
-    "rank": 20,
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Viernes Negro",
+    "query": "\"Viernes Negro\"",
+    "rank": 19,
+    "tweet_count": "5,997 Tweets"
+  },
+  {
+    "name": "Sudáfrica",
+    "query": "Sudáfrica",
+    "rank": 20,
+    "tweet_count": "35.4K Tweets"
   }
 ]

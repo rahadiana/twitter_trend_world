@@ -9,19 +9,19 @@
     "name": "Thanksgiving",
     "query": "Thanksgiving",
     "rank": 2,
-    "tweet_count": "3.95M Tweets"
+    "tweet_count": "3.97M Tweets"
   },
   {
     "name": "Black Friday",
     "query": "\"Black Friday\"",
     "rank": 3,
-    "tweet_count": "970K Tweets"
+    "tweet_count": "983K Tweets"
   },
   {
     "name": "Delta",
     "query": "Delta",
     "rank": 4,
-    "tweet_count": "119K Tweets"
+    "tweet_count": "120K Tweets"
   },
   {
     "name": "serbiju",
@@ -30,16 +30,16 @@
     "tweet_count": null
   },
   {
-    "name": "#OrangeTheWorld",
-    "query": "#OrangeTheWorld",
-    "rank": 6,
-    "tweet_count": "103K Tweets"
-  },
-  {
     "name": "Pasaules",
     "query": "Pasaules",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
+  },
+  {
+    "name": "#OrangeTheWorld",
+    "query": "#OrangeTheWorld",
+    "rank": 7,
+    "tweet_count": "103K Tweets"
   },
   {
     "name": "Happy Thanksgiving",
@@ -54,14 +54,14 @@
     "tweet_count": null
   },
   {
-    "name": "eiropā",
-    "query": "eiropā",
+    "name": "Mārtiņa Brauna",
+    "query": "\"Mārtiņa Brauna\"",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Mārtiņa Brauna",
-    "query": "\"Mārtiņa Brauna\"",
+    "name": "Rīgas",
+    "query": "Rīgas",
     "rank": 11,
     "tweet_count": null
   },
@@ -81,7 +81,7 @@
     "name": "Pfizer",
     "query": "Pfizer",
     "rank": 14,
-    "tweet_count": "233K Tweets"
+    "tweet_count": "235K Tweets"
   },
   {
     "name": "Vai Jūs",
@@ -93,7 +93,7 @@
     "name": "Apple",
     "query": "Apple",
     "rank": 16,
-    "tweet_count": "505K Tweets"
+    "tweet_count": "508K Tweets"
   },
   {
     "name": "Adventes",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "Rīgas",
-    "query": "Rīgas",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
     "name": "brīvības",
     "query": "brīvības",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "COVID-19",
     "query": "COVID-19",
+    "rank": 19,
+    "tweet_count": "380K Tweets"
+  },
+  {
+    "name": "Nevis",
+    "query": "Nevis",
     "rank": 20,
-    "tweet_count": "377K Tweets"
+    "tweet_count": null
   }
 ]
