@@ -1,93 +1,93 @@
 [
   {
-    "name": "thanksgiving",
-    "query": "thanksgiving",
+    "name": "Thanksgiving",
+    "query": "Thanksgiving",
     "rank": 1,
-    "tweet_count": "4.57M Tweets"
+    "tweet_count": "2.08M Tweets"
   },
   {
     "name": "Bridges",
     "query": "Bridges",
     "rank": 2,
-    "tweet_count": "14.6K Tweets"
+    "tweet_count": "14.7K Tweets"
   },
   {
     "name": "Collins",
     "query": "Collins",
     "rank": 3,
-    "tweet_count": "14.6K Tweets"
+    "tweet_count": "14.7K Tweets"
   },
   {
     "name": "National Party",
     "query": "\"National Party\"",
     "rank": 4,
-    "tweet_count": "6,924 Tweets"
-  },
-  {
-    "name": "Luxon",
-    "query": "Luxon",
-    "rank": 5,
-    "tweet_count": null
+    "tweet_count": "6,990 Tweets"
   },
   {
     "name": "#INDvNZ",
     "query": "#INDvNZ",
+    "rank": 5,
+    "tweet_count": "52.7K Tweets"
+  },
+  {
+    "name": "Luxon",
+    "query": "Luxon",
     "rank": 6,
-    "tweet_count": "51.8K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Reti",
     "query": "Reti",
     "rank": 7,
-    "tweet_count": "4,663 Tweets"
+    "tweet_count": "4,759 Tweets"
   },
   {
     "name": "Black Friday",
     "query": "\"Black Friday\"",
     "rank": 8,
-    "tweet_count": "670K Tweets"
-  },
-  {
-    "name": "South Africa",
-    "query": "\"South Africa\"",
-    "rank": 9,
-    "tweet_count": "127K Tweets"
+    "tweet_count": "248K Tweets"
   },
   {
     "name": "#SuperSmashNZ",
     "query": "#SuperSmashNZ",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "South Africa",
+    "query": "\"South Africa\"",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "130K Tweets"
   },
   {
-    "name": "Tim Southee",
-    "query": "\"Tim Southee\"",
+    "name": "Jacqui Dean",
+    "query": "\"Jacqui Dean\"",
     "rank": 11,
-    "tweet_count": "1,904 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "jacqui dean",
-    "query": "\"jacqui dean\"",
+    "name": "Mitchell",
+    "query": "Mitchell",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "12.3K Tweets"
   },
   {
     "name": "Willis",
     "query": "Willis",
     "rank": 13,
-    "tweet_count": "4,211 Tweets"
-  },
-  {
-    "name": "Mitchell",
-    "query": "Mitchell",
-    "rank": 14,
-    "tweet_count": "12.3K Tweets"
+    "tweet_count": "4,229 Tweets"
   },
   {
     "name": "Muller",
     "query": "Muller",
+    "rank": 14,
+    "tweet_count": "4,873 Tweets"
+  },
+  {
+    "name": "#nzpol",
+    "query": "#nzpol",
     "rank": 15,
-    "tweet_count": "4,829 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#rāmereshorts",
@@ -96,26 +96,26 @@
     "tweet_count": null
   },
   {
-    "name": "#nzpol",
-    "query": "#nzpol",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
     "name": "B.1.1.529",
     "query": "B.1.1.529",
-    "rank": 18,
-    "tweet_count": "108K Tweets"
-  },
-  {
-    "name": "Finn Allen",
-    "query": "\"Finn Allen\"",
-    "rank": 19,
-    "tweet_count": null
+    "rank": 17,
+    "tweet_count": "111K Tweets"
   },
   {
     "name": "#SecretSantaNZ2021",
     "query": "#SecretSantaNZ2021",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Southee",
+    "query": "Southee",
+    "rank": 19,
+    "tweet_count": "3,938 Tweets"
+  },
+  {
+    "name": "Finn Allen",
+    "query": "\"Finn Allen\"",
     "rank": 20,
     "tweet_count": null
   }

@@ -3,37 +3,37 @@
     "name": "Thanksgiving",
     "query": "Thanksgiving",
     "rank": 1,
-    "tweet_count": "1.95M Tweets"
+    "tweet_count": "2.08M Tweets"
   },
   {
     "name": "Black Friday",
     "query": "\"Black Friday\"",
     "rank": 2,
-    "tweet_count": "670K Tweets"
-  },
-  {
-    "name": "Sydafrika",
-    "query": "Sydafrika",
-    "rank": 3,
-    "tweet_count": null
+    "tweet_count": "248K Tweets"
   },
   {
     "name": "Magdalena Andersson",
     "query": "\"Magdalena Andersson\"",
+    "rank": 3,
+    "tweet_count": "5,798 Tweets"
+  },
+  {
+    "name": "Sydafrika",
+    "query": "Sydafrika",
     "rank": 4,
-    "tweet_count": "5,778 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "#fplsverige",
+    "query": "#fplsverige",
+    "rank": 5,
+    "tweet_count": null
   },
   {
     "name": "Miljöpartiet",
     "query": "Miljöpartiet",
-    "rank": 5,
-    "tweet_count": "2,077 Tweets"
-  },
-  {
-    "name": "Talmannen",
-    "query": "Talmannen",
     "rank": 6,
-    "tweet_count": "2,871 Tweets"
+    "tweet_count": "2,095 Tweets"
   },
   {
     "name": "Godmorgon",
@@ -42,22 +42,22 @@
     "tweet_count": null
   },
   {
+    "name": "Talmannen",
+    "query": "Talmannen",
+    "rank": 8,
+    "tweet_count": "2,894 Tweets"
+  },
+  {
     "name": "Norlén",
     "query": "Norlén",
-    "rank": 8,
-    "tweet_count": "1,249 Tweets"
+    "rank": 9,
+    "tweet_count": "1,269 Tweets"
   },
   {
     "name": "#svpol",
     "query": "#svpol",
-    "rank": 9,
-    "tweet_count": "3,683 Tweets"
-  },
-  {
-    "name": "Stenevi",
-    "query": "Stenevi",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "3,735 Tweets"
   },
   {
     "name": "På Spåret",
@@ -66,28 +66,28 @@
     "tweet_count": null
   },
   {
+    "name": "Stenevi",
+    "query": "Stenevi",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
     "name": "Annie Lööf",
     "query": "\"Annie Lööf\"",
-    "rank": 12,
-    "tweet_count": "1,203 Tweets"
+    "rank": 13,
+    "tweet_count": "1,209 Tweets"
   },
   {
     "name": "#OrangeTheWorld",
     "query": "#OrangeTheWorld",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": "127K Tweets"
   },
   {
-    "name": "SD-budget",
-    "query": "SD-budget",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Rangnick",
-    "query": "Rangnick",
+    "name": "sd-budget",
+    "query": "sd-budget",
     "rank": 15,
-    "tweet_count": "240K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#FREEiPhone13",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "Centerpartiet",
-    "query": "Centerpartiet",
-    "rank": 18,
-    "tweet_count": "3,639 Tweets"
-  },
-  {
     "name": "Per Bolund",
     "query": "\"Per Bolund\"",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "#16Days",
-    "query": "#16Days",
+    "name": "Centerpartiet",
+    "query": "Centerpartiet",
+    "rank": 19,
+    "tweet_count": "3,675 Tweets"
+  },
+  {
+    "name": "Rangnick",
+    "query": "Rangnick",
     "rank": 20,
-    "tweet_count": "78.1K Tweets"
+    "tweet_count": "243K Tweets"
   }
 ]

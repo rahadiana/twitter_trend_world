@@ -3,13 +3,13 @@
     "name": "Thanksgiving",
     "query": "Thanksgiving",
     "rank": 1,
-    "tweet_count": "2.06M Tweets"
+    "tweet_count": "1.97M Tweets"
   },
   {
     "name": "Black Friday",
     "query": "\"Black Friday\"",
     "rank": 2,
-    "tweet_count": "241K Tweets"
+    "tweet_count": "681K Tweets"
   },
   {
     "name": "Sydafrika",
@@ -21,19 +21,19 @@
     "name": "Magdalena Andersson",
     "query": "\"Magdalena Andersson\"",
     "rank": 4,
-    "tweet_count": "5,774 Tweets"
+    "tweet_count": "5,798 Tweets"
+  },
+  {
+    "name": "#fplsverige",
+    "query": "#fplsverige",
+    "rank": 5,
+    "tweet_count": null
   },
   {
     "name": "Miljöpartiet",
     "query": "Miljöpartiet",
-    "rank": 5,
-    "tweet_count": "2,074 Tweets"
-  },
-  {
-    "name": "Talmannen",
-    "query": "Talmannen",
     "rank": 6,
-    "tweet_count": "2,867 Tweets"
+    "tweet_count": "2,095 Tweets"
   },
   {
     "name": "Godmorgon",
@@ -42,22 +42,22 @@
     "tweet_count": null
   },
   {
+    "name": "Talmannen",
+    "query": "Talmannen",
+    "rank": 8,
+    "tweet_count": "2,892 Tweets"
+  },
+  {
     "name": "Norlén",
     "query": "Norlén",
-    "rank": 8,
-    "tweet_count": "1,248 Tweets"
+    "rank": 9,
+    "tweet_count": "1,267 Tweets"
   },
   {
     "name": "#svpol",
     "query": "#svpol",
-    "rank": 9,
-    "tweet_count": "3,677 Tweets"
-  },
-  {
-    "name": "Stenevi",
-    "query": "Stenevi",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "3,731 Tweets"
   },
   {
     "name": "På Spåret",
@@ -66,28 +66,28 @@
     "tweet_count": null
   },
   {
+    "name": "Stenevi",
+    "query": "Stenevi",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
     "name": "Annie Lööf",
     "query": "\"Annie Lööf\"",
-    "rank": 12,
-    "tweet_count": "1,199 Tweets"
+    "rank": 13,
+    "tweet_count": "1,209 Tweets"
   },
   {
     "name": "#OrangeTheWorld",
     "query": "#OrangeTheWorld",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": "127K Tweets"
   },
   {
-    "name": "SD-budget",
-    "query": "SD-budget",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Rangnick",
-    "query": "Rangnick",
+    "name": "sd-budget",
+    "query": "sd-budget",
     "rank": 15,
-    "tweet_count": "240K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#FREEiPhone13",
@@ -111,12 +111,12 @@
     "name": "Centerpartiet",
     "query": "Centerpartiet",
     "rank": 19,
-    "tweet_count": "3,632 Tweets"
+    "tweet_count": "3,675 Tweets"
   },
   {
-    "name": "#16Days",
-    "query": "#16Days",
+    "name": "Rangnick",
+    "query": "Rangnick",
     "rank": 20,
-    "tweet_count": "78.1K Tweets"
+    "tweet_count": "242K Tweets"
   }
 ]
