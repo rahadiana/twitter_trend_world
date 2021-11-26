@@ -1,110 +1,110 @@
 [
   {
+    "name": "World Cup",
+    "query": "\"World Cup\"",
+    "rank": 1,
+    "tweet_count": "48.3K Tweets"
+  },
+  {
     "name": "Black Friday",
     "query": "\"Black Friday\"",
-    "rank": 1,
-    "tweet_count": "1.08M Tweets"
+    "rank": 2,
+    "tweet_count": "1.1M Tweets"
   },
   {
     "name": "Portugal",
     "query": "Portugal",
-    "rank": 2,
-    "tweet_count": "120K Tweets"
+    "rank": 3,
+    "tweet_count": "124K Tweets"
   },
   {
     "name": "South Africa",
     "query": "\"South Africa\"",
-    "rank": 3,
-    "tweet_count": "203K Tweets"
+    "rank": 4,
+    "tweet_count": "206K Tweets"
   },
   {
     "name": "#NativeAmericanHeritageDay",
     "query": "#NativeAmericanHeritageDay",
-    "rank": 4,
-    "tweet_count": "3,787 Tweets"
+    "rank": 5,
+    "tweet_count": "4,049 Tweets"
   },
   {
     "name": "#SupPMS",
     "query": "#SupPMS",
-    "rank": 5,
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "Hauser",
+    "query": "Hauser",
+    "rank": 7,
+    "tweet_count": "1,042 Tweets"
+  },
+  {
+    "name": "#FursuitFriday",
+    "query": "#FursuitFriday",
+    "rank": 8,
+    "tweet_count": "11.6K Tweets"
+  },
+  {
+    "name": "Deuce Vaughn",
+    "query": "\"Deuce Vaughn\"",
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "#SmallBusinessSaturday",
     "query": "#SmallBusinessSaturday",
-    "rank": 6,
-    "tweet_count": "2,478 Tweets"
+    "rank": 10,
+    "tweet_count": "2,547 Tweets"
   },
   {
     "name": "Chanyeol",
     "query": "Chanyeol",
-    "rank": 7,
-    "tweet_count": "550K Tweets"
-  },
-  {
-    "name": "Deuce Vaughn",
-    "query": "\"Deuce Vaughn\"",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "#FursuitFriday",
-    "query": "#FursuitFriday",
-    "rank": 9,
-    "tweet_count": "11.4K Tweets"
+    "rank": 11,
+    "tweet_count": "558K Tweets"
   },
   {
     "name": "Boebert",
     "query": "Boebert",
-    "rank": 10,
-    "tweet_count": "70.5K Tweets"
+    "rank": 12,
+    "tweet_count": "73.6K Tweets"
   },
   {
     "name": "Dave Chappelle",
     "query": "\"Dave Chappelle\"",
-    "rank": 11,
-    "tweet_count": "11.2K Tweets"
-  },
-  {
-    "name": "Hauser",
-    "query": "Hauser",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "#GOTFIVEDOLLARS",
-    "query": "#GOTFIVEDOLLARS",
     "rank": 13,
-    "tweet_count": "13.4K Tweets"
-  },
-  {
-    "name": "Skip Holtz",
-    "query": "\"Skip Holtz\"",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Susan Sarandon",
-    "query": "\"Susan Sarandon\"",
-    "rank": 15,
-    "tweet_count": "5,597 Tweets"
-  },
-  {
-    "name": "Anuel",
-    "query": "Anuel",
-    "rank": 16,
-    "tweet_count": "24.7K Tweets"
-  },
-  {
-    "name": "North Macedonia",
-    "query": "\"North Macedonia\"",
-    "rank": 17,
-    "tweet_count": "2,434 Tweets"
+    "tweet_count": "11.5K Tweets"
   },
   {
     "name": "Akins",
     "query": "Akins",
-    "rank": 18,
+    "rank": 14,
     "tweet_count": null
+  },
+  {
+    "name": "#GTMcontest99",
+    "query": "#GTMcontest99",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Skip Holtz",
+    "query": "\"Skip Holtz\"",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Casey Thompson",
+    "query": "\"Casey Thompson\"",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Cards Against Humanity",
+    "query": "\"Cards Against Humanity\"",
+    "rank": 18,
+    "tweet_count": "14.2K Tweets"
   }
 ]
