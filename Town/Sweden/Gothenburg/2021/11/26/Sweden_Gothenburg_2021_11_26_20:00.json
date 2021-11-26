@@ -9,31 +9,31 @@
     "name": "Black Friday",
     "query": "\"Black Friday\"",
     "rank": 2,
-    "tweet_count": "1.23M Tweets"
+    "tweet_count": "1.17M Tweets"
   },
   {
     "name": "Thanksgiving",
     "query": "Thanksgiving",
     "rank": 3,
-    "tweet_count": "2.68M Tweets"
-  },
-  {
-    "name": "Omicron",
-    "query": "Omicron",
-    "rank": 4,
-    "tweet_count": "93.7K Tweets"
+    "tweet_count": "2.69M Tweets"
   },
   {
     "name": "Kristianstad",
     "query": "Kristianstad",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "South Africa",
     "query": "\"South Africa\"",
+    "rank": 5,
+    "tweet_count": "245K Tweets"
+  },
+  {
+    "name": "Omicron",
+    "query": "Omicron",
     "rank": 6,
-    "tweet_count": "243K Tweets"
+    "tweet_count": "98.3K Tweets"
   },
   {
     "name": "Tjeckien",
@@ -42,10 +42,10 @@
     "tweet_count": null
   },
   {
-    "name": "Marcus Samuelsson",
-    "query": "\"Marcus Samuelsson\"",
+    "name": "Marcus",
+    "query": "Marcus",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "34.5K Tweets"
   },
   {
     "name": "Degerfors",
@@ -57,49 +57,49 @@
     "name": "Talmannen",
     "query": "Talmannen",
     "rank": 10,
-    "tweet_count": "1,918 Tweets"
-  },
-  {
-    "name": "Happy Thanksgiving",
-    "query": "\"Happy Thanksgiving\"",
-    "rank": 11,
-    "tweet_count": "1.09M Tweets"
+    "tweet_count": "1,944 Tweets"
   },
   {
     "name": "South Africa",
     "query": "\"South Africa\"",
-    "rank": 12,
-    "tweet_count": "243K Tweets"
-  },
-  {
-    "name": "Skål",
-    "query": "Skål",
-    "rank": 13,
-    "tweet_count": null
+    "rank": 11,
+    "tweet_count": "245K Tweets"
   },
   {
     "name": "#svpol",
     "query": "#svpol",
-    "rank": 14,
-    "tweet_count": "2,938 Tweets"
+    "rank": 12,
+    "tweet_count": "2,962 Tweets"
   },
   {
     "name": "#HV71",
     "query": "#HV71",
-    "rank": 15,
+    "rank": 13,
     "tweet_count": null
+  },
+  {
+    "name": "Skål",
+    "query": "Skål",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Happy Thanksgiving",
+    "query": "\"Happy Thanksgiving\"",
+    "rank": 15,
+    "tweet_count": "1.1M Tweets"
   },
   {
     "name": "Idol",
     "query": "Idol",
     "rank": 16,
-    "tweet_count": "205K Tweets"
+    "tweet_count": "206K Tweets"
   },
   {
     "name": "Kram",
     "query": "Kram",
     "rank": 17,
-    "tweet_count": "1,627 Tweets"
+    "tweet_count": "1,654 Tweets"
   },
   {
     "name": "Norlén",
@@ -108,14 +108,14 @@
     "tweet_count": null
   },
   {
-    "name": "Trevlig",
-    "query": "Trevlig",
+    "name": "ånge",
+    "query": "ånge",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "ånge",
-    "query": "ånge",
+    "name": "Ryssland",
+    "query": "Ryssland",
     "rank": 20,
     "tweet_count": null
   }
