@@ -3,7 +3,7 @@
     "name": "Black Friday",
     "query": "\"Black Friday\"",
     "rank": 1,
-    "tweet_count": "1.32M Tweets"
+    "tweet_count": "550K Tweets"
   },
   {
     "name": "På Spåret",
@@ -15,25 +15,25 @@
     "name": "Thanksgiving",
     "query": "Thanksgiving",
     "rank": 3,
-    "tweet_count": "2.09M Tweets"
-  },
-  {
-    "name": "South Africa",
-    "query": "\"South Africa\"",
-    "rank": 4,
-    "tweet_count": "259K Tweets"
+    "tweet_count": "2.11M Tweets"
   },
   {
     "name": "#Omicron",
     "query": "#Omicron",
+    "rank": 4,
+    "tweet_count": "32.4K Tweets"
+  },
+  {
+    "name": "South Africa",
+    "query": "\"South Africa\"",
     "rank": 5,
-    "tweet_count": "30.7K Tweets"
+    "tweet_count": "263K Tweets"
   },
   {
     "name": "Talmannen",
     "query": "Talmannen",
     "rank": 6,
-    "tweet_count": "1,724 Tweets"
+    "tweet_count": "1,738 Tweets"
   },
   {
     "name": "Marcus Oscarsson",
@@ -42,34 +42,34 @@
     "tweet_count": null
   },
   {
-    "name": "Skål",
-    "query": "Skål",
+    "name": "Happy Thanksgiving",
+    "query": "\"Happy Thanksgiving\"",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "771K Tweets"
   },
   {
     "name": "Jonna",
     "query": "Jonna",
     "rank": 9,
-    "tweet_count": "2,223 Tweets"
+    "tweet_count": "2,227 Tweets"
   },
   {
-    "name": "Happy Thanksgiving",
-    "query": "\"Happy Thanksgiving\"",
+    "name": "tjeckien",
+    "query": "tjeckien",
     "rank": 10,
-    "tweet_count": "769K Tweets"
+    "tweet_count": null
   },
   {
     "name": "South Africa",
     "query": "\"South Africa\"",
     "rank": 11,
-    "tweet_count": "259K Tweets"
+    "tweet_count": "263K Tweets"
   },
   {
-    "name": "tjeckien",
-    "query": "tjeckien",
+    "name": "Kram",
+    "query": "Kram",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "1,556 Tweets"
   },
   {
     "name": "Magnus Andersson",
@@ -78,28 +78,28 @@
     "tweet_count": null
   },
   {
-    "name": "Kram",
-    "query": "Kram",
+    "name": "Norlén",
+    "query": "Norlén",
     "rank": 14,
-    "tweet_count": "1,540 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "ånge",
+    "query": "ånge",
+    "rank": 15,
+    "tweet_count": null
   },
   {
     "name": "Avignon",
     "query": "Avignon",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Jason",
     "query": "Jason",
-    "rank": 16,
-    "tweet_count": "45.7K Tweets"
-  },
-  {
-    "name": "ånge",
-    "query": "ånge",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "46.4K Tweets"
   },
   {
     "name": "Kristianstad",
@@ -114,8 +114,8 @@
     "tweet_count": null
   },
   {
-    "name": "Norlén",
-    "query": "Norlén",
+    "name": "robin söder",
+    "query": "\"robin söder\"",
     "rank": 20,
     "tweet_count": null
   }
