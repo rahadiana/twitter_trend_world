@@ -3,37 +3,37 @@
     "name": "Thanksgiving",
     "query": "Thanksgiving",
     "rank": 1,
-    "tweet_count": "4.01M Tweets"
+    "tweet_count": "4.19M Tweets"
   },
   {
     "name": "Black Friday",
     "query": "\"Black Friday\"",
     "rank": 2,
-    "tweet_count": "861K Tweets"
+    "tweet_count": "382K Tweets"
   },
   {
     "name": "25 de Novembro",
     "query": "\"25 de Novembro\"",
     "rank": 3,
-    "tweet_count": "9,351 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Sporting",
     "query": "Sporting",
     "rank": 4,
-    "tweet_count": "24.2K Tweets"
+    "tweet_count": "24.5K Tweets"
   },
   {
     "name": "Marta Temido",
     "query": "\"Marta Temido\"",
     "rank": 5,
-    "tweet_count": "1,074 Tweets"
+    "tweet_count": "1,080 Tweets"
   },
   {
     "name": "África",
     "query": "África",
     "rank": 6,
-    "tweet_count": "359K Tweets"
+    "tweet_count": "370K Tweets"
   },
   {
     "name": "diogo leite",
@@ -42,28 +42,28 @@
     "tweet_count": null
   },
   {
-    "name": "otamendi",
-    "query": "otamendi",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "Páscoa",
     "query": "Páscoa",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Taça de Portugal",
     "query": "\"Taça de Portugal\"",
+    "rank": 9,
+    "tweet_count": "3,354 Tweets"
+  },
+  {
+    "name": "Otamendi",
+    "query": "Otamendi",
     "rank": 10,
-    "tweet_count": "3,332 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Porto",
     "query": "Porto",
     "rank": 11,
-    "tweet_count": "35.4K Tweets"
+    "tweet_count": "36K Tweets"
   },
   {
     "name": "Seferovic",
@@ -75,7 +75,7 @@
     "name": "Natal",
     "query": "Natal",
     "rank": 13,
-    "tweet_count": "101K Tweets"
+    "tweet_count": "103K Tweets"
   },
   {
     "name": "Rui Rio",
@@ -87,36 +87,36 @@
     "name": "#Bitcoin",
     "query": "#Bitcoin",
     "rank": 15,
-    "tweet_count": "325K Tweets"
-  },
-  {
-    "name": "Pote",
-    "query": "Pote",
-    "rank": 16,
-    "tweet_count": "24.9K Tweets"
-  },
-  {
-    "name": "Dortmund",
-    "query": "Dortmund",
-    "rank": 17,
-    "tweet_count": "9,210 Tweets"
+    "tweet_count": "332K Tweets"
   },
   {
     "name": "Dyson",
     "query": "Dyson",
-    "rank": 18,
-    "tweet_count": "4,503 Tweets"
+    "rank": 16,
+    "tweet_count": "4,558 Tweets"
   },
   {
     "name": "Jaime Neves",
     "query": "\"Jaime Neves\"",
-    "rank": 19,
+    "rank": 17,
     "tweet_count": null
+  },
+  {
+    "name": "Pote",
+    "query": "Pote",
+    "rank": 18,
+    "tweet_count": "25.3K Tweets"
+  },
+  {
+    "name": "Dortmund",
+    "query": "Dortmund",
+    "rank": 19,
+    "tweet_count": "9,394 Tweets"
   },
   {
     "name": "Milan",
     "query": "Milan",
     "rank": 20,
-    "tweet_count": "33.3K Tweets"
+    "tweet_count": "33.9K Tweets"
   }
 ]
