@@ -3,31 +3,31 @@
     "name": "Thanksgiving",
     "query": "Thanksgiving",
     "rank": 1,
-    "tweet_count": "2.21M Tweets"
+    "tweet_count": "4.58M Tweets"
+  },
+  {
+    "name": "Happy Thanksgiving",
+    "query": "\"Happy Thanksgiving\"",
+    "rank": 2,
+    "tweet_count": "2.37M Tweets"
   },
   {
     "name": "#BlackFriday",
     "query": "#BlackFriday",
-    "rank": 2,
-    "tweet_count": "226K Tweets"
+    "rank": 3,
+    "tweet_count": "236K Tweets"
   },
   {
     "name": "#BIFOL",
     "query": "#BIFOL",
-    "rank": 3,
-    "tweet_count": "5,030 Tweets"
+    "rank": 4,
+    "tweet_count": "5,066 Tweets"
   },
   {
     "name": "#eldk",
     "query": "#eldk",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "#BLASTPremier",
-    "query": "#BLASTPremier",
     "rank": 5,
-    "tweet_count": "2,772 Tweets"
+    "tweet_count": null
   },
   {
     "name": "David Nielsen",
@@ -36,87 +36,87 @@
     "tweet_count": null
   },
   {
-    "name": "#FCMBRA",
-    "query": "#FCMBRA",
+    "name": "#BLASTPremier",
+    "query": "#BLASTPremier",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "2,816 Tweets"
   },
   {
     "name": "Lyon",
     "query": "Lyon",
     "rank": 8,
-    "tweet_count": "20.8K Tweets"
+    "tweet_count": "21.2K Tweets"
   },
   {
-    "name": "Tshiembe",
-    "query": "Tshiembe",
+    "name": "#FCMBRA",
+    "query": "#FCMBRA",
     "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Braga",
-    "query": "Braga",
-    "rank": 10,
-    "tweet_count": "11.5K Tweets"
-  },
-  {
-    "name": "fc midtjylland",
-    "query": "\"fc midtjylland\"",
-    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "B.1.1.529",
     "query": "B.1.1.529",
-    "rank": 12,
-    "tweet_count": "121K Tweets"
+    "rank": 10,
+    "tweet_count": "125K Tweets"
   },
   {
-    "name": "mundbind",
-    "query": "mundbind",
-    "rank": 13,
+    "name": "tshiembe",
+    "query": "tshiembe",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "fc midtjylland",
+    "query": "\"fc midtjylland\"",
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Sydafrika",
     "query": "Sydafrika",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "mundbind",
+    "query": "mundbind",
     "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "Europa League",
-    "query": "\"Europa League\"",
+    "name": "Conference League",
+    "query": "\"Conference League\"",
     "rank": 15,
-    "tweet_count": "37.5K Tweets"
-  },
-  {
-    "name": "prag",
-    "query": "prag",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "15.6K Tweets"
   },
   {
     "name": "Lions",
     "query": "Lions",
-    "rank": 17,
-    "tweet_count": "146K Tweets"
+    "rank": 16,
+    "tweet_count": "147K Tweets"
   },
   {
-    "name": "conference league",
-    "query": "\"conference league\"",
-    "rank": 18,
-    "tweet_count": "15.4K Tweets"
+    "name": "Braga",
+    "query": "Braga",
+    "rank": 17,
+    "tweet_count": "11.6K Tweets"
   },
   {
     "name": "Esbern Snare",
     "query": "\"Esbern Snare\"",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Prag",
+    "query": "Prag",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Turkey",
-    "query": "Turkey",
+    "name": "Navi",
+    "query": "Navi",
     "rank": 20,
-    "tweet_count": "637K Tweets"
+    "tweet_count": "20.3K Tweets"
   }
 ]
