@@ -9,108 +9,114 @@
     "name": "Black Friday",
     "query": "\"Black Friday\"",
     "rank": 2,
-    "tweet_count": null
+    "tweet_count": "1.28M Tweets"
   },
   {
     "name": "Thanksgiving",
     "query": "Thanksgiving",
     "rank": 3,
-    "tweet_count": "2.48M Tweets"
-  },
-  {
-    "name": "Kristianstad",
-    "query": "Kristianstad",
-    "rank": 4,
-    "tweet_count": null
+    "tweet_count": "2.49M Tweets"
   },
   {
     "name": "Omicron",
     "query": "Omicron",
+    "rank": 4,
+    "tweet_count": "127K Tweets"
+  },
+  {
+    "name": "Kristianstad",
+    "query": "Kristianstad",
     "rank": 5,
-    "tweet_count": "122K Tweets"
+    "tweet_count": null
   },
   {
     "name": "South Africa",
     "query": "\"South Africa\"",
     "rank": 6,
-    "tweet_count": "249K Tweets"
+    "tweet_count": "251K Tweets"
   },
   {
     "name": "Marcus",
     "query": "Marcus",
     "rank": 7,
-    "tweet_count": "33.9K Tweets"
+    "tweet_count": "34.1K Tweets"
   },
   {
     "name": "Talmannen",
     "query": "Talmannen",
     "rank": 8,
-    "tweet_count": "1,783 Tweets"
+    "tweet_count": "1,802 Tweets"
   },
   {
     "name": "South Africa",
     "query": "\"South Africa\"",
     "rank": 9,
-    "tweet_count": "249K Tweets"
+    "tweet_count": "251K Tweets"
+  },
+  {
+    "name": "#svpol",
+    "query": "#svpol",
+    "rank": 10,
+    "tweet_count": "2,888 Tweets"
+  },
+  {
+    "name": "#HV71",
+    "query": "#HV71",
+    "rank": 11,
+    "tweet_count": null
   },
   {
     "name": "Skål",
     "query": "Skål",
-    "rank": 10,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Idol",
     "query": "Idol",
-    "rank": 11,
-    "tweet_count": "206K Tweets"
-  },
-  {
-    "name": "#hv71",
-    "query": "#hv71",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Sven-Ingvars",
-    "query": "Sven-Ingvars",
     "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Happy Thanksgiving",
-    "query": "\"Happy Thanksgiving\"",
-    "rank": 14,
-    "tweet_count": "979K Tweets"
+    "tweet_count": "207K Tweets"
   },
   {
     "name": "Degerfors",
     "query": "Degerfors",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "tjeckien",
     "query": "tjeckien",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Sven-Ingvars",
+    "query": "Sven-Ingvars",
     "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "Magnus Andersson",
-    "query": "\"Magnus Andersson\"",
+    "name": "Jason",
+    "query": "Jason",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "47.7K Tweets"
   },
   {
     "name": "Kram",
     "query": "Kram",
     "rank": 18,
-    "tweet_count": "1,582 Tweets"
+    "tweet_count": "1,586 Tweets"
   },
   {
-    "name": "Norlén",
-    "query": "Norlén",
+    "name": "Jonna",
+    "query": "Jonna",
     "rank": 19,
+    "tweet_count": "2,270 Tweets"
+  },
+  {
+    "name": "ånge",
+    "query": "ånge",
+    "rank": 20,
     "tweet_count": null
   }
 ]
