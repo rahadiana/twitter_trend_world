@@ -9,31 +9,31 @@
     "name": "Black Friday",
     "query": "\"Black Friday\"",
     "rank": 2,
-    "tweet_count": "641K Tweets"
+    "tweet_count": "645K Tweets"
   },
   {
     "name": "Magdalena Andersson",
     "query": "\"Magdalena Andersson\"",
     "rank": 3,
-    "tweet_count": "6,185 Tweets"
-  },
-  {
-    "name": "Miljöpartiet",
-    "query": "Miljöpartiet",
-    "rank": 4,
-    "tweet_count": "2,097 Tweets"
+    "tweet_count": "6,204 Tweets"
   },
   {
     "name": "Sydafrika",
     "query": "Sydafrika",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "Miljöpartiet",
+    "query": "Miljöpartiet",
+    "rank": 5,
+    "tweet_count": "2,109 Tweets"
   },
   {
     "name": "Talmannen",
     "query": "Talmannen",
     "rank": 6,
-    "tweet_count": "2,765 Tweets"
+    "tweet_count": "2,781 Tweets"
   },
   {
     "name": "Godmorgon",
@@ -45,13 +45,13 @@
     "name": "Norlén",
     "query": "Norlén",
     "rank": 8,
-    "tweet_count": "1,192 Tweets"
+    "tweet_count": "1,199 Tweets"
   },
   {
     "name": "#svpol",
     "query": "#svpol",
     "rank": 9,
-    "tweet_count": "3,704 Tweets"
+    "tweet_count": "3,737 Tweets"
   },
   {
     "name": "Stenevi",
@@ -63,13 +63,13 @@
     "name": "Annie Lööf",
     "query": "\"Annie Lööf\"",
     "rank": 11,
-    "tweet_count": "1,234 Tweets"
+    "tweet_count": "1,242 Tweets"
   },
   {
     "name": "#OrangeTheWorld",
     "query": "#OrangeTheWorld",
     "rank": 12,
-    "tweet_count": "128K Tweets"
+    "tweet_count": "129K Tweets"
   },
   {
     "name": "#FREEiPhone13",
@@ -87,29 +87,29 @@
     "name": "Centerpartiet",
     "query": "Centerpartiet",
     "rank": 15,
-    "tweet_count": "3,709 Tweets"
-  },
-  {
-    "name": "Centern",
-    "query": "Centern",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "3,739 Tweets"
   },
   {
     "name": "Bolund",
     "query": "Bolund",
-    "rank": 17,
-    "tweet_count": "1,364 Tweets"
+    "rank": 16,
+    "tweet_count": "1,369 Tweets"
   },
   {
     "name": "Rangnick",
     "query": "Rangnick",
-    "rank": 18,
-    "tweet_count": "233K Tweets"
+    "rank": 17,
+    "tweet_count": "234K Tweets"
   },
   {
     "name": "kämpa ronnie",
     "query": "\"kämpa ronnie\"",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Centern",
+    "query": "Centern",
     "rank": 19,
     "tweet_count": null
   },
@@ -117,6 +117,6 @@
     "name": "#16Days",
     "query": "#16Days",
     "rank": 20,
-    "tweet_count": "80.6K Tweets"
+    "tweet_count": "80.9K Tweets"
   }
 ]

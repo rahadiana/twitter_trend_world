@@ -1,37 +1,37 @@
 [
   {
-    "name": "thanksgiving",
-    "query": "thanksgiving",
+    "name": "Thanksgiving",
+    "query": "Thanksgiving",
     "rank": 1,
-    "tweet_count": "4.54M Tweets"
+    "tweet_count": "1.73M Tweets"
   },
   {
-    "name": "Bergen",
-    "query": "Bergen",
+    "name": "Happy Thanksgiving",
+    "query": "\"Happy Thanksgiving\"",
     "rank": 2,
-    "tweet_count": "3,257 Tweets"
+    "tweet_count": "2.35M Tweets"
+  },
+  {
+    "name": "bergen",
+    "query": "bergen",
+    "rank": 3,
+    "tweet_count": "3,271 Tweets"
   },
   {
     "name": "Black Friday",
     "query": "\"Black Friday\"",
-    "rank": 3,
-    "tweet_count": "641K Tweets"
+    "rank": 4,
+    "tweet_count": "229K Tweets"
   },
   {
     "name": "Ralf Rangnick",
     "query": "\"Ralf Rangnick\"",
-    "rank": 4,
-    "tweet_count": "163K Tweets"
+    "rank": 5,
+    "tweet_count": "164K Tweets"
   },
   {
     "name": "#glimt",
     "query": "#glimt",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Rødt",
-    "query": "Rødt",
     "rank": 6,
     "tweet_count": null
   },
@@ -39,84 +39,84 @@
     "name": "Thiago",
     "query": "Thiago",
     "rank": 7,
-    "tweet_count": "50.9K Tweets"
-  },
-  {
-    "name": "Bryggen",
-    "query": "Bryggen",
-    "rank": 8,
-    "tweet_count": null
+    "tweet_count": "51K Tweets"
   },
   {
     "name": "#dax18",
     "query": "#dax18",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "Bryggen",
+    "query": "Bryggen",
     "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Rødt",
+    "query": "Rødt",
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "#16Days",
     "query": "#16Days",
-    "rank": 10,
-    "tweet_count": "80.6K Tweets"
+    "rank": 11,
+    "tweet_count": "80.9K Tweets"
   },
   {
-    "name": "cska sofia",
-    "query": "\"cska sofia\"",
-    "rank": 11,
+    "name": "CSKA Sofia",
+    "query": "\"CSKA Sofia\"",
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Tottenham",
     "query": "Tottenham",
-    "rank": 12,
-    "tweet_count": "44.9K Tweets"
+    "rank": 13,
+    "tweet_count": "45K Tweets"
   },
   {
     "name": "#zerokonferansen",
     "query": "#zerokonferansen",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "#OrangeTheWorld",
     "query": "#OrangeTheWorld",
-    "rank": 14,
-    "tweet_count": "128K Tweets"
+    "rank": 15,
+    "tweet_count": "129K Tweets"
+  },
+  {
+    "name": "Vitesse",
+    "query": "Vitesse",
+    "rank": 16,
+    "tweet_count": "8,338 Tweets"
   },
   {
     "name": "Høyre",
     "query": "Høyre",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "bybanen",
-    "query": "bybanen",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Mura",
-    "query": "Mura",
     "rank": 17,
-    "tweet_count": "35.2K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Qatar",
     "query": "Qatar",
     "rank": 18,
-    "tweet_count": "28K Tweets"
+    "tweet_count": "28.1K Tweets"
+  },
+  {
+    "name": "Mura",
+    "query": "Mura",
+    "rank": 19,
+    "tweet_count": "35.3K Tweets"
   },
   {
     "name": "Conference League",
     "query": "\"Conference League\"",
-    "rank": 19,
-    "tweet_count": "14.7K Tweets"
-  },
-  {
-    "name": "Nederland",
-    "query": "Nederland",
     "rank": 20,
-    "tweet_count": "18.4K Tweets"
+    "tweet_count": "14.7K Tweets"
   }
 ]
