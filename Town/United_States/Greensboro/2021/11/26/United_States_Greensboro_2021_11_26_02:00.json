@@ -1,122 +1,122 @@
 [
   {
-    "name": "#BlackFriday",
-    "query": "#BlackFriday",
+    "name": "Black Friday",
+    "query": "\"Black Friday\"",
     "rank": 1,
-    "tweet_count": "158K Tweets"
-  },
-  {
-    "name": "Mac n cheese",
-    "query": "\"Mac n cheese\"",
-    "rank": 2,
-    "tweet_count": "27.5K Tweets"
+    "tweet_count": "571K Tweets"
   },
   {
     "name": "#RaidersvsCowboys",
     "query": "#RaidersvsCowboys",
-    "rank": 3,
-    "tweet_count": "2,608 Tweets"
+    "rank": 2,
+    "tweet_count": "2,663 Tweets"
   },
   {
     "name": "Thanksgiving",
     "query": "Thanksgiving",
-    "rank": 4,
-    "tweet_count": "3.98M Tweets"
+    "rank": 3,
+    "tweet_count": "2.44M Tweets"
   },
   {
-    "name": "Parsons",
-    "query": "Parsons",
+    "name": "Anthony Brown",
+    "query": "\"Anthony Brown\"",
+    "rank": 4,
+    "tweet_count": "20.8K Tweets"
+  },
+  {
+    "name": "Josh Allen",
+    "query": "\"Josh Allen\"",
     "rank": 5,
-    "tweet_count": "10.5K Tweets"
+    "tweet_count": "6,538 Tweets"
   },
   {
     "name": "#TERRELLOneMillion",
     "query": "#TERRELLOneMillion",
     "rank": 6,
-    "tweet_count": "4,138 Tweets"
+    "tweet_count": "6,340 Tweets"
+  },
+  {
+    "name": "Parsons",
+    "query": "Parsons",
+    "rank": 7,
+    "tweet_count": "11.2K Tweets"
   },
   {
     "name": "Derek Carr",
     "query": "\"Derek Carr\"",
-    "rank": 7,
-    "tweet_count": "7,033 Tweets"
-  },
-  {
-    "name": "Zeke",
-    "query": "Zeke",
     "rank": 8,
-    "tweet_count": "12.8K Tweets"
-  },
-  {
-    "name": "Mississippi State",
-    "query": "\"Mississippi State\"",
-    "rank": 9,
-    "tweet_count": "3,962 Tweets"
-  },
-  {
-    "name": "Luke Combs",
-    "query": "\"Luke Combs\"",
-    "rank": 10,
-    "tweet_count": "4,534 Tweets"
-  },
-  {
-    "name": "#EggBowl",
-    "query": "#EggBowl",
-    "rank": 11,
-    "tweet_count": "2,023 Tweets"
-  },
-  {
-    "name": "Romo",
-    "query": "Romo",
-    "rank": 12,
-    "tweet_count": "7,277 Tweets"
-  },
-  {
-    "name": "Daniel Carlson",
-    "query": "\"Daniel Carlson\"",
-    "rank": 13,
-    "tweet_count": "1,122 Tweets"
-  },
-  {
-    "name": "Diggs",
-    "query": "Diggs",
-    "rank": 14,
-    "tweet_count": "23.6K Tweets"
-  },
-  {
-    "name": "#BillsMafia",
-    "query": "#BillsMafia",
-    "rank": 15,
-    "tweet_count": "10.3K Tweets"
-  },
-  {
-    "name": "NFC East",
-    "query": "\"NFC East\"",
-    "rank": 16,
-    "tweet_count": "1,811 Tweets"
-  },
-  {
-    "name": "AFC West",
-    "query": "\"AFC West\"",
-    "rank": 17,
-    "tweet_count": "1,319 Tweets"
-  },
-  {
-    "name": "Schultz",
-    "query": "Schultz",
-    "rank": 18,
-    "tweet_count": "5,743 Tweets"
-  },
-  {
-    "name": "Iona",
-    "query": "Iona",
-    "rank": 19,
-    "tweet_count": "5,858 Tweets"
+    "tweet_count": "7,571 Tweets"
   },
   {
     "name": "Taysom",
     "query": "Taysom",
+    "rank": 9,
+    "tweet_count": "3,303 Tweets"
+  },
+  {
+    "name": "Zeke",
+    "query": "Zeke",
+    "rank": 10,
+    "tweet_count": "13.1K Tweets"
+  },
+  {
+    "name": "Ole Miss",
+    "query": "\"Ole Miss\"",
+    "rank": 11,
+    "tweet_count": "6,870 Tweets"
+  },
+  {
+    "name": "Mississippi State",
+    "query": "\"Mississippi State\"",
+    "rank": 12,
+    "tweet_count": "4,297 Tweets"
+  },
+  {
+    "name": "Luke Combs",
+    "query": "\"Luke Combs\"",
+    "rank": 13,
+    "tweet_count": "4,592 Tweets"
+  },
+  {
+    "name": "Sean Payton",
+    "query": "\"Sean Payton\"",
+    "rank": 14,
+    "tweet_count": "1,670 Tweets"
+  },
+  {
+    "name": "#HappyThanksgiving",
+    "query": "#HappyThanksgiving",
+    "rank": 15,
+    "tweet_count": "219K Tweets"
+  },
+  {
+    "name": "Diggs",
+    "query": "Diggs",
+    "rank": 16,
+    "tweet_count": "24.2K Tweets"
+  },
+  {
+    "name": "Romo",
+    "query": "Romo",
+    "rank": 17,
+    "tweet_count": "7,502 Tweets"
+  },
+  {
+    "name": "Daniel Carlson",
+    "query": "\"Daniel Carlson\"",
+    "rank": 18,
+    "tweet_count": "1,282 Tweets"
+  },
+  {
+    "name": "Dion Dawkins",
+    "query": "\"Dion Dawkins\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "#TheNineKittensofChristmas",
+    "query": "#TheNineKittensofChristmas",
     "rank": 20,
-    "tweet_count": "2,312 Tweets"
+    "tweet_count": "2,557 Tweets"
   }
 ]
