@@ -3,23 +3,23 @@
     "name": "Thanksgiving",
     "query": "Thanksgiving",
     "rank": 1,
-    "tweet_count": "2.43M Tweets"
+    "tweet_count": "4.53M Tweets"
   },
   {
     "name": "Garth Brooks",
     "query": "\"Garth Brooks\"",
     "rank": 2,
-    "tweet_count": "3,342 Tweets"
+    "tweet_count": "3,352 Tweets"
   },
   {
-    "name": "#irlsvk",
-    "query": "#irlsvk",
+    "name": "#IRLSVK",
+    "query": "#IRLSVK",
     "rank": 3,
     "tweet_count": null
   },
   {
-    "name": "#COYGIG",
-    "query": "#COYGIG",
+    "name": "#coygig",
+    "query": "#coygig",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,37 +27,37 @@
     "name": "Rangnick",
     "query": "Rangnick",
     "rank": 5,
-    "tweet_count": "229K Tweets"
+    "tweet_count": "231K Tweets"
   },
   {
     "name": "#16Days",
     "query": "#16Days",
     "rank": 6,
-    "tweet_count": "81.8K Tweets"
+    "tweet_count": "82.5K Tweets"
   },
   {
     "name": "Black Friday",
     "query": "\"Black Friday\"",
     "rank": 7,
-    "tweet_count": "628K Tweets"
+    "tweet_count": "637K Tweets"
+  },
+  {
+    "name": "#mcipsg",
+    "query": "#mcipsg",
+    "rank": 8,
+    "tweet_count": "10.5K Tweets"
   },
   {
     "name": "Croke Park",
     "query": "\"Croke Park\"",
-    "rank": 8,
-    "tweet_count": "1,226 Tweets"
+    "rank": 9,
+    "tweet_count": "1,233 Tweets"
   },
   {
     "name": "Joe Hart",
     "query": "\"Joe Hart\"",
-    "rank": 9,
-    "tweet_count": "2,000 Tweets"
-  },
-  {
-    "name": "B.1.1.529",
-    "query": "B.1.1.529",
     "rank": 10,
-    "tweet_count": "91.2K Tweets"
+    "tweet_count": "2,001 Tweets"
   },
   {
     "name": "Katie McCabe",
@@ -66,45 +66,51 @@
     "tweet_count": null
   },
   {
+    "name": "B.1.1.529",
+    "query": "B.1.1.529",
+    "rank": 12,
+    "tweet_count": "93.4K Tweets"
+  },
+  {
     "name": "croker",
     "query": "croker",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Porto",
-    "query": "Porto",
     "rank": 13,
-    "tweet_count": "37.3K Tweets"
-  },
-  {
-    "name": "International Day",
-    "query": "\"International Day\"",
-    "rank": 14,
-    "tweet_count": "60.1K Tweets"
+    "tweet_count": null
   },
   {
     "name": "South Africa",
     "query": "\"South Africa\"",
-    "rank": 15,
-    "tweet_count": "111K Tweets"
+    "rank": 14,
+    "tweet_count": "113K Tweets"
   },
   {
     "name": "Slovakia",
     "query": "Slovakia",
-    "rank": 16,
-    "tweet_count": "3,204 Tweets"
+    "rank": 15,
+    "tweet_count": "3,222 Tweets"
   },
   {
     "name": "Ticketmaster",
     "query": "Ticketmaster",
+    "rank": 16,
+    "tweet_count": "7,210 Tweets"
+  },
+  {
+    "name": "Cowboys",
+    "query": "Cowboys",
     "rank": 17,
-    "tweet_count": "7,145 Tweets"
+    "tweet_count": "163K Tweets"
   },
   {
     "name": "NPHET",
     "query": "NPHET",
     "rank": 18,
-    "tweet_count": "4,371 Tweets"
+    "tweet_count": "4,425 Tweets"
+  },
+  {
+    "name": "Get Back",
+    "query": "\"Get Back\"",
+    "rank": 19,
+    "tweet_count": "189K Tweets"
   }
 ]
