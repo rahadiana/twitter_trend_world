@@ -3,31 +3,31 @@
     "name": "Thanksgiving",
     "query": "Thanksgiving",
     "rank": 1,
-    "tweet_count": "4.2M Tweets"
+    "tweet_count": "4.21M Tweets"
   },
   {
     "name": "Black Friday",
     "query": "\"Black Friday\"",
     "rank": 2,
-    "tweet_count": "902K Tweets"
-  },
-  {
-    "name": "Christiania",
-    "query": "Christiania",
-    "rank": 3,
-    "tweet_count": null
+    "tweet_count": "922K Tweets"
   },
   {
     "name": "#BLASTPremier",
     "query": "#BLASTPremier",
+    "rank": 3,
+    "tweet_count": "3,419 Tweets"
+  },
+  {
+    "name": "Christiania",
+    "query": "Christiania",
     "rank": 4,
-    "tweet_count": "3,277 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#BIFOL",
     "query": "#BIFOL",
     "rank": 5,
-    "tweet_count": "5,203 Tweets"
+    "tweet_count": "5,206 Tweets"
   },
   {
     "name": "#eldk",
@@ -39,19 +39,19 @@
     "name": "B.1.1.529",
     "query": "B.1.1.529",
     "rank": 7,
-    "tweet_count": "170K Tweets"
+    "tweet_count": "174K Tweets"
   },
   {
     "name": "South Africa",
     "query": "\"South Africa\"",
     "rank": 8,
-    "tweet_count": "177K Tweets"
+    "tweet_count": "180K Tweets"
   },
   {
     "name": "Lyon",
     "query": "Lyon",
     "rank": 9,
-    "tweet_count": "22.2K Tweets"
+    "tweet_count": "22.4K Tweets"
   },
   {
     "name": "#fcmbra",
@@ -60,8 +60,8 @@
     "tweet_count": null
   },
   {
-    "name": "David Nielsen",
-    "query": "\"David Nielsen\"",
+    "name": "david nielsen",
+    "query": "\"david nielsen\"",
     "rank": 11,
     "tweet_count": null
   },
@@ -81,7 +81,7 @@
     "name": "Lions",
     "query": "Lions",
     "rank": 14,
-    "tweet_count": "142K Tweets"
+    "tweet_count": "143K Tweets"
   },
   {
     "name": "Prag",
@@ -105,18 +105,18 @@
     "name": "Braga",
     "query": "Braga",
     "rank": 18,
-    "tweet_count": "11K Tweets"
+    "tweet_count": "11.1K Tweets"
   },
   {
     "name": "Conference League",
     "query": "\"Conference League\"",
     "rank": 19,
-    "tweet_count": "16.6K Tweets"
+    "tweet_count": "16.7K Tweets"
   },
   {
-    "name": "Navi",
-    "query": "Navi",
+    "name": "Delta",
+    "query": "Delta",
     "rank": 20,
-    "tweet_count": "20.4K Tweets"
+    "tweet_count": "114K Tweets"
   }
 ]
