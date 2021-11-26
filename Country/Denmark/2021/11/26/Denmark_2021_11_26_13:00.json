@@ -3,31 +3,31 @@
     "name": "Thanksgiving",
     "query": "Thanksgiving",
     "rank": 1,
-    "tweet_count": "4.27M Tweets"
+    "tweet_count": "4.31M Tweets"
+  },
+  {
+    "name": "Happy Thanksgiving",
+    "query": "\"Happy Thanksgiving\"",
+    "rank": 2,
+    "tweet_count": "2.23M Tweets"
   },
   {
     "name": "Christiania",
     "query": "Christiania",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Black Friday",
     "query": "\"Black Friday\"",
-    "rank": 3,
-    "tweet_count": "858K Tweets"
+    "rank": 4,
+    "tweet_count": "867K Tweets"
   },
   {
     "name": "#BLASTPremier",
     "query": "#BLASTPremier",
-    "rank": 4,
-    "tweet_count": "3,201 Tweets"
-  },
-  {
-    "name": "#BIFOL",
-    "query": "#BIFOL",
     "rank": 5,
-    "tweet_count": "5,222 Tweets"
+    "tweet_count": "3,249 Tweets"
   },
   {
     "name": "#eldk",
@@ -36,74 +36,74 @@
     "tweet_count": null
   },
   {
+    "name": "#bifol",
+    "query": "#bifol",
+    "rank": 7,
+    "tweet_count": "5,230 Tweets"
+  },
+  {
     "name": "B.1.1.529",
     "query": "B.1.1.529",
-    "rank": 7,
-    "tweet_count": "160K Tweets"
+    "rank": 8,
+    "tweet_count": "161K Tweets"
   },
   {
     "name": "Lyon",
     "query": "Lyon",
-    "rank": 8,
-    "tweet_count": "22.2K Tweets"
+    "rank": 9,
+    "tweet_count": "22.3K Tweets"
   },
   {
     "name": "South Africa",
     "query": "\"South Africa\"",
-    "rank": 9,
-    "tweet_count": "169K Tweets"
+    "rank": 10,
+    "tweet_count": "171K Tweets"
   },
   {
-    "name": "#fcmbra",
-    "query": "#fcmbra",
-    "rank": 10,
+    "name": "#FCMBRA",
+    "query": "#FCMBRA",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "tshiembe",
+    "query": "tshiembe",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "David Nielsen",
+    "query": "\"David Nielsen\"",
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "#16Days",
     "query": "#16Days",
-    "rank": 11,
-    "tweet_count": "65.5K Tweets"
-  },
-  {
-    "name": "David Nielsen",
-    "query": "\"David Nielsen\"",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Tshiembe",
-    "query": "Tshiembe",
-    "rank": 13,
-    "tweet_count": null
+    "rank": 14,
+    "tweet_count": "65.8K Tweets"
   },
   {
     "name": "fc midtjylland",
     "query": "\"fc midtjylland\"",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Lions",
     "query": "Lions",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": "144K Tweets"
   },
   {
     "name": "Prag",
     "query": "Prag",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Esbern Snare",
     "query": "\"Esbern Snare\"",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Randers",
-    "query": "Randers",
     "rank": 18,
     "tweet_count": null
   },
@@ -114,9 +114,9 @@
     "tweet_count": "11.3K Tweets"
   },
   {
-    "name": "Conference League",
-    "query": "\"Conference League\"",
+    "name": "Randers",
+    "query": "Randers",
     "rank": 20,
-    "tweet_count": "16.5K Tweets"
+    "tweet_count": null
   }
 ]
