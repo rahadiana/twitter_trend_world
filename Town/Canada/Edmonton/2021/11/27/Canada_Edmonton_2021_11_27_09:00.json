@@ -1,51 +1,51 @@
 [
   {
-    "name": "Thanksgiving",
-    "query": "Thanksgiving",
-    "rank": 1,
-    "tweet_count": "1.07M Tweets"
-  },
-  {
     "name": "Black Friday",
     "query": "\"Black Friday\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "1.35M Tweets"
+  },
+  {
+    "name": "thanksgiving",
+    "query": "thanksgiving",
+    "rank": 2,
+    "tweet_count": "1.07M Tweets"
   },
   {
     "name": "Lakers",
     "query": "Lakers",
     "rank": 3,
-    "tweet_count": "85K Tweets"
+    "tweet_count": "85.4K Tweets"
+  },
+  {
+    "name": "Lakers",
+    "query": "Lakers",
+    "rank": 4,
+    "tweet_count": "85.4K Tweets"
   },
   {
     "name": "Omicron",
     "query": "Omicron",
-    "rank": 4,
-    "tweet_count": "451K Tweets"
+    "rank": 5,
+    "tweet_count": "455K Tweets"
   },
   {
     "name": "South Africa",
     "query": "\"South Africa\"",
-    "rank": 5,
-    "tweet_count": "308K Tweets"
+    "rank": 6,
+    "tweet_count": "310K Tweets"
   },
   {
     "name": "Woll",
     "query": "Woll",
-    "rank": 6,
-    "tweet_count": "2,278 Tweets"
-  },
-  {
-    "name": "#BringBackCLAMONAISE",
-    "query": "#BringBackCLAMONAISE",
     "rank": 7,
-    "tweet_count": "10.7K Tweets"
+    "tweet_count": "2,280 Tweets"
   },
   {
-    "name": "Stephen Sondheim",
-    "query": "\"Stephen Sondheim\"",
+    "name": "#bringbackclamonaise",
+    "query": "#bringbackclamonaise",
     "rank": 8,
-    "tweet_count": "129K Tweets"
+    "tweet_count": "10.7K Tweets"
   },
   {
     "name": "#IndigoEvents",
@@ -57,19 +57,19 @@
     "name": "#LeafsForever",
     "query": "#LeafsForever",
     "rank": 10,
-    "tweet_count": "4,196 Tweets"
+    "tweet_count": "4,201 Tweets"
+  },
+  {
+    "name": "#SB19OZAnnivConcert",
+    "query": "#SB19OZAnnivConcert",
+    "rank": 11,
+    "tweet_count": "138K Tweets"
   },
   {
     "name": "Vogel",
     "query": "Vogel",
-    "rank": 11,
-    "tweet_count": "16.7K Tweets"
-  },
-  {
-    "name": "#SPELLINGBEE",
-    "query": "#SPELLINGBEE",
     "rank": 12,
-    "tweet_count": "2,356 Tweets"
+    "tweet_count": "16.8K Tweets"
   },
   {
     "name": "Portugal",
@@ -78,45 +78,45 @@
     "tweet_count": "143K Tweets"
   },
   {
-    "name": "Bron",
-    "query": "Bron",
+    "name": "#SmackDown",
+    "query": "#SmackDown",
     "rank": 14,
-    "tweet_count": "17.4K Tweets"
+    "tweet_count": "43K Tweets"
   },
   {
-    "name": "Greek",
-    "query": "Greek",
+    "name": "Lebron",
+    "query": "Lebron",
     "rank": 15,
-    "tweet_count": "60.4K Tweets"
-  },
-  {
-    "name": "#SB19OZAnnivConcert",
-    "query": "#SB19OZAnnivConcert",
-    "rank": 16,
-    "tweet_count": "127K Tweets"
-  },
-  {
-    "name": "Triple OT",
-    "query": "\"Triple OT\"",
-    "rank": 17,
-    "tweet_count": "6,768 Tweets"
-  },
-  {
-    "name": "B.1.1.529",
-    "query": "B.1.1.529",
-    "rank": 18,
-    "tweet_count": "247K Tweets"
+    "tweet_count": "64.9K Tweets"
   },
   {
     "name": "Mrazek",
     "query": "Mrazek",
-    "rank": 19,
+    "rank": 16,
     "tweet_count": null
+  },
+  {
+    "name": "B.1.1.529",
+    "query": "B.1.1.529",
+    "rank": 17,
+    "tweet_count": "248K Tweets"
+  },
+  {
+    "name": "Melo",
+    "query": "Melo",
+    "rank": 18,
+    "tweet_count": "24.1K Tweets"
+  },
+  {
+    "name": "Triple OT",
+    "query": "\"Triple OT\"",
+    "rank": 19,
+    "tweet_count": "6,788 Tweets"
   },
   {
     "name": "Murray",
     "query": "Murray",
     "rank": 20,
-    "tweet_count": "13.3K Tweets"
+    "tweet_count": "13.4K Tweets"
   }
 ]
