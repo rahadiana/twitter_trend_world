@@ -1,27 +1,27 @@
 [
   {
-    "name": "āfrikas",
-    "query": "āfrikas",
+    "name": "Āfrikas",
+    "query": "Āfrikas",
     "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "Pasaules",
+    "query": "Pasaules",
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Thanksgiving",
     "query": "Thanksgiving",
-    "rank": 2,
-    "tweet_count": "874K Tweets"
-  },
-  {
-    "name": "Pasaules",
-    "query": "Pasaules",
     "rank": 3,
-    "tweet_count": null
+    "tweet_count": "878K Tweets"
   },
   {
     "name": "Delta",
     "query": "Delta",
     "rank": 4,
-    "tweet_count": "131K Tweets"
+    "tweet_count": "132K Tweets"
   },
   {
     "name": "forši",
@@ -39,7 +39,7 @@
     "name": "Gustavo",
     "query": "Gustavo",
     "rank": 7,
-    "tweet_count": "42K Tweets"
+    "tweet_count": "42.3K Tweets"
   },
   {
     "name": "Āfriku",
@@ -48,16 +48,16 @@
     "tweet_count": null
   },
   {
-    "name": "Happy Thanksgiving",
-    "query": "\"Happy Thanksgiving\"",
+    "name": "mārtiņa brauna",
+    "query": "\"mārtiņa brauna\"",
     "rank": 9,
-    "tweet_count": "188K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Bija",
     "query": "Bija",
     "rank": 10,
-    "tweet_count": "1,538 Tweets"
+    "tweet_count": "1,552 Tweets"
   },
   {
     "name": "kozins",
@@ -66,20 +66,20 @@
     "tweet_count": null
   },
   {
-    "name": "mārtiņa brauna",
-    "query": "\"mārtiņa brauna\"",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
     "name": "Pfizer",
     "query": "Pfizer",
-    "rank": 13,
-    "tweet_count": "128K Tweets"
+    "rank": 12,
+    "tweet_count": "129K Tweets"
   },
   {
     "name": "saprotu",
     "query": "saprotu",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Ukrainas",
+    "query": "Ukrainas",
     "rank": 14,
     "tweet_count": null
   },
@@ -90,14 +90,14 @@
     "tweet_count": null
   },
   {
-    "name": "Ukrainas",
-    "query": "Ukrainas",
+    "name": "Baigi",
+    "query": "Baigi",
     "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "baigi",
-    "query": "baigi",
+    "name": "Kāpēc",
+    "query": "Kāpēc",
     "rank": 17,
     "tweet_count": null
   },
@@ -111,6 +111,12 @@
     "name": "Ziemassvētku",
     "query": "Ziemassvētku",
     "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Labdien",
+    "query": "Labdien",
+    "rank": 20,
     "tweet_count": null
   }
 ]
