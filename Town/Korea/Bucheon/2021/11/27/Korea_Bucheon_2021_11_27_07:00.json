@@ -1,39 +1,39 @@
 [
   {
-    "name": "문자투표",
-    "query": "문자투표",
-    "rank": 1,
-    "tweet_count": "3,312 Tweets"
-  },
-  {
     "name": "음중 1위",
     "query": "\"음중 1위\"",
-    "rank": 2,
-    "tweet_count": "1,867 Tweets"
+    "rank": 1,
+    "tweet_count": "2,289 Tweets"
   },
   {
-    "name": "마법의 소라고동",
-    "query": "\"마법의 소라고동\"",
+    "name": "문자투표",
+    "query": "문자투표",
+    "rank": 2,
+    "tweet_count": "3,760 Tweets"
+  },
+  {
+    "name": "소라고동",
+    "query": "소라고동",
     "rank": 3,
-    "tweet_count": "1,495 Tweets"
+    "tweet_count": "1,585 Tweets"
   },
   {
     "name": "오미크론",
     "query": "오미크론",
     "rank": 4,
-    "tweet_count": "2,952 Tweets"
+    "tweet_count": "3,037 Tweets"
   },
   {
     "name": "바리스타",
     "query": "바리스타",
     "rank": 5,
-    "tweet_count": "2,518 Tweets"
+    "tweet_count": "2,695 Tweets"
   },
   {
     "name": "음악중심",
     "query": "음악중심",
     "rank": 6,
-    "tweet_count": "9,686 Tweets"
+    "tweet_count": "11.3K Tweets"
   },
   {
     "name": "너의 전생",
@@ -42,44 +42,44 @@
     "tweet_count": null
   },
   {
-    "name": "포카마켓",
-    "query": "포카마켓",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "첫콘 중계",
     "query": "\"첫콘 중계\"",
-    "rank": 9,
-    "tweet_count": "3,720 Tweets"
+    "rank": 8,
+    "tweet_count": "3,809 Tweets"
   },
   {
     "name": "#음식호불호",
     "query": "#음식호불호",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
-  },
-  {
-    "name": "영포에버",
-    "query": "영포에버",
-    "rank": 11,
-    "tweet_count": "1,272 Tweets"
   },
   {
     "name": "#BTS_Butter",
     "query": "#BTS_Butter",
-    "rank": 12,
-    "tweet_count": "30.2K Tweets"
+    "rank": 10,
+    "tweet_count": "30.9K Tweets"
+  },
+  {
+    "name": "포카마켓",
+    "query": "포카마켓",
+    "rank": 11,
+    "tweet_count": null
   },
   {
     "name": "당신의 매력",
     "query": "\"당신의 매력\"",
-    "rank": 13,
-    "tweet_count": "1,752 Tweets"
+    "rank": 12,
+    "tweet_count": "1,767 Tweets"
   },
   {
     "name": "내집마련",
     "query": "내집마련",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "발사이즈",
+    "query": "발사이즈",
     "rank": 14,
     "tweet_count": null
   },
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
-    "name": "통장입금",
-    "query": "통장입금",
-    "rank": 16,
-    "tweet_count": "1,572 Tweets"
-  },
-  {
-    "name": "#BTSARMY",
-    "query": "#BTSARMY",
-    "rank": 17,
-    "tweet_count": "109K Tweets"
-  },
-  {
-    "name": "발사이즈",
-    "query": "발사이즈",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
     "name": "아보카도",
     "query": "아보카도",
-    "rank": 19,
-    "tweet_count": "1,924 Tweets"
+    "rank": 16,
+    "tweet_count": "1,951 Tweets"
   },
   {
     "name": "프리마베라",
     "query": "프리마베라",
-    "rank": 20,
+    "rank": 17,
     "tweet_count": null
+  },
+  {
+    "name": "청려 생카",
+    "query": "\"청려 생카\"",
+    "rank": 18,
+    "tweet_count": "1,039 Tweets"
+  },
+  {
+    "name": "통장입금",
+    "query": "통장입금",
+    "rank": 19,
+    "tweet_count": "1,592 Tweets"
+  },
+  {
+    "name": "#BTSARMY",
+    "query": "#BTSARMY",
+    "rank": 20,
+    "tweet_count": "111K Tweets"
   }
 ]

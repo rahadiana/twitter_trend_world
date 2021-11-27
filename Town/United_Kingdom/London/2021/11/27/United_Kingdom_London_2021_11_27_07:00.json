@@ -1,39 +1,39 @@
 [
   {
-    "name": "#LateLateToyShow",
-    "query": "#LateLateToyShow",
-    "rank": 1,
-    "tweet_count": "61.1K Tweets"
-  },
-  {
     "name": "#StormArwen",
     "query": "#StormArwen",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "21.5K Tweets"
   },
   {
     "name": "#snow",
     "query": "#snow",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": "5,373 Tweets"
   },
   {
     "name": "#SaturdayMorning",
     "query": "#SaturdayMorning",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": "12.9K Tweets"
   },
   {
     "name": "Stephen Sondheim",
     "query": "\"Stephen Sondheim\"",
-    "rank": 5,
-    "tweet_count": "121K Tweets"
+    "rank": 4,
+    "tweet_count": "120K Tweets"
   },
   {
     "name": "#ChurchOrCult",
     "query": "#ChurchOrCult",
+    "rank": 5,
+    "tweet_count": "9,863 Tweets"
+  },
+  {
+    "name": "#ukweather",
+    "query": "#ukweather",
     "rank": 6,
-    "tweet_count": "9,859 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Omicron",
@@ -42,16 +42,16 @@
     "tweet_count": "394K Tweets"
   },
   {
-    "name": "Gary Speed",
-    "query": "\"Gary Speed\"",
+    "name": "Send in the Clowns",
+    "query": "\"Send in the Clowns\"",
     "rank": 8,
-    "tweet_count": "2,491 Tweets"
+    "tweet_count": "3,085 Tweets"
   },
   {
-    "name": "#ukweather",
-    "query": "#ukweather",
+    "name": "Gary Speed",
+    "query": "\"Gary Speed\"",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "2,491 Tweets"
   },
   {
     "name": "#windy",
@@ -72,9 +72,15 @@
     "tweet_count": "41.1K Tweets"
   },
   {
+    "name": "#covidvariant",
+    "query": "#covidvariant",
+    "rank": 13,
+    "tweet_count": "18.3K Tweets"
+  },
+  {
     "name": "#borisspeechsobad",
     "query": "#borisspeechsobad",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": "1,212 Tweets"
   }
 ]
