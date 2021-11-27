@@ -3,7 +3,7 @@
     "name": "Buffalo",
     "query": "Buffalo",
     "rank": 1,
-    "tweet_count": "16.5K Tweets"
+    "tweet_count": "16.7K Tweets"
   },
   {
     "name": "#IndigoEvents",
@@ -15,7 +15,7 @@
     "name": "#AEWRampage",
     "query": "#AEWRampage",
     "rank": 3,
-    "tweet_count": "14.7K Tweets"
+    "tweet_count": "15.9K Tweets"
   },
   {
     "name": "Simmonds",
@@ -27,25 +27,25 @@
     "name": "Scottie",
     "query": "Scottie",
     "rank": 5,
-    "tweet_count": "4,338 Tweets"
+    "tweet_count": "4,467 Tweets"
+  },
+  {
+    "name": "Woll",
+    "query": "Woll",
+    "rank": 6,
+    "tweet_count": null
   },
   {
     "name": "Willy",
     "query": "Willy",
-    "rank": 6,
-    "tweet_count": "15.5K Tweets"
-  },
-  {
-    "name": "#SmackDown",
-    "query": "#SmackDown",
     "rank": 7,
-    "tweet_count": "36.4K Tweets"
+    "tweet_count": "15.9K Tweets"
   },
   {
     "name": "Stephen Sondheim",
     "query": "\"Stephen Sondheim\"",
     "rank": 8,
-    "tweet_count": "103K Tweets"
+    "tweet_count": "107K Tweets"
   },
   {
     "name": "Wayne Train",
@@ -54,57 +54,57 @@
     "tweet_count": null
   },
   {
+    "name": "#SmackDown",
+    "query": "#SmackDown",
+    "rank": 10,
+    "tweet_count": "37.4K Tweets"
+  },
+  {
     "name": "Murray",
     "query": "Murray",
-    "rank": 10,
-    "tweet_count": "11.3K Tweets"
+    "rank": 11,
+    "tweet_count": "12.1K Tweets"
+  },
+  {
+    "name": "Paolo",
+    "query": "Paolo",
+    "rank": 12,
+    "tweet_count": "21.2K Tweets"
   },
   {
     "name": "Boucher",
     "query": "Boucher",
-    "rank": 11,
-    "tweet_count": "1,188 Tweets"
+    "rank": 13,
+    "tweet_count": "1,211 Tweets"
   },
   {
     "name": "Reimer",
     "query": "Reimer",
-    "rank": 12,
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Justin Holl",
+    "query": "\"Justin Holl\"",
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Omicron",
     "query": "Omicron",
-    "rank": 13,
-    "tweet_count": "311K Tweets"
+    "rank": 16,
+    "tweet_count": "325K Tweets"
   },
   {
     "name": "Ducharme",
     "query": "Ducharme",
-    "rank": 14,
-    "tweet_count": "1,235 Tweets"
+    "rank": 17,
+    "tweet_count": "1,274 Tweets"
   },
   {
     "name": "Molson",
     "query": "Molson",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Pacers",
-    "query": "Pacers",
-    "rank": 16,
-    "tweet_count": "6,714 Tweets"
-  },
-  {
-    "name": "Sabonis",
-    "query": "Sabonis",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "#AnUnexpectedChristmas",
-    "query": "#AnUnexpectedChristmas",
     "rank": 18,
-    "tweet_count": "5,348 Tweets"
+    "tweet_count": null
   }
 ]

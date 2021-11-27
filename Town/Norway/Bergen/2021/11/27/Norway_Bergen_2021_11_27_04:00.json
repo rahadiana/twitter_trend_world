@@ -9,79 +9,79 @@
     "name": "Black Friday",
     "query": "\"Black Friday\"",
     "rank": 2,
-    "tweet_count": "1.38M Tweets"
+    "tweet_count": "1.4M Tweets"
   },
   {
     "name": "Thanksgiving",
     "query": "Thanksgiving",
     "rank": 3,
-    "tweet_count": "1.32M Tweets"
+    "tweet_count": "1.34M Tweets"
   },
   {
     "name": "South Africa",
     "query": "\"South Africa\"",
     "rank": 4,
-    "tweet_count": "295K Tweets"
+    "tweet_count": "301K Tweets"
   },
   {
-    "name": "South Africa",
-    "query": "\"South Africa\"",
+    "name": "Omicron",
+    "query": "Omicron",
     "rank": 5,
-    "tweet_count": "295K Tweets"
+    "tweet_count": "326K Tweets"
+  },
+  {
+    "name": "#SelfieFredag",
+    "query": "#SelfieFredag",
+    "rank": 6,
+    "tweet_count": null
   },
   {
     "name": "Taiwan",
     "query": "Taiwan",
-    "rank": 6,
-    "tweet_count": "33.2K Tweets"
-  },
-  {
-    "name": "Happy Thanksgiving",
-    "query": "\"Happy Thanksgiving\"",
     "rank": 7,
-    "tweet_count": "395K Tweets"
-  },
-  {
-    "name": "#selfiefredag",
-    "query": "#selfiefredag",
-    "rank": 8,
-    "tweet_count": null
+    "tweet_count": "33.7K Tweets"
   },
   {
     "name": "Odds",
     "query": "Odds",
+    "rank": 8,
+    "tweet_count": "41.1K Tweets"
+  },
+  {
+    "name": "Magnus",
+    "query": "Magnus",
     "rank": 9,
-    "tweet_count": "40.6K Tweets"
-  },
-  {
-    "name": "magnus",
-    "query": "magnus",
-    "rank": 10,
-    "tweet_count": "7,677 Tweets"
-  },
-  {
-    "name": "Ukraina",
-    "query": "Ukraina",
-    "rank": 11,
-    "tweet_count": "2,559 Tweets"
+    "tweet_count": "7,768 Tweets"
   },
   {
     "name": "#dax18",
     "query": "#dax18",
-    "rank": 12,
+    "rank": 10,
     "tweet_count": null
+  },
+  {
+    "name": "ukraina",
+    "query": "ukraina",
+    "rank": 11,
+    "tweet_count": "2,584 Tweets"
   },
   {
     "name": "Bergen",
     "query": "Bergen",
-    "rank": 13,
-    "tweet_count": "2,103 Tweets"
+    "rank": 12,
+    "tweet_count": "2,122 Tweets"
   },
   {
     "name": "#fredagsselfie",
     "query": "#fredagsselfie",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
+  },
+  {
+    "name": "Rangnick",
+    "query": "Rangnick",
+    "rank": 14,
+    "tweet_count": "158K Tweets"
   },
   {
     "name": "#glimt",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
-    "name": "Rangnick",
-    "query": "Rangnick",
-    "rank": 16,
-    "tweet_count": "157K Tweets"
-  },
-  {
-    "name": "Lens",
-    "query": "Lens",
-    "rank": 17,
-    "tweet_count": "18.3K Tweets"
-  },
-  {
     "name": "Belgia",
     "query": "Belgia",
-    "rank": 18,
+    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "statens",
-    "query": "statens",
+    "name": "B.1.1.529",
+    "query": "B.1.1.529",
+    "rank": 17,
+    "tweet_count": "251K Tweets"
+  },
+  {
+    "name": "Alonso",
+    "query": "Alonso",
+    "rank": 18,
+    "tweet_count": "16.9K Tweets"
+  },
+  {
+    "name": "Iran",
+    "query": "Iran",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "99.2K Tweets"
   },
   {
     "name": "Messi",
     "query": "Messi",
     "rank": 20,
-    "tweet_count": "179K Tweets"
+    "tweet_count": "181K Tweets"
   }
 ]
