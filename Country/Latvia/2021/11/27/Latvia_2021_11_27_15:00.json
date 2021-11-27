@@ -1,13 +1,13 @@
 [
   {
-    "name": "Pasaules",
-    "query": "Pasaules",
+    "name": "Āfrikas",
+    "query": "Āfrikas",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "Āfrikas",
-    "query": "Āfrikas",
+    "name": "pasaules",
+    "query": "pasaules",
     "rank": 2,
     "tweet_count": null
   },
@@ -15,7 +15,7 @@
     "name": "Delta",
     "query": "Delta",
     "rank": 3,
-    "tweet_count": "132K Tweets"
+    "tweet_count": "133K Tweets"
   },
   {
     "name": "Vakar",
@@ -33,7 +33,7 @@
     "name": "Black Friday",
     "query": "\"Black Friday\"",
     "rank": 6,
-    "tweet_count": "1.08M Tweets"
+    "tweet_count": "342K Tweets"
   },
   {
     "name": "Āfriku",
@@ -42,20 +42,20 @@
     "tweet_count": null
   },
   {
-    "name": "mārtiņa brauna",
-    "query": "\"mārtiņa brauna\"",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "Happy Thanksgiving",
     "query": "\"Happy Thanksgiving\"",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": "172K Tweets"
   },
   {
     "name": "kozins",
     "query": "kozins",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "mārtiņa brauna",
+    "query": "\"mārtiņa brauna\"",
     "rank": 10,
     "tweet_count": null
   },
@@ -63,7 +63,7 @@
     "name": "Gustavo",
     "query": "Gustavo",
     "rank": 11,
-    "tweet_count": "42.5K Tweets"
+    "tweet_count": "42.8K Tweets"
   },
   {
     "name": "saprotu",
@@ -78,14 +78,14 @@
     "tweet_count": null
   },
   {
-    "name": "Baigi",
-    "query": "Baigi",
+    "name": "baigi",
+    "query": "baigi",
     "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "VARu",
-    "query": "VARu",
+    "name": "varu",
+    "query": "varu",
     "rank": 15,
     "tweet_count": null
   },
@@ -93,30 +93,30 @@
     "name": "Pfizer",
     "query": "Pfizer",
     "rank": 16,
-    "tweet_count": "127K Tweets"
+    "tweet_count": "128K Tweets"
   },
   {
-    "name": "Ziemassvētku",
-    "query": "Ziemassvētku",
+    "name": "#herpes",
+    "query": "#herpes",
     "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Labdien",
-    "query": "Labdien",
-    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Rail Baltica",
     "query": "\"Rail Baltica\"",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "#BLASTPremier",
     "query": "#BLASTPremier",
+    "rank": 19,
+    "tweet_count": "5,429 Tweets"
+  },
+  {
+    "name": "Ukrainas",
+    "query": "Ukrainas",
     "rank": 20,
-    "tweet_count": "5,407 Tweets"
+    "tweet_count": null
   }
 ]

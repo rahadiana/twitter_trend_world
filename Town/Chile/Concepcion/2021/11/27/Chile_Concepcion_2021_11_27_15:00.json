@@ -1,15 +1,15 @@
 [
   {
-    "name": "#alerta",
-    "query": "#alerta",
+    "name": "#ALERTA",
+    "query": "#ALERTA",
     "rank": 1,
-    "tweet_count": "4,935 Tweets"
+    "tweet_count": "5,007 Tweets"
   },
   {
     "name": "Bombo Fica",
     "query": "\"Bombo Fica\"",
     "rank": 2,
-    "tweet_count": "4,428 Tweets"
+    "tweet_count": "4,552 Tweets"
   },
   {
     "name": "#T13SinDespertador",
@@ -21,96 +21,96 @@
     "name": "Colo Colo",
     "query": "\"Colo Colo\"",
     "rank": 4,
-    "tweet_count": "21.2K Tweets"
-  },
-  {
-    "name": "#FelizSabado",
-    "query": "#FelizSabado",
-    "rank": 5,
-    "tweet_count": "10.7K Tweets"
+    "tweet_count": "21.3K Tweets"
   },
   {
     "name": "#TodoChileVotaKast",
     "query": "#TodoChileVotaKast",
+    "rank": 5,
+    "tweet_count": "33.7K Tweets"
+  },
+  {
+    "name": "#FelizSabado",
+    "query": "#FelizSabado",
     "rank": 6,
-    "tweet_count": "33.2K Tweets"
+    "tweet_count": "10.9K Tweets"
   },
   {
     "name": "Mario",
     "query": "Mario",
     "rank": 7,
-    "tweet_count": "69.2K Tweets"
+    "tweet_count": "69.6K Tweets"
   },
   {
-    "name": "Flacso",
-    "query": "Flacso",
+    "name": "FLACSO",
+    "query": "FLACSO",
     "rank": 8,
-    "tweet_count": "2,539 Tweets"
+    "tweet_count": "2,568 Tweets"
   },
   {
     "name": "Daza",
     "query": "Daza",
     "rank": 9,
-    "tweet_count": "86.5K Tweets"
+    "tweet_count": "87K Tweets"
   },
   {
     "name": "Pánico",
     "query": "Pánico",
     "rank": 10,
-    "tweet_count": "28.6K Tweets"
-  },
-  {
-    "name": "Seremi",
-    "query": "Seremi",
-    "rank": 11,
-    "tweet_count": "2,140 Tweets"
+    "tweet_count": "28.8K Tweets"
   },
   {
     "name": "Bellolio",
     "query": "Bellolio",
-    "rank": 12,
-    "tweet_count": "4,049 Tweets"
+    "rank": 11,
+    "tweet_count": "4,070 Tweets"
   },
   {
     "name": "Photoshop",
     "query": "Photoshop",
+    "rank": 12,
+    "tweet_count": "18.3K Tweets"
+  },
+  {
+    "name": "Boric y Provoste",
+    "query": "\"Boric y Provoste\"",
     "rank": 13,
-    "tweet_count": "18.2K Tweets"
+    "tweet_count": "4,077 Tweets"
   },
   {
     "name": "Bomberos",
     "query": "Bomberos",
     "rank": 14,
-    "tweet_count": "8,472 Tweets"
+    "tweet_count": "8,566 Tweets"
   },
   {
-    "name": "Boric y Provoste",
-    "query": "\"Boric y Provoste\"",
+    "name": "Omicron",
+    "query": "Omicron",
     "rank": 15,
-    "tweet_count": "4,045 Tweets"
+    "tweet_count": "697K Tweets"
   },
   {
     "name": "Maipu",
     "query": "Maipu",
     "rank": 16,
-    "tweet_count": "44.3K Tweets"
+    "tweet_count": "44.6K Tweets"
   },
   {
     "name": "Bio Bio",
     "query": "\"Bio Bio\"",
     "rank": 17,
-    "tweet_count": "197K Tweets"
-  },
-  {
-    "name": "Krypto",
-    "query": "Krypto",
-    "rank": 18,
-    "tweet_count": "15.4K Tweets"
+    "tweet_count": "198K Tweets"
   },
   {
     "name": "Y Boric",
     "query": "\"Y Boric\"",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": "126K Tweets"
+  },
+  {
+    "name": "Krypto",
+    "query": "Krypto",
+    "rank": 19,
+    "tweet_count": "15.5K Tweets"
   }
 ]
