@@ -9,31 +9,31 @@
     "name": "Lakers",
     "query": "Lakers",
     "rank": 2,
-    "tweet_count": "76.5K Tweets"
+    "tweet_count": "77.3K Tweets"
   },
   {
     "name": "Woll",
     "query": "Woll",
     "rank": 3,
-    "tweet_count": "2,224 Tweets"
+    "tweet_count": "2,234 Tweets"
   },
   {
     "name": "Triple OT",
     "query": "\"Triple OT\"",
     "rank": 4,
-    "tweet_count": "6,044 Tweets"
+    "tweet_count": "6,107 Tweets"
   },
   {
-    "name": "Vogel",
-    "query": "Vogel",
+    "name": "Mrazek",
+    "query": "Mrazek",
     "rank": 5,
-    "tweet_count": "14.8K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Buddy Hield",
     "query": "\"Buddy Hield\"",
     "rank": 6,
-    "tweet_count": "3,247 Tweets"
+    "tweet_count": "3,273 Tweets"
   },
   {
     "name": "Reimer",
@@ -42,22 +42,22 @@
     "tweet_count": null
   },
   {
+    "name": "Melo",
+    "query": "Melo",
+    "rank": 8,
+    "tweet_count": "23.9K Tweets"
+  },
+  {
     "name": "Duke",
     "query": "Duke",
-    "rank": 8,
-    "tweet_count": "52.2K Tweets"
+    "rank": 9,
+    "tweet_count": "52.4K Tweets"
   },
   {
     "name": "#leafsnation",
     "query": "#leafsnation",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Willy",
-    "query": "Willy",
     "rank": 10,
-    "tweet_count": "19.2K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#AEWRampage",
@@ -66,46 +66,46 @@
     "tweet_count": "17.4K Tweets"
   },
   {
+    "name": "Willy",
+    "query": "Willy",
+    "rank": 12,
+    "tweet_count": "19.3K Tweets"
+  },
+  {
     "name": "Simmonds",
     "query": "Simmonds",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Stephen Sondheim",
     "query": "\"Stephen Sondheim\"",
-    "rank": 13,
-    "tweet_count": "120K Tweets"
+    "rank": 14,
+    "tweet_count": "121K Tweets"
   },
   {
-    "name": "Mets",
-    "query": "Mets",
-    "rank": 14,
-    "tweet_count": "37.9K Tweets"
+    "name": "Sharks",
+    "query": "Sharks",
+    "rank": 15,
+    "tweet_count": "6,319 Tweets"
   },
   {
     "name": "Scottie",
     "query": "Scottie",
-    "rank": 15,
-    "tweet_count": "5,255 Tweets"
-  },
-  {
-    "name": "john tavares",
-    "query": "\"john tavares\"",
     "rank": 16,
-    "tweet_count": null
+    "tweet_count": "5,283 Tweets"
   },
   {
-    "name": "Murray",
-    "query": "Murray",
+    "name": "Mets",
+    "query": "Mets",
     "rank": 17,
-    "tweet_count": "13K Tweets"
+    "tweet_count": "38K Tweets"
   },
   {
-    "name": "Paolo",
-    "query": "Paolo",
+    "name": "John Tavares",
+    "query": "\"John Tavares\"",
     "rank": 18,
-    "tweet_count": "24.9K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#GoLeafsGo",
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "#SmackDown",
-    "query": "#SmackDown",
+    "name": "Murray",
+    "query": "Murray",
     "rank": 20,
-    "tweet_count": "41.1K Tweets"
+    "tweet_count": "13K Tweets"
   }
 ]

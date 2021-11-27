@@ -24,16 +24,16 @@
     "tweet_count": "1.14M Tweets"
   },
   {
-    "name": "Black Friday",
-    "query": "\"Black Friday\"",
-    "rank": 5,
-    "tweet_count": "1.39M Tweets"
-  },
-  {
     "name": "pasaules",
     "query": "pasaules",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "Black Friday",
+    "query": "\"Black Friday\"",
+    "rank": 6,
+    "tweet_count": "1.39M Tweets"
   },
   {
     "name": "Delta",
@@ -48,26 +48,26 @@
     "tweet_count": null
   },
   {
+    "name": "mārtiņa brauna",
+    "query": "\"mārtiņa brauna\"",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
     "name": "Happy Thanksgiving",
     "query": "\"Happy Thanksgiving\"",
-    "rank": 9,
-    "tweet_count": "301K Tweets"
+    "rank": 10,
+    "tweet_count": null
   },
   {
     "name": "#BLASTPremier",
     "query": "#BLASTPremier",
-    "rank": 10,
-    "tweet_count": "5,496 Tweets"
+    "rank": 11,
+    "tweet_count": "5,502 Tweets"
   },
   {
     "name": "kozins",
     "query": "kozins",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "mārtiņa brauna",
-    "query": "\"mārtiņa brauna\"",
     "rank": 12,
     "tweet_count": null
   },
@@ -78,26 +78,26 @@
     "tweet_count": null
   },
   {
-    "name": "Apsveicu",
-    "query": "Apsveicu",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
     "name": "vai jūs",
     "query": "\"vai jūs\"",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Apple",
     "query": "Apple",
-    "rank": 16,
-    "tweet_count": "444K Tweets"
+    "rank": 15,
+    "tweet_count": "445K Tweets"
   },
   {
     "name": "baigi",
     "query": "baigi",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "varu",
+    "query": "varu",
     "rank": 17,
     "tweet_count": null
   },
@@ -108,9 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "varu",
-    "query": "varu",
+    "name": "#tonsilstones",
+    "query": "#tonsilstones",
     "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Apsveicu",
+    "query": "Apsveicu",
+    "rank": 20,
     "tweet_count": null
   }
 ]

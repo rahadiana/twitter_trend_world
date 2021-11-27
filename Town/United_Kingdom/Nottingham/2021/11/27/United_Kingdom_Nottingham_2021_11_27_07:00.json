@@ -1,92 +1,92 @@
 [
   {
+    "name": "#ukweather",
+    "query": "#ukweather",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "#NFFC",
     "query": "#NFFC",
-    "rank": 1,
-    "tweet_count": "2,831 Tweets"
+    "rank": 2,
+    "tweet_count": "2,836 Tweets"
   },
   {
     "name": "#StormArwen",
     "query": "#StormArwen",
-    "rank": 2,
-    "tweet_count": "21.5K Tweets"
-  },
-  {
-    "name": "#snow",
-    "query": "#snow",
     "rank": 3,
-    "tweet_count": "5,370 Tweets"
+    "tweet_count": "21.7K Tweets"
   },
   {
     "name": "#SaturdayMorning",
     "query": "#SaturdayMorning",
     "rank": 4,
-    "tweet_count": "12.9K Tweets"
+    "tweet_count": "13.1K Tweets"
+  },
+  {
+    "name": "#snow",
+    "query": "#snow",
+    "rank": 5,
+    "tweet_count": "5,415 Tweets"
   },
   {
     "name": "Stephen Sondheim",
     "query": "\"Stephen Sondheim\"",
-    "rank": 5,
-    "tweet_count": "120K Tweets"
-  },
-  {
-    "name": "#ChurchOrCult",
-    "query": "#ChurchOrCult",
     "rank": 6,
-    "tweet_count": "9,861 Tweets"
+    "tweet_count": "121K Tweets"
   },
   {
     "name": "Omicron",
     "query": "Omicron",
     "rank": 7,
-    "tweet_count": "394K Tweets"
-  },
-  {
-    "name": "Send in the Clowns",
-    "query": "\"Send in the Clowns\"",
-    "rank": 8,
-    "tweet_count": "3,084 Tweets"
+    "tweet_count": "397K Tweets"
   },
   {
     "name": "Gary Speed",
     "query": "\"Gary Speed\"",
-    "rank": 9,
-    "tweet_count": "2,491 Tweets"
+    "rank": 8,
+    "tweet_count": "2,504 Tweets"
   },
   {
-    "name": "#ukweather",
-    "query": "#ukweather",
-    "rank": 10,
-    "tweet_count": null
+    "name": "#ChurchOrCult",
+    "query": "#ChurchOrCult",
+    "rank": 9,
+    "tweet_count": "9,887 Tweets"
   },
   {
     "name": "#windy",
     "query": "#windy",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "#AEWRampage",
     "query": "#AEWRampage",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": "17.4K Tweets"
   },
   {
     "name": "#SmackDown",
     "query": "#SmackDown",
-    "rank": 13,
-    "tweet_count": "41.1K Tweets"
+    "rank": 12,
+    "tweet_count": "41.2K Tweets"
   },
   {
     "name": "#covidvariant",
     "query": "#covidvariant",
-    "rank": 14,
-    "tweet_count": "18.3K Tweets"
+    "rank": 13,
+    "tweet_count": "18.5K Tweets"
   },
   {
     "name": "#borisspeechsobad",
     "query": "#borisspeechsobad",
+    "rank": 14,
+    "tweet_count": "1,215 Tweets"
+  },
+  {
+    "name": "#StaySafe",
+    "query": "#StaySafe",
     "rank": 15,
-    "tweet_count": "1,212 Tweets"
+    "tweet_count": "6,627 Tweets"
   }
 ]
