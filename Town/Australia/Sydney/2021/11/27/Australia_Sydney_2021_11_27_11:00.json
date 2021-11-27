@@ -33,78 +33,84 @@
     "name": "Love Actually",
     "query": "\"Love Actually\"",
     "rank": 6,
-    "tweet_count": "17.3K Tweets"
+    "tweet_count": "17.4K Tweets"
   },
   {
-    "name": "graceful girl",
-    "query": "\"graceful girl\"",
+    "name": "Graceful Girl",
+    "query": "\"Graceful Girl\"",
     "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "Scorchers",
+    "query": "Scorchers",
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Omicron",
     "query": "Omicron",
-    "rank": 8,
-    "tweet_count": "507K Tweets"
-  },
-  {
-    "name": "Scorchers",
-    "query": "Scorchers",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "514K Tweets"
   },
   {
     "name": "#INDvsNZ",
     "query": "#INDvsNZ",
     "rank": 10,
-    "tweet_count": "9,233 Tweets"
+    "tweet_count": "9,398 Tweets"
   },
   {
-    "name": "strikers",
-    "query": "strikers",
+    "name": "Strikers",
+    "query": "Strikers",
     "rank": 11,
-    "tweet_count": "4,818 Tweets"
-  },
-  {
-    "name": "Lakers",
-    "query": "Lakers",
-    "rank": 12,
-    "tweet_count": "87.3K Tweets"
+    "tweet_count": "4,917 Tweets"
   },
   {
     "name": "Get Back",
     "query": "\"Get Back\"",
-    "rank": 13,
-    "tweet_count": "193K Tweets"
+    "rank": 12,
+    "tweet_count": "194K Tweets"
   },
   {
     "name": "Matildas",
     "query": "Matildas",
+    "rank": 13,
+    "tweet_count": "1,412 Tweets"
+  },
+  {
+    "name": "Lakers",
+    "query": "Lakers",
     "rank": 14,
-    "tweet_count": "1,402 Tweets"
+    "tweet_count": "87.7K Tweets"
   },
   {
     "name": "Frydenberg",
     "query": "Frydenberg",
     "rank": 15,
-    "tweet_count": "2,064 Tweets"
+    "tweet_count": "2,109 Tweets"
   },
   {
     "name": "Sondheim",
     "query": "Sondheim",
     "rank": 16,
-    "tweet_count": "197K Tweets"
+    "tweet_count": "198K Tweets"
   },
   {
     "name": "#Melbourneprotest",
     "query": "#Melbourneprotest",
     "rank": 17,
-    "tweet_count": "9,551 Tweets"
+    "tweet_count": "9,643 Tweets"
+  },
+  {
+    "name": "#covidvariant",
+    "query": "#covidvariant",
+    "rank": 18,
+    "tweet_count": "24.1K Tweets"
   },
   {
     "name": "#FreedomRally",
     "query": "#FreedomRally",
-    "rank": 18,
-    "tweet_count": "4,043 Tweets"
+    "rank": 19,
+    "tweet_count": "4,118 Tweets"
   }
 ]
