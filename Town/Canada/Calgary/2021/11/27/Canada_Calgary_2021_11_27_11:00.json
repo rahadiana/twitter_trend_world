@@ -9,25 +9,25 @@
     "name": "Black Friday",
     "query": "\"Black Friday\"",
     "rank": 2,
-    "tweet_count": "450K Tweets"
+    "tweet_count": "1.28M Tweets"
   },
   {
     "name": "Omicron",
     "query": "Omicron",
     "rank": 3,
-    "tweet_count": "502K Tweets"
+    "tweet_count": "506K Tweets"
   },
   {
     "name": "Lakers",
     "query": "Lakers",
     "rank": 4,
-    "tweet_count": "87K Tweets"
+    "tweet_count": "87.3K Tweets"
   },
   {
     "name": "South Africa",
     "query": "\"South Africa\"",
     "rank": 5,
-    "tweet_count": "307K Tweets"
+    "tweet_count": "308K Tweets"
   },
   {
     "name": "#BringBackCLAMONAISE",
@@ -39,7 +39,7 @@
     "name": "#SB19Anniv3rsary",
     "query": "#SB19Anniv3rsary",
     "rank": 7,
-    "tweet_count": "233K Tweets"
+    "tweet_count": "248K Tweets"
   },
   {
     "name": "Stephen Sondheim",
@@ -54,28 +54,28 @@
     "tweet_count": null
   },
   {
-    "name": "Portugal",
-    "query": "Portugal",
-    "rank": 10,
-    "tweet_count": "142K Tweets"
-  },
-  {
     "name": "Greek",
     "query": "Greek",
+    "rank": 10,
+    "tweet_count": "62.9K Tweets"
+  },
+  {
+    "name": "Portugal",
+    "query": "Portugal",
     "rank": 11,
-    "tweet_count": "62.5K Tweets"
+    "tweet_count": "142K Tweets"
   },
   {
     "name": "#SmackDown",
     "query": "#SmackDown",
     "rank": 12,
-    "tweet_count": "43.9K Tweets"
+    "tweet_count": "44K Tweets"
   },
   {
     "name": "B.1.1.529",
     "query": "B.1.1.529",
     "rank": 13,
-    "tweet_count": "235K Tweets"
+    "tweet_count": "236K Tweets"
   },
   {
     "name": "Murray",
@@ -87,36 +87,36 @@
     "name": "WOll",
     "query": "WOll",
     "rank": 15,
-    "tweet_count": "2,321 Tweets"
-  },
-  {
-    "name": "Triple OT",
-    "query": "\"Triple OT\"",
-    "rank": 16,
-    "tweet_count": "6,993 Tweets"
+    "tweet_count": "2,324 Tweets"
   },
   {
     "name": "Get Back",
     "query": "\"Get Back\"",
-    "rank": 17,
-    "tweet_count": "192K Tweets"
+    "rank": 16,
+    "tweet_count": "193K Tweets"
   },
   {
     "name": "Delta",
     "query": "Delta",
-    "rank": 18,
-    "tweet_count": "137K Tweets"
+    "rank": 17,
+    "tweet_count": "138K Tweets"
   },
   {
-    "name": "#AEWRampage",
-    "query": "#AEWRampage",
-    "rank": 19,
+    "name": "#aewrampage",
+    "query": "#aewrampage",
+    "rank": 18,
     "tweet_count": "18.4K Tweets"
   },
   {
     "name": "Reimer",
     "query": "Reimer",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "Clam-o-naise",
+    "query": "Clam-o-naise",
+    "rank": 20,
+    "tweet_count": "2,900 Tweets"
   }
 ]
