@@ -1,27 +1,27 @@
 [
   {
-    "name": "Auba",
-    "query": "Auba",
+    "name": "#ARSNEW",
+    "query": "#ARSNEW",
     "rank": 1,
-    "tweet_count": "12.2K Tweets"
+    "tweet_count": "21.9K Tweets"
   },
   {
     "name": "Tavares",
     "query": "Tavares",
     "rank": 2,
-    "tweet_count": "12.3K Tweets"
-  },
-  {
-    "name": "#ARSNEW",
-    "query": "#ARSNEW",
-    "rank": 3,
-    "tweet_count": "20.5K Tweets"
+    "tweet_count": "13.4K Tweets"
   },
   {
     "name": "Natasha",
     "query": "Natasha",
+    "rank": 3,
+    "tweet_count": "54.2K Tweets"
+  },
+  {
+    "name": "Saka",
+    "query": "Saka",
     "rank": 4,
-    "tweet_count": "53.7K Tweets"
+    "tweet_count": "35.8K Tweets"
   },
   {
     "name": "#SpacesWithGao",
@@ -33,13 +33,13 @@
     "name": "Ramsdale",
     "query": "Ramsdale",
     "rank": 6,
-    "tweet_count": "13.9K Tweets"
+    "tweet_count": "14.3K Tweets"
   },
   {
-    "name": "Morena",
-    "query": "Morena",
+    "name": "Sandton City",
+    "query": "\"Sandton City\"",
     "rank": 7,
-    "tweet_count": "43.5K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Jeso",
@@ -48,57 +48,63 @@
     "tweet_count": null
   },
   {
-    "name": "Sandton City",
-    "query": "\"Sandton City\"",
+    "name": "Morena",
+    "query": "Morena",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "43.8K Tweets"
   },
   {
     "name": "Odegaard",
     "query": "Odegaard",
     "rank": 10,
-    "tweet_count": "6,117 Tweets"
-  },
-  {
-    "name": "Saka",
-    "query": "Saka",
-    "rank": 11,
-    "tweet_count": "30.4K Tweets"
+    "tweet_count": "6,262 Tweets"
   },
   {
     "name": "MacG",
     "query": "MacG",
-    "rank": 12,
-    "tweet_count": "1,866 Tweets"
+    "rank": 11,
+    "tweet_count": "13.3K Tweets"
   },
   {
     "name": "Jub Jub",
     "query": "\"Jub Jub\"",
-    "rank": 13,
-    "tweet_count": "6,067 Tweets"
+    "rank": 12,
+    "tweet_count": "6,117 Tweets"
   },
   {
     "name": "#WhatTheMoo",
     "query": "#WhatTheMoo",
-    "rank": 14,
-    "tweet_count": "1,041 Tweets"
+    "rank": 13,
+    "tweet_count": "1,052 Tweets"
   },
   {
     "name": "Omicron",
     "query": "Omicron",
-    "rank": 15,
-    "tweet_count": "581K Tweets"
+    "rank": 14,
+    "tweet_count": "587K Tweets"
   },
   {
     "name": "NSFAS",
     "query": "NSFAS",
-    "rank": 16,
-    "tweet_count": "3,086 Tweets"
+    "rank": 15,
+    "tweet_count": "3,115 Tweets"
   },
   {
-    "name": "Baleka Mbete",
-    "query": "\"Baleka Mbete\"",
+    "name": "Baleka",
+    "query": "Baleka",
+    "rank": 16,
+    "tweet_count": "10.8K Tweets"
+  },
+  {
+    "name": "#lockdown",
+    "query": "#lockdown",
     "rank": 17,
-    "tweet_count": "3,687 Tweets"
+    "tweet_count": "18.7K Tweets"
+  },
+  {
+    "name": "Arts and Culture",
+    "query": "\"Arts and Culture\"",
+    "rank": 18,
+    "tweet_count": "4,936 Tweets"
   }
 ]
