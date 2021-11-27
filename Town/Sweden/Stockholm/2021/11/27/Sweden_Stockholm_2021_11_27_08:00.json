@@ -1,15 +1,15 @@
 [
   {
-    "name": "Black Friday",
-    "query": "\"Black Friday\"",
+    "name": "På Spåret",
+    "query": "\"På Spåret\"",
     "rank": 1,
-    "tweet_count": "1.37M Tweets"
+    "tweet_count": null
   },
   {
-    "name": "på spåret",
-    "query": "\"på spåret\"",
+    "name": "Black Friday",
+    "query": "\"Black Friday\"",
     "rank": 2,
-    "tweet_count": null
+    "tweet_count": "1.38M Tweets"
   },
   {
     "name": "Thanksgiving",
@@ -21,13 +21,13 @@
     "name": "South Africa",
     "query": "\"South Africa\"",
     "rank": 4,
-    "tweet_count": "307K Tweets"
+    "tweet_count": "310K Tweets"
   },
   {
     "name": "Omicron",
     "query": "Omicron",
     "rank": 5,
-    "tweet_count": "423K Tweets"
+    "tweet_count": "431K Tweets"
   },
   {
     "name": "Marcus Oscarsson",
@@ -39,13 +39,13 @@
     "name": "Talmannen",
     "query": "Talmannen",
     "rank": 7,
-    "tweet_count": "1,704 Tweets"
+    "tweet_count": "1,726 Tweets"
   },
   {
     "name": "Omikron",
     "query": "Omikron",
     "rank": 8,
-    "tweet_count": "6,233 Tweets"
+    "tweet_count": "6,515 Tweets"
   },
   {
     "name": "ånge",
@@ -54,8 +54,8 @@
     "tweet_count": null
   },
   {
-    "name": "norlén",
-    "query": "norlén",
+    "name": "Norlén",
+    "query": "Norlén",
     "rank": 10,
     "tweet_count": null
   },
@@ -63,31 +63,31 @@
     "name": "Kram",
     "query": "Kram",
     "rank": 11,
-    "tweet_count": "1,590 Tweets"
-  },
-  {
-    "name": "#SparkaTegnell",
-    "query": "#SparkaTegnell",
-    "rank": 12,
-    "tweet_count": null
+    "tweet_count": "1,644 Tweets"
   },
   {
     "name": "Magdalena Andersson",
     "query": "\"Magdalena Andersson\"",
-    "rank": 13,
-    "tweet_count": "1,569 Tweets"
+    "rank": 12,
+    "tweet_count": "1,584 Tweets"
   },
   {
-    "name": "Jonna",
-    "query": "Jonna",
+    "name": "Jonna Sima",
+    "query": "\"Jonna Sima\"",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "#SparkaTegnell",
+    "query": "#SparkaTegnell",
     "rank": 14,
-    "tweet_count": "2,417 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Stephen Sondheim",
     "query": "\"Stephen Sondheim\"",
     "rank": 15,
-    "tweet_count": "125K Tweets"
+    "tweet_count": "126K Tweets"
   },
   {
     "name": "Kristianstad",
@@ -96,26 +96,26 @@
     "tweet_count": null
   },
   {
+    "name": "Bergfeldt",
+    "query": "Bergfeldt",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
     "name": "Godmorgon",
     "query": "Godmorgon",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Tjeckien",
     "query": "Tjeckien",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Bergfeldt",
-    "query": "Bergfeldt",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "hurtig",
-    "query": "hurtig",
+    "name": "Trevlig",
+    "query": "Trevlig",
     "rank": 20,
     "tweet_count": null
   }

@@ -1,57 +1,57 @@
 [
   {
+    "name": "Omicron",
+    "query": "Omicron",
+    "rank": 1,
+    "tweet_count": "431K Tweets"
+  },
+  {
     "name": "Mrazek",
     "query": "Mrazek",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "Reimer",
-    "query": "Reimer",
-    "rank": 2,
+    "name": "Simmonds",
+    "query": "Simmonds",
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#GoLeafsGo",
     "query": "#GoLeafsGo",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "San Jose",
-    "query": "\"San Jose\"",
     "rank": 4,
-    "tweet_count": "14.9K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Lakers",
     "query": "Lakers",
     "rank": 5,
-    "tweet_count": "82.2K Tweets"
+    "tweet_count": "83.2K Tweets"
   },
   {
-    "name": "woll",
-    "query": "woll",
+    "name": "Woll",
+    "query": "Woll",
     "rank": 6,
-    "tweet_count": "2,266 Tweets"
+    "tweet_count": "2,280 Tweets"
   },
   {
     "name": "Vogel",
     "query": "Vogel",
     "rank": 7,
-    "tweet_count": "16.1K Tweets"
+    "tweet_count": "16.4K Tweets"
   },
   {
     "name": "Triple OT",
     "query": "\"Triple OT\"",
     "rank": 8,
-    "tweet_count": "6,505 Tweets"
+    "tweet_count": "6,600 Tweets"
   },
   {
-    "name": "Buddy Hield",
-    "query": "\"Buddy Hield\"",
+    "name": "Melo",
+    "query": "Melo",
     "rank": 9,
-    "tweet_count": "3,440 Tweets"
+    "tweet_count": "24.1K Tweets"
   },
   {
     "name": "#leafsnation",
@@ -63,60 +63,42 @@
     "name": "Stephen Sondheim",
     "query": "\"Stephen Sondheim\"",
     "rank": 11,
-    "tweet_count": "125K Tweets"
+    "tweet_count": "126K Tweets"
   },
   {
     "name": "Sharks",
     "query": "Sharks",
     "rank": 12,
-    "tweet_count": "6,345 Tweets"
-  },
-  {
-    "name": "Simmonds",
-    "query": "Simmonds",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Mets",
-    "query": "Mets",
-    "rank": 14,
-    "tweet_count": "38.5K Tweets"
-  },
-  {
-    "name": "Duke",
-    "query": "Duke",
-    "rank": 15,
-    "tweet_count": "52.9K Tweets"
+    "tweet_count": "6,377 Tweets"
   },
   {
     "name": "Murray",
     "query": "Murray",
-    "rank": 16,
-    "tweet_count": "13.2K Tweets"
+    "rank": 13,
+    "tweet_count": "13.3K Tweets"
   },
   {
-    "name": "#SmackDown",
-    "query": "#SmackDown",
-    "rank": 17,
-    "tweet_count": "42.2K Tweets"
+    "name": "San Jose",
+    "query": "\"San Jose\"",
+    "rank": 14,
+    "tweet_count": "15K Tweets"
   },
   {
     "name": "Ducharme",
     "query": "Ducharme",
-    "rank": 18,
-    "tweet_count": "1,295 Tweets"
+    "rank": 15,
+    "tweet_count": "1,299 Tweets"
   },
   {
     "name": "Get Back",
     "query": "\"Get Back\"",
-    "rank": 19,
-    "tweet_count": "193K Tweets"
+    "rank": 16,
+    "tweet_count": "194K Tweets"
   },
   {
     "name": "Molson",
     "query": "Molson",
-    "rank": 20,
-    "tweet_count": "1,131 Tweets"
+    "rank": 17,
+    "tweet_count": "1,140 Tweets"
   }
 ]
