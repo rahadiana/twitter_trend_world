@@ -1,39 +1,39 @@
 [
   {
-    "name": "South Africa",
-    "query": "\"South Africa\"",
-    "rank": 1,
-    "tweet_count": "290K Tweets"
-  },
-  {
     "name": "#BlackFriday",
     "query": "#BlackFriday",
+    "rank": 1,
+    "tweet_count": "481K Tweets"
+  },
+  {
+    "name": "South Africa",
+    "query": "\"South Africa\"",
     "rank": 2,
-    "tweet_count": "479K Tweets"
+    "tweet_count": "292K Tweets"
   },
   {
     "name": "#Omicron",
     "query": "#Omicron",
     "rank": 3,
-    "tweet_count": "46K Tweets"
-  },
-  {
-    "name": "#DALS",
-    "query": "#DALS",
-    "rank": 4,
-    "tweet_count": "55.6K Tweets"
+    "tweet_count": "47K Tweets"
   },
   {
     "name": "Thanksgiving",
     "query": "Thanksgiving",
+    "rank": 4,
+    "tweet_count": "1.61M Tweets"
+  },
+  {
+    "name": "#DALS",
+    "query": "#DALS",
     "rank": 5,
-    "tweet_count": "1.6M Tweets"
+    "tweet_count": "55.7K Tweets"
   },
   {
     "name": "Schnee",
     "query": "Schnee",
     "rank": 6,
-    "tweet_count": "7,364 Tweets"
+    "tweet_count": "7,380 Tweets"
   },
   {
     "name": "#DelistPKKnow",
@@ -42,22 +42,22 @@
     "tweet_count": "115K Tweets"
   },
   {
+    "name": "#SchleFaZ",
+    "query": "#SchleFaZ",
+    "rank": 8,
+    "tweet_count": "3,615 Tweets"
+  },
+  {
     "name": "Bilal",
     "query": "Bilal",
-    "rank": 8,
-    "tweet_count": "20.6K Tweets"
+    "rank": 9,
+    "tweet_count": "20.7K Tweets"
   },
   {
     "name": "Happy Thanksgiving",
     "query": "\"Happy Thanksgiving\"",
-    "rank": 9,
-    "tweet_count": "519K Tweets"
-  },
-  {
-    "name": "#SchleFaZ",
-    "query": "#SchleFaZ",
     "rank": 10,
-    "tweet_count": "3,615 Tweets"
+    "tweet_count": "521K Tweets"
   },
   {
     "name": "Michou",
@@ -69,13 +69,13 @@
     "name": "Flüge",
     "query": "Flüge",
     "rank": 12,
-    "tweet_count": "1,936 Tweets"
+    "tweet_count": "1,942 Tweets"
   },
   {
     "name": "Mutation",
     "query": "Mutation",
     "rank": 13,
-    "tweet_count": "27.6K Tweets"
+    "tweet_count": "27.9K Tweets"
   },
   {
     "name": "Tayc",
@@ -90,8 +90,8 @@
     "tweet_count": "12.2K Tweets"
   },
   {
-    "name": "börsen",
-    "query": "börsen",
+    "name": "Börsen",
+    "query": "Börsen",
     "rank": 16,
     "tweet_count": null
   },
@@ -99,7 +99,7 @@
     "name": "Omega",
     "query": "Omega",
     "rank": 17,
-    "tweet_count": "35.1K Tweets"
+    "tweet_count": "35.5K Tweets"
   },
   {
     "name": "Maes",
@@ -111,12 +111,12 @@
     "name": "zürich",
     "query": "zürich",
     "rank": 19,
-    "tweet_count": "1,576 Tweets"
+    "tweet_count": "1,577 Tweets"
   },
   {
-    "name": "François",
-    "query": "François",
+    "name": "Hong Kong",
+    "query": "\"Hong Kong\"",
     "rank": 20,
-    "tweet_count": "11.8K Tweets"
+    "tweet_count": "50K Tweets"
   }
 ]
