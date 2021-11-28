@@ -1,68 +1,122 @@
 [
   {
-    "name": "реальный брест",
-    "query": "\"реальный брест\"",
+    "name": "Твиттер",
+    "query": "Твиттер",
     "rank": 1,
-    "tweet_count": null
+    "tweet_count": "3,744 Tweets"
   },
   {
     "name": "Беларусь",
     "query": "Беларусь",
     "rank": 2,
-    "tweet_count": "1,059 Tweets"
+    "tweet_count": "1,064 Tweets"
+  },
+  {
+    "name": "Реальный Брест",
+    "query": "\"Реальный Брест\"",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "согласна",
+    "query": "согласна",
+    "rank": 4,
+    "tweet_count": "2,638 Tweets"
+  },
+  {
+    "name": "Мама",
+    "query": "Мама",
+    "rank": 5,
+    "tweet_count": "8,189 Tweets"
+  },
+  {
+    "name": "#NFTartists",
+    "query": "#NFTartists",
+    "rank": 6,
+    "tweet_count": "51.9K Tweets"
+  },
+  {
+    "name": "ЗНАЮ",
+    "query": "ЗНАЮ",
+    "rank": 7,
+    "tweet_count": "19.6K Tweets"
+  },
+  {
+    "name": "#straykids",
+    "query": "#straykids",
+    "rank": 8,
+    "tweet_count": "644K Tweets"
   },
   {
     "name": "Украине",
     "query": "Украине",
-    "rank": 3,
-    "tweet_count": "4,555 Tweets"
+    "rank": 9,
+    "tweet_count": "4,585 Tweets"
   },
   {
-    "name": "Твиттер",
-    "query": "Твиттер",
-    "rank": 4,
-    "tweet_count": "3,720 Tweets"
-  },
-  {
-    "name": "Знаю",
-    "query": "Знаю",
-    "rank": 5,
-    "tweet_count": "19.5K Tweets"
-  },
-  {
-    "name": "Кстати",
-    "query": "Кстати",
-    "rank": 6,
-    "tweet_count": "8,924 Tweets"
+    "name": "Капец",
+    "query": "Капец",
+    "rank": 10,
+    "tweet_count": "1,983 Tweets"
   },
   {
     "name": "Здравствуйте",
     "query": "Здравствуйте",
-    "rank": 7,
-    "tweet_count": "1,763 Tweets"
+    "rank": 11,
+    "tweet_count": "1,780 Tweets"
   },
   {
     "name": "#Solana",
     "query": "#Solana",
-    "rank": 8,
-    "tweet_count": "118K Tweets"
+    "rank": 12,
+    "tweet_count": "119K Tweets"
   },
   {
-    "name": "Black Friday",
-    "query": "\"Black Friday\"",
-    "rank": 9,
-    "tweet_count": "420K Tweets"
-  },
-  {
-    "name": "Аааа",
-    "query": "Аааа",
-    "rank": 10,
-    "tweet_count": "1,522 Tweets"
+    "name": "Кстати",
+    "query": "Кстати",
+    "rank": 13,
+    "tweet_count": "8,980 Tweets"
   },
   {
     "name": "Christmas",
     "query": "Christmas",
-    "rank": 11,
-    "tweet_count": "732K Tweets"
+    "rank": 14,
+    "tweet_count": "740K Tweets"
+  },
+  {
+    "name": "Похоже",
+    "query": "Похоже",
+    "rank": 15,
+    "tweet_count": "3,341 Tweets"
+  },
+  {
+    "name": "Аааа",
+    "query": "Аааа",
+    "rank": 16,
+    "tweet_count": "1,537 Tweets"
+  },
+  {
+    "name": "Black Friday",
+    "query": "\"Black Friday\"",
+    "rank": 17,
+    "tweet_count": "421K Tweets"
+  },
+  {
+    "name": "Наверное",
+    "query": "Наверное",
+    "rank": 18,
+    "tweet_count": "6,320 Tweets"
+  },
+  {
+    "name": "Оооо",
+    "query": "Оооо",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "#GenshinImpact",
+    "query": "#GenshinImpact",
+    "rank": 20,
+    "tweet_count": "191K Tweets"
   }
 ]
