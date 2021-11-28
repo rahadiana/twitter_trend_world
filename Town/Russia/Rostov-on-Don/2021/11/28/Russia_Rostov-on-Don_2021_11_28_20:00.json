@@ -12,10 +12,10 @@
     "tweet_count": null
   },
   {
-    "name": "#PTD_ON_STAGE_LA",
-    "query": "#PTD_ON_STAGE_LA",
+    "name": "#BTSARMY",
+    "query": "#BTSARMY",
     "rank": 3,
-    "tweet_count": "3.58M Tweets"
+    "tweet_count": "1M Tweets"
   },
   {
     "name": "#биатлон",
@@ -24,16 +24,16 @@
     "tweet_count": "1,779 Tweets"
   },
   {
-    "name": "Александр Градский",
-    "query": "\"Александр Градский\"",
+    "name": "#DoctorWhoFlux",
+    "query": "#DoctorWhoFlux",
     "rank": 5,
-    "tweet_count": "6,911 Tweets"
+    "tweet_count": "11.8K Tweets"
   },
   {
-    "name": "градского",
-    "query": "градского",
+    "name": "Александр Градский",
+    "query": "\"Александр Градский\"",
     "rank": 6,
-    "tweet_count": "2,862 Tweets"
+    "tweet_count": "6,927 Tweets"
   },
   {
     "name": "Felix",
@@ -42,75 +42,81 @@
     "tweet_count": "131K Tweets"
   },
   {
+    "name": "Градского",
+    "query": "Градского",
+    "rank": 8,
+    "tweet_count": "2,873 Tweets"
+  },
+  {
     "name": "Вирджил Абло",
     "query": "\"Вирджил Абло\"",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "Трава",
-    "query": "Трава",
     "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Глазурная",
-    "query": "Глазурная",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Челси",
-    "query": "Челси",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "ГЕНДЕР",
-    "query": "ГЕНДЕР",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Лилия",
-    "query": "Лилия",
-    "rank": 13,
-    "tweet_count": "1,471 Tweets"
-  },
-  {
-    "name": "Омикрон",
-    "query": "Омикрон",
-    "rank": 14,
-    "tweet_count": "6,085 Tweets"
-  },
-  {
-    "name": "THlS IS CHANCE",
-    "query": "\"THlS IS CHANCE\"",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Светяшка",
-    "query": "Светяшка",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "REALLY AlRDROOOP",
-    "query": "\"REALLY AlRDROOOP\"",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Ранбу",
-    "query": "Ранбу",
-    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "TOMMY",
     "query": "TOMMY",
+    "rank": 10,
+    "tweet_count": "79.7K Tweets"
+  },
+  {
+    "name": "Томми",
+    "query": "Томми",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "Трава",
+    "query": "Трава",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "Омикрон",
+    "query": "Омикрон",
+    "rank": 13,
+    "tweet_count": "6,125 Tweets"
+  },
+  {
+    "name": "Глазурная",
+    "query": "Глазурная",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "лилия",
+    "query": "лилия",
+    "rank": 15,
+    "tweet_count": "1,490 Tweets"
+  },
+  {
+    "name": "thls is chance",
+    "query": "\"thls is chance\"",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "really alrdrooop",
+    "query": "\"really alrdrooop\"",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Светяшка",
+    "query": "Светяшка",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Ранбу",
+    "query": "Ранбу",
     "rank": 19,
-    "tweet_count": "73.2K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "ГЕНДЕР",
+    "query": "ГЕНДЕР",
+    "rank": 20,
+    "tweet_count": null
   }
 ]
