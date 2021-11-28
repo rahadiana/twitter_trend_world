@@ -9,35 +9,35 @@
     "name": "Pfizer",
     "query": "Pfizer",
     "rank": 2,
-    "tweet_count": "112K Tweets"
+    "tweet_count": "114K Tweets"
   },
   {
-    "name": "Modernu",
-    "query": "Modernu",
+    "name": "modernu",
+    "query": "modernu",
     "rank": 3,
     "tweet_count": null
   },
   {
-    "name": "pasaules",
-    "query": "pasaules",
+    "name": "Skaisti",
+    "query": "Skaisti",
     "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "Pasaules",
+    "query": "Pasaules",
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Omicron",
     "query": "Omicron",
-    "rank": 5,
-    "tweet_count": "1.1M Tweets"
-  },
-  {
-    "name": "#GermanyRX",
-    "query": "#GermanyRX",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "1.12M Tweets"
   },
   {
-    "name": "skaisti",
-    "query": "skaisti",
+    "name": "#germanyrx",
+    "query": "#germanyrx",
     "rank": 7,
     "tweet_count": null
   },
@@ -51,7 +51,7 @@
     "name": "Spotify",
     "query": "Spotify",
     "rank": 9,
-    "tweet_count": "590K Tweets"
+    "tweet_count": "599K Tweets"
   },
   {
     "name": "#WorldRX",
@@ -60,28 +60,28 @@
     "tweet_count": null
   },
   {
-    "name": "Adventes",
-    "query": "Adventes",
+    "name": "adventes",
+    "query": "adventes",
     "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Krievijā",
-    "query": "Krievijā",
-    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "krimu",
     "query": "krimu",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Cilinski",
     "query": "Cilinski",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
+  },
+  {
+    "name": "Gustavo",
+    "query": "Gustavo",
+    "rank": 14,
+    "tweet_count": "54.6K Tweets"
   },
   {
     "name": "#Riga",
@@ -90,33 +90,27 @@
     "tweet_count": null
   },
   {
-    "name": "Gustavo",
-    "query": "Gustavo",
+    "name": "biju",
+    "query": "biju",
     "rank": 16,
-    "tweet_count": "53.9K Tweets"
+    "tweet_count": "1,715 Tweets"
   },
   {
-    "name": "Biju",
-    "query": "Biju",
+    "name": "Krievijas",
+    "query": "Krievijas",
     "rank": 17,
-    "tweet_count": "1,692 Tweets"
-  },
-  {
-    "name": "Katram",
-    "query": "Katram",
-    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Saprotu",
     "query": "Saprotu",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Pavļuta",
     "query": "Pavļuta",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
   }
 ]
