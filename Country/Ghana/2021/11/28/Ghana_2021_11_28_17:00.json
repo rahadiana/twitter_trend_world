@@ -1,74 +1,110 @@
 [
   {
-    "name": "Carrick",
-    "query": "Carrick",
-    "rank": 1,
-    "tweet_count": "38.5K Tweets"
-  },
-  {
     "name": "#CHEMUN",
     "query": "#CHEMUN",
-    "rank": 2,
-    "tweet_count": "98.9K Tweets"
+    "rank": 1,
+    "tweet_count": "115K Tweets"
   },
   {
-    "name": "Alonso",
-    "query": "Alonso",
+    "name": "Odoi",
+    "query": "Odoi",
+    "rank": 2,
+    "tweet_count": "11.9K Tweets"
+  },
+  {
+    "name": "Carrick",
+    "query": "Carrick",
     "rank": 3,
-    "tweet_count": "22.2K Tweets"
+    "tweet_count": "44.8K Tweets"
+  },
+  {
+    "name": "Rashford",
+    "query": "Rashford",
+    "rank": 4,
+    "tweet_count": "13.6K Tweets"
   },
   {
     "name": "Ronaldo",
     "query": "Ronaldo",
-    "rank": 4,
-    "tweet_count": "130K Tweets"
-  },
-  {
-    "name": "AC Milan",
-    "query": "\"AC Milan\"",
     "rank": 5,
-    "tweet_count": "4,267 Tweets"
-  },
-  {
-    "name": "Man U",
-    "query": "\"Man U\"",
-    "rank": 6,
-    "tweet_count": "51.7K Tweets"
-  },
-  {
-    "name": "Chilwell",
-    "query": "Chilwell",
-    "rank": 7,
-    "tweet_count": "3,958 Tweets"
-  },
-  {
-    "name": "Hearts of Oak",
-    "query": "\"Hearts of Oak\"",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "Anthony Taylor",
-    "query": "\"Anthony Taylor\"",
-    "rank": 9,
-    "tweet_count": "9,126 Tweets"
+    "tweet_count": "141K Tweets"
   },
   {
     "name": "Ziyech",
     "query": "Ziyech",
+    "rank": 6,
+    "tweet_count": "11.4K Tweets"
+  },
+  {
+    "name": "De Gea",
+    "query": "\"De Gea\"",
+    "rank": 7,
+    "tweet_count": "14.9K Tweets"
+  },
+  {
+    "name": "Loftus",
+    "query": "Loftus",
+    "rank": 8,
+    "tweet_count": "3,185 Tweets"
+  },
+  {
+    "name": "Chilwell",
+    "query": "Chilwell",
+    "rank": 9,
+    "tweet_count": "4,998 Tweets"
+  },
+  {
+    "name": "Matic",
+    "query": "Matic",
     "rank": 10,
-    "tweet_count": "8,555 Tweets"
+    "tweet_count": "85.5K Tweets"
+  },
+  {
+    "name": "Pulisic",
+    "query": "Pulisic",
+    "rank": 11,
+    "tweet_count": "6,170 Tweets"
+  },
+  {
+    "name": "Man U",
+    "query": "\"Man U\"",
+    "rank": 12,
+    "tweet_count": "54.1K Tweets"
+  },
+  {
+    "name": "Hearts of Oak",
+    "query": "\"Hearts of Oak\"",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Rudiger",
+    "query": "Rudiger",
+    "rank": 14,
+    "tweet_count": "12.5K Tweets"
+  },
+  {
+    "name": "Lindelof",
+    "query": "Lindelof",
+    "rank": 15,
+    "tweet_count": "4,948 Tweets"
+  },
+  {
+    "name": "AC Milan",
+    "query": "\"AC Milan\"",
+    "rank": 16,
+    "tweet_count": "4,403 Tweets"
   },
   {
     "name": "Messi",
     "query": "Messi",
-    "rank": 11,
-    "tweet_count": "248K Tweets"
+    "rank": 17,
+    "tweet_count": "255K Tweets"
   },
   {
     "name": "West Ham",
     "query": "\"West Ham\"",
-    "rank": 12,
-    "tweet_count": "22.6K Tweets"
+    "rank": 18,
+    "tweet_count": "23.2K Tweets"
   }
 ]
