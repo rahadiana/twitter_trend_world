@@ -1,25 +1,25 @@
 [
   {
-    "name": "JUNGKOOK",
-    "query": "JUNGKOOK",
-    "rank": 1,
-    "tweet_count": "1.29M Tweets"
-  },
-  {
     "name": "Omicron",
     "query": "Omicron",
-    "rank": 2,
-    "tweet_count": "993K Tweets"
+    "rank": 1,
+    "tweet_count": "1M Tweets"
   },
   {
     "name": "NAMJOON",
     "query": "NAMJOON",
-    "rank": 3,
-    "tweet_count": "623K Tweets"
+    "rank": 2,
+    "tweet_count": "664K Tweets"
   },
   {
-    "name": "Norrby",
-    "query": "Norrby",
+    "name": "norrby",
+    "query": "norrby",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "Godmorgon",
+    "query": "Godmorgon",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,19 +27,19 @@
     "name": "#PTD_ON_STAGE_LA",
     "query": "#PTD_ON_STAGE_LA",
     "rank": 5,
-    "tweet_count": "2.11M Tweets"
+    "tweet_count": "2.59M Tweets"
   },
   {
-    "name": "Godmorgon",
-    "query": "Godmorgon",
+    "name": "JUNGKOOK",
+    "query": "JUNGKOOK",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "1.51M Tweets"
   },
   {
     "name": "Sydafrika",
     "query": "Sydafrika",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "1,003 Tweets"
   },
   {
     "name": "Frida Karlsson",
@@ -48,63 +48,69 @@
     "tweet_count": null
   },
   {
-    "name": "Auba",
-    "query": "Auba",
-    "rank": 9,
-    "tweet_count": "20.6K Tweets"
-  },
-  {
     "name": "på spåret",
     "query": "\"på spåret\"",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Johaug",
-    "query": "Johaug",
-    "rank": 11,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "#ARSNEW",
     "query": "#ARSNEW",
-    "rank": 12,
-    "tweet_count": "49.9K Tweets"
+    "rank": 10,
+    "tweet_count": "50K Tweets"
+  },
+  {
+    "name": "johaug",
+    "query": "johaug",
+    "rank": 11,
+    "tweet_count": null
   },
   {
     "name": "Jota",
     "query": "Jota",
-    "rank": 13,
-    "tweet_count": "53.3K Tweets"
+    "rank": 12,
+    "tweet_count": "53.4K Tweets"
   },
   {
     "name": "Akropolis",
     "query": "Akropolis",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "#COYG",
-    "query": "#COYG",
-    "rank": 15,
-    "tweet_count": "8,668 Tweets"
+    "name": "Omikron",
+    "query": "Omikron",
+    "rank": 14,
+    "tweet_count": "31.8K Tweets"
   },
   {
-    "name": "marcus oscarsson",
-    "query": "\"marcus oscarsson\"",
-    "rank": 16,
+    "name": "Marcus Oscarsson",
+    "query": "\"Marcus Oscarsson\"",
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "helsingborg",
     "query": "helsingborg",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "#SåMycketBättre",
+    "query": "#SåMycketBättre",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "#såmycketbättre",
-    "query": "#såmycketbättre",
+    "name": "Charlie",
+    "query": "Charlie",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "74.3K Tweets"
+  },
+  {
+    "name": "#screenshotsaturday",
+    "query": "#screenshotsaturday",
+    "rank": 19,
+    "tweet_count": "24.8K Tweets"
   }
 ]
