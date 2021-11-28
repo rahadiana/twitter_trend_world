@@ -1,98 +1,104 @@
 [
   {
-    "name": "#Omnicron",
-    "query": "#Omnicron",
+    "name": "#Omicron",
+    "query": "#Omicron",
     "rank": 1,
-    "tweet_count": "11.7K Tweets"
+    "tweet_count": "209K Tweets"
+  },
+  {
+    "name": "#schlagdenstar",
+    "query": "#schlagdenstar",
+    "rank": 2,
+    "tweet_count": "3,638 Tweets"
   },
   {
     "name": "NAMJOON",
     "query": "NAMJOON",
-    "rank": 2,
-    "tweet_count": "522K Tweets"
+    "rank": 3,
+    "tweet_count": "624K Tweets"
   },
   {
     "name": "Advent",
     "query": "Advent",
-    "rank": 3,
-    "tweet_count": "25K Tweets"
+    "rank": 4,
+    "tweet_count": "25.9K Tweets"
   },
   {
-    "name": "Black Swan",
-    "query": "\"Black Swan\"",
-    "rank": 4,
-    "tweet_count": "105K Tweets"
+    "name": "JUNGKOOK",
+    "query": "JUNGKOOK",
+    "rank": 5,
+    "tweet_count": "1.4M Tweets"
+  },
+  {
+    "name": "BLACK SWAN",
+    "query": "\"BLACK SWAN\"",
+    "rank": 6,
+    "tweet_count": "123K Tweets"
   },
   {
     "name": "Stadion",
     "query": "Stadion",
-    "rank": 5,
-    "tweet_count": "11.9K Tweets"
+    "rank": 7,
+    "tweet_count": "12K Tweets"
   },
   {
     "name": "sofi",
     "query": "sofi",
-    "rank": 6,
-    "tweet_count": "321K Tweets"
+    "rank": 8,
+    "tweet_count": "342K Tweets"
   },
   {
     "name": "Schnee",
     "query": "Schnee",
-    "rank": 7,
-    "tweet_count": "5,238 Tweets"
+    "rank": 9,
+    "tweet_count": "5,303 Tweets"
   },
   {
     "name": "Südafrika",
     "query": "Südafrika",
-    "rank": 8,
-    "tweet_count": "17.3K Tweets"
-  },
-  {
-    "name": "Käse",
-    "query": "Käse",
-    "rank": 9,
-    "tweet_count": "1,766 Tweets"
-  },
-  {
-    "name": "Ebola",
-    "query": "Ebola",
     "rank": 10,
-    "tweet_count": "13.3K Tweets"
+    "tweet_count": "17.5K Tweets"
   },
   {
-    "name": "Steinmeier",
-    "query": "Steinmeier",
+    "name": "Schönen Sonntag",
+    "query": "\"Schönen Sonntag\"",
     "rank": 11,
     "tweet_count": null
   },
   {
+    "name": "HOSEOK",
+    "query": "HOSEOK",
+    "rank": 12,
+    "tweet_count": "261K Tweets"
+  },
+  {
+    "name": "Käse",
+    "query": "Käse",
+    "rank": 13,
+    "tweet_count": "1,774 Tweets"
+  },
+  {
+    "name": "Ebola",
+    "query": "Ebola",
+    "rank": 14,
+    "tweet_count": "13.4K Tweets"
+  },
+  {
+    "name": "Schönen 1",
+    "query": "\"Schönen 1\"",
+    "rank": 15,
+    "tweet_count": "3,676 Tweets"
+  },
+  {
+    "name": "HOBI",
+    "query": "HOBI",
+    "rank": 16,
+    "tweet_count": "297K Tweets"
+  },
+  {
     "name": "Krisenstab",
     "query": "Krisenstab",
-    "rank": 12,
-    "tweet_count": "2,511 Tweets"
-  },
-  {
-    "name": "Olivia",
-    "query": "Olivia",
-    "rank": 13,
-    "tweet_count": "28.3K Tweets"
-  },
-  {
-    "name": "Alphabet",
-    "query": "Alphabet",
-    "rank": 14,
-    "tweet_count": "49.1K Tweets"
-  },
-  {
-    "name": "Anwalt der Autofahrer",
-    "query": "\"Anwalt der Autofahrer\"",
-    "rank": 15,
-    "tweet_count": "1,926 Tweets"
-  },
-  {
-    "name": "Mutation",
-    "query": "Mutation",
-    "rank": 16,
-    "tweet_count": "24K Tweets"
+    "rank": 17,
+    "tweet_count": "2,532 Tweets"
   }
 ]
