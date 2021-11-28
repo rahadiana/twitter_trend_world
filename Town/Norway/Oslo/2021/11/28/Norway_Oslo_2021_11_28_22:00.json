@@ -1,19 +1,19 @@
 [
   {
-    "name": "#Unibet5k",
-    "query": "#Unibet5k",
+    "name": "#unibet5k",
+    "query": "#unibet5k",
     "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "Brann",
+    "query": "Brann",
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Brekalo",
     "query": "Brekalo",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "brann",
-    "query": "brann",
     "rank": 3,
     "tweet_count": null
   },
@@ -21,7 +21,7 @@
     "name": "Viking",
     "query": "Viking",
     "rank": 4,
-    "tweet_count": "10.7K Tweets"
+    "tweet_count": "10.8K Tweets"
   },
   {
     "name": "Lerkendal",
@@ -33,7 +33,7 @@
     "name": "#CHEMUN",
     "query": "#CHEMUN",
     "rank": 6,
-    "tweet_count": "185K Tweets"
+    "tweet_count": "186K Tweets"
   },
   {
     "name": "Gunnarsson",
@@ -66,14 +66,14 @@
     "tweet_count": null
   },
   {
-    "name": "heggebø",
-    "query": "heggebø",
+    "name": "Heggebø",
+    "query": "Heggebø",
     "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "#esnball",
-    "query": "#esnball",
+    "name": "#ESNball",
+    "query": "#ESNball",
     "rank": 13,
     "tweet_count": null
   },
@@ -90,32 +90,32 @@
     "tweet_count": null
   },
   {
+    "name": "Werner",
+    "query": "Werner",
+    "rank": 16,
+    "tweet_count": "41.8K Tweets"
+  },
+  {
+    "name": "McTominay",
+    "query": "McTominay",
+    "rank": 17,
+    "tweet_count": "19.1K Tweets"
+  },
+  {
+    "name": "Rashford",
+    "query": "Rashford",
+    "rank": 18,
+    "tweet_count": "24K Tweets"
+  },
+  {
     "name": "De Gea",
     "query": "\"De Gea\"",
-    "rank": 16,
-    "tweet_count": "24.4K Tweets"
+    "rank": 19,
+    "tweet_count": "5,833 Tweets"
   },
   {
     "name": "Horneland",
     "query": "Horneland",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Molde",
-    "query": "Molde",
-    "rank": 18,
-    "tweet_count": "1,139 Tweets"
-  },
-  {
-    "name": "høie",
-    "query": "høie",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Mjøndalen",
-    "query": "Mjøndalen",
     "rank": 20,
     "tweet_count": null
   }
