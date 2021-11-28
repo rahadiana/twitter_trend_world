@@ -1,37 +1,37 @@
 [
   {
-    "name": "Wheeler",
-    "query": "Wheeler",
-    "rank": 1,
-    "tweet_count": "4,636 Tweets"
-  },
-  {
     "name": "#BTSARMY",
     "query": "#BTSARMY",
+    "rank": 1,
+    "tweet_count": "523K Tweets"
+  },
+  {
+    "name": "#LopezKambososJr",
+    "query": "#LopezKambososJr",
     "rank": 2,
-    "tweet_count": "503K Tweets"
+    "tweet_count": "22.5K Tweets"
   },
   {
     "name": "Lemieux",
     "query": "Lemieux",
     "rank": 3,
-    "tweet_count": "3,529 Tweets"
+    "tweet_count": "3,751 Tweets"
   },
   {
-    "name": "#LopezKambososJr",
-    "query": "#LopezKambososJr",
+    "name": "Lucic",
+    "query": "Lucic",
     "rank": 4,
-    "tweet_count": "15.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Bergevin",
     "query": "Bergevin",
     "rank": 5,
-    "tweet_count": "2,089 Tweets"
+    "tweet_count": "2,144 Tweets"
   },
   {
-    "name": "Lucic",
-    "query": "Lucic",
+    "name": "DeMelo",
+    "query": "DeMelo",
     "rank": 6,
     "tweet_count": null
   },
@@ -39,19 +39,19 @@
     "name": "#TriadCombat",
     "query": "#TriadCombat",
     "rank": 7,
-    "tweet_count": "3,658 Tweets"
+    "tweet_count": "3,837 Tweets"
   },
   {
     "name": "JIMINS",
     "query": "JIMINS",
     "rank": 8,
-    "tweet_count": "25.8K Tweets"
+    "tweet_count": "28.9K Tweets"
   },
   {
-    "name": "#WPGvsCGY",
-    "query": "#WPGvsCGY",
+    "name": "Allen",
+    "query": "Allen",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "50K Tweets"
   },
   {
     "name": "#NHLJets",
@@ -60,46 +60,46 @@
     "tweet_count": null
   },
   {
-    "name": "Koskinen",
-    "query": "Koskinen",
+    "name": "hoseok",
+    "query": "hoseok",
     "rank": 11,
-    "tweet_count": "1,154 Tweets"
+    "tweet_count": "178K Tweets"
+  },
+  {
+    "name": "#GoAvsGo",
+    "query": "#GoAvsGo",
+    "rank": 12,
+    "tweet_count": "2,665 Tweets"
   },
   {
     "name": "Gausman",
     "query": "Gausman",
-    "rank": 12,
-    "tweet_count": "6,656 Tweets"
+    "rank": 13,
+    "tweet_count": "6,756 Tweets"
   },
   {
-    "name": "hoseok",
-    "query": "hoseok",
-    "rank": 13,
-    "tweet_count": "162K Tweets"
+    "name": "Koskinen",
+    "query": "Koskinen",
+    "rank": 14,
+    "tweet_count": "1,170 Tweets"
   },
   {
     "name": "Darche",
     "query": "Darche",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Harden",
     "query": "Harden",
-    "rank": 15,
-    "tweet_count": "20.5K Tweets"
-  },
-  {
-    "name": "Lowry",
-    "query": "Lowry",
     "rank": 16,
-    "tweet_count": "3,566 Tweets"
+    "tweet_count": "21.1K Tweets"
   },
   {
     "name": "Mikko",
     "query": "Mikko",
     "rank": 17,
-    "tweet_count": "3,825 Tweets"
+    "tweet_count": "4,107 Tweets"
   },
   {
     "name": "Josh Anderson",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "Demar",
-    "query": "Demar",
-    "rank": 19,
-    "tweet_count": "4,271 Tweets"
-  },
-  {
     "name": "Patrick Roy",
     "query": "\"Patrick Roy\"",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "Lowry",
+    "query": "Lowry",
+    "rank": 20,
+    "tweet_count": "3,697 Tweets"
   }
 ]
