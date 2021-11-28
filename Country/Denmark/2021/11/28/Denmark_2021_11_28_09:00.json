@@ -1,31 +1,31 @@
 [
   {
+    "name": "#presselogen",
+    "query": "#presselogen",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "#BLASTPremier",
     "query": "#BLASTPremier",
-    "rank": 1,
-    "tweet_count": "7,115 Tweets"
+    "rank": 2,
+    "tweet_count": "7,168 Tweets"
   },
   {
     "name": "#agfsif",
     "query": "#agfsif",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Omicron",
     "query": "Omicron",
-    "rank": 3,
-    "tweet_count": "1.01M Tweets"
+    "rank": 4,
+    "tweet_count": "1.02M Tweets"
   },
   {
     "name": "#zulucs",
     "query": "#zulucs",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "#ToTheStars",
-    "query": "#ToTheStars",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,7 +33,7 @@
     "name": "Sydafrika",
     "query": "Sydafrika",
     "rank": 6,
-    "tweet_count": "1,048 Tweets"
+    "tweet_count": "1,069 Tweets"
   },
   {
     "name": "#denstorebagedyst",
@@ -45,37 +45,37 @@
     "name": "Astralis",
     "query": "Astralis",
     "rank": 8,
-    "tweet_count": "2,291 Tweets"
+    "tweet_count": "2,312 Tweets"
   },
   {
     "name": "Karl",
     "query": "Karl",
     "rank": 9,
-    "tweet_count": "91.6K Tweets"
+    "tweet_count": "92.6K Tweets"
   },
   {
     "name": "Thanksgiving",
     "query": "Thanksgiving",
     "rank": 10,
-    "tweet_count": "386K Tweets"
+    "tweet_count": "388K Tweets"
   },
   {
     "name": "zeca",
     "query": "zeca",
     "rank": 11,
-    "tweet_count": "1,733 Tweets"
+    "tweet_count": "1,736 Tweets"
   },
   {
     "name": "Heroic",
     "query": "Heroic",
     "rank": 12,
-    "tweet_count": "8,022 Tweets"
+    "tweet_count": "8,144 Tweets"
   },
   {
     "name": "Delta",
     "query": "Delta",
     "rank": 13,
-    "tweet_count": "122K Tweets"
+    "tweet_count": "123K Tweets"
   },
   {
     "name": "Royal Arena",
@@ -87,29 +87,29 @@
     "name": "Omikron",
     "query": "Omikron",
     "rank": 15,
-    "tweet_count": "32.4K Tweets"
-  },
-  {
-    "name": "Enhedslisten",
-    "query": "Enhedslisten",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "33.2K Tweets"
   },
   {
     "name": "Liverpool",
     "query": "Liverpool",
-    "rank": 17,
-    "tweet_count": "107K Tweets"
+    "rank": 16,
+    "tweet_count": "108K Tweets"
   },
   {
     "name": "Juventus",
     "query": "Juventus",
-    "rank": 18,
-    "tweet_count": "48.9K Tweets"
+    "rank": 17,
+    "tweet_count": "49.7K Tweets"
   },
   {
     "name": "Superligaen",
     "query": "Superligaen",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Rusland",
+    "query": "Rusland",
     "rank": 19,
     "tweet_count": null
   },
@@ -117,6 +117,6 @@
     "name": "Barca",
     "query": "Barca",
     "rank": 20,
-    "tweet_count": "99.1K Tweets"
+    "tweet_count": "100K Tweets"
   }
 ]

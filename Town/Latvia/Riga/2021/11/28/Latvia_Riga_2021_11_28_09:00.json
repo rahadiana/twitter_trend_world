@@ -3,17 +3,17 @@
     "name": "Omicron",
     "query": "Omicron",
     "rank": 1,
-    "tweet_count": "1.01M Tweets"
-  },
-  {
-    "name": "Rīgu",
-    "query": "Rīgu",
-    "rank": 2,
-    "tweet_count": null
+    "tweet_count": "1.02M Tweets"
   },
   {
     "name": "āfrikas",
     "query": "āfrikas",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "Rīgu",
+    "query": "Rīgu",
     "rank": 3,
     "tweet_count": null
   },
@@ -27,11 +27,11 @@
     "name": "Mums",
     "query": "Mums",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "4,398 Tweets"
   },
   {
-    "name": "Pasaules",
-    "query": "Pasaules",
+    "name": "pasaules",
+    "query": "pasaules",
     "rank": 6,
     "tweet_count": null
   },
@@ -45,7 +45,7 @@
     "name": "Gustavo",
     "query": "Gustavo",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "55.6K Tweets"
   },
   {
     "name": "#herpes",
@@ -72,8 +72,8 @@
     "tweet_count": null
   },
   {
-    "name": "Eiropas",
-    "query": "Eiropas",
+    "name": "Šobrīd",
+    "query": "Šobrīd",
     "rank": 13,
     "tweet_count": null
   },
@@ -81,19 +81,19 @@
     "name": "Delta",
     "query": "Delta",
     "rank": 14,
-    "tweet_count": "122K Tweets"
+    "tweet_count": "123K Tweets"
+  },
+  {
+    "name": "Eiropas",
+    "query": "Eiropas",
+    "rank": 15,
+    "tweet_count": null
   },
   {
     "name": "#BLASTPremier",
     "query": "#BLASTPremier",
-    "rank": 15,
-    "tweet_count": "7,109 Tweets"
-  },
-  {
-    "name": "Baltijas",
-    "query": "Baltijas",
     "rank": 16,
-    "tweet_count": null
+    "tweet_count": "7,167 Tweets"
   },
   {
     "name": "varu",
@@ -102,15 +102,9 @@
     "tweet_count": null
   },
   {
-    "name": "Ukraina",
-    "query": "Ukraina",
+    "name": "Baltijas",
+    "query": "Baltijas",
     "rank": 18,
-    "tweet_count": "1,579 Tweets"
-  },
-  {
-    "name": "Diemžēl",
-    "query": "Diemžēl",
-    "rank": 19,
     "tweet_count": null
   }
 ]
