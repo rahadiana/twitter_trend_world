@@ -6,26 +6,26 @@
     "tweet_count": null
   },
   {
-    "name": "Advent",
-    "query": "Advent",
-    "rank": 2,
-    "tweet_count": "44K Tweets"
-  },
-  {
     "name": "Omicron",
     "query": "Omicron",
+    "rank": 2,
+    "tweet_count": "1.05M Tweets"
+  },
+  {
+    "name": "sydafrika",
+    "query": "sydafrika",
     "rank": 3,
-    "tweet_count": "1.04M Tweets"
+    "tweet_count": "1,090 Tweets"
   },
   {
-    "name": "Sydafrika",
-    "query": "Sydafrika",
+    "name": "Advent",
+    "query": "Advent",
     "rank": 4,
-    "tweet_count": "1,083 Tweets"
+    "tweet_count": "44.7K Tweets"
   },
   {
-    "name": "Norrby",
-    "query": "Norrby",
+    "name": "norrby",
+    "query": "norrby",
     "rank": 5,
     "tweet_count": null
   },
@@ -36,14 +36,14 @@
     "tweet_count": null
   },
   {
-    "name": "Detsamma",
-    "query": "Detsamma",
+    "name": "Godmorgon",
+    "query": "Godmorgon",
     "rank": 7,
     "tweet_count": null
   },
   {
-    "name": "Godmorgon",
-    "query": "Godmorgon",
+    "name": "ann linde",
+    "query": "\"ann linde\"",
     "rank": 8,
     "tweet_count": null
   },
@@ -54,22 +54,22 @@
     "tweet_count": "50.5K Tweets"
   },
   {
-    "name": "Ann Linde",
-    "query": "\"Ann Linde\"",
+    "name": "Akropolis",
+    "query": "Akropolis",
     "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "Detsamma",
+    "query": "Detsamma",
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Omikron",
     "query": "Omikron",
-    "rank": 11,
-    "tweet_count": "34.1K Tweets"
-  },
-  {
-    "name": "Akropolis",
-    "query": "Akropolis",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "34.3K Tweets"
   },
   {
     "name": "#påspåret",
@@ -78,32 +78,32 @@
     "tweet_count": null
   },
   {
+    "name": "Kalmar",
+    "query": "Kalmar",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
     "name": "Återvandring",
     "query": "Återvandring",
-    "rank": 14,
-    "tweet_count": "1,697 Tweets"
-  },
-  {
-    "name": "marcus oscarsson",
-    "query": "\"marcus oscarsson\"",
     "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "johaug",
-    "query": "johaug",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "1,711 Tweets"
   },
   {
     "name": "Timo Boll",
     "query": "\"Timo Boll\"",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "marcus oscarsson",
+    "query": "\"marcus oscarsson\"",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "#såmycketbättre",
-    "query": "#såmycketbättre",
+    "name": "Johaug",
+    "query": "Johaug",
     "rank": 18,
     "tweet_count": null
   },
@@ -111,6 +111,6 @@
     "name": "Charlie",
     "query": "Charlie",
     "rank": 19,
-    "tweet_count": "77.2K Tweets"
+    "tweet_count": "77.5K Tweets"
   }
 ]
