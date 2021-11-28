@@ -3,79 +3,79 @@
     "name": "#Abst21",
     "query": "#Abst21",
     "rank": 1,
-    "tweet_count": "5,010 Tweets"
+    "tweet_count": "5,089 Tweets"
   },
   {
-    "name": "#CHvote",
-    "query": "#CHvote",
+    "name": "#CHVote",
+    "query": "#CHVote",
     "rank": 2,
-    "tweet_count": "3,064 Tweets"
+    "tweet_count": "3,117 Tweets"
   },
   {
     "name": "#Omicron",
     "query": "#Omicron",
     "rank": 3,
-    "tweet_count": "217K Tweets"
-  },
-  {
-    "name": "#pflegeinitiative",
-    "query": "#pflegeinitiative",
-    "rank": 4,
-    "tweet_count": null
+    "tweet_count": "221K Tweets"
   },
   {
     "name": "Demokratie",
     "query": "Demokratie",
-    "rank": 5,
-    "tweet_count": "5,308 Tweets"
+    "rank": 4,
+    "tweet_count": "5,462 Tweets"
   },
   {
     "name": "Resultat",
     "query": "Resultat",
-    "rank": 6,
-    "tweet_count": "13.4K Tweets"
+    "rank": 5,
+    "tweet_count": "13.8K Tweets"
   },
   {
     "name": "Verlierer",
     "query": "Verlierer",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
+  },
+  {
+    "name": "Abstimmungen",
+    "query": "Abstimmungen",
+    "rank": 7,
+    "tweet_count": "1,404 Tweets"
   },
   {
     "name": "Advent",
     "query": "Advent",
     "rank": 8,
-    "tweet_count": "76.8K Tweets"
+    "tweet_count": "79.1K Tweets"
   },
   {
-    "name": "Abstimmungen",
-    "query": "Abstimmungen",
+    "name": "Vorlagen",
+    "query": "Vorlagen",
     "rank": 9,
-    "tweet_count": "1,375 Tweets"
-  },
-  {
-    "name": "vorlagen",
-    "query": "vorlagen",
-    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Stimmbeteiligung",
     "query": "Stimmbeteiligung",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Bundesplatz",
-    "query": "Bundesplatz",
-    "rank": 12,
+    "name": "bundesplatz",
+    "query": "bundesplatz",
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Bundeshaus",
     "query": "Bundeshaus",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "Benfica",
+    "query": "Benfica",
+    "rank": 13,
+    "tweet_count": "76.5K Tweets"
   },
   {
     "name": "Zustimmung",
@@ -84,33 +84,27 @@
     "tweet_count": null
   },
   {
-    "name": "Benfica",
-    "query": "Benfica",
-    "rank": 15,
-    "tweet_count": "76.2K Tweets"
-  },
-  {
     "name": "Danke Schweiz",
     "query": "\"Danke Schweiz\"",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Urne",
-    "query": "Urne",
-    "rank": 17,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Niederlage",
     "query": "Niederlage",
-    "rank": 18,
+    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "Spaltung",
-    "query": "Spaltung",
-    "rank": 19,
-    "tweet_count": "3,174 Tweets"
+    "name": "urne",
+    "query": "urne",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Abstimmungskampf",
+    "query": "Abstimmungskampf",
+    "rank": 18,
+    "tweet_count": null
   }
 ]

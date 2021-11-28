@@ -6,20 +6,20 @@
     "tweet_count": null
   },
   {
+    "name": "Pfizer",
+    "query": "Pfizer",
+    "rank": 2,
+    "tweet_count": "112K Tweets"
+  },
+  {
     "name": "Modernu",
     "query": "Modernu",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Pasaules",
     "query": "Pasaules",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "PSRS",
-    "query": "PSRS",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,7 +27,7 @@
     "name": "Omicron",
     "query": "Omicron",
     "rank": 5,
-    "tweet_count": "1.07M Tweets"
+    "tweet_count": "1.1M Tweets"
   },
   {
     "name": "Skaisti",
@@ -42,16 +42,16 @@
     "tweet_count": null
   },
   {
-    "name": "Pfizer",
-    "query": "Pfizer",
+    "name": "PSRS",
+    "query": "PSRS",
     "rank": 8,
-    "tweet_count": "110K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Spotify",
     "query": "Spotify",
     "rank": 9,
-    "tweet_count": "579K Tweets"
+    "tweet_count": "590K Tweets"
   },
   {
     "name": "#WorldRX",
@@ -60,8 +60,8 @@
     "tweet_count": null
   },
   {
-    "name": "Adventes",
-    "query": "Adventes",
+    "name": "adventes",
+    "query": "adventes",
     "rank": 11,
     "tweet_count": null
   },
@@ -78,44 +78,44 @@
     "tweet_count": null
   },
   {
+    "name": "Cilinski",
+    "query": "Cilinski",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
     "name": "Gustavo",
     "query": "Gustavo",
-    "rank": 14,
-    "tweet_count": "53K Tweets"
+    "rank": 15,
+    "tweet_count": "53.9K Tweets"
   },
   {
     "name": "Latvijai",
     "query": "Latvijai",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "#Riga",
     "query": "#Riga",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "biju",
     "query": "biju",
-    "rank": 17,
-    "tweet_count": "1,648 Tweets"
-  },
-  {
-    "name": "Cilinski",
-    "query": "Cilinski",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "1,693 Tweets"
   },
   {
-    "name": "Katram",
-    "query": "Katram",
+    "name": "katram",
+    "query": "katram",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Vakar",
-    "query": "Vakar",
+    "name": "Saprotu",
+    "query": "Saprotu",
     "rank": 20,
     "tweet_count": null
   }
