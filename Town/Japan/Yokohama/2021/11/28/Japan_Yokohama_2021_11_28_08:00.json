@@ -1,116 +1,122 @@
 [
   {
+    "name": "#BTSARMY",
+    "query": "#BTSARMY",
+    "rank": 1,
+    "tweet_count": "896K Tweets"
+  },
+  {
+    "name": "ブルーム",
+    "query": "ブルーム",
+    "rank": 2,
+    "tweet_count": "11.3K Tweets"
+  },
+  {
     "name": "#zelvia",
     "query": "#zelvia",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
-    "name": "チャンピオン",
-    "query": "チャンピオン",
-    "rank": 2,
-    "tweet_count": "33.5K Tweets"
-  },
-  {
-    "name": "#SC相模原",
-    "query": "#SC相模原",
     "rank": 3,
-    "tweet_count": "1,511 Tweets"
+    "tweet_count": null
   },
   {
     "name": "TOEIC",
     "query": "TOEIC",
     "rank": 4,
-    "tweet_count": "17.3K Tweets"
+    "tweet_count": "17.9K Tweets"
+  },
+  {
+    "name": "チャンミ",
+    "query": "チャンミ",
+    "rank": 5,
+    "tweet_count": "7,151 Tweets"
   },
   {
     "name": "ミーグリ",
     "query": "ミーグリ",
-    "rank": 5,
-    "tweet_count": "13.7K Tweets"
+    "rank": 6,
+    "tweet_count": "14.1K Tweets"
   },
   {
     "name": "#仮面ライダーリバイス",
     "query": "#仮面ライダーリバイス",
-    "rank": 6,
-    "tweet_count": "72.5K Tweets"
+    "rank": 7,
+    "tweet_count": "73.2K Tweets"
   },
   {
     "name": "コントレイル",
     "query": "コントレイル",
-    "rank": 7,
-    "tweet_count": "250K Tweets"
-  },
-  {
-    "name": "#ジャパンカップ",
-    "query": "#ジャパンカップ",
     "rank": 8,
-    "tweet_count": "75K Tweets"
+    "tweet_count": "266K Tweets"
   },
   {
     "name": "#シンデレラ10周年_千葉day2",
     "query": "#シンデレラ10周年_千葉day2",
     "rank": 9,
-    "tweet_count": "15.5K Tweets"
+    "tweet_count": "38K Tweets"
+  },
+  {
+    "name": "#ジャパンカップ",
+    "query": "#ジャパンカップ",
+    "rank": 10,
+    "tweet_count": "77.5K Tweets"
   },
   {
     "name": "サンレイポケット",
     "query": "サンレイポケット",
-    "rank": 10,
-    "tweet_count": "15.2K Tweets"
+    "rank": 11,
+    "tweet_count": "15.5K Tweets"
   },
   {
     "name": "オーソリティ",
     "query": "オーソリティ",
-    "rank": 11,
-    "tweet_count": "38.5K Tweets"
+    "rank": 12,
+    "tweet_count": "39.4K Tweets"
   },
   {
     "name": "シャフリヤール",
     "query": "シャフリヤール",
-    "rank": 12,
-    "tweet_count": "46.8K Tweets"
+    "rank": 13,
+    "tweet_count": "47.9K Tweets"
+  },
+  {
+    "name": "マンネライン",
+    "query": "マンネライン",
+    "rank": 14,
+    "tweet_count": "2,852 Tweets"
   },
   {
     "name": "福永騎手",
     "query": "福永騎手",
-    "rank": 13,
-    "tweet_count": "17.1K Tweets"
+    "rank": 15,
+    "tweet_count": "19.8K Tweets"
   },
   {
     "name": "福永さん",
     "query": "福永さん",
-    "rank": 14,
-    "tweet_count": "7,010 Tweets"
+    "rank": 16,
+    "tweet_count": "7,335 Tweets"
   },
   {
     "name": "トリガミ",
     "query": "トリガミ",
-    "rank": 15,
-    "tweet_count": "1,942 Tweets"
+    "rank": 17,
+    "tweet_count": "2,010 Tweets"
   },
   {
     "name": "エイティーンガール",
     "query": "エイティーンガール",
-    "rank": 16,
-    "tweet_count": "4,110 Tweets"
-  },
-  {
-    "name": "ラストラン",
-    "query": "ラストラン",
-    "rank": 17,
-    "tweet_count": "35.7K Tweets"
-  },
-  {
-    "name": "J1昇格",
-    "query": "J1昇格",
     "rank": 18,
-    "tweet_count": "8,410 Tweets"
+    "tweet_count": "4,300 Tweets"
   },
   {
-    "name": "ジャパンC",
-    "query": "ジャパンC",
+    "name": "全勝優勝",
+    "query": "全勝優勝",
     "rank": 19,
-    "tweet_count": "22.9K Tweets"
+    "tweet_count": "2,521 Tweets"
+  },
+  {
+    "name": "手取り14万",
+    "query": "手取り14万",
+    "rank": 20,
+    "tweet_count": "13.4K Tweets"
   }
 ]
