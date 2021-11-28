@@ -1,39 +1,39 @@
 [
   {
+    "name": "Alonso",
+    "query": "Alonso",
+    "rank": 1,
+    "tweet_count": "35.3K Tweets"
+  },
+  {
     "name": "Ronaldo",
     "query": "Ronaldo",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": "179K Tweets"
   },
   {
-    "name": "Philly",
-    "query": "Philly",
-    "rank": 2,
-    "tweet_count": "23.4K Tweets"
-  },
-  {
-    "name": "mckinney",
-    "query": "mckinney",
+    "name": "Chag Sameach",
+    "query": "\"Chag Sameach\"",
     "rank": 3,
-    "tweet_count": "1,948 Tweets"
+    "tweet_count": "12.5K Tweets"
   },
   {
-    "name": "Saleh",
-    "query": "Saleh",
+    "name": "McKinney",
+    "query": "McKinney",
     "rank": 4,
-    "tweet_count": "13K Tweets"
-  },
-  {
-    "name": "#CHEMUN",
-    "query": "#CHEMUN",
-    "rank": 5,
-    "tweet_count": "182K Tweets"
+    "tweet_count": "2,001 Tweets"
   },
   {
     "name": "#hslotlongisland",
     "query": "#hslotlongisland",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "Saleh",
+    "query": "Saleh",
+    "rank": 6,
+    "tweet_count": "13K Tweets"
   },
   {
     "name": "Austin Walter",
@@ -51,72 +51,72 @@
     "name": "Joe Judge",
     "query": "\"Joe Judge\"",
     "rank": 9,
-    "tweet_count": "2,907 Tweets"
+    "tweet_count": "3,257 Tweets"
+  },
+  {
+    "name": "#CHEMUN",
+    "query": "#CHEMUN",
+    "rank": 10,
+    "tweet_count": "183K Tweets"
   },
   {
     "name": "Freddie Kitchens",
     "query": "\"Freddie Kitchens\"",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "New England",
     "query": "\"New England\"",
-    "rank": 11,
-    "tweet_count": "13.3K Tweets"
-  },
-  {
-    "name": "evan engram",
-    "query": "\"evan engram\"",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "13.5K Tweets"
   },
   {
-    "name": "Barkley",
-    "query": "Barkley",
+    "name": "Evan Engram",
+    "query": "\"Evan Engram\"",
     "rank": 13,
-    "tweet_count": "4,309 Tweets"
-  },
-  {
-    "name": "Kenny Golladay",
-    "query": "\"Kenny Golladay\"",
-    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Saquon",
     "query": "Saquon",
-    "rank": 15,
-    "tweet_count": "3,123 Tweets"
+    "rank": 14,
+    "tweet_count": "3,150 Tweets"
   },
   {
     "name": "Mike White",
     "query": "\"Mike White\"",
+    "rank": 15,
+    "tweet_count": "1,434 Tweets"
+  },
+  {
+    "name": "Broncos",
+    "query": "Broncos",
     "rank": 16,
-    "tweet_count": "1,422 Tweets"
+    "tweet_count": "9,842 Tweets"
+  },
+  {
+    "name": "Barkley",
+    "query": "Barkley",
+    "rank": 17,
+    "tweet_count": "4,345 Tweets"
+  },
+  {
+    "name": "Carrick",
+    "query": "Carrick",
+    "rank": 18,
+    "tweet_count": "72.2K Tweets"
   },
   {
     "name": "Cancer",
     "query": "Cancer",
-    "rank": 17,
-    "tweet_count": "338K Tweets"
-  },
-  {
-    "name": "Virgil Abloh",
-    "query": "\"Virgil Abloh\"",
-    "rank": 18,
-    "tweet_count": "421K Tweets"
-  },
-  {
-    "name": "#TENvsNE",
-    "query": "#TENvsNE",
     "rank": 19,
-    "tweet_count": "8,676 Tweets"
+    "tweet_count": "342K Tweets"
   },
   {
-    "name": "#TENvsNE",
-    "query": "#TENvsNE",
+    "name": "Elijah Moore",
+    "query": "\"Elijah Moore\"",
     "rank": 20,
-    "tweet_count": "8,676 Tweets"
+    "tweet_count": "1,967 Tweets"
   }
 ]
