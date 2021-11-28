@@ -1,56 +1,122 @@
 [
   {
+    "name": "#Omnicron",
+    "query": "#Omnicron",
+    "rank": 1,
+    "tweet_count": "12.9K Tweets"
+  },
+  {
     "name": "#BTSARMY",
     "query": "#BTSARMY",
-    "rank": 1,
-    "tweet_count": "946K Tweets"
+    "rank": 2,
+    "tweet_count": "959K Tweets"
+  },
+  {
+    "name": "Thanksgiving",
+    "query": "Thanksgiving",
+    "rank": 3,
+    "tweet_count": "382K Tweets"
+  },
+  {
+    "name": "Gorton",
+    "query": "Gorton",
+    "rank": 4,
+    "tweet_count": "2,273 Tweets"
+  },
+  {
+    "name": "South Africa",
+    "query": "\"South Africa\"",
+    "rank": 5,
+    "tweet_count": "251K Tweets"
+  },
+  {
+    "name": "#Flames1stGoal",
+    "query": "#Flames1stGoal",
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "Michigan",
+    "query": "Michigan",
+    "rank": 7,
+    "tweet_count": "259K Tweets"
+  },
+  {
+    "name": "#LopezKambososJr",
+    "query": "#LopezKambososJr",
+    "rank": 8,
+    "tweet_count": "35.8K Tweets"
   },
   {
     "name": "Lemieux",
     "query": "Lemieux",
-    "rank": 2,
-    "tweet_count": "4,787 Tweets"
-  },
-  {
-    "name": "Lucic",
-    "query": "Lucic",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "#GoJetsGo",
-    "query": "#GoJetsGo",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "Lopez",
-    "query": "Lopez",
-    "rank": 5,
-    "tweet_count": "110K Tweets"
-  },
-  {
-    "name": "Brady",
-    "query": "Brady",
-    "rank": 6,
-    "tweet_count": "15.9K Tweets"
-  },
-  {
-    "name": "#TriadCombat",
-    "query": "#TriadCombat",
-    "rank": 7,
-    "tweet_count": "5,554 Tweets"
-  },
-  {
-    "name": "sofi",
-    "query": "sofi",
-    "rank": 8,
-    "tweet_count": "370K Tweets"
+    "rank": 9,
+    "tweet_count": "4,805 Tweets"
   },
   {
     "name": "Bergevin",
     "query": "Bergevin",
-    "rank": 9,
-    "tweet_count": "2,333 Tweets"
+    "rank": 10,
+    "tweet_count": "2,335 Tweets"
+  },
+  {
+    "name": "Black Friday",
+    "query": "\"Black Friday\"",
+    "rank": 11,
+    "tweet_count": "444K Tweets"
+  },
+  {
+    "name": "Molson",
+    "query": "Molson",
+    "rank": 12,
+    "tweet_count": "2,264 Tweets"
+  },
+  {
+    "name": "Mellanby",
+    "query": "Mellanby",
+    "rank": 13,
+    "tweet_count": "2,099 Tweets"
+  },
+  {
+    "name": "#GoHabsGo",
+    "query": "#GoHabsGo",
+    "rank": 14,
+    "tweet_count": "4,752 Tweets"
+  },
+  {
+    "name": "Koskinen",
+    "query": "Koskinen",
+    "rank": 15,
+    "tweet_count": "1,242 Tweets"
+  },
+  {
+    "name": "Auburn",
+    "query": "Auburn",
+    "rank": 16,
+    "tweet_count": "99.8K Tweets"
+  },
+  {
+    "name": "Get Back",
+    "query": "\"Get Back\"",
+    "rank": 17,
+    "tweet_count": "181K Tweets"
+  },
+  {
+    "name": "Matt Murray",
+    "query": "\"Matt Murray\"",
+    "rank": 18,
+    "tweet_count": "1,459 Tweets"
+  },
+  {
+    "name": "Stephen Sondheim",
+    "query": "\"Stephen Sondheim\"",
+    "rank": 19,
+    "tweet_count": "46.4K Tweets"
+  },
+  {
+    "name": "jake allen",
+    "query": "\"jake allen\"",
+    "rank": 20,
+    "tweet_count": null
   }
 ]
