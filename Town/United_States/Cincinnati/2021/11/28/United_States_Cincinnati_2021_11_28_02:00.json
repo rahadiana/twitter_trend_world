@@ -1,122 +1,122 @@
 [
   {
-    "name": "Oregon",
-    "query": "Oregon",
+    "name": "Carey",
+    "query": "Carey",
     "rank": 1,
-    "tweet_count": "25.6K Tweets"
+    "tweet_count": "13.7K Tweets"
   },
   {
-    "name": "Cincy",
-    "query": "Cincy",
+    "name": "Buckeye",
+    "query": "Buckeye",
     "rank": 2,
-    "tweet_count": "6,574 Tweets"
+    "tweet_count": "11K Tweets"
+  },
+  {
+    "name": "Oregon",
+    "query": "Oregon",
+    "rank": 3,
+    "tweet_count": "26.2K Tweets"
   },
   {
     "name": "Evan Mobley",
     "query": "\"Evan Mobley\"",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "Cincy",
+    "query": "Cincy",
+    "rank": 5,
+    "tweet_count": "6,771 Tweets"
+  },
+  {
+    "name": "Charlie",
+    "query": "Charlie",
+    "rank": 6,
+    "tweet_count": "67.9K Tweets"
   },
   {
     "name": "Urban",
     "query": "Urban",
-    "rank": 4,
-    "tweet_count": "28.9K Tweets"
+    "rank": 7,
+    "tweet_count": "29.5K Tweets"
   },
   {
     "name": "Big Ten",
     "query": "\"Big Ten\"",
-    "rank": 5,
-    "tweet_count": "15.3K Tweets"
-  },
-  {
-    "name": "#FlashFAST",
-    "query": "#FlashFAST",
-    "rank": 6,
-    "tweet_count": "1,192 Tweets"
+    "rank": 8,
+    "tweet_count": "15.7K Tweets"
   },
   {
     "name": "Defense",
     "query": "Defense",
-    "rank": 7,
-    "tweet_count": "125K Tweets"
+    "rank": 9,
+    "tweet_count": "129K Tweets"
   },
   {
     "name": "Hutchinson",
     "query": "Hutchinson",
-    "rank": 8,
-    "tweet_count": "16.3K Tweets"
+    "rank": 10,
+    "tweet_count": "16.7K Tweets"
   },
   {
     "name": "Auburn",
     "query": "Auburn",
-    "rank": 9,
-    "tweet_count": "90K Tweets"
+    "rank": 11,
+    "tweet_count": "92.2K Tweets"
+  },
+  {
+    "name": "Harden",
+    "query": "Harden",
+    "rank": 12,
+    "tweet_count": "16.7K Tweets"
   },
   {
     "name": "Embiid",
     "query": "Embiid",
-    "rank": 10,
-    "tweet_count": "8,924 Tweets"
-  },
-  {
-    "name": "Sixers",
-    "query": "Sixers",
-    "rank": 11,
-    "tweet_count": "12K Tweets"
-  },
-  {
-    "name": "Michigan",
-    "query": "Michigan",
-    "rank": 12,
-    "tweet_count": "239K Tweets"
-  },
-  {
-    "name": "#MerryLiddleChristmasBaby",
-    "query": "#MerryLiddleChristmasBaby",
     "rank": 13,
-    "tweet_count": "2,553 Tweets"
-  },
-  {
-    "name": "#Bedlam",
-    "query": "#Bedlam",
-    "rank": 14,
-    "tweet_count": "3,237 Tweets"
-  },
-  {
-    "name": "Randle",
-    "query": "Randle",
-    "rank": 15,
-    "tweet_count": "4,143 Tweets"
-  },
-  {
-    "name": "Drummond",
-    "query": "Drummond",
-    "rank": 16,
-    "tweet_count": "3,939 Tweets"
-  },
-  {
-    "name": "#Svengoolie",
-    "query": "#Svengoolie",
-    "rank": 17,
-    "tweet_count": "3,205 Tweets"
-  },
-  {
-    "name": "Will Levis",
-    "query": "\"Will Levis\"",
-    "rank": 18,
-    "tweet_count": "1,827 Tweets"
+    "tweet_count": "10.3K Tweets"
   },
   {
     "name": "#LAMH",
     "query": "#LAMH",
-    "rank": 19,
-    "tweet_count": null
+    "rank": 14,
+    "tweet_count": "2,424 Tweets"
   },
   {
-    "name": "Cunningham",
-    "query": "Cunningham",
+    "name": "#MerryLiddleChristmasBaby",
+    "query": "#MerryLiddleChristmasBaby",
+    "rank": 15,
+    "tweet_count": "3,458 Tweets"
+  },
+  {
+    "name": "Will Levis",
+    "query": "\"Will Levis\"",
+    "rank": 16,
+    "tweet_count": "2,581 Tweets"
+  },
+  {
+    "name": "Michigan",
+    "query": "Michigan",
+    "rank": 17,
+    "tweet_count": "242K Tweets"
+  },
+  {
+    "name": "#FindMyLove",
+    "query": "#FindMyLove",
+    "rank": 18,
+    "tweet_count": "4,653 Tweets"
+  },
+  {
+    "name": "Randle",
+    "query": "Randle",
+    "rank": 19,
+    "tweet_count": "4,489 Tweets"
+  },
+  {
+    "name": "#Svengoolie",
+    "query": "#Svengoolie",
     "rank": 20,
-    "tweet_count": "3,112 Tweets"
+    "tweet_count": "4,094 Tweets"
   }
 ]
