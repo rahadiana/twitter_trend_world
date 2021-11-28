@@ -3,55 +3,55 @@
     "name": "#Omicron",
     "query": "#Omicron",
     "rank": 1,
-    "tweet_count": "212K Tweets"
+    "tweet_count": "213K Tweets"
   },
   {
     "name": "Advent",
     "query": "Advent",
     "rank": 2,
-    "tweet_count": "37.2K Tweets"
-  },
-  {
-    "name": "Schönen 1",
-    "query": "\"Schönen 1\"",
-    "rank": 3,
-    "tweet_count": "7,657 Tweets"
+    "tweet_count": "38.4K Tweets"
   },
   {
     "name": "#Omikron",
     "query": "#Omikron",
-    "rank": 4,
-    "tweet_count": "10.9K Tweets"
+    "rank": 3,
+    "tweet_count": "11K Tweets"
   },
   {
     "name": "Schönen Sonntag",
     "query": "\"Schönen Sonntag\"",
+    "rank": 4,
+    "tweet_count": "1,794 Tweets"
+  },
+  {
+    "name": "Schönen 1",
+    "query": "\"Schönen 1\"",
     "rank": 5,
-    "tweet_count": "1,717 Tweets"
+    "tweet_count": "8,033 Tweets"
   },
   {
     "name": "Schnee",
     "query": "Schnee",
     "rank": 6,
-    "tweet_count": "5,092 Tweets"
+    "tweet_count": "5,154 Tweets"
   },
   {
-    "name": "#schlagdenstar",
-    "query": "#schlagdenstar",
+    "name": "#SchlagdenStar",
+    "query": "#SchlagdenStar",
     "rank": 7,
-    "tweet_count": "3,659 Tweets"
+    "tweet_count": "3,654 Tweets"
   },
   {
     "name": "Variante",
     "query": "Variante",
     "rank": 8,
-    "tweet_count": "267K Tweets"
+    "tweet_count": "268K Tweets"
   },
   {
     "name": "Südafrika",
     "query": "Südafrika",
     "rank": 9,
-    "tweet_count": "16.2K Tweets"
+    "tweet_count": "16.4K Tweets"
   },
   {
     "name": "#engaut",
@@ -63,53 +63,53 @@
     "name": "#B11529",
     "query": "#B11529",
     "rank": 11,
-    "tweet_count": "23.4K Tweets"
+    "tweet_count": "23.6K Tweets"
   },
   {
     "name": "Alphabet",
     "query": "Alphabet",
     "rank": 12,
-    "tweet_count": "48.4K Tweets"
-  },
-  {
-    "name": "Peter",
-    "query": "Peter",
-    "rank": 13,
-    "tweet_count": "102K Tweets"
+    "tweet_count": "48.6K Tweets"
   },
   {
     "name": "Tirol",
     "query": "Tirol",
+    "rank": 13,
+    "tweet_count": "2,749 Tweets"
+  },
+  {
+    "name": "Peter",
+    "query": "Peter",
     "rank": 14,
-    "tweet_count": "2,726 Tweets"
+    "tweet_count": "102K Tweets"
   },
   {
     "name": "Ebola",
     "query": "Ebola",
     "rank": 15,
-    "tweet_count": "12K Tweets"
-  },
-  {
-    "name": "Rechtsschutzbeauftragte",
-    "query": "Rechtsschutzbeauftragte",
-    "rank": 16,
-    "tweet_count": "1,421 Tweets"
-  },
-  {
-    "name": "Schwaz",
-    "query": "Schwaz",
-    "rank": 17,
-    "tweet_count": null
+    "tweet_count": "12.1K Tweets"
   },
   {
     "name": "Mutation",
     "query": "Mutation",
-    "rank": 18,
-    "tweet_count": "23.2K Tweets"
+    "rank": 16,
+    "tweet_count": "23.3K Tweets"
+  },
+  {
+    "name": "Rechtsschutzbeauftragte",
+    "query": "Rechtsschutzbeauftragte",
+    "rank": 17,
+    "tweet_count": "1,431 Tweets"
   },
   {
     "name": "Zadic",
     "query": "Zadic",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "bezirk schwaz",
+    "query": "\"bezirk schwaz\"",
     "rank": 19,
     "tweet_count": null
   },
@@ -117,6 +117,6 @@
     "name": "Mutante",
     "query": "Mutante",
     "rank": 20,
-    "tweet_count": "4,977 Tweets"
+    "tweet_count": "5,001 Tweets"
   }
 ]
