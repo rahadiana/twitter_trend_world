@@ -1,80 +1,98 @@
 [
   {
-    "name": "전기기사",
-    "query": "전기기사",
+    "name": "바디체인",
+    "query": "바디체인",
     "rank": 1,
-    "tweet_count": null
+    "tweet_count": "1,857 Tweets"
+  },
+  {
+    "name": "블랙스완",
+    "query": "블랙스완",
+    "rank": 2,
+    "tweet_count": "7,281 Tweets"
+  },
+  {
+    "name": "티켓 검사",
+    "query": "\"티켓 검사\"",
+    "rank": 3,
+    "tweet_count": "2,178 Tweets"
   },
   {
     "name": "드림캐의 약점",
     "query": "\"드림캐의 약점\"",
-    "rank": 2,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "아주 나쁜 사람들",
     "query": "\"아주 나쁜 사람들\"",
-    "rank": 3,
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "전기기사",
+    "query": "전기기사",
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "#도블도블",
     "query": "#도블도블",
-    "rank": 4,
+    "rank": 7,
     "tweet_count": null
-  },
-  {
-    "name": "우리 지민",
-    "query": "\"우리 지민\"",
-    "rank": 5,
-    "tweet_count": "3,250 Tweets"
   },
   {
     "name": "스트리밍",
     "query": "스트리밍",
-    "rank": 6,
-    "tweet_count": "18.7K Tweets"
+    "rank": 8,
+    "tweet_count": "20.1K Tweets"
   },
   {
-    "name": "첫콘 중계",
-    "query": "\"첫콘 중계\"",
-    "rank": 7,
-    "tweet_count": "11.4K Tweets"
+    "name": "우리 지민",
+    "query": "\"우리 지민\"",
+    "rank": 9,
+    "tweet_count": "3,555 Tweets"
   },
   {
     "name": "롯데월드",
     "query": "롯데월드",
-    "rank": 8,
-    "tweet_count": "4,157 Tweets"
+    "rank": 10,
+    "tweet_count": "4,278 Tweets"
   },
   {
     "name": "#BTSARMY",
     "query": "#BTSARMY",
-    "rank": 9,
-    "tweet_count": "475K Tweets"
+    "rank": 11,
+    "tweet_count": "504K Tweets"
+  },
+  {
+    "name": "첫콘 중계",
+    "query": "\"첫콘 중계\"",
+    "rank": 12,
+    "tweet_count": "11.8K Tweets"
   },
   {
     "name": "신기방기 뿡뿡방기",
     "query": "\"신기방기 뿡뿡방기\"",
-    "rank": 10,
-    "tweet_count": "13.7K Tweets"
-  },
-  {
-    "name": "#AB6IX_방해금지모드",
-    "query": "#AB6IX_방해금지모드",
-    "rank": 11,
-    "tweet_count": "2,103 Tweets"
-  },
-  {
-    "name": "오미크론",
-    "query": "오미크론",
-    "rank": 12,
-    "tweet_count": "6,505 Tweets"
+    "rank": 13,
+    "tweet_count": "15K Tweets"
   },
   {
     "name": "남돌 랜덤",
     "query": "\"남돌 랜덤\"",
-    "rank": 13,
-    "tweet_count": "1,711 Tweets"
+    "rank": 14,
+    "tweet_count": "1,850 Tweets"
+  },
+  {
+    "name": "#AB6IX_방해금지모드",
+    "query": "#AB6IX_방해금지모드",
+    "rank": 15,
+    "tweet_count": "2,201 Tweets"
+  },
+  {
+    "name": "오미크론",
+    "query": "오미크론",
+    "rank": 16,
+    "tweet_count": "6,655 Tweets"
   }
 ]

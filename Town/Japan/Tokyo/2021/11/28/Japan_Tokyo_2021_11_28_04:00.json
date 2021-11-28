@@ -1,39 +1,39 @@
 [
   {
-    "name": "#日本シリーズ",
-    "query": "#日本シリーズ",
-    "rank": 1,
-    "tweet_count": "149K Tweets"
-  },
-  {
     "name": "ヤクルト",
     "query": "ヤクルト",
+    "rank": 1,
+    "tweet_count": "336K Tweets"
+  },
+  {
+    "name": "#日本シリーズ",
+    "query": "#日本シリーズ",
     "rank": 2,
-    "tweet_count": "334K Tweets"
+    "tweet_count": "149K Tweets"
   },
   {
     "name": "#都市対抗野球",
     "query": "#都市対抗野球",
     "rank": 3,
-    "tweet_count": "2,585 Tweets"
+    "tweet_count": "2,791 Tweets"
   },
   {
-    "name": "感染確認",
-    "query": "感染確認",
+    "name": "張本さん",
+    "query": "張本さん",
     "rank": 4,
-    "tweet_count": "18.2K Tweets"
+    "tweet_count": "3,276 Tweets"
   },
   {
     "name": "Honda",
     "query": "Honda",
     "rank": 5,
-    "tweet_count": "22.3K Tweets"
+    "tweet_count": "23K Tweets"
   },
   {
-    "name": "#ミスDJ",
-    "query": "#ミスDJ",
+    "name": "#武田真治",
+    "query": "#武田真治",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "11.2K Tweets"
   },
   {
     "name": "#サンジャポ",
@@ -42,81 +42,75 @@
     "tweet_count": null
   },
   {
-    "name": "#地域CL",
-    "query": "#地域CL",
-    "rank": 8,
-    "tweet_count": "1,242 Tweets"
-  },
-  {
     "name": "東京6R",
     "query": "東京6R",
-    "rank": 9,
-    "tweet_count": "1,748 Tweets"
-  },
-  {
-    "name": "ダイコンワルド",
-    "query": "ダイコンワルド",
-    "rank": 10,
-    "tweet_count": "5,001 Tweets"
-  },
-  {
-    "name": "雲ひとつ",
-    "query": "雲ひとつ",
-    "rank": 11,
-    "tweet_count": "2,050 Tweets"
+    "rank": 8,
+    "tweet_count": "1,943 Tweets"
   },
   {
     "name": "アリストテレス",
     "query": "アリストテレス",
-    "rank": 12,
-    "tweet_count": "5,838 Tweets"
+    "rank": 9,
+    "tweet_count": "6,133 Tweets"
   },
   {
-    "name": "ブルーン",
-    "query": "ブルーン",
+    "name": "盆と正月",
+    "query": "盆と正月",
+    "rank": 10,
+    "tweet_count": "6,176 Tweets"
+  },
+  {
+    "name": "感染確認",
+    "query": "感染確認",
+    "rank": 11,
+    "tweet_count": "18.6K Tweets"
+  },
+  {
+    "name": "男性死亡",
+    "query": "男性死亡",
+    "rank": 12,
+    "tweet_count": "3,447 Tweets"
+  },
+  {
+    "name": "雲ひとつ",
+    "query": "雲ひとつ",
     "rank": 13,
-    "tweet_count": "2,846 Tweets"
+    "tweet_count": "2,171 Tweets"
   },
   {
     "name": "シヴァージ",
     "query": "シヴァージ",
     "rank": 14,
-    "tweet_count": "1,002 Tweets"
+    "tweet_count": "1,080 Tweets"
   },
   {
-    "name": "変異株命名",
-    "query": "変異株命名",
+    "name": "エーステ",
+    "query": "エーステ",
     "rank": 15,
-    "tweet_count": "6,199 Tweets"
+    "tweet_count": "2,086 Tweets"
   },
   {
-    "name": "男性死亡",
-    "query": "男性死亡",
+    "name": "水着マルゼン",
+    "query": "水着マルゼン",
     "rank": 16,
-    "tweet_count": "3,041 Tweets"
+    "tweet_count": null
   },
   {
     "name": "トルライ",
     "query": "トルライ",
     "rank": 17,
-    "tweet_count": "1,819 Tweets"
+    "tweet_count": "2,074 Tweets"
   },
   {
-    "name": "ジャパンC",
-    "query": "ジャパンC",
+    "name": "りゅちぇドラマ",
+    "query": "りゅちぇドラマ",
     "rank": 18,
-    "tweet_count": "13.5K Tweets"
+    "tweet_count": "1,985 Tweets"
   },
   {
-    "name": "米FOX",
-    "query": "米FOX",
+    "name": "SSRチケ",
+    "query": "SSRチケ",
     "rank": 19,
-    "tweet_count": "2,823 Tweets"
-  },
-  {
-    "name": "アギレラ様",
-    "query": "アギレラ様",
-    "rank": 20,
-    "tweet_count": "5,887 Tweets"
+    "tweet_count": null
   }
 ]
