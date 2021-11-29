@@ -3,13 +3,13 @@
     "name": "Omicron",
     "query": "Omicron",
     "rank": 1,
-    "tweet_count": "1.14M Tweets"
+    "tweet_count": "1.16M Tweets"
   },
   {
     "name": "Orange",
     "query": "Orange",
     "rank": 2,
-    "tweet_count": "90.1K Tweets"
+    "tweet_count": "91.5K Tweets"
   },
   {
     "name": "Will Somerville",
@@ -21,31 +21,31 @@
     "name": "Virgil",
     "query": "Virgil",
     "rank": 4,
-    "tweet_count": "969K Tweets"
+    "tweet_count": "975K Tweets"
   },
   {
     "name": "Simeon",
     "query": "Simeon",
     "rank": 5,
-    "tweet_count": "1,651 Tweets"
-  },
-  {
-    "name": "#CHEMUN",
-    "query": "#CHEMUN",
-    "rank": 6,
-    "tweet_count": "186K Tweets"
+    "tweet_count": "1,685 Tweets"
   },
   {
     "name": "#INDvsNZTestSeries",
     "query": "#INDvsNZTestSeries",
+    "rank": 6,
+    "tweet_count": "1,675 Tweets"
+  },
+  {
+    "name": "#CHEMUN",
+    "query": "#CHEMUN",
     "rank": 7,
-    "tweet_count": "1,537 Tweets"
+    "tweet_count": "187K Tweets"
   },
   {
     "name": "South Island",
     "query": "\"South Island\"",
     "rank": 8,
-    "tweet_count": "1,538 Tweets"
+    "tweet_count": "1,559 Tweets"
   },
   {
     "name": "Bolger",
@@ -54,20 +54,20 @@
     "tweet_count": null
   },
   {
+    "name": "Luxon",
+    "query": "Luxon",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
     "name": "Rhythm and Vines",
     "query": "\"Rhythm and Vines\"",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Glen Eden",
     "query": "\"Glen Eden\"",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Luxon",
-    "query": "Luxon",
     "rank": 12,
     "tweet_count": null
   },
@@ -81,31 +81,31 @@
     "name": "Jason",
     "query": "Jason",
     "rank": 14,
-    "tweet_count": "41.4K Tweets"
+    "tweet_count": "41.8K Tweets"
   },
   {
-    "name": "Green",
-    "query": "Green",
+    "name": "#BTSARMY",
+    "query": "#BTSARMY",
     "rank": 15,
-    "tweet_count": "252K Tweets"
-  },
-  {
-    "name": "MEGAN",
-    "query": "MEGAN",
-    "rank": 16,
-    "tweet_count": "935K Tweets"
+    "tweet_count": "707K Tweets"
   },
   {
     "name": "#freeread",
     "query": "#freeread",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "kindleunlimited",
     "query": "kindleunlimited",
+    "rank": 17,
+    "tweet_count": "8,886 Tweets"
+  },
+  {
+    "name": "Aotearoa New Zealand",
+    "query": "\"Aotearoa New Zealand\"",
     "rank": 18,
-    "tweet_count": "8,775 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Aucklanders",
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "Beatles",
-    "query": "Beatles",
+    "name": "Privacy Act",
+    "query": "\"Privacy Act\"",
     "rank": 20,
-    "tweet_count": "43.4K Tweets"
+    "tweet_count": null
   }
 ]
