@@ -1,15 +1,15 @@
 [
   {
-    "name": "#MeToo",
-    "query": "#MeToo",
-    "rank": 1,
-    "tweet_count": "4,469 Tweets"
-  },
-  {
     "name": "#bifrfc",
     "query": "#bifrfc",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#MeToo",
+    "query": "#MeToo",
+    "rank": 2,
+    "tweet_count": "4,520 Tweets"
   },
   {
     "name": "#aabfck",
@@ -69,25 +69,25 @@
     "name": "Sancho",
     "query": "Sancho",
     "rank": 12,
-    "tweet_count": "99.8K Tweets"
+    "tweet_count": "100K Tweets"
   },
   {
     "name": "Omicron",
     "query": "Omicron",
     "rank": 13,
-    "tweet_count": "1.17M Tweets"
+    "tweet_count": "1.18M Tweets"
   },
   {
     "name": "TV 2",
     "query": "\"TV 2\"",
     "rank": 14,
-    "tweet_count": "58.7K Tweets"
+    "tweet_count": "59.2K Tweets"
   },
   {
     "name": "Virgil Abloh",
     "query": "\"Virgil Abloh\"",
     "rank": 15,
-    "tweet_count": "773K Tweets"
+    "tweet_count": "775K Tweets"
   },
   {
     "name": "Mads Hermansen",
@@ -99,7 +99,7 @@
     "name": "Astralis",
     "query": "Astralis",
     "rank": 17,
-    "tweet_count": "1,981 Tweets"
+    "tweet_count": "1,989 Tweets"
   },
   {
     "name": "glædelig 1",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "Thorup",
-    "query": "Thorup",
+    "name": "Ekstra Bladet",
+    "query": "\"Ekstra Bladet\"",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Xbox",
-    "query": "Xbox",
+    "name": "Thorup",
+    "query": "Thorup",
     "rank": 20,
-    "tweet_count": "60.3K Tweets"
+    "tweet_count": null
   }
 ]
