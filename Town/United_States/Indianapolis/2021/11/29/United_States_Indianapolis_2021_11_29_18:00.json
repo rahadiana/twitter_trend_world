@@ -1,80 +1,80 @@
 [
   {
+    "name": "Omicron",
+    "query": "Omicron",
+    "rank": 1,
+    "tweet_count": "1.23M Tweets"
+  },
+  {
     "name": "#CyberMonday",
     "query": "#CyberMonday",
-    "rank": 1,
-    "tweet_count": "76.5K Tweets"
+    "rank": 2,
+    "tweet_count": "80.1K Tweets"
   },
   {
     "name": "Mets",
     "query": "Mets",
-    "rank": 2,
-    "tweet_count": "103K Tweets"
-  },
-  {
-    "name": "Jack Dorsey",
-    "query": "\"Jack Dorsey\"",
     "rank": 3,
-    "tweet_count": "91.6K Tweets"
-  },
-  {
-    "name": "#GivingTuesday",
-    "query": "#GivingTuesday",
-    "rank": 4,
-    "tweet_count": "17.4K Tweets"
+    "tweet_count": "108K Tweets"
   },
   {
     "name": "Kemba",
     "query": "Kemba",
+    "rank": 4,
+    "tweet_count": "6,684 Tweets"
+  },
+  {
+    "name": "Jack Dorsey",
+    "query": "\"Jack Dorsey\"",
     "rank": 5,
-    "tweet_count": "4,269 Tweets"
+    "tweet_count": "96.9K Tweets"
+  },
+  {
+    "name": "#GivingTuesday",
+    "query": "#GivingTuesday",
+    "rank": 6,
+    "tweet_count": "18.4K Tweets"
   },
   {
     "name": "#MondayMotivation",
     "query": "#MondayMotivation",
-    "rank": 6,
-    "tweet_count": "89.7K Tweets"
+    "rank": 7,
+    "tweet_count": "90.7K Tweets"
   },
   {
     "name": "Lee Elder",
     "query": "\"Lee Elder\"",
-    "rank": 7,
-    "tweet_count": "8,467 Tweets"
+    "rank": 8,
+    "tweet_count": "9,385 Tweets"
   },
   {
-    "name": "Spider-Man",
-    "query": "Spider-Man",
-    "rank": 8,
-    "tweet_count": "133K Tweets"
+    "name": "Spencer Rattler",
+    "query": "\"Spencer Rattler\"",
+    "rank": 9,
+    "tweet_count": "4,244 Tweets"
   },
   {
     "name": "Dodgers",
     "query": "Dodgers",
-    "rank": 9,
-    "tweet_count": "14.5K Tweets"
+    "rank": 10,
+    "tweet_count": "15.4K Tweets"
+  },
+  {
+    "name": "Tom Holland",
+    "query": "\"Tom Holland\"",
+    "rank": 11,
+    "tweet_count": "47.4K Tweets"
   },
   {
     "name": "Magic Mike",
     "query": "\"Magic Mike\"",
-    "rank": 10,
-    "tweet_count": "1,548 Tweets"
-  },
-  {
-    "name": "Quavo",
-    "query": "Quavo",
-    "rank": 11,
-    "tweet_count": "17K Tweets"
-  },
-  {
-    "name": "GETTR",
-    "query": "GETTR",
     "rank": 12,
-    "tweet_count": "18.4K Tweets"
+    "tweet_count": "1,972 Tweets"
   },
   {
     "name": "Ben Wallace",
     "query": "\"Ben Wallace\"",
     "rank": 13,
-    "tweet_count": "3,355 Tweets"
+    "tweet_count": "3,718 Tweets"
   }
 ]

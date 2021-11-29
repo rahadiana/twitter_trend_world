@@ -6,14 +6,14 @@
     "tweet_count": null
   },
   {
-    "name": "Jönköping",
-    "query": "Jönköping",
+    "name": "Rogic",
+    "query": "Rogic",
     "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "Rogic",
-    "query": "Rogic",
+    "name": "Kakabaveh",
+    "query": "Kakabaveh",
     "rank": 3,
     "tweet_count": null
   },
@@ -24,8 +24,8 @@
     "tweet_count": null
   },
   {
-    "name": "Kakabaveh",
-    "query": "Kakabaveh",
+    "name": "Jönköping",
+    "query": "Jönköping",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,7 +33,7 @@
     "name": "Åkesson",
     "query": "Åkesson",
     "rank": 6,
-    "tweet_count": "1,419 Tweets"
+    "tweet_count": "1,521 Tweets"
   },
   {
     "name": "Truls",
@@ -42,34 +42,34 @@
     "tweet_count": null
   },
   {
-    "name": "varberg",
-    "query": "varberg",
+    "name": "Kurder",
+    "query": "Kurder",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Kurd",
-    "query": "Kurd",
+    "name": "Varberg",
+    "query": "Varberg",
     "rank": 9,
-    "tweet_count": "4,353 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Elfsborg",
+    "query": "Elfsborg",
+    "rank": 10,
+    "tweet_count": null
   },
   {
     "name": "Ringhals",
     "query": "Ringhals",
-    "rank": 10,
-    "tweet_count": "1,598 Tweets"
-  },
-  {
-    "name": "Magdalena Andersson",
-    "query": "\"Magdalena Andersson\"",
     "rank": 11,
-    "tweet_count": "4,191 Tweets"
+    "tweet_count": "1,638 Tweets"
   },
   {
     "name": "Nyans",
     "query": "Nyans",
     "rank": 12,
-    "tweet_count": "1,315 Tweets"
+    "tweet_count": "1,326 Tweets"
   },
   {
     "name": "VM-final",
@@ -78,45 +78,45 @@
     "tweet_count": null
   },
   {
-    "name": "Jack",
-    "query": "Jack",
-    "rank": 14,
-    "tweet_count": "378K Tweets"
-  },
-  {
     "name": "#BallonDor",
     "query": "#BallonDor",
-    "rank": 15,
-    "tweet_count": "173K Tweets"
-  },
-  {
-    "name": "Elfsborg",
-    "query": "Elfsborg",
-    "rank": 16,
-    "tweet_count": null
+    "rank": 14,
+    "tweet_count": "195K Tweets"
   },
   {
     "name": "Omicron",
     "query": "Omicron",
-    "rank": 17,
-    "tweet_count": "1.2M Tweets"
+    "rank": 15,
+    "tweet_count": "1.23M Tweets"
   },
   {
     "name": "Vattenfall",
     "query": "Vattenfall",
-    "rank": 18,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Agenda",
     "query": "Agenda",
-    "rank": 19,
-    "tweet_count": "111K Tweets"
+    "rank": 17,
+    "tweet_count": "114K Tweets"
   },
   {
     "name": "#CHEMUN",
     "query": "#CHEMUN",
+    "rank": 18,
+    "tweet_count": "50.5K Tweets"
+  },
+  {
+    "name": "Magdalena Andersson",
+    "query": "\"Magdalena Andersson\"",
+    "rank": 19,
+    "tweet_count": "4,325 Tweets"
+  },
+  {
+    "name": "Ygeman",
+    "query": "Ygeman",
     "rank": 20,
-    "tweet_count": "50.2K Tweets"
+    "tweet_count": "1,001 Tweets"
   }
 ]
