@@ -3,35 +3,35 @@
     "name": "#DOGEorTesla",
     "query": "#DOGEorTesla",
     "rank": 1,
-    "tweet_count": "59.9K Tweets"
+    "tweet_count": "63K Tweets"
   },
   {
-    "name": "Meilleure VF",
-    "query": "\"Meilleure VF\"",
+    "name": "#BallonDor",
+    "query": "#BallonDor",
     "rank": 2,
+    "tweet_count": "72K Tweets"
+  },
+  {
+    "name": "Pire VF",
+    "query": "\"Pire VF\"",
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Dernière VF",
     "query": "\"Dernière VF\"",
-    "rank": 3,
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "meilleure vf",
+    "query": "\"meilleure vf\"",
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Mauvaise VF",
     "query": "\"Mauvaise VF\"",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "Pire VF",
-    "query": "\"Pire VF\"",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Prochaine VF",
-    "query": "\"Prochaine VF\"",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,57 +42,63 @@
     "tweet_count": null
   },
   {
-    "name": "Camp Nou",
-    "query": "\"Camp Nou\"",
+    "name": "Prochaine VF",
+    "query": "\"Prochaine VF\"",
     "rank": 8,
-    "tweet_count": "5,271 Tweets"
-  },
-  {
-    "name": "Cyber Monday",
-    "query": "\"Cyber Monday\"",
-    "rank": 9,
-    "tweet_count": "130K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Benzema",
     "query": "Benzema",
+    "rank": 9,
+    "tweet_count": "96.7K Tweets"
+  },
+  {
+    "name": "Camp Nou",
+    "query": "\"Camp Nou\"",
     "rank": 10,
-    "tweet_count": "95.7K Tweets"
+    "tweet_count": "5,395 Tweets"
   },
   {
     "name": "Anfield",
     "query": "Anfield",
     "rank": 11,
-    "tweet_count": "5,866 Tweets"
+    "tweet_count": "5,925 Tweets"
   },
   {
     "name": "Joséphine Baker",
     "query": "\"Joséphine Baker\"",
     "rank": 12,
-    "tweet_count": "10.6K Tweets"
+    "tweet_count": "10.8K Tweets"
   },
   {
     "name": "Bayrou",
     "query": "Bayrou",
     "rank": 13,
-    "tweet_count": "6,549 Tweets"
+    "tweet_count": "6,632 Tweets"
+  },
+  {
+    "name": "Panthéon",
+    "query": "Panthéon",
+    "rank": 14,
+    "tweet_count": "10K Tweets"
   },
   {
     "name": "Christmas EveL",
     "query": "\"Christmas EveL\"",
-    "rank": 14,
-    "tweet_count": "545K Tweets"
-  },
-  {
-    "name": "Rokhaya Diallo",
-    "query": "\"Rokhaya Diallo\"",
     "rank": 15,
-    "tweet_count": "2,137 Tweets"
+    "tweet_count": "549K Tweets"
   },
   {
     "name": "Bleach",
     "query": "Bleach",
     "rank": 16,
-    "tweet_count": "66.2K Tweets"
+    "tweet_count": "66.7K Tweets"
+  },
+  {
+    "name": "Jacques Chirac",
+    "query": "\"Jacques Chirac\"",
+    "rank": 17,
+    "tweet_count": "1,327 Tweets"
   }
 ]

@@ -1,45 +1,45 @@
 [
   {
-    "name": "Messi",
-    "query": "Messi",
+    "name": "#BallonDor",
+    "query": "#BallonDor",
     "rank": 1,
-    "tweet_count": "276K Tweets"
+    "tweet_count": "72K Tweets"
   },
   {
     "name": "#DOGEorTesla",
     "query": "#DOGEorTesla",
     "rank": 2,
-    "tweet_count": "59.7K Tweets"
+    "tweet_count": "63K Tweets"
   },
   {
     "name": "#SpiderManNoWayHome",
     "query": "#SpiderManNoWayHome",
     "rank": 3,
-    "tweet_count": "169K Tweets"
-  },
-  {
-    "name": "Copa America",
-    "query": "\"Copa America\"",
-    "rank": 4,
-    "tweet_count": "14.7K Tweets"
+    "tweet_count": "172K Tweets"
   },
   {
     "name": "Botswany",
     "query": "Botswany",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Od 1",
     "query": "\"Od 1\"",
+    "rank": 5,
+    "tweet_count": "31.6K Tweets"
+  },
+  {
+    "name": "Copa America",
+    "query": "\"Copa America\"",
     "rank": 6,
-    "tweet_count": "31.2K Tweets"
+    "tweet_count": "15.3K Tweets"
   },
   {
     "name": "Lewy",
     "query": "Lewy",
     "rank": 7,
-    "tweet_count": "18.4K Tweets"
+    "tweet_count": "18.9K Tweets"
   },
   {
     "name": "Schengen",
@@ -48,16 +48,16 @@
     "tweet_count": null
   },
   {
-    "name": "Omikron",
-    "query": "Omikron",
-    "rank": 9,
-    "tweet_count": "35.1K Tweets"
-  },
-  {
     "name": "Złotą Piłkę",
     "query": "\"Złotą Piłkę\"",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
+  },
+  {
+    "name": "Omikron",
+    "query": "Omikron",
+    "rank": 10,
+    "tweet_count": "35.6K Tweets"
   },
   {
     "name": "Lewego",
@@ -66,39 +66,39 @@
     "tweet_count": null
   },
   {
-    "name": "Złotej Piłki",
-    "query": "\"Złotej Piłki\"",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
     "name": "#CyberMonday",
     "query": "#CyberMonday",
+    "rank": 12,
+    "tweet_count": "54.5K Tweets"
+  },
+  {
+    "name": "Złotej Piłki",
+    "query": "\"Złotej Piłki\"",
     "rank": 13,
-    "tweet_count": "52.6K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Mejzy",
     "query": "Mejzy",
     "rank": 14,
-    "tweet_count": "6,948 Tweets"
-  },
-  {
-    "name": "#ChristmasEveL",
-    "query": "#ChristmasEveL",
-    "rank": 15,
-    "tweet_count": "293K Tweets"
+    "tweet_count": "7,043 Tweets"
   },
   {
     "name": "Afryki",
     "query": "Afryki",
-    "rank": 16,
-    "tweet_count": "1,164 Tweets"
+    "rank": 15,
+    "tweet_count": "1,185 Tweets"
   },
   {
     "name": "Rydzyka",
     "query": "Rydzyka",
+    "rank": 16,
+    "tweet_count": "1,021 Tweets"
+  },
+  {
+    "name": "#ChristmasEveL",
+    "query": "#ChristmasEveL",
     "rank": 17,
-    "tweet_count": "1,011 Tweets"
+    "tweet_count": "295K Tweets"
   }
 ]
