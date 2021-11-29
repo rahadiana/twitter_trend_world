@@ -1,31 +1,31 @@
 [
   {
-    "name": "#OMESTAC",
-    "query": "#OMESTAC",
+    "name": "#omestac",
+    "query": "#omestac",
     "rank": 1,
-    "tweet_count": "12.8K Tweets"
+    "tweet_count": "12.9K Tweets"
   },
   {
     "name": "#DOGEorTesla",
     "query": "#DOGEorTesla",
     "rank": 2,
-    "tweet_count": "29.4K Tweets"
-  },
-  {
-    "name": "Dernière VF",
-    "query": "\"Dernière VF\"",
-    "rank": 3,
-    "tweet_count": null
+    "tweet_count": "40.4K Tweets"
   },
   {
     "name": "#BallonDor",
     "query": "#BallonDor",
-    "rank": 4,
-    "tweet_count": "53.7K Tweets"
+    "rank": 3,
+    "tweet_count": "57K Tweets"
   },
   {
     "name": "Meilleure VF",
     "query": "\"Meilleure VF\"",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "Dernière VF",
+    "query": "\"Dernière VF\"",
     "rank": 5,
     "tweet_count": null
   },
@@ -42,14 +42,14 @@
     "tweet_count": null
   },
   {
-    "name": "Sortie VF",
-    "query": "\"Sortie VF\"",
+    "name": "Mauvaise VF",
+    "query": "\"Mauvaise VF\"",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Mauvaise VF",
-    "query": "\"Mauvaise VF\"",
+    "name": "Sortie VF",
+    "query": "\"Sortie VF\"",
     "rank": 9,
     "tweet_count": null
   },
