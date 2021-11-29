@@ -1,39 +1,39 @@
 [
   {
-    "name": "#ItsBudTime",
-    "query": "#ItsBudTime",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#BallonDor",
     "query": "#BallonDor",
-    "rank": 2,
-    "tweet_count": "1.08M Tweets"
+    "rank": 1,
+    "tweet_count": "1.09M Tweets"
   },
   {
     "name": "DeBrusk",
     "query": "DeBrusk",
-    "rank": 3,
-    "tweet_count": "1,311 Tweets"
+    "rank": 2,
+    "tweet_count": "1,455 Tweets"
   },
   {
     "name": "#Timbiebs",
     "query": "#Timbiebs",
-    "rank": 4,
-    "tweet_count": "8,304 Tweets"
+    "rank": 3,
+    "tweet_count": "8,366 Tweets"
   },
   {
     "name": "Seattle",
     "query": "Seattle",
-    "rank": 5,
-    "tweet_count": "23.2K Tweets"
+    "rank": 4,
+    "tweet_count": "23.6K Tweets"
   },
   {
     "name": "Seager",
     "query": "Seager",
+    "rank": 5,
+    "tweet_count": "37K Tweets"
+  },
+  {
+    "name": "Seahawks",
+    "query": "Seahawks",
     "rank": 6,
-    "tweet_count": "36.5K Tweets"
+    "tweet_count": "11.8K Tweets"
   },
   {
     "name": "Gausman",
@@ -42,81 +42,81 @@
     "tweet_count": "20.2K Tweets"
   },
   {
-    "name": "Marchand",
-    "query": "Marchand",
-    "rank": 8,
-    "tweet_count": "6,114 Tweets"
-  },
-  {
-    "name": "Seahawks",
-    "query": "Seahawks",
-    "rank": 9,
-    "tweet_count": "11.6K Tweets"
-  },
-  {
-    "name": "Mariners",
-    "query": "Mariners",
-    "rank": 10,
-    "tweet_count": "18.5K Tweets"
-  },
-  {
     "name": "#GivingTuesday",
     "query": "#GivingTuesday",
-    "rank": 11,
-    "tweet_count": "29.1K Tweets"
+    "rank": 8,
+    "tweet_count": "29.5K Tweets"
   },
   {
     "name": "#Flames1stGoal",
     "query": "#Flames1stGoal",
-    "rank": 12,
+    "rank": 9,
     "tweet_count": null
+  },
+  {
+    "name": "#BalondeOro",
+    "query": "#BalondeOro",
+    "rank": 10,
+    "tweet_count": "131K Tweets"
+  },
+  {
+    "name": "Justin Bieber",
+    "query": "\"Justin Bieber\"",
+    "rank": 11,
+    "tweet_count": "20.5K Tweets"
   },
   {
     "name": "Tom Holland",
     "query": "\"Tom Holland\"",
-    "rank": 13,
-    "tweet_count": "113K Tweets"
-  },
-  {
-    "name": "Bieber",
-    "query": "Bieber",
-    "rank": 14,
-    "tweet_count": "24.6K Tweets"
+    "rank": 12,
+    "tweet_count": "115K Tweets"
   },
   {
     "name": "Pete Walker",
     "query": "\"Pete Walker\"",
-    "rank": 15,
+    "rank": 13,
     "tweet_count": null
+  },
+  {
+    "name": "Boebert",
+    "query": "Boebert",
+    "rank": 14,
+    "tweet_count": "68K Tweets"
+  },
+  {
+    "name": "Kemba",
+    "query": "Kemba",
+    "rank": 15,
+    "tweet_count": "14.8K Tweets"
   },
   {
     "name": "Cy Young",
     "query": "\"Cy Young\"",
     "rank": 16,
-    "tweet_count": "8,042 Tweets"
-  },
-  {
-    "name": "Boebert",
-    "query": "Boebert",
-    "rank": 17,
-    "tweet_count": "66K Tweets"
-  },
-  {
-    "name": "Kemba",
-    "query": "Kemba",
-    "rank": 18,
-    "tweet_count": "14.6K Tweets"
+    "tweet_count": "8,091 Tweets"
   },
   {
     "name": "Jack Dorsey",
     "query": "\"Jack Dorsey\"",
-    "rank": 19,
-    "tweet_count": "132K Tweets"
+    "rank": 17,
+    "tweet_count": "133K Tweets"
+  },
+  {
+    "name": "Epstein",
+    "query": "Epstein",
+    "rank": 18,
+    "tweet_count": "134K Tweets"
   },
   {
     "name": "Barbados",
     "query": "Barbados",
+    "rank": 19,
+    "tweet_count": "49.7K Tweets"
+  },
+  {
+    "name": "Oasis",
+    "query": "Oasis",
     "rank": 20,
-    "tweet_count": "49.1K Tweets"
+    "tweet_count": "18.9K Tweets"
   }
 ]
