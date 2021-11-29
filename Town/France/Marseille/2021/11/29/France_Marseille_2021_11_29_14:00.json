@@ -1,7 +1,7 @@
 [
   {
-    "name": "#omestac",
-    "query": "#omestac",
+    "name": "#OMESTAC",
+    "query": "#OMESTAC",
     "rank": 1,
     "tweet_count": "12.9K Tweets"
   },
@@ -9,19 +9,19 @@
     "name": "#DOGEorTesla",
     "query": "#DOGEorTesla",
     "rank": 2,
-    "tweet_count": "40.4K Tweets"
+    "tweet_count": "43.4K Tweets"
+  },
+  {
+    "name": "#Binance",
+    "query": "#Binance",
+    "rank": 3,
+    "tweet_count": "139K Tweets"
   },
   {
     "name": "#BallonDor",
     "query": "#BallonDor",
-    "rank": 3,
-    "tweet_count": "57K Tweets"
-  },
-  {
-    "name": "Meilleure VF",
-    "query": "\"Meilleure VF\"",
     "rank": 4,
-    "tweet_count": null
+    "tweet_count": "58.4K Tweets"
   },
   {
     "name": "Dernière VF",
@@ -36,8 +36,8 @@
     "tweet_count": null
   },
   {
-    "name": "Prochaine VF",
-    "query": "\"Prochaine VF\"",
+    "name": "Meilleure VF",
+    "query": "\"Meilleure VF\"",
     "rank": 7,
     "tweet_count": null
   },
@@ -48,14 +48,14 @@
     "tweet_count": null
   },
   {
-    "name": "Sortie VF",
-    "query": "\"Sortie VF\"",
+    "name": "Prochaine VF",
+    "query": "\"Prochaine VF\"",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "#midinews",
-    "query": "#midinews",
+    "name": "Sortie VF",
+    "query": "\"Sortie VF\"",
     "rank": 10,
     "tweet_count": null
   }
