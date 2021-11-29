@@ -1,21 +1,21 @@
 [
   {
-    "name": "#BallonDor",
-    "query": "#BallonDor",
-    "rank": 1,
-    "tweet_count": "1.03M Tweets"
-  },
-  {
     "name": "Omicron",
     "query": "Omicron",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "1.24M Tweets"
+  },
+  {
+    "name": "#BallonDor",
+    "query": "#BallonDor",
+    "rank": 2,
+    "tweet_count": "1.04M Tweets"
   },
   {
     "name": "David Dalaithngu",
     "query": "\"David Dalaithngu\"",
     "rank": 3,
-    "tweet_count": "3,210 Tweets"
+    "tweet_count": "3,325 Tweets"
   },
   {
     "name": "Rod Barton",
@@ -33,7 +33,7 @@
     "name": "Angus",
     "query": "Angus",
     "rank": 6,
-    "tweet_count": "5,987 Tweets"
+    "tweet_count": "6,128 Tweets"
   },
   {
     "name": "#DOGEorTesla",
@@ -42,75 +42,75 @@
     "tweet_count": "113K Tweets"
   },
   {
-    "name": "VicForests",
-    "query": "VicForests",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "#INDvNZ",
     "query": "#INDvNZ",
-    "rank": 9,
-    "tweet_count": "35.6K Tweets"
+    "rank": 8,
+    "tweet_count": "35.7K Tweets"
   },
   {
-    "name": "#snackmasters",
-    "query": "#snackmasters",
-    "rank": 10,
-    "tweet_count": null
+    "name": "#GivingTuesday",
+    "query": "#GivingTuesday",
+    "rank": 9,
+    "tweet_count": "27.6K Tweets"
   },
   {
     "name": "Clifford",
     "query": "Clifford",
-    "rank": 11,
-    "tweet_count": "3,843 Tweets"
+    "rank": 10,
+    "tweet_count": "3,866 Tweets"
   },
   {
     "name": "Virgil Abloh",
     "query": "\"Virgil Abloh\"",
-    "rank": 12,
-    "tweet_count": "345K Tweets"
+    "rank": 11,
+    "tweet_count": "346K Tweets"
   },
   {
     "name": "Christmas",
     "query": "Christmas",
-    "rank": 13,
-    "tweet_count": "1.3M Tweets"
+    "rank": 12,
+    "tweet_count": "1.31M Tweets"
   },
   {
     "name": "Jack Dorsey",
     "query": "\"Jack Dorsey\"",
-    "rank": 14,
-    "tweet_count": "127K Tweets"
+    "rank": 13,
+    "tweet_count": "128K Tweets"
   },
   {
     "name": "Barbados",
     "query": "Barbados",
-    "rank": 15,
-    "tweet_count": "45.7K Tweets"
+    "rank": 14,
+    "tweet_count": "46.3K Tweets"
   },
   {
     "name": "Roosters",
     "query": "Roosters",
-    "rank": 16,
-    "tweet_count": "1,251 Tweets"
+    "rank": 15,
+    "tweet_count": "1,265 Tweets"
   },
   {
     "name": "Brandon Smith",
     "query": "\"Brandon Smith\"",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "VicForests",
+    "query": "VicForests",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Yolngu",
-    "query": "Yolngu",
+    "name": "Tom Holland",
+    "query": "\"Tom Holland\"",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "107K Tweets"
   },
   {
-    "name": "Beetaloo",
-    "query": "Beetaloo",
+    "name": "Sam Kerr",
+    "query": "\"Sam Kerr\"",
     "rank": 19,
-    "tweet_count": "2,513 Tweets"
+    "tweet_count": "1,515 Tweets"
   }
 ]
