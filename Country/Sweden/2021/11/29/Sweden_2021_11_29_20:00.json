@@ -1,37 +1,37 @@
 [
   {
-    "name": "Rogic",
-    "query": "Rogic",
+    "name": "Elfsborg",
+    "query": "Elfsborg",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "#BallonDor",
-    "query": "#BallonDor",
+    "name": "Rogic",
+    "query": "Rogic",
     "rank": 2,
-    "tweet_count": "370K Tweets"
-  },
-  {
-    "name": "Kakabaveh",
-    "query": "Kakabaveh",
-    "rank": 3,
-    "tweet_count": "1,169 Tweets"
-  },
-  {
-    "name": "Elfsborg",
-    "query": "Elfsborg",
-    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Henok",
     "query": "Henok",
-    "rank": 5,
+    "rank": 3,
     "tweet_count": null
   },
   {
-    "name": "Nordfeldt",
-    "query": "Nordfeldt",
+    "name": "Kakabaveh",
+    "query": "Kakabaveh",
+    "rank": 4,
+    "tweet_count": "1,236 Tweets"
+  },
+  {
+    "name": "#BallonDor",
+    "query": "#BallonDor",
+    "rank": 5,
+    "tweet_count": "450K Tweets"
+  },
+  {
+    "name": "Rasmus Alm",
+    "query": "\"Rasmus Alm\"",
     "rank": 6,
     "tweet_count": null
   },
@@ -45,23 +45,23 @@
     "name": "Kurd",
     "query": "Kurd",
     "rank": 8,
-    "tweet_count": "5,454 Tweets"
-  },
-  {
-    "name": "Rasmus Alm",
-    "query": "\"Rasmus Alm\"",
-    "rank": 9,
-    "tweet_count": null
+    "tweet_count": "5,733 Tweets"
   },
   {
     "name": "Åkesson",
     "query": "Åkesson",
-    "rank": 10,
-    "tweet_count": "1,750 Tweets"
+    "rank": 9,
+    "tweet_count": "1,808 Tweets"
   },
   {
-    "name": "Truls",
-    "query": "Truls",
+    "name": "Sirius",
+    "query": "Sirius",
+    "rank": 10,
+    "tweet_count": "11.2K Tweets"
+  },
+  {
+    "name": "truls",
+    "query": "truls",
     "rank": 11,
     "tweet_count": null
   },
@@ -72,51 +72,51 @@
     "tweet_count": null
   },
   {
-    "name": "Ringhals",
-    "query": "Ringhals",
+    "name": "Bilal Hussein",
+    "query": "\"Bilal Hussein\"",
     "rank": 13,
-    "tweet_count": "1,744 Tweets"
-  },
-  {
-    "name": "Jönköping",
-    "query": "Jönköping",
-    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Gnaget",
     "query": "Gnaget",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Halmstad",
+    "query": "Halmstad",
     "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Ringhals",
+    "query": "Ringhals",
+    "rank": 16,
+    "tweet_count": "1,796 Tweets"
+  },
+  {
+    "name": "Borås",
+    "query": "Borås",
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Varberg",
     "query": "Varberg",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Sirius",
-    "query": "Sirius",
-    "rank": 17,
-    "tweet_count": "11.1K Tweets"
-  },
-  {
-    "name": "Nyans",
-    "query": "Nyans",
     "rank": 18,
-    "tweet_count": "1,089 Tweets"
-  },
-  {
-    "name": "VM-final",
-    "query": "VM-final",
-    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Ygeman",
     "query": "Ygeman",
+    "rank": 19,
+    "tweet_count": "1,230 Tweets"
+  },
+  {
+    "name": "Stefanelli",
+    "query": "Stefanelli",
     "rank": 20,
-    "tweet_count": "1,172 Tweets"
+    "tweet_count": null
   }
 ]
