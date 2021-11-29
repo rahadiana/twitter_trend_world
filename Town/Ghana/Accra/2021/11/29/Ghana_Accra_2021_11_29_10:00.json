@@ -1,39 +1,39 @@
 [
   {
+    "name": "#BallonDor",
+    "query": "#BallonDor",
+    "rank": 1,
+    "tweet_count": "35K Tweets"
+  },
+  {
     "name": "#CHEMUN",
     "query": "#CHEMUN",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": "182K Tweets"
   },
   {
     "name": "Peggy Oppong",
     "query": "\"Peggy Oppong\"",
-    "rank": 2,
-    "tweet_count": "5,759 Tweets"
+    "rank": 3,
+    "tweet_count": "5,781 Tweets"
   },
   {
     "name": "Virgil Abloh",
     "query": "\"Virgil Abloh\"",
-    "rank": 3,
-    "tweet_count": "775K Tweets"
-  },
-  {
-    "name": "#BallonDor",
-    "query": "#BallonDor",
     "rank": 4,
-    "tweet_count": "34.5K Tweets"
+    "tweet_count": "776K Tweets"
   },
   {
     "name": "#MondayMotivation",
     "query": "#MondayMotivation",
     "rank": 5,
-    "tweet_count": "52.1K Tweets"
+    "tweet_count": "52.7K Tweets"
   },
   {
     "name": "#WorldJMDay",
     "query": "#WorldJMDay",
     "rank": 6,
-    "tweet_count": "1,852 Tweets"
+    "tweet_count": "1,864 Tweets"
   },
   {
     "name": "#MMRS",
@@ -42,16 +42,16 @@
     "tweet_count": null
   },
   {
-    "name": "Werner",
-    "query": "Werner",
-    "rank": 8,
-    "tweet_count": "44.2K Tweets"
-  },
-  {
     "name": "Wizkid",
     "query": "Wizkid",
+    "rank": 8,
+    "tweet_count": "217K Tweets"
+  },
+  {
+    "name": "Werner",
+    "query": "Werner",
     "rank": 9,
-    "tweet_count": "216K Tweets"
+    "tweet_count": "44.2K Tweets"
   },
   {
     "name": "John Mensah",
@@ -69,7 +69,7 @@
     "name": "Julia",
     "query": "Julia",
     "rank": 12,
-    "tweet_count": "40.1K Tweets"
+    "tweet_count": "40.3K Tweets"
   },
   {
     "name": "Happy 63rd",
@@ -105,18 +105,18 @@
     "name": "Curry",
     "query": "Curry",
     "rank": 18,
-    "tweet_count": "93.1K Tweets"
+    "tweet_count": "93.3K Tweets"
+  },
+  {
+    "name": "Messi",
+    "query": "Messi",
+    "rank": 19,
+    "tweet_count": "332K Tweets"
   },
   {
     "name": "Warriors",
     "query": "Warriors",
-    "rank": 19,
-    "tweet_count": "92.6K Tweets"
-  },
-  {
-    "name": "Brazilian",
-    "query": "Brazilian",
     "rank": 20,
-    "tweet_count": "11.6K Tweets"
+    "tweet_count": "92.8K Tweets"
   }
 ]
