@@ -1,33 +1,33 @@
 [
   {
-    "name": "#BallonDor",
-    "query": "#BallonDor",
+    "name": "Ballon D'or",
+    "query": "\"Ballon D'or\"",
     "rank": 1,
-    "tweet_count": "1.22M Tweets"
+    "tweet_count": "884K Tweets"
+  },
+  {
+    "name": "Lewandowski",
+    "query": "Lewandowski",
+    "rank": 2,
+    "tweet_count": "530K Tweets"
   },
   {
     "name": "#polkvart",
     "query": "#polkvart",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Carrick",
     "query": "Carrick",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": "14.6K Tweets"
   },
   {
     "name": "#Binance",
     "query": "#Binance",
-    "rank": 4,
-    "tweet_count": "241K Tweets"
-  },
-  {
-    "name": "Benzema",
-    "query": "Benzema",
     "rank": 5,
-    "tweet_count": "229K Tweets"
+    "tweet_count": "242K Tweets"
   },
   {
     "name": "#DOGEorTesla",
@@ -48,63 +48,63 @@
     "tweet_count": "19.1K Tweets"
   },
   {
-    "name": "Cyber Monday",
-    "query": "\"Cyber Monday\"",
+    "name": "Argentina",
+    "query": "Argentina",
     "rank": 9,
-    "tweet_count": "254K Tweets"
+    "tweet_count": "183K Tweets"
   },
   {
-    "name": "gullballen",
-    "query": "gullballen",
+    "name": "Gullballen",
+    "query": "Gullballen",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Enova",
-    "query": "Enova",
+    "name": "Cyber Monday",
+    "query": "\"Cyber Monday\"",
     "rank": 11,
+    "tweet_count": "254K Tweets"
+  },
+  {
+    "name": "#nrksjakk",
+    "query": "#nrksjakk",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "enova",
+    "query": "enova",
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Høyre",
     "query": "Høyre",
-    "rank": 12,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Statkraft",
     "query": "Statkraft",
-    "rank": 13,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Brekalo",
     "query": "Brekalo",
-    "rank": 14,
+    "rank": 16,
     "tweet_count": null
-  },
-  {
-    "name": "Mendy",
-    "query": "Mendy",
-    "rank": 15,
-    "tweet_count": "104K Tweets"
   },
   {
     "name": "RIP Apetor",
     "query": "\"RIP Apetor\"",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Copa",
     "query": "Copa",
-    "rank": 17,
-    "tweet_count": "179K Tweets"
-  },
-  {
-    "name": "Hurra",
-    "query": "Hurra",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "180K Tweets"
   }
 ]
