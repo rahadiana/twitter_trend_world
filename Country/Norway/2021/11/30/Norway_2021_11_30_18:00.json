@@ -1,73 +1,73 @@
 [
   {
+    "name": "Messi",
+    "query": "Messi",
+    "rank": 1,
+    "tweet_count": "2.19M Tweets"
+  },
+  {
+    "name": "Lewandowski",
+    "query": "Lewandowski",
+    "rank": 2,
+    "tweet_count": "547K Tweets"
+  },
+  {
     "name": "#dax18",
     "query": "#dax18",
-    "rank": 1,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#BallonDor",
     "query": "#BallonDor",
-    "rank": 2,
+    "rank": 4,
     "tweet_count": "1.17M Tweets"
-  },
-  {
-    "name": "Lewandowski",
-    "query": "Lewandowski",
-    "rank": 3,
-    "tweet_count": "543K Tweets"
   },
   {
     "name": "#barstadsjulekalender",
     "query": "#barstadsjulekalender",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "#nrksjakk",
     "query": "#nrksjakk",
-    "rank": 5,
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "Magnus",
     "query": "Magnus",
-    "rank": 6,
-    "tweet_count": "7,219 Tweets"
-  },
-  {
-    "name": "Giske",
-    "query": "Giske",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "7,401 Tweets"
   },
   {
     "name": "#Binance",
     "query": "#Binance",
     "rank": 8,
-    "tweet_count": "169K Tweets"
+    "tweet_count": "173K Tweets"
   },
   {
     "name": "Armenia",
     "query": "Armenia",
     "rank": 9,
-    "tweet_count": "3,248 Tweets"
+    "tweet_count": "3,348 Tweets"
+  },
+  {
+    "name": "Giske",
+    "query": "Giske",
+    "rank": 10,
+    "tweet_count": null
   },
   {
     "name": "Curry",
     "query": "Curry",
-    "rank": 10,
-    "tweet_count": "33.2K Tweets"
+    "rank": 11,
+    "tweet_count": "34.3K Tweets"
   },
   {
     "name": "Erna Solberg",
     "query": "\"Erna Solberg\"",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Statkraft",
-    "query": "Statkraft",
     "rank": 12,
     "tweet_count": null
   },
@@ -90,10 +90,10 @@
     "tweet_count": null
   },
   {
-    "name": "Fauci",
-    "query": "Fauci",
+    "name": "Statkraft",
+    "query": "Statkraft",
     "rank": 16,
-    "tweet_count": "169K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Senterpartiet",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "Trøndelag",
-    "query": "Trøndelag",
+    "name": "Argentina",
+    "query": "Argentina",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "198K Tweets"
   },
   {
-    "name": "Raymond",
-    "query": "Raymond",
+    "name": "Fauci",
+    "query": "Fauci",
     "rank": 19,
-    "tweet_count": "10.5K Tweets"
+    "tweet_count": "175K Tweets"
   },
   {
-    "name": "Copa",
-    "query": "Copa",
+    "name": "Benzema",
+    "query": "Benzema",
     "rank": 20,
-    "tweet_count": "188K Tweets"
+    "tweet_count": "221K Tweets"
   }
 ]
