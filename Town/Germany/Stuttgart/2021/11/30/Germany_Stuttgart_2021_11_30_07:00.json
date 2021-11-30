@@ -1,9 +1,9 @@
 [
   {
-    "name": "Ballon D'or",
-    "query": "\"Ballon D'or\"",
+    "name": "#BallonDor",
+    "query": "#BallonDor",
     "rank": 1,
-    "tweet_count": "861K Tweets"
+    "tweet_count": "1.23M Tweets"
   },
   {
     "name": "#Bundesverfassungsgericht",
@@ -15,71 +15,71 @@
     "name": "#hartaberfair",
     "query": "#hartaberfair",
     "rank": 3,
-    "tweet_count": "5,659 Tweets"
+    "tweet_count": "5,736 Tweets"
   },
   {
     "name": "#AnneWill",
     "query": "#AnneWill",
     "rank": 4,
-    "tweet_count": "8,604 Tweets"
+    "tweet_count": "8,631 Tweets"
   },
   {
-    "name": "#DasHabeIchGetan",
-    "query": "#DasHabeIchGetan",
+    "name": "Omicron",
+    "query": "Omicron",
     "rank": 5,
-    "tweet_count": "3,143 Tweets"
+    "tweet_count": "1.16M Tweets"
   },
   {
     "name": "Schnee",
     "query": "Schnee",
     "rank": 6,
-    "tweet_count": "6,251 Tweets"
+    "tweet_count": "6,337 Tweets"
   },
   {
-    "name": "Schönen Dienstag",
-    "query": "\"Schönen Dienstag\"",
+    "name": "Storch",
+    "query": "Storch",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "1,004 Tweets"
   },
   {
     "name": "schönen 1",
     "query": "\"schönen 1\"",
     "rank": 8,
-    "tweet_count": "3,708 Tweets"
+    "tweet_count": "3,767 Tweets"
   },
   {
     "name": "Wochenstart",
     "query": "Wochenstart",
     "rank": 9,
-    "tweet_count": "1,094 Tweets"
+    "tweet_count": "1,096 Tweets"
   },
   {
-    "name": "Advent",
-    "query": "Advent",
+    "name": "Schönen Dienstag",
+    "query": "\"Schönen Dienstag\"",
     "rank": 10,
-    "tweet_count": "36.4K Tweets"
-  },
-  {
-    "name": "Start in die Woche",
-    "query": "\"Start in die Woche\"",
-    "rank": 11,
-    "tweet_count": "1,293 Tweets"
-  },
-  {
-    "name": "Guten Morgen ihr Lieben",
-    "query": "\"Guten Morgen ihr Lieben\"",
-    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Start in den Tag",
     "query": "\"Start in den Tag\"",
-    "rank": 13,
+    "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "Degrowth",
-    "query": "Degrowth",
+    "name": "Start in die Woche",
+    "query": "\"Start in die Woche\"",
+    "rank": 12,
+    "tweet_count": "1,293 Tweets"
+  },
+  {
+    "name": "Advent",
+    "query": "Advent",
+    "rank": 13,
+    "tweet_count": "36.6K Tweets"
+  },
+  {
+    "name": "Guten Morgen ihr Lieben",
+    "query": "\"Guten Morgen ihr Lieben\"",
     "rank": 14,
     "tweet_count": null
   },
@@ -93,7 +93,7 @@
     "name": "R-Wert",
     "query": "R-Wert",
     "rank": 16,
-    "tweet_count": "2,199 Tweets"
+    "tweet_count": "2,248 Tweets"
   },
   {
     "name": "Guten Morgen Swen",
@@ -102,15 +102,15 @@
     "tweet_count": null
   },
   {
-    "name": "Faber",
-    "query": "Faber",
+    "name": "Degrowth",
+    "query": "Degrowth",
     "rank": 18,
-    "tweet_count": "1,185 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Lana",
-    "query": "Lana",
+    "name": "Faber",
+    "query": "Faber",
     "rank": 19,
-    "tweet_count": "30.9K Tweets"
+    "tweet_count": "1,186 Tweets"
   }
 ]

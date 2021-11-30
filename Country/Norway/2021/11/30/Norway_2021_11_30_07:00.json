@@ -1,9 +1,9 @@
 [
   {
-    "name": "#BallonDor",
-    "query": "#BallonDor",
+    "name": "Ballon D'or",
+    "query": "\"Ballon D'or\"",
     "rank": 1,
-    "tweet_count": "1.21M Tweets"
+    "tweet_count": "869K Tweets"
   },
   {
     "name": "#polkvart",
@@ -15,13 +15,13 @@
     "name": "Carrick",
     "query": "Carrick",
     "rank": 3,
-    "tweet_count": "15.2K Tweets"
+    "tweet_count": "15.3K Tweets"
   },
   {
     "name": "#Binance",
     "query": "#Binance",
     "rank": 4,
-    "tweet_count": "240K Tweets"
+    "tweet_count": "241K Tweets"
   },
   {
     "name": "#DOGEorTesla",
@@ -30,58 +30,58 @@
     "tweet_count": "139K Tweets"
   },
   {
+    "name": "Benzema",
+    "query": "Benzema",
+    "rank": 6,
+    "tweet_count": "229K Tweets"
+  },
+  {
     "name": "#statsbudsjettet",
     "query": "#statsbudsjettet",
-    "rank": 6,
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Acer",
     "query": "Acer",
-    "rank": 7,
-    "tweet_count": "21.1K Tweets"
-  },
-  {
-    "name": "Cyber Monday",
-    "query": "\"Cyber Monday\"",
     "rank": 8,
-    "tweet_count": "258K Tweets"
+    "tweet_count": "21.2K Tweets"
   },
   {
-    "name": "gullballen",
-    "query": "gullballen",
+    "name": "Gullballen",
+    "query": "Gullballen",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "vedum",
-    "query": "vedum",
+    "name": "Cyber Monday",
+    "query": "\"Cyber Monday\"",
     "rank": 10,
+    "tweet_count": "259K Tweets"
+  },
+  {
+    "name": "#nrksjakk",
+    "query": "#nrksjakk",
+    "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "ENOVA",
-    "query": "ENOVA",
-    "rank": 11,
+    "name": "Vedum",
+    "query": "Vedum",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "Enova",
+    "query": "Enova",
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Copa",
     "query": "Copa",
-    "rank": 12,
-    "tweet_count": "177K Tweets"
-  },
-  {
-    "name": "Brekalo",
-    "query": "Brekalo",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Mendy",
-    "query": "Mendy",
     "rank": 14,
-    "tweet_count": "101K Tweets"
+    "tweet_count": "178K Tweets"
   },
   {
     "name": "Høyre",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
+    "name": "Brekalo",
+    "query": "Brekalo",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
     "name": "RIP Apetor",
     "query": "\"RIP Apetor\"",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Hurra",
     "query": "Hurra",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Statnett",
     "query": "Statnett",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Statkraft",
     "query": "Statkraft",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "De Gea",
-    "query": "\"De Gea\"",
     "rank": 20,
-    "tweet_count": "4,224 Tweets"
+    "tweet_count": null
   }
 ]
