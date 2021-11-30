@@ -3,7 +3,7 @@
     "name": "חג שמח",
     "query": "\"חג שמח\"",
     "rank": 1,
-    "tweet_count": "2,362 Tweets"
+    "tweet_count": "2,370 Tweets"
   },
   {
     "name": "בוקר אור",
@@ -15,19 +15,19 @@
     "name": "חנוכה שמח",
     "query": "\"חנוכה שמח\"",
     "rank": 3,
-    "tweet_count": "2,367 Tweets"
-  },
-  {
-    "name": "Happy Hanukkah",
-    "query": "\"Happy Hanukkah\"",
-    "rank": 4,
-    "tweet_count": "44.1K Tweets"
+    "tweet_count": "2,375 Tweets"
   },
   {
     "name": "בוקר טוב",
     "query": "\"בוקר טוב\"",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "Happy Hanukkah",
+    "query": "\"Happy Hanukkah\"",
+    "rank": 5,
+    "tweet_count": "44.2K Tweets"
   },
   {
     "name": "מזל טוב",
@@ -57,7 +57,7 @@
     "name": "Lewandowski",
     "query": "Lewandowski",
     "rank": 10,
-    "tweet_count": "530K Tweets"
+    "tweet_count": "532K Tweets"
   },
   {
     "name": "#BallonDor",
@@ -69,11 +69,11 @@
     "name": "Maccabees",
     "query": "Maccabees",
     "rank": 12,
-    "tweet_count": "1,010 Tweets"
+    "tweet_count": "1,011 Tweets"
   },
   {
-    "name": "#EfLey",
-    "query": "#EfLey",
+    "name": "#efley",
+    "query": "#efley",
     "rank": 13,
     "tweet_count": "10.8K Tweets"
   },
@@ -81,42 +81,42 @@
     "name": "יאיר נתניהו",
     "query": "\"יאיר נתניהו\"",
     "rank": 14,
-    "tweet_count": "1,248 Tweets"
+    "tweet_count": "1,259 Tweets"
   },
   {
     "name": "#najwakaramsarchiveweek",
     "query": "#najwakaramsarchiveweek",
     "rank": 15,
-    "tweet_count": "2,070 Tweets"
+    "tweet_count": "2,072 Tweets"
+  },
+  {
+    "name": "Holocaust",
+    "query": "Holocaust",
+    "rank": 16,
+    "tweet_count": "12.9K Tweets"
   },
   {
     "name": "של מי",
     "query": "\"של מי\"",
-    "rank": 16,
-    "tweet_count": "1,790 Tweets"
-  },
-  {
-    "name": "Hebron",
-    "query": "Hebron",
     "rank": 17,
-    "tweet_count": "2,546 Tweets"
-  },
-  {
-    "name": "#Binance",
-    "query": "#Binance",
-    "rank": 18,
-    "tweet_count": "242K Tweets"
-  },
-  {
-    "name": "Palestine",
-    "query": "Palestine",
-    "rank": 19,
-    "tweet_count": "48K Tweets"
+    "tweet_count": "1,807 Tweets"
   },
   {
     "name": "#Israeli",
     "query": "#Israeli",
-    "rank": 20,
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Hebron",
+    "query": "Hebron",
+    "rank": 19,
+    "tweet_count": "2,556 Tweets"
+  },
+  {
+    "name": "#Binance",
+    "query": "#Binance",
+    "rank": 20,
+    "tweet_count": "243K Tweets"
   }
 ]
