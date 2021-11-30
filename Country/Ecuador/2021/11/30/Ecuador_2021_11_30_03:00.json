@@ -1,21 +1,21 @@
 [
   {
-    "name": "#Omicron",
-    "query": "#Omicron",
-    "rank": 1,
-    "tweet_count": "202K Tweets"
-  },
-  {
     "name": "Albita",
     "query": "Albita",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#Omicron",
+    "query": "#Omicron",
+    "rank": 2,
+    "tweet_count": "203K Tweets"
   },
   {
     "name": "África",
     "query": "África",
     "rank": 3,
-    "tweet_count": "424K Tweets"
+    "tweet_count": "425K Tweets"
   },
   {
     "name": "#BallonDor",
@@ -30,16 +30,16 @@
     "tweet_count": null
   },
   {
-    "name": "#AlertaEmilia",
-    "query": "#AlertaEmilia",
+    "name": "#alertaemilia",
+    "query": "#alertaemilia",
     "rank": 6,
-    "tweet_count": "2,522 Tweets"
+    "tweet_count": "2,529 Tweets"
   },
   {
     "name": "#COVID19",
     "query": "#COVID19",
     "rank": 7,
-    "tweet_count": "168K Tweets"
+    "tweet_count": "169K Tweets"
   },
   {
     "name": "Cristiano",
@@ -51,18 +51,12 @@
     "name": "Registro Oficial",
     "query": "\"Registro Oficial\"",
     "rank": 9,
-    "tweet_count": "3,858 Tweets"
-  },
-  {
-    "name": "Benzema",
-    "query": "Benzema",
-    "rank": 10,
-    "tweet_count": "224K Tweets"
+    "tweet_count": "3,899 Tweets"
   },
   {
     "name": "#URGENTE",
     "query": "#URGENTE",
-    "rank": 11,
-    "tweet_count": "12.4K Tweets"
+    "rank": 10,
+    "tweet_count": "12.5K Tweets"
   }
 ]
