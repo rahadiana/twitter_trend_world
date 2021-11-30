@@ -1,99 +1,99 @@
 [
   {
+    "name": "Urteil",
+    "query": "Urteil",
+    "rank": 1,
+    "tweet_count": "13.5K Tweets"
+  },
+  {
     "name": "#Bundesverfassungsgericht",
     "query": "#Bundesverfassungsgericht",
-    "rank": 1,
-    "tweet_count": "27.4K Tweets"
+    "rank": 2,
+    "tweet_count": "27.5K Tweets"
   },
   {
     "name": "#JKvsP7",
     "query": "#JKvsP7",
-    "rank": 2,
-    "tweet_count": "2,278 Tweets"
+    "rank": 3,
+    "tweet_count": "2,477 Tweets"
   },
   {
     "name": "#HartzUndHerzlich",
     "query": "#HartzUndHerzlich",
-    "rank": 3,
-    "tweet_count": "1,207 Tweets"
+    "rank": 4,
+    "tweet_count": "1,256 Tweets"
   },
   {
     "name": "#HomeforWhovians",
     "query": "#HomeforWhovians",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Klaas",
     "query": "Klaas",
-    "rank": 5,
-    "tweet_count": "1,162 Tweets"
-  },
-  {
-    "name": "#Buschmann",
-    "query": "#Buschmann",
     "rank": 6,
-    "tweet_count": "2,036 Tweets"
+    "tweet_count": "1,206 Tweets"
   },
   {
     "name": "Alle 6 Monate",
     "query": "\"Alle 6 Monate\"",
     "rank": 7,
-    "tweet_count": "2,773 Tweets"
+    "tweet_count": "2,899 Tweets"
+  },
+  {
+    "name": "#bauersuchtfrau",
+    "query": "#bauersuchtfrau",
+    "rank": 8,
+    "tweet_count": null
   },
   {
     "name": "Joko",
     "query": "Joko",
-    "rank": 8,
-    "tweet_count": "3,945 Tweets"
+    "rank": 9,
+    "tweet_count": "3,985 Tweets"
   },
   {
     "name": "Adventskalender",
     "query": "Adventskalender",
-    "rank": 9,
-    "tweet_count": "3,550 Tweets"
+    "rank": 10,
+    "tweet_count": "3,598 Tweets"
   },
   {
     "name": "Josef",
     "query": "Josef",
-    "rank": 10,
-    "tweet_count": "18K Tweets"
+    "rank": 11,
+    "tweet_count": "18.2K Tweets"
   },
   {
     "name": "5sos",
     "query": "5sos",
-    "rank": 11,
-    "tweet_count": "87.9K Tweets"
+    "rank": 12,
+    "tweet_count": "89.1K Tweets"
   },
   {
     "name": "Justizminister",
     "query": "Justizminister",
-    "rank": 12,
-    "tweet_count": "1,905 Tweets"
+    "rank": 13,
+    "tweet_count": "1,915 Tweets"
   },
   {
     "name": "Dirk",
     "query": "Dirk",
-    "rank": 13,
-    "tweet_count": "5,146 Tweets"
+    "rank": 14,
+    "tweet_count": "5,165 Tweets"
   },
   {
     "name": "Rihanna",
     "query": "Rihanna",
-    "rank": 14,
-    "tweet_count": "175K Tweets"
-  },
-  {
-    "name": "Urteil",
-    "query": "Urteil",
     "rank": 15,
-    "tweet_count": "13.4K Tweets"
+    "tweet_count": "179K Tweets"
   },
   {
     "name": "Glaubwürdigkeit",
     "query": "Glaubwürdigkeit",
     "rank": 16,
-    "tweet_count": "1,007 Tweets"
+    "tweet_count": "1,028 Tweets"
   },
   {
     "name": "Generalverdacht",
@@ -102,20 +102,20 @@
     "tweet_count": null
   },
   {
-    "name": "Waffel",
-    "query": "Waffel",
+    "name": "Türchen",
+    "query": "Türchen",
     "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "Türchen",
-    "query": "Türchen",
+    "name": "Waffel",
+    "query": "Waffel",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Kulturen",
-    "query": "Kulturen",
+    "name": "kulturen",
+    "query": "kulturen",
     "rank": 20,
     "tweet_count": null
   }
