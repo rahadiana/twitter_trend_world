@@ -15,25 +15,25 @@
     "name": "Begründung",
     "query": "Begründung",
     "rank": 3,
-    "tweet_count": "2,217 Tweets"
+    "tweet_count": "2,240 Tweets"
   },
   {
     "name": "#Bundesverfassungsgericht",
     "query": "#Bundesverfassungsgericht",
     "rank": 4,
-    "tweet_count": "20.1K Tweets"
+    "tweet_count": "20.3K Tweets"
   },
   {
     "name": "Urteil",
     "query": "Urteil",
     "rank": 5,
-    "tweet_count": "8,724 Tweets"
+    "tweet_count": "8,843 Tweets"
   },
   {
-    "name": "Grundrechte",
-    "query": "Grundrechte",
+    "name": "Beschluss",
+    "query": "Beschluss",
     "rank": 6,
-    "tweet_count": "5,021 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Justizminister",
@@ -42,16 +42,16 @@
     "tweet_count": null
   },
   {
-    "name": "Beschluss",
-    "query": "Beschluss",
+    "name": "Juristen",
+    "query": "Juristen",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Rechtsstaat",
-    "query": "Rechtsstaat",
+    "name": "grundrechte",
+    "query": "grundrechte",
     "rank": 9,
-    "tweet_count": "3,077 Tweets"
+    "tweet_count": "5,081 Tweets"
   },
   {
     "name": "Gewaltenteilung",
@@ -60,16 +60,16 @@
     "tweet_count": null
   },
   {
-    "name": "Juristen",
-    "query": "Juristen",
+    "name": "Rechtsstaat",
+    "query": "Rechtsstaat",
     "rank": 11,
-    "tweet_count": null
+    "tweet_count": "3,098 Tweets"
   },
   {
     "name": "Gesetzgeber",
     "query": "Gesetzgeber",
     "rank": 12,
-    "tweet_count": "1,251 Tweets"
+    "tweet_count": "1,264 Tweets"
   },
   {
     "name": "Geiselhaft",
@@ -81,30 +81,30 @@
     "name": "Grundgesetz",
     "query": "Grundgesetz",
     "rank": 14,
-    "tweet_count": "4,224 Tweets"
+    "tweet_count": "4,269 Tweets"
   },
   {
     "name": "Dezember 2021",
     "query": "\"Dezember 2021\"",
     "rank": 15,
-    "tweet_count": "1,518 Tweets"
+    "tweet_count": "1,539 Tweets"
   },
   {
     "name": "Freiheitsbegriff",
     "query": "Freiheitsbegriff",
     "rank": 16,
-    "tweet_count": "1,125 Tweets"
-  },
-  {
-    "name": "karlsruhe",
-    "query": "karlsruhe",
-    "rank": 17,
-    "tweet_count": "4,205 Tweets"
+    "tweet_count": "1,133 Tweets"
   },
   {
     "name": "Unversehrtheit",
     "query": "Unversehrtheit",
+    "rank": 17,
+    "tweet_count": "2,484 Tweets"
+  },
+  {
+    "name": "Verhältnismäßigkeit",
+    "query": "Verhältnismäßigkeit",
     "rank": 18,
-    "tweet_count": "2,468 Tweets"
+    "tweet_count": null
   }
 ]
