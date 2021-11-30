@@ -1,39 +1,39 @@
 [
   {
-    "name": "Canucks",
-    "query": "Canucks",
-    "rank": 1,
-    "tweet_count": "9,281 Tweets"
-  },
-  {
     "name": "#WWERaw",
     "query": "#WWERaw",
-    "rank": 2,
-    "tweet_count": "41.4K Tweets"
+    "rank": 1,
+    "tweet_count": "44.8K Tweets"
   },
   {
     "name": "#Seahawks",
     "query": "#Seahawks",
-    "rank": 3,
-    "tweet_count": "7,316 Tweets"
+    "rank": 2,
+    "tweet_count": "8,252 Tweets"
   },
   {
-    "name": "#MurdochMysteries",
-    "query": "#MurdochMysteries",
-    "rank": 4,
+    "name": "#NHLJets",
+    "query": "#NHLJets",
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Poehling",
     "query": "Poehling",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "#TheVoice",
-    "query": "#TheVoice",
+    "name": "#SEAvsWAS",
+    "query": "#SEAvsWAS",
+    "rank": 5,
+    "tweet_count": "8,682 Tweets"
+  },
+  {
+    "name": "Brian Kelly",
+    "query": "\"Brian Kelly\"",
     "rank": 6,
-    "tweet_count": "11.2K Tweets"
+    "tweet_count": "47.8K Tweets"
   },
   {
     "name": "Poolman",
@@ -42,69 +42,69 @@
     "tweet_count": null
   },
   {
-    "name": "Brian Kelly",
-    "query": "\"Brian Kelly\"",
+    "name": "Arizona",
+    "query": "Arizona",
     "rank": 8,
-    "tweet_count": "43.4K Tweets"
+    "tweet_count": "38K Tweets"
   },
   {
     "name": "Jokic",
     "query": "Jokic",
     "rank": 9,
-    "tweet_count": "12.3K Tweets"
+    "tweet_count": "12.7K Tweets"
   },
   {
-    "name": "Coyotes",
-    "query": "Coyotes",
+    "name": "DeBrusk",
+    "query": "DeBrusk",
     "rank": 10,
-    "tweet_count": "1,876 Tweets"
+    "tweet_count": "2,559 Tweets"
+  },
+  {
+    "name": "Drouin",
+    "query": "Drouin",
+    "rank": 11,
+    "tweet_count": null
   },
   {
     "name": "Edge",
     "query": "Edge",
-    "rank": 11,
-    "tweet_count": "55.9K Tweets"
-  },
-  {
-    "name": "Arizona",
-    "query": "Arizona",
     "rank": 12,
-    "tweet_count": "37.2K Tweets"
-  },
-  {
-    "name": "Bieber",
-    "query": "Bieber",
-    "rank": 13,
-    "tweet_count": "24.5K Tweets"
+    "tweet_count": "57K Tweets"
   },
   {
     "name": "Seattle",
     "query": "Seattle",
-    "rank": 14,
-    "tweet_count": "28K Tweets"
+    "rank": 13,
+    "tweet_count": "29.4K Tweets"
   },
   {
     "name": "Pettersson",
     "query": "Pettersson",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Petey",
     "query": "Petey",
+    "rank": 15,
+    "tweet_count": "1,371 Tweets"
+  },
+  {
+    "name": "Bieber",
+    "query": "Bieber",
     "rank": 16,
-    "tweet_count": "1,334 Tweets"
+    "tweet_count": "24.8K Tweets"
   },
   {
-    "name": "Barbados",
-    "query": "Barbados",
+    "name": "Washington",
+    "query": "Washington",
     "rank": 17,
-    "tweet_count": "59.3K Tweets"
+    "tweet_count": "63.2K Tweets"
   },
   {
-    "name": "Garland",
-    "query": "Garland",
+    "name": "Toffoli",
+    "query": "Toffoli",
     "rank": 18,
-    "tweet_count": "31.3K Tweets"
+    "tweet_count": null
   }
 ]
