@@ -3,7 +3,7 @@
     "name": "#BallonDor",
     "query": "#BallonDor",
     "rank": 1,
-    "tweet_count": "1.14M Tweets"
+    "tweet_count": "1.15M Tweets"
   },
   {
     "name": "#Omicron",
@@ -18,20 +18,20 @@
     "tweet_count": null
   },
   {
+    "name": "#Binance",
+    "query": "#Binance",
+    "rank": 4,
+    "tweet_count": "222K Tweets"
+  },
+  {
     "name": "#ORFThema",
     "query": "#ORFThema",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "#Binance",
-    "query": "#Binance",
-    "rank": 5,
-    "tweet_count": "221K Tweets"
-  },
-  {
-    "name": "Kerzen",
-    "query": "Kerzen",
+    "name": "kerzen",
+    "query": "kerzen",
     "rank": 6,
     "tweet_count": "1,526 Tweets"
   },
@@ -45,17 +45,17 @@
     "name": "laer",
     "query": "laer",
     "rank": 8,
-    "tweet_count": "1,269 Tweets"
+    "tweet_count": "1,270 Tweets"
   },
   {
-    "name": "supermarkt",
-    "query": "supermarkt",
+    "name": "Supermarkt",
+    "query": "Supermarkt",
     "rank": 9,
-    "tweet_count": "1,696 Tweets"
+    "tweet_count": "1,697 Tweets"
   },
   {
-    "name": "zettel",
-    "query": "zettel",
+    "name": "Zettel",
+    "query": "Zettel",
     "rank": 10,
     "tweet_count": null
   },
@@ -63,25 +63,25 @@
     "name": "Advent",
     "query": "Advent",
     "rank": 11,
-    "tweet_count": "38.7K Tweets"
+    "tweet_count": "38.9K Tweets"
   },
   {
     "name": "Spieler",
     "query": "Spieler",
     "rank": 12,
-    "tweet_count": "2,939 Tweets"
+    "tweet_count": "2,944 Tweets"
   },
   {
     "name": "Taliban",
     "query": "Taliban",
     "rank": 13,
-    "tweet_count": "20.9K Tweets"
+    "tweet_count": "21K Tweets"
   },
   {
     "name": "Jack",
     "query": "Jack",
     "rank": 14,
-    "tweet_count": "536K Tweets"
+    "tweet_count": "538K Tweets"
   },
   {
     "name": "Konstantin",
@@ -90,10 +90,10 @@
     "tweet_count": null
   },
   {
-    "name": "Rapid",
-    "query": "Rapid",
+    "name": "RAPID",
+    "query": "RAPID",
     "rank": 16,
-    "tweet_count": "27.3K Tweets"
+    "tweet_count": "27.5K Tweets"
   },
   {
     "name": "lächeln",
@@ -102,21 +102,21 @@
     "tweet_count": "1,013 Tweets"
   },
   {
+    "name": "Ferdinand",
+    "query": "Ferdinand",
+    "rank": 18,
+    "tweet_count": "5,120 Tweets"
+  },
+  {
     "name": "Beatles",
     "query": "Beatles",
-    "rank": 18,
-    "tweet_count": "43.7K Tweets"
-  },
-  {
-    "name": "Experiment",
-    "query": "Experiment",
     "rank": 19,
-    "tweet_count": "20.9K Tweets"
+    "tweet_count": "43.9K Tweets"
   },
   {
-    "name": "organisation",
-    "query": "organisation",
+    "name": "experiment",
+    "query": "experiment",
     "rank": 20,
-    "tweet_count": "19.5K Tweets"
+    "tweet_count": "20.9K Tweets"
   }
 ]
