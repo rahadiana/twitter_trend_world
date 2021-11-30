@@ -3,31 +3,31 @@
     "name": "#BallonDor",
     "query": "#BallonDor",
     "rank": 1,
-    "tweet_count": "1.05M Tweets"
+    "tweet_count": "1.06M Tweets"
   },
   {
-    "name": "#Omicron",
-    "query": "#Omicron",
+    "name": "Omicron",
+    "query": "Omicron",
     "rank": 2,
-    "tweet_count": "155K Tweets"
-  },
-  {
-    "name": "#GivingTuesday",
-    "query": "#GivingTuesday",
-    "rank": 3,
-    "tweet_count": "187K Tweets"
+    "tweet_count": "926K Tweets"
   },
   {
     "name": "Schock",
     "query": "Schock",
+    "rank": 3,
+    "tweet_count": "1,038 Tweets"
+  },
+  {
+    "name": "#GivingTuesday",
+    "query": "#GivingTuesday",
     "rank": 4,
-    "tweet_count": "1,025 Tweets"
+    "tweet_count": "191K Tweets"
   },
   {
     "name": "Bundesrat",
     "query": "Bundesrat",
     "rank": 5,
-    "tweet_count": "1,624 Tweets"
+    "tweet_count": "1,651 Tweets"
   },
   {
     "name": "#buildingbridges21",
@@ -45,78 +45,72 @@
     "name": "Josef",
     "query": "Josef",
     "rank": 8,
-    "tweet_count": "16.9K Tweets"
-  },
-  {
-    "name": "Massnahmen",
-    "query": "Massnahmen",
-    "rank": 9,
-    "tweet_count": "25.2K Tweets"
+    "tweet_count": "17.1K Tweets"
   },
   {
     "name": "Lewa",
     "query": "Lewa",
-    "rank": 10,
-    "tweet_count": "92.2K Tweets"
-  },
-  {
-    "name": "Ton Pokémon",
-    "query": "\"Ton Pokémon\"",
-    "rank": 11,
-    "tweet_count": "1,922 Tweets"
+    "rank": 9,
+    "tweet_count": "92.4K Tweets"
   },
   {
     "name": "Sitzung",
     "query": "Sitzung",
-    "rank": 12,
+    "rank": 10,
     "tweet_count": null
+  },
+  {
+    "name": "Massnahmen",
+    "query": "Massnahmen",
+    "rank": 11,
+    "tweet_count": "25.6K Tweets"
+  },
+  {
+    "name": "Ton Pokémon",
+    "query": "\"Ton Pokémon\"",
+    "rank": 12,
+    "tweet_count": "1,947 Tweets"
   },
   {
     "name": "Welle",
     "query": "Welle",
     "rank": 13,
-    "tweet_count": "8,794 Tweets"
+    "tweet_count": "8,878 Tweets"
   },
   {
     "name": "Panthéon",
     "query": "Panthéon",
     "rank": 14,
-    "tweet_count": "47.6K Tweets"
+    "tweet_count": "48.4K Tweets"
   },
   {
     "name": "Geneva",
     "query": "Geneva",
     "rank": 15,
-    "tweet_count": "3,618 Tweets"
+    "tweet_count": "3,641 Tweets"
   },
   {
     "name": "Adventskalender",
     "query": "Adventskalender",
     "rank": 16,
-    "tweet_count": "3,172 Tweets"
-  },
-  {
-    "name": "Migros",
-    "query": "Migros",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Greece",
-    "query": "Greece",
-    "rank": 18,
-    "tweet_count": "32.7K Tweets"
+    "tweet_count": "3,261 Tweets"
   },
   {
     "name": "Homeoffice",
     "query": "Homeoffice",
-    "rank": 19,
-    "tweet_count": "2,602 Tweets"
+    "rank": 17,
+    "tweet_count": "13.6K Tweets"
   },
   {
     "name": "Vokabular",
     "query": "Vokabular",
-    "rank": 20,
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Donnaruma",
+    "query": "Donnaruma",
+    "rank": 19,
+    "tweet_count": "9,878 Tweets"
   }
 ]
