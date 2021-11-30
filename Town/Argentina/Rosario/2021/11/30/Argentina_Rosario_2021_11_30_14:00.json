@@ -3,25 +3,25 @@
     "name": "Messi",
     "query": "Messi",
     "rank": 1,
-    "tweet_count": "2.19M Tweets"
+    "tweet_count": "2.2M Tweets"
   },
   {
     "name": "#DiaNacionalDelMate",
     "query": "#DiaNacionalDelMate",
     "rank": 2,
-    "tweet_count": "1,318 Tweets"
-  },
-  {
-    "name": "Lastra",
-    "query": "Lastra",
-    "rank": 3,
-    "tweet_count": "1,065 Tweets"
+    "tweet_count": "1,483 Tweets"
   },
   {
     "name": "#ReservaLPF",
     "query": "#ReservaLPF",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
+  },
+  {
+    "name": "Lastra",
+    "query": "Lastra",
+    "rank": 4,
+    "tweet_count": "1,088 Tweets"
   },
   {
     "name": "#quieroladeboca",
@@ -33,7 +33,7 @@
     "name": "#BuenMartes",
     "query": "#BuenMartes",
     "rank": 6,
-    "tweet_count": "1,909 Tweets"
+    "tweet_count": "1,970 Tweets"
   },
   {
     "name": "#DiaDelMate",
@@ -45,7 +45,7 @@
     "name": "UNESCO",
     "query": "UNESCO",
     "rank": 8,
-    "tweet_count": "10.6K Tweets"
+    "tweet_count": "10.9K Tweets"
   },
   {
     "name": "Lautaro Acosta",
@@ -54,63 +54,63 @@
     "tweet_count": null
   },
   {
-    "name": "Andrés Guacurarí",
-    "query": "\"Andrés Guacurarí\"",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
     "name": "Juan Darthés",
     "query": "\"Juan Darthés\"",
-    "rank": 11,
-    "tweet_count": "1,027 Tweets"
+    "rank": 10,
+    "tweet_count": "1,072 Tweets"
   },
   {
     "name": "Thelma Fardin",
     "query": "\"Thelma Fardin\"",
-    "rank": 12,
-    "tweet_count": "2,979 Tweets"
+    "rank": 11,
+    "tweet_count": "3,027 Tweets"
   },
   {
-    "name": "andresito",
-    "query": "andresito",
+    "name": "Andrés Guacurarí",
+    "query": "\"Andrés Guacurarí\"",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "\"Andresito\"",
+    "query": "\"Andresito\"",
     "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Baradel",
+    "query": "Baradel",
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Barbados",
     "query": "Barbados",
-    "rank": 14,
-    "tweet_count": "161K Tweets"
+    "rank": 15,
+    "tweet_count": "164K Tweets"
   },
   {
     "name": "Barco",
     "query": "Barco",
-    "rank": 15,
-    "tweet_count": "17.8K Tweets"
-  },
-  {
-    "name": "El 30",
-    "query": "\"El 30\"",
     "rank": 16,
-    "tweet_count": "117K Tweets"
+    "tweet_count": "18K Tweets"
   },
   {
     "name": "Antonella",
     "query": "Antonella",
     "rank": 17,
-    "tweet_count": "14.1K Tweets"
+    "tweet_count": "14.2K Tweets"
+  },
+  {
+    "name": "El 30",
+    "query": "\"El 30\"",
+    "rank": 18,
+    "tweet_count": "117K Tweets"
   },
   {
     "name": "jongin",
     "query": "jongin",
-    "rank": 18,
-    "tweet_count": "137K Tweets"
-  },
-  {
-    "name": "Lucio Dupuy",
-    "query": "\"Lucio Dupuy\"",
     "rank": 19,
-    "tweet_count": "4,397 Tweets"
+    "tweet_count": "138K Tweets"
   }
 ]
