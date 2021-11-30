@@ -1,21 +1,21 @@
 [
   {
+    "name": "#BallonDor",
+    "query": "#BallonDor",
+    "rank": 1,
+    "tweet_count": "1.28M Tweets"
+  },
+  {
     "name": "#Barstadsjulekalender",
     "query": "#Barstadsjulekalender",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "#BallonDor",
-    "query": "#BallonDor",
-    "rank": 2,
-    "tweet_count": "1.27M Tweets"
-  },
-  {
-    "name": "#BallonDor",
-    "query": "#BallonDor",
+    "name": "Lewandowski",
+    "query": "Lewandowski",
     "rank": 3,
-    "tweet_count": "1.27M Tweets"
+    "tweet_count": "556K Tweets"
   },
   {
     "name": "Carrick",
@@ -33,31 +33,31 @@
     "name": "#Binance",
     "query": "#Binance",
     "rank": 6,
-    "tweet_count": "245K Tweets"
+    "tweet_count": "247K Tweets"
+  },
+  {
+    "name": "#statsbudsjettet",
+    "query": "#statsbudsjettet",
+    "rank": 7,
+    "tweet_count": null
   },
   {
     "name": "Foden",
     "query": "Foden",
-    "rank": 7,
+    "rank": 8,
     "tweet_count": "14.4K Tweets"
   },
   {
     "name": "Argentina",
     "query": "Argentina",
-    "rank": 8,
-    "tweet_count": "184K Tweets"
-  },
-  {
-    "name": "Jota",
-    "query": "Jota",
     "rank": 9,
-    "tweet_count": "14.5K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Cyber Monday",
     "query": "\"Cyber Monday\"",
     "rank": 10,
-    "tweet_count": "243K Tweets"
+    "tweet_count": "244K Tweets"
   },
   {
     "name": "Statkraft",
@@ -66,16 +66,16 @@
     "tweet_count": null
   },
   {
-    "name": "Copa America",
-    "query": "\"Copa America\"",
-    "rank": 12,
-    "tweet_count": "105K Tweets"
-  },
-  {
     "name": "Gullballen",
     "query": "Gullballen",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "Jota",
+    "query": "Jota",
+    "rank": 13,
+    "tweet_count": "14.6K Tweets"
   },
   {
     "name": "Brekalo",
@@ -84,28 +84,28 @@
     "tweet_count": null
   },
   {
-    "name": "ENOVA",
-    "query": "ENOVA",
+    "name": "enova",
+    "query": "enova",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "ACER",
-    "query": "ACER",
+    "name": "Acer",
+    "query": "Acer",
     "rank": 16,
-    "tweet_count": "13.5K Tweets"
-  },
-  {
-    "name": "rip apetor",
-    "query": "\"rip apetor\"",
-    "rank": 17,
-    "tweet_count": null
+    "tweet_count": "13.7K Tweets"
   },
   {
     "name": "Fauci",
     "query": "Fauci",
+    "rank": 17,
+    "tweet_count": "203K Tweets"
+  },
+  {
+    "name": "RIP Apetor",
+    "query": "\"RIP Apetor\"",
     "rank": 18,
-    "tweet_count": "202K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Copa",
@@ -114,9 +114,9 @@
     "tweet_count": "187K Tweets"
   },
   {
-    "name": "statnett",
-    "query": "statnett",
+    "name": "Omicron",
+    "query": "Omicron",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "1.1M Tweets"
   }
 ]

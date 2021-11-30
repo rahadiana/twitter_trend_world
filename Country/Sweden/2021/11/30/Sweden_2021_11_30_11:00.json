@@ -1,7 +1,7 @@
 [
   {
-    "name": "Annika Strandhäll",
-    "query": "\"Annika Strandhäll\"",
+    "name": "Strandhäll",
+    "query": "Strandhäll",
     "rank": 1,
     "tweet_count": null
   },
@@ -9,7 +9,7 @@
     "name": "Ygeman",
     "query": "Ygeman",
     "rank": 2,
-    "tweet_count": "2,140 Tweets"
+    "tweet_count": "2,190 Tweets"
   },
   {
     "name": "Eneroth",
@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "jeanette gustafsdotter",
-    "query": "\"jeanette gustafsdotter\"",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
     "name": "Kakabaveh",
     "query": "Kakabaveh",
+    "rank": 5,
+    "tweet_count": "2,471 Tweets"
+  },
+  {
+    "name": "jeanette gustafsdotter",
+    "query": "\"jeanette gustafsdotter\"",
     "rank": 6,
-    "tweet_count": "2,458 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Khashayar Farmanbar",
@@ -57,65 +57,65 @@
     "name": "#BallonDor",
     "query": "#BallonDor",
     "rank": 10,
-    "tweet_count": "1.27M Tweets"
+    "tweet_count": "1.28M Tweets"
   },
   {
     "name": "#BallonDor",
     "query": "#BallonDor",
     "rank": 11,
-    "tweet_count": "1.27M Tweets"
-  },
-  {
-    "name": "Lina Axelsson Kihlblom",
-    "query": "\"Lina Axelsson Kihlblom\"",
-    "rank": 12,
-    "tweet_count": null
+    "tweet_count": "1.28M Tweets"
   },
   {
     "name": "Åkesson",
     "query": "Åkesson",
-    "rank": 13,
-    "tweet_count": "2,758 Tweets"
+    "rank": 12,
+    "tweet_count": "2,783 Tweets"
   },
   {
     "name": "Johan Danielsson",
     "query": "\"Johan Danielsson\"",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Karl-Petter Thorwaldsson",
     "query": "\"Karl-Petter Thorwaldsson\"",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Kurd",
     "query": "Kurd",
-    "rank": 16,
-    "tweet_count": "8,237 Tweets"
-  },
-  {
-    "name": "Elfsborg",
-    "query": "Elfsborg",
-    "rank": 17,
-    "tweet_count": null
+    "rank": 15,
+    "tweet_count": "8,285 Tweets"
   },
   {
     "name": "Lewandowski",
     "query": "Lewandowski",
-    "rank": 18,
-    "tweet_count": "554K Tweets"
-  },
-  {
-    "name": "Ida Karkiainen",
-    "query": "\"Ida Karkiainen\"",
-    "rank": 19,
-    "tweet_count": null
+    "rank": 16,
+    "tweet_count": "556K Tweets"
   },
   {
     "name": "Henok",
     "query": "Henok",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Ida Karkiainen",
+    "query": "\"Ida Karkiainen\"",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Lina Axelsson Kihlblom",
+    "query": "\"Lina Axelsson Kihlblom\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Elfsborg",
+    "query": "Elfsborg",
     "rank": 20,
     "tweet_count": null
   }

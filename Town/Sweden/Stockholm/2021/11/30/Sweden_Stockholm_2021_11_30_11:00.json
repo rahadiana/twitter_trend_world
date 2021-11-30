@@ -1,21 +1,21 @@
 [
   {
-    "name": "Annika Strandhäll",
-    "query": "\"Annika Strandhäll\"",
+    "name": "Strandhäll",
+    "query": "Strandhäll",
     "rank": 1,
-    "tweet_count": null
-  },
-  {
-    "name": "Eneroth",
-    "query": "Eneroth",
-    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Ygeman",
     "query": "Ygeman",
+    "rank": 2,
+    "tweet_count": "2,188 Tweets"
+  },
+  {
+    "name": "Eneroth",
+    "query": "Eneroth",
     "rank": 3,
-    "tweet_count": "2,136 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Morgan Johansson",
@@ -24,8 +24,8 @@
     "tweet_count": null
   },
   {
-    "name": "jeanette gustafsdotter",
-    "query": "\"jeanette gustafsdotter\"",
+    "name": "Jeanette Gustafsdotter",
+    "query": "\"Jeanette Gustafsdotter\"",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,89 +33,89 @@
     "name": "Kakabaveh",
     "query": "Kakabaveh",
     "rank": 6,
-    "tweet_count": "2,457 Tweets"
-  },
-  {
-    "name": "Mikael Damberg",
-    "query": "\"Mikael Damberg\"",
-    "rank": 7,
-    "tweet_count": null
+    "tweet_count": "2,470 Tweets"
   },
   {
     "name": "Khashayar Farmanbar",
     "query": "\"Khashayar Farmanbar\"",
-    "rank": 8,
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Truls",
     "query": "Truls",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "Mikael Damberg",
+    "query": "\"Mikael Damberg\"",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Messi",
-    "query": "Messi",
+    "name": "#BallonDor",
+    "query": "#BallonDor",
     "rank": 10,
-    "tweet_count": "2.11M Tweets"
+    "tweet_count": "1.28M Tweets"
   },
   {
-    "name": "Lina Axelsson Kihlblom",
-    "query": "\"Lina Axelsson Kihlblom\"",
+    "name": "#BallonDor",
+    "query": "#BallonDor",
     "rank": 11,
-    "tweet_count": null
+    "tweet_count": "1.28M Tweets"
   },
   {
     "name": "Åkesson",
     "query": "Åkesson",
     "rank": 12,
-    "tweet_count": "2,757 Tweets"
-  },
-  {
-    "name": "#BallonDor",
-    "query": "#BallonDor",
-    "rank": 13,
-    "tweet_count": "1.27M Tweets"
+    "tweet_count": "2,783 Tweets"
   },
   {
     "name": "Johan Danielsson",
     "query": "\"Johan Danielsson\"",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Karl-Petter Thorwaldsson",
     "query": "\"Karl-Petter Thorwaldsson\"",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Kurd",
     "query": "Kurd",
-    "rank": 16,
-    "tweet_count": "8,235 Tweets"
-  },
-  {
-    "name": "Elfsborg",
-    "query": "Elfsborg",
-    "rank": 17,
-    "tweet_count": null
+    "rank": 15,
+    "tweet_count": "8,285 Tweets"
   },
   {
     "name": "Lewandowski",
     "query": "Lewandowski",
-    "rank": 18,
-    "tweet_count": "553K Tweets"
+    "rank": 16,
+    "tweet_count": "555K Tweets"
   },
   {
     "name": "Ida Karkiainen",
     "query": "\"Ida Karkiainen\"",
-    "rank": 19,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Henok",
     "query": "Henok",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Lina Axelsson Kihlblom",
+    "query": "\"Lina Axelsson Kihlblom\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Elfsborg",
+    "query": "Elfsborg",
     "rank": 20,
     "tweet_count": null
   }
