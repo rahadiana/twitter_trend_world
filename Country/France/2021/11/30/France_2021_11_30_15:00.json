@@ -1,69 +1,69 @@
 [
   {
-    "name": "#ZemmourCandidat",
-    "query": "#ZemmourCandidat",
-    "rank": 1,
-    "tweet_count": "51.3K Tweets"
-  },
-  {
     "name": "Ton Pokémon",
     "query": "\"Ton Pokémon\"",
+    "rank": 1,
+    "tweet_count": "1,226 Tweets"
+  },
+  {
+    "name": "#ZemmourCandidat",
+    "query": "#ZemmourCandidat",
     "rank": 2,
-    "tweet_count": "1,184 Tweets"
+    "tweet_count": "52.1K Tweets"
   },
   {
     "name": "#JosephineBaker",
     "query": "#JosephineBaker",
     "rank": 3,
-    "tweet_count": "20.6K Tweets"
+    "tweet_count": "21.1K Tweets"
   },
   {
     "name": "Meilleure OST",
     "query": "\"Meilleure OST\"",
     "rank": 4,
-    "tweet_count": "1,876 Tweets"
+    "tweet_count": "1,908 Tweets"
   },
   {
     "name": "Beethoven",
     "query": "Beethoven",
     "rank": 5,
-    "tweet_count": "6,529 Tweets"
+    "tweet_count": "6,691 Tweets"
   },
   {
     "name": "Laylow",
     "query": "Laylow",
     "rank": 6,
-    "tweet_count": "8,186 Tweets"
+    "tweet_count": "8,314 Tweets"
   },
   {
     "name": "De Gaulle",
     "query": "\"De Gaulle\"",
     "rank": 7,
-    "tweet_count": "6,656 Tweets"
+    "tweet_count": "6,812 Tweets"
   },
   {
     "name": "Panthéon",
     "query": "Panthéon",
     "rank": 8,
-    "tweet_count": "30.6K Tweets"
+    "tweet_count": "31.1K Tweets"
   },
   {
     "name": "#GivingTuesday",
     "query": "#GivingTuesday",
     "rank": 9,
-    "tweet_count": "109K Tweets"
+    "tweet_count": "114K Tweets"
   },
   {
     "name": "Pétain",
     "query": "Pétain",
     "rank": 10,
-    "tweet_count": "3,966 Tweets"
+    "tweet_count": "4,044 Tweets"
   },
   {
-    "name": "#Schiappa",
-    "query": "#Schiappa",
+    "name": "DBS Broly",
+    "query": "\"DBS Broly\"",
     "rank": 11,
-    "tweet_count": "5,622 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Meilleur Jeu DB",
@@ -72,10 +72,10 @@
     "tweet_count": null
   },
   {
-    "name": "Premier Jeu DB",
-    "query": "\"Premier Jeu DB\"",
+    "name": "#Schiappa",
+    "query": "#Schiappa",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "5,783 Tweets"
   },
   {
     "name": "Pire Jeu DB",
@@ -84,38 +84,38 @@
     "tweet_count": null
   },
   {
-    "name": "Dernier Jeu DB",
-    "query": "\"Dernier Jeu DB\"",
+    "name": "Premier Jeu DB",
+    "query": "\"Premier Jeu DB\"",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "Ton Halo",
-    "query": "\"Ton Halo\"",
+    "name": "Dernier Jeu DB",
+    "query": "\"Dernier Jeu DB\"",
     "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Dernier Tales",
+    "query": "\"Dernier Tales\"",
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Meilleur Smash",
     "query": "\"Meilleur Smash\"",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Premier Smash",
     "query": "\"Premier Smash\"",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Meilleur Perso",
     "query": "\"Meilleur Perso\"",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "DBS Broly",
-    "query": "\"DBS Broly\"",
     "rank": 20,
     "tweet_count": null
   }
