@@ -6,16 +6,16 @@
     "tweet_count": null
   },
   {
-    "name": "#BallonDor",
-    "query": "#BallonDor",
-    "rank": 2,
-    "tweet_count": "181K Tweets"
-  },
-  {
     "name": "Adventskalender",
     "query": "Adventskalender",
+    "rank": 2,
+    "tweet_count": "6,119 Tweets"
+  },
+  {
+    "name": "#BallonDor",
+    "query": "#BallonDor",
     "rank": 3,
-    "tweet_count": "5,788 Tweets"
+    "tweet_count": "182K Tweets"
   },
   {
     "name": "#ORFReport",
@@ -27,11 +27,11 @@
     "name": "#JKvsP7",
     "query": "#JKvsP7",
     "rank": 5,
-    "tweet_count": "5,282 Tweets"
+    "tweet_count": "5,275 Tweets"
   },
   {
-    "name": "#LUXAUT",
-    "query": "#LUXAUT",
+    "name": "#luxaut",
+    "query": "#luxaut",
     "rank": 6,
     "tweet_count": null
   },
@@ -39,7 +39,7 @@
     "name": "Josef",
     "query": "Josef",
     "rank": 7,
-    "tweet_count": "18.8K Tweets"
+    "tweet_count": "18.9K Tweets"
   },
   {
     "name": "Sonntagsöffnung",
@@ -51,71 +51,71 @@
     "name": "Corona",
     "query": "Corona",
     "rank": 9,
-    "tweet_count": "144K Tweets"
-  },
-  {
-    "name": "Sturm",
-    "query": "Sturm",
-    "rank": 10,
-    "tweet_count": "2,294 Tweets"
+    "tweet_count": "147K Tweets"
   },
   {
     "name": "Türchen",
     "query": "Türchen",
-    "rank": 11,
-    "tweet_count": "2,321 Tweets"
-  },
-  {
-    "name": "Mozartkugeln",
-    "query": "Mozartkugeln",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Messi",
-    "query": "Messi",
-    "rank": 13,
-    "tweet_count": "683K Tweets"
-  },
-  {
-    "name": "Supermarkt",
-    "query": "Supermarkt",
-    "rank": 14,
-    "tweet_count": "2,473 Tweets"
+    "rank": 10,
+    "tweet_count": "2,504 Tweets"
   },
   {
     "name": "Peter",
     "query": "Peter",
-    "rank": 15,
-    "tweet_count": "110K Tweets"
+    "rank": 11,
+    "tweet_count": "112K Tweets"
   },
   {
-    "name": "Verkehr",
-    "query": "Verkehr",
-    "rank": 16,
-    "tweet_count": "1,017 Tweets"
-  },
-  {
-    "name": "Lewa",
-    "query": "Lewa",
-    "rank": 17,
-    "tweet_count": "22K Tweets"
+    "name": "Sturm",
+    "query": "Sturm",
+    "rank": 12,
+    "tweet_count": "2,310 Tweets"
   },
   {
     "name": "Impfpflicht",
     "query": "Impfpflicht",
-    "rank": 18,
+    "rank": 13,
+    "tweet_count": "61.1K Tweets"
+  },
+  {
+    "name": "Mozartkugeln",
+    "query": "Mozartkugeln",
+    "rank": 14,
     "tweet_count": null
+  },
+  {
+    "name": "Supermarkt",
+    "query": "Supermarkt",
+    "rank": 15,
+    "tweet_count": "2,529 Tweets"
+  },
+  {
+    "name": "Messi",
+    "query": "Messi",
+    "rank": 16,
+    "tweet_count": "688K Tweets"
+  },
+  {
+    "name": "Verkehr",
+    "query": "Verkehr",
+    "rank": 17,
+    "tweet_count": "1,038 Tweets"
+  },
+  {
+    "name": "Lewa",
+    "query": "Lewa",
+    "rank": 18,
+    "tweet_count": "22.1K Tweets"
   },
   {
     "name": "Fake News",
     "query": "\"Fake News\"",
     "rank": 19,
-    "tweet_count": "91.3K Tweets"
+    "tweet_count": "91.9K Tweets"
   },
   {
-    "name": "Haushalte",
-    "query": "Haushalte",
+    "name": "Socken",
+    "query": "Socken",
     "rank": 20,
     "tweet_count": null
   }
