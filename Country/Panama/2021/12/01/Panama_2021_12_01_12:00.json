@@ -1,13 +1,13 @@
 [
   {
-    "name": "Pacto del Bicentenario",
-    "query": "\"Pacto del Bicentenario\"",
+    "name": "Maestro",
+    "query": "Maestro",
     "rank": 1,
-    "tweet_count": null
+    "tweet_count": "25.9K Tweets"
   },
   {
-    "name": "Cerrando Brechas",
-    "query": "\"Cerrando Brechas\"",
+    "name": "Pacto del Bicentenario",
+    "query": "\"Pacto del Bicentenario\"",
     "rank": 2,
     "tweet_count": null
   },
@@ -15,25 +15,25 @@
     "name": "Messi",
     "query": "Messi",
     "rank": 3,
-    "tweet_count": "560K Tweets"
+    "tweet_count": "578K Tweets"
   },
   {
-    "name": "Maestro",
-    "query": "Maestro",
+    "name": "Cerrando Brechas",
+    "query": "\"Cerrando Brechas\"",
     "rank": 4,
-    "tweet_count": "25.2K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Foco",
+    "query": "Foco",
+    "rank": 5,
+    "tweet_count": "19K Tweets"
   },
   {
     "name": "#BalondeOro",
     "query": "#BalondeOro",
-    "rank": 5,
-    "tweet_count": "18.9K Tweets"
-  },
-  {
-    "name": "Rihanna",
-    "query": "Rihanna",
     "rank": 6,
-    "tweet_count": "339K Tweets"
+    "tweet_count": "19K Tweets"
   },
   {
     "name": "feliz martes",
@@ -42,81 +42,81 @@
     "tweet_count": "15.3K Tweets"
   },
   {
-    "name": "Foco",
-    "query": "Foco",
+    "name": "Blandón",
+    "query": "Blandón",
     "rank": 8,
-    "tweet_count": "18.5K Tweets"
-  },
-  {
-    "name": "Estados Unidos",
-    "query": "\"Estados Unidos\"",
-    "rank": 9,
-    "tweet_count": "44.2K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#BallonDor",
     "query": "#BallonDor",
-    "rank": 10,
-    "tweet_count": "106K Tweets"
-  },
-  {
-    "name": "Blandón",
-    "query": "Blandón",
-    "rank": 11,
-    "tweet_count": null
+    "rank": 9,
+    "tweet_count": "107K Tweets"
   },
   {
     "name": "Benzema",
     "query": "Benzema",
-    "rank": 12,
+    "rank": 10,
+    "tweet_count": "46K Tweets"
+  },
+  {
+    "name": "Estados Unidos",
+    "query": "\"Estados Unidos\"",
+    "rank": 11,
     "tweet_count": "45.3K Tweets"
+  },
+  {
+    "name": "Colón",
+    "query": "Colón",
+    "rank": 12,
+    "tweet_count": "12.7K Tweets"
+  },
+  {
+    "name": "Rihanna",
+    "query": "Rihanna",
+    "rank": 13,
+    "tweet_count": "345K Tweets"
   },
   {
     "name": "Lewandowski",
     "query": "Lewandowski",
-    "rank": 13,
-    "tweet_count": "104K Tweets"
-  },
-  {
-    "name": "Stone Ocean",
-    "query": "\"Stone Ocean\"",
     "rank": 14,
-    "tweet_count": "68.4K Tweets"
-  },
-  {
-    "name": "Barbados",
-    "query": "Barbados",
-    "rank": 15,
-    "tweet_count": "187K Tweets"
-  },
-  {
-    "name": "xiomara santamaría",
-    "query": "\"xiomara santamaría\"",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "#ElPoderDelAmorChismes",
-    "query": "#ElPoderDelAmorChismes",
-    "rank": 17,
-    "tweet_count": "3,765 Tweets"
-  },
-  {
-    "name": "agustín lara",
-    "query": "\"agustín lara\"",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "#noticiastvn",
-    "query": "#noticiastvn",
-    "rank": 19,
-    "tweet_count": null
+    "tweet_count": "106K Tweets"
   },
   {
     "name": "Laurentino Cortizo",
     "query": "\"Laurentino Cortizo\"",
-    "rank": 20,
+    "rank": 15,
     "tweet_count": null
+  },
+  {
+    "name": "Barbados",
+    "query": "Barbados",
+    "rank": 16,
+    "tweet_count": "189K Tweets"
+  },
+  {
+    "name": "Stone Ocean",
+    "query": "\"Stone Ocean\"",
+    "rank": 17,
+    "tweet_count": "71.6K Tweets"
+  },
+  {
+    "name": "xiomara santamaría",
+    "query": "\"xiomara santamaría\"",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "agustín lara",
+    "query": "\"agustín lara\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "#elpoderdelamorchismes",
+    "query": "#elpoderdelamorchismes",
+    "rank": 20,
+    "tweet_count": "3,775 Tweets"
   }
 ]
