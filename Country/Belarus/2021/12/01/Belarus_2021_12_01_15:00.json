@@ -1,39 +1,39 @@
 [
   {
+    "name": "#SpotifyWrapped",
+    "query": "#SpotifyWrapped",
+    "rank": 1,
+    "tweet_count": "275K Tweets"
+  },
+  {
     "name": "Альбедо",
     "query": "Альбедо",
-    "rank": 1,
-    "tweet_count": "8,677 Tweets"
+    "rank": 2,
+    "tweet_count": "8,999 Tweets"
   },
   {
     "name": "Крым",
     "query": "Крым",
-    "rank": 2,
-    "tweet_count": "5,828 Tweets"
+    "rank": 3,
+    "tweet_count": "5,933 Tweets"
   },
   {
     "name": "#клубромантики",
     "query": "#клубромантики",
-    "rank": 3,
-    "tweet_count": "1,592 Tweets"
+    "rank": 4,
+    "tweet_count": "1,632 Tweets"
   },
   {
     "name": "#cars",
     "query": "#cars",
-    "rank": 4,
-    "tweet_count": "1,645 Tweets"
+    "rank": 5,
+    "tweet_count": "1,671 Tweets"
   },
   {
     "name": "#AutonomousVehicles",
     "query": "#AutonomousVehicles",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "COVID-19",
-    "query": "COVID-19",
     "rank": 6,
-    "tweet_count": "464K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#SelfDriving",
@@ -45,37 +45,37 @@
     "name": "НЕ МОГУ",
     "query": "\"НЕ МОГУ\"",
     "rank": 8,
-    "tweet_count": "16.6K Tweets"
-  },
-  {
-    "name": "#DeFi",
-    "query": "#DeFi",
-    "rank": 9,
-    "tweet_count": "124K Tweets"
+    "tweet_count": "17K Tweets"
   },
   {
     "name": "Russian",
     "query": "Russian",
+    "rank": 9,
+    "tweet_count": "53.4K Tweets"
+  },
+  {
+    "name": "точно",
+    "query": "точно",
     "rank": 10,
-    "tweet_count": "52.3K Tweets"
-  },
-  {
-    "name": "Точно",
-    "query": "Точно",
-    "rank": 11,
-    "tweet_count": "10.6K Tweets"
-  },
-  {
-    "name": "Люблю",
-    "query": "Люблю",
-    "rank": 12,
-    "tweet_count": "19.7K Tweets"
+    "tweet_count": "10.9K Tweets"
   },
   {
     "name": "Christmas",
     "query": "Christmas",
+    "rank": 11,
+    "tweet_count": "1.22M Tweets"
+  },
+  {
+    "name": "Ukraine",
+    "query": "Ukraine",
+    "rank": 12,
+    "tweet_count": "40.7K Tweets"
+  },
+  {
+    "name": "Люблю",
+    "query": "Люблю",
     "rank": 13,
-    "tweet_count": "1.19M Tweets"
+    "tweet_count": "20.4K Tweets"
   },
   {
     "name": "Реальный Брест",
@@ -87,25 +87,25 @@
     "name": "Давай",
     "query": "Давай",
     "rank": 15,
-    "tweet_count": "6,213 Tweets"
+    "tweet_count": "6,384 Tweets"
   },
   {
     "name": "СССР",
     "query": "СССР",
     "rank": 16,
-    "tweet_count": "5,350 Tweets"
+    "tweet_count": "5,479 Tweets"
   },
   {
     "name": "Понимаю",
     "query": "Понимаю",
     "rank": 17,
-    "tweet_count": "13K Tweets"
+    "tweet_count": "13.4K Tweets"
   },
   {
     "name": "Украине",
     "query": "Украине",
     "rank": 18,
-    "tweet_count": "6,763 Tweets"
+    "tweet_count": "6,923 Tweets"
   },
   {
     "name": "Минска",
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "Belarus",
-    "query": "Belarus",
+    "name": "Реально",
+    "query": "Реально",
     "rank": 20,
-    "tweet_count": "11.8K Tweets"
+    "tweet_count": "9,015 Tweets"
   }
 ]

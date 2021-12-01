@@ -1,21 +1,21 @@
 [
   {
-    "name": "Strandhäll",
-    "query": "Strandhäll",
-    "rank": 1,
-    "tweet_count": "7,673 Tweets"
-  },
-  {
     "name": "#SpotifyWrapped",
     "query": "#SpotifyWrapped",
+    "rank": 1,
+    "tweet_count": "275K Tweets"
+  },
+  {
+    "name": "Strandhäll",
+    "query": "Strandhäll",
     "rank": 2,
-    "tweet_count": "165K Tweets"
+    "tweet_count": "7,976 Tweets"
   },
   {
     "name": "Kronofogden",
     "query": "Kronofogden",
     "rank": 3,
-    "tweet_count": "4,703 Tweets"
+    "tweet_count": "4,859 Tweets"
   },
   {
     "name": "Karl XII",
@@ -27,7 +27,7 @@
     "name": "Ygeman",
     "query": "Ygeman",
     "rank": 5,
-    "tweet_count": "1,885 Tweets"
+    "tweet_count": "1,923 Tweets"
   },
   {
     "name": "Krya",
@@ -45,13 +45,13 @@
     "name": "Morgan Johansson",
     "query": "\"Morgan Johansson\"",
     "rank": 8,
-    "tweet_count": "1,394 Tweets"
+    "tweet_count": "1,429 Tweets"
   },
   {
-    "name": "eneroth",
-    "query": "eneroth",
+    "name": "Eneroth",
+    "query": "Eneroth",
     "rank": 9,
-    "tweet_count": "1,234 Tweets"
+    "tweet_count": "1,244 Tweets"
   },
   {
     "name": "#POLIS21",
@@ -66,28 +66,28 @@
     "tweet_count": null
   },
   {
-    "name": "kakabaveh",
-    "query": "kakabaveh",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
     "name": "lucka 1",
     "query": "\"lucka 1\"",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "#WorldAIDSDay",
     "query": "#WorldAIDSDay",
-    "rank": 14,
-    "tweet_count": "127K Tweets"
+    "rank": 13,
+    "tweet_count": "131K Tweets"
   },
   {
     "name": "Magdalena Andersson",
     "query": "\"Magdalena Andersson\"",
+    "rank": 14,
+    "tweet_count": "3,993 Tweets"
+  },
+  {
+    "name": "Lina Axelsson Kihlblom",
+    "query": "\"Lina Axelsson Kihlblom\"",
     "rank": 15,
-    "tweet_count": "3,912 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Toblerone",
@@ -102,15 +102,15 @@
     "tweet_count": null
   },
   {
-    "name": "lina axelsson kihlblom",
-    "query": "\"lina axelsson kihlblom\"",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
     "name": "Chernobyl",
     "query": "Chernobyl",
+    "rank": 18,
+    "tweet_count": "2,632 Tweets"
+  },
+  {
+    "name": "kivra",
+    "query": "kivra",
     "rank": 19,
-    "tweet_count": "2,588 Tweets"
+    "tweet_count": null
   }
 ]
