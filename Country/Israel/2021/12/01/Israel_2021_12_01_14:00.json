@@ -9,25 +9,25 @@
     "name": "Tel Aviv",
     "query": "\"Tel Aviv\"",
     "rank": 2,
-    "tweet_count": "4,136 Tweets"
+    "tweet_count": "4,249 Tweets"
   },
   {
     "name": "ניר חפץ",
     "query": "\"ניר חפץ\"",
     "rank": 3,
-    "tweet_count": "5,340 Tweets"
+    "tweet_count": "5,567 Tweets"
   },
   {
     "name": "של חפץ",
     "query": "\"של חפץ\"",
     "rank": 4,
-    "tweet_count": "6,651 Tweets"
+    "tweet_count": "6,878 Tweets"
   },
   {
     "name": "תל אביב",
     "query": "\"תל אביב\"",
     "rank": 5,
-    "tweet_count": "1,709 Tweets"
+    "tweet_count": "1,739 Tweets"
   },
   {
     "name": "בן ארי",
@@ -51,43 +51,43 @@
     "name": "של הפרקליטות",
     "query": "\"של הפרקליטות\"",
     "rank": 9,
-    "tweet_count": "2,258 Tweets"
+    "tweet_count": "2,290 Tweets"
+  },
+  {
+    "name": "חבורה של",
+    "query": "\"חבורה של\"",
+    "rank": 10,
+    "tweet_count": null
   },
   {
     "name": "פתח תקווה",
     "query": "\"פתח תקווה\"",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "שי ניצן",
     "query": "\"שי ניצן\"",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "עד מדינה",
     "query": "\"עד מדינה\"",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Paris",
     "query": "Paris",
-    "rank": 13,
-    "tweet_count": "126K Tweets"
+    "rank": 14,
+    "tweet_count": "129K Tweets"
   },
   {
     "name": "נו ו",
     "query": "\"נו ו\"",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Spotify",
-    "query": "Spotify",
     "rank": 15,
-    "tweet_count": "739K Tweets"
+    "tweet_count": null
   },
   {
     "name": "דגל ישראל",
@@ -99,7 +99,7 @@
     "name": "בוקר טוב",
     "query": "\"בוקר טוב\"",
     "rank": 17,
-    "tweet_count": "1,032 Tweets"
+    "tweet_count": "1,036 Tweets"
   },
   {
     "name": "חג שמח",
@@ -117,6 +117,6 @@
     "name": "Hamas",
     "query": "Hamas",
     "rank": 20,
-    "tweet_count": "3,629 Tweets"
+    "tweet_count": "3,691 Tweets"
   }
 ]
