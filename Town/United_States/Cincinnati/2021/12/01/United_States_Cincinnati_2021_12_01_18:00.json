@@ -1,116 +1,122 @@
 [
   {
+    "name": "Taylor Swift",
+    "query": "\"Taylor Swift\"",
+    "rank": 1,
+    "tweet_count": "95.1K Tweets"
+  },
+  {
     "name": "#SpotifyWrapped",
     "query": "#SpotifyWrapped",
-    "rank": 1,
-    "tweet_count": "816K Tweets"
+    "rank": 2,
+    "tweet_count": "869K Tweets"
   },
   {
     "name": "#SCOTUS",
     "query": "#SCOTUS",
-    "rank": 2,
-    "tweet_count": "27.5K Tweets"
+    "rank": 3,
+    "tweet_count": "30.3K Tweets"
   },
   {
     "name": "Dick Pound",
     "query": "\"Dick Pound\"",
-    "rank": 3,
-    "tweet_count": "7,007 Tweets"
+    "rank": 4,
+    "tweet_count": "7,581 Tweets"
   },
   {
     "name": "#WorldAIDSDay",
     "query": "#WorldAIDSDay",
-    "rank": 4,
-    "tweet_count": "153K Tweets"
+    "rank": 5,
+    "tweet_count": "156K Tweets"
   },
   {
     "name": "Dream SMP",
     "query": "\"Dream SMP\"",
-    "rank": 5,
-    "tweet_count": "18.8K Tweets"
-  },
-  {
-    "name": "Godfall",
-    "query": "Godfall",
     "rank": 6,
-    "tweet_count": "4,088 Tweets"
+    "tweet_count": "12.1K Tweets"
   },
   {
     "name": "Last Zelda",
     "query": "\"Last Zelda\"",
     "rank": 7,
-    "tweet_count": "2,408 Tweets"
-  },
-  {
-    "name": "Justin Shilling",
-    "query": "\"Justin Shilling\"",
-    "rank": 8,
-    "tweet_count": "1,233 Tweets"
-  },
-  {
-    "name": "#December1st",
-    "query": "#December1st",
-    "rank": 9,
-    "tweet_count": "15.2K Tweets"
-  },
-  {
-    "name": "#wednesdaythought",
-    "query": "#wednesdaythought",
-    "rank": 10,
-    "tweet_count": "32.4K Tweets"
-  },
-  {
-    "name": "Rosa Parks",
-    "query": "\"Rosa Parks\"",
-    "rank": 11,
-    "tweet_count": "12.4K Tweets"
-  },
-  {
-    "name": "Lovejoy",
-    "query": "Lovejoy",
-    "rank": 12,
-    "tweet_count": "8,364 Tweets"
-  },
-  {
-    "name": "Roddy",
-    "query": "Roddy",
-    "rank": 13,
-    "tweet_count": "10.5K Tweets"
-  },
-  {
-    "name": "Charlie Baker",
-    "query": "\"Charlie Baker\"",
-    "rank": 14,
-    "tweet_count": "3,797 Tweets"
-  },
-  {
-    "name": "Gold Star",
-    "query": "\"Gold Star\"",
-    "rank": 15,
-    "tweet_count": "24.4K Tweets"
-  },
-  {
-    "name": "Titanfall",
-    "query": "Titanfall",
-    "rank": 16,
-    "tweet_count": "2,297 Tweets"
-  },
-  {
-    "name": "Alvin Lucier",
-    "query": "\"Alvin Lucier\"",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Margaret Sanger",
-    "query": "\"Margaret Sanger\"",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "2,558 Tweets"
   },
   {
     "name": "#ProBowlVote",
     "query": "#ProBowlVote",
+    "rank": 8,
+    "tweet_count": "94K Tweets"
+  },
+  {
+    "name": "Godfall",
+    "query": "Godfall",
+    "rank": 9,
+    "tweet_count": "4,581 Tweets"
+  },
+  {
+    "name": "#December1st",
+    "query": "#December1st",
+    "rank": 10,
+    "tweet_count": "15.7K Tweets"
+  },
+  {
+    "name": "Plessy",
+    "query": "Plessy",
+    "rank": 11,
+    "tweet_count": "2,246 Tweets"
+  },
+  {
+    "name": "Justin Shilling",
+    "query": "\"Justin Shilling\"",
+    "rank": 12,
+    "tweet_count": "1,609 Tweets"
+  },
+  {
+    "name": "Titanfall",
+    "query": "Titanfall",
+    "rank": 13,
+    "tweet_count": "2,968 Tweets"
+  },
+  {
+    "name": "Rosa Parks",
+    "query": "\"Rosa Parks\"",
+    "rank": 14,
+    "tweet_count": "13K Tweets"
+  },
+  {
+    "name": "Roddy",
+    "query": "Roddy",
+    "rank": 15,
+    "tweet_count": "11.1K Tweets"
+  },
+  {
+    "name": "Lovejoy",
+    "query": "Lovejoy",
+    "rank": 16,
+    "tweet_count": "9,001 Tweets"
+  },
+  {
+    "name": "Margaret Sanger",
+    "query": "\"Margaret Sanger\"",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Gold Star",
+    "query": "\"Gold Star\"",
+    "rank": 18,
+    "tweet_count": "27.6K Tweets"
+  },
+  {
+    "name": "Alvin Lucier",
+    "query": "\"Alvin Lucier\"",
     "rank": 19,
-    "tweet_count": "86.1K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Planned Parenthood",
+    "query": "\"Planned Parenthood\"",
+    "rank": 20,
+    "tweet_count": "5,232 Tweets"
   }
 ]
