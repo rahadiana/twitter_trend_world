@@ -1,21 +1,21 @@
 [
   {
-    "name": "California",
-    "query": "California",
-    "rank": 1,
-    "tweet_count": "94.7K Tweets"
-  },
-  {
     "name": "Taylor Swift",
     "query": "\"Taylor Swift\"",
-    "rank": 2,
-    "tweet_count": "97.6K Tweets"
+    "rank": 1,
+    "tweet_count": "98.2K Tweets"
   },
   {
     "name": "Donald Trump",
     "query": "\"Donald Trump\"",
+    "rank": 2,
+    "tweet_count": "161K Tweets"
+  },
+  {
+    "name": "California",
+    "query": "California",
     "rank": 3,
-    "tweet_count": "158K Tweets"
+    "tweet_count": "97.8K Tweets"
   },
   {
     "name": "Scott Boras",
@@ -27,96 +27,96 @@
     "name": "Senate",
     "query": "Senate",
     "rank": 5,
-    "tweet_count": "160K Tweets"
+    "tweet_count": "161K Tweets"
   },
   {
     "name": "Freeman",
     "query": "Freeman",
     "rank": 6,
-    "tweet_count": "30.9K Tweets"
+    "tweet_count": "31.2K Tweets"
   },
   {
     "name": "Jazmine Sullivan",
     "query": "\"Jazmine Sullivan\"",
     "rank": 7,
-    "tweet_count": "6,163 Tweets"
+    "tweet_count": "6,215 Tweets"
   },
   {
     "name": "#StoneOcean",
     "query": "#StoneOcean",
     "rank": 8,
-    "tweet_count": "22.2K Tweets"
+    "tweet_count": "22.4K Tweets"
   },
   {
     "name": "Max Scherzer",
     "query": "\"Max Scherzer\"",
     "rank": 9,
-    "tweet_count": "9,887 Tweets"
+    "tweet_count": "10.1K Tweets"
   },
   {
     "name": "Lana",
     "query": "Lana",
     "rank": 10,
-    "tweet_count": "39.6K Tweets"
+    "tweet_count": "40.1K Tweets"
+  },
+  {
+    "name": "#Christmas2021",
+    "query": "#Christmas2021",
+    "rank": 11,
+    "tweet_count": "17.2K Tweets"
+  },
+  {
+    "name": "phoebe",
+    "query": "phoebe",
+    "rank": 12,
+    "tweet_count": "12.6K Tweets"
+  },
+  {
+    "name": "Meadows",
+    "query": "Meadows",
+    "rank": 13,
+    "tweet_count": "96.9K Tweets"
   },
   {
     "name": "Spotify",
     "query": "Spotify",
-    "rank": 11,
-    "tweet_count": "2.12M Tweets"
+    "rank": 14,
+    "tweet_count": "2.16M Tweets"
   },
   {
     "name": "SCOTUS",
     "query": "SCOTUS",
-    "rank": 12,
-    "tweet_count": "100K Tweets"
-  },
-  {
-    "name": "Dick Pound",
-    "query": "\"Dick Pound\"",
-    "rank": 13,
-    "tweet_count": "8,392 Tweets"
+    "rank": 15,
+    "tweet_count": "103K Tweets"
   },
   {
     "name": "#OmicronVarient",
     "query": "#OmicronVarient",
-    "rank": 14,
-    "tweet_count": "7,418 Tweets"
+    "rank": 16,
+    "tweet_count": "7,914 Tweets"
+  },
+  {
+    "name": "Dick Pound",
+    "query": "\"Dick Pound\"",
+    "rank": 17,
+    "tweet_count": "8,565 Tweets"
   },
   {
     "name": "#WorldAIDSDay",
     "query": "#WorldAIDSDay",
-    "rank": 15,
-    "tweet_count": "160K Tweets"
+    "rank": 18,
+    "tweet_count": "161K Tweets"
+  },
+  {
+    "name": "Bo Burnham",
+    "query": "\"Bo Burnham\"",
+    "rank": 19,
+    "tweet_count": "5,778 Tweets"
   },
   {
     "name": "Dream SMP",
     "query": "\"Dream SMP\"",
-    "rank": 16,
-    "tweet_count": "12.7K Tweets"
-  },
-  {
-    "name": "Titanfall",
-    "query": "Titanfall",
-    "rank": 17,
-    "tweet_count": "4,051 Tweets"
-  },
-  {
-    "name": "Rounders",
-    "query": "Rounders",
-    "rank": 18,
-    "tweet_count": "1,377 Tweets"
-  },
-  {
-    "name": "Godfall",
-    "query": "Godfall",
-    "rank": 19,
-    "tweet_count": "5,413 Tweets"
-  },
-  {
-    "name": "Last Zelda",
-    "query": "\"Last Zelda\"",
     "rank": 20,
-    "tweet_count": "2,716 Tweets"
+    "tweet_count": "23.2K Tweets"
   }
 ]
