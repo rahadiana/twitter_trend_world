@@ -6,10 +6,10 @@
     "tweet_count": null
   },
   {
-    "name": "#BallonDor",
-    "query": "#BallonDor",
+    "name": "#NDCOslo",
+    "query": "#NDCOslo",
     "rank": 2,
-    "tweet_count": "86K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Barstadsjulekalender",
@@ -18,20 +18,20 @@
     "tweet_count": null
   },
   {
-    "name": "#ndcoslo",
-    "query": "#ndcoslo",
+    "name": "#BallonDor",
+    "query": "#BallonDor",
     "rank": 4,
+    "tweet_count": "86.2K Tweets"
+  },
+  {
+    "name": "bjørkan",
+    "query": "bjørkan",
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "#nrkdebatt",
     "query": "#nrkdebatt",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Bjørkan",
-    "query": "Bjørkan",
     "rank": 6,
     "tweet_count": null
   },
@@ -45,41 +45,41 @@
     "name": "Christmas",
     "query": "Christmas",
     "rank": 8,
-    "tweet_count": "1.19M Tweets"
-  },
-  {
-    "name": "Newcastle",
-    "query": "Newcastle",
-    "rank": 9,
-    "tweet_count": "30.8K Tweets"
+    "tweet_count": "1.2M Tweets"
   },
   {
     "name": "Giske",
     "query": "Giske",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
-  },
-  {
-    "name": "Magnus",
-    "query": "Magnus",
-    "rank": 11,
-    "tweet_count": "6,095 Tweets"
   },
   {
     "name": "Øygarden",
     "query": "Øygarden",
-    "rank": 12,
+    "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Norwich",
-    "query": "Norwich",
-    "rank": 13,
-    "tweet_count": "19.8K Tweets"
+    "name": "Newcastle",
+    "query": "Newcastle",
+    "rank": 11,
+    "tweet_count": "30.9K Tweets"
+  },
+  {
+    "name": "Magnus",
+    "query": "Magnus",
+    "rank": 12,
+    "tweet_count": "6,142 Tweets"
   },
   {
     "name": "Eva Kristin Hansen",
     "query": "\"Eva Kristin Hansen\"",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "kristiania",
+    "query": "kristiania",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,36 +87,36 @@
     "name": "Armenia",
     "query": "Armenia",
     "rank": 15,
-    "tweet_count": "3,470 Tweets"
+    "tweet_count": "3,501 Tweets"
   },
   {
-    "name": "Kristiania",
-    "query": "Kristiania",
+    "name": "statkraft",
+    "query": "statkraft",
     "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Statkraft",
-    "query": "Statkraft",
-    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Ray Kennedy",
     "query": "\"Ray Kennedy\"",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": "15.8K Tweets"
   },
   {
     "name": "Vålerenga",
     "query": "Vålerenga",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Copa America",
+    "query": "\"Copa America\"",
+    "rank": 19,
+    "tweet_count": "26.7K Tweets"
   },
   {
     "name": "Lewa",
     "query": "Lewa",
     "rank": 20,
-    "tweet_count": "15.9K Tweets"
+    "tweet_count": "16.1K Tweets"
   }
 ]
