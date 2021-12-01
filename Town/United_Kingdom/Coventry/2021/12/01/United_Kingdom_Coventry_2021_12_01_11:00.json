@@ -1,33 +1,33 @@
 [
   {
-    "name": "#ThisMorning",
-    "query": "#ThisMorning",
-    "rank": 1,
-    "tweet_count": "1,010 Tweets"
-  },
-  {
     "name": "#kindness",
     "query": "#kindness",
-    "rank": 2,
-    "tweet_count": "2,667 Tweets"
+    "rank": 1,
+    "tweet_count": "2,693 Tweets"
   },
   {
     "name": "Christensen",
     "query": "Christensen",
+    "rank": 2,
+    "tweet_count": "7,007 Tweets"
+  },
+  {
+    "name": "#utft",
+    "query": "#utft",
     "rank": 3,
-    "tweet_count": "6,840 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#NationalTreeWeek",
     "query": "#NationalTreeWeek",
     "rank": 4,
-    "tweet_count": "1,316 Tweets"
+    "tweet_count": "1,339 Tweets"
   },
   {
     "name": "#WorldAIDSDay",
     "query": "#WorldAIDSDay",
     "rank": 5,
-    "tweet_count": "88.5K Tweets"
+    "tweet_count": "91.1K Tweets"
   },
   {
     "name": "Johanna Konta",
@@ -48,10 +48,10 @@
     "tweet_count": null
   },
   {
-    "name": "Nokia 3310",
-    "query": "\"Nokia 3310\"",
+    "name": "Hancock",
+    "query": "Hancock",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "24.8K Tweets"
   },
   {
     "name": "Kevin Bridges",
@@ -63,54 +63,54 @@
     "name": "Jailed for 51",
     "query": "\"Jailed for 51\"",
     "rank": 11,
-    "tweet_count": "2,776 Tweets"
+    "tweet_count": "2,938 Tweets"
   },
   {
-    "name": "Hancock",
-    "query": "Hancock",
+    "name": "Derby Day",
+    "query": "\"Derby Day\"",
     "rank": 12,
-    "tweet_count": "24K Tweets"
+    "tweet_count": "1,826 Tweets"
   },
   {
     "name": "Alice Sebold",
     "query": "\"Alice Sebold\"",
     "rank": 13,
-    "tweet_count": "6,585 Tweets"
-  },
-  {
-    "name": "Happy Christmas",
-    "query": "\"Happy Christmas\"",
-    "rank": 14,
-    "tweet_count": "26.1K Tweets"
-  },
-  {
-    "name": "Derby Day",
-    "query": "\"Derby Day\"",
-    "rank": 15,
-    "tweet_count": "1,780 Tweets"
+    "tweet_count": "6,701 Tweets"
   },
   {
     "name": "Fairytale of New York",
     "query": "\"Fairytale of New York\"",
-    "rank": 16,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "PHEASANT",
     "query": "PHEASANT",
-    "rank": 17,
-    "tweet_count": "1,160 Tweets"
-  },
-  {
-    "name": "HIV in the UK",
-    "query": "\"HIV in the UK\"",
-    "rank": 18,
-    "tweet_count": "1,049 Tweets"
+    "rank": 15,
+    "tweet_count": "1,217 Tweets"
   },
   {
     "name": "Last Christmas",
     "query": "\"Last Christmas\"",
+    "rank": 16,
+    "tweet_count": "28.2K Tweets"
+  },
+  {
+    "name": "Stone Ocean",
+    "query": "\"Stone Ocean\"",
+    "rank": 17,
+    "tweet_count": "68K Tweets"
+  },
+  {
+    "name": "Donald Trump",
+    "query": "\"Donald Trump\"",
+    "rank": 18,
+    "tweet_count": "179K Tweets"
+  },
+  {
+    "name": "Mariah Carey",
+    "query": "\"Mariah Carey\"",
     "rank": 19,
-    "tweet_count": "27.8K Tweets"
+    "tweet_count": "8,487 Tweets"
   }
 ]
