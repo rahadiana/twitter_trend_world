@@ -1,9 +1,9 @@
 [
   {
-    "name": "#NATO",
-    "query": "#NATO",
+    "name": "#nato",
+    "query": "#nato",
     "rank": 1,
-    "tweet_count": "4,369 Tweets"
+    "tweet_count": "4,328 Tweets"
   },
   {
     "name": "Šimkus",
@@ -21,7 +21,7 @@
     "name": "#StrongerTogether",
     "query": "#StrongerTogether",
     "rank": 4,
-    "tweet_count": "6,348 Tweets"
+    "tweet_count": "6,263 Tweets"
   },
   {
     "name": "#teirdarbs",
@@ -33,89 +33,89 @@
     "name": "#formin",
     "query": "#formin",
     "rank": 6,
-    "tweet_count": "1,438 Tweets"
-  },
-  {
-    "name": "Russia",
-    "query": "Russia",
-    "rank": 7,
-    "tweet_count": "80.5K Tweets"
+    "tweet_count": "1,432 Tweets"
   },
   {
     "name": "rumbulā",
     "query": "rumbulā",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "Russia",
+    "query": "Russia",
     "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "bērnu",
-    "query": "bērnu",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "nevar",
-    "query": "nevar",
-    "rank": 10,
-    "tweet_count": "1,077 Tweets"
+    "tweet_count": "78.9K Tweets"
   },
   {
     "name": "dombura",
     "query": "dombura",
-    "rank": 11,
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Bērnu",
+    "query": "Bērnu",
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "iesalnieka",
     "query": "iesalnieka",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "varētu",
     "query": "varētu",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
-  },
-  {
-    "name": "Janssen",
-    "query": "Janssen",
-    "rank": 14,
-    "tweet_count": "8,154 Tweets"
   },
   {
     "name": "vienmēr",
     "query": "vienmēr",
-    "rank": 15,
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "ventspils",
+    "query": "ventspils",
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "kurā",
     "query": "kurā",
-    "rank": 16,
-    "tweet_count": "10.5K Tweets"
+    "rank": 15,
+    "tweet_count": "10.6K Tweets"
   },
   {
-    "name": "ventspils",
-    "query": "ventspils",
+    "name": "tikko",
+    "query": "tikko",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Omicron",
+    "query": "Omicron",
     "rank": 17,
+    "tweet_count": "870K Tweets"
+  },
+  {
+    "name": "pirmā",
+    "query": "pirmā",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "zviedrijā",
+    "query": "zviedrijā",
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "ņemot",
     "query": "ņemot",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "pirmā",
-    "query": "pirmā",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Tikko",
-    "query": "Tikko",
     "rank": 20,
     "tweet_count": null
   }

@@ -3,43 +3,43 @@
     "name": "Lakers",
     "query": "Lakers",
     "rank": 1,
-    "tweet_count": "41.5K Tweets"
-  },
-  {
-    "name": "Curry",
-    "query": "Curry",
-    "rank": 2,
-    "tweet_count": "42.6K Tweets"
+    "tweet_count": "42K Tweets"
   },
   {
     "name": "Monty",
     "query": "Monty",
-    "rank": 3,
-    "tweet_count": "7,793 Tweets"
+    "rank": 2,
+    "tweet_count": "7,646 Tweets"
   },
   {
-    "name": "Epstein",
-    "query": "Epstein",
-    "rank": 4,
-    "tweet_count": "233K Tweets"
+    "name": "Cam Johnson",
+    "query": "\"Cam Johnson\"",
+    "rank": 3,
+    "tweet_count": null
   },
   {
     "name": "Duke",
     "query": "Duke",
-    "rank": 5,
-    "tweet_count": "39.6K Tweets"
+    "rank": 4,
+    "tweet_count": "40.8K Tweets"
   },
   {
     "name": "Jordan Poole",
     "query": "\"Jordan Poole\"",
-    "rank": 6,
-    "tweet_count": "9,378 Tweets"
+    "rank": 5,
+    "tweet_count": "9,505 Tweets"
   },
   {
     "name": "#chucky",
     "query": "#chucky",
+    "rank": 6,
+    "tweet_count": "26.2K Tweets"
+  },
+  {
+    "name": "taegi",
+    "query": "taegi",
     "rank": 7,
-    "tweet_count": "26.5K Tweets"
+    "tweet_count": "24K Tweets"
   },
   {
     "name": "Knicks",
@@ -51,72 +51,72 @@
     "name": "#TheBachelorette",
     "query": "#TheBachelorette",
     "rank": 9,
-    "tweet_count": "17.7K Tweets"
-  },
-  {
-    "name": "taegi",
-    "query": "taegi",
-    "rank": 10,
-    "tweet_count": "18.5K Tweets"
+    "tweet_count": "17.8K Tweets"
   },
   {
     "name": "Booker",
     "query": "Booker",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": "12.4K Tweets"
+  },
+  {
+    "name": "Curry",
+    "query": "Curry",
+    "rank": 11,
+    "tweet_count": "41.8K Tweets"
   },
   {
     "name": "Harden",
     "query": "Harden",
     "rank": 12,
-    "tweet_count": "27.3K Tweets"
-  },
-  {
-    "name": "#NYCFC",
-    "query": "#NYCFC",
-    "rank": 13,
-    "tweet_count": "3,098 Tweets"
-  },
-  {
-    "name": "Draymond",
-    "query": "Draymond",
-    "rank": 14,
-    "tweet_count": "4,230 Tweets"
-  },
-  {
-    "name": "Randle",
-    "query": "Randle",
-    "rank": 15,
-    "tweet_count": "12.8K Tweets"
-  },
-  {
-    "name": "Chris Cuomo",
-    "query": "\"Chris Cuomo\"",
-    "rank": 16,
-    "tweet_count": "114K Tweets"
+    "tweet_count": "27.1K Tweets"
   },
   {
     "name": "Ayton",
     "query": "Ayton",
-    "rank": 17,
-    "tweet_count": "4,566 Tweets"
+    "rank": 13,
+    "tweet_count": "5,193 Tweets"
+  },
+  {
+    "name": "#NYCFC",
+    "query": "#NYCFC",
+    "rank": 14,
+    "tweet_count": "3,125 Tweets"
+  },
+  {
+    "name": "Draymond",
+    "query": "Draymond",
+    "rank": 15,
+    "tweet_count": "4,312 Tweets"
+  },
+  {
+    "name": "fournier",
+    "query": "fournier",
+    "rank": 16,
+    "tweet_count": "6,086 Tweets"
   },
   {
     "name": "Coach K",
     "query": "\"Coach K\"",
+    "rank": 17,
+    "tweet_count": "2,378 Tweets"
+  },
+  {
+    "name": "Randle",
+    "query": "Randle",
     "rank": 18,
-    "tweet_count": "2,281 Tweets"
+    "tweet_count": "12.8K Tweets"
   },
   {
-    "name": "Purdue",
-    "query": "Purdue",
+    "name": "Rondo",
+    "query": "Rondo",
     "rank": 19,
-    "tweet_count": "8,884 Tweets"
+    "tweet_count": "4,007 Tweets"
   },
   {
-    "name": "Shamet",
-    "query": "Shamet",
+    "name": "Chris Cuomo",
+    "query": "\"Chris Cuomo\"",
     "rank": 20,
-    "tweet_count": "1,109 Tweets"
+    "tweet_count": "114K Tweets"
   }
 ]
