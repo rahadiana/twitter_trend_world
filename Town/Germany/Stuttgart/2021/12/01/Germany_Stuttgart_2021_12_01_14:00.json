@@ -1,21 +1,21 @@
 [
   {
+    "name": "#SpotifyWrapped",
+    "query": "#SpotifyWrapped",
+    "rank": 1,
+    "tweet_count": "106K Tweets"
+  },
+  {
     "name": "#Umsturz",
     "query": "#Umsturz",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "#SpotifyWrapped",
-    "query": "#SpotifyWrapped",
-    "rank": 2,
-    "tweet_count": "75.2K Tweets"
-  },
-  {
-    "name": "#weltaidstag",
-    "query": "#weltaidstag",
+    "name": "#WeltAidsTag",
+    "query": "#WeltAidsTag",
     "rank": 3,
-    "tweet_count": "2,377 Tweets"
+    "tweet_count": "2,424 Tweets"
   },
   {
     "name": "#wonderwaffel",
@@ -27,19 +27,19 @@
     "name": "Türchen",
     "query": "Türchen",
     "rank": 5,
-    "tweet_count": "5,856 Tweets"
+    "tweet_count": "5,934 Tweets"
   },
   {
     "name": "Adventskalender",
     "query": "Adventskalender",
     "rank": 6,
-    "tweet_count": "11.4K Tweets"
+    "tweet_count": "11.5K Tweets"
   },
   {
     "name": "Leyen",
     "query": "Leyen",
     "rank": 7,
-    "tweet_count": "13.8K Tweets"
+    "tweet_count": "14.5K Tweets"
   },
   {
     "name": "Oldenburg",
@@ -54,63 +54,63 @@
     "tweet_count": null
   },
   {
-    "name": "Revolution",
-    "query": "Revolution",
-    "rank": 10,
-    "tweet_count": "60.1K Tweets"
-  },
-  {
     "name": "Bürgerkrieg",
     "query": "Bürgerkrieg",
-    "rank": 11,
-    "tweet_count": "1,095 Tweets"
+    "rank": 10,
+    "tweet_count": "1,119 Tweets"
   },
   {
-    "name": "Mittagspause",
-    "query": "Mittagspause",
-    "rank": 12,
-    "tweet_count": null
+    "name": "Revolution",
+    "query": "Revolution",
+    "rank": 11,
+    "tweet_count": "60.7K Tweets"
   },
   {
     "name": "Springer",
     "query": "Springer",
+    "rank": 12,
+    "tweet_count": "5,174 Tweets"
+  },
+  {
+    "name": "Religionen",
+    "query": "Religionen",
     "rank": 13,
-    "tweet_count": "5,105 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Stone Ocean",
     "query": "\"Stone Ocean\"",
     "rank": 14,
-    "tweet_count": "79.4K Tweets"
-  },
-  {
-    "name": "Totimpfstoff",
-    "query": "Totimpfstoff",
-    "rank": 15,
-    "tweet_count": "1,886 Tweets"
+    "tweet_count": "80.7K Tweets"
   },
   {
     "name": "Happy New Month",
     "query": "\"Happy New Month\"",
-    "rank": 16,
-    "tweet_count": "79.9K Tweets"
+    "rank": 15,
+    "tweet_count": "80.5K Tweets"
   },
   {
     "name": "Dezember 2021",
     "query": "\"Dezember 2021\"",
+    "rank": 16,
+    "tweet_count": "2,747 Tweets"
+  },
+  {
+    "name": "Totimpfstoff",
+    "query": "Totimpfstoff",
     "rank": 17,
-    "tweet_count": "2,716 Tweets"
+    "tweet_count": "1,906 Tweets"
   },
   {
-    "name": "Tag 1",
-    "query": "\"Tag 1\"",
+    "name": "Verfassungsschutz",
+    "query": "Verfassungsschutz",
     "rank": 18,
-    "tweet_count": "652K Tweets"
+    "tweet_count": "1,482 Tweets"
   },
   {
-    "name": "Mauer",
-    "query": "Mauer",
+    "name": "tag 1",
+    "query": "\"tag 1\"",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "699K Tweets"
   }
 ]
