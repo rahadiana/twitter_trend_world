@@ -1,15 +1,15 @@
 [
   {
-    "name": "בוקר טוב",
-    "query": "\"בוקר טוב\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Tel Aviv",
     "query": "\"Tel Aviv\"",
+    "rank": 1,
+    "tweet_count": "3,260 Tweets"
+  },
+  {
+    "name": "תל אביב",
+    "query": "\"תל אביב\"",
     "rank": 2,
-    "tweet_count": "3,223 Tweets"
+    "tweet_count": "1,300 Tweets"
   },
   {
     "name": "דגל חמאס",
@@ -18,52 +18,52 @@
     "tweet_count": null
   },
   {
-    "name": "תל אביב",
-    "query": "\"תל אביב\"",
-    "rank": 4,
-    "tweet_count": "1,273 Tweets"
-  },
-  {
     "name": "נר שני",
     "query": "\"נר שני\"",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "#GivingTuesday",
     "query": "#GivingTuesday",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": "284K Tweets"
   },
   {
     "name": "בן ארי",
     "query": "\"בן ארי\"",
+    "rank": 6,
+    "tweet_count": "1,068 Tweets"
+  },
+  {
+    "name": "בוקר טוב",
+    "query": "\"בוקר טוב\"",
     "rank": 7,
-    "tweet_count": "1,055 Tweets"
+    "tweet_count": null
   },
   {
     "name": "ניר חפץ",
     "query": "\"ניר חפץ\"",
     "rank": 8,
-    "tweet_count": "4,682 Tweets"
+    "tweet_count": "4,742 Tweets"
   },
   {
-    "name": "ראש ממשלה",
-    "query": "\"ראש ממשלה\"",
+    "name": "של הפרקליטות",
+    "query": "\"של הפרקליטות\"",
     "rank": 9,
-    "tweet_count": "1,631 Tweets"
+    "tweet_count": "2,841 Tweets"
   },
   {
     "name": "חג שמח",
     "query": "\"חג שמח\"",
     "rank": 10,
-    "tweet_count": "1,003 Tweets"
+    "tweet_count": "1,027 Tweets"
   },
   {
-    "name": "חנוכה שמח",
-    "query": "\"חנוכה שמח\"",
+    "name": "ראש ממשלה",
+    "query": "\"ראש ממשלה\"",
     "rank": 11,
-    "tweet_count": "1,062 Tweets"
+    "tweet_count": "1,640 Tweets"
   },
   {
     "name": "שי ניצן",
@@ -72,8 +72,8 @@
     "tweet_count": null
   },
   {
-    "name": "עד מדינה",
-    "query": "\"עד מדינה\"",
+    "name": "עמוס שוקן",
+    "query": "\"עמוס שוקן\"",
     "rank": 13,
     "tweet_count": null
   },
@@ -84,28 +84,28 @@
     "tweet_count": null
   },
   {
-    "name": "محمد",
-    "query": "محمد",
+    "name": "חנוכה שמח",
+    "query": "\"חנוכה שמח\"",
     "rank": 15,
-    "tweet_count": "243K Tweets"
+    "tweet_count": "1,118 Tweets"
   },
   {
-    "name": "אז למה",
-    "query": "\"אז למה\"",
+    "name": "בוקר אור",
+    "query": "\"בוקר אור\"",
     "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "#Hanukkah",
-    "query": "#Hanukkah",
+    "name": "עד מדינה",
+    "query": "\"עד מדינה\"",
     "rank": 17,
-    "tweet_count": "5,571 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "עמוס שוקן",
-    "query": "\"עמוס שוקן\"",
+    "name": "Chanukah",
+    "query": "Chanukah",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "7,105 Tweets"
   },
   {
     "name": "#BallonDor",
@@ -114,9 +114,9 @@
     "tweet_count": "149K Tweets"
   },
   {
-    "name": "בוקר אור",
-    "query": "\"בוקר אור\"",
+    "name": "محمد",
+    "query": "محمد",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "244K Tweets"
   }
 ]
