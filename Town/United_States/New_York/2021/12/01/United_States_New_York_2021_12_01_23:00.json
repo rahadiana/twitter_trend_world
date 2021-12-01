@@ -1,122 +1,122 @@
 [
   {
-    "name": "Taylor Swift",
-    "query": "\"Taylor Swift\"",
+    "name": "Senate",
+    "query": "Senate",
     "rank": 1,
+    "tweet_count": "159K Tweets"
+  },
+  {
+    "name": "taylor swift",
+    "query": "\"taylor swift\"",
+    "rank": 2,
     "tweet_count": "109K Tweets"
   },
   {
-    "name": "Senate",
-    "query": "Senate",
-    "rank": 2,
-    "tweet_count": "157K Tweets"
+    "name": "Loftus",
+    "query": "Loftus",
+    "rank": 3,
+    "tweet_count": "5,156 Tweets"
   },
   {
     "name": "California",
     "query": "California",
-    "rank": 3,
-    "tweet_count": "122K Tweets"
+    "rank": 4,
+    "tweet_count": "123K Tweets"
   },
   {
     "name": "Square",
     "query": "Square",
-    "rank": 4,
-    "tweet_count": "115K Tweets"
-  },
-  {
-    "name": "Stone Ocean",
-    "query": "\"Stone Ocean\"",
     "rank": 5,
-    "tweet_count": "109K Tweets"
+    "tweet_count": "117K Tweets"
   },
   {
-    "name": "Omarion",
-    "query": "Omarion",
+    "name": "Cubs",
+    "query": "Cubs",
     "rank": 6,
-    "tweet_count": "18.7K Tweets"
+    "tweet_count": "11.9K Tweets"
   },
   {
-    "name": "Freeman",
-    "query": "Freeman",
+    "name": "Forbes",
+    "query": "Forbes",
     "rank": 7,
-    "tweet_count": "28.6K Tweets"
+    "tweet_count": "67.5K Tweets"
+  },
+  {
+    "name": "#StoneOcean",
+    "query": "#StoneOcean",
+    "rank": 8,
+    "tweet_count": "25.8K Tweets"
   },
   {
     "name": "Spotify",
     "query": "Spotify",
-    "rank": 8,
-    "tweet_count": "2.06M Tweets"
+    "rank": 9,
+    "tweet_count": "2.26M Tweets"
   },
   {
     "name": "#minecraftmanhunt",
     "query": "#minecraftmanhunt",
-    "rank": 9,
-    "tweet_count": "90.7K Tweets"
+    "rank": 10,
+    "tweet_count": "91K Tweets"
   },
   {
     "name": "SCOTUS",
     "query": "SCOTUS",
-    "rank": 10,
-    "tweet_count": "141K Tweets"
+    "rank": 11,
+    "tweet_count": "142K Tweets"
   },
   {
     "name": "Burna",
     "query": "Burna",
-    "rank": 11,
-    "tweet_count": "16.6K Tweets"
-  },
-  {
-    "name": "Saul",
-    "query": "Saul",
     "rank": 12,
-    "tweet_count": "35K Tweets"
+    "tweet_count": "18.8K Tweets"
   },
   {
     "name": "Alec Baldwin",
     "query": "\"Alec Baldwin\"",
     "rank": 13,
-    "tweet_count": "14.5K Tweets"
+    "tweet_count": "15.1K Tweets"
+  },
+  {
+    "name": "Saul",
+    "query": "Saul",
+    "rank": 14,
+    "tweet_count": "35.2K Tweets"
+  },
+  {
+    "name": "Liverpool",
+    "query": "Liverpool",
+    "rank": 15,
+    "tweet_count": "108K Tweets"
   },
   {
     "name": "#AskTomAndZendaya",
     "query": "#AskTomAndZendaya",
-    "rank": 14,
-    "tweet_count": "3,226 Tweets"
-  },
-  {
-    "name": "PIED PIPER",
-    "query": "\"PIED PIPER\"",
-    "rank": 15,
-    "tweet_count": "34.1K Tweets"
-  },
-  {
-    "name": "#WorldAIDSDay",
-    "query": "#WorldAIDSDay",
     "rank": 16,
-    "tweet_count": "178K Tweets"
-  },
-  {
-    "name": "#OmicronVarient",
-    "query": "#OmicronVarient",
-    "rank": 17,
-    "tweet_count": "12.7K Tweets"
-  },
-  {
-    "name": "Watford",
-    "query": "Watford",
-    "rank": 18,
-    "tweet_count": "52.6K Tweets"
+    "tweet_count": "3,274 Tweets"
   },
   {
     "name": "Ethan Crumbley",
     "query": "\"Ethan Crumbley\"",
-    "rank": 19,
-    "tweet_count": "11.6K Tweets"
+    "rank": 17,
+    "tweet_count": "12.3K Tweets"
   },
   {
-    "name": "#coolbills",
-    "query": "#coolbills",
+    "name": "#OmicronVarient",
+    "query": "#OmicronVarient",
+    "rank": 18,
+    "tweet_count": "12.8K Tweets"
+  },
+  {
+    "name": "PIED PIPER",
+    "query": "\"PIED PIPER\"",
+    "rank": 19,
+    "tweet_count": "35.5K Tweets"
+  },
+  {
+    "name": "#WorldAIDSDay",
+    "query": "#WorldAIDSDay",
     "rank": 20,
-    "tweet_count": "1,832 Tweets"
+    "tweet_count": "179K Tweets"
   }
 ]
