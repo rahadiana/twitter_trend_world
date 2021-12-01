@@ -1,27 +1,27 @@
 [
   {
-    "name": "#Jedziemy",
-    "query": "#Jedziemy",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
-    "name": "Miłego",
-    "query": "Miłego",
-    "rank": 2,
-    "tweet_count": "8,486 Tweets"
-  },
-  {
     "name": "#BallonDor",
     "query": "#BallonDor",
-    "rank": 3,
-    "tweet_count": "165K Tweets"
+    "rank": 1,
+    "tweet_count": "166K Tweets"
   },
   {
     "name": "#SpotifyWrapped",
     "query": "#SpotifyWrapped",
+    "rank": 2,
+    "tweet_count": "15.5K Tweets"
+  },
+  {
+    "name": "#Jedziemy",
+    "query": "#Jedziemy",
+    "rank": 3,
+    "tweet_count": "1,008 Tweets"
+  },
+  {
+    "name": "Miłego",
+    "query": "Miłego",
     "rank": 4,
-    "tweet_count": "13.7K Tweets"
+    "tweet_count": "9,035 Tweets"
   },
   {
     "name": "#happybdayloeyswonderland",
@@ -33,7 +33,7 @@
     "name": "Messi",
     "query": "Messi",
     "rank": 6,
-    "tweet_count": "653K Tweets"
+    "tweet_count": "661K Tweets"
   },
   {
     "name": "#minela8",
@@ -42,34 +42,34 @@
     "tweet_count": null
   },
   {
-    "name": "Dzień Dobry",
-    "query": "\"Dzień Dobry\"",
-    "rank": 8,
-    "tweet_count": "7,012 Tweets"
-  },
-  {
     "name": "Pegasusa",
     "query": "Pegasusa",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "Światowy Dzień AIDS",
+    "query": "\"Światowy Dzień AIDS\"",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Copa America",
-    "query": "\"Copa America\"",
+    "name": "Stone Ocean",
+    "query": "\"Stone Ocean\"",
     "rank": 10,
-    "tweet_count": "38.5K Tweets"
-  },
-  {
-    "name": "Demografii",
-    "query": "Demografii",
-    "rank": 11,
-    "tweet_count": null
+    "tweet_count": "51.8K Tweets"
   },
   {
     "name": "Cześć",
     "query": "Cześć",
+    "rank": 11,
+    "tweet_count": "4,107 Tweets"
+  },
+  {
+    "name": "Copa America",
+    "query": "\"Copa America\"",
     "rank": 12,
-    "tweet_count": "3,916 Tweets"
+    "tweet_count": "38.8K Tweets"
   },
   {
     "name": "złotej piłki",
@@ -78,45 +78,45 @@
     "tweet_count": null
   },
   {
-    "name": "Dobrego",
-    "query": "Dobrego",
-    "rank": 14,
-    "tweet_count": "2,376 Tweets"
-  },
-  {
     "name": "Lewy",
     "query": "Lewy",
-    "rank": 15,
-    "tweet_count": "23K Tweets"
-  },
-  {
-    "name": "Środa",
-    "query": "Środa",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Mejza",
-    "query": "Mejza",
-    "rank": 17,
-    "tweet_count": "6,712 Tweets"
-  },
-  {
-    "name": "France Football",
-    "query": "\"France Football\"",
-    "rank": 18,
-    "tweet_count": "30.7K Tweets"
+    "rank": 14,
+    "tweet_count": "23.4K Tweets"
   },
   {
     "name": "Ziemkiewicz",
     "query": "Ziemkiewicz",
-    "rank": 19,
-    "tweet_count": "2,752 Tweets"
+    "rank": 15,
+    "tweet_count": "2,864 Tweets"
   },
   {
-    "name": "Jadziu",
-    "query": "Jadziu",
-    "rank": 20,
+    "name": "Demografii",
+    "query": "Demografii",
+    "rank": 16,
     "tweet_count": null
+  },
+  {
+    "name": "Dobrego",
+    "query": "Dobrego",
+    "rank": 17,
+    "tweet_count": "2,476 Tweets"
+  },
+  {
+    "name": "Mejza",
+    "query": "Mejza",
+    "rank": 18,
+    "tweet_count": "6,786 Tweets"
+  },
+  {
+    "name": "France Football",
+    "query": "\"France Football\"",
+    "rank": 19,
+    "tweet_count": "31K Tweets"
+  },
+  {
+    "name": "Morawiecki",
+    "query": "Morawiecki",
+    "rank": 20,
+    "tweet_count": "3,895 Tweets"
   }
 ]
