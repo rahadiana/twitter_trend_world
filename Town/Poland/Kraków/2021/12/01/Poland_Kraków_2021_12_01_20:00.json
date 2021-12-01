@@ -1,21 +1,21 @@
 [
   {
-    "name": "#SpotifyWrapped",
-    "query": "#SpotifyWrapped",
-    "rank": 1,
-    "tweet_count": "1.04M Tweets"
-  },
-  {
     "name": "#MOTLEG",
     "query": "#MOTLEG",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#SpotifyWrapped",
+    "query": "#SpotifyWrapped",
+    "rank": 2,
+    "tweet_count": "1.05M Tweets"
   },
   {
     "name": "Motor",
     "query": "Motor",
     "rank": 3,
-    "tweet_count": "33K Tweets"
+    "tweet_count": "33.2K Tweets"
   },
   {
     "name": "#hotelparadise",
@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "#ARKZAG",
-    "query": "#ARKZAG",
+    "name": "#EVELIV",
+    "query": "#EVELIV",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "21.3K Tweets"
   },
   {
     "name": "Ochojska",
     "query": "Ochojska",
     "rank": 6,
-    "tweet_count": "2,653 Tweets"
+    "tweet_count": "2,705 Tweets"
   },
   {
     "name": "#SecretObsession",
@@ -57,19 +57,19 @@
     "name": "Bodnara",
     "query": "Bodnara",
     "rank": 10,
-    "tweet_count": "1,927 Tweets"
+    "tweet_count": "1,949 Tweets"
+  },
+  {
+    "name": "TASTE",
+    "query": "TASTE",
+    "rank": 11,
+    "tweet_count": "140K Tweets"
   },
   {
     "name": "Węglarczyk",
     "query": "Węglarczyk",
-    "rank": 11,
-    "tweet_count": "2,389 Tweets"
-  },
-  {
-    "name": "Polsat",
-    "query": "Polsat",
     "rank": 12,
-    "tweet_count": "1,775 Tweets"
+    "tweet_count": "2,416 Tweets"
   },
   {
     "name": "#trylogiasecret",
@@ -78,8 +78,8 @@
     "tweet_count": null
   },
   {
-    "name": "#genzie",
-    "query": "#genzie",
+    "name": "#ARKZAG",
+    "query": "#ARKZAG",
     "rank": 14,
     "tweet_count": null
   },
@@ -90,28 +90,28 @@
     "tweet_count": null
   },
   {
+    "name": "#genzie",
+    "query": "#genzie",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
     "name": "#Minęła20",
     "query": "#Minęła20",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "#ZapukajDoMoichDrzwi",
     "query": "#ZapukajDoMoichDrzwi",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "#CLVolleyM",
     "query": "#CLVolleyM",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "#Hawkeye",
-    "query": "#Hawkeye",
     "rank": 19,
-    "tweet_count": "62.2K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#PucharPolski",
