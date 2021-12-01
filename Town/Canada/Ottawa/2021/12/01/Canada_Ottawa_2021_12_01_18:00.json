@@ -3,13 +3,13 @@
     "name": "CERB",
     "query": "CERB",
     "rank": 1,
-    "tweet_count": "2,261 Tweets"
+    "tweet_count": "2,295 Tweets"
   },
   {
     "name": "#SpotifyWrapped",
     "query": "#SpotifyWrapped",
     "rank": 2,
-    "tweet_count": "867K Tweets"
+    "tweet_count": "899K Tweets"
   },
   {
     "name": "#PrimeVideoUglySweater",
@@ -21,19 +21,19 @@
     "name": "#WorldAIDSDay",
     "query": "#WorldAIDSDay",
     "rank": 4,
-    "tweet_count": "156K Tweets"
-  },
-  {
-    "name": "Last Zelda",
-    "query": "\"Last Zelda\"",
-    "rank": 5,
-    "tweet_count": "2,555 Tweets"
+    "tweet_count": "158K Tweets"
   },
   {
     "name": "SCOTUS",
     "query": "SCOTUS",
+    "rank": 5,
+    "tweet_count": "95.3K Tweets"
+  },
+  {
+    "name": "Last Zelda",
+    "query": "\"Last Zelda\"",
     "rank": 6,
-    "tweet_count": "90.6K Tweets"
+    "tweet_count": "2,643 Tweets"
   },
   {
     "name": "#WorldJuniors",
@@ -42,81 +42,81 @@
     "tweet_count": null
   },
   {
-    "name": "Dream SMP",
-    "query": "\"Dream SMP\"",
+    "name": "Brandt Clarke",
+    "query": "\"Brandt Clarke\"",
     "rank": 8,
-    "tweet_count": "12.1K Tweets"
-  },
-  {
-    "name": "Joshua Roy",
-    "query": "\"Joshua Roy\"",
-    "rank": 9,
     "tweet_count": null
-  },
-  {
-    "name": "Savoie",
-    "query": "Savoie",
-    "rank": 10,
-    "tweet_count": "1,517 Tweets"
   },
   {
     "name": "#ArtAdventCalendar",
     "query": "#ArtAdventCalendar",
-    "rank": 11,
-    "tweet_count": "1,475 Tweets"
-  },
-  {
-    "name": "Brandt Clarke",
-    "query": "\"Brandt Clarke\"",
-    "rank": 12,
-    "tweet_count": null
+    "rank": 9,
+    "tweet_count": "1,540 Tweets"
   },
   {
     "name": "Hockey Canada",
     "query": "\"Hockey Canada\"",
-    "rank": 13,
-    "tweet_count": null
+    "rank": 10,
+    "tweet_count": "1,035 Tweets"
   },
   {
     "name": "North Pole",
     "query": "\"North Pole\"",
-    "rank": 14,
-    "tweet_count": "4,192 Tweets"
+    "rank": 11,
+    "tweet_count": "4,236 Tweets"
   },
   {
     "name": "Stone Ocean",
     "query": "\"Stone Ocean\"",
-    "rank": 15,
-    "tweet_count": "93.9K Tweets"
+    "rank": 12,
+    "tweet_count": "95.7K Tweets"
+  },
+  {
+    "name": "Shelf",
+    "query": "Shelf",
+    "rank": 13,
+    "tweet_count": "16.8K Tweets"
   },
   {
     "name": "Lana",
     "query": "Lana",
-    "rank": 16,
-    "tweet_count": "39.6K Tweets"
-  },
-  {
-    "name": "Marie-Claire Blais",
-    "query": "\"Marie-Claire Blais\"",
-    "rank": 17,
-    "tweet_count": "1,093 Tweets"
-  },
-  {
-    "name": "Oprah",
-    "query": "Oprah",
-    "rank": 18,
-    "tweet_count": "22.2K Tweets"
+    "rank": 14,
+    "tweet_count": "40.3K Tweets"
   },
   {
     "name": "Justin Bieber",
     "query": "\"Justin Bieber\"",
-    "rank": 19,
-    "tweet_count": "29.1K Tweets"
+    "rank": 15,
+    "tweet_count": "29.6K Tweets"
   },
   {
-    "name": "Happy Holidays",
-    "query": "\"Happy Holidays\"",
+    "name": "Marie-Claire Blais",
+    "query": "\"Marie-Claire Blais\"",
+    "rank": 16,
+    "tweet_count": "1,102 Tweets"
+  },
+  {
+    "name": "Oprah",
+    "query": "Oprah",
+    "rank": 17,
+    "tweet_count": "22.5K Tweets"
+  },
+  {
+    "name": "#December1st",
+    "query": "#December1st",
+    "rank": 18,
+    "tweet_count": "16K Tweets"
+  },
+  {
+    "name": "#OmicronVarient",
+    "query": "#OmicronVarient",
+    "rank": 19,
+    "tweet_count": "6,274 Tweets"
+  },
+  {
+    "name": "#DigitalHealthWeek",
+    "query": "#DigitalHealthWeek",
     "rank": 20,
-    "tweet_count": "24.1K Tweets"
+    "tweet_count": null
   }
 ]

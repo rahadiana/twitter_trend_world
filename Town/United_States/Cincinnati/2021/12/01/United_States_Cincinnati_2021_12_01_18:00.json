@@ -3,120 +3,120 @@
     "name": "Taylor Swift",
     "query": "\"Taylor Swift\"",
     "rank": 1,
-    "tweet_count": "95.1K Tweets"
+    "tweet_count": "97.2K Tweets"
   },
   {
     "name": "#SpotifyWrapped",
     "query": "#SpotifyWrapped",
     "rank": 2,
-    "tweet_count": "869K Tweets"
+    "tweet_count": "903K Tweets"
   },
   {
-    "name": "#SCOTUS",
-    "query": "#SCOTUS",
+    "name": "SCOTUS",
+    "query": "SCOTUS",
     "rank": 3,
-    "tweet_count": "30.3K Tweets"
+    "tweet_count": "95.6K Tweets"
+  },
+  {
+    "name": "Apple Music",
+    "query": "\"Apple Music\"",
+    "rank": 4,
+    "tweet_count": "322K Tweets"
   },
   {
     "name": "Dick Pound",
     "query": "\"Dick Pound\"",
-    "rank": 4,
-    "tweet_count": "7,581 Tweets"
+    "rank": 5,
+    "tweet_count": "7,892 Tweets"
   },
   {
     "name": "#WorldAIDSDay",
     "query": "#WorldAIDSDay",
-    "rank": 5,
-    "tweet_count": "156K Tweets"
+    "rank": 6,
+    "tweet_count": "158K Tweets"
   },
   {
     "name": "Dream SMP",
     "query": "\"Dream SMP\"",
-    "rank": 6,
-    "tweet_count": "12.1K Tweets"
+    "rank": 7,
+    "tweet_count": "21.2K Tweets"
   },
   {
     "name": "Last Zelda",
     "query": "\"Last Zelda\"",
-    "rank": 7,
-    "tweet_count": "2,558 Tweets"
-  },
-  {
-    "name": "#ProBowlVote",
-    "query": "#ProBowlVote",
     "rank": 8,
-    "tweet_count": "94K Tweets"
-  },
-  {
-    "name": "Godfall",
-    "query": "Godfall",
-    "rank": 9,
-    "tweet_count": "4,581 Tweets"
-  },
-  {
-    "name": "#December1st",
-    "query": "#December1st",
-    "rank": 10,
-    "tweet_count": "15.7K Tweets"
-  },
-  {
-    "name": "Plessy",
-    "query": "Plessy",
-    "rank": 11,
-    "tweet_count": "2,246 Tweets"
-  },
-  {
-    "name": "Justin Shilling",
-    "query": "\"Justin Shilling\"",
-    "rank": 12,
-    "tweet_count": "1,609 Tweets"
+    "tweet_count": "2,646 Tweets"
   },
   {
     "name": "Titanfall",
     "query": "Titanfall",
+    "rank": 9,
+    "tweet_count": "3,456 Tweets"
+  },
+  {
+    "name": "Godfall",
+    "query": "Godfall",
+    "rank": 10,
+    "tweet_count": "5,053 Tweets"
+  },
+  {
+    "name": "Rounders",
+    "query": "Rounders",
+    "rank": 11,
+    "tweet_count": "1,284 Tweets"
+  },
+  {
+    "name": "#ProBowlVote",
+    "query": "#ProBowlVote",
+    "rank": 12,
+    "tweet_count": "98.8K Tweets"
+  },
+  {
+    "name": "#December1st",
+    "query": "#December1st",
     "rank": 13,
-    "tweet_count": "2,968 Tweets"
+    "tweet_count": "16K Tweets"
+  },
+  {
+    "name": "Justin Shilling",
+    "query": "\"Justin Shilling\"",
+    "rank": 14,
+    "tweet_count": "1,822 Tweets"
+  },
+  {
+    "name": "#AtGrandmasHouse",
+    "query": "#AtGrandmasHouse",
+    "rank": 15,
+    "tweet_count": null
   },
   {
     "name": "Rosa Parks",
     "query": "\"Rosa Parks\"",
-    "rank": 14,
-    "tweet_count": "13K Tweets"
-  },
-  {
-    "name": "Roddy",
-    "query": "Roddy",
-    "rank": 15,
-    "tweet_count": "11.1K Tweets"
-  },
-  {
-    "name": "Lovejoy",
-    "query": "Lovejoy",
     "rank": 16,
-    "tweet_count": "9,001 Tweets"
+    "tweet_count": "13.4K Tweets"
   },
   {
-    "name": "Margaret Sanger",
-    "query": "\"Margaret Sanger\"",
+    "name": "Plessy",
+    "query": "Plessy",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "2,342 Tweets"
   },
   {
     "name": "Gold Star",
     "query": "\"Gold Star\"",
     "rank": 18,
-    "tweet_count": "27.6K Tweets"
+    "tweet_count": "29.9K Tweets"
+  },
+  {
+    "name": "Roddy",
+    "query": "Roddy",
+    "rank": 19,
+    "tweet_count": "11.4K Tweets"
   },
   {
     "name": "Alvin Lucier",
     "query": "\"Alvin Lucier\"",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Planned Parenthood",
-    "query": "\"Planned Parenthood\"",
     "rank": 20,
-    "tweet_count": "5,232 Tweets"
+    "tweet_count": null
   }
 ]
