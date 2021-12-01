@@ -9,7 +9,7 @@
     "name": "Tel Aviv",
     "query": "\"Tel Aviv\"",
     "rank": 2,
-    "tweet_count": "2,722 Tweets"
+    "tweet_count": "2,753 Tweets"
   },
   {
     "name": "דגל חמאס",
@@ -18,22 +18,22 @@
     "tweet_count": null
   },
   {
+    "name": "תל אביב",
+    "query": "\"תל אביב\"",
+    "rank": 4,
+    "tweet_count": "1,096 Tweets"
+  },
+  {
     "name": "בוקר אור",
     "query": "\"בוקר אור\"",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "#GivingTuesday",
     "query": "#GivingTuesday",
-    "rank": 5,
-    "tweet_count": "285K Tweets"
-  },
-  {
-    "name": "תל אביב",
-    "query": "\"תל אביב\"",
     "rank": 6,
-    "tweet_count": "1,088 Tweets"
+    "tweet_count": "286K Tweets"
   },
   {
     "name": "חג שמח",
@@ -51,35 +51,35 @@
     "name": "חנוכה שמח",
     "query": "\"חנוכה שמח\"",
     "rank": 9,
-    "tweet_count": "1,068 Tweets"
+    "tweet_count": "1,069 Tweets"
   },
   {
     "name": "ניר חפץ",
     "query": "\"ניר חפץ\"",
     "rank": 10,
-    "tweet_count": "4,249 Tweets"
+    "tweet_count": "4,279 Tweets"
+  },
+  {
+    "name": "בן ארי",
+    "query": "\"בן ארי\"",
+    "rank": 11,
+    "tweet_count": null
   },
   {
     "name": "של הפרקליטות",
     "query": "\"של הפרקליטות\"",
-    "rank": 11,
-    "tweet_count": "2,714 Tweets"
-  },
-  {
-    "name": "#Chanukah",
-    "query": "#Chanukah",
     "rank": 12,
-    "tweet_count": "1,642 Tweets"
+    "tweet_count": "2,726 Tweets"
   },
   {
     "name": "#Chanukah",
     "query": "#Chanukah",
     "rank": 13,
-    "tweet_count": "1,642 Tweets"
+    "tweet_count": "1,643 Tweets"
   },
   {
-    "name": "בן ארי",
-    "query": "\"בן ארי\"",
+    "name": "נו ו",
+    "query": "\"נו ו\"",
     "rank": 14,
     "tweet_count": null
   },
@@ -90,22 +90,22 @@
     "tweet_count": null
   },
   {
-    "name": "נו ו",
-    "query": "\"נו ו\"",
+    "name": "#BallonDor",
+    "query": "#BallonDor",
     "rank": 16,
+    "tweet_count": "182K Tweets"
+  },
+  {
+    "name": "שי ניצן",
+    "query": "\"שי ניצן\"",
+    "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "#NajwaKaramsArchiveWeek",
-    "query": "#NajwaKaramsArchiveWeek",
-    "rank": 17,
-    "tweet_count": "1,627 Tweets"
-  },
-  {
-    "name": "#BallonDor",
-    "query": "#BallonDor",
+    "name": "#najwakaramsarchiveweek",
+    "query": "#najwakaramsarchiveweek",
     "rank": 18,
-    "tweet_count": "182K Tweets"
+    "tweet_count": "1,632 Tweets"
   },
   {
     "name": "Holocaust",
@@ -114,9 +114,9 @@
     "tweet_count": "30.4K Tweets"
   },
   {
-    "name": "Hamas",
-    "query": "Hamas",
+    "name": "עד מדינה",
+    "query": "\"עד מדינה\"",
     "rank": 20,
-    "tweet_count": "4,399 Tweets"
+    "tweet_count": null
   }
 ]
