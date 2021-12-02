@@ -1,39 +1,39 @@
 [
   {
-    "name": "#Ajax",
-    "query": "#Ajax",
+    "name": "#ajax",
+    "query": "#ajax",
     "rank": 1,
-    "tweet_count": "1,257 Tweets"
-  },
-  {
-    "name": "#vaccinatieplicht",
-    "query": "#vaccinatieplicht",
-    "rank": 2,
-    "tweet_count": "15.9K Tweets"
+    "tweet_count": "1,266 Tweets"
   },
   {
     "name": "#ajawil",
     "query": "#ajawil",
-    "rank": 3,
-    "tweet_count": "3,881 Tweets"
+    "rank": 2,
+    "tweet_count": "3,904 Tweets"
   },
   {
     "name": "#MUNARS",
     "query": "#MUNARS",
-    "rank": 4,
-    "tweet_count": "162K Tweets"
+    "rank": 3,
+    "tweet_count": "166K Tweets"
   },
   {
     "name": "#frontberichten",
     "query": "#frontberichten",
+    "rank": 4,
+    "tweet_count": "2,168 Tweets"
+  },
+  {
+    "name": "#ExpeditieRobinson",
+    "query": "#ExpeditieRobinson",
     "rank": 5,
-    "tweet_count": "2,101 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Willem II",
     "query": "\"Willem II\"",
     "rank": 6,
-    "tweet_count": "1,297 Tweets"
+    "tweet_count": "1,312 Tweets"
   },
   {
     "name": "Spong",
@@ -45,7 +45,7 @@
     "name": "Haller",
     "query": "Haller",
     "rank": 8,
-    "tweet_count": "1,818 Tweets"
+    "tweet_count": "1,842 Tweets"
   },
   {
     "name": "Gravenberch",
@@ -60,63 +60,63 @@
     "tweet_count": null
   },
   {
-    "name": "Antony",
-    "query": "Antony",
-    "rank": 11,
-    "tweet_count": "8,137 Tweets"
-  },
-  {
     "name": "Maguire",
     "query": "Maguire",
-    "rank": 12,
-    "tweet_count": "47.3K Tweets"
+    "rank": 11,
+    "tweet_count": "47.7K Tweets"
   },
   {
-    "name": "Annemiek",
-    "query": "Annemiek",
+    "name": "Odegaard",
+    "query": "Odegaard",
+    "rank": 12,
+    "tweet_count": "14.8K Tweets"
+  },
+  {
+    "name": "Antony",
+    "query": "Antony",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "8,169 Tweets"
   },
   {
     "name": "Tavares",
     "query": "Tavares",
     "rank": 14,
-    "tweet_count": "14.1K Tweets"
+    "tweet_count": "14.3K Tweets"
+  },
+  {
+    "name": "Dowen",
+    "query": "Dowen",
+    "rank": 15,
+    "tweet_count": "36K Tweets"
+  },
+  {
+    "name": "Annemiek",
+    "query": "Annemiek",
+    "rank": 16,
+    "tweet_count": null
   },
   {
     "name": "Tadic",
     "query": "Tadic",
-    "rank": 15,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Danilo",
     "query": "Danilo",
-    "rank": 16,
-    "tweet_count": "8,514 Tweets"
+    "rank": 18,
+    "tweet_count": "8,602 Tweets"
   },
   {
     "name": "Berghuis",
     "query": "Berghuis",
-    "rank": 17,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Willem 2",
     "query": "\"Willem 2\"",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Dowen",
-    "query": "Dowen",
-    "rank": 19,
-    "tweet_count": "35.2K Tweets"
-  },
-  {
-    "name": "De VAR",
-    "query": "\"De VAR\"",
     "rank": 20,
-    "tweet_count": "62.3K Tweets"
+    "tweet_count": null
   }
 ]
