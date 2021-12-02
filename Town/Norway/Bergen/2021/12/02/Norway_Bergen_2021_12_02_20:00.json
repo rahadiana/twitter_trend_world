@@ -1,27 +1,27 @@
 [
   {
-    "name": "Bryggen",
-    "query": "Bryggen",
+    "name": "De Gea",
+    "query": "\"De Gea\"",
     "rank": 1,
-    "tweet_count": null
+    "tweet_count": "24.3K Tweets"
   },
   {
     "name": "Maguire",
     "query": "Maguire",
     "rank": 2,
-    "tweet_count": "28.1K Tweets"
+    "tweet_count": "29K Tweets"
   },
   {
     "name": "#SpotifyWrapped",
     "query": "#SpotifyWrapped",
     "rank": 3,
-    "tweet_count": "802K Tweets"
+    "tweet_count": "804K Tweets"
   },
   {
-    "name": "#MUNARS",
-    "query": "#MUNARS",
+    "name": "Bryggen",
+    "query": "Bryggen",
     "rank": 4,
-    "tweet_count": "73.7K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Resett",
@@ -30,8 +30,8 @@
     "tweet_count": null
   },
   {
-    "name": "Åsane",
-    "query": "Åsane",
+    "name": "#2hockey",
+    "query": "#2hockey",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,8 +42,8 @@
     "tweet_count": null
   },
   {
-    "name": "#2hockey",
-    "query": "#2hockey",
+    "name": "Åsane",
+    "query": "Åsane",
     "rank": 8,
     "tweet_count": null
   },
@@ -63,25 +63,25 @@
     "name": "Carrick",
     "query": "Carrick",
     "rank": 11,
-    "tweet_count": "17.6K Tweets"
+    "tweet_count": "18.1K Tweets"
+  },
+  {
+    "name": "#MUFC",
+    "query": "#MUFC",
+    "rank": 12,
+    "tweet_count": "78.5K Tweets"
   },
   {
     "name": "Bybanen",
     "query": "Bybanen",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Bergen",
     "query": "Bergen",
-    "rank": 13,
-    "tweet_count": "2,512 Tweets"
-  },
-  {
-    "name": "Hendo",
-    "query": "Hendo",
     "rank": 14,
-    "tweet_count": "7,909 Tweets"
+    "tweet_count": "2,539 Tweets"
   },
   {
     "name": "eva kristin hansen",
@@ -96,26 +96,26 @@
     "tweet_count": "1.13M Tweets"
   },
   {
+    "name": "Everton",
+    "query": "Everton",
+    "rank": 17,
+    "tweet_count": "72K Tweets"
+  },
+  {
     "name": "Matip",
     "query": "Matip",
-    "rank": 17,
-    "tweet_count": "1,776 Tweets"
+    "rank": 18,
+    "tweet_count": "1,779 Tweets"
   },
   {
     "name": "ulsteinvik",
     "query": "ulsteinvik",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "giske",
     "query": "giske",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "NTNU",
-    "query": "NTNU",
     "rank": 20,
     "tweet_count": null
   }
