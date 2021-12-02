@@ -1,19 +1,19 @@
 [
   {
-    "name": "Sohn",
-    "query": "Sohn",
+    "name": "Verbrecher",
+    "query": "Verbrecher",
     "rank": 1,
-    "tweet_count": "7,802 Tweets"
+    "tweet_count": "1,747 Tweets"
   },
   {
     "name": "#KurzSchluss",
     "query": "#KurzSchluss",
     "rank": 2,
-    "tweet_count": "2,111 Tweets"
+    "tweet_count": "2,176 Tweets"
   },
   {
-    "name": "#zibspezial",
-    "query": "#zibspezial",
+    "name": "#kurzistweg",
+    "query": "#kurzistweg",
     "rank": 3,
     "tweet_count": null
   },
@@ -21,48 +21,66 @@
     "name": "Kanzler",
     "query": "Kanzler",
     "rank": 4,
-    "tweet_count": "5,563 Tweets"
+    "tweet_count": "5,661 Tweets"
   },
   {
     "name": "Nehammer",
     "query": "Nehammer",
     "rank": 5,
-    "tweet_count": "2,066 Tweets"
+    "tweet_count": "2,120 Tweets"
   },
   {
-    "name": "Rücktritt",
-    "query": "Rücktritt",
+    "name": "#zibspezial",
+    "query": "#zibspezial",
     "rank": 6,
-    "tweet_count": "2,315 Tweets"
-  },
-  {
-    "name": "Neuwahlen",
-    "query": "Neuwahlen",
-    "rank": 7,
     "tweet_count": null
   },
   {
-    "name": "Heiliger",
-    "query": "Heiliger",
+    "name": "Sebastian Kurz",
+    "query": "\"Sebastian Kurz\"",
+    "rank": 7,
+    "tweet_count": "4,844 Tweets"
+  },
+  {
+    "name": "#Kurzruecktritt",
+    "query": "#Kurzruecktritt",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "#oevp",
-    "query": "#oevp",
+    "name": "Rücktritt",
+    "query": "Rücktritt",
     "rank": 9,
+    "tweet_count": "2,374 Tweets"
+  },
+  {
+    "name": "Neuwahlen",
+    "query": "Neuwahlen",
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Schallenberg",
     "query": "Schallenberg",
-    "rank": 10,
-    "tweet_count": "1,378 Tweets"
+    "rank": 11,
+    "tweet_count": "1,404 Tweets"
   },
   {
-    "name": "Verbrecher",
-    "query": "Verbrecher",
-    "rank": 11,
-    "tweet_count": "1,725 Tweets"
+    "name": "Heiliger",
+    "query": "Heiliger",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "#oevp",
+    "query": "#oevp",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Sohn",
+    "query": "Sohn",
+    "rank": 14,
+    "tweet_count": "7,940 Tweets"
   }
 ]
