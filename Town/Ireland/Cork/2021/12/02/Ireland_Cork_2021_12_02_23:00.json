@@ -3,60 +3,90 @@
     "name": "#MUNARS",
     "query": "#MUNARS",
     "rank": 1,
-    "tweet_count": "172K Tweets"
+    "tweet_count": "177K Tweets"
+  },
+  {
+    "name": "Arsenal",
+    "query": "Arsenal",
+    "rank": 2,
+    "tweet_count": "322K Tweets"
+  },
+  {
+    "name": "Maguire",
+    "query": "Maguire",
+    "rank": 3,
+    "tweet_count": "48.5K Tweets"
   },
   {
     "name": "Gary Breen",
     "query": "\"Gary Breen\"",
-    "rank": 2,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Tavares",
     "query": "Tavares",
-    "rank": 3,
-    "tweet_count": "14.4K Tweets"
+    "rank": 5,
+    "tweet_count": "14.7K Tweets"
   },
   {
     "name": "#TonightVMTV",
     "query": "#TonightVMTV",
-    "rank": 4,
-    "tweet_count": "1,067 Tweets"
+    "rank": 6,
+    "tweet_count": "1,096 Tweets"
+  },
+  {
+    "name": "Old Trafford",
+    "query": "\"Old Trafford\"",
+    "rank": 7,
+    "tweet_count": "43.3K Tweets"
   },
   {
     "name": "Ralf",
     "query": "Ralf",
-    "rank": 5,
-    "tweet_count": "63.1K Tweets"
+    "rank": 8,
+    "tweet_count": "65.6K Tweets"
   },
   {
     "name": "#COYS",
     "query": "#COYS",
-    "rank": 6,
-    "tweet_count": "5,585 Tweets"
+    "rank": 9,
+    "tweet_count": "5,716 Tweets"
   },
   {
     "name": "#JournoAwards21",
     "query": "#JournoAwards21",
-    "rank": 7,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Kane",
     "query": "Kane",
-    "rank": 8,
-    "tweet_count": "24.5K Tweets"
+    "rank": 11,
+    "tweet_count": "25.1K Tweets"
   },
   {
-    "name": "#rtept",
-    "query": "#rtept",
-    "rank": 9,
-    "tweet_count": null
+    "name": "NPHET",
+    "query": "NPHET",
+    "rank": 12,
+    "tweet_count": "3,512 Tweets"
+  },
+  {
+    "name": "Bailly",
+    "query": "Bailly",
+    "rank": 13,
+    "tweet_count": "7,382 Tweets"
   },
   {
     "name": "#BlockRockinBeats",
     "query": "#BlockRockinBeats",
-    "rank": 10,
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "#rtept",
+    "query": "#rtept",
+    "rank": 15,
     "tweet_count": null
   }
 ]

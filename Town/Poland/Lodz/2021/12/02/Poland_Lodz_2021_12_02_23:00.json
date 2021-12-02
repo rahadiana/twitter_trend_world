@@ -1,39 +1,39 @@
 [
   {
+    "name": "#10YearsOf5SOS",
+    "query": "#10YearsOf5SOS",
+    "rank": 1,
+    "tweet_count": "23.3K Tweets"
+  },
+  {
     "name": "#MUNARS",
     "query": "#MUNARS",
-    "rank": 1,
-    "tweet_count": "172K Tweets"
+    "rank": 2,
+    "tweet_count": "177K Tweets"
   },
   {
     "name": "#WIDWIS",
     "query": "#WIDWIS",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "#10YearsOf5SOS",
-    "query": "#10YearsOf5SOS",
     "rank": 3,
-    "tweet_count": "21.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#wtylewizji",
     "query": "#wtylewizji",
     "rank": 4,
-    "tweet_count": "1,831 Tweets"
+    "tweet_count": "1,840 Tweets"
   },
   {
     "name": "Arsenal",
     "query": "Arsenal",
     "rank": 5,
-    "tweet_count": "314K Tweets"
+    "tweet_count": "322K Tweets"
   },
   {
     "name": "Freda",
     "query": "Freda",
     "rank": 6,
-    "tweet_count": "1,140 Tweets"
+    "tweet_count": "1,160 Tweets"
   },
   {
     "name": "Widzewa",
@@ -45,7 +45,7 @@
     "name": "Wisła",
     "query": "Wisła",
     "rank": 8,
-    "tweet_count": "1,264 Tweets"
+    "tweet_count": "1,276 Tweets"
   },
   {
     "name": "Kieszek",
@@ -54,20 +54,20 @@
     "tweet_count": null
   },
   {
-    "name": "Savic",
-    "query": "Savic",
-    "rank": 10,
-    "tweet_count": "1,066 Tweets"
-  },
-  {
-    "name": "yeboah",
-    "query": "yeboah",
-    "rank": 11,
-    "tweet_count": "1,343 Tweets"
-  },
-  {
     "name": "Szot",
     "query": "Szot",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "Savic",
+    "query": "Savic",
+    "rank": 11,
+    "tweet_count": "1,082 Tweets"
+  },
+  {
+    "name": "Yeboah",
+    "query": "Yeboah",
     "rank": 12,
     "tweet_count": null
   },
@@ -75,11 +75,11 @@
     "name": "Kongresie",
     "query": "Kongresie",
     "rank": 13,
-    "tweet_count": "1,923 Tweets"
+    "tweet_count": "1,963 Tweets"
   },
   {
-    "name": "sadlok",
-    "query": "sadlok",
+    "name": "Sadlok",
+    "query": "Sadlok",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,13 +87,13 @@
     "name": "Trzaskowskiego",
     "query": "Trzaskowskiego",
     "rank": 15,
-    "tweet_count": "1,770 Tweets"
+    "tweet_count": "1,792 Tweets"
   },
   {
     "name": "Little Mix",
     "query": "\"Little Mix\"",
     "rank": 16,
-    "tweet_count": "68.4K Tweets"
+    "tweet_count": "70K Tweets"
   },
   {
     "name": "#hotelparadise",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "Rafał Trzaskowski",
-    "query": "\"Rafał Trzaskowski\"",
-    "rank": 18,
-    "tweet_count": "1,328 Tweets"
-  },
-  {
     "name": "TSUE",
     "query": "TSUE",
-    "rank": 19,
-    "tweet_count": "8,082 Tweets"
+    "rank": 18,
+    "tweet_count": "8,227 Tweets"
   },
   {
     "name": "Pucharu Polski",
     "query": "\"Pucharu Polski\"",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "IV Rzesza",
+    "query": "\"IV Rzesza\"",
+    "rank": 20,
+    "tweet_count": "1,891 Tweets"
   }
 ]
