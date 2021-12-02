@@ -1,7 +1,7 @@
 [
   {
-    "name": "#CentenarioRojo",
-    "query": "#CentenarioRojo",
+    "name": "#Centenariorojo",
+    "query": "#Centenariorojo",
     "rank": 1,
     "tweet_count": null
   },
@@ -12,28 +12,28 @@
     "tweet_count": null
   },
   {
+    "name": "#OrgulloDominicano",
+    "query": "#OrgulloDominicano",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
     "name": "#SpotifyWrapped",
     "query": "#SpotifyWrapped",
-    "rank": 3,
-    "tweet_count": "871K Tweets"
+    "rank": 4,
+    "tweet_count": "875K Tweets"
   },
   {
     "name": "CIDH",
     "query": "CIDH",
-    "rank": 4,
-    "tweet_count": "14.7K Tweets"
-  },
-  {
-    "name": "#RDCrece",
-    "query": "#RDCrece",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "14.9K Tweets"
   },
   {
-    "name": "#Mi2021enSpotify",
-    "query": "#Mi2021enSpotify",
+    "name": "#rdcrece",
+    "query": "#rdcrece",
     "rank": 6,
-    "tweet_count": "98.6K Tweets"
+    "tweet_count": null
   },
   {
     "name": "yairo",
@@ -42,16 +42,16 @@
     "tweet_count": null
   },
   {
-    "name": "Halsey",
-    "query": "Halsey",
-    "rank": 8,
-    "tweet_count": "1.04M Tweets"
-  },
-  {
     "name": "Joan Manuel Serrat",
     "query": "\"Joan Manuel Serrat\"",
+    "rank": 8,
+    "tweet_count": "4,280 Tweets"
+  },
+  {
+    "name": "Halsey",
+    "query": "Halsey",
     "rank": 9,
-    "tweet_count": "4,224 Tweets"
+    "tweet_count": "1.04M Tweets"
   },
   {
     "name": "ronny paulino",
@@ -66,34 +66,34 @@
     "tweet_count": null
   },
   {
-    "name": "Iván Nova",
-    "query": "\"Iván Nova\"",
+    "name": "iván nova",
+    "query": "\"iván nova\"",
     "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "Llegó Diciembre",
+    "query": "\"Llegó Diciembre\"",
+    "rank": 13,
+    "tweet_count": "22.7K Tweets"
+  },
+  {
+    "name": "Bienvenido Diciembre",
+    "query": "\"Bienvenido Diciembre\"",
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Linares",
     "query": "Linares",
-    "rank": 13,
-    "tweet_count": "3,615 Tweets"
-  },
-  {
-    "name": "bienvenido diciembre",
-    "query": "\"bienvenido diciembre\"",
-    "rank": 14,
-    "tweet_count": "7,708 Tweets"
+    "rank": 15,
+    "tweet_count": "3,646 Tweets"
   },
   {
     "name": "Feliz Navidad",
     "query": "\"Feliz Navidad\"",
-    "rank": 15,
-    "tweet_count": "33.8K Tweets"
-  },
-  {
-    "name": "Llegó Diciembre",
-    "query": "\"Llegó Diciembre\"",
     "rank": 16,
-    "tweet_count": "22.5K Tweets"
+    "tweet_count": "34K Tweets"
   },
   {
     "name": "francisco peña",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "Navarrete",
-    "query": "Navarrete",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
     "name": "hobi",
     "query": "hobi",
-    "rank": 19,
-    "tweet_count": "500K Tweets"
+    "rank": 18,
+    "tweet_count": "502K Tweets"
   },
   {
     "name": "no fumo",
     "query": "\"no fumo\"",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "Marcell Ozuna",
+    "query": "\"Marcell Ozuna\"",
+    "rank": 20,
+    "tweet_count": "1,015 Tweets"
   }
 ]
