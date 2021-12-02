@@ -9,23 +9,23 @@
     "name": "#SpotifyWrapped",
     "query": "#SpotifyWrapped",
     "rank": 2,
-    "tweet_count": "869K Tweets"
+    "tweet_count": "872K Tweets"
   },
   {
-    "name": "#ndcoslo",
-    "query": "#ndcoslo",
+    "name": "Åsane",
+    "query": "Åsane",
     "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "#NDCOslo",
+    "query": "#NDCOslo",
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Resett",
     "query": "Resett",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "Åsane",
-    "query": "Åsane",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,7 +33,7 @@
     "name": "Bergen",
     "query": "Bergen",
     "rank": 6,
-    "tweet_count": "2,485 Tweets"
+    "tweet_count": "2,517 Tweets"
   },
   {
     "name": "Bybanen",
@@ -63,47 +63,47 @@
     "name": "Hendo",
     "query": "Hendo",
     "rank": 11,
-    "tweet_count": "11.1K Tweets"
+    "tweet_count": "11.2K Tweets"
   },
   {
-    "name": "#Omikron",
-    "query": "#Omikron",
+    "name": "#2hockey",
+    "query": "#2hockey",
     "rank": 12,
-    "tweet_count": "4,856 Tweets"
-  },
-  {
-    "name": "eva kristin hansen",
-    "query": "\"eva kristin hansen\"",
-    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Christmas",
     "query": "Christmas",
+    "rank": 13,
+    "tweet_count": "1.13M Tweets"
+  },
+  {
+    "name": "eva kristin hansen",
+    "query": "\"eva kristin hansen\"",
     "rank": 14,
-    "tweet_count": "1.12M Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Matip",
+    "query": "Matip",
+    "rank": 15,
+    "tweet_count": "3,055 Tweets"
   },
   {
     "name": "ulsteinvik",
     "query": "ulsteinvik",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Saul",
     "query": "Saul",
-    "rank": 16,
-    "tweet_count": "39.7K Tweets"
+    "rank": 17,
+    "tweet_count": "39.8K Tweets"
   },
   {
     "name": "giske",
     "query": "giske",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Rødt",
-    "query": "Rødt",
     "rank": 18,
     "tweet_count": null
   },
@@ -114,8 +114,8 @@
     "tweet_count": null
   },
   {
-    "name": "Botheim",
-    "query": "Botheim",
+    "name": "botheim",
+    "query": "botheim",
     "rank": 20,
     "tweet_count": null
   }
