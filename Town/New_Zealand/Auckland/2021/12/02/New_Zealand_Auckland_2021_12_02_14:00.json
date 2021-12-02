@@ -1,15 +1,15 @@
 [
   {
-    "name": "Spotify",
-    "query": "Spotify",
+    "name": "#SpotifyWrapped",
+    "query": "#SpotifyWrapped",
     "rank": 1,
-    "tweet_count": "4.58M Tweets"
+    "tweet_count": "1.65M Tweets"
   },
   {
-    "name": "luxon",
-    "query": "luxon",
+    "name": "Luxon",
+    "query": "Luxon",
     "rank": 2,
-    "tweet_count": "7,650 Tweets"
+    "tweet_count": "7,691 Tweets"
   },
   {
     "name": "#minecraftmanhunt",
@@ -21,13 +21,13 @@
     "name": "IKEA",
     "query": "IKEA",
     "rank": 4,
-    "tweet_count": "13.9K Tweets"
+    "tweet_count": "14.1K Tweets"
   },
   {
     "name": "Christmas",
     "query": "Christmas",
     "rank": 5,
-    "tweet_count": "1.16M Tweets"
+    "tweet_count": "1.17M Tweets"
   },
   {
     "name": "plunket",
@@ -45,53 +45,53 @@
     "name": "Finance",
     "query": "Finance",
     "rank": 8,
-    "tweet_count": "352K Tweets"
+    "tweet_count": "357K Tweets"
   },
   {
     "name": "halsey",
     "query": "halsey",
     "rank": 9,
-    "tweet_count": "981K Tweets"
+    "tweet_count": "986K Tweets"
   },
   {
     "name": "Endwalker",
     "query": "Endwalker",
     "rank": 10,
-    "tweet_count": "66.8K Tweets"
-  },
-  {
-    "name": "Pharmac",
-    "query": "Pharmac",
-    "rank": 11,
-    "tweet_count": null
+    "tweet_count": "67.5K Tweets"
   },
   {
     "name": "Easter",
     "query": "Easter",
+    "rank": 11,
+    "tweet_count": "11.6K Tweets"
+  },
+  {
+    "name": "Pharmac",
+    "query": "Pharmac",
     "rank": 12,
-    "tweet_count": "11.5K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Nelson",
     "query": "Nelson",
     "rank": 13,
-    "tweet_count": "19.8K Tweets"
+    "tweet_count": "20K Tweets"
   },
   {
     "name": "#AEWDynamite",
     "query": "#AEWDynamite",
     "rank": 14,
-    "tweet_count": "64.9K Tweets"
+    "tweet_count": "65K Tweets"
   },
   {
-    "name": "Hosking",
-    "query": "Hosking",
+    "name": "hosking",
+    "query": "hosking",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "rhythm and vines",
-    "query": "\"rhythm and vines\"",
+    "name": "Rhythm and Vines",
+    "query": "\"Rhythm and Vines\"",
     "rank": 16,
     "tweet_count": null
   },
@@ -99,7 +99,7 @@
     "name": "Bandcamp",
     "query": "Bandcamp",
     "rank": 17,
-    "tweet_count": "15.7K Tweets"
+    "tweet_count": "15.8K Tweets"
   },
   {
     "name": "mitre 10",
@@ -111,12 +111,12 @@
     "name": "Natalie",
     "query": "Natalie",
     "rank": 19,
-    "tweet_count": "49.8K Tweets"
+    "tweet_count": "50.2K Tweets"
   },
   {
     "name": "Conan",
     "query": "Conan",
     "rank": 20,
-    "tweet_count": "14.5K Tweets"
+    "tweet_count": "14.6K Tweets"
   }
 ]
