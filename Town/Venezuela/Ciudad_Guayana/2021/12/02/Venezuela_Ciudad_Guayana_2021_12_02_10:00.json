@@ -1,39 +1,39 @@
 [
   {
-    "name": "#1dic",
-    "query": "#1dic",
+    "name": "#1Dic",
+    "query": "#1Dic",
     "rank": 1,
-    "tweet_count": "100K Tweets"
+    "tweet_count": "101K Tweets"
   },
   {
     "name": "#LlegóDiciembre",
     "query": "#LlegóDiciembre",
     "rank": 2,
-    "tweet_count": "178K Tweets"
-  },
-  {
-    "name": "#FelizChavidad",
-    "query": "#FelizChavidad",
-    "rank": 3,
-    "tweet_count": "13.6K Tweets"
+    "tweet_count": "179K Tweets"
   },
   {
     "name": "#FelizJueves",
     "query": "#FelizJueves",
+    "rank": 3,
+    "tweet_count": "4,106 Tweets"
+  },
+  {
+    "name": "#FelizChavidad",
+    "query": "#FelizChavidad",
     "rank": 4,
-    "tweet_count": "3,750 Tweets"
+    "tweet_count": "13.8K Tweets"
   },
   {
     "name": "#SpotifyWrapped",
     "query": "#SpotifyWrapped",
     "rank": 5,
-    "tweet_count": "1.64M Tweets"
+    "tweet_count": "1.65M Tweets"
   },
   {
     "name": "Spiderman",
     "query": "Spiderman",
     "rank": 6,
-    "tweet_count": "39K Tweets"
+    "tweet_count": "39.4K Tweets"
   },
   {
     "name": "Bienvenido Diciembre",
@@ -45,19 +45,19 @@
     "name": "SIDA",
     "query": "SIDA",
     "rank": 8,
-    "tweet_count": "88.4K Tweets"
+    "tweet_count": "89K Tweets"
   },
   {
     "name": "Halsey",
     "query": "Halsey",
     "rank": 9,
-    "tweet_count": "846K Tweets"
+    "tweet_count": "860K Tweets"
   },
   {
-    "name": "Pekerman",
-    "query": "Pekerman",
+    "name": "pekerman",
+    "query": "pekerman",
     "rank": 10,
-    "tweet_count": "9,586 Tweets"
+    "tweet_count": "9,652 Tweets"
   },
   {
     "name": "nancy ramos",
@@ -66,10 +66,10 @@
     "tweet_count": null
   },
   {
-    "name": "hobi",
-    "query": "hobi",
+    "name": "Celery",
+    "query": "Celery",
     "rank": 12,
-    "tweet_count": "402K Tweets"
+    "tweet_count": "1,845 Tweets"
   },
   {
     "name": "Apio España",
@@ -81,36 +81,42 @@
     "name": "Gustavo Rodríguez",
     "query": "\"Gustavo Rodríguez\"",
     "rank": 14,
-    "tweet_count": "1,090 Tweets"
+    "tweet_count": "1,096 Tweets"
   },
   {
-    "name": "Celery",
-    "query": "Celery",
+    "name": "hobi",
+    "query": "hobi",
     "rank": 15,
-    "tweet_count": "1,813 Tweets"
+    "tweet_count": "411K Tweets"
   },
   {
     "name": "Cines Unidos",
     "query": "\"Cines Unidos\"",
     "rank": 16,
-    "tweet_count": "1,460 Tweets"
-  },
-  {
-    "name": "Seokjin",
-    "query": "Seokjin",
-    "rank": 17,
-    "tweet_count": "451K Tweets"
+    "tweet_count": "1,466 Tweets"
   },
   {
     "name": "Mario Silva",
     "query": "\"Mario Silva\"",
-    "rank": 18,
-    "tweet_count": "2,968 Tweets"
+    "rank": 17,
+    "tweet_count": "3,021 Tweets"
   },
   {
     "name": "tolisano",
     "query": "tolisano",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Feliz Diciembre",
+    "query": "\"Feliz Diciembre\"",
+    "rank": 19,
+    "tweet_count": "32K Tweets"
+  },
+  {
+    "name": "Velasco",
+    "query": "Velasco",
+    "rank": 20,
+    "tweet_count": "2,895 Tweets"
   }
 ]

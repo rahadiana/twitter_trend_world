@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "igaunijā",
-    "query": "igaunijā",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
     "name": "#COVID19",
     "query": "#COVID19",
+    "rank": 5,
+    "tweet_count": "200K Tweets"
+  },
+  {
+    "name": "daudz",
+    "query": "daudz",
     "rank": 6,
-    "tweet_count": "197K Tweets"
+    "tweet_count": null
   },
   {
     "name": "ukrainai",
@@ -42,10 +42,10 @@
     "tweet_count": null
   },
   {
-    "name": "daudz",
-    "query": "daudz",
+    "name": "Google",
+    "query": "Google",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "716K Tweets"
   },
   {
     "name": "kapēc",
@@ -54,34 +54,34 @@
     "tweet_count": null
   },
   {
-    "name": "Russia",
-    "query": "Russia",
+    "name": "Igaunijā",
+    "query": "Igaunijā",
     "rank": 10,
-    "tweet_count": "85.7K Tweets"
-  },
-  {
-    "name": "Google",
-    "query": "Google",
-    "rank": 11,
-    "tweet_count": "703K Tweets"
+    "tweet_count": null
   },
   {
     "name": "baltkrieviju",
     "query": "baltkrieviju",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "Latviju",
-    "query": "Latviju",
-    "rank": 13,
-    "tweet_count": null
+    "name": "Russia",
+    "query": "Russia",
+    "rank": 12,
+    "tweet_count": "87.5K Tweets"
   },
   {
     "name": "Rīgā",
     "query": "Rīgā",
+    "rank": 13,
+    "tweet_count": "4,102 Tweets"
+  },
+  {
+    "name": "Valmieras",
+    "query": "Valmieras",
     "rank": 14,
-    "tweet_count": "3,989 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Varētu",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
-    "name": "valmieras",
-    "query": "valmieras",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
     "name": "Eiropas",
     "query": "Eiropas",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Putin",
     "query": "Putin",
-    "rank": 18,
-    "tweet_count": "36.9K Tweets"
+    "rank": 17,
+    "tweet_count": "37.4K Tweets"
   },
   {
-    "name": "Tikko",
-    "query": "Tikko",
-    "rank": 19,
+    "name": "Latviju",
+    "query": "Latviju",
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Vakar",
     "query": "Vakar",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "#ForMin",
+    "query": "#ForMin",
+    "rank": 20,
+    "tweet_count": "1,755 Tweets"
   }
 ]

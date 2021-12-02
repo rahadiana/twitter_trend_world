@@ -3,23 +3,23 @@
     "name": "#SpotifyWrapped",
     "query": "#SpotifyWrapped",
     "rank": 1,
-    "tweet_count": "1.64M Tweets"
-  },
-  {
-    "name": "hobi",
-    "query": "hobi",
-    "rank": 2,
-    "tweet_count": "402K Tweets"
+    "tweet_count": "1.65M Tweets"
   },
   {
     "name": "#WorldAIDSDay",
     "query": "#WorldAIDSDay",
-    "rank": 3,
-    "tweet_count": "126K Tweets"
+    "rank": 2,
+    "tweet_count": "127K Tweets"
   },
   {
     "name": "#HeldinvonZürich",
     "query": "#HeldinvonZürich",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "#paleo2022",
+    "query": "#paleo2022",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,17 +27,17 @@
     "name": "Zwang",
     "query": "Zwang",
     "rank": 5,
-    "tweet_count": "3,694 Tweets"
-  },
-  {
-    "name": "#paleo2022",
-    "query": "#paleo2022",
-    "rank": 6,
-    "tweet_count": null
+    "tweet_count": "3,744 Tweets"
   },
   {
     "name": "Albtraum",
     "query": "Albtraum",
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "#srfclub",
+    "query": "#srfclub",
     "rank": 7,
     "tweet_count": null
   },
@@ -45,72 +45,78 @@
     "name": "Betten",
     "query": "Betten",
     "rank": 8,
-    "tweet_count": "3,762 Tweets"
+    "tweet_count": "3,827 Tweets"
   },
   {
     "name": "Recherche",
     "query": "Recherche",
     "rank": 9,
-    "tweet_count": "17K Tweets"
+    "tweet_count": "17.5K Tweets"
   },
   {
     "name": "Triage",
     "query": "Triage",
     "rank": 10,
-    "tweet_count": "4,717 Tweets"
-  },
-  {
-    "name": "Saul",
-    "query": "Saul",
-    "rank": 11,
-    "tweet_count": "41.4K Tweets"
-  },
-  {
-    "name": "Home Office",
-    "query": "\"Home Office\"",
-    "rank": 12,
-    "tweet_count": "12.7K Tweets"
+    "tweet_count": "4,789 Tweets"
   },
   {
     "name": "Massnahmen",
     "query": "Massnahmen",
-    "rank": 13,
-    "tweet_count": "16.1K Tweets"
+    "rank": 11,
+    "tweet_count": "16.4K Tweets"
   },
   {
     "name": "Josef",
     "query": "Josef",
-    "rank": 14,
-    "tweet_count": "6,841 Tweets"
+    "rank": 12,
+    "tweet_count": "6,911 Tweets"
   },
   {
     "name": "Auge",
     "query": "Auge",
-    "rank": 15,
-    "tweet_count": "10.7K Tweets"
+    "rank": 13,
+    "tweet_count": "10.9K Tweets"
   },
   {
     "name": "Weile",
     "query": "Weile",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Schüler",
-    "query": "Schüler",
-    "rank": 17,
-    "tweet_count": "2,711 Tweets"
-  },
-  {
-    "name": "köppel",
-    "query": "köppel",
-    "rank": 18,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Operationen",
     "query": "Operationen",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "köppel",
+    "query": "köppel",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Operation Libero",
+    "query": "\"Operation Libero\"",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Saul",
+    "query": "Saul",
+    "rank": 18,
+    "tweet_count": "41.7K Tweets"
+  },
+  {
+    "name": "Türchen",
+    "query": "Türchen",
     "rank": 19,
+    "tweet_count": "5,940 Tweets"
+  },
+  {
+    "name": "Kapazitäten",
+    "query": "Kapazitäten",
+    "rank": 20,
     "tweet_count": null
   }
 ]
