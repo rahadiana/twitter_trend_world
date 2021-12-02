@@ -1,37 +1,37 @@
 [
   {
-    "name": "בוקר טוב",
-    "query": "\"בוקר טוב\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#SpotifyWrapped",
     "query": "#SpotifyWrapped",
+    "rank": 1,
+    "tweet_count": "1.59M Tweets"
+  },
+  {
+    "name": "בוקר טוב",
+    "query": "\"בוקר טוב\"",
     "rank": 2,
-    "tweet_count": "1.58M Tweets"
+    "tweet_count": null
   },
   {
     "name": "גילת בנט",
     "query": "\"גילת בנט\"",
     "rank": 3,
-    "tweet_count": "1,534 Tweets"
+    "tweet_count": "1,580 Tweets"
   },
   {
     "name": "Ramallah",
     "query": "Ramallah",
     "rank": 4,
-    "tweet_count": "2,184 Tweets"
+    "tweet_count": "2,215 Tweets"
   },
   {
-    "name": "שלי ב",
-    "query": "\"שלי ב\"",
+    "name": "בוקר אור",
+    "query": "\"בוקר אור\"",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "שפי פז",
-    "query": "\"שפי פז\"",
+    "name": "שלי ב",
+    "query": "\"שלי ב\"",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,80 +42,80 @@
     "tweet_count": null
   },
   {
-    "name": "בוקר אור",
-    "query": "\"בוקר אור\"",
+    "name": "שרה נתניהו",
+    "query": "\"שרה נתניהו\"",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "שרה נתניהו",
-    "query": "\"שרה נתניהו\"",
+    "name": "שפי פז",
+    "query": "\"שפי פז\"",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "תל אביב",
-    "query": "\"תל אביב\"",
-    "rank": 10,
-    "tweet_count": "1,859 Tweets"
-  },
-  {
     "name": "ניר חפץ",
     "query": "\"ניר חפץ\"",
-    "rank": 11,
-    "tweet_count": "6,159 Tweets"
+    "rank": 10,
+    "tweet_count": "6,236 Tweets"
   },
   {
     "name": "הראשון שלי",
     "query": "\"הראשון שלי\"",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Arab",
     "query": "Arab",
-    "rank": 13,
-    "tweet_count": "125K Tweets"
+    "rank": 12,
+    "tweet_count": "126K Tweets"
   },
   {
     "name": "#GivingTuesday",
     "query": "#GivingTuesday",
+    "rank": 13,
+    "tweet_count": "32.9K Tweets"
+  },
+  {
+    "name": "מזל טוב",
+    "query": "\"מזל טוב\"",
     "rank": 14,
-    "tweet_count": "32.8K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Tel Aviv",
     "query": "\"Tel Aviv\"",
     "rank": 15,
-    "tweet_count": "5,139 Tweets"
-  },
-  {
-    "name": "Ukraine",
-    "query": "Ukraine",
-    "rank": 16,
-    "tweet_count": "43.2K Tweets"
-  },
-  {
-    "name": "של הפרקליטות",
-    "query": "\"של הפרקליטות\"",
-    "rank": 17,
-    "tweet_count": "1,617 Tweets"
-  },
-  {
-    "name": "דגל ישראל",
-    "query": "\"דגל ישראל\"",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "5,182 Tweets"
   },
   {
     "name": "בן ארי",
     "query": "\"בן ארי\"",
-    "rank": 19,
+    "rank": 16,
     "tweet_count": null
+  },
+  {
+    "name": "תל אביב",
+    "query": "\"תל אביב\"",
+    "rank": 17,
+    "tweet_count": "1,881 Tweets"
   },
   {
     "name": "#Hamas",
     "query": "#Hamas",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "של הפרקליטות",
+    "query": "\"של הפרקליטות\"",
+    "rank": 19,
+    "tweet_count": "1,654 Tweets"
+  },
+  {
+    "name": "דגל ישראל",
+    "query": "\"דגל ישראל\"",
     "rank": 20,
     "tweet_count": null
   }
