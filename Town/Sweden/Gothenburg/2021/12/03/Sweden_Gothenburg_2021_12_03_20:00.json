@@ -1,27 +1,27 @@
 [
   {
-    "name": "#påspåret",
-    "query": "#påspåret",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Riks",
     "query": "Riks",
-    "rank": 2,
-    "tweet_count": "1,732 Tweets"
+    "rank": 1,
+    "tweet_count": "1,737 Tweets"
   },
   {
     "name": "Ebba",
     "query": "Ebba",
+    "rank": 2,
+    "tweet_count": "3,360 Tweets"
+  },
+  {
+    "name": "Skavlan",
+    "query": "Skavlan",
     "rank": 3,
-    "tweet_count": "3,344 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Strandhäll",
     "query": "Strandhäll",
     "rank": 4,
-    "tweet_count": "4,827 Tweets"
+    "tweet_count": "4,848 Tweets"
   },
   {
     "name": "#HV71",
@@ -30,46 +30,46 @@
     "tweet_count": null
   },
   {
+    "name": "#påspåret",
+    "query": "#påspåret",
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
     "name": "#MUNARS",
     "query": "#MUNARS",
-    "rank": 6,
+    "rank": 7,
     "tweet_count": "137K Tweets"
   },
   {
     "name": "#HappyBirthdayJin",
     "query": "#HappyBirthdayJin",
-    "rank": 7,
-    "tweet_count": "500K Tweets"
-  },
-  {
-    "name": "Skavlan",
-    "query": "Skavlan",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "505K Tweets"
   },
   {
     "name": "Titanic",
     "query": "Titanic",
     "rank": 9,
-    "tweet_count": "9,631 Tweets"
-  },
-  {
-    "name": "Skål",
-    "query": "Skål",
-    "rank": 10,
-    "tweet_count": null
+    "tweet_count": "9,705 Tweets"
   },
   {
     "name": "Västerås",
     "query": "Västerås",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Maguire",
     "query": "Maguire",
+    "rank": 11,
+    "tweet_count": "37.3K Tweets"
+  },
+  {
+    "name": "Skål",
+    "query": "Skål",
     "rank": 12,
-    "tweet_count": "37.2K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Piteå",
@@ -78,28 +78,28 @@
     "tweet_count": null
   },
   {
-    "name": "Google Maps",
-    "query": "\"Google Maps\"",
+    "name": "Modo",
+    "query": "Modo",
     "rank": 14,
-    "tweet_count": "21.3K Tweets"
+    "tweet_count": "53.7K Tweets"
   },
   {
-    "name": "Daniel Kindberg",
-    "query": "\"Daniel Kindberg\"",
+    "name": "Google Maps",
+    "query": "\"Google Maps\"",
     "rank": 15,
+    "tweet_count": "21.4K Tweets"
+  },
+  {
+    "name": "Kindberg",
+    "query": "Kindberg",
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "#SpotifyWrapped",
     "query": "#SpotifyWrapped",
-    "rank": 16,
-    "tweet_count": "170K Tweets"
-  },
-  {
-    "name": "Modo",
-    "query": "Modo",
     "rank": 17,
-    "tweet_count": "53.3K Tweets"
+    "tweet_count": "170K Tweets"
   },
   {
     "name": "Rebecka",
@@ -111,7 +111,7 @@
     "name": "Arsenal",
     "query": "Arsenal",
     "rank": 19,
-    "tweet_count": "266K Tweets"
+    "tweet_count": "267K Tweets"
   },
   {
     "name": "staffan hildebrand",
