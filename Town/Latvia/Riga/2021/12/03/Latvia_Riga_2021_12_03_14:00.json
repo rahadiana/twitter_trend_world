@@ -1,13 +1,13 @@
 [
   {
-    "name": "Apsveicu",
-    "query": "Apsveicu",
+    "name": "Rīgas",
+    "query": "Rīgas",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "Rīgas",
-    "query": "Rīgas",
+    "name": "Apsveicu",
+    "query": "Apsveicu",
     "rank": 2,
     "tweet_count": null
   },
@@ -18,10 +18,10 @@
     "tweet_count": null
   },
   {
-    "name": "labi",
-    "query": "labi",
+    "name": "Labi",
+    "query": "Labi",
     "rank": 4,
-    "tweet_count": "2,572 Tweets"
+    "tweet_count": "2,608 Tweets"
   },
   {
     "name": "Ja Tev",
@@ -33,7 +33,7 @@
     "name": "#SpotifyWrapped",
     "query": "#SpotifyWrapped",
     "rank": 6,
-    "tweet_count": "245K Tweets"
+    "tweet_count": "246K Tweets"
   },
   {
     "name": "krievijai",
@@ -42,20 +42,20 @@
     "tweet_count": null
   },
   {
-    "name": "#teirdarbs",
-    "query": "#teirdarbs",
+    "name": "#Ukraine",
+    "query": "#Ukraine",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "5,703 Tweets"
   },
   {
-    "name": "valsts",
-    "query": "valsts",
+    "name": "Jūrmalas",
+    "query": "Jūrmalas",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "jūrmalas",
-    "query": "jūrmalas",
+    "name": "#teirdarbs",
+    "query": "#teirdarbs",
     "rank": 10,
     "tweet_count": null
   },
@@ -72,32 +72,32 @@
     "tweet_count": null
   },
   {
-    "name": "ulmaņa",
-    "query": "ulmaņa",
+    "name": "gribu",
+    "query": "gribu",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "gribu",
-    "query": "gribu",
+    "name": "Ziemas",
+    "query": "Ziemas",
     "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "#Ukraine",
-    "query": "#Ukraine",
+    "name": "Origo",
+    "query": "Origo",
     "rank": 15,
-    "tweet_count": "5,632 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Ziemas",
-    "query": "Ziemas",
+    "name": "ulmaņa",
+    "query": "ulmaņa",
     "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "Aldis",
-    "query": "Aldis",
+    "name": "latviešu",
+    "query": "latviešu",
     "rank": 17,
     "tweet_count": null
   },
@@ -108,9 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "Latvia",
-    "query": "Latvia",
+    "name": "Skaidrs",
+    "query": "Skaidrs",
     "rank": 19,
-    "tweet_count": "2,193 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Ja Tu",
+    "query": "\"Ja Tu\"",
+    "rank": 20,
+    "tweet_count": "14.4K Tweets"
   }
 ]

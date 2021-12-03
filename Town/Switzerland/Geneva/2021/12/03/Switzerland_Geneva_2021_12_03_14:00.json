@@ -27,13 +27,13 @@
     "name": "#IDPD",
     "query": "#IDPD",
     "rank": 5,
-    "tweet_count": "10K Tweets"
+    "tweet_count": "10.3K Tweets"
   },
   {
     "name": "Ninho",
     "query": "Ninho",
     "rank": 6,
-    "tweet_count": "98.8K Tweets"
+    "tweet_count": "99.5K Tweets"
   },
   {
     "name": "Kantone",
@@ -45,7 +45,7 @@
     "name": "Massnahmen",
     "query": "Massnahmen",
     "rank": 8,
-    "tweet_count": "15K Tweets"
+    "tweet_count": "15.2K Tweets"
   },
   {
     "name": "Spitäler",
@@ -57,13 +57,13 @@
     "name": "Kanzler",
     "query": "Kanzler",
     "rank": 10,
-    "tweet_count": "10.4K Tweets"
+    "tweet_count": "10.5K Tweets"
   },
   {
     "name": "Eigenverantwortung",
     "query": "Eigenverantwortung",
     "rank": 11,
-    "tweet_count": "1,130 Tweets"
+    "tweet_count": "1,144 Tweets"
   },
   {
     "name": "Merkel",
@@ -72,28 +72,28 @@
     "tweet_count": "110K Tweets"
   },
   {
+    "name": "Berset",
+    "query": "Berset",
+    "rank": 13,
+    "tweet_count": "1,809 Tweets"
+  },
+  {
     "name": "marco odermatt",
     "query": "\"marco odermatt\"",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "rücktritt",
-    "query": "rücktritt",
-    "rank": 14,
-    "tweet_count": "4,669 Tweets"
+    "name": "Rücktritt",
+    "query": "Rücktritt",
+    "rank": 15,
+    "tweet_count": "4,690 Tweets"
   },
   {
     "name": "De Gea",
     "query": "\"De Gea\"",
-    "rank": 15,
-    "tweet_count": "15.4K Tweets"
-  },
-  {
-    "name": "Berset",
-    "query": "Berset",
     "rank": 16,
-    "tweet_count": "1,750 Tweets"
+    "tweet_count": "52.4K Tweets"
   },
   {
     "name": "Kriterien",
@@ -102,15 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "Empfehlung",
-    "query": "Empfehlung",
-    "rank": 18,
-    "tweet_count": "2,651 Tweets"
-  },
-  {
     "name": "Pecresse",
     "query": "Pecresse",
+    "rank": 18,
+    "tweet_count": "64.5K Tweets"
+  },
+  {
+    "name": "Arsenal",
+    "query": "Arsenal",
     "rank": 19,
-    "tweet_count": "64K Tweets"
+    "tweet_count": "355K Tweets"
+  },
+  {
+    "name": "Ciotti",
+    "query": "Ciotti",
+    "rank": 20,
+    "tweet_count": "53.4K Tweets"
   }
 ]
