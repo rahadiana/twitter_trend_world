@@ -1,33 +1,33 @@
 [
   {
-    "name": "Imran Khan",
-    "query": "\"Imran Khan\"",
-    "rank": 1,
-    "tweet_count": "13K Tweets"
-  },
-  {
     "name": "#Sialkot",
     "query": "#Sialkot",
-    "rank": 2,
-    "tweet_count": "26K Tweets"
+    "rank": 1,
+    "tweet_count": "33.2K Tweets"
   },
   {
     "name": "Islam",
     "query": "Islam",
+    "rank": 2,
+    "tweet_count": "63.5K Tweets"
+  },
+  {
+    "name": "#blasphemy",
+    "query": "#blasphemy",
     "rank": 3,
-    "tweet_count": "60.7K Tweets"
+    "tweet_count": "3,713 Tweets"
   },
   {
     "name": "Sri Lankan",
     "query": "\"Sri Lankan\"",
     "rank": 4,
-    "tweet_count": "19K Tweets"
+    "tweet_count": "21.8K Tweets"
   },
   {
-    "name": "#blasphemy",
-    "query": "#blasphemy",
+    "name": "#BanTLP",
+    "query": "#BanTLP",
     "rank": 5,
-    "tweet_count": "2,940 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#GetSetSmash",
@@ -42,51 +42,57 @@
     "tweet_count": null
   },
   {
-    "name": "#JummaMubarak",
-    "query": "#JummaMubarak",
+    "name": "Imran Khan",
+    "query": "\"Imran Khan\"",
     "rank": 8,
-    "tweet_count": "2,608 Tweets"
+    "tweet_count": "13.7K Tweets"
   },
   {
     "name": "Prophet",
     "query": "Prophet",
     "rank": 9,
-    "tweet_count": "17.2K Tweets"
+    "tweet_count": "18.1K Tweets"
   },
   {
-    "name": "#MoneyHeist",
-    "query": "#MoneyHeist",
+    "name": "Jummah Mubarak",
+    "query": "\"Jummah Mubarak\"",
     "rank": 10,
-    "tweet_count": "31.2K Tweets"
+    "tweet_count": "2,380 Tweets"
+  },
+  {
+    "name": "#MoneyHeistFinale",
+    "query": "#MoneyHeistFinale",
+    "rank": 11,
+    "tweet_count": "3,378 Tweets"
   },
   {
     "name": "#Serbia",
     "query": "#Serbia",
-    "rank": 11,
-    "tweet_count": "1,610 Tweets"
+    "rank": 12,
+    "tweet_count": "1,725 Tweets"
   },
   {
     "name": "#ViratKohli",
     "query": "#ViratKohli",
-    "rank": 12,
-    "tweet_count": "13K Tweets"
+    "rank": 13,
+    "tweet_count": "13.6K Tweets"
   },
   {
     "name": "#NayaPakistan",
     "query": "#NayaPakistan",
-    "rank": 13,
-    "tweet_count": "4,322 Tweets"
-  },
-  {
-    "name": "#INDvNZ",
-    "query": "#INDvNZ",
     "rank": 14,
-    "tweet_count": "41.9K Tweets"
+    "tweet_count": "4,932 Tweets"
   },
   {
     "name": "#ٹی_ایل_پی_پروموشن",
     "query": "#ٹی_ایل_پی_پروموشن",
     "rank": 15,
-    "tweet_count": "27.1K Tweets"
+    "tweet_count": "28.2K Tweets"
+  },
+  {
+    "name": "#INDvNZ",
+    "query": "#INDvNZ",
+    "rank": 16,
+    "tweet_count": "44.1K Tweets"
   }
 ]

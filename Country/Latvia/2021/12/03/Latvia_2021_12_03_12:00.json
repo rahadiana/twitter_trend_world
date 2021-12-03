@@ -1,13 +1,13 @@
 [
   {
-    "name": "#teirdarbs",
-    "query": "#teirdarbs",
+    "name": "Rīgas",
+    "query": "Rīgas",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "rīgas",
-    "query": "rīgas",
+    "name": "#teirdarbs",
+    "query": "#teirdarbs",
     "rank": 2,
     "tweet_count": null
   },
@@ -21,7 +21,7 @@
     "name": "Spotify",
     "query": "Spotify",
     "rank": 4,
-    "tweet_count": "1.54M Tweets"
+    "tweet_count": "1.58M Tweets"
   },
   {
     "name": "krievijai",
@@ -36,87 +36,87 @@
     "tweet_count": null
   },
   {
-    "name": "Šodien",
-    "query": "Šodien",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
     "name": "Jūrmalas",
     "query": "Jūrmalas",
-    "rank": 8,
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Ulmaņa",
     "query": "Ulmaņa",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Mums",
     "query": "Mums",
-    "rank": 10,
-    "tweet_count": "5,406 Tweets"
+    "rank": 9,
+    "tweet_count": "5,536 Tweets"
   },
   {
     "name": "Tevis",
     "query": "Tevis",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "dieva",
     "query": "dieva",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "jelgavas",
+    "query": "jelgavas",
     "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "Jelgavas",
-    "query": "Jelgavas",
+    "name": "Gribu",
+    "query": "Gribu",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "Pfizer",
-    "query": "Pfizer",
+    "name": "neesmu",
+    "query": "neesmu",
     "rank": 14,
-    "tweet_count": "186K Tweets"
-  },
-  {
-    "name": "Gribu",
-    "query": "Gribu",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Neesmu",
-    "query": "Neesmu",
-    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "#Ukraine",
     "query": "#Ukraine",
-    "rank": 17,
-    "tweet_count": "5,731 Tweets"
+    "rank": 15,
+    "tweet_count": "5,999 Tweets"
   },
   {
-    "name": "Modernu",
-    "query": "Modernu",
-    "rank": 18,
+    "name": "modernu",
+    "query": "modernu",
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Gazprom",
     "query": "Gazprom",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Latvia",
+    "query": "Latvia",
+    "rank": 18,
+    "tweet_count": "2,246 Tweets"
+  },
+  {
+    "name": "liepājas",
+    "query": "liepājas",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Latvijā",
-    "query": "Latvijā",
+    "name": "valmieras",
+    "query": "valmieras",
     "rank": 20,
-    "tweet_count": "1,049 Tweets"
+    "tweet_count": null
   }
 ]
