@@ -1,27 +1,27 @@
 [
   {
-    "name": "#FirstDates",
-    "query": "#FirstDates",
+    "name": "#TheMaskedSinger",
+    "query": "#TheMaskedSinger",
     "rank": 1,
-    "tweet_count": "1,240 Tweets"
-  },
-  {
-    "name": "Talpa",
-    "query": "Talpa",
-    "rank": 2,
-    "tweet_count": "1,150 Tweets"
-  },
-  {
-    "name": "#LangLeveDeLiefde",
-    "query": "#LangLeveDeLiefde",
-    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#gropec",
     "query": "#gropec",
-    "rank": 4,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "#FirstDates",
+    "query": "#FirstDates",
+    "rank": 3,
+    "tweet_count": "1,444 Tweets"
+  },
+  {
+    "name": "Talpa",
+    "query": "Talpa",
+    "rank": 4,
+    "tweet_count": "1,241 Tweets"
   },
   {
     "name": "Arie Ribbens",
@@ -30,44 +30,44 @@
     "tweet_count": null
   },
   {
-    "name": "#lldl",
-    "query": "#lldl",
+    "name": "Bohemian Rhapsody",
+    "query": "\"Bohemian Rhapsody\"",
     "rank": 6,
     "tweet_count": null
   },
   {
-    "name": "#SaudiArabianGP",
-    "query": "#SaudiArabianGP",
+    "name": "#lldl",
+    "query": "#lldl",
     "rank": 7,
-    "tweet_count": "63.4K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Bohemian Rhapsody",
-    "query": "\"Bohemian Rhapsody\"",
+    "name": "#LangLeveDeLiefde",
+    "query": "#LangLeveDeLiefde",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Charles",
-    "query": "Charles",
-    "rank": 9,
-    "tweet_count": "67.9K Tweets"
-  },
-  {
     "name": "Moslims",
     "query": "Moslims",
-    "rank": 10,
-    "tweet_count": "2,792 Tweets"
+    "rank": 9,
+    "tweet_count": "3,014 Tweets"
   },
   {
-    "name": "Hoevelaken",
-    "query": "Hoevelaken",
-    "rank": 11,
-    "tweet_count": null
+    "name": "Charles",
+    "query": "Charles",
+    "rank": 10,
+    "tweet_count": "69.3K Tweets"
   },
   {
     "name": "Angela de Jong",
     "query": "\"Angela de Jong\"",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "Hoevelaken",
+    "query": "Hoevelaken",
     "rank": 12,
     "tweet_count": null
   },
@@ -75,47 +75,47 @@
     "name": "Queen",
     "query": "Queen",
     "rank": 13,
-    "tweet_count": "283K Tweets"
-  },
-  {
-    "name": "Erica",
-    "query": "Erica",
-    "rank": 14,
-    "tweet_count": "23.7K Tweets"
+    "tweet_count": "288K Tweets"
   },
   {
     "name": "Danny Vera",
     "query": "\"Danny Vera\"",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
+  },
+  {
+    "name": "Erica",
+    "query": "Erica",
+    "rank": 15,
+    "tweet_count": "24.2K Tweets"
   },
   {
     "name": "Meilandjes",
     "query": "Meilandjes",
     "rank": 16,
-    "tweet_count": "1,628 Tweets"
+    "tweet_count": "1,725 Tweets"
   },
   {
     "name": "Wilders",
     "query": "Wilders",
     "rank": 17,
-    "tweet_count": "1,945 Tweets"
-  },
-  {
-    "name": "Pieter",
-    "query": "Pieter",
-    "rank": 18,
-    "tweet_count": "2,404 Tweets"
-  },
-  {
-    "name": "Viaplay",
-    "query": "Viaplay",
-    "rank": 19,
-    "tweet_count": null
+    "tweet_count": "1,977 Tweets"
   },
   {
     "name": "Ziggo",
     "query": "Ziggo",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Pieter",
+    "query": "Pieter",
+    "rank": 19,
+    "tweet_count": "2,437 Tweets"
+  },
+  {
+    "name": "Viaplay",
+    "query": "Viaplay",
     "rank": 20,
     "tweet_count": null
   }
