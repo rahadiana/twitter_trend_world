@@ -1,39 +1,39 @@
 [
   {
-    "name": "#SpotifyWrapped",
-    "query": "#SpotifyWrapped",
-    "rank": 1,
-    "tweet_count": "318K Tweets"
-  },
-  {
     "name": "Modernu",
     "query": "Modernu",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "Latvijā",
     "query": "Latvijā",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Ance",
     "query": "Ance",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "šodien",
+    "query": "šodien",
     "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "Rīgas",
-    "query": "Rīgas",
+    "name": "Spotify",
+    "query": "Spotify",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "1.66M Tweets"
   },
   {
-    "name": "Mums",
-    "query": "Mums",
+    "name": "Rīgas",
+    "query": "Rīgas",
     "rank": 6,
-    "tweet_count": "5,450 Tweets"
+    "tweet_count": null
   },
   {
     "name": "krievijai",
@@ -60,56 +60,56 @@
     "tweet_count": null
   },
   {
+    "name": "Pfizer",
+    "query": "Pfizer",
+    "rank": 11,
+    "tweet_count": "193K Tweets"
+  },
+  {
     "name": "šādi",
     "query": "šādi",
-    "rank": 11,
-    "tweet_count": "2,176 Tweets"
+    "rank": 12,
+    "tweet_count": "2,233 Tweets"
   },
   {
     "name": "tāds",
     "query": "tāds",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Gribu",
     "query": "Gribu",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "#Ukraine",
     "query": "#Ukraine",
-    "rank": 14,
-    "tweet_count": "6,094 Tweets"
+    "rank": 15,
+    "tweet_count": "6,196 Tweets"
+  },
+  {
+    "name": "mums",
+    "query": "mums",
+    "rank": 16,
+    "tweet_count": "5,582 Tweets"
   },
   {
     "name": "liepājas",
     "query": "liepājas",
-    "rank": 15,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Gazprom",
     "query": "Gazprom",
-    "rank": 16,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "#herpes",
     "query": "#herpes",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "kapēc",
-    "query": "kapēc",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Kaut",
-    "query": "Kaut",
     "rank": 19,
     "tweet_count": null
   }
