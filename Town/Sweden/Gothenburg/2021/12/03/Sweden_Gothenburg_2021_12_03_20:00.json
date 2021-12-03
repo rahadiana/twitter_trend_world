@@ -1,37 +1,37 @@
 [
   {
+    "name": "Skavlan",
+    "query": "Skavlan",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "Riks",
     "query": "Riks",
-    "rank": 1,
-    "tweet_count": "1,737 Tweets"
+    "rank": 2,
+    "tweet_count": "1,743 Tweets"
   },
   {
     "name": "Ebba",
     "query": "Ebba",
-    "rank": 2,
-    "tweet_count": "3,360 Tweets"
-  },
-  {
-    "name": "Skavlan",
-    "query": "Skavlan",
     "rank": 3,
-    "tweet_count": null
+    "tweet_count": "3,372 Tweets"
   },
   {
     "name": "Strandhäll",
     "query": "Strandhäll",
     "rank": 4,
-    "tweet_count": "4,848 Tweets"
-  },
-  {
-    "name": "#HV71",
-    "query": "#HV71",
-    "rank": 5,
-    "tweet_count": null
+    "tweet_count": "4,875 Tweets"
   },
   {
     "name": "#påspåret",
     "query": "#påspåret",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "#HV71",
+    "query": "#HV71",
     "rank": 6,
     "tweet_count": null
   },
@@ -45,13 +45,13 @@
     "name": "#HappyBirthdayJin",
     "query": "#HappyBirthdayJin",
     "rank": 8,
-    "tweet_count": "505K Tweets"
+    "tweet_count": "508K Tweets"
   },
   {
     "name": "Titanic",
     "query": "Titanic",
     "rank": 9,
-    "tweet_count": "9,705 Tweets"
+    "tweet_count": "9,764 Tweets"
   },
   {
     "name": "Västerås",
@@ -60,20 +60,20 @@
     "tweet_count": null
   },
   {
-    "name": "Maguire",
-    "query": "Maguire",
-    "rank": 11,
-    "tweet_count": "37.3K Tweets"
-  },
-  {
     "name": "Skål",
     "query": "Skål",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "Piteå",
-    "query": "Piteå",
+    "name": "Maguire",
+    "query": "Maguire",
+    "rank": 12,
+    "tweet_count": "37.4K Tweets"
+  },
+  {
+    "name": "piteå",
+    "query": "piteå",
     "rank": 13,
     "tweet_count": null
   },
@@ -81,13 +81,13 @@
     "name": "Modo",
     "query": "Modo",
     "rank": 14,
-    "tweet_count": "53.7K Tweets"
+    "tweet_count": "54K Tweets"
   },
   {
     "name": "Google Maps",
     "query": "\"Google Maps\"",
     "rank": 15,
-    "tweet_count": "21.4K Tweets"
+    "tweet_count": "21.5K Tweets"
   },
   {
     "name": "Kindberg",
@@ -99,7 +99,7 @@
     "name": "#SpotifyWrapped",
     "query": "#SpotifyWrapped",
     "rank": 17,
-    "tweet_count": "170K Tweets"
+    "tweet_count": "171K Tweets"
   },
   {
     "name": "Rebecka",
