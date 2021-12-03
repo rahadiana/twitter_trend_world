@@ -1,7 +1,7 @@
 [
   {
-    "name": "#munars",
-    "query": "#munars",
+    "name": "#MUNARS",
+    "query": "#MUNARS",
     "rank": 1,
     "tweet_count": "166K Tweets"
   },
@@ -9,25 +9,25 @@
     "name": "#IDPWD2021",
     "query": "#IDPWD2021",
     "rank": 2,
-    "tweet_count": "24K Tweets"
+    "tweet_count": "24.3K Tweets"
   },
   {
     "name": "NPHET",
     "query": "NPHET",
     "rank": 3,
-    "tweet_count": "9,105 Tweets"
-  },
-  {
-    "name": "Taoiseach",
-    "query": "Taoiseach",
-    "rank": 4,
-    "tweet_count": "2,067 Tweets"
+    "tweet_count": "9,267 Tweets"
   },
   {
     "name": "Christmas",
     "query": "Christmas",
+    "rank": 4,
+    "tweet_count": "1.09M Tweets"
+  },
+  {
+    "name": "Taoiseach",
+    "query": "Taoiseach",
     "rank": 5,
-    "tweet_count": "1.08M Tweets"
+    "tweet_count": "2,168 Tweets"
   },
   {
     "name": "Michael Martin",
@@ -42,22 +42,22 @@
     "tweet_count": null
   },
   {
-    "name": "#HappyBirthdayJin",
-    "query": "#HappyBirthdayJin",
-    "rank": 8,
-    "tweet_count": "472K Tweets"
-  },
-  {
     "name": "Arsenal",
     "query": "Arsenal",
+    "rank": 8,
+    "tweet_count": "309K Tweets"
+  },
+  {
+    "name": "#restrictions",
+    "query": "#restrictions",
     "rank": 9,
-    "tweet_count": "308K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#COVID19",
     "query": "#COVID19",
     "rank": 10,
-    "tweet_count": "192K Tweets"
+    "tweet_count": "193K Tweets"
   },
   {
     "name": "elneny",
@@ -69,7 +69,7 @@
     "name": "Aubameyang",
     "query": "Aubameyang",
     "rank": 12,
-    "tweet_count": "29.7K Tweets"
+    "tweet_count": "29.8K Tweets"
   },
   {
     "name": "eamon ryan",
@@ -87,36 +87,36 @@
     "name": "Government",
     "query": "Government",
     "rank": 15,
-    "tweet_count": "643K Tweets"
-  },
-  {
-    "name": "Omicron",
-    "query": "Omicron",
-    "rank": 16,
-    "tweet_count": "732K Tweets"
+    "tweet_count": "648K Tweets"
   },
   {
     "name": "Dermot Kennedy",
     "query": "\"Dermot Kennedy\"",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Spotify",
     "query": "Spotify",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": "1.3M Tweets"
   },
   {
     "name": "Kieran Creaven",
     "query": "\"Kieran Creaven\"",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Omicron",
+    "query": "Omicron",
+    "rank": 19,
+    "tweet_count": "738K Tweets"
   },
   {
     "name": "Michael Carrick",
     "query": "\"Michael Carrick\"",
     "rank": 20,
-    "tweet_count": "77.7K Tweets"
+    "tweet_count": "77.9K Tweets"
   }
 ]
