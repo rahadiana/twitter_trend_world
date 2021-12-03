@@ -6,16 +6,16 @@
     "tweet_count": null
   },
   {
-    "name": "#Bundesrat",
-    "query": "#Bundesrat",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
     "name": "#MUNARS",
     "query": "#MUNARS",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": "198K Tweets"
+  },
+  {
+    "name": "#Bundesrat",
+    "query": "#Bundesrat",
+    "rank": 3,
+    "tweet_count": null
   },
   {
     "name": "#BREntscheid",
@@ -27,13 +27,13 @@
     "name": "#IDPD",
     "query": "#IDPD",
     "rank": 5,
-    "tweet_count": "9,778 Tweets"
+    "tweet_count": "10K Tweets"
   },
   {
     "name": "Ninho",
     "query": "Ninho",
     "rank": 6,
-    "tweet_count": "98.4K Tweets"
+    "tweet_count": "98.9K Tweets"
   },
   {
     "name": "Kantone",
@@ -45,7 +45,7 @@
     "name": "Massnahmen",
     "query": "Massnahmen",
     "rank": 8,
-    "tweet_count": "14.9K Tweets"
+    "tweet_count": "15K Tweets"
   },
   {
     "name": "Spitäler",
@@ -60,20 +60,20 @@
     "tweet_count": "10.4K Tweets"
   },
   {
-    "name": "Merkel",
-    "query": "Merkel",
-    "rank": 11,
-    "tweet_count": "109K Tweets"
-  },
-  {
     "name": "Eigenverantwortung",
     "query": "Eigenverantwortung",
-    "rank": 12,
-    "tweet_count": "1,123 Tweets"
+    "rank": 11,
+    "tweet_count": "1,136 Tweets"
   },
   {
-    "name": "Marco Odermatt",
-    "query": "\"Marco Odermatt\"",
+    "name": "Merkel",
+    "query": "Merkel",
+    "rank": 12,
+    "tweet_count": "110K Tweets"
+  },
+  {
+    "name": "marco odermatt",
+    "query": "\"marco odermatt\"",
     "rank": 13,
     "tweet_count": null
   },
@@ -81,7 +81,7 @@
     "name": "Rücktritt",
     "query": "Rücktritt",
     "rank": 14,
-    "tweet_count": "4,654 Tweets"
+    "tweet_count": "4,670 Tweets"
   },
   {
     "name": "De Gea",
@@ -93,30 +93,30 @@
     "name": "Berset",
     "query": "Berset",
     "rank": 16,
-    "tweet_count": "1,724 Tweets"
-  },
-  {
-    "name": "Conseil",
-    "query": "Conseil",
-    "rank": 17,
-    "tweet_count": "24.4K Tweets"
+    "tweet_count": "1,754 Tweets"
   },
   {
     "name": "Kriterien",
     "query": "Kriterien",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
-  },
-  {
-    "name": "Arsenal",
-    "query": "Arsenal",
-    "rank": 19,
-    "tweet_count": "353K Tweets"
   },
   {
     "name": "Empfehlung",
     "query": "Empfehlung",
+    "rank": 18,
+    "tweet_count": "2,652 Tweets"
+  },
+  {
+    "name": "Pecresse",
+    "query": "Pecresse",
+    "rank": 19,
+    "tweet_count": "64K Tweets"
+  },
+  {
+    "name": "Arsenal",
+    "query": "Arsenal",
     "rank": 20,
-    "tweet_count": "2,646 Tweets"
+    "tweet_count": "354K Tweets"
   }
 ]
