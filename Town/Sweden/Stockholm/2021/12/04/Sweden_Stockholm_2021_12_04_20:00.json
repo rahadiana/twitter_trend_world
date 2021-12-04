@@ -1,80 +1,122 @@
 [
   {
-    "name": "Sirius",
-    "query": "Sirius",
+    "name": "Årets Nykomling",
+    "query": "\"Årets Nykomling\"",
     "rank": 1,
-    "tweet_count": "10.8K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Bayern",
-    "query": "Bayern",
+    "name": "Årets Besvikelse",
+    "query": "\"Årets Besvikelse\"",
     "rank": 2,
-    "tweet_count": "83.6K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Brynäs",
-    "query": "Brynäs",
+    "name": "Årets Spelare",
+    "query": "\"Årets Spelare\"",
     "rank": 3,
     "tweet_count": null
   },
   {
-    "name": "Origi",
-    "query": "Origi",
+    "name": "Årets Unga",
+    "query": "\"Årets Unga\"",
     "rank": 4,
-    "tweet_count": "117K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Malmö FF",
-    "query": "\"Malmö FF\"",
+    "name": "Årets Överraskning",
+    "query": "\"Årets Överraskning\"",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "Henok",
-    "query": "Henok",
+    "name": "Skavlan",
+    "query": "Skavlan",
     "rank": 6,
-    "tweet_count": "1,144 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Degerfors",
-    "query": "Degerfors",
+    "name": "Mendy",
+    "query": "Mendy",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "71.4K Tweets"
   },
   {
-    "name": "#ifkgbg",
-    "query": "#ifkgbg",
+    "name": "Bayern",
+    "query": "Bayern",
     "rank": 8,
+    "tweet_count": "85.8K Tweets"
+  },
+  {
+    "name": "Johaug",
+    "query": "Johaug",
+    "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Allsvenskan",
-    "query": "Allsvenskan",
-    "rank": 9,
-    "tweet_count": "1,578 Tweets"
-  },
-  {
-    "name": "Halmstad",
-    "query": "Halmstad",
+    "name": "Frida Karlsson",
+    "query": "\"Frida Karlsson\"",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Bajen",
-    "query": "Bajen",
+    "name": "Brynäs",
+    "query": "Brynäs",
     "rank": 11,
-    "tweet_count": "3,782 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#fbkse",
-    "query": "#fbkse",
+    "name": "Halmstad",
+    "query": "Halmstad",
     "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "Östersund",
-    "query": "Östersund",
+    "name": "Malmö FF",
+    "query": "\"Malmö FF\"",
     "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Verstappen",
+    "query": "Verstappen",
+    "rank": 14,
+    "tweet_count": "61.9K Tweets"
+  },
+  {
+    "name": "#HappyBirthdayJin",
+    "query": "#HappyBirthdayJin",
+    "rank": 15,
+    "tweet_count": "1.03M Tweets"
+  },
+  {
+    "name": "#ifkgbg",
+    "query": "#ifkgbg",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Riks",
+    "query": "Riks",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Roma",
+    "query": "Roma",
+    "rank": 18,
+    "tweet_count": "67.3K Tweets"
+  },
+  {
+    "name": "Sirius",
+    "query": "Sirius",
+    "rank": 19,
+    "tweet_count": "10.9K Tweets"
+  },
+  {
+    "name": "ebbas",
+    "query": "ebbas",
+    "rank": 20,
     "tweet_count": null
   }
 ]

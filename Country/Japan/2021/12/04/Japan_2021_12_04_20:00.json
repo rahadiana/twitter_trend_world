@@ -1,39 +1,39 @@
 [
   {
+    "name": "ワンタイム",
+    "query": "ワンタイム",
+    "rank": 1,
+    "tweet_count": "12K Tweets"
+  },
+  {
     "name": "#f1jp",
     "query": "#f1jp",
-    "rank": 1,
-    "tweet_count": "16.2K Tweets"
+    "rank": 2,
+    "tweet_count": "16.3K Tweets"
   },
   {
     "name": "アトレティコ",
     "query": "アトレティコ",
-    "rank": 2,
-    "tweet_count": "2,770 Tweets"
+    "rank": 3,
+    "tweet_count": "3,049 Tweets"
   },
   {
     "name": "#annkw",
     "query": "#annkw",
-    "rank": 3,
-    "tweet_count": "12.6K Tweets"
-  },
-  {
-    "name": "#ポプテピピック",
-    "query": "#ポプテピピック",
     "rank": 4,
-    "tweet_count": "15.3K Tweets"
+    "tweet_count": "12.7K Tweets"
   },
   {
     "name": "Gambit",
     "query": "Gambit",
     "rank": 5,
-    "tweet_count": "14.3K Tweets"
+    "tweet_count": "14.4K Tweets"
   },
   {
-    "name": "ワンタイム",
-    "query": "ワンタイム",
+    "name": "#ポプテピピック",
+    "query": "#ポプテピピック",
     "rank": 6,
-    "tweet_count": "10.8K Tweets"
+    "tweet_count": "15.4K Tweets"
   },
   {
     "name": "#SixTONESANN",
@@ -42,81 +42,81 @@
     "tweet_count": "143K Tweets"
   },
   {
-    "name": "#ワールドトリガー",
-    "query": "#ワールドトリガー",
+    "name": "#久保建英",
+    "query": "#久保建英",
     "rank": 8,
-    "tweet_count": "26.6K Tweets"
+    "tweet_count": null
   },
   {
     "name": "zombs",
     "query": "zombs",
     "rank": 9,
-    "tweet_count": "3,584 Tweets"
+    "tweet_count": "3,801 Tweets"
   },
   {
     "name": "弓場ちゃん",
     "query": "弓場ちゃん",
     "rank": 10,
-    "tweet_count": "4,539 Tweets"
-  },
-  {
-    "name": "フェルスタッペン",
-    "query": "フェルスタッペン",
-    "rank": 11,
-    "tweet_count": "3,193 Tweets"
+    "tweet_count": "4,556 Tweets"
   },
   {
     "name": "久保くん",
     "query": "久保くん",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "マジョルカ",
     "query": "マジョルカ",
-    "rank": 13,
-    "tweet_count": "2,367 Tweets"
+    "rank": 12,
+    "tweet_count": "2,600 Tweets"
   },
   {
-    "name": "弓場さん",
-    "query": "弓場さん",
-    "rank": 14,
-    "tweet_count": "4,180 Tweets"
+    "name": "フェルスタッペン",
+    "query": "フェルスタッペン",
+    "rank": 13,
+    "tweet_count": "3,235 Tweets"
   },
   {
     "name": "Scream",
     "query": "Scream",
-    "rank": 15,
-    "tweet_count": "56.6K Tweets"
-  },
-  {
-    "name": "L1NK",
-    "query": "L1NK",
-    "rank": 16,
-    "tweet_count": "3,964 Tweets"
+    "rank": 14,
+    "tweet_count": "57.5K Tweets"
   },
   {
     "name": "逆転ゴール",
     "query": "逆転ゴール",
+    "rank": 15,
+    "tweet_count": "2,533 Tweets"
+  },
+  {
+    "name": "弓場さん",
+    "query": "弓場さん",
+    "rank": 16,
+    "tweet_count": "4,197 Tweets"
+  },
+  {
+    "name": "L1NK",
+    "query": "L1NK",
     "rank": 17,
-    "tweet_count": "2,323 Tweets"
+    "tweet_count": "4,271 Tweets"
   },
   {
     "name": "キズナアイ",
     "query": "キズナアイ",
     "rank": 18,
-    "tweet_count": "93.1K Tweets"
-  },
-  {
-    "name": "帯島ちゃん",
-    "query": "帯島ちゃん",
-    "rank": 19,
-    "tweet_count": "2,225 Tweets"
+    "tweet_count": "93.6K Tweets"
   },
   {
     "name": "オブラク",
     "query": "オブラク",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "帯島ちゃん",
+    "query": "帯島ちゃん",
+    "rank": 20,
+    "tweet_count": "2,239 Tweets"
   }
 ]
