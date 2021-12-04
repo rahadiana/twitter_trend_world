@@ -1,51 +1,51 @@
 [
   {
-    "name": "Brampton",
-    "query": "Brampton",
-    "rank": 1,
-    "tweet_count": "1,505 Tweets"
-  },
-  {
     "name": "Skinner",
     "query": "Skinner",
-    "rank": 2,
-    "tweet_count": "2,326 Tweets"
+    "rank": 1,
+    "tweet_count": "2,400 Tweets"
   },
   {
     "name": "#SmackDown",
     "query": "#SmackDown",
-    "rank": 3,
-    "tweet_count": "37K Tweets"
+    "rank": 2,
+    "tweet_count": "37.5K Tweets"
   },
   {
     "name": "#AEWRampage",
     "query": "#AEWRampage",
+    "rank": 3,
+    "tweet_count": "10.6K Tweets"
+  },
+  {
+    "name": "Larsson",
+    "query": "Larsson",
     "rank": 4,
-    "tweet_count": "9,166 Tweets"
+    "tweet_count": "1,385 Tweets"
   },
   {
     "name": "#SpacesGotTalent",
     "query": "#SpacesGotTalent",
     "rank": 5,
-    "tweet_count": "11.5K Tweets"
-  },
-  {
-    "name": "5-2 Oilers",
-    "query": "\"5-2 Oilers\"",
-    "rank": 6,
-    "tweet_count": null
+    "tweet_count": "12.1K Tweets"
   },
   {
     "name": "#Bellator272",
     "query": "#Bellator272",
-    "rank": 7,
-    "tweet_count": "8,905 Tweets"
+    "rank": 6,
+    "tweet_count": "9,323 Tweets"
   },
   {
-    "name": "Shesterkin",
-    "query": "Shesterkin",
+    "name": "5-2 Oilers",
+    "query": "\"5-2 Oilers\"",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "Scheifele",
+    "query": "Scheifele",
     "rank": 8,
-    "tweet_count": "1,308 Tweets"
+    "tweet_count": null
   },
   {
     "name": "12 PIM",
@@ -54,16 +54,16 @@
     "tweet_count": null
   },
   {
-    "name": "Scheifele",
-    "query": "Scheifele",
+    "name": "Shesterkin",
+    "query": "Shesterkin",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "1,342 Tweets"
   },
   {
     "name": "Activision",
     "query": "Activision",
     "rank": 11,
-    "tweet_count": "16.7K Tweets"
+    "tweet_count": "17K Tweets"
   },
   {
     "name": "Ehlers",
@@ -72,45 +72,45 @@
     "tweet_count": null
   },
   {
-    "name": "Sami",
-    "query": "Sami",
-    "rank": 13,
-    "tweet_count": "22.4K Tweets"
-  },
-  {
-    "name": "Devils",
-    "query": "Devils",
-    "rank": 14,
-    "tweet_count": "13.1K Tweets"
-  },
-  {
     "name": "Oregon",
     "query": "Oregon",
-    "rank": 15,
-    "tweet_count": "38.6K Tweets"
+    "rank": 13,
+    "tweet_count": "39.9K Tweets"
   },
   {
     "name": "Cavs",
     "query": "Cavs",
-    "rank": 16,
-    "tweet_count": "15.6K Tweets"
+    "rank": 14,
+    "tweet_count": "15.9K Tweets"
   },
   {
     "name": "Mar-a-Lago",
     "query": "Mar-a-Lago",
-    "rank": 17,
-    "tweet_count": "18.1K Tweets"
+    "rank": 15,
+    "tweet_count": "18.2K Tweets"
   },
   {
     "name": "Argos",
     "query": "Argos",
-    "rank": 18,
-    "tweet_count": "3,921 Tweets"
+    "rank": 16,
+    "tweet_count": "3,938 Tweets"
   },
   {
-    "name": "New Brunswick",
-    "query": "\"New Brunswick\"",
+    "name": "new brunswick",
+    "query": "\"new brunswick\"",
+    "rank": 17,
+    "tweet_count": "4,523 Tweets"
+  },
+  {
+    "name": "Love a Rielly Jersey",
+    "query": "\"Love a Rielly Jersey\"",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "#TheExperience2021",
+    "query": "#TheExperience2021",
     "rank": 19,
-    "tweet_count": "4,417 Tweets"
+    "tweet_count": "9,553 Tweets"
   }
 ]

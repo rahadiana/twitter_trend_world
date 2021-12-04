@@ -1,21 +1,21 @@
 [
   {
+    "name": "#democracysausage",
+    "query": "#democracysausage",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "Greens",
     "query": "Greens",
-    "rank": 1,
-    "tweet_count": "20.1K Tweets"
+    "rank": 2,
+    "tweet_count": "20.2K Tweets"
   },
   {
     "name": "Mr Mosaic",
     "query": "\"Mr Mosaic\"",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "#HappyBirthdayJin",
-    "query": "#HappyBirthdayJin",
     "rank": 3,
-    "tweet_count": "1.08M Tweets"
+    "tweet_count": null
   },
   {
     "name": "Labor",
@@ -24,58 +24,58 @@
     "tweet_count": "108K Tweets"
   },
   {
+    "name": "#HappyBirthdayJin",
+    "query": "#HappyBirthdayJin",
+    "rank": 5,
+    "tweet_count": "1.11M Tweets"
+  },
+  {
     "name": "#IDPWD",
     "query": "#IDPWD",
-    "rank": 5,
+    "rank": 6,
     "tweet_count": "14.7K Tweets"
   },
   {
     "name": "#WELvWSW",
     "query": "#WELvWSW",
-    "rank": 6,
+    "rank": 7,
     "tweet_count": "1,181 Tweets"
   },
   {
     "name": "#MUNARS",
     "query": "#MUNARS",
-    "rank": 7,
-    "tweet_count": "29.6K Tweets"
-  },
-  {
-    "name": "#5SOSThe10YearCelebrationShow",
-    "query": "#5SOSThe10YearCelebrationShow",
     "rank": 8,
-    "tweet_count": "109K Tweets"
-  },
-  {
-    "name": "Stan Grant",
-    "query": "\"Stan Grant\"",
-    "rank": 9,
-    "tweet_count": "2,399 Tweets"
+    "tweet_count": "29.6K Tweets"
   },
   {
     "name": "Marine One",
     "query": "\"Marine One\"",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Rosehill",
-    "query": "Rosehill",
-    "rank": 11,
-    "tweet_count": null
+    "name": "Stan Grant",
+    "query": "\"Stan Grant\"",
+    "rank": 10,
+    "tweet_count": "2,425 Tweets"
   },
   {
     "name": "Spotify",
     "query": "Spotify",
-    "rank": 12,
-    "tweet_count": "1.1M Tweets"
+    "rank": 11,
+    "tweet_count": "1.11M Tweets"
   },
   {
     "name": "Tudge",
     "query": "Tudge",
+    "rank": 12,
+    "tweet_count": "5,175 Tweets"
+  },
+  {
+    "name": "Activision",
+    "query": "Activision",
     "rank": 13,
-    "tweet_count": "5,165 Tweets"
+    "tweet_count": "17.1K Tweets"
   },
   {
     "name": "Adam Bandt",
@@ -84,22 +84,22 @@
     "tweet_count": null
   },
   {
-    "name": "iVote",
-    "query": "iVote",
+    "name": "Rosehill",
+    "query": "Rosehill",
     "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "ivote",
+    "query": "ivote",
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Antic",
     "query": "Antic",
-    "rank": 16,
-    "tweet_count": "3,908 Tweets"
-  },
-  {
-    "name": "Activision",
-    "query": "Activision",
     "rank": 17,
-    "tweet_count": "16.8K Tweets"
+    "tweet_count": "3,928 Tweets"
   },
   {
     "name": "Spurrier",
@@ -111,12 +111,12 @@
     "name": "Dune",
     "query": "Dune",
     "rank": 19,
-    "tweet_count": "14.8K Tweets"
+    "tweet_count": "14.9K Tweets"
   },
   {
     "name": "Seoul",
     "query": "Seoul",
     "rank": 20,
-    "tweet_count": "451K Tweets"
+    "tweet_count": "452K Tweets"
   }
 ]
