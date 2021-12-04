@@ -1,116 +1,116 @@
 [
   {
-    "name": "Warriors",
-    "query": "Warriors",
-    "rank": 1,
-    "tweet_count": "128K Tweets"
-  },
-  {
     "name": "Utah",
     "query": "Utah",
-    "rank": 2,
-    "tweet_count": "53K Tweets"
+    "rank": 1,
+    "tweet_count": "53.8K Tweets"
   },
   {
     "name": "Mikal",
     "query": "Mikal",
-    "rank": 3,
-    "tweet_count": "4,119 Tweets"
+    "rank": 2,
+    "tweet_count": "4,144 Tweets"
   },
   {
-    "name": "Mendy",
-    "query": "Mendy",
-    "rank": 4,
-    "tweet_count": "57.6K Tweets"
+    "name": "Chelsea",
+    "query": "Chelsea",
+    "rank": 3,
+    "tweet_count": "201K Tweets"
   },
   {
     "name": "#SaturdayMorning",
     "query": "#SaturdayMorning",
-    "rank": 5,
-    "tweet_count": "12.2K Tweets"
+    "rank": 4,
+    "tweet_count": "12.9K Tweets"
   },
   {
     "name": "#Caturday",
     "query": "#Caturday",
-    "rank": 6,
-    "tweet_count": "12.6K Tweets"
+    "rank": 5,
+    "tweet_count": "13.4K Tweets"
   },
   {
     "name": "#MCOsocks",
     "query": "#MCOsocks",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "#OurMiracleSoobinDay",
     "query": "#OurMiracleSoobinDay",
-    "rank": 8,
-    "tweet_count": "102K Tweets"
-  },
-  {
-    "name": "Championship Saturday",
-    "query": "\"Championship Saturday\"",
-    "rank": 9,
-    "tweet_count": "4,623 Tweets"
+    "rank": 7,
+    "tweet_count": "139K Tweets"
   },
   {
     "name": "#Crumbleys",
     "query": "#Crumbleys",
-    "rank": 10,
-    "tweet_count": "8,596 Tweets"
+    "rank": 8,
+    "tweet_count": "9,206 Tweets"
+  },
+  {
+    "name": "championship saturday",
+    "query": "\"championship saturday\"",
+    "rank": 9,
+    "tweet_count": "4,960 Tweets"
   },
   {
     "name": "Go Dawgs",
     "query": "\"Go Dawgs\"",
+    "rank": 10,
+    "tweet_count": "3,485 Tweets"
+  },
+  {
+    "name": "Masuaku",
+    "query": "Masuaku",
     "rank": 11,
-    "tweet_count": "3,271 Tweets"
+    "tweet_count": "14.5K Tweets"
   },
   {
     "name": "Happy Founders",
     "query": "\"Happy Founders\"",
     "rank": 12,
-    "tweet_count": "2,090 Tweets"
+    "tweet_count": "2,449 Tweets"
   },
   {
-    "name": "Money Mase",
-    "query": "\"Money Mase\"",
+    "name": "Coutinho",
+    "query": "Coutinho",
     "rank": 13,
-    "tweet_count": "2,506 Tweets"
-  },
-  {
-    "name": "Happy Birthday Jack",
-    "query": "\"Happy Birthday Jack\"",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Havertz",
-    "query": "Havertz",
-    "rank": 15,
-    "tweet_count": "9,613 Tweets"
-  },
-  {
-    "name": "Kovacic",
-    "query": "Kovacic",
-    "rank": 16,
-    "tweet_count": "3,845 Tweets"
+    "tweet_count": "7,651 Tweets"
   },
   {
     "name": "Madison Cawthorn",
     "query": "\"Madison Cawthorn\"",
-    "rank": 17,
-    "tweet_count": "32K Tweets"
+    "rank": 14,
+    "tweet_count": "33.9K Tweets"
   },
   {
-    "name": "Rudiger",
-    "query": "Rudiger",
-    "rank": 18,
-    "tweet_count": "4,961 Tweets"
+    "name": "Fred Hampton",
+    "query": "\"Fred Hampton\"",
+    "rank": 15,
+    "tweet_count": "5,292 Tweets"
+  },
+  {
+    "name": "Happy Birthday Jack",
+    "query": "\"Happy Birthday Jack\"",
+    "rank": 16,
+    "tweet_count": null
   },
   {
     "name": "Kepa",
     "query": "Kepa",
+    "rank": 17,
+    "tweet_count": "2,628 Tweets"
+  },
+  {
+    "name": "Havertz",
+    "query": "Havertz",
+    "rank": 18,
+    "tweet_count": "10.1K Tweets"
+  },
+  {
+    "name": "Gaffney",
+    "query": "Gaffney",
     "rank": 19,
-    "tweet_count": "2,486 Tweets"
+    "tweet_count": null
   }
 ]
