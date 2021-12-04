@@ -3,23 +3,23 @@
     "name": "DAZN",
     "query": "DAZN",
     "rank": 1,
-    "tweet_count": "16.7K Tweets"
-  },
-  {
-    "name": "#横浜FC",
-    "query": "#横浜FC",
-    "rank": 2,
-    "tweet_count": null
+    "tweet_count": "16.8K Tweets"
   },
   {
     "name": "#KinKiKidsのブンブブーン",
     "query": "#KinKiKidsのブンブブーン",
-    "rank": 3,
-    "tweet_count": "5,177 Tweets"
+    "rank": 2,
+    "tweet_count": "5,192 Tweets"
   },
   {
     "name": "#ベイプラ",
     "query": "#ベイプラ",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "#横浜FC",
+    "query": "#横浜FC",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,7 +27,7 @@
     "name": "日産スタジアム",
     "query": "日産スタジアム",
     "rank": 5,
-    "tweet_count": "2,770 Tweets"
+    "tweet_count": "2,782 Tweets"
   },
   {
     "name": "#yokohamafc",
@@ -45,43 +45,43 @@
     "name": "ガラケー世代",
     "query": "ガラケー世代",
     "rank": 8,
-    "tweet_count": "5,352 Tweets"
+    "tweet_count": "5,375 Tweets"
   },
   {
     "name": "携帯電話クイズ",
     "query": "携帯電話クイズ",
     "rank": 9,
-    "tweet_count": "4,945 Tweets"
+    "tweet_count": "4,971 Tweets"
   },
   {
     "name": "対戦車砲弾",
     "query": "対戦車砲弾",
     "rank": 10,
-    "tweet_count": "7,114 Tweets"
+    "tweet_count": "7,658 Tweets"
   },
   {
     "name": "救急搬送",
     "query": "救急搬送",
     "rank": 11,
-    "tweet_count": "8,321 Tweets"
+    "tweet_count": "8,839 Tweets"
   },
   {
     "name": "ペティス",
     "query": "ペティス",
     "rank": 12,
-    "tweet_count": "4,156 Tweets"
+    "tweet_count": "4,348 Tweets"
   },
   {
-    "name": "感情の薄さ",
-    "query": "感情の薄さ",
+    "name": "表情の上手さ",
+    "query": "表情の上手さ",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "田中達也",
-    "query": "田中達也",
+    "name": "感情の薄さ",
+    "query": "感情の薄さ",
     "rank": 14,
-    "tweet_count": "2,225 Tweets"
+    "tweet_count": null
   },
   {
     "name": "頭の回転の速さ",
@@ -90,27 +90,33 @@
     "tweet_count": null
   },
   {
-    "name": "表情の上手さ",
-    "query": "表情の上手さ",
+    "name": "堀口選手",
+    "query": "堀口選手",
     "rank": 16,
-    "tweet_count": null
+    "tweet_count": "3,907 Tweets"
   },
   {
-    "name": "吹田の主婦",
-    "query": "吹田の主婦",
+    "name": "プライドの高さ",
+    "query": "プライドの高さ",
     "rank": 17,
-    "tweet_count": "2,685 Tweets"
+    "tweet_count": null
   },
   {
     "name": "BASARA",
     "query": "BASARA",
     "rank": 18,
-    "tweet_count": "7,190 Tweets"
+    "tweet_count": "7,314 Tweets"
+  },
+  {
+    "name": "田中達也",
+    "query": "田中達也",
+    "rank": 19,
+    "tweet_count": "2,308 Tweets"
   },
   {
     "name": "バックブロー",
     "query": "バックブロー",
-    "rank": 19,
+    "rank": 20,
     "tweet_count": null
   }
 ]
