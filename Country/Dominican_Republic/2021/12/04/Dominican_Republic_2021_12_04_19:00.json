@@ -1,25 +1,25 @@
 [
   {
-    "name": "#ConsultasPRM",
-    "query": "#ConsultasPRM",
+    "name": "#DuermanConRopa",
+    "query": "#DuermanConRopa",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "#DuermanConRopa",
-    "query": "#DuermanConRopa",
+    "name": "#ConsultasPRM",
+    "query": "#ConsultasPRM",
     "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "Xavi",
-    "query": "Xavi",
-    "rank": 3,
-    "tweet_count": "50.7K Tweets"
-  },
-  {
     "name": "Jorge Taveras",
     "query": "\"Jorge Taveras\"",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "Banreservas",
+    "query": "Banreservas",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,7 +27,7 @@
     "name": "Jairo",
     "query": "Jairo",
     "rank": 5,
-    "tweet_count": "3,219 Tweets"
+    "tweet_count": "3,239 Tweets"
   },
   {
     "name": "#BonoNavideño",
@@ -45,78 +45,78 @@
     "name": "Cámara de Cuentas",
     "query": "\"Cámara de Cuentas\"",
     "rank": 8,
-    "tweet_count": "2,010 Tweets"
-  },
-  {
-    "name": "Banreservas",
-    "query": "Banreservas",
-    "rank": 9,
-    "tweet_count": null
+    "tweet_count": "2,035 Tweets"
   },
   {
     "name": "#pldevuelvanlorobado",
     "query": "#pldevuelvanlorobado",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Fonper",
-    "query": "Fonper",
-    "rank": 11,
-    "tweet_count": "1,316 Tweets"
+    "name": "FONPER",
+    "query": "FONPER",
+    "rank": 10,
+    "tweet_count": "1,327 Tweets"
   },
   {
     "name": "Hamilton",
     "query": "Hamilton",
-    "rank": 12,
-    "tweet_count": "84.3K Tweets"
+    "rank": 11,
+    "tweet_count": "85.4K Tweets"
   },
   {
     "name": "Lucía Medina",
     "query": "\"Lucía Medina\"",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Bonifacio",
     "query": "Bonifacio",
-    "rank": 14,
-    "tweet_count": "1,803 Tweets"
+    "rank": 13,
+    "tweet_count": "1,807 Tweets"
   },
   {
     "name": "Offerman",
     "query": "Offerman",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Gonzalo Castillo",
-    "query": "\"Gonzalo Castillo\"",
-    "rank": 16,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Albert Pujols",
     "query": "\"Albert Pujols\"",
-    "rank": 17,
-    "tweet_count": "1,747 Tweets"
+    "rank": 15,
+    "tweet_count": "1,749 Tweets"
   },
   {
     "name": "Mirabal",
     "query": "Mirabal",
-    "rank": 18,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Día Internacional",
     "query": "\"Día Internacional\"",
-    "rank": 19,
+    "rank": 17,
     "tweet_count": "28.6K Tweets"
   },
   {
     "name": "Rolling",
     "query": "Rolling",
+    "rank": 18,
+    "tweet_count": "66.5K Tweets"
+  },
+  {
+    "name": "Gonzalo Castillo",
+    "query": "\"Gonzalo Castillo\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Bayern",
+    "query": "Bayern",
     "rank": 20,
-    "tweet_count": "66.1K Tweets"
+    "tweet_count": "78.3K Tweets"
   }
 ]
