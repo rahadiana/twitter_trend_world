@@ -1,25 +1,25 @@
 [
   {
-    "name": "Origi",
-    "query": "Origi",
-    "rank": 1,
-    "tweet_count": "104K Tweets"
-  },
-  {
     "name": "Malmö FF",
     "query": "\"Malmö FF\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "Jota",
-    "query": "Jota",
-    "rank": 3,
-    "tweet_count": "42.9K Tweets"
+    "name": "Origi",
+    "query": "Origi",
+    "rank": 2,
+    "tweet_count": "108K Tweets"
   },
   {
     "name": "Halmstad",
     "query": "Halmstad",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "Brynäs",
+    "query": "Brynäs",
     "rank": 4,
     "tweet_count": null
   },
@@ -30,10 +30,10 @@
     "tweet_count": null
   },
   {
-    "name": "#fbkse",
-    "query": "#fbkse",
+    "name": "Allsvenskan",
+    "query": "Allsvenskan",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "1,513 Tweets"
   },
   {
     "name": "Degerfors",
@@ -42,28 +42,28 @@
     "tweet_count": null
   },
   {
-    "name": "Allsvenskan",
-    "query": "Allsvenskan",
+    "name": "Bajen",
+    "query": "Bajen",
     "rank": 8,
-    "tweet_count": "1,471 Tweets"
+    "tweet_count": "4,149 Tweets"
+  },
+  {
+    "name": "#fbkse",
+    "query": "#fbkse",
+    "rank": 9,
+    "tweet_count": null
   },
   {
     "name": "Sirius",
     "query": "Sirius",
-    "rank": 9,
-    "tweet_count": "10.9K Tweets"
-  },
-  {
-    "name": "Bajen",
-    "query": "Bajen",
     "rank": 10,
-    "tweet_count": "4,067 Tweets"
+    "tweet_count": "11.1K Tweets"
   },
   {
     "name": "Henok",
     "query": "Henok",
     "rank": 11,
-    "tweet_count": "1,106 Tweets"
+    "tweet_count": "1,126 Tweets"
   },
   {
     "name": "Färjestad",
@@ -72,8 +72,8 @@
     "tweet_count": null
   },
   {
-    "name": "oskarshamn",
-    "query": "oskarshamn",
+    "name": "Oskarshamn",
+    "query": "Oskarshamn",
     "rank": 13,
     "tweet_count": null
   },
