@@ -1,33 +1,33 @@
 [
   {
-    "name": "Kāda",
-    "query": "Kāda",
-    "rank": 1,
-    "tweet_count": "11.3K Tweets"
-  },
-  {
     "name": "Liepājas",
     "query": "Liepājas",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
-  },
-  {
-    "name": "#Bitcoin",
-    "query": "#Bitcoin",
-    "rank": 3,
-    "tweet_count": "365K Tweets"
   },
   {
     "name": "ance",
     "query": "ance",
-    "rank": 4,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Rīgas",
     "query": "Rīgas",
-    "rank": 5,
+    "rank": 3,
     "tweet_count": null
+  },
+  {
+    "name": "lembergs",
+    "query": "lembergs",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "#Bitcoin",
+    "query": "#Bitcoin",
+    "rank": 5,
+    "tweet_count": "371K Tweets"
   },
   {
     "name": "Rīgu",
@@ -36,8 +36,8 @@
     "tweet_count": null
   },
   {
-    "name": "lembergs",
-    "query": "lembergs",
+    "name": "Protams",
+    "query": "Protams",
     "rank": 7,
     "tweet_count": null
   },
@@ -48,16 +48,16 @@
     "tweet_count": null
   },
   {
-    "name": "Tieši",
-    "query": "Tieši",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
     "name": "viņa",
     "query": "viņa",
+    "rank": 9,
+    "tweet_count": "7,354 Tweets"
+  },
+  {
+    "name": "galvenais",
+    "query": "galvenais",
     "rank": 10,
-    "tweet_count": "7,290 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Jūrmalas",
@@ -72,44 +72,44 @@
     "tweet_count": null
   },
   {
-    "name": "Tiešām",
-    "query": "Tiešām",
+    "name": "Kāpēc",
+    "query": "Kāpēc",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "Kāpēc",
-    "query": "Kāpēc",
+    "name": "Tiešām",
+    "query": "Tiešām",
     "rank": 14,
     "tweet_count": null
   },
   {
+    "name": "Kāda",
+    "query": "Kāda",
+    "rank": 15,
+    "tweet_count": "11.4K Tweets"
+  },
+  {
     "name": "ulmaņa",
     "query": "ulmaņa",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "origo",
     "query": "origo",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "#SpotifyWrapped",
     "query": "#SpotifyWrapped",
-    "rank": 17,
-    "tweet_count": "106K Tweets"
-  },
-  {
-    "name": "ja tev",
-    "query": "\"ja tev\"",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "107K Tweets"
   },
   {
-    "name": "#herpes",
-    "query": "#herpes",
+    "name": "#budžets2022",
+    "query": "#budžets2022",
     "rank": 19,
     "tweet_count": null
   }
