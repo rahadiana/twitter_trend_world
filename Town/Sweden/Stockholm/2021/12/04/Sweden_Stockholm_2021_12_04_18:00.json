@@ -3,7 +3,7 @@
     "name": "Origi",
     "query": "Origi",
     "rank": 1,
-    "tweet_count": "96.3K Tweets"
+    "tweet_count": "104K Tweets"
   },
   {
     "name": "Malmö FF",
@@ -12,28 +12,28 @@
     "tweet_count": null
   },
   {
+    "name": "Jota",
+    "query": "Jota",
+    "rank": 3,
+    "tweet_count": "42.9K Tweets"
+  },
+  {
     "name": "Halmstad",
     "query": "Halmstad",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "#ifkgbg",
     "query": "#ifkgbg",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "#fbkse",
     "query": "#fbkse",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Liverpool",
-    "query": "Liverpool",
     "rank": 6,
-    "tweet_count": "120K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Degerfors",
@@ -42,38 +42,38 @@
     "tweet_count": null
   },
   {
-    "name": "allsvenskan",
-    "query": "allsvenskan",
+    "name": "Allsvenskan",
+    "query": "Allsvenskan",
     "rank": 8,
-    "tweet_count": "1,430 Tweets"
+    "tweet_count": "1,471 Tweets"
   },
   {
     "name": "Sirius",
     "query": "Sirius",
     "rank": 9,
-    "tweet_count": "10.7K Tweets"
+    "tweet_count": "10.9K Tweets"
   },
   {
     "name": "Bajen",
     "query": "Bajen",
     "rank": 10,
-    "tweet_count": "3,991 Tweets"
+    "tweet_count": "4,067 Tweets"
   },
   {
     "name": "Henok",
     "query": "Henok",
     "rank": 11,
-    "tweet_count": "1,077 Tweets"
-  },
-  {
-    "name": "Oskarshamn",
-    "query": "Oskarshamn",
-    "rank": 12,
-    "tweet_count": null
+    "tweet_count": "1,106 Tweets"
   },
   {
     "name": "Färjestad",
     "query": "Färjestad",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "oskarshamn",
+    "query": "oskarshamn",
     "rank": 13,
     "tweet_count": null
   },
@@ -84,15 +84,9 @@
     "tweet_count": null
   },
   {
-    "name": "Johaug",
-    "query": "Johaug",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
     "name": "Östersund",
     "query": "Östersund",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   }
 ]

@@ -1,69 +1,69 @@
 [
   {
-    "name": "Red Bull",
-    "query": "\"Red Bull\"",
-    "rank": 1,
-    "tweet_count": "9,106 Tweets"
-  },
-  {
     "name": "#VibeMe",
     "query": "#VibeMe",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Hurst",
+    "query": "Hurst",
+    "rank": 2,
+    "tweet_count": "1,915 Tweets"
+  },
+  {
+    "name": "#bcfc",
+    "query": "#bcfc",
+    "rank": 3,
+    "tweet_count": "1,720 Tweets"
   },
   {
     "name": "Tuchel",
     "query": "Tuchel",
-    "rank": 3,
-    "tweet_count": "37.7K Tweets"
-  },
-  {
-    "name": "#STFC",
-    "query": "#STFC",
     "rank": 4,
-    "tweet_count": null
+    "tweet_count": "38.8K Tweets"
   },
   {
     "name": "Azeez",
     "query": "Azeez",
     "rank": 5,
-    "tweet_count": "1,875 Tweets"
+    "tweet_count": "1,929 Tweets"
   },
   {
-    "name": "#RosesReunited",
-    "query": "#RosesReunited",
+    "name": "#STFC",
+    "query": "#STFC",
     "rank": 6,
     "tweet_count": null
   },
   {
-    "name": "Horner",
-    "query": "Horner",
+    "name": "#pufc",
+    "query": "#pufc",
     "rank": 7,
-    "tweet_count": "2,403 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#TeamLH",
-    "query": "#TeamLH",
+    "name": "Town",
+    "query": "Town",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "167K Tweets"
+  },
+  {
+    "name": "#FACup",
+    "query": "#FACup",
+    "rank": 9,
+    "tweet_count": "2,325 Tweets"
+  },
+  {
+    "name": "Barrow",
+    "query": "Barrow",
+    "rank": 10,
+    "tweet_count": "2,253 Tweets"
   },
   {
     "name": "Origi",
     "query": "Origi",
-    "rank": 9,
-    "tweet_count": "96.3K Tweets"
-  },
-  {
-    "name": "#SaudiArabianGP",
-    "query": "#SaudiArabianGP",
-    "rank": 10,
-    "tweet_count": "83.3K Tweets"
-  },
-  {
-    "name": "Liverpool",
-    "query": "Liverpool",
     "rank": 11,
-    "tweet_count": "119K Tweets"
+    "tweet_count": "104K Tweets"
   },
   {
     "name": "Danny Rose",
@@ -75,48 +75,48 @@
     "name": "Dortmund",
     "query": "Dortmund",
     "rank": 13,
-    "tweet_count": "25.8K Tweets"
+    "tweet_count": "29.6K Tweets"
   },
   {
     "name": "Grealish",
     "query": "Grealish",
     "rank": 14,
-    "tweet_count": "7,773 Tweets"
+    "tweet_count": "8,703 Tweets"
   },
   {
     "name": "FULL TIME",
     "query": "\"FULL TIME\"",
     "rank": 15,
-    "tweet_count": "64.9K Tweets"
-  },
-  {
-    "name": "Bernardo Silva",
-    "query": "\"Bernardo Silva\"",
-    "rank": 16,
-    "tweet_count": "3,903 Tweets"
-  },
-  {
-    "name": "Mane",
-    "query": "Mane",
-    "rank": 17,
-    "tweet_count": "37.7K Tweets"
-  },
-  {
-    "name": "Hoever",
-    "query": "Hoever",
-    "rank": 18,
-    "tweet_count": "1,558 Tweets"
+    "tweet_count": "66.2K Tweets"
   },
   {
     "name": "Oh Max",
     "query": "\"Oh Max\"",
+    "rank": 16,
+    "tweet_count": "1,517 Tweets"
+  },
+  {
+    "name": "Hoever",
+    "query": "Hoever",
+    "rank": 17,
+    "tweet_count": "1,599 Tweets"
+  },
+  {
+    "name": "Mane",
+    "query": "Mane",
+    "rank": 18,
+    "tweet_count": "38.5K Tweets"
+  },
+  {
+    "name": "Roma",
+    "query": "Roma",
     "rank": 19,
-    "tweet_count": "1,300 Tweets"
+    "tweet_count": "59.7K Tweets"
   },
   {
     "name": "Sainz",
     "query": "Sainz",
     "rank": 20,
-    "tweet_count": "6,707 Tweets"
+    "tweet_count": "7,043 Tweets"
   }
 ]
