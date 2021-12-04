@@ -3,13 +3,13 @@
     "name": "Greens",
     "query": "Greens",
     "rank": 1,
-    "tweet_count": "20.8K Tweets"
+    "tweet_count": "21K Tweets"
   },
   {
     "name": "Labor",
     "query": "Labor",
     "rank": 2,
-    "tweet_count": "100K Tweets"
+    "tweet_count": "101K Tweets"
   },
   {
     "name": "#SYDvNEW",
@@ -21,17 +21,17 @@
     "name": "Ajaz Patel",
     "query": "\"Ajaz Patel\"",
     "rank": 4,
-    "tweet_count": "36.8K Tweets"
-  },
-  {
-    "name": "#BRIvADL",
-    "query": "#BRIvADL",
-    "rank": 5,
-    "tweet_count": null
+    "tweet_count": "37.6K Tweets"
   },
   {
     "name": "#MCYvWUN",
     "query": "#MCYvWUN",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "#BRIvADL",
+    "query": "#BRIvADL",
     "rank": 6,
     "tweet_count": null
   },
@@ -45,60 +45,72 @@
     "name": "Triangles",
     "query": "Triangles",
     "rank": 8,
-    "tweet_count": "1,288 Tweets"
+    "tweet_count": "1,309 Tweets"
+  },
+  {
+    "name": "Pike",
+    "query": "Pike",
+    "rank": 9,
+    "tweet_count": "4,037 Tweets"
   },
   {
     "name": "#Melbourneprotest",
     "query": "#Melbourneprotest",
-    "rank": 9,
-    "tweet_count": "3,502 Tweets"
+    "rank": 10,
+    "tweet_count": "3,585 Tweets"
   },
   {
-    "name": "western empire",
-    "query": "\"western empire\"",
-    "rank": 10,
+    "name": "Western Empire",
+    "query": "\"Western Empire\"",
+    "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "#buythedip",
-    "query": "#buythedip",
-    "rank": 11,
-    "tweet_count": "13.6K Tweets"
+    "name": "#Bathurst1000",
+    "query": "#Bathurst1000",
+    "rank": 12,
+    "tweet_count": "3,027 Tweets"
   },
   {
     "name": "Chaz",
     "query": "Chaz",
-    "rank": 12,
-    "tweet_count": "1,960 Tweets"
-  },
-  {
-    "name": "Doomben",
-    "query": "Doomben",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "1,984 Tweets"
   },
   {
     "name": "iVote",
     "query": "iVote",
     "rank": 14,
-    "tweet_count": "735K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#Bathurst1000",
-    "query": "#Bathurst1000",
+    "name": "Bandt",
+    "query": "Bandt",
     "rank": 15,
-    "tweet_count": "3,014 Tweets"
+    "tweet_count": "1,138 Tweets"
+  },
+  {
+    "name": "#buythedip",
+    "query": "#buythedip",
+    "rank": 16,
+    "tweet_count": "13.8K Tweets"
   },
   {
     "name": "#freedumb",
     "query": "#freedumb",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "#repcosc",
-    "query": "#repcosc",
-    "rank": 17,
-    "tweet_count": "2,297 Tweets"
+    "name": "#RepcoSC",
+    "query": "#RepcoSC",
+    "rank": 18,
+    "tweet_count": "2,308 Tweets"
+  },
+  {
+    "name": "#QAnonCult",
+    "query": "#QAnonCult",
+    "rank": 19,
+    "tweet_count": null
   }
 ]
