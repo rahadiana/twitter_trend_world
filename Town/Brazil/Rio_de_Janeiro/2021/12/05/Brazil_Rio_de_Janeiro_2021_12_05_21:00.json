@@ -1,69 +1,69 @@
 [
   {
+    "name": "Vettel",
+    "query": "Vettel",
+    "rank": 1,
+    "tweet_count": "13K Tweets"
+  },
+  {
     "name": "Alonso",
     "query": "Alonso",
-    "rank": 1,
-    "tweet_count": "24.9K Tweets"
-  },
-  {
-    "name": "joao gomes",
-    "query": "\"joao gomes\"",
     "rank": 2,
-    "tweet_count": "13.2K Tweets"
+    "tweet_count": "25.6K Tweets"
   },
   {
-    "name": "Brahma",
-    "query": "Brahma",
+    "name": "Thomas",
+    "query": "Thomas",
     "rank": 3,
-    "tweet_count": "4,490 Tweets"
+    "tweet_count": "102K Tweets"
   },
   {
     "name": "Felipe Melo",
     "query": "\"Felipe Melo\"",
     "rank": 4,
-    "tweet_count": "14K Tweets"
+    "tweet_count": "14.2K Tweets"
+  },
+  {
+    "name": "Brahma",
+    "query": "Brahma",
+    "rank": 5,
+    "tweet_count": "4,514 Tweets"
   },
   {
     "name": "Fiuk",
     "query": "Fiuk",
-    "rank": 5,
-    "tweet_count": "10.4K Tweets"
+    "rank": 6,
+    "tweet_count": "10.6K Tweets"
   },
   {
     "name": "Marcão",
     "query": "Marcão",
-    "rank": 6,
-    "tweet_count": "4,581 Tweets"
+    "rank": 7,
+    "tweet_count": "4,741 Tweets"
   },
   {
     "name": "Wellington",
     "query": "Wellington",
-    "rank": 7,
-    "tweet_count": "7,208 Tweets"
+    "rank": 8,
+    "tweet_count": "7,376 Tweets"
   },
   {
     "name": "Bahia",
     "query": "Bahia",
-    "rank": 8,
-    "tweet_count": "30.4K Tweets"
-  },
-  {
-    "name": "Yago",
-    "query": "Yago",
     "rank": 9,
-    "tweet_count": "2,853 Tweets"
-  },
-  {
-    "name": "André",
-    "query": "André",
-    "rank": 10,
-    "tweet_count": "52.8K Tweets"
+    "tweet_count": "32.4K Tweets"
   },
   {
     "name": "Manoel",
     "query": "Manoel",
+    "rank": 10,
+    "tweet_count": "1,282 Tweets"
+  },
+  {
+    "name": "André",
+    "query": "André",
     "rank": 11,
-    "tweet_count": "1,258 Tweets"
+    "tweet_count": "53.9K Tweets"
   },
   {
     "name": "Matheus Ferraz",
@@ -72,14 +72,14 @@
     "tweet_count": null
   },
   {
-    "name": "Marcos Roberta",
-    "query": "\"Marcos Roberta\"",
+    "name": "Yago",
+    "query": "Yago",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "2,938 Tweets"
   },
   {
-    "name": "Cazares",
-    "query": "Cazares",
+    "name": "Marcos Roberta",
+    "query": "\"Marcos Roberta\"",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,11 +87,11 @@
     "name": "Chape",
     "query": "Chape",
     "rank": 15,
-    "tweet_count": "1,671 Tweets"
+    "tweet_count": "1,767 Tweets"
   },
   {
-    "name": "Luiz Henrique",
-    "query": "\"Luiz Henrique\"",
+    "name": "Cazares",
+    "query": "Cazares",
     "rank": 16,
     "tweet_count": null
   },
@@ -99,24 +99,24 @@
     "name": "#ProvaDeFogo",
     "query": "#ProvaDeFogo",
     "rank": 17,
-    "tweet_count": "1,967 Tweets"
+    "tweet_count": "2,172 Tweets"
   },
   {
-    "name": "O Fred",
-    "query": "\"O Fred\"",
+    "name": "Luiz Henrique",
+    "query": "\"Luiz Henrique\"",
     "rank": 18,
-    "tweet_count": "6,248 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Fonte Nova",
     "query": "\"Fonte Nova\"",
     "rank": 19,
-    "tweet_count": "1,635 Tweets"
+    "tweet_count": "1,668 Tweets"
   },
   {
-    "name": "Léo Dias",
-    "query": "\"Léo Dias\"",
+    "name": "Mário",
+    "query": "Mário",
     "rank": 20,
-    "tweet_count": "9,451 Tweets"
+    "tweet_count": "99.9K Tweets"
   }
 ]
