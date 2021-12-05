@@ -1,25 +1,25 @@
 [
   {
-    "name": "Hovland",
-    "query": "Hovland",
+    "name": "Viktor Hovland",
+    "query": "\"Viktor Hovland\"",
     "rank": 1,
-    "tweet_count": "1,141 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#SaudiArabianGP",
     "query": "#SaudiArabianGP",
     "rank": 2,
-    "tweet_count": "358K Tweets"
+    "tweet_count": "361K Tweets"
   },
   {
     "name": "#nrksjakk",
     "query": "#nrksjakk",
     "rank": 3,
-    "tweet_count": "1,606 Tweets"
+    "tweet_count": "1,607 Tweets"
   },
   {
-    "name": "#ESNgolf",
-    "query": "#ESNgolf",
+    "name": "#ESNGolf",
+    "query": "#ESNGolf",
     "rank": 4,
     "tweet_count": null
   },
@@ -60,62 +60,62 @@
     "tweet_count": "118K Tweets"
   },
   {
+    "name": "Formel 1",
+    "query": "\"Formel 1\"",
+    "rank": 11,
+    "tweet_count": "1,129 Tweets"
+  },
+  {
     "name": "Viking",
     "query": "Viking",
-    "rank": 11,
-    "tweet_count": "13.1K Tweets"
+    "rank": 12,
+    "tweet_count": "13.2K Tweets"
   },
   {
     "name": "Molde",
     "query": "Molde",
-    "rank": 12,
-    "tweet_count": "1,891 Tweets"
-  },
-  {
-    "name": "Finne",
-    "query": "Finne",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "1,900 Tweets"
   },
   {
     "name": "Bahamas",
     "query": "Bahamas",
     "rank": 14,
-    "tweet_count": "2,393 Tweets"
-  },
-  {
-    "name": "Formel 1",
-    "query": "\"Formel 1\"",
-    "rank": 15,
-    "tweet_count": "1,119 Tweets"
+    "tweet_count": "2,439 Tweets"
   },
   {
     "name": "Mendy",
     "query": "Mendy",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": "10.5K Tweets"
   },
   {
     "name": "Nepo",
     "query": "Nepo",
-    "rank": 17,
-    "tweet_count": "5,459 Tweets"
+    "rank": 16,
+    "tweet_count": "5,476 Tweets"
   },
   {
     "name": "Origi",
     "query": "Origi",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": "39.3K Tweets"
+  },
+  {
+    "name": "Bård Finne",
+    "query": "\"Bård Finne\"",
+    "rank": 18,
+    "tweet_count": null
   },
   {
     "name": "Iran",
     "query": "Iran",
     "rank": 19,
-    "tweet_count": "70.2K Tweets"
+    "tweet_count": "71.1K Tweets"
   },
   {
-    "name": "obos",
-    "query": "obos",
+    "name": "OBOS",
+    "query": "OBOS",
     "rank": 20,
     "tweet_count": null
   }

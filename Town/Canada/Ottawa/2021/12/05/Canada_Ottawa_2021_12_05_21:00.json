@@ -1,39 +1,39 @@
 [
   {
+    "name": "Jets",
+    "query": "Jets",
+    "rank": 1,
+    "tweet_count": "58.5K Tweets"
+  },
+  {
     "name": "Winnipeg",
     "query": "Winnipeg",
-    "rank": 1,
-    "tweet_count": "3,195 Tweets"
+    "rank": 2,
+    "tweet_count": "3,251 Tweets"
   },
   {
     "name": "#MINvsDET",
     "query": "#MINvsDET",
-    "rank": 2,
-    "tweet_count": "6,436 Tweets"
-  },
-  {
-    "name": "#SaudiArabianGP",
-    "query": "#SaudiArabianGP",
     "rank": 3,
-    "tweet_count": "358K Tweets"
+    "tweet_count": "6,930 Tweets"
   },
   {
     "name": "Vikings",
     "query": "Vikings",
     "rank": 4,
-    "tweet_count": "53.2K Tweets"
+    "tweet_count": "58K Tweets"
+  },
+  {
+    "name": "#SaudiArabianGP",
+    "query": "#SaudiArabianGP",
+    "rank": 5,
+    "tweet_count": "360K Tweets"
   },
   {
     "name": "#GreyCup",
     "query": "#GreyCup",
-    "rank": 5,
-    "tweet_count": "1,035 Tweets"
-  },
-  {
-    "name": "#ForTheW",
-    "query": "#ForTheW",
     "rank": 6,
-    "tweet_count": "1,284 Tweets"
+    "tweet_count": "1,060 Tweets"
   },
   {
     "name": "#Riders",
@@ -45,61 +45,61 @@
     "name": "Bob Dole",
     "query": "\"Bob Dole\"",
     "rank": 8,
-    "tweet_count": "76.7K Tweets"
+    "tweet_count": "78.3K Tweets"
   },
   {
     "name": "Chargers",
     "query": "Chargers",
     "rank": 9,
-    "tweet_count": "38.8K Tweets"
+    "tweet_count": "41K Tweets"
+  },
+  {
+    "name": "#FinsUp",
+    "query": "#FinsUp",
+    "rank": 10,
+    "tweet_count": "10.8K Tweets"
   },
   {
     "name": "korea",
     "query": "korea",
-    "rank": 10,
-    "tweet_count": "197K Tweets"
+    "rank": 11,
+    "tweet_count": "200K Tweets"
+  },
+  {
+    "name": "Gronk",
+    "query": "Gronk",
+    "rank": 12,
+    "tweet_count": "4,694 Tweets"
   },
   {
     "name": "Toto",
     "query": "Toto",
-    "rank": 11,
-    "tweet_count": "45.3K Tweets"
+    "rank": 13,
+    "tweet_count": "45.8K Tweets"
   },
   {
     "name": "Eagles",
     "query": "Eagles",
-    "rank": 12,
-    "tweet_count": "55.5K Tweets"
-  },
-  {
-    "name": "Red Bull",
-    "query": "\"Red Bull\"",
-    "rank": 13,
-    "tweet_count": "17.1K Tweets"
+    "rank": 14,
+    "tweet_count": "56.8K Tweets"
   },
   {
     "name": "Minshew",
     "query": "Minshew",
-    "rank": 14,
-    "tweet_count": "32.5K Tweets"
+    "rank": 15,
+    "tweet_count": "32.9K Tweets"
   },
   {
-    "name": "Bucs",
-    "query": "Bucs",
-    "rank": 15,
-    "tweet_count": "11K Tweets"
+    "name": "Red Bull",
+    "query": "\"Red Bull\"",
+    "rank": 16,
+    "tweet_count": "40.5K Tweets"
   },
   {
     "name": "West Final",
     "query": "\"West Final\"",
-    "rank": 16,
-    "tweet_count": "1,435 Tweets"
-  },
-  {
-    "name": "Thompson",
-    "query": "Thompson",
     "rank": 17,
-    "tweet_count": "19.7K Tweets"
+    "tweet_count": "1,446 Tweets"
   },
   {
     "name": "Masoli",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "Herbert",
-    "query": "Herbert",
+    "name": "Steelers",
+    "query": "Steelers",
     "rank": 19,
-    "tweet_count": "19.8K Tweets"
+    "tweet_count": "35.9K Tweets"
   },
   {
     "name": "Zemmour",
     "query": "Zemmour",
     "rank": 20,
-    "tweet_count": "211K Tweets"
+    "tweet_count": "215K Tweets"
   }
 ]
