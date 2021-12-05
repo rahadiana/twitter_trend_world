@@ -1,69 +1,69 @@
 [
   {
-    "name": "Taylor",
-    "query": "Taylor",
+    "name": "Rogic",
+    "query": "Rogic",
     "rank": 1,
-    "tweet_count": "147K Tweets"
+    "tweet_count": "1,908 Tweets"
   },
   {
     "name": "#Marr",
     "query": "#Marr",
     "rank": 2,
-    "tweet_count": "12.4K Tweets"
+    "tweet_count": "13.5K Tweets"
   },
   {
     "name": "#DickOut",
     "query": "#DickOut",
     "rank": 3,
-    "tweet_count": "1,889 Tweets"
+    "tweet_count": "2,781 Tweets"
   },
   {
-    "name": "#sundayvibes",
-    "query": "#sundayvibes",
+    "name": "Turnbull",
+    "query": "Turnbull",
     "rank": 4,
-    "tweet_count": "9,083 Tweets"
+    "tweet_count": "1,480 Tweets"
   },
   {
     "name": "#InternationalVolunteerDay",
     "query": "#InternationalVolunteerDay",
     "rank": 5,
-    "tweet_count": "3,810 Tweets"
+    "tweet_count": "4,200 Tweets"
+  },
+  {
+    "name": "#sundayvibes",
+    "query": "#sundayvibes",
+    "rank": 6,
+    "tweet_count": "10.1K Tweets"
   },
   {
     "name": "#SundayBrunch",
     "query": "#SundayBrunch",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "Minority Report",
-    "query": "\"Minority Report\"",
     "rank": 7,
-    "tweet_count": "1,895 Tweets"
-  },
-  {
-    "name": "Johnston",
-    "query": "Johnston",
-    "rank": 8,
-    "tweet_count": "7,379 Tweets"
-  },
-  {
-    "name": "Kris Boyd",
-    "query": "\"Kris Boyd\"",
-    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Justice Secretary",
     "query": "\"Justice Secretary\"",
-    "rank": 10,
-    "tweet_count": "3,386 Tweets"
+    "rank": 8,
+    "tweet_count": "4,473 Tweets"
   },
   {
-    "name": "Hated",
-    "query": "Hated",
+    "name": "Kilcruit",
+    "query": "Kilcruit",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Forrest",
+    "query": "Forrest",
+    "rank": 10,
+    "tweet_count": "4,376 Tweets"
+  },
+  {
+    "name": "Johnston",
+    "query": "Johnston",
     "rank": 11,
-    "tweet_count": "27.6K Tweets"
+    "tweet_count": "7,568 Tweets"
   },
   {
     "name": "Rod Liddle",
@@ -72,39 +72,39 @@
     "tweet_count": null
   },
   {
-    "name": "Hilda",
-    "query": "Hilda",
+    "name": "Greg Taylor",
+    "query": "\"Greg Taylor\"",
     "rank": 13,
-    "tweet_count": "6,858 Tweets"
-  },
-  {
-    "name": "Prince William",
-    "query": "\"Prince William\"",
-    "rank": 14,
-    "tweet_count": "6,467 Tweets"
-  },
-  {
-    "name": "bulgaria",
-    "query": "bulgaria",
-    "rank": 15,
-    "tweet_count": "3,229 Tweets"
-  },
-  {
-    "name": "Envoi Allen",
-    "query": "\"Envoi Allen\"",
-    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "Tannadice",
-    "query": "Tannadice",
+    "name": "Hated",
+    "query": "Hated",
+    "rank": 14,
+    "tweet_count": "28.3K Tweets"
+  },
+  {
+    "name": "Gove",
+    "query": "Gove",
+    "rank": 15,
+    "tweet_count": "3,103 Tweets"
+  },
+  {
+    "name": "Fuchs",
+    "query": "Fuchs",
+    "rank": 16,
+    "tweet_count": "1,553 Tweets"
+  },
+  {
+    "name": "Dundee Utd",
+    "query": "\"Dundee Utd\"",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Clapton",
-    "query": "Clapton",
+    "name": "Mullins",
+    "query": "Mullins",
     "rank": 18,
-    "tweet_count": "5,514 Tweets"
+    "tweet_count": null
   }
 ]
