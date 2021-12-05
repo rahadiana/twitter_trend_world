@@ -1,63 +1,63 @@
 [
   {
-    "name": "João Gomes",
-    "query": "\"João Gomes\"",
-    "rank": 1,
-    "tweet_count": "10.2K Tweets"
-  },
-  {
     "name": "#SaudiArabianGP",
     "query": "#SaudiArabianGP",
-    "rank": 2,
-    "tweet_count": "224K Tweets"
+    "rank": 1,
+    "tweet_count": "247K Tweets"
   },
   {
     "name": "#F1naBand",
     "query": "#F1naBand",
+    "rank": 2,
+    "tweet_count": "14.8K Tweets"
+  },
+  {
+    "name": "Corinthians",
+    "query": "Corinthians",
     "rank": 3,
-    "tweet_count": "12.7K Tweets"
+    "tweet_count": "80.9K Tweets"
   },
   {
     "name": "Rafinha",
     "query": "Rafinha",
     "rank": 4,
-    "tweet_count": "4,692 Tweets"
-  },
-  {
-    "name": "Corinthians",
-    "query": "Corinthians",
-    "rank": 5,
-    "tweet_count": "78.7K Tweets"
+    "tweet_count": "4,929 Tweets"
   },
   {
     "name": "HORA DA DAYANE",
     "query": "\"HORA DA DAYANE\"",
-    "rank": 6,
-    "tweet_count": "182K Tweets"
+    "rank": 5,
+    "tweet_count": "187K Tweets"
   },
   {
-    "name": "Giuliano",
-    "query": "Giuliano",
+    "name": "Ocon",
+    "query": "Ocon",
+    "rank": 6,
+    "tweet_count": "34.7K Tweets"
+  },
+  {
+    "name": "Keno",
+    "query": "Keno",
     "rank": 7,
-    "tweet_count": "2,186 Tweets"
+    "tweet_count": "5,023 Tweets"
   },
   {
     "name": "Willian",
     "query": "Willian",
     "rank": 8,
-    "tweet_count": "3,548 Tweets"
+    "tweet_count": "4,100 Tweets"
+  },
+  {
+    "name": "Giuliano",
+    "query": "Giuliano",
+    "rank": 9,
+    "tweet_count": "2,324 Tweets"
   },
   {
     "name": "Perez",
     "query": "Perez",
-    "rank": 9,
-    "tweet_count": "48.7K Tweets"
-  },
-  {
-    "name": "#DIADEFURIA",
-    "query": "#DIADEFURIA",
     "rank": 10,
-    "tweet_count": "2,350 Tweets"
+    "tweet_count": "49.2K Tweets"
   },
   {
     "name": "Caio Paulista",
@@ -66,57 +66,57 @@
     "tweet_count": null
   },
   {
-    "name": "Mick Schumacher",
-    "query": "\"Mick Schumacher\"",
+    "name": "Bottas",
+    "query": "Bottas",
     "rank": 12,
-    "tweet_count": "5,195 Tweets"
+    "tweet_count": "29.8K Tweets"
   },
   {
-    "name": "Toto",
-    "query": "Toto",
+    "name": "#DIADEFURIA",
+    "query": "#DIADEFURIA",
     "rank": 13,
-    "tweet_count": "29.2K Tweets"
+    "tweet_count": "2,380 Tweets"
+  },
+  {
+    "name": "Mick Schumacher",
+    "query": "\"Mick Schumacher\"",
+    "rank": 14,
+    "tweet_count": "5,227 Tweets"
+  },
+  {
+    "name": "#SaudiGP",
+    "query": "#SaudiGP",
+    "rank": 15,
+    "tweet_count": "5,765 Tweets"
   },
   {
     "name": "Marcos Felipe",
     "query": "\"Marcos Felipe\"",
-    "rank": 14,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Michael Masi",
     "query": "\"Michael Masi\"",
-    "rank": 15,
-    "tweet_count": "8,326 Tweets"
-  },
-  {
-    "name": "Kannemann",
-    "query": "Kannemann",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "#AssistaTaynara",
-    "query": "#AssistaTaynara",
     "rank": 17,
-    "tweet_count": "24.5K Tweets"
+    "tweet_count": "9,633 Tweets"
   },
   {
-    "name": "#SaudiGP",
-    "query": "#SaudiGP",
+    "name": "Max Wilson",
+    "query": "\"Max Wilson\"",
     "rank": 18,
-    "tweet_count": "4,906 Tweets"
-  },
-  {
-    "name": "Repassa",
-    "query": "Repassa",
-    "rank": 19,
-    "tweet_count": "10.1K Tweets"
-  },
-  {
-    "name": "Cleber Machado",
-    "query": "\"Cleber Machado\"",
-    "rank": 20,
     "tweet_count": null
+  },
+  {
+    "name": "Guga",
+    "query": "Guga",
+    "rank": 19,
+    "tweet_count": "4,431 Tweets"
+  },
+  {
+    "name": "#GPArabiaSaudita",
+    "query": "#GPArabiaSaudita",
+    "rank": 20,
+    "tweet_count": "3,905 Tweets"
   }
 ]

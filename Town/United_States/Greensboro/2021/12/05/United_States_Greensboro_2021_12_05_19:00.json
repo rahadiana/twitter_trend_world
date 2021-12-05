@@ -1,91 +1,91 @@
 [
   {
+    "name": "Rhule",
+    "query": "Rhule",
+    "rank": 1,
+    "tweet_count": "2,201 Tweets"
+  },
+  {
     "name": "Clemson",
     "query": "Clemson",
-    "rank": 1,
-    "tweet_count": "17.9K Tweets"
+    "rank": 2,
+    "tweet_count": "18K Tweets"
   },
   {
     "name": "Fortnite",
     "query": "Fortnite",
-    "rank": 2,
-    "tweet_count": "392K Tweets"
+    "rank": 3,
+    "tweet_count": "394K Tweets"
   },
   {
     "name": "Bob Dole",
     "query": "\"Bob Dole\"",
-    "rank": 3,
-    "tweet_count": "49.5K Tweets"
+    "rank": 4,
+    "tweet_count": "52.3K Tweets"
   },
   {
     "name": "#LACvsCIN",
     "query": "#LACvsCIN",
-    "rank": 4,
-    "tweet_count": "2,967 Tweets"
-  },
-  {
-    "name": "#PHIvsNYJ",
-    "query": "#PHIvsNYJ",
     "rank": 5,
-    "tweet_count": "5,920 Tweets"
+    "tweet_count": "3,194 Tweets"
   },
   {
     "name": "#SaudiArabianGP",
     "query": "#SaudiArabianGP",
     "rank": 6,
-    "tweet_count": "228K Tweets"
+    "tweet_count": "249K Tweets"
+  },
+  {
+    "name": "#PHIvsNYJ",
+    "query": "#PHIvsNYJ",
+    "rank": 7,
+    "tweet_count": "6,284 Tweets"
   },
   {
     "name": "#TBvsATL",
     "query": "#TBvsATL",
-    "rank": 7,
-    "tweet_count": "3,038 Tweets"
+    "rank": 8,
+    "tweet_count": "3,362 Tweets"
   },
   {
     "name": "#MINvsDET",
     "query": "#MINvsDET",
-    "rank": 8,
-    "tweet_count": "1,338 Tweets"
+    "rank": 9,
+    "tweet_count": "1,548 Tweets"
   },
   {
     "name": "Reagor",
     "query": "Reagor",
-    "rank": 9,
-    "tweet_count": "4,221 Tweets"
+    "rank": 10,
+    "tweet_count": "4,375 Tweets"
+  },
+  {
+    "name": "Ocon",
+    "query": "Ocon",
+    "rank": 11,
+    "tweet_count": "34.9K Tweets"
+  },
+  {
+    "name": "Kirk Cousins",
+    "query": "\"Kirk Cousins\"",
+    "rank": 12,
+    "tweet_count": "2,030 Tweets"
   },
   {
     "name": "Texans",
     "query": "Texans",
-    "rank": 10,
-    "tweet_count": "9,354 Tweets"
-  },
-  {
-    "name": "Burrow",
-    "query": "Burrow",
-    "rank": 11,
-    "tweet_count": "7,858 Tweets"
+    "rank": 13,
+    "tweet_count": "9,623 Tweets"
   },
   {
     "name": "Eric Clapton",
     "query": "\"Eric Clapton\"",
-    "rank": 12,
-    "tweet_count": "13.7K Tweets"
+    "rank": 14,
+    "tweet_count": "14K Tweets"
   },
   {
     "name": "Breeland",
     "query": "Breeland",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Mike Glennon",
-    "query": "\"Mike Glennon\"",
-    "rank": 14,
-    "tweet_count": "1,513 Tweets"
-  },
-  {
-    "name": "Zac Taylor",
-    "query": "\"Zac Taylor\"",
     "rank": 15,
     "tweet_count": null
   },
@@ -93,24 +93,24 @@
     "name": "Gesicki",
     "query": "Gesicki",
     "rank": 16,
-    "tweet_count": "1,088 Tweets"
+    "tweet_count": "1,150 Tweets"
+  },
+  {
+    "name": "Zac Taylor",
+    "query": "\"Zac Taylor\"",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Mike Glennon",
+    "query": "\"Mike Glennon\"",
+    "rank": 18,
+    "tweet_count": "1,535 Tweets"
   },
   {
     "name": "Saquon",
     "query": "Saquon",
-    "rank": 17,
-    "tweet_count": "1,722 Tweets"
-  },
-  {
-    "name": "Mike Davis",
-    "query": "\"Mike Davis\"",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Demon Slayer",
-    "query": "\"Demon Slayer\"",
     "rank": 19,
-    "tweet_count": "67.8K Tweets"
+    "tweet_count": "1,788 Tweets"
   }
 ]
