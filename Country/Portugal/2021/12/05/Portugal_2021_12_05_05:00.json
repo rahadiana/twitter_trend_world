@@ -1,49 +1,49 @@
 [
   {
-    "name": "sporting",
-    "query": "sporting",
+    "name": "Sporting",
+    "query": "Sporting",
     "rank": 1,
-    "tweet_count": "28K Tweets"
+    "tweet_count": "28.1K Tweets"
   },
   {
     "name": "Curry",
     "query": "Curry",
     "rank": 2,
-    "tweet_count": "41.4K Tweets"
+    "tweet_count": "41.6K Tweets"
   },
   {
     "name": "João Mário",
     "query": "\"João Mário\"",
     "rank": 3,
-    "tweet_count": "3,056 Tweets"
+    "tweet_count": "3,057 Tweets"
   },
   {
-    "name": "Paulinho",
-    "query": "Paulinho",
+    "name": "paulinho",
+    "query": "paulinho",
     "rank": 4,
-    "tweet_count": "4,619 Tweets"
+    "tweet_count": "4,623 Tweets"
   },
   {
     "name": "Benfica",
     "query": "Benfica",
     "rank": 5,
-    "tweet_count": "22.4K Tweets"
+    "tweet_count": "22.5K Tweets"
   },
   {
-    "name": "cabrita",
-    "query": "cabrita",
+    "name": "Matheus Nunes",
+    "query": "\"Matheus Nunes\"",
     "rank": 6,
-    "tweet_count": "2,426 Tweets"
-  },
-  {
-    "name": "matheus nunes",
-    "query": "\"matheus nunes\"",
-    "rank": 7,
     "tweet_count": "2,384 Tweets"
   },
   {
-    "name": "André Almeida",
-    "query": "\"André Almeida\"",
+    "name": "Cabrita",
+    "query": "Cabrita",
+    "rank": 7,
+    "tweet_count": "2,428 Tweets"
+  },
+  {
+    "name": "andré almeida",
+    "query": "\"andré almeida\"",
     "rank": 8,
     "tweet_count": null
   },
@@ -57,37 +57,37 @@
     "name": "La Casa de Papel",
     "query": "\"La Casa de Papel\"",
     "rank": 10,
-    "tweet_count": "74.7K Tweets"
+    "tweet_count": "75K Tweets"
   },
   {
-    "name": "Contra 11",
-    "query": "\"Contra 11\"",
+    "name": "contra 11",
+    "query": "\"contra 11\"",
     "rank": 11,
-    "tweet_count": "3,914 Tweets"
+    "tweet_count": "3,930 Tweets"
   },
   {
     "name": "Dortmund",
     "query": "Dortmund",
     "rank": 12,
-    "tweet_count": "50.7K Tweets"
+    "tweet_count": "50.8K Tweets"
+  },
+  {
+    "name": "Pizzi",
+    "query": "Pizzi",
+    "rank": 13,
+    "tweet_count": null
   },
   {
     "name": "#LCDP5",
     "query": "#LCDP5",
-    "rank": 13,
-    "tweet_count": "70.6K Tweets"
+    "rank": 14,
+    "tweet_count": "70.7K Tweets"
   },
   {
     "name": "#FortniteChapter3",
     "query": "#FortniteChapter3",
-    "rank": 14,
-    "tweet_count": "91.9K Tweets"
-  },
-  {
-    "name": "Spurs",
-    "query": "Spurs",
     "rank": 15,
-    "tweet_count": "29K Tweets"
+    "tweet_count": "92.5K Tweets"
   },
   {
     "name": "Bernardo Silva",
@@ -96,27 +96,27 @@
     "tweet_count": "27K Tweets"
   },
   {
-    "name": "dead combo",
-    "query": "\"dead combo\"",
+    "name": "#ShakuSpace",
+    "query": "#ShakuSpace",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Origi",
-    "query": "Origi",
+    "name": "dead combo",
+    "query": "\"dead combo\"",
     "rank": 18,
-    "tweet_count": "139K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Jorge Jesus",
     "query": "\"Jorge Jesus\"",
     "rank": 19,
-    "tweet_count": "5,063 Tweets"
+    "tweet_count": "5,083 Tweets"
   },
   {
-    "name": "Pizzi",
-    "query": "Pizzi",
+    "name": "Origi",
+    "query": "Origi",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "140K Tweets"
   }
 ]
