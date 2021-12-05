@@ -1,122 +1,122 @@
 [
   {
-    "name": "Michigan",
-    "query": "Michigan",
-    "rank": 1,
-    "tweet_count": "221K Tweets"
-  },
-  {
     "name": "Bob Dole",
     "query": "\"Bob Dole\"",
-    "rank": 2,
-    "tweet_count": "19.4K Tweets"
+    "rank": 1,
+    "tweet_count": "25K Tweets"
   },
   {
     "name": "#FanDuelisSUPER",
     "query": "#FanDuelisSUPER",
-    "rank": 3,
-    "tweet_count": "3,186 Tweets"
+    "rank": 2,
+    "tweet_count": "3,362 Tweets"
   },
   {
     "name": "#AskFFT",
     "query": "#AskFFT",
+    "rank": 3,
+    "tweet_count": "5,228 Tweets"
+  },
+  {
+    "name": "#CFBPlayoff",
+    "query": "#CFBPlayoff",
     "rank": 4,
-    "tweet_count": "4,576 Tweets"
+    "tweet_count": "17.8K Tweets"
   },
   {
     "name": "#MUNCRY",
     "query": "#MUNCRY",
     "rank": 5,
-    "tweet_count": "107K Tweets"
+    "tweet_count": "108K Tweets"
   },
   {
     "name": "#sundayvibes",
     "query": "#sundayvibes",
     "rank": 6,
-    "tweet_count": "20.2K Tweets"
-  },
-  {
-    "name": "#CFBPlayoff",
-    "query": "#CFBPlayoff",
-    "rank": 7,
-    "tweet_count": "14.9K Tweets"
+    "tweet_count": "20.8K Tweets"
   },
   {
     "name": "Minshew",
     "query": "Minshew",
-    "rank": 8,
-    "tweet_count": "12.2K Tweets"
-  },
-  {
-    "name": "Cincinnati",
-    "query": "Cincinnati",
-    "rank": 9,
-    "tweet_count": "49.7K Tweets"
-  },
-  {
-    "name": "Reclaim America",
-    "query": "\"Reclaim America\"",
-    "rank": 10,
-    "tweet_count": "16.8K Tweets"
-  },
-  {
-    "name": "Go Birds",
-    "query": "\"Go Birds\"",
-    "rank": 11,
-    "tweet_count": "1,330 Tweets"
-  },
-  {
-    "name": "Pastor Fred",
-    "query": "\"Pastor Fred\"",
-    "rank": 12,
-    "tweet_count": "10.6K Tweets"
-  },
-  {
-    "name": "Demon Slayer",
-    "query": "\"Demon Slayer\"",
-    "rank": 13,
-    "tweet_count": "57K Tweets"
+    "rank": 7,
+    "tweet_count": "12.6K Tweets"
   },
   {
     "name": "Eric Clapton",
     "query": "\"Eric Clapton\"",
-    "rank": 14,
-    "tweet_count": "8,639 Tweets"
+    "rank": 8,
+    "tweet_count": "9,458 Tweets"
+  },
+  {
+    "name": "Reclaim America",
+    "query": "\"Reclaim America\"",
+    "rank": 9,
+    "tweet_count": "17.6K Tweets"
+  },
+  {
+    "name": "Go Birds",
+    "query": "\"Go Birds\"",
+    "rank": 10,
+    "tweet_count": "1,395 Tweets"
+  },
+  {
+    "name": "Demon Slayer",
+    "query": "\"Demon Slayer\"",
+    "rank": 11,
+    "tweet_count": "59.2K Tweets"
   },
   {
     "name": "Chuck Todd",
     "query": "\"Chuck Todd\"",
-    "rank": 15,
-    "tweet_count": "2,789 Tweets"
+    "rank": 12,
+    "tweet_count": "3,100 Tweets"
   },
   {
     "name": "Mooney",
     "query": "Mooney",
-    "rank": 16,
-    "tweet_count": "2,368 Tweets"
-  },
-  {
-    "name": "Norm Macdonald",
-    "query": "\"Norm Macdonald\"",
-    "rank": 17,
-    "tweet_count": null
+    "rank": 13,
+    "tweet_count": "2,499 Tweets"
   },
   {
     "name": "Large Marge",
     "query": "\"Large Marge\"",
-    "rank": 18,
-    "tweet_count": "2,587 Tweets"
+    "rank": 14,
+    "tweet_count": "2,834 Tweets"
   },
   {
-    "name": "Venables",
-    "query": "Venables",
-    "rank": 19,
-    "tweet_count": "8,872 Tweets"
+    "name": "Pastor Fred",
+    "query": "\"Pastor Fred\"",
+    "rank": 15,
+    "tweet_count": "11.6K Tweets"
   },
   {
     "name": "Hopkins",
     "query": "Hopkins",
+    "rank": 16,
+    "tweet_count": "7,028 Tweets"
+  },
+  {
+    "name": "Venables",
+    "query": "Venables",
+    "rank": 17,
+    "tweet_count": "9,235 Tweets"
+  },
+  {
+    "name": "NFL Sunday",
+    "query": "\"NFL Sunday\"",
+    "rank": 18,
+    "tweet_count": "10.8K Tweets"
+  },
+  {
+    "name": "Miles Sanders",
+    "query": "\"Miles Sanders\"",
+    "rank": 19,
+    "tweet_count": "1,294 Tweets"
+  },
+  {
+    "name": "Van Jefferson",
+    "query": "\"Van Jefferson\"",
     "rank": 20,
-    "tweet_count": "6,755 Tweets"
+    "tweet_count": null
   }
 ]
