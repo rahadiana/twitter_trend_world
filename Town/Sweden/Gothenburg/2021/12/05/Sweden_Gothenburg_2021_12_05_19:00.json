@@ -1,39 +1,39 @@
 [
   {
-    "name": "GAIS",
-    "query": "GAIS",
-    "rank": 1,
-    "tweet_count": "10.3K Tweets"
-  },
-  {
     "name": "#SaudiArabianGP",
     "query": "#SaudiArabianGP",
+    "rank": 1,
+    "tweet_count": "224K Tweets"
+  },
+  {
+    "name": "GAIS",
+    "query": "GAIS",
     "rank": 2,
-    "tweet_count": "203K Tweets"
-  },
-  {
-    "name": "Hamilton",
-    "query": "Hamilton",
-    "rank": 3,
-    "tweet_count": "106K Tweets"
-  },
-  {
-    "name": "Bottas",
-    "query": "Bottas",
-    "rank": 4,
-    "tweet_count": "28.3K Tweets"
-  },
-  {
-    "name": "Verstappen",
-    "query": "Verstappen",
-    "rank": 5,
-    "tweet_count": "111K Tweets"
+    "tweet_count": "10.3K Tweets"
   },
   {
     "name": "Magda Gad",
     "query": "\"Magda Gad\"",
-    "rank": 6,
+    "rank": 3,
     "tweet_count": null
+  },
+  {
+    "name": "Hedenmo",
+    "query": "Hedenmo",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "Karlshamnsverket",
+    "query": "Karlshamnsverket",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "#MUNCRY",
+    "query": "#MUNCRY",
+    "rank": 6,
+    "tweet_count": "114K Tweets"
   },
   {
     "name": "Dalkurd",
@@ -42,81 +42,81 @@
     "tweet_count": null
   },
   {
-    "name": "Superettan",
-    "query": "Superettan",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "#MUNCRY",
-    "query": "#MUNCRY",
-    "rank": 9,
-    "tweet_count": "113K Tweets"
-  },
-  {
-    "name": "Hedenmo",
-    "query": "Hedenmo",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
     "name": "Skövde AIK",
     "query": "\"Skövde AIK\"",
-    "rank": 11,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "#dagensvapenbild",
     "query": "#dagensvapenbild",
-    "rank": 12,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Svenska Cupen",
     "query": "\"Svenska Cupen\"",
-    "rank": 13,
+    "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Lewis",
-    "query": "Lewis",
-    "rank": 14,
-    "tweet_count": "92.2K Tweets"
+    "name": "Superettan",
+    "query": "Superettan",
+    "rank": 11,
+    "tweet_count": null
   },
   {
     "name": "Akropolis",
     "query": "Akropolis",
-    "rank": 15,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Elanga",
     "query": "Elanga",
-    "rank": 16,
-    "tweet_count": "7,469 Tweets"
+    "rank": 13,
+    "tweet_count": "7,553 Tweets"
   },
   {
     "name": "#WHUCHE",
     "query": "#WHUCHE",
-    "rank": 17,
-    "tweet_count": "9,961 Tweets"
-  },
-  {
-    "name": "Vattenfall",
-    "query": "Vattenfall",
-    "rank": 18,
-    "tweet_count": "1,175 Tweets"
+    "rank": 14,
+    "tweet_count": "9,973 Tweets"
   },
   {
     "name": "Årets Nykomling",
     "query": "\"Årets Nykomling\"",
-    "rank": 19,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "årets överraskning",
     "query": "\"årets överraskning\"",
-    "rank": 20,
+    "rank": 16,
     "tweet_count": null
+  },
+  {
+    "name": "Vattenfall",
+    "query": "Vattenfall",
+    "rank": 17,
+    "tweet_count": "1,228 Tweets"
+  },
+  {
+    "name": "årets unga",
+    "query": "\"årets unga\"",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Årets Spelare",
+    "query": "\"Årets Spelare\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "sam nook",
+    "query": "\"sam nook\"",
+    "rank": 20,
+    "tweet_count": "14.6K Tweets"
   }
 ]
