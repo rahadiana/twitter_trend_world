@@ -1,122 +1,122 @@
 [
   {
-    "name": "#MINvsDET",
-    "query": "#MINvsDET",
+    "name": "Lions",
+    "query": "Lions",
     "rank": 1,
-    "tweet_count": "7,673 Tweets"
+    "tweet_count": "138K Tweets"
+  },
+  {
+    "name": "Vikings",
+    "query": "Vikings",
+    "rank": 2,
+    "tweet_count": "66.4K Tweets"
   },
   {
     "name": "#Riders",
     "query": "#Riders",
-    "rank": 2,
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "#Bombers",
+    "query": "#Bombers",
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "#CFLPlayoffs",
     "query": "#CFLPlayoffs",
-    "rank": 3,
-    "tweet_count": "1,201 Tweets"
-  },
-  {
-    "name": "Grey Cup",
-    "query": "\"Grey Cup\"",
-    "rank": 4,
-    "tweet_count": "1,506 Tweets"
+    "rank": 5,
+    "tweet_count": "1,223 Tweets"
   },
   {
     "name": "#SaudiArabianGP",
     "query": "#SaudiArabianGP",
-    "rank": 5,
-    "tweet_count": "372K Tweets"
-  },
-  {
-    "name": "Bombers",
-    "query": "Bombers",
     "rank": 6,
-    "tweet_count": "4,690 Tweets"
+    "tweet_count": "374K Tweets"
   },
   {
-    "name": "#ForTheW",
-    "query": "#ForTheW",
+    "name": "Grey Cup",
+    "query": "\"Grey Cup\"",
     "rank": 7,
-    "tweet_count": "1,443 Tweets"
+    "tweet_count": "1,526 Tweets"
+  },
+  {
+    "name": "#Seahawks",
+    "query": "#Seahawks",
+    "rank": 8,
+    "tweet_count": "5,420 Tweets"
+  },
+  {
+    "name": "Lewis",
+    "query": "Lewis",
+    "rank": 9,
+    "tweet_count": "244K Tweets"
+  },
+  {
+    "name": "Dan Campbell",
+    "query": "\"Dan Campbell\"",
+    "rank": 10,
+    "tweet_count": "12K Tweets"
   },
   {
     "name": "Bob Dole",
     "query": "\"Bob Dole\"",
-    "rank": 8,
-    "tweet_count": "89K Tweets"
-  },
-  {
-    "name": "Collaros",
-    "query": "Collaros",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Dane Evans",
-    "query": "\"Dane Evans\"",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Argos",
-    "query": "Argos",
     "rank": 11,
-    "tweet_count": "3,567 Tweets"
+    "tweet_count": "90.4K Tweets"
   },
   {
     "name": "Fajardo",
     "query": "Fajardo",
     "rank": 12,
-    "tweet_count": "4,892 Tweets"
+    "tweet_count": "4,960 Tweets"
+  },
+  {
+    "name": "Goff",
+    "query": "Goff",
+    "rank": 13,
+    "tweet_count": "16.7K Tweets"
+  },
+  {
+    "name": "Collaros",
+    "query": "Collaros",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Dane Evans",
+    "query": "\"Dane Evans\"",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Verstappen",
+    "query": "Verstappen",
+    "rank": 16,
+    "tweet_count": "281K Tweets"
+  },
+  {
+    "name": "Zimmer",
+    "query": "Zimmer",
+    "rank": 17,
+    "tweet_count": "16.4K Tweets"
+  },
+  {
+    "name": "Argos",
+    "query": "Argos",
+    "rank": 18,
+    "tweet_count": "3,587 Tweets"
   },
   {
     "name": "Steelers",
     "query": "Steelers",
-    "rank": 13,
-    "tweet_count": "44K Tweets"
+    "rank": 19,
+    "tweet_count": "45.2K Tweets"
   },
   {
     "name": "Chargers",
     "query": "Chargers",
-    "rank": 14,
-    "tweet_count": "45.2K Tweets"
-  },
-  {
-    "name": "49ers",
-    "query": "49ers",
-    "rank": 15,
-    "tweet_count": "20.5K Tweets"
-  },
-  {
-    "name": "Toto",
-    "query": "Toto",
-    "rank": 16,
-    "tweet_count": "47.8K Tweets"
-  },
-  {
-    "name": "Korea",
-    "query": "Korea",
-    "rank": 17,
-    "tweet_count": "217K Tweets"
-  },
-  {
-    "name": "Masoli",
-    "query": "Masoli",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Jeddah",
-    "query": "Jeddah",
-    "rank": 19,
-    "tweet_count": "53K Tweets"
-  },
-  {
-    "name": "Bears",
-    "query": "Bears",
     "rank": 20,
-    "tweet_count": "63.5K Tweets"
+    "tweet_count": "45.5K Tweets"
   }
 ]
