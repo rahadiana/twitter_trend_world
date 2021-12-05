@@ -3,19 +3,19 @@
     "name": "Volendam",
     "query": "Volendam",
     "rank": 1,
-    "tweet_count": "19.9K Tweets"
-  },
-  {
-    "name": "#kozp",
-    "query": "#kozp",
-    "rank": 2,
-    "tweet_count": "8,748 Tweets"
+    "tweet_count": "20K Tweets"
   },
   {
     "name": "#buitenhof",
     "query": "#buitenhof",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "#kozp",
+    "query": "#kozp",
+    "rank": 3,
+    "tweet_count": "8,792 Tweets"
   },
   {
     "name": "#wnlopzondag",
@@ -27,7 +27,7 @@
     "name": "Sinterklaas",
     "query": "Sinterklaas",
     "rank": 5,
-    "tweet_count": "8,691 Tweets"
+    "tweet_count": "8,814 Tweets"
   },
   {
     "name": "#SaudiArabianGP",
@@ -42,40 +42,40 @@
     "tweet_count": "1,740 Tweets"
   },
   {
-    "name": "Goedemorgen",
-    "query": "Goedemorgen",
-    "rank": 8,
-    "tweet_count": "6,029 Tweets"
-  },
-  {
     "name": "Ingrid",
     "query": "Ingrid",
-    "rank": 9,
-    "tweet_count": "13.4K Tweets"
+    "rank": 8,
+    "tweet_count": "13.5K Tweets"
   },
   {
     "name": "Prinses Beatrix",
     "query": "\"Prinses Beatrix\"",
-    "rank": 10,
-    "tweet_count": "1,770 Tweets"
+    "rank": 9,
+    "tweet_count": "1,779 Tweets"
   },
   {
-    "name": "Hamilton",
-    "query": "Hamilton",
-    "rank": 11,
-    "tweet_count": "92.9K Tweets"
+    "name": "Goedemorgen",
+    "query": "Goedemorgen",
+    "rank": 10,
+    "tweet_count": "6,057 Tweets"
   },
   {
     "name": "Mendy",
     "query": "Mendy",
-    "rank": 12,
-    "tweet_count": "75.3K Tweets"
+    "rank": 11,
+    "tweet_count": "75.4K Tweets"
   },
   {
     "name": "Zwarte Piet",
     "query": "\"Zwarte Piet\"",
+    "rank": 12,
+    "tweet_count": "9,097 Tweets"
+  },
+  {
+    "name": "Hamilton",
+    "query": "Hamilton",
     "rank": 13,
-    "tweet_count": "9,037 Tweets"
+    "tweet_count": "93.2K Tweets"
   },
   {
     "name": "Angela de Jong",
@@ -84,26 +84,26 @@
     "tweet_count": null
   },
   {
+    "name": "Martijn Koning",
+    "query": "\"Martijn Koning\"",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
     "name": "Bottas",
     "query": "Bottas",
-    "rank": 15,
-    "tweet_count": "24.5K Tweets"
+    "rank": 16,
+    "tweet_count": "24.6K Tweets"
   },
   {
     "name": "Origi",
     "query": "Origi",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": "152K Tweets"
   },
   {
     "name": "Waterman",
     "query": "Waterman",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Martijn Koning",
-    "query": "\"Martijn Koning\"",
     "rank": 18,
     "tweet_count": null
   },
@@ -117,6 +117,6 @@
     "name": "Lukaku",
     "query": "Lukaku",
     "rank": 20,
-    "tweet_count": "80.5K Tweets"
+    "tweet_count": "80.7K Tweets"
   }
 ]
