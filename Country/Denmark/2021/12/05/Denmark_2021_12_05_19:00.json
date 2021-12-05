@@ -1,15 +1,15 @@
 [
   {
-    "name": "#biffcm",
-    "query": "#biffcm",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#SaudiArabianGP",
     "query": "#SaudiArabianGP",
+    "rank": 1,
+    "tweet_count": "296K Tweets"
+  },
+  {
+    "name": "#biffcm",
+    "query": "#biffcm",
     "rank": 2,
-    "tweet_count": "249K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#SydbankPokalen",
@@ -30,8 +30,8 @@
     "tweet_count": null
   },
   {
-    "name": "Randers",
-    "query": "Randers",
+    "name": "randers",
+    "query": "randers",
     "rank": 6,
     "tweet_count": null
   },
@@ -51,17 +51,17 @@
     "name": "Dortmund",
     "query": "Dortmund",
     "rank": 9,
-    "tweet_count": "22.6K Tweets"
+    "tweet_count": "22.8K Tweets"
   },
   {
     "name": "Jota",
     "query": "Jota",
     "rank": 10,
-    "tweet_count": "13.5K Tweets"
+    "tweet_count": "13.7K Tweets"
   },
   {
-    "name": "Herning",
-    "query": "Herning",
+    "name": "Brøndby",
+    "query": "Brøndby",
     "rank": 11,
     "tweet_count": null
   },
@@ -69,7 +69,7 @@
     "name": "Harry Potter",
     "query": "\"Harry Potter\"",
     "rank": 12,
-    "tweet_count": "31K Tweets"
+    "tweet_count": "31.4K Tweets"
   },
   {
     "name": "sydsiden",
@@ -84,39 +84,39 @@
     "tweet_count": null
   },
   {
-    "name": "Brøndby",
-    "query": "Brøndby",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
     "name": "Charlotte",
     "query": "Charlotte",
-    "rank": 16,
-    "tweet_count": "27.5K Tweets"
+    "rank": 15,
+    "tweet_count": "27.9K Tweets"
   },
   {
     "name": "Uber",
     "query": "Uber",
-    "rank": 17,
-    "tweet_count": "76.3K Tweets"
+    "rank": 16,
+    "tweet_count": "77K Tweets"
   },
   {
     "name": "soobin",
     "query": "soobin",
-    "rank": 18,
-    "tweet_count": "234K Tweets"
-  },
-  {
-    "name": "Bottas",
-    "query": "Bottas",
-    "rank": 19,
-    "tweet_count": "29.9K Tweets"
+    "rank": 17,
+    "tweet_count": "235K Tweets"
   },
   {
     "name": "Barcelona",
     "query": "Barcelona",
+    "rank": 18,
+    "tweet_count": "76K Tweets"
+  },
+  {
+    "name": "Ralf",
+    "query": "Ralf",
+    "rank": 19,
+    "tweet_count": "109K Tweets"
+  },
+  {
+    "name": "Tommy",
+    "query": "Tommy",
     "rank": 20,
-    "tweet_count": "75K Tweets"
+    "tweet_count": "79.2K Tweets"
   }
 ]
