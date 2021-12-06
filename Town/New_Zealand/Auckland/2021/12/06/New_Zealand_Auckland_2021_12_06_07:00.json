@@ -1,27 +1,27 @@
 [
   {
-    "name": "#Bathurst1000",
-    "query": "#Bathurst1000",
+    "name": "Succession",
+    "query": "Succession",
     "rank": 1,
-    "tweet_count": "3,955 Tweets"
+    "tweet_count": "33.8K Tweets"
   },
   {
-    "name": "#ShortlandStreet",
-    "query": "#ShortlandStreet",
+    "name": "#Bathurst1000",
+    "query": "#Bathurst1000",
     "rank": 2,
+    "tweet_count": "3,964 Tweets"
+  },
+  {
+    "name": "#shortlandstreet",
+    "query": "#shortlandstreet",
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Simeon",
     "query": "Simeon",
-    "rank": 3,
-    "tweet_count": "1,976 Tweets"
-  },
-  {
-    "name": "Succession",
-    "query": "Succession",
     "rank": 4,
-    "tweet_count": "33.5K Tweets"
+    "tweet_count": "2,010 Tweets"
   },
   {
     "name": "#SaudiArabianGP",
@@ -42,81 +42,81 @@
     "tweet_count": null
   },
   {
-    "name": "#UFCVegas44",
-    "query": "#UFCVegas44",
+    "name": "karl",
+    "query": "karl",
     "rank": 8,
-    "tweet_count": "10.5K Tweets"
+    "tweet_count": "89.3K Tweets"
   },
   {
     "name": "#RepcoSC",
     "query": "#RepcoSC",
     "rank": 9,
-    "tweet_count": "1,179 Tweets"
+    "tweet_count": "1,182 Tweets"
   },
   {
-    "name": "karl",
-    "query": "karl",
+    "name": "#UFCVegas44",
+    "query": "#UFCVegas44",
     "rank": 10,
-    "tweet_count": "88.8K Tweets"
+    "tweet_count": "10.5K Tweets"
   },
   {
     "name": "Christmas",
     "query": "Christmas",
     "rank": 11,
-    "tweet_count": "1.09M Tweets"
-  },
-  {
-    "name": "maori",
-    "query": "maori",
-    "rank": 12,
-    "tweet_count": "2,268 Tweets"
+    "tweet_count": "1.1M Tweets"
   },
   {
     "name": "Ross Taylor",
     "query": "\"Ross Taylor\"",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": "1,617 Tweets"
   },
   {
     "name": "florida",
     "query": "florida",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": "102K Tweets"
+  },
+  {
+    "name": "Maori",
+    "query": "Maori",
+    "rank": 14,
+    "tweet_count": "2,286 Tweets"
   },
   {
     "name": "Titanic",
     "query": "Titanic",
     "rank": 15,
-    "tweet_count": "8,099 Tweets"
+    "tweet_count": "8,128 Tweets"
   },
   {
     "name": "Ajaz Patel",
     "query": "\"Ajaz Patel\"",
     "rank": 16,
-    "tweet_count": "5,025 Tweets"
+    "tweet_count": "5,196 Tweets"
   },
   {
-    "name": "Aunty",
-    "query": "Aunty",
+    "name": "Judith",
+    "query": "Judith",
     "rank": 17,
-    "tweet_count": "20.9K Tweets"
+    "tweet_count": "6,023 Tweets"
+  },
+  {
+    "name": "aunty",
+    "query": "aunty",
+    "rank": 18,
+    "tweet_count": "21.3K Tweets"
   },
   {
     "name": "John Key",
     "query": "\"John Key\"",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Ravens",
     "query": "Ravens",
-    "rank": 19,
-    "tweet_count": "79.6K Tweets"
-  },
-  {
-    "name": "Aldo",
-    "query": "Aldo",
     "rank": 20,
-    "tweet_count": "17.3K Tweets"
+    "tweet_count": "79.7K Tweets"
   }
 ]
