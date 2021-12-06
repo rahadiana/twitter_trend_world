@@ -1,13 +1,13 @@
 [
   {
-    "name": "#STACHA",
-    "query": "#STACHA",
+    "name": "#stacha",
+    "query": "#stacha",
     "rank": 1,
-    "tweet_count": "1,645 Tweets"
+    "tweet_count": "1,649 Tweets"
   },
   {
-    "name": "#saudiarabiangp",
-    "query": "#saudiarabiangp",
+    "name": "#SaudiArabianGP",
+    "query": "#SaudiArabianGP",
     "rank": 2,
     "tweet_count": "388K Tweets"
   },
@@ -21,19 +21,19 @@
     "name": "Hamilton",
     "query": "Hamilton",
     "rank": 4,
-    "tweet_count": "371K Tweets"
-  },
-  {
-    "name": "Standard",
-    "query": "Standard",
-    "rank": 5,
-    "tweet_count": "99.3K Tweets"
+    "tweet_count": "373K Tweets"
   },
   {
     "name": "Verstappen",
     "query": "Verstappen",
+    "rank": 5,
+    "tweet_count": "328K Tweets"
+  },
+  {
+    "name": "Standard",
+    "query": "Standard",
     "rank": 6,
-    "tweet_count": "327K Tweets"
+    "tweet_count": "100K Tweets"
   },
   {
     "name": "#andzwa",
@@ -51,72 +51,72 @@
     "name": "Lewis",
     "query": "Lewis",
     "rank": 9,
-    "tweet_count": "286K Tweets"
+    "tweet_count": "287K Tweets"
   },
   {
     "name": "John Miles",
     "query": "\"John Miles\"",
     "rank": 10,
-    "tweet_count": "1,315 Tweets"
+    "tweet_count": "1,380 Tweets"
   },
   {
     "name": "Pro League",
     "query": "\"Pro League\"",
     "rank": 11,
-    "tweet_count": "3,960 Tweets"
-  },
-  {
-    "name": "Nicolas",
-    "query": "Nicolas",
-    "rank": 12,
-    "tweet_count": "41.6K Tweets"
+    "tweet_count": "3,997 Tweets"
   },
   {
     "name": "Beerschot",
     "query": "Beerschot",
-    "rank": 13,
-    "tweet_count": "1,001 Tweets"
+    "rank": 12,
+    "tweet_count": "1,013 Tweets"
   },
   {
-    "name": "lestienne",
-    "query": "lestienne",
+    "name": "Nicolas",
+    "query": "Nicolas",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Lestienne",
+    "query": "Lestienne",
     "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "venanzi",
-    "query": "venanzi",
+    "name": "Venanzi",
+    "query": "Venanzi",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "namjoon",
-    "query": "namjoon",
-    "rank": 16,
-    "tweet_count": "220K Tweets"
-  },
-  {
     "name": "Armani",
     "query": "Armani",
-    "rank": 17,
-    "tweet_count": "4,160 Tweets"
+    "rank": 16,
+    "tweet_count": "4,207 Tweets"
   },
   {
-    "name": "hobi",
-    "query": "hobi",
-    "rank": 18,
-    "tweet_count": "132K Tweets"
+    "name": "namjoon",
+    "query": "namjoon",
+    "rank": 17,
+    "tweet_count": "226K Tweets"
   },
   {
     "name": "Kiel",
     "query": "Kiel",
-    "rank": 19,
-    "tweet_count": "3,094 Tweets"
+    "rank": 18,
+    "tweet_count": "3,136 Tweets"
   },
   {
-    "name": "Council",
-    "query": "Council",
+    "name": "hobi",
+    "query": "hobi",
+    "rank": 19,
+    "tweet_count": "135K Tweets"
+  },
+  {
+    "name": "Sclessin",
+    "query": "Sclessin",
     "rank": 20,
-    "tweet_count": "54.8K Tweets"
+    "tweet_count": null
   }
 ]
