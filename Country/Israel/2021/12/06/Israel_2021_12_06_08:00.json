@@ -1,13 +1,13 @@
 [
   {
-    "name": "בוקר טוב",
-    "query": "\"בוקר טוב\"",
+    "name": "שבוע טוב",
+    "query": "\"שבוע טוב\"",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "שבוע טוב",
-    "query": "\"שבוע טוב\"",
+    "name": "בוקר טוב",
+    "query": "\"בוקר טוב\"",
     "rank": 2,
     "tweet_count": null
   },
@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "גדעון סער",
-    "query": "\"גדעון סער\"",
-    "rank": 5,
-    "tweet_count": "1,291 Tweets"
-  },
-  {
     "name": "West Bank",
     "query": "\"West Bank\"",
+    "rank": 5,
+    "tweet_count": "1,859 Tweets"
+  },
+  {
+    "name": "גדעון סער",
+    "query": "\"גדעון סער\"",
     "rank": 6,
-    "tweet_count": "1,802 Tweets"
+    "tweet_count": "1,303 Tweets"
   },
   {
     "name": "נר שמיני",
@@ -51,7 +51,7 @@
     "name": "#SaudiArabianGP",
     "query": "#SaudiArabianGP",
     "rank": 9,
-    "tweet_count": "389K Tweets"
+    "tweet_count": "390K Tweets"
   },
   {
     "name": "tom nides",
@@ -63,7 +63,7 @@
     "name": "Natanz",
     "query": "Natanz",
     "rank": 11,
-    "tweet_count": "2,570 Tweets"
+    "tweet_count": "2,575 Tweets"
   },
   {
     "name": "עם ישראל חי",
@@ -87,7 +87,7 @@
     "name": "Damascus Gate",
     "query": "\"Damascus Gate\"",
     "rank": 15,
-    "tweet_count": "1,166 Tweets"
+    "tweet_count": "1,171 Tweets"
   },
   {
     "name": "בני גנץ",
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
+    "name": "#palestinian",
+    "query": "#palestinian",
+    "rank": 17,
+    "tweet_count": "1,136 Tweets"
+  },
+  {
     "name": "#FortniteFlipped",
     "query": "#FortniteFlipped",
-    "rank": 17,
-    "tweet_count": "69.5K Tweets"
+    "rank": 18,
+    "tweet_count": "69.6K Tweets"
   },
   {
     "name": "בר לב",
     "query": "\"בר לב\"",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "הטל שלי",
     "query": "\"הטל שלי\"",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "#Palestinian",
-    "query": "#Palestinian",
     "rank": 20,
-    "tweet_count": "1,112 Tweets"
+    "tweet_count": null
   }
 ]
