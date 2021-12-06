@@ -1,19 +1,19 @@
 [
   {
+    "name": "Danny",
+    "query": "Danny",
+    "rank": 1,
+    "tweet_count": "36.2K Tweets"
+  },
+  {
     "name": "Ryan Lowe",
     "query": "\"Ryan Lowe\"",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#OldhamHour",
     "query": "#OldhamHour",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "#UTFT",
-    "query": "#UTFT",
     "rank": 3,
     "tweet_count": null
   },
@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "Danny",
-    "query": "Danny",
+    "name": "John Miles",
+    "query": "\"John Miles\"",
     "rank": 5,
-    "tweet_count": "35.9K Tweets"
+    "tweet_count": "4,395 Tweets"
   },
   {
-    "name": "#Panorama",
-    "query": "#Panorama",
+    "name": "#COYB",
+    "query": "#COYB",
     "rank": 6,
-    "tweet_count": "5,040 Tweets"
+    "tweet_count": "1,086 Tweets"
   },
   {
     "name": "#TheKingsMan",
@@ -42,81 +42,81 @@
     "tweet_count": null
   },
   {
-    "name": "John Miles",
-    "query": "\"John Miles\"",
+    "name": "#Panorama",
+    "query": "#Panorama",
     "rank": 8,
-    "tweet_count": "4,355 Tweets"
+    "tweet_count": "5,079 Tweets"
   },
   {
     "name": "Frankie",
     "query": "Frankie",
     "rank": 9,
-    "tweet_count": "8,415 Tweets"
+    "tweet_count": "8,510 Tweets"
   },
   {
     "name": "Tommy Fury",
     "query": "\"Tommy Fury\"",
     "rank": 10,
-    "tweet_count": "16.5K Tweets"
+    "tweet_count": "16.6K Tweets"
+  },
+  {
+    "name": "Arsenal",
+    "query": "Arsenal",
+    "rank": 11,
+    "tweet_count": "189K Tweets"
+  },
+  {
+    "name": "Richarlison",
+    "query": "Richarlison",
+    "rank": 12,
+    "tweet_count": "17.8K Tweets"
   },
   {
     "name": "Godfrey",
     "query": "Godfrey",
-    "rank": 11,
-    "tweet_count": "15.1K Tweets"
-  },
-  {
-    "name": "Partey",
-    "query": "Partey",
-    "rank": 12,
-    "tweet_count": "19K Tweets"
+    "rank": 13,
+    "tweet_count": "15.3K Tweets"
   },
   {
     "name": "Gomes",
     "query": "Gomes",
-    "rank": 13,
-    "tweet_count": "32.3K Tweets"
+    "rank": 14,
+    "tweet_count": "32.7K Tweets"
   },
   {
     "name": "Kadeena",
     "query": "Kadeena",
-    "rank": 14,
-    "tweet_count": "1,338 Tweets"
+    "rank": 15,
+    "tweet_count": "1,393 Tweets"
   },
   {
     "name": "Ben White",
     "query": "\"Ben White\"",
-    "rank": 15,
-    "tweet_count": "1,991 Tweets"
+    "rank": 16,
+    "tweet_count": "2,065 Tweets"
+  },
+  {
+    "name": "Ramsdale",
+    "query": "Ramsdale",
+    "rank": 17,
+    "tweet_count": "7,034 Tweets"
   },
   {
     "name": "Alan Smith",
     "query": "\"Alan Smith\"",
-    "rank": 16,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Goodison",
     "query": "Goodison",
-    "rank": 17,
-    "tweet_count": "9,185 Tweets"
+    "rank": 19,
+    "tweet_count": "9,407 Tweets"
   },
   {
     "name": "Richy",
     "query": "Richy",
-    "rank": 18,
-    "tweet_count": "2,664 Tweets"
-  },
-  {
-    "name": "Millwall",
-    "query": "Millwall",
-    "rank": 19,
-    "tweet_count": "2,921 Tweets"
-  },
-  {
-    "name": "Seamus Coleman",
-    "query": "\"Seamus Coleman\"",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "2,710 Tweets"
   }
 ]
