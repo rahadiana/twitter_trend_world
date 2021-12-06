@@ -1,15 +1,15 @@
 [
   {
-    "name": "#ZAGLPO",
-    "query": "#ZAGLPO",
+    "name": "#zaglpo",
+    "query": "#zaglpo",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "Lecha",
-    "query": "Lecha",
+    "name": "lecha",
+    "query": "lecha",
     "rank": 2,
-    "tweet_count": "1,407 Tweets"
+    "tweet_count": "1,400 Tweets"
   },
   {
     "name": "#CRALEG",
@@ -27,13 +27,13 @@
     "name": "#ElevenF1",
     "query": "#ElevenF1",
     "rank": 5,
-    "tweet_count": "7,276 Tweets"
+    "tweet_count": "7,277 Tweets"
   },
   {
-    "name": "Lewis",
-    "query": "Lewis",
+    "name": "#SaudiArabianGP",
+    "query": "#SaudiArabianGP",
     "rank": 6,
-    "tweet_count": "261K Tweets"
+    "tweet_count": "384K Tweets"
   },
   {
     "name": "Szejna",
@@ -45,7 +45,7 @@
     "name": "maxa",
     "query": "maxa",
     "rank": 8,
-    "tweet_count": "1,958 Tweets"
+    "tweet_count": "1,959 Tweets"
   },
   {
     "name": "przybył",
@@ -54,51 +54,39 @@
     "tweet_count": null
   },
   {
-    "name": "Hamilton",
-    "query": "Hamilton",
-    "rank": 10,
-    "tweet_count": "334K Tweets"
-  },
-  {
     "name": "Cracovii",
     "query": "Cracovii",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "korei",
     "query": "korei",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "#MuremZaPolskimMundurem",
     "query": "#MuremZaPolskimMundurem",
-    "rank": 13,
-    "tweet_count": "9,191 Tweets"
+    "rank": 12,
+    "tweet_count": "9,225 Tweets"
   },
   {
     "name": "Mikołaj",
     "query": "Mikołaj",
+    "rank": 13,
+    "tweet_count": "2,403 Tweets"
+  },
+  {
+    "name": "Rymanowski",
+    "query": "Rymanowski",
     "rank": 14,
-    "tweet_count": "2,398 Tweets"
-  },
-  {
-    "name": "#SaudiArabianGP",
-    "query": "#SaudiArabianGP",
-    "rank": 15,
-    "tweet_count": "383K Tweets"
-  },
-  {
-    "name": "rymanowski",
-    "query": "rymanowski",
-    "rank": 16,
-    "tweet_count": "1,909 Tweets"
+    "tweet_count": "1,917 Tweets"
   },
   {
     "name": "#NFLpl",
     "query": "#NFLpl",
-    "rank": 17,
+    "rank": 15,
     "tweet_count": null
   }
 ]
