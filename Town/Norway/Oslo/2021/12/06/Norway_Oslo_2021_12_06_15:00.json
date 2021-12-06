@@ -1,33 +1,33 @@
 [
   {
-    "name": "#SaudiArabianGP",
-    "query": "#SaudiArabianGP",
+    "name": "Knutsen",
+    "query": "Knutsen",
     "rank": 1,
-    "tweet_count": "371K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Kjetil Knutsen",
-    "query": "\"Kjetil Knutsen\"",
+    "name": "#SaudiArabianGP",
+    "query": "#SaudiArabianGP",
     "rank": 2,
-    "tweet_count": null
+    "tweet_count": "371K Tweets"
   },
   {
     "name": "#MUNCRY",
     "query": "#MUNCRY",
     "rank": 3,
-    "tweet_count": "64.8K Tweets"
+    "tweet_count": "65K Tweets"
   },
   {
     "name": "Verstappen",
     "query": "Verstappen",
     "rank": 4,
-    "tweet_count": "330K Tweets"
+    "tweet_count": "332K Tweets"
   },
   {
     "name": "Hamilton",
     "query": "Hamilton",
     "rank": 5,
-    "tweet_count": "376K Tweets"
+    "tweet_count": "378K Tweets"
   },
   {
     "name": "Fredrik",
@@ -39,7 +39,7 @@
     "name": "Hovland",
     "query": "Hovland",
     "rank": 7,
-    "tweet_count": "2,648 Tweets"
+    "tweet_count": "2,692 Tweets"
   },
   {
     "name": "Aspmyra",
@@ -63,47 +63,47 @@
     "name": "Formel 1",
     "query": "\"Formel 1\"",
     "rank": 11,
-    "tweet_count": "1,409 Tweets"
+    "tweet_count": "1,421 Tweets"
   },
   {
-    "name": "dalot",
-    "query": "dalot",
+    "name": "Lewis",
+    "query": "Lewis",
     "rank": 12,
-    "tweet_count": "32.7K Tweets"
+    "tweet_count": "289K Tweets"
+  },
+  {
+    "name": "Dalot",
+    "query": "Dalot",
+    "rank": 13,
+    "tweet_count": "33.1K Tweets"
   },
   {
     "name": "Molde",
     "query": "Molde",
-    "rank": 13,
-    "tweet_count": "1,875 Tweets"
-  },
-  {
-    "name": "Viking",
-    "query": "Viking",
     "rank": 14,
-    "tweet_count": "10.4K Tweets"
-  },
-  {
-    "name": "brann",
-    "query": "brann",
-    "rank": 15,
-    "tweet_count": null
+    "tweet_count": "1,894 Tweets"
   },
   {
     "name": "#nrksjakk",
     "query": "#nrksjakk",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": "1,003 Tweets"
+  },
+  {
+    "name": "Viking",
+    "query": "Viking",
+    "rank": 16,
+    "tweet_count": "10.6K Tweets"
   },
   {
     "name": "Bahamas",
     "query": "Bahamas",
     "rank": 17,
-    "tweet_count": "2,527 Tweets"
+    "tweet_count": "2,597 Tweets"
   },
   {
-    "name": "#Eliteserien",
-    "query": "#Eliteserien",
+    "name": "#eliteserien",
+    "query": "#eliteserien",
     "rank": 18,
     "tweet_count": null
   },
@@ -114,8 +114,8 @@
     "tweet_count": null
   },
   {
-    "name": "#polkvart",
-    "query": "#polkvart",
+    "name": "Brann",
+    "query": "Brann",
     "rank": 20,
     "tweet_count": null
   }
