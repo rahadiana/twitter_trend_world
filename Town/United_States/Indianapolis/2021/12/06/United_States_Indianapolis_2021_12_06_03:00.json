@@ -1,122 +1,122 @@
 [
   {
+    "name": "Vikings",
+    "query": "Vikings",
+    "rank": 1,
+    "tweet_count": "75.2K Tweets"
+  },
+  {
     "name": "Bears",
     "query": "Bears",
-    "rank": 1,
-    "tweet_count": null
+    "rank": 2,
+    "tweet_count": "65.3K Tweets"
   },
   {
     "name": "Texans",
     "query": "Texans",
-    "rank": 2,
-    "tweet_count": "16.9K Tweets"
+    "rank": 3,
+    "tweet_count": "17.1K Tweets"
   },
   {
     "name": "#InsecureHBO",
     "query": "#InsecureHBO",
-    "rank": 3,
-    "tweet_count": "7,976 Tweets"
+    "rank": 4,
+    "tweet_count": "11.7K Tweets"
   },
   {
     "name": "#NXTWarGames",
     "query": "#NXTWarGames",
-    "rank": 4,
-    "tweet_count": "57K Tweets"
+    "rank": 5,
+    "tweet_count": "60K Tweets"
   },
   {
     "name": "#Succession",
     "query": "#Succession",
-    "rank": 5,
-    "tweet_count": "5,769 Tweets"
+    "rank": 6,
+    "tweet_count": "6,407 Tweets"
   },
   {
     "name": "#RHOSLC",
     "query": "#RHOSLC",
-    "rank": 6,
-    "tweet_count": "8,024 Tweets"
+    "rank": 7,
+    "tweet_count": "8,239 Tweets"
   },
   {
     "name": "Broncos",
     "query": "Broncos",
-    "rank": 7,
-    "tweet_count": "30.2K Tweets"
-  },
-  {
-    "name": "#BALvsPIT",
-    "query": "#BALvsPIT",
     "rank": 8,
-    "tweet_count": "7,739 Tweets"
+    "tweet_count": "31.9K Tweets"
   },
   {
     "name": "Chiefs",
     "query": "Chiefs",
     "rank": 9,
-    "tweet_count": "41.2K Tweets"
+    "tweet_count": "43K Tweets"
   },
   {
-    "name": "Mahomes",
-    "query": "Mahomes",
+    "name": "#BALvsPIT",
+    "query": "#BALvsPIT",
     "rank": 10,
-    "tweet_count": "11.8K Tweets"
-  },
-  {
-    "name": "Shiv",
-    "query": "Shiv",
-    "rank": 11,
-    "tweet_count": "15.4K Tweets"
+    "tweet_count": "7,767 Tweets"
   },
   {
     "name": "Kendall",
     "query": "Kendall",
+    "rank": 11,
+    "tweet_count": "11.7K Tweets"
+  },
+  {
+    "name": "Mahomes",
+    "query": "Mahomes",
     "rank": 12,
-    "tweet_count": "11K Tweets"
+    "tweet_count": "12.2K Tweets"
+  },
+  {
+    "name": "Shiv",
+    "query": "Shiv",
+    "rank": 13,
+    "tweet_count": "15.8K Tweets"
+  },
+  {
+    "name": "Baiken",
+    "query": "Baiken",
+    "rank": 14,
+    "tweet_count": "5,429 Tweets"
   },
   {
     "name": "Lamar",
     "query": "Lamar",
-    "rank": 13,
-    "tweet_count": "51K Tweets"
+    "rank": 15,
+    "tweet_count": "51.3K Tweets"
   },
   {
     "name": "Tyreek",
     "query": "Tyreek",
-    "rank": 14,
-    "tweet_count": "5,400 Tweets"
-  },
-  {
-    "name": "Raiders",
-    "query": "Raiders",
-    "rank": 15,
-    "tweet_count": "49.2K Tweets"
-  },
-  {
-    "name": "Teddy",
-    "query": "Teddy",
     "rank": 16,
-    "tweet_count": "29.6K Tweets"
+    "tweet_count": "5,486 Tweets"
   },
   {
     "name": "Hitchens",
     "query": "Hitchens",
     "rank": 17,
-    "tweet_count": "1,576 Tweets"
+    "tweet_count": "1,669 Tweets"
   },
   {
-    "name": "Baiken",
-    "query": "Baiken",
+    "name": "Raiders",
+    "query": "Raiders",
     "rank": 18,
-    "tweet_count": "3,666 Tweets"
+    "tweet_count": "49.7K Tweets"
+  },
+  {
+    "name": "Pringle",
+    "query": "Pringle",
+    "rank": 19,
+    "tweet_count": "2,394 Tweets"
   },
   {
     "name": "Atlas",
     "query": "Atlas",
-    "rank": 19,
-    "tweet_count": "64.6K Tweets"
-  },
-  {
-    "name": "49ers",
-    "query": "49ers",
     "rank": 20,
-    "tweet_count": "47.8K Tweets"
+    "tweet_count": "67.9K Tweets"
   }
 ]

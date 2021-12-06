@@ -1,37 +1,37 @@
 [
   {
+    "name": "Damascus",
+    "query": "Damascus",
+    "rank": 1,
+    "tweet_count": "12.8K Tweets"
+  },
+  {
     "name": "#PYRadio",
     "query": "#PYRadio",
-    "rank": 1,
-    "tweet_count": "1,107 Tweets"
+    "rank": 2,
+    "tweet_count": "1,122 Tweets"
   },
   {
     "name": "#MUNCRY",
     "query": "#MUNCRY",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": "123K Tweets"
   },
   {
-    "name": "king faisal",
-    "query": "\"king faisal\"",
-    "rank": 3,
+    "name": "King Faisal",
+    "query": "\"King Faisal\"",
+    "rank": 4,
     "tweet_count": "2,701 Tweets"
   },
   {
     "name": "Hearts of Oak",
     "query": "\"Hearts of Oak\"",
-    "rank": 4,
-    "tweet_count": "3,837 Tweets"
-  },
-  {
-    "name": "Damascus",
-    "query": "Damascus",
     "rank": 5,
-    "tweet_count": "12.7K Tweets"
+    "tweet_count": "3,841 Tweets"
   },
   {
-    "name": "#mentorx",
-    "query": "#mentorx",
+    "name": "#MentorX",
+    "query": "#MentorX",
     "rank": 6,
     "tweet_count": null
   },
@@ -45,7 +45,7 @@
     "name": "Kotoko",
     "query": "Kotoko",
     "rank": 8,
-    "tweet_count": "5,870 Tweets"
+    "tweet_count": "5,878 Tweets"
   },
   {
     "name": "#scorecard",
@@ -75,13 +75,13 @@
     "name": "Wolves",
     "query": "Wolves",
     "rank": 13,
-    "tweet_count": "23.8K Tweets"
+    "tweet_count": "24K Tweets"
   },
   {
     "name": "Crystal Palace",
     "query": "\"Crystal Palace\"",
     "rank": 14,
-    "tweet_count": "58.1K Tweets"
+    "tweet_count": "58.2K Tweets"
   },
   {
     "name": "Samuel Boadu",
@@ -90,8 +90,8 @@
     "tweet_count": null
   },
   {
-    "name": "jovic",
-    "query": "jovic",
+    "name": "Jovic",
+    "query": "Jovic",
     "rank": 16,
     "tweet_count": "12.4K Tweets"
   },
@@ -99,24 +99,24 @@
     "name": "Sam Kerr",
     "query": "\"Sam Kerr\"",
     "rank": 17,
-    "tweet_count": "6,806 Tweets"
-  },
-  {
-    "name": "Gerrard",
-    "query": "Gerrard",
-    "rank": 18,
-    "tweet_count": "18K Tweets"
+    "tweet_count": "6,817 Tweets"
   },
   {
     "name": "Chelsea",
     "query": "Chelsea",
+    "rank": 18,
+    "tweet_count": "83.6K Tweets"
+  },
+  {
+    "name": "Gerrard",
+    "query": "Gerrard",
     "rank": 19,
-    "tweet_count": "83.3K Tweets"
+    "tweet_count": "18.1K Tweets"
   },
   {
     "name": "David Moyes",
     "query": "\"David Moyes\"",
     "rank": 20,
-    "tweet_count": "2,915 Tweets"
+    "tweet_count": "2,920 Tweets"
   }
 ]

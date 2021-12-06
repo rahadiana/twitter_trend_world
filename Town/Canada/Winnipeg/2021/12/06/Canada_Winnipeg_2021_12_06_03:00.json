@@ -1,15 +1,15 @@
 [
   {
-    "name": "#Canucks",
-    "query": "#Canucks",
-    "rank": 1,
-    "tweet_count": "6,587 Tweets"
-  },
-  {
     "name": "Dubois",
     "query": "Dubois",
+    "rank": 1,
+    "tweet_count": "2,817 Tweets"
+  },
+  {
+    "name": "#Canucks",
+    "query": "#Canucks",
     "rank": 2,
-    "tweet_count": "2,544 Tweets"
+    "tweet_count": "6,861 Tweets"
   },
   {
     "name": "Pionk",
@@ -18,44 +18,44 @@
     "tweet_count": null
   },
   {
-    "name": "#NXTWarGames",
-    "query": "#NXTWarGames",
-    "rank": 4,
-    "tweet_count": "56.7K Tweets"
-  },
-  {
     "name": "Jets",
     "query": "Jets",
-    "rank": 5,
-    "tweet_count": "64.1K Tweets"
+    "rank": 4,
+    "tweet_count": "64.6K Tweets"
   },
   {
-    "name": "Sandin",
-    "query": "Sandin",
-    "rank": 6,
-    "tweet_count": "1,371 Tweets"
+    "name": "#NXTWarGames",
+    "query": "#NXTWarGames",
+    "rank": 5,
+    "tweet_count": "59.9K Tweets"
   },
   {
     "name": "Woll",
     "query": "Woll",
-    "rank": 7,
-    "tweet_count": "1,177 Tweets"
+    "rank": 6,
+    "tweet_count": "1,274 Tweets"
   },
   {
     "name": "#TLMEP",
     "query": "#TLMEP",
-    "rank": 8,
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "#Succession",
     "query": "#Succession",
-    "rank": 9,
-    "tweet_count": "5,729 Tweets"
+    "rank": 8,
+    "tweet_count": "6,392 Tweets"
   },
   {
-    "name": "Simmonds",
-    "query": "Simmonds",
+    "name": "Matthews",
+    "query": "Matthews",
+    "rank": 9,
+    "tweet_count": "4,474 Tweets"
+  },
+  {
+    "name": "Kempe",
+    "query": "Kempe",
     "rank": 10,
     "tweet_count": null
   },
@@ -63,49 +63,49 @@
     "name": "#90DayFiance",
     "query": "#90DayFiance",
     "rank": 11,
-    "tweet_count": "7,983 Tweets"
-  },
-  {
-    "name": "Kendall",
-    "query": "Kendall",
-    "rank": 12,
-    "tweet_count": "10.9K Tweets"
+    "tweet_count": "8,093 Tweets"
   },
   {
     "name": "Winnipeg",
     "query": "Winnipeg",
-    "rank": 13,
-    "tweet_count": "5,074 Tweets"
+    "rank": 12,
+    "tweet_count": "5,192 Tweets"
   },
   {
     "name": "Bunting",
     "query": "Bunting",
-    "rank": 14,
-    "tweet_count": "1,719 Tweets"
+    "rank": 13,
+    "tweet_count": "1,768 Tweets"
   },
   {
     "name": "Shiv",
     "query": "Shiv",
-    "rank": 15,
-    "tweet_count": "15.3K Tweets"
+    "rank": 14,
+    "tweet_count": "15.8K Tweets"
   },
   {
     "name": "Keefe",
     "query": "Keefe",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
+  },
+  {
+    "name": "Dillon",
+    "query": "Dillon",
+    "rank": 16,
+    "tweet_count": "5,183 Tweets"
   },
   {
     "name": "Pascal",
     "query": "Pascal",
     "rank": 17,
-    "tweet_count": "10.5K Tweets"
+    "tweet_count": "10.6K Tweets"
   },
   {
     "name": "Cora Jade",
     "query": "\"Cora Jade\"",
     "rank": 18,
-    "tweet_count": "3,750 Tweets"
+    "tweet_count": "3,798 Tweets"
   },
   {
     "name": "Muzzin",
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "Bombers",
-    "query": "Bombers",
+    "name": "Koskinen",
+    "query": "Koskinen",
     "rank": 20,
-    "tweet_count": "6,258 Tweets"
+    "tweet_count": null
   }
 ]
