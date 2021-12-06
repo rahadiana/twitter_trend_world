@@ -6,20 +6,20 @@
     "tweet_count": null
   },
   {
-    "name": "Knutsen",
-    "query": "Knutsen",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
     "name": "Milos",
     "query": "Milos",
-    "rank": 3,
-    "tweet_count": "1,588 Tweets"
+    "rank": 2,
+    "tweet_count": "1,653 Tweets"
   },
   {
     "name": "Fredrikstad",
     "query": "Fredrikstad",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "Knutsen",
+    "query": "Knutsen",
     "rank": 4,
     "tweet_count": null
   },
@@ -39,25 +39,25 @@
     "name": "Verstappen",
     "query": "Verstappen",
     "rank": 7,
-    "tweet_count": "166K Tweets"
-  },
-  {
-    "name": "#ffk1903",
-    "query": "#ffk1903",
-    "rank": 8,
-    "tweet_count": null
+    "tweet_count": "167K Tweets"
   },
   {
     "name": "Hovland",
     "query": "Hovland",
+    "rank": 8,
+    "tweet_count": "2,763 Tweets"
+  },
+  {
+    "name": "#ffk1903",
+    "query": "#ffk1903",
     "rank": 9,
-    "tweet_count": "2,744 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Hamilton",
     "query": "Hamilton",
     "rank": 10,
-    "tweet_count": "215K Tweets"
+    "tweet_count": "216K Tweets"
   },
   {
     "name": "Kim Friele",
@@ -66,22 +66,22 @@
     "tweet_count": null
   },
   {
-    "name": "#SaudiArabianGP",
-    "query": "#SaudiArabianGP",
+    "name": "Lewis",
+    "query": "Lewis",
     "rank": 12,
-    "tweet_count": "142K Tweets"
-  },
-  {
-    "name": "#SaudiArabianGP",
-    "query": "#SaudiArabianGP",
-    "rank": 13,
-    "tweet_count": "142K Tweets"
+    "tweet_count": "170K Tweets"
   },
   {
     "name": "Aspmyra",
     "query": "Aspmyra",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
+  },
+  {
+    "name": "jungkook",
+    "query": "jungkook",
+    "rank": 14,
+    "tweet_count": "1.48M Tweets"
   },
   {
     "name": "Mjøndalen",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
-    "name": "jungkook",
-    "query": "jungkook",
-    "rank": 16,
-    "tweet_count": "1.47M Tweets"
-  },
-  {
     "name": "Rashford",
     "query": "Rashford",
-    "rank": 17,
-    "tweet_count": "5,552 Tweets"
+    "rank": 16,
+    "tweet_count": "5,596 Tweets"
   },
   {
     "name": "#nrksjakk",
     "query": "#nrksjakk",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Horneland",
+    "query": "Horneland",
     "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "Molde",
-    "query": "Molde",
+    "name": "#SaudiArabianGP",
+    "query": "#SaudiArabianGP",
     "rank": 19,
-    "tweet_count": "1,193 Tweets"
+    "tweet_count": "143K Tweets"
   },
   {
-    "name": "Rosenborg",
-    "query": "Rosenborg",
+    "name": "Red Bull",
+    "query": "\"Red Bull\"",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "20.5K Tweets"
   }
 ]
