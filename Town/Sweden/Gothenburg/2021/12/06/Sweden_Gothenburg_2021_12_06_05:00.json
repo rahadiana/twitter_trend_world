@@ -1,27 +1,27 @@
 [
   {
+    "name": "Hamilton",
+    "query": "Hamilton",
+    "rank": 1,
+    "tweet_count": "339K Tweets"
+  },
+  {
     "name": "#SaudiArabianGP",
     "query": "#SaudiArabianGP",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": "385K Tweets"
   },
   {
-    "name": "Gais",
-    "query": "Gais",
-    "rank": 2,
-    "tweet_count": "10.5K Tweets"
-  },
-  {
-    "name": "Magda Gad",
-    "query": "\"Magda Gad\"",
+    "name": "gais",
+    "query": "gais",
     "rank": 3,
-    "tweet_count": null
+    "tweet_count": "10.6K Tweets"
   },
   {
-    "name": "Lewis",
-    "query": "Lewis",
+    "name": "magda gad",
+    "query": "\"magda gad\"",
     "rank": 4,
-    "tweet_count": "265K Tweets"
+    "tweet_count": null
   },
   {
     "name": "hedenmo",
@@ -42,56 +42,56 @@
     "tweet_count": null
   },
   {
-    "name": "skövde aik",
-    "query": "\"skövde aik\"",
+    "name": "Skövde AIK",
+    "query": "\"Skövde AIK\"",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Agenda",
-    "query": "Agenda",
+    "name": "agenda",
+    "query": "agenda",
     "rank": 9,
-    "tweet_count": "95.8K Tweets"
+    "tweet_count": "96.2K Tweets"
+  },
+  {
+    "name": "Hamas",
+    "query": "Hamas",
+    "rank": 10,
+    "tweet_count": "3,309 Tweets"
   },
   {
     "name": "Bottas",
     "query": "Bottas",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": "60.7K Tweets"
   },
   {
     "name": "Elanga",
     "query": "Elanga",
-    "rank": 11,
-    "tweet_count": "7,632 Tweets"
-  },
-  {
-    "name": "årets nykomling",
-    "query": "\"årets nykomling\"",
     "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "årets överraskning",
-    "query": "\"årets överraskning\"",
-    "rank": 13,
-    "tweet_count": null
+    "tweet_count": "7,669 Tweets"
   },
   {
     "name": "superettan",
     "query": "superettan",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Akropolis",
+    "query": "Akropolis",
     "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "akropolis",
-    "query": "akropolis",
+    "name": "årets besvikelse",
+    "query": "\"årets besvikelse\"",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "årets unga",
-    "query": "\"årets unga\"",
+    "name": "årets nykomling",
+    "query": "\"årets nykomling\"",
     "rank": 16,
     "tweet_count": null
   },
@@ -102,14 +102,14 @@
     "tweet_count": null
   },
   {
-    "name": "årets besvikelse",
-    "query": "\"årets besvikelse\"",
+    "name": "årets unga",
+    "query": "\"årets unga\"",
     "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "johaug",
-    "query": "johaug",
+    "name": "årets överraskning",
+    "query": "\"årets överraskning\"",
     "rank": 19,
     "tweet_count": null
   },

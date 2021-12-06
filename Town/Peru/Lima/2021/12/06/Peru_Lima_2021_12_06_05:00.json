@@ -1,51 +1,51 @@
 [
   {
-    "name": "Audio",
-    "query": "Audio",
-    "rank": 1,
-    "tweet_count": "116K Tweets"
-  },
-  {
-    "name": "La DBA",
-    "query": "\"La DBA\"",
-    "rank": 2,
-    "tweet_count": "4,341 Tweets"
-  },
-  {
     "name": "Beto",
     "query": "Beto",
-    "rank": 3,
+    "rank": 1,
     "tweet_count": "19.4K Tweets"
   },
   {
     "name": "Porky",
     "query": "Porky",
-    "rank": 4,
-    "tweet_count": "2,551 Tweets"
+    "rank": 2,
+    "tweet_count": "2,557 Tweets"
   },
   {
     "name": "#CuartoPoder",
     "query": "#CuartoPoder",
-    "rank": 5,
-    "tweet_count": "13.1K Tweets"
+    "rank": 3,
+    "tweet_count": "13.2K Tweets"
   },
   {
     "name": "#PrensaBasura",
     "query": "#PrensaBasura",
-    "rank": 6,
-    "tweet_count": "1,285 Tweets"
+    "rank": 4,
+    "tweet_count": "1,301 Tweets"
   },
   {
     "name": "Christian Sotomayor",
     "query": "\"Christian Sotomayor\"",
-    "rank": 7,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Estafa",
     "query": "Estafa",
+    "rank": 6,
+    "tweet_count": "12.3K Tweets"
+  },
+  {
+    "name": "Coldplay",
+    "query": "Coldplay",
+    "rank": 7,
+    "tweet_count": "21.8K Tweets"
+  },
+  {
+    "name": "hume",
+    "query": "hume",
     "rank": 8,
-    "tweet_count": "12.2K Tweets"
+    "tweet_count": "9,704 Tweets"
   },
   {
     "name": "Milagros Leiva",
@@ -54,69 +54,69 @@
     "tweet_count": null
   },
   {
-    "name": "Coldplay",
-    "query": "Coldplay",
-    "rank": 10,
-    "tweet_count": "21.7K Tweets"
-  },
-  {
-    "name": "Hume",
-    "query": "Hume",
-    "rank": 11,
-    "tweet_count": "9,668 Tweets"
-  },
-  {
     "name": "Juliana",
     "query": "Juliana",
-    "rank": 12,
-    "tweet_count": "8,442 Tweets"
+    "rank": 10,
+    "tweet_count": "8,467 Tweets"
   },
   {
     "name": "#Panorama",
     "query": "#Panorama",
-    "rank": 13,
-    "tweet_count": "3,448 Tweets"
+    "rank": 11,
+    "tweet_count": "3,461 Tweets"
   },
   {
-    "name": "Alejandro Sánchez",
-    "query": "\"Alejandro Sánchez\"",
-    "rank": 14,
-    "tweet_count": "3,216 Tweets"
+    "name": "Sánchez",
+    "query": "Sánchez",
+    "rank": 12,
+    "tweet_count": "67.6K Tweets"
   },
   {
     "name": "#ConTodoPorShirley",
     "query": "#ConTodoPorShirley",
-    "rank": 15,
-    "tweet_count": "25.3K Tweets"
+    "rank": 13,
+    "tweet_count": "25.5K Tweets"
   },
   {
     "name": "Bomba",
     "query": "Bomba",
-    "rank": 16,
-    "tweet_count": "35.1K Tweets"
-  },
-  {
-    "name": "Puro",
-    "query": "Puro",
-    "rank": 17,
-    "tweet_count": null
+    "rank": 14,
+    "tweet_count": "35.3K Tweets"
   },
   {
     "name": "4to Poder",
     "query": "\"4to Poder\"",
-    "rank": 18,
+    "rank": 15,
     "tweet_count": null
+  },
+  {
+    "name": "Puro",
+    "query": "Puro",
+    "rank": 16,
+    "tweet_count": "58.5K Tweets"
   },
   {
     "name": "Tafur",
     "query": "Tafur",
-    "rank": 19,
-    "tweet_count": "1,598 Tweets"
+    "rank": 17,
+    "tweet_count": "1,643 Tweets"
   },
   {
     "name": "Willax",
     "query": "Willax",
+    "rank": 18,
+    "tweet_count": "4,615 Tweets"
+  },
+  {
+    "name": "Sarratea",
+    "query": "Sarratea",
+    "rank": 19,
+    "tweet_count": "3,345 Tweets"
+  },
+  {
+    "name": "#PuntoFinal",
+    "query": "#PuntoFinal",
     "rank": 20,
-    "tweet_count": "4,594 Tweets"
+    "tweet_count": null
   }
 ]
