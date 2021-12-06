@@ -1,7 +1,7 @@
 [
   {
-    "name": "#candles",
-    "query": "#candles",
+    "name": "#Candles",
+    "query": "#Candles",
     "rank": 1,
     "tweet_count": "47.1K Tweets"
   },
@@ -9,13 +9,13 @@
     "name": "#더보이즈",
     "query": "#더보이즈",
     "rank": 2,
-    "tweet_count": "208K Tweets"
+    "tweet_count": "209K Tweets"
   },
   {
     "name": "인스타 감성",
     "query": "\"인스타 감성\"",
     "rank": 3,
-    "tweet_count": "13.1K Tweets"
+    "tweet_count": "13.3K Tweets"
   },
   {
     "name": "#준호버블",
@@ -27,7 +27,7 @@
     "name": "엠비티아이",
     "query": "엠비티아이",
     "rank": 5,
-    "tweet_count": "8,362 Tweets"
+    "tweet_count": "8,420 Tweets"
   },
   {
     "name": "님의 최애",
@@ -45,31 +45,31 @@
     "name": "우리 정구기",
     "query": "\"우리 정구기\"",
     "rank": 8,
-    "tweet_count": "1,048 Tweets"
+    "tweet_count": "1,062 Tweets"
   },
   {
     "name": "정구기 인스타",
     "query": "\"정구기 인스타\"",
     "rank": 9,
-    "tweet_count": "3,289 Tweets"
+    "tweet_count": "3,321 Tweets"
   },
   {
     "name": "사토루 생일",
     "query": "\"사토루 생일\"",
     "rank": 10,
-    "tweet_count": "4,648 Tweets"
+    "tweet_count": "4,693 Tweets"
   },
   {
     "name": "#AskMonstaX",
     "query": "#AskMonstaX",
     "rank": 11,
-    "tweet_count": "2,998 Tweets"
+    "tweet_count": "3,032 Tweets"
   },
   {
     "name": "싱어게인",
     "query": "싱어게인",
     "rank": 12,
-    "tweet_count": "13.9K Tweets"
+    "tweet_count": "14K Tweets"
   },
   {
     "name": "관캐 때문",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
-    "name": "보라머리",
-    "query": "보라머리",
-    "rank": 16,
-    "tweet_count": "1,359 Tweets"
-  },
-  {
     "name": "자기 태그",
     "query": "\"자기 태그\"",
+    "rank": 16,
+    "tweet_count": "4,502 Tweets"
+  },
+  {
+    "name": "인스타 스토리",
+    "query": "\"인스타 스토리\"",
     "rank": 17,
-    "tweet_count": "4,445 Tweets"
+    "tweet_count": "19.8K Tweets"
   },
   {
     "name": "전정국 인스타",
     "query": "\"전정국 인스타\"",
     "rank": 18,
-    "tweet_count": "8,252 Tweets"
-  },
-  {
-    "name": "인스타 스토리",
-    "query": "\"인스타 스토리\"",
-    "rank": 19,
-    "tweet_count": "19.7K Tweets"
+    "tweet_count": "8,282 Tweets"
   },
   {
     "name": "연말정산",
     "query": "연말정산",
+    "rank": 19,
+    "tweet_count": "9,981 Tweets"
+  },
+  {
+    "name": "보라머리",
+    "query": "보라머리",
     "rank": 20,
-    "tweet_count": "9,954 Tweets"
+    "tweet_count": "1,361 Tweets"
   }
 ]
