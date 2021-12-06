@@ -1,15 +1,15 @@
 [
   {
-    "name": "Hamilton",
-    "query": "Hamilton",
+    "name": "#SaudiArabianGP",
+    "query": "#SaudiArabianGP",
     "rank": 1,
-    "tweet_count": "340K Tweets"
+    "tweet_count": "386K Tweets"
   },
   {
     "name": "Alfa",
     "query": "Alfa",
     "rank": 2,
-    "tweet_count": "17.1K Tweets"
+    "tweet_count": "17.2K Tweets"
   },
   {
     "name": "#RecuperacionTurismoRD",
@@ -18,8 +18,8 @@
     "tweet_count": null
   },
   {
-    "name": "Banreservas",
-    "query": "Banreservas",
+    "name": "banreservas",
+    "query": "banreservas",
     "rank": 4,
     "tweet_count": null
   },
@@ -30,68 +30,68 @@
     "tweet_count": null
   },
   {
-    "name": "#SaudiArabianGP",
-    "query": "#SaudiArabianGP",
-    "rank": 6,
-    "tweet_count": "385K Tweets"
-  },
-  {
     "name": "#NavidadFeliz",
     "query": "#NavidadFeliz",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
   },
   {
-    "name": "#duermanconropa",
-    "query": "#duermanconropa",
-    "rank": 8,
+    "name": "#DuermanConRopa",
+    "query": "#DuermanConRopa",
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "guayacanes",
     "query": "guayacanes",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "danilo basilio",
+    "query": "\"danilo basilio\"",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Danilo Basilio",
-    "query": "\"Danilo Basilio\"",
+    "name": "carlos gómez",
+    "query": "\"carlos gómez\"",
     "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Verstappen",
-    "query": "Verstappen",
-    "rank": 11,
-    "tweet_count": "307K Tweets"
-  },
-  {
-    "name": "Carlos Gómez",
-    "query": "\"Carlos Gómez\"",
-    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Bottas",
     "query": "Bottas",
-    "rank": 13,
+    "rank": 11,
     "tweet_count": "60.8K Tweets"
   },
   {
     "name": "Voluntarios",
     "query": "Voluntarios",
-    "rank": 14,
+    "rank": 12,
     "tweet_count": "13.3K Tweets"
+  },
+  {
+    "name": "Cámara de Cuentas",
+    "query": "\"Cámara de Cuentas\"",
+    "rank": 13,
+    "tweet_count": null
   },
   {
     "name": "Luke",
     "query": "Luke",
-    "rank": 15,
-    "tweet_count": "62.8K Tweets"
+    "rank": 14,
+    "tweet_count": "63.2K Tweets"
   },
   {
-    "name": "cámara de cuentas",
-    "query": "\"cámara de cuentas\"",
+    "name": "Fonper",
+    "query": "Fonper",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "colegio de abogados",
+    "query": "\"colegio de abogados\"",
     "rank": 16,
     "tweet_count": null
   },
@@ -99,24 +99,24 @@
     "name": "Ucrania",
     "query": "Ucrania",
     "rank": 17,
-    "tweet_count": "7,566 Tweets"
+    "tweet_count": "7,578 Tweets"
   },
   {
-    "name": "Fonper",
-    "query": "Fonper",
+    "name": "Juan Marichal",
+    "query": "\"Juan Marichal\"",
     "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "V OST IS COMING",
-    "query": "\"V OST IS COMING\"",
+    "name": "Guido",
+    "query": "Guido",
     "rank": 19,
-    "tweet_count": "154K Tweets"
+    "tweet_count": "15K Tweets"
   },
   {
-    "name": "Colegio de Abogados",
-    "query": "\"Colegio de Abogados\"",
+    "name": "Rolling",
+    "query": "Rolling",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "48.2K Tweets"
   }
 ]
