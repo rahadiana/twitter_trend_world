@@ -1,116 +1,116 @@
 [
   {
-    "name": "Joe Brady",
-    "query": "\"Joe Brady\"",
+    "name": "#GoCanes",
+    "query": "#GoCanes",
     "rank": 1,
-    "tweet_count": "6,913 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Putin",
     "query": "Putin",
     "rank": 2,
-    "tweet_count": "85.7K Tweets"
+    "tweet_count": "86.4K Tweets"
+  },
+  {
+    "name": "Joe Brady",
+    "query": "\"Joe Brady\"",
+    "rank": 3,
+    "tweet_count": "6,959 Tweets"
   },
   {
     "name": "Atlanta",
     "query": "Atlanta",
-    "rank": 3,
-    "tweet_count": "31K Tweets"
+    "rank": 4,
+    "tweet_count": "31.3K Tweets"
   },
   {
     "name": "#WarzoneReport",
     "query": "#WarzoneReport",
-    "rank": 4,
-    "tweet_count": "4,099 Tweets"
+    "rank": 5,
+    "tweet_count": "4,485 Tweets"
   },
   {
     "name": "Latinx",
     "query": "Latinx",
-    "rank": 5,
-    "tweet_count": "17.1K Tweets"
-  },
-  {
-    "name": "Medina Spirit",
-    "query": "\"Medina Spirit\"",
     "rank": 6,
-    "tweet_count": "9,234 Tweets"
+    "tweet_count": "17.7K Tweets"
   },
   {
     "name": "#EVEARS",
     "query": "#EVEARS",
     "rank": 7,
-    "tweet_count": "21.2K Tweets"
+    "tweet_count": "23.5K Tweets"
+  },
+  {
+    "name": "Medina Spirit",
+    "query": "\"Medina Spirit\"",
+    "rank": 8,
+    "tweet_count": "9,480 Tweets"
+  },
+  {
+    "name": "Mike Dean",
+    "query": "\"Mike Dean\"",
+    "rank": 9,
+    "tweet_count": "4,217 Tweets"
   },
   {
     "name": "#YIAYmark",
     "query": "#YIAYmark",
-    "rank": 8,
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "Xhaka",
+    "query": "Xhaka",
+    "rank": 11,
+    "tweet_count": "15.5K Tweets"
+  },
+  {
+    "name": "Godfrey",
+    "query": "Godfrey",
+    "rank": 12,
+    "tweet_count": "8,438 Tweets"
+  },
+  {
+    "name": "john mulaney",
+    "query": "\"john mulaney\"",
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "#MondayMotivation",
     "query": "#MondayMotivation",
-    "rank": 9,
-    "tweet_count": "114K Tweets"
-  },
-  {
-    "name": "#OddThingsToPawn",
-    "query": "#OddThingsToPawn",
-    "rank": 10,
-    "tweet_count": "1,034 Tweets"
-  },
-  {
-    "name": "Olivia Rodrigo",
-    "query": "\"Olivia Rodrigo\"",
-    "rank": 11,
-    "tweet_count": "32.5K Tweets"
-  },
-  {
-    "name": "john mulaney",
-    "query": "\"john mulaney\"",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Oregon",
-    "query": "Oregon",
-    "rank": 13,
-    "tweet_count": "44.6K Tweets"
-  },
-  {
-    "name": "MLS Next Pro",
-    "query": "\"MLS Next Pro\"",
     "rank": 14,
-    "tweet_count": null
+    "tweet_count": "114K Tweets"
   },
   {
     "name": "Staples Center",
     "query": "\"Staples Center\"",
     "rank": 15,
-    "tweet_count": "6,579 Tweets"
+    "tweet_count": "7,172 Tweets"
   },
   {
-    "name": "jungkook",
-    "query": "jungkook",
+    "name": "Olivia Rodrigo",
+    "query": "\"Olivia Rodrigo\"",
     "rank": 16,
-    "tweet_count": "1.47M Tweets"
+    "tweet_count": "32.9K Tweets"
   },
   {
     "name": "Olympics",
     "query": "Olympics",
     "rank": 17,
-    "tweet_count": "49.5K Tweets"
+    "tweet_count": "50.5K Tweets"
   },
   {
-    "name": "Fred Hiatt",
-    "query": "\"Fred Hiatt\"",
+    "name": "MLS Next Pro",
+    "query": "\"MLS Next Pro\"",
     "rank": 18,
-    "tweet_count": "3,051 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Team B",
-    "query": "\"Team B\"",
+    "name": "Nick Cannon",
+    "query": "\"Nick Cannon\"",
     "rank": 19,
-    "tweet_count": "6,980 Tweets"
+    "tweet_count": "3,436 Tweets"
   }
 ]
