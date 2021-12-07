@@ -6,16 +6,16 @@
     "tweet_count": null
   },
   {
-    "name": "Milos",
-    "query": "Milos",
-    "rank": 2,
-    "tweet_count": "1,959 Tweets"
-  },
-  {
     "name": "#nrksjakk",
     "query": "#nrksjakk",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "Milos",
+    "query": "Milos",
+    "rank": 3,
+    "tweet_count": "1,982 Tweets"
   },
   {
     "name": "Mike Dean",
@@ -24,8 +24,8 @@
     "tweet_count": "13.7K Tweets"
   },
   {
-    "name": "knutsen",
-    "query": "knutsen",
+    "name": "Knutsen",
+    "query": "Knutsen",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,7 +33,7 @@
     "name": "Godfrey",
     "query": "Godfrey",
     "rank": 6,
-    "tweet_count": "17.7K Tweets"
+    "tweet_count": "17.8K Tweets"
   },
   {
     "name": "kfum",
@@ -75,25 +75,25 @@
     "name": "Hamilton",
     "query": "Hamilton",
     "rank": 13,
-    "tweet_count": "63.5K Tweets"
+    "tweet_count": "64.1K Tweets"
   },
   {
     "name": "#SaudiArabianGP",
     "query": "#SaudiArabianGP",
     "rank": 14,
-    "tweet_count": "22.1K Tweets"
+    "tweet_count": "22.3K Tweets"
   },
   {
     "name": "#Arsenal",
     "query": "#Arsenal",
     "rank": 15,
-    "tweet_count": "10.8K Tweets"
+    "tweet_count": "10.9K Tweets"
   },
   {
     "name": "Arteta",
     "query": "Arteta",
     "rank": 16,
-    "tweet_count": "86.3K Tweets"
+    "tweet_count": "86.6K Tweets"
   },
   {
     "name": "Nakstad",
@@ -117,6 +117,6 @@
     "name": "Gray",
     "query": "Gray",
     "rank": 20,
-    "tweet_count": "69.8K Tweets"
+    "tweet_count": "70.3K Tweets"
   }
 ]
