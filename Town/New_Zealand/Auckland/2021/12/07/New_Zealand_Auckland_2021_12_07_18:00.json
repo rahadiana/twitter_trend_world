@@ -3,23 +3,23 @@
     "name": "Question Time",
     "query": "\"Question Time\"",
     "rank": 1,
-    "tweet_count": "17.2K Tweets"
+    "tweet_count": "17.5K Tweets"
+  },
+  {
+    "name": "New Zealand",
+    "query": "\"New Zealand\"",
+    "rank": 2,
+    "tweet_count": "16.4K Tweets"
   },
   {
     "name": "#EVEARS",
     "query": "#EVEARS",
-    "rank": 2,
-    "tweet_count": "53.1K Tweets"
-  },
-  {
-    "name": "#nzqt",
-    "query": "#nzqt",
     "rank": 3,
-    "tweet_count": null
+    "tweet_count": "53.2K Tweets"
   },
   {
-    "name": "#ffacup",
-    "query": "#ffacup",
+    "name": "#FFACUP",
+    "query": "#FFACUP",
     "rank": 4,
     "tweet_count": null
   },
@@ -33,84 +33,84 @@
     "name": "Succession",
     "query": "Succession",
     "rank": 6,
-    "tweet_count": "28.4K Tweets"
+    "tweet_count": "28.8K Tweets"
   },
   {
-    "name": "robertson",
-    "query": "robertson",
+    "name": "#wunvwel",
+    "query": "#wunvwel",
     "rank": 7,
-    "tweet_count": "3,885 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Robertson",
+    "query": "Robertson",
+    "rank": 8,
+    "tweet_count": "3,983 Tweets"
   },
   {
     "name": "The PM",
     "query": "\"The PM\"",
-    "rank": 8,
-    "tweet_count": "206K Tweets"
+    "rank": 9,
+    "tweet_count": "210K Tweets"
   },
   {
     "name": "Subway",
     "query": "Subway",
-    "rank": 9,
-    "tweet_count": "116K Tweets"
+    "rank": 10,
+    "tweet_count": "117K Tweets"
   },
   {
     "name": "Arsenal",
     "query": "Arsenal",
-    "rank": 10,
-    "tweet_count": "254K Tweets"
+    "rank": 11,
+    "tweet_count": "255K Tweets"
   },
   {
     "name": "Simeon",
     "query": "Simeon",
-    "rank": 11,
-    "tweet_count": "2,143 Tweets"
-  },
-  {
-    "name": "Seymour",
-    "query": "Seymour",
     "rank": 12,
-    "tweet_count": "2,275 Tweets"
-  },
-  {
-    "name": "Solomon Islands",
-    "query": "\"Solomon Islands\"",
-    "rank": 13,
-    "tweet_count": null
+    "tweet_count": "2,179 Tweets"
   },
   {
     "name": "OECD",
     "query": "OECD",
+    "rank": 13,
+    "tweet_count": "4,545 Tweets"
+  },
+  {
+    "name": "Solomon Islands",
+    "query": "\"Solomon Islands\"",
     "rank": 14,
-    "tweet_count": "4,474 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Jane",
     "query": "Jane",
     "rank": 15,
-    "tweet_count": "51.2K Tweets"
+    "tweet_count": "52.3K Tweets"
   },
   {
     "name": "hobi",
     "query": "hobi",
     "rank": 16,
-    "tweet_count": "254K Tweets"
+    "tweet_count": "256K Tweets"
   },
   {
-    "name": "Everton",
-    "query": "Everton",
+    "name": "Seymour",
+    "query": "Seymour",
     "rank": 17,
-    "tweet_count": "120K Tweets"
-  },
-  {
-    "name": "Maori",
-    "query": "Maori",
-    "rank": 18,
-    "tweet_count": "2,495 Tweets"
+    "tweet_count": "2,327 Tweets"
   },
   {
     "name": "Todd Muller",
     "query": "\"Todd Muller\"",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Maori",
+    "query": "Maori",
+    "rank": 19,
+    "tweet_count": "2,565 Tweets"
   }
 ]
