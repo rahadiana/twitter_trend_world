@@ -1,15 +1,15 @@
 [
   {
-    "name": "#GRAG",
-    "query": "#GRAG",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Armee",
     "query": "Armee",
+    "rank": 1,
+    "tweet_count": "8,465 Tweets"
+  },
+  {
+    "name": "#GRAG",
+    "query": "#GRAG",
     "rank": 2,
-    "tweet_count": "8,247 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Samichlaus",
@@ -18,16 +18,16 @@
     "tweet_count": null
   },
   {
-    "name": "#Lauterbach",
-    "query": "#Lauterbach",
+    "name": "#ZusammenGegenCorona",
+    "query": "#ZusammenGegenCorona",
     "rank": 4,
-    "tweet_count": "22.8K Tweets"
+    "tweet_count": "16.3K Tweets"
   },
   {
     "name": "Xhaka",
     "query": "Xhaka",
     "rank": 5,
-    "tweet_count": "29.6K Tweets"
+    "tweet_count": "29.8K Tweets"
   },
   {
     "name": "Hochdeutsch",
@@ -39,43 +39,43 @@
     "name": "Nikolaus",
     "query": "Nikolaus",
     "rank": 7,
-    "tweet_count": "9,595 Tweets"
+    "tweet_count": "9,711 Tweets"
   },
   {
     "name": "Gesundheitsminister",
     "query": "Gesundheitsminister",
     "rank": 8,
-    "tweet_count": "26.6K Tweets"
+    "tweet_count": "27K Tweets"
   },
   {
     "name": "Kurs",
     "query": "Kurs",
     "rank": 9,
-    "tweet_count": "4,333 Tweets"
-  },
-  {
-    "name": "Zemmour",
-    "query": "Zemmour",
-    "rank": 10,
-    "tweet_count": "198K Tweets"
+    "tweet_count": "4,464 Tweets"
   },
   {
     "name": "Argentina",
     "query": "Argentina",
-    "rank": 11,
-    "tweet_count": "112K Tweets"
+    "rank": 10,
+    "tweet_count": "116K Tweets"
   },
   {
     "name": "Hamilton",
     "query": "Hamilton",
-    "rank": 12,
-    "tweet_count": "56.7K Tweets"
+    "rank": 11,
+    "tweet_count": "58.6K Tweets"
   },
   {
     "name": "wochenstart",
     "query": "wochenstart",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "Arteta",
+    "query": "Arteta",
+    "rank": 13,
+    "tweet_count": "88.8K Tweets"
   },
   {
     "name": "Erkenntnis",
@@ -84,21 +84,21 @@
     "tweet_count": null
   },
   {
+    "name": "Zemmour",
+    "query": "Zemmour",
+    "rank": 15,
+    "tweet_count": "204K Tweets"
+  },
+  {
     "name": "Chiesa",
     "query": "Chiesa",
-    "rank": 15,
-    "tweet_count": "4,333 Tweets"
-  },
-  {
-    "name": "aung san suu kyi",
-    "query": "\"aung san suu kyi\"",
     "rank": 16,
-    "tweet_count": "15.3K Tweets"
+    "tweet_count": "4,447 Tweets"
   },
   {
-    "name": "États",
-    "query": "États",
+    "name": "Gratistests",
+    "query": "Gratistests",
     "rank": 17,
-    "tweet_count": "10.7K Tweets"
+    "tweet_count": null
   }
 ]
