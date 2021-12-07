@@ -1,19 +1,19 @@
 [
   {
+    "name": "בוקר טוב",
+    "query": "\"בוקר טוב\"",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "jungkook",
     "query": "jungkook",
-    "rank": 1,
-    "tweet_count": "1.39M Tweets"
+    "rank": 2,
+    "tweet_count": "1.4M Tweets"
   },
   {
     "name": "בן צור",
     "query": "\"בן צור\"",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "לילה טוב",
-    "query": "\"לילה טוב\"",
     "rank": 3,
     "tweet_count": null
   },
@@ -27,7 +27,7 @@
     "name": "Arsenal",
     "query": "Arsenal",
     "rank": 5,
-    "tweet_count": "223K Tweets"
+    "tweet_count": "226K Tweets"
   },
   {
     "name": "#למה_גדעון_סער_התפטר_ב2014",
@@ -45,7 +45,7 @@
     "name": "Netanyahu",
     "query": "Netanyahu",
     "rank": 8,
-    "tweet_count": "6,761 Tweets"
+    "tweet_count": "6,862 Tweets"
   },
   {
     "name": "קורה עם",
@@ -54,52 +54,52 @@
     "tweet_count": null
   },
   {
-    "name": "Trump",
-    "query": "Trump",
-    "rank": 10,
-    "tweet_count": "666K Tweets"
-  },
-  {
     "name": "גדעון סער",
     "query": "\"גדעון סער\"",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "יאיר נתניהו",
     "query": "\"יאיר נתניהו\"",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
-  },
-  {
-    "name": "Japan",
-    "query": "Japan",
-    "rank": 13,
-    "tweet_count": "441K Tweets"
   },
   {
     "name": "atarot",
     "query": "atarot",
-    "rank": 14,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "#Syria",
     "query": "#Syria",
-    "rank": 15,
-    "tweet_count": "3,458 Tweets"
+    "rank": 13,
+    "tweet_count": "3,542 Tweets"
   },
   {
     "name": "#Palestinian",
     "query": "#Palestinian",
-    "rank": 16,
-    "tweet_count": "1,170 Tweets"
+    "rank": 14,
+    "tweet_count": "1,181 Tweets"
   },
   {
-    "name": "opinion",
-    "query": "opinion",
+    "name": "Japan",
+    "query": "Japan",
+    "rank": 15,
+    "tweet_count": "449K Tweets"
+  },
+  {
+    "name": "Opinion",
+    "query": "Opinion",
+    "rank": 16,
+    "tweet_count": "266K Tweets"
+  },
+  {
+    "name": "namjoon",
+    "query": "namjoon",
     "rank": 17,
-    "tweet_count": "261K Tweets"
+    "tweet_count": "341K Tweets"
   },
   {
     "name": "אח שלי",
