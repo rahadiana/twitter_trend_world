@@ -1,7 +1,7 @@
 [
   {
-    "name": "Kåre Willoch",
-    "query": "\"Kåre Willoch\"",
+    "name": "kåre willoch",
+    "query": "\"kåre willoch\"",
     "rank": 1,
     "tweet_count": null
   },
@@ -9,19 +9,19 @@
     "name": "#EVEARS",
     "query": "#EVEARS",
     "rank": 2,
-    "tweet_count": "54.8K Tweets"
-  },
-  {
-    "name": "Milos",
-    "query": "Milos",
-    "rank": 3,
-    "tweet_count": "1,807 Tweets"
+    "tweet_count": "54.9K Tweets"
   },
   {
     "name": "fredrikstad",
     "query": "fredrikstad",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
+  },
+  {
+    "name": "Milos",
+    "query": "Milos",
+    "rank": 4,
+    "tweet_count": "1,817 Tweets"
   },
   {
     "name": "KFUM",
@@ -45,11 +45,11 @@
     "name": "Xhaka",
     "query": "Xhaka",
     "rank": 8,
-    "tweet_count": "27.3K Tweets"
+    "tweet_count": "27.4K Tweets"
   },
   {
-    "name": "Mike dean",
-    "query": "\"Mike dean\"",
+    "name": "Mike Dean",
+    "query": "\"Mike Dean\"",
     "rank": 9,
     "tweet_count": "10.6K Tweets"
   },
@@ -63,13 +63,13 @@
     "name": "Richarlison",
     "query": "Richarlison",
     "rank": 11,
-    "tweet_count": "20.3K Tweets"
+    "tweet_count": "20.4K Tweets"
   },
   {
     "name": "Godfrey",
     "query": "Godfrey",
     "rank": 12,
-    "tweet_count": "16.1K Tweets"
+    "tweet_count": "16.2K Tweets"
   },
   {
     "name": "kim friele",
@@ -84,22 +84,22 @@
     "tweet_count": null
   },
   {
-    "name": "Partey",
-    "query": "Partey",
-    "rank": 15,
-    "tweet_count": "23.9K Tweets"
-  },
-  {
     "name": "Verstappen",
     "query": "Verstappen",
-    "rank": 16,
-    "tweet_count": "74K Tweets"
+    "rank": 15,
+    "tweet_count": "74.3K Tweets"
   },
   {
-    "name": "gray",
-    "query": "gray",
+    "name": "Arsenal",
+    "query": "Arsenal",
+    "rank": 16,
+    "tweet_count": "220K Tweets"
+  },
+  {
+    "name": "Gray",
+    "query": "Gray",
     "rank": 17,
-    "tweet_count": "64.2K Tweets"
+    "tweet_count": "65.2K Tweets"
   },
   {
     "name": "#nrksjakk",
@@ -117,6 +117,6 @@
     "name": "#SaudiArabianGP",
     "query": "#SaudiArabianGP",
     "rank": 20,
-    "tweet_count": "49K Tweets"
+    "tweet_count": "49.1K Tweets"
   }
 ]
