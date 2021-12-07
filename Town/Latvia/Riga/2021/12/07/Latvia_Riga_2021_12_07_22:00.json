@@ -1,19 +1,19 @@
 [
   {
-    "name": "#1pret1",
-    "query": "#1pret1",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Gobzems",
     "query": "Gobzems",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "saeimas",
     "query": "saeimas",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "#1pret1",
+    "query": "#1pret1",
     "rank": 3,
     "tweet_count": null
   },
@@ -63,7 +63,7 @@
     "name": "Diez",
     "query": "Diez",
     "rank": 11,
-    "tweet_count": "14.9K Tweets"
+    "tweet_count": "15.5K Tweets"
   },
   {
     "name": "kārtība",
@@ -87,13 +87,13 @@
     "name": "policija",
     "query": "policija",
     "rank": 15,
-    "tweet_count": "1,710 Tweets"
+    "tweet_count": "1,729 Tweets"
   },
   {
-    "name": "Ukrainā",
-    "query": "Ukrainā",
+    "name": "Ukraine",
+    "query": "Ukraine",
     "rank": 16,
-    "tweet_count": "4,258 Tweets"
+    "tweet_count": "124K Tweets"
   },
   {
     "name": "#Rododendrs",
@@ -105,7 +105,7 @@
     "name": "The Cure",
     "query": "\"The Cure\"",
     "rank": 18,
-    "tweet_count": "14.2K Tweets"
+    "tweet_count": "14.5K Tweets"
   },
   {
     "name": "Liepājā",
@@ -114,8 +114,8 @@
     "tweet_count": null
   },
   {
-    "name": "vienmēr",
-    "query": "vienmēr",
+    "name": "Ziemassvētkos",
+    "query": "Ziemassvētkos",
     "rank": 20,
     "tweet_count": null
   }
