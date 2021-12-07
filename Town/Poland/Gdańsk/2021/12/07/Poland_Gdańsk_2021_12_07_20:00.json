@@ -6,22 +6,22 @@
     "tweet_count": null
   },
   {
-    "name": "#StopSegregacjiSanitarnej",
-    "query": "#StopSegregacjiSanitarnej",
-    "rank": 2,
-    "tweet_count": "10.3K Tweets"
-  },
-  {
     "name": "#GrandPress",
     "query": "#GrandPress",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "#StopSegregacjiSanitarnej",
+    "query": "#StopSegregacjiSanitarnej",
+    "rank": 3,
+    "tweet_count": "10.4K Tweets"
   },
   {
     "name": "#StopSS",
     "query": "#StopSS",
     "rank": 4,
-    "tweet_count": "3,802 Tweets"
+    "tweet_count": "3,840 Tweets"
   },
   {
     "name": "Radek Kucharski",
@@ -33,7 +33,7 @@
     "name": "Biden",
     "query": "Biden",
     "rank": 6,
-    "tweet_count": "529K Tweets"
+    "tweet_count": "533K Tweets"
   },
   {
     "name": "Dariusz Mioduski",
@@ -42,75 +42,81 @@
     "tweet_count": null
   },
   {
-    "name": "wesołych mikołajek",
-    "query": "\"wesołych mikołajek\"",
+    "name": "#MILLIV",
+    "query": "#MILLIV",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "1,589 Tweets"
   },
   {
-    "name": "Obowiązek",
-    "query": "Obowiązek",
+    "name": "wesołych mikołajek",
+    "query": "\"wesołych mikołajek\"",
     "rank": 9,
-    "tweet_count": "6,751 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Od 15",
     "query": "\"Od 15\"",
     "rank": 10,
-    "tweet_count": "3,902 Tweets"
+    "tweet_count": "3,932 Tweets"
+  },
+  {
+    "name": "Obowiązek",
+    "query": "Obowiązek",
+    "rank": 11,
+    "tweet_count": "6,777 Tweets"
   },
   {
     "name": "stiles",
     "query": "stiles",
-    "rank": 11,
-    "tweet_count": "2,994 Tweets"
+    "rank": 12,
+    "tweet_count": "2,997 Tweets"
   },
   {
-    "name": "Morawieckich",
-    "query": "Morawieckich",
-    "rank": 12,
-    "tweet_count": "1,146 Tweets"
+    "name": "morawieckich",
+    "query": "morawieckich",
+    "rank": 13,
+    "tweet_count": "1,148 Tweets"
   },
   {
     "name": "Sylwestra",
     "query": "Sylwestra",
-    "rank": 13,
-    "tweet_count": "1,824 Tweets"
+    "rank": 14,
+    "tweet_count": "1,831 Tweets"
   },
   {
     "name": "Michniewicz",
     "query": "Michniewicz",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Horała",
     "query": "Horała",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Milan",
-    "query": "Milan",
     "rank": 16,
-    "tweet_count": "81.3K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Od 20",
     "query": "\"Od 20\"",
     "rank": 17,
-    "tweet_count": "5,185 Tweets"
+    "tweet_count": "5,199 Tweets"
   },
   {
     "name": "Sunghoon",
     "query": "Sunghoon",
     "rank": 18,
-    "tweet_count": "985K Tweets"
+    "tweet_count": "987K Tweets"
   },
   {
     "name": "Pearl Harbor",
     "query": "\"Pearl Harbor\"",
     "rank": 19,
-    "tweet_count": "119K Tweets"
+    "tweet_count": "120K Tweets"
+  },
+  {
+    "name": "Przymus",
+    "query": "Przymus",
+    "rank": 20,
+    "tweet_count": "5,719 Tweets"
   }
 ]
