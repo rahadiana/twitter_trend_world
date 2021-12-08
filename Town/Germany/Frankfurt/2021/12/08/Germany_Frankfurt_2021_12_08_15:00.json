@@ -1,110 +1,116 @@
 [
   {
-    "name": "#Kanzlerwahl",
-    "query": "#Kanzlerwahl",
+    "name": "#noafd",
+    "query": "#noafd",
     "rank": 1,
-    "tweet_count": "9,751 Tweets"
+    "tweet_count": "2,913 Tweets"
   },
   {
     "name": "#Özdemir",
     "query": "#Özdemir",
     "rank": 2,
-    "tweet_count": "1,430 Tweets"
+    "tweet_count": "1,676 Tweets"
+  },
+  {
+    "name": "#Kanzlerwahl",
+    "query": "#Kanzlerwahl",
+    "rank": 3,
+    "tweet_count": "10.1K Tweets"
   },
   {
     "name": "#Vereidigung",
     "query": "#Vereidigung",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "#420laf",
-    "query": "#420laf",
     "rank": 4,
-    "tweet_count": "6,571 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Zusatz",
-    "query": "Zusatz",
+    "name": "#Scholz",
+    "query": "#Scholz",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "7,940 Tweets"
+  },
+  {
+    "name": "Fahrrad",
+    "query": "Fahrrad",
+    "rank": 6,
+    "tweet_count": "2,571 Tweets"
   },
   {
     "name": "Amtseid",
     "query": "Amtseid",
-    "rank": 6,
-    "tweet_count": "1,039 Tweets"
+    "rank": 7,
+    "tweet_count": "1,116 Tweets"
   },
   {
-    "name": "Formel",
-    "query": "Formel",
-    "rank": 7,
+    "name": "Bezeichnend",
+    "query": "Bezeichnend",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "Zusatz",
+    "query": "Zusatz",
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Schloss Bellevue",
     "query": "\"Schloss Bellevue\"",
-    "rank": 8,
-    "tweet_count": "1,081 Tweets"
-  },
-  {
-    "name": "Omikron",
-    "query": "Omikron",
-    "rank": 9,
-    "tweet_count": "27.1K Tweets"
-  },
-  {
-    "name": "Schröder",
-    "query": "Schröder",
     "rank": 10,
-    "tweet_count": "4,629 Tweets"
+    "tweet_count": "1,187 Tweets"
   },
   {
-    "name": "Steinmeier",
-    "query": "Steinmeier",
+    "name": "Formel",
+    "query": "Formel",
     "rank": 11,
-    "tweet_count": "1,378 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Fahrlehrer",
-    "query": "Fahrlehrer",
+    "name": "Gerhard Schröder",
+    "query": "\"Gerhard Schröder\"",
     "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "Obdachlose",
-    "query": "Obdachlose",
+    "name": "Steinmeier",
+    "query": "Steinmeier",
     "rank": 13,
-    "tweet_count": "2,348 Tweets"
+    "tweet_count": "1,410 Tweets"
   },
   {
-    "name": "Armin Laschet",
-    "query": "\"Armin Laschet\"",
+    "name": "Fahrlehrer",
+    "query": "Fahrlehrer",
     "rank": 14,
     "tweet_count": null
   },
   {
+    "name": "Laschet",
+    "query": "Laschet",
+    "rank": 15,
+    "tweet_count": "1,518 Tweets"
+  },
+  {
+    "name": "Obdachlose",
+    "query": "Obdachlose",
+    "rank": 16,
+    "tweet_count": "2,465 Tweets"
+  },
+  {
     "name": "Zusammenarbeit",
     "query": "Zusammenarbeit",
-    "rank": 15,
-    "tweet_count": "2,114 Tweets"
+    "rank": 17,
+    "tweet_count": "2,176 Tweets"
   },
   {
     "name": "Stimmen",
     "query": "Stimmen",
-    "rank": 16,
-    "tweet_count": "3,600 Tweets"
-  },
-  {
-    "name": "Johnson",
-    "query": "Johnson",
-    "rank": 17,
-    "tweet_count": "365K Tweets"
-  },
-  {
-    "name": "Vermögen",
-    "query": "Vermögen",
     "rank": 18,
-    "tweet_count": "1,568 Tweets"
+    "tweet_count": "3,679 Tweets"
+  },
+  {
+    "name": "Gelingen",
+    "query": "Gelingen",
+    "rank": 19,
+    "tweet_count": null
   }
 ]
