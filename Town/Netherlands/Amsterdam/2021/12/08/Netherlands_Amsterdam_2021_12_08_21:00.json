@@ -1,9 +1,9 @@
 [
   {
-    "name": "#BAYBAR",
-    "query": "#BAYBAR",
+    "name": "#BayernBarca",
+    "query": "#BayernBarca",
     "rank": 1,
-    "tweet_count": "6,079 Tweets"
+    "tweet_count": "37.5K Tweets"
   },
   {
     "name": "#hetperfecteplaatje",
@@ -15,37 +15,37 @@
     "name": "Schiphol",
     "query": "Schiphol",
     "rank": 3,
-    "tweet_count": "4,602 Tweets"
-  },
-  {
-    "name": "#bayernbarca",
-    "query": "#bayernbarca",
-    "rank": 4,
-    "tweet_count": "36.7K Tweets"
+    "tweet_count": "4,711 Tweets"
   },
   {
     "name": "Ter Stegen",
     "query": "\"Ter Stegen\"",
-    "rank": 5,
-    "tweet_count": "35.5K Tweets"
+    "rank": 4,
+    "tweet_count": "36.5K Tweets"
   },
   {
     "name": "Rembrandt",
     "query": "Rembrandt",
-    "rank": 6,
-    "tweet_count": "5,637 Tweets"
+    "rank": 5,
+    "tweet_count": "5,780 Tweets"
   },
   {
     "name": "#top2000quiz",
     "query": "#top2000quiz",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "Freek Jansen",
     "query": "\"Freek Jansen\"",
-    "rank": 8,
+    "rank": 7,
     "tweet_count": null
+  },
+  {
+    "name": "Frenkie",
+    "query": "Frenkie",
+    "rank": 8,
+    "tweet_count": "3,743 Tweets"
   },
   {
     "name": "Juvat",
@@ -57,66 +57,66 @@
     "name": "#MUNYB",
     "query": "#MUNYB",
     "rank": 10,
-    "tweet_count": "10.1K Tweets"
-  },
-  {
-    "name": "Frenkie",
-    "query": "Frenkie",
-    "rank": 11,
-    "tweet_count": "3,524 Tweets"
+    "tweet_count": "10.3K Tweets"
   },
   {
     "name": "Vitesse",
     "query": "Vitesse",
-    "rank": 12,
-    "tweet_count": "6,412 Tweets"
+    "rank": 11,
+    "tweet_count": "6,519 Tweets"
   },
   {
-    "name": "Greenwood",
-    "query": "Greenwood",
-    "rank": 13,
-    "tweet_count": "28.3K Tweets"
+    "name": "#ZenChe",
+    "query": "#ZenChe",
+    "rank": 12,
+    "tweet_count": "29.6K Tweets"
   },
   {
     "name": "Rothschild",
     "query": "Rothschild",
-    "rank": 14,
-    "tweet_count": "3,983 Tweets"
-  },
-  {
-    "name": "Nederlander",
-    "query": "Nederlander",
-    "rank": 15,
-    "tweet_count": "1,822 Tweets"
-  },
-  {
-    "name": "Europa League",
-    "query": "\"Europa League\"",
-    "rank": 16,
-    "tweet_count": "85.1K Tweets"
-  },
-  {
-    "name": "Benfica",
-    "query": "Benfica",
-    "rank": 17,
-    "tweet_count": "85.8K Tweets"
-  },
-  {
-    "name": "Frits",
-    "query": "Frits",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Adele",
-    "query": "Adele",
-    "rank": 19,
-    "tweet_count": "54.4K Tweets"
+    "rank": 13,
+    "tweet_count": "4,101 Tweets"
   },
   {
     "name": "UEFA",
     "query": "UEFA",
+    "rank": 14,
+    "tweet_count": "44.6K Tweets"
+  },
+  {
+    "name": "Greenwood",
+    "query": "Greenwood",
+    "rank": 15,
+    "tweet_count": "28.7K Tweets"
+  },
+  {
+    "name": "Nederlander",
+    "query": "Nederlander",
+    "rank": 16,
+    "tweet_count": "1,850 Tweets"
+  },
+  {
+    "name": "Spurs",
+    "query": "Spurs",
+    "rank": 17,
+    "tweet_count": "19.6K Tweets"
+  },
+  {
+    "name": "Benfica",
+    "query": "Benfica",
+    "rank": 18,
+    "tweet_count": "88.2K Tweets"
+  },
+  {
+    "name": "Matic",
+    "query": "Matic",
+    "rank": 19,
+    "tweet_count": "142K Tweets"
+  },
+  {
+    "name": "Frits",
+    "query": "Frits",
     "rank": 20,
-    "tweet_count": "43.5K Tweets"
+    "tweet_count": null
   }
 ]
