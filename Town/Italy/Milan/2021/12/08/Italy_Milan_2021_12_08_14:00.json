@@ -3,55 +3,55 @@
     "name": "Champions",
     "query": "Champions",
     "rank": 1,
-    "tweet_count": "245K Tweets"
-  },
-  {
-    "name": "#Milano",
-    "query": "#Milano",
-    "rank": 2,
-    "tweet_count": "2,881 Tweets"
+    "tweet_count": "246K Tweets"
   },
   {
     "name": "Clint",
     "query": "Clint",
-    "rank": 3,
-    "tweet_count": "18.6K Tweets"
+    "rank": 2,
+    "tweet_count": "19K Tweets"
   },
   {
     "name": "#8dicembre",
     "query": "#8dicembre",
-    "rank": 4,
-    "tweet_count": "9,290 Tweets"
+    "rank": 3,
+    "tweet_count": "9,394 Tweets"
   },
   {
     "name": "#PatrickZaki",
     "query": "#PatrickZaki",
-    "rank": 5,
-    "tweet_count": "11.7K Tweets"
+    "rank": 4,
+    "tweet_count": "12K Tweets"
   },
   {
     "name": "#neve",
     "query": "#neve",
-    "rank": 6,
-    "tweet_count": "2,020 Tweets"
+    "rank": 5,
+    "tweet_count": "2,042 Tweets"
   },
   {
     "name": "#Immacolata",
     "query": "#Immacolata",
+    "rank": 6,
+    "tweet_count": "2,473 Tweets"
+  },
+  {
+    "name": "#ore14",
+    "query": "#ore14",
     "rank": 7,
-    "tweet_count": "2,445 Tweets"
+    "tweet_count": null
   },
   {
     "name": "STA NEVICANDO",
     "query": "\"STA NEVICANDO\"",
     "rank": 8,
-    "tweet_count": "2,191 Tweets"
+    "tweet_count": "2,236 Tweets"
   },
   {
     "name": "Buona Festa",
     "query": "\"Buona Festa\"",
     "rank": 9,
-    "tweet_count": "7,286 Tweets"
+    "tweet_count": "7,342 Tweets"
   },
   {
     "name": "Pavard",
@@ -63,37 +63,37 @@
     "name": "Panettone",
     "query": "Panettone",
     "rank": 11,
-    "tweet_count": "1,547 Tweets"
+    "tweet_count": "1,558 Tweets"
   },
   {
     "name": "Scala",
     "query": "Scala",
     "rank": 12,
-    "tweet_count": "16K Tweets"
+    "tweet_count": "16.1K Tweets"
   },
   {
     "name": "Landini",
     "query": "Landini",
     "rank": 13,
-    "tweet_count": "3,093 Tweets"
+    "tweet_count": "3,103 Tweets"
   },
   {
     "name": "Ayato",
     "query": "Ayato",
     "rank": 14,
-    "tweet_count": "157K Tweets"
+    "tweet_count": "158K Tweets"
+  },
+  {
+    "name": "Giulio",
+    "query": "Giulio",
+    "rank": 15,
+    "tweet_count": "8,778 Tweets"
   },
   {
     "name": "Enorma",
     "query": "Enorma",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Bayern",
-    "query": "Bayern",
     "rank": 16,
-    "tweet_count": "101K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Chico Forti",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
+    "name": "Bayern",
+    "query": "Bayern",
+    "rank": 18,
+    "tweet_count": "102K Tweets"
+  },
+  {
     "name": "Barcellona",
     "query": "Barcellona",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Cisl",
     "query": "Cisl",
-    "rank": 19,
-    "tweet_count": "2,332 Tweets"
-  },
-  {
-    "name": "#ore14",
-    "query": "#ore14",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "2,342 Tweets"
   }
 ]
