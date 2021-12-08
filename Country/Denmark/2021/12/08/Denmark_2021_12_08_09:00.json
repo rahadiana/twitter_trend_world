@@ -1,15 +1,15 @@
 [
   {
-    "name": "Dyrby",
-    "query": "Dyrby",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#dkpol",
     "query": "#dkpol",
+    "rank": 1,
+    "tweet_count": "3,675 Tweets"
+  },
+  {
+    "name": "Dyrby",
+    "query": "Dyrby",
     "rank": 2,
-    "tweet_count": "3,565 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Genstart",
@@ -39,84 +39,84 @@
     "name": "Pape",
     "query": "Pape",
     "rank": 7,
-    "tweet_count": "5,127 Tweets"
-  },
-  {
-    "name": "#dkbiz",
-    "query": "#dkbiz",
-    "rank": 8,
-    "tweet_count": null
+    "tweet_count": "5,219 Tweets"
   },
   {
     "name": "Arne",
     "query": "Arne",
-    "rank": 9,
-    "tweet_count": "1,126 Tweets"
+    "rank": 8,
+    "tweet_count": "1,154 Tweets"
   },
   {
-    "name": "statsministeriet",
-    "query": "statsministeriet",
-    "rank": 10,
+    "name": "#arbejde",
+    "query": "#arbejde",
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "SMS'er",
     "query": "SMS'er",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Mette Frederiksen",
     "query": "\"Mette Frederiksen\"",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Anna Thygesen",
     "query": "\"Anna Thygesen\"",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Everton",
     "query": "Everton",
-    "rank": 14,
-    "tweet_count": "36K Tweets"
+    "rank": 13,
+    "tweet_count": "36.4K Tweets"
   },
   {
     "name": "Milan",
     "query": "Milan",
-    "rank": 15,
-    "tweet_count": "120K Tweets"
+    "rank": 14,
+    "tweet_count": "121K Tweets"
   },
   {
     "name": "Søren Brostrøm",
     "query": "\"Søren Brostrøm\"",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Jungkook",
+    "query": "Jungkook",
     "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Præcis",
-    "query": "Præcis",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "jungkook",
-    "query": "jungkook",
-    "rank": 18,
-    "tweet_count": "560K Tweets"
+    "tweet_count": "568K Tweets"
   },
   {
     "name": "Barbara",
     "query": "Barbara",
-    "rank": 19,
-    "tweet_count": "31.7K Tweets"
+    "rank": 17,
+    "tweet_count": "32.2K Tweets"
   },
   {
-    "name": "sydafrika",
-    "query": "sydafrika",
-    "rank": 20,
+    "name": "herlev",
+    "query": "herlev",
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Statsministeriet",
+    "query": "Statsministeriet",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Omikron",
+    "query": "Omikron",
+    "rank": 20,
+    "tweet_count": "22K Tweets"
   }
 ]

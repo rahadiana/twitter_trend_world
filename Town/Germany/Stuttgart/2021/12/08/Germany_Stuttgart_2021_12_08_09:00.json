@@ -1,110 +1,116 @@
 [
   {
-    "name": "#Lanz",
-    "query": "#Lanz",
-    "rank": 1,
-    "tweet_count": "2,685 Tweets"
-  },
-  {
-    "name": "#JKvsP7",
-    "query": "#JKvsP7",
-    "rank": 2,
-    "tweet_count": "5,685 Tweets"
-  },
-  {
     "name": "#Kanzlerwahl",
     "query": "#Kanzlerwahl",
+    "rank": 1,
+    "tweet_count": "2,754 Tweets"
+  },
+  {
+    "name": "#Scholz",
+    "query": "#Scholz",
+    "rank": 2,
+    "tweet_count": "4,314 Tweets"
+  },
+  {
+    "name": "#Weidel",
+    "query": "#Weidel",
     "rank": 3,
-    "tweet_count": "1,727 Tweets"
+    "tweet_count": "2,643 Tweets"
+  },
+  {
+    "name": "#Bundestag",
+    "query": "#Bundestag",
+    "rank": 4,
+    "tweet_count": "3,816 Tweets"
   },
   {
     "name": "Wochenteiler",
     "query": "Wochenteiler",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "Türchen 8",
-    "query": "\"Türchen 8\"",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "Bergfest",
-    "query": "Bergfest",
+    "name": "Verläufen",
+    "query": "Verläufen",
     "rank": 6,
+    "tweet_count": "1,032 Tweets"
+  },
+  {
+    "name": "Türchen 8",
+    "query": "\"Türchen 8\"",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "Abgeordnete",
+    "query": "Abgeordnete",
+    "rank": 8,
+    "tweet_count": "1,013 Tweets"
+  },
+  {
+    "name": "Bundesrepublik Deutschland",
+    "query": "\"Bundesrepublik Deutschland\"",
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "T-Zellen",
     "query": "T-Zellen",
-    "rank": 7,
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "Bergfest",
+    "query": "Bergfest",
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Ayato",
     "query": "Ayato",
-    "rank": 8,
-    "tweet_count": "112K Tweets"
+    "rank": 12,
+    "tweet_count": "116K Tweets"
+  },
+  {
+    "name": "Obdachlose",
+    "query": "Obdachlose",
+    "rank": 13,
+    "tweet_count": "1,053 Tweets"
   },
   {
     "name": "Feiertag",
     "query": "Feiertag",
-    "rank": 9,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Start in den Tag",
     "query": "\"Start in den Tag\"",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Menschlichkeit",
-    "query": "Menschlichkeit",
-    "rank": 11,
-    "tweet_count": "2,726 Tweets"
-  },
-  {
-    "name": "#Weidel",
-    "query": "#Weidel",
-    "rank": 12,
-    "tweet_count": "2,524 Tweets"
-  },
-  {
-    "name": "#420laf",
-    "query": "#420laf",
-    "rank": 13,
-    "tweet_count": "1,482 Tweets"
-  },
-  {
-    "name": "#Bundestag",
-    "query": "#Bundestag",
-    "rank": 14,
-    "tweet_count": "3,502 Tweets"
-  },
-  {
-    "name": "#TagderBildung",
-    "query": "#TagderBildung",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "#Impfschaeden",
-    "query": "#Impfschaeden",
+    "name": "Schmidt",
+    "query": "Schmidt",
     "rank": 16,
-    "tweet_count": "2,910 Tweets"
+    "tweet_count": "10.1K Tweets"
   },
   {
-    "name": "#OlafScholz",
-    "query": "#OlafScholz",
+    "name": "Menschlichkeit",
+    "query": "Menschlichkeit",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "2,880 Tweets"
   },
   {
-    "name": "#afdrausausdenparlamenten",
-    "query": "#afdrausausdenparlamenten",
+    "name": "#420laf",
+    "query": "#420laf",
     "rank": 18,
+    "tweet_count": "1,973 Tweets"
+  },
+  {
+    "name": "#TagderBildung",
+    "query": "#TagderBildung",
+    "rank": 19,
     "tweet_count": null
   }
 ]
