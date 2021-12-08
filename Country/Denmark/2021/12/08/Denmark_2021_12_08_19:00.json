@@ -6,8 +6,8 @@
     "tweet_count": null
   },
   {
-    "name": "#COVID19dk",
-    "query": "#COVID19dk",
+    "name": "Brostrøm",
+    "query": "Brostrøm",
     "rank": 2,
     "tweet_count": null
   },
@@ -18,8 +18,8 @@
     "tweet_count": null
   },
   {
-    "name": "Brostrøm",
-    "query": "Brostrøm",
+    "name": "#COVID19dk",
+    "query": "#COVID19dk",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,7 +27,7 @@
     "name": "Dyrby",
     "query": "Dyrby",
     "rank": 5,
-    "tweet_count": "1,279 Tweets"
+    "tweet_count": "1,302 Tweets"
   },
   {
     "name": "#coronadk",
@@ -45,19 +45,19 @@
     "name": "Mette",
     "query": "Mette",
     "rank": 8,
-    "tweet_count": "5,988 Tweets"
+    "tweet_count": "6,091 Tweets"
+  },
+  {
+    "name": "Chelsea",
+    "query": "Chelsea",
+    "rank": 9,
+    "tweet_count": "126K Tweets"
   },
   {
     "name": "#dkmedier",
     "query": "#dkmedier",
-    "rank": 9,
-    "tweet_count": "1,508 Tweets"
-  },
-  {
-    "name": "Sydafrika",
-    "query": "Sydafrika",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "1,537 Tweets"
   },
   {
     "name": "#cldk",
@@ -66,34 +66,34 @@
     "tweet_count": null
   },
   {
+    "name": "Sydafrika",
+    "query": "Sydafrika",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
     "name": "Arne",
     "query": "Arne",
-    "rank": 12,
-    "tweet_count": "1,179 Tweets"
+    "rank": 13,
+    "tweet_count": "1,198 Tweets"
   },
   {
     "name": "Olaf Scholz",
     "query": "\"Olaf Scholz\"",
-    "rank": 13,
-    "tweet_count": "36.7K Tweets"
-  },
-  {
-    "name": "Chelsea",
-    "query": "Chelsea",
     "rank": 14,
-    "tweet_count": "105K Tweets"
+    "tweet_count": "37.1K Tweets"
   },
   {
     "name": "Pape",
     "query": "Pape",
     "rank": 15,
-    "tweet_count": "5,213 Tweets"
+    "tweet_count": "5,308 Tweets"
   },
   {
     "name": "B.T.",
     "query": "B.T.",
     "rank": 16,
-    "tweet_count": "123K Tweets"
+    "tweet_count": "125K Tweets"
   },
   {
     "name": "Statsministeriet",
@@ -117,6 +117,6 @@
     "name": "iPhone",
     "query": "iPhone",
     "rank": 20,
-    "tweet_count": "330K Tweets"
+    "tweet_count": "333K Tweets"
   }
 ]
