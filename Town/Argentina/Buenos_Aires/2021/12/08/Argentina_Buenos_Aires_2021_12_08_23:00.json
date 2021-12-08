@@ -1,45 +1,45 @@
 [
   {
+    "name": "Santiago del Estero",
+    "query": "\"Santiago del Estero\"",
+    "rank": 1,
+    "tweet_count": "3,201 Tweets"
+  },
+  {
     "name": "Papá Noel",
     "query": "\"Papá Noel\"",
-    "rank": 1,
-    "tweet_count": "7,752 Tweets"
+    "rank": 2,
+    "tweet_count": "7,849 Tweets"
   },
   {
     "name": "Barcelona",
     "query": "Barcelona",
-    "rank": 2,
-    "tweet_count": "323K Tweets"
+    "rank": 3,
+    "tweet_count": "327K Tweets"
   },
   {
     "name": "Chango",
     "query": "Chango",
-    "rank": 3,
-    "tweet_count": "8,413 Tweets"
+    "rank": 4,
+    "tweet_count": "9,437 Tweets"
   },
   {
     "name": "#5SOS2011",
     "query": "#5SOS2011",
-    "rank": 4,
-    "tweet_count": "47.6K Tweets"
+    "rank": 5,
+    "tweet_count": "47.8K Tweets"
   },
   {
     "name": "Gallardo",
     "query": "Gallardo",
-    "rank": 5,
-    "tweet_count": "96.8K Tweets"
-  },
-  {
-    "name": "Bayern",
-    "query": "Bayern",
     "rank": 6,
-    "tweet_count": "304K Tweets"
+    "tweet_count": "97.4K Tweets"
   },
   {
     "name": "Xavi",
     "query": "Xavi",
     "rank": 7,
-    "tweet_count": "102K Tweets"
+    "tweet_count": "104K Tweets"
   },
   {
     "name": "#HANDBALLenDEPORTV",
@@ -51,61 +51,61 @@
     "name": "Martiniano Molina",
     "query": "\"Martiniano Molina\"",
     "rank": 9,
-    "tweet_count": "1,292 Tweets"
-  },
-  {
-    "name": "#Walls",
-    "query": "#Walls",
-    "rank": 10,
-    "tweet_count": "630K Tweets"
+    "tweet_count": "1,410 Tweets"
   },
   {
     "name": "#DondeEstaLaCorte",
     "query": "#DondeEstaLaCorte",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
+  },
+  {
+    "name": "Blooming",
+    "query": "Blooming",
+    "rank": 11,
+    "tweet_count": "9,477 Tweets"
+  },
+  {
+    "name": "#Walls",
+    "query": "#Walls",
+    "rank": 12,
+    "tweet_count": "633K Tweets"
   },
   {
     "name": "Champions",
     "query": "Champions",
-    "rank": 12,
-    "tweet_count": "264K Tweets"
-  },
-  {
-    "name": "Ter Stegen",
-    "query": "\"Ter Stegen\"",
     "rank": 13,
-    "tweet_count": "41.3K Tweets"
+    "tweet_count": "267K Tweets"
   },
   {
     "name": "#LouisTomlinson",
     "query": "#LouisTomlinson",
     "rank": 14,
-    "tweet_count": "628K Tweets"
+    "tweet_count": "631K Tweets"
   },
   {
-    "name": "Mateo",
-    "query": "Mateo",
+    "name": "Ter Stegen",
+    "query": "\"Ter Stegen\"",
     "rank": 15,
-    "tweet_count": "24.4K Tweets"
+    "tweet_count": "41.5K Tweets"
   },
   {
     "name": "Sin Messi",
     "query": "\"Sin Messi\"",
     "rank": 16,
-    "tweet_count": "9,359 Tweets"
+    "tweet_count": "9,625 Tweets"
   },
   {
-    "name": "Muller",
-    "query": "Muller",
+    "name": "Mateo",
+    "query": "Mateo",
     "rank": 17,
-    "tweet_count": "49.9K Tweets"
+    "tweet_count": "24.8K Tweets"
   },
   {
     "name": "Sevilla",
     "query": "Sevilla",
     "rank": 18,
-    "tweet_count": "43.5K Tweets"
+    "tweet_count": "44.2K Tweets"
   },
   {
     "name": "1FIGHT 4 BTS DAESANG",
@@ -117,6 +117,6 @@
     "name": "Talleres",
     "query": "Talleres",
     "rank": 20,
-    "tweet_count": "16K Tweets"
+    "tweet_count": "16.3K Tweets"
   }
 ]
