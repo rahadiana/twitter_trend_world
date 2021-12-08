@@ -1,61 +1,61 @@
 [
   {
+    "name": "River",
+    "query": "River",
+    "rank": 1,
+    "tweet_count": "126K Tweets"
+  },
+  {
     "name": "Asamblea",
     "query": "Asamblea",
-    "rank": 1,
-    "tweet_count": "30.1K Tweets"
+    "rank": 2,
+    "tweet_count": "30.5K Tweets"
   },
   {
     "name": "Gonzalo Plata",
     "query": "\"Gonzalo Plata\"",
-    "rank": 2,
-    "tweet_count": "7,152 Tweets"
+    "rank": 3,
+    "tweet_count": "7,342 Tweets"
   },
   {
     "name": "Gallardo",
     "query": "Gallardo",
-    "rank": 3,
-    "tweet_count": "80.3K Tweets"
+    "rank": 4,
+    "tweet_count": "82.2K Tweets"
   },
   {
     "name": "Carlos Tenorio",
     "query": "\"Carlos Tenorio\"",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "River",
-    "query": "River",
     "rank": 5,
-    "tweet_count": "123K Tweets"
-  },
-  {
-    "name": "Kaviedes",
-    "query": "Kaviedes",
-    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "Valladolid",
     "query": "Valladolid",
-    "rank": 7,
-    "tweet_count": "7,315 Tweets"
+    "rank": 6,
+    "tweet_count": "7,400 Tweets"
   },
   {
     "name": "#LegendaRiKiSweet16",
     "query": "#LegendaRiKiSweet16",
-    "rank": 8,
-    "tweet_count": "804K Tweets"
+    "rank": 7,
+    "tweet_count": "807K Tweets"
   },
   {
     "name": "Vicente Jaime",
     "query": "\"Vicente Jaime\"",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "#VueltaEc",
     "query": "#VueltaEc",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Kaviedes",
+    "query": "Kaviedes",
     "rank": 10,
     "tweet_count": null
   },
@@ -75,13 +75,13 @@
     "name": "Platita",
     "query": "Platita",
     "rank": 13,
-    "tweet_count": "1,038 Tweets"
+    "tweet_count": "1,063 Tweets"
   },
   {
     "name": "España",
     "query": "España",
     "rank": 14,
-    "tweet_count": "184K Tweets"
+    "tweet_count": "187K Tweets"
   },
   {
     "name": "Michael Arroyo",
@@ -93,18 +93,18 @@
     "name": "Marini",
     "query": "Marini",
     "rank": 16,
-    "tweet_count": null
+    "tweet_count": "1,012 Tweets"
   },
   {
     "name": "Ecuatoriano",
     "query": "Ecuatoriano",
     "rank": 17,
-    "tweet_count": "7,441 Tweets"
+    "tweet_count": "7,558 Tweets"
   },
   {
     "name": "Fundación",
     "query": "Fundación",
     "rank": 18,
-    "tweet_count": "17.4K Tweets"
+    "tweet_count": "17.7K Tweets"
   }
 ]
