@@ -6,22 +6,22 @@
     "tweet_count": null
   },
   {
-    "name": "Børneavisen",
-    "query": "Børneavisen",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
     "name": "#COVID19dk",
     "query": "#COVID19dk",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Dyrby",
     "query": "Dyrby",
+    "rank": 3,
+    "tweet_count": "1,309 Tweets"
+  },
+  {
+    "name": "Børneavisen",
+    "query": "Børneavisen",
     "rank": 4,
-    "tweet_count": "1,299 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Brostrøm",
@@ -51,19 +51,19 @@
     "name": "Mette",
     "query": "Mette",
     "rank": 9,
-    "tweet_count": "6,099 Tweets"
+    "tweet_count": "6,196 Tweets"
   },
   {
     "name": "Chelsea",
     "query": "Chelsea",
     "rank": 10,
-    "tweet_count": "139K Tweets"
+    "tweet_count": "141K Tweets"
   },
   {
     "name": "#dkmedier",
     "query": "#dkmedier",
     "rank": 11,
-    "tweet_count": "1,566 Tweets"
+    "tweet_count": "1,582 Tweets"
   },
   {
     "name": "Sydafrika",
@@ -75,31 +75,31 @@
     "name": "Arne",
     "query": "Arne",
     "rank": 13,
-    "tweet_count": "1,165 Tweets"
+    "tweet_count": "1,173 Tweets"
   },
   {
     "name": "Olaf Scholz",
     "query": "\"Olaf Scholz\"",
     "rank": 14,
-    "tweet_count": "38.2K Tweets"
+    "tweet_count": "38.6K Tweets"
   },
   {
     "name": "Pape",
     "query": "Pape",
     "rank": 15,
-    "tweet_count": "5,267 Tweets"
+    "tweet_count": "5,300 Tweets"
   },
   {
-    "name": "Barca",
-    "query": "Barca",
+    "name": "Bayern",
+    "query": "Bayern",
     "rank": 16,
-    "tweet_count": "138K Tweets"
+    "tweet_count": "194K Tweets"
   },
   {
     "name": "B.T.",
     "query": "B.T.",
     "rank": 17,
-    "tweet_count": "127K Tweets"
+    "tweet_count": "128K Tweets"
   },
   {
     "name": "statsministeriet",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "Prag",
-    "query": "Prag",
+    "name": "prag",
+    "query": "prag",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "PostNord",
-    "query": "PostNord",
+    "name": "Krab",
+    "query": "Krab",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "2,328 Tweets"
   }
 ]
