@@ -6,20 +6,20 @@
     "tweet_count": null
   },
   {
-    "name": "Feiertag",
-    "query": "Feiertag",
-    "rank": 2,
-    "tweet_count": "1,106 Tweets"
-  },
-  {
     "name": "#Pressekonferenz",
     "query": "#Pressekonferenz",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "Atempause",
-    "query": "Atempause",
+    "name": "Feiertag",
+    "query": "Feiertag",
+    "rank": 3,
+    "tweet_count": "1,124 Tweets"
+  },
+  {
+    "name": "atempause",
+    "query": "atempause",
     "rank": 4,
     "tweet_count": null
   },
@@ -33,7 +33,7 @@
     "name": "#Omikron",
     "query": "#Omikron",
     "rank": 6,
-    "tweet_count": "7,041 Tweets"
+    "tweet_count": "7,198 Tweets"
   },
   {
     "name": "#orfreport",
@@ -42,34 +42,34 @@
     "tweet_count": null
   },
   {
-    "name": "Maria",
-    "query": "Maria",
-    "rank": 8,
-    "tweet_count": "236K Tweets"
-  },
-  {
     "name": "Gastro",
     "query": "Gastro",
+    "rank": 8,
+    "tweet_count": "2,514 Tweets"
+  },
+  {
+    "name": "Maria",
+    "query": "Maria",
     "rank": 9,
-    "tweet_count": "2,460 Tweets"
+    "tweet_count": "239K Tweets"
   },
   {
-    "name": "Inzidenzen",
-    "query": "Inzidenzen",
+    "name": "erbsünde",
+    "query": "erbsünde",
     "rank": 10,
-    "tweet_count": "2,573 Tweets"
-  },
-  {
-    "name": "Erbsünde",
-    "query": "Erbsünde",
-    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Jänner",
     "query": "Jänner",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
+  },
+  {
+    "name": "Inzidenzen",
+    "query": "Inzidenzen",
+    "rank": 12,
+    "tweet_count": "2,599 Tweets"
   },
   {
     "name": "Krawatte",
@@ -84,14 +84,14 @@
     "tweet_count": null
   },
   {
-    "name": "Armin Wolf",
-    "query": "\"Armin Wolf\"",
+    "name": "Tirol",
+    "query": "Tirol",
     "rank": 15,
-    "tweet_count": null
+    "tweet_count": "2,329 Tweets"
   },
   {
-    "name": "Virologen",
-    "query": "Virologen",
+    "name": "Armin Wolf",
+    "query": "\"Armin Wolf\"",
     "rank": 16,
     "tweet_count": null
   },
@@ -99,24 +99,24 @@
     "name": "Booster",
     "query": "Booster",
     "rank": 17,
-    "tweet_count": "150K Tweets"
-  },
-  {
-    "name": "Sachslehner",
-    "query": "Sachslehner",
-    "rank": 18,
-    "tweet_count": "1,397 Tweets"
+    "tweet_count": "152K Tweets"
   },
   {
     "name": "Schutz",
     "query": "Schutz",
+    "rank": 18,
+    "tweet_count": "11.6K Tweets"
+  },
+  {
+    "name": "Virologen",
+    "query": "Virologen",
     "rank": 19,
-    "tweet_count": "11.3K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Prozess",
     "query": "Prozess",
     "rank": 20,
-    "tweet_count": "1,591 Tweets"
+    "tweet_count": "1,600 Tweets"
   }
 ]
