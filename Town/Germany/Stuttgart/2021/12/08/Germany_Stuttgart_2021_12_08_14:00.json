@@ -1,15 +1,15 @@
 [
   {
-    "name": "Delta",
-    "query": "Delta",
-    "rank": 1,
-    "tweet_count": "78.9K Tweets"
-  },
-  {
     "name": "#Kanzlerwahl",
     "query": "#Kanzlerwahl",
+    "rank": 1,
+    "tweet_count": "9,154 Tweets"
+  },
+  {
+    "name": "#Özdemir",
+    "query": "#Özdemir",
     "rank": 2,
-    "tweet_count": "8,804 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Vereidigung",
@@ -21,96 +21,96 @@
     "name": "#420laf",
     "query": "#420laf",
     "rank": 4,
-    "tweet_count": "5,991 Tweets"
-  },
-  {
-    "name": "#Özdemir",
-    "query": "#Özdemir",
-    "rank": 5,
-    "tweet_count": null
+    "tweet_count": "6,204 Tweets"
   },
   {
     "name": "Amtseid",
     "query": "Amtseid",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "Schloss Bellevue",
-    "query": "\"Schloss Bellevue\"",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
-    "name": "Schröder",
-    "query": "Schröder",
-    "rank": 8,
-    "tweet_count": "4,476 Tweets"
-  },
-  {
-    "name": "armin laschet",
-    "query": "\"armin laschet\"",
-    "rank": 9,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Zusatz",
     "query": "Zusatz",
-    "rank": 10,
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "Formel",
+    "query": "Formel",
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Omikron",
     "query": "Omikron",
-    "rank": 11,
-    "tweet_count": "26.3K Tweets"
+    "rank": 8,
+    "tweet_count": "26.8K Tweets"
+  },
+  {
+    "name": "Schloss Bellevue",
+    "query": "\"Schloss Bellevue\"",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Schröder",
+    "query": "Schröder",
+    "rank": 10,
+    "tweet_count": "4,549 Tweets"
   },
   {
     "name": "Steinmeier",
     "query": "Steinmeier",
+    "rank": 11,
+    "tweet_count": "1,301 Tweets"
+  },
+  {
+    "name": "Fahrlehrer",
+    "query": "Fahrlehrer",
     "rank": 12,
-    "tweet_count": "1,236 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Armin Laschet",
+    "query": "\"Armin Laschet\"",
+    "rank": 13,
+    "tweet_count": null
   },
   {
     "name": "Stimmen",
     "query": "Stimmen",
-    "rank": 13,
-    "tweet_count": "3,562 Tweets"
+    "rank": 14,
+    "tweet_count": "3,618 Tweets"
   },
   {
     "name": "Bundesrepublik Deutschland",
     "query": "\"Bundesrepublik Deutschland\"",
-    "rank": 14,
-    "tweet_count": "1,153 Tweets"
-  },
-  {
-    "name": "Anstand",
-    "query": "Anstand",
     "rank": 15,
-    "tweet_count": null
+    "tweet_count": "1,197 Tweets"
   },
   {
-    "name": "Bundespräsidenten",
-    "query": "Bundespräsidenten",
+    "name": "Obdachlose",
+    "query": "Obdachlose",
     "rank": 16,
-    "tweet_count": null
+    "tweet_count": "2,159 Tweets"
   },
   {
     "name": "Johnson",
     "query": "Johnson",
     "rank": 17,
-    "tweet_count": "341K Tweets"
+    "tweet_count": "353K Tweets"
+  },
+  {
+    "name": "Bundespräsidenten",
+    "query": "Bundespräsidenten",
+    "rank": 18,
+    "tweet_count": null
   },
   {
     "name": "T-Zellen",
     "query": "T-Zellen",
-    "rank": 18,
-    "tweet_count": "1,008 Tweets"
-  },
-  {
-    "name": "Obdachlose",
-    "query": "Obdachlose",
     "rank": 19,
-    "tweet_count": "2,052 Tweets"
+    "tweet_count": "1,028 Tweets"
   }
 ]
