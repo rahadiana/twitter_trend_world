@@ -1,21 +1,21 @@
 [
   {
-    "name": "Franciskao",
-    "query": "Franciskao",
+    "name": "franciskao",
+    "query": "franciskao",
     "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "Diex",
+    "query": "Diex",
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Pandora",
     "query": "Pandora",
-    "rank": 2,
-    "tweet_count": "43.2K Tweets"
-  },
-  {
-    "name": "Diex",
-    "query": "Diex",
     "rank": 3,
-    "tweet_count": null
+    "tweet_count": "43.5K Tweets"
   },
   {
     "name": "Asensio",
@@ -42,10 +42,10 @@
     "tweet_count": null
   },
   {
-    "name": "rina",
-    "query": "rina",
+    "name": "Rina",
+    "query": "Rina",
     "rank": 8,
-    "tweet_count": "25.8K Tweets"
+    "tweet_count": "26K Tweets"
   },
   {
     "name": "Madres",
@@ -57,55 +57,55 @@
     "name": "Feliz Día",
     "query": "\"Feliz Día\"",
     "rank": 10,
-    "tweet_count": "57.7K Tweets"
+    "tweet_count": "58.1K Tweets"
   },
   {
     "name": "Yatra",
     "query": "Yatra",
     "rank": 11,
-    "tweet_count": "3,904 Tweets"
+    "tweet_count": "3,935 Tweets"
   },
   {
     "name": "Porto",
     "query": "Porto",
     "rank": 12,
-    "tweet_count": "75.7K Tweets"
+    "tweet_count": "75.8K Tweets"
   },
   {
     "name": "Boston",
     "query": "Boston",
     "rank": 13,
-    "tweet_count": "32.5K Tweets"
+    "tweet_count": "32.7K Tweets"
   },
   {
     "name": "Bettina",
     "query": "Bettina",
     "rank": 14,
-    "tweet_count": "1,920 Tweets"
+    "tweet_count": "1,932 Tweets"
   },
   {
     "name": "#HalaMadrid",
     "query": "#HalaMadrid",
     "rank": 15,
-    "tweet_count": "10.3K Tweets"
+    "tweet_count": "10.4K Tweets"
   },
   {
     "name": "#LouisTomlinson",
     "query": "#LouisTomlinson",
     "rank": 16,
-    "tweet_count": "303K Tweets"
+    "tweet_count": "305K Tweets"
   },
   {
     "name": "#Walls",
     "query": "#Walls",
     "rank": 17,
-    "tweet_count": "300K Tweets"
+    "tweet_count": "301K Tweets"
   },
   {
     "name": "Jorge Arreaza",
     "query": "\"Jorge Arreaza\"",
     "rank": 18,
-    "tweet_count": "7,228 Tweets"
+    "tweet_count": "7,242 Tweets"
   },
   {
     "name": "Jovic",
@@ -117,6 +117,6 @@
     "name": "Hazard",
     "query": "Hazard",
     "rank": 20,
-    "tweet_count": "16.7K Tweets"
+    "tweet_count": "16.8K Tweets"
   }
 ]
