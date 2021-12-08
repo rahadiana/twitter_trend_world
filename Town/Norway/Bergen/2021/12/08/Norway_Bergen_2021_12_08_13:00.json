@@ -6,28 +6,28 @@
     "tweet_count": null
   },
   {
-    "name": "John Arne Riise",
-    "query": "\"John Arne Riise\"",
+    "name": "#debatten",
+    "query": "#debatten",
     "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "#debatten",
-    "query": "#debatten",
+    "name": "støre",
+    "query": "støre",
     "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "Støre",
-    "query": "Støre",
-    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Nat Phillips",
     "query": "\"Nat Phillips\"",
+    "rank": 4,
+    "tweet_count": "15K Tweets"
+  },
+  {
+    "name": "Konate",
+    "query": "Konate",
     "rank": 5,
-    "tweet_count": "14.9K Tweets"
+    "tweet_count": "12K Tweets"
   },
   {
     "name": "nakstad",
@@ -36,34 +36,34 @@
     "tweet_count": null
   },
   {
-    "name": "Konate",
-    "query": "Konate",
-    "rank": 7,
-    "tweet_count": "11.9K Tweets"
-  },
-  {
     "name": "Tesla",
     "query": "Tesla",
+    "rank": 7,
+    "tweet_count": "69.1K Tweets"
+  },
+  {
+    "name": "john arne riise",
+    "query": "\"john arne riise\"",
     "rank": 8,
-    "tweet_count": "67.7K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "willoch",
+    "query": "willoch",
+    "rank": 9,
+    "tweet_count": null
   },
   {
     "name": "Haaland",
     "query": "Haaland",
-    "rank": 9,
-    "tweet_count": "36.8K Tweets"
-  },
-  {
-    "name": "Willoch",
-    "query": "Willoch",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "37.3K Tweets"
   },
   {
     "name": "joon",
     "query": "joon",
     "rank": 11,
-    "tweet_count": "104K Tweets"
+    "tweet_count": "105K Tweets"
   },
   {
     "name": "#nrknyheter",
@@ -72,8 +72,8 @@
     "tweet_count": null
   },
   {
-    "name": "kjerkol",
-    "query": "kjerkol",
+    "name": "Kjerkol",
+    "query": "Kjerkol",
     "rank": 13,
     "tweet_count": null
   },
@@ -81,11 +81,11 @@
     "name": "Milos",
     "query": "Milos",
     "rank": 14,
-    "tweet_count": "1,459 Tweets"
+    "tweet_count": "1,489 Tweets"
   },
   {
-    "name": "venstre",
-    "query": "venstre",
+    "name": "Venstre",
+    "query": "Venstre",
     "rank": 15,
     "tweet_count": null
   },
@@ -96,26 +96,26 @@
     "tweet_count": null
   },
   {
+    "name": "Origi",
+    "query": "Origi",
+    "rank": 17,
+    "tweet_count": "20.9K Tweets"
+  },
+  {
     "name": "Raymond",
     "query": "Raymond",
-    "rank": 17,
-    "tweet_count": "9,287 Tweets"
+    "rank": 18,
+    "tweet_count": "9,444 Tweets"
+  },
+  {
+    "name": "#EVEARS",
+    "query": "#EVEARS",
+    "rank": 19,
+    "tweet_count": "2,742 Tweets"
   },
   {
     "name": "#nrksjakk",
     "query": "#nrksjakk",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Kurt Nilsen",
-    "query": "\"Kurt Nilsen\"",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "melby",
-    "query": "melby",
     "rank": 20,
     "tweet_count": null
   }

@@ -3,23 +3,23 @@
     "name": "서울우유",
     "query": "서울우유",
     "rank": 1,
-    "tweet_count": "38.3K Tweets"
-  },
-  {
-    "name": "원화가님",
-    "query": "원화가님",
-    "rank": 2,
-    "tweet_count": null
+    "tweet_count": "40.3K Tweets"
   },
   {
     "name": "매일우유",
     "query": "매일우유",
-    "rank": 3,
-    "tweet_count": "21.2K Tweets"
+    "rank": 2,
+    "tweet_count": "22.4K Tweets"
   },
   {
     "name": "나의 최종",
     "query": "\"나의 최종\"",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "원화가님",
+    "query": "원화가님",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,31 +27,31 @@
     "name": "호크아이",
     "query": "호크아이",
     "rank": 5,
-    "tweet_count": "2,478 Tweets"
+    "tweet_count": "2,677 Tweets"
+  },
+  {
+    "name": "케이팝 문답",
+    "query": "\"케이팝 문답\"",
+    "rank": 6,
+    "tweet_count": "1,403 Tweets"
+  },
+  {
+    "name": "매일유업",
+    "query": "매일유업",
+    "rank": 7,
+    "tweet_count": "14K Tweets"
   },
   {
     "name": "밀레시안",
     "query": "밀레시안",
-    "rank": 6,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "유프라블럼",
     "query": "유프라블럼",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
-    "name": "케이팝 문답",
-    "query": "\"케이팝 문답\"",
-    "rank": 8,
-    "tweet_count": "1,267 Tweets"
-  },
-  {
-    "name": "매일유업",
-    "query": "매일유업",
     "rank": 9,
-    "tweet_count": "12.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "골든티켓",
@@ -60,32 +60,32 @@
     "tweet_count": null
   },
   {
-    "name": "스키 익스프레스",
-    "query": "\"스키 익스프레스\"",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
     "name": "더드리밍",
     "query": "더드리밍",
-    "rank": 12,
-    "tweet_count": "9,776 Tweets"
+    "rank": 11,
+    "tweet_count": "10.1K Tweets"
   },
   {
     "name": "이리아 교역",
     "query": "\"이리아 교역\"",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "리유니온",
-    "query": "리유니온",
-    "rank": 14,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "골목식당",
     "query": "골목식당",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "스키 익스프레스",
+    "query": "\"스키 익스프레스\"",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "리유니온",
+    "query": "리유니온",
     "rank": 15,
     "tweet_count": null
   }
