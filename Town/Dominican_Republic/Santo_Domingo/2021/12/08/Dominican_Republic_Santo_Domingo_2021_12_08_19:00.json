@@ -1,15 +1,15 @@
 [
   {
-    "name": "ESPN",
-    "query": "ESPN",
-    "rank": 1,
-    "tweet_count": "48.4K Tweets"
-  },
-  {
     "name": "Yermin",
     "query": "Yermin",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "ESPN",
+    "query": "ESPN",
+    "rank": 2,
+    "tweet_count": "49.3K Tweets"
   },
   {
     "name": "#LuisTeCumple",
@@ -18,40 +18,40 @@
     "tweet_count": null
   },
   {
-    "name": "Jean Alain",
-    "query": "\"Jean Alain\"",
-    "rank": 4,
-    "tweet_count": "1,631 Tweets"
-  },
-  {
     "name": "#CentenarioRojo",
     "query": "#CentenarioRojo",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "#NavidadJuntos",
-    "query": "#NavidadJuntos",
-    "rank": 6,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Maya",
     "query": "Maya",
-    "rank": 7,
-    "tweet_count": "49.6K Tweets"
+    "rank": 5,
+    "tweet_count": "50.3K Tweets"
+  },
+  {
+    "name": "Jean Alain",
+    "query": "\"Jean Alain\"",
+    "rank": 6,
+    "tweet_count": "1,664 Tweets"
   },
   {
     "name": "Bonifacio",
     "query": "Bonifacio",
+    "rank": 7,
+    "tweet_count": "1,659 Tweets"
+  },
+  {
+    "name": "#NavidadJuntos",
+    "query": "#NavidadJuntos",
     "rank": 8,
-    "tweet_count": "1,654 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#FelizMiercoles",
     "query": "#FelizMiercoles",
     "rank": 9,
-    "tweet_count": "16.4K Tweets"
+    "tweet_count": "16.9K Tweets"
   },
   {
     "name": "#Licey",
@@ -81,7 +81,7 @@
     "name": "Rodney",
     "query": "Rodney",
     "rank": 14,
-    "tweet_count": "4,505 Tweets"
+    "tweet_count": "4,595 Tweets"
   },
   {
     "name": "Yeni Berenice",
@@ -111,12 +111,12 @@
     "name": "Ronny",
     "query": "Ronny",
     "rank": 19,
-    "tweet_count": "3,178 Tweets"
+    "tweet_count": "3,228 Tweets"
   },
   {
-    "name": "Estrellas",
-    "query": "Estrellas",
+    "name": "estrellas",
+    "query": "estrellas",
     "rank": 20,
-    "tweet_count": "15.7K Tweets"
+    "tweet_count": "16K Tweets"
   }
 ]
