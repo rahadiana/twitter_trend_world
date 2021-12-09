@@ -1,27 +1,27 @@
 [
   {
-    "name": "#ExpeditieRobinson",
-    "query": "#ExpeditieRobinson",
+    "name": "#Feyenoord",
+    "query": "#Feyenoord",
     "rank": 1,
-    "tweet_count": "1,198 Tweets"
-  },
-  {
-    "name": "#RSOPSV",
-    "query": "#RSOPSV",
-    "rank": 2,
-    "tweet_count": "2,115 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#feymac",
     "query": "#feymac",
-    "rank": 3,
-    "tweet_count": null
+    "rank": 2,
+    "tweet_count": "1,028 Tweets"
   },
   {
-    "name": "#IkVertrek",
-    "query": "#IkVertrek",
+    "name": "#ExpeditieRobinson",
+    "query": "#ExpeditieRobinson",
+    "rank": 3,
+    "tweet_count": "1,223 Tweets"
+  },
+  {
+    "name": "#RSOPSV",
+    "query": "#RSOPSV",
     "rank": 4,
-    "tweet_count": null
+    "tweet_count": "2,127 Tweets"
   },
   {
     "name": "Britte",
@@ -33,7 +33,7 @@
     "name": "Yuki",
     "query": "Yuki",
     "rank": 6,
-    "tweet_count": "127K Tweets"
+    "tweet_count": "128K Tweets"
   },
   {
     "name": "Diemers",
@@ -45,65 +45,65 @@
     "name": "Schmidt",
     "query": "Schmidt",
     "rank": 8,
-    "tweet_count": "8,174 Tweets"
+    "tweet_count": "8,322 Tweets"
   },
   {
     "name": "Sandra",
     "query": "Sandra",
     "rank": 9,
-    "tweet_count": "33.1K Tweets"
+    "tweet_count": "33.8K Tweets"
   },
   {
     "name": "Conference League",
     "query": "\"Conference League\"",
     "rank": 10,
-    "tweet_count": "12K Tweets"
+    "tweet_count": "12.4K Tweets"
+  },
+  {
+    "name": "Bannis",
+    "query": "Bannis",
+    "rank": 11,
+    "tweet_count": null
   },
   {
     "name": "Sociedad",
     "query": "Sociedad",
-    "rank": 11,
-    "tweet_count": "83.2K Tweets"
+    "rank": 12,
+    "tweet_count": "84.8K Tweets"
   },
   {
     "name": "Guti",
     "query": "Guti",
-    "rank": 12,
-    "tweet_count": "5,011 Tweets"
+    "rank": 13,
+    "tweet_count": "5,069 Tweets"
   },
   {
     "name": "Dessers",
     "query": "Dessers",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Madueke",
-    "query": "Madueke",
     "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Boscagli",
-    "query": "Boscagli",
-    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Vitesse",
     "query": "Vitesse",
-    "rank": 16,
-    "tweet_count": "6,668 Tweets"
+    "rank": 15,
+    "tweet_count": "6,866 Tweets"
   },
   {
-    "name": "Gakpo",
-    "query": "Gakpo",
+    "name": "Madueke",
+    "query": "Madueke",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Boscagli",
+    "query": "Boscagli",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Bruma",
-    "query": "Bruma",
+    "name": "Gakpo",
+    "query": "Gakpo",
     "rank": 18,
     "tweet_count": null
   }
