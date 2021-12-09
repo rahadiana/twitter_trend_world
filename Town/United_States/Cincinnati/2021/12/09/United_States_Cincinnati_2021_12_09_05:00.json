@@ -1,98 +1,104 @@
 [
   {
-    "name": "#LetEmKnow",
-    "query": "#LetEmKnow",
-    "rank": 1,
-    "tweet_count": "3,704 Tweets"
-  },
-  {
     "name": "Towson",
     "query": "Towson",
+    "rank": 1,
+    "tweet_count": "1,146 Tweets"
+  },
+  {
+    "name": "Bulls",
+    "query": "Bulls",
     "rank": 2,
-    "tweet_count": "1,136 Tweets"
+    "tweet_count": "25.8K Tweets"
   },
   {
     "name": "Steph",
     "query": "Steph",
     "rank": 3,
-    "tweet_count": "39.6K Tweets"
-  },
-  {
-    "name": "Dayton",
-    "query": "Dayton",
-    "rank": 4,
-    "tweet_count": "2,222 Tweets"
+    "tweet_count": "40.7K Tweets"
   },
   {
     "name": "#SistasOnBET",
     "query": "#SistasOnBET",
-    "rank": 5,
-    "tweet_count": "14.5K Tweets"
+    "rank": 4,
+    "tweet_count": "14.7K Tweets"
   },
   {
     "name": "#AEWDynamite",
     "query": "#AEWDynamite",
+    "rank": 5,
+    "tweet_count": "50.8K Tweets"
+  },
+  {
+    "name": "#RHOC",
+    "query": "#RHOC",
     "rank": 6,
-    "tweet_count": "50.4K Tweets"
+    "tweet_count": "8,551 Tweets"
+  },
+  {
+    "name": "#boredspaces",
+    "query": "#boredspaces",
+    "rank": 7,
+    "tweet_count": "4,014 Tweets"
   },
   {
     "name": "Brandon Boston",
     "query": "\"Brandon Boston\"",
-    "rank": 7,
-    "tweet_count": "2,627 Tweets"
+    "rank": 8,
+    "tweet_count": "2,773 Tweets"
   },
   {
     "name": "Caleb Martin",
     "query": "\"Caleb Martin\"",
-    "rank": 8,
-    "tweet_count": "6,434 Tweets"
-  },
-  {
-    "name": "Garry Bird",
-    "query": "\"Garry Bird\"",
     "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Garry Bird",
-    "query": "\"Garry Bird\"",
-    "rank": 10,
-    "tweet_count": null
+    "tweet_count": "6,505 Tweets"
   },
   {
     "name": "Brees",
     "query": "Brees",
+    "rank": 10,
+    "tweet_count": "1,300 Tweets"
+  },
+  {
+    "name": "Garry Bird",
+    "query": "\"Garry Bird\"",
     "rank": 11,
-    "tweet_count": "1,243 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Marcelo Flores",
     "query": "\"Marcelo Flores\"",
     "rank": 12,
-    "tweet_count": "3,396 Tweets"
+    "tweet_count": "3,839 Tweets"
   },
   {
-    "name": "Lehner",
-    "query": "Lehner",
+    "name": "BJ Boston",
+    "query": "\"BJ Boston\"",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "Hook",
-    "query": "Hook",
+    "name": "Listerine",
+    "query": "Listerine",
     "rank": 14,
-    "tweet_count": "40.2K Tweets"
+    "tweet_count": "1,669 Tweets"
   },
   {
     "name": "Acevedo",
     "query": "Acevedo",
     "rank": 15,
-    "tweet_count": "8,322 Tweets"
+    "tweet_count": "8,611 Tweets"
   },
   {
-    "name": "Kuzma",
-    "query": "Kuzma",
+    "name": "Hook",
+    "query": "Hook",
     "rank": 16,
-    "tweet_count": "4,279 Tweets"
+    "tweet_count": "40.6K Tweets"
+  },
+  {
+    "name": "Wil Wheaton",
+    "query": "\"Wil Wheaton\"",
+    "rank": 17,
+    "tweet_count": "2,655 Tweets"
   }
 ]
