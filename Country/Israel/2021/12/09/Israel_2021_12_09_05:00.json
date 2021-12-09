@@ -6,22 +6,22 @@
     "tweet_count": null
   },
   {
-    "name": "Sheikh Jarrah",
-    "query": "\"Sheikh Jarrah\"",
-    "rank": 2,
-    "tweet_count": "4,311 Tweets"
-  },
-  {
     "name": "בוקר אור",
     "query": "\"בוקר אור\"",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "Sheikh Jarrah",
+    "query": "\"Sheikh Jarrah\"",
+    "rank": 3,
+    "tweet_count": "4,341 Tweets"
   },
   {
     "name": "של העם",
     "query": "\"של העם\"",
     "rank": 4,
-    "tweet_count": "1,381 Tweets"
+    "tweet_count": "1,389 Tweets"
   },
   {
     "name": "רבה עם",
@@ -45,7 +45,7 @@
     "name": "Pfizer",
     "query": "Pfizer",
     "rank": 8,
-    "tweet_count": "398K Tweets"
+    "tweet_count": "401K Tweets"
   },
   {
     "name": "אור הלר",
@@ -54,10 +54,10 @@
     "tweet_count": null
   },
   {
-    "name": "Palestinian",
-    "query": "Palestinian",
+    "name": "Bedouin",
+    "query": "Bedouin",
     "rank": 10,
-    "tweet_count": "30.2K Tweets"
+    "tweet_count": "1,934 Tweets"
   },
   {
     "name": "שמעון הצדיק",
@@ -66,57 +66,57 @@
     "tweet_count": null
   },
   {
-    "name": "Bedouin",
-    "query": "Bedouin",
+    "name": "Palestinian",
+    "query": "Palestinian",
     "rank": 12,
-    "tweet_count": "1,921 Tweets"
-  },
-  {
-    "name": "של חפץ",
-    "query": "\"של חפץ\"",
-    "rank": 13,
-    "tweet_count": "2,587 Tweets"
+    "tweet_count": "30.4K Tweets"
   },
   {
     "name": "برشلونة",
     "query": "برشلونة",
-    "rank": 14,
-    "tweet_count": "90.8K Tweets"
+    "rank": 13,
+    "tweet_count": "91.1K Tweets"
   },
   {
     "name": "Bayern",
     "query": "Bayern",
+    "rank": 14,
+    "tweet_count": "319K Tweets"
+  },
+  {
+    "name": "של חפץ",
+    "query": "\"של חפץ\"",
     "rank": 15,
-    "tweet_count": "318K Tweets"
+    "tweet_count": "2,607 Tweets"
+  },
+  {
+    "name": "בן גביר",
+    "query": "\"בן גביר\"",
+    "rank": 16,
+    "tweet_count": null
   },
   {
     "name": "ברוך דיין",
     "query": "\"ברוך דיין\"",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Jesus",
     "query": "Jesus",
-    "rank": 17,
-    "tweet_count": "263K Tweets"
-  },
-  {
-    "name": "עד אז",
-    "query": "\"עד אז\"",
     "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "היו שם",
-    "query": "\"היו שם\"",
-    "rank": 19,
-    "tweet_count": null
+    "tweet_count": "264K Tweets"
   },
   {
     "name": "Sonic",
     "query": "Sonic",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": "111K Tweets"
+  },
+  {
+    "name": "עד אז",
+    "query": "\"עד אז\"",
+    "rank": 20,
+    "tweet_count": null
   }
 ]

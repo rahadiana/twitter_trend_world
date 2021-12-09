@@ -1,37 +1,37 @@
 [
   {
-    "name": "ziemassvētki",
-    "query": "ziemassvētki",
+    "name": "Florida",
+    "query": "Florida",
     "rank": 1,
+    "tweet_count": "109K Tweets"
+  },
+  {
+    "name": "Ziemassvētki",
+    "query": "Ziemassvētki",
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "dobelē",
     "query": "dobelē",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "Aldi",
-    "query": "Aldi",
     "rank": 3,
-    "tweet_count": "27.8K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Aldi",
     "query": "Aldi",
     "rank": 4,
-    "tweet_count": "27.8K Tweets"
+    "tweet_count": "28K Tweets"
+  },
+  {
+    "name": "Aldi",
+    "query": "Aldi",
+    "rank": 5,
+    "tweet_count": "28K Tweets"
   },
   {
     "name": "valmierā",
     "query": "valmierā",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "danilāns",
-    "query": "danilāns",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,14 +42,14 @@
     "tweet_count": null
   },
   {
-    "name": "krievija",
-    "query": "krievija",
+    "name": "danilāns",
+    "query": "danilāns",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "#лигачемпионов",
-    "query": "#лигачемпионов",
+    "name": "krievija",
+    "query": "krievija",
     "rank": 9,
     "tweet_count": null
   },
@@ -57,41 +57,41 @@
     "name": "Moderna",
     "query": "Moderna",
     "rank": 10,
-    "tweet_count": "63.8K Tweets"
+    "tweet_count": "64.2K Tweets"
   },
   {
-    "name": "Rimi",
-    "query": "Rimi",
+    "name": "rimi",
+    "query": "rimi",
     "rank": 11,
-    "tweet_count": "2,638 Tweets"
+    "tweet_count": "2,658 Tweets"
   },
   {
     "name": "Pfizer",
     "query": "Pfizer",
     "rank": 12,
-    "tweet_count": "398K Tweets"
+    "tweet_count": "401K Tweets"
   },
   {
     "name": "Gada",
     "query": "Gada",
     "rank": 13,
-    "tweet_count": "20.6K Tweets"
+    "tweet_count": "20.7K Tweets"
   },
   {
     "name": "Putin",
     "query": "Putin",
     "rank": 14,
-    "tweet_count": "126K Tweets"
+    "tweet_count": "127K Tweets"
   },
   {
     "name": "Christmas",
     "query": "Christmas",
     "rank": 15,
-    "tweet_count": "1.62M Tweets"
+    "tweet_count": "1.63M Tweets"
   },
   {
-    "name": "Vāciju",
-    "query": "Vāciju",
+    "name": "vāciju",
+    "query": "vāciju",
     "rank": 16,
     "tweet_count": null
   },
@@ -105,12 +105,18 @@
     "name": "alda",
     "query": "alda",
     "rank": 18,
-    "tweet_count": "1,086 Tweets"
+    "tweet_count": "1,094 Tweets"
   },
   {
     "name": "Armani",
     "query": "Armani",
     "rank": 19,
-    "tweet_count": "4,085 Tweets"
+    "tweet_count": "4,095 Tweets"
+  },
+  {
+    "name": "vienu",
+    "query": "vienu",
+    "rank": 20,
+    "tweet_count": null
   }
 ]
