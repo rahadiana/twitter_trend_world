@@ -6,14 +6,14 @@
     "tweet_count": null
   },
   {
-    "name": "Sam Hallam",
-    "query": "\"Sam Hallam\"",
+    "name": "Tre Kronor",
+    "query": "\"Tre Kronor\"",
     "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "Tre Kronor",
-    "query": "\"Tre Kronor\"",
+    "name": "Sam Hallam",
+    "query": "\"Sam Hallam\"",
     "rank": 3,
     "tweet_count": null
   },
@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "Raubtier",
-    "query": "Raubtier",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
     "name": "Europa League",
     "query": "\"Europa League\"",
+    "rank": 5,
+    "tweet_count": "312K Tweets"
+  },
+  {
+    "name": "Raubtier",
+    "query": "Raubtier",
     "rank": 6,
-    "tweet_count": "310K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Engelska",
@@ -63,7 +63,7 @@
     "name": "Greenwood",
     "query": "Greenwood",
     "rank": 11,
-    "tweet_count": "41.3K Tweets"
+    "tweet_count": "41.4K Tweets"
   },
   {
     "name": "lucka 8",
@@ -78,39 +78,39 @@
     "tweet_count": null
   },
   {
-    "name": "Växjö",
-    "query": "Växjö",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
     "name": "#RLCS",
     "query": "#RLCS",
-    "rank": 15,
-    "tweet_count": "5,712 Tweets"
+    "rank": 14,
+    "tweet_count": "5,746 Tweets"
   },
   {
     "name": "Pernilla",
     "query": "Pernilla",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Zenit",
     "query": "Zenit",
-    "rank": 17,
-    "tweet_count": "45.2K Tweets"
+    "rank": 16,
+    "tweet_count": "45.3K Tweets"
   },
   {
     "name": "#ZenChe",
     "query": "#ZenChe",
-    "rank": 18,
-    "tweet_count": "29.9K Tweets"
+    "rank": 17,
+    "tweet_count": "30K Tweets"
   },
   {
     "name": "björn olsen",
     "query": "\"björn olsen\"",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "colak",
+    "query": "colak",
+    "rank": 19,
+    "tweet_count": "1,004 Tweets"
   }
 ]

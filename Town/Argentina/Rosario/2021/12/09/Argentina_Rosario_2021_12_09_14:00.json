@@ -3,19 +3,19 @@
     "name": "Coldplay",
     "query": "Coldplay",
     "rank": 1,
-    "tweet_count": "20.4K Tweets"
-  },
-  {
-    "name": "#ReservaLPF",
-    "query": "#ReservaLPF",
-    "rank": 2,
-    "tweet_count": null
+    "tweet_count": "21K Tweets"
   },
   {
     "name": "Emilia",
     "query": "Emilia",
+    "rank": 2,
+    "tweet_count": "59.2K Tweets"
+  },
+  {
+    "name": "#ReservaLPF",
+    "query": "#ReservaLPF",
     "rank": 3,
-    "tweet_count": "58.3K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#QuieroLaDeColon",
@@ -27,13 +27,13 @@
     "name": "#BuenJueves",
     "query": "#BuenJueves",
     "rank": 5,
-    "tweet_count": "2,015 Tweets"
+    "tweet_count": "2,096 Tweets"
   },
   {
     "name": "AllAccess",
     "query": "AllAccess",
     "rank": 6,
-    "tweet_count": "1,569 Tweets"
+    "tweet_count": "25.4K Tweets"
   },
   {
     "name": "#ElClubDelMoro",
@@ -42,16 +42,16 @@
     "tweet_count": null
   },
   {
-    "name": "Hawaii",
-    "query": "Hawaii",
+    "name": "La Mona",
+    "query": "\"La Mona\"",
     "rank": 8,
-    "tweet_count": "140K Tweets"
+    "tweet_count": "2,563 Tweets"
   },
   {
-    "name": "#ComoTeDueleLaCola",
-    "query": "#ComoTeDueleLaCola",
+    "name": "Myriam",
+    "query": "Myriam",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "4,444 Tweets"
   },
   {
     "name": "Gabriela Cerruti",
@@ -60,63 +60,63 @@
     "tweet_count": null
   },
   {
+    "name": "#ComoTeDueleLaCola",
+    "query": "#ComoTeDueleLaCola",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
     "name": "Samsung",
     "query": "Samsung",
-    "rank": 11,
-    "tweet_count": "213K Tweets"
-  },
-  {
-    "name": "La Mona",
-    "query": "\"La Mona\"",
     "rank": 12,
-    "tweet_count": "2,506 Tweets"
+    "tweet_count": "222K Tweets"
   },
   {
-    "name": "Myriam",
-    "query": "Myriam",
+    "name": "Hawaii",
+    "query": "Hawaii",
     "rank": 13,
-    "tweet_count": "4,370 Tweets"
+    "tweet_count": "143K Tweets"
   },
   {
     "name": "HERMOSA MAÑANA VERDAD",
     "query": "\"HERMOSA MAÑANA VERDAD\"",
     "rank": 14,
-    "tweet_count": "2,116 Tweets"
+    "tweet_count": "2,182 Tweets"
   },
   {
     "name": "Felices 3",
     "query": "\"Felices 3\"",
     "rank": 15,
-    "tweet_count": "6,146 Tweets"
+    "tweet_count": "6,212 Tweets"
   },
   {
     "name": "jaehyun",
     "query": "jaehyun",
     "rank": 16,
-    "tweet_count": "317K Tweets"
+    "tweet_count": "336K Tweets"
   },
   {
     "name": "Feliz 9",
     "query": "\"Feliz 9\"",
     "rank": 17,
-    "tweet_count": "8,859 Tweets"
-  },
-  {
-    "name": "Milagro Sala",
-    "query": "\"Milagro Sala\"",
-    "rank": 18,
-    "tweet_count": "4,125 Tweets"
+    "tweet_count": "9,048 Tweets"
   },
   {
     "name": "Neymar",
     "query": "Neymar",
-    "rank": 19,
-    "tweet_count": "24K Tweets"
+    "rank": 18,
+    "tweet_count": "24.5K Tweets"
   },
   {
-    "name": "Corrupción",
-    "query": "Corrupción",
+    "name": "Milagro Sala",
+    "query": "\"Milagro Sala\"",
+    "rank": 19,
+    "tweet_count": "4,357 Tweets"
+  },
+  {
+    "name": "Pudiste",
+    "query": "Pudiste",
     "rank": 20,
-    "tweet_count": "123K Tweets"
+    "tweet_count": "3,049 Tweets"
   }
 ]
