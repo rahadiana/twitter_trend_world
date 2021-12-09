@@ -1,116 +1,122 @@
 [
   {
+    "name": "Wolves",
+    "query": "Wolves",
+    "rank": 1,
+    "tweet_count": "32.4K Tweets"
+  },
+  {
     "name": "Jazz",
     "query": "Jazz",
-    "rank": 1,
-    "tweet_count": "38.1K Tweets"
+    "rank": 2,
+    "tweet_count": "39.1K Tweets"
   },
   {
     "name": "#AEWDynamite",
     "query": "#AEWDynamite",
-    "rank": 2,
-    "tweet_count": "44.7K Tweets"
+    "rank": 3,
+    "tweet_count": "46.9K Tweets"
   },
   {
     "name": "#SistasOnBET",
     "query": "#SistasOnBET",
-    "rank": 3,
-    "tweet_count": "11.6K Tweets"
+    "rank": 4,
+    "tweet_count": "12.7K Tweets"
   },
   {
     "name": "#RHOC",
     "query": "#RHOC",
-    "rank": 4,
-    "tweet_count": "6,565 Tweets"
+    "rank": 5,
+    "tweet_count": "7,036 Tweets"
   },
   {
     "name": "Caleb Martin",
     "query": "\"Caleb Martin\"",
-    "rank": 5,
-    "tweet_count": "3,442 Tweets"
+    "rank": 6,
+    "tweet_count": "5,133 Tweets"
   },
   {
     "name": "#Survivor",
     "query": "#Survivor",
-    "rank": 6,
-    "tweet_count": "7,100 Tweets"
+    "rank": 7,
+    "tweet_count": "7,338 Tweets"
+  },
+  {
+    "name": "#HEATCulture",
+    "query": "#HEATCulture",
+    "rank": 8,
+    "tweet_count": "3,408 Tweets"
+  },
+  {
+    "name": "Lowry",
+    "query": "Lowry",
+    "rank": 9,
+    "tweet_count": "3,750 Tweets"
   },
   {
     "name": "Kuzma",
     "query": "Kuzma",
-    "rank": 7,
-    "tweet_count": "3,061 Tweets"
-  },
-  {
-    "name": "Gina",
-    "query": "Gina",
-    "rank": 8,
-    "tweet_count": "15.3K Tweets"
+    "rank": 10,
+    "tweet_count": "3,553 Tweets"
   },
   {
     "name": "PJ Tucker",
     "query": "\"PJ Tucker\"",
-    "rank": 9,
+    "rank": 11,
     "tweet_count": null
-  },
-  {
-    "name": "Evan Mobley",
-    "query": "\"Evan Mobley\"",
-    "rank": 10,
-    "tweet_count": "3,680 Tweets"
   },
   {
     "name": "Hook",
     "query": "Hook",
-    "rank": 11,
-    "tweet_count": "38.9K Tweets"
+    "rank": 12,
+    "tweet_count": "40.1K Tweets"
+  },
+  {
+    "name": "Evan Mobley",
+    "query": "\"Evan Mobley\"",
+    "rank": 13,
+    "tweet_count": "3,934 Tweets"
+  },
+  {
+    "name": "Acevedo",
+    "query": "Acevedo",
+    "rank": 14,
+    "tweet_count": "5,964 Tweets"
+  },
+  {
+    "name": "Garrison Mathews",
+    "query": "\"Garrison Mathews\"",
+    "rank": 15,
+    "tweet_count": "1,165 Tweets"
+  },
+  {
+    "name": "Mobley",
+    "query": "Mobley",
+    "rank": 16,
+    "tweet_count": "7,184 Tweets"
+  },
+  {
+    "name": "Andi",
+    "query": "Andi",
+    "rank": 17,
+    "tweet_count": "13.2K Tweets"
+  },
+  {
+    "name": "Garry Bird",
+    "query": "\"Garry Bird\"",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Eric Gordon",
+    "query": "\"Eric Gordon\"",
+    "rank": 19,
+    "tweet_count": "1,088 Tweets"
   },
   {
     "name": "UConn",
     "query": "UConn",
-    "rank": 12,
-    "tweet_count": "5,295 Tweets"
-  },
-  {
-    "name": "Embiid",
-    "query": "Embiid",
-    "rank": 13,
-    "tweet_count": "5,361 Tweets"
-  },
-  {
-    "name": "Sam Kerr",
-    "query": "\"Sam Kerr\"",
-    "rank": 14,
-    "tweet_count": "5,668 Tweets"
-  },
-  {
-    "name": "Wil Wheaton",
-    "query": "\"Wil Wheaton\"",
-    "rank": 15,
-    "tweet_count": "1,942 Tweets"
-  },
-  {
-    "name": "Indiana",
-    "query": "Indiana",
-    "rank": 16,
-    "tweet_count": "18K Tweets"
-  },
-  {
-    "name": "Beal",
-    "query": "Beal",
-    "rank": 17,
-    "tweet_count": "3,759 Tweets"
-  },
-  {
-    "name": "Kickstarter",
-    "query": "Kickstarter",
-    "rank": 18,
-    "tweet_count": "85.7K Tweets"
-  },
-  {
-    "name": "Josh Christopher",
-    "query": "\"Josh Christopher\"",
-    "rank": 19,
-    "tweet_count": "1,148 Tweets"
+    "rank": 20,
+    "tweet_count": "5,468 Tweets"
   }
 ]
