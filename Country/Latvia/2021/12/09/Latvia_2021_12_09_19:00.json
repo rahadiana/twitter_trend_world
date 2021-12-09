@@ -1,39 +1,39 @@
 [
   {
-    "name": "Florida",
-    "query": "Florida",
+    "name": "valmierā",
+    "query": "valmierā",
     "rank": 1,
-    "tweet_count": "114K Tweets"
-  },
-  {
-    "name": "pmlp",
-    "query": "pmlp",
-    "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "valmierā",
-    "query": "valmierā",
-    "rank": 3,
+    "name": "PMLP",
+    "query": "PMLP",
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "ziemassvētki",
     "query": "ziemassvētki",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "danilāns",
     "query": "danilāns",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Modernas",
     "query": "Modernas",
+    "rank": 5,
+    "tweet_count": "1,543 Tweets"
+  },
+  {
+    "name": "tāpat",
+    "query": "tāpat",
     "rank": 6,
-    "tweet_count": "1,533 Tweets"
+    "tweet_count": "1,094 Tweets"
   },
   {
     "name": "Satversmes",
@@ -42,26 +42,26 @@
     "tweet_count": null
   },
   {
-    "name": "tāpat",
-    "query": "tāpat",
-    "rank": 8,
-    "tweet_count": "1,083 Tweets"
-  },
-  {
     "name": "Ķekavas",
     "query": "Ķekavas",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Aldi",
     "query": "Aldi",
-    "rank": 10,
-    "tweet_count": "29.2K Tweets"
+    "rank": 9,
+    "tweet_count": "29.4K Tweets"
   },
   {
-    "name": "Vāciju",
-    "query": "Vāciju",
+    "name": "Florida",
+    "query": "Florida",
+    "rank": 10,
+    "tweet_count": "115K Tweets"
+  },
+  {
+    "name": "vāciju",
+    "query": "vāciju",
     "rank": 11,
     "tweet_count": null
   },
@@ -84,22 +84,22 @@
     "tweet_count": null
   },
   {
-    "name": "ukrainu",
-    "query": "ukrainu",
+    "name": "Ukrainu",
+    "query": "Ukrainu",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "latvijas radio",
-    "query": "\"latvijas radio\"",
+    "name": "Latvijas Radio",
+    "query": "\"Latvijas Radio\"",
     "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "#ЛигаЧемпионов",
-    "query": "#ЛигаЧемпионов",
+    "name": "#straykids",
+    "query": "#straykids",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "1.27M Tweets"
   },
   {
     "name": "Grūti",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "#straykids",
-    "query": "#straykids",
-    "rank": 19,
-    "tweet_count": "1.26M Tweets"
-  },
-  {
     "name": "Diez",
     "query": "Diez",
+    "rank": 19,
+    "tweet_count": "18.1K Tweets"
+  },
+  {
+    "name": "Vācijas",
+    "query": "Vācijas",
     "rank": 20,
-    "tweet_count": "18K Tweets"
+    "tweet_count": null
   }
 ]
