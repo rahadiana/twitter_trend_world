@@ -3,19 +3,19 @@
     "name": "Florida",
     "query": "Florida",
     "rank": 1,
-    "tweet_count": "107K Tweets"
+    "tweet_count": "108K Tweets"
   },
   {
     "name": "Aldi",
     "query": "Aldi",
     "rank": 2,
-    "tweet_count": "28.3K Tweets"
+    "tweet_count": "28.7K Tweets"
   },
   {
     "name": "Aldi",
     "query": "Aldi",
     "rank": 3,
-    "tweet_count": "28.3K Tweets"
+    "tweet_count": "28.7K Tweets"
   },
   {
     "name": "valmierā",
@@ -33,7 +33,7 @@
     "name": "Modernas",
     "query": "Modernas",
     "rank": 6,
-    "tweet_count": "1,111 Tweets"
+    "tweet_count": "1,145 Tweets"
   },
   {
     "name": "danilāns",
@@ -42,28 +42,28 @@
     "tweet_count": null
   },
   {
-    "name": "Ziemassvētki",
-    "query": "Ziemassvētki",
+    "name": "ziemassvētki",
+    "query": "ziemassvētki",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Tāpat",
-    "query": "Tāpat",
+    "name": "tāpat",
+    "query": "tāpat",
     "rank": 9,
-    "tweet_count": "1,063 Tweets"
+    "tweet_count": "1,075 Tweets"
   },
   {
-    "name": "rīga",
-    "query": "rīga",
+    "name": "Alda",
+    "query": "Alda",
     "rank": 10,
-    "tweet_count": "1,729 Tweets"
+    "tweet_count": "1,113 Tweets"
   },
   {
     "name": "Diez",
     "query": "Diez",
     "rank": 11,
-    "tweet_count": "19.1K Tweets"
+    "tweet_count": "19.3K Tweets"
   },
   {
     "name": "liepājas",
@@ -72,22 +72,22 @@
     "tweet_count": null
   },
   {
-    "name": "Alda",
-    "query": "Alda",
-    "rank": 13,
-    "tweet_count": "1,100 Tweets"
-  },
-  {
     "name": "Pfizer",
     "query": "Pfizer",
-    "rank": 14,
-    "tweet_count": "399K Tweets"
+    "rank": 13,
+    "tweet_count": "402K Tweets"
   },
   {
     "name": "#kasnotieklatvijā",
     "query": "#kasnotieklatvijā",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
+  },
+  {
+    "name": "#COVID19",
+    "query": "#COVID19",
+    "rank": 15,
+    "tweet_count": "158K Tweets"
   },
   {
     "name": "Vāciju",
@@ -108,9 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "Krievija",
-    "query": "Krievija",
+    "name": "Starp",
+    "query": "Starp",
     "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "krievija",
+    "query": "krievija",
+    "rank": 20,
     "tweet_count": null
   }
 ]
