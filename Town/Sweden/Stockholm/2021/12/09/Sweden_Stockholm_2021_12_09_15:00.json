@@ -6,34 +6,34 @@
     "tweet_count": null
   },
   {
-    "name": "tre kronor",
-    "query": "\"tre kronor\"",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
     "name": "Sam Hallam",
     "query": "\"Sam Hallam\"",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Ygeman",
     "query": "Ygeman",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Afghanistan",
     "query": "Afghanistan",
+    "rank": 4,
+    "tweet_count": "54K Tweets"
+  },
+  {
+    "name": "Tre Kronor",
+    "query": "\"Tre Kronor\"",
     "rank": 5,
-    "tweet_count": "53.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Europa League",
     "query": "\"Europa League\"",
     "rank": 6,
-    "tweet_count": "315K Tweets"
+    "tweet_count": "316K Tweets"
   },
   {
     "name": "raubtier",
@@ -54,69 +54,69 @@
     "tweet_count": null
   },
   {
+    "name": "arnstad",
+    "query": "arnstad",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
     "name": "#nejtillvaccinpass",
     "query": "#nejtillvaccinpass",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Internationella",
     "query": "Internationella",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Greenwood",
     "query": "Greenwood",
-    "rank": 12,
-    "tweet_count": "41.6K Tweets"
+    "rank": 13,
+    "tweet_count": "41.7K Tweets"
   },
   {
     "name": "lucka 8",
     "query": "\"lucka 8\"",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "jvm-truppen",
     "query": "jvm-truppen",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Barca",
-    "query": "Barca",
     "rank": 15,
-    "tweet_count": "481K Tweets"
-  },
-  {
-    "name": "#RLCS",
-    "query": "#RLCS",
-    "rank": 16,
-    "tweet_count": "4,904 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Pernilla",
     "query": "Pernilla",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Zenit",
     "query": "Zenit",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": "45.2K Tweets"
   },
   {
     "name": "#ZENCHE",
     "query": "#ZENCHE",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": "29.9K Tweets"
   },
   {
     "name": "Magdalena Andersson",
     "query": "\"Magdalena Andersson\"",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "#RLCS",
+    "query": "#RLCS",
+    "rank": 20,
+    "tweet_count": "4,954 Tweets"
   }
 ]
