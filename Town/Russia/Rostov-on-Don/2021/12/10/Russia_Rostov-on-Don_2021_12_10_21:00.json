@@ -1,9 +1,9 @@
 [
   {
-    "name": "Сокуров",
-    "query": "Сокуров",
+    "name": "сокуров",
+    "query": "сокуров",
     "rank": 1,
-    "tweet_count": "5,033 Tweets"
+    "tweet_count": "5,086 Tweets"
   },
   {
     "name": "#голос10",
@@ -15,65 +15,65 @@
     "name": "#BadBuddySeriesEP7",
     "query": "#BadBuddySeriesEP7",
     "rank": 3,
-    "tweet_count": "809K Tweets"
+    "tweet_count": "811K Tweets"
+  },
+  {
+    "name": "ассанжа",
+    "query": "ассанжа",
+    "rank": 4,
+    "tweet_count": "4,187 Tweets"
+  },
+  {
+    "name": "#биатлон",
+    "query": "#биатлон",
+    "rank": 5,
+    "tweet_count": null
   },
   {
     "name": "#straykids",
     "query": "#straykids",
-    "rank": 4,
-    "tweet_count": "1.46M Tweets"
-  },
-  {
-    "name": "Ассанжа",
-    "query": "Ассанжа",
-    "rank": 5,
-    "tweet_count": "4,160 Tweets"
+    "rank": 6,
+    "tweet_count": "1.47M Tweets"
   },
   {
     "name": "mean fi",
     "query": "\"mean fi\"",
-    "rank": 6,
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Муратова",
     "query": "Муратова",
-    "rank": 7,
-    "tweet_count": "2,152 Tweets"
+    "rank": 8,
+    "tweet_count": "2,180 Tweets"
   },
   {
     "name": "#TheGameAwards",
     "query": "#TheGameAwards",
-    "rank": 8,
-    "tweet_count": "509K Tweets"
+    "rank": 9,
+    "tweet_count": "510K Tweets"
   },
   {
     "name": "Маргарита",
     "query": "Маргарита",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Желтенькая",
     "query": "Желтенькая",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "It Takes Two",
     "query": "\"It Takes Two\"",
-    "rank": 11,
-    "tweet_count": "64.1K Tweets"
+    "rank": 12,
+    "tweet_count": "64.3K Tweets"
   },
   {
     "name": "Керченского",
     "query": "Керченского",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Жёлтый",
-    "query": "Жёлтый",
     "rank": 13,
     "tweet_count": null
   },
@@ -84,33 +84,39 @@
     "tweet_count": "34.3K Tweets"
   },
   {
+    "name": "Жёлтый",
+    "query": "Жёлтый",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Донбассу",
+    "query": "Донбассу",
+    "rank": 16,
+    "tweet_count": "1,014 Tweets"
+  },
+  {
     "name": "Росгвардии",
     "query": "Росгвардии",
-    "rank": 15,
-    "tweet_count": "1,271 Tweets"
-  },
-  {
-    "name": "донбассу",
-    "query": "донбассу",
-    "rank": 16,
-    "tweet_count": "1,004 Tweets"
-  },
-  {
-    "name": "селихова",
-    "query": "селихова",
     "rank": 17,
+    "tweet_count": "1,281 Tweets"
+  },
+  {
+    "name": "Нобелевскую",
+    "query": "Нобелевскую",
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "дню героев отечества",
     "query": "\"дню героев отечества\"",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "барбара",
-    "query": "барбара",
-    "rank": 19,
+    "name": "дню конституции",
+    "query": "\"дню конституции\"",
+    "rank": 20,
     "tweet_count": null
   }
 ]
