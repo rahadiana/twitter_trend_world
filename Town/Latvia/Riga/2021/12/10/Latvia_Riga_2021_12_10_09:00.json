@@ -6,22 +6,22 @@
     "tweet_count": null
   },
   {
+    "name": "Liels",
+    "query": "Liels",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
     "name": "PMLP",
     "query": "PMLP",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Aldi",
     "query": "Aldi",
-    "rank": 3,
-    "tweet_count": "29.6K Tweets"
-  },
-  {
-    "name": "Liels",
-    "query": "Liels",
     "rank": 4,
-    "tweet_count": null
+    "tweet_count": "29.8K Tweets"
   },
   {
     "name": "Ķekavas",
@@ -33,7 +33,7 @@
     "name": "Tāpat",
     "query": "Tāpat",
     "rank": 6,
-    "tweet_count": "1,288 Tweets"
+    "tweet_count": "1,296 Tweets"
   },
   {
     "name": "krievijas",
@@ -45,17 +45,17 @@
     "name": "Lidl",
     "query": "Lidl",
     "rank": 8,
-    "tweet_count": "2,996 Tweets"
+    "tweet_count": "3,023 Tweets"
+  },
+  {
+    "name": "COVID-19",
+    "query": "COVID-19",
+    "rank": 9,
+    "tweet_count": "366K Tweets"
   },
   {
     "name": "satversmes",
     "query": "satversmes",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "ukrainu",
-    "query": "ukrainu",
     "rank": 10,
     "tweet_count": null
   },
@@ -66,34 +66,34 @@
     "tweet_count": null
   },
   {
-    "name": "COVID-19",
-    "query": "COVID-19",
+    "name": "ukrainu",
+    "query": "ukrainu",
     "rank": 12,
-    "tweet_count": "363K Tweets"
-  },
-  {
-    "name": "Labdien",
-    "query": "Labdien",
-    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "latvijas radio",
     "query": "\"latvijas radio\"",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Kādi",
     "query": "Kādi",
+    "rank": 14,
+    "tweet_count": "2,439 Tweets"
+  },
+  {
+    "name": "Labdien",
+    "query": "Labdien",
     "rank": 15,
-    "tweet_count": "2,428 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Florida",
     "query": "Florida",
     "rank": 16,
-    "tweet_count": "101K Tweets"
+    "tweet_count": "102K Tweets"
   },
   {
     "name": "Vācijā",
@@ -108,9 +108,9 @@
     "tweet_count": null
   },
   {
-    "name": "Modernas",
-    "query": "Modernas",
+    "name": "modernas",
+    "query": "modernas",
     "rank": 19,
-    "tweet_count": "1,800 Tweets"
+    "tweet_count": "1,806 Tweets"
   }
 ]
