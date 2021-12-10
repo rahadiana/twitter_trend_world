@@ -1,21 +1,21 @@
 [
   {
-    "name": "lars høgh",
-    "query": "\"lars høgh\"",
+    "name": "Lars Høgh",
+    "query": "\"Lars Høgh\"",
     "rank": 1,
-    "tweet_count": "1,113 Tweets"
-  },
-  {
-    "name": "#TheGameAwards",
-    "query": "#TheGameAwards",
-    "rank": 2,
-    "tweet_count": "396K Tweets"
+    "tweet_count": "1,114 Tweets"
   },
   {
     "name": "#eldk",
     "query": "#eldk",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "#TheGameAwards",
+    "query": "#TheGameAwards",
+    "rank": 3,
+    "tweet_count": "401K Tweets"
   },
   {
     "name": "#ludfcm",
@@ -42,22 +42,22 @@
     "tweet_count": null
   },
   {
-    "name": "#minkkommissionen",
-    "query": "#minkkommissionen",
+    "name": "#UECL",
+    "query": "#UECL",
     "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "Mette Frederiksen",
-    "query": "\"Mette Frederiksen\"",
-    "rank": 9,
-    "tweet_count": "1,357 Tweets"
+    "tweet_count": "10.9K Tweets"
   },
   {
     "name": "Prag",
     "query": "Prag",
+    "rank": 9,
+    "tweet_count": "1,165 Tweets"
+  },
+  {
+    "name": "Mette Frederiksen",
+    "query": "\"Mette Frederiksen\"",
     "rank": 10,
-    "tweet_count": "1,151 Tweets"
+    "tweet_count": "1,359 Tweets"
   },
   {
     "name": "hedlund",
@@ -72,22 +72,22 @@
     "tweet_count": null
   },
   {
-    "name": "Berlingske Media",
-    "query": "\"Berlingske Media\"",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
     "name": "Madrid",
     "query": "Madrid",
-    "rank": 14,
-    "tweet_count": "191K Tweets"
+    "rank": 13,
+    "tweet_count": "192K Tweets"
   },
   {
-    "name": "mitid",
-    "query": "mitid",
-    "rank": 15,
+    "name": "berlingske media",
+    "query": "\"berlingske media\"",
+    "rank": 14,
     "tweet_count": null
+  },
+  {
+    "name": "Europa League",
+    "query": "\"Europa League\"",
+    "rank": 15,
+    "tweet_count": "149K Tweets"
   },
   {
     "name": "Ter Stegen",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "Europa League",
-    "query": "\"Europa League\"",
+    "name": "mitid",
+    "query": "mitid",
     "rank": 18,
-    "tweet_count": "149K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Arne",
     "query": "Arne",
     "rank": 19,
-    "tweet_count": "1,121 Tweets"
+    "tweet_count": "1,128 Tweets"
   },
   {
-    "name": "Conference League",
-    "query": "\"Conference League\"",
+    "name": "Trump",
+    "query": "Trump",
     "rank": 20,
-    "tweet_count": "17K Tweets"
+    "tweet_count": "615K Tweets"
   }
 ]
