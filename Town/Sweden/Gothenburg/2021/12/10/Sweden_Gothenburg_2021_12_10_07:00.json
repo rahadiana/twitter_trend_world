@@ -1,39 +1,39 @@
 [
   {
-    "name": "GOTY",
-    "query": "GOTY",
+    "name": "Barbara",
+    "query": "Barbara",
     "rank": 1,
-    "tweet_count": "32.5K Tweets"
+    "tweet_count": "54.7K Tweets"
   },
   {
-    "name": "barbara",
-    "query": "barbara",
+    "name": "Grattis",
+    "query": "Grattis",
     "rank": 2,
-    "tweet_count": "54.4K Tweets"
+    "tweet_count": "1,357 Tweets"
   },
   {
     "name": "Kanye",
     "query": "Kanye",
     "rank": 3,
-    "tweet_count": "211K Tweets"
+    "tweet_count": "255K Tweets"
   },
   {
     "name": "#TheGameAwards",
     "query": "#TheGameAwards",
     "rank": 4,
-    "tweet_count": "420K Tweets"
+    "tweet_count": "425K Tweets"
   },
   {
-    "name": "Grattis",
-    "query": "Grattis",
+    "name": "Volvo Cars",
+    "query": "\"Volvo Cars\"",
     "rank": 5,
-    "tweet_count": "1,321 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "It Takes Two",
-    "query": "\"It Takes Two\"",
+    "name": "Expressen",
+    "query": "Expressen",
     "rank": 6,
-    "tweet_count": "50.1K Tweets"
+    "tweet_count": "2,679 Tweets"
   },
   {
     "name": "Godmorgon",
@@ -45,17 +45,17 @@
     "name": "Drake",
     "query": "Drake",
     "rank": 8,
-    "tweet_count": "244K Tweets"
-  },
-  {
-    "name": "Volvo Cars",
-    "query": "\"Volvo Cars\"",
-    "rank": 9,
-    "tweet_count": null
+    "tweet_count": "295K Tweets"
   },
   {
     "name": "Sam Hallam",
     "query": "\"Sam Hallam\"",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Västerbotten",
+    "query": "Västerbotten",
     "rank": 10,
     "tweet_count": null
   },
@@ -66,45 +66,45 @@
     "tweet_count": null
   },
   {
-    "name": "tre kronor",
-    "query": "\"tre kronor\"",
+    "name": "Engelska",
+    "query": "Engelska",
     "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "Engelska",
-    "query": "Engelska",
+    "name": "tre kronor",
+    "query": "\"tre kronor\"",
     "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "#nejtillvaccinpass",
-    "query": "#nejtillvaccinpass",
-    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Peter Hultqvist",
     "query": "\"Peter Hultqvist\"",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
-  },
-  {
-    "name": "Expressen",
-    "query": "Expressen",
-    "rank": 16,
-    "tweet_count": "2,503 Tweets"
   },
   {
     "name": "jönssonligan",
     "query": "jönssonligan",
-    "rank": 17,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "clang",
     "query": "clang",
-    "rank": 18,
+    "rank": 16,
     "tweet_count": null
+  },
+  {
+    "name": "BJÖRK",
+    "query": "BJÖRK",
+    "rank": 17,
+    "tweet_count": "1,197 Tweets"
+  },
+  {
+    "name": "Nintendo",
+    "query": "Nintendo",
+    "rank": 18,
+    "tweet_count": "141K Tweets"
   }
 ]
