@@ -1,81 +1,81 @@
 [
   {
-    "name": "Drake",
-    "query": "Drake",
-    "rank": 1,
-    "tweet_count": "349K Tweets"
-  },
-  {
     "name": "#NEWvWEL",
     "query": "#NEWvWEL",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Drake",
+    "query": "Drake",
+    "rank": 2,
+    "tweet_count": "355K Tweets"
+  },
+  {
+    "name": "Kanye",
+    "query": "Kanye",
+    "rank": 3,
+    "tweet_count": "313K Tweets"
   },
   {
     "name": "Dustin",
     "query": "Dustin",
-    "rank": 3,
-    "tweet_count": "6,784 Tweets"
+    "rank": 4,
+    "tweet_count": "6,855 Tweets"
   },
   {
     "name": "Malan",
     "query": "Malan",
-    "rank": 4,
-    "tweet_count": "3,928 Tweets"
+    "rank": 5,
+    "tweet_count": "4,102 Tweets"
   },
   {
     "name": "Lyon",
     "query": "Lyon",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Hobart",
-    "query": "Hobart",
     "rank": 6,
-    "tweet_count": "1,625 Tweets"
+    "tweet_count": "35.6K Tweets"
   },
   {
     "name": "#CriticalRoleSpoilers",
     "query": "#CriticalRoleSpoilers",
     "rank": 7,
-    "tweet_count": "10.9K Tweets"
+    "tweet_count": "11.1K Tweets"
+  },
+  {
+    "name": "Hobart",
+    "query": "Hobart",
+    "rank": 8,
+    "tweet_count": "1,670 Tweets"
   },
   {
     "name": "#TheGameAwards",
     "query": "#TheGameAwards",
-    "rank": 8,
-    "tweet_count": "442K Tweets"
+    "rank": 9,
+    "tweet_count": "447K Tweets"
   },
   {
     "name": "#afternoonbriefing",
     "query": "#afternoonbriefing",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "#Ashes2021",
     "query": "#Ashes2021",
-    "rank": 10,
-    "tweet_count": "3,176 Tweets"
-  },
-  {
-    "name": "Knuckles",
-    "query": "Knuckles",
     "rank": 11,
-    "tweet_count": "72.4K Tweets"
+    "tweet_count": "3,310 Tweets"
   },
   {
     "name": "Sonic",
     "query": "Sonic",
     "rank": 12,
-    "tweet_count": "265K Tweets"
+    "tweet_count": "267K Tweets"
   },
   {
     "name": "Independents",
     "query": "Independents",
     "rank": 13,
-    "tweet_count": "5,546 Tweets"
+    "tweet_count": "5,649 Tweets"
   },
   {
     "name": "Shane Warne",
@@ -84,15 +84,9 @@
     "tweet_count": null
   },
   {
-    "name": "Lakers",
-    "query": "Lakers",
-    "rank": 15,
-    "tweet_count": "62K Tweets"
-  },
-  {
     "name": "#HumanRightsDay",
     "query": "#HumanRightsDay",
-    "rank": 16,
-    "tweet_count": "88.4K Tweets"
+    "rank": 15,
+    "tweet_count": "94.8K Tweets"
   }
 ]
