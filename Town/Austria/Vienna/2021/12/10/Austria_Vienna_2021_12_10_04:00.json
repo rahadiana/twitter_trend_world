@@ -1,37 +1,37 @@
 [
   {
+    "name": "#GameAwards",
+    "query": "#GameAwards",
+    "rank": 1,
+    "tweet_count": "37.8K Tweets"
+  },
+  {
     "name": "#oenr",
     "query": "#oenr",
-    "rank": 1,
-    "tweet_count": "1,053 Tweets"
+    "rank": 2,
+    "tweet_count": "1,055 Tweets"
   },
   {
     "name": "Schnee",
     "query": "Schnee",
-    "rank": 2,
-    "tweet_count": "9,484 Tweets"
+    "rank": 3,
+    "tweet_count": "9,552 Tweets"
   },
   {
-    "name": "#krcscr",
-    "query": "#krcscr",
-    "rank": 3,
+    "name": "#KRCSCR",
+    "query": "#KRCSCR",
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "#zibspezial",
     "query": "#zibspezial",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "#salsfc",
     "query": "#salsfc",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "#lobaubleibt",
-    "query": "#lobaubleibt",
     "rank": 6,
     "tweet_count": null
   },
@@ -39,17 +39,17 @@
     "name": "Rapid",
     "query": "Rapid",
     "rank": 7,
-    "tweet_count": "43K Tweets"
+    "tweet_count": "43.8K Tweets"
   },
   {
     "name": "pressekonferenz",
     "query": "pressekonferenz",
     "rank": 8,
-    "tweet_count": "1,662 Tweets"
+    "tweet_count": "1,668 Tweets"
   },
   {
-    "name": "atempause",
-    "query": "atempause",
+    "name": "Atempause",
+    "query": "Atempause",
     "rank": 9,
     "tweet_count": null
   },
@@ -78,45 +78,45 @@
     "tweet_count": null
   },
   {
-    "name": "Barcelona",
-    "query": "Barcelona",
-    "rank": 14,
-    "tweet_count": "178K Tweets"
-  },
-  {
     "name": "Polizist",
     "query": "Polizist",
-    "rank": 15,
-    "tweet_count": "1,452 Tweets"
+    "rank": 14,
+    "tweet_count": "1,461 Tweets"
   },
   {
-    "name": "Großteil",
-    "query": "Großteil",
-    "rank": 16,
+    "name": "großteil",
+    "query": "großteil",
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "häuser",
     "query": "häuser",
-    "rank": 17,
-    "tweet_count": "1,257 Tweets"
+    "rank": 16,
+    "tweet_count": "1,262 Tweets"
   },
   {
-    "name": "erwachsenen",
-    "query": "erwachsenen",
-    "rank": 18,
+    "name": "Erwachsenen",
+    "query": "Erwachsenen",
+    "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "gastro",
-    "query": "gastro",
-    "rank": 19,
-    "tweet_count": "2,183 Tweets"
+    "name": "Gastro",
+    "query": "Gastro",
+    "rank": 18,
+    "tweet_count": "2,199 Tweets"
   },
   {
     "name": "Eric",
     "query": "Eric",
+    "rank": 19,
+    "tweet_count": "145K Tweets"
+  },
+  {
+    "name": "Feiertag",
+    "query": "Feiertag",
     "rank": 20,
-    "tweet_count": "143K Tweets"
+    "tweet_count": null
   }
 ]
