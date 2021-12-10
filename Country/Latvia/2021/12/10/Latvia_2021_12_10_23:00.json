@@ -1,7 +1,7 @@
 [
   {
-    "name": "Pasaules",
-    "query": "Pasaules",
+    "name": "pasaules",
+    "query": "pasaules",
     "rank": 1,
     "tweet_count": null
   },
@@ -12,26 +12,26 @@
     "tweet_count": null
   },
   {
-    "name": "ministru",
-    "query": "ministru",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
     "name": "pmlp",
     "query": "pmlp",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "liels",
     "query": "liels",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Varbūt",
     "query": "Varbūt",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "ministru",
+    "query": "ministru",
     "rank": 6,
     "tweet_count": null
   },
@@ -54,8 +54,8 @@
     "tweet_count": "25.7K Tweets"
   },
   {
-    "name": "lietuvu",
-    "query": "lietuvu",
+    "name": "Lietuvu",
+    "query": "Lietuvu",
     "rank": 10,
     "tweet_count": null
   },
@@ -72,51 +72,51 @@
     "tweet_count": null
   },
   {
-    "name": "China",
-    "query": "China",
+    "name": "Tāpat",
+    "query": "Tāpat",
     "rank": 13,
-    "tweet_count": "282K Tweets"
+    "tweet_count": "1,278 Tweets"
   },
   {
-    "name": "tāpat",
-    "query": "tāpat",
+    "name": "Christmas",
+    "query": "Christmas",
     "rank": 14,
-    "tweet_count": "1,276 Tweets"
+    "tweet_count": "1.62M Tweets"
   },
   {
     "name": "Florida",
     "query": "Florida",
     "rank": 15,
-    "tweet_count": "92.9K Tweets"
-  },
-  {
-    "name": "Christmas",
-    "query": "Christmas",
-    "rank": 16,
-    "tweet_count": "1.61M Tweets"
-  },
-  {
-    "name": "Varētu",
-    "query": "Varētu",
-    "rank": 17,
-    "tweet_count": null
+    "tweet_count": "93.9K Tweets"
   },
   {
     "name": "Vismaz",
     "query": "Vismaz",
-    "rank": 18,
+    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "šogad",
-    "query": "šogad",
-    "rank": 19,
+    "name": "varētu",
+    "query": "varētu",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Šogad",
+    "query": "Šogad",
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Modernas",
     "query": "Modernas",
+    "rank": 19,
+    "tweet_count": "1,136 Tweets"
+  },
+  {
+    "name": "tiešām",
+    "query": "tiešām",
     "rank": 20,
-    "tweet_count": "1,134 Tweets"
+    "tweet_count": null
   }
 ]
