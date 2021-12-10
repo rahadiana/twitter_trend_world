@@ -1,19 +1,19 @@
 [
   {
+    "name": "#nrksjakk",
+    "query": "#nrksjakk",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "#NobelPeacePrize",
     "query": "#NobelPeacePrize",
-    "rank": 1,
-    "tweet_count": "4,151 Tweets"
+    "rank": 2,
+    "tweet_count": "4,355 Tweets"
   },
   {
     "name": "Rekdal",
     "query": "Rekdal",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "#nrksjakk",
-    "query": "#nrksjakk",
     "rank": 3,
     "tweet_count": null
   },
@@ -21,7 +21,7 @@
     "name": "Assange",
     "query": "Assange",
     "rank": 4,
-    "tweet_count": "174K Tweets"
+    "tweet_count": "181K Tweets"
   },
   {
     "name": "#nrkdebatt",
@@ -42,14 +42,14 @@
     "tweet_count": null
   },
   {
-    "name": "#HumanRightsDay",
-    "query": "#HumanRightsDay",
+    "name": "Jota",
+    "query": "Jota",
     "rank": 8,
-    "tweet_count": "174K Tweets"
+    "tweet_count": "15.4K Tweets"
   },
   {
-    "name": "visjon norge",
-    "query": "\"visjon norge\"",
+    "name": "Visjon Norge",
+    "query": "\"Visjon Norge\"",
     "rank": 9,
     "tweet_count": null
   },
@@ -57,13 +57,13 @@
     "name": "Maria Ressa",
     "query": "\"Maria Ressa\"",
     "rank": 10,
-    "tweet_count": "4,800 Tweets"
+    "tweet_count": "5,129 Tweets"
   },
   {
-    "name": "Jota",
-    "query": "Jota",
+    "name": "#HumanRightsDay",
+    "query": "#HumanRightsDay",
     "rank": 11,
-    "tweet_count": "15.2K Tweets"
+    "tweet_count": "177K Tweets"
   },
   {
     "name": "Nobels",
@@ -75,7 +75,7 @@
     "name": "#TheGameAwards",
     "query": "#TheGameAwards",
     "rank": 13,
-    "tweet_count": "490K Tweets"
+    "tweet_count": "492K Tweets"
   },
   {
     "name": "BankID",
@@ -84,39 +84,39 @@
     "tweet_count": null
   },
   {
-    "name": "Milos",
-    "query": "Milos",
+    "name": "Nepo",
+    "query": "Nepo",
     "rank": 15,
-    "tweet_count": "2,404 Tweets"
-  },
-  {
-    "name": "Newcastle",
-    "query": "Newcastle",
-    "rank": 16,
-    "tweet_count": "11.8K Tweets"
-  },
-  {
-    "name": "Milojevic",
-    "query": "Milojevic",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Frisk",
-    "query": "Frisk",
-    "rank": 18,
-    "tweet_count": "3,080 Tweets"
-  },
-  {
-    "name": "Puerto Rico",
-    "query": "\"Puerto Rico\"",
-    "rank": 19,
-    "tweet_count": "14.5K Tweets"
+    "tweet_count": "1,719 Tweets"
   },
   {
     "name": "Dmitry Muratov",
     "query": "\"Dmitry Muratov\"",
+    "rank": 16,
+    "tweet_count": "2,695 Tweets"
+  },
+  {
+    "name": "Magnus",
+    "query": "Magnus",
+    "rank": 17,
+    "tweet_count": "6,893 Tweets"
+  },
+  {
+    "name": "Newcastle",
+    "query": "Newcastle",
+    "rank": 18,
+    "tweet_count": "12K Tweets"
+  },
+  {
+    "name": "Milojevic",
+    "query": "Milojevic",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Milos",
+    "query": "Milos",
     "rank": 20,
-    "tweet_count": "2,567 Tweets"
+    "tweet_count": "2,450 Tweets"
   }
 ]
