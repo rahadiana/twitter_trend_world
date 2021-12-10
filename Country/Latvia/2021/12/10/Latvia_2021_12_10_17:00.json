@@ -1,51 +1,51 @@
 [
   {
-    "name": "Pasaules",
-    "query": "Pasaules",
+    "name": "pasaules",
+    "query": "pasaules",
     "rank": 1,
-    "tweet_count": null
-  },
-  {
-    "name": "Ministru",
-    "query": "Ministru",
-    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "pmlp",
     "query": "pmlp",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "liels",
     "query": "liels",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "Ziemassvētki",
-    "query": "Ziemassvētki",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Krievijas",
-    "query": "Krievijas",
-    "rank": 6,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#Crypto",
     "query": "#Crypto",
+    "rank": 4,
+    "tweet_count": "434K Tweets"
+  },
+  {
+    "name": "Ministru",
+    "query": "Ministru",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "Ziemassvētki",
+    "query": "Ziemassvētki",
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "Krievijas",
+    "query": "Krievijas",
     "rank": 7,
-    "tweet_count": "429K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Aldi",
     "query": "Aldi",
     "rank": 8,
-    "tweet_count": "25.8K Tweets"
+    "tweet_count": "26.2K Tweets"
   },
   {
     "name": "csdd",
@@ -54,68 +54,68 @@
     "tweet_count": null
   },
   {
+    "name": "Lidl",
+    "query": "Lidl",
+    "rank": 10,
+    "tweet_count": "2,661 Tweets"
+  },
+  {
     "name": "varētu",
     "query": "varētu",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "Rīgu",
-    "query": "Rīgu",
-    "rank": 11,
+    "name": "rīgu",
+    "query": "rīgu",
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "kādi",
     "query": "kādi",
-    "rank": 12,
-    "tweet_count": "2,456 Tweets"
+    "rank": 13,
+    "tweet_count": "2,481 Tweets"
   },
   {
-    "name": "Ķekavas",
-    "query": "Ķekavas",
-    "rank": 13,
+    "name": "ķekavas",
+    "query": "ķekavas",
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Florida",
     "query": "Florida",
-    "rank": 14,
-    "tweet_count": "94.8K Tweets"
+    "rank": 15,
+    "tweet_count": "96.1K Tweets"
   },
   {
     "name": "Russian",
     "query": "Russian",
-    "rank": 15,
-    "tweet_count": "79.2K Tweets"
+    "rank": 16,
+    "tweet_count": "79.8K Tweets"
   },
   {
-    "name": "Tāpat",
-    "query": "Tāpat",
-    "rank": 16,
-    "tweet_count": "1,386 Tweets"
+    "name": "tāpat",
+    "query": "tāpat",
+    "rank": 17,
+    "tweet_count": "1,391 Tweets"
   },
   {
     "name": "Modernas",
     "query": "Modernas",
-    "rank": 17,
-    "tweet_count": "1,366 Tweets"
-  },
-  {
-    "name": "Lidl",
-    "query": "Lidl",
     "rank": 18,
-    "tweet_count": "2,627 Tweets"
+    "tweet_count": "1,380 Tweets"
   },
   {
-    "name": "Eiropas Savienības",
-    "query": "\"Eiropas Savienības\"",
+    "name": "Šodien",
+    "query": "Šodien",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "piemēram",
-    "query": "piemēram",
+    "name": "Eiropas Savienības",
+    "query": "\"Eiropas Savienības\"",
     "rank": 20,
     "tweet_count": null
   }
