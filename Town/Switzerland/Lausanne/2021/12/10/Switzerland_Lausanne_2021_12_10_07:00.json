@@ -1,33 +1,33 @@
 [
   {
+    "name": "Schulen",
+    "query": "Schulen",
+    "rank": 1,
+    "tweet_count": "7,331 Tweets"
+  },
+  {
     "name": "#UECL",
     "query": "#UECL",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": "11K Tweets"
   },
   {
     "name": "Berger",
     "query": "Berger",
-    "rank": 2,
-    "tweet_count": "5,280 Tweets"
+    "rank": 3,
+    "tweet_count": "5,302 Tweets"
   },
   {
     "name": "#Elysee2022",
     "query": "#Elysee2022",
-    "rank": 3,
-    "tweet_count": "114K Tweets"
+    "rank": 4,
+    "tweet_count": "115K Tweets"
   },
   {
     "name": "#TheGameAwards",
     "query": "#TheGameAwards",
-    "rank": 4,
-    "tweet_count": "425K Tweets"
-  },
-  {
-    "name": "Schulen",
-    "query": "Schulen",
     "rank": 5,
-    "tweet_count": "7,283 Tweets"
+    "tweet_count": "426K Tweets"
   },
   {
     "name": "Weihnachtsferien",
@@ -39,66 +39,66 @@
     "name": "Verlauf",
     "query": "Verlauf",
     "rank": 7,
-    "tweet_count": "3,509 Tweets"
+    "tweet_count": "3,545 Tweets"
+  },
+  {
+    "name": "Genève",
+    "query": "Genève",
+    "rank": 8,
+    "tweet_count": "1,071 Tweets"
   },
   {
     "name": "Tanguy",
     "query": "Tanguy",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": "24.8K Tweets"
   },
   {
     "name": "Ter Stegen",
     "query": "\"Ter Stegen\"",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": "12.2K Tweets"
   },
   {
     "name": "Isolation",
     "query": "Isolation",
-    "rank": 10,
-    "tweet_count": "24.9K Tweets"
-  },
-  {
-    "name": "Evidenz",
-    "query": "Evidenz",
     "rank": 11,
-    "tweet_count": "1,274 Tweets"
-  },
-  {
-    "name": "Mitleid",
-    "query": "Mitleid",
-    "rank": 12,
-    "tweet_count": "1,159 Tweets"
-  },
-  {
-    "name": "guillermo fernandez",
-    "query": "\"guillermo fernandez\"",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Hidalgo",
-    "query": "Hidalgo",
-    "rank": 14,
-    "tweet_count": "46.9K Tweets"
-  },
-  {
-    "name": "Mitglied",
-    "query": "Mitglied",
-    "rank": 15,
-    "tweet_count": "1,131 Tweets"
+    "tweet_count": "25K Tweets"
   },
   {
     "name": "Kanye",
     "query": "Kanye",
-    "rank": 16,
-    "tweet_count": "255K Tweets"
+    "rank": 12,
+    "tweet_count": "269K Tweets"
   },
   {
-    "name": "ignazio",
-    "query": "ignazio",
-    "rank": 17,
+    "name": "Evidenz",
+    "query": "Evidenz",
+    "rank": 13,
+    "tweet_count": "1,282 Tweets"
+  },
+  {
+    "name": "Mitleid",
+    "query": "Mitleid",
+    "rank": 14,
+    "tweet_count": "1,163 Tweets"
+  },
+  {
+    "name": "guillermo fernandez",
+    "query": "\"guillermo fernandez\"",
+    "rank": 15,
     "tweet_count": null
+  },
+  {
+    "name": "Raum",
+    "query": "Raum",
+    "rank": 16,
+    "tweet_count": "2,300 Tweets"
+  },
+  {
+    "name": "Hidalgo",
+    "query": "Hidalgo",
+    "rank": 17,
+    "tweet_count": "47.1K Tweets"
   }
 ]
