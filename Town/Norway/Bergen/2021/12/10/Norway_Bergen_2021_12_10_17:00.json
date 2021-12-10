@@ -6,16 +6,16 @@
     "tweet_count": null
   },
   {
-    "name": "Magnus Carlsen",
-    "query": "\"Magnus Carlsen\"",
-    "rank": 2,
-    "tweet_count": "3,180 Tweets"
-  },
-  {
     "name": "#NobelPeacePrize",
     "query": "#NobelPeacePrize",
+    "rank": 2,
+    "tweet_count": "6,357 Tweets"
+  },
+  {
+    "name": "Magnus Carlsen",
+    "query": "\"Magnus Carlsen\"",
     "rank": 3,
-    "tweet_count": "6,145 Tweets"
+    "tweet_count": "3,485 Tweets"
   },
   {
     "name": "Rekdal",
@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "Julian Assange",
-    "query": "\"Julian Assange\"",
+    "name": "Assange",
+    "query": "Assange",
     "rank": 5,
-    "tweet_count": "149K Tweets"
+    "tweet_count": "245K Tweets"
   },
   {
     "name": "Jota",
     "query": "Jota",
     "rank": 6,
-    "tweet_count": "16.1K Tweets"
+    "tweet_count": "16.6K Tweets"
   },
   {
     "name": "#nrkdebatt",
@@ -42,8 +42,8 @@
     "tweet_count": null
   },
   {
-    "name": "eggen",
-    "query": "eggen",
+    "name": "Eggen",
+    "query": "Eggen",
     "rank": 8,
     "tweet_count": null
   },
@@ -51,23 +51,23 @@
     "name": "#HumanRightsDay",
     "query": "#HumanRightsDay",
     "rank": 9,
-    "tweet_count": "226K Tweets"
+    "tweet_count": "235K Tweets"
   },
   {
     "name": "Maria Ressa",
     "query": "\"Maria Ressa\"",
     "rank": 10,
-    "tweet_count": "7,848 Tweets"
+    "tweet_count": "8,117 Tweets"
   },
   {
     "name": "#TheGameAwards",
     "query": "#TheGameAwards",
     "rank": 11,
-    "tweet_count": "501K Tweets"
+    "tweet_count": "503K Tweets"
   },
   {
-    "name": "visjon norge",
-    "query": "\"visjon norge\"",
+    "name": "Visjon Norge",
+    "query": "\"Visjon Norge\"",
     "rank": 12,
     "tweet_count": null
   },
@@ -87,30 +87,30 @@
     "name": "Nepo",
     "query": "Nepo",
     "rank": 15,
-    "tweet_count": "2,848 Tweets"
+    "tweet_count": "2,963 Tweets"
   },
   {
     "name": "Martial",
     "query": "Martial",
     "rank": 16,
-    "tweet_count": "30.5K Tweets"
+    "tweet_count": "31.9K Tweets"
   },
   {
-    "name": "Martial",
-    "query": "Martial",
+    "name": "Newcastle",
+    "query": "Newcastle",
     "rank": 17,
-    "tweet_count": "30.5K Tweets"
-  },
-  {
-    "name": "Rosenborg",
-    "query": "Rosenborg",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "11.9K Tweets"
   },
   {
     "name": "Dmitry Muratov",
     "query": "\"Dmitry Muratov\"",
+    "rank": 18,
+    "tweet_count": "4,142 Tweets"
+  },
+  {
+    "name": "Rosenborg",
+    "query": "Rosenborg",
     "rank": 19,
-    "tweet_count": "3,985 Tweets"
+    "tweet_count": null
   }
 ]
