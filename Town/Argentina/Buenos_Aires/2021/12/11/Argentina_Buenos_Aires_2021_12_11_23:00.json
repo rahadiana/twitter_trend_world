@@ -1,63 +1,63 @@
 [
   {
+    "name": "Globo",
+    "query": "Globo",
+    "rank": 1,
+    "tweet_count": "39.5K Tweets"
+  },
+  {
     "name": "Cilindro",
     "query": "Cilindro",
-    "rank": 1,
-    "tweet_count": "1,759 Tweets"
+    "rank": 2,
+    "tweet_count": "1,823 Tweets"
   },
   {
     "name": "#NoAlFMI",
     "query": "#NoAlFMI",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "Obelisco",
-    "query": "Obelisco",
     "rank": 3,
-    "tweet_count": "10.5K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Platense",
     "query": "Platense",
     "rank": 4,
-    "tweet_count": "2,737 Tweets"
-  },
-  {
-    "name": "Carrascal",
-    "query": "Carrascal",
-    "rank": 5,
-    "tweet_count": "2,184 Tweets"
-  },
-  {
-    "name": "Julian",
-    "query": "Julian",
-    "rank": 6,
-    "tweet_count": "156K Tweets"
+    "tweet_count": "2,750 Tweets"
   },
   {
     "name": "Fontana",
     "query": "Fontana",
+    "rank": 5,
+    "tweet_count": "4,878 Tweets"
+  },
+  {
+    "name": "Carrascal",
+    "query": "Carrascal",
+    "rank": 6,
+    "tweet_count": "2,286 Tweets"
+  },
+  {
+    "name": "Julián Álvarez",
+    "query": "\"Julián Álvarez\"",
     "rank": 7,
-    "tweet_count": "2,923 Tweets"
+    "tweet_count": "3,741 Tweets"
   },
   {
     "name": "#VALORANTChampions",
     "query": "#VALORANTChampions",
     "rank": 8,
-    "tweet_count": "28.1K Tweets"
+    "tweet_count": "32.1K Tweets"
   },
   {
     "name": "Palavecino",
     "query": "Palavecino",
     "rank": 9,
-    "tweet_count": "1,047 Tweets"
+    "tweet_count": "1,175 Tweets"
   },
   {
     "name": "Vigo",
     "query": "Vigo",
     "rank": 10,
-    "tweet_count": "5,393 Tweets"
+    "tweet_count": "5,449 Tweets"
   },
   {
     "name": "Girotti",
@@ -75,48 +75,48 @@
     "name": "Almada",
     "query": "Almada",
     "rank": 13,
-    "tweet_count": "1,894 Tweets"
-  },
-  {
-    "name": "Sudamericana",
-    "query": "Sudamericana",
-    "rank": 14,
-    "tweet_count": "6,656 Tweets"
-  },
-  {
-    "name": "Taborda",
-    "query": "Taborda",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Colón",
-    "query": "Colón",
-    "rank": 16,
-    "tweet_count": "21.5K Tweets"
-  },
-  {
-    "name": "#quieroladeboca",
-    "query": "#quieroladeboca",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Unión",
-    "query": "Unión",
-    "rank": 18,
-    "tweet_count": "156K Tweets"
-  },
-  {
-    "name": "Coccaro",
-    "query": "Coccaro",
-    "rank": 19,
-    "tweet_count": "1,158 Tweets"
+    "tweet_count": "1,924 Tweets"
   },
   {
     "name": "#integracionharrie",
     "query": "#integracionharrie",
+    "rank": 14,
+    "tweet_count": "1,849 Tweets"
+  },
+  {
+    "name": "#quieroladeboca",
+    "query": "#quieroladeboca",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Taborda",
+    "query": "Taborda",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Sudamericana",
+    "query": "Sudamericana",
+    "rank": 17,
+    "tweet_count": "6,926 Tweets"
+  },
+  {
+    "name": "Central",
+    "query": "Central",
+    "rank": 18,
+    "tweet_count": "121K Tweets"
+  },
+  {
+    "name": "Colón",
+    "query": "Colón",
+    "rank": 19,
+    "tweet_count": "21.8K Tweets"
+  },
+  {
+    "name": "Coccaro",
+    "query": "Coccaro",
     "rank": 20,
-    "tweet_count": "1,534 Tweets"
+    "tweet_count": "1,174 Tweets"
   }
 ]
