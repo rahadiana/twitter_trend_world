@@ -1,39 +1,39 @@
 [
   {
-    "name": "#サンテレビ",
-    "query": "#サンテレビ",
-    "rank": 1,
-    "tweet_count": "1,376 Tweets"
-  },
-  {
-    "name": "グラブル",
-    "query": "グラブル",
-    "rank": 2,
-    "tweet_count": "254K Tweets"
-  },
-  {
     "name": "#SixTONESANN",
     "query": "#SixTONESANN",
-    "rank": 3,
+    "rank": 1,
     "tweet_count": "176K Tweets"
   },
   {
     "name": "#annkw",
     "query": "#annkw",
-    "rank": 4,
+    "rank": 2,
     "tweet_count": "11.8K Tweets"
   },
   {
     "name": "#ワールドトリガー",
     "query": "#ワールドトリガー",
-    "rank": 5,
+    "rank": 3,
     "tweet_count": "23.6K Tweets"
   },
   {
     "name": "#消えた初恋",
     "query": "#消えた初恋",
+    "rank": 4,
+    "tweet_count": "123K Tweets"
+  },
+  {
+    "name": "#ニコニコ15周年",
+    "query": "#ニコニコ15周年",
+    "rank": 5,
+    "tweet_count": "17.4K Tweets"
+  },
+  {
+    "name": "Acend",
+    "query": "Acend",
     "rank": 6,
-    "tweet_count": "122K Tweets"
+    "tweet_count": "3,816 Tweets"
   },
   {
     "name": "ミッフィーちゃん",
@@ -45,19 +45,19 @@
     "name": "ScreaM",
     "query": "ScreaM",
     "rank": 8,
-    "tweet_count": "58.2K Tweets"
+    "tweet_count": "58.8K Tweets"
   },
   {
     "name": "round8",
     "query": "round8",
     "rank": 9,
-    "tweet_count": "8,164 Tweets"
+    "tweet_count": "8,186 Tweets"
   },
   {
     "name": "きいちゃん",
     "query": "きいちゃん",
     "rank": 10,
-    "tweet_count": "1,865 Tweets"
+    "tweet_count": "1,880 Tweets"
   },
   {
     "name": "井田くん",
@@ -69,13 +69,13 @@
     "name": "日高さん",
     "query": "日高さん",
     "rank": 12,
-    "tweet_count": "6,652 Tweets"
+    "tweet_count": "6,664 Tweets"
   },
   {
     "name": "小南先輩",
     "query": "小南先輩",
     "rank": 13,
-    "tweet_count": "1,142 Tweets"
+    "tweet_count": "1,147 Tweets"
   },
   {
     "name": "ヌマニメーション",
@@ -99,24 +99,24 @@
     "name": "千佳ちゃん",
     "query": "千佳ちゃん",
     "rank": 17,
-    "tweet_count": "1,530 Tweets"
-  },
-  {
-    "name": "きょもじゅり",
-    "query": "きょもじゅり",
-    "rank": 18,
-    "tweet_count": "2,159 Tweets"
+    "tweet_count": "1,533 Tweets"
   },
   {
     "name": "理亞ちゃん",
     "query": "理亞ちゃん",
-    "rank": 19,
-    "tweet_count": "8,154 Tweets"
+    "rank": 18,
+    "tweet_count": "8,198 Tweets"
   },
   {
     "name": "アーセナル",
     "query": "アーセナル",
+    "rank": 19,
+    "tweet_count": "3,727 Tweets"
+  },
+  {
+    "name": "敗北ヒーロー",
+    "query": "敗北ヒーロー",
     "rank": 20,
-    "tweet_count": "3,716 Tweets"
+    "tweet_count": null
   }
 ]
