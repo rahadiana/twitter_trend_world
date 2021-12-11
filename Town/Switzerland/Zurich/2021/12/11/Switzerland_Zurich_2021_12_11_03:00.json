@@ -1,39 +1,39 @@
 [
   {
-    "name": "#srfarena",
-    "query": "#srfarena",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#HumanRightsDay",
     "query": "#HumanRightsDay",
+    "rank": 1,
+    "tweet_count": "389K Tweets"
+  },
+  {
+    "name": "#srfarena",
+    "query": "#srfarena",
     "rank": 2,
-    "tweet_count": "387K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Assange",
     "query": "#Assange",
     "rank": 3,
-    "tweet_count": "72.4K Tweets"
-  },
-  {
-    "name": "Vernehmlassung",
-    "query": "Vernehmlassung",
-    "rank": 4,
-    "tweet_count": null
+    "tweet_count": "72.6K Tweets"
   },
   {
     "name": "#SchleFaZ",
     "query": "#SchleFaZ",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": "4,329 Tweets"
+  },
+  {
+    "name": "vernehmlassung",
+    "query": "vernehmlassung",
+    "rank": 5,
+    "tweet_count": null
   },
   {
     "name": "Schnee",
     "query": "Schnee",
     "rank": 6,
-    "tweet_count": "6,443 Tweets"
+    "tweet_count": "6,452 Tweets"
   },
   {
     "name": "Konsultation",
@@ -45,7 +45,7 @@
     "name": "Kanye",
     "query": "Kanye",
     "rank": 8,
-    "tweet_count": "489K Tweets"
+    "tweet_count": "490K Tweets"
   },
   {
     "name": "Rösti",
@@ -54,14 +54,14 @@
     "tweet_count": null
   },
   {
-    "name": "Weihnachtsferien",
-    "query": "Weihnachtsferien",
+    "name": "weihnachtsferien",
+    "query": "weihnachtsferien",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Evidenz",
-    "query": "Evidenz",
+    "name": "Homeofficepflicht",
+    "query": "Homeofficepflicht",
     "rank": 11,
     "tweet_count": null
   },
@@ -69,13 +69,13 @@
     "name": "Restaurants",
     "query": "Restaurants",
     "rank": 12,
-    "tweet_count": "26K Tweets"
+    "tweet_count": "26.2K Tweets"
   },
   {
     "name": "Begründung",
     "query": "Begründung",
     "rank": 13,
-    "tweet_count": "2,453 Tweets"
+    "tweet_count": "2,456 Tweets"
   },
   {
     "name": "Lacrim",
@@ -84,8 +84,8 @@
     "tweet_count": "13.2K Tweets"
   },
   {
-    "name": "EKIF",
-    "query": "EKIF",
+    "name": "ekif",
+    "query": "ekif",
     "rank": 15,
     "tweet_count": null
   },
@@ -93,13 +93,13 @@
     "name": "Varianten",
     "query": "Varianten",
     "rank": 16,
-    "tweet_count": "1,940 Tweets"
+    "tweet_count": "1,941 Tweets"
   },
   {
     "name": "Sonic",
     "query": "Sonic",
     "rank": 17,
-    "tweet_count": "237K Tweets"
+    "tweet_count": "238K Tweets"
   },
   {
     "name": "Verlauf",
@@ -111,6 +111,6 @@
     "name": "Schulen",
     "query": "Schulen",
     "rank": 19,
-    "tweet_count": "9,816 Tweets"
+    "tweet_count": "9,822 Tweets"
   }
 ]

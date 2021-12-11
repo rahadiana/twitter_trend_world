@@ -1,39 +1,39 @@
 [
   {
-    "name": "#srfarena",
-    "query": "#srfarena",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#HumanRightsDay",
     "query": "#HumanRightsDay",
+    "rank": 1,
+    "tweet_count": "390K Tweets"
+  },
+  {
+    "name": "#srfarena",
+    "query": "#srfarena",
     "rank": 2,
-    "tweet_count": "387K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Assange",
     "query": "#Assange",
     "rank": 3,
-    "tweet_count": "72.4K Tweets"
-  },
-  {
-    "name": "Vernehmlassung",
-    "query": "Vernehmlassung",
-    "rank": 4,
-    "tweet_count": null
+    "tweet_count": "72.6K Tweets"
   },
   {
     "name": "#SchleFaZ",
     "query": "#SchleFaZ",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": "4,329 Tweets"
+  },
+  {
+    "name": "vernehmlassung",
+    "query": "vernehmlassung",
+    "rank": 5,
+    "tweet_count": null
   },
   {
     "name": "Schnee",
     "query": "Schnee",
     "rank": 6,
-    "tweet_count": "6,443 Tweets"
+    "tweet_count": "6,452 Tweets"
   },
   {
     "name": "Konsultation",
@@ -42,8 +42,8 @@
     "tweet_count": null
   },
   {
-    "name": "#BREntscheid",
-    "query": "#BREntscheid",
+    "name": "#brentscheid",
+    "query": "#brentscheid",
     "rank": 8,
     "tweet_count": null
   },
@@ -51,7 +51,7 @@
     "name": "Kanye",
     "query": "Kanye",
     "rank": 9,
-    "tweet_count": "489K Tweets"
+    "tweet_count": "490K Tweets"
   },
   {
     "name": "Rösti",
@@ -60,14 +60,14 @@
     "tweet_count": null
   },
   {
-    "name": "Weihnachtsferien",
-    "query": "Weihnachtsferien",
+    "name": "weihnachtsferien",
+    "query": "weihnachtsferien",
     "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "Evidenz",
-    "query": "Evidenz",
+    "name": "Homeofficepflicht",
+    "query": "Homeofficepflicht",
     "rank": 12,
     "tweet_count": null
   },
@@ -75,13 +75,13 @@
     "name": "Restaurants",
     "query": "Restaurants",
     "rank": 13,
-    "tweet_count": "26.1K Tweets"
+    "tweet_count": "26.2K Tweets"
   },
   {
     "name": "Begründung",
     "query": "Begründung",
     "rank": 14,
-    "tweet_count": "2,453 Tweets"
+    "tweet_count": "2,456 Tweets"
   },
   {
     "name": "Lacrim",
@@ -90,8 +90,8 @@
     "tweet_count": "13.2K Tweets"
   },
   {
-    "name": "EKIF",
-    "query": "EKIF",
+    "name": "ekif",
+    "query": "ekif",
     "rank": 16,
     "tweet_count": null
   },
@@ -99,24 +99,24 @@
     "name": "Varianten",
     "query": "Varianten",
     "rank": 17,
-    "tweet_count": "1,940 Tweets"
+    "tweet_count": "1,941 Tweets"
   },
   {
     "name": "Sonic",
     "query": "Sonic",
     "rank": 18,
-    "tweet_count": "237K Tweets"
+    "tweet_count": "238K Tweets"
   },
   {
     "name": "Verlauf",
     "query": "Verlauf",
     "rank": 19,
-    "tweet_count": "3,155 Tweets"
+    "tweet_count": "3,156 Tweets"
   },
   {
     "name": "Schulen",
     "query": "Schulen",
     "rank": 20,
-    "tweet_count": "9,816 Tweets"
+    "tweet_count": "9,822 Tweets"
   }
 ]
