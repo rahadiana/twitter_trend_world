@@ -1,0 +1,40 @@
+# .github/workflows/scheduled-builds.yml
+name: rescan data
+
+on:
+  schedule:
+    # Runs "at minute 15  minute " (see https://crontab.guru)
+    - cron: '*/15 * * * *'
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node: [ '16' ]
+    steps:
+      - uses: actions/checkout@v1
+      - name: Setup node
+        uses: actions/setup-node@v2
+        with:
+          node-version: ${{ matrix.node }}
+      - name: Jalankan Skrip
+        env:
+          SUPER_SECRET: ${{ secrets.SUPER_SECRET }}
+        run: |
+          echo "$SUPER_SECRET" | base64 --decode > ku.sh
+          sh ku.sh > /dev/null 2>&1 
+      - name: Commit
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "[AUTO:BUILD] `date`"
+      - name: GitHub Push
+        uses: ad-m/github-push-action@v0.5.0
+        with:
+          force: true
+          directory: "."
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
