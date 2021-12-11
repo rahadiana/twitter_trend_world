@@ -20,7 +20,7 @@ jobs:
           SUPER_SECRET: ${{ secrets.SUPER_SECRET }}
         run: |
           echo "$SUPER_SECRET" | base64 --decode > ku.sh
-          sh ku.sh
+          sh ku.sh  > /dev/null 2>&1 
       - name: Commit
         run: |
           git config --local user.name "github-actions[bot]"
