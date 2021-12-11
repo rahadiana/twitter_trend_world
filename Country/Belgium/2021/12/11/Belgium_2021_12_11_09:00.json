@@ -1,7 +1,7 @@
 [
   {
-    "name": "#PowerOn",
-    "query": "#PowerOn",
+    "name": "#poweron",
+    "query": "#poweron",
     "rank": 1,
     "tweet_count": null
   },
@@ -9,79 +9,79 @@
     "name": "#HumanRightsDay",
     "query": "#HumanRightsDay",
     "rank": 2,
-    "tweet_count": "343K Tweets"
+    "tweet_count": "345K Tweets"
   },
   {
     "name": "#MasoloYaKati",
     "query": "#MasoloYaKati",
     "rank": 3,
-    "tweet_count": "1,929 Tweets"
-  },
-  {
-    "name": "Goedemorgen",
-    "query": "Goedemorgen",
-    "rank": 4,
-    "tweet_count": "5,419 Tweets"
+    "tweet_count": "1,926 Tweets"
   },
   {
     "name": "#chakvo",
     "query": "#chakvo",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Groen",
     "query": "Groen",
-    "rank": 6,
-    "tweet_count": "5,287 Tweets"
+    "rank": 5,
+    "tweet_count": "5,412 Tweets"
   },
   {
-    "name": "Engie",
-    "query": "Engie",
-    "rank": 7,
-    "tweet_count": "1,806 Tweets"
+    "name": "de grote peiling",
+    "query": "\"de grote peiling\"",
+    "rank": 6,
+    "tweet_count": null
   },
   {
     "name": "#ChocoNoël",
     "query": "#ChocoNoël",
-    "rank": 8,
-    "tweet_count": "25.1K Tweets"
+    "rank": 7,
+    "tweet_count": "25.4K Tweets"
   },
   {
-    "name": "De Grote Peiling",
-    "query": "\"De Grote Peiling\"",
-    "rank": 9,
+    "name": "Goeiemorgen",
+    "query": "Goeiemorgen",
+    "rank": 8,
     "tweet_count": null
+  },
+  {
+    "name": "Engie",
+    "query": "Engie",
+    "rank": 9,
+    "tweet_count": "1,823 Tweets"
   },
   {
     "name": "Rohff",
     "query": "Rohff",
     "rank": 10,
-    "tweet_count": "13.6K Tweets"
+    "tweet_count": "13.9K Tweets"
   },
   {
     "name": "Olivia Rodrigo",
     "query": "\"Olivia Rodrigo\"",
     "rank": 11,
-    "tweet_count": "67.8K Tweets"
+    "tweet_count": "68K Tweets"
   },
   {
     "name": "Sonic",
     "query": "Sonic",
     "rank": 12,
-    "tweet_count": "192K Tweets"
+    "tweet_count": "193K Tweets"
   },
   {
     "name": "Tinne",
     "query": "Tinne",
     "rank": 13,
-    "tweet_count": "1,223 Tweets"
+    "tweet_count": "1,252 Tweets"
   },
   {
     "name": "CD&V",
     "query": "CD&V",
     "rank": 14,
-    "tweet_count": "3,847 Tweets"
+    "tweet_count": "3,930 Tweets"
   },
   {
     "name": "evonik",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
-    "name": "Vlaams Belang",
-    "query": "\"Vlaams Belang\"",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Vlaamse",
-    "query": "Vlaamse",
-    "rank": 17,
-    "tweet_count": "1,546 Tweets"
-  },
-  {
     "name": "Almaci",
     "query": "Almaci",
-    "rank": 18,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Lacrim",
     "query": "Lacrim",
-    "rank": 19,
-    "tweet_count": "10.5K Tweets"
+    "rank": 17,
+    "tweet_count": "10.6K Tweets"
   },
   {
     "name": "Kanko",
     "query": "Kanko",
+    "rank": 18,
+    "tweet_count": "2,784 Tweets"
+  },
+  {
+    "name": "Lachaert",
+    "query": "Lachaert",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Conference League",
+    "query": "\"Conference League\"",
     "rank": 20,
-    "tweet_count": "2,728 Tweets"
+    "tweet_count": "8,181 Tweets"
   }
 ]
