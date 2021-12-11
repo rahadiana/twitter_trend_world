@@ -1,39 +1,39 @@
 [
   {
-    "name": "#TSV1860",
-    "query": "#TSV1860",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#BOCBVB",
     "query": "#BOCBVB",
-    "rank": 2,
-    "tweet_count": "3,697 Tweets"
+    "rank": 1,
+    "tweet_count": "3,754 Tweets"
   },
   {
     "name": "#RBLBMG",
     "query": "#RBLBMG",
-    "rank": 3,
-    "tweet_count": "2,391 Tweets"
+    "rank": 2,
+    "tweet_count": "2,472 Tweets"
   },
   {
     "name": "#FCBM05",
     "query": "#FCBM05",
-    "rank": 4,
-    "tweet_count": "5,000 Tweets"
+    "rank": 3,
+    "tweet_count": "5,183 Tweets"
   },
   {
     "name": "#BSCDSC",
     "query": "#BSCDSC",
+    "rank": 4,
+    "tweet_count": "1,176 Tweets"
+  },
+  {
+    "name": "#VFLBVB",
+    "query": "#VFLBVB",
     "rank": 5,
-    "tweet_count": "1,122 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Bochum",
     "query": "Bochum",
     "rank": 6,
-    "tweet_count": "3,896 Tweets"
+    "tweet_count": "4,064 Tweets"
   },
   {
     "name": "Hütter",
@@ -48,20 +48,20 @@
     "tweet_count": null
   },
   {
+    "name": "Chancenverwertung",
+    "query": "Chancenverwertung",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
     "name": "Mainz",
     "query": "Mainz",
-    "rank": 9,
-    "tweet_count": "5,862 Tweets"
+    "rank": 10,
+    "tweet_count": "6,099 Tweets"
   },
   {
     "name": "Freistoß",
     "query": "Freistoß",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Chancenverwertung",
-    "query": "Chancenverwertung",
     "rank": 11,
     "tweet_count": null
   },
@@ -78,45 +78,45 @@
     "tweet_count": null
   },
   {
-    "name": "Ginter",
-    "query": "Ginter",
-    "rank": 14,
-    "tweet_count": "2,993 Tweets"
-  },
-  {
     "name": "Tuchel",
     "query": "Tuchel",
-    "rank": 15,
-    "tweet_count": "15.4K Tweets"
+    "rank": 14,
+    "tweet_count": "17.3K Tweets"
   },
   {
     "name": "Kader",
     "query": "Kader",
+    "rank": 15,
+    "tweet_count": "12.3K Tweets"
+  },
+  {
+    "name": "Tolisso",
+    "query": "Tolisso",
     "rank": 16,
-    "tweet_count": "12.1K Tweets"
+    "tweet_count": "1,181 Tweets"
   },
   {
     "name": "Schulz",
     "query": "Schulz",
     "rank": 17,
-    "tweet_count": "1,954 Tweets"
-  },
-  {
-    "name": "Tolisso",
-    "query": "Tolisso",
-    "rank": 18,
-    "tweet_count": "1,146 Tweets"
+    "tweet_count": "1,987 Tweets"
   },
   {
     "name": "Unentschieden",
     "query": "Unentschieden",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "Winterpause",
-    "query": "Winterpause",
+    "name": "Ginter",
+    "query": "Ginter",
+    "rank": 19,
+    "tweet_count": "3,034 Tweets"
+  },
+  {
+    "name": "Saskia",
+    "query": "Saskia",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "1,599 Tweets"
   }
 ]

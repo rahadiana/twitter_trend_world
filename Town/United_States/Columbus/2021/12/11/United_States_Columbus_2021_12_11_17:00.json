@@ -1,116 +1,122 @@
 [
   {
-    "name": "#letsgox",
-    "query": "#letsgox",
+    "name": "Wisconsin",
+    "query": "Wisconsin",
     "rank": 1,
+    "tweet_count": "21.7K Tweets"
+  },
+  {
+    "name": "#LetsGoX",
+    "query": "#LetsGoX",
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "GAME DAY",
+    "query": "\"GAME DAY\"",
+    "rank": 3,
+    "tweet_count": "39.3K Tweets"
   },
   {
     "name": "Kentucky",
     "query": "Kentucky",
-    "rank": 2,
-    "tweet_count": "109K Tweets"
+    "rank": 4,
+    "tweet_count": "117K Tweets"
   },
   {
     "name": "Rod Wave",
     "query": "\"Rod Wave\"",
-    "rank": 3,
-    "tweet_count": "9,326 Tweets"
+    "rank": 5,
+    "tweet_count": "10.5K Tweets"
   },
   {
     "name": "#CheLee",
     "query": "#CheLee",
-    "rank": 4,
-    "tweet_count": "43.7K Tweets"
-  },
-  {
-    "name": "SNKRS",
-    "query": "SNKRS",
-    "rank": 5,
-    "tweet_count": "9,590 Tweets"
+    "rank": 6,
+    "tweet_count": "50.8K Tweets"
   },
   {
     "name": "Urban Meyer",
     "query": "\"Urban Meyer\"",
-    "rank": 6,
-    "tweet_count": "3,491 Tweets"
-  },
-  {
-    "name": "#Caturday",
-    "query": "#Caturday",
     "rank": 7,
-    "tweet_count": "16.3K Tweets"
+    "tweet_count": "4,638 Tweets"
   },
   {
     "name": "#Thankmas",
     "query": "#Thankmas",
     "rank": 8,
-    "tweet_count": "14.8K Tweets"
+    "tweet_count": "20.9K Tweets"
   },
   {
-    "name": "Go Army",
-    "query": "\"Go Army\"",
+    "name": "SNKRS",
+    "query": "SNKRS",
     "rank": 9,
-    "tweet_count": "15.1K Tweets"
+    "tweet_count": "9,857 Tweets"
   },
   {
-    "name": "#SaturdayMorning",
-    "query": "#SaturdayMorning",
+    "name": "Leeds",
+    "query": "Leeds",
     "rank": 10,
-    "tweet_count": "17.2K Tweets"
+    "tweet_count": "55.6K Tweets"
+  },
+  {
+    "name": "#Caturday",
+    "query": "#Caturday",
+    "rank": 11,
+    "tweet_count": "17.3K Tweets"
+  },
+  {
+    "name": "Alonso",
+    "query": "Alonso",
+    "rank": 12,
+    "tweet_count": "42.4K Tweets"
+  },
+  {
+    "name": "Go Navy",
+    "query": "\"Go Navy\"",
+    "rank": 13,
+    "tweet_count": "4,900 Tweets"
   },
   {
     "name": "Nancy Reagan",
     "query": "\"Nancy Reagan\"",
-    "rank": 11,
-    "tweet_count": "84.2K Tweets"
+    "rank": 14,
+    "tweet_count": "87.8K Tweets"
+  },
+  {
+    "name": "#MeganTheeGraduate",
+    "query": "#MeganTheeGraduate",
+    "rank": 15,
+    "tweet_count": "20.6K Tweets"
   },
   {
     "name": "Santacon",
     "query": "Santacon",
-    "rank": 12,
-    "tweet_count": "2,114 Tweets"
-  },
-  {
-    "name": "Mings",
-    "query": "Mings",
-    "rank": 13,
-    "tweet_count": "3,126 Tweets"
-  },
-  {
-    "name": "Auba",
-    "query": "Auba",
-    "rank": 14,
-    "tweet_count": "9,064 Tweets"
-  },
-  {
-    "name": "Villa",
-    "query": "Villa",
-    "rank": 15,
-    "tweet_count": "65.6K Tweets"
-  },
-  {
-    "name": "Alisson",
-    "query": "Alisson",
     "rank": 16,
-    "tweet_count": "6,490 Tweets"
-  },
-  {
-    "name": "Peggy Noonan",
-    "query": "\"Peggy Noonan\"",
-    "rank": 17,
-    "tweet_count": "23.4K Tweets"
+    "tweet_count": "2,528 Tweets"
   },
   {
     "name": "Georgetown",
     "query": "Georgetown",
-    "rank": 18,
-    "tweet_count": "4,812 Tweets"
+    "rank": 17,
+    "tweet_count": "5,093 Tweets"
   },
   {
-    "name": "Grealish",
-    "query": "Grealish",
+    "name": "Havertz",
+    "query": "Havertz",
+    "rank": 18,
+    "tweet_count": "6,437 Tweets"
+  },
+  {
+    "name": "Peggy Noonan",
+    "query": "\"Peggy Noonan\"",
     "rank": 19,
-    "tweet_count": "16.2K Tweets"
+    "tweet_count": "24.6K Tweets"
+  },
+  {
+    "name": "Auba",
+    "query": "Auba",
+    "rank": 20,
+    "tweet_count": "9,605 Tweets"
   }
 ]
