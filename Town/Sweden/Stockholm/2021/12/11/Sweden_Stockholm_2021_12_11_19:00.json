@@ -1,19 +1,19 @@
 [
   {
-    "name": "#NORMUN",
-    "query": "#NORMUN",
-    "rank": 1,
-    "tweet_count": "49.5K Tweets"
-  },
-  {
     "name": "#fbkse",
     "query": "#fbkse",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "vm-guld",
-    "query": "vm-guld",
+    "name": "#NORMUN",
+    "query": "#NORMUN",
+    "rank": 2,
+    "tweet_count": "52.1K Tweets"
+  },
+  {
+    "name": "VM-guld",
+    "query": "VM-guld",
     "rank": 3,
     "tweet_count": null
   },
@@ -21,13 +21,13 @@
     "name": "Jansson",
     "query": "Jansson",
     "rank": 4,
-    "tweet_count": "1,885 Tweets"
+    "tweet_count": "1,896 Tweets"
   },
   {
     "name": "#ARSSOU",
     "query": "#ARSSOU",
     "rank": 5,
-    "tweet_count": "30.5K Tweets"
+    "tweet_count": "31K Tweets"
   },
   {
     "name": "Brynäs",
@@ -39,55 +39,55 @@
     "name": "#CheLee",
     "query": "#CheLee",
     "rank": 7,
-    "tweet_count": "60.9K Tweets"
+    "tweet_count": "61.6K Tweets"
   },
   {
     "name": "Alonso",
     "query": "Alonso",
     "rank": 8,
-    "tweet_count": "44.1K Tweets"
-  },
-  {
-    "name": "Marcus Oscarsson",
-    "query": "\"Marcus Oscarsson\"",
-    "rank": 9,
-    "tweet_count": null
+    "tweet_count": "44.4K Tweets"
   },
   {
     "name": "Frölunda",
     "query": "Frölunda",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Marcus Oscarsson",
+    "query": "\"Marcus Oscarsson\"",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "F-35",
-    "query": "F-35",
+    "name": "f-35",
+    "query": "f-35",
     "rank": 11,
-    "tweet_count": "10.7K Tweets"
+    "tweet_count": "10.8K Tweets"
   },
   {
     "name": "Anfield",
     "query": "Anfield",
     "rank": 12,
-    "tweet_count": "31.1K Tweets"
-  },
-  {
-    "name": "Gripen",
-    "query": "Gripen",
-    "rank": 13,
-    "tweet_count": "1,660 Tweets"
+    "tweet_count": "31.4K Tweets"
   },
   {
     "name": "Svenonius",
     "query": "Svenonius",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
+  },
+  {
+    "name": "Gripen",
+    "query": "Gripen",
+    "rank": 14,
+    "tweet_count": "1,679 Tweets"
   },
   {
     "name": "Olympia",
     "query": "Olympia",
     "rank": 15,
-    "tweet_count": "3,537 Tweets"
+    "tweet_count": "3,549 Tweets"
   },
   {
     "name": "Scandinavium",
@@ -96,21 +96,21 @@
     "tweet_count": null
   },
   {
+    "name": "Jimenez",
+    "query": "Jimenez",
+    "rank": 17,
+    "tweet_count": "25.4K Tweets"
+  },
+  {
     "name": "Barbara",
     "query": "Barbara",
-    "rank": 17,
-    "tweet_count": "36.2K Tweets"
+    "rank": 18,
+    "tweet_count": "36.7K Tweets"
   },
   {
     "name": "Hanne Kjöller",
     "query": "\"Hanne Kjöller\"",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Grealish",
-    "query": "Grealish",
     "rank": 19,
-    "tweet_count": "18.5K Tweets"
+    "tweet_count": null
   }
 ]
