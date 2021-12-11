@@ -1,91 +1,91 @@
 [
   {
+    "name": "Varina",
+    "query": "Varina",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "Oscar Smith",
     "query": "\"Oscar Smith\"",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Chelsea",
     "query": "Chelsea",
-    "rank": 2,
-    "tweet_count": "160K Tweets"
+    "rank": 3,
+    "tweet_count": "161K Tweets"
   },
   {
     "name": "#MLSCup",
     "query": "#MLSCup",
-    "rank": 3,
-    "tweet_count": "14.7K Tweets"
+    "rank": 4,
+    "tweet_count": "15K Tweets"
   },
   {
     "name": "#ArmyNavy",
     "query": "#ArmyNavy",
-    "rank": 4,
-    "tweet_count": "7,452 Tweets"
+    "rank": 5,
+    "tweet_count": "7,739 Tweets"
   },
   {
     "name": "Kentucky",
     "query": "Kentucky",
-    "rank": 5,
-    "tweet_count": "195K Tweets"
+    "rank": 6,
+    "tweet_count": "199K Tweets"
   },
   {
     "name": "#MeganTheeGraduate",
     "query": "#MeganTheeGraduate",
-    "rank": 6,
-    "tweet_count": "51.5K Tweets"
+    "rank": 7,
+    "tweet_count": "53.1K Tweets"
   },
   {
     "name": "Zion Williamson",
     "query": "\"Zion Williamson\"",
-    "rank": 7,
-    "tweet_count": "2,689 Tweets"
+    "rank": 8,
+    "tweet_count": "2,833 Tweets"
   },
   {
     "name": "Mizzou",
     "query": "Mizzou",
-    "rank": 8,
-    "tweet_count": "3,825 Tweets"
+    "rank": 9,
+    "tweet_count": "3,969 Tweets"
   },
   {
     "name": "Urban Meyer",
     "query": "\"Urban Meyer\"",
-    "rank": 9,
-    "tweet_count": "10.5K Tweets"
+    "rank": 10,
+    "tweet_count": "10.7K Tweets"
+  },
+  {
+    "name": "#NBATopShotThis",
+    "query": "#NBATopShotThis",
+    "rank": 11,
+    "tweet_count": "1,302 Tweets"
   },
   {
     "name": "#NORMUN",
     "query": "#NORMUN",
-    "rank": 10,
-    "tweet_count": "60K Tweets"
+    "rank": 12,
+    "tweet_count": "60.4K Tweets"
   },
   {
     "name": "Nancy Reagan",
     "query": "\"Nancy Reagan\"",
-    "rank": 11,
-    "tweet_count": "117K Tweets"
-  },
-  {
-    "name": "#Thankmas",
-    "query": "#Thankmas",
-    "rank": 12,
-    "tweet_count": "45.5K Tweets"
+    "rank": 13,
+    "tweet_count": "118K Tweets"
   },
   {
     "name": "SantaCon",
     "query": "SantaCon",
-    "rank": 13,
-    "tweet_count": "5,035 Tweets"
+    "rank": 14,
+    "tweet_count": "5,124 Tweets"
   },
   {
     "name": "Greg Oden",
     "query": "\"Greg Oden\"",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Eric Musselman",
-    "query": "\"Eric Musselman\"",
     "rank": 15,
     "tweet_count": null
   },
@@ -93,24 +93,24 @@
     "name": "Bivol",
     "query": "Bivol",
     "rank": 16,
-    "tweet_count": "1,766 Tweets"
+    "tweet_count": "1,800 Tweets"
   },
   {
-    "name": "Rod Wave",
-    "query": "\"Rod Wave\"",
+    "name": "Eric Musselman",
+    "query": "\"Eric Musselman\"",
     "rank": 17,
-    "tweet_count": "15.5K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Pence",
     "query": "Pence",
     "rank": 18,
-    "tweet_count": "64.3K Tweets"
+    "tweet_count": "65.2K Tweets"
   },
   {
     "name": "Wilbur",
     "query": "Wilbur",
     "rank": 19,
-    "tweet_count": "20.7K Tweets"
+    "tweet_count": "21.2K Tweets"
   }
 ]
