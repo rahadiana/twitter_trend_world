@@ -1,39 +1,39 @@
 [
   {
-    "name": "#SmackDown",
-    "query": "#SmackDown",
+    "name": "Scottie Barnes",
+    "query": "\"Scottie Barnes\"",
     "rank": 1,
-    "tweet_count": "27.7K Tweets"
-  },
-  {
-    "name": "Knicks",
-    "query": "Knicks",
-    "rank": 2,
-    "tweet_count": "11.1K Tweets"
-  },
-  {
-    "name": "#BudFirstGoal",
-    "query": "#BudFirstGoal",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "Nancy Reagan",
-    "query": "\"Nancy Reagan\"",
-    "rank": 4,
-    "tweet_count": "18.9K Tweets"
-  },
-  {
-    "name": "Torts",
-    "query": "Torts",
-    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Randle",
     "query": "Randle",
+    "rank": 2,
+    "tweet_count": "3,676 Tweets"
+  },
+  {
+    "name": "Knicks",
+    "query": "Knicks",
+    "rank": 3,
+    "tweet_count": "12.4K Tweets"
+  },
+  {
+    "name": "#BudFirstGoal",
+    "query": "#BudFirstGoal",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "#SmackDown",
+    "query": "#SmackDown",
+    "rank": 5,
+    "tweet_count": "33.8K Tweets"
+  },
+  {
+    "name": "Torts",
+    "query": "Torts",
     "rank": 6,
-    "tweet_count": "2,630 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Siakam",
@@ -42,69 +42,81 @@
     "tweet_count": null
   },
   {
+    "name": "Nancy Reagan",
+    "query": "\"Nancy Reagan\"",
+    "rank": 8,
+    "tweet_count": "22.4K Tweets"
+  },
+  {
+    "name": "Brock Lesnar",
+    "query": "\"Brock Lesnar\"",
+    "rank": 9,
+    "tweet_count": "2,626 Tweets"
+  },
+  {
     "name": "Tubbo",
     "query": "Tubbo",
-    "rank": 8,
-    "tweet_count": "22.3K Tweets"
+    "rank": 10,
+    "tweet_count": "23.4K Tweets"
+  },
+  {
+    "name": "Madonna",
+    "query": "Madonna",
+    "rank": 11,
+    "tweet_count": "28K Tweets"
+  },
+  {
+    "name": "Monkees",
+    "query": "Monkees",
+    "rank": 12,
+    "tweet_count": "44.3K Tweets"
   },
   {
     "name": "Sami",
     "query": "Sami",
-    "rank": 9,
-    "tweet_count": "22.8K Tweets"
+    "rank": 13,
+    "tweet_count": "23.1K Tweets"
   },
   {
     "name": "Michael Nesmith",
     "query": "\"Michael Nesmith\"",
-    "rank": 10,
-    "tweet_count": "36.3K Tweets"
+    "rank": 14,
+    "tweet_count": "37.2K Tweets"
   },
   {
     "name": "Keanu",
     "query": "Keanu",
-    "rank": 11,
-    "tweet_count": "28.2K Tweets"
+    "rank": 15,
+    "tweet_count": "30K Tweets"
   },
   {
-    "name": "Mayor",
-    "query": "Mayor",
-    "rank": 12,
-    "tweet_count": "142K Tweets"
+    "name": "Mike Nesmith",
+    "query": "\"Mike Nesmith\"",
+    "rank": 16,
+    "tweet_count": "18.9K Tweets"
   },
   {
-    "name": "#NFTCommmunity",
-    "query": "#NFTCommmunity",
-    "rank": 13,
-    "tweet_count": "72.1K Tweets"
+    "name": "mayor",
+    "query": "mayor",
+    "rank": 17,
+    "tweet_count": "144K Tweets"
   },
   {
     "name": "#XboxGarfieldSweepstakes",
     "query": "#XboxGarfieldSweepstakes",
-    "rank": 14,
-    "tweet_count": "46.5K Tweets"
+    "rank": 18,
+    "tweet_count": "47.1K Tweets"
+  },
+  {
+    "name": "#NFTCommmunity",
+    "query": "#NFTCommmunity",
+    "rank": 19,
+    "tweet_count": "73.8K Tweets"
   },
   {
     "name": "#FridayVibes",
     "query": "#FridayVibes",
-    "rank": 15,
-    "tweet_count": "14.8K Tweets"
-  },
-  {
-    "name": "Surrey",
-    "query": "Surrey",
-    "rank": 16,
-    "tweet_count": "4,088 Tweets"
-  },
-  {
-    "name": "Assange",
-    "query": "Assange",
-    "rank": 17,
-    "tweet_count": "387K Tweets"
-  },
-  {
-    "name": "#IStandWithABTeachers",
-    "query": "#IStandWithABTeachers",
-    "rank": 18,
-    "tweet_count": "3,604 Tweets"
+    "rank": 20,
+    "tweet_count": "15K Tweets"
   }
 ]
