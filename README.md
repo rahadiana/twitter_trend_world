@@ -2,7 +2,7 @@
 
 # Twitter Trend World
 
-[![latest build](https://github.com/rahadiana/twitter_trend_world/actions/workflows/cron.yml/badge.svg)](https://github.com/rahadiana/twitter_trend_world/actions/workflows/cron.yml)
+[![rescan data](https://github.com/rahadiana/twitter_trend_world/actions/workflows/rescan.yml/badge.svg)](https://github.com/rahadiana/twitter_trend_world/actions/workflows/rescan.yml)
 
 
  This twitter trend from all County and City from Twitter , auto update every 15 minute.
