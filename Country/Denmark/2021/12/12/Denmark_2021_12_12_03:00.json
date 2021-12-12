@@ -1,121 +1,121 @@
 [
   {
-    "name": "#MCIWOL",
-    "query": "#MCIWOL",
-    "rank": 1,
-    "tweet_count": "20K Tweets"
-  },
-  {
     "name": "#SydbankPokalen",
     "query": "#SydbankPokalen",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#MCIWOL",
+    "query": "#MCIWOL",
+    "rank": 2,
+    "tweet_count": "20K Tweets"
   },
   {
     "name": "#NORMUN",
     "query": "#NORMUN",
     "rank": 3,
-    "tweet_count": "68.2K Tweets"
+    "tweet_count": "68.5K Tweets"
   },
   {
     "name": "#Thankmas",
     "query": "#Thankmas",
     "rank": 4,
-    "tweet_count": "52.9K Tweets"
+    "tweet_count": "53.3K Tweets"
   },
   {
     "name": "Norwich",
     "query": "Norwich",
     "rank": 5,
-    "tweet_count": "88.6K Tweets"
+    "tweet_count": "89K Tweets"
   },
   {
     "name": "#MUFC",
     "query": "#MUFC",
     "rank": 6,
-    "tweet_count": "91.4K Tweets"
+    "tweet_count": "91.8K Tweets"
   },
   {
     "name": "Sterling",
     "query": "Sterling",
     "rank": 7,
-    "tweet_count": "28.3K Tweets"
-  },
-  {
-    "name": "Tommy",
-    "query": "Tommy",
-    "rank": 8,
-    "tweet_count": "52.4K Tweets"
+    "tweet_count": "28.6K Tweets"
   },
   {
     "name": "Auba",
     "query": "Auba",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": "12.4K Tweets"
+  },
+  {
+    "name": "Tommy",
+    "query": "Tommy",
+    "rank": 9,
+    "tweet_count": "53.1K Tweets"
+  },
+  {
+    "name": "Grealish",
+    "query": "Grealish",
+    "rank": 10,
+    "tweet_count": "21K Tweets"
   },
   {
     "name": "Villa",
     "query": "Villa",
-    "rank": 10,
-    "tweet_count": "73.2K Tweets"
-  },
-  {
-    "name": "Leeds",
-    "query": "Leeds",
     "rank": 11,
-    "tweet_count": "67.4K Tweets"
+    "tweet_count": "74.4K Tweets"
   },
   {
     "name": "Verstappen",
     "query": "Verstappen",
     "rank": 12,
-    "tweet_count": "97.8K Tweets"
+    "tweet_count": "98.2K Tweets"
   },
   {
-    "name": "hvidovre",
-    "query": "hvidovre",
+    "name": "Leeds",
+    "query": "Leeds",
     "rank": 13,
+    "tweet_count": "67.5K Tweets"
+  },
+  {
+    "name": "Hvidovre",
+    "query": "Hvidovre",
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Gerrard",
     "query": "Gerrard",
-    "rank": 14,
-    "tweet_count": "48.5K Tweets"
-  },
-  {
-    "name": "Premier League",
-    "query": "\"Premier League\"",
     "rank": 15,
-    "tweet_count": "72.7K Tweets"
+    "tweet_count": "48.7K Tweets"
   },
   {
     "name": "Martial",
     "query": "Martial",
     "rank": 16,
-    "tweet_count": "26.5K Tweets"
-  },
-  {
-    "name": "erik",
-    "query": "erik",
-    "rank": 17,
-    "tweet_count": "16.6K Tweets"
+    "tweet_count": "26.7K Tweets"
   },
   {
     "name": "carsten jensen",
     "query": "\"carsten jensen\"",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
+  },
+  {
+    "name": "Erik",
+    "query": "Erik",
+    "rank": 18,
+    "tweet_count": "17K Tweets"
   },
   {
     "name": "Hamilton",
     "query": "Hamilton",
     "rank": 19,
-    "tweet_count": "116K Tweets"
+    "tweet_count": "117K Tweets"
   },
   {
-    "name": "astrid krag",
-    "query": "\"astrid krag\"",
+    "name": "Astrid Krag",
+    "query": "\"Astrid Krag\"",
     "rank": 20,
     "tweet_count": null
   }
