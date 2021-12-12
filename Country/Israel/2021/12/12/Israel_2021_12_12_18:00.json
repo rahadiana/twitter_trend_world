@@ -3,7 +3,7 @@
     "name": "שבוע טוב",
     "query": "\"שבוע טוב\"",
     "rank": 1,
-    "tweet_count": "1,243 Tweets"
+    "tweet_count": "1,248 Tweets"
   },
   {
     "name": "שבת שלום",
@@ -21,43 +21,43 @@
     "name": "#AbuDhabiGP",
     "query": "#AbuDhabiGP",
     "rank": 4,
-    "tweet_count": "877K Tweets"
+    "tweet_count": "882K Tweets"
   },
   {
     "name": "#log4j",
     "query": "#log4j",
     "rank": 5,
-    "tweet_count": "13.7K Tweets"
+    "tweet_count": "13.8K Tweets"
   },
   {
     "name": "Kentucky",
     "query": "Kentucky",
     "rank": 6,
-    "tweet_count": "348K Tweets"
-  },
-  {
-    "name": "ברק רביד",
-    "query": "\"ברק רביד\"",
-    "rank": 7,
-    "tweet_count": "1,711 Tweets"
+    "tweet_count": "350K Tweets"
   },
   {
     "name": "Lewis",
     "query": "Lewis",
+    "rank": 7,
+    "tweet_count": "546K Tweets"
+  },
+  {
+    "name": "ברק רביד",
+    "query": "\"ברק רביד\"",
     "rank": 8,
-    "tweet_count": "541K Tweets"
+    "tweet_count": "1,716 Tweets"
   },
   {
     "name": "Israeli PM",
     "query": "\"Israeli PM\"",
     "rank": 9,
-    "tweet_count": "1,810 Tweets"
+    "tweet_count": "1,852 Tweets"
   },
   {
     "name": "בר לב",
     "query": "\"בר לב\"",
     "rank": 10,
-    "tweet_count": "1,182 Tweets"
+    "tweet_count": "1,190 Tweets"
   },
   {
     "name": "אלי כהן",
@@ -75,48 +75,48 @@
     "name": "#Log4Shell",
     "query": "#Log4Shell",
     "rank": 13,
-    "tweet_count": "7,768 Tweets"
+    "tweet_count": "7,825 Tweets"
+  },
+  {
+    "name": "טלי גוטליב",
+    "query": "\"טלי גוטליב\"",
+    "rank": 14,
+    "tweet_count": null
   },
   {
     "name": "Abbas",
     "query": "Abbas",
-    "rank": 14,
-    "tweet_count": "16.9K Tweets"
+    "rank": 15,
+    "tweet_count": "17K Tweets"
   },
   {
     "name": "Eilat",
     "query": "Eilat",
-    "rank": 15,
-    "tweet_count": "2,305 Tweets"
-  },
-  {
-    "name": "#efley",
-    "query": "#efley",
     "rank": 16,
-    "tweet_count": "25.3K Tweets"
-  },
-  {
-    "name": "כי הם",
-    "query": "\"כי הם\"",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "الجزائر",
-    "query": "الجزائر",
-    "rank": 18,
-    "tweet_count": "160K Tweets"
+    "tweet_count": "2,319 Tweets"
   },
   {
     "name": "יוסי דגן",
     "query": "\"יוסי דגן\"",
-    "rank": 19,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "דנה רון",
     "query": "\"דנה רון\"",
-    "rank": 20,
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "כי הם",
+    "query": "\"כי הם\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "#efley",
+    "query": "#efley",
+    "rank": 20,
+    "tweet_count": "25.3K Tweets"
   }
 ]
