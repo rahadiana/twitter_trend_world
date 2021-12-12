@@ -1,39 +1,39 @@
 [
   {
+    "name": "Rio de Janeiro",
+    "query": "\"Rio de Janeiro\"",
+    "rank": 1,
+    "tweet_count": "14.4K Tweets"
+  },
+  {
     "name": "Thor",
     "query": "Thor",
-    "rank": 1,
-    "tweet_count": "26.7K Tweets"
+    "rank": 2,
+    "tweet_count": "26.9K Tweets"
   },
   {
     "name": "Jacarepaguá",
     "query": "Jacarepaguá",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Anne Rice",
     "query": "\"Anne Rice\"",
-    "rank": 3,
-    "tweet_count": "96.9K Tweets"
+    "rank": 4,
+    "tweet_count": "97.8K Tweets"
   },
   {
     "name": "Shopee",
     "query": "Shopee",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": "559K Tweets"
   },
   {
-    "name": "Rio de Janeiro",
-    "query": "\"Rio de Janeiro\"",
-    "rank": 5,
-    "tweet_count": "14.2K Tweets"
-  },
-  {
-    "name": "Modric",
-    "query": "Modric",
+    "name": "Casemiro",
+    "query": "Casemiro",
     "rank": 6,
-    "tweet_count": "12.2K Tweets"
+    "tweet_count": "8,286 Tweets"
   },
   {
     "name": "#chuvarj",
@@ -42,40 +42,40 @@
     "tweet_count": null
   },
   {
-    "name": "Casemiro",
-    "query": "Casemiro",
-    "rank": 8,
-    "tweet_count": "7,916 Tweets"
-  },
-  {
     "name": "São Pedro",
     "query": "\"São Pedro\"",
-    "rank": 9,
-    "tweet_count": "1,056 Tweets"
+    "rank": 8,
+    "tweet_count": "1,071 Tweets"
   },
   {
     "name": "Chovendo",
     "query": "Chovendo",
-    "rank": 10,
-    "tweet_count": "4,907 Tweets"
+    "rank": 9,
+    "tweet_count": "4,961 Tweets"
   },
   {
     "name": "Napoli",
     "query": "Napoli",
-    "rank": 11,
-    "tweet_count": "17.7K Tweets"
+    "rank": 10,
+    "tweet_count": "18K Tweets"
   },
   {
     "name": "#VALORANTChampions",
     "query": "#VALORANTChampions",
+    "rank": 11,
+    "tweet_count": "58.2K Tweets"
+  },
+  {
+    "name": "Masi",
+    "query": "Masi",
     "rank": 12,
-    "tweet_count": "57.9K Tweets"
+    "tweet_count": "192K Tweets"
   },
   {
     "name": "Fórmula 1",
     "query": "\"Fórmula 1\"",
     "rank": 13,
-    "tweet_count": "162K Tweets"
+    "tweet_count": "163K Tweets"
   },
   {
     "name": "Recreio",
@@ -84,10 +84,10 @@
     "tweet_count": null
   },
   {
-    "name": "Josh",
-    "query": "Josh",
+    "name": "Massa",
+    "query": "Massa",
     "rank": 15,
-    "tweet_count": "134K Tweets"
+    "tweet_count": "35K Tweets"
   },
   {
     "name": "Ipanema",
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
-    "name": "Felipe Massa",
-    "query": "\"Felipe Massa\"",
+    "name": "Josh",
+    "query": "Josh",
     "rank": 17,
-    "tweet_count": "4,707 Tweets"
+    "tweet_count": "135K Tweets"
   },
   {
     "name": "Senna",
     "query": "Senna",
     "rank": 18,
-    "tweet_count": "13K Tweets"
-  },
-  {
-    "name": "Band",
-    "query": "Band",
-    "rank": 19,
-    "tweet_count": "100K Tweets"
+    "tweet_count": "13.1K Tweets"
   },
   {
     "name": "Super Max",
     "query": "\"Super Max\"",
+    "rank": 19,
+    "tweet_count": "48.5K Tweets"
+  },
+  {
+    "name": "Band",
+    "query": "Band",
     "rank": 20,
-    "tweet_count": "48.4K Tweets"
+    "tweet_count": "101K Tweets"
   }
 ]
