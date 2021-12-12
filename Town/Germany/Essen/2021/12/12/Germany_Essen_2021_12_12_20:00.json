@@ -1,39 +1,39 @@
 [
   {
-    "name": "Frankfurt",
-    "query": "Frankfurt",
-    "rank": 1,
-    "tweet_count": "8,602 Tweets"
-  },
-  {
     "name": "#Tatort",
     "query": "#Tatort",
+    "rank": 1,
+    "tweet_count": "2,347 Tweets"
+  },
+  {
+    "name": "#tvog",
+    "query": "#tvog",
     "rank": 2,
-    "tweet_count": "1,887 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#SGEB04",
     "query": "#SGEB04",
     "rank": 3,
-    "tweet_count": "3,651 Tweets"
-  },
-  {
-    "name": "#tvog",
-    "query": "#tvog",
-    "rank": 4,
-    "tweet_count": null
+    "tweet_count": "3,695 Tweets"
   },
   {
     "name": "#KitchenImpossible",
     "query": "#KitchenImpossible",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "#ranNFL",
     "query": "#ranNFL",
+    "rank": 5,
+    "tweet_count": "1,107 Tweets"
+  },
+  {
+    "name": "Lewis",
+    "query": "Lewis",
     "rank": 6,
-    "tweet_count": "1,054 Tweets"
+    "tweet_count": "588K Tweets"
   },
   {
     "name": "Sonntagabend",
@@ -45,78 +45,78 @@
     "name": "Gallagher",
     "query": "Gallagher",
     "rank": 8,
-    "tweet_count": "33.9K Tweets"
+    "tweet_count": "35.1K Tweets"
   },
   {
     "name": "Verlierer",
     "query": "Verlierer",
     "rank": 9,
-    "tweet_count": "1,427 Tweets"
-  },
-  {
-    "name": "Michael Masi",
-    "query": "\"Michael Masi\"",
-    "rank": 10,
-    "tweet_count": "79.3K Tweets"
+    "tweet_count": "1,477 Tweets"
   },
   {
     "name": "Saison",
     "query": "Saison",
-    "rank": 11,
-    "tweet_count": "76.7K Tweets"
+    "rank": 10,
+    "tweet_count": "79K Tweets"
   },
   {
     "name": "Rennen",
     "query": "Rennen",
+    "rank": 11,
+    "tweet_count": "4,997 Tweets"
+  },
+  {
+    "name": "Masi",
+    "query": "Masi",
     "rank": 12,
-    "tweet_count": "4,911 Tweets"
-  },
-  {
-    "name": "Leverkusen",
-    "query": "Leverkusen",
-    "rank": 13,
-    "tweet_count": "2,957 Tweets"
-  },
-  {
-    "name": "Kostic",
-    "query": "Kostic",
-    "rank": 14,
-    "tweet_count": null
+    "tweet_count": "184K Tweets"
   },
   {
     "name": "Weltmeister",
     "query": "Weltmeister",
-    "rank": 15,
-    "tweet_count": "3,898 Tweets"
+    "rank": 13,
+    "tweet_count": "3,944 Tweets"
+  },
+  {
+    "name": "Leverkusen",
+    "query": "Leverkusen",
+    "rank": 14,
+    "tweet_count": "3,011 Tweets"
   },
   {
     "name": "Formel 1",
     "query": "\"Formel 1\"",
-    "rank": 16,
-    "tweet_count": "4,442 Tweets"
+    "rank": 15,
+    "tweet_count": "4,509 Tweets"
   },
   {
     "name": "Unbehagen",
     "query": "Unbehagen",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Protest",
     "query": "Protest",
-    "rank": 18,
-    "tweet_count": "182K Tweets"
-  },
-  {
-    "name": "Fürth",
-    "query": "Fürth",
-    "rank": 19,
-    "tweet_count": "2,534 Tweets"
+    "rank": 17,
+    "tweet_count": "184K Tweets"
   },
   {
     "name": "Toto",
     "query": "Toto",
+    "rank": 18,
+    "tweet_count": "123K Tweets"
+  },
+  {
+    "name": "Heiligabend",
+    "query": "Heiligabend",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Fürth",
+    "query": "Fürth",
     "rank": 20,
-    "tweet_count": "122K Tweets"
+    "tweet_count": "2,583 Tweets"
   }
 ]
