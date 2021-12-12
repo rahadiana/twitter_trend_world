@@ -6,28 +6,28 @@
     "tweet_count": "10.9K Tweets"
   },
   {
-    "name": "#MissFrance2022",
-    "query": "#MissFrance2022",
-    "rank": 2,
-    "tweet_count": "375K Tweets"
-  },
-  {
     "name": "#UFC269",
     "query": "#UFC269",
+    "rank": 2,
+    "tweet_count": "213K Tweets"
+  },
+  {
+    "name": "#MissFrance2022",
+    "query": "#MissFrance2022",
     "rank": 3,
-    "tweet_count": "198K Tweets"
+    "tweet_count": "376K Tweets"
   },
   {
     "name": "Amanda Nunes",
     "query": "\"Amanda Nunes\"",
     "rank": 4,
-    "tweet_count": "21K Tweets"
+    "tweet_count": "24.2K Tweets"
   },
   {
     "name": "Malley",
     "query": "Malley",
     "rank": 5,
-    "tweet_count": "1,261 Tweets"
+    "tweet_count": "1,275 Tweets"
   },
   {
     "name": "#RMCMMA",
@@ -60,10 +60,10 @@
     "tweet_count": "23.7K Tweets"
   },
   {
-    "name": "Ahmed Sylla",
-    "query": "\"Ahmed Sylla\"",
+    "name": "#MarocAlgerie",
+    "query": "#MarocAlgerie",
     "rank": 11,
-    "tweet_count": "17.3K Tweets"
+    "tweet_count": "17K Tweets"
   },
   {
     "name": "Miss IDF",
@@ -72,16 +72,16 @@
     "tweet_count": "10.3K Tweets"
   },
   {
-    "name": "#MarocAlgerie",
-    "query": "#MarocAlgerie",
-    "rank": 13,
-    "tweet_count": "17K Tweets"
-  },
-  {
     "name": "Ile de France",
     "query": "\"Ile de France\"",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": "39.9K Tweets"
+  },
+  {
+    "name": "ahmed sylla",
+    "query": "\"ahmed sylla\"",
+    "rank": 14,
+    "tweet_count": "17.3K Tweets"
   },
   {
     "name": "Miss Guyane",
@@ -90,22 +90,22 @@
     "tweet_count": "19.5K Tweets"
   },
   {
-    "name": "Belaili",
-    "query": "Belaili",
-    "rank": 16,
-    "tweet_count": "31.2K Tweets"
-  },
-  {
     "name": "Diane Leyre",
     "query": "\"Diane Leyre\"",
-    "rank": 17,
-    "tweet_count": "2,122 Tweets"
+    "rank": 16,
+    "tweet_count": "2,159 Tweets"
   },
   {
-    "name": "corse",
-    "query": "corse",
-    "rank": 18,
+    "name": "Corse",
+    "query": "Corse",
+    "rank": 17,
     "tweet_count": "23.4K Tweets"
+  },
+  {
+    "name": "Belaili",
+    "query": "Belaili",
+    "rank": 18,
+    "tweet_count": "31.3K Tweets"
   },
   {
     "name": "Provence",
@@ -117,6 +117,6 @@
     "name": "miss rhône-alpes",
     "query": "\"miss rhône-alpes\"",
     "rank": 20,
-    "tweet_count": "6,023 Tweets"
+    "tweet_count": null
   }
 ]
