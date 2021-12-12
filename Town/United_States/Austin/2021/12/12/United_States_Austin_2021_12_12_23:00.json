@@ -1,69 +1,69 @@
 [
   {
+    "name": "Collins",
+    "query": "Collins",
+    "rank": 1,
+    "tweet_count": "23.4K Tweets"
+  },
+  {
     "name": "Kellen",
     "query": "Kellen",
-    "rank": 1,
-    "tweet_count": "3,790 Tweets"
+    "rank": 2,
+    "tweet_count": "3,887 Tweets"
   },
   {
     "name": "Villanova",
     "query": "Villanova",
-    "rank": 2,
-    "tweet_count": "3,217 Tweets"
+    "rank": 3,
+    "tweet_count": "3,290 Tweets"
+  },
+  {
+    "name": "Dak Prescott",
+    "query": "\"Dak Prescott\"",
+    "rank": 4,
+    "tweet_count": "4,061 Tweets"
   },
   {
     "name": "Prescott",
     "query": "Prescott",
-    "rank": 3,
-    "tweet_count": "6,235 Tweets"
-  },
-  {
-    "name": "Gregory",
-    "query": "Gregory",
-    "rank": 4,
-    "tweet_count": "16.9K Tweets"
-  },
-  {
-    "name": "DPOY",
-    "query": "DPOY",
     "rank": 5,
-    "tweet_count": "12.2K Tweets"
+    "tweet_count": "6,387 Tweets"
   },
   {
     "name": "Daks",
     "query": "Daks",
     "rank": 6,
-    "tweet_count": "7,547 Tweets"
+    "tweet_count": "7,655 Tweets"
+  },
+  {
+    "name": "DPOY",
+    "query": "DPOY",
+    "rank": 7,
+    "tweet_count": "12.5K Tweets"
   },
   {
     "name": "NFC East",
     "query": "\"NFC East\"",
-    "rank": 7,
-    "tweet_count": "1,533 Tweets"
+    "rank": 8,
+    "tweet_count": "1,567 Tweets"
   },
   {
     "name": "Tyron",
     "query": "Tyron",
-    "rank": 8,
-    "tweet_count": "3,583 Tweets"
-  },
-  {
-    "name": "Romo",
-    "query": "Romo",
     "rank": 9,
-    "tweet_count": "4,916 Tweets"
+    "tweet_count": "3,611 Tweets"
   },
   {
     "name": "Benzema",
     "query": "Benzema",
     "rank": 10,
-    "tweet_count": "71.9K Tweets"
+    "tweet_count": "74.4K Tweets"
   },
   {
-    "name": "Moore",
-    "query": "Moore",
+    "name": "Seahawks",
+    "query": "Seahawks",
     "rank": 11,
-    "tweet_count": "20K Tweets"
+    "tweet_count": "22.4K Tweets"
   },
   {
     "name": "#DC4L",
@@ -72,51 +72,51 @@
     "tweet_count": null
   },
   {
+    "name": "Gregory",
+    "query": "Gregory",
+    "rank": 13,
+    "tweet_count": "17.1K Tweets"
+  },
+  {
+    "name": "Cam Newton",
+    "query": "\"Cam Newton\"",
+    "rank": 14,
+    "tweet_count": "9,361 Tweets"
+  },
+  {
     "name": "Gallup",
     "query": "Gallup",
-    "rank": 13,
-    "tweet_count": "2,685 Tweets"
+    "rank": 15,
+    "tweet_count": "2,705 Tweets"
   },
   {
     "name": "#WeDemBoyz",
     "query": "#WeDemBoyz",
-    "rank": 14,
+    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "Defensive Player of the Year",
-    "query": "\"Defensive Player of the Year\"",
-    "rank": 15,
-    "tweet_count": "6,270 Tweets"
-  },
-  {
-    "name": "Sunday Funday",
-    "query": "\"Sunday Funday\"",
-    "rank": 16,
-    "tweet_count": "8,671 Tweets"
-  },
-  {
-    "name": "Football Team",
-    "query": "\"Football Team\"",
+    "name": "#SundayFunday",
+    "query": "#SundayFunday",
     "rank": 17,
-    "tweet_count": "23K Tweets"
+    "tweet_count": "9,907 Tweets"
   },
   {
     "name": "Terry",
     "query": "Terry",
     "rank": 18,
-    "tweet_count": "24.4K Tweets"
+    "tweet_count": "24.9K Tweets"
   },
   {
     "name": "CeeDee",
     "query": "CeeDee",
     "rank": 19,
-    "tweet_count": "1,507 Tweets"
+    "tweet_count": "1,537 Tweets"
   },
   {
     "name": "Anne Rice",
     "query": "\"Anne Rice\"",
     "rank": 20,
-    "tweet_count": "105K Tweets"
+    "tweet_count": "106K Tweets"
   }
 ]
