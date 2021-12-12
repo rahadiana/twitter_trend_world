@@ -1,15 +1,15 @@
 [
   {
-    "name": "McGregor",
-    "query": "McGregor",
+    "name": "Nick Walsh",
+    "query": "\"Nick Walsh\"",
     "rank": 1,
-    "tweet_count": "8,802 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Forrest",
-    "query": "Forrest",
+    "name": "McGregor",
+    "query": "McGregor",
     "rank": 2,
-    "tweet_count": "4,140 Tweets"
+    "tweet_count": "8,949 Tweets"
   },
   {
     "name": "Andy Walker",
@@ -18,40 +18,40 @@
     "tweet_count": null
   },
   {
-    "name": "Aribo",
-    "query": "Aribo",
+    "name": "Ginnelly",
+    "query": "Ginnelly",
     "rank": 4,
-    "tweet_count": "1,952 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Motherwell",
+    "query": "Motherwell",
+    "rank": 5,
+    "tweet_count": "1,408 Tweets"
+  },
+  {
+    "name": "Joe Aribo",
+    "query": "\"Joe Aribo\"",
+    "rank": 6,
+    "tweet_count": null
   },
   {
     "name": "Arfield",
     "query": "Arfield",
-    "rank": 5,
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "Devlin",
+    "query": "Devlin",
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Sakala",
     "query": "Sakala",
-    "rank": 6,
-    "tweet_count": "1,107 Tweets"
-  },
-  {
-    "name": "Devlin",
-    "query": "Devlin",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
-    "name": "Goldson",
-    "query": "Goldson",
-    "rank": 8,
-    "tweet_count": "1,010 Tweets"
-  },
-  {
-    "name": "Bassey",
-    "query": "Bassey",
     "rank": 9,
-    "tweet_count": "1,442 Tweets"
+    "tweet_count": "1,129 Tweets"
   },
   {
     "name": "Ewen",
@@ -60,63 +60,63 @@
     "tweet_count": null
   },
   {
-    "name": "Motherwell",
-    "query": "Motherwell",
+    "name": "Goldson",
+    "query": "Goldson",
     "rank": 11,
-    "tweet_count": "1,225 Tweets"
+    "tweet_count": "1,065 Tweets"
+  },
+  {
+    "name": "Bassey",
+    "query": "Bassey",
+    "rank": 12,
+    "tweet_count": "1,466 Tweets"
   },
   {
     "name": "Tynecastle",
     "query": "Tynecastle",
-    "rank": 12,
-    "tweet_count": "1,988 Tweets"
+    "rank": 13,
+    "tweet_count": "2,059 Tweets"
   },
   {
     "name": "Kent",
     "query": "Kent",
-    "rank": 13,
-    "tweet_count": "27K Tweets"
+    "rank": 14,
+    "tweet_count": "27.6K Tweets"
   },
   {
     "name": "Kamara",
     "query": "Kamara",
-    "rank": 14,
-    "tweet_count": "2,278 Tweets"
+    "rank": 15,
+    "tweet_count": "2,446 Tweets"
   },
   {
     "name": "Abada",
     "query": "Abada",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "#rangersfc",
     "query": "#rangersfc",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Gordon",
     "query": "Gordon",
-    "rank": 17,
-    "tweet_count": "16.6K Tweets"
-  },
-  {
-    "name": "#Marr",
-    "query": "#Marr",
     "rank": 18,
-    "tweet_count": "21.5K Tweets"
+    "tweet_count": "17.2K Tweets"
   },
   {
     "name": "#AbuDhabiGP",
     "query": "#AbuDhabiGP",
     "rank": 19,
-    "tweet_count": "635K Tweets"
+    "tweet_count": "703K Tweets"
   },
   {
-    "name": "#AbuDhabiGP",
-    "query": "#AbuDhabiGP",
+    "name": "#F1Finale",
+    "query": "#F1Finale",
     "rank": 20,
-    "tweet_count": "635K Tweets"
+    "tweet_count": "63.7K Tweets"
   }
 ]

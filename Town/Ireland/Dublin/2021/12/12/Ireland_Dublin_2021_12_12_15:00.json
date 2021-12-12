@@ -1,104 +1,122 @@
 [
   {
-    "name": "#FingalDublin2021",
-    "query": "#FingalDublin2021",
+    "name": "#fingaldublin2021",
+    "query": "#fingaldublin2021",
     "rank": 1,
-    "tweet_count": "1,702 Tweets"
+    "tweet_count": "1,781 Tweets"
   },
   {
     "name": "#AbuDhabiGP",
     "query": "#AbuDhabiGP",
     "rank": 2,
-    "tweet_count": "635K Tweets"
-  },
-  {
-    "name": "#AbuDhabiGP",
-    "query": "#AbuDhabiGP",
-    "rank": 3,
-    "tweet_count": "635K Tweets"
+    "tweet_count": "703K Tweets"
   },
   {
     "name": "#F1Finale",
     "query": "#F1Finale",
+    "rank": 3,
+    "tweet_count": "63.9K Tweets"
+  },
+  {
+    "name": "Hamilton",
+    "query": "Hamilton",
     "rank": 4,
-    "tweet_count": "58.6K Tweets"
+    "tweet_count": "564K Tweets"
   },
   {
     "name": "#FormulaOne",
     "query": "#FormulaOne",
     "rank": 5,
-    "tweet_count": "22.1K Tweets"
+    "tweet_count": "25K Tweets"
+  },
+  {
+    "name": "Verstappen",
+    "query": "Verstappen",
+    "rank": 6,
+    "tweet_count": "619K Tweets"
+  },
+  {
+    "name": "Toto",
+    "query": "Toto",
+    "rank": 7,
+    "tweet_count": "86.4K Tweets"
   },
   {
     "name": "Perez",
     "query": "Perez",
-    "rank": 6,
-    "tweet_count": "209K Tweets"
-  },
-  {
-    "name": "Michael Masi",
-    "query": "\"Michael Masi\"",
-    "rank": 7,
-    "tweet_count": "38.1K Tweets"
-  },
-  {
-    "name": "Drive to Survive",
-    "query": "\"Drive to Survive\"",
     "rank": 8,
-    "tweet_count": "10.6K Tweets"
+    "tweet_count": "220K Tweets"
   },
   {
-    "name": "Checo",
-    "query": "Checo",
+    "name": "Formula 1",
+    "query": "\"Formula 1\"",
     "rank": 9,
-    "tweet_count": "123K Tweets"
-  },
-  {
-    "name": "Kimi",
-    "query": "Kimi",
-    "rank": 10,
-    "tweet_count": "98.4K Tweets"
-  },
-  {
-    "name": "Bottas",
-    "query": "Bottas",
-    "rank": 11,
-    "tweet_count": "49.1K Tweets"
-  },
-  {
-    "name": "Munster",
-    "query": "Munster",
-    "rank": 12,
-    "tweet_count": "1,870 Tweets"
-  },
-  {
-    "name": "Connacht",
-    "query": "Connacht",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "#CONvSFP",
-    "query": "#CONvSFP",
-    "rank": 14,
-    "tweet_count": null
+    "tweet_count": "119K Tweets"
   },
   {
     "name": "#WASvMUN",
     "query": "#WASvMUN",
-    "rank": 15,
+    "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "#NUFC",
-    "query": "#NUFC",
-    "rank": 16,
-    "tweet_count": "6,297 Tweets"
+    "name": "Michael Masi",
+    "query": "\"Michael Masi\"",
+    "rank": 11,
+    "tweet_count": "47.8K Tweets"
   },
   {
-    "name": "#SUAF",
-    "query": "#SUAF",
+    "name": "Latifi",
+    "query": "Latifi",
+    "rank": 12,
+    "tweet_count": "133K Tweets"
+  },
+  {
+    "name": "Drive to Survive",
+    "query": "\"Drive to Survive\"",
+    "rank": 13,
+    "tweet_count": "13K Tweets"
+  },
+  {
+    "name": "Checo",
+    "query": "Checo",
+    "rank": 14,
+    "tweet_count": "135K Tweets"
+  },
+  {
+    "name": "Munster",
+    "query": "Munster",
+    "rank": 15,
+    "tweet_count": "2,062 Tweets"
+  },
+  {
+    "name": "Kimi",
+    "query": "Kimi",
+    "rank": 16,
+    "tweet_count": "102K Tweets"
+  },
+  {
+    "name": "Bottas",
+    "query": "Bottas",
     "rank": 17,
+    "tweet_count": "52K Tweets"
+  },
+  {
+    "name": "Connacht",
+    "query": "Connacht",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "#RedBull",
+    "query": "#RedBull",
+    "rank": 19,
+    "tweet_count": "28K Tweets"
+  },
+  {
+    "name": "#convsfp",
+    "query": "#convsfp",
+    "rank": 20,
     "tweet_count": null
   }
 ]
