@@ -1,98 +1,104 @@
 [
   {
-    "name": "#Oilers",
-    "query": "#Oilers",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#AbuDhabiGP",
     "query": "#AbuDhabiGP",
+    "rank": 1,
+    "tweet_count": "458K Tweets"
+  },
+  {
+    "name": "#F1Finale",
+    "query": "#F1Finale",
     "rank": 2,
-    "tweet_count": "343K Tweets"
+    "tweet_count": "38.9K Tweets"
   },
   {
     "name": "#AbuDabhiGP",
     "query": "#AbuDabhiGP",
     "rank": 3,
-    "tweet_count": "44.5K Tweets"
+    "tweet_count": "58.6K Tweets"
   },
   {
-    "name": "Lewis",
-    "query": "Lewis",
+    "name": "#FormulaOne",
+    "query": "#FormulaOne",
     "rank": 4,
-    "tweet_count": "209K Tweets"
+    "tweet_count": "13.7K Tweets"
   },
   {
     "name": "Perez",
     "query": "Perez",
     "rank": 5,
-    "tweet_count": "177K Tweets"
+    "tweet_count": "185K Tweets"
   },
   {
-    "name": "#F1Finale",
-    "query": "#F1Finale",
+    "name": "Latifi",
+    "query": "Latifi",
     "rank": 6,
-    "tweet_count": "22.9K Tweets"
+    "tweet_count": "57.4K Tweets"
   },
   {
     "name": "Anne Rice",
     "query": "\"Anne Rice\"",
     "rank": 7,
-    "tweet_count": "42.1K Tweets"
-  },
-  {
-    "name": "Kimi",
-    "query": "Kimi",
-    "rank": 8,
-    "tweet_count": "93.7K Tweets"
-  },
-  {
-    "name": "#AskFFT",
-    "query": "#AskFFT",
-    "rank": 9,
-    "tweet_count": "1,511 Tweets"
+    "tweet_count": "44.1K Tweets"
   },
   {
     "name": "Toto",
     "query": "Toto",
+    "rank": 8,
+    "tweet_count": "51.6K Tweets"
+  },
+  {
+    "name": "Kimi",
+    "query": "Kimi",
+    "rank": 9,
+    "tweet_count": "94.6K Tweets"
+  },
+  {
+    "name": "Bottas",
+    "query": "Bottas",
     "rank": 10,
-    "tweet_count": "42.7K Tweets"
+    "tweet_count": "45.4K Tweets"
+  },
+  {
+    "name": "#AskFFT",
+    "query": "#AskFFT",
+    "rank": 11,
+    "tweet_count": "1,764 Tweets"
   },
   {
     "name": "Mel Lastman",
     "query": "\"Mel Lastman\"",
-    "rank": 11,
-    "tweet_count": "2,218 Tweets"
+    "rank": 12,
+    "tweet_count": "2,244 Tweets"
   },
   {
     "name": "Nunes",
     "query": "Nunes",
-    "rank": 12,
-    "tweet_count": "77.2K Tweets"
-  },
-  {
-    "name": "#FormulaOne",
-    "query": "#FormulaOne",
     "rank": 13,
-    "tweet_count": "6,277 Tweets"
+    "tweet_count": "77.6K Tweets"
   },
   {
     "name": "#LaurenBoebertIsSoDumb",
     "query": "#LaurenBoebertIsSoDumb",
     "rank": 14,
-    "tweet_count": "9,163 Tweets"
+    "tweet_count": "9,898 Tweets"
   },
   {
     "name": "#sundayvibes",
     "query": "#sundayvibes",
     "rank": 15,
-    "tweet_count": "16.3K Tweets"
+    "tweet_count": "16.6K Tweets"
   },
   {
     "name": "#GreyCup2021",
     "query": "#GreyCup2021",
     "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "#DefendTheCup",
+    "query": "#DefendTheCup",
+    "rank": 17,
     "tweet_count": null
   }
 ]

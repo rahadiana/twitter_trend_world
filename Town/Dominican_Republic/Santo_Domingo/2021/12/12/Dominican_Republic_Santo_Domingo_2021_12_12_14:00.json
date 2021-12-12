@@ -1,15 +1,15 @@
 [
   {
-    "name": "Checo",
-    "query": "Checo",
-    "rank": 1,
-    "tweet_count": "90K Tweets"
-  },
-  {
     "name": "Vicente Fernández",
     "query": "\"Vicente Fernández\"",
+    "rank": 1,
+    "tweet_count": "67.5K Tweets"
+  },
+  {
+    "name": "#AbuDhabiGP",
+    "query": "#AbuDhabiGP",
     "rank": 2,
-    "tweet_count": "59.3K Tweets"
+    "tweet_count": "458K Tweets"
   },
   {
     "name": "#CentenarioRojo",
@@ -18,28 +18,28 @@
     "tweet_count": null
   },
   {
-    "name": "#AbuDhabiGP",
-    "query": "#AbuDhabiGP",
+    "name": "#F1Finale",
+    "query": "#F1Finale",
     "rank": 4,
-    "tweet_count": "343K Tweets"
+    "tweet_count": "39.9K Tweets"
   },
   {
     "name": "#FelizDomingo",
     "query": "#FelizDomingo",
     "rank": 5,
-    "tweet_count": "9,410 Tweets"
-  },
-  {
-    "name": "#AbuDabhiGP",
-    "query": "#AbuDabhiGP",
-    "rank": 6,
-    "tweet_count": "44.8K Tweets"
+    "tweet_count": "9,721 Tweets"
   },
   {
     "name": "#cumbrealianzademocracia",
     "query": "#cumbrealianzademocracia",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
+  },
+  {
+    "name": "Bottas",
+    "query": "Bottas",
+    "rank": 7,
+    "tweet_count": "45.4K Tweets"
   },
   {
     "name": "Jimmy Paredes",
@@ -51,19 +51,19 @@
     "name": "Lewis",
     "query": "Lewis",
     "rank": 9,
-    "tweet_count": "209K Tweets"
-  },
-  {
-    "name": "Costa Rica",
-    "query": "\"Costa Rica\"",
-    "rank": 10,
-    "tweet_count": "6,200 Tweets"
+    "tweet_count": "246K Tweets"
   },
   {
     "name": "México",
     "query": "México",
+    "rank": 10,
+    "tweet_count": "177K Tweets"
+  },
+  {
+    "name": "Costa Rica",
+    "query": "\"Costa Rica\"",
     "rank": 11,
-    "tweet_count": "174K Tweets"
+    "tweet_count": "6,242 Tweets"
   },
   {
     "name": "jenn quezada",
@@ -78,22 +78,22 @@
     "tweet_count": null
   },
   {
-    "name": "Bachata",
-    "query": "Bachata",
-    "rank": 14,
-    "tweet_count": "2,541 Tweets"
-  },
-  {
     "name": "Hipólito",
     "query": "Hipólito",
-    "rank": 15,
-    "tweet_count": "1,489 Tweets"
+    "rank": 14,
+    "tweet_count": "1,509 Tweets"
   },
   {
-    "name": "Valenzuela",
-    "query": "Valenzuela",
+    "name": "bachata",
+    "query": "bachata",
+    "rank": 15,
+    "tweet_count": "2,564 Tweets"
+  },
+  {
+    "name": "valenzuela",
+    "query": "valenzuela",
     "rank": 16,
-    "tweet_count": "2,862 Tweets"
+    "tweet_count": "3,254 Tweets"
   },
   {
     "name": "feliz sábado",
@@ -105,18 +105,18 @@
     "name": "Desarrollo",
     "query": "Desarrollo",
     "rank": 18,
-    "tweet_count": "26K Tweets"
+    "tweet_count": "26.3K Tweets"
   },
   {
     "name": "Derechos Humanos",
     "query": "\"Derechos Humanos\"",
     "rank": 19,
-    "tweet_count": "50.8K Tweets"
+    "tweet_count": "51.1K Tweets"
   },
   {
     "name": "Guinness",
     "query": "Guinness",
     "rank": 20,
-    "tweet_count": "5,594 Tweets"
+    "tweet_count": "5,670 Tweets"
   }
 ]
