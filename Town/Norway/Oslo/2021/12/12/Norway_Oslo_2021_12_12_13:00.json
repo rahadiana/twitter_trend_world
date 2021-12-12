@@ -1,87 +1,87 @@
 [
   {
+    "name": "Hamilton",
+    "query": "Hamilton",
+    "rank": 1,
+    "tweet_count": "196K Tweets"
+  },
+  {
+    "name": "#AbuDhabiGP",
+    "query": "#AbuDhabiGP",
+    "rank": 2,
+    "tweet_count": "278K Tweets"
+  },
+  {
+    "name": "Lewis",
+    "query": "Lewis",
+    "rank": 3,
+    "tweet_count": "162K Tweets"
+  },
+  {
     "name": "#maskorama",
     "query": "#maskorama",
-    "rank": 1,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Davos",
     "query": "Davos",
-    "rank": 2,
-    "tweet_count": "2,746 Tweets"
-  },
-  {
-    "name": "#AbuDhabiGP",
-    "query": "#AbuDhabiGP",
-    "rank": 3,
-    "tweet_count": "226K Tweets"
+    "rank": 5,
+    "tweet_count": "2,819 Tweets"
   },
   {
     "name": "Formel 1",
     "query": "\"Formel 1\"",
-    "rank": 4,
-    "tweet_count": "1,107 Tweets"
-  },
-  {
-    "name": "Brann",
-    "query": "Brann",
-    "rank": 5,
-    "tweet_count": null
+    "rank": 6,
+    "tweet_count": "1,251 Tweets"
   },
   {
     "name": "Jimenez",
     "query": "Jimenez",
-    "rank": 6,
-    "tweet_count": "15.4K Tweets"
-  },
-  {
-    "name": "Verstappen",
-    "query": "Verstappen",
     "rank": 7,
-    "tweet_count": "111K Tweets"
+    "tweet_count": "15.6K Tweets"
   },
   {
-    "name": "Mjøndalen",
-    "query": "Mjøndalen",
+    "name": "Brann",
+    "query": "Brann",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Ronny Deila",
-    "query": "\"Ronny Deila\"",
+    "name": "#NORMUN",
+    "query": "#NORMUN",
     "rank": 9,
-    "tweet_count": "4,782 Tweets"
+    "tweet_count": "76.1K Tweets"
   },
   {
-    "name": "Rashford",
-    "query": "Rashford",
+    "name": "Ronny Deila",
+    "query": "\"Ronny Deila\"",
     "rank": 10,
-    "tweet_count": "63.8K Tweets"
+    "tweet_count": "4,834 Tweets"
   },
   {
     "name": "#UFC269",
     "query": "#UFC269",
     "rank": 11,
-    "tweet_count": "300K Tweets"
+    "tweet_count": "302K Tweets"
+  },
+  {
+    "name": "Perez",
+    "query": "Perez",
+    "rank": 12,
+    "tweet_count": "65.3K Tweets"
+  },
+  {
+    "name": "Mjøndalen",
+    "query": "Mjøndalen",
+    "rank": 13,
+    "tweet_count": null
   },
   {
     "name": "#LIVAVL",
     "query": "#LIVAVL",
-    "rank": 12,
-    "tweet_count": "36.4K Tweets"
-  },
-  {
-    "name": "#MCIWOL",
-    "query": "#MCIWOL",
-    "rank": 13,
-    "tweet_count": "18.3K Tweets"
-  },
-  {
-    "name": "Lewis",
-    "query": "Lewis",
     "rank": 14,
-    "tweet_count": "124K Tweets"
+    "tweet_count": "36.4K Tweets"
   },
   {
     "name": "snømonsteret",
@@ -99,13 +99,13 @@
     "name": "Gerrard",
     "query": "Gerrard",
     "rank": 17,
-    "tweet_count": "43.5K Tweets"
+    "tweet_count": "43.8K Tweets"
   },
   {
-    "name": "Hamilton",
-    "query": "Hamilton",
+    "name": "5000 kwh",
+    "query": "\"5000 kwh\"",
     "rank": 18,
-    "tweet_count": "131K Tweets"
+    "tweet_count": null
   },
   {
     "name": "didrik",
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "5000 kwh",
-    "query": "\"5000 kwh\"",
+    "name": "Wolves",
+    "query": "Wolves",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "41.7K Tweets"
   }
 ]
