@@ -3,13 +3,13 @@
     "name": "Tottus",
     "query": "Tottus",
     "rank": 1,
-    "tweet_count": "2,458 Tweets"
+    "tweet_count": "2,502 Tweets"
   },
   {
     "name": "#Coldplay",
     "query": "#Coldplay",
     "rank": 2,
-    "tweet_count": "2,060 Tweets"
+    "tweet_count": "2,330 Tweets"
   },
   {
     "name": "#freeperuchas",
@@ -21,84 +21,102 @@
     "name": "Messi",
     "query": "Messi",
     "rank": 4,
-    "tweet_count": "356K Tweets"
+    "tweet_count": "359K Tweets"
+  },
+  {
+    "name": "#ChampionsLeague",
+    "query": "#ChampionsLeague",
+    "rank": 5,
+    "tweet_count": "17.3K Tweets"
   },
   {
     "name": "UEFA",
     "query": "UEFA",
-    "rank": 5,
-    "tweet_count": "383K Tweets"
+    "rank": 6,
+    "tweet_count": "386K Tweets"
+  },
+  {
+    "name": "Real Madrid",
+    "query": "\"Real Madrid\"",
+    "rank": 7,
+    "tweet_count": "283K Tweets"
   },
   {
     "name": "Teleticket",
     "query": "Teleticket",
-    "rank": 6,
+    "rank": 8,
     "tweet_count": null
+  },
+  {
+    "name": "Liverpool",
+    "query": "Liverpool",
+    "rank": 9,
+    "tweet_count": "159K Tweets"
   },
   {
     "name": "Bernabéu",
     "query": "Bernabéu",
-    "rank": 7,
-    "tweet_count": "39.9K Tweets"
+    "rank": 10,
+    "tweet_count": "40.8K Tweets"
   },
   {
     "name": "Cristiano",
     "query": "Cristiano",
-    "rank": 8,
-    "tweet_count": "133K Tweets"
+    "rank": 11,
+    "tweet_count": "135K Tweets"
+  },
+  {
+    "name": "Chelsea",
+    "query": "Chelsea",
+    "rank": 12,
+    "tweet_count": "207K Tweets"
+  },
+  {
+    "name": "Benfica",
+    "query": "Benfica",
+    "rank": 13,
+    "tweet_count": "119K Tweets"
   },
   {
     "name": "#HappyBirthdayTaylorSwift",
     "query": "#HappyBirthdayTaylorSwift",
-    "rank": 9,
-    "tweet_count": "107K Tweets"
-  },
-  {
-    "name": "#2YearsOfFineLine",
-    "query": "#2YearsOfFineLine",
-    "rank": 10,
-    "tweet_count": "17.7K Tweets"
-  },
-  {
-    "name": "#66AñosDePaSCión",
-    "query": "#66AñosDePaSCión",
-    "rank": 11,
-    "tweet_count": "2,491 Tweets"
-  },
-  {
-    "name": "Hugo García",
-    "query": "\"Hugo García\"",
-    "rank": 12,
-    "tweet_count": "1,225 Tweets"
-  },
-  {
-    "name": "Atlético",
-    "query": "Atlético",
-    "rank": 13,
-    "tweet_count": "336K Tweets"
-  },
-  {
-    "name": "Feliz 66",
-    "query": "\"Feliz 66\"",
     "rank": 14,
-    "tweet_count": "1,007 Tweets"
-  },
-  {
-    "name": "Sporting Cristal",
-    "query": "\"Sporting Cristal\"",
-    "rank": 15,
-    "tweet_count": "1,709 Tweets"
-  },
-  {
-    "name": "Verónica Mendoza",
-    "query": "\"Verónica Mendoza\"",
-    "rank": 16,
-    "tweet_count": "1,525 Tweets"
+    "tweet_count": "108K Tweets"
   },
   {
     "name": "#FuerzaCristal",
     "query": "#FuerzaCristal",
+    "rank": 15,
+    "tweet_count": "2,605 Tweets"
+  },
+  {
+    "name": "Ajax",
+    "query": "Ajax",
+    "rank": 16,
+    "tweet_count": "90.7K Tweets"
+  },
+  {
+    "name": "Atlético",
+    "query": "Atlético",
     "rank": 17,
-    "tweet_count": "2,575 Tweets"
+    "tweet_count": "340K Tweets"
+  },
+  {
+    "name": "Hugo García",
+    "query": "\"Hugo García\"",
+    "rank": 18,
+    "tweet_count": "1,238 Tweets"
+  },
+  {
+    "name": "Feliz 66",
+    "query": "\"Feliz 66\"",
+    "rank": 19,
+    "tweet_count": "1,034 Tweets"
+  },
+  {
+    "name": "Sporting Cristal",
+    "query": "\"Sporting Cristal\"",
+    "rank": 20,
+    "tweet_count": "1,757 Tweets"
   }
 ]
