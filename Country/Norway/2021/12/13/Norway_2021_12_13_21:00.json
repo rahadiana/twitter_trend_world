@@ -1,93 +1,93 @@
 [
   {
-    "name": "#nrknyheter",
-    "query": "#nrknyheter",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "UEFA",
     "query": "UEFA",
-    "rank": 2,
-    "tweet_count": "429K Tweets"
-  },
-  {
-    "name": "#korona",
-    "query": "#korona",
-    "rank": 3,
-    "tweet_count": null
+    "rank": 1,
+    "tweet_count": "431K Tweets"
   },
   {
     "name": "Berg",
     "query": "Berg",
-    "rank": 4,
-    "tweet_count": "3,851 Tweets"
+    "rank": 2,
+    "tweet_count": "3,951 Tweets"
+  },
+  {
+    "name": "Atletico",
+    "query": "Atletico",
+    "rank": 3,
+    "tweet_count": "337K Tweets"
   },
   {
     "name": "Fotballfesten",
     "query": "Fotballfesten",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "#korona",
+    "query": "#korona",
     "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "#nrknyheter",
+    "query": "#nrknyheter",
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "Nederland",
     "query": "Nederland",
-    "rank": 6,
-    "tweet_count": "14.4K Tweets"
+    "rank": 7,
+    "tweet_count": "14.7K Tweets"
   },
   {
     "name": "kjerkol",
     "query": "kjerkol",
-    "rank": 7,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "#F1Finale",
     "query": "#F1Finale",
-    "rank": 8,
-    "tweet_count": "8,582 Tweets"
+    "rank": 9,
+    "tweet_count": "8,623 Tweets"
   },
   {
     "name": "Lucia",
     "query": "Lucia",
-    "rank": 9,
-    "tweet_count": "44.6K Tweets"
+    "rank": 10,
+    "tweet_count": "45.4K Tweets"
   },
   {
     "name": "Villarreal",
     "query": "Villarreal",
-    "rank": 10,
-    "tweet_count": "95.1K Tweets"
+    "rank": 11,
+    "tweet_count": "95.3K Tweets"
   },
   {
     "name": "#AbuDhabiGP",
     "query": "#AbuDhabiGP",
-    "rank": 11,
-    "tweet_count": "167K Tweets"
+    "rank": 12,
+    "tweet_count": "171K Tweets"
   },
   {
     "name": "forsvaret",
     "query": "forsvaret",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Støre",
     "query": "Støre",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Hamilton",
-    "query": "Hamilton",
     "rank": 14,
-    "tweet_count": "193K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Verstappen",
     "query": "Verstappen",
     "rank": 15,
-    "tweet_count": "143K Tweets"
+    "tweet_count": "144K Tweets"
   },
   {
     "name": "Høie",
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
-    "name": "#Omikron",
-    "query": "#Omikron",
-    "rank": 17,
-    "tweet_count": "7,582 Tweets"
-  },
-  {
-    "name": "Stabæk",
-    "query": "Stabæk",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
     "name": "Jerv",
     "query": "Jerv",
-    "rank": 19,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Salzburg",
     "query": "Salzburg",
+    "rank": 18,
+    "tweet_count": "57.4K Tweets"
+  },
+  {
+    "name": "regjeringen",
+    "query": "regjeringen",
+    "rank": 19,
+    "tweet_count": "1,017 Tweets"
+  },
+  {
+    "name": "#Omikron",
+    "query": "#Omikron",
     "rank": 20,
-    "tweet_count": "57.1K Tweets"
+    "tweet_count": "7,750 Tweets"
   }
 ]
