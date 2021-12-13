@@ -1,45 +1,45 @@
 [
   {
-    "name": "#SerieA",
-    "query": "#SerieA",
-    "rank": 1,
-    "tweet_count": "6,666 Tweets"
-  },
-  {
     "name": "#AbuDhabiGP",
     "query": "#AbuDhabiGP",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "1.03M Tweets"
-  },
-  {
-    "name": "#intercagliari",
-    "query": "#intercagliari",
-    "rank": 3,
-    "tweet_count": "15.4K Tweets"
   },
   {
     "name": "#13dicembre",
     "query": "#13dicembre",
-    "rank": 4,
-    "tweet_count": null
+    "rank": 2,
+    "tweet_count": "1,226 Tweets"
+  },
+  {
+    "name": "#InterCagliari",
+    "query": "#InterCagliari",
+    "rank": 3,
+    "tweet_count": "15.5K Tweets"
   },
   {
     "name": "#noQUIRISILVIO",
     "query": "#noQUIRISILVIO",
+    "rank": 4,
+    "tweet_count": "1,656 Tweets"
+  },
+  {
+    "name": "#HappyBirthdayTaylorSwift",
+    "query": "#HappyBirthdayTaylorSwift",
     "rank": 5,
-    "tweet_count": "1,047 Tweets"
+    "tweet_count": "50.2K Tweets"
+  },
+  {
+    "name": "Santa Lucia",
+    "query": "\"Santa Lucia\"",
+    "rank": 6,
+    "tweet_count": "5,710 Tweets"
   },
   {
     "name": "buona domenica",
     "query": "\"buona domenica\"",
-    "rank": 6,
-    "tweet_count": "15.8K Tweets"
-  },
-  {
-    "name": "Cragno",
-    "query": "Cragno",
     "rank": 7,
-    "tweet_count": "1,845 Tweets"
+    "tweet_count": "15.8K Tweets"
   },
   {
     "name": "Amedeo Nazzari",
@@ -48,75 +48,75 @@
     "tweet_count": null
   },
   {
-    "name": "Buongiorno Mari",
-    "query": "\"Buongiorno Mari\"",
+    "name": "Buongiorno Silvia",
+    "query": "\"Buongiorno Silvia\"",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Michael Masi",
-    "query": "\"Michael Masi\"",
-    "rank": 10,
-    "tweet_count": "94.9K Tweets"
-  },
-  {
     "name": "Buongiorno Silvia",
     "query": "\"Buongiorno Silvia\"",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "cragno",
+    "query": "cragno",
     "rank": 11,
+    "tweet_count": "1,857 Tweets"
+  },
+  {
+    "name": "michael masi",
+    "query": "\"michael masi\"",
+    "rank": 12,
+    "tweet_count": "95.5K Tweets"
+  },
+  {
+    "name": "Antonello",
+    "query": "Antonello",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Buongiorno Dj",
+    "query": "\"Buongiorno Dj\"",
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Ferrari",
     "query": "Ferrari",
-    "rank": 12,
-    "tweet_count": "47.8K Tweets"
+    "rank": 15,
+    "tweet_count": "48.1K Tweets"
   },
   {
     "name": "Allegri",
     "query": "Allegri",
-    "rank": 13,
-    "tweet_count": "4,752 Tweets"
+    "rank": 16,
+    "tweet_count": "4,780 Tweets"
   },
   {
     "name": "crytical",
     "query": "crytical",
-    "rank": 14,
-    "tweet_count": "2,419 Tweets"
-  },
-  {
-    "name": "Aisha",
-    "query": "Aisha",
-    "rank": 15,
-    "tweet_count": "15.1K Tweets"
-  },
-  {
-    "name": "giovannino",
-    "query": "giovannino",
-    "rank": 16,
-    "tweet_count": "1,680 Tweets"
-  },
-  {
-    "name": "Cutrone",
-    "query": "Cutrone",
     "rank": 17,
-    "tweet_count": "1,666 Tweets"
+    "tweet_count": "2,430 Tweets"
   },
   {
-    "name": "Anne Rice",
-    "query": "\"Anne Rice\"",
+    "name": "Buongiorno Mirella",
+    "query": "\"Buongiorno Mirella\"",
     "rank": 18,
-    "tweet_count": "125K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Buongiorno Dj",
-    "query": "\"Buongiorno Dj\"",
+    "name": "Buongiorno Isabella",
+    "query": "\"Buongiorno Isabella\"",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Sebastian",
-    "query": "Sebastian",
+    "name": "Aisha",
+    "query": "Aisha",
     "rank": 20,
-    "tweet_count": "36.5K Tweets"
+    "tweet_count": "15.2K Tweets"
   }
 ]

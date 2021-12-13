@@ -1,74 +1,86 @@
 [
   {
+    "name": "#FamilyMeeting",
+    "query": "#FamilyMeeting",
+    "rank": 1,
+    "tweet_count": "1,211 Tweets"
+  },
+  {
     "name": "#MissUniverse2021",
     "query": "#MissUniverse2021",
-    "rank": 1,
-    "tweet_count": "1.14M Tweets"
+    "rank": 2,
+    "tweet_count": "1.17M Tweets"
   },
   {
     "name": "#misssouthafrica",
     "query": "#misssouthafrica",
-    "rank": 2,
-    "tweet_count": "4,821 Tweets"
+    "rank": 3,
+    "tweet_count": "5,332 Tweets"
   },
   {
     "name": "#MondayMotivation",
     "query": "#MondayMotivation",
-    "rank": 3,
-    "tweet_count": "12.2K Tweets"
+    "rank": 4,
+    "tweet_count": "13.5K Tweets"
   },
   {
     "name": "#AEGFestiveFlavour",
     "query": "#AEGFestiveFlavour",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "David Mabuza",
     "query": "\"David Mabuza\"",
-    "rank": 5,
-    "tweet_count": "1,078 Tweets"
-  },
-  {
-    "name": "President Ramaphosa",
-    "query": "\"President Ramaphosa\"",
     "rank": 6,
-    "tweet_count": "15.1K Tweets"
+    "tweet_count": "1,230 Tweets"
   },
   {
     "name": "Mr Smeg",
     "query": "\"Mr Smeg\"",
     "rank": 7,
-    "tweet_count": "1,553 Tweets"
+    "tweet_count": "1,721 Tweets"
   },
   {
-    "name": "Top 3",
-    "query": "\"Top 3\"",
+    "name": "President Ramaphosa",
+    "query": "\"President Ramaphosa\"",
     "rank": 8,
-    "tweet_count": "179K Tweets"
-  },
-  {
-    "name": "Speedy",
-    "query": "Speedy",
-    "rank": 9,
-    "tweet_count": "12.5K Tweets"
+    "tweet_count": "15.7K Tweets"
   },
   {
     "name": "Israel",
     "query": "Israel",
+    "rank": 9,
+    "tweet_count": "150K Tweets"
+  },
+  {
+    "name": "Speedy",
+    "query": "Speedy",
     "rank": 10,
-    "tweet_count": "147K Tweets"
+    "tweet_count": "12.9K Tweets"
+  },
+  {
+    "name": "Top 3",
+    "query": "\"Top 3\"",
+    "rank": 11,
+    "tweet_count": "182K Tweets"
   },
   {
     "name": "Miss SA",
     "query": "\"Miss SA\"",
-    "rank": 11,
-    "tweet_count": "43K Tweets"
+    "rank": 12,
+    "tweet_count": "43.7K Tweets"
   },
   {
     "name": "De Klerk",
     "query": "\"De Klerk\"",
-    "rank": 12,
-    "tweet_count": "16.3K Tweets"
+    "rank": 13,
+    "tweet_count": "16.6K Tweets"
+  },
+  {
+    "name": "#WooliesChristmas",
+    "query": "#WooliesChristmas",
+    "rank": 14,
+    "tweet_count": null
   }
 ]
