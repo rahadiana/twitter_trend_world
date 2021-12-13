@@ -9,49 +9,49 @@
     "name": "#MissUniverse",
     "query": "#MissUniverse",
     "rank": 2,
-    "tweet_count": "675K Tweets"
+    "tweet_count": "677K Tweets"
   },
   {
     "name": "Abu Dhabi",
     "query": "\"Abu Dhabi\"",
     "rank": 3,
-    "tweet_count": "147K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "#AbuDhabiGP",
+    "query": "#AbuDhabiGP",
+    "rank": 4,
+    "tweet_count": "1.02M Tweets"
   },
   {
     "name": "Eilat",
     "query": "Eilat",
-    "rank": 4,
-    "tweet_count": "42.2K Tweets"
+    "rank": 5,
+    "tweet_count": "42.3K Tweets"
   },
   {
     "name": "אייל גפן",
     "query": "\"אייל גפן\"",
-    "rank": 5,
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "Israeli PM",
     "query": "\"Israeli PM\"",
-    "rank": 6,
-    "tweet_count": "3,108 Tweets"
+    "rank": 7,
+    "tweet_count": "3,123 Tweets"
   },
   {
     "name": "Zayed",
     "query": "Zayed",
-    "rank": 7,
-    "tweet_count": "3,975 Tweets"
+    "rank": 8,
+    "tweet_count": "4,025 Tweets"
   },
   {
     "name": "#log4j",
     "query": "#log4j",
-    "rank": 8,
-    "tweet_count": "15.7K Tweets"
-  },
-  {
-    "name": "חצי שנה",
-    "query": "\"חצי שנה\"",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "15.9K Tweets"
   },
   {
     "name": "בר לב",
@@ -60,26 +60,26 @@
     "tweet_count": null
   },
   {
+    "name": "חצי שנה",
+    "query": "\"חצי שנה\"",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
     "name": "Prime Minister",
     "query": "\"Prime Minister\"",
-    "rank": 11,
-    "tweet_count": "118K Tweets"
+    "rank": 12,
+    "tweet_count": "119K Tweets"
   },
   {
     "name": "Hamilton",
     "query": "Hamilton",
-    "rank": 12,
-    "tweet_count": "832K Tweets"
-  },
-  {
-    "name": "בוקר טוב",
-    "query": "\"בוקר טוב\"",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "833K Tweets"
   },
   {
-    "name": "יעל אודם",
-    "query": "\"יעל אודם\"",
+    "name": "כי הם",
+    "query": "\"כי הם\"",
     "rank": 14,
     "tweet_count": null
   },
@@ -90,32 +90,32 @@
     "tweet_count": null
   },
   {
-    "name": "Lewis",
-    "query": "Lewis",
+    "name": "ברק רביד",
+    "query": "\"ברק רביד\"",
     "rank": 16,
-    "tweet_count": "681K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "דנה רון",
-    "query": "\"דנה רון\"",
+    "name": "בוקר טוב",
+    "query": "\"בוקר טוב\"",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "ברק רביד",
-    "query": "\"ברק רביד\"",
+    "name": "Lewis",
+    "query": "Lewis",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "683K Tweets"
   },
   {
     "name": "United Arab Emirates",
     "query": "\"United Arab Emirates\"",
     "rank": 19,
-    "tweet_count": "2,886 Tweets"
+    "tweet_count": "2,905 Tweets"
   },
   {
-    "name": "כי הם",
-    "query": "\"כי הם\"",
+    "name": "דנה רון",
+    "query": "\"דנה רון\"",
     "rank": 20,
     "tweet_count": null
   }
