@@ -1,21 +1,21 @@
 [
   {
+    "name": "Hulk",
+    "query": "Hulk",
+    "rank": 1,
+    "tweet_count": "29.9K Tweets"
+  },
+  {
     "name": "Diego Costa",
     "query": "\"Diego Costa\"",
-    "rank": 1,
-    "tweet_count": "6,062 Tweets"
+    "rank": 2,
+    "tweet_count": "6,072 Tweets"
   },
   {
     "name": "Simon",
     "query": "Simon",
-    "rank": 2,
-    "tweet_count": "45.7K Tweets"
-  },
-  {
-    "name": "Hulk",
-    "query": "Hulk",
     "rank": 3,
-    "tweet_count": "29.8K Tweets"
+    "tweet_count": "46K Tweets"
   },
   {
     "name": "Tchô",
@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "Jogou",
-    "query": "Jogou",
-    "rank": 5,
-    "tweet_count": "13.8K Tweets"
-  },
-  {
     "name": "Vargas",
     "query": "Vargas",
+    "rank": 5,
+    "tweet_count": "31.2K Tweets"
+  },
+  {
+    "name": "Jogou",
+    "query": "Jogou",
     "rank": 6,
-    "tweet_count": "27.7K Tweets"
+    "tweet_count": "13.9K Tweets"
   },
   {
     "name": "Cavani",
@@ -45,7 +45,7 @@
     "name": "Ridículo",
     "query": "Ridículo",
     "rank": 8,
-    "tweet_count": "37.1K Tweets"
+    "tweet_count": "37.3K Tweets"
   },
   {
     "name": "AI CREDO",
@@ -54,69 +54,69 @@
     "tweet_count": "10.4K Tweets"
   },
   {
-    "name": "Botafogo",
-    "query": "Botafogo",
+    "name": "Galão",
+    "query": "Galão",
     "rank": 10,
-    "tweet_count": "9,282 Tweets"
+    "tweet_count": "11.6K Tweets"
+  },
+  {
+    "name": "botafogo",
+    "query": "botafogo",
+    "rank": 11,
+    "tweet_count": "9,336 Tweets"
   },
   {
     "name": "Curitiba",
     "query": "Curitiba",
-    "rank": 11,
-    "tweet_count": "5,918 Tweets"
-  },
-  {
-    "name": "Rabello",
-    "query": "Rabello",
     "rank": 12,
-    "tweet_count": "1,550 Tweets"
+    "tweet_count": "5,922 Tweets"
   },
   {
-    "name": "Supercopa",
-    "query": "Supercopa",
+    "name": "rabello",
+    "query": "rabello",
     "rank": 13,
-    "tweet_count": "21.2K Tweets"
+    "tweet_count": "1,552 Tweets"
   },
   {
     "name": "#RoçaAFazenda",
     "query": "#RoçaAFazenda",
     "rank": 14,
-    "tweet_count": "30K Tweets"
+    "tweet_count": "30.2K Tweets"
   },
   {
     "name": "#HappyBirthdayTaylorSwift",
     "query": "#HappyBirthdayTaylorSwift",
     "rank": 15,
-    "tweet_count": "33.9K Tweets"
+    "tweet_count": "37.4K Tweets"
   },
   {
     "name": "Dynho",
     "query": "Dynho",
     "rank": 16,
-    "tweet_count": "24.1K Tweets"
+    "tweet_count": "24.2K Tweets"
   },
   {
-    "name": "Packers",
-    "query": "Packers",
+    "name": "Dynho",
+    "query": "Dynho",
     "rank": 17,
-    "tweet_count": "92.8K Tweets"
+    "tweet_count": "24.2K Tweets"
+  },
+  {
+    "name": "Lebron",
+    "query": "Lebron",
+    "rank": 18,
+    "tweet_count": "54.9K Tweets"
   },
   {
     "name": "#Succession",
     "query": "#Succession",
-    "rank": 18,
-    "tweet_count": "29.1K Tweets"
+    "rank": 19,
+    "tweet_count": "30.1K Tweets"
   },
   {
     "name": "Lakers",
     "query": "Lakers",
-    "rank": 19,
-    "tweet_count": "33.6K Tweets"
-  },
-  {
-    "name": "#FicaRico",
-    "query": "#FicaRico",
     "rank": 20,
-    "tweet_count": "4,224 Tweets"
+    "tweet_count": "35.3K Tweets"
   }
 ]

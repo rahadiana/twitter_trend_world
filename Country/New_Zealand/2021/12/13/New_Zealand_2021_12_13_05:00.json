@@ -1,21 +1,21 @@
 [
   {
-    "name": "Northland",
-    "query": "Northland",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#UFC269",
     "query": "#UFC269",
+    "rank": 1,
+    "tweet_count": "99.6K Tweets"
+  },
+  {
+    "name": "Northland",
+    "query": "Northland",
     "rank": 2,
-    "tweet_count": "99.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Orange",
     "query": "Orange",
     "rank": 3,
-    "tweet_count": "95.5K Tweets"
+    "tweet_count": "96.2K Tweets"
   },
   {
     "name": "#AbuDhabiGP",
@@ -33,19 +33,19 @@
     "name": "Lenin",
     "query": "Lenin",
     "rank": 6,
-    "tweet_count": "9,736 Tweets"
+    "tweet_count": "9,784 Tweets"
+  },
+  {
+    "name": "Auckland",
+    "query": "Auckland",
+    "rank": 7,
+    "tweet_count": "2,207 Tweets"
   },
   {
     "name": "Lewis",
     "query": "Lewis",
-    "rank": 7,
-    "tweet_count": "653K Tweets"
-  },
-  {
-    "name": "Anne Rice",
-    "query": "\"Anne Rice\"",
     "rank": 8,
-    "tweet_count": "123K Tweets"
+    "tweet_count": "654K Tweets"
   },
   {
     "name": "Nick Smith",
@@ -54,69 +54,69 @@
     "tweet_count": null
   },
   {
+    "name": "Anne Rice",
+    "query": "\"Anne Rice\"",
+    "rank": 10,
+    "tweet_count": "124K Tweets"
+  },
+  {
     "name": "John Campbell",
     "query": "\"John Campbell\"",
-    "rank": 10,
-    "tweet_count": "1,139 Tweets"
-  },
-  {
-    "name": "Auckland",
-    "query": "Auckland",
     "rank": 11,
-    "tweet_count": "2,172 Tweets"
-  },
-  {
-    "name": "Lakers",
-    "query": "Lakers",
-    "rank": 12,
-    "tweet_count": "33.8K Tweets"
+    "tweet_count": "1,143 Tweets"
   },
   {
     "name": "Transmission Gully",
     "query": "\"Transmission Gully\"",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "#Formula1",
+    "query": "#Formula1",
+    "rank": 13,
+    "tweet_count": "56.2K Tweets"
   },
   {
     "name": "Lebron",
     "query": "Lebron",
     "rank": 14,
-    "tweet_count": "52.7K Tweets"
-  },
-  {
-    "name": "#Formula1",
-    "query": "#Formula1",
-    "rank": 15,
-    "tweet_count": "56K Tweets"
+    "tweet_count": "55.2K Tweets"
   },
   {
     "name": "Kai Kara",
     "query": "\"Kai Kara\"",
-    "rank": 16,
-    "tweet_count": "1,600 Tweets"
+    "rank": 15,
+    "tweet_count": "1,604 Tweets"
   },
   {
     "name": "Baker",
     "query": "Baker",
-    "rank": 17,
-    "tweet_count": "41.3K Tweets"
+    "rank": 16,
+    "tweet_count": "41.5K Tweets"
   },
   {
-    "name": "Green",
-    "query": "Green",
+    "name": "Lakers",
+    "query": "Lakers",
+    "rank": 17,
+    "tweet_count": "35.4K Tweets"
+  },
+  {
+    "name": "South Island",
+    "query": "\"South Island\"",
     "rank": 18,
-    "tweet_count": "228K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "#MissUniverse",
+    "query": "#MissUniverse",
+    "rank": 19,
+    "tweet_count": "608K Tweets"
   },
   {
     "name": "Julian Assange",
     "query": "\"Julian Assange\"",
-    "rank": 19,
-    "tweet_count": "81.6K Tweets"
-  },
-  {
-    "name": "Succession",
-    "query": "Succession",
     "rank": 20,
-    "tweet_count": "72.4K Tweets"
+    "tweet_count": "82K Tweets"
   }
 ]
