@@ -1,56 +1,62 @@
 [
   {
-    "name": "UEFA",
-    "query": "UEFA",
-    "rank": 1,
-    "tweet_count": "375K Tweets"
-  },
-  {
     "name": "#MondayMotivation",
     "query": "#MondayMotivation",
+    "rank": 1,
+    "tweet_count": "49.4K Tweets"
+  },
+  {
+    "name": "UEFA",
+    "query": "UEFA",
     "rank": 2,
-    "tweet_count": "47.3K Tweets"
+    "tweet_count": "383K Tweets"
+  },
+  {
+    "name": "Person of the Year",
+    "query": "\"Person of the Year\"",
+    "rank": 3,
+    "tweet_count": "35.6K Tweets"
   },
   {
     "name": "#GoldenGlobes",
     "query": "#GoldenGlobes",
-    "rank": 3,
-    "tweet_count": "12.8K Tweets"
-  },
-  {
-    "name": "Messi",
-    "query": "Messi",
     "rank": 4,
-    "tweet_count": "348K Tweets"
+    "tweet_count": "15.7K Tweets"
   },
   {
     "name": "#HappyBirthdayTaylorSwift",
     "query": "#HappyBirthdayTaylorSwift",
     "rank": 5,
-    "tweet_count": "104K Tweets"
+    "tweet_count": "107K Tweets"
+  },
+  {
+    "name": "Messi",
+    "query": "Messi",
+    "rank": 6,
+    "tweet_count": "356K Tweets"
   },
   {
     "name": "#mondaythoughts",
     "query": "#mondaythoughts",
-    "rank": 6,
-    "tweet_count": "14.4K Tweets"
+    "rank": 7,
+    "tweet_count": "14.9K Tweets"
   },
   {
     "name": "#Booster",
     "query": "#Booster",
-    "rank": 7,
-    "tweet_count": "12.4K Tweets"
+    "rank": 8,
+    "tweet_count": "12.6K Tweets"
   },
   {
     "name": "JK Rowling",
     "query": "\"JK Rowling\"",
-    "rank": 8,
-    "tweet_count": "74.2K Tweets"
+    "rank": 9,
+    "tweet_count": "77.7K Tweets"
   },
   {
     "name": "Succession",
     "query": "Succession",
-    "rank": 9,
-    "tweet_count": "114K Tweets"
+    "rank": 10,
+    "tweet_count": "117K Tweets"
   }
 ]
