@@ -1,116 +1,98 @@
 [
   {
-    "name": "#Succession",
-    "query": "#Succession",
+    "name": "Hamilton",
+    "query": "Hamilton",
     "rank": 1,
-    "tweet_count": "38.1K Tweets"
+    "tweet_count": "825K Tweets"
   },
   {
-    "name": "#GreyCup2021",
-    "query": "#GreyCup2021",
+    "name": "#Succession",
+    "query": "#Succession",
     "rank": 2,
-    "tweet_count": "6,147 Tweets"
+    "tweet_count": "38.6K Tweets"
   },
   {
     "name": "#HappyBirthdayTaylorSwift",
     "query": "#HappyBirthdayTaylorSwift",
     "rank": 3,
-    "tweet_count": "59.5K Tweets"
+    "tweet_count": "61.7K Tweets"
+  },
+  {
+    "name": "#GreyCup2021",
+    "query": "#GreyCup2021",
+    "rank": 4,
+    "tweet_count": "6,171 Tweets"
   },
   {
     "name": "Bruce",
     "query": "Bruce",
-    "rank": 4,
-    "tweet_count": "34.6K Tweets"
+    "rank": 5,
+    "tweet_count": "35.2K Tweets"
   },
   {
     "name": "#InsecureHBO",
     "query": "#InsecureHBO",
-    "rank": 5,
-    "tweet_count": "28.5K Tweets"
+    "rank": 6,
+    "tweet_count": "28.8K Tweets"
   },
   {
-    "name": "Hamilton",
-    "query": "Hamilton",
-    "rank": 6,
-    "tweet_count": "822K Tweets"
+    "name": "#BackToBack",
+    "query": "#BackToBack",
+    "rank": 7,
+    "tweet_count": null
   },
   {
     "name": "Greg",
     "query": "Greg",
-    "rank": 7,
-    "tweet_count": "45.5K Tweets"
-  },
-  {
-    "name": "Demko",
-    "query": "Demko",
     "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "#MissUniverse",
-    "query": "#MissUniverse",
-    "rank": 9,
-    "tweet_count": "658K Tweets"
+    "tweet_count": "45.9K Tweets"
   },
   {
     "name": "brian jean",
     "query": "\"brian jean\"",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "demko",
+    "query": "demko",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Arkells",
-    "query": "Arkells",
+    "name": "Packers",
+    "query": "Packers",
     "rank": 11,
-    "tweet_count": "1,437 Tweets"
+    "tweet_count": "99.4K Tweets"
   },
   {
-    "name": "Team Canada",
-    "query": "\"Team Canada\"",
+    "name": "Arkells",
+    "query": "Arkells",
     "rank": 12,
-    "tweet_count": "2,661 Tweets"
+    "tweet_count": "1,443 Tweets"
   },
   {
     "name": "Canes",
     "query": "Canes",
     "rank": 13,
-    "tweet_count": "8,253 Tweets"
+    "tweet_count": "8,287 Tweets"
   },
   {
-    "name": "panthers",
-    "query": "panthers",
+    "name": "Panthers",
+    "query": "Panthers",
     "rank": 14,
-    "tweet_count": "34.5K Tweets"
+    "tweet_count": "34.6K Tweets"
   },
   {
-    "name": "Zach",
-    "query": "Zach",
+    "name": "#MissUniverse2021",
+    "query": "#MissUniverse2021",
     "rank": 15,
-    "tweet_count": "25.1K Tweets"
+    "tweet_count": "1.23M Tweets"
   },
   {
     "name": "#YellowstoneTV",
     "query": "#YellowstoneTV",
     "rank": 16,
-    "tweet_count": "5,926 Tweets"
-  },
-  {
-    "name": "#90DayFiance",
-    "query": "#90DayFiance",
-    "rank": 17,
-    "tweet_count": "9,933 Tweets"
-  },
-  {
-    "name": "#Packers",
-    "query": "#Packers",
-    "rank": 18,
-    "tweet_count": "11.9K Tweets"
-  },
-  {
-    "name": "#BudFirstGoal",
-    "query": "#BudFirstGoal",
-    "rank": 19,
-    "tweet_count": null
+    "tweet_count": "5,945 Tweets"
   }
 ]
