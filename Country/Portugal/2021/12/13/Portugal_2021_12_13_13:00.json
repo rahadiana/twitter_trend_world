@@ -1,122 +1,104 @@
 [
   {
-    "name": "Sporting",
-    "query": "Sporting",
+    "name": "Bayern",
+    "query": "Bayern",
     "rank": 1,
-    "tweet_count": "85.5K Tweets"
+    "tweet_count": "119K Tweets"
   },
   {
     "name": "Juventus",
     "query": "Juventus",
     "rank": 2,
-    "tweet_count": "29.8K Tweets"
-  },
-  {
-    "name": "Messi",
-    "query": "Messi",
-    "rank": 3,
-    "tweet_count": "295K Tweets"
-  },
-  {
-    "name": "Bayern",
-    "query": "Bayern",
-    "rank": 4,
-    "tweet_count": "106K Tweets"
-  },
-  {
-    "name": "Real Madrid",
-    "query": "\"Real Madrid\"",
-    "rank": 5,
-    "tweet_count": "154K Tweets"
+    "tweet_count": "30.4K Tweets"
   },
   {
     "name": "Liverpool",
     "query": "Liverpool",
-    "rank": 6,
-    "tweet_count": "92.4K Tweets"
+    "rank": 3,
+    "tweet_count": "99.1K Tweets"
   },
   {
-    "name": "UEFA",
-    "query": "UEFA",
-    "rank": 7,
-    "tweet_count": "212K Tweets"
-  },
-  {
-    "name": "Lille",
-    "query": "Lille",
-    "rank": 8,
-    "tweet_count": "61.7K Tweets"
+    "name": "Real Madrid",
+    "query": "\"Real Madrid\"",
+    "rank": 4,
+    "tweet_count": "162K Tweets"
   },
   {
     "name": "Lazio",
     "query": "Lazio",
-    "rank": 9,
-    "tweet_count": "13.4K Tweets"
-  },
-  {
-    "name": "#UCLdraw",
-    "query": "#UCLdraw",
-    "rank": 10,
-    "tweet_count": "133K Tweets"
+    "rank": 5,
+    "tweet_count": "14K Tweets"
   },
   {
     "name": "Chelsea",
     "query": "Chelsea",
-    "rank": 11,
-    "tweet_count": "125K Tweets"
+    "rank": 6,
+    "tweet_count": "134K Tweets"
+  },
+  {
+    "name": "Sorteio da Champions",
+    "query": "\"Sorteio da Champions\"",
+    "rank": 7,
+    "tweet_count": "6,869 Tweets"
   },
   {
     "name": "Turim",
     "query": "Turim",
-    "rank": 12,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "O Real",
     "query": "\"O Real\"",
-    "rank": 13,
-    "tweet_count": "41.4K Tweets"
+    "rank": 9,
+    "tweet_count": "42.9K Tweets"
+  },
+  {
+    "name": "Campeões",
+    "query": "Campeões",
+    "rank": 10,
+    "tweet_count": "7,346 Tweets"
   },
   {
     "name": "Sheriff",
     "query": "Sheriff",
-    "rank": 14,
-    "tweet_count": "14.1K Tweets"
+    "rank": 11,
+    "tweet_count": "14.9K Tweets"
   },
   {
-    "name": "Man United",
-    "query": "\"Man United\"",
-    "rank": 15,
-    "tweet_count": "41.4K Tweets"
-  },
-  {
-    "name": "Liga dos Campeões",
-    "query": "\"Liga dos Campeões\"",
-    "rank": 16,
-    "tweet_count": "1,122 Tweets"
+    "name": "Atletico",
+    "query": "Atletico",
+    "rank": 12,
+    "tweet_count": "253K Tweets"
   },
   {
     "name": "Vini",
     "query": "Vini",
-    "rank": 17,
-    "tweet_count": "40.9K Tweets"
-  },
-  {
-    "name": "Manchester United",
-    "query": "\"Manchester United\"",
-    "rank": 18,
-    "tweet_count": "89.6K Tweets"
+    "rank": 13,
+    "tweet_count": "41.3K Tweets"
   },
   {
     "name": "Benzema",
     "query": "Benzema",
-    "rank": 19,
-    "tweet_count": "89K Tweets"
+    "rank": 14,
+    "tweet_count": "89.3K Tweets"
   },
   {
     "name": "#HappyBirthdayTaylorSwift",
     "query": "#HappyBirthdayTaylorSwift",
-    "rank": 20,
-    "tweet_count": "86.8K Tweets"
+    "rank": 15,
+    "tweet_count": "90.8K Tweets"
+  },
+  {
+    "name": "andré almeida",
+    "query": "\"andré almeida\"",
+    "rank": 16,
+    "tweet_count": "2,235 Tweets"
+  },
+  {
+    "name": "Braga",
+    "query": "Braga",
+    "rank": 17,
+    "tweet_count": "12.4K Tweets"
   }
 ]
