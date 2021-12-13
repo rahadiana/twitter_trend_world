@@ -1,44 +1,98 @@
 [
   {
-    "name": "DART",
-    "query": "DART",
+    "name": "Dart",
+    "query": "Dart",
     "rank": 1,
-    "tweet_count": "4,522 Tweets"
+    "tweet_count": "4,592 Tweets"
   },
   {
     "name": "#UCLdraw",
     "query": "#UCLdraw",
     "rank": 2,
-    "tweet_count": "239K Tweets"
+    "tweet_count": "245K Tweets"
+  },
+  {
+    "name": "Villarreal",
+    "query": "Villarreal",
+    "rank": 3,
+    "tweet_count": "79.1K Tweets"
   },
   {
     "name": "UEFA",
     "query": "UEFA",
-    "rank": 3,
-    "tweet_count": "354K Tweets"
+    "rank": 4,
+    "tweet_count": "363K Tweets"
+  },
+  {
+    "name": "#ChampionsLeague",
+    "query": "#ChampionsLeague",
+    "rank": 5,
+    "tweet_count": "15.6K Tweets"
   },
   {
     "name": "#liveline",
     "query": "#liveline",
-    "rank": 4,
+    "rank": 6,
     "tweet_count": null
+  },
+  {
+    "name": "Atletico",
+    "query": "Atletico",
+    "rank": 7,
+    "tweet_count": "315K Tweets"
+  },
+  {
+    "name": "Bayern",
+    "query": "Bayern",
+    "rank": 8,
+    "tweet_count": "167K Tweets"
+  },
+  {
+    "name": "Juve",
+    "query": "Juve",
+    "rank": 9,
+    "tweet_count": "37.7K Tweets"
+  },
+  {
+    "name": "Liverpool",
+    "query": "Liverpool",
+    "rank": 10,
+    "tweet_count": "148K Tweets"
   },
   {
     "name": "Salzburg",
     "query": "Salzburg",
-    "rank": 5,
-    "tweet_count": "48.3K Tweets"
+    "rank": 11,
+    "tweet_count": "49.4K Tweets"
   },
   {
-    "name": "#UEFA",
-    "query": "#UEFA",
-    "rank": 6,
-    "tweet_count": "9,436 Tweets"
+    "name": "Messi",
+    "query": "Messi",
+    "rank": 12,
+    "tweet_count": "340K Tweets"
+  },
+  {
+    "name": "Lille",
+    "query": "Lille",
+    "rank": 13,
+    "tweet_count": "120K Tweets"
+  },
+  {
+    "name": "Real Madrid",
+    "query": "\"Real Madrid\"",
+    "rank": 14,
+    "tweet_count": "251K Tweets"
+  },
+  {
+    "name": "#MondayMotivation",
+    "query": "#MondayMotivation",
+    "rank": 15,
+    "tweet_count": "45.1K Tweets"
   },
   {
     "name": "#Applegreen12Days",
     "query": "#Applegreen12Days",
-    "rank": 7,
+    "rank": 16,
     "tweet_count": null
   }
 ]
