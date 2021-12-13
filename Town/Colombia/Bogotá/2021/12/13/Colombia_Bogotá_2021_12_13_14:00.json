@@ -1,98 +1,116 @@
 [
   {
-    "name": "#FelizLunes",
-    "query": "#FelizLunes",
+    "name": "Liverpool",
+    "query": "Liverpool",
     "rank": 1,
-    "tweet_count": "11.5K Tweets"
+    "tweet_count": "142K Tweets"
   },
   {
-    "name": "#HaceFalta",
-    "query": "#HaceFalta",
+    "name": "#FelizLunes",
+    "query": "#FelizLunes",
     "rank": 2,
-    "tweet_count": "1,333 Tweets"
+    "tweet_count": "12.5K Tweets"
   },
   {
     "name": "UEFA",
     "query": "UEFA",
     "rank": 3,
-    "tweet_count": "327K Tweets"
+    "tweet_count": "355K Tweets"
+  },
+  {
+    "name": "#HaceFalta",
+    "query": "#HaceFalta",
+    "rank": 4,
+    "tweet_count": "1,441 Tweets"
   },
   {
     "name": "Champions",
     "query": "Champions",
-    "rank": 4,
-    "tweet_count": "320K Tweets"
+    "rank": 5,
+    "tweet_count": "347K Tweets"
   },
   {
-    "name": "Benfica",
-    "query": "Benfica",
-    "rank": 5,
-    "tweet_count": "87K Tweets"
+    "name": "Cristiano",
+    "query": "Cristiano",
+    "rank": 6,
+    "tweet_count": "123K Tweets"
+  },
+  {
+    "name": "La UEFA",
+    "query": "\"La UEFA\"",
+    "rank": 7,
+    "tweet_count": null
   },
   {
     "name": "#UnAumentoDe",
     "query": "#UnAumentoDe",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "Conmebol",
-    "query": "Conmebol",
-    "rank": 7,
-    "tweet_count": "10.5K Tweets"
-  },
-  {
-    "name": "Bavaria",
-    "query": "Bavaria",
     "rank": 8,
-    "tweet_count": "1,338 Tweets"
-  },
-  {
-    "name": "Panaca",
-    "query": "Panaca",
-    "rank": 9,
-    "tweet_count": "28.3K Tweets"
-  },
-  {
-    "name": "Real Madrid",
-    "query": "\"Real Madrid\"",
-    "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Florentino",
-    "query": "Florentino",
-    "rank": 11,
-    "tweet_count": "13K Tweets"
+    "name": "#MileyEnColombia",
+    "query": "#MileyEnColombia",
+    "rank": 9,
+    "tweet_count": null
   },
   {
     "name": "Miley Cyrus",
     "query": "\"Miley Cyrus\"",
-    "rank": 12,
-    "tweet_count": "8,777 Tweets"
+    "rank": 10,
+    "tweet_count": "8,993 Tweets"
   },
   {
-    "name": "Camilo Vargas",
-    "query": "\"Camilo Vargas\"",
+    "name": "Bavaria",
+    "query": "Bavaria",
+    "rank": 11,
+    "tweet_count": "1,426 Tweets"
+  },
+  {
+    "name": "Florentino",
+    "query": "Florentino",
+    "rank": 12,
+    "tweet_count": "17K Tweets"
+  },
+  {
+    "name": "Panaca",
+    "query": "Panaca",
     "rank": 13,
-    "tweet_count": "6,564 Tweets"
+    "tweet_count": "28.9K Tweets"
+  },
+  {
+    "name": "Conmebol",
+    "query": "Conmebol",
+    "rank": 14,
+    "tweet_count": "10.8K Tweets"
+  },
+  {
+    "name": "Bernabéu",
+    "query": "Bernabéu",
+    "rank": 15,
+    "tweet_count": "31.2K Tweets"
   },
   {
     "name": "#HappyBirthdayTaylorSwift",
     "query": "#HappyBirthdayTaylorSwift",
-    "rank": 14,
-    "tweet_count": "96.4K Tweets"
+    "rank": 16,
+    "tweet_count": "99.4K Tweets"
+  },
+  {
+    "name": "Camilo Vargas",
+    "query": "\"Camilo Vargas\"",
+    "rank": 17,
+    "tweet_count": "6,649 Tweets"
   },
   {
     "name": "Populismo",
     "query": "Populismo",
-    "rank": 15,
-    "tweet_count": "8,491 Tweets"
+    "rank": 18,
+    "tweet_count": "8,628 Tweets"
   },
   {
     "name": "Animales",
     "query": "Animales",
-    "rank": 16,
-    "tweet_count": "44.4K Tweets"
+    "rank": 19,
+    "tweet_count": "45.4K Tweets"
   }
 ]
