@@ -1,122 +1,122 @@
 [
   {
-    "name": "Real Madrid",
-    "query": "\"Real Madrid\"",
+    "name": "Juventus",
+    "query": "Juventus",
     "rank": 1,
-    "tweet_count": "125K Tweets"
+    "tweet_count": "21.8K Tweets"
+  },
+  {
+    "name": "Messi",
+    "query": "Messi",
+    "rank": 2,
+    "tweet_count": "193K Tweets"
   },
   {
     "name": "Hamilton",
     "query": "Hamilton",
-    "rank": 2,
-    "tweet_count": "828K Tweets"
+    "rank": 3,
+    "tweet_count": "830K Tweets"
   },
   {
     "name": "#f1betclic",
     "query": "#f1betclic",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "Juventus",
-    "query": "Juventus",
     "rank": 4,
-    "tweet_count": "13.1K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Liverpool",
     "query": "Liverpool",
     "rank": 5,
-    "tweet_count": "47.7K Tweets"
+    "tweet_count": "61.5K Tweets"
+  },
+  {
+    "name": "Verstappen",
+    "query": "Verstappen",
+    "rank": 6,
+    "tweet_count": "907K Tweets"
   },
   {
     "name": "#thevoicept",
     "query": "#thevoicept",
-    "rank": 6,
+    "rank": 7,
     "tweet_count": "2,699 Tweets"
   },
   {
-    "name": "#bbtvi",
-    "query": "#bbtvi",
-    "rank": 7,
-    "tweet_count": "41.8K Tweets"
+    "name": "PSG x United",
+    "query": "\"PSG x United\"",
+    "rank": 8,
+    "tweet_count": "3,567 Tweets"
+  },
+  {
+    "name": "Man United",
+    "query": "\"Man United\"",
+    "rank": 9,
+    "tweet_count": "20.3K Tweets"
   },
   {
     "name": "Perez",
     "query": "Perez",
-    "rank": 8,
-    "tweet_count": "263K Tweets"
+    "rank": 10,
+    "tweet_count": "264K Tweets"
   },
   {
     "name": "#F1ELEVEN",
     "query": "#F1ELEVEN",
-    "rank": 9,
-    "tweet_count": "7,487 Tweets"
-  },
-  {
-    "name": "Darwin",
-    "query": "Darwin",
-    "rank": 10,
-    "tweet_count": "13.9K Tweets"
-  },
-  {
-    "name": "Sporting",
-    "query": "Sporting",
     "rank": 11,
-    "tweet_count": "56.9K Tweets"
+    "tweet_count": "7,498 Tweets"
   },
   {
-    "name": "Renato Paiva",
-    "query": "\"Renato Paiva\"",
+    "name": "Turim",
+    "query": "Turim",
     "rank": 12,
-    "tweet_count": "1,254 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "#bbtvi",
+    "query": "#bbtvi",
+    "rank": 13,
+    "tweet_count": "41.9K Tweets"
+  },
+  {
+    "name": "UEFA",
+    "query": "UEFA",
+    "rank": 14,
+    "tweet_count": "25.6K Tweets"
   },
   {
     "name": "#AbuDhabiGP",
     "query": "#AbuDhabiGP",
-    "rank": 13,
+    "rank": 15,
     "tweet_count": "1.01M Tweets"
+  },
+  {
+    "name": "Champions",
+    "query": "Champions",
+    "rank": 16,
+    "tweet_count": "156K Tweets"
+  },
+  {
+    "name": "Darwin",
+    "query": "Darwin",
+    "rank": 17,
+    "tweet_count": "14K Tweets"
+  },
+  {
+    "name": "Vini",
+    "query": "Vini",
+    "rank": 18,
+    "tweet_count": "40.5K Tweets"
   },
   {
     "name": "Luís Diaz",
     "query": "\"Luís Diaz\"",
-    "rank": 14,
-    "tweet_count": "5,001 Tweets"
-  },
-  {
-    "name": "Latifi",
-    "query": "Latifi",
-    "rank": 15,
-    "tweet_count": "199K Tweets"
-  },
-  {
-    "name": "Rendeiro",
-    "query": "Rendeiro",
-    "rank": 16,
-    "tweet_count": "2,106 Tweets"
-  },
-  {
-    "name": "Famalicão",
-    "query": "Famalicão",
-    "rank": 17,
-    "tweet_count": "4,511 Tweets"
-  },
-  {
-    "name": "Taarabt",
-    "query": "Taarabt",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Independiente del Valle",
-    "query": "\"Independiente del Valle\"",
     "rank": 19,
-    "tweet_count": "8,122 Tweets"
+    "tweet_count": "5,024 Tweets"
   },
   {
-    "name": "Cláudio",
-    "query": "Cláudio",
+    "name": "Atlético",
+    "query": "Atlético",
     "rank": 20,
-    "tweet_count": "17.7K Tweets"
+    "tweet_count": "182K Tweets"
   }
 ]
