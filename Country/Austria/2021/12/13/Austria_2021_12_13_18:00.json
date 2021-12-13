@@ -1,27 +1,27 @@
 [
   {
-    "name": "#UCLdraw",
-    "query": "#UCLdraw",
-    "rank": 1,
-    "tweet_count": "302K Tweets"
-  },
-  {
     "name": "#AbuDhabiGP",
     "query": "#AbuDhabiGP",
-    "rank": 2,
-    "tweet_count": "251K Tweets"
+    "rank": 1,
+    "tweet_count": "252K Tweets"
   },
   {
-    "name": "#tatort",
-    "query": "#tatort",
-    "rank": 3,
+    "name": "#Tatort",
+    "query": "#Tatort",
+    "rank": 2,
     "tweet_count": "2,843 Tweets"
+  },
+  {
+    "name": "#UCLdraw",
+    "query": "#UCLdraw",
+    "rank": 3,
+    "tweet_count": "303K Tweets"
   },
   {
     "name": "#F1Finale",
     "query": "#F1Finale",
     "rank": 4,
-    "tweet_count": "12.6K Tweets"
+    "tweet_count": "12.7K Tweets"
   },
   {
     "name": "#imzentrum",
@@ -33,25 +33,25 @@
     "name": "Rennen",
     "query": "Rennen",
     "rank": 6,
-    "tweet_count": "2,011 Tweets"
-  },
-  {
-    "name": "Hamilton",
-    "query": "Hamilton",
-    "rank": 7,
-    "tweet_count": "245K Tweets"
+    "tweet_count": "2,036 Tweets"
   },
   {
     "name": "Auslosung",
     "query": "Auslosung",
-    "rank": 8,
-    "tweet_count": "2,499 Tweets"
+    "rank": 7,
+    "tweet_count": "2,513 Tweets"
   },
   {
     "name": "Verstappen",
     "query": "Verstappen",
+    "rank": 8,
+    "tweet_count": "221K Tweets"
+  },
+  {
+    "name": "Betroffene",
+    "query": "Betroffene",
     "rank": 9,
-    "tweet_count": "220K Tweets"
+    "tweet_count": null
   },
   {
     "name": "schönen 3",
@@ -60,34 +60,34 @@
     "tweet_count": null
   },
   {
-    "name": "Betroffene",
-    "query": "Betroffene",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Wochenstart",
-    "query": "Wochenstart",
-    "rank": 12,
-    "tweet_count": "1,653 Tweets"
-  },
-  {
     "name": "Ronaldo",
     "query": "Ronaldo",
-    "rank": 13,
-    "tweet_count": "222K Tweets"
+    "rank": 11,
+    "tweet_count": "223K Tweets"
   },
   {
     "name": "Liverpool",
     "query": "Liverpool",
-    "rank": 14,
-    "tweet_count": "173K Tweets"
+    "rank": 12,
+    "tweet_count": "174K Tweets"
   },
   {
-    "name": "Wolfgang",
-    "query": "Wolfgang",
+    "name": "Wochenstart",
+    "query": "Wochenstart",
+    "rank": 13,
+    "tweet_count": "1,653 Tweets"
+  },
+  {
+    "name": "Eigentum",
+    "query": "Eigentum",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "wolfgang",
+    "query": "wolfgang",
     "rank": 15,
-    "tweet_count": "4,756 Tweets"
+    "tweet_count": "4,809 Tweets"
   },
   {
     "name": "Friseur",
@@ -96,14 +96,14 @@
     "tweet_count": null
   },
   {
-    "name": "Eigentum",
-    "query": "Eigentum",
+    "name": "rennleitung",
+    "query": "rennleitung",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Rennleitung",
-    "query": "Rennleitung",
+    "name": "tontechniker",
+    "query": "tontechniker",
     "rank": 18,
     "tweet_count": null
   },
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "tontechniker",
-    "query": "tontechniker",
+    "name": "Lewis",
+    "query": "Lewis",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "265K Tweets"
   }
 ]
