@@ -1,39 +1,39 @@
 [
   {
-    "name": "stoltenberg",
-    "query": "stoltenberg",
-    "rank": 1,
-    "tweet_count": "1,821 Tweets"
-  },
-  {
     "name": "#dax18",
     "query": "#dax18",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Stoltenberg",
+    "query": "Stoltenberg",
+    "rank": 2,
+    "tweet_count": "1,840 Tweets"
   },
   {
     "name": "Leeds",
     "query": "Leeds",
     "rank": 3,
-    "tweet_count": "45K Tweets"
+    "tweet_count": "53.4K Tweets"
   },
   {
     "name": "Watkins",
     "query": "Watkins",
     "rank": 4,
-    "tweet_count": "6,158 Tweets"
+    "tweet_count": "7,264 Tweets"
   },
   {
     "name": "#SpiderManNoWayHome",
     "query": "#SpiderManNoWayHome",
     "rank": 5,
-    "tweet_count": "467K Tweets"
+    "tweet_count": "469K Tweets"
   },
   {
     "name": "Atletico",
     "query": "Atletico",
     "rank": 6,
-    "tweet_count": "79K Tweets"
+    "tweet_count": "79.8K Tweets"
   },
   {
     "name": "norges bank",
@@ -45,13 +45,13 @@
     "name": "Hamilton",
     "query": "Hamilton",
     "rank": 8,
-    "tweet_count": "85.9K Tweets"
+    "tweet_count": "86.6K Tweets"
   },
   {
     "name": "Foden",
     "query": "Foden",
     "rank": 9,
-    "tweet_count": "13.5K Tweets"
+    "tweet_count": "14.3K Tweets"
   },
   {
     "name": "vinmonopolet",
@@ -69,13 +69,13 @@
     "name": "Lucia",
     "query": "Lucia",
     "rank": 12,
-    "tweet_count": "36.2K Tweets"
+    "tweet_count": "36.6K Tweets"
   },
   {
     "name": "#GW17",
     "query": "#GW17",
     "rank": 13,
-    "tweet_count": "2,042 Tweets"
+    "tweet_count": "2,084 Tweets"
   },
   {
     "name": "Finansdepartementet",
@@ -84,8 +84,8 @@
     "tweet_count": null
   },
   {
-    "name": "hdir",
-    "query": "hdir",
+    "name": "Hdir",
+    "query": "Hdir",
     "rank": 15,
     "tweet_count": null
   },
@@ -108,9 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "STABÆK",
-    "query": "STABÆK",
+    "name": "Auba",
+    "query": "Auba",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "25.4K Tweets"
+  },
+  {
+    "name": "Norway",
+    "query": "Norway",
+    "rank": 20,
+    "tweet_count": "17.1K Tweets"
   }
 ]

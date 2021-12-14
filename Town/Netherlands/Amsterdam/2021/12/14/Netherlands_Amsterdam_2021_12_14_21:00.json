@@ -1,39 +1,39 @@
 [
   {
+    "name": "#beau",
+    "query": "#beau",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "#persconferentie",
     "query": "#persconferentie",
-    "rank": 1,
-    "tweet_count": "17.5K Tweets"
+    "rank": 2,
+    "tweet_count": "17.8K Tweets"
   },
   {
     "name": "#nacutr",
     "query": "#nacutr",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#ikdoenietmee",
     "query": "#ikdoenietmee",
-    "rank": 3,
-    "tweet_count": "1,412 Tweets"
+    "rank": 4,
+    "tweet_count": "1,490 Tweets"
   },
   {
     "name": "#ikstaachterkoopmans",
     "query": "#ikstaachterkoopmans",
-    "rank": 4,
-    "tweet_count": "1,235 Tweets"
-  },
-  {
-    "name": "#steenrijkstraatarm",
-    "query": "#steenrijkstraatarm",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "1,353 Tweets"
   },
   {
     "name": "Leeds",
     "query": "Leeds",
     "rank": 6,
-    "tweet_count": "45.1K Tweets"
+    "tweet_count": "54.1K Tweets"
   },
   {
     "name": "Excelsior Maassluis",
@@ -45,13 +45,13 @@
     "name": "Rutte",
     "query": "Rutte",
     "rank": 8,
-    "tweet_count": "16.4K Tweets"
+    "tweet_count": "16.6K Tweets"
   },
   {
     "name": "Fauci",
     "query": "Fauci",
     "rank": 9,
-    "tweet_count": "66.7K Tweets"
+    "tweet_count": "67.5K Tweets"
   },
   {
     "name": "Emmen",
@@ -60,16 +60,16 @@
     "tweet_count": null
   },
   {
-    "name": "Burna",
-    "query": "Burna",
-    "rank": 11,
-    "tweet_count": "45K Tweets"
-  },
-  {
     "name": "Heuvel",
     "query": "Heuvel",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
+  },
+  {
+    "name": "Burna",
+    "query": "Burna",
+    "rank": 12,
+    "tweet_count": "46K Tweets"
   },
   {
     "name": "Efteling",
@@ -78,28 +78,28 @@
     "tweet_count": null
   },
   {
-    "name": "#emmEXC",
-    "query": "#emmEXC",
+    "name": "#steenrijkstraatarm",
+    "query": "#steenrijkstraatarm",
     "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "#NACpraat",
-    "query": "#NACpraat",
+    "name": "#MCILEE",
+    "query": "#MCILEE",
     "rank": 15,
-    "tweet_count": null
+    "tweet_count": "12.9K Tweets"
   },
   {
-    "name": "#adogem",
-    "query": "#adogem",
+    "name": "#NACpraat",
+    "query": "#NACpraat",
     "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "#borsato",
-    "query": "#borsato",
+    "name": "#emmEXC",
+    "query": "#emmEXC",
     "rank": 17,
-    "tweet_count": "3,458 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#telspa",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "#hugodejonge",
-    "query": "#hugodejonge",
+    "name": "#Zeewolde",
+    "query": "#Zeewolde",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "#firstdates",
-    "query": "#firstdates",
+    "name": "#hugodejonge",
+    "query": "#hugodejonge",
     "rank": 20,
-    "tweet_count": "1,318 Tweets"
+    "tweet_count": null
   }
 ]

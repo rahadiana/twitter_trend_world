@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "Baffo",
-    "query": "Baffo",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
     "name": "Leeds",
     "query": "Leeds",
+    "rank": 5,
+    "tweet_count": "53.4K Tweets"
+  },
+  {
+    "name": "Baffo",
+    "query": "Baffo",
     "rank": 6,
-    "tweet_count": "45.1K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Superettan",
@@ -69,13 +69,13 @@
     "name": "Olympia",
     "query": "Olympia",
     "rank": 12,
-    "tweet_count": "1,796 Tweets"
+    "tweet_count": "1,812 Tweets"
   },
   {
     "name": "Auba",
     "query": "Auba",
     "rank": 13,
-    "tweet_count": "25.3K Tweets"
+    "tweet_count": "25.4K Tweets"
   },
   {
     "name": "#musikhjälpen",
@@ -87,13 +87,13 @@
     "name": "Katt",
     "query": "Katt",
     "rank": 15,
-    "tweet_count": "2,448 Tweets"
+    "tweet_count": "2,473 Tweets"
   },
   {
-    "name": "norge",
-    "query": "norge",
+    "name": "Norge",
+    "query": "Norge",
     "rank": 16,
-    "tweet_count": "2,963 Tweets"
+    "tweet_count": "2,980 Tweets"
   },
   {
     "name": "Alf Svensson",
@@ -111,6 +111,6 @@
     "name": "Darth",
     "query": "Darth",
     "rank": 19,
-    "tweet_count": "12.6K Tweets"
+    "tweet_count": "12.8K Tweets"
   }
 ]
