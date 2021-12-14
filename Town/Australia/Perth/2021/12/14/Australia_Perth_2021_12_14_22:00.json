@@ -1,57 +1,57 @@
 [
   {
-    "name": "#bbl11",
-    "query": "#bbl11",
+    "name": "#BBL11",
+    "query": "#BBL11",
     "rank": 1,
-    "tweet_count": "2,122 Tweets"
+    "tweet_count": "2,124 Tweets"
   },
   {
     "name": "Leeds",
     "query": "Leeds",
     "rank": 2,
-    "tweet_count": "67.9K Tweets"
+    "tweet_count": "71.7K Tweets"
   },
   {
     "name": "#MCILEE",
     "query": "#MCILEE",
     "rank": 3,
-    "tweet_count": "15.9K Tweets"
-  },
-  {
-    "name": "Leigh",
-    "query": "Leigh",
-    "rank": 4,
-    "tweet_count": "8,936 Tweets"
-  },
-  {
-    "name": "Collingwood",
-    "query": "Collingwood",
-    "rank": 5,
-    "tweet_count": null
+    "tweet_count": "16.5K Tweets"
   },
   {
     "name": "Omicron",
     "query": "Omicron",
+    "rank": 4,
+    "tweet_count": "588K Tweets"
+  },
+  {
+    "name": "Leigh",
+    "query": "Leigh",
+    "rank": 5,
+    "tweet_count": "9,101 Tweets"
+  },
+  {
+    "name": "Collingwood",
+    "query": "Collingwood",
     "rank": 6,
-    "tweet_count": "579K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "#CoinMarketCap",
+    "query": "#CoinMarketCap",
+    "rank": 7,
+    "tweet_count": "22.8K Tweets"
   },
   {
     "name": "#SpiderManNoWayHome",
     "query": "#SpiderManNoWayHome",
-    "rank": 7,
-    "tweet_count": "469K Tweets"
-  },
-  {
-    "name": "#NORAVL",
-    "query": "#NORAVL",
     "rank": 8,
-    "tweet_count": "4,660 Tweets"
+    "tweet_count": "473K Tweets"
   },
   {
     "name": "Newcastle",
     "query": "Newcastle",
     "rank": 9,
-    "tweet_count": "16.4K Tweets"
+    "tweet_count": "16.8K Tweets"
   },
   {
     "name": "Fitzroy",
@@ -66,57 +66,57 @@
     "tweet_count": null
   },
   {
-    "name": "Antony",
-    "query": "Antony",
-    "rank": 12,
-    "tweet_count": "6,604 Tweets"
-  },
-  {
-    "name": "Labor-held",
-    "query": "Labor-held",
-    "rank": 13,
-    "tweet_count": "1,321 Tweets"
-  },
-  {
-    "name": "Queensland",
-    "query": "Queensland",
-    "rank": 14,
-    "tweet_count": "6,506 Tweets"
-  },
-  {
     "name": "Mitch Marsh",
     "query": "\"Mitch Marsh\"",
-    "rank": 15,
+    "rank": 12,
     "tweet_count": null
-  },
-  {
-    "name": "How $2.8",
-    "query": "\"How $2.8\"",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "mRNA",
-    "query": "mRNA",
-    "rank": 17,
-    "tweet_count": "75.6K Tweets"
   },
   {
     "name": "Moderna",
     "query": "Moderna",
-    "rank": 18,
-    "tweet_count": "78.9K Tweets"
+    "rank": 13,
+    "tweet_count": "79.9K Tweets"
+  },
+  {
+    "name": "Antony",
+    "query": "Antony",
+    "rank": 14,
+    "tweet_count": "6,721 Tweets"
+  },
+  {
+    "name": "mRNA",
+    "query": "mRNA",
+    "rank": 15,
+    "tweet_count": "76.6K Tweets"
+  },
+  {
+    "name": "Queensland",
+    "query": "Queensland",
+    "rank": 16,
+    "tweet_count": "6,820 Tweets"
   },
   {
     "name": "#AbuDabhiGP",
     "query": "#AbuDabhiGP",
-    "rank": 19,
-    "tweet_count": "1,807 Tweets"
+    "rank": 17,
+    "tweet_count": "1,822 Tweets"
   },
   {
-    "name": "Stan Lee",
-    "query": "\"Stan Lee\"",
+    "name": "How $2.8",
+    "query": "\"How $2.8\"",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Labor-held",
+    "query": "Labor-held",
+    "rank": 19,
+    "tweet_count": "1,472 Tweets"
+  },
+  {
+    "name": "Michelle Yeoh",
+    "query": "\"Michelle Yeoh\"",
     "rank": 20,
-    "tweet_count": "22.2K Tweets"
+    "tweet_count": "17.5K Tweets"
   }
 ]
