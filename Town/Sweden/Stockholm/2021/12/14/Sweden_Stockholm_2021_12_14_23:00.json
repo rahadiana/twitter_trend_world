@@ -9,17 +9,17 @@
     "name": "Leeds",
     "query": "Leeds",
     "rank": 2,
-    "tweet_count": "74.7K Tweets"
-  },
-  {
-    "name": "Halmstad",
-    "query": "Halmstad",
-    "rank": 3,
-    "tweet_count": null
+    "tweet_count": "76.1K Tweets"
   },
   {
     "name": "Helsingborg",
     "query": "Helsingborg",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "Halmstad",
+    "query": "Halmstad",
     "rank": 4,
     "tweet_count": null
   },
@@ -45,37 +45,37 @@
     "name": "Auba",
     "query": "Auba",
     "rank": 8,
-    "tweet_count": "25.9K Tweets"
+    "tweet_count": "26.1K Tweets"
   },
   {
     "name": "Katt",
     "query": "Katt",
     "rank": 9,
-    "tweet_count": "2,497 Tweets"
+    "tweet_count": "2,529 Tweets"
   },
   {
-    "name": "baffo",
-    "query": "baffo",
+    "name": "#musikhjälpen",
+    "query": "#musikhjälpen",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Örjans Vall",
-    "query": "\"Örjans Vall\"",
+    "name": "baffo",
+    "query": "baffo",
     "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "örjans vall",
+    "query": "\"örjans vall\"",
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Norge",
     "query": "Norge",
-    "rank": 12,
-    "tweet_count": "2,887 Tweets"
-  },
-  {
-    "name": "#musikhjälpen",
-    "query": "#musikhjälpen",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "2,911 Tweets"
   },
   {
     "name": "god helg",
@@ -87,36 +87,36 @@
     "name": "Agenda",
     "query": "Agenda",
     "rank": 15,
-    "tweet_count": "131K Tweets"
+    "tweet_count": "133K Tweets"
   },
   {
     "name": "Lille",
     "query": "Lille",
     "rank": 16,
-    "tweet_count": "21.9K Tweets"
-  },
-  {
-    "name": "Foden",
-    "query": "Foden",
-    "rank": 17,
-    "tweet_count": "17.5K Tweets"
+    "tweet_count": "22K Tweets"
   },
   {
     "name": "peter holland",
     "query": "\"peter holland\"",
-    "rank": 18,
-    "tweet_count": "6,748 Tweets"
+    "rank": 17,
+    "tweet_count": "6,797 Tweets"
   },
   {
     "name": "Aziz",
     "query": "Aziz",
-    "rank": 19,
-    "tweet_count": "28.7K Tweets"
+    "rank": 18,
+    "tweet_count": "29K Tweets"
   },
   {
     "name": "lucka 14",
     "query": "\"lucka 14\"",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "Darth",
+    "query": "Darth",
+    "rank": 20,
+    "tweet_count": "12.8K Tweets"
   }
 ]
