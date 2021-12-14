@@ -30,10 +30,10 @@
     "tweet_count": null
   },
   {
-    "name": "Heif",
-    "query": "Heif",
+    "name": "Leeds",
+    "query": "Leeds",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "45.3K Tweets"
   },
   {
     "name": "Superettan",
@@ -42,22 +42,22 @@
     "tweet_count": null
   },
   {
+    "name": "Heif",
+    "query": "Heif",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
     "name": "Hurk",
     "query": "Hurk",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "#mh21",
     "query": "#mh21",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Leeds",
-    "query": "Leeds",
     "rank": 10,
-    "tweet_count": "41.3K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Örjans Vall",
@@ -69,13 +69,13 @@
     "name": "Olympia",
     "query": "Olympia",
     "rank": 12,
-    "tweet_count": "1,779 Tweets"
+    "tweet_count": "1,796 Tweets"
   },
   {
     "name": "Auba",
     "query": "Auba",
     "rank": 13,
-    "tweet_count": "25.2K Tweets"
+    "tweet_count": "25.3K Tweets"
   },
   {
     "name": "#musikhjälpen",
@@ -84,16 +84,16 @@
     "tweet_count": null
   },
   {
-    "name": "katt",
-    "query": "katt",
+    "name": "Katt",
+    "query": "Katt",
     "rank": 15,
-    "tweet_count": "2,420 Tweets"
+    "tweet_count": "2,450 Tweets"
   },
   {
-    "name": "Norge",
-    "query": "Norge",
+    "name": "norge",
+    "query": "norge",
     "rank": 16,
-    "tweet_count": "2,937 Tweets"
+    "tweet_count": "2,964 Tweets"
   },
   {
     "name": "Alf Svensson",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "Aziz",
-    "query": "Aziz",
-    "rank": 18,
-    "tweet_count": "27.3K Tweets"
-  },
-  {
     "name": "Darth",
     "query": "Darth",
-    "rank": 19,
-    "tweet_count": "12.5K Tweets"
+    "rank": 18,
+    "tweet_count": "12.7K Tweets"
   },
   {
-    "name": "God Helg",
-    "query": "\"God Helg\"",
-    "rank": 20,
+    "name": "Värnamo",
+    "query": "Värnamo",
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "Aziz",
+    "query": "Aziz",
+    "rank": 20,
+    "tweet_count": "27.6K Tweets"
   }
 ]

@@ -1,39 +1,39 @@
 [
   {
-    "name": "Leigh",
-    "query": "Leigh",
-    "rank": 1,
-    "tweet_count": "8,973 Tweets"
-  },
-  {
     "name": "Leeds",
     "query": "Leeds",
+    "rank": 1,
+    "tweet_count": "45K Tweets"
+  },
+  {
+    "name": "Leigh",
+    "query": "Leigh",
     "rank": 2,
-    "tweet_count": "41.1K Tweets"
+    "tweet_count": "9,078 Tweets"
+  },
+  {
+    "name": "Labor-held",
+    "query": "Labor-held",
+    "rank": 3,
+    "tweet_count": null
   },
   {
     "name": "Collingwood",
     "query": "Collingwood",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "#SpiderManNoWayHome",
     "query": "#SpiderManNoWayHome",
-    "rank": 4,
-    "tweet_count": "465K Tweets"
-  },
-  {
-    "name": "Labor-held",
-    "query": "Labor-held",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "467K Tweets"
   },
   {
     "name": "Omicron",
     "query": "Omicron",
     "rank": 6,
-    "tweet_count": "579K Tweets"
+    "tweet_count": "585K Tweets"
   },
   {
     "name": "Brett Finch",
@@ -48,69 +48,63 @@
     "tweet_count": null
   },
   {
-    "name": "Mitch Marsh",
-    "query": "\"Mitch Marsh\"",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
     "name": "Newcastle",
     "query": "Newcastle",
+    "rank": 9,
+    "tweet_count": "15.7K Tweets"
+  },
+  {
+    "name": "Mitch Marsh",
+    "query": "\"Mitch Marsh\"",
     "rank": 10,
-    "tweet_count": "15.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Moderna",
     "query": "Moderna",
     "rank": 11,
-    "tweet_count": "78K Tweets"
+    "tweet_count": "78.7K Tweets"
   },
   {
     "name": "mRNA",
     "query": "mRNA",
     "rank": 12,
-    "tweet_count": "75.4K Tweets"
+    "tweet_count": "76.1K Tweets"
   },
   {
     "name": "#AbuDabhiGP",
     "query": "#AbuDabhiGP",
     "rank": 13,
-    "tweet_count": "1,889 Tweets"
+    "tweet_count": "1,900 Tweets"
   },
   {
     "name": "Stan Lee",
     "query": "\"Stan Lee\"",
     "rank": 14,
-    "tweet_count": "19.9K Tweets"
+    "tweet_count": "20.4K Tweets"
   },
   {
     "name": "#UCLdraw",
     "query": "#UCLdraw",
     "rank": 15,
-    "tweet_count": "39K Tweets"
+    "tweet_count": "39.1K Tweets"
+  },
+  {
+    "name": "Queensland",
+    "query": "Queensland",
+    "rank": 16,
+    "tweet_count": "6,121 Tweets"
   },
   {
     "name": "Russell Brand",
     "query": "\"Russell Brand\"",
-    "rank": 16,
-    "tweet_count": "1,357 Tweets"
+    "rank": 17,
+    "tweet_count": "1,374 Tweets"
   },
   {
     "name": "#natcon21",
     "query": "#natcon21",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Coalition",
-    "query": "Coalition",
     "rank": 18,
-    "tweet_count": "17.8K Tweets"
-  },
-  {
-    "name": "#FFACup",
-    "query": "#FFACup",
-    "rank": 19,
     "tweet_count": null
   }
 ]
