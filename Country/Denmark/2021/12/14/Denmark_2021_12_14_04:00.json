@@ -3,13 +3,13 @@
     "name": "Støjberg",
     "query": "Støjberg",
     "rank": 1,
-    "tweet_count": "6,381 Tweets"
+    "tweet_count": "6,433 Tweets"
   },
   {
-    "name": "Rigsretten",
-    "query": "Rigsretten",
+    "name": "rigsretten",
+    "query": "rigsretten",
     "rank": 2,
-    "tweet_count": "1,484 Tweets"
+    "tweet_count": "1,489 Tweets"
   },
   {
     "name": "#fcmbif",
@@ -18,20 +18,20 @@
     "tweet_count": null
   },
   {
-    "name": "Folketinget",
-    "query": "Folketinget",
-    "rank": 4,
-    "tweet_count": "1,070 Tweets"
-  },
-  {
     "name": "Knud Meldgaard",
     "query": "\"Knud Meldgaard\"",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "#esuppen",
-    "query": "#esuppen",
+    "name": "Folketinget",
+    "query": "Folketinget",
+    "rank": 5,
+    "tweet_count": "1,074 Tweets"
+  },
+  {
+    "name": "#eSuppen",
+    "query": "#eSuppen",
     "rank": 6,
     "tweet_count": null
   },
@@ -51,7 +51,7 @@
     "name": "UEFA",
     "query": "UEFA",
     "rank": 9,
-    "tweet_count": "445K Tweets"
+    "tweet_count": "446K Tweets"
   },
   {
     "name": "Verstappen",
@@ -60,63 +60,63 @@
     "tweet_count": "106K Tweets"
   },
   {
-    "name": "PAOK",
-    "query": "PAOK",
+    "name": "Hamilton",
+    "query": "Hamilton",
     "rank": 11,
-    "tweet_count": "2,943 Tweets"
+    "tweet_count": "153K Tweets"
+  },
+  {
+    "name": "paok",
+    "query": "paok",
+    "rank": 12,
+    "tweet_count": "2,952 Tweets"
   },
   {
     "name": "koranen",
     "query": "koranen",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Villarreal",
     "query": "Villarreal",
-    "rank": 13,
-    "tweet_count": "97.1K Tweets"
+    "rank": 14,
+    "tweet_count": "97.2K Tweets"
   },
   {
     "name": "pia kjærsgaard",
     "query": "\"pia kjærsgaard\"",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "Hedlund",
-    "query": "Hedlund",
-    "rank": 15,
+    "name": "hedlund",
+    "query": "hedlund",
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Salzburg",
     "query": "Salzburg",
-    "rank": 16,
-    "tweet_count": "58.3K Tweets"
-  },
-  {
-    "name": "Lucia",
-    "query": "Lucia",
     "rank": 17,
-    "tweet_count": "49.2K Tweets"
-  },
-  {
-    "name": "Atletico",
-    "query": "Atletico",
-    "rank": 18,
-    "tweet_count": "286K Tweets"
+    "tweet_count": "58.4K Tweets"
   },
   {
     "name": "cappis",
     "query": "cappis",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "#larshøgh",
-    "query": "#larshøgh",
+    "name": "Lucia",
+    "query": "Lucia",
+    "rank": 19,
+    "tweet_count": "49.7K Tweets"
+  },
+  {
+    "name": "atletico",
+    "query": "atletico",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "287K Tweets"
   }
 ]
