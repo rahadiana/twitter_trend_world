@@ -18,16 +18,16 @@
     "tweet_count": "119K Tweets"
   },
   {
-    "name": "#UCLdraw",
-    "query": "#UCLdraw",
-    "rank": 4,
-    "tweet_count": "333K Tweets"
-  },
-  {
     "name": "#YesWeCare",
     "query": "#YesWeCare",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "#UCLdraw",
+    "query": "#UCLdraw",
+    "rank": 5,
+    "tweet_count": "334K Tweets"
   },
   {
     "name": "Stadtstraße",
@@ -42,28 +42,28 @@
     "tweet_count": "233K Tweets"
   },
   {
-    "name": "Schönen Tag",
-    "query": "\"Schönen Tag\"",
-    "rank": 8,
-    "tweet_count": "2,078 Tweets"
-  },
-  {
     "name": "Wochenstart",
     "query": "Wochenstart",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Betroffene",
     "query": "Betroffene",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Stadtregierung",
     "query": "Stadtregierung",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
+  },
+  {
+    "name": "Schönen Tag",
+    "query": "\"Schönen Tag\"",
+    "rank": 11,
+    "tweet_count": "2,154 Tweets"
   },
   {
     "name": "Verkehr",
@@ -78,26 +78,26 @@
     "tweet_count": null
   },
   {
-    "name": "auslosung",
-    "query": "auslosung",
+    "name": "Auslosung",
+    "query": "Auslosung",
     "rank": 14,
-    "tweet_count": "2,612 Tweets"
+    "tweet_count": "2,619 Tweets"
   },
   {
-    "name": "Elon Musk",
-    "query": "\"Elon Musk\"",
+    "name": "Aktivisten",
+    "query": "Aktivisten",
     "rank": 15,
-    "tweet_count": "224K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Wolfgang",
     "query": "Wolfgang",
     "rank": 16,
-    "tweet_count": "5,604 Tweets"
+    "tweet_count": "5,652 Tweets"
   },
   {
-    "name": "Aktivisten",
-    "query": "Aktivisten",
+    "name": "Umfahrung",
+    "query": "Umfahrung",
     "rank": 17,
     "tweet_count": null
   },
@@ -105,11 +105,11 @@
     "name": "Camp",
     "query": "Camp",
     "rank": 18,
-    "tweet_count": "135K Tweets"
+    "tweet_count": "136K Tweets"
   },
   {
-    "name": "besetzung",
-    "query": "besetzung",
+    "name": "Besetzung",
+    "query": "Besetzung",
     "rank": 19,
     "tweet_count": null
   },
