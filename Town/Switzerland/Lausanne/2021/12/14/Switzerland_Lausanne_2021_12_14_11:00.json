@@ -1,7 +1,7 @@
 [
   {
-    "name": "#ucldraw",
-    "query": "#ucldraw",
+    "name": "#UCLdraw",
+    "query": "#UCLdraw",
     "rank": 1,
     "tweet_count": "260K Tweets"
   },
@@ -9,7 +9,7 @@
     "name": "#log4j",
     "query": "#log4j",
     "rank": 2,
-    "tweet_count": "21.3K Tweets"
+    "tweet_count": "21.5K Tweets"
   },
   {
     "name": "Chelsea",
@@ -27,13 +27,13 @@
     "name": "Perez",
     "query": "Perez",
     "rank": 5,
-    "tweet_count": "73.9K Tweets"
+    "tweet_count": "74.3K Tweets"
   },
   {
     "name": "Mbappe",
     "query": "Mbappe",
     "rank": 6,
-    "tweet_count": "140K Tweets"
+    "tweet_count": "141K Tweets"
   },
   {
     "name": "Hamilton",
@@ -51,7 +51,7 @@
     "name": "Meldungen",
     "query": "Meldungen",
     "rank": 9,
-    "tweet_count": "1,378 Tweets"
+    "tweet_count": "1,391 Tweets"
   },
   {
     "name": "Stricker",
@@ -63,7 +63,7 @@
     "name": "Masi",
     "query": "Masi",
     "rank": 11,
-    "tweet_count": "63K Tweets"
+    "tweet_count": "63.5K Tweets"
   },
   {
     "name": "Lille",
@@ -72,22 +72,22 @@
     "tweet_count": "129K Tweets"
   },
   {
-    "name": "Brigitte",
-    "query": "Brigitte",
-    "rank": 13,
-    "tweet_count": "24.3K Tweets"
-  },
-  {
     "name": "Projekte",
     "query": "Projekte",
-    "rank": 14,
-    "tweet_count": "1,087 Tweets"
+    "rank": 13,
+    "tweet_count": "1,102 Tweets"
   },
   {
     "name": "hobi",
     "query": "hobi",
+    "rank": 14,
+    "tweet_count": "168K Tweets"
+  },
+  {
+    "name": "Brigitte",
+    "query": "Brigitte",
     "rank": 15,
-    "tweet_count": "166K Tweets"
+    "tweet_count": "24.5K Tweets"
   },
   {
     "name": "Januar 2022",
@@ -99,6 +99,6 @@
     "name": "Toto Wolff",
     "query": "\"Toto Wolff\"",
     "rank": 17,
-    "tweet_count": "11.5K Tweets"
+    "tweet_count": "11.6K Tweets"
   }
 ]
