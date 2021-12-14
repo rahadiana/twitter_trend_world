@@ -1,21 +1,21 @@
 [
   {
-    "name": "בוקר טוב",
-    "query": "\"בוקר טוב\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "בר לב",
     "query": "\"בר לב\"",
-    "rank": 2,
-    "tweet_count": "2,370 Tweets"
+    "rank": 1,
+    "tweet_count": "2,422 Tweets"
   },
   {
     "name": "Eilat",
     "query": "Eilat",
+    "rank": 2,
+    "tweet_count": "8,111 Tweets"
+  },
+  {
+    "name": "בוקר טוב",
+    "query": "\"בוקר טוב\"",
     "rank": 3,
-    "tweet_count": "8,085 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#לא_לסתימת_פיות",
@@ -36,87 +36,87 @@
     "tweet_count": null
   },
   {
+    "name": "היא נורווגית",
+    "query": "\"היא נורווגית\"",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
     "name": "#MissUniverse2021",
     "query": "#MissUniverse2021",
-    "rank": 7,
-    "tweet_count": "362K Tweets"
+    "rank": 8,
+    "tweet_count": "364K Tweets"
   },
   {
     "name": "Ronaldo",
     "query": "Ronaldo",
-    "rank": 8,
-    "tweet_count": "231K Tweets"
-  },
-  {
-    "name": "Abu Dhabi",
-    "query": "\"Abu Dhabi\"",
     "rank": 9,
-    "tweet_count": "33.1K Tweets"
-  },
-  {
-    "name": "#رايد_صلاح",
-    "query": "#رايد_صلاح",
-    "rank": 10,
-    "tweet_count": "4,768 Tweets"
+    "tweet_count": "232K Tweets"
   },
   {
     "name": "רב עם",
     "query": "\"רב עם\"",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
+  },
+  {
+    "name": "Abu Dhabi",
+    "query": "\"Abu Dhabi\"",
+    "rank": 11,
+    "tweet_count": "33.4K Tweets"
+  },
+  {
+    "name": "#رايد_صلاح",
+    "query": "#رايد_صلاح",
+    "rank": 12,
+    "tweet_count": "4,795 Tweets"
   },
   {
     "name": "taylor",
     "query": "taylor",
-    "rank": 12,
-    "tweet_count": "372K Tweets"
+    "rank": 13,
+    "tweet_count": "374K Tweets"
   },
   {
     "name": "אלי כהן",
     "query": "\"אלי כהן\"",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Israeli PM",
     "query": "\"Israeli PM\"",
-    "rank": 14,
-    "tweet_count": "2,225 Tweets"
+    "rank": 15,
+    "tweet_count": "2,236 Tweets"
   },
   {
     "name": "#CanYaman",
     "query": "#CanYaman",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": "14.1K Tweets"
   },
   {
-    "name": "palestinian authority",
-    "query": "\"palestinian authority\"",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "סגן שר",
-    "query": "\"סגן שר\"",
+    "name": "תודה בנט",
+    "query": "\"תודה בנט\"",
     "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Abraham Accords",
-    "query": "\"Abraham Accords\"",
-    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "כי הם",
     "query": "\"כי הם\"",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "palestinian authority",
+    "query": "\"palestinian authority\"",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Naftali Bennett",
-    "query": "\"Naftali Bennett\"",
+    "name": "Abraham Accords",
+    "query": "\"Abraham Accords\"",
     "rank": 20,
-    "tweet_count": "4,179 Tweets"
+    "tweet_count": null
   }
 ]
