@@ -1,19 +1,19 @@
 [
   {
-    "name": "#zibflash",
-    "query": "#zibflash",
+    "name": "#ZIBflash",
+    "query": "#ZIBflash",
     "rank": 1,
-    "tweet_count": null
-  },
-  {
-    "name": "#zibnacht",
-    "query": "#zibnacht",
-    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#rafreider",
     "query": "#rafreider",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "#zibnacht",
+    "query": "#zibnacht",
     "rank": 3,
     "tweet_count": null
   },
@@ -33,13 +33,13 @@
     "name": "Sendung",
     "query": "Sendung",
     "rank": 6,
-    "tweet_count": "1,430 Tweets"
+    "tweet_count": "1,436 Tweets"
   },
   {
-    "name": "Moderator",
-    "query": "Moderator",
+    "name": "moderator",
+    "query": "moderator",
     "rank": 7,
-    "tweet_count": "2,227 Tweets"
+    "tweet_count": "2,237 Tweets"
   },
   {
     "name": "Bildungsminister",
@@ -54,14 +54,14 @@
     "tweet_count": null
   },
   {
-    "name": "Klaas",
-    "query": "Klaas",
+    "name": "klaas",
+    "query": "klaas",
     "rank": 10,
-    "tweet_count": "1,599 Tweets"
+    "tweet_count": "1,614 Tweets"
   },
   {
-    "name": "weihnachtsfeier",
-    "query": "weihnachtsfeier",
+    "name": "Weihnachtsfeier",
+    "query": "Weihnachtsfeier",
     "rank": 11,
     "tweet_count": null
   },
@@ -81,13 +81,13 @@
     "name": "Elon Musk",
     "query": "\"Elon Musk\"",
     "rank": 14,
-    "tweet_count": "177K Tweets"
+    "tweet_count": "179K Tweets"
   },
   {
     "name": "wolfgang",
     "query": "wolfgang",
     "rank": 15,
-    "tweet_count": "5,924 Tweets"
+    "tweet_count": "5,966 Tweets"
   },
   {
     "name": "drohbriefe",
@@ -99,11 +99,11 @@
     "name": "Camp",
     "query": "Camp",
     "rank": 17,
-    "tweet_count": "141K Tweets"
+    "tweet_count": "142K Tweets"
   },
   {
-    "name": "Arbeitnehmer",
-    "query": "Arbeitnehmer",
+    "name": "arbeitnehmer",
+    "query": "arbeitnehmer",
     "rank": 18,
     "tweet_count": null
   },
@@ -111,11 +111,11 @@
     "name": "Putin",
     "query": "Putin",
     "rank": 19,
-    "tweet_count": "51.9K Tweets"
+    "tweet_count": "52.4K Tweets"
   },
   {
-    "name": "ulli sima",
-    "query": "\"ulli sima\"",
+    "name": "Ulli Sima",
+    "query": "\"Ulli Sima\"",
     "rank": 20,
     "tweet_count": null
   }
