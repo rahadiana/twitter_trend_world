@@ -1,39 +1,39 @@
 [
   {
-    "name": "#UCLdraw",
-    "query": "#UCLdraw",
+    "name": "#ucldraw",
+    "query": "#ucldraw",
     "rank": 1,
-    "tweet_count": "82.6K Tweets"
+    "tweet_count": "83.2K Tweets"
+  },
+  {
+    "name": "#log4j",
+    "query": "#log4j",
+    "rank": 2,
+    "tweet_count": "21.4K Tweets"
+  },
+  {
+    "name": "#JeanMichelTrogneux",
+    "query": "#JeanMichelTrogneux",
+    "rank": 3,
+    "tweet_count": "33.5K Tweets"
   },
   {
     "name": "#ChampionsLeague",
     "query": "#ChampionsLeague",
-    "rank": 2,
-    "tweet_count": "7,108 Tweets"
+    "rank": 4,
+    "tweet_count": "7,168 Tweets"
   },
   {
     "name": "Ronaldo",
     "query": "Ronaldo",
-    "rank": 3,
-    "tweet_count": "85K Tweets"
+    "rank": 5,
+    "tweet_count": "86.6K Tweets"
   },
   {
     "name": "Mbappe",
     "query": "Mbappe",
-    "rank": 4,
-    "tweet_count": "94.5K Tweets"
-  },
-  {
-    "name": "Berger",
-    "query": "Berger",
-    "rank": 5,
-    "tweet_count": "3,255 Tweets"
-  },
-  {
-    "name": "Stricker",
-    "query": "Stricker",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "96.1K Tweets"
   },
   {
     "name": "wochenstart",
@@ -42,63 +42,75 @@
     "tweet_count": null
   },
   {
-    "name": "Grindelwald",
-    "query": "Grindelwald",
+    "name": "Berger",
+    "query": "Berger",
     "rank": 8,
-    "tweet_count": "37.6K Tweets"
+    "tweet_count": "3,342 Tweets"
   },
   {
-    "name": "Meldungen",
-    "query": "Meldungen",
+    "name": "Stricker",
+    "query": "Stricker",
     "rank": 9,
-    "tweet_count": "1,376 Tweets"
-  },
-  {
-    "name": "Lille",
-    "query": "Lille",
-    "rank": 10,
-    "tweet_count": "43.6K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Projekte",
     "query": "Projekte",
+    "rank": 10,
+    "tweet_count": "1,123 Tweets"
+  },
+  {
+    "name": "Meldungen",
+    "query": "Meldungen",
     "rank": 11,
-    "tweet_count": "1,085 Tweets"
+    "tweet_count": "1,428 Tweets"
   },
   {
-    "name": "Januar 2022",
-    "query": "\"Januar 2022\"",
+    "name": "Nebel",
+    "query": "Nebel",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "1,314 Tweets"
   },
   {
-    "name": "Patient",
-    "query": "Patient",
+    "name": "patient",
+    "query": "patient",
     "rank": 13,
-    "tweet_count": "86.7K Tweets"
+    "tweet_count": "88.6K Tweets"
   },
   {
     "name": "Armee",
     "query": "Armee",
     "rank": 14,
-    "tweet_count": "5,974 Tweets"
-  },
-  {
-    "name": "Nebel",
-    "query": "Nebel",
-    "rank": 15,
-    "tweet_count": "1,306 Tweets"
+    "tweet_count": "6,138 Tweets"
   },
   {
     "name": "Brigitte",
     "query": "Brigitte",
+    "rank": 15,
+    "tweet_count": "23.1K Tweets"
+  },
+  {
+    "name": "Toto Wolff",
+    "query": "\"Toto Wolff\"",
     "rank": 16,
-    "tweet_count": "22.8K Tweets"
+    "tweet_count": "8,989 Tweets"
+  },
+  {
+    "name": "Spiderman",
+    "query": "Spiderman",
+    "rank": 17,
+    "tweet_count": "177K Tweets"
   },
   {
     "name": "États",
     "query": "États",
-    "rank": 17,
-    "tweet_count": "14.7K Tweets"
+    "rank": 18,
+    "tweet_count": "15K Tweets"
+  },
+  {
+    "name": "Zahl",
+    "query": "Zahl",
+    "rank": 19,
+    "tweet_count": "2,753 Tweets"
   }
 ]
