@@ -1,27 +1,27 @@
 [
   {
-    "name": "Kraśko",
-    "query": "Kraśko",
-    "rank": 1,
-    "tweet_count": "10.1K Tweets"
-  },
-  {
     "name": "Sejmie",
     "query": "Sejmie",
-    "rank": 2,
-    "tweet_count": "2,097 Tweets"
+    "rank": 1,
+    "tweet_count": "2,146 Tweets"
   },
   {
     "name": "#LexCzarnek",
     "query": "#LexCzarnek",
+    "rank": 2,
+    "tweet_count": "1,157 Tweets"
+  },
+  {
+    "name": "Kraśko",
+    "query": "Kraśko",
     "rank": 3,
-    "tweet_count": "1,147 Tweets"
+    "tweet_count": "10.2K Tweets"
   },
   {
     "name": "Lewicy",
     "query": "Lewicy",
     "rank": 4,
-    "tweet_count": "2,135 Tweets"
+    "tweet_count": "2,219 Tweets"
   },
   {
     "name": "Rozenek",
@@ -33,7 +33,7 @@
     "name": "Senyszyn",
     "query": "Senyszyn",
     "rank": 6,
-    "tweet_count": "1,205 Tweets"
+    "tweet_count": "1,259 Tweets"
   },
   {
     "name": "Rozenka",
@@ -42,63 +42,69 @@
     "tweet_count": null
   },
   {
-    "name": "Czarzastego",
-    "query": "Czarzastego",
+    "name": "#CLVolleyM",
+    "query": "#CLVolleyM",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "polska partia socjalistyczna",
-    "query": "\"polska partia socjalistyczna\"",
+    "name": "Czarzastego",
+    "query": "Czarzastego",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "czarzasty",
-    "query": "czarzasty",
+    "name": "Polska Partia Socjalistyczna",
+    "query": "\"Polska Partia Socjalistyczna\"",
     "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "Czarzasty",
+    "query": "Czarzasty",
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Chin",
     "query": "Chin",
-    "rank": 11,
-    "tweet_count": "27.9K Tweets"
+    "rank": 12,
+    "tweet_count": "28.2K Tweets"
   },
   {
     "name": "Razem",
     "query": "Razem",
-    "rank": 12,
-    "tweet_count": "6,365 Tweets"
-  },
-  {
-    "name": "Itto",
-    "query": "Itto",
     "rank": 13,
-    "tweet_count": "160K Tweets"
-  },
-  {
-    "name": "#smog",
-    "query": "#smog",
-    "rank": 14,
-    "tweet_count": null
+    "tweet_count": "6,452 Tweets"
   },
   {
     "name": "#Omikron",
     "query": "#Omikron",
+    "rank": 14,
+    "tweet_count": "9,180 Tweets"
+  },
+  {
+    "name": "#smog",
+    "query": "#smog",
     "rank": 15,
-    "tweet_count": "9,087 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#SpiderManNoWayHome",
     "query": "#SpiderManNoWayHome",
     "rank": 16,
-    "tweet_count": "397K Tweets"
+    "tweet_count": "403K Tweets"
+  },
+  {
+    "name": "Itto",
+    "query": "Itto",
+    "rank": 17,
+    "tweet_count": "162K Tweets"
   },
   {
     "name": "Andrew",
     "query": "Andrew",
-    "rank": 17,
-    "tweet_count": "161K Tweets"
+    "rank": 18,
+    "tweet_count": "162K Tweets"
   }
 ]
