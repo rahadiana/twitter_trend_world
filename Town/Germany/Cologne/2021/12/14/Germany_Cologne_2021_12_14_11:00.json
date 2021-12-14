@@ -1,39 +1,39 @@
 [
   {
-    "name": "#log4j",
-    "query": "#log4j",
-    "rank": 1,
-    "tweet_count": "21.1K Tweets"
-  },
-  {
     "name": "#Telegram",
     "query": "#Telegram",
-    "rank": 2,
-    "tweet_count": "7,168 Tweets"
+    "rank": 1,
+    "tweet_count": "7,420 Tweets"
   },
   {
-    "name": "#UCLdraw",
-    "query": "#UCLdraw",
+    "name": "#log4j",
+    "query": "#log4j",
+    "rank": 2,
+    "tweet_count": "21.3K Tweets"
+  },
+  {
+    "name": "#ucldraw",
+    "query": "#ucldraw",
     "rank": 3,
-    "tweet_count": "259K Tweets"
+    "tweet_count": "260K Tweets"
   },
   {
     "name": "#RicardaLang",
     "query": "#RicardaLang",
     "rank": 4,
-    "tweet_count": "1,804 Tweets"
+    "tweet_count": "1,824 Tweets"
   },
   {
     "name": "Was ist das für ein Land",
     "query": "\"Was ist das für ein Land\"",
     "rank": 5,
-    "tweet_count": "6,549 Tweets"
+    "tweet_count": "6,637 Tweets"
   },
   {
     "name": "#goodbyedeutschland",
     "query": "#goodbyedeutschland",
     "rank": 6,
-    "tweet_count": "1,879 Tweets"
+    "tweet_count": "1,882 Tweets"
   },
   {
     "name": "Wochenstart",
@@ -48,28 +48,28 @@
     "tweet_count": null
   },
   {
-    "name": "hobi",
-    "query": "hobi",
+    "name": "Hass und Hetze",
+    "query": "\"Hass und Hetze\"",
     "rank": 9,
-    "tweet_count": "164K Tweets"
-  },
-  {
-    "name": "Moschee",
-    "query": "Moschee",
-    "rank": 10,
-    "tweet_count": "1,253 Tweets"
+    "tweet_count": "1,177 Tweets"
   },
   {
     "name": "Mike Krüger",
     "query": "\"Mike Krüger\"",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Auslosung",
     "query": "Auslosung",
+    "rank": 11,
+    "tweet_count": "2,415 Tweets"
+  },
+  {
+    "name": "hobi",
+    "query": "hobi",
     "rank": 12,
-    "tweet_count": "2,403 Tweets"
+    "tweet_count": "166K Tweets"
   },
   {
     "name": "Frau Lang",
@@ -81,7 +81,7 @@
     "name": "Bändchen",
     "query": "Bändchen",
     "rank": 14,
-    "tweet_count": "2,325 Tweets"
+    "tweet_count": "2,352 Tweets"
   },
   {
     "name": "Start in die Woche",
@@ -93,30 +93,30 @@
     "name": "Schönen Dienstag",
     "query": "\"Schönen Dienstag\"",
     "rank": 16,
-    "tweet_count": "1,288 Tweets"
+    "tweet_count": "1,296 Tweets"
   },
   {
-    "name": "Gürtelrose",
-    "query": "Gürtelrose",
+    "name": "PARK JIMIN",
+    "query": "\"PARK JIMIN\"",
     "rank": 17,
-    "tweet_count": "1,736 Tweets"
+    "tweet_count": "47.7K Tweets"
   },
   {
-    "name": "Hass und Hetze",
-    "query": "\"Hass und Hetze\"",
+    "name": "Kardinal Müller",
+    "query": "\"Kardinal Müller\"",
     "rank": 18,
-    "tweet_count": "1,101 Tweets"
+    "tweet_count": "2,719 Tweets"
   },
   {
-    "name": "kardinal müller",
-    "query": "\"kardinal müller\"",
+    "name": "Demos",
+    "query": "Demos",
     "rank": 19,
-    "tweet_count": "2,680 Tweets"
+    "tweet_count": "12.7K Tweets"
   },
   {
-    "name": "englisch",
-    "query": "englisch",
+    "name": "Lockerungen",
+    "query": "Lockerungen",
     "rank": 20,
-    "tweet_count": "1,996 Tweets"
+    "tweet_count": null
   }
 ]
