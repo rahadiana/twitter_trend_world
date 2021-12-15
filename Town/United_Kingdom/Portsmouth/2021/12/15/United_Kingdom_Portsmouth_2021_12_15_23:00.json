@@ -1,45 +1,45 @@
 [
   {
+    "name": "#MOTD",
+    "query": "#MOTD",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "Tom Holland",
+    "query": "\"Tom Holland\"",
+    "rank": 2,
+    "tweet_count": "77.8K Tweets"
+  },
+  {
     "name": "Odegaard",
     "query": "Odegaard",
-    "rank": 1,
-    "tweet_count": "3,606 Tweets"
+    "rank": 3,
+    "tweet_count": "3,685 Tweets"
   },
   {
     "name": "Hale",
     "query": "Hale",
-    "rank": 2,
-    "tweet_count": "33.4K Tweets"
-  },
-  {
-    "name": "Lanzini",
-    "query": "Lanzini",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "get antonio",
-    "query": "\"get antonio\"",
     "rank": 4,
+    "tweet_count": "33.6K Tweets"
+  },
+  {
+    "name": "lanzini",
+    "query": "lanzini",
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Butland",
     "query": "Butland",
-    "rank": 5,
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "Keown",
     "query": "Keown",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "Ayew",
-    "query": "Ayew",
     "rank": 7,
-    "tweet_count": "2,986 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Fornals",
@@ -48,32 +48,32 @@
     "tweet_count": null
   },
   {
-    "name": "Ward-Prowse",
-    "query": "Ward-Prowse",
+    "name": "Willem Dafoe",
+    "query": "\"Willem Dafoe\"",
     "rank": 9,
-    "tweet_count": "2,393 Tweets"
+    "tweet_count": "3,718 Tweets"
   },
   {
-    "name": "#FootieStories",
-    "query": "#FootieStories",
+    "name": "Trincao",
+    "query": "Trincao",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "1,067 Tweets"
+  },
+  {
+    "name": "Ward-Prowse",
+    "query": "Ward-Prowse",
+    "rank": 11,
+    "tweet_count": "2,430 Tweets"
+  },
+  {
+    "name": "Ayew",
+    "query": "Ayew",
+    "rank": 12,
+    "tweet_count": "3,073 Tweets"
   },
   {
     "name": "Podence",
     "query": "Podence",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Edouard",
-    "query": "Edouard",
-    "rank": 12,
-    "tweet_count": "5,061 Tweets"
-  },
-  {
-    "name": "#lthechat",
-    "query": "#lthechat",
     "rank": 13,
     "tweet_count": null
   },
@@ -84,27 +84,27 @@
     "tweet_count": null
   },
   {
-    "name": "adrian dunbar",
-    "query": "\"adrian dunbar\"",
-    "rank": 15,
-    "tweet_count": "3,042 Tweets"
-  },
-  {
     "name": "Walcott",
     "query": "Walcott",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "Burnley",
-    "query": "Burnley",
+    "name": "Endgame",
+    "query": "Endgame",
+    "rank": 16,
+    "tweet_count": "33.4K Tweets"
+  },
+  {
+    "name": "#DowningStreetBriefing",
+    "query": "#DowningStreetBriefing",
     "rank": 17,
-    "tweet_count": "8,864 Tweets"
+    "tweet_count": "7,152 Tweets"
   },
   {
     "name": "Watford",
     "query": "Watford",
     "rank": 18,
-    "tweet_count": "9,680 Tweets"
+    "tweet_count": "9,743 Tweets"
   }
 ]
