@@ -6,10 +6,10 @@
     "tweet_count": "129K Tweets"
   },
   {
-    "name": "#LacrimVsTwitter",
-    "query": "#LacrimVsTwitter",
+    "name": "#LacrimVSTwitter",
+    "query": "#LacrimVSTwitter",
     "rank": 2,
-    "tweet_count": "30.5K Tweets"
+    "tweet_count": "30.6K Tweets"
   },
   {
     "name": "#pano",
@@ -21,13 +21,13 @@
     "name": "Claude",
     "query": "Claude",
     "rank": 4,
-    "tweet_count": "68.4K Tweets"
+    "tweet_count": "69.1K Tweets"
   },
   {
     "name": "#MasoloYakati",
     "query": "#MasoloYakati",
     "rank": 5,
-    "tweet_count": "4,117 Tweets"
+    "tweet_count": "4,116 Tweets"
   },
   {
     "name": "#ANDSTV",
@@ -45,47 +45,47 @@
     "name": "Laurent",
     "query": "Laurent",
     "rank": 8,
-    "tweet_count": "38.8K Tweets"
+    "tweet_count": "39.1K Tweets"
   },
   {
-    "name": "De Tijd",
-    "query": "\"De Tijd\"",
+    "name": "Gelukkige",
+    "query": "Gelukkige",
     "rank": 9,
-    "tweet_count": "8,483 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Balti",
     "query": "Balti",
     "rank": 10,
-    "tweet_count": "9,489 Tweets"
+    "tweet_count": "9,594 Tweets"
+  },
+  {
+    "name": "De Tijd",
+    "query": "\"De Tijd\"",
+    "rank": 11,
+    "tweet_count": "8,671 Tweets"
   },
   {
     "name": "Denis",
     "query": "Denis",
-    "rank": 11,
-    "tweet_count": "32.2K Tweets"
+    "rank": 12,
+    "tweet_count": "32.5K Tweets"
   },
   {
     "name": "Coumba",
     "query": "Coumba",
-    "rank": 12,
-    "tweet_count": "7,038 Tweets"
+    "rank": 13,
+    "tweet_count": "7,068 Tweets"
   },
   {
     "name": "Teheiura",
     "query": "Teheiura",
-    "rank": 13,
-    "tweet_count": "11.3K Tweets"
+    "rank": 14,
+    "tweet_count": "11.4K Tweets"
   },
   {
     "name": "Raad van State",
     "query": "\"Raad van State\"",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Gelukkige",
-    "query": "Gelukkige",
     "rank": 15,
     "tweet_count": null
   },
@@ -93,30 +93,30 @@
     "name": "Leeds",
     "query": "Leeds",
     "rank": 16,
-    "tweet_count": "86.3K Tweets"
-  },
-  {
-    "name": "Greenpeace",
-    "query": "Greenpeace",
-    "rank": 17,
-    "tweet_count": "4,107 Tweets"
-  },
-  {
-    "name": "Allemaal",
-    "query": "Allemaal",
-    "rank": 18,
-    "tweet_count": "10.7K Tweets"
-  },
-  {
-    "name": "De Bruyne",
-    "query": "\"De Bruyne\"",
-    "rank": 19,
-    "tweet_count": "19.9K Tweets"
+    "tweet_count": "87.1K Tweets"
   },
   {
     "name": "Curry",
     "query": "Curry",
+    "rank": 17,
+    "tweet_count": "374K Tweets"
+  },
+  {
+    "name": "Namadia",
+    "query": "Namadia",
+    "rank": 18,
+    "tweet_count": "13.1K Tweets"
+  },
+  {
+    "name": "MEPS",
+    "query": "MEPS",
+    "rank": 19,
+    "tweet_count": "1,581 Tweets"
+  },
+  {
+    "name": "Raman",
+    "query": "Raman",
     "rank": 20,
-    "tweet_count": "370K Tweets"
+    "tweet_count": "3,449 Tweets"
   }
 ]
