@@ -6,20 +6,20 @@
     "tweet_count": null
   },
   {
-    "name": "KNAB",
-    "query": "KNAB",
+    "name": "knab",
+    "query": "knab",
     "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "Rīgas",
-    "query": "Rīgas",
-    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Ruks",
     "query": "Ruks",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "Rīgas",
+    "query": "Rīgas",
     "rank": 4,
     "tweet_count": null
   },
@@ -36,16 +36,16 @@
     "tweet_count": null
   },
   {
-    "name": "VARAM",
-    "query": "VARAM",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
     "name": "#NFTs",
     "query": "#NFTs",
+    "rank": 7,
+    "tweet_count": "437K Tweets"
+  },
+  {
+    "name": "VARAM",
+    "query": "VARAM",
     "rank": 8,
-    "tweet_count": "431K Tweets"
+    "tweet_count": null
   },
   {
     "name": "rododendrs",
@@ -57,7 +57,7 @@
     "name": "Germany",
     "query": "Germany",
     "rank": 10,
-    "tweet_count": "64.5K Tweets"
+    "tweet_count": "66K Tweets"
   },
   {
     "name": "Kariņš",
@@ -72,50 +72,50 @@
     "tweet_count": null
   },
   {
-    "name": "Paldies",
-    "query": "Paldies",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
     "name": "baltkrievijā",
     "query": "baltkrievijā",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "zviedrijā",
     "query": "zviedrijā",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Paldies",
+    "query": "Paldies",
     "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Iesaku",
-    "query": "Iesaku",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Ruka",
-    "query": "Ruka",
-    "rank": 17,
-    "tweet_count": "13.8K Tweets"
-  },
-  {
-    "name": "#grape",
-    "query": "#grape",
-    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "COVID-19",
     "query": "COVID-19",
-    "rank": 19,
-    "tweet_count": "447K Tweets"
+    "rank": 16,
+    "tweet_count": "456K Tweets"
   },
   {
-    "name": "progresīvajiem",
-    "query": "progresīvajiem",
+    "name": "Iesaku",
+    "query": "Iesaku",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Ruka",
+    "query": "Ruka",
+    "rank": 18,
+    "tweet_count": "13.8K Tweets"
+  },
+  {
+    "name": "#grape",
+    "query": "#grape",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Progresīvajiem",
+    "query": "Progresīvajiem",
     "rank": 20,
     "tweet_count": null
   }
