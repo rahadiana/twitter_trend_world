@@ -1,9 +1,9 @@
 [
   {
-    "name": "Steph Curry",
-    "query": "\"Steph Curry\"",
+    "name": "Curry",
+    "query": "Curry",
     "rank": 1,
-    "tweet_count": "126K Tweets"
+    "tweet_count": "368K Tweets"
   },
   {
     "name": "manuel pinho",
@@ -15,95 +15,95 @@
     "name": "Penafiel",
     "query": "Penafiel",
     "rank": 3,
-    "tweet_count": "1,884 Tweets"
+    "tweet_count": "1,887 Tweets"
   },
   {
     "name": "Leeds",
     "query": "Leeds",
     "rank": 4,
-    "tweet_count": "86.3K Tweets"
+    "tweet_count": "86.8K Tweets"
   },
   {
-    "name": "esteves",
-    "query": "esteves",
+    "name": "gonçalo esteves",
+    "query": "\"gonçalo esteves\"",
     "rank": 5,
-    "tweet_count": "2,251 Tweets"
+    "tweet_count": null
   },
   {
     "name": "António",
     "query": "António",
     "rank": 6,
-    "tweet_count": "96.9K Tweets"
+    "tweet_count": "97.5K Tweets"
   },
   {
-    "name": "#SpiderManNoWayHome",
-    "query": "#SpiderManNoWayHome",
+    "name": "#AFazenda",
+    "query": "#AFazenda",
     "rank": 7,
-    "tweet_count": "326K Tweets"
+    "tweet_count": "105K Tweets"
   },
   {
-    "name": "Débora",
-    "query": "Débora",
+    "name": "Nelson",
+    "query": "Nelson",
     "rank": 8,
-    "tweet_count": "11.7K Tweets"
+    "tweet_count": "25.2K Tweets"
   },
   {
     "name": "Sporting",
     "query": "Sporting",
     "rank": 9,
-    "tweet_count": "25.2K Tweets"
+    "tweet_count": "25.4K Tweets"
+  },
+  {
+    "name": "Débora",
+    "query": "Débora",
+    "rank": 10,
+    "tweet_count": "11.7K Tweets"
   },
   {
     "name": "Ajax",
     "query": "Ajax",
-    "rank": 10,
-    "tweet_count": "12.6K Tweets"
+    "rank": 11,
+    "tweet_count": "12.7K Tweets"
   },
   {
     "name": "Bruyne",
     "query": "Bruyne",
-    "rank": 11,
-    "tweet_count": "19.7K Tweets"
+    "rank": 12,
+    "tweet_count": "19.8K Tweets"
   },
   {
     "name": "Savate",
     "query": "Savate",
-    "rank": 12,
-    "tweet_count": "1,145 Tweets"
-  },
-  {
-    "name": "Otamendi",
-    "query": "Otamendi",
     "rank": 13,
-    "tweet_count": "2,387 Tweets"
+    "tweet_count": "1,145 Tweets"
   },
   {
     "name": "Juventus",
     "query": "Juventus",
     "rank": 14,
-    "tweet_count": "11.1K Tweets"
-  },
-  {
-    "name": "#nbanasporttv",
-    "query": "#nbanasporttv",
-    "rank": 15,
-    "tweet_count": null
+    "tweet_count": "11.2K Tweets"
   },
   {
     "name": "#IAMPABLLO",
     "query": "#IAMPABLLO",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": "69.2K Tweets"
   },
   {
-    "name": "tiago tomás",
-    "query": "\"tiago tomás\"",
+    "name": "Rodrigo Ribeiro",
+    "query": "\"Rodrigo Ribeiro\"",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "benfica b",
+    "query": "\"benfica b\"",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Benfica B",
-    "query": "\"Benfica B\"",
+    "name": "#nbanasporttv",
+    "query": "#nbanasporttv",
     "rank": 18,
     "tweet_count": null
   },
@@ -111,11 +111,11 @@
     "name": "Hamilton",
     "query": "Hamilton",
     "rank": 19,
-    "tweet_count": "76.1K Tweets"
+    "tweet_count": "76.6K Tweets"
   },
   {
-    "name": "Rodrigo Ribeiro",
-    "query": "\"Rodrigo Ribeiro\"",
+    "name": "tiago tomás",
+    "query": "\"tiago tomás\"",
     "rank": 20,
     "tweet_count": null
   }
