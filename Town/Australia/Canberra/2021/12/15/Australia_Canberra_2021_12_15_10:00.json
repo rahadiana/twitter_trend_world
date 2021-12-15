@@ -1,81 +1,81 @@
 [
   {
-    "name": "Yelena",
-    "query": "Yelena",
+    "name": "#Hawkeye",
+    "query": "#Hawkeye",
     "rank": 1,
-    "tweet_count": "18K Tweets"
+    "tweet_count": "38.5K Tweets"
   },
   {
     "name": "Omicron",
     "query": "Omicron",
     "rank": 2,
-    "tweet_count": "580K Tweets"
-  },
-  {
-    "name": "#BBL11",
-    "query": "#BBL11",
-    "rank": 3,
-    "tweet_count": "3,026 Tweets"
+    "tweet_count": "584K Tweets"
   },
   {
     "name": "#TwitchRecap",
     "query": "#TwitchRecap",
+    "rank": 3,
+    "tweet_count": "2,892 Tweets"
+  },
+  {
+    "name": "#BBL11",
+    "query": "#BBL11",
     "rank": 4,
-    "tweet_count": "2,650 Tweets"
+    "tweet_count": "3,126 Tweets"
+  },
+  {
+    "name": "Yelena",
+    "query": "Yelena",
+    "rank": 5,
+    "tweet_count": "18.8K Tweets"
+  },
+  {
+    "name": "Covid",
+    "query": "Covid",
+    "rank": 6,
+    "tweet_count": "1.66M Tweets"
   },
   {
     "name": "#LetItRipDom",
     "query": "#LetItRipDom",
-    "rank": 5,
-    "tweet_count": "2,804 Tweets"
-  },
-  {
-    "name": "#Gruen",
-    "query": "#Gruen",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "Maxwell",
-    "query": "Maxwell",
     "rank": 7,
-    "tweet_count": "16.2K Tweets"
+    "tweet_count": "2,834 Tweets"
   },
   {
-    "name": "Maxi",
-    "query": "Maxi",
+    "name": "Glenn Maxwell",
+    "query": "\"Glenn Maxwell\"",
     "rank": 8,
-    "tweet_count": "14.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Dr Chant",
     "query": "\"Dr Chant\"",
     "rank": 9,
-    "tweet_count": "4,324 Tweets"
+    "tweet_count": "4,372 Tweets"
+  },
+  {
+    "name": "Maxi",
+    "query": "Maxi",
+    "rank": 10,
+    "tweet_count": "14.4K Tweets"
   },
   {
     "name": "Newcastle",
     "query": "Newcastle",
-    "rank": 10,
-    "tweet_count": "17.9K Tweets"
+    "rank": 11,
+    "tweet_count": "18K Tweets"
   },
   {
     "name": "Hazzard",
     "query": "Hazzard",
-    "rank": 11,
-    "tweet_count": "3,008 Tweets"
+    "rank": 12,
+    "tweet_count": "3,040 Tweets"
   },
   {
     "name": "Maxy",
     "query": "Maxy",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Queensland",
-    "query": "Queensland",
     "rank": 13,
-    "tweet_count": "8,945 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Steph Curry",
@@ -84,14 +84,14 @@
     "tweet_count": "133K Tweets"
   },
   {
-    "name": "Brett Finch",
-    "query": "\"Brett Finch\"",
+    "name": "Queensland",
+    "query": "Queensland",
     "rank": 15,
-    "tweet_count": null
+    "tweet_count": "9,012 Tweets"
   },
   {
-    "name": "Woakes",
-    "query": "Woakes",
+    "name": "Brett Finch",
+    "query": "\"Brett Finch\"",
     "rank": 16,
     "tweet_count": null
   },
@@ -102,15 +102,15 @@
     "tweet_count": "23.9K Tweets"
   },
   {
-    "name": "Patty Mills",
-    "query": "\"Patty Mills\"",
-    "rank": 18,
-    "tweet_count": "4,700 Tweets"
-  },
-  {
     "name": "Leigh",
     "query": "Leigh",
+    "rank": 18,
+    "tweet_count": "8,714 Tweets"
+  },
+  {
+    "name": "Patty Mills",
+    "query": "\"Patty Mills\"",
     "rank": 19,
-    "tweet_count": "8,660 Tweets"
+    "tweet_count": "4,710 Tweets"
   }
 ]
