@@ -1,39 +1,39 @@
 [
   {
-    "name": "#pollobajando",
-    "query": "#pollobajando",
+    "name": "#PLDesaparece",
+    "query": "#PLDesaparece",
     "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "#PolloBajando",
+    "query": "#PolloBajando",
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#NavidadDelCambio",
     "query": "#NavidadDelCambio",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Rodney",
     "query": "Rodney",
-    "rank": 3,
-    "tweet_count": "6,386 Tweets"
-  },
-  {
-    "name": "#FeriaInespre",
-    "query": "#FeriaInespre",
     "rank": 4,
-    "tweet_count": null
+    "tweet_count": "6,462 Tweets"
   },
   {
-    "name": "Spiderman",
-    "query": "Spiderman",
+    "name": "#feriainespre",
+    "query": "#feriainespre",
     "rank": 5,
-    "tweet_count": "305K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#48AniversarioPLD",
-    "query": "#48AniversarioPLD",
+    "name": "#SpiderManNoWayHome",
+    "query": "#SpiderManNoWayHome",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "248K Tweets"
   },
   {
     "name": "Sergio Vargas",
@@ -42,44 +42,44 @@
     "tweet_count": null
   },
   {
-    "name": "#12Reformas",
-    "query": "#12Reformas",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "Hanley",
-    "query": "Hanley",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
     "name": "Oviedo",
     "query": "Oviedo",
-    "rank": 10,
-    "tweet_count": "3,941 Tweets"
+    "rank": 8,
+    "tweet_count": "3,965 Tweets"
   },
   {
     "name": "Stephen Curry",
     "query": "\"Stephen Curry\"",
-    "rank": 11,
-    "tweet_count": "172K Tweets"
+    "rank": 9,
+    "tweet_count": "173K Tweets"
   },
   {
-    "name": "lagares",
-    "query": "lagares",
-    "rank": 12,
+    "name": "hanley",
+    "query": "hanley",
+    "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "ronny Paulino",
-    "query": "\"ronny Paulino\"",
-    "rank": 13,
+    "name": "Lagares",
+    "query": "Lagares",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "Ronny Paulino",
+    "query": "\"Ronny Paulino\"",
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Fefita",
     "query": "Fefita",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Calixte",
+    "query": "Calixte",
     "rank": 14,
     "tweet_count": null
   },
@@ -93,11 +93,11 @@
     "name": "Puerto Plata",
     "query": "\"Puerto Plata\"",
     "rank": 16,
-    "tweet_count": "1,029 Tweets"
+    "tweet_count": "1,085 Tweets"
   },
   {
-    "name": "calixte",
-    "query": "calixte",
+    "name": "Joe Veras",
+    "query": "\"Joe Veras\"",
     "rank": 17,
     "tweet_count": null
   },
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "Cano",
-    "query": "Cano",
-    "rank": 19,
-    "tweet_count": "11.4K Tweets"
-  },
-  {
     "name": "aguilas",
     "query": "aguilas",
+    "rank": 19,
+    "tweet_count": "3,469 Tweets"
+  },
+  {
+    "name": "Cano",
+    "query": "Cano",
     "rank": 20,
-    "tweet_count": "3,426 Tweets"
+    "tweet_count": "11.4K Tweets"
   }
 ]
