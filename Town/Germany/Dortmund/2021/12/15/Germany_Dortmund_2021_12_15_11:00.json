@@ -3,13 +3,13 @@
     "name": "#Regierungserklaerung",
     "query": "#Regierungserklaerung",
     "rank": 1,
-    "tweet_count": "3,173 Tweets"
+    "tweet_count": "3,341 Tweets"
   },
   {
     "name": "#TwitchRecap",
     "query": "#TwitchRecap",
     "rank": 2,
-    "tweet_count": "3,586 Tweets"
+    "tweet_count": "3,785 Tweets"
   },
   {
     "name": "#Brinkhaus",
@@ -21,19 +21,19 @@
     "name": "#Impfstoffmangel",
     "query": "#Impfstoffmangel",
     "rank": 4,
-    "tweet_count": "1,940 Tweets"
-  },
-  {
-    "name": "Mordpläne",
-    "query": "Mordpläne",
-    "rank": 5,
-    "tweet_count": "1,077 Tweets"
+    "tweet_count": "1,978 Tweets"
   },
   {
     "name": "Extremisten",
     "query": "Extremisten",
+    "rank": 5,
+    "tweet_count": "1,670 Tweets"
+  },
+  {
+    "name": "Mordpläne",
+    "query": "Mordpläne",
     "rank": 6,
-    "tweet_count": "1,613 Tweets"
+    "tweet_count": "1,117 Tweets"
   },
   {
     "name": "Wochenteiler",
@@ -57,13 +57,13 @@
     "name": "Inventur",
     "query": "Inventur",
     "rank": 10,
-    "tweet_count": "2,479 Tweets"
+    "tweet_count": "2,503 Tweets"
   },
   {
     "name": "Impfdosen",
     "query": "Impfdosen",
     "rank": 11,
-    "tweet_count": "1,760 Tweets"
+    "tweet_count": "1,785 Tweets"
   },
   {
     "name": "Januar 2022",
@@ -75,7 +75,7 @@
     "name": "#Hawkeye",
     "query": "#Hawkeye",
     "rank": 13,
-    "tweet_count": "43.6K Tweets"
+    "tweet_count": "45.1K Tweets"
   },
   {
     "name": "#stadtrat_live",
@@ -87,23 +87,23 @@
     "name": "#Kretschmer",
     "query": "#Kretschmer",
     "rank": 15,
-    "tweet_count": "1,369 Tweets"
-  },
-  {
-    "name": "#BMGSGE",
-    "query": "#BMGSGE",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "1,387 Tweets"
   },
   {
     "name": "#Dresden",
     "query": "#Dresden",
-    "rank": 17,
-    "tweet_count": "1,517 Tweets"
+    "rank": 16,
+    "tweet_count": "1,540 Tweets"
   },
   {
-    "name": "#NieMehrCDU",
-    "query": "#NieMehrCDU",
+    "name": "#DartsWM",
+    "query": "#DartsWM",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "#niemehrcdu",
+    "query": "#niemehrcdu",
     "rank": 18,
     "tweet_count": null
   },
@@ -111,6 +111,6 @@
     "name": "#Spahn",
     "query": "#Spahn",
     "rank": 19,
-    "tweet_count": "2,462 Tweets"
+    "tweet_count": "2,479 Tweets"
   }
 ]
