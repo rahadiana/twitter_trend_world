@@ -1,45 +1,45 @@
 [
   {
-    "name": "De Paul",
-    "query": "\"De Paul\"",
-    "rank": 1,
-    "tweet_count": "10.8K Tweets"
-  },
-  {
     "name": "Kun Agüero",
     "query": "\"Kun Agüero\"",
-    "rank": 2,
-    "tweet_count": "57.1K Tweets"
+    "rank": 1,
+    "tweet_count": "61K Tweets"
   },
   {
     "name": "#GraciasKun",
     "query": "#GraciasKun",
+    "rank": 2,
+    "tweet_count": "8,902 Tweets"
+  },
+  {
+    "name": "Qatar",
+    "query": "Qatar",
     "rank": 3,
-    "tweet_count": "7,961 Tweets"
+    "tweet_count": "23.3K Tweets"
   },
   {
     "name": "#FuerzaKun",
     "query": "#FuerzaKun",
     "rank": 4,
-    "tweet_count": "6,082 Tweets"
+    "tweet_count": "6,354 Tweets"
   },
   {
-    "name": "Qatar",
-    "query": "Qatar",
+    "name": "De Paul",
+    "query": "\"De Paul\"",
     "rank": 5,
-    "tweet_count": "22.5K Tweets"
+    "tweet_count": "11.1K Tweets"
   },
   {
     "name": "#BuenMiercoles",
     "query": "#BuenMiercoles",
     "rank": 6,
-    "tweet_count": "1,480 Tweets"
+    "tweet_count": "1,551 Tweets"
   },
   {
-    "name": "#Hawkeye",
-    "query": "#Hawkeye",
+    "name": "Yelena",
+    "query": "Yelena",
     "rank": 7,
-    "tweet_count": "74K Tweets"
+    "tweet_count": "39.6K Tweets"
   },
   {
     "name": "Messi al Kun",
@@ -51,7 +51,7 @@
     "name": "Selección",
     "query": "Selección",
     "rank": 9,
-    "tweet_count": "24.3K Tweets"
+    "tweet_count": "25.3K Tweets"
   },
   {
     "name": "#nadiedicenada",
@@ -63,60 +63,60 @@
     "name": "Vikingo",
     "query": "Vikingo",
     "rank": 11,
-    "tweet_count": "8,636 Tweets"
+    "tweet_count": "9,005 Tweets"
+  },
+  {
+    "name": "#TwitchRecap",
+    "query": "#TwitchRecap",
+    "rank": 12,
+    "tweet_count": "8,265 Tweets"
   },
   {
     "name": "Pobre Kun",
     "query": "\"Pobre Kun\"",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Salgan de Twitter",
     "query": "\"Salgan de Twitter\"",
-    "rank": 13,
-    "tweet_count": "5,640 Tweets"
+    "rank": 14,
+    "tweet_count": "5,767 Tweets"
   },
   {
     "name": "Crosa",
     "query": "Crosa",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "Premier",
-    "query": "Premier",
-    "rank": 15,
-    "tweet_count": "166K Tweets"
-  },
-  {
-    "name": "Después de Messi",
-    "query": "\"Después de Messi\"",
+    "name": "Copa América",
+    "query": "\"Copa América\"",
     "rank": 16,
-    "tweet_count": "3,581 Tweets"
+    "tweet_count": "9,451 Tweets"
   },
   {
     "name": "No Kun",
     "query": "\"No Kun\"",
     "rank": 17,
-    "tweet_count": "17.8K Tweets"
+    "tweet_count": "19.4K Tweets"
   },
   {
-    "name": "Copa América",
-    "query": "\"Copa América\"",
+    "name": "Después de Messi",
+    "query": "\"Después de Messi\"",
     "rank": 18,
-    "tweet_count": "8,765 Tweets"
-  },
-  {
-    "name": "Manchester City",
-    "query": "\"Manchester City\"",
-    "rank": 19,
-    "tweet_count": "61.2K Tweets"
+    "tweet_count": "3,696 Tweets"
   },
   {
     "name": "Camp Nou",
     "query": "\"Camp Nou\"",
+    "rank": 19,
+    "tweet_count": "6,430 Tweets"
+  },
+  {
+    "name": "Marcelo",
+    "query": "Marcelo",
     "rank": 20,
-    "tweet_count": "6,247 Tweets"
+    "tweet_count": "45.4K Tweets"
   }
 ]
