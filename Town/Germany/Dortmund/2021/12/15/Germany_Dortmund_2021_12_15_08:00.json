@@ -9,29 +9,29 @@
     "name": "#Impfstoffmangel",
     "query": "#Impfstoffmangel",
     "rank": 2,
-    "tweet_count": "1,214 Tweets"
+    "tweet_count": "1,288 Tweets"
+  },
+  {
+    "name": "#twitchrecap",
+    "query": "#twitchrecap",
+    "rank": 3,
+    "tweet_count": null
   },
   {
     "name": "#Kretschmer",
     "query": "#Kretschmer",
-    "rank": 3,
-    "tweet_count": "1,206 Tweets"
+    "rank": 4,
+    "tweet_count": "1,238 Tweets"
   },
   {
     "name": "Wochenteiler",
     "query": "Wochenteiler",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Mordpläne",
     "query": "Mordpläne",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "#mittelfingermittwoch",
-    "query": "#mittelfingermittwoch",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,63 +42,69 @@
     "tweet_count": null
   },
   {
-    "name": "Inventur",
-    "query": "Inventur",
+    "name": "Spahn",
+    "query": "Spahn",
     "rank": 8,
-    "tweet_count": "2,112 Tweets"
+    "tweet_count": "5,269 Tweets"
   },
   {
-    "name": "Aasgeier der Pandemie",
-    "query": "\"Aasgeier der Pandemie\"",
+    "name": "Inventur",
+    "query": "Inventur",
     "rank": 9,
-    "tweet_count": "3,060 Tweets"
+    "tweet_count": "2,132 Tweets"
   },
   {
     "name": "Impfdosen",
     "query": "Impfdosen",
     "rank": 10,
-    "tweet_count": "1,548 Tweets"
+    "tweet_count": "1,576 Tweets"
+  },
+  {
+    "name": "Aasgeier der Pandemie",
+    "query": "\"Aasgeier der Pandemie\"",
+    "rank": 11,
+    "tweet_count": "3,090 Tweets"
   },
   {
     "name": "Telegramm",
     "query": "Telegramm",
-    "rank": 11,
-    "tweet_count": "1,278 Tweets"
+    "rank": 12,
+    "tweet_count": "1,298 Tweets"
+  },
+  {
+    "name": "#mittelfingermittwoch",
+    "query": "#mittelfingermittwoch",
+    "rank": 13,
+    "tweet_count": null
   },
   {
     "name": "#moma",
     "query": "#moma",
-    "rank": 12,
+    "rank": 14,
     "tweet_count": null
-  },
-  {
-    "name": "#Spahn",
-    "query": "#Spahn",
-    "rank": 13,
-    "tweet_count": "2,235 Tweets"
   },
   {
     "name": "#BMGSGE",
     "query": "#BMGSGE",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "#SpiderManNoWayHome",
     "query": "#SpiderManNoWayHome",
-    "rank": 15,
-    "tweet_count": "316K Tweets"
+    "rank": 16,
+    "tweet_count": "317K Tweets"
   },
   {
     "name": "#Impfplicht",
     "query": "#Impfplicht",
-    "rank": 16,
-    "tweet_count": "2,925 Tweets"
+    "rank": 17,
+    "tweet_count": "2,955 Tweets"
   },
   {
     "name": "#toennies",
     "query": "#toennies",
-    "rank": 17,
-    "tweet_count": "2,016 Tweets"
+    "rank": 18,
+    "tweet_count": "2,028 Tweets"
   }
 ]
