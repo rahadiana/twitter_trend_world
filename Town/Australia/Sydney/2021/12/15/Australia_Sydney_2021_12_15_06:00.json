@@ -1,110 +1,122 @@
 [
   {
-    "name": "#Omicron",
-    "query": "#Omicron",
+    "name": "Omicron",
+    "query": "Omicron",
     "rank": 1,
-    "tweet_count": "82.6K Tweets"
+    "tweet_count": "596K Tweets"
   },
   {
-    "name": "Delta",
-    "query": "Delta",
+    "name": "Covid",
+    "query": "Covid",
     "rank": 2,
-    "tweet_count": "91.9K Tweets"
+    "tweet_count": "1.68M Tweets"
   },
   {
     "name": "#LetItRipDom",
     "query": "#LetItRipDom",
     "rank": 3,
-    "tweet_count": "2,002 Tweets"
+    "tweet_count": "2,083 Tweets"
   },
   {
-    "name": "#AfternoonBriefing",
-    "query": "#AfternoonBriefing",
+    "name": "Newcastle",
+    "query": "Newcastle",
     "rank": 4,
-    "tweet_count": "2,342 Tweets"
+    "tweet_count": "17.1K Tweets"
   },
   {
     "name": "Dr Chant",
     "query": "\"Dr Chant\"",
     "rank": 5,
-    "tweet_count": "3,021 Tweets"
+    "tweet_count": "3,195 Tweets"
   },
   {
-    "name": "Patty Mills",
-    "query": "\"Patty Mills\"",
+    "name": "#AfternoonBriefing",
+    "query": "#AfternoonBriefing",
     "rank": 6,
-    "tweet_count": "4,436 Tweets"
+    "tweet_count": "2,415 Tweets"
+  },
+  {
+    "name": "#SpiderManNoWayHome",
+    "query": "#SpiderManNoWayHome",
+    "rank": 7,
+    "tweet_count": "342K Tweets"
+  },
+  {
+    "name": "Hazzard",
+    "query": "Hazzard",
+    "rank": 8,
+    "tweet_count": "2,461 Tweets"
+  },
+  {
+    "name": "Soaring Ambition",
+    "query": "\"Soaring Ambition\"",
+    "rank": 9,
+    "tweet_count": null
   },
   {
     "name": "#nswpol",
     "query": "#nswpol",
-    "rank": 7,
-    "tweet_count": "2,132 Tweets"
-  },
-  {
-    "name": "Kerry Chant",
-    "query": "\"Kerry Chant\"",
-    "rank": 8,
-    "tweet_count": "2,075 Tweets"
-  },
-  {
-    "name": "Brad Hazzard",
-    "query": "\"Brad Hazzard\"",
-    "rank": 9,
-    "tweet_count": "1,157 Tweets"
-  },
-  {
-    "name": "#covidnsw",
-    "query": "#covidnsw",
     "rank": 10,
+    "tweet_count": "2,199 Tweets"
+  },
+  {
+    "name": "Queensland",
+    "query": "Queensland",
+    "rank": 11,
+    "tweet_count": "8,749 Tweets"
+  },
+  {
+    "name": "port louis",
+    "query": "\"port louis\"",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "#UCLdraw",
+    "query": "#UCLdraw",
+    "rank": 13,
+    "tweet_count": "23K Tweets"
+  },
+  {
+    "name": "Brett Finch",
+    "query": "\"Brett Finch\"",
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Steph Curry",
     "query": "\"Steph Curry\"",
-    "rank": 11,
-    "tweet_count": "122K Tweets"
-  },
-  {
-    "name": "Masks",
-    "query": "Masks",
-    "rank": 12,
-    "tweet_count": "121K Tweets"
-  },
-  {
-    "name": "Leigh",
-    "query": "Leigh",
-    "rank": 13,
-    "tweet_count": "8,661 Tweets"
-  },
-  {
-    "name": "Perrottet",
-    "query": "Perrottet",
-    "rank": 14,
-    "tweet_count": "10.6K Tweets"
-  },
-  {
-    "name": "NSW Health",
-    "query": "\"NSW Health\"",
     "rank": 15,
-    "tweet_count": "4,688 Tweets"
+    "tweet_count": "123K Tweets"
   },
   {
-    "name": "#ScottyTheAnnouncer",
-    "query": "#ScottyTheAnnouncer",
+    "name": "Chansung",
+    "query": "Chansung",
     "rank": 16,
-    "tweet_count": null
+    "tweet_count": "42.6K Tweets"
   },
   {
-    "name": "#Scottythefukwit",
-    "query": "#Scottythefukwit",
+    "name": "trams",
+    "query": "trams",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "1,154 Tweets"
   },
   {
-    "name": "#COVID19Vic",
-    "query": "#COVID19Vic",
+    "name": "Patty Mills",
+    "query": "\"Patty Mills\"",
     "rank": 18,
-    "tweet_count": "1,138 Tweets"
+    "tweet_count": "4,481 Tweets"
+  },
+  {
+    "name": "Michelle Yeoh",
+    "query": "\"Michelle Yeoh\"",
+    "rank": 19,
+    "tweet_count": "22.8K Tweets"
+  },
+  {
+    "name": "Russell Brand",
+    "query": "\"Russell Brand\"",
+    "rank": 20,
+    "tweet_count": "1,254 Tweets"
   }
 ]
