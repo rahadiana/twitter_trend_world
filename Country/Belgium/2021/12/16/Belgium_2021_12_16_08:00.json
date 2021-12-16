@@ -1,15 +1,15 @@
 [
   {
-    "name": "#SpiderManNoWayHome",
-    "query": "#SpiderManNoWayHome",
-    "rank": 1,
-    "tweet_count": "334K Tweets"
-  },
-  {
     "name": "#ohlclu",
     "query": "#ohlclu",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#SpiderManNoWayHome",
+    "query": "#SpiderManNoWayHome",
+    "rank": 2,
+    "tweet_count": "338K Tweets"
   },
   {
     "name": "Frieda Brepoels",
@@ -21,29 +21,29 @@
     "name": "#KCORP",
     "query": "#KCORP",
     "rank": 4,
-    "tweet_count": "46.6K Tweets"
+    "tweet_count": "46.7K Tweets"
   },
   {
-    "name": "#kvmgnt",
-    "query": "#kvmgnt",
+    "name": "#EUCO",
+    "query": "#EUCO",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "#KohLanta2021",
-    "query": "#KohLanta2021",
+    "name": "#kvmgnt",
+    "query": "#kvmgnt",
     "rank": 6,
-    "tweet_count": "14.6K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Nederland",
     "query": "Nederland",
     "rank": 7,
-    "tweet_count": "21K Tweets"
+    "tweet_count": "21.4K Tweets"
   },
   {
-    "name": "balanta",
-    "query": "balanta",
+    "name": "Balanta",
+    "query": "Balanta",
     "rank": 8,
     "tweet_count": null
   },
@@ -51,25 +51,25 @@
     "name": "Claude",
     "query": "Claude",
     "rank": 9,
-    "tweet_count": "21K Tweets"
+    "tweet_count": "21.3K Tweets"
   },
   {
     "name": "Marvel",
     "query": "Marvel",
     "rank": 10,
-    "tweet_count": "160K Tweets"
-  },
-  {
-    "name": "Goeiemorgen",
-    "query": "Goeiemorgen",
-    "rank": 11,
-    "tweet_count": null
+    "tweet_count": "161K Tweets"
   },
   {
     "name": "Antwerpen",
     "query": "Antwerpen",
+    "rank": 11,
+    "tweet_count": "1,252 Tweets"
+  },
+  {
+    "name": "Goeiemorgen",
+    "query": "Goeiemorgen",
     "rank": 12,
-    "tweet_count": "1,224 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Poetin",
@@ -81,31 +81,31 @@
     "name": "Leeds",
     "query": "Leeds",
     "rank": 14,
-    "tweet_count": "22.8K Tweets"
-  },
-  {
-    "name": "Balti",
-    "query": "Balti",
-    "rank": 15,
-    "tweet_count": "1,667 Tweets"
+    "tweet_count": "23.2K Tweets"
   },
   {
     "name": "Stefan",
     "query": "Stefan",
-    "rank": 16,
-    "tweet_count": "9,221 Tweets"
+    "rank": 15,
+    "tweet_count": "9,339 Tweets"
   },
   {
-    "name": "Veljkovic",
-    "query": "Veljkovic",
+    "name": "balti",
+    "query": "balti",
+    "rank": 16,
+    "tweet_count": "1,694 Tweets"
+  },
+  {
+    "name": "veljkovic",
+    "query": "veljkovic",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "raad van state",
-    "query": "\"raad van state\"",
+    "name": "Groen",
+    "query": "Groen",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "4,349 Tweets"
   },
   {
     "name": "Borssele",
@@ -117,6 +117,6 @@
     "name": "Tunisie",
     "query": "Tunisie",
     "rank": 20,
-    "tweet_count": "16.4K Tweets"
+    "tweet_count": "16.5K Tweets"
   }
 ]
