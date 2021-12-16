@@ -1,37 +1,37 @@
 [
   {
+    "name": "#zib2",
+    "query": "#zib2",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "#hacker",
+    "query": "#hacker",
+    "rank": 2,
+    "tweet_count": "1,359 Tweets"
+  },
+  {
     "name": "#YesWeCare",
     "query": "#YesWeCare",
-    "rank": 1,
-    "tweet_count": "1,415 Tweets"
+    "rank": 3,
+    "tweet_count": "1,449 Tweets"
   },
   {
     "name": "#festundflauschig",
     "query": "#festundflauschig",
-    "rank": 2,
-    "tweet_count": "2,343 Tweets"
+    "rank": 4,
+    "tweet_count": "2,607 Tweets"
   },
   {
     "name": "#rafreider",
     "query": "#rafreider",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "#Lichtermeer",
-    "query": "#Lichtermeer",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "journalist des jahres",
-    "query": "\"journalist des jahres\"",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "#zib2",
-    "query": "#zib2",
+    "name": "Journalist des Jahres",
+    "query": "\"Journalist des Jahres\"",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,16 +42,16 @@
     "tweet_count": null
   },
   {
-    "name": "Blümel",
-    "query": "Blümel",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "Moderator",
     "query": "Moderator",
+    "rank": 8,
+    "tweet_count": "2,092 Tweets"
+  },
+  {
+    "name": "Blümel",
+    "query": "Blümel",
     "rank": 9,
-    "tweet_count": "2,072 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Konsens",
@@ -60,46 +60,46 @@
     "tweet_count": null
   },
   {
-    "name": "Ärzte",
-    "query": "Ärzte",
-    "rank": 11,
-    "tweet_count": "6,335 Tweets"
-  },
-  {
     "name": "Herzliche Gratulation",
     "query": "\"Herzliche Gratulation\"",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
+  },
+  {
+    "name": "Ärzte",
+    "query": "Ärzte",
+    "rank": 12,
+    "tweet_count": "6,410 Tweets"
   },
   {
     "name": "Jury",
     "query": "Jury",
     "rank": 13,
-    "tweet_count": "24.9K Tweets"
+    "tweet_count": "25.1K Tweets"
+  },
+  {
+    "name": "Brunner",
+    "query": "Brunner",
+    "rank": 14,
+    "tweet_count": null
   },
   {
     "name": "Suspendierung",
     "query": "Suspendierung",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Die \"Evidenzen\" der 199",
     "query": "\"Die \"Evidenzen\" der 199\"",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Weihnachten",
     "query": "Weihnachten",
-    "rank": 16,
-    "tweet_count": "12.1K Tweets"
-  },
-  {
-    "name": "Verbot",
-    "query": "Verbot",
     "rank": 17,
-    "tweet_count": "1,326 Tweets"
+    "tweet_count": "12.2K Tweets"
   },
   {
     "name": "Auszeichnung",
@@ -114,8 +114,8 @@
     "tweet_count": null
   },
   {
-    "name": "Rettung",
-    "query": "Rettung",
+    "name": "rettung",
+    "query": "rettung",
     "rank": 20,
     "tweet_count": null
   }
