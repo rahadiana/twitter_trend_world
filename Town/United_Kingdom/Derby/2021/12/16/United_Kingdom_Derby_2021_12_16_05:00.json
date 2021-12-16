@@ -1,122 +1,116 @@
 [
   {
+    "name": "Whitty",
+    "query": "Whitty",
+    "rank": 1,
+    "tweet_count": "37.4K Tweets"
+  },
+  {
     "name": "#AEWDynamite",
     "query": "#AEWDynamite",
-    "rank": 1,
-    "tweet_count": "62.5K Tweets"
+    "rank": 2,
+    "tweet_count": "63K Tweets"
   },
   {
     "name": "Jos Buttler",
     "query": "\"Jos Buttler\"",
-    "rank": 2,
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "#AshesTest",
+    "query": "#AshesTest",
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "#SpiderManNoWayHome",
     "query": "#SpiderManNoWayHome",
-    "rank": 3,
-    "tweet_count": "310K Tweets"
+    "rank": 5,
+    "tweet_count": "315K Tweets"
+  },
+  {
+    "name": "Steve Smith",
+    "query": "\"Steve Smith\"",
+    "rank": 6,
+    "tweet_count": "4,013 Tweets"
   },
   {
     "name": "Reaves",
     "query": "Reaves",
-    "rank": 4,
-    "tweet_count": "63K Tweets"
+    "rank": 7,
+    "tweet_count": "64.9K Tweets"
   },
   {
     "name": "Hazlewood",
     "query": "Hazlewood",
-    "rank": 5,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "#ARSWHU",
     "query": "#ARSWHU",
-    "rank": 6,
-    "tweet_count": "52.6K Tweets"
-  },
-  {
-    "name": "#LakeShow",
-    "query": "#LakeShow",
-    "rank": 7,
-    "tweet_count": "10.7K Tweets"
+    "rank": 9,
+    "tweet_count": "52.9K Tweets"
   },
   {
     "name": "Westbrook",
     "query": "Westbrook",
-    "rank": 8,
-    "tweet_count": "20.2K Tweets"
+    "rank": 10,
+    "tweet_count": "20.5K Tweets"
+  },
+  {
+    "name": "Saka",
+    "query": "Saka",
+    "rank": 11,
+    "tweet_count": "52.5K Tweets"
   },
   {
     "name": "Willem Dafoe",
     "query": "\"Willem Dafoe\"",
-    "rank": 9,
-    "tweet_count": "7,367 Tweets"
-  },
-  {
-    "name": "Tony Ralston",
-    "query": "\"Tony Ralston\"",
-    "rank": 10,
-    "tweet_count": "1,442 Tweets"
-  },
-  {
-    "name": "Marvel",
-    "query": "Marvel",
-    "rank": 11,
-    "tweet_count": "152K Tweets"
-  },
-  {
-    "name": "Gerwyn Price",
-    "query": "\"Gerwyn Price\"",
     "rank": 12,
-    "tweet_count": "1,216 Tweets"
-  },
-  {
-    "name": "#COYG",
-    "query": "#COYG",
-    "rank": 13,
-    "tweet_count": "7,461 Tweets"
+    "tweet_count": "7,686 Tweets"
   },
   {
     "name": "Adelaide",
     "query": "Adelaide",
+    "rank": 13,
+    "tweet_count": "9,140 Tweets"
+  },
+  {
+    "name": "Tony Ralston",
+    "query": "\"Tony Ralston\"",
     "rank": 14,
-    "tweet_count": "8,971 Tweets"
+    "tweet_count": "1,443 Tweets"
   },
   {
-    "name": "Joe Aribo",
-    "query": "\"Joe Aribo\"",
+    "name": "Gerwyn Price",
+    "query": "\"Gerwyn Price\"",
     "rank": 15,
-    "tweet_count": "1,708 Tweets"
-  },
-  {
-    "name": "Moyes",
-    "query": "Moyes",
-    "rank": 16,
-    "tweet_count": "5,681 Tweets"
+    "tweet_count": "1,218 Tweets"
   },
   {
     "name": "Ross County",
     "query": "\"Ross County\"",
-    "rank": 17,
-    "tweet_count": "2,940 Tweets"
+    "rank": 16,
+    "tweet_count": "2,946 Tweets"
   },
   {
-    "name": "Whitty",
-    "query": "Whitty",
+    "name": "Joe Aribo",
+    "query": "\"Joe Aribo\"",
+    "rank": 17,
+    "tweet_count": "1,712 Tweets"
+  },
+  {
+    "name": "Moyes",
+    "query": "Moyes",
     "rank": 18,
-    "tweet_count": "37.2K Tweets"
+    "tweet_count": "5,705 Tweets"
   },
   {
     "name": "Hawkeye",
     "query": "Hawkeye",
     "rank": 19,
-    "tweet_count": "247K Tweets"
-  },
-  {
-    "name": "Peter Parker",
-    "query": "\"Peter Parker\"",
-    "rank": 20,
-    "tweet_count": "20K Tweets"
+    "tweet_count": "249K Tweets"
   }
 ]
