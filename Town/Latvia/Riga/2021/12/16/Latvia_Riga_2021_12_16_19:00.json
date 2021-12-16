@@ -12,22 +12,22 @@
     "tweet_count": null
   },
   {
-    "name": "#kasnotieklatvijā",
-    "query": "#kasnotieklatvijā",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
     "name": "liels",
     "query": "liels",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#teirdarbs",
     "query": "#teirdarbs",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "Putina",
+    "query": "Putina",
+    "rank": 5,
+    "tweet_count": "1,837 Tweets"
   },
   {
     "name": "Rīgas",
@@ -36,52 +36,52 @@
     "tweet_count": null
   },
   {
-    "name": "Putina",
-    "query": "Putina",
-    "rank": 7,
-    "tweet_count": "1,823 Tweets"
-  },
-  {
     "name": "Ukrainā",
     "query": "Ukrainā",
-    "rank": 8,
-    "tweet_count": "2,108 Tweets"
+    "rank": 7,
+    "tweet_count": "2,134 Tweets"
   },
   {
     "name": "Jēkabpils",
     "query": "Jēkabpils",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "veselības",
     "query": "veselības",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
-  },
-  {
-    "name": "#NFTs",
-    "query": "#NFTs",
-    "rank": 11,
-    "tweet_count": "449K Tweets"
   },
   {
     "name": "VARAM",
     "query": "VARAM",
-    "rank": 12,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Bērnu",
     "query": "Bērnu",
-    "rank": 13,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "COVID-19",
     "query": "COVID-19",
+    "rank": 12,
+    "tweet_count": "471K Tweets"
+  },
+  {
+    "name": "#NFTs",
+    "query": "#NFTs",
+    "rank": 13,
+    "tweet_count": "452K Tweets"
+  },
+  {
+    "name": "Tajā",
+    "query": "Tajā",
     "rank": 14,
-    "tweet_count": "465K Tweets"
+    "tweet_count": null
   },
   {
     "name": "jelgavas",
@@ -114,8 +114,8 @@
     "tweet_count": null
   },
   {
-    "name": "Izklausās",
-    "query": "Izklausās",
+    "name": "izklausās",
+    "query": "izklausās",
     "rank": 20,
     "tweet_count": null
   }
