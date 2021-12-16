@@ -1,62 +1,68 @@
 [
   {
-    "name": "#SpiderManNoWayHome",
-    "query": "#SpiderManNoWayHome",
+    "name": "Spiderman",
+    "query": "Spiderman",
     "rank": 1,
-    "tweet_count": "349K Tweets"
+    "tweet_count": "78.7K Tweets"
+  },
+  {
+    "name": "#ActressJISOODebut",
+    "query": "#ActressJISOODebut",
+    "rank": 2,
+    "tweet_count": "397K Tweets"
   },
   {
     "name": "SNOWDROP PRESSCON",
     "query": "\"SNOWDROP PRESSCON\"",
-    "rank": 2,
-    "tweet_count": "383K Tweets"
-  },
-  {
-    "name": "Marvel",
-    "query": "Marvel",
     "rank": 3,
-    "tweet_count": "162K Tweets"
+    "tweet_count": "385K Tweets"
   },
   {
     "name": "Tom Holland",
     "query": "\"Tom Holland\"",
     "rank": 4,
-    "tweet_count": "91.2K Tweets"
+    "tweet_count": "92.2K Tweets"
+  },
+  {
+    "name": "Marvel",
+    "query": "Marvel",
+    "rank": 5,
+    "tweet_count": "163K Tweets"
   },
   {
     "name": "Willem Dafoe",
     "query": "\"Willem Dafoe\"",
-    "rank": 5,
-    "tweet_count": "11.2K Tweets"
+    "rank": 6,
+    "tweet_count": "11.4K Tweets"
   },
   {
     "name": "Andrew Garfield",
     "query": "\"Andrew Garfield\"",
-    "rank": 6,
-    "tweet_count": "37.7K Tweets"
-  },
-  {
-    "name": "peter parker",
-    "query": "\"peter parker\"",
     "rank": 7,
-    "tweet_count": "23.9K Tweets"
+    "tweet_count": "37.9K Tweets"
   },
   {
     "name": "Zendaya",
     "query": "Zendaya",
     "rank": 8,
-    "tweet_count": "95.1K Tweets"
-  },
-  {
-    "name": "Tobey",
-    "query": "Tobey",
-    "rank": 9,
-    "tweet_count": "57K Tweets"
+    "tweet_count": "95.8K Tweets"
   },
   {
     "name": "Chapo",
     "query": "Chapo",
+    "rank": 9,
+    "tweet_count": "25.5K Tweets"
+  },
+  {
+    "name": "Tobey",
+    "query": "Tobey",
     "rank": 10,
-    "tweet_count": "25.4K Tweets"
+    "tweet_count": "57.3K Tweets"
+  },
+  {
+    "name": "Peter Parker",
+    "query": "\"Peter Parker\"",
+    "rank": 11,
+    "tweet_count": "24.1K Tweets"
   }
 ]
