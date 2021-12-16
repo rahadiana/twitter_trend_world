@@ -1,15 +1,15 @@
 [
   {
-    "name": "Kosovo",
-    "query": "Kosovo",
-    "rank": 1,
-    "tweet_count": "2,909 Tweets"
-  },
-  {
     "name": "Cecilie Beck",
     "query": "\"Cecilie Beck\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Kosovo",
+    "query": "Kosovo",
+    "rank": 2,
+    "tweet_count": "2,944 Tweets"
   },
   {
     "name": "#dklifescience",
@@ -21,13 +21,13 @@
     "name": "Folketinget",
     "query": "Folketinget",
     "rank": 4,
-    "tweet_count": "1,306 Tweets"
+    "tweet_count": "1,315 Tweets"
   },
   {
     "name": "Støjberg",
     "query": "Støjberg",
     "rank": 5,
-    "tweet_count": "1,701 Tweets"
+    "tweet_count": "1,714 Tweets"
   },
   {
     "name": "#dkgreen",
@@ -42,40 +42,40 @@
     "tweet_count": null
   },
   {
-    "name": "Erdogan",
-    "query": "Erdogan",
-    "rank": 8,
-    "tweet_count": "57.8K Tweets"
-  },
-  {
     "name": "#ARSWHU",
     "query": "#ARSWHU",
-    "rank": 9,
-    "tweet_count": "56K Tweets"
+    "rank": 8,
+    "tweet_count": "56.2K Tweets"
   },
   {
     "name": "Enhedslisten",
     "query": "Enhedslisten",
+    "rank": 9,
+    "tweet_count": "1,170 Tweets"
+  },
+  {
+    "name": "Erdogan",
+    "query": "Erdogan",
     "rank": 10,
-    "tweet_count": "1,154 Tweets"
+    "tweet_count": "58.5K Tweets"
   },
   {
     "name": "Holland",
     "query": "Holland",
     "rank": 11,
-    "tweet_count": "105K Tweets"
-  },
-  {
-    "name": "#SpiderManNoWayHome",
-    "query": "#SpiderManNoWayHome",
-    "rank": 12,
-    "tweet_count": "346K Tweets"
+    "tweet_count": "106K Tweets"
   },
   {
     "name": "#MeToo",
     "query": "#MeToo",
+    "rank": 12,
+    "tweet_count": "5,529 Tweets"
+  },
+  {
+    "name": "#SpiderManNoWayHome",
+    "query": "#SpiderManNoWayHome",
     "rank": 13,
-    "tweet_count": "5,463 Tweets"
+    "tweet_count": "349K Tweets"
   },
   {
     "name": "Rosa Lund",
@@ -87,35 +87,35 @@
     "name": "Teams",
     "query": "Teams",
     "rank": 15,
-    "tweet_count": "124K Tweets"
+    "tweet_count": "125K Tweets"
+  },
+  {
+    "name": "Xhaka",
+    "query": "Xhaka",
+    "rank": 16,
+    "tweet_count": "9,088 Tweets"
   },
   {
     "name": "West Ham",
     "query": "\"West Ham\"",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": "13.8K Tweets"
   },
   {
     "name": "Lacazette",
     "query": "Lacazette",
-    "rank": 17,
-    "tweet_count": "21.5K Tweets"
+    "rank": 18,
+    "tweet_count": "21.7K Tweets"
   },
   {
     "name": "Kriminalforsorgen",
     "query": "Kriminalforsorgen",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Ekstra Bladet",
     "query": "\"Ekstra Bladet\"",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "tyrkiet",
-    "query": "tyrkiet",
     "rank": 20,
     "tweet_count": null
   }
