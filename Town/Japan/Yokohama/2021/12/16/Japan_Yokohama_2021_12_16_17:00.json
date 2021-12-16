@@ -1,27 +1,27 @@
 [
   {
-    "name": "#コアラジ",
-    "query": "#コアラジ",
-    "rank": 1,
-    "tweet_count": "1,295 Tweets"
-  },
-  {
     "name": "#レコメン",
     "query": "#レコメン",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "14.2K Tweets"
+  },
+  {
+    "name": "北斗くん",
+    "query": "北斗くん",
+    "rank": 2,
+    "tweet_count": "14K Tweets"
   },
   {
     "name": "濃厚接触者",
     "query": "濃厚接触者",
     "rank": 3,
-    "tweet_count": "39K Tweets"
+    "tweet_count": "39.2K Tweets"
   },
   {
-    "name": "OMORI",
-    "query": "OMORI",
+    "name": "Omori",
+    "query": "Omori",
     "rank": 4,
-    "tweet_count": "40K Tweets"
+    "tweet_count": "40.2K Tweets"
   },
   {
     "name": "市中感染",
@@ -30,76 +30,76 @@
     "tweet_count": null
   },
   {
-    "name": "#こより実験中",
-    "query": "#こより実験中",
-    "rank": 6,
-    "tweet_count": "8,605 Tweets"
-  },
-  {
     "name": "#ナインティナインANN",
     "query": "#ナインティナインANN",
-    "rank": 7,
-    "tweet_count": "11.1K Tweets"
+    "rank": 6,
+    "tweet_count": "12K Tweets"
   },
   {
     "name": "#佐々木美玲生誕祭",
     "query": "#佐々木美玲生誕祭",
-    "rank": 8,
+    "rank": 7,
     "tweet_count": "11.8K Tweets"
+  },
+  {
+    "name": "#バチェラー4",
+    "query": "#バチェラー4",
+    "rank": 8,
+    "tweet_count": "8,835 Tweets"
+  },
+  {
+    "name": "#白い砂のアクアトープ",
+    "query": "#白い砂のアクアトープ",
+    "rank": 9,
+    "tweet_count": "27.6K Tweets"
   },
   {
     "name": "最速上映",
     "query": "最速上映",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "みーぱん",
     "query": "みーぱん",
-    "rank": 10,
-    "tweet_count": "7,458 Tweets"
+    "rank": 11,
+    "tweet_count": "7,507 Tweets"
   },
   {
     "name": "ラブひな",
     "query": "ラブひな",
-    "rank": 11,
-    "tweet_count": "35.3K Tweets"
+    "rank": 12,
+    "tweet_count": "35.4K Tweets"
   },
   {
     "name": "タコピーの原罪",
     "query": "タコピーの原罪",
-    "rank": 12,
-    "tweet_count": "2,464 Tweets"
+    "rank": 13,
+    "tweet_count": "2,555 Tweets"
   },
   {
     "name": "Vita",
     "query": "Vita",
-    "rank": 13,
-    "tweet_count": "66.4K Tweets"
-  },
-  {
-    "name": "コンパス5周年",
-    "query": "コンパス5周年",
     "rank": 14,
-    "tweet_count": "9,612 Tweets"
-  },
-  {
-    "name": "Pokémon Evolutions",
-    "query": "\"Pokémon Evolutions\"",
-    "rank": 15,
-    "tweet_count": "5,268 Tweets"
+    "tweet_count": "67.1K Tweets"
   },
   {
     "name": "ザ・ショウ",
     "query": "ザ・ショウ",
-    "rank": 16,
-    "tweet_count": "3,841 Tweets"
+    "rank": 15,
+    "tweet_count": "3,876 Tweets"
   },
   {
-    "name": "takeraさん",
-    "query": "takeraさん",
+    "name": "Pokémon Evolutions",
+    "query": "\"Pokémon Evolutions\"",
+    "rank": 16,
+    "tweet_count": "5,340 Tweets"
+  },
+  {
+    "name": "コンパス5周年",
+    "query": "コンパス5周年",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "9,664 Tweets"
   },
   {
     "name": "シェンムー3",
@@ -108,9 +108,9 @@
     "tweet_count": null
   },
   {
-    "name": "玄樹くん",
-    "query": "玄樹くん",
+    "name": "takeraさん",
+    "query": "takeraさん",
     "rank": 19,
-    "tweet_count": "2,782 Tweets"
+    "tweet_count": null
   }
 ]
