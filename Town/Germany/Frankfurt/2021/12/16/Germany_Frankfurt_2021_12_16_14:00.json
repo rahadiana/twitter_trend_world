@@ -3,7 +3,7 @@
     "name": "Minderheit",
     "query": "Minderheit",
     "rank": 1,
-    "tweet_count": "12K Tweets"
+    "tweet_count": "12.1K Tweets"
   },
   {
     "name": "#Sitzordnung",
@@ -12,26 +12,26 @@
     "tweet_count": null
   },
   {
-    "name": "#Kubicki",
-    "query": "#Kubicki",
-    "rank": 3,
-    "tweet_count": "1,424 Tweets"
-  },
-  {
     "name": "#Bundestag",
     "query": "#Bundestag",
+    "rank": 3,
+    "tweet_count": "4,169 Tweets"
+  },
+  {
+    "name": "Worst Anime",
+    "query": "\"Worst Anime\"",
     "rank": 4,
-    "tweet_count": "4,112 Tweets"
+    "tweet_count": "4,975 Tweets"
   },
   {
-    "name": "First Anime",
-    "query": "\"First Anime\"",
+    "name": "#Kubicki",
+    "query": "#Kubicki",
     "rank": 5,
-    "tweet_count": "6,715 Tweets"
+    "tweet_count": "1,442 Tweets"
   },
   {
-    "name": "#armut",
-    "query": "#armut",
+    "name": "#Armut",
+    "query": "#Armut",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,8 +42,8 @@
     "tweet_count": null
   },
   {
-    "name": "einzelmeinung",
-    "query": "einzelmeinung",
+    "name": "Einzelmeinung",
+    "query": "Einzelmeinung",
     "rank": 8,
     "tweet_count": null
   },
@@ -57,7 +57,7 @@
     "name": "Akzent",
     "query": "Akzent",
     "rank": 10,
-    "tweet_count": "1,617 Tweets"
+    "tweet_count": "1,650 Tweets"
   },
   {
     "name": "Frohe Weihnachten",
@@ -66,39 +66,45 @@
     "tweet_count": null
   },
   {
-    "name": "Masi",
-    "query": "Masi",
-    "rank": 12,
-    "tweet_count": "46.5K Tweets"
-  },
-  {
     "name": "Schulden",
     "query": "Schulden",
-    "rank": 13,
-    "tweet_count": "1,701 Tweets"
-  },
-  {
-    "name": "#Covid_19",
-    "query": "#Covid_19",
-    "rank": 14,
-    "tweet_count": "29.8K Tweets"
+    "rank": 12,
+    "tweet_count": "1,730 Tweets"
   },
   {
     "name": "#ThrowbackThursday",
     "query": "#ThrowbackThursday",
+    "rank": 13,
+    "tweet_count": "8,478 Tweets"
+  },
+  {
+    "name": "#MuenchenStehtAuf",
+    "query": "#MuenchenStehtAuf",
+    "rank": 14,
+    "tweet_count": "1,133 Tweets"
+  },
+  {
+    "name": "#Covid_19",
+    "query": "#Covid_19",
     "rank": 15,
-    "tweet_count": "8,178 Tweets"
+    "tweet_count": "30.4K Tweets"
   },
   {
     "name": "#KinderdurchseuchungStoppen",
     "query": "#KinderdurchseuchungStoppen",
     "rank": 16,
-    "tweet_count": "9,391 Tweets"
+    "tweet_count": "9,478 Tweets"
   },
   {
     "name": "#Hanau",
     "query": "#Hanau",
     "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "#Union",
+    "query": "#Union",
+    "rank": 18,
     "tweet_count": null
   }
 ]
