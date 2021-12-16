@@ -1,116 +1,122 @@
 [
   {
+    "name": "Pacers",
+    "query": "Pacers",
+    "rank": 1,
+    "tweet_count": "6,371 Tweets"
+  },
+  {
+    "name": "Herb Simon",
+    "query": "\"Herb Simon\"",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "Lakers",
+    "query": "Lakers",
+    "rank": 3,
+    "tweet_count": "56K Tweets"
+  },
+  {
     "name": "#AEWDynamite",
     "query": "#AEWDynamite",
-    "rank": 1,
-    "tweet_count": "53.4K Tweets"
-  },
-  {
-    "name": "#Survivor",
-    "query": "#Survivor",
-    "rank": 2,
-    "tweet_count": "19.5K Tweets"
-  },
-  {
-    "name": "#SistasOnBET",
-    "query": "#SistasOnBET",
-    "rank": 3,
-    "tweet_count": "10.5K Tweets"
-  },
-  {
-    "name": "#TheMaskedSinger",
-    "query": "#TheMaskedSinger",
     "rank": 4,
-    "tweet_count": "8,030 Tweets"
-  },
-  {
-    "name": "#TheChallenge37",
-    "query": "#TheChallenge37",
-    "rank": 5,
-    "tweet_count": "4,679 Tweets"
-  },
-  {
-    "name": "Cavs",
-    "query": "Cavs",
-    "rank": 6,
-    "tweet_count": "22.8K Tweets"
-  },
-  {
-    "name": "Anthony Davis",
-    "query": "\"Anthony Davis\"",
-    "rank": 7,
-    "tweet_count": "4,759 Tweets"
-  },
-  {
-    "name": "Gabe Vincent",
-    "query": "\"Gabe Vincent\"",
-    "rank": 8,
-    "tweet_count": "1,967 Tweets"
-  },
-  {
-    "name": "Jalen Brunson",
-    "query": "\"Jalen Brunson\"",
-    "rank": 9,
-    "tweet_count": null
+    "tweet_count": "58.6K Tweets"
   },
   {
     "name": "Westbrook",
     "query": "Westbrook",
+    "rank": 5,
+    "tweet_count": "15.6K Tweets"
+  },
+  {
+    "name": "Reaves",
+    "query": "Reaves",
+    "rank": 6,
+    "tweet_count": "19.2K Tweets"
+  },
+  {
+    "name": "#Survivor",
+    "query": "#Survivor",
+    "rank": 7,
+    "tweet_count": "24.8K Tweets"
+  },
+  {
+    "name": "#LakeShow",
+    "query": "#LakeShow",
+    "rank": 8,
+    "tweet_count": "7,416 Tweets"
+  },
+  {
+    "name": "Ellington",
+    "query": "Ellington",
+    "rank": 9,
+    "tweet_count": "7,765 Tweets"
+  },
+  {
+    "name": "#SistasOnBET",
+    "query": "#SistasOnBET",
     "rank": 10,
-    "tweet_count": "9,504 Tweets"
+    "tweet_count": "12K Tweets"
   },
   {
-    "name": "Urban Meyer",
-    "query": "\"Urban Meyer\"",
+    "name": "Bron",
+    "query": "Bron",
     "rank": 11,
-    "tweet_count": "19.1K Tweets"
+    "tweet_count": "15.8K Tweets"
   },
   {
-    "name": "Best Anime",
-    "query": "\"Best Anime\"",
+    "name": "#TheMaskedSinger",
+    "query": "#TheMaskedSinger",
     "rank": 12,
-    "tweet_count": "5,168 Tweets"
+    "tweet_count": "8,506 Tweets"
   },
   {
-    "name": "Maxey",
-    "query": "Maxey",
+    "name": "Anthony Davis",
+    "query": "\"Anthony Davis\"",
     "rank": 13,
-    "tweet_count": "2,583 Tweets"
+    "tweet_count": "5,585 Tweets"
   },
   {
-    "name": "Dante Martin",
-    "query": "\"Dante Martin\"",
+    "name": "Luka",
+    "query": "Luka",
     "rank": 14,
-    "tweet_count": "1,346 Tweets"
+    "tweet_count": "31.2K Tweets"
   },
   {
-    "name": "Eli Ricks",
-    "query": "\"Eli Ricks\"",
+    "name": "Hillbilly Kobe",
+    "query": "\"Hillbilly Kobe\"",
     "rank": 15,
-    "tweet_count": "1,105 Tweets"
+    "tweet_count": "1,448 Tweets"
   },
   {
-    "name": "Austin Reaves",
-    "query": "\"Austin Reaves\"",
+    "name": "Jalen Brunson",
+    "query": "\"Jalen Brunson\"",
     "rank": 16,
-    "tweet_count": "1,531 Tweets"
-  },
-  {
-    "name": "Tre Mann",
-    "query": "\"Tre Mann\"",
-    "rank": 17,
-    "tweet_count": "1,256 Tweets"
-  },
-  {
-    "name": "My Spider-Man",
-    "query": "\"My Spider-Man\"",
-    "rank": 18,
-    "tweet_count": "12.9K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Porzingis",
     "query": "Porzingis",
+    "rank": 17,
+    "tweet_count": "2,151 Tweets"
+  },
+  {
+    "name": "Heather",
+    "query": "Heather",
+    "rank": 18,
+    "tweet_count": "16.1K Tweets"
+  },
+  {
+    "name": "Urban Meyer",
+    "query": "\"Urban Meyer\"",
     "rank": 19,
-    "tweet_count": "1,488 Tweets"
+    "tweet_count": "19.7K Tweets"
+  },
+  {
+    "name": "Best Anime",
+    "query": "\"Best Anime\"",
+    "rank": 20,
+    "tweet_count": "5,245 Tweets"
   }
 ]
