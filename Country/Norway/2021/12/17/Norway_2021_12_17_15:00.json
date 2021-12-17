@@ -1,39 +1,39 @@
 [
   {
-    "name": "Brann",
-    "query": "Brann",
-    "rank": 1,
-    "tweet_count": "1,006 Tweets"
-  },
-  {
     "name": "Mike Dean",
     "query": "\"Mike Dean\"",
-    "rank": 2,
-    "tweet_count": "11.6K Tweets"
+    "rank": 1,
+    "tweet_count": "11.7K Tweets"
   },
   {
     "name": "#LIVNEW",
     "query": "#LIVNEW",
-    "rank": 3,
-    "tweet_count": "35.1K Tweets"
+    "rank": 2,
+    "tweet_count": "35.2K Tweets"
   },
   {
-    "name": "nesodden",
-    "query": "nesodden",
-    "rank": 4,
-    "tweet_count": null
+    "name": "Brann",
+    "query": "Brann",
+    "rank": 3,
+    "tweet_count": "1,018 Tweets"
   },
   {
     "name": "Saul",
     "query": "Saul",
+    "rank": 4,
+    "tweet_count": "48.4K Tweets"
+  },
+  {
+    "name": "Nesodden",
+    "query": "Nesodden",
     "rank": 5,
-    "tweet_count": "48K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Patrick Berg",
     "query": "\"Patrick Berg\"",
     "rank": 6,
-    "tweet_count": "2,747 Tweets"
+    "tweet_count": "2,782 Tweets"
   },
   {
     "name": "Viken",
@@ -42,22 +42,22 @@
     "tweet_count": null
   },
   {
-    "name": "lise klaveness",
-    "query": "\"lise klaveness\"",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "Lens",
     "query": "Lens",
+    "rank": 8,
+    "tweet_count": "18.2K Tweets"
+  },
+  {
+    "name": "Odds",
+    "query": "Odds",
     "rank": 9,
-    "tweet_count": "17.8K Tweets"
+    "tweet_count": "41.1K Tweets"
   },
   {
     "name": "Trent",
     "query": "Trent",
     "rank": 10,
-    "tweet_count": "63.9K Tweets"
+    "tweet_count": "64.7K Tweets"
   },
   {
     "name": "jerv",
@@ -66,57 +66,57 @@
     "tweet_count": null
   },
   {
-    "name": "Odds",
-    "query": "Odds",
-    "rank": 12,
-    "tweet_count": "40.4K Tweets"
-  },
-  {
     "name": "Energi Norge",
     "query": "\"Energi Norge\"",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "#SelfieFredag",
     "query": "#SelfieFredag",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
-  },
-  {
-    "name": "Rasmus",
-    "query": "Rasmus",
-    "rank": 15,
-    "tweet_count": "1,158 Tweets"
   },
   {
     "name": "Gratulerer",
     "query": "Gratulerer",
-    "rank": 16,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "frigård",
     "query": "frigård",
-    "rank": 17,
+    "rank": 15,
     "tweet_count": null
+  },
+  {
+    "name": "rasmus",
+    "query": "rasmus",
+    "rank": 16,
+    "tweet_count": "1,186 Tweets"
   },
   {
     "name": "Newcastle",
     "query": "Newcastle",
-    "rank": 18,
-    "tweet_count": "59.7K Tweets"
+    "rank": 17,
+    "tweet_count": "60.2K Tweets"
   },
   {
-    "name": "Obos",
-    "query": "Obos",
-    "rank": 19,
+    "name": "Lise Klaveness",
+    "query": "\"Lise Klaveness\"",
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "grevstad",
     "query": "grevstad",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "Nations League",
+    "query": "\"Nations League\"",
+    "rank": 20,
+    "tweet_count": "17.4K Tweets"
   }
 ]
