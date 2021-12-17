@@ -1,51 +1,51 @@
 [
   {
-    "name": "#SecretGala14",
-    "query": "#SecretGala14",
-    "rank": 1,
-    "tweet_count": "99.6K Tweets"
-  },
-  {
-    "name": "#SpiderManNoWayHome",
-    "query": "#SpiderManNoWayHome",
-    "rank": 2,
-    "tweet_count": "402K Tweets"
-  },
-  {
     "name": "Sevilla",
     "query": "Sevilla",
-    "rank": 3,
-    "tweet_count": "22.4K Tweets"
+    "rank": 1,
+    "tweet_count": "23.5K Tweets"
   },
   {
     "name": "#50GBdeFINETWORK",
     "query": "#50GBdeFINETWORK",
-    "rank": 4,
-    "tweet_count": "3,067 Tweets"
+    "rank": 2,
+    "tweet_count": "3,580 Tweets"
   },
   {
     "name": "José Juan",
     "query": "\"José Juan\"",
-    "rank": 5,
-    "tweet_count": "6,045 Tweets"
+    "rank": 3,
+    "tweet_count": "6,448 Tweets"
   },
   {
     "name": "Alcoyano",
     "query": "Alcoyano",
-    "rank": 6,
-    "tweet_count": "6,194 Tweets"
+    "rank": 4,
+    "tweet_count": "6,963 Tweets"
   },
   {
     "name": "Pablo Sierra",
     "query": "\"Pablo Sierra\"",
-    "rank": 7,
-    "tweet_count": "3,869 Tweets"
+    "rank": 5,
+    "tweet_count": "4,231 Tweets"
   },
   {
     "name": "#NavidadFnac",
     "query": "#NavidadFnac",
-    "rank": 8,
+    "rank": 6,
     "tweet_count": null
+  },
+  {
+    "name": "Linares",
+    "query": "Linares",
+    "rank": 7,
+    "tweet_count": "9,092 Tweets"
+  },
+  {
+    "name": "#CrisLu17D",
+    "query": "#CrisLu17D",
+    "rank": 8,
+    "tweet_count": "14K Tweets"
   },
   {
     "name": "#SorteoCopa",
@@ -54,40 +54,40 @@
     "tweet_count": null
   },
   {
-    "name": "Linares",
-    "query": "Linares",
+    "name": "#APOYOROCIO17D",
+    "query": "#APOYOROCIO17D",
     "rank": 10,
-    "tweet_count": "8,421 Tweets"
-  },
-  {
-    "name": "Rayo Majadahonda",
-    "query": "\"Rayo Majadahonda\"",
-    "rank": 11,
-    "tweet_count": null
+    "tweet_count": "9,563 Tweets"
   },
   {
     "name": "Unai Simón",
     "query": "\"Unai Simón\"",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "El Banco de España",
     "query": "\"El Banco de España\"",
+    "rank": 12,
+    "tweet_count": "3,120 Tweets"
+  },
+  {
+    "name": "Rayo Majadahonda",
+    "query": "\"Rayo Majadahonda\"",
     "rank": 13,
-    "tweet_count": "2,798 Tweets"
+    "tweet_count": null
   },
   {
     "name": "The Witcher",
     "query": "\"The Witcher\"",
     "rank": 14,
-    "tweet_count": "35.8K Tweets"
+    "tweet_count": "37.8K Tweets"
   },
   {
     "name": "Guadiana",
     "query": "Guadiana",
     "rank": 15,
-    "tweet_count": "1,893 Tweets"
+    "tweet_count": "2,014 Tweets"
   },
   {
     "name": "Iñigo Martínez",
@@ -96,15 +96,27 @@
     "tweet_count": null
   },
   {
-    "name": "Valladolid",
-    "query": "Valladolid",
-    "rank": 17,
-    "tweet_count": "4,478 Tweets"
-  },
-  {
     "name": "La Romareda",
     "query": "\"La Romareda\"",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Linarejos",
+    "query": "Linarejos",
     "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Valladolid",
+    "query": "Valladolid",
+    "rank": 19,
+    "tweet_count": "4,683 Tweets"
+  },
+  {
+    "name": "TSJA",
+    "query": "TSJA",
+    "rank": 20,
+    "tweet_count": "1,820 Tweets"
   }
 ]
