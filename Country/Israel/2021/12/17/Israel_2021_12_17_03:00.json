@@ -1,15 +1,15 @@
 [
   {
-    "name": "בר לב",
-    "query": "\"בר לב\"",
-    "rank": 1,
-    "tweet_count": "5,319 Tweets"
-  },
-  {
     "name": "ישראל פריי",
     "query": "\"ישראל פריי\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "בר לב",
+    "query": "\"בר לב\"",
+    "rank": 2,
+    "tweet_count": "5,343 Tweets"
   },
   {
     "name": "יקום דמו",
@@ -21,13 +21,13 @@
     "name": "#SpiderManNoWayHome",
     "query": "#SpiderManNoWayHome",
     "rank": 4,
-    "tweet_count": "388K Tweets"
+    "tweet_count": "398K Tweets"
   },
   {
     "name": "צפון קוריאה",
     "query": "\"צפון קוריאה\"",
     "rank": 5,
-    "tweet_count": "2,179 Tweets"
+    "tweet_count": "2,184 Tweets"
   },
   {
     "name": "yehuda dimentman",
@@ -45,7 +45,7 @@
     "name": "Bund",
     "query": "Bund",
     "rank": 8,
-    "tweet_count": "9,822 Tweets"
+    "tweet_count": "9,906 Tweets"
   },
   {
     "name": "כוס מים",
@@ -57,7 +57,7 @@
     "name": "#Bahrain",
     "query": "#Bahrain",
     "rank": 10,
-    "tweet_count": "3,115 Tweets"
+    "tweet_count": "3,143 Tweets"
   },
   {
     "name": "אביר קארה",
@@ -75,19 +75,19 @@
     "name": "zendaya",
     "query": "zendaya",
     "rank": 13,
-    "tweet_count": "110K Tweets"
+    "tweet_count": "112K Tweets"
   },
   {
     "name": "Ukraine",
     "query": "Ukraine",
     "rank": 14,
-    "tweet_count": "46.5K Tweets"
+    "tweet_count": "47K Tweets"
   },
   {
     "name": "الجزائر",
     "query": "الجزائر",
     "rank": 15,
-    "tweet_count": "50.9K Tweets"
+    "tweet_count": "51K Tweets"
   },
   {
     "name": "ינון מגל",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "אלימות מתנחלים",
-    "query": "\"אלימות מתנחלים\"",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
     "name": "Spain",
     "query": "Spain",
-    "rank": 19,
-    "tweet_count": "39.2K Tweets"
+    "rank": 18,
+    "tweet_count": "39.6K Tweets"
   },
   {
     "name": "חן ליברמן",
     "query": "\"חן ליברמן\"",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "כי הם",
+    "query": "\"כי הם\"",
+    "rank": 20,
+    "tweet_count": "1,117 Tweets"
   }
 ]
