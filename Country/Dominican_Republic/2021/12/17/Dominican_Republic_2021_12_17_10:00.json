@@ -1,21 +1,21 @@
 [
   {
-    "name": "HELIDOSA",
-    "query": "HELIDOSA",
+    "name": "Helidosa",
+    "query": "Helidosa",
     "rank": 1,
-    "tweet_count": "3,605 Tweets"
+    "tweet_count": "3,612 Tweets"
   },
   {
     "name": "Código Penal",
     "query": "\"Código Penal\"",
     "rank": 2,
-    "tweet_count": "5,472 Tweets"
+    "tweet_count": "5,503 Tweets"
   },
   {
     "name": "Aila",
     "query": "Aila",
     "rank": 3,
-    "tweet_count": "2,639 Tweets"
+    "tweet_count": "2,650 Tweets"
   },
   {
     "name": "#duarteconparis",
@@ -27,13 +27,13 @@
     "name": "#SpiderManNowWayHome",
     "query": "#SpiderManNowWayHome",
     "rank": 5,
-    "tweet_count": "40.1K Tweets"
+    "tweet_count": "40.3K Tweets"
   },
   {
     "name": "Cristo",
     "query": "Cristo",
     "rank": 6,
-    "tweet_count": "22.4K Tweets"
+    "tweet_count": "22.6K Tweets"
   },
   {
     "name": "#navidadfeliz",
@@ -45,13 +45,13 @@
     "name": "Las Américas",
     "query": "\"Las Américas\"",
     "rank": 8,
-    "tweet_count": "3,242 Tweets"
+    "tweet_count": "3,251 Tweets"
   },
   {
     "name": "flow la movie",
     "query": "\"flow la movie\"",
     "rank": 9,
-    "tweet_count": "8,629 Tweets"
+    "tweet_count": "8,645 Tweets"
   },
   {
     "name": "verónica estrella",
@@ -60,22 +60,22 @@
     "tweet_count": null
   },
   {
-    "name": "josé gómez",
-    "query": "\"josé gómez\"",
-    "rank": 11,
-    "tweet_count": "2,121 Tweets"
-  },
-  {
     "name": "Toribio",
     "query": "Toribio",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Pacheco",
     "query": "Pacheco",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": "14K Tweets"
+  },
+  {
+    "name": "Round Robin",
+    "query": "\"Round Robin\"",
+    "rank": 13,
+    "tweet_count": null
   },
   {
     "name": "Melky",
@@ -96,14 +96,14 @@
     "tweet_count": null
   },
   {
-    "name": "#navidadsegura",
-    "query": "#navidadsegura",
+    "name": "José Gómez",
+    "query": "\"José Gómez\"",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "2,124 Tweets"
   },
   {
-    "name": "Round Robin",
-    "query": "\"Round Robin\"",
+    "name": "#navidadsegura",
+    "query": "#navidadsegura",
     "rank": 18,
     "tweet_count": null
   },
@@ -117,6 +117,6 @@
     "name": "Aventura",
     "query": "Aventura",
     "rank": 20,
-    "tweet_count": "8,965 Tweets"
+    "tweet_count": "9,004 Tweets"
   }
 ]
