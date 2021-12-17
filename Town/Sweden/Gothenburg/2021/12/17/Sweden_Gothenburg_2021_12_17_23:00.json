@@ -1,13 +1,13 @@
 [
   {
-    "name": "Gävlebocken",
-    "query": "Gävlebocken",
+    "name": "Gävle",
+    "query": "Gävle",
     "rank": 1,
-    "tweet_count": "3,007 Tweets"
+    "tweet_count": "1,324 Tweets"
   },
   {
-    "name": "På Spåret",
-    "query": "\"På Spåret\"",
+    "name": "#påspåret",
+    "query": "#påspåret",
     "rank": 2,
     "tweet_count": null
   },
@@ -15,25 +15,25 @@
     "name": "Modo",
     "query": "Modo",
     "rank": 3,
-    "tweet_count": "56.1K Tweets"
+    "tweet_count": "57.1K Tweets"
   },
   {
-    "name": "göran",
-    "query": "göran",
+    "name": "Göran",
+    "query": "Göran",
     "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "Krya",
-    "query": "Krya",
-    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Witcher",
     "query": "Witcher",
+    "rank": 5,
+    "tweet_count": "82.3K Tweets"
+  },
+  {
+    "name": "Krya",
+    "query": "Krya",
     "rank": 6,
-    "tweet_count": "80.8K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Palme",
@@ -42,20 +42,20 @@
     "tweet_count": null
   },
   {
-    "name": "Lucka 17",
-    "query": "\"Lucka 17\"",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "#björklöven",
     "query": "#björklöven",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "#twittssk",
     "query": "#twittssk",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "lucka 17",
+    "query": "\"lucka 17\"",
     "rank": 10,
     "tweet_count": null
   },
@@ -78,8 +78,8 @@
     "tweet_count": null
   },
   {
-    "name": "Mikael Damberg",
-    "query": "\"Mikael Damberg\"",
+    "name": "mikael damberg",
+    "query": "\"mikael damberg\"",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,23 +87,23 @@
     "name": "Mike Dean",
     "query": "\"Mike Dean\"",
     "rank": 15,
-    "tweet_count": "5,308 Tweets"
+    "tweet_count": "5,325 Tweets"
   },
   {
     "name": "Kram",
     "query": "Kram",
     "rank": 16,
-    "tweet_count": "1,767 Tweets"
+    "tweet_count": "1,790 Tweets"
   },
   {
     "name": "Saul",
     "query": "Saul",
     "rank": 17,
-    "tweet_count": "21.1K Tweets"
+    "tweet_count": "21.2K Tweets"
   },
   {
-    "name": "#musikhjälpen",
-    "query": "#musikhjälpen",
+    "name": "Ann Linde",
+    "query": "\"Ann Linde\"",
     "rank": 18,
     "tweet_count": null
   }
