@@ -1,37 +1,37 @@
 [
   {
-    "name": "gävle",
-    "query": "gävle",
+    "name": "Gävlebocken",
+    "query": "Gävlebocken",
     "rank": 1,
-    "tweet_count": "1,313 Tweets"
-  },
-  {
-    "name": "Skål",
-    "query": "Skål",
-    "rank": 2,
-    "tweet_count": null
+    "tweet_count": "3,003 Tweets"
   },
   {
     "name": "#påspåret",
     "query": "#påspåret",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Modo",
     "query": "Modo",
-    "rank": 4,
-    "tweet_count": "57K Tweets"
+    "rank": 3,
+    "tweet_count": "57.5K Tweets"
   },
   {
     "name": "Krya",
     "query": "Krya",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Göran",
     "query": "Göran",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "Skål",
+    "query": "Skål",
     "rank": 6,
     "tweet_count": null
   },
@@ -39,29 +39,29 @@
     "name": "Witcher",
     "query": "Witcher",
     "rank": 7,
-    "tweet_count": "79.8K Tweets"
-  },
-  {
-    "name": "#twittssk",
-    "query": "#twittssk",
-    "rank": 8,
-    "tweet_count": null
+    "tweet_count": "80.6K Tweets"
   },
   {
     "name": "Palme",
     "query": "Palme",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Lucka 17",
     "query": "\"Lucka 17\"",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "#björklöven",
     "query": "#björklöven",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "#twittssk",
+    "query": "#twittssk",
     "rank": 11,
     "tweet_count": null
   },
@@ -99,13 +99,13 @@
     "name": "Mike Dean",
     "query": "\"Mike Dean\"",
     "rank": 17,
-    "tweet_count": "5,924 Tweets"
+    "tweet_count": "5,940 Tweets"
   },
   {
     "name": "Kram",
     "query": "Kram",
     "rank": 18,
-    "tweet_count": "1,788 Tweets"
+    "tweet_count": "1,798 Tweets"
   },
   {
     "name": "Kämpa",
@@ -117,6 +117,6 @@
     "name": "#CHEEVE",
     "query": "#CHEEVE",
     "rank": 20,
-    "tweet_count": "9,394 Tweets"
+    "tweet_count": "9,407 Tweets"
   }
 ]
