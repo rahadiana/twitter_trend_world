@@ -1,15 +1,15 @@
 [
   {
-    "name": "#Bundesrat",
-    "query": "#Bundesrat",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Monate",
     "query": "Monate",
+    "rank": 1,
+    "tweet_count": "6,394 Tweets"
+  },
+  {
+    "name": "#Merz",
+    "query": "#Merz",
     "rank": 2,
-    "tweet_count": "6,144 Tweets"
+    "tweet_count": "17K Tweets"
   },
   {
     "name": "Ueli",
@@ -18,16 +18,16 @@
     "tweet_count": null
   },
   {
-    "name": "#Merz",
-    "query": "#Merz",
+    "name": "#FaceABaba",
+    "query": "#FaceABaba",
     "rank": 4,
-    "tweet_count": "16K Tweets"
+    "tweet_count": "246K Tweets"
   },
   {
     "name": "Booster",
     "query": "Booster",
     "rank": 5,
-    "tweet_count": "224K Tweets"
+    "tweet_count": "230K Tweets"
   },
   {
     "name": "Zertifikate",
@@ -39,7 +39,7 @@
     "name": "Le Conseil",
     "query": "\"Le Conseil\"",
     "rank": 7,
-    "tweet_count": "14.7K Tweets"
+    "tweet_count": "15.4K Tweets"
   },
   {
     "name": "Dachschaden",
@@ -48,57 +48,57 @@
     "tweet_count": null
   },
   {
-    "name": "Regeln",
-    "query": "Regeln",
+    "name": "Alain",
+    "query": "Alain",
     "rank": 9,
-    "tweet_count": "3,495 Tweets"
+    "tweet_count": "9,404 Tweets"
   },
   {
-    "name": "Berset",
-    "query": "Berset",
+    "name": "berset",
+    "query": "berset",
     "rank": 10,
-    "tweet_count": "1,033 Tweets"
+    "tweet_count": "1,133 Tweets"
   },
   {
     "name": "Betrug",
     "query": "Betrug",
     "rank": 11,
-    "tweet_count": "1,100 Tweets"
+    "tweet_count": "1,204 Tweets"
   },
   {
-    "name": "Homeoffice",
-    "query": "Homeoffice",
+    "name": "Regeln",
+    "query": "Regeln",
     "rank": 12,
-    "tweet_count": "16.1K Tweets"
+    "tweet_count": "3,630 Tweets"
+  },
+  {
+    "name": "Homeoffice-Pflicht",
+    "query": "Homeoffice-Pflicht",
+    "rank": 13,
+    "tweet_count": null
   },
   {
     "name": "Caron",
     "query": "Caron",
-    "rank": 13,
-    "tweet_count": "40K Tweets"
-  },
-  {
-    "name": "Kantone",
-    "query": "Kantone",
     "rank": 14,
-    "tweet_count": null
+    "tweet_count": "40.4K Tweets"
   },
   {
     "name": "Chelsea",
     "query": "Chelsea",
     "rank": 15,
-    "tweet_count": "155K Tweets"
+    "tweet_count": "156K Tweets"
   },
   {
     "name": "La Fève",
     "query": "\"La Fève\"",
     "rank": 16,
-    "tweet_count": "8,368 Tweets"
+    "tweet_count": "8,496 Tweets"
   },
   {
-    "name": "Initiative",
-    "query": "Initiative",
+    "name": "initiative",
+    "query": "initiative",
     "rank": 17,
-    "tweet_count": "38.4K Tweets"
+    "tweet_count": "39.5K Tweets"
   }
 ]
