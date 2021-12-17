@@ -1,39 +1,39 @@
 [
   {
+    "name": "Booster",
+    "query": "Booster",
+    "rank": 1,
+    "tweet_count": "230K Tweets"
+  },
+  {
+    "name": "Monaten",
+    "query": "Monaten",
+    "rank": 2,
+    "tweet_count": "5,626 Tweets"
+  },
+  {
     "name": "Ueli",
     "query": "Ueli",
-    "rank": 1,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#FaceABaba",
     "query": "#FaceABaba",
-    "rank": 2,
-    "tweet_count": "249K Tweets"
-  },
-  {
-    "name": "Booster",
-    "query": "Booster",
-    "rank": 3,
-    "tweet_count": "226K Tweets"
+    "rank": 4,
+    "tweet_count": "251K Tweets"
   },
   {
     "name": "#Covid_19",
     "query": "#Covid_19",
-    "rank": 4,
-    "tweet_count": "42.3K Tweets"
-  },
-  {
-    "name": "Monaten",
-    "query": "Monaten",
     "rank": 5,
-    "tweet_count": "5,416 Tweets"
+    "tweet_count": "43.2K Tweets"
   },
   {
     "name": "#Merz",
     "query": "#Merz",
     "rank": 6,
-    "tweet_count": "18.2K Tweets"
+    "tweet_count": "19K Tweets"
   },
   {
     "name": "#Bundesrat",
@@ -42,26 +42,26 @@
     "tweet_count": null
   },
   {
-    "name": "Zertifikate",
-    "query": "Zertifikate",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "#ONEPIECE1035",
     "query": "#ONEPIECE1035",
+    "rank": 8,
+    "tweet_count": "27.6K Tweets"
+  },
+  {
+    "name": "Zertifikate",
+    "query": "Zertifikate",
     "rank": 9,
-    "tweet_count": "27K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Alain",
     "query": "Alain",
     "rank": 10,
-    "tweet_count": "9,214 Tweets"
+    "tweet_count": "9,466 Tweets"
   },
   {
-    "name": "Dachschaden",
-    "query": "Dachschaden",
+    "name": "dachschaden",
+    "query": "dachschaden",
     "rank": 11,
     "tweet_count": null
   },
@@ -69,54 +69,54 @@
     "name": "Betrug",
     "query": "Betrug",
     "rank": 12,
-    "tweet_count": "1,255 Tweets"
-  },
-  {
-    "name": "Regeln",
-    "query": "Regeln",
-    "rank": 13,
-    "tweet_count": "3,639 Tweets"
+    "tweet_count": "1,298 Tweets"
   },
   {
     "name": "Homeoffice-Pflicht",
     "query": "Homeoffice-Pflicht",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
+  },
+  {
+    "name": "Geimpften",
+    "query": "Geimpften",
+    "rank": 14,
+    "tweet_count": "4,817 Tweets"
+  },
+  {
+    "name": "Regeln",
+    "query": "Regeln",
+    "rank": 15,
+    "tweet_count": "3,726 Tweets"
   },
   {
     "name": "Caron",
     "query": "Caron",
-    "rank": 15,
-    "tweet_count": "40.7K Tweets"
+    "rank": 16,
+    "tweet_count": "41K Tweets"
   },
   {
     "name": "Chelsea",
     "query": "Chelsea",
-    "rank": 16,
-    "tweet_count": "151K Tweets"
+    "rank": 17,
+    "tweet_count": "152K Tweets"
   },
   {
     "name": "La Fève",
     "query": "\"La Fève\"",
-    "rank": 17,
-    "tweet_count": "8,529 Tweets"
+    "rank": 18,
+    "tweet_count": "8,627 Tweets"
   },
   {
     "name": "Initiative",
     "query": "Initiative",
-    "rank": 18,
-    "tweet_count": "38.4K Tweets"
-  },
-  {
-    "name": "Lara Gut-Behrami",
-    "query": "\"Lara Gut-Behrami\"",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "39K Tweets"
   },
   {
-    "name": "Ungeimpften",
-    "query": "Ungeimpften",
+    "name": "lara gut-behrami",
+    "query": "\"lara gut-behrami\"",
     "rank": 20,
-    "tweet_count": "17.1K Tweets"
+    "tweet_count": null
   }
 ]
