@@ -9,11 +9,11 @@
     "name": "Omicron",
     "query": "Omicron",
     "rank": 2,
-    "tweet_count": "683K Tweets"
+    "tweet_count": "688K Tweets"
   },
   {
-    "name": "#SuperSmashNZ",
-    "query": "#SuperSmashNZ",
+    "name": "#supersmashnz",
+    "query": "#supersmashnz",
     "rank": 3,
     "tweet_count": null
   },
@@ -27,7 +27,7 @@
     "name": "#SecretSantaNZ2021",
     "query": "#SecretSantaNZ2021",
     "rank": 5,
-    "tweet_count": "2,500 Tweets"
+    "tweet_count": "2,506 Tweets"
   },
   {
     "name": "Jetstar",
@@ -45,7 +45,7 @@
     "name": "#TheWitcher",
     "query": "#TheWitcher",
     "rank": 8,
-    "tweet_count": "41.1K Tweets"
+    "tweet_count": "41.3K Tweets"
   },
   {
     "name": "Boris Johnson",
@@ -66,22 +66,22 @@
     "tweet_count": null
   },
   {
-    "name": "dunedin",
-    "query": "dunedin",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
     "name": "Slater",
     "query": "Slater",
-    "rank": 13,
-    "tweet_count": "2,647 Tweets"
+    "rank": 12,
+    "tweet_count": "2,660 Tweets"
   },
   {
     "name": "Rory",
     "query": "Rory",
+    "rank": 13,
+    "tweet_count": "8,996 Tweets"
+  },
+  {
+    "name": "Dunedin",
+    "query": "Dunedin",
     "rank": 14,
-    "tweet_count": "8,952 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Bad and the Ugly",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
-    "name": "The Good",
-    "query": "\"The Good\"",
-    "rank": 16,
-    "tweet_count": "1.12M Tweets"
-  },
-  {
     "name": "Turkey",
     "query": "Turkey",
-    "rank": 17,
-    "tweet_count": "70K Tweets"
+    "rank": 16,
+    "tweet_count": "70.2K Tweets"
   },
   {
-    "name": "chris bishop",
-    "query": "\"chris bishop\"",
-    "rank": 18,
+    "name": "Chris Bishop",
+    "query": "\"Chris Bishop\"",
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "hutt",
     "query": "hutt",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Dragon",
     "query": "Dragon",
+    "rank": 19,
+    "tweet_count": "82.3K Tweets"
+  },
+  {
+    "name": "The Good",
+    "query": "\"The Good\"",
     "rank": 20,
-    "tweet_count": "81.8K Tweets"
+    "tweet_count": "1.11M Tweets"
   }
 ]

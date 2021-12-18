@@ -1,116 +1,116 @@
 [
   {
-    "name": "#SmackDown",
-    "query": "#SmackDown",
-    "rank": 1,
-    "tweet_count": "35K Tweets"
-  },
-  {
     "name": "#AEWRampage",
     "query": "#AEWRampage",
+    "rank": 1,
+    "tweet_count": "15.6K Tweets"
+  },
+  {
+    "name": "#SmackDown",
+    "query": "#SmackDown",
     "rank": 2,
-    "tweet_count": "14K Tweets"
+    "tweet_count": "35.5K Tweets"
   },
   {
     "name": "#JoeBobRuinsChristmas",
     "query": "#JoeBobRuinsChristmas",
     "rank": 3,
-    "tweet_count": "7,265 Tweets"
+    "tweet_count": "7,821 Tweets"
   },
   {
     "name": "#loveafterlockup",
     "query": "#loveafterlockup",
     "rank": 4,
-    "tweet_count": "4,015 Tweets"
+    "tweet_count": "4,425 Tweets"
+  },
+  {
+    "name": "Anthony Davis",
+    "query": "\"Anthony Davis\"",
+    "rank": 5,
+    "tweet_count": "4,141 Tweets"
   },
   {
     "name": "Jrue",
     "query": "Jrue",
-    "rank": 5,
-    "tweet_count": "2,295 Tweets"
-  },
-  {
-    "name": "Draymond",
-    "query": "Draymond",
     "rank": 6,
-    "tweet_count": "5,613 Tweets"
-  },
-  {
-    "name": "Marcus Smart",
-    "query": "\"Marcus Smart\"",
-    "rank": 7,
-    "tweet_count": "1,954 Tweets"
-  },
-  {
-    "name": "Kyrie",
-    "query": "Kyrie",
-    "rank": 8,
-    "tweet_count": "59K Tweets"
+    "tweet_count": "2,386 Tweets"
   },
   {
     "name": "#SpiderManNowWayHome",
     "query": "#SpiderManNowWayHome",
+    "rank": 7,
+    "tweet_count": "39.9K Tweets"
+  },
+  {
+    "name": "Draymond",
+    "query": "Draymond",
+    "rank": 8,
+    "tweet_count": "5,685 Tweets"
+  },
+  {
+    "name": "Marcus Smart",
+    "query": "\"Marcus Smart\"",
     "rank": 9,
-    "tweet_count": "39.5K Tweets"
+    "tweet_count": "2,006 Tweets"
+  },
+  {
+    "name": "Kyrie",
+    "query": "Kyrie",
+    "rank": 10,
+    "tweet_count": "59.6K Tweets"
   },
   {
     "name": "Rick Perry",
     "query": "\"Rick Perry\"",
-    "rank": 10,
-    "tweet_count": "38.4K Tweets"
-  },
-  {
-    "name": "Iggy",
-    "query": "Iggy",
     "rank": 11,
-    "tweet_count": "5,783 Tweets"
+    "tweet_count": "39.3K Tweets"
   },
   {
     "name": "DNF Duel",
     "query": "\"DNF Duel\"",
     "rank": 12,
-    "tweet_count": "12.1K Tweets"
+    "tweet_count": "12.3K Tweets"
+  },
+  {
+    "name": "Iggy",
+    "query": "Iggy",
+    "rank": 13,
+    "tweet_count": "5,838 Tweets"
   },
   {
     "name": "Villanova",
     "query": "Villanova",
-    "rank": 13,
-    "tweet_count": "2,251 Tweets"
+    "rank": 14,
+    "tweet_count": "2,301 Tweets"
   },
   {
     "name": "Jeff Carter",
     "query": "\"Jeff Carter\"",
-    "rank": 14,
-    "tweet_count": "1,029 Tweets"
-  },
-  {
-    "name": "Barbara Eden",
-    "query": "\"Barbara Eden\"",
     "rank": 15,
-    "tweet_count": "1,606 Tweets"
+    "tweet_count": "1,060 Tweets"
   },
   {
     "name": "Witcher",
     "query": "Witcher",
     "rank": 16,
-    "tweet_count": "91.6K Tweets"
-  },
-  {
-    "name": "Northern Illinois",
-    "query": "\"Northern Illinois\"",
-    "rank": 17,
-    "tweet_count": "1,799 Tweets"
-  },
-  {
-    "name": "Pat Bev",
-    "query": "\"Pat Bev\"",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "92.1K Tweets"
   },
   {
     "name": "Jimmy Pesto",
     "query": "\"Jimmy Pesto\"",
-    "rank": 19,
+    "rank": 17,
     "tweet_count": null
+  },
+  {
+    "name": "Barbara Eden",
+    "query": "\"Barbara Eden\"",
+    "rank": 18,
+    "tweet_count": "1,693 Tweets"
+  },
+  {
+    "name": "Northern Illinois",
+    "query": "\"Northern Illinois\"",
+    "rank": 19,
+    "tweet_count": "1,818 Tweets"
   }
 ]
