@@ -1,122 +1,116 @@
 [
   {
-    "name": "#FelizSabado",
-    "query": "#FelizSabado",
+    "name": "Uber",
+    "query": "Uber",
     "rank": 1,
-    "tweet_count": "18K Tweets"
-  },
-  {
-    "name": "Giraldo",
-    "query": "Giraldo",
-    "rank": 2,
-    "tweet_count": "1,246 Tweets"
+    "tweet_count": "89K Tweets"
   },
   {
     "name": "Barça",
     "query": "Barça",
-    "rank": 3,
-    "tweet_count": "80K Tweets"
+    "rank": 2,
+    "tweet_count": "80.9K Tweets"
   },
   {
-    "name": "Gavi",
-    "query": "Gavi",
+    "name": "Elche",
+    "query": "Elche",
+    "rank": 3,
+    "tweet_count": "36.3K Tweets"
+  },
+  {
+    "name": "Fajardo",
+    "query": "Fajardo",
     "rank": 4,
-    "tweet_count": "64K Tweets"
+    "tweet_count": "21.2K Tweets"
   },
   {
     "name": "Juan Cruz Real",
     "query": "\"Juan Cruz Real\"",
     "rank": 5,
-    "tweet_count": "2,944 Tweets"
-  },
-  {
-    "name": "Fajardo",
-    "query": "Fajardo",
-    "rank": 6,
-    "tweet_count": "20.8K Tweets"
+    "tweet_count": "2,978 Tweets"
   },
   {
     "name": "KIM TAEHYUNG",
     "query": "\"KIM TAEHYUNG\"",
-    "rank": 7,
-    "tweet_count": "162K Tweets"
-  },
-  {
-    "name": "Uber",
-    "query": "Uber",
-    "rank": 8,
-    "tweet_count": "88.2K Tweets"
+    "rank": 6,
+    "tweet_count": "164K Tweets"
   },
   {
     "name": "Petronio",
     "query": "Petronio",
-    "rank": 9,
-    "tweet_count": "3,039 Tweets"
-  },
-  {
-    "name": "#DíaInternacionalDelMigrante",
-    "query": "#DíaInternacionalDelMigrante",
-    "rank": 10,
-    "tweet_count": "9,204 Tweets"
+    "rank": 7,
+    "tweet_count": "3,071 Tweets"
   },
   {
     "name": "#saquelargowin",
     "query": "#saquelargowin",
-    "rank": 11,
+    "rank": 8,
     "tweet_count": null
+  },
+  {
+    "name": "#DíaInternacionalDelMigrante",
+    "query": "#DíaInternacionalDelMigrante",
+    "rank": 9,
+    "tweet_count": "9,322 Tweets"
   },
   {
     "name": "Pacífico",
     "query": "Pacífico",
-    "rank": 12,
-    "tweet_count": "5,308 Tweets"
+    "rank": 10,
+    "tweet_count": "5,369 Tweets"
   },
   {
     "name": "Beto",
     "query": "Beto",
-    "rank": 13,
-    "tweet_count": "20.7K Tweets"
+    "rank": 11,
+    "tweet_count": "20.9K Tweets"
   },
   {
     "name": "Arsenal",
     "query": "Arsenal",
-    "rank": 14,
-    "tweet_count": "173K Tweets"
+    "rank": 12,
+    "tweet_count": "175K Tweets"
+  },
+  {
+    "name": "#FelizSabado",
+    "query": "#FelizSabado",
+    "rank": 13,
+    "tweet_count": "18.1K Tweets"
   },
   {
     "name": "Reyes",
     "query": "Reyes",
-    "rank": 15,
-    "tweet_count": "28.7K Tweets"
+    "rank": 14,
+    "tweet_count": "28.9K Tweets"
   },
   {
     "name": "Costas",
     "query": "Costas",
-    "rank": 16,
-    "tweet_count": "15K Tweets"
+    "rank": 15,
+    "tweet_count": "15.2K Tweets"
   },
   {
     "name": "Ryan Castro",
     "query": "\"Ryan Castro\"",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
+  },
+  {
+    "name": "Andrés Escobar",
+    "query": "\"Andrés Escobar\"",
+    "rank": 17,
+    "tweet_count": "9,955 Tweets"
   },
   {
     "name": "Coronell",
     "query": "Coronell",
     "rank": 18,
-    "tweet_count": "6,930 Tweets"
-  },
-  {
-    "name": "Andrés Escobar",
-    "query": "\"Andrés Escobar\"",
-    "rank": 19,
-    "tweet_count": "9,865 Tweets"
+    "tweet_count": "7,031 Tweets"
   },
   {
     "name": "#SnowdropPremiere",
     "query": "#SnowdropPremiere",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": "380K Tweets"
   }
 ]
