@@ -1,39 +1,39 @@
 [
   {
-    "name": "Demo",
-    "query": "Demo",
+    "name": "#Arminia",
+    "query": "#Arminia",
     "rank": 1,
-    "tweet_count": "58.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#BSCBVB",
     "query": "#BSCBVB",
     "rank": 2,
-    "tweet_count": "2,283 Tweets"
+    "tweet_count": "2,775 Tweets"
   },
   {
     "name": "#MehrBrutaleWahrheit",
     "query": "#MehrBrutaleWahrheit",
     "rank": 3,
-    "tweet_count": "2,031 Tweets"
+    "tweet_count": "2,433 Tweets"
   },
   {
     "name": "#RBLDSC",
     "query": "#RBLDSC",
     "rank": 4,
-    "tweet_count": "2,060 Tweets"
+    "tweet_count": "2,095 Tweets"
   },
   {
     "name": "#HH1812",
     "query": "#HH1812",
     "rank": 5,
-    "tweet_count": "4,947 Tweets"
+    "tweet_count": "5,343 Tweets"
   },
   {
-    "name": "#tsgbmg",
-    "query": "#tsgbmg",
+    "name": "Witsel",
+    "query": "Witsel",
     "rank": 6,
-    "tweet_count": "1,333 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Abseits",
@@ -45,43 +45,43 @@
     "name": "KIM TAEHYUNG",
     "query": "\"KIM TAEHYUNG\"",
     "rank": 8,
-    "tweet_count": "93.6K Tweets"
+    "tweet_count": "116K Tweets"
   },
   {
     "name": "Hertha",
     "query": "Hertha",
     "rank": 9,
-    "tweet_count": "3,410 Tweets"
-  },
-  {
-    "name": "Brandt",
-    "query": "Brandt",
-    "rank": 10,
-    "tweet_count": "4,237 Tweets"
-  },
-  {
-    "name": "Rache und Vergeltung",
-    "query": "\"Rache und Vergeltung\"",
-    "rank": 11,
-    "tweet_count": "1,763 Tweets"
+    "tweet_count": "3,766 Tweets"
   },
   {
     "name": "Katastrophenfall",
     "query": "Katastrophenfall",
+    "rank": 10,
+    "tweet_count": "1,043 Tweets"
+  },
+  {
+    "name": "Brandt",
+    "query": "Brandt",
+    "rank": 11,
+    "tweet_count": "4,368 Tweets"
+  },
+  {
+    "name": "Eindrucksvoll",
+    "query": "Eindrucksvoll",
     "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "Witsel",
-    "query": "Witsel",
+    "name": "Rache und Vergeltung",
+    "query": "\"Rache und Vergeltung\"",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "1,863 Tweets"
   },
   {
-    "name": "Leeds",
-    "query": "Leeds",
+    "name": "Martinelli",
+    "query": "Martinelli",
     "rank": 14,
-    "tweet_count": "61.7K Tweets"
+    "tweet_count": "41.8K Tweets"
   },
   {
     "name": "Miguel Pablo",
@@ -90,20 +90,20 @@
     "tweet_count": null
   },
   {
-    "name": "Martinelli",
-    "query": "Martinelli",
+    "name": "Rosenkohl",
+    "query": "Rosenkohl",
     "rank": 16,
-    "tweet_count": "34.6K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Hinrunde",
-    "query": "Hinrunde",
+    "name": "Abwehr",
+    "query": "Abwehr",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Rosenkohl",
-    "query": "Rosenkohl",
+    "name": "Hinrunde",
+    "query": "Hinrunde",
     "rank": 18,
     "tweet_count": null
   },
@@ -111,12 +111,12 @@
     "name": "Psychose",
     "query": "Psychose",
     "rank": 19,
-    "tweet_count": "1,458 Tweets"
+    "tweet_count": "1,496 Tweets"
   },
   {
-    "name": "Bielefeld",
-    "query": "Bielefeld",
+    "name": "Gegentor",
+    "query": "Gegentor",
     "rank": 20,
-    "tweet_count": "8,944 Tweets"
+    "tweet_count": null
   }
 ]
