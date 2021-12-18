@@ -24,20 +24,20 @@
     "tweet_count": null
   },
   {
-    "name": "#videvisiem",
-    "query": "#videvisiem",
+    "name": "Google",
+    "query": "Google",
     "rank": 5,
+    "tweet_count": "577K Tweets"
+  },
+  {
+    "name": "BKUS",
+    "query": "BKUS",
+    "rank": 6,
     "tweet_count": null
   },
   {
-    "name": "Google",
-    "query": "Google",
-    "rank": 6,
-    "tweet_count": "570K Tweets"
-  },
-  {
-    "name": "bkus",
-    "query": "bkus",
+    "name": "#videvisiem",
+    "query": "#videvisiem",
     "rank": 7,
     "tweet_count": null
   },
@@ -51,13 +51,13 @@
     "name": "#NFTs",
     "query": "#NFTs",
     "rank": 9,
-    "tweet_count": "455K Tweets"
+    "tweet_count": "461K Tweets"
   },
   {
     "name": "Bolt",
     "query": "Bolt",
     "rank": 10,
-    "tweet_count": "9,646 Tweets"
+    "tweet_count": "9,804 Tweets"
   },
   {
     "name": "ukrainai",
@@ -72,8 +72,8 @@
     "tweet_count": null
   },
   {
-    "name": "Cēsu",
-    "query": "Cēsu",
+    "name": "cēsu",
+    "query": "cēsu",
     "rank": 13,
     "tweet_count": null
   },
@@ -81,17 +81,17 @@
     "name": "Jāni",
     "query": "Jāni",
     "rank": 14,
-    "tweet_count": "11.3K Tweets"
+    "tweet_count": "11.4K Tweets"
   },
   {
-    "name": "diemžēl",
-    "query": "diemžēl",
+    "name": "China",
+    "query": "China",
     "rank": 15,
-    "tweet_count": null
+    "tweet_count": "216K Tweets"
   },
   {
-    "name": "knab",
-    "query": "knab",
+    "name": "KNAB",
+    "query": "KNAB",
     "rank": 16,
     "tweet_count": null
   },
@@ -99,24 +99,24 @@
     "name": "NATO",
     "query": "NATO",
     "rank": 17,
-    "tweet_count": "43.8K Tweets"
-  },
-  {
-    "name": "China",
-    "query": "China",
-    "rank": 18,
-    "tweet_count": "213K Tweets"
+    "tweet_count": "44.2K Tweets"
   },
   {
     "name": "Iesaku",
     "query": "Iesaku",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "ogrē",
     "query": "ogrē",
+    "rank": 19,
+    "tweet_count": "2,423 Tweets"
+  },
+  {
+    "name": "Parasti",
+    "query": "Parasti",
     "rank": 20,
-    "tweet_count": "2,388 Tweets"
+    "tweet_count": null
   }
 ]
