@@ -1,27 +1,27 @@
 [
   {
-    "name": "#SpiderManNoWayHome",
-    "query": "#SpiderManNoWayHome",
+    "name": "Spiderman",
+    "query": "Spiderman",
     "rank": 1,
-    "tweet_count": "357K Tweets"
+    "tweet_count": "510K Tweets"
   },
   {
-    "name": "#FelizSábado",
-    "query": "#FelizSábado",
+    "name": "#FelizSabado",
+    "query": "#FelizSabado",
     "rank": 2,
-    "tweet_count": "1,944 Tweets"
-  },
-  {
-    "name": "#AgropopularInvierno",
-    "query": "#AgropopularInvierno",
-    "rank": 3,
-    "tweet_count": null
+    "tweet_count": "2,082 Tweets"
   },
   {
     "name": "#TCMS7",
     "query": "#TCMS7",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": "16K Tweets"
+  },
+  {
+    "name": "#AgropopularInvierno",
+    "query": "#AgropopularInvierno",
+    "rank": 4,
+    "tweet_count": null
   },
   {
     "name": "Archena",
@@ -36,87 +36,87 @@
     "tweet_count": "40.9K Tweets"
   },
   {
+    "name": "#SecretGala14",
+    "query": "#SecretGala14",
+    "rank": 7,
+    "tweet_count": "10.3K Tweets"
+  },
+  {
     "name": "Esperanza",
     "query": "Esperanza",
-    "rank": 7,
-    "tweet_count": "62.9K Tweets"
+    "rank": 8,
+    "tweet_count": "63.1K Tweets"
   },
   {
     "name": "Nissan",
     "query": "Nissan",
-    "rank": 8,
-    "tweet_count": "30K Tweets"
+    "rank": 9,
+    "tweet_count": "30.2K Tweets"
   },
   {
-    "name": "Witcher",
-    "query": "Witcher",
-    "rank": 9,
-    "tweet_count": "93.3K Tweets"
+    "name": "The Witcher",
+    "query": "\"The Witcher\"",
+    "rank": 10,
+    "tweet_count": "74.2K Tweets"
   },
   {
     "name": "Castells",
     "query": "Castells",
-    "rank": 10,
-    "tweet_count": "16.2K Tweets"
-  },
-  {
-    "name": "Covid",
-    "query": "Covid",
     "rank": 11,
-    "tweet_count": "1.96M Tweets"
+    "tweet_count": "16.3K Tweets"
   },
   {
     "name": "Gamergy",
     "query": "Gamergy",
     "rank": 12,
-    "tweet_count": "9,925 Tweets"
+    "tweet_count": "9,998 Tweets"
+  },
+  {
+    "name": "Covid",
+    "query": "Covid",
+    "rank": 13,
+    "tweet_count": "1.97M Tweets"
   },
   {
     "name": "Marvel",
     "query": "Marvel",
-    "rank": 13,
-    "tweet_count": "196K Tweets"
-  },
-  {
-    "name": "Pablo Sierra",
-    "query": "\"Pablo Sierra\"",
     "rank": 14,
-    "tweet_count": "7,432 Tweets"
-  },
-  {
-    "name": "Troitiño",
-    "query": "Troitiño",
-    "rank": 15,
-    "tweet_count": "7,776 Tweets"
-  },
-  {
-    "name": "Calviño",
-    "query": "Calviño",
-    "rank": 16,
-    "tweet_count": "12.9K Tweets"
+    "tweet_count": "197K Tweets"
   },
   {
     "name": "Gohan",
     "query": "Gohan",
-    "rank": 17,
-    "tweet_count": "11.9K Tweets"
+    "rank": 15,
+    "tweet_count": "12.2K Tweets"
+  },
+  {
+    "name": "Pablo Sierra",
+    "query": "\"Pablo Sierra\"",
+    "rank": 16,
+    "tweet_count": "7,448 Tweets"
   },
   {
     "name": "Fogasa",
     "query": "Fogasa",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
+  },
+  {
+    "name": "Troitiño",
+    "query": "Troitiño",
+    "rank": 18,
+    "tweet_count": "7,864 Tweets"
+  },
+  {
+    "name": "Calviño",
+    "query": "Calviño",
+    "rank": 19,
+    "tweet_count": "13K Tweets"
   },
   {
     "name": "Steven Spielberg",
     "query": "\"Steven Spielberg\"",
-    "rank": 19,
-    "tweet_count": "2,103 Tweets"
-  },
-  {
-    "name": "mt 1",
-    "query": "\"mt 1\"",
     "rank": 20,
-    "tweet_count": "58.1K Tweets"
+    "tweet_count": "2,156 Tweets"
   }
 ]
