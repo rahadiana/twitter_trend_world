@@ -1,45 +1,45 @@
 [
   {
+    "name": "Peter",
+    "query": "Peter",
+    "rank": 1,
+    "tweet_count": "256K Tweets"
+  },
+  {
     "name": "#Merz",
     "query": "#Merz",
-    "rank": 1,
-    "tweet_count": "25.7K Tweets"
+    "rank": 2,
+    "tweet_count": "25.9K Tweets"
   },
   {
     "name": "Silvester",
     "query": "Silvester",
-    "rank": 2,
-    "tweet_count": "2,306 Tweets"
+    "rank": 3,
+    "tweet_count": "2,339 Tweets"
   },
   {
     "name": "#SpiderManNoWayHome",
     "query": "#SpiderManNoWayHome",
-    "rank": 3,
-    "tweet_count": "356K Tweets"
+    "rank": 4,
+    "tweet_count": "360K Tweets"
   },
   {
     "name": "#YesWeCare",
     "query": "#YesWeCare",
-    "rank": 4,
-    "tweet_count": "1,333 Tweets"
+    "rank": 5,
+    "tweet_count": "1,349 Tweets"
   },
   {
     "name": "#CDUVorsitz",
     "query": "#CDUVorsitz",
-    "rank": 5,
-    "tweet_count": "11.7K Tweets"
+    "rank": 6,
+    "tweet_count": "11.8K Tweets"
   },
   {
     "name": "Witcher",
     "query": "Witcher",
-    "rank": 6,
-    "tweet_count": "93.8K Tweets"
-  },
-  {
-    "name": "Peter",
-    "query": "Peter",
     "rank": 7,
-    "tweet_count": "254K Tweets"
+    "tweet_count": "94.4K Tweets"
   },
   {
     "name": "Spielraum",
@@ -48,8 +48,8 @@
     "tweet_count": null
   },
   {
-    "name": "#gecko",
-    "query": "#gecko",
+    "name": "#Gecko",
+    "query": "#Gecko",
     "rank": 9,
     "tweet_count": null
   },
@@ -57,66 +57,66 @@
     "name": "gefährdung",
     "query": "gefährdung",
     "rank": 10,
-    "tweet_count": "1,355 Tweets"
+    "tweet_count": "1,362 Tweets"
   },
   {
     "name": "Feiertage",
     "query": "Feiertage",
     "rank": 11,
-    "tweet_count": "1,464 Tweets"
-  },
-  {
-    "name": "Grasser",
-    "query": "Grasser",
-    "rank": 12,
-    "tweet_count": null
+    "tweet_count": "1,488 Tweets"
   },
   {
     "name": "Revision",
     "query": "Revision",
-    "rank": 13,
-    "tweet_count": "9,110 Tweets"
+    "rank": 12,
+    "tweet_count": "9,179 Tweets"
   },
   {
     "name": "Heimat",
     "query": "Heimat",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Auftrag",
     "query": "Auftrag",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "corona-register",
     "query": "corona-register",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "finanzministerium",
-    "query": "finanzministerium",
-    "rank": 17,
-    "tweet_count": null
+    "name": "Franz",
+    "query": "Franz",
+    "rank": 16,
+    "tweet_count": "7,290 Tweets"
   },
   {
     "name": "Ungeimpfte",
     "query": "Ungeimpfte",
-    "rank": 18,
-    "tweet_count": "15.6K Tweets"
+    "rank": 17,
+    "tweet_count": "15.8K Tweets"
   },
   {
     "name": "Wels",
     "query": "Wels",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Butter",
     "query": "Butter",
+    "rank": 19,
+    "tweet_count": "187K Tweets"
+  },
+  {
+    "name": "CDU-CHEF",
+    "query": "CDU-CHEF",
     "rank": 20,
-    "tweet_count": "184K Tweets"
+    "tweet_count": "1,086 Tweets"
   }
 ]
