@@ -1,110 +1,116 @@
 [
   {
+    "name": "Lakers",
+    "query": "Lakers",
+    "rank": 1,
+    "tweet_count": "59.5K Tweets"
+  },
+  {
     "name": "Curry",
     "query": "Curry",
-    "rank": 1,
-    "tweet_count": "48.6K Tweets"
+    "rank": 2,
+    "tweet_count": "49.5K Tweets"
   },
   {
     "name": "#EmmanuelInGhana",
     "query": "#EmmanuelInGhana",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": "26.8K Tweets"
   },
   {
     "name": "#Nukedzor",
     "query": "#Nukedzor",
-    "rank": 3,
-    "tweet_count": "6,850 Tweets"
+    "rank": 4,
+    "tweet_count": "6,871 Tweets"
   },
   {
     "name": "Saul",
     "query": "Saul",
-    "rank": 4,
-    "tweet_count": "18.2K Tweets"
-  },
-  {
-    "name": "Lakers",
-    "query": "Lakers",
     "rank": 5,
-    "tweet_count": "55.2K Tweets"
+    "tweet_count": "18.4K Tweets"
   },
   {
     "name": "#CHEEVE",
     "query": "#CHEEVE",
     "rank": 6,
-    "tweet_count": "7,107 Tweets"
+    "tweet_count": "7,128 Tweets"
+  },
+  {
+    "name": "#LiquoroseTheFashionIcon",
+    "query": "#LiquoroseTheFashionIcon",
+    "rank": 7,
+    "tweet_count": "64.2K Tweets"
   },
   {
     "name": "Cersei",
     "query": "Cersei",
-    "rank": 7,
-    "tweet_count": "1,934 Tweets"
+    "rank": 8,
+    "tweet_count": "1,942 Tweets"
   },
   {
     "name": "Kyrie",
     "query": "Kyrie",
-    "rank": 8,
-    "tweet_count": "61K Tweets"
+    "rank": 9,
+    "tweet_count": "62.7K Tweets"
   },
   {
     "name": "Everton",
     "query": "Everton",
-    "rank": 9,
-    "tweet_count": "27.6K Tweets"
-  },
-  {
-    "name": "Brass",
-    "query": "Brass",
     "rank": 10,
-    "tweet_count": "6,857 Tweets"
+    "tweet_count": "27.7K Tweets"
   },
   {
     "name": "Trent",
     "query": "Trent",
     "rank": 11,
-    "tweet_count": "29.9K Tweets"
+    "tweet_count": "30.2K Tweets"
+  },
+  {
+    "name": "brass",
+    "query": "brass",
+    "rank": 12,
+    "tweet_count": "6,978 Tweets"
   },
   {
     "name": "r2bees",
     "query": "r2bees",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Morgana",
     "query": "Morgana",
-    "rank": 13,
-    "tweet_count": "3,260 Tweets"
+    "rank": 14,
+    "tweet_count": "3,294 Tweets"
   },
   {
     "name": "Chelsea",
     "query": "Chelsea",
-    "rank": 14,
-    "tweet_count": "69.5K Tweets"
+    "rank": 15,
+    "tweet_count": "69.9K Tweets"
   },
   {
-    "name": "Pulisic",
-    "query": "Pulisic",
-    "rank": 15,
-    "tweet_count": "5,653 Tweets"
+    "name": "pulisic",
+    "query": "pulisic",
+    "rank": 16,
+    "tweet_count": "5,678 Tweets"
   },
   {
     "name": "Christmas",
     "query": "Christmas",
-    "rank": 16,
-    "tweet_count": "1.67M Tweets"
+    "rank": 17,
+    "tweet_count": "1.7M Tweets"
   },
   {
     "name": "Roddy",
     "query": "Roddy",
-    "rank": 17,
-    "tweet_count": "63.6K Tweets"
+    "rank": 18,
+    "tweet_count": "64K Tweets"
   },
   {
     "name": "Aqua Safari",
     "query": "\"Aqua Safari\"",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   }
 ]
