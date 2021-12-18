@@ -1,19 +1,19 @@
 [
   {
+    "name": "Dagsavisen",
+    "query": "Dagsavisen",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "#Barstadsjulekalender",
     "query": "#Barstadsjulekalender",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Viken",
     "query": "Viken",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "#selfiefredag",
-    "query": "#selfiefredag",
     "rank": 3,
     "tweet_count": null
   },
@@ -24,40 +24,40 @@
     "tweet_count": null
   },
   {
+    "name": "#selfiefredag",
+    "query": "#selfiefredag",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
     "name": "Watkins",
     "query": "Watkins",
-    "rank": 5,
-    "tweet_count": "4,556 Tweets"
+    "rank": 6,
+    "tweet_count": "4,613 Tweets"
   },
   {
     "name": "Odds",
     "query": "Odds",
-    "rank": 6,
-    "tweet_count": "43K Tweets"
+    "rank": 7,
+    "tweet_count": "44K Tweets"
   },
   {
     "name": "jerv",
     "query": "jerv",
-    "rank": 7,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Brann",
     "query": "Brann",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "Witcher",
-    "query": "Witcher",
     "rank": 9,
-    "tweet_count": "90.9K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "rasmus hansson",
-    "query": "\"rasmus hansson\"",
+    "name": "#TheWitcher",
+    "query": "#TheWitcher",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "39.2K Tweets"
   },
   {
     "name": "lise klaveness",
@@ -75,7 +75,7 @@
     "name": "Christmas",
     "query": "Christmas",
     "rank": 13,
-    "tweet_count": "1.75M Tweets"
+    "tweet_count": "1.81M Tweets"
   },
   {
     "name": "#fredagsselfie",
@@ -87,19 +87,19 @@
     "name": "Lens",
     "query": "Lens",
     "rank": 15,
-    "tweet_count": "21.2K Tweets"
+    "tweet_count": "21.5K Tweets"
   },
   {
     "name": "Tommy",
     "query": "Tommy",
     "rank": 16,
-    "tweet_count": "45.1K Tweets"
+    "tweet_count": "45.4K Tweets"
   },
   {
     "name": "Foden",
     "query": "Foden",
     "rank": 17,
-    "tweet_count": "3,911 Tweets"
+    "tweet_count": "3,978 Tweets"
   },
   {
     "name": "frigård",
@@ -111,12 +111,12 @@
     "name": "#winter",
     "query": "#winter",
     "rank": 19,
-    "tweet_count": "40K Tweets"
+    "tweet_count": "40.2K Tweets"
   },
   {
-    "name": "Jada",
-    "query": "Jada",
+    "name": "Rasmus",
+    "query": "Rasmus",
     "rank": 20,
-    "tweet_count": "5,121 Tweets"
+    "tweet_count": null
   }
 ]
