@@ -1,56 +1,86 @@
 [
   {
+    "name": "Spurs",
+    "query": "Spurs",
+    "rank": 1,
+    "tweet_count": "65.5K Tweets"
+  },
+  {
     "name": "#TOTLIV",
     "query": "#TOTLIV",
-    "rank": 1,
-    "tweet_count": "58.5K Tweets"
+    "rank": 2,
+    "tweet_count": "59.8K Tweets"
+  },
+  {
+    "name": "Liverpool",
+    "query": "Liverpool",
+    "rank": 3,
+    "tweet_count": "130K Tweets"
+  },
+  {
+    "name": "Tottenham",
+    "query": "Tottenham",
+    "rank": 4,
+    "tweet_count": "54.5K Tweets"
+  },
+  {
+    "name": "Alisson",
+    "query": "Alisson",
+    "rank": 5,
+    "tweet_count": "23.3K Tweets"
   },
   {
     "name": "Allison",
     "query": "Allison",
-    "rank": 2,
-    "tweet_count": "10.1K Tweets"
+    "rank": 6,
+    "tweet_count": "9,882 Tweets"
   },
   {
-    "name": "Klopp",
-    "query": "Klopp",
-    "rank": 3,
-    "tweet_count": "29.7K Tweets"
-  },
-  {
-    "name": "Pulisic",
-    "query": "Pulisic",
-    "rank": 4,
-    "tweet_count": "12.5K Tweets"
+    "name": "Milner",
+    "query": "Milner",
+    "rank": 7,
+    "tweet_count": "8,353 Tweets"
   },
   {
     "name": "#GPLwk9",
     "query": "#GPLwk9",
-    "rank": 5,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Cancelo",
     "query": "Cancelo",
-    "rank": 6,
-    "tweet_count": "40.5K Tweets"
+    "rank": 9,
+    "tweet_count": "40.7K Tweets"
+  },
+  {
+    "name": "Tuchel",
+    "query": "Tuchel",
+    "rank": 10,
+    "tweet_count": "25.8K Tweets"
   },
   {
     "name": "Saul",
     "query": "Saul",
-    "rank": 7,
-    "tweet_count": "20.5K Tweets"
+    "rank": 11,
+    "tweet_count": "20.4K Tweets"
+  },
+  {
+    "name": "mahama",
+    "query": "mahama",
+    "rank": 12,
+    "tweet_count": "1,933 Tweets"
+  },
+  {
+    "name": "Kovacic",
+    "query": "Kovacic",
+    "rank": 13,
+    "tweet_count": "6,050 Tweets"
   },
   {
     "name": "Alonso",
     "query": "Alonso",
-    "rank": 8,
-    "tweet_count": "22K Tweets"
-  },
-  {
-    "name": "Mahama",
-    "query": "Mahama",
-    "rank": 9,
-    "tweet_count": "1,919 Tweets"
+    "rank": 14,
+    "tweet_count": "21.5K Tweets"
   }
 ]
