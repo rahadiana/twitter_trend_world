@@ -1,15 +1,15 @@
 [
   {
-    "name": "#nswcovid",
-    "query": "#nswcovid",
+    "name": "Premier",
+    "query": "Premier",
     "rank": 1,
-    "tweet_count": null
+    "tweet_count": "146K Tweets"
   },
   {
     "name": "Woodley",
     "query": "Woodley",
     "rank": 2,
-    "tweet_count": "75.7K Tweets"
+    "tweet_count": "116K Tweets"
   },
   {
     "name": "#MACvNEW",
@@ -18,99 +18,105 @@
     "tweet_count": null
   },
   {
+    "name": "Ollie Robinson",
+    "query": "\"Ollie Robinson\"",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "Tyron",
+    "query": "Tyron",
+    "rank": 5,
+    "tweet_count": "60K Tweets"
+  },
+  {
     "name": "#PWAxMCW",
     "query": "#PWAxMCW",
-    "rank": 4,
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "Buttler",
     "query": "Buttler",
-    "rank": 5,
-    "tweet_count": "3,940 Tweets"
+    "rank": 7,
+    "tweet_count": "4,123 Tweets"
   },
   {
     "name": "#melbourneweather",
     "query": "#melbourneweather",
-    "rank": 6,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Colts",
     "query": "Colts",
-    "rank": 7,
-    "tweet_count": "83K Tweets"
-  },
-  {
-    "name": "#Domicron",
-    "query": "#Domicron",
-    "rank": 8,
-    "tweet_count": "5,458 Tweets"
-  },
-  {
-    "name": "Harris",
-    "query": "Harris",
     "rank": 9,
-    "tweet_count": "82.8K Tweets"
+    "tweet_count": "85K Tweets"
   },
   {
-    "name": "Denise",
-    "query": "Denise",
+    "name": "Patriots",
+    "query": "Patriots",
     "rank": 10,
-    "tweet_count": "12.5K Tweets"
-  },
-  {
-    "name": "Netherlands",
-    "query": "Netherlands",
-    "rank": 11,
-    "tweet_count": "46K Tweets"
-  },
-  {
-    "name": "Perrottet",
-    "query": "Perrottet",
-    "rank": 12,
-    "tweet_count": "18.8K Tweets"
-  },
-  {
-    "name": "Joe Root",
-    "query": "\"Joe Root\"",
-    "rank": 13,
-    "tweet_count": "4,804 Tweets"
-  },
-  {
-    "name": "NSW Premier",
-    "query": "\"NSW Premier\"",
-    "rank": 14,
-    "tweet_count": "6,373 Tweets"
-  },
-  {
-    "name": "Andrew Garfield",
-    "query": "\"Andrew Garfield\"",
-    "rank": 15,
-    "tweet_count": "155K Tweets"
-  },
-  {
-    "name": "Boxing Day",
-    "query": "\"Boxing Day\"",
-    "rank": 16,
-    "tweet_count": "9,130 Tweets"
+    "tweet_count": "91K Tweets"
   },
   {
     "name": "#UFCVegas45",
     "query": "#UFCVegas45",
-    "rank": 17,
-    "tweet_count": "47.7K Tweets"
+    "rank": 11,
+    "tweet_count": "48.1K Tweets"
   },
   {
-    "name": "#LetitRip",
-    "query": "#LetitRip",
+    "name": "#Domicron",
+    "query": "#Domicron",
+    "rank": 12,
+    "tweet_count": "5,589 Tweets"
+  },
+  {
+    "name": "Marcus Harris",
+    "query": "\"Marcus Harris\"",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Joe Root",
+    "query": "\"Joe Root\"",
+    "rank": 14,
+    "tweet_count": "4,977 Tweets"
+  },
+  {
+    "name": "Denise",
+    "query": "Denise",
+    "rank": 15,
+    "tweet_count": "12.6K Tweets"
+  },
+  {
+    "name": "Perrottet",
+    "query": "Perrottet",
+    "rank": 16,
+    "tweet_count": "19.1K Tweets"
+  },
+  {
+    "name": "Andrew Garfield",
+    "query": "\"Andrew Garfield\"",
+    "rank": 17,
+    "tweet_count": "158K Tweets"
+  },
+  {
+    "name": "Adelaide Oval",
+    "query": "\"Adelaide Oval\"",
     "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "#COVIDIOTS",
-    "query": "#COVIDIOTS",
+    "name": "Boxing Day",
+    "query": "\"Boxing Day\"",
     "rank": 19,
-    "tweet_count": "11.7K Tweets"
+    "tweet_count": "9,181 Tweets"
+  },
+  {
+    "name": "Netherlands",
+    "query": "Netherlands",
+    "rank": 20,
+    "tweet_count": "46.5K Tweets"
   }
 ]
