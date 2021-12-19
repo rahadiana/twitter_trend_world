@@ -1,39 +1,39 @@
 [
   {
-    "name": "Newcastle",
-    "query": "Newcastle",
-    "rank": 1,
-    "tweet_count": "33.5K Tweets"
-  },
-  {
     "name": "Saul",
     "query": "Saul",
-    "rank": 2,
-    "tweet_count": "16.9K Tweets"
+    "rank": 1,
+    "tweet_count": "17.6K Tweets"
   },
   {
     "name": "Alonso",
     "query": "Alonso",
+    "rank": 2,
+    "tweet_count": "20.8K Tweets"
+  },
+  {
+    "name": "Newcastle",
+    "query": "Newcastle",
     "rank": 3,
-    "tweet_count": "20.3K Tweets"
+    "tweet_count": "35.2K Tweets"
   },
   {
     "name": "Cancelo",
     "query": "Cancelo",
     "rank": 4,
-    "tweet_count": "30.4K Tweets"
-  },
-  {
-    "name": "Wolves",
-    "query": "Wolves",
-    "rank": 5,
-    "tweet_count": "53.7K Tweets"
+    "tweet_count": "32.1K Tweets"
   },
   {
     "name": "#LEEARS",
     "query": "#LEEARS",
+    "rank": 5,
+    "tweet_count": "58.5K Tweets"
+  },
+  {
+    "name": "Wolves",
+    "query": "Wolves",
     "rank": 6,
-    "tweet_count": "58.4K Tweets"
+    "tweet_count": "55.2K Tweets"
   },
   {
     "name": "Frigård",
@@ -42,46 +42,46 @@
     "tweet_count": null
   },
   {
-    "name": "Leeds",
-    "query": "Leeds",
-    "rank": 8,
-    "tweet_count": "101K Tweets"
-  },
-  {
     "name": "Jake Paul",
     "query": "\"Jake Paul\"",
+    "rank": 8,
+    "tweet_count": "195K Tweets"
+  },
+  {
+    "name": "#lufc",
+    "query": "#lufc",
     "rank": 9,
-    "tweet_count": "194K Tweets"
-  },
-  {
-    "name": "Woodley",
-    "query": "Woodley",
-    "rank": 10,
-    "tweet_count": "187K Tweets"
-  },
-  {
-    "name": "Stoltenberg",
-    "query": "Stoltenberg",
-    "rank": 11,
-    "tweet_count": null
+    "tweet_count": "10.6K Tweets"
   },
   {
     "name": "Spurs",
     "query": "Spurs",
+    "rank": 10,
+    "tweet_count": "22.2K Tweets"
+  },
+  {
+    "name": "Leeds",
+    "query": "Leeds",
+    "rank": 11,
+    "tweet_count": "101K Tweets"
+  },
+  {
+    "name": "Woodley",
+    "query": "Woodley",
     "rank": 12,
-    "tweet_count": "21.2K Tweets"
+    "tweet_count": "188K Tweets"
   },
   {
-    "name": "#GW18",
-    "query": "#GW18",
+    "name": "Liverpool",
+    "query": "Liverpool",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "59K Tweets"
   },
   {
-    "name": "Mbappe",
-    "query": "Mbappe",
+    "name": "Stoltenberg",
+    "query": "Stoltenberg",
     "rank": 14,
-    "tweet_count": "14.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Bergen",
@@ -99,18 +99,18 @@
     "name": "The Witcher",
     "query": "\"The Witcher\"",
     "rank": 17,
-    "tweet_count": "48.3K Tweets"
+    "tweet_count": "48.8K Tweets"
   },
   {
     "name": "Christmas",
     "query": "Christmas",
     "rank": 18,
-    "tweet_count": "1.78M Tweets"
+    "tweet_count": "1.8M Tweets"
   },
   {
     "name": "Saka",
     "query": "Saka",
     "rank": 19,
-    "tweet_count": "73.4K Tweets"
+    "tweet_count": "73.9K Tweets"
   }
 ]
