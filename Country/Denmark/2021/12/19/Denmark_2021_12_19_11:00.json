@@ -1,39 +1,39 @@
 [
   {
-    "name": "Leeds",
-    "query": "Leeds",
-    "rank": 1,
-    "tweet_count": "109K Tweets"
-  },
-  {
     "name": "#LEEARS",
     "query": "#LEEARS",
-    "rank": 2,
-    "tweet_count": "58.9K Tweets"
+    "rank": 1,
+    "tweet_count": "59K Tweets"
   },
   {
     "name": "MitID",
     "query": "MitID",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "NemID",
-    "query": "NemID",
-    "rank": 4,
+    "name": "nemid",
+    "query": "nemid",
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Qatar",
     "query": "Qatar",
-    "rank": 5,
-    "tweet_count": "40.4K Tweets"
+    "rank": 4,
+    "tweet_count": "40.7K Tweets"
   },
   {
-    "name": "Rigtig",
-    "query": "Rigtig",
+    "name": "Martinelli",
+    "query": "Martinelli",
+    "rank": 5,
+    "tweet_count": "87K Tweets"
+  },
+  {
+    "name": "Leeds",
+    "query": "Leeds",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "110K Tweets"
   },
   {
     "name": "Tivoli",
@@ -42,81 +42,81 @@
     "tweet_count": null
   },
   {
-    "name": "Spider-Man",
-    "query": "Spider-Man",
-    "rank": 8,
-    "tweet_count": "425K Tweets"
-  },
-  {
     "name": "Kasper",
     "query": "Kasper",
-    "rank": 9,
-    "tweet_count": "1,099 Tweets"
+    "rank": 8,
+    "tweet_count": "1,118 Tweets"
   },
   {
     "name": "martin henriksen",
     "query": "\"martin henriksen\"",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Nadia Nadim",
     "query": "\"Nadia Nadim\"",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Beck",
     "query": "Beck",
+    "rank": 11,
+    "tweet_count": "6,718 Tweets"
+  },
+  {
+    "name": "Xhaka",
+    "query": "Xhaka",
     "rank": 12,
-    "tweet_count": "6,666 Tweets"
+    "tweet_count": "17K Tweets"
+  },
+  {
+    "name": "Spider-Man",
+    "query": "Spider-Man",
+    "rank": 13,
+    "tweet_count": "428K Tweets"
   },
   {
     "name": "The Witcher",
     "query": "\"The Witcher\"",
-    "rank": 13,
-    "tweet_count": "49.4K Tweets"
+    "rank": 14,
+    "tweet_count": "49.8K Tweets"
   },
   {
     "name": "#COVID19dk",
     "query": "#COVID19dk",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Corona",
     "query": "Corona",
-    "rank": 15,
-    "tweet_count": "116K Tweets"
+    "rank": 16,
+    "tweet_count": "117K Tweets"
   },
   {
     "name": "Qvortrup",
     "query": "Qvortrup",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Apple",
     "query": "Apple",
-    "rank": 17,
-    "tweet_count": "327K Tweets"
-  },
-  {
-    "name": "Ekstra Bladet",
-    "query": "\"Ekstra Bladet\"",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "330K Tweets"
   },
   {
     "name": "Omikron",
     "query": "Omikron",
     "rank": 19,
-    "tweet_count": "63.7K Tweets"
+    "tweet_count": "64.5K Tweets"
   },
   {
     "name": "regeringen",
     "query": "regeringen",
     "rank": 20,
-    "tweet_count": "1,742 Tweets"
+    "tweet_count": "1,771 Tweets"
   }
 ]
