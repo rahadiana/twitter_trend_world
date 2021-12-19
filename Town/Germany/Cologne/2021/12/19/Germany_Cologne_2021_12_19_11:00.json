@@ -3,19 +3,19 @@
     "name": "Advent",
     "query": "Advent",
     "rank": 1,
-    "tweet_count": "51K Tweets"
-  },
-  {
-    "name": "Schönen 4",
-    "query": "\"Schönen 4\"",
-    "rank": 2,
-    "tweet_count": "5,631 Tweets"
+    "tweet_count": "51.8K Tweets"
   },
   {
     "name": "#dopa",
     "query": "#dopa",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "Schönen 4",
+    "query": "\"Schönen 4\"",
+    "rank": 3,
+    "tweet_count": "5,777 Tweets"
   },
   {
     "name": "#Presseclub",
@@ -27,43 +27,43 @@
     "name": "#Breitscheidplatz",
     "query": "#Breitscheidplatz",
     "rank": 5,
-    "tweet_count": "1,213 Tweets"
+    "tweet_count": "1,282 Tweets"
+  },
+  {
+    "name": "#freeAtreju",
+    "query": "#freeAtreju",
+    "rank": 6,
+    "tweet_count": null
   },
   {
     "name": "Spaltung",
     "query": "Spaltung",
-    "rank": 6,
-    "tweet_count": "5,275 Tweets"
+    "rank": 7,
+    "tweet_count": "5,381 Tweets"
   },
   {
     "name": "Schönen Sonntag",
     "query": "\"Schönen Sonntag\"",
-    "rank": 7,
-    "tweet_count": "1,661 Tweets"
+    "rank": 8,
+    "tweet_count": "1,692 Tweets"
   },
   {
     "name": "Türchen 19",
     "query": "\"Türchen 19\"",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Vergessenheit",
     "query": "Vergessenheit",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Kerze",
     "query": "Kerze",
-    "rank": 10,
-    "tweet_count": "1,000 Tweets"
-  },
-  {
-    "name": "Niederländer",
-    "query": "Niederländer",
     "rank": 11,
-    "tweet_count": null
+    "tweet_count": "1,013 Tweets"
   },
   {
     "name": "Spalter",
@@ -72,39 +72,45 @@
     "tweet_count": null
   },
   {
+    "name": "Geschlecht",
+    "query": "Geschlecht",
+    "rank": 13,
+    "tweet_count": "2,080 Tweets"
+  },
+  {
+    "name": "Niederländer",
+    "query": "Niederländer",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
     "name": "Rosenkohl",
     "query": "Rosenkohl",
-    "rank": 13,
-    "tweet_count": "1,625 Tweets"
+    "rank": 15,
+    "tweet_count": "1,643 Tweets"
   },
   {
     "name": "Meinungsfreiheit",
     "query": "Meinungsfreiheit",
-    "rank": 14,
-    "tweet_count": "3,410 Tweets"
-  },
-  {
-    "name": "Geschlecht",
-    "query": "Geschlecht",
-    "rank": 15,
-    "tweet_count": "2,056 Tweets"
+    "rank": 16,
+    "tweet_count": "3,454 Tweets"
   },
   {
     "name": "TERFs",
     "query": "TERFs",
-    "rank": 16,
-    "tweet_count": "4,192 Tweets"
+    "rank": 17,
+    "tweet_count": "4,227 Tweets"
   },
   {
     "name": "Brexit",
     "query": "Brexit",
-    "rank": 17,
-    "tweet_count": "177K Tweets"
+    "rank": 18,
+    "tweet_count": "179K Tweets"
   },
   {
     "name": "Lisa Fitz",
     "query": "\"Lisa Fitz\"",
-    "rank": 18,
-    "tweet_count": "3,161 Tweets"
+    "rank": 19,
+    "tweet_count": "3,204 Tweets"
   }
 ]
