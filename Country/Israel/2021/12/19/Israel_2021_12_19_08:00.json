@@ -3,7 +3,7 @@
     "name": "שבוע טוב",
     "query": "\"שבוע טוב\"",
     "rank": 1,
-    "tweet_count": "1,990 Tweets"
+    "tweet_count": "1,994 Tweets"
   },
   {
     "name": "ברוך דיין",
@@ -12,10 +12,10 @@
     "tweet_count": null
   },
   {
-    "name": "בוקר אור",
-    "query": "\"בוקר אור\"",
+    "name": "الجزائر",
+    "query": "الجزائر",
     "rank": 3,
-    "tweet_count": null
+    "tweet_count": "169K Tweets"
   },
   {
     "name": "בוקר טוב",
@@ -24,14 +24,14 @@
     "tweet_count": null
   },
   {
-    "name": "الجزائر",
-    "query": "الجزائر",
-    "rank": 5,
-    "tweet_count": "169K Tweets"
-  },
-  {
     "name": "Homesh",
     "query": "Homesh",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "שבת שלום",
+    "query": "\"שבת שלום\"",
     "rank": 6,
     "tweet_count": null
   },
@@ -39,31 +39,31 @@
     "name": "#كلنا_الحناوي",
     "query": "#كلنا_الحناوي",
     "rank": 7,
-    "tweet_count": "12.4K Tweets"
-  },
-  {
-    "name": "שבת שלום",
-    "query": "\"שבת שלום\"",
-    "rank": 8,
-    "tweet_count": null
+    "tweet_count": "12.5K Tweets"
   },
   {
     "name": "Leeds",
     "query": "Leeds",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": "108K Tweets"
-  },
-  {
-    "name": "American Jews",
-    "query": "\"American Jews\"",
-    "rank": 10,
-    "tweet_count": "2,503 Tweets"
   },
   {
     "name": "עוד צער",
     "query": "\"עוד צער\"",
-    "rank": 11,
+    "rank": 9,
     "tweet_count": null
+  },
+  {
+    "name": "#اليوم_العالمي_للغه_العربيه",
+    "query": "#اليوم_العالمي_للغه_العربيه",
+    "rank": 10,
+    "tweet_count": "176K Tweets"
+  },
+  {
+    "name": "American Jews",
+    "query": "\"American Jews\"",
+    "rank": 11,
+    "tweet_count": "2,512 Tweets"
   },
   {
     "name": "shabbat shalom",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
+    "name": "Hebron",
+    "query": "Hebron",
+    "rank": 16,
+    "tweet_count": "3,650 Tweets"
+  },
+  {
     "name": "אלון בן דוד",
     "query": "\"אלון בן דוד\"",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Hebron",
-    "query": "Hebron",
-    "rank": 17,
-    "tweet_count": "3,630 Tweets"
-  },
-  {
-    "name": "فلسطين",
-    "query": "فلسطين",
+    "name": "#EfLey",
+    "query": "#EfLey",
     "rank": 18,
-    "tweet_count": "30.6K Tweets"
+    "tweet_count": "28.4K Tweets"
   },
   {
-    "name": "#Cardano",
-    "query": "#Cardano",
+    "name": "#cardano",
+    "query": "#cardano",
     "rank": 19,
-    "tweet_count": "22K Tweets"
+    "tweet_count": "22.2K Tweets"
   },
   {
     "name": "Peter",
     "query": "Peter",
     "rank": 20,
-    "tweet_count": "214K Tweets"
+    "tweet_count": "215K Tweets"
   }
 ]
