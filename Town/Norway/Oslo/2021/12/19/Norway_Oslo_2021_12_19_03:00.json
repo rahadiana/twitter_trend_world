@@ -1,115 +1,115 @@
 [
   {
-    "name": "Leeds",
-    "query": "Leeds",
-    "rank": 1,
-    "tweet_count": "105K Tweets"
-  },
-  {
     "name": "#LEEARS",
     "query": "#LEEARS",
-    "rank": 2,
-    "tweet_count": "53.5K Tweets"
+    "rank": 1,
+    "tweet_count": "53.7K Tweets"
   },
   {
     "name": "Watkins",
     "query": "Watkins",
-    "rank": 3,
-    "tweet_count": "9,517 Tweets"
-  },
-  {
-    "name": "#lufc",
-    "query": "#lufc",
-    "rank": 4,
-    "tweet_count": "11.6K Tweets"
+    "rank": 2,
+    "tweet_count": "9,579 Tweets"
   },
   {
     "name": "Saka",
     "query": "Saka",
-    "rank": 5,
-    "tweet_count": "71.3K Tweets"
+    "rank": 3,
+    "tweet_count": "71.8K Tweets"
+  },
+  {
+    "name": "viken",
+    "query": "viken",
+    "rank": 4,
+    "tweet_count": null
   },
   {
     "name": "Christmas",
     "query": "Christmas",
+    "rank": 5,
+    "tweet_count": "1.97M Tweets"
+  },
+  {
+    "name": "Foden",
+    "query": "Foden",
     "rank": 6,
-    "tweet_count": "1.94M Tweets"
+    "tweet_count": "5,289 Tweets"
   },
   {
-    "name": "Viken",
-    "query": "Viken",
+    "name": "Dagsavisen",
+    "query": "Dagsavisen",
     "rank": 7,
-    "tweet_count": null
-  },
-  {
-    "name": "dagsavisen",
-    "query": "dagsavisen",
-    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "The Witcher",
     "query": "\"The Witcher\"",
-    "rank": 9,
-    "tweet_count": "51.4K Tweets"
+    "rank": 8,
+    "tweet_count": "52.1K Tweets"
   },
   {
     "name": "#GW18",
     "query": "#GW18",
-    "rank": 10,
-    "tweet_count": "1,856 Tweets"
-  },
-  {
-    "name": "foden",
-    "query": "foden",
-    "rank": 11,
-    "tweet_count": "5,271 Tweets"
+    "rank": 9,
+    "tweet_count": "1,863 Tweets"
   },
   {
     "name": "Stoltenberg",
     "query": "Stoltenberg",
-    "rank": 12,
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "#selfiefredag",
+    "query": "#selfiefredag",
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Bayern",
     "query": "Bayern",
-    "rank": 13,
-    "tweet_count": "26.7K Tweets"
-  },
-  {
-    "name": "#SelfieFredag",
-    "query": "#SelfieFredag",
-    "rank": 14,
-    "tweet_count": null
+    "rank": 12,
+    "tweet_count": "26.9K Tweets"
   },
   {
     "name": "Dresden",
     "query": "Dresden",
-    "rank": 15,
-    "tweet_count": "2,313 Tweets"
+    "rank": 13,
+    "tweet_count": "2,319 Tweets"
   },
   {
     "name": "Geralt",
     "query": "Geralt",
-    "rank": 16,
-    "tweet_count": "15.1K Tweets"
+    "rank": 14,
+    "tweet_count": "15.4K Tweets"
   },
   {
     "name": "østfold",
     "query": "østfold",
-    "rank": 17,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Bjerke",
     "query": "Bjerke",
-    "rank": 18,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "tibber",
     "query": "tibber",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Dortmund",
+    "query": "Dortmund",
+    "rank": 18,
+    "tweet_count": "13.8K Tweets"
+  },
+  {
+    "name": "geddi",
+    "query": "geddi",
     "rank": 19,
     "tweet_count": null
   }
