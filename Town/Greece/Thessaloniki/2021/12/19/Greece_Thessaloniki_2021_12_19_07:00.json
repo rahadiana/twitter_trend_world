@@ -9,25 +9,25 @@
     "name": "#Βουλη",
     "query": "#Βουλη",
     "rank": 2,
-    "tweet_count": "28K Tweets"
+    "tweet_count": "28.2K Tweets"
   },
   {
-    "name": "#PanikConcert",
-    "query": "#PanikConcert",
+    "name": "#panikconcert",
+    "query": "#panikconcert",
     "rank": 3,
-    "tweet_count": "1,678 Tweets"
-  },
-  {
-    "name": "#ΚαρτΠοσταλ",
-    "query": "#ΚαρτΠοσταλ",
-    "rank": 4,
-    "tweet_count": "2,452 Tweets"
+    "tweet_count": "1,686 Tweets"
   },
   {
     "name": "Καλη Κυριακη",
     "query": "\"Καλη Κυριακη\"",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "#καρτποσταλ",
+    "query": "#καρτποσταλ",
+    "rank": 5,
+    "tweet_count": "2,465 Tweets"
   },
   {
     "name": "#TheVoiceGR",
@@ -36,28 +36,28 @@
     "tweet_count": null
   },
   {
-    "name": "Καλημερα Θεοδωρα",
-    "query": "\"Καλημερα Θεοδωρα\"",
+    "name": "κοκλωνη",
+    "query": "κοκλωνη",
     "rank": 7,
-    "tweet_count": null
-  },
-  {
-    "name": "Κοκλωνη",
-    "query": "Κοκλωνη",
-    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "καλο σαββατοκυριακο",
     "query": "\"καλο σαββατοκυριακο\"",
-    "rank": 9,
-    "tweet_count": "2,375 Tweets"
+    "rank": 8,
+    "tweet_count": "2,378 Tweets"
   },
   {
     "name": "Γεραπετριτη",
     "query": "Γεραπετριτη",
+    "rank": 9,
+    "tweet_count": "4,214 Tweets"
+  },
+  {
+    "name": "αννα μαρια",
+    "query": "\"αννα μαρια\"",
     "rank": 10,
-    "tweet_count": "4,174 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Καλημερα Γιωργο",
@@ -66,56 +66,56 @@
     "tweet_count": null
   },
   {
-    "name": "αννα μαρια",
-    "query": "\"αννα μαρια\"",
+    "name": "Καλημερα Θεοδωρα",
+    "query": "\"Καλημερα Θεοδωρα\"",
     "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "κιαμο",
-    "query": "κιαμο",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "ομορφη",
-    "query": "ομορφη",
-    "rank": 14,
-    "tweet_count": "1,531 Tweets"
-  },
-  {
-    "name": "βανδη",
-    "query": "βανδη",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "λαουρα",
-    "query": "λαουρα",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "παπαδοπουλου",
-    "query": "παπαδοπουλου",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "πιτσι",
-    "query": "πιτσι",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "τζοζεφ",
-    "query": "τζοζεφ",
-    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Καλημερα Δημητρη",
     "query": "\"Καλημερα Δημητρη\"",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "κιαμο",
+    "query": "κιαμο",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Καλημερες",
+    "query": "Καλημερες",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Ομορφη",
+    "query": "Ομορφη",
+    "rank": 16,
+    "tweet_count": "1,591 Tweets"
+  },
+  {
+    "name": "λαουρα",
+    "query": "λαουρα",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "βανδη",
+    "query": "βανδη",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "παπαδοπουλου",
+    "query": "παπαδοπουλου",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "πιτσι",
+    "query": "πιτσι",
     "rank": 20,
     "tweet_count": null
   }
