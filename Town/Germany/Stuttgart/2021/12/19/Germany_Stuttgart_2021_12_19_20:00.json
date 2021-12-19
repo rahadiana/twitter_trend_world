@@ -1,122 +1,122 @@
 [
   {
-    "name": "Winterpause",
-    "query": "Winterpause",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Köln",
     "query": "Köln",
-    "rank": 2,
-    "tweet_count": "5,475 Tweets"
+    "rank": 1,
+    "tweet_count": "5,511 Tweets"
   },
   {
     "name": "Spiele",
     "query": "Spiele",
-    "rank": 3,
-    "tweet_count": "2,506 Tweets"
+    "rank": 2,
+    "tweet_count": "2,536 Tweets"
   },
   {
     "name": "Punkte",
     "query": "Punkte",
-    "rank": 4,
-    "tweet_count": "1,975 Tweets"
+    "rank": 3,
+    "tweet_count": "2,002 Tweets"
   },
   {
     "name": "#Tatort",
     "query": "#Tatort",
+    "rank": 4,
+    "tweet_count": "2,288 Tweets"
+  },
+  {
+    "name": "#tvog",
+    "query": "#tvog",
     "rank": 5,
-    "tweet_count": "2,134 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Expertenrat",
     "query": "#Expertenrat",
     "rank": 6,
-    "tweet_count": "3,774 Tweets"
+    "tweet_count": "3,959 Tweets"
   },
   {
-    "name": "#tvog",
-    "query": "#tvog",
+    "name": "#SondersitzungJetzt",
+    "query": "#SondersitzungJetzt",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "2,444 Tweets"
   },
   {
-    "name": "#KOEVfB",
-    "query": "#KOEVfB",
+    "name": "#KitchenImpossible",
+    "query": "#KitchenImpossible",
     "rank": 8,
-    "tweet_count": "2,194 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Kontaktbeschränkungen",
     "query": "Kontaktbeschränkungen",
     "rank": 9,
-    "tweet_count": "6,154 Tweets"
-  },
-  {
-    "name": "#SondersitzungJetzt",
-    "query": "#SondersitzungJetzt",
-    "rank": 10,
-    "tweet_count": "2,343 Tweets"
+    "tweet_count": "6,315 Tweets"
   },
   {
     "name": "Lockdown",
     "query": "Lockdown",
-    "rank": 11,
-    "tweet_count": "364K Tweets"
+    "rank": 10,
+    "tweet_count": "368K Tweets"
   },
   {
     "name": "Kloster",
     "query": "Kloster",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
-  },
-  {
-    "name": "Kane",
-    "query": "Kane",
-    "rank": 13,
-    "tweet_count": "116K Tweets"
   },
   {
     "name": "Schindler",
     "query": "Schindler",
-    "rank": 14,
-    "tweet_count": "3,192 Tweets"
+    "rank": 12,
+    "tweet_count": "3,298 Tweets"
   },
   {
     "name": "Husten und Fieber",
     "query": "\"Husten und Fieber\"",
-    "rank": 15,
-    "tweet_count": "2,154 Tweets"
-  },
-  {
-    "name": "Lions",
-    "query": "Lions",
-    "rank": 16,
-    "tweet_count": "55.5K Tweets"
+    "rank": 13,
+    "tweet_count": "2,190 Tweets"
   },
   {
     "name": "Infrastruktur",
     "query": "Infrastruktur",
-    "rank": 17,
-    "tweet_count": "4,659 Tweets"
+    "rank": 14,
+    "tweet_count": "4,725 Tweets"
   },
   {
-    "name": "Stellungnahme",
-    "query": "Stellungnahme",
-    "rank": 18,
-    "tweet_count": "4,009 Tweets"
+    "name": "Lions",
+    "query": "Lions",
+    "rank": 15,
+    "tweet_count": "57.1K Tweets"
   },
   {
     "name": "Anthony Modeste",
     "query": "\"Anthony Modeste\"",
-    "rank": 19,
+    "rank": 16,
     "tweet_count": null
+  },
+  {
+    "name": "Stellungnahme",
+    "query": "Stellungnahme",
+    "rank": 17,
+    "tweet_count": "4,116 Tweets"
   },
   {
     "name": "Coulibaly",
     "query": "Coulibaly",
-    "rank": 20,
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Manchin",
+    "query": "Manchin",
+    "rank": 19,
+    "tweet_count": "608K Tweets"
+  },
+  {
+    "name": "Silas",
+    "query": "Silas",
+    "rank": 20,
+    "tweet_count": "2,875 Tweets"
   }
 ]
