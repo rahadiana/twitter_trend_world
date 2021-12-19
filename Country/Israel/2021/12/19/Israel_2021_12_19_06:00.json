@@ -1,15 +1,15 @@
 [
   {
-    "name": "בוקר טוב",
-    "query": "\"בוקר טוב\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "שבוע טוב",
     "query": "\"שבוע טוב\"",
+    "rank": 1,
+    "tweet_count": "1,879 Tweets"
+  },
+  {
+    "name": "בוקר טוב",
+    "query": "\"בוקר טוב\"",
     "rank": 2,
-    "tweet_count": "1,835 Tweets"
+    "tweet_count": null
   },
   {
     "name": "שבת שלום",
@@ -18,70 +18,70 @@
     "tweet_count": null
   },
   {
-    "name": "الجزائر",
-    "query": "الجزائر",
-    "rank": 4,
-    "tweet_count": "167K Tweets"
-  },
-  {
     "name": "בוקר אור",
     "query": "\"בוקר אור\"",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "Yehuda Dimentman",
-    "query": "\"Yehuda Dimentman\"",
-    "rank": 6,
-    "tweet_count": null
+    "name": "الجزائر",
+    "query": "الجزائر",
+    "rank": 5,
+    "tweet_count": "168K Tweets"
   },
   {
     "name": "#كلنا_الحناوي",
     "query": "#كلنا_الحناوي",
-    "rank": 7,
-    "tweet_count": "11.5K Tweets"
+    "rank": 6,
+    "tweet_count": "11.7K Tweets"
   },
   {
     "name": "Leeds",
     "query": "Leeds",
-    "rank": 8,
-    "tweet_count": "106K Tweets"
+    "rank": 7,
+    "tweet_count": "107K Tweets"
   },
   {
     "name": "#ShabbatShalom",
     "query": "#ShabbatShalom",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "American Jews",
     "query": "\"American Jews\"",
-    "rank": 10,
-    "tweet_count": "2,583 Tweets"
+    "rank": 9,
+    "tweet_count": "2,598 Tweets"
   },
   {
     "name": "فلسطين",
     "query": "فلسطين",
-    "rank": 11,
-    "tweet_count": "29.7K Tweets"
+    "rank": 10,
+    "tweet_count": "30.1K Tweets"
   },
   {
     "name": "Hebron",
     "query": "Hebron",
-    "rank": 12,
-    "tweet_count": "3,515 Tweets"
+    "rank": 11,
+    "tweet_count": "3,542 Tweets"
   },
   {
     "name": "איש תקשורת",
     "query": "\"איש תקשורת\"",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Peter",
     "query": "Peter",
+    "rank": 13,
+    "tweet_count": "217K Tweets"
+  },
+  {
+    "name": "Yehuda Dimentman",
+    "query": "\"Yehuda Dimentman\"",
     "rank": 14,
-    "tweet_count": "214K Tweets"
+    "tweet_count": null
   },
   {
     "name": "אלון בן דוד",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
+    "name": "Arsenal",
+    "query": "Arsenal",
+    "rank": 16,
+    "tweet_count": "200K Tweets"
+  },
+  {
     "name": "#Cardano",
     "query": "#Cardano",
-    "rank": 16,
-    "tweet_count": "21.2K Tweets"
+    "rank": 17,
+    "tweet_count": "21.5K Tweets"
   },
   {
     "name": "Germany",
     "query": "Germany",
-    "rank": 17,
-    "tweet_count": "53.5K Tweets"
-  },
-  {
-    "name": "#SpiderManNoWayHome",
-    "query": "#SpiderManNoWayHome",
     "rank": 18,
-    "tweet_count": "282K Tweets"
+    "tweet_count": "54.3K Tweets"
   },
   {
-    "name": "מזג אוויר",
-    "query": "\"מזג אוויר\"",
+    "name": "גועל נפש",
+    "query": "\"גועל נפש\"",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Israel",
-    "query": "Israel",
+    "name": "#SpiderManNoWayHome",
+    "query": "#SpiderManNoWayHome",
     "rank": 20,
-    "tweet_count": "69.2K Tweets"
+    "tweet_count": "286K Tweets"
   }
 ]
