@@ -1,122 +1,122 @@
 [
   {
-    "name": "#SpiderMan",
-    "query": "#SpiderMan",
+    "name": "Flyers",
+    "query": "Flyers",
     "rank": 1,
-    "tweet_count": "126K Tweets"
+    "tweet_count": "10.8K Tweets"
   },
   {
     "name": "Indy",
     "query": "Indy",
     "rank": 2,
-    "tweet_count": "11.4K Tweets"
+    "tweet_count": "12.3K Tweets"
+  },
+  {
+    "name": "Buck",
+    "query": "Buck",
+    "rank": 3,
+    "tweet_count": "35.5K Tweets"
   },
   {
     "name": "#NEvsIND",
     "query": "#NEvsIND",
-    "rank": 3,
-    "tweet_count": "5,888 Tweets"
-  },
-  {
-    "name": "#UFCVegas45",
-    "query": "#UFCVegas45",
     "rank": 4,
-    "tweet_count": "33.7K Tweets"
-  },
-  {
-    "name": "Kemba",
-    "query": "Kemba",
-    "rank": 5,
-    "tweet_count": "8,324 Tweets"
-  },
-  {
-    "name": "#Smack9",
-    "query": "#Smack9",
-    "rank": 6,
-    "tweet_count": "10.5K Tweets"
+    "tweet_count": "7,936 Tweets"
   },
   {
     "name": "Mac Jones",
     "query": "\"Mac Jones\"",
+    "rank": 5,
+    "tweet_count": "10.9K Tweets"
+  },
+  {
+    "name": "#UFCVegas45",
+    "query": "#UFCVegas45",
+    "rank": 6,
+    "tweet_count": "43K Tweets"
+  },
+  {
+    "name": "#Smack9",
+    "query": "#Smack9",
     "rank": 7,
-    "tweet_count": "4,414 Tweets"
+    "tweet_count": "12.7K Tweets"
+  },
+  {
+    "name": "Kemba",
+    "query": "Kemba",
+    "rank": 8,
+    "tweet_count": "10K Tweets"
+  },
+  {
+    "name": "#LAMH",
+    "query": "#LAMH",
+    "rank": 9,
+    "tweet_count": "3,561 Tweets"
   },
   {
     "name": "Wentz",
     "query": "Wentz",
-    "rank": 8,
-    "tweet_count": "4,385 Tweets"
-  },
-  {
-    "name": "Jonathan Taylor",
-    "query": "\"Jonathan Taylor\"",
-    "rank": 9,
-    "tweet_count": "2,081 Tweets"
-  },
-  {
-    "name": "Lemos",
-    "query": "Lemos",
     "rank": 10,
-    "tweet_count": "5,989 Tweets"
-  },
-  {
-    "name": "Angela Hill",
-    "query": "\"Angela Hill\"",
-    "rank": 11,
-    "tweet_count": "1,424 Tweets"
+    "tweet_count": "5,977 Tweets"
   },
   {
     "name": "#Candlenights",
     "query": "#Candlenights",
+    "rank": 11,
+    "tweet_count": "2,180 Tweets"
+  },
+  {
+    "name": "Jonathan Taylor",
+    "query": "\"Jonathan Taylor\"",
     "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Isaiah Wynn",
-    "query": "\"Isaiah Wynn\"",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Frank Reich",
-    "query": "\"Frank Reich\"",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Greg Olsen",
-    "query": "\"Greg Olsen\"",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Hines",
-    "query": "Hines",
-    "rank": 16,
-    "tweet_count": "3,164 Tweets"
-  },
-  {
-    "name": "Cub Swanson",
-    "query": "\"Cub Swanson\"",
-    "rank": 17,
-    "tweet_count": "2,503 Tweets"
+    "tweet_count": "2,357 Tweets"
   },
   {
     "name": "Josh McDaniels",
     "query": "\"Josh McDaniels\"",
-    "rank": 18,
+    "rank": 13,
+    "tweet_count": "1,008 Tweets"
+  },
+  {
+    "name": "The Black Beast",
+    "query": "\"The Black Beast\"",
+    "rank": 14,
+    "tweet_count": "1,465 Tweets"
+  },
+  {
+    "name": "Lemos",
+    "query": "Lemos",
+    "rank": 15,
+    "tweet_count": "6,187 Tweets"
+  },
+  {
+    "name": "Greg Olsen",
+    "query": "\"Greg Olsen\"",
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Jake Paul",
     "query": "\"Jake Paul\"",
-    "rank": 19,
-    "tweet_count": "26.5K Tweets"
+    "rank": 17,
+    "tweet_count": "31.8K Tweets"
   },
   {
-    "name": "EJ Speed",
-    "query": "\"EJ Speed\"",
-    "rank": 20,
+    "name": "Frank Reich",
+    "query": "\"Frank Reich\"",
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Angela Hill",
+    "query": "\"Angela Hill\"",
+    "rank": 19,
+    "tweet_count": "1,546 Tweets"
+  },
+  {
+    "name": "Eazy",
+    "query": "Eazy",
+    "rank": 20,
+    "tweet_count": "4,776 Tweets"
   }
 ]
