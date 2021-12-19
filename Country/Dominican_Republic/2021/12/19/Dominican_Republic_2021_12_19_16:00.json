@@ -1,21 +1,21 @@
 [
   {
+    "name": "#NavidadSuperate",
+    "query": "#NavidadSuperate",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "Aventura",
     "query": "Aventura",
-    "rank": 1,
-    "tweet_count": "9,233 Tweets"
+    "rank": 2,
+    "tweet_count": "9,100 Tweets"
   },
   {
     "name": "Romeo",
     "query": "Romeo",
-    "rank": 2,
-    "tweet_count": "11.3K Tweets"
-  },
-  {
-    "name": "#FelizDomingo",
-    "query": "#FelizDomingo",
     "rank": 3,
-    "tweet_count": "9,343 Tweets"
+    "tweet_count": "11.1K Tweets"
   },
   {
     "name": "#DuermanConRopa",
@@ -27,13 +27,13 @@
     "name": "#Chile",
     "query": "#Chile",
     "rank": 5,
-    "tweet_count": "25.2K Tweets"
+    "tweet_count": "25.6K Tweets"
   },
   {
-    "name": "#feriainespre",
-    "query": "#feriainespre",
+    "name": "#FelizDomingo",
+    "query": "#FelizDomingo",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "10.1K Tweets"
   },
   {
     "name": "#vivelanavidad",
@@ -42,8 +42,8 @@
     "tweet_count": null
   },
   {
-    "name": "Pachá",
-    "query": "Pachá",
+    "name": "pachá",
+    "query": "pachá",
     "rank": 8,
     "tweet_count": "1,650 Tweets"
   },
@@ -51,72 +51,72 @@
     "name": "Jake Paul",
     "query": "\"Jake Paul\"",
     "rank": 9,
-    "tweet_count": "195K Tweets"
+    "tweet_count": "198K Tweets"
   },
   {
     "name": "Jairo",
     "query": "Jairo",
     "rank": 10,
-    "tweet_count": "2,644 Tweets"
+    "tweet_count": "2,251 Tweets"
   },
   {
     "name": "Elche",
     "query": "Elche",
     "rank": 11,
-    "tweet_count": "42.9K Tweets"
-  },
-  {
-    "name": "César Valdez",
-    "query": "\"César Valdez\"",
-    "rank": 12,
-    "tweet_count": null
+    "tweet_count": "41.8K Tweets"
   },
   {
     "name": "Barça",
     "query": "Barça",
-    "rank": 13,
-    "tweet_count": "95.9K Tweets"
-  },
-  {
-    "name": "Estadio Olímpico",
-    "query": "\"Estadio Olímpico\"",
-    "rank": 14,
-    "tweet_count": null
+    "rank": 12,
+    "tweet_count": "93.6K Tweets"
   },
   {
     "name": "Aguilas",
     "query": "Aguilas",
-    "rank": 15,
-    "tweet_count": "3,440 Tweets"
-  },
-  {
-    "name": "miguel tejada",
-    "query": "\"miguel tejada\"",
-    "rank": 16,
-    "tweet_count": null
+    "rank": 13,
+    "tweet_count": "3,360 Tweets"
   },
   {
     "name": "Liceista",
     "query": "Liceista",
-    "rank": 17,
+    "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "Round Robin",
-    "query": "\"Round Robin\"",
-    "rank": 18,
-    "tweet_count": "2,057 Tweets"
+    "name": "Estadio Olímpico",
+    "query": "\"Estadio Olímpico\"",
+    "rank": 15,
+    "tweet_count": null
   },
   {
-    "name": "Plaza de la Bandera",
-    "query": "\"Plaza de la Bandera\"",
-    "rank": 19,
+    "name": "PLAY IN",
+    "query": "\"PLAY IN\"",
+    "rank": 16,
+    "tweet_count": "189K Tweets"
+  },
+  {
+    "name": "plaza de la bandera",
+    "query": "\"plaza de la bandera\"",
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Boric",
     "query": "Boric",
+    "rank": 18,
+    "tweet_count": "316K Tweets"
+  },
+  {
+    "name": "Miguel Tejada",
+    "query": "\"Miguel Tejada\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Maya",
+    "query": "Maya",
     "rank": 20,
-    "tweet_count": "325K Tweets"
+    "tweet_count": "50.8K Tweets"
   }
 ]

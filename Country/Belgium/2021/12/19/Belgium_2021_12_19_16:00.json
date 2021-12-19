@@ -1,31 +1,31 @@
 [
   {
-    "name": "#cluand",
-    "query": "#cluand",
+    "name": "#CLUAND",
+    "query": "#CLUAND",
     "rank": 1,
-    "tweet_count": "2,251 Tweets"
+    "tweet_count": "2,399 Tweets"
   },
   {
     "name": "Kompany",
     "query": "Kompany",
     "rank": 2,
-    "tweet_count": null
+    "tweet_count": "1,040 Tweets"
   },
   {
     "name": "Bruges",
     "query": "Bruges",
     "rank": 3,
-    "tweet_count": "1,207 Tweets"
-  },
-  {
-    "name": "#7dag",
-    "query": "#7dag",
-    "rank": 4,
-    "tweet_count": null
+    "tweet_count": "1,227 Tweets"
   },
   {
     "name": "Van Crombrugge",
     "query": "\"Van Crombrugge\"",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "#7dag",
+    "query": "#7dag",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,7 +33,7 @@
     "name": "#lockdown",
     "query": "#lockdown",
     "rank": 6,
-    "tweet_count": "60.3K Tweets"
+    "tweet_count": "56.9K Tweets"
   },
   {
     "name": "Hoedt",
@@ -42,80 +42,80 @@
     "tweet_count": null
   },
   {
-    "name": "kouamé",
-    "query": "kouamé",
+    "name": "Zirkzee",
+    "query": "Zirkzee",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Cancelo",
-    "query": "Cancelo",
-    "rank": 9,
-    "tweet_count": "32.2K Tweets"
-  },
-  {
-    "name": "zirkzee",
-    "query": "zirkzee",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "#rsca",
-    "query": "#rsca",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "#feyaja",
-    "query": "#feyaja",
-    "rank": 12,
-    "tweet_count": "11.3K Tweets"
-  },
-  {
-    "name": "Anderlecht",
-    "query": "Anderlecht",
-    "rank": 13,
-    "tweet_count": "1,288 Tweets"
-  },
-  {
     "name": "Yari",
     "query": "Yari",
-    "rank": 14,
-    "tweet_count": "14.6K Tweets"
+    "rank": 9,
+    "tweet_count": "13.9K Tweets"
   },
   {
-    "name": "balanta",
-    "query": "balanta",
-    "rank": 15,
+    "name": "Kouame",
+    "query": "Kouame",
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Amuzu",
     "query": "Amuzu",
-    "rank": 16,
+    "rank": 11,
     "tweet_count": null
+  },
+  {
+    "name": "#usgcer",
+    "query": "#usgcer",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "#JESC2021",
+    "query": "#JESC2021",
+    "rank": 13,
+    "tweet_count": "37K Tweets"
+  },
+  {
+    "name": "Anderlecht",
+    "query": "Anderlecht",
+    "rank": 14,
+    "tweet_count": "1,316 Tweets"
   },
   {
     "name": "Clement",
     "query": "Clement",
-    "rank": 17,
-    "tweet_count": "4,516 Tweets"
+    "rank": 15,
+    "tweet_count": "4,417 Tweets"
   },
   {
     "name": "Nederland",
     "query": "Nederland",
-    "rank": 18,
-    "tweet_count": "23.3K Tweets"
+    "rank": 16,
+    "tweet_count": "22.4K Tweets"
   },
   {
     "name": "Raman",
     "query": "Raman",
-    "rank": 19,
-    "tweet_count": "2,910 Tweets"
+    "rank": 17,
+    "tweet_count": "2,884 Tweets"
   },
   {
-    "name": "Refaelov",
-    "query": "Refaelov",
+    "name": "Cancelo",
+    "query": "Cancelo",
+    "rank": 18,
+    "tweet_count": "35.1K Tweets"
+  },
+  {
+    "name": "Vormer",
+    "query": "Vormer",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "vanaken",
+    "query": "vanaken",
     "rank": 20,
     "tweet_count": null
   }
