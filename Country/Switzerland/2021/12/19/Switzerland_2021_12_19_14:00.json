@@ -1,57 +1,57 @@
 [
   {
+    "name": "#LUGYB",
+    "query": "#LUGYB",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "#BSCYB",
     "query": "#BSCYB",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Advent",
     "query": "Advent",
-    "rank": 2,
-    "tweet_count": "59K Tweets"
+    "rank": 3,
+    "tweet_count": "59.8K Tweets"
   },
   {
     "name": "#Terremoto",
     "query": "#Terremoto",
-    "rank": 3,
-    "tweet_count": "2,918 Tweets"
+    "rank": 4,
+    "tweet_count": "2,923 Tweets"
   },
   {
     "name": "#AtalantaRoma",
     "query": "#AtalantaRoma",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": "11.3K Tweets"
   },
   {
     "name": "Umfrage",
     "query": "Umfrage",
-    "rank": 5,
-    "tweet_count": "1,334 Tweets"
+    "rank": 6,
+    "tweet_count": "1,347 Tweets"
   },
   {
     "name": "#MigrantsDay",
     "query": "#MigrantsDay",
-    "rank": 6,
-    "tweet_count": "7,712 Tweets"
-  },
-  {
-    "name": "#BolognaJuve",
-    "query": "#BolognaJuve",
     "rank": 7,
-    "tweet_count": "9,594 Tweets"
+    "tweet_count": "7,745 Tweets"
   },
   {
     "name": "Rosenkohl",
     "query": "Rosenkohl",
     "rank": 8,
-    "tweet_count": "1,792 Tweets"
+    "tweet_count": "1,809 Tweets"
   },
   {
     "name": "Martinelli",
     "query": "Martinelli",
     "rank": 9,
-    "tweet_count": "88.8K Tweets"
+    "tweet_count": "89K Tweets"
   },
   {
     "name": "Herzliche Gratulation",
@@ -66,22 +66,22 @@
     "tweet_count": "104K Tweets"
   },
   {
-    "name": "Omikron",
-    "query": "Omikron",
-    "rank": 12,
-    "tweet_count": "64.2K Tweets"
-  },
-  {
     "name": "Beileid",
     "query": "Beileid",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Gratuliere",
     "query": "Gratuliere",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
+  },
+  {
+    "name": "Omikron",
+    "query": "Omikron",
+    "rank": 14,
+    "tweet_count": "64.8K Tweets"
   },
   {
     "name": "Verfassung",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
-    "name": "Panik",
-    "query": "Panik",
+    "name": "panik",
+    "query": "panik",
     "rank": 16,
-    "tweet_count": "37.5K Tweets"
+    "tweet_count": "38.1K Tweets"
   },
   {
     "name": "Baum",
     "query": "Baum",
     "rank": 17,
-    "tweet_count": "4,130 Tweets"
-  },
-  {
-    "name": "maurer",
-    "query": "maurer",
-    "rank": 18,
-    "tweet_count": "1,122 Tweets"
+    "tweet_count": "4,186 Tweets"
   },
   {
     "name": "Idiot",
     "query": "Idiot",
-    "rank": 19,
-    "tweet_count": "76.3K Tweets"
+    "rank": 18,
+    "tweet_count": "77K Tweets"
   },
   {
     "name": "Yessir",
     "query": "Yessir",
+    "rank": 19,
+    "tweet_count": "9,279 Tweets"
+  },
+  {
+    "name": "logisch",
+    "query": "logisch",
     "rank": 20,
-    "tweet_count": "9,224 Tweets"
+    "tweet_count": "4,152 Tweets"
   }
 ]

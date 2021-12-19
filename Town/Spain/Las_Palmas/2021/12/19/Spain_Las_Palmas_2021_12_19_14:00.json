@@ -1,57 +1,57 @@
 [
   {
-    "name": "Pedro Sánchez",
-    "query": "\"Pedro Sánchez\"",
-    "rank": 1,
-    "tweet_count": "37.7K Tweets"
-  },
-  {
     "name": "Jorge Molina",
     "query": "\"Jorge Molina\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "Rayden",
     "query": "Rayden",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "Pedro Sánchez",
+    "query": "\"Pedro Sánchez\"",
+    "rank": 3,
+    "tweet_count": "38.5K Tweets"
   },
   {
     "name": "Falcon",
     "query": "Falcon",
     "rank": 4,
-    "tweet_count": "44.3K Tweets"
-  },
-  {
-    "name": "Athenea",
-    "query": "Athenea",
-    "rank": 5,
-    "tweet_count": "1,232 Tweets"
+    "tweet_count": "45K Tweets"
   },
   {
     "name": "#CrisLu19D",
     "query": "#CrisLu19D",
-    "rank": 6,
-    "tweet_count": "6,954 Tweets"
+    "rank": 5,
+    "tweet_count": "7,163 Tweets"
   },
   {
     "name": "Joao Cancelo",
     "query": "\"Joao Cancelo\"",
-    "rank": 7,
-    "tweet_count": "4,619 Tweets"
+    "rank": 6,
+    "tweet_count": "5,894 Tweets"
   },
   {
     "name": "#LosProtegidosElRegreso",
     "query": "#LosProtegidosElRegreso",
+    "rank": 7,
+    "tweet_count": "3,525 Tweets"
+  },
+  {
+    "name": "Athenea",
+    "query": "Athenea",
     "rank": 8,
-    "tweet_count": "3,384 Tweets"
+    "tweet_count": "1,252 Tweets"
   },
   {
     "name": "CCAA",
     "query": "CCAA",
     "rank": 9,
-    "tweet_count": "5,095 Tweets"
+    "tweet_count": "5,220 Tweets"
   },
   {
     "name": "Vesga",
@@ -60,45 +60,45 @@
     "tweet_count": null
   },
   {
+    "name": "Iban Salvador",
+    "query": "\"Iban Salvador\"",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
     "name": "Chile",
     "query": "Chile",
-    "rank": 11,
-    "tweet_count": "351K Tweets"
-  },
-  {
-    "name": "Olga",
-    "query": "Olga",
     "rank": 12,
-    "tweet_count": "9,211 Tweets"
-  },
-  {
-    "name": "Zarraga",
-    "query": "Zarraga",
-    "rank": 13,
-    "tweet_count": null
+    "tweet_count": "357K Tweets"
   },
   {
     "name": "Ley de Pandemias",
     "query": "\"Ley de Pandemias\"",
+    "rank": 13,
+    "tweet_count": "1,738 Tweets"
+  },
+  {
+    "name": "Zarraga",
+    "query": "Zarraga",
     "rank": 14,
-    "tweet_count": "1,634 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Mere",
     "query": "Mere",
     "rank": 15,
-    "tweet_count": "82.8K Tweets"
+    "tweet_count": "83.8K Tweets"
   },
   {
-    "name": "Richard Rogers",
-    "query": "\"Richard Rogers\"",
+    "name": "Olga",
+    "query": "Olga",
     "rank": 16,
-    "tweet_count": "10.7K Tweets"
+    "tweet_count": "9,334 Tweets"
   },
   {
-    "name": "Kubo",
-    "query": "Kubo",
+    "name": "Fuenlabrada",
+    "query": "Fuenlabrada",
     "rank": 17,
-    "tweet_count": "9,405 Tweets"
+    "tweet_count": null
   }
 ]
