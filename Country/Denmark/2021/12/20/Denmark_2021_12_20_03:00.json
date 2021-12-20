@@ -1,122 +1,122 @@
 [
   {
-    "name": "Kane",
-    "query": "Kane",
-    "rank": 1,
-    "tweet_count": "130K Tweets"
-  },
-  {
     "name": "#TOTLIV",
     "query": "#TOTLIV",
-    "rank": 2,
-    "tweet_count": "67.1K Tweets"
+    "rank": 1,
+    "tweet_count": "67.2K Tweets"
   },
   {
     "name": "Robertson",
     "query": "Robertson",
-    "rank": 3,
-    "tweet_count": "61.4K Tweets"
+    "rank": 2,
+    "tweet_count": "61.5K Tweets"
   },
   {
     "name": "#pldk",
     "query": "#pldk",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "Liverpool",
+    "query": "Liverpool",
     "rank": 4,
+    "tweet_count": "149K Tweets"
+  },
+  {
+    "name": "Tottenham",
+    "query": "Tottenham",
+    "rank": 5,
+    "tweet_count": "59.8K Tweets"
+  },
+  {
+    "name": "#lfcdk",
+    "query": "#lfcdk",
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "Jake",
     "query": "Jake",
-    "rank": 5,
-    "tweet_count": "469K Tweets"
-  },
-  {
-    "name": "Tottenham",
-    "query": "Tottenham",
-    "rank": 6,
-    "tweet_count": "59.7K Tweets"
-  },
-  {
-    "name": "#lfcdk",
-    "query": "#lfcdk",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "474K Tweets"
   },
   {
-    "name": "#handball",
-    "query": "#handball",
+    "name": "Spurs",
+    "query": "Spurs",
     "rank": 8,
-    "tweet_count": "1,274 Tweets"
+    "tweet_count": "76.6K Tweets"
   },
   {
-    "name": "NemID",
-    "query": "NemID",
+    "name": "#Handball",
+    "query": "#Handball",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "1,276 Tweets"
+  },
+  {
+    "name": "Paul Tierney",
+    "query": "\"Paul Tierney\"",
+    "rank": 10,
+    "tweet_count": "15.7K Tweets"
+  },
+  {
+    "name": "Jota",
+    "query": "Jota",
+    "rank": 11,
+    "tweet_count": "43.2K Tweets"
   },
   {
     "name": "Qatar",
     "query": "Qatar",
-    "rank": 10,
-    "tweet_count": "16.5K Tweets"
+    "rank": 12,
+    "tweet_count": "16.6K Tweets"
   },
   {
-    "name": "#hndbld",
-    "query": "#hndbld",
-    "rank": 11,
+    "name": "nemid",
+    "query": "nemid",
+    "rank": 13,
     "tweet_count": null
+  },
+  {
+    "name": "Newcastle",
+    "query": "Newcastle",
+    "rank": 14,
+    "tweet_count": "43.1K Tweets"
   },
   {
     "name": "glædelig",
     "query": "glædelig",
-    "rank": 12,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Leeds",
     "query": "Leeds",
-    "rank": 13,
+    "rank": 16,
     "tweet_count": "30K Tweets"
+  },
+  {
+    "name": "#hndbld",
+    "query": "#hndbld",
+    "rank": 17,
+    "tweet_count": null
   },
   {
     "name": "Xhaka",
     "query": "Xhaka",
-    "rank": 14,
-    "tweet_count": "7,595 Tweets"
-  },
-  {
-    "name": "Newcastle",
-    "query": "Newcastle",
-    "rank": 15,
-    "tweet_count": "43K Tweets"
-  },
-  {
-    "name": "mitid",
-    "query": "mitid",
-    "rank": 16,
-    "tweet_count": null
+    "rank": 18,
+    "tweet_count": "7,612 Tweets"
   },
   {
     "name": "Manchin",
     "query": "Manchin",
-    "rank": 17,
-    "tweet_count": "1.04M Tweets"
-  },
-  {
-    "name": "NaVi",
-    "query": "NaVi",
-    "rank": 18,
-    "tweet_count": "20.6K Tweets"
-  },
-  {
-    "name": "tivoli",
-    "query": "tivoli",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "1.06M Tweets"
   },
   {
-    "name": "Kasper",
-    "query": "Kasper",
+    "name": "MitID",
+    "query": "MitID",
     "rank": 20,
-    "tweet_count": "1,046 Tweets"
+    "tweet_count": null
   }
 ]
