@@ -1,15 +1,15 @@
 [
   {
-    "name": "#cluand",
-    "query": "#cluand",
+    "name": "#CLUAND",
+    "query": "#CLUAND",
     "rank": 1,
-    "tweet_count": "3,419 Tweets"
+    "tweet_count": "3,425 Tweets"
   },
   {
     "name": "Kompany",
     "query": "Kompany",
     "rank": 2,
-    "tweet_count": "2,902 Tweets"
+    "tweet_count": "2,926 Tweets"
   },
   {
     "name": "#gnkant",
@@ -18,28 +18,28 @@
     "tweet_count": null
   },
   {
-    "name": "#Fitfor55",
-    "query": "#Fitfor55",
+    "name": "#7dag",
+    "query": "#7dag",
     "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "#OHLSTA",
-    "query": "#OHLSTA",
+    "name": "#ohlsta",
+    "query": "#ohlsta",
     "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "#7dag",
-    "query": "#7dag",
-    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "Brugge",
     "query": "Brugge",
+    "rank": 6,
+    "tweet_count": "2,256 Tweets"
+  },
+  {
+    "name": "#TOTLIV",
+    "query": "#TOTLIV",
     "rank": 7,
-    "tweet_count": "2,232 Tweets"
+    "tweet_count": "67K Tweets"
   },
   {
     "name": "Woke",
@@ -51,7 +51,7 @@
     "name": "Bruges",
     "query": "Bruges",
     "rank": 9,
-    "tweet_count": "1,402 Tweets"
+    "tweet_count": "1,416 Tweets"
   },
   {
     "name": "zirkzee",
@@ -63,23 +63,23 @@
     "name": "Pinochet",
     "query": "Pinochet",
     "rank": 11,
-    "tweet_count": "69.1K Tweets"
+    "tweet_count": "69.6K Tweets"
   },
   {
     "name": "Chili",
     "query": "Chili",
     "rank": 12,
-    "tweet_count": "34.3K Tweets"
+    "tweet_count": "34.7K Tweets"
   },
   {
-    "name": "kouame",
-    "query": "kouame",
+    "name": "Eric Boever",
+    "query": "\"Eric Boever\"",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "jan breydel",
-    "query": "\"jan breydel\"",
+    "name": "Jan Breydel",
+    "query": "\"Jan Breydel\"",
     "rank": 14,
     "tweet_count": null
   },
@@ -93,7 +93,7 @@
     "name": "Council",
     "query": "Council",
     "rank": 16,
-    "tweet_count": "62.2K Tweets"
+    "tweet_count": "62.7K Tweets"
   },
   {
     "name": "Balanta",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
+    "name": "kouame",
+    "query": "kouame",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
     "name": "Anderlecht",
     "query": "Anderlecht",
-    "rank": 18,
-    "tweet_count": "2,126 Tweets"
+    "rank": 19,
+    "tweet_count": "2,147 Tweets"
   },
   {
     "name": "Pro League",
     "query": "\"Pro League\"",
-    "rank": 19,
-    "tweet_count": "1,772 Tweets"
-  },
-  {
-    "name": "Tariq",
-    "query": "Tariq",
     "rank": 20,
-    "tweet_count": "53.9K Tweets"
+    "tweet_count": "1,793 Tweets"
   }
 ]

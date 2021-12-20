@@ -27,31 +27,31 @@
     "name": "Start in die Woche",
     "query": "\"Start in die Woche\"",
     "rank": 5,
-    "tweet_count": "1,562 Tweets"
+    "tweet_count": "1,574 Tweets"
+  },
+  {
+    "name": "#Zusammenbruch",
+    "query": "#Zusammenbruch",
+    "rank": 6,
+    "tweet_count": "1,087 Tweets"
   },
   {
     "name": "Weihnachtswoche",
     "query": "Weihnachtswoche",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "#zusammenbruch",
-    "query": "#zusammenbruch",
     "rank": 7,
-    "tweet_count": "1,069 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#MondayMotivation",
     "query": "#MondayMotivation",
     "rank": 8,
-    "tweet_count": "42.5K Tweets"
+    "tweet_count": "43.2K Tweets"
   },
   {
-    "name": "#lockdown",
-    "query": "#lockdown",
+    "name": "#Novavax",
+    "query": "#Novavax",
     "rank": 9,
-    "tweet_count": "32K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Türchen 20",
@@ -60,22 +60,22 @@
     "tweet_count": null
   },
   {
-    "name": "Panik",
-    "query": "Panik",
-    "rank": 11,
-    "tweet_count": "24.8K Tweets"
-  },
-  {
     "name": "Totimpfstoff",
     "query": "Totimpfstoff",
+    "rank": 11,
+    "tweet_count": "1,412 Tweets"
+  },
+  {
+    "name": "Panik",
+    "query": "Panik",
     "rank": 12,
-    "tweet_count": "1,368 Tweets"
+    "tweet_count": "25K Tweets"
   },
   {
     "name": "Feiertage",
     "query": "Feiertage",
     "rank": 13,
-    "tweet_count": "2,158 Tweets"
+    "tweet_count": "2,193 Tweets"
   },
   {
     "name": "Anfang Januar",
@@ -87,13 +87,13 @@
     "name": "Öffentlichkeit",
     "query": "Öffentlichkeit",
     "rank": 15,
-    "tweet_count": "2,116 Tweets"
+    "tweet_count": "2,164 Tweets"
   },
   {
-    "name": "Infrastruktur",
-    "query": "Infrastruktur",
+    "name": "Klopapier",
+    "query": "Klopapier",
     "rank": 16,
-    "tweet_count": "7,177 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Rutsch",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "Klopapier",
-    "query": "Klopapier",
+    "name": "#lockdown",
+    "query": "#lockdown",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "32.3K Tweets"
   },
   {
-    "name": "#Novavax",
-    "query": "#Novavax",
+    "name": "#Kontaktbeschraenkungen",
+    "query": "#Kontaktbeschraenkungen",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "1,212 Tweets"
   },
   {
-    "name": "#Chile",
-    "query": "#Chile",
+    "name": "#Expertenrat",
+    "query": "#Expertenrat",
     "rank": 20,
-    "tweet_count": "112K Tweets"
+    "tweet_count": "11.2K Tweets"
   }
 ]

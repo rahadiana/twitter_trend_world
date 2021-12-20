@@ -27,7 +27,7 @@
     "name": "Start in die Woche",
     "query": "\"Start in die Woche\"",
     "rank": 5,
-    "tweet_count": "1,562 Tweets"
+    "tweet_count": "1,574 Tweets"
   },
   {
     "name": "Weihnachtswoche",
@@ -42,22 +42,22 @@
     "tweet_count": null
   },
   {
+    "name": "Totimpfstoff",
+    "query": "Totimpfstoff",
+    "rank": 8,
+    "tweet_count": "1,410 Tweets"
+  },
+  {
     "name": "Panik",
     "query": "Panik",
-    "rank": 8,
-    "tweet_count": "24.8K Tweets"
+    "rank": 9,
+    "tweet_count": "25K Tweets"
   },
   {
     "name": "Feiertage",
     "query": "Feiertage",
-    "rank": 9,
-    "tweet_count": "2,164 Tweets"
-  },
-  {
-    "name": "Totimpfstoff",
-    "query": "Totimpfstoff",
     "rank": 10,
-    "tweet_count": "1,369 Tweets"
+    "tweet_count": "2,193 Tweets"
   },
   {
     "name": "Anfang Januar",
@@ -69,13 +69,13 @@
     "name": "Öffentlichkeit",
     "query": "Öffentlichkeit",
     "rank": 12,
-    "tweet_count": "2,116 Tweets"
+    "tweet_count": "2,161 Tweets"
   },
   {
-    "name": "Infrastruktur",
-    "query": "Infrastruktur",
+    "name": "Klopapier",
+    "query": "Klopapier",
     "rank": 13,
-    "tweet_count": "7,177 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Rutsch",
@@ -84,15 +84,15 @@
     "tweet_count": null
   },
   {
-    "name": "Klopapier",
-    "query": "Klopapier",
+    "name": "#Zusammenbruch",
+    "query": "#Zusammenbruch",
     "rank": 15,
-    "tweet_count": null
+    "tweet_count": "1,087 Tweets"
   },
   {
-    "name": "#zusammenbruch",
-    "query": "#zusammenbruch",
+    "name": "#MondayMotivation",
+    "query": "#MondayMotivation",
     "rank": 16,
-    "tweet_count": "1,069 Tweets"
+    "tweet_count": "43.3K Tweets"
   }
 ]
