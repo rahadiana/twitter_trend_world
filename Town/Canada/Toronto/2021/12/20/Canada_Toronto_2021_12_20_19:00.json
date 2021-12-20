@@ -1,19 +1,19 @@
 [
   {
+    "name": "Manchin",
+    "query": "Manchin",
+    "rank": 1,
+    "tweet_count": "1.14M Tweets"
+  },
+  {
     "name": "Happy Holidays",
     "query": "\"Happy Holidays\"",
-    "rank": 1,
-    "tweet_count": "95.8K Tweets"
+    "rank": 2,
+    "tweet_count": "97K Tweets"
   },
   {
     "name": "Roxham",
     "query": "Roxham",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "Christian Dubé",
-    "query": "\"Christian Dubé\"",
     "rank": 3,
     "tweet_count": null
   },
@@ -24,87 +24,93 @@
     "tweet_count": null
   },
   {
+    "name": "Christian Dubé",
+    "query": "\"Christian Dubé\"",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
     "name": "#MondayMotivation",
     "query": "#MondayMotivation",
-    "rank": 5,
-    "tweet_count": "83.2K Tweets"
+    "rank": 6,
+    "tweet_count": "83.6K Tweets"
   },
   {
     "name": "Moderna",
     "query": "Moderna",
-    "rank": 6,
-    "tweet_count": "75.9K Tweets"
+    "rank": 7,
+    "tweet_count": "76.6K Tweets"
   },
   {
     "name": "#CovidVaccine",
     "query": "#CovidVaccine",
-    "rank": 7,
-    "tweet_count": "4,966 Tweets"
-  },
-  {
-    "name": "Booked",
-    "query": "Booked",
     "rank": 8,
-    "tweet_count": "30.4K Tweets"
-  },
-  {
-    "name": "#Booster",
-    "query": "#Booster",
-    "rank": 9,
-    "tweet_count": "6,613 Tweets"
+    "tweet_count": "5,061 Tweets"
   },
   {
     "name": "Nazi Germany",
     "query": "\"Nazi Germany\"",
+    "rank": 9,
+    "tweet_count": "7,412 Tweets"
+  },
+  {
+    "name": "Booked",
+    "query": "Booked",
     "rank": 10,
-    "tweet_count": "7,291 Tweets"
+    "tweet_count": "30.7K Tweets"
+  },
+  {
+    "name": "#Booster",
+    "query": "#Booster",
+    "rank": 11,
+    "tweet_count": "6,754 Tweets"
   },
   {
     "name": "Hunger Games",
     "query": "\"Hunger Games\"",
-    "rank": 11,
-    "tweet_count": "2,910 Tweets"
+    "rank": 12,
+    "tweet_count": "2,954 Tweets"
+  },
+  {
+    "name": "Joyeux Noël",
+    "query": "\"Joyeux Noël\"",
+    "rank": 13,
+    "tweet_count": "5,826 Tweets"
   },
   {
     "name": "Rexall",
     "query": "Rexall",
-    "rank": 12,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Jean Coutu",
     "query": "\"Jean Coutu\"",
-    "rank": 13,
+    "rank": 15,
     "tweet_count": null
-  },
-  {
-    "name": "Joyeux Noël",
-    "query": "\"Joyeux Noël\"",
-    "rank": 14,
-    "tweet_count": "5,736 Tweets"
   },
   {
     "name": "#covid19qc",
     "query": "#covid19qc",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Boxing Day",
     "query": "\"Boxing Day\"",
-    "rank": 16,
-    "tweet_count": "16.8K Tweets"
+    "rank": 17,
+    "tweet_count": "17K Tweets"
   },
   {
     "name": "#CdnMediaFailed",
     "query": "#CdnMediaFailed",
-    "rank": 17,
-    "tweet_count": "1,519 Tweets"
+    "rank": 18,
+    "tweet_count": "1,543 Tweets"
   },
   {
     "name": "#GetVaccinatedNow",
     "query": "#GetVaccinatedNow",
-    "rank": 18,
-    "tweet_count": "5,182 Tweets"
+    "rank": 19,
+    "tweet_count": "5,251 Tweets"
   }
 ]
