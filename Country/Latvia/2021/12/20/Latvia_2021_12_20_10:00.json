@@ -1,31 +1,31 @@
 [
   {
+    "name": "COVID-19",
+    "query": "COVID-19",
+    "rank": 1,
+    "tweet_count": "471K Tweets"
+  },
+  {
     "name": "IKEA",
     "query": "IKEA",
-    "rank": 1,
-    "tweet_count": "12.7K Tweets"
+    "rank": 2,
+    "tweet_count": "12.8K Tweets"
   },
   {
     "name": "#BLASTWorldFinal",
     "query": "#BLASTWorldFinal",
-    "rank": 2,
-    "tweet_count": "4,724 Tweets"
-  },
-  {
-    "name": "#DodPieci2021",
-    "query": "#DodPieci2021",
     "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "COVID-19",
-    "query": "COVID-19",
-    "rank": 4,
-    "tweet_count": "467K Tweets"
+    "tweet_count": "4,733 Tweets"
   },
   {
     "name": "Labdien",
     "query": "Labdien",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "#DodPieci2021",
+    "query": "#DodPieci2021",
     "rank": 5,
     "tweet_count": null
   },
@@ -42,28 +42,28 @@
     "tweet_count": null
   },
   {
+    "name": "Rīga",
+    "query": "Rīga",
+    "rank": 8,
+    "tweet_count": "1,566 Tweets"
+  },
+  {
     "name": "Vari",
     "query": "Vari",
-    "rank": 8,
-    "tweet_count": "2,633 Tweets"
+    "rank": 9,
+    "tweet_count": "2,663 Tweets"
   },
   {
     "name": "#VideVisiem",
     "query": "#VideVisiem",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Rīga",
-    "query": "Rīga",
     "rank": 10,
-    "tweet_count": "1,554 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Putins",
     "query": "Putins",
     "rank": 11,
-    "tweet_count": "1,269 Tweets"
+    "tweet_count": "1,277 Tweets"
   },
   {
     "name": "Ziemassvētku",
@@ -72,14 +72,14 @@
     "tweet_count": null
   },
   {
-    "name": "jelgavas",
-    "query": "jelgavas",
+    "name": "Labrīt",
+    "query": "Labrīt",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "kāds",
-    "query": "kāds",
+    "name": "Jelgavas",
+    "query": "Jelgavas",
     "rank": 14,
     "tweet_count": null
   },
@@ -90,32 +90,32 @@
     "tweet_count": null
   },
   {
-    "name": "Tikai",
-    "query": "Tikai",
+    "name": "nekad",
+    "query": "nekad",
     "rank": 16,
-    "tweet_count": "1,036 Tweets"
-  },
-  {
-    "name": "Tiešām",
-    "query": "Tiešām",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Nekad",
-    "query": "Nekad",
-    "rank": 18,
-    "tweet_count": "1,396 Tweets"
+    "tweet_count": "1,408 Tweets"
   },
   {
     "name": "savukārt",
     "query": "savukārt",
-    "rank": 19,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Pasaules",
     "query": "Pasaules",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Ķirsis",
+    "query": "Ķirsis",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Tavas",
+    "query": "Tavas",
     "rank": 20,
     "tweet_count": null
   }

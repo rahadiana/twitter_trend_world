@@ -12,28 +12,28 @@
     "tweet_count": null
   },
   {
-    "name": "Start in die Woche",
-    "query": "\"Start in die Woche\"",
-    "rank": 3,
-    "tweet_count": "1,459 Tweets"
-  },
-  {
     "name": "Wochenstart",
     "query": "Wochenstart",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
-    "name": "#Zusammenbruch",
-    "query": "#Zusammenbruch",
-    "rank": 5,
-    "tweet_count": null
+    "name": "Start in die Woche",
+    "query": "\"Start in die Woche\"",
+    "rank": 4,
+    "tweet_count": "1,480 Tweets"
   },
   {
     "name": "#Montagslaecheln",
     "query": "#Montagslaecheln",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "#MondayMotivation",
+    "query": "#MondayMotivation",
+    "rank": 6,
+    "tweet_count": "39.7K Tweets"
   },
   {
     "name": "Weihnachtswoche",
@@ -51,13 +51,13 @@
     "name": "Panik",
     "query": "Panik",
     "rank": 9,
-    "tweet_count": "24.8K Tweets"
+    "tweet_count": "25K Tweets"
   },
   {
-    "name": "Totimpfstoff",
-    "query": "Totimpfstoff",
+    "name": "Feiertage",
+    "query": "Feiertage",
     "rank": 10,
-    "tweet_count": "1,239 Tweets"
+    "tweet_count": "2,166 Tweets"
   },
   {
     "name": "Schornsteinfeger",
@@ -72,39 +72,39 @@
     "tweet_count": null
   },
   {
-    "name": "Feiertage",
-    "query": "Feiertage",
+    "name": "Totimpfstoff",
+    "query": "Totimpfstoff",
     "rank": 13,
-    "tweet_count": "2,111 Tweets"
+    "tweet_count": "1,258 Tweets"
   },
   {
     "name": "Öffentlichkeit",
     "query": "Öffentlichkeit",
     "rank": 14,
-    "tweet_count": "1,856 Tweets"
-  },
-  {
-    "name": "Infrastruktur",
-    "query": "Infrastruktur",
-    "rank": 15,
-    "tweet_count": "7,028 Tweets"
+    "tweet_count": "1,881 Tweets"
   },
   {
     "name": "Rutsch",
     "query": "Rutsch",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "#MondayMotivation",
-    "query": "#MondayMotivation",
+    "name": "Infrastruktur",
+    "query": "Infrastruktur",
+    "rank": 16,
+    "tweet_count": "7,099 Tweets"
+  },
+  {
+    "name": "#Zusammenbruch",
+    "query": "#Zusammenbruch",
     "rank": 17,
-    "tweet_count": "39K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#lockdown",
     "query": "#lockdown",
     "rank": 18,
-    "tweet_count": "32.9K Tweets"
+    "tweet_count": "33.2K Tweets"
   }
 ]
