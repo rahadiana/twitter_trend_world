@@ -3,25 +3,25 @@
     "name": "Lockdown",
     "query": "Lockdown",
     "rank": 1,
-    "tweet_count": "315K Tweets"
+    "tweet_count": "319K Tweets"
   },
   {
     "name": "#Novavax",
     "query": "#Novavax",
     "rank": 2,
-    "tweet_count": "1,413 Tweets"
-  },
-  {
-    "name": "#Nöle",
-    "query": "#Nöle",
-    "rank": 3,
-    "tweet_count": null
+    "tweet_count": "1,741 Tweets"
   },
   {
     "name": "Totimpfstoff",
     "query": "Totimpfstoff",
+    "rank": 3,
+    "tweet_count": "2,224 Tweets"
+  },
+  {
+    "name": "#Nöle",
+    "query": "#Nöle",
     "rank": 4,
-    "tweet_count": "1,992 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Grimmer",
@@ -42,56 +42,56 @@
     "tweet_count": null
   },
   {
-    "name": "Wochenstart",
-    "query": "Wochenstart",
+    "name": "Ausreden",
+    "query": "Ausreden",
     "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "Ende Januar",
+    "query": "\"Ende Januar\"",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "wochenstart",
+    "query": "wochenstart",
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Panik",
     "query": "Panik",
-    "rank": 9,
-    "tweet_count": "24.2K Tweets"
+    "rank": 11,
+    "tweet_count": "24.6K Tweets"
   },
   {
-    "name": "Feiertage",
-    "query": "Feiertage",
-    "rank": 10,
-    "tweet_count": "2,259 Tweets"
+    "name": "feiertage",
+    "query": "feiertage",
+    "rank": 12,
+    "tweet_count": "2,288 Tweets"
   },
   {
     "name": "Weihnachtswoche",
     "query": "Weihnachtswoche",
-    "rank": 11,
-    "tweet_count": "1,037 Tweets"
+    "rank": 13,
+    "tweet_count": "1,053 Tweets"
   },
   {
     "name": "Start in die Woche",
     "query": "\"Start in die Woche\"",
-    "rank": 12,
-    "tweet_count": "1,682 Tweets"
-  },
-  {
-    "name": "Chile",
-    "query": "Chile",
-    "rank": 13,
-    "tweet_count": "1.51M Tweets"
+    "rank": 14,
+    "tweet_count": "1,696 Tweets"
   },
   {
     "name": "Anfang Januar",
     "query": "\"Anfang Januar\"",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Krankenhäusern",
     "query": "Krankenhäusern",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Klopapier",
-    "query": "Klopapier",
     "rank": 16,
     "tweet_count": null
   },
@@ -105,12 +105,12 @@
     "name": "#MondayMotivation",
     "query": "#MondayMotivation",
     "rank": 18,
-    "tweet_count": "52.2K Tweets"
+    "tweet_count": "53.6K Tweets"
   },
   {
-    "name": "#Kontaktbeschraenkungen",
-    "query": "#Kontaktbeschraenkungen",
+    "name": "#TschentscherRuecktritt",
+    "query": "#TschentscherRuecktritt",
     "rank": 19,
-    "tweet_count": "1,355 Tweets"
+    "tweet_count": null
   }
 ]
