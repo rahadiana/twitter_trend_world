@@ -1,15 +1,15 @@
 [
   {
-    "name": "#ShortlandStreet",
-    "query": "#ShortlandStreet",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Ellie",
     "query": "Ellie",
+    "rank": 1,
+    "tweet_count": "12.3K Tweets"
+  },
+  {
+    "name": "#ShortlandStreet",
+    "query": "#ShortlandStreet",
     "rank": 2,
-    "tweet_count": "12.1K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#sydvwel",
@@ -18,28 +18,28 @@
     "tweet_count": null
   },
   {
-    "name": "#dailywordleclub",
-    "query": "#dailywordleclub",
+    "name": "#DailyWordleClub",
+    "query": "#DailyWordleClub",
     "rank": 4,
-    "tweet_count": "1,626 Tweets"
+    "tweet_count": "1,635 Tweets"
   },
   {
     "name": "#UFCVegas45",
     "query": "#UFCVegas45",
     "rank": 5,
-    "tweet_count": "7,057 Tweets"
+    "tweet_count": "7,076 Tweets"
   },
   {
-    "name": "Manchin",
-    "query": "Manchin",
+    "name": "Joe Manchin",
+    "query": "\"Joe Manchin\"",
     "rank": 6,
-    "tweet_count": "1.16M Tweets"
+    "tweet_count": "555K Tweets"
   },
   {
     "name": "Chile",
     "query": "Chile",
     "rank": 7,
-    "tweet_count": "1.28M Tweets"
+    "tweet_count": "1.29M Tweets"
   },
   {
     "name": "Ian Taylor",
@@ -51,7 +51,7 @@
     "name": "Jake Paul",
     "query": "\"Jake Paul\"",
     "rank": 9,
-    "tweet_count": "125K Tweets"
+    "tweet_count": "126K Tweets"
   },
   {
     "name": "Kane",
@@ -63,60 +63,60 @@
     "name": "Pakistan",
     "query": "Pakistan",
     "rank": 11,
-    "tweet_count": "170K Tweets"
+    "tweet_count": "175K Tweets"
   },
   {
-    "name": "Dawkins",
-    "query": "Dawkins",
+    "name": "dawkins",
+    "query": "dawkins",
     "rank": 12,
-    "tweet_count": "1,381 Tweets"
+    "tweet_count": "1,395 Tweets"
   },
   {
     "name": "Christmas",
     "query": "Christmas",
     "rank": 13,
-    "tweet_count": "1.77M Tweets"
+    "tweet_count": "1.83M Tweets"
   },
   {
     "name": "lorde",
     "query": "lorde",
     "rank": 14,
-    "tweet_count": "4,468 Tweets"
+    "tweet_count": "4,507 Tweets"
   },
   {
     "name": "karl",
     "query": "karl",
     "rank": 15,
-    "tweet_count": "57.7K Tweets"
+    "tweet_count": "59K Tweets"
+  },
+  {
+    "name": "Hone",
+    "query": "Hone",
+    "rank": 16,
+    "tweet_count": "11.7K Tweets"
   },
   {
     "name": "Woodley",
     "query": "Woodley",
-    "rank": 16,
-    "tweet_count": "68.5K Tweets"
+    "rank": 17,
+    "tweet_count": "68.7K Tweets"
   },
   {
     "name": "Clarke",
     "query": "Clarke",
-    "rank": 17,
-    "tweet_count": "6,324 Tweets"
-  },
-  {
-    "name": "Maori",
-    "query": "Maori",
     "rank": 18,
-    "tweet_count": "1,496 Tweets"
+    "tweet_count": "6,394 Tweets"
   },
   {
     "name": "Tyron",
     "query": "Tyron",
     "rank": 19,
-    "tweet_count": "38.2K Tweets"
+    "tweet_count": "38.4K Tweets"
   },
   {
-    "name": "Parker",
-    "query": "Parker",
+    "name": "Maori",
+    "query": "Maori",
     "rank": 20,
-    "tweet_count": "133K Tweets"
+    "tweet_count": "1,527 Tweets"
   }
 ]

@@ -1,109 +1,109 @@
 [
   {
-    "name": "Wochenstart",
-    "query": "Wochenstart",
+    "name": "Start in die Woche",
+    "query": "\"Start in die Woche\"",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "Start in die Woche",
-    "query": "\"Start in die Woche\"",
+    "name": "Wochenstart",
+    "query": "Wochenstart",
     "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "Weihnachtswoche",
-    "query": "Weihnachtswoche",
-    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Lockdown",
     "query": "Lockdown",
+    "rank": 3,
+    "tweet_count": "320K Tweets"
+  },
+  {
+    "name": "Weihnachtswoche",
+    "query": "Weihnachtswoche",
     "rank": 4,
-    "tweet_count": "316K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Expertenrat",
     "query": "#Expertenrat",
     "rank": 5,
-    "tweet_count": "7,801 Tweets"
-  },
-  {
-    "name": "#tatort",
-    "query": "#tatort",
-    "rank": 6,
-    "tweet_count": "2,479 Tweets"
+    "tweet_count": "8,107 Tweets"
   },
   {
     "name": "#h96svw",
     "query": "#h96svw",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": "2,581 Tweets"
+  },
+  {
+    "name": "#KOEVfB",
+    "query": "#KOEVfB",
+    "rank": 7,
+    "tweet_count": "2,290 Tweets"
   },
   {
     "name": "#tvog",
     "query": "#tvog",
     "rank": 8,
-    "tweet_count": "2,338 Tweets"
+    "tweet_count": "2,391 Tweets"
   },
   {
-    "name": "#KOEVfB",
-    "query": "#KOEVfB",
+    "name": "#MehrBrutaleWahrheit",
+    "query": "#MehrBrutaleWahrheit",
     "rank": 9,
-    "tweet_count": "2,284 Tweets"
+    "tweet_count": "8,900 Tweets"
   },
   {
     "name": "schönen 4",
     "query": "\"schönen 4\"",
     "rank": 10,
-    "tweet_count": "8,391 Tweets"
-  },
-  {
-    "name": "Guten Morgen ihr Lieben",
-    "query": "\"Guten Morgen ihr Lieben\"",
-    "rank": 11,
-    "tweet_count": null
+    "tweet_count": "8,407 Tweets"
   },
   {
     "name": "Kontaktbeschränkungen",
     "query": "Kontaktbeschränkungen",
+    "rank": 11,
+    "tweet_count": "9,674 Tweets"
+  },
+  {
+    "name": "Arbeitswoche",
+    "query": "Arbeitswoche",
     "rank": 12,
-    "tweet_count": "9,473 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Advent",
     "query": "Advent",
     "rank": 13,
-    "tweet_count": "69.8K Tweets"
+    "tweet_count": "70.2K Tweets"
   },
   {
-    "name": "Arbeitswoche",
-    "query": "Arbeitswoche",
+    "name": "Guten Morgen ihr Lieben",
+    "query": "\"Guten Morgen ihr Lieben\"",
     "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Nöle",
+    "query": "Nöle",
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Montagmorgen",
     "query": "Montagmorgen",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Spaltung",
     "query": "Spaltung",
-    "rank": 16,
-    "tweet_count": "6,197 Tweets"
-  },
-  {
-    "name": "Nöle",
-    "query": "Nöle",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "6,261 Tweets"
   },
   {
-    "name": "Arbeitstage",
-    "query": "Arbeitstage",
+    "name": "Noch 4 Tage",
+    "query": "\"Noch 4 Tage\"",
     "rank": 18,
     "tweet_count": null
   },
@@ -111,12 +111,12 @@
     "name": "schönen sonntag",
     "query": "\"schönen sonntag\"",
     "rank": 19,
-    "tweet_count": "2,278 Tweets"
+    "tweet_count": "2,286 Tweets"
   },
   {
     "name": "Husten und Fieber",
     "query": "\"Husten und Fieber\"",
     "rank": 20,
-    "tweet_count": "3,081 Tweets"
+    "tweet_count": "3,160 Tweets"
   }
 ]
