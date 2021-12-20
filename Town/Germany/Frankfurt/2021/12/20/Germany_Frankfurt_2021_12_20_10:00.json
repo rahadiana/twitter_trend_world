@@ -1,13 +1,13 @@
 [
   {
-    "name": "#Tatort",
-    "query": "#Tatort",
+    "name": "#tatort",
+    "query": "#tatort",
     "rank": 1,
-    "tweet_count": "2,520 Tweets"
+    "tweet_count": "2,527 Tweets"
   },
   {
-    "name": "Wochenstart",
-    "query": "Wochenstart",
+    "name": "#Nöle",
+    "query": "#Nöle",
     "rank": 2,
     "tweet_count": null
   },
@@ -15,11 +15,11 @@
     "name": "Start in die Woche",
     "query": "\"Start in die Woche\"",
     "rank": 3,
-    "tweet_count": "1,420 Tweets"
+    "tweet_count": "1,459 Tweets"
   },
   {
-    "name": "#Nöle",
-    "query": "#Nöle",
+    "name": "Wochenstart",
+    "query": "Wochenstart",
     "rank": 4,
     "tweet_count": null
   },
@@ -36,8 +36,8 @@
     "tweet_count": null
   },
   {
-    "name": "Start in die Weihnachtswoche",
-    "query": "\"Start in die Weihnachtswoche\"",
+    "name": "Weihnachtswoche",
+    "query": "Weihnachtswoche",
     "rank": 7,
     "tweet_count": null
   },
@@ -51,60 +51,60 @@
     "name": "Panik",
     "query": "Panik",
     "rank": 9,
-    "tweet_count": "24.3K Tweets"
-  },
-  {
-    "name": "arbeitswoche",
-    "query": "arbeitswoche",
-    "rank": 10,
-    "tweet_count": null
+    "tweet_count": "24.8K Tweets"
   },
   {
     "name": "Totimpfstoff",
     "query": "Totimpfstoff",
-    "rank": 11,
-    "tweet_count": "1,155 Tweets"
+    "rank": 10,
+    "tweet_count": "1,239 Tweets"
   },
   {
     "name": "Schornsteinfeger",
     "query": "Schornsteinfeger",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Anfang Januar",
     "query": "\"Anfang Januar\"",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Feiertage",
     "query": "Feiertage",
-    "rank": 14,
-    "tweet_count": "2,043 Tweets"
+    "rank": 13,
+    "tweet_count": "2,111 Tweets"
   },
   {
     "name": "Öffentlichkeit",
     "query": "Öffentlichkeit",
-    "rank": 15,
-    "tweet_count": "1,786 Tweets"
+    "rank": 14,
+    "tweet_count": "1,856 Tweets"
   },
   {
     "name": "Infrastruktur",
     "query": "Infrastruktur",
-    "rank": 16,
-    "tweet_count": "6,898 Tweets"
+    "rank": 15,
+    "tweet_count": "7,028 Tweets"
   },
   {
     "name": "Rutsch",
     "query": "Rutsch",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "#MondayMotivation",
     "query": "#MondayMotivation",
+    "rank": 17,
+    "tweet_count": "39K Tweets"
+  },
+  {
+    "name": "#lockdown",
+    "query": "#lockdown",
     "rank": 18,
-    "tweet_count": "37.4K Tweets"
+    "tweet_count": "32.9K Tweets"
   }
 ]
