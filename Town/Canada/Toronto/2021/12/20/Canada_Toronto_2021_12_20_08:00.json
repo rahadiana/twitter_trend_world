@@ -1,80 +1,122 @@
 [
   {
+    "name": "Joe Manchin",
+    "query": "\"Joe Manchin\"",
+    "rank": 1,
+    "tweet_count": "570K Tweets"
+  },
+  {
+    "name": "#ranboospace",
+    "query": "#ranboospace",
+    "rank": 2,
+    "tweet_count": "3,021 Tweets"
+  },
+  {
+    "name": "Covid",
+    "query": "Covid",
+    "rank": 3,
+    "tweet_count": "1.91M Tweets"
+  },
+  {
+    "name": "Christmas",
+    "query": "Christmas",
+    "rank": 4,
+    "tweet_count": "1.85M Tweets"
+  },
+  {
+    "name": "Jake Paul",
+    "query": "\"Jake Paul\"",
+    "rank": 5,
+    "tweet_count": "113K Tweets"
+  },
+  {
     "name": "#InsecureHBO",
     "query": "#InsecureHBO",
-    "rank": 1,
-    "tweet_count": "63.1K Tweets"
-  },
-  {
-    "name": "Saints",
-    "query": "Saints",
-    "rank": 2,
-    "tweet_count": "107K Tweets"
-  },
-  {
-    "name": "Demar",
-    "query": "Demar",
-    "rank": 3,
-    "tweet_count": "16.5K Tweets"
+    "rank": 6,
+    "tweet_count": "63.9K Tweets"
   },
   {
     "name": "Andrew Garfield",
     "query": "\"Andrew Garfield\"",
-    "rank": 4,
-    "tweet_count": "235K Tweets"
+    "rank": 7,
+    "tweet_count": "237K Tweets"
+  },
+  {
+    "name": "Spider-Man",
+    "query": "Spider-Man",
+    "rank": 8,
+    "tweet_count": "407K Tweets"
+  },
+  {
+    "name": "#Metallica40",
+    "query": "#Metallica40",
+    "rank": 9,
+    "tweet_count": "4,267 Tweets"
+  },
+  {
+    "name": "#TOTLIV",
+    "query": "#TOTLIV",
+    "rank": 10,
+    "tweet_count": "68.1K Tweets"
   },
   {
     "name": "Chile",
     "query": "Chile",
-    "rank": 5,
-    "tweet_count": "1.32M Tweets"
-  },
-  {
-    "name": "#RHOSLC",
-    "query": "#RHOSLC",
-    "rank": 6,
-    "tweet_count": "13.2K Tweets"
-  },
-  {
-    "name": "kelsey",
-    "query": "kelsey",
-    "rank": 7,
-    "tweet_count": "7,619 Tweets"
-  },
-  {
-    "name": "#90DayFiance",
-    "query": "#90DayFiance",
-    "rank": 8,
-    "tweet_count": "7,776 Tweets"
-  },
-  {
-    "name": "Tobey",
-    "query": "Tobey",
-    "rank": 9,
-    "tweet_count": "91.2K Tweets"
-  },
-  {
-    "name": "#TrudeauworstPMever",
-    "query": "#TrudeauworstPMever",
-    "rank": 10,
-    "tweet_count": "3,715 Tweets"
-  },
-  {
-    "name": "Peter Parker",
-    "query": "\"Peter Parker\"",
     "rank": 11,
-    "tweet_count": "104K Tweets"
+    "tweet_count": "1.33M Tweets"
   },
   {
-    "name": "Rodgers",
-    "query": "Rodgers",
+    "name": "Demar",
+    "query": "Demar",
     "rank": 12,
-    "tweet_count": "41.6K Tweets"
+    "tweet_count": "16.7K Tweets"
   },
   {
-    "name": "#CdnMediaFailed",
-    "query": "#CdnMediaFailed",
+    "name": "#itsbudtime",
+    "query": "#itsbudtime",
     "rank": 13,
-    "tweet_count": "1,138 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "West Virginia",
+    "query": "\"West Virginia\"",
+    "rank": 14,
+    "tweet_count": "191K Tweets"
+  },
+  {
+    "name": "Charlie Woods",
+    "query": "\"Charlie Woods\"",
+    "rank": 15,
+    "tweet_count": "23.1K Tweets"
+  },
+  {
+    "name": "Huntley",
+    "query": "Huntley",
+    "rank": 16,
+    "tweet_count": "28.3K Tweets"
+  },
+  {
+    "name": "Ravens",
+    "query": "Ravens",
+    "rank": 17,
+    "tweet_count": "91.8K Tweets"
+  },
+  {
+    "name": "Harbaugh",
+    "query": "Harbaugh",
+    "rank": 18,
+    "tweet_count": "18.2K Tweets"
+  },
+  {
+    "name": "Gérard Poirier",
+    "query": "\"Gérard Poirier\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Packers",
+    "query": "Packers",
+    "rank": 20,
+    "tweet_count": "97.7K Tweets"
   }
 ]
