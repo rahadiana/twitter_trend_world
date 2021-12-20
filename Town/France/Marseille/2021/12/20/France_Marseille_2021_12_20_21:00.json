@@ -1,92 +1,92 @@
 [
   {
-    "name": "Olaf",
-    "query": "Olaf",
+    "name": "Harry Potter",
+    "query": "\"Harry Potter\"",
     "rank": 1,
-    "tweet_count": "5,898 Tweets"
+    "tweet_count": "60K Tweets"
   },
   {
-    "name": "Jabra",
-    "query": "Jabra",
+    "name": "Olaf",
+    "query": "Olaf",
     "rank": 2,
-    "tweet_count": "2,119 Tweets"
+    "tweet_count": "6,067 Tweets"
   },
   {
     "name": "Elsa",
     "query": "Elsa",
     "rank": 3,
-    "tweet_count": "11.9K Tweets"
+    "tweet_count": "12.2K Tweets"
   },
   {
     "name": "David Tennant",
     "query": "\"David Tennant\"",
     "rank": 4,
-    "tweet_count": "1,656 Tweets"
+    "tweet_count": "1,683 Tweets"
+  },
+  {
+    "name": "Jabra",
+    "query": "Jabra",
+    "rank": 5,
+    "tweet_count": "2,179 Tweets"
   },
   {
     "name": "Nicolas Dupont",
     "query": "\"Nicolas Dupont\"",
-    "rank": 5,
-    "tweet_count": "2,105 Tweets"
-  },
-  {
-    "name": "Top 5",
-    "query": "\"Top 5\"",
     "rank": 6,
-    "tweet_count": "138K Tweets"
-  },
-  {
-    "name": "Wauquiez",
-    "query": "Wauquiez",
-    "rank": 7,
-    "tweet_count": "2,944 Tweets"
-  },
-  {
-    "name": "Omar Raddad",
-    "query": "\"Omar Raddad\"",
-    "rank": 8,
-    "tweet_count": null
+    "tweet_count": "2,267 Tweets"
   },
   {
     "name": "Daredevil",
     "query": "Daredevil",
+    "rank": 7,
+    "tweet_count": "12.4K Tweets"
+  },
+  {
+    "name": "Wauquiez",
+    "query": "Wauquiez",
+    "rank": 8,
+    "tweet_count": "3,127 Tweets"
+  },
+  {
+    "name": "Marianne",
+    "query": "Marianne",
     "rank": 9,
-    "tweet_count": "12.2K Tweets"
+    "tweet_count": "5,551 Tweets"
+  },
+  {
+    "name": "Top 5",
+    "query": "\"Top 5\"",
+    "rank": 10,
+    "tweet_count": "140K Tweets"
   },
   {
     "name": "Mike",
     "query": "Mike",
-    "rank": 10,
-    "tweet_count": "118K Tweets"
+    "rank": 11,
+    "tweet_count": "120K Tweets"
   },
   {
     "name": "Robert Eggers",
     "query": "\"Robert Eggers\"",
-    "rank": 11,
-    "tweet_count": "31.6K Tweets"
+    "rank": 12,
+    "tweet_count": "32.1K Tweets"
   },
   {
     "name": "Riolo",
     "query": "Riolo",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Klaus Kinzler",
-    "query": "\"Klaus Kinzler\"",
     "rank": 13,
-    "tweet_count": "8,357 Tweets"
-  },
-  {
-    "name": "Laure",
-    "query": "Laure",
-    "rank": 14,
-    "tweet_count": "1,492 Tweets"
-  },
-  {
-    "name": "Green Montana",
-    "query": "\"Green Montana\"",
-    "rank": 15,
     "tweet_count": null
+  },
+  {
+    "name": "Valence",
+    "query": "Valence",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Money",
+    "query": "Money",
+    "rank": 15,
+    "tweet_count": "909K Tweets"
   }
 ]
