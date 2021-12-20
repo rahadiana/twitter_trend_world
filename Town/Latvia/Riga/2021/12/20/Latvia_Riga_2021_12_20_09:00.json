@@ -1,31 +1,31 @@
 [
   {
-    "name": "IKEA",
-    "query": "IKEA",
+    "name": "COVID-19",
+    "query": "COVID-19",
     "rank": 1,
-    "tweet_count": "12.9K Tweets"
+    "tweet_count": "469K Tweets"
   },
   {
-    "name": "#dodpieci",
-    "query": "#dodpieci",
+    "name": "IKEA",
+    "query": "IKEA",
     "rank": 2,
+    "tweet_count": "13K Tweets"
+  },
+  {
+    "name": "Labdien",
+    "query": "Labdien",
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#BLASTWorldFinal",
     "query": "#BLASTWorldFinal",
-    "rank": 3,
-    "tweet_count": "4,761 Tweets"
-  },
-  {
-    "name": "COVID-19",
-    "query": "COVID-19",
     "rank": 4,
-    "tweet_count": "466K Tweets"
+    "tweet_count": "4,770 Tweets"
   },
   {
-    "name": "Labdien",
-    "query": "Labdien",
+    "name": "#DodPieci2021",
+    "query": "#DodPieci2021",
     "rank": 5,
     "tweet_count": null
   },
@@ -45,7 +45,7 @@
     "name": "vari",
     "query": "vari",
     "rank": 8,
-    "tweet_count": "2,603 Tweets"
+    "tweet_count": "2,630 Tweets"
   },
   {
     "name": "#VideVisiem",
@@ -57,7 +57,7 @@
     "name": "Putins",
     "query": "Putins",
     "rank": 10,
-    "tweet_count": "1,279 Tweets"
+    "tweet_count": "1,285 Tweets"
   },
   {
     "name": "#tonsilstones",
@@ -87,7 +87,7 @@
     "name": "Tikai",
     "query": "Tikai",
     "rank": 15,
-    "tweet_count": "1,018 Tweets"
+    "tweet_count": "1,033 Tweets"
   },
   {
     "name": "bkus",
@@ -102,20 +102,20 @@
     "tweet_count": null
   },
   {
+    "name": "nekad",
+    "query": "nekad",
+    "rank": 18,
+    "tweet_count": "1,417 Tweets"
+  },
+  {
     "name": "Ļoti",
     "query": "Ļoti",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "savukārt",
     "query": "savukārt",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Pasaules",
-    "query": "Pasaules",
     "rank": 20,
     "tweet_count": null
   }
