@@ -1,39 +1,39 @@
 [
   {
-    "name": "#Skol",
-    "query": "#Skol",
-    "rank": 1,
-    "tweet_count": "10.7K Tweets"
-  },
-  {
     "name": "Vikings",
     "query": "Vikings",
-    "rank": 2,
-    "tweet_count": "58.8K Tweets"
+    "rank": 1,
+    "tweet_count": "59.3K Tweets"
   },
   {
     "name": "Happy Winter Solstice",
     "query": "\"Happy Winter Solstice\"",
+    "rank": 2,
+    "tweet_count": "16.5K Tweets"
+  },
+  {
+    "name": "Portable",
+    "query": "Portable",
     "rank": 3,
-    "tweet_count": "14.9K Tweets"
+    "tweet_count": "25.4K Tweets"
   },
   {
     "name": "Olamide",
     "query": "Olamide",
     "rank": 4,
-    "tweet_count": "27.8K Tweets"
+    "tweet_count": "28.6K Tweets"
   },
   {
     "name": "#TuesdayFeeling",
     "query": "#TuesdayFeeling",
     "rank": 5,
-    "tweet_count": "11.6K Tweets"
+    "tweet_count": "12.2K Tweets"
   },
   {
     "name": "#SpendwithPayday",
     "query": "#SpendwithPayday",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "1,045 Tweets"
   },
   {
     "name": "#MyTinyHouseWouldHave",
@@ -45,78 +45,78 @@
     "name": "Minho",
     "query": "Minho",
     "rank": 8,
-    "tweet_count": "108K Tweets"
+    "tweet_count": "116K Tweets"
   },
   {
-    "name": "#TuesdayThoughts",
-    "query": "#TuesdayThoughts",
+    "name": "#TuesdayMorning",
+    "query": "#TuesdayMorning",
     "rank": 9,
-    "tweet_count": "4,176 Tweets"
+    "tweet_count": "6,646 Tweets"
   },
   {
-    "name": "Northern Hemisphere",
-    "query": "\"Northern Hemisphere\"",
+    "name": "#search4job",
+    "query": "#search4job",
     "rank": 10,
-    "tweet_count": "6,739 Tweets"
-  },
-  {
-    "name": "ISAC",
-    "query": "ISAC",
-    "rank": 11,
-    "tweet_count": "46.2K Tweets"
+    "tweet_count": "1,086 Tweets"
   },
   {
     "name": "Bette Midler",
     "query": "\"Bette Midler\"",
-    "rank": 12,
-    "tweet_count": "15.4K Tweets"
-  },
-  {
-    "name": "Haunted",
-    "query": "Haunted",
-    "rank": 13,
-    "tweet_count": "18.5K Tweets"
+    "rank": 11,
+    "tweet_count": "16K Tweets"
   },
   {
     "name": "Go Birds",
     "query": "\"Go Birds\"",
-    "rank": 14,
-    "tweet_count": "1,378 Tweets"
+    "rank": 12,
+    "tweet_count": "1,457 Tweets"
+  },
+  {
+    "name": "Jesse Watters",
+    "query": "\"Jesse Watters\"",
+    "rank": 13,
+    "tweet_count": "2,803 Tweets"
   },
   {
     "name": "Major",
     "query": "Major",
-    "rank": 15,
-    "tweet_count": "173K Tweets"
+    "rank": 14,
+    "tweet_count": "177K Tweets"
   },
   {
-    "name": "Powerbeats",
-    "query": "Powerbeats",
+    "name": "ISAC",
+    "query": "ISAC",
+    "rank": 15,
+    "tweet_count": "49.4K Tweets"
+  },
+  {
+    "name": "Haunted",
+    "query": "Haunted",
     "rank": 16,
-    "tweet_count": "7,835 Tweets"
+    "tweet_count": "18.9K Tweets"
+  },
+  {
+    "name": "Christmas is in 4",
+    "query": "\"Christmas is in 4\"",
+    "rank": 17,
+    "tweet_count": "4,034 Tweets"
   },
   {
     "name": "Mystery",
     "query": "Mystery",
-    "rank": 17,
-    "tweet_count": "53.6K Tweets"
-  },
-  {
-    "name": "tannie",
-    "query": "tannie",
     "rank": 18,
-    "tweet_count": "86.1K Tweets"
+    "tweet_count": "55.1K Tweets"
   },
   {
-    "name": "Nagy",
-    "query": "Nagy",
+    "name": "Powerbeats",
+    "query": "Powerbeats",
     "rank": 19,
-    "tweet_count": "25.8K Tweets"
+    "tweet_count": "8,073 Tweets"
   },
   {
-    "name": "Studio",
-    "query": "Studio",
+    "name": "Bane",
+    "query": "Bane",
     "rank": 20,
-    "tweet_count": "141K Tweets"
+    "tweet_count": "14.5K Tweets"
   }
 ]
