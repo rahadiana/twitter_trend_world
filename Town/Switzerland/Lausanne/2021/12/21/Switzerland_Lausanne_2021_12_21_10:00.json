@@ -1,7 +1,7 @@
 [
   {
-    "name": "#coopfail",
-    "query": "#coopfail",
+    "name": "#CoopFail",
+    "query": "#CoopFail",
     "rank": 1,
     "tweet_count": null
   },
@@ -21,19 +21,19 @@
     "name": "Trainer",
     "query": "Trainer",
     "rank": 4,
-    "tweet_count": "19.5K Tweets"
+    "tweet_count": "19.7K Tweets"
   },
   {
     "name": "Berger",
     "query": "Berger",
     "rank": 5,
-    "tweet_count": "3,128 Tweets"
+    "tweet_count": "3,168 Tweets"
   },
   {
     "name": "Tottenham",
     "query": "Tottenham",
     "rank": 6,
-    "tweet_count": "29.5K Tweets"
+    "tweet_count": "29.6K Tweets"
   },
   {
     "name": "Marco Odermatt",
@@ -51,31 +51,31 @@
     "name": "Infrastruktur",
     "query": "Infrastruktur",
     "rank": 9,
-    "tweet_count": "7,253 Tweets"
+    "tweet_count": "7,343 Tweets"
   },
   {
     "name": "Novavax",
     "query": "Novavax",
     "rank": 10,
-    "tweet_count": "33.9K Tweets"
+    "tweet_count": "34.1K Tweets"
   },
   {
     "name": "Male",
     "query": "Male",
     "rank": 11,
-    "tweet_count": "169K Tweets"
-  },
-  {
-    "name": "Merry Christmas",
-    "query": "\"Merry Christmas\"",
-    "rank": 12,
-    "tweet_count": "267K Tweets"
+    "tweet_count": "170K Tweets"
   },
   {
     "name": "Webseite",
     "query": "Webseite",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "Merry Christmas",
+    "query": "\"Merry Christmas\"",
+    "rank": 13,
+    "tweet_count": "269K Tweets"
   },
   {
     "name": "Happy Holidays",
@@ -93,12 +93,12 @@
     "name": "Kane",
     "query": "Kane",
     "rank": 16,
-    "tweet_count": "32.1K Tweets"
+    "tweet_count": "32.3K Tweets"
   },
   {
     "name": "Home Office",
     "query": "\"Home Office\"",
     "rank": 17,
-    "tweet_count": "19.4K Tweets"
+    "tweet_count": "19.5K Tweets"
   }
 ]
