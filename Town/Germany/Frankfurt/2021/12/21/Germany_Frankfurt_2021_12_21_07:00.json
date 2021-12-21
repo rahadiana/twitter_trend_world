@@ -3,19 +3,19 @@
     "name": "Lockdown",
     "query": "Lockdown",
     "rank": 1,
-    "tweet_count": "302K Tweets"
-  },
-  {
-    "name": "Tag des Jahres",
-    "query": "\"Tag des Jahres\"",
-    "rank": 2,
-    "tweet_count": null
+    "tweet_count": "304K Tweets"
   },
   {
     "name": "#Omikron",
     "query": "#Omikron",
+    "rank": 2,
+    "tweet_count": "26.3K Tweets"
+  },
+  {
+    "name": "Tag des Jahres",
+    "query": "\"Tag des Jahres\"",
     "rank": 3,
-    "tweet_count": "26K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Wintersonnenwende",
@@ -27,7 +27,7 @@
     "name": "#Novavax",
     "query": "#Novavax",
     "rank": 5,
-    "tweet_count": "9,481 Tweets"
+    "tweet_count": "9,567 Tweets"
   },
   {
     "name": "Schönen Dienstag",
@@ -39,7 +39,7 @@
     "name": "#Expertenrat",
     "query": "#Expertenrat",
     "rank": 7,
-    "tweet_count": "8,246 Tweets"
+    "tweet_count": "8,304 Tweets"
   },
   {
     "name": "#GoodbyeDeutschland",
@@ -48,10 +48,10 @@
     "tweet_count": "1,542 Tweets"
   },
   {
-    "name": "Totimpfstoff",
-    "query": "Totimpfstoff",
+    "name": "totimpfstoff",
+    "query": "totimpfstoff",
     "rank": 9,
-    "tweet_count": "5,655 Tweets"
+    "tweet_count": "5,728 Tweets"
   },
   {
     "name": "Türchen 21",
@@ -63,7 +63,7 @@
     "name": "Kontaktbeschränkungen",
     "query": "Kontaktbeschränkungen",
     "rank": 11,
-    "tweet_count": "9,486 Tweets"
+    "tweet_count": "9,562 Tweets"
   },
   {
     "name": "wochenstart",
@@ -81,7 +81,7 @@
     "name": "start in die woche",
     "query": "\"start in die woche\"",
     "rank": 14,
-    "tweet_count": "1,118 Tweets"
+    "tweet_count": "1,123 Tweets"
   },
   {
     "name": "Letzter Arbeitstag",
@@ -90,16 +90,16 @@
     "tweet_count": null
   },
   {
-    "name": "Buschmann",
-    "query": "Buschmann",
+    "name": "tag 21",
+    "query": "\"tag 21\"",
     "rank": 16,
-    "tweet_count": null
+    "tweet_count": "54K Tweets"
   },
   {
-    "name": "Tag 21",
-    "query": "\"Tag 21\"",
+    "name": "Buschmann",
+    "query": "Buschmann",
     "rank": 17,
-    "tweet_count": "53.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "start in die weihnachtswoche",
@@ -117,6 +117,6 @@
     "name": "Christmas",
     "query": "Christmas",
     "rank": 20,
-    "tweet_count": "2.33M Tweets"
+    "tweet_count": "2.35M Tweets"
   }
 ]

@@ -6,8 +6,8 @@
     "tweet_count": "1.01M Tweets"
   },
   {
-    "name": "#VClearChannel",
-    "query": "#VClearChannel",
+    "name": "#vclearchannel",
+    "query": "#vclearchannel",
     "rank": 2,
     "tweet_count": "105K Tweets"
   },
@@ -18,10 +18,10 @@
     "tweet_count": "127K Tweets"
   },
   {
-    "name": "#SugaDebutHot100",
-    "query": "#SugaDebutHot100",
+    "name": "Vogue",
+    "query": "Vogue",
     "rank": 4,
-    "tweet_count": "3,628 Tweets"
+    "tweet_count": "670K Tweets"
   },
   {
     "name": "Petroperú",
@@ -33,7 +33,7 @@
     "name": "Samir",
     "query": "Samir",
     "rank": 6,
-    "tweet_count": "11K Tweets"
+    "tweet_count": "11.1K Tweets"
   },
   {
     "name": "#EEGElOrigen",
@@ -42,81 +42,81 @@
     "tweet_count": "1,151 Tweets"
   },
   {
-    "name": "Sideral",
-    "query": "Sideral",
-    "rank": 8,
-    "tweet_count": "3,114 Tweets"
-  },
-  {
     "name": "Kast",
     "query": "Kast",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": "138K Tweets"
   },
   {
     "name": "Sinopharm",
     "query": "Sinopharm",
-    "rank": 10,
-    "tweet_count": "7,894 Tweets"
+    "rank": 9,
+    "tweet_count": "7,921 Tweets"
   },
   {
     "name": "tannie",
     "query": "tannie",
-    "rank": 11,
-    "tweet_count": "62K Tweets"
+    "rank": 10,
+    "tweet_count": "63.2K Tweets"
   },
   {
     "name": "Omicron",
     "query": "Omicron",
+    "rank": 11,
+    "tweet_count": "801K Tweets"
+  },
+  {
+    "name": "Sideral",
+    "query": "Sideral",
     "rank": 12,
-    "tweet_count": "795K Tweets"
+    "tweet_count": "3,119 Tweets"
   },
   {
     "name": "SUTEP",
     "query": "SUTEP",
     "rank": 13,
-    "tweet_count": "1,506 Tweets"
+    "tweet_count": "1,509 Tweets"
   },
   {
     "name": "#WeLoveYouKimJisoo",
     "query": "#WeLoveYouKimJisoo",
     "rank": 14,
-    "tweet_count": "62.1K Tweets"
+    "tweet_count": "62.2K Tweets"
+  },
+  {
+    "name": "#VacanciaPresidencialYa",
+    "query": "#VacanciaPresidencialYa",
+    "rank": 15,
+    "tweet_count": "4,468 Tweets"
   },
   {
     "name": "Palacio de Gobierno",
     "query": "\"Palacio de Gobierno\"",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": "11.9K Tweets"
   },
   {
     "name": "Panorama",
     "query": "Panorama",
-    "rank": 16,
-    "tweet_count": "19.9K Tweets"
+    "rank": 17,
+    "tweet_count": "20K Tweets"
   },
   {
     "name": "Lavandeira",
     "query": "Lavandeira",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "Pfizer",
-    "query": "Pfizer",
-    "rank": 18,
-    "tweet_count": "139K Tweets"
-  },
-  {
-    "name": "Andrew Garfield",
-    "query": "\"Andrew Garfield\"",
+    "name": "Olimpia",
+    "query": "Olimpia",
     "rank": 19,
-    "tweet_count": "326K Tweets"
+    "tweet_count": "7,875 Tweets"
   },
   {
-    "name": "olimpia",
-    "query": "olimpia",
+    "name": "Patria Roja",
+    "query": "\"Patria Roja\"",
     "rank": 20,
-    "tweet_count": "7,859 Tweets"
+    "tweet_count": null
   }
 ]
