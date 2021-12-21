@@ -1,39 +1,39 @@
 [
   {
+    "name": "En Madrid",
+    "query": "\"En Madrid\"",
+    "rank": 1,
+    "tweet_count": "81.8K Tweets"
+  },
+  {
     "name": "Nochebuena",
     "query": "Nochebuena",
-    "rank": 1,
-    "tweet_count": "24.8K Tweets"
+    "rank": 2,
+    "tweet_count": "25.2K Tweets"
   },
   {
     "name": "CCAA",
     "query": "CCAA",
-    "rank": 2,
-    "tweet_count": "5,508 Tweets"
+    "rank": 3,
+    "tweet_count": "5,853 Tweets"
   },
   {
     "name": "Sanidad",
     "query": "Sanidad",
-    "rank": 3,
-    "tweet_count": "37.2K Tweets"
-  },
-  {
-    "name": "En Madrid",
-    "query": "\"En Madrid\"",
     "rank": 4,
-    "tweet_count": "79.8K Tweets"
+    "tweet_count": "38.5K Tweets"
   },
   {
-    "name": "UCIs",
-    "query": "UCIs",
+    "name": "UCIS",
+    "query": "UCIS",
     "rank": 5,
-    "tweet_count": "4,315 Tweets"
+    "tweet_count": "4,438 Tweets"
   },
   {
     "name": "#FelizMartes",
     "query": "#FelizMartes",
     "rank": 6,
-    "tweet_count": "1,812 Tweets"
+    "tweet_count": "2,106 Tweets"
   },
   {
     "name": "#invierno",
@@ -42,81 +42,81 @@
     "tweet_count": null
   },
   {
-    "name": "#APOYOROCIO21D",
-    "query": "#APOYOROCIO21D",
+    "name": "#BeFestCanciones",
+    "query": "#BeFestCanciones",
     "rank": 8,
-    "tweet_count": "2,947 Tweets"
-  },
-  {
-    "name": "#MareaEsFuerza",
-    "query": "#MareaEsFuerza",
-    "rank": 9,
-    "tweet_count": "6,579 Tweets"
-  },
-  {
-    "name": "Pablo Motos",
-    "query": "\"Pablo Motos\"",
-    "rank": 10,
-    "tweet_count": "3,544 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#BenidormFest",
     "query": "#BenidormFest",
+    "rank": 9,
+    "tweet_count": "2,545 Tweets"
+  },
+  {
+    "name": "#APOYOROCIO21D",
+    "query": "#APOYOROCIO21D",
+    "rank": 10,
+    "tweet_count": "3,196 Tweets"
+  },
+  {
+    "name": "Rigoberta",
+    "query": "Rigoberta",
     "rank": 11,
-    "tweet_count": "2,312 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Pablo Motos",
+    "query": "\"Pablo Motos\"",
+    "rank": 12,
+    "tweet_count": "3,983 Tweets"
+  },
+  {
+    "name": "Azúcar Moreno",
+    "query": "\"Azúcar Moreno\"",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Luna Ki",
+    "query": "\"Luna Ki\"",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Raffaella",
+    "query": "Raffaella",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Marta Sango",
+    "query": "\"Marta Sango\"",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Santo Tomás",
+    "query": "\"Santo Tomás\"",
+    "rank": 17,
+    "tweet_count": null
   },
   {
     "name": "La OMS",
     "query": "\"La OMS\"",
-    "rank": 12,
-    "tweet_count": "19.4K Tweets"
+    "rank": 18,
+    "tweet_count": "19.7K Tweets"
   },
   {
     "name": "Arrimadas",
     "query": "Arrimadas",
-    "rank": 13,
-    "tweet_count": "5,189 Tweets"
-  },
-  {
-    "name": "Ramadán",
-    "query": "Ramadán",
-    "rank": 14,
-    "tweet_count": "5,919 Tweets"
-  },
-  {
-    "name": "Atención Primaria",
-    "query": "\"Atención Primaria\"",
-    "rank": 15,
-    "tweet_count": "29K Tweets"
-  },
-  {
-    "name": "Tanxugueiras",
-    "query": "Tanxugueiras",
-    "rank": 16,
-    "tweet_count": "6,775 Tweets"
-  },
-  {
-    "name": "Soldado",
-    "query": "Soldado",
-    "rank": 17,
-    "tweet_count": "7,049 Tweets"
-  },
-  {
-    "name": "Racic",
-    "query": "Racic",
-    "rank": 18,
-    "tweet_count": "2,416 Tweets"
-  },
-  {
-    "name": "Guedes",
-    "query": "Guedes",
     "rank": 19,
-    "tweet_count": "15.6K Tweets"
+    "tweet_count": "5,376 Tweets"
   },
   {
-    "name": "El COVID",
-    "query": "\"El COVID\"",
+    "name": "Eurovisión",
+    "query": "Eurovisión",
     "rank": 20,
-    "tweet_count": "192K Tweets"
+    "tweet_count": "8,933 Tweets"
   }
 ]
