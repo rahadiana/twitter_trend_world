@@ -1,63 +1,63 @@
 [
   {
-    "name": "בוקר טוב",
-    "query": "\"בוקר טוב\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "אדיר מילר",
     "query": "\"אדיר מילר\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "Chile",
     "query": "Chile",
+    "rank": 2,
+    "tweet_count": "972K Tweets"
+  },
+  {
+    "name": "#Carmel",
+    "query": "#Carmel",
     "rank": 3,
-    "tweet_count": "970K Tweets"
+    "tweet_count": null
   },
   {
     "name": "של לפיד",
     "query": "\"של לפיד\"",
     "rank": 4,
-    "tweet_count": "1,582 Tweets"
+    "tweet_count": "1,589 Tweets"
   },
   {
-    "name": "#Carmel",
-    "query": "#Carmel",
+    "name": "מודעות עצמית",
+    "query": "\"מודעות עצמית\"",
     "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "בחירות חמישיות",
-    "query": "\"בחירות חמישיות\"",
-    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "מפלגה של",
     "query": "\"מפלגה של\"",
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "בחירות חמישיות",
+    "query": "\"בחירות חמישיות\"",
     "rank": 7,
     "tweet_count": null
   },
   {
-    "name": "מודעות עצמית",
-    "query": "\"מודעות עצמית\"",
+    "name": "בוקר טוב",
+    "query": "\"בוקר טוב\"",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Christians",
-    "query": "Christians",
-    "rank": 9,
-    "tweet_count": "20K Tweets"
-  },
-  {
     "name": "מסכים עם",
     "query": "\"מסכים עם\"",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
+  },
+  {
+    "name": "Christmas",
+    "query": "Christmas",
+    "rank": 10,
+    "tweet_count": "2.37M Tweets"
   },
   {
     "name": "רביב דרוקר",
@@ -72,51 +72,51 @@
     "tweet_count": null
   },
   {
+    "name": "מי הם",
+    "query": "\"מי הם\"",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
     "name": "Canada",
     "query": "Canada",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": "129K Tweets"
   },
   {
-    "name": "מי הם",
-    "query": "\"מי הם\"",
-    "rank": 14,
+    "name": "שרה נתניהו",
+    "query": "\"שרה נתניהו\"",
+    "rank": 15,
+    "tweet_count": "1,631 Tweets"
+  },
+  {
+    "name": "מזל טוב",
+    "query": "\"מזל טוב\"",
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "עופר חדד",
     "query": "\"עופר חדד\"",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "שרה נתניהו",
-    "query": "\"שרה נתניהו\"",
-    "rank": 16,
-    "tweet_count": "1,617 Tweets"
-  },
-  {
-    "name": "Peter",
-    "query": "Peter",
     "rank": 17,
-    "tweet_count": "279K Tweets"
-  },
-  {
-    "name": "בית ספר",
-    "query": "\"בית ספר\"",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "homesh",
-    "query": "homesh",
-    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "של צ",
     "query": "\"של צ\"",
-    "rank": 20,
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Peter",
+    "query": "Peter",
+    "rank": 19,
+    "tweet_count": "280K Tweets"
+  },
+  {
+    "name": "Russian",
+    "query": "Russian",
+    "rank": 20,
+    "tweet_count": "53.9K Tweets"
   }
 ]

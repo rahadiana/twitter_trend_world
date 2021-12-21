@@ -3,37 +3,37 @@
     "name": "Lockdown",
     "query": "Lockdown",
     "rank": 1,
-    "tweet_count": "288K Tweets"
+    "tweet_count": "290K Tweets"
   },
   {
     "name": "#Omikron",
     "query": "#Omikron",
     "rank": 2,
-    "tweet_count": "26.3K Tweets"
-  },
-  {
-    "name": "#Novavax",
-    "query": "#Novavax",
-    "rank": 3,
-    "tweet_count": "10.1K Tweets"
+    "tweet_count": "26.6K Tweets"
   },
   {
     "name": "#Wintersonnenwende",
     "query": "#Wintersonnenwende",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
+  },
+  {
+    "name": "#Novavax",
+    "query": "#Novavax",
+    "rank": 4,
+    "tweet_count": "10.1K Tweets"
+  },
+  {
+    "name": "#Expertenrat",
+    "query": "#Expertenrat",
+    "rank": 5,
+    "tweet_count": "7,786 Tweets"
   },
   {
     "name": "Totimpfstoff",
     "query": "Totimpfstoff",
-    "rank": 5,
-    "tweet_count": "5,955 Tweets"
-  },
-  {
-    "name": "Tag des Jahres",
-    "query": "\"Tag des Jahres\"",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "6,000 Tweets"
   },
   {
     "name": "Türchen 21",
@@ -42,69 +42,75 @@
     "tweet_count": null
   },
   {
+    "name": "Tag des Jahres",
+    "query": "\"Tag des Jahres\"",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
     "name": "Kontaktbeschränkungen",
     "query": "Kontaktbeschränkungen",
-    "rank": 8,
-    "tweet_count": "9,410 Tweets"
+    "rank": 9,
+    "tweet_count": "9,480 Tweets"
   },
   {
     "name": "wochenstart",
     "query": "wochenstart",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Schönen Dienstag",
     "query": "\"Schönen Dienstag\"",
-    "rank": 10,
-    "tweet_count": "1,127 Tweets"
+    "rank": 11,
+    "tweet_count": "1,143 Tweets"
   },
   {
     "name": "start in die woche",
     "query": "\"start in die woche\"",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Feiertage",
     "query": "Feiertage",
-    "rank": 12,
-    "tweet_count": "2,720 Tweets"
+    "rank": 13,
+    "tweet_count": "2,762 Tweets"
   },
   {
     "name": "Beschneidung",
     "query": "Beschneidung",
-    "rank": 13,
-    "tweet_count": "1,203 Tweets"
+    "rank": 14,
+    "tweet_count": "1,215 Tweets"
   },
   {
     "name": "start in die weihnachtswoche",
     "query": "\"start in die weihnachtswoche\"",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Christmas",
     "query": "Christmas",
-    "rank": 15,
-    "tweet_count": "2.27M Tweets"
+    "rank": 16,
+    "tweet_count": "2.37M Tweets"
   },
   {
     "name": "Maßnahmen",
     "query": "Maßnahmen",
-    "rank": 16,
-    "tweet_count": "17K Tweets"
+    "rank": 17,
+    "tweet_count": "17.2K Tweets"
   },
   {
     "name": "Infrastruktur",
     "query": "Infrastruktur",
-    "rank": 17,
-    "tweet_count": "6,989 Tweets"
+    "rank": 18,
+    "tweet_count": "7,092 Tweets"
   },
   {
     "name": "Kälte",
     "query": "Kälte",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   }
 ]
