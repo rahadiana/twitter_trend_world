@@ -1,15 +1,15 @@
 [
   {
-    "name": "#dkpol",
-    "query": "#dkpol",
-    "rank": 1,
-    "tweet_count": "3,732 Tweets"
-  },
-  {
     "name": "Folketinget",
     "query": "Folketinget",
+    "rank": 1,
+    "tweet_count": "1,199 Tweets"
+  },
+  {
+    "name": "#dkpol",
+    "query": "#dkpol",
     "rank": 2,
-    "tweet_count": "1,110 Tweets"
+    "tweet_count": "3,781 Tweets"
   },
   {
     "name": "Inger Støjberg",
@@ -24,8 +24,8 @@
     "tweet_count": null
   },
   {
-    "name": "Pernille Vermund",
-    "query": "\"Pernille Vermund\"",
+    "name": "Vermund",
+    "query": "Vermund",
     "rank": 5,
     "tweet_count": null
   },
@@ -42,81 +42,81 @@
     "tweet_count": null
   },
   {
-    "name": "Grundloven",
-    "query": "Grundloven",
+    "name": "Folketingssalen",
+    "query": "Folketingssalen",
     "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "grundloven",
+    "query": "grundloven",
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "paludan",
     "query": "paludan",
-    "rank": 9,
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "Dansk Folkeparti",
+    "query": "\"Dansk Folkeparti\"",
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "#skolechat",
     "query": "#skolechat",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Messerschmidt",
-    "query": "Messerschmidt",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Christmas",
     "query": "Christmas",
-    "rank": 12,
-    "tweet_count": "2.48M Tweets"
+    "rank": 13,
+    "tweet_count": "2.52M Tweets"
+  },
+  {
+    "name": "Messerschmidt",
+    "query": "Messerschmidt",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Ole Birk Olesen",
+    "query": "\"Ole Birk Olesen\"",
+    "rank": 15,
+    "tweet_count": null
   },
   {
     "name": "Kane",
     "query": "Kane",
-    "rank": 13,
-    "tweet_count": "23.3K Tweets"
+    "rank": 16,
+    "tweet_count": "23.5K Tweets"
   },
   {
     "name": "df'ere",
     "query": "df'ere",
-    "rank": 14,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "dyrby",
     "query": "dyrby",
-    "rank": 15,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Chile",
     "query": "Chile",
-    "rank": 16,
-    "tweet_count": "652K Tweets"
+    "rank": 19,
+    "tweet_count": "657K Tweets"
   },
   {
     "name": "Real Madrid",
     "query": "\"Real Madrid\"",
-    "rank": 17,
-    "tweet_count": "32.4K Tweets"
-  },
-  {
-    "name": "UEFA",
-    "query": "UEFA",
-    "rank": 18,
-    "tweet_count": "17K Tweets"
-  },
-  {
-    "name": "Biden",
-    "query": "Biden",
-    "rank": 19,
-    "tweet_count": "594K Tweets"
-  },
-  {
-    "name": "Australia",
-    "query": "Australia",
     "rank": 20,
-    "tweet_count": "119K Tweets"
+    "tweet_count": "32.9K Tweets"
   }
 ]
