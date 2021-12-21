@@ -1,33 +1,33 @@
 [
   {
-    "name": "San Siro",
-    "query": "\"San Siro\"",
-    "rank": 1,
-    "tweet_count": "6,330 Tweets"
-  },
-  {
     "name": "#JuveCagliari",
     "query": "#JuveCagliari",
-    "rank": 2,
-    "tweet_count": "5,716 Tweets"
+    "rank": 1,
+    "tweet_count": "7,037 Tweets"
   },
   {
     "name": "#ilcircolodeglianelli",
     "query": "#ilcircolodeglianelli",
-    "rank": 3,
-    "tweet_count": "1,611 Tweets"
+    "rank": 2,
+    "tweet_count": "1,919 Tweets"
   },
   {
     "name": "#jvtblive",
     "query": "#jvtblive",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#tz101",
     "query": "#tz101",
+    "rank": 4,
+    "tweet_count": "6,191 Tweets"
+  },
+  {
+    "name": "#BlancaLaSerie",
+    "query": "#BlancaLaSerie",
     "rank": 5,
-    "tweet_count": "6,210 Tweets"
+    "tweet_count": "7,294 Tweets"
   },
   {
     "name": "Alex Sandro",
@@ -36,76 +36,76 @@
     "tweet_count": null
   },
   {
-    "name": "#upas",
-    "query": "#upas",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
     "name": "Kean",
     "query": "Kean",
-    "rank": 8,
-    "tweet_count": "5,786 Tweets"
+    "rank": 7,
+    "tweet_count": "5,914 Tweets"
   },
   {
     "name": "Bernardeschi",
     "query": "Bernardeschi",
-    "rank": 9,
-    "tweet_count": "1,977 Tweets"
-  },
-  {
-    "name": "Bolzano",
-    "query": "Bolzano",
-    "rank": 10,
-    "tweet_count": null
+    "rank": 8,
+    "tweet_count": "3,290 Tweets"
   },
   {
     "name": "Nanni",
     "query": "Nanni",
-    "rank": 11,
-    "tweet_count": "2,264 Tweets"
+    "rank": 9,
+    "tweet_count": "2,809 Tweets"
   },
   {
     "name": "Sebastiano",
     "query": "Sebastiano",
-    "rank": 12,
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "Bolzano",
+    "query": "Bolzano",
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Suma",
     "query": "Suma",
-    "rank": 13,
-    "tweet_count": "20.8K Tweets"
+    "rank": 12,
+    "tweet_count": "21.2K Tweets"
   },
   {
     "name": "Guardia di Finanza",
     "query": "\"Guardia di Finanza\"",
-    "rank": 14,
-    "tweet_count": "2,797 Tweets"
+    "rank": 13,
+    "tweet_count": "2,812 Tweets"
   },
   {
     "name": "Carola",
     "query": "Carola",
+    "rank": 14,
+    "tweet_count": "5,536 Tweets"
+  },
+  {
+    "name": "Pinochet",
+    "query": "Pinochet",
     "rank": 15,
-    "tweet_count": "5,471 Tweets"
+    "tweet_count": "24.5K Tweets"
   },
   {
     "name": "Tommy",
     "query": "Tommy",
     "rank": 16,
-    "tweet_count": "43.3K Tweets"
-  },
-  {
-    "name": "Pinochet",
-    "query": "Pinochet",
-    "rank": 17,
-    "tweet_count": "24.3K Tweets"
+    "tweet_count": "43.7K Tweets"
   },
   {
     "name": "Merry Christmas",
     "query": "\"Merry Christmas\"",
+    "rank": 17,
+    "tweet_count": "357K Tweets"
+  },
+  {
+    "name": "#upas",
+    "query": "#upas",
     "rank": 18,
-    "tweet_count": "352K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#DevoRicordarmiDi",
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "#BlancaLaSerie",
-    "query": "#BlancaLaSerie",
+    "name": "#SiSiVax",
+    "query": "#SiSiVax",
     "rank": 20,
-    "tweet_count": "5,750 Tweets"
+    "tweet_count": "3,354 Tweets"
   }
 ]
