@@ -1,7 +1,7 @@
 [
   {
-    "name": "#coopfail",
-    "query": "#coopfail",
+    "name": "#CoopFail",
+    "query": "#CoopFail",
     "rank": 1,
     "tweet_count": null
   },
@@ -15,73 +15,73 @@
     "name": "#Omikron",
     "query": "#Omikron",
     "rank": 3,
-    "tweet_count": "28.7K Tweets"
+    "tweet_count": "29.3K Tweets"
   },
   {
     "name": "Projekt",
     "query": "Projekt",
     "rank": 4,
-    "tweet_count": "4,142 Tweets"
-  },
-  {
-    "name": "Berger",
-    "query": "Berger",
-    "rank": 5,
-    "tweet_count": "3,294 Tweets"
-  },
-  {
-    "name": "Jahren Pandemie",
-    "query": "\"Jahren Pandemie\"",
-    "rank": 6,
-    "tweet_count": "1,097 Tweets"
+    "tweet_count": "4,205 Tweets"
   },
   {
     "name": "Novavax",
     "query": "Novavax",
-    "rank": 7,
-    "tweet_count": "19.9K Tweets"
+    "rank": 5,
+    "tweet_count": "20.2K Tweets"
   },
   {
     "name": "Winter",
     "query": "Winter",
+    "rank": 6,
+    "tweet_count": "640K Tweets"
+  },
+  {
+    "name": "LongCovid",
+    "query": "LongCovid",
+    "rank": 7,
+    "tweet_count": "8,330 Tweets"
+  },
+  {
+    "name": "Maske",
+    "query": "Maske",
     "rank": 8,
-    "tweet_count": "630K Tweets"
+    "tweet_count": "11.4K Tweets"
   },
   {
     "name": "Stoff",
     "query": "Stoff",
     "rank": 9,
-    "tweet_count": "1,389 Tweets"
+    "tweet_count": "1,418 Tweets"
+  },
+  {
+    "name": "Berger",
+    "query": "Berger",
+    "rank": 10,
+    "tweet_count": "3,348 Tweets"
+  },
+  {
+    "name": "Happy Holidays",
+    "query": "\"Happy Holidays\"",
+    "rank": 11,
+    "tweet_count": "137K Tweets"
+  },
+  {
+    "name": "Jahren Pandemie",
+    "query": "\"Jahren Pandemie\"",
+    "rank": 12,
+    "tweet_count": "1,122 Tweets"
   },
   {
     "name": "Eric",
     "query": "Eric",
-    "rank": 10,
-    "tweet_count": "277K Tweets"
+    "rank": 13,
+    "tweet_count": "280K Tweets"
   },
   {
     "name": "Christmas",
     "query": "Christmas",
-    "rank": 11,
-    "tweet_count": "1.37M Tweets"
-  },
-  {
-    "name": "Bern Selection",
-    "query": "\"Bern Selection\"",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Speisewagen",
-    "query": "Speisewagen",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Ausreden",
-    "query": "Ausreden",
     "rank": 14,
-    "tweet_count": null
+    "tweet_count": "1.46M Tweets"
   },
   {
     "name": "Festtage",
@@ -90,21 +90,21 @@
     "tweet_count": null
   },
   {
-    "name": "mitarbeitenden",
-    "query": "mitarbeitenden",
+    "name": "speisewagen",
+    "query": "speisewagen",
     "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "Male",
-    "query": "Male",
+    "name": "Ausreden",
+    "query": "Ausreden",
     "rank": 17,
-    "tweet_count": "150K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Joyeux Noël",
-    "query": "\"Joyeux Noël\"",
+    "name": "mitarbeitenden",
+    "query": "mitarbeitenden",
     "rank": 18,
-    "tweet_count": "9,883 Tweets"
+    "tweet_count": null
   }
 ]
