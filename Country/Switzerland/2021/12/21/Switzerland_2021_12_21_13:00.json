@@ -1,7 +1,7 @@
 [
   {
-    "name": "#coopfail",
-    "query": "#coopfail",
+    "name": "#CoopFail",
+    "query": "#CoopFail",
     "rank": 1,
     "tweet_count": null
   },
@@ -15,37 +15,37 @@
     "name": "#Omikron",
     "query": "#Omikron",
     "rank": 3,
-    "tweet_count": "27.8K Tweets"
+    "tweet_count": "28.3K Tweets"
   },
   {
-    "name": "#Sustainability",
-    "query": "#Sustainability",
+    "name": "#sustainability",
+    "query": "#sustainability",
     "rank": 4,
-    "tweet_count": "5,490 Tweets"
+    "tweet_count": "5,566 Tweets"
   },
   {
-    "name": "#MilanNapoli",
-    "query": "#MilanNapoli",
+    "name": "#milannapoli",
+    "query": "#milannapoli",
     "rank": 5,
-    "tweet_count": "2,745 Tweets"
-  },
-  {
-    "name": "Projekt",
-    "query": "Projekt",
-    "rank": 6,
-    "tweet_count": "4,130 Tweets"
+    "tweet_count": "2,758 Tweets"
   },
   {
     "name": "Trainer",
     "query": "Trainer",
-    "rank": 7,
-    "tweet_count": "19.7K Tweets"
+    "rank": 6,
+    "tweet_count": "20K Tweets"
   },
   {
-    "name": "Davos",
-    "query": "Davos",
-    "rank": 8,
+    "name": "davos",
+    "query": "davos",
+    "rank": 7,
     "tweet_count": "12K Tweets"
+  },
+  {
+    "name": "Projekt",
+    "query": "Projekt",
+    "rank": 8,
+    "tweet_count": "4,184 Tweets"
   },
   {
     "name": "marco odermatt",
@@ -60,63 +60,63 @@
     "tweet_count": null
   },
   {
-    "name": "Novavax",
-    "query": "Novavax",
-    "rank": 11,
-    "tweet_count": "31.9K Tweets"
-  },
-  {
     "name": "Happy Holidays",
     "query": "\"Happy Holidays\"",
-    "rank": 12,
-    "tweet_count": "127K Tweets"
-  },
-  {
-    "name": "LongCovid",
-    "query": "LongCovid",
-    "rank": 13,
-    "tweet_count": "48.5K Tweets"
-  },
-  {
-    "name": "Webseite",
-    "query": "Webseite",
-    "rank": 14,
-    "tweet_count": null
+    "rank": 11,
+    "tweet_count": "128K Tweets"
   },
   {
     "name": "Berger",
     "query": "Berger",
+    "rank": 12,
+    "tweet_count": "3,272 Tweets"
+  },
+  {
+    "name": "Novavax",
+    "query": "Novavax",
+    "rank": 13,
+    "tweet_count": "32.2K Tweets"
+  },
+  {
+    "name": "Longcovid",
+    "query": "Longcovid",
+    "rank": 14,
+    "tweet_count": "49K Tweets"
+  },
+  {
+    "name": "Webseite",
+    "query": "Webseite",
     "rank": 15,
-    "tweet_count": "3,211 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Male",
     "query": "Male",
     "rank": 16,
-    "tweet_count": "160K Tweets"
-  },
-  {
-    "name": "Joyeux Noël",
-    "query": "\"Joyeux Noël\"",
-    "rank": 17,
-    "tweet_count": "7,334 Tweets"
-  },
-  {
-    "name": "speisewagen",
-    "query": "speisewagen",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Weihnachten",
-    "query": "Weihnachten",
-    "rank": 19,
-    "tweet_count": "28K Tweets"
+    "tweet_count": "162K Tweets"
   },
   {
     "name": "Merry Christmas",
     "query": "\"Merry Christmas\"",
+    "rank": 17,
+    "tweet_count": "289K Tweets"
+  },
+  {
+    "name": "Speisewagen",
+    "query": "Speisewagen",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Gabriel Boric",
+    "query": "\"Gabriel Boric\"",
+    "rank": 19,
+    "tweet_count": "164K Tweets"
+  },
+  {
+    "name": "Home Office",
+    "query": "\"Home Office\"",
     "rank": 20,
-    "tweet_count": "284K Tweets"
+    "tweet_count": "19.2K Tweets"
   }
 ]

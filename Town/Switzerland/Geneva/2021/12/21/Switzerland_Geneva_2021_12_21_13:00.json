@@ -1,13 +1,13 @@
 [
   {
-    "name": "#coopfail",
-    "query": "#coopfail",
+    "name": "#CoopFail",
+    "query": "#CoopFail",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "#keinFoodimZug",
-    "query": "#keinFoodimZug",
+    "name": "#keinfoodimzug",
+    "query": "#keinfoodimzug",
     "rank": 2,
     "tweet_count": null
   },
@@ -15,25 +15,25 @@
     "name": "#Omikron",
     "query": "#Omikron",
     "rank": 3,
-    "tweet_count": "27.8K Tweets"
-  },
-  {
-    "name": "Projekt",
-    "query": "Projekt",
-    "rank": 4,
-    "tweet_count": "4,125 Tweets"
+    "tweet_count": "28.2K Tweets"
   },
   {
     "name": "Trainer",
     "query": "Trainer",
-    "rank": 5,
-    "tweet_count": "19.7K Tweets"
+    "rank": 4,
+    "tweet_count": "20K Tweets"
   },
   {
     "name": "Davos",
     "query": "Davos",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": "12K Tweets"
+  },
+  {
+    "name": "Projekt",
+    "query": "Projekt",
+    "rank": 6,
+    "tweet_count": "4,181 Tweets"
   },
   {
     "name": "marco odermatt",
@@ -48,63 +48,63 @@
     "tweet_count": null
   },
   {
-    "name": "Novavax",
-    "query": "Novavax",
-    "rank": 9,
-    "tweet_count": "31.9K Tweets"
-  },
-  {
     "name": "Happy Holidays",
     "query": "\"Happy Holidays\"",
-    "rank": 10,
-    "tweet_count": "127K Tweets"
-  },
-  {
-    "name": "LongCovid",
-    "query": "LongCovid",
-    "rank": 11,
-    "tweet_count": "48.5K Tweets"
-  },
-  {
-    "name": "Webseite",
-    "query": "Webseite",
-    "rank": 12,
-    "tweet_count": null
+    "rank": 9,
+    "tweet_count": "128K Tweets"
   },
   {
     "name": "Berger",
     "query": "Berger",
+    "rank": 10,
+    "tweet_count": "3,267 Tweets"
+  },
+  {
+    "name": "Novavax",
+    "query": "Novavax",
+    "rank": 11,
+    "tweet_count": "32.1K Tweets"
+  },
+  {
+    "name": "Longcovid",
+    "query": "Longcovid",
+    "rank": 12,
+    "tweet_count": "49K Tweets"
+  },
+  {
+    "name": "Webseite",
+    "query": "Webseite",
     "rank": 13,
-    "tweet_count": "3,208 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Male",
     "query": "Male",
     "rank": 14,
-    "tweet_count": "160K Tweets"
-  },
-  {
-    "name": "Joyeux Noël",
-    "query": "\"Joyeux Noël\"",
-    "rank": 15,
-    "tweet_count": "7,323 Tweets"
-  },
-  {
-    "name": "speisewagen",
-    "query": "speisewagen",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Weihnachten",
-    "query": "Weihnachten",
-    "rank": 17,
-    "tweet_count": "27.9K Tweets"
+    "tweet_count": "162K Tweets"
   },
   {
     "name": "Merry Christmas",
     "query": "\"Merry Christmas\"",
+    "rank": 15,
+    "tweet_count": "289K Tweets"
+  },
+  {
+    "name": "Speisewagen",
+    "query": "Speisewagen",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Gabriel Boric",
+    "query": "\"Gabriel Boric\"",
+    "rank": 17,
+    "tweet_count": "164K Tweets"
+  },
+  {
+    "name": "Home Office",
+    "query": "\"Home Office\"",
     "rank": 18,
-    "tweet_count": "284K Tweets"
+    "tweet_count": "19.2K Tweets"
   }
 ]
