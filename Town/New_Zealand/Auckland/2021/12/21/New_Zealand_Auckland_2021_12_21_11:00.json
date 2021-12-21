@@ -1,21 +1,21 @@
 [
   {
-    "name": "#ShortlandStreet",
-    "query": "#ShortlandStreet",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Amanda",
     "query": "Amanda",
+    "rank": 1,
+    "tweet_count": "30K Tweets"
+  },
+  {
+    "name": "#ShortlandStreet",
+    "query": "#ShortlandStreet",
     "rank": 2,
-    "tweet_count": "29.9K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Christmas",
     "query": "Christmas",
     "rank": 3,
-    "tweet_count": "2.24M Tweets"
+    "tweet_count": "2.07M Tweets"
   },
   {
     "name": "Hipkins",
@@ -27,11 +27,11 @@
     "name": "Omicron",
     "query": "Omicron",
     "rank": 5,
-    "tweet_count": "787K Tweets"
+    "tweet_count": "795K Tweets"
   },
   {
-    "name": "Ian Taylor",
-    "query": "\"Ian Taylor\"",
+    "name": "ian taylor",
+    "query": "\"ian taylor\"",
     "rank": 6,
     "tweet_count": null
   },
@@ -48,52 +48,52 @@
     "tweet_count": null
   },
   {
-    "name": "Joe Manchin",
-    "query": "\"Joe Manchin\"",
+    "name": "Grant Robertson",
+    "query": "\"Grant Robertson\"",
     "rank": 9,
-    "tweet_count": "393K Tweets"
-  },
-  {
-    "name": "Waitangi Tribunal",
-    "query": "\"Waitangi Tribunal\"",
-    "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "covid 19 delta",
-    "query": "\"covid 19 delta\"",
+    "name": "Joe Manchin",
+    "query": "\"Joe Manchin\"",
+    "rank": 10,
+    "tweet_count": "395K Tweets"
+  },
+  {
+    "name": "waitangi tribunal",
+    "query": "\"waitangi tribunal\"",
     "rank": 11,
-    "tweet_count": "7,755 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Chile",
     "query": "Chile",
     "rank": 12,
-    "tweet_count": "890K Tweets"
+    "tweet_count": "895K Tweets"
   },
   {
     "name": "Ellie",
     "query": "Ellie",
     "rank": 13,
-    "tweet_count": "13K Tweets"
+    "tweet_count": "13.3K Tweets"
+  },
+  {
+    "name": "Covid 19 Delta",
+    "query": "\"Covid 19 Delta\"",
+    "rank": 14,
+    "tweet_count": "7,791 Tweets"
   },
   {
     "name": "Treaty",
     "query": "Treaty",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": "3,854 Tweets"
   },
   {
-    "name": "foxy",
-    "query": "foxy",
-    "rank": 15,
-    "tweet_count": "8,243 Tweets"
-  },
-  {
-    "name": "#DailyWordleClub",
-    "query": "#DailyWordleClub",
+    "name": "Foxy",
+    "query": "Foxy",
     "rank": 16,
-    "tweet_count": "11.5K Tweets"
+    "tweet_count": "8,305 Tweets"
   },
   {
     "name": "Simon Power",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "dawkins",
-    "query": "dawkins",
+    "name": "#DailyWordleClub",
+    "query": "#DailyWordleClub",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "11.6K Tweets"
   },
   {
-    "name": "#nationalnotfittogovern",
-    "query": "#nationalnotfittogovern",
+    "name": "Dawkins",
+    "query": "Dawkins",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Microsoft",
-    "query": "Microsoft",
+    "name": "#NationalNotFitToGovern",
+    "query": "#NationalNotFitToGovern",
     "rank": 20,
-    "tweet_count": "39.9K Tweets"
+    "tweet_count": null
   }
 ]

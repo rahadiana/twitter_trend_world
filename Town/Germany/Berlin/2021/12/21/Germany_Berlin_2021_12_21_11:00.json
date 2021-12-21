@@ -3,7 +3,7 @@
     "name": "#Giffey",
     "query": "#Giffey",
     "rank": 1,
-    "tweet_count": "1,009 Tweets"
+    "tweet_count": "1,096 Tweets"
   },
   {
     "name": "#Wintersonnenwende",
@@ -18,8 +18,8 @@
     "tweet_count": null
   },
   {
-    "name": "Tag des Jahres",
-    "query": "\"Tag des Jahres\"",
+    "name": "tag des jahres",
+    "query": "\"tag des jahres\"",
     "rank": 4,
     "tweet_count": null
   },
@@ -42,63 +42,69 @@
     "tweet_count": null
   },
   {
-    "name": "Bußgelder",
-    "query": "Bußgelder",
-    "rank": 8,
-    "tweet_count": "1,089 Tweets"
-  },
-  {
     "name": "Jahr 2022",
     "query": "\"Jahr 2022\"",
-    "rank": 9,
-    "tweet_count": "1,193 Tweets"
+    "rank": 8,
+    "tweet_count": "1,228 Tweets"
   },
   {
-    "name": "Kälte",
-    "query": "Kälte",
-    "rank": 10,
-    "tweet_count": null
+    "name": "Bußgelder",
+    "query": "Bußgelder",
+    "rank": 9,
+    "tweet_count": "1,136 Tweets"
   },
   {
     "name": "Vorhaut",
     "query": "Vorhaut",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "Festtage",
+    "query": "Festtage",
     "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "Nebel",
-    "query": "Nebel",
+    "name": "Kälte",
+    "query": "Kälte",
     "rank": 12,
-    "tweet_count": "1,451 Tweets"
-  },
-  {
-    "name": "Frost",
-    "query": "Frost",
-    "rank": 13,
-    "tweet_count": "28.6K Tweets"
-  },
-  {
-    "name": "#Beschneidung",
-    "query": "#Beschneidung",
-    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Rutsch",
     "query": "Rutsch",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Nebel",
+    "query": "Nebel",
+    "rank": 14,
+    "tweet_count": "1,462 Tweets"
+  },
+  {
+    "name": "#Beschneidung",
+    "query": "#Beschneidung",
     "rank": 15,
     "tweet_count": null
   },
   {
+    "name": "Frost",
+    "query": "Frost",
+    "rank": 16,
+    "tweet_count": "28.8K Tweets"
+  },
+  {
     "name": "Temperaturen",
     "query": "Temperaturen",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Impfarm",
     "query": "Impfarm",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
   }
 ]

@@ -1,39 +1,39 @@
 [
   {
-    "name": "SIAN",
-    "query": "SIAN",
-    "rank": 1,
-    "tweet_count": "5,981 Tweets"
-  },
-  {
     "name": "Botheim",
     "query": "Botheim",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "SIAN",
+    "query": "SIAN",
+    "rank": 2,
+    "tweet_count": "6,098 Tweets"
   },
   {
     "name": "#TOTLIV",
     "query": "#TOTLIV",
     "rank": 3,
-    "tweet_count": "3,679 Tweets"
-  },
-  {
-    "name": "Nakstad",
-    "query": "Nakstad",
-    "rank": 4,
-    "tweet_count": null
+    "tweet_count": "3,693 Tweets"
   },
   {
     "name": "#polkvart",
     "query": "#polkvart",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "Nakstad",
+    "query": "Nakstad",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "Kane",
-    "query": "Kane",
+    "name": "tore tang",
+    "query": "\"tore tang\"",
     "rank": 6,
-    "tweet_count": "30.1K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Vedum",
@@ -42,28 +42,28 @@
     "tweet_count": null
   },
   {
-    "name": "tore tang",
-    "query": "\"tore tang\"",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "Riskrem",
     "query": "Riskrem",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Bitcoin",
     "query": "Bitcoin",
+    "rank": 9,
+    "tweet_count": "492K Tweets"
+  },
+  {
+    "name": "Glimt",
+    "query": "Glimt",
     "rank": 10,
-    "tweet_count": "486K Tweets"
+    "tweet_count": "2,325 Tweets"
   },
   {
     "name": "Christmas",
     "query": "Christmas",
     "rank": 11,
-    "tweet_count": "2.31M Tweets"
+    "tweet_count": "2.14M Tweets"
   },
   {
     "name": "hege",
@@ -81,13 +81,13 @@
     "name": "Robbo",
     "query": "Robbo",
     "rank": 14,
-    "tweet_count": "3,264 Tweets"
+    "tweet_count": "3,295 Tweets"
   },
   {
     "name": "Joe Manchin",
     "query": "\"Joe Manchin\"",
     "rank": 15,
-    "tweet_count": "393K Tweets"
+    "tweet_count": "395K Tweets"
   },
   {
     "name": "jarlsberg",
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
-    "name": "Erna",
-    "query": "Erna",
+    "name": "Bodø",
+    "query": "Bodø",
     "rank": 17,
-    "tweet_count": "1,016 Tweets"
+    "tweet_count": "3,745 Tweets"
   },
   {
-    "name": "Lens",
-    "query": "Lens",
+    "name": "Erna",
+    "query": "Erna",
     "rank": 18,
-    "tweet_count": "17.3K Tweets"
+    "tweet_count": "1,033 Tweets"
+  },
+  {
+    "name": "Politiet",
+    "query": "Politiet",
+    "rank": 19,
+    "tweet_count": "1,583 Tweets"
   },
   {
     "name": "Alli",
     "query": "Alli",
-    "rank": 19,
-    "tweet_count": "37.2K Tweets"
-  },
-  {
-    "name": "politiet",
-    "query": "politiet",
     "rank": 20,
-    "tweet_count": "1,569 Tweets"
+    "tweet_count": "37.8K Tweets"
   }
 ]
