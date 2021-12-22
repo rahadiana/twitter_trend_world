@@ -3,67 +3,67 @@
     "name": "#prikspijt",
     "query": "#prikspijt",
     "rank": 1,
-    "tweet_count": "9,203 Tweets"
+    "tweet_count": "9,265 Tweets"
   },
   {
     "name": "#coronadebat",
     "query": "#coronadebat",
     "rank": 2,
-    "tweet_count": "16.9K Tweets"
-  },
-  {
-    "name": "#hansklokroast",
-    "query": "#hansklokroast",
-    "rank": 3,
-    "tweet_count": "1,351 Tweets"
+    "tweet_count": "17K Tweets"
   },
   {
     "name": "Poldervaart",
     "query": "Poldervaart",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "#azgro",
+    "query": "#azgro",
     "rank": 4,
     "tweet_count": null
   },
   {
+    "name": "#winter",
+    "query": "#winter",
+    "rank": 5,
+    "tweet_count": "32.1K Tweets"
+  },
+  {
+    "name": "#LandVerraad",
+    "query": "#LandVerraad",
+    "rank": 6,
+    "tweet_count": "2,770 Tweets"
+  },
+  {
     "name": "Danny Buijs",
     "query": "\"Danny Buijs\"",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Attje",
-    "query": "Attje",
-    "rank": 6,
-    "tweet_count": "2,146 Tweets"
-  },
-  {
-    "name": "Christmas",
-    "query": "Christmas",
     "rank": 7,
-    "tweet_count": "2.75M Tweets"
+    "tweet_count": null
   },
   {
     "name": "Sywert van Lienden",
     "query": "\"Sywert van Lienden\"",
     "rank": 8,
-    "tweet_count": "1,027 Tweets"
+    "tweet_count": "1,047 Tweets"
+  },
+  {
+    "name": "Attje",
+    "query": "Attje",
+    "rank": 9,
+    "tweet_count": "2,200 Tweets"
+  },
+  {
+    "name": "Christmas",
+    "query": "Christmas",
+    "rank": 10,
+    "tweet_count": "2.87M Tweets"
   },
   {
     "name": "Fledderus",
     "query": "Fledderus",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "De Graafschap",
-    "query": "\"De Graafschap\"",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Oostenrijk",
-    "query": "Oostenrijk",
     "rank": 11,
-    "tweet_count": "3,534 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Hulptroepen Alliantie",
@@ -72,39 +72,51 @@
     "tweet_count": null
   },
   {
-    "name": "Ruim 17.000",
-    "query": "\"Ruim 17.000\"",
+    "name": "De Graafschap",
+    "query": "\"De Graafschap\"",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "Eerste Kamer",
-    "query": "\"Eerste Kamer\"",
+    "name": "Ruim 17.000",
+    "query": "\"Ruim 17.000\"",
     "rank": 14,
-    "tweet_count": "1,892 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "FC Groningen",
+    "query": "\"FC Groningen\"",
+    "rank": 15,
+    "tweet_count": null
   },
   {
     "name": "Ivermectine",
     "query": "Ivermectine",
-    "rank": 15,
-    "tweet_count": "10.8K Tweets"
-  },
-  {
-    "name": "Goedemorgen",
-    "query": "Goedemorgen",
     "rank": 16,
-    "tweet_count": "6,934 Tweets"
+    "tweet_count": "11.1K Tweets"
   },
   {
-    "name": "De Correspondent",
-    "query": "\"De Correspondent\"",
+    "name": "Eerste Kamer",
+    "query": "\"Eerste Kamer\"",
     "rank": 17,
+    "tweet_count": "1,908 Tweets"
+  },
+  {
+    "name": "de correspondent",
+    "query": "\"de correspondent\"",
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "goedemorgen",
+    "query": "goedemorgen",
+    "rank": 19,
+    "tweet_count": "6,948 Tweets"
   },
   {
     "name": "Portable",
     "query": "Portable",
-    "rank": 18,
-    "tweet_count": "52.4K Tweets"
+    "rank": 20,
+    "tweet_count": "52.7K Tweets"
   }
 ]

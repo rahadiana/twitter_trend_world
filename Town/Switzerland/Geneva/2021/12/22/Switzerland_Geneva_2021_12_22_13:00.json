@@ -1,33 +1,33 @@
 [
   {
-    "name": "#CoopFail",
-    "query": "#CoopFail",
+    "name": "#coopfail",
+    "query": "#coopfail",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "#TheMatrix",
-    "query": "#TheMatrix",
-    "rank": 2,
-    "tweet_count": "48K Tweets"
-  },
-  {
-    "name": "#JKvsP7",
-    "query": "#JKvsP7",
-    "rank": 3,
-    "tweet_count": "5,812 Tweets"
-  },
-  {
     "name": "Festtage",
     "query": "Festtage",
-    "rank": 4,
+    "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "Christmas",
-    "query": "Christmas",
+    "name": "#Hawkeye",
+    "query": "#Hawkeye",
+    "rank": 3,
+    "tweet_count": "123K Tweets"
+  },
+  {
+    "name": "#TheMatrix",
+    "query": "#TheMatrix",
+    "rank": 4,
+    "tweet_count": "48.4K Tweets"
+  },
+  {
+    "name": "Projekt",
+    "query": "Projekt",
     "rank": 5,
-    "tweet_count": "2.75M Tweets"
+    "tweet_count": "4,040 Tweets"
   },
   {
     "name": "Abtreibungen",
@@ -36,75 +36,75 @@
     "tweet_count": null
   },
   {
-    "name": "Projekt",
-    "query": "Projekt",
+    "name": "Christmas",
+    "query": "Christmas",
     "rank": 7,
-    "tweet_count": "3,995 Tweets"
-  },
-  {
-    "name": "Winter",
-    "query": "Winter",
-    "rank": 8,
-    "tweet_count": "676K Tweets"
+    "tweet_count": "2.87M Tweets"
   },
   {
     "name": "Initiativen",
     "query": "Initiativen",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
-  },
-  {
-    "name": "Verstand",
-    "query": "Verstand",
-    "rank": 10,
-    "tweet_count": "3,118 Tweets"
-  },
-  {
-    "name": "Jahren Pandemie",
-    "query": "\"Jahren Pandemie\"",
-    "rank": 11,
-    "tweet_count": "1,334 Tweets"
-  },
-  {
-    "name": "D'ailleurs",
-    "query": "D'ailleurs",
-    "rank": 12,
-    "tweet_count": "13.5K Tweets"
   },
   {
     "name": "Joe Biden",
     "query": "\"Joe Biden\"",
-    "rank": 13,
-    "tweet_count": "153K Tweets"
-  },
-  {
-    "name": "Kosovo",
-    "query": "Kosovo",
-    "rank": 14,
-    "tweet_count": "3,311 Tweets"
-  },
-  {
-    "name": "Reihe",
-    "query": "Reihe",
-    "rank": 15,
-    "tweet_count": "1,306 Tweets"
+    "rank": 9,
+    "tweet_count": "155K Tweets"
   },
   {
     "name": "Mitarbeitenden",
     "query": "Mitarbeitenden",
-    "rank": 16,
+    "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Meldung",
-    "query": "Meldung",
-    "rank": 17,
-    "tweet_count": "1,380 Tweets"
+    "name": "DeFi",
+    "query": "DeFi",
+    "rank": 11,
+    "tweet_count": "218K Tweets"
+  },
+  {
+    "name": "Joyeux Noël",
+    "query": "\"Joyeux Noël\"",
+    "rank": 12,
+    "tweet_count": "12.6K Tweets"
+  },
+  {
+    "name": "Jahren Pandemie",
+    "query": "\"Jahren Pandemie\"",
+    "rank": 13,
+    "tweet_count": "1,342 Tweets"
   },
   {
     "name": "Infrastruktur",
     "query": "Infrastruktur",
+    "rank": 14,
+    "tweet_count": "7,154 Tweets"
+  },
+  {
+    "name": "Maske",
+    "query": "Maske",
+    "rank": 15,
+    "tweet_count": "13.4K Tweets"
+  },
+  {
+    "name": "Meldung",
+    "query": "Meldung",
+    "rank": 16,
+    "tweet_count": "1,438 Tweets"
+  },
+  {
+    "name": "Kosovo",
+    "query": "Kosovo",
+    "rank": 17,
+    "tweet_count": "3,362 Tweets"
+  },
+  {
+    "name": "D'ailleurs",
+    "query": "D'ailleurs",
     "rank": 18,
-    "tweet_count": "7,092 Tweets"
+    "tweet_count": "13.7K Tweets"
   }
 ]
