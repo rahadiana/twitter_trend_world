@@ -1,121 +1,121 @@
 [
   {
-    "name": "Demo",
-    "query": "Demo",
-    "rank": 1,
-    "tweet_count": "36.4K Tweets"
-  },
-  {
     "name": "#Schlagstocksaskia",
     "query": "#Schlagstocksaskia",
-    "rank": 2,
-    "tweet_count": "7,173 Tweets"
+    "rank": 1,
+    "tweet_count": "7,472 Tweets"
   },
   {
     "name": "#muc2212",
     "query": "#muc2212",
-    "rank": 3,
-    "tweet_count": "13.2K Tweets"
+    "rank": 2,
+    "tweet_count": "13.5K Tweets"
   },
   {
     "name": "#hadeb",
     "query": "#hadeb",
-    "rank": 4,
-    "tweet_count": "1,466 Tweets"
+    "rank": 3,
+    "tweet_count": "1,467 Tweets"
   },
   {
     "name": "#wmjk",
     "query": "#wmjk",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "München",
+    "query": "München",
+    "rank": 5,
+    "tweet_count": "16.9K Tweets"
   },
   {
     "name": "#LIVLEI",
     "query": "#LIVLEI",
     "rank": 6,
-    "tweet_count": "26.6K Tweets"
-  },
-  {
-    "name": "München",
-    "query": "München",
-    "rank": 7,
-    "tweet_count": "16.5K Tweets"
+    "tweet_count": "27.5K Tweets"
   },
   {
     "name": "Liverpool",
     "query": "Liverpool",
+    "rank": 7,
+    "tweet_count": "95.1K Tweets"
+  },
+  {
+    "name": "Demonstranten",
+    "query": "Demonstranten",
     "rank": 8,
-    "tweet_count": "92.9K Tweets"
+    "tweet_count": "4,191 Tweets"
   },
   {
     "name": "Wasserwerfer",
     "query": "Wasserwerfer",
     "rank": 9,
-    "tweet_count": "1,002 Tweets"
-  },
-  {
-    "name": "Klopp",
-    "query": "Klopp",
-    "rank": 10,
-    "tweet_count": "24.7K Tweets"
+    "tweet_count": "1,014 Tweets"
   },
   {
     "name": "Polizeikette",
     "query": "Polizeikette",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
+  },
+  {
+    "name": "Klopp",
+    "query": "Klopp",
+    "rank": 11,
+    "tweet_count": "25.4K Tweets"
   },
   {
     "name": "Kante",
     "query": "Kante",
     "rank": 12,
-    "tweet_count": "18.5K Tweets"
+    "tweet_count": "18.8K Tweets"
   },
   {
     "name": "Pfefferspray",
     "query": "Pfefferspray",
     "rank": 13,
-    "tweet_count": "1,485 Tweets"
+    "tweet_count": "1,545 Tweets"
   },
   {
     "name": "Servus TV",
     "query": "\"Servus TV\"",
     "rank": 14,
-    "tweet_count": "1,231 Tweets"
-  },
-  {
-    "name": "Robert",
-    "query": "Robert",
-    "rank": 15,
-    "tweet_count": "84.2K Tweets"
-  },
-  {
-    "name": "Mario",
-    "query": "Mario",
-    "rank": 16,
-    "tweet_count": "83.2K Tweets"
-  },
-  {
-    "name": "Kartoffelsalat",
-    "query": "Kartoffelsalat",
-    "rank": 17,
-    "tweet_count": "1,282 Tweets"
-  },
-  {
-    "name": "Gerechtigkeit",
-    "query": "Gerechtigkeit",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "1,254 Tweets"
   },
   {
     "name": "Polizeigewalt",
     "query": "Polizeigewalt",
-    "rank": 19,
+    "rank": 15,
+    "tweet_count": "1,010 Tweets"
+  },
+  {
+    "name": "Robert",
+    "query": "Robert",
+    "rank": 16,
+    "tweet_count": "85.1K Tweets"
+  },
+  {
+    "name": "Mario",
+    "query": "Mario",
+    "rank": 17,
+    "tweet_count": "83.9K Tweets"
+  },
+  {
+    "name": "mbit",
+    "query": "mbit",
+    "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "MBit",
-    "query": "MBit",
+    "name": "Kartoffelsalat",
+    "query": "Kartoffelsalat",
+    "rank": 19,
+    "tweet_count": "1,286 Tweets"
+  },
+  {
+    "name": "Gerechtigkeit",
+    "query": "Gerechtigkeit",
     "rank": 20,
     "tweet_count": null
   }
