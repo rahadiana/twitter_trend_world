@@ -1,27 +1,27 @@
 [
   {
+    "name": "El Gobierno",
+    "query": "\"El Gobierno\"",
+    "rank": 1,
+    "tweet_count": "253K Tweets"
+  },
+  {
     "name": "#MascarillasEnLaCalleNO",
     "query": "#MascarillasEnLaCalleNO",
-    "rank": 1,
-    "tweet_count": "13.7K Tweets"
+    "rank": 2,
+    "tweet_count": "17K Tweets"
   },
   {
     "name": "Sánchez",
     "query": "Sánchez",
-    "rank": 2,
-    "tweet_count": "106K Tweets"
+    "rank": 3,
+    "tweet_count": "109K Tweets"
   },
   {
     "name": "Perro Sanxe",
     "query": "\"Perro Sanxe\"",
-    "rank": 3,
-    "tweet_count": "1,286 Tweets"
-  },
-  {
-    "name": "Ferran Torres",
-    "query": "\"Ferran Torres\"",
     "rank": 4,
-    "tweet_count": "37.6K Tweets"
+    "tweet_count": "1,490 Tweets"
   },
   {
     "name": "Elisa Beni",
@@ -30,93 +30,93 @@
     "tweet_count": null
   },
   {
-    "name": "#TierraAmarga22Dic",
-    "query": "#TierraAmarga22Dic",
+    "name": "Ferran Torres",
+    "query": "\"Ferran Torres\"",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "38.8K Tweets"
   },
   {
-    "name": "#ElSonidoDelCosmere",
-    "query": "#ElSonidoDelCosmere",
+    "name": "#TierraAmarga22Dic",
+    "query": "#TierraAmarga22Dic",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "1,140 Tweets"
   },
   {
     "name": "Doctor Strange",
     "query": "\"Doctor Strange\"",
     "rank": 8,
-    "tweet_count": "130K Tweets"
+    "tweet_count": "137K Tweets"
+  },
+  {
+    "name": "#ElSonidoDelCosmere",
+    "query": "#ElSonidoDelCosmere",
+    "rank": 9,
+    "tweet_count": null
   },
   {
     "name": "#SorteoIbaiMovistar",
     "query": "#SorteoIbaiMovistar",
-    "rank": 9,
-    "tweet_count": "1,264 Tweets"
+    "rank": 10,
+    "tweet_count": "1,311 Tweets"
   },
   {
     "name": "Olona",
     "query": "Olona",
-    "rank": 10,
-    "tweet_count": "31K Tweets"
-  },
-  {
-    "name": "ME HA TOCADO",
-    "query": "\"ME HA TOCADO\"",
     "rank": 11,
-    "tweet_count": "34.7K Tweets"
+    "tweet_count": "31.6K Tweets"
   },
   {
-    "name": "#LoteriadeNavidad",
-    "query": "#LoteriadeNavidad",
+    "name": "2 Vacunas",
+    "query": "\"2 Vacunas\"",
     "rank": 12,
-    "tweet_count": "24.6K Tweets"
+    "tweet_count": "3,434 Tweets"
   },
   {
     "name": "Hermes",
     "query": "Hermes",
     "rank": 13,
-    "tweet_count": "8,437 Tweets"
+    "tweet_count": "8,590 Tweets"
   },
   {
-    "name": "Exteriores",
-    "query": "Exteriores",
+    "name": "#LoteriadeNavidad",
+    "query": "#LoteriadeNavidad",
     "rank": 14,
-    "tweet_count": "40.1K Tweets"
-  },
-  {
-    "name": "Athenea",
-    "query": "Athenea",
-    "rank": 15,
-    "tweet_count": null
+    "tweet_count": "24.8K Tweets"
   },
   {
     "name": "Pedrito",
     "query": "Pedrito",
-    "rank": 16,
-    "tweet_count": "3,104 Tweets"
+    "rank": 15,
+    "tweet_count": "3,178 Tweets"
   },
   {
-    "name": "Cospedal",
-    "query": "Cospedal",
+    "name": "Exteriores",
+    "query": "Exteriores",
+    "rank": 16,
+    "tweet_count": "44.7K Tweets"
+  },
+  {
+    "name": "0 Positivos",
+    "query": "\"0 Positivos\"",
     "rank": 17,
-    "tweet_count": "3,020 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Athenea",
+    "query": "Athenea",
+    "rank": 18,
+    "tweet_count": null
   },
   {
     "name": "Consejo de Ministros",
     "query": "\"Consejo de Ministros\"",
-    "rank": 18,
-    "tweet_count": "1,512 Tweets"
-  },
-  {
-    "name": "El FMI",
-    "query": "\"El FMI\"",
     "rank": 19,
-    "tweet_count": "7,627 Tweets"
+    "tweet_count": "1,641 Tweets"
   },
   {
-    "name": "Gordo",
-    "query": "Gordo",
+    "name": "ME HA TOCADO",
+    "query": "\"ME HA TOCADO\"",
     "rank": 20,
-    "tweet_count": "61.8K Tweets"
+    "tweet_count": "35.1K Tweets"
   }
 ]
