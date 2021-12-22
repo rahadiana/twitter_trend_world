@@ -3,13 +3,13 @@
     "name": "#CopaArgentina",
     "query": "#CopaArgentina",
     "rank": 1,
-    "tweet_count": "2,205 Tweets"
+    "tweet_count": "2,343 Tweets"
   },
   {
     "name": "#SantaRubius",
     "query": "#SantaRubius",
     "rank": 2,
-    "tweet_count": "18.9K Tweets"
+    "tweet_count": "22.1K Tweets"
   },
   {
     "name": "Sol de Mayo",
@@ -21,7 +21,7 @@
     "name": "#ShowDeLouisConLOS40",
     "query": "#ShowDeLouisConLOS40",
     "rank": 4,
-    "tweet_count": "3,894 Tweets"
+    "tweet_count": "3,971 Tweets"
   },
   {
     "name": "Central Córdoba de Rosario",
@@ -30,22 +30,22 @@
     "tweet_count": null
   },
   {
-    "name": "Deportivo Laferrere",
-    "query": "\"Deportivo Laferrere\"",
+    "name": "Laferrere",
+    "query": "Laferrere",
     "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "Central Norte de Salta",
+    "query": "\"Central Norte de Salta\"",
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "#VDayConEntel",
     "query": "#VDayConEntel",
-    "rank": 7,
-    "tweet_count": "107K Tweets"
-  },
-  {
-    "name": "Central Norte de Salta",
-    "query": "\"Central Norte de Salta\"",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "107K Tweets"
   },
   {
     "name": "Racing de Córdoba",
@@ -57,48 +57,66 @@
     "name": "Puerto Nuevo",
     "query": "\"Puerto Nuevo\"",
     "rank": 10,
-    "tweet_count": "1,004 Tweets"
-  },
-  {
-    "name": "Disney",
-    "query": "Disney",
-    "rank": 11,
-    "tweet_count": "179K Tweets"
+    "tweet_count": "1,014 Tweets"
   },
   {
     "name": "Jorge Rial",
     "query": "\"Jorge Rial\"",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
+  },
+  {
+    "name": "Disney",
+    "query": "Disney",
+    "rank": 12,
+    "tweet_count": "180K Tweets"
   },
   {
     "name": "Emily",
     "query": "Emily",
     "rank": 13,
-    "tweet_count": "80.1K Tweets"
+    "tweet_count": "81.1K Tweets"
+  },
+  {
+    "name": "Benedetto",
+    "query": "Benedetto",
+    "rank": 14,
+    "tweet_count": "1,631 Tweets"
   },
   {
     "name": "Yao Cabrera",
     "query": "\"Yao Cabrera\"",
-    "rank": 14,
-    "tweet_count": "2,981 Tweets"
-  },
-  {
-    "name": "#MiercolesDeGrieta",
-    "query": "#MiercolesDeGrieta",
     "rank": 15,
-    "tweet_count": null
+    "tweet_count": "3,052 Tweets"
   },
   {
     "name": "Elche",
     "query": "Elche",
     "rank": 16,
-    "tweet_count": "3,370 Tweets"
+    "tweet_count": "3,420 Tweets"
   },
   {
-    "name": "Benedetto",
-    "query": "Benedetto",
+    "name": "#RacingCba",
+    "query": "#RacingCba",
     "rank": 17,
-    "tweet_count": "1,610 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Cipolletti",
+    "query": "Cipolletti",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Curu",
+    "query": "Curu",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Dock Sud",
+    "query": "\"Dock Sud\"",
+    "rank": 20,
+    "tweet_count": null
   }
 ]
