@@ -1,49 +1,49 @@
 [
   {
+    "name": "#Naidoo",
+    "query": "#Naidoo",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "#Hawkeye",
     "query": "#Hawkeye",
-    "rank": 1,
-    "tweet_count": "63.1K Tweets"
-  },
-  {
-    "name": "#Kekule",
-    "query": "#Kekule",
     "rank": 2,
-    "tweet_count": "3,042 Tweets"
-  },
-  {
-    "name": "Xavier Naidoo",
-    "query": "\"Xavier Naidoo\"",
-    "rank": 3,
-    "tweet_count": null
+    "tweet_count": "69.5K Tweets"
   },
   {
     "name": "Antisemit",
     "query": "Antisemit",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Türchen 22",
     "query": "\"Türchen 22\"",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Wochenteiler",
     "query": "Wochenteiler",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "arbeitstag",
+    "query": "arbeitstag",
     "rank": 6,
     "tweet_count": null
   },
   {
-    "name": "Arbeitstag",
-    "query": "Arbeitstag",
+    "name": "Reitschuster",
+    "query": "Reitschuster",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "22.5K Tweets"
   },
   {
-    "name": "Kartoffelsalat",
-    "query": "Kartoffelsalat",
+    "name": "Start in den Tag",
+    "query": "\"Start in den Tag\"",
     "rank": 8,
     "tweet_count": null
   },
@@ -51,11 +51,11 @@
     "name": "Uni Halle",
     "query": "\"Uni Halle\"",
     "rank": 9,
-    "tweet_count": "5,660 Tweets"
+    "tweet_count": "5,792 Tweets"
   },
   {
-    "name": "Start in den Tag",
-    "query": "\"Start in den Tag\"",
+    "name": "Kartoffelsalat",
+    "query": "Kartoffelsalat",
     "rank": 10,
     "tweet_count": null
   },
@@ -69,36 +69,36 @@
     "name": "Frohe Weihnachten",
     "query": "\"Frohe Weihnachten\"",
     "rank": 12,
-    "tweet_count": "2,953 Tweets"
+    "tweet_count": "3,045 Tweets"
   },
   {
     "name": "Jesus",
     "query": "Jesus",
     "rank": 13,
-    "tweet_count": "285K Tweets"
+    "tweet_count": "288K Tweets"
   },
   {
-    "name": "Weihnachtsfest",
-    "query": "Weihnachtsfest",
+    "name": "Frost",
+    "query": "Frost",
     "rank": 14,
-    "tweet_count": "1,077 Tweets"
-  },
-  {
-    "name": "Merry Christmas",
-    "query": "\"Merry Christmas\"",
-    "rank": 15,
-    "tweet_count": "398K Tweets"
-  },
-  {
-    "name": "Jahr 2022",
-    "query": "\"Jahr 2022\"",
-    "rank": 16,
-    "tweet_count": "1,400 Tweets"
+    "tweet_count": "26K Tweets"
   },
   {
     "name": "Kälte",
     "query": "Kälte",
-    "rank": 17,
+    "rank": 15,
     "tweet_count": null
+  },
+  {
+    "name": "Weihnachtsfest",
+    "query": "Weihnachtsfest",
+    "rank": 16,
+    "tweet_count": "1,110 Tweets"
+  },
+  {
+    "name": "Merry Christmas",
+    "query": "\"Merry Christmas\"",
+    "rank": 17,
+    "tweet_count": "405K Tweets"
   }
 ]
