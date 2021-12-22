@@ -1,39 +1,39 @@
 [
   {
+    "name": "Demonstranten",
+    "query": "Demonstranten",
+    "rank": 1,
+    "tweet_count": "3,649 Tweets"
+  },
+  {
     "name": "Merry Christmas",
     "query": "\"Merry Christmas\"",
-    "rank": 1,
-    "tweet_count": "465K Tweets"
+    "rank": 2,
+    "tweet_count": "472K Tweets"
   },
   {
     "name": "#Schlagstocksaskia",
     "query": "#Schlagstocksaskia",
-    "rank": 2,
-    "tweet_count": "4,715 Tweets"
+    "rank": 3,
+    "tweet_count": "5,479 Tweets"
   },
   {
     "name": "#muc2212",
     "query": "#muc2212",
-    "rank": 3,
-    "tweet_count": "10.2K Tweets"
+    "rank": 4,
+    "tweet_count": "11.1K Tweets"
   },
   {
     "name": "#hadeb",
     "query": "#hadeb",
-    "rank": 4,
-    "tweet_count": "1,171 Tweets"
-  },
-  {
-    "name": "#tvtotal",
-    "query": "#tvtotal",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "1,343 Tweets"
   },
   {
-    "name": "München",
-    "query": "München",
+    "name": "#wmjk",
+    "query": "#wmjk",
     "rank": 6,
-    "tweet_count": "13.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Wasserwerfer",
@@ -42,75 +42,75 @@
     "tweet_count": null
   },
   {
-    "name": "pfefferspray",
-    "query": "pfefferspray",
+    "name": "München",
+    "query": "München",
     "rank": 8,
-    "tweet_count": "1,024 Tweets"
+    "tweet_count": "14.5K Tweets"
+  },
+  {
+    "name": "Kante",
+    "query": "Kante",
+    "rank": 9,
+    "tweet_count": "16.4K Tweets"
+  },
+  {
+    "name": "Pfefferspray",
+    "query": "Pfefferspray",
+    "rank": 10,
+    "tweet_count": "1,190 Tweets"
   },
   {
     "name": "Robert",
     "query": "Robert",
-    "rank": 9,
-    "tweet_count": "82.8K Tweets"
+    "rank": 11,
+    "tweet_count": "84.5K Tweets"
   },
   {
     "name": "Kartoffelsalat",
     "query": "Kartoffelsalat",
-    "rank": 10,
-    "tweet_count": "1,248 Tweets"
-  },
-  {
-    "name": "Polizeigewalt",
-    "query": "Polizeigewalt",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "MBit",
-    "query": "MBit",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "1,276 Tweets"
   },
   {
     "name": "Servus TV",
     "query": "\"Servus TV\"",
     "rank": 13,
-    "tweet_count": "1,022 Tweets"
+    "tweet_count": "1,128 Tweets"
   },
   {
-    "name": "Emily",
-    "query": "Emily",
+    "name": "Polizeigewalt",
+    "query": "Polizeigewalt",
     "rank": 14,
-    "tweet_count": "84.6K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "zweifelsfall",
-    "query": "zweifelsfall",
+    "name": "MBit",
+    "query": "MBit",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "Schöne Bescherung",
-    "query": "\"Schöne Bescherung\"",
+    "name": "Zweifelsfall",
+    "query": "Zweifelsfall",
     "rank": 16,
     "tweet_count": null
   },
   {
+    "name": "Emily",
+    "query": "Emily",
+    "rank": 17,
+    "tweet_count": "86.1K Tweets"
+  },
+  {
     "name": "Semester",
     "query": "Semester",
-    "rank": 17,
-    "tweet_count": "30.3K Tweets"
+    "rank": 18,
+    "tweet_count": "30.7K Tweets"
   },
   {
     "name": "Matrix",
     "query": "Matrix",
-    "rank": 18,
-    "tweet_count": "153K Tweets"
-  },
-  {
-    "name": "#wmjk",
-    "query": "#wmjk",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "156K Tweets"
   }
 ]
