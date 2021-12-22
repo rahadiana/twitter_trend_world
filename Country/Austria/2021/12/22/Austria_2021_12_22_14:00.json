@@ -1,13 +1,13 @@
 [
   {
-    "name": "#Falter",
-    "query": "#Falter",
+    "name": "#Schmid",
+    "query": "#Schmid",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "#Schmid",
-    "query": "#Schmid",
+    "name": "#Falter",
+    "query": "#Falter",
     "rank": 2,
     "tweet_count": null
   },
@@ -27,7 +27,7 @@
     "name": "Satire",
     "query": "Satire",
     "rank": 5,
-    "tweet_count": "9,722 Tweets"
+    "tweet_count": "9,853 Tweets"
   },
   {
     "name": "#gecko",
@@ -42,16 +42,16 @@
     "tweet_count": null
   },
   {
-    "name": "Chats",
-    "query": "Chats",
+    "name": "Sperrstunde",
+    "query": "Sperrstunde",
     "rank": 8,
-    "tweet_count": "17.6K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "ÖVP Kabinett",
-    "query": "\"ÖVP Kabinett\"",
+    "name": "Chats",
+    "query": "Chats",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "17.9K Tweets"
   },
   {
     "name": "Sexismus",
@@ -60,16 +60,16 @@
     "tweet_count": null
   },
   {
-    "name": "Sperrstunde",
-    "query": "Sperrstunde",
+    "name": "Brust",
+    "query": "Brust",
     "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "Brust",
-    "query": "Brust",
+    "name": "Silvester",
+    "query": "Silvester",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "4,728 Tweets"
   },
   {
     "name": "busen",
@@ -78,26 +78,26 @@
     "tweet_count": null
   },
   {
-    "name": "Silvester",
-    "query": "Silvester",
-    "rank": 14,
-    "tweet_count": "4,613 Tweets"
-  },
-  {
     "name": "frau thier",
     "query": "\"frau thier\"",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "Privatperson",
-    "query": "Privatperson",
-    "rank": 16,
+    "name": "ÖVP-Kabinett",
+    "query": "ÖVP-Kabinett",
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Empörung",
     "query": "Empörung",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Privatperson",
+    "query": "Privatperson",
     "rank": 17,
     "tweet_count": null
   },
@@ -105,18 +105,18 @@
     "name": "Weihnachten",
     "query": "Weihnachten",
     "rank": 18,
-    "tweet_count": "36.7K Tweets"
-  },
-  {
-    "name": "Klimek",
-    "query": "Klimek",
-    "rank": 19,
-    "tweet_count": null
+    "tweet_count": "37.3K Tweets"
   },
   {
     "name": "Böse",
     "query": "Böse",
+    "rank": 19,
+    "tweet_count": "1,945 Tweets"
+  },
+  {
+    "name": "Klimek",
+    "query": "Klimek",
     "rank": 20,
-    "tweet_count": "1,903 Tweets"
+    "tweet_count": null
   }
 ]
