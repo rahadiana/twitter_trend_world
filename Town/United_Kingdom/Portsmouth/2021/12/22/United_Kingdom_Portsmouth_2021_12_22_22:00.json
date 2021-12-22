@@ -1,37 +1,37 @@
 [
   {
-    "name": "Mane",
-    "query": "Mane",
+    "name": "Daka",
+    "query": "Daka",
     "rank": 1,
-    "tweet_count": "38.5K Tweets"
-  },
-  {
-    "name": "#Corrie",
-    "query": "#Corrie",
-    "rank": 2,
-    "tweet_count": "1,280 Tweets"
-  },
-  {
-    "name": "Chalobah",
-    "query": "Chalobah",
-    "rank": 3,
-    "tweet_count": "3,400 Tweets"
+    "tweet_count": "2,406 Tweets"
   },
   {
     "name": "Saul",
     "query": "Saul",
-    "rank": 4,
-    "tweet_count": "12.4K Tweets"
+    "rank": 2,
+    "tweet_count": "13.2K Tweets"
   },
   {
     "name": "Soucek",
     "query": "Soucek",
-    "rank": 5,
+    "rank": 3,
     "tweet_count": null
   },
   {
-    "name": "Yarmolenko",
-    "query": "Yarmolenko",
+    "name": "iheanacho",
+    "query": "iheanacho",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "Ricardo",
+    "query": "Ricardo",
+    "rank": 5,
+    "tweet_count": "33K Tweets"
+  },
+  {
+    "name": "Stevie B",
+    "query": "\"Stevie B\"",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,63 +42,63 @@
     "tweet_count": null
   },
   {
-    "name": "Fornals",
-    "query": "Fornals",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "#WHUFC",
-    "query": "#WHUFC",
-    "rank": 9,
-    "tweet_count": "1,322 Tweets"
-  },
-  {
-    "name": "Iheanacho",
-    "query": "Iheanacho",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "#EFLCup",
-    "query": "#EFLCup",
-    "rank": 11,
-    "tweet_count": "1,917 Tweets"
-  },
-  {
-    "name": "Daka",
-    "query": "Daka",
-    "rank": 12,
-    "tweet_count": "2,361 Tweets"
-  },
-  {
     "name": "Barca",
     "query": "Barca",
-    "rank": 13,
-    "tweet_count": "82.5K Tweets"
+    "rank": 8,
+    "tweet_count": "86.2K Tweets"
   },
   {
-    "name": "blair",
-    "query": "blair",
-    "rank": 14,
-    "tweet_count": "36.3K Tweets"
+    "name": "#LIVLEI",
+    "query": "#LIVLEI",
+    "rank": 9,
+    "tweet_count": "26.5K Tweets"
+  },
+  {
+    "name": "#LIVLEI",
+    "query": "#LIVLEI",
+    "rank": 10,
+    "tweet_count": "26.5K Tweets"
+  },
+  {
+    "name": "#CarabaoCup",
+    "query": "#CarabaoCup",
+    "rank": 11,
+    "tweet_count": "26K Tweets"
   },
   {
     "name": "West Ham",
     "query": "\"West Ham\"",
-    "rank": 15,
-    "tweet_count": "17.4K Tweets"
-  },
-  {
-    "name": "Bertrand",
-    "query": "Bertrand",
-    "rank": 16,
-    "tweet_count": "4,097 Tweets"
+    "rank": 12,
+    "tweet_count": "18K Tweets"
   },
   {
     "name": "Klopp",
     "query": "Klopp",
+    "rank": 13,
+    "tweet_count": "24.6K Tweets"
+  },
+  {
+    "name": "Bertrand",
+    "query": "Bertrand",
+    "rank": 14,
+    "tweet_count": "4,284 Tweets"
+  },
+  {
+    "name": "St Mirren",
+    "query": "\"St Mirren\"",
+    "rank": 15,
+    "tweet_count": "7,664 Tweets"
+  },
+  {
+    "name": "Rodgers",
+    "query": "Rodgers",
+    "rank": 16,
+    "tweet_count": "26.6K Tweets"
+  },
+  {
+    "name": "Abada",
+    "query": "Abada",
     "rank": 17,
-    "tweet_count": "22.7K Tweets"
+    "tweet_count": "1,440 Tweets"
   }
 ]
