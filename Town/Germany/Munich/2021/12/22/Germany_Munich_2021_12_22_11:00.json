@@ -1,27 +1,27 @@
 [
   {
-    "name": "Maßnahmen",
-    "query": "Maßnahmen",
-    "rank": 1,
-    "tweet_count": "24.2K Tweets"
-  },
-  {
     "name": "#Naidoo",
     "query": "#Naidoo",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "Antisemit",
     "query": "Antisemit",
-    "rank": 3,
-    "tweet_count": "1,662 Tweets"
+    "rank": 2,
+    "tweet_count": "1,779 Tweets"
   },
   {
-    "name": "#HawkeyeFinale",
-    "query": "#HawkeyeFinale",
+    "name": "#Hawkeye",
+    "query": "#Hawkeye",
+    "rank": 3,
+    "tweet_count": "89.7K Tweets"
+  },
+  {
+    "name": "#MyCryptoWish",
+    "query": "#MyCryptoWish",
     "rank": 4,
-    "tweet_count": "25.3K Tweets"
+    "tweet_count": "11.5K Tweets"
   },
   {
     "name": "#Wehrle",
@@ -30,34 +30,34 @@
     "tweet_count": null
   },
   {
-    "name": "#MyCryptoWish",
-    "query": "#MyCryptoWish",
-    "rank": 6,
-    "tweet_count": "10.6K Tweets"
-  },
-  {
     "name": "#DankeRKI",
     "query": "#DankeRKI",
-    "rank": 7,
-    "tweet_count": "1,113 Tweets"
+    "rank": 6,
+    "tweet_count": "1,156 Tweets"
   },
   {
-    "name": "Kartoffelsalat",
-    "query": "Kartoffelsalat",
-    "rank": 8,
-    "tweet_count": null
+    "name": "Ethikrat",
+    "query": "Ethikrat",
+    "rank": 7,
+    "tweet_count": "2,382 Tweets"
   },
   {
     "name": "Feiertage",
     "query": "Feiertage",
+    "rank": 8,
+    "tweet_count": "3,268 Tweets"
+  },
+  {
+    "name": "Kartoffelsalat",
+    "query": "Kartoffelsalat",
     "rank": 9,
-    "tweet_count": "3,197 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Bundesverfassungsgericht",
     "query": "Bundesverfassungsgericht",
     "rank": 10,
-    "tweet_count": "1,874 Tweets"
+    "tweet_count": "1,975 Tweets"
   },
   {
     "name": "Türchen 22",
@@ -75,48 +75,42 @@
     "name": "Uni Halle",
     "query": "\"Uni Halle\"",
     "rank": 13,
-    "tweet_count": "6,280 Tweets"
+    "tweet_count": "6,368 Tweets"
   },
   {
-    "name": "Reitschuster",
-    "query": "Reitschuster",
+    "name": "Jesus",
+    "query": "Jesus",
     "rank": 14,
-    "tweet_count": "23.8K Tweets"
+    "tweet_count": "289K Tweets"
   },
   {
     "name": "Merry Christmas",
     "query": "\"Merry Christmas\"",
     "rank": 15,
-    "tweet_count": "403K Tweets"
-  },
-  {
-    "name": "Schultag",
-    "query": "Schultag",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "407K Tweets"
   },
   {
     "name": "Rutsch",
     "query": "Rutsch",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
+  },
+  {
+    "name": "reitschuster",
+    "query": "reitschuster",
+    "rank": 17,
+    "tweet_count": "24.2K Tweets"
   },
   {
     "name": "Jahr 2022",
     "query": "\"Jahr 2022\"",
     "rank": 18,
-    "tweet_count": "1,437 Tweets"
+    "tweet_count": "1,474 Tweets"
   },
   {
-    "name": "Arbeitstag",
-    "query": "Arbeitstag",
+    "name": "Schultag",
+    "query": "Schultag",
     "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Kälte",
-    "query": "Kälte",
-    "rank": 20,
     "tweet_count": null
   }
 ]
