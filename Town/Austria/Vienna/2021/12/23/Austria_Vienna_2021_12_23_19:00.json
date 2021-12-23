@@ -1,27 +1,27 @@
 [
   {
-    "name": "Satire",
-    "query": "Satire",
-    "rank": 1,
-    "tweet_count": "8,239 Tweets"
-  },
-  {
     "name": "Christmas",
     "query": "Christmas",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "4.31M Tweets"
   },
   {
-    "name": "#Falter",
-    "query": "#Falter",
-    "rank": 3,
-    "tweet_count": null
+    "name": "Satire",
+    "query": "Satire",
+    "rank": 2,
+    "tweet_count": "8,307 Tweets"
   },
   {
     "name": "Frohe Weihnachten",
     "query": "\"Frohe Weihnachten\"",
+    "rank": 3,
+    "tweet_count": "8,511 Tweets"
+  },
+  {
+    "name": "#Falter",
+    "query": "#Falter",
     "rank": 4,
-    "tweet_count": "8,318 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#HurederReichen",
@@ -33,7 +33,7 @@
     "name": "Feiertage",
     "query": "Feiertage",
     "rank": 6,
-    "tweet_count": "7,210 Tweets"
+    "tweet_count": "7,312 Tweets"
   },
   {
     "name": "#Schmid",
@@ -45,7 +45,7 @@
     "name": "Weihnachtsfest",
     "query": "Weihnachtsfest",
     "rank": 8,
-    "tweet_count": "4,339 Tweets"
+    "tweet_count": "4,419 Tweets"
   },
   {
     "name": "Brust",
@@ -54,16 +54,16 @@
     "tweet_count": null
   },
   {
-    "name": "Sexismus",
-    "query": "Sexismus",
+    "name": "Frau Thier",
+    "query": "\"Frau Thier\"",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Chats",
-    "query": "Chats",
+    "name": "Sexismus",
+    "query": "Sexismus",
     "rank": 11,
-    "tweet_count": "16.8K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Privatperson",
@@ -72,16 +72,16 @@
     "tweet_count": null
   },
   {
-    "name": "Frau Thier",
-    "query": "\"Frau Thier\"",
+    "name": "Chats",
+    "query": "Chats",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "17K Tweets"
   },
   {
     "name": "Silvester",
     "query": "Silvester",
     "rank": 14,
-    "tweet_count": "4,135 Tweets"
+    "tweet_count": "4,189 Tweets"
   },
   {
     "name": "busen",
@@ -99,24 +99,24 @@
     "name": "Frohes Fest",
     "query": "\"Frohes Fest\"",
     "rank": 17,
-    "tweet_count": "2,028 Tweets"
+    "tweet_count": "2,064 Tweets"
   },
   {
     "name": "Jahr 2022",
     "query": "\"Jahr 2022\"",
     "rank": 18,
-    "tweet_count": "2,467 Tweets"
+    "tweet_count": "2,501 Tweets"
   },
   {
     "name": "Presserat",
     "query": "Presserat",
     "rank": 19,
-    "tweet_count": "1,066 Tweets"
+    "tweet_count": "1,068 Tweets"
   },
   {
     "name": "New Year",
     "query": "\"New Year\"",
     "rank": 20,
-    "tweet_count": "433K Tweets"
+    "tweet_count": "438K Tweets"
   }
 ]
