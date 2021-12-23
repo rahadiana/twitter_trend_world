@@ -1,45 +1,45 @@
 [
   {
-    "name": "#ChristmasEveEve",
-    "query": "#ChristmasEveEve",
+    "name": "Christmas Eve Eve",
+    "query": "\"Christmas Eve Eve\"",
     "rank": 1,
-    "tweet_count": "5,171 Tweets"
+    "tweet_count": "204K Tweets"
   },
   {
     "name": "Barney",
     "query": "Barney",
     "rank": 2,
-    "tweet_count": "6,381 Tweets"
+    "tweet_count": "6,617 Tweets"
   },
   {
     "name": "Dunnes",
     "query": "Dunnes",
     "rank": 3,
-    "tweet_count": "1,101 Tweets"
+    "tweet_count": "1,116 Tweets"
   },
   {
     "name": "Joan Didion",
     "query": "\"Joan Didion\"",
     "rank": 4,
-    "tweet_count": "59.1K Tweets"
+    "tweet_count": "60.3K Tweets"
   },
   {
     "name": "Jon Snow",
     "query": "\"Jon Snow\"",
     "rank": 5,
-    "tweet_count": "6,962 Tweets"
-  },
-  {
-    "name": "Barkley",
-    "query": "Barkley",
-    "rank": 6,
-    "tweet_count": "5,099 Tweets"
+    "tweet_count": "7,171 Tweets"
   },
   {
     "name": "Joe Brolly",
     "query": "\"Joe Brolly\"",
+    "rank": 6,
+    "tweet_count": "1,081 Tweets"
+  },
+  {
+    "name": "Barkley",
+    "query": "Barkley",
     "rank": 7,
-    "tweet_count": "1,071 Tweets"
+    "tweet_count": "5,136 Tweets"
   },
   {
     "name": "Kelleher",
@@ -48,16 +48,16 @@
     "tweet_count": "13.1K Tweets"
   },
   {
-    "name": "#faircity",
-    "query": "#faircity",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
     "name": "#LIVLEI",
     "query": "#LIVLEI",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": "12K Tweets"
+  },
+  {
+    "name": "#FairCity",
+    "query": "#FairCity",
+    "rank": 10,
+    "tweet_count": null
   },
   {
     "name": "Thomas Kinsella",
@@ -78,22 +78,22 @@
     "tweet_count": null
   },
   {
-    "name": "#CarabaoCup",
-    "query": "#CarabaoCup",
+    "name": "lee desmond",
+    "query": "\"lee desmond\"",
     "rank": 14,
-    "tweet_count": "21.7K Tweets"
-  },
-  {
-    "name": "Lee Desmond",
-    "query": "\"Lee Desmond\"",
-    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Nollaig Shona",
     "query": "\"Nollaig Shona\"",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
+  },
+  {
+    "name": "#carabaocup",
+    "query": "#carabaocup",
+    "rank": 16,
+    "tweet_count": "21.7K Tweets"
   },
   {
     "name": "#HawkeyeFinale",
@@ -105,18 +105,18 @@
     "name": "Troubles",
     "query": "Troubles",
     "rank": 18,
-    "tweet_count": "10.4K Tweets"
+    "tweet_count": "10.5K Tweets"
   },
   {
     "name": "Happy Xmas",
     "query": "\"Happy Xmas\"",
     "rank": 19,
-    "tweet_count": "20.1K Tweets"
+    "tweet_count": "20.4K Tweets"
   },
   {
     "name": "Emily",
     "query": "Emily",
     "rank": 20,
-    "tweet_count": "114K Tweets"
+    "tweet_count": "115K Tweets"
   }
 ]

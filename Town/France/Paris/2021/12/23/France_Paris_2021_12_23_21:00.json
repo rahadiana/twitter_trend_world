@@ -1,51 +1,51 @@
 [
   {
-    "name": "Porto",
-    "query": "Porto",
-    "rank": 1,
-    "tweet_count": "63.9K Tweets"
-  },
-  {
     "name": "#Sissi",
     "query": "#Sissi",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "#lemeilleurpatissier",
     "query": "#lemeilleurpatissier",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
-  },
-  {
-    "name": "#mavachou",
-    "query": "#mavachou",
-    "rank": 4,
-    "tweet_count": "4,123 Tweets"
   },
   {
     "name": "Mercotte",
     "query": "Mercotte",
-    "rank": 5,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#Prodiges",
     "query": "#Prodiges",
-    "rank": 6,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "#mavachou",
+    "query": "#mavachou",
+    "rank": 5,
+    "tweet_count": "4,267 Tweets"
   },
   {
     "name": "#WATERFALL",
     "query": "#WATERFALL",
+    "rank": 6,
+    "tweet_count": "1,011 Tweets"
+  },
+  {
+    "name": "Maud",
+    "query": "Maud",
     "rank": 7,
-    "tweet_count": "1,000 Tweets"
+    "tweet_count": "1,819 Tweets"
   },
   {
     "name": "Joan Didion",
     "query": "\"Joan Didion\"",
     "rank": 8,
-    "tweet_count": "59K Tweets"
+    "tweet_count": "60.3K Tweets"
   },
   {
     "name": "Romy Schneider",
@@ -57,66 +57,66 @@
     "name": "Joyeux Noël",
     "query": "\"Joyeux Noël\"",
     "rank": 10,
-    "tweet_count": "21.1K Tweets"
-  },
-  {
-    "name": "Logitech G",
-    "query": "\"Logitech G\"",
-    "rank": 11,
-    "tweet_count": "3,027 Tweets"
-  },
-  {
-    "name": "Maud",
-    "query": "Maud",
-    "rank": 12,
-    "tweet_count": "1,760 Tweets"
-  },
-  {
-    "name": "Barkhane",
-    "query": "Barkhane",
-    "rank": 13,
-    "tweet_count": "10.3K Tweets"
-  },
-  {
-    "name": "Cendrillon",
-    "query": "Cendrillon",
-    "rank": 14,
-    "tweet_count": null
+    "tweet_count": "21.3K Tweets"
   },
   {
     "name": "Mohamed",
     "query": "Mohamed",
-    "rank": 15,
-    "tweet_count": "23.2K Tweets"
+    "rank": 11,
+    "tweet_count": "23.5K Tweets"
+  },
+  {
+    "name": "Cendrillon",
+    "query": "Cendrillon",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "Logitech G",
+    "query": "\"Logitech G\"",
+    "rank": 13,
+    "tweet_count": "3,100 Tweets"
+  },
+  {
+    "name": "Porto",
+    "query": "Porto",
+    "rank": 14,
+    "tweet_count": "69.2K Tweets"
   },
   {
     "name": "Début 2021",
     "query": "\"Début 2021\"",
+    "rank": 15,
+    "tweet_count": "10.9K Tweets"
+  },
+  {
+    "name": "Barkhane",
+    "query": "Barkhane",
     "rank": 16,
-    "tweet_count": "10.8K Tweets"
+    "tweet_count": "10.4K Tweets"
   },
   {
     "name": "Armées",
     "query": "Armées",
     "rank": 17,
-    "tweet_count": "5,602 Tweets"
+    "tweet_count": "5,763 Tweets"
   },
   {
     "name": "Fin 2021",
     "query": "\"Fin 2021\"",
     "rank": 18,
-    "tweet_count": "16.3K Tweets"
+    "tweet_count": "16.5K Tweets"
   },
   {
-    "name": "Mali",
-    "query": "Mali",
+    "name": "Harry Potter",
+    "query": "\"Harry Potter\"",
     "rank": 19,
-    "tweet_count": "27.3K Tweets"
+    "tweet_count": "40.8K Tweets"
   },
   {
     "name": "Tiakola",
     "query": "Tiakola",
     "rank": 20,
-    "tweet_count": "2,684 Tweets"
+    "tweet_count": "2,722 Tweets"
   }
 ]
