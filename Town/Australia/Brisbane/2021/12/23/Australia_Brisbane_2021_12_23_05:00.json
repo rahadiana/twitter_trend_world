@@ -1,39 +1,39 @@
 [
   {
-    "name": "Hunt",
-    "query": "Hunt",
+    "name": "Greg Hunt",
+    "query": "\"Greg Hunt\"",
     "rank": 1,
-    "tweet_count": "41.8K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#COVID19nsw",
-    "query": "#COVID19nsw",
+    "name": "#Domicron",
+    "query": "#Domicron",
     "rank": 2,
-    "tweet_count": "1,996 Tweets"
+    "tweet_count": "5,616 Tweets"
   },
   {
     "name": "#nswpol",
     "query": "#nswpol",
     "rank": 3,
-    "tweet_count": "3,781 Tweets"
+    "tweet_count": "3,852 Tweets"
   },
   {
-    "name": "#Domicron",
-    "query": "#Domicron",
+    "name": "#COVID19nsw",
+    "query": "#COVID19nsw",
     "rank": 4,
-    "tweet_count": "5,500 Tweets"
+    "tweet_count": "2,020 Tweets"
   },
   {
     "name": "Na'ama",
     "query": "Na'ama",
     "rank": 5,
-    "tweet_count": "4,807 Tweets"
+    "tweet_count": "4,848 Tweets"
   },
   {
     "name": "NSW Premier",
     "query": "\"NSW Premier\"",
     "rank": 6,
-    "tweet_count": "4,635 Tweets"
+    "tweet_count": "4,741 Tweets"
   },
   {
     "name": "QLD CHO",
@@ -45,25 +45,25 @@
     "name": "#AEWDynamite",
     "query": "#AEWDynamite",
     "rank": 8,
-    "tweet_count": "68.3K Tweets"
+    "tweet_count": "68.7K Tweets"
   },
   {
     "name": "#COVID19Vic",
     "query": "#COVID19Vic",
     "rank": 9,
-    "tweet_count": "1,600 Tweets"
-  },
-  {
-    "name": "ATAGI",
-    "query": "ATAGI",
-    "rank": 10,
-    "tweet_count": "4,596 Tweets"
+    "tweet_count": "1,630 Tweets"
   },
   {
     "name": "Perrottet",
     "query": "Perrottet",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "ATAGI",
+    "query": "ATAGI",
     "rank": 11,
-    "tweet_count": "18.5K Tweets"
+    "tweet_count": "4,633 Tweets"
   },
   {
     "name": "Masks",
@@ -75,30 +75,24 @@
     "name": "Lisa",
     "query": "Lisa",
     "rank": 13,
-    "tweet_count": "228K Tweets"
+    "tweet_count": "230K Tweets"
   },
   {
     "name": "Coatsworth",
     "query": "Coatsworth",
     "rank": 14,
-    "tweet_count": "4,016 Tweets"
+    "tweet_count": "4,080 Tweets"
   },
   {
     "name": "#johnlovestolick",
     "query": "#johnlovestolick",
     "rank": 15,
-    "tweet_count": "1,172 Tweets"
+    "tweet_count": "1,203 Tweets"
   },
   {
     "name": "#MerryChristmas",
     "query": "#MerryChristmas",
     "rank": 16,
-    "tweet_count": "42K Tweets"
-  },
-  {
-    "name": "#MaskUp",
-    "query": "#MaskUp",
-    "rank": 17,
-    "tweet_count": "2,351 Tweets"
+    "tweet_count": "42.4K Tweets"
   }
 ]
