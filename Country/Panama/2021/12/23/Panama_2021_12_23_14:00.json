@@ -1,33 +1,33 @@
 [
   {
-    "name": "Benzema",
-    "query": "Benzema",
-    "rank": 1,
-    "tweet_count": "124K Tweets"
-  },
-  {
     "name": "Emily",
     "query": "Emily",
-    "rank": 2,
-    "tweet_count": "109K Tweets"
+    "rank": 1,
+    "tweet_count": "112K Tweets"
   },
   {
-    "name": "#Hawkeye",
-    "query": "#Hawkeye",
+    "name": "#HawkeyeFinale",
+    "query": "#HawkeyeFinale",
+    "rank": 2,
+    "tweet_count": "40K Tweets"
+  },
+  {
+    "name": "Benzema",
+    "query": "Benzema",
     "rank": 3,
-    "tweet_count": "161K Tweets"
+    "tweet_count": "125K Tweets"
   },
   {
     "name": "#VDayConEntel",
     "query": "#VDayConEntel",
     "rank": 4,
-    "tweet_count": "97.9K Tweets"
+    "tweet_count": "98K Tweets"
   },
   {
     "name": "Hazard",
     "query": "Hazard",
     "rank": 5,
-    "tweet_count": "28.6K Tweets"
+    "tweet_count": "28.9K Tweets"
   },
   {
     "name": "#vantegallerymemoire",
@@ -48,50 +48,50 @@
     "tweet_count": null
   },
   {
-    "name": "Karim",
-    "query": "Karim",
-    "rank": 9,
-    "tweet_count": "44.4K Tweets"
-  },
-  {
     "name": "Feliz Navidad",
     "query": "\"Feliz Navidad\"",
+    "rank": 9,
+    "tweet_count": "110K Tweets"
+  },
+  {
+    "name": "Karim",
+    "query": "Karim",
     "rank": 10,
-    "tweet_count": "107K Tweets"
+    "tweet_count": "44.9K Tweets"
   },
   {
     "name": "Amén",
     "query": "Amén",
     "rank": 11,
-    "tweet_count": "128K Tweets"
+    "tweet_count": "130K Tweets"
+  },
+  {
+    "name": "Albrook",
+    "query": "Albrook",
+    "rank": 12,
+    "tweet_count": null
   },
   {
     "name": "Culos",
     "query": "Culos",
-    "rank": 12,
-    "tweet_count": "6,948 Tweets"
-  },
-  {
-    "name": "David",
-    "query": "David",
     "rank": 13,
-    "tweet_count": "189K Tweets"
+    "tweet_count": "7,054 Tweets"
   },
   {
     "name": "Omicron",
     "query": "Omicron",
     "rank": 14,
-    "tweet_count": "819K Tweets"
+    "tweet_count": "835K Tweets"
   },
   {
     "name": "Pfizer",
     "query": "Pfizer",
     "rank": 15,
-    "tweet_count": "167K Tweets"
+    "tweet_count": "169K Tweets"
   },
   {
-    "name": "teresina vigil",
-    "query": "\"teresina vigil\"",
+    "name": "Teresina Vigil",
+    "query": "\"Teresina Vigil\"",
     "rank": 16,
     "tweet_count": null
   },
@@ -99,24 +99,24 @@
     "name": "Clint",
     "query": "Clint",
     "rank": 17,
-    "tweet_count": "30.9K Tweets"
-  },
-  {
-    "name": "Christmas",
-    "query": "Christmas",
-    "rank": 18,
-    "tweet_count": "2.08M Tweets"
+    "tweet_count": "31.2K Tweets"
   },
   {
     "name": "Kate",
     "query": "Kate",
-    "rank": 19,
-    "tweet_count": "94.7K Tweets"
+    "rank": 18,
+    "tweet_count": "95.9K Tweets"
   },
   {
-    "name": "Mayin",
-    "query": "Mayin",
-    "rank": 20,
+    "name": "mayin",
+    "query": "mayin",
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "Ferran Torres",
+    "query": "\"Ferran Torres\"",
+    "rank": 20,
+    "tweet_count": "65.3K Tweets"
   }
 ]
