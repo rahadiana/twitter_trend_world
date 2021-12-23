@@ -3,7 +3,7 @@
     "name": "Christmas",
     "query": "Christmas",
     "rank": 1,
-    "tweet_count": "3.05M Tweets"
+    "tweet_count": "2.77M Tweets"
   },
   {
     "name": "Ziemassvētkus",
@@ -12,14 +12,14 @@
     "tweet_count": null
   },
   {
-    "name": "jauno",
-    "query": "jauno",
+    "name": "Jauno",
+    "query": "Jauno",
     "rank": 3,
     "tweet_count": null
   },
   {
-    "name": "Latvijas Radio",
-    "query": "\"Latvijas Radio\"",
+    "name": "latvijas radio",
+    "query": "\"latvijas radio\"",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,11 +27,11 @@
     "name": "Labs",
     "query": "Labs",
     "rank": 5,
-    "tweet_count": "20K Tweets"
+    "tweet_count": "20.1K Tweets"
   },
   {
-    "name": "#kasnotieklatvijā",
-    "query": "#kasnotieklatvijā",
+    "name": "#KasNotiekLatvijā",
+    "query": "#KasNotiekLatvijā",
     "rank": 6,
     "tweet_count": null
   },
@@ -54,16 +54,16 @@
     "tweet_count": null
   },
   {
-    "name": "beidzot",
-    "query": "beidzot",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
     "name": "Diez",
     "query": "Diez",
+    "rank": 10,
+    "tweet_count": "15.4K Tweets"
+  },
+  {
+    "name": "Beidzot",
+    "query": "Beidzot",
     "rank": 11,
-    "tweet_count": "15.3K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Trojanskis",
@@ -78,39 +78,39 @@
     "tweet_count": null
   },
   {
-    "name": "deltu",
-    "query": "deltu",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
     "name": "Vienkārši",
     "query": "Vienkārši",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Vecrīgā",
     "query": "Vecrīgā",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "igaunijā",
     "query": "igaunijā",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "saprotu",
     "query": "saprotu",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Dieva",
     "query": "Dieva",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Labi",
+    "query": "Labi",
+    "rank": 19,
+    "tweet_count": "3,997 Tweets"
   }
 ]
