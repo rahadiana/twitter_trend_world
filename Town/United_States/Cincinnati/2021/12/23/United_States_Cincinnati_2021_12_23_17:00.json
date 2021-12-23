@@ -1,110 +1,116 @@
 [
   {
-    "name": "Watson",
-    "query": "Watson",
-    "rank": 1,
-    "tweet_count": "11.6K Tweets"
-  },
-  {
     "name": "Wayne",
     "query": "Wayne",
+    "rank": 1,
+    "tweet_count": "81.6K Tweets"
+  },
+  {
+    "name": "Watson",
+    "query": "Watson",
     "rank": 2,
-    "tweet_count": "79.4K Tweets"
+    "tweet_count": "12.1K Tweets"
   },
   {
     "name": "Jay Z",
     "query": "\"Jay Z\"",
     "rank": 3,
-    "tweet_count": "49.7K Tweets"
-  },
-  {
-    "name": "Happy Festivus",
-    "query": "\"Happy Festivus\"",
-    "rank": 4,
-    "tweet_count": "15.5K Tweets"
-  },
-  {
-    "name": "Christmas Eve Eve",
-    "query": "\"Christmas Eve Eve\"",
-    "rank": 5,
-    "tweet_count": "156K Tweets"
+    "tweet_count": "8,338 Tweets"
   },
   {
     "name": "Joan Didion",
     "query": "\"Joan Didion\"",
-    "rank": 6,
-    "tweet_count": "2,409 Tweets"
-  },
-  {
-    "name": "Candace Owens",
-    "query": "\"Candace Owens\"",
-    "rank": 7,
-    "tweet_count": "19.4K Tweets"
+    "rank": 4,
+    "tweet_count": "16K Tweets"
   },
   {
     "name": "Ian Book",
     "query": "\"Ian Book\"",
-    "rank": 8,
-    "tweet_count": "1,247 Tweets"
+    "rank": 5,
+    "tweet_count": "3,206 Tweets"
   },
   {
-    "name": "Harry and Meghan",
-    "query": "\"Harry and Meghan\"",
+    "name": "Happy Festivus",
+    "query": "\"Happy Festivus\"",
+    "rank": 6,
+    "tweet_count": "16.9K Tweets"
+  },
+  {
+    "name": "Christmas Eve Eve",
+    "query": "\"Christmas Eve Eve\"",
+    "rank": 7,
+    "tweet_count": "166K Tweets"
+  },
+  {
+    "name": "Candace Owens",
+    "query": "\"Candace Owens\"",
+    "rank": 8,
+    "tweet_count": "22K Tweets"
+  },
+  {
+    "name": "#HarryandMeghan",
+    "query": "#HarryandMeghan",
     "rank": 9,
-    "tweet_count": "12.9K Tweets"
+    "tweet_count": "6,140 Tweets"
   },
   {
     "name": "#ThursdayThoughts",
     "query": "#ThursdayThoughts",
     "rank": 10,
-    "tweet_count": "17.9K Tweets"
+    "tweet_count": "18.9K Tweets"
+  },
+  {
+    "name": "Eve Babitz",
+    "query": "\"Eve Babitz\"",
+    "rank": 11,
+    "tweet_count": null
   },
   {
     "name": "#attexploresweeps",
     "query": "#attexploresweeps",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "#ThingsYouShouldNeverDoOnXMas",
     "query": "#ThingsYouShouldNeverDoOnXMas",
-    "rank": 12,
-    "tweet_count": null
+    "rank": 13,
+    "tweet_count": "1,191 Tweets"
   },
   {
     "name": "#1YearWithChristmasLove",
     "query": "#1YearWithChristmasLove",
-    "rank": 13,
-    "tweet_count": "106K Tweets"
-  },
-  {
-    "name": "#ThursdayMotivation",
-    "query": "#ThursdayMotivation",
     "rank": 14,
-    "tweet_count": "38.9K Tweets"
+    "tweet_count": "112K Tweets"
   },
   {
     "name": "Total Drama",
     "query": "\"Total Drama\"",
     "rank": 15,
-    "tweet_count": "8,340 Tweets"
+    "tweet_count": "8,835 Tweets"
   },
   {
     "name": "Ms. Fitz",
     "query": "\"Ms. Fitz\"",
     "rank": 16,
-    "tweet_count": "18.2K Tweets"
+    "tweet_count": "19.2K Tweets"
   },
   {
-    "name": "Gaslight",
-    "query": "Gaslight",
+    "name": "New Journalist",
+    "query": "\"New Journalist\"",
     "rank": 17,
-    "tweet_count": "8,948 Tweets"
+    "tweet_count": "1,693 Tweets"
+  },
+  {
+    "name": "Who Explored Culture and Chaos",
+    "query": "\"Who Explored Culture and Chaos\"",
+    "rank": 18,
+    "tweet_count": null
   },
   {
     "name": "Russ Rose",
     "query": "\"Russ Rose\"",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   }
 ]

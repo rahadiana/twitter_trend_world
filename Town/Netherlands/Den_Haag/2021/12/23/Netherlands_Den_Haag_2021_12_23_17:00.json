@@ -1,33 +1,33 @@
 [
   {
-    "name": "#ajafor",
-    "query": "#ajafor",
-    "rank": 1,
-    "tweet_count": "3,200 Tweets"
-  },
-  {
     "name": "Rob Jetten",
     "query": "\"Rob Jetten\"",
-    "rank": 2,
-    "tweet_count": "2,885 Tweets"
+    "rank": 1,
+    "tweet_count": "2,927 Tweets"
   },
   {
     "name": "Christmas",
     "query": "Christmas",
-    "rank": 3,
-    "tweet_count": "2.2M Tweets"
+    "rank": 2,
+    "tweet_count": "2.27M Tweets"
   },
   {
-    "name": "#utrtwe",
-    "query": "#utrtwe",
-    "rank": 4,
-    "tweet_count": "1,383 Tweets"
+    "name": "#ajafor",
+    "query": "#ajafor",
+    "rank": 3,
+    "tweet_count": "3,158 Tweets"
   },
   {
     "name": "Defensie",
     "query": "Defensie",
+    "rank": 4,
+    "tweet_count": "4,906 Tweets"
+  },
+  {
+    "name": "#utrtwe",
+    "query": "#utrtwe",
     "rank": 5,
-    "tweet_count": "4,753 Tweets"
+    "tweet_count": "1,364 Tweets"
   },
   {
     "name": "#heefey",
@@ -42,16 +42,16 @@
     "tweet_count": null
   },
   {
-    "name": "Oostenrijk",
-    "query": "Oostenrijk",
+    "name": "Fijne",
+    "query": "Fijne",
     "rank": 8,
-    "tweet_count": "2,080 Tweets"
+    "tweet_count": "12.1K Tweets"
   },
   {
-    "name": "Novavax",
-    "query": "Novavax",
+    "name": "Oostenrijk",
+    "query": "Oostenrijk",
     "rank": 9,
-    "tweet_count": "11K Tweets"
+    "tweet_count": "2,140 Tweets"
   },
   {
     "name": "Gezondheidsraad",
@@ -60,26 +60,26 @@
     "tweet_count": null
   },
   {
-    "name": "Fijne",
-    "query": "Fijne",
+    "name": "Novavax",
+    "query": "Novavax",
     "rank": 11,
-    "tweet_count": "11.5K Tweets"
+    "tweet_count": "11.3K Tweets"
+  },
+  {
+    "name": "maarten van rossem",
+    "query": "\"maarten van rossem\"",
+    "rank": 12,
+    "tweet_count": null
   },
   {
     "name": "Beatrice de Graaf",
     "query": "\"Beatrice de Graaf\"",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Brinta",
     "query": "Brinta",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "maarten van rossem",
-    "query": "\"maarten van rossem\"",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,29 +87,29 @@
     "name": "Sylvana",
     "query": "Sylvana",
     "rank": 15,
-    "tweet_count": "1,326 Tweets"
+    "tweet_count": "1,376 Tweets"
   },
   {
     "name": "Attje",
     "query": "Attje",
     "rank": 16,
-    "tweet_count": "1,664 Tweets"
+    "tweet_count": "1,692 Tweets"
   },
   {
-    "name": "N-wegen",
-    "query": "N-wegen",
+    "name": "veerman",
+    "query": "veerman",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Omroep Gelderland",
-    "query": "\"Omroep Gelderland\"",
+    "name": "n-wegen",
+    "query": "n-wegen",
     "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "Veerman",
-    "query": "Veerman",
+    "name": "rensch",
+    "query": "rensch",
     "rank": 19,
     "tweet_count": null
   }
