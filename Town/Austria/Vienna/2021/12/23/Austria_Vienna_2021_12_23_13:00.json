@@ -9,7 +9,7 @@
     "name": "Satire",
     "query": "Satire",
     "rank": 2,
-    "tweet_count": "8,256 Tweets"
+    "tweet_count": "8,440 Tweets"
   },
   {
     "name": "#HurederReichen",
@@ -24,34 +24,34 @@
     "tweet_count": null
   },
   {
-    "name": "chats",
-    "query": "chats",
-    "rank": 5,
-    "tweet_count": "18.9K Tweets"
-  },
-  {
     "name": "Christmas",
     "query": "Christmas",
-    "rank": 6,
-    "tweet_count": "2.61M Tweets"
-  },
-  {
-    "name": "Privatperson",
-    "query": "Privatperson",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
-    "name": "Brust",
-    "query": "Brust",
-    "rank": 8,
-    "tweet_count": null
+    "rank": 5,
+    "tweet_count": "2.5M Tweets"
   },
   {
     "name": "Weihnachten",
     "query": "Weihnachten",
+    "rank": 6,
+    "tweet_count": "37.1K Tweets"
+  },
+  {
+    "name": "Brust",
+    "query": "Brust",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "Chats",
+    "query": "Chats",
+    "rank": 8,
+    "tweet_count": "19.2K Tweets"
+  },
+  {
+    "name": "Privatperson",
+    "query": "Privatperson",
     "rank": 9,
-    "tweet_count": "35.7K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Frau Thier",
@@ -60,38 +60,38 @@
     "tweet_count": null
   },
   {
+    "name": "Feiertage",
+    "query": "Feiertage",
+    "rank": 11,
+    "tweet_count": "5,348 Tweets"
+  },
+  {
     "name": "Sexismus",
     "query": "Sexismus",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Busen",
     "query": "Busen",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Feiertage",
-    "query": "Feiertage",
     "rank": 13,
-    "tweet_count": "5,077 Tweets"
-  },
-  {
-    "name": "#oevp",
-    "query": "#oevp",
-    "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "Presserat",
-    "query": "Presserat",
-    "rank": 15,
+    "name": "presserat",
+    "query": "presserat",
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Empörung",
     "query": "Empörung",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "#OEVP",
+    "query": "#OEVP",
     "rank": 16,
     "tweet_count": null
   },
@@ -99,7 +99,7 @@
     "name": "Weihnachtsfest",
     "query": "Weihnachtsfest",
     "rank": 17,
-    "tweet_count": "2,822 Tweets"
+    "tweet_count": "2,972 Tweets"
   },
   {
     "name": "#pressekonferenz",
@@ -111,12 +111,12 @@
     "name": "Silvester",
     "query": "Silvester",
     "rank": 19,
-    "tweet_count": "3,821 Tweets"
+    "tweet_count": "4,011 Tweets"
   },
   {
     "name": "Maria",
     "query": "Maria",
     "rank": 20,
-    "tweet_count": "179K Tweets"
+    "tweet_count": "183K Tweets"
   }
 ]
