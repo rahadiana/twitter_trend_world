@@ -1,50 +1,62 @@
 [
   {
-    "name": "Merry Christmas",
-    "query": "\"Merry Christmas\"",
+    "name": "Merry Christmas Eve",
+    "query": "\"Merry Christmas Eve\"",
     "rank": 1,
-    "tweet_count": "1.71M Tweets"
+    "tweet_count": "247K Tweets"
   },
   {
     "name": "Joyeux Noël",
     "query": "\"Joyeux Noël\"",
     "rank": 2,
-    "tweet_count": "92.6K Tweets"
+    "tweet_count": "96.9K Tweets"
+  },
+  {
+    "name": "Santa",
+    "query": "Santa",
+    "rank": 3,
+    "tweet_count": "690K Tweets"
   },
   {
     "name": "#GetWellSoonYoongi",
     "query": "#GetWellSoonYoongi",
-    "rank": 3,
-    "tweet_count": "124K Tweets"
+    "rank": 4,
+    "tweet_count": "128K Tweets"
   },
   {
     "name": "New Year",
     "query": "\"New Year\"",
-    "rank": 4,
-    "tweet_count": "539K Tweets"
-  },
-  {
-    "name": "Wishing",
-    "query": "Wishing",
     "rank": 5,
-    "tweet_count": "218K Tweets"
-  },
-  {
-    "name": "Joyeuses Fêtes",
-    "query": "\"Joyeuses Fêtes\"",
-    "rank": 6,
-    "tweet_count": "21.7K Tweets"
+    "tweet_count": "551K Tweets"
   },
   {
     "name": "Merry Xmas",
     "query": "\"Merry Xmas\"",
+    "rank": 6,
+    "tweet_count": "294K Tweets"
+  },
+  {
+    "name": "Joyeuses Fêtes",
+    "query": "\"Joyeuses Fêtes\"",
     "rank": 7,
-    "tweet_count": "284K Tweets"
+    "tweet_count": "22.4K Tweets"
+  },
+  {
+    "name": "Wishing",
+    "query": "Wishing",
+    "rank": 8,
+    "tweet_count": "224K Tweets"
   },
   {
     "name": "Ed Sheeran",
     "query": "\"Ed Sheeran\"",
-    "rank": 8,
-    "tweet_count": "47.2K Tweets"
+    "rank": 9,
+    "tweet_count": "48.4K Tweets"
+  },
+  {
+    "name": "#holidayseason",
+    "query": "#holidayseason",
+    "rank": 10,
+    "tweet_count": "11.4K Tweets"
   }
 ]

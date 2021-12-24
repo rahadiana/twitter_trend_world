@@ -1,15 +1,15 @@
 [
   {
-    "name": "Christmas",
-    "query": "Christmas",
+    "name": "Merry Christmas Eve",
+    "query": "\"Merry Christmas Eve\"",
     "rank": 1,
-    "tweet_count": "2.21M Tweets"
+    "tweet_count": "248K Tweets"
   },
   {
     "name": "God Jul",
     "query": "\"God Jul\"",
     "rank": 2,
-    "tweet_count": "35K Tweets"
+    "tweet_count": "36.1K Tweets"
   },
   {
     "name": "Askepott",
@@ -33,7 +33,7 @@
     "name": "Reisen",
     "query": "Reisen",
     "rank": 6,
-    "tweet_count": "2,462 Tweets"
+    "tweet_count": "2,508 Tweets"
   },
   {
     "name": "Kondolerer",
@@ -54,20 +54,20 @@
     "tweet_count": null
   },
   {
-    "name": "Merry Xmas",
-    "query": "\"Merry Xmas\"",
-    "rank": 10,
-    "tweet_count": "285K Tweets"
-  },
-  {
     "name": "Tre Nøtter",
     "query": "\"Tre Nøtter\"",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Hovmesteren",
-    "query": "Hovmesteren",
+    "name": "Takk",
+    "query": "Takk",
+    "rank": 11,
+    "tweet_count": "3,557 Tweets"
+  },
+  {
+    "name": "hovmesteren",
+    "query": "hovmesteren",
     "rank": 12,
     "tweet_count": null
   },
@@ -78,45 +78,45 @@
     "tweet_count": null
   },
   {
-    "name": "Takk",
-    "query": "Takk",
-    "rank": 14,
-    "tweet_count": "3,529 Tweets"
-  },
-  {
     "name": "Pinnekjøtt",
     "query": "Pinnekjøtt",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "blefjell",
     "query": "blefjell",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Ribbe",
     "query": "Ribbe",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "Santa",
-    "query": "Santa",
-    "rank": 18,
-    "tweet_count": "674K Tweets"
-  },
-  {
-    "name": "valdres",
-    "query": "valdres",
-    "rank": 19,
+    "name": "Valdres",
+    "query": "Valdres",
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Morton",
     "query": "Morton",
+    "rank": 18,
+    "tweet_count": "2,801 Tweets"
+  },
+  {
+    "name": "Julen",
+    "query": "Julen",
+    "rank": 19,
+    "tweet_count": "8,166 Tweets"
+  },
+  {
+    "name": "sjusjøen",
+    "query": "sjusjøen",
     "rank": 20,
-    "tweet_count": "2,749 Tweets"
+    "tweet_count": null
   }
 ]
