@@ -1,122 +1,116 @@
 [
   {
-    "name": "#holachilelared",
-    "query": "#holachilelared",
+    "name": "Andrés Bello",
+    "query": "\"Andrés Bello\"",
     "rank": 1,
-    "tweet_count": "3,932 Tweets"
-  },
-  {
-    "name": "Joan Didion",
-    "query": "\"Joan Didion\"",
-    "rank": 2,
-    "tweet_count": "81K Tweets"
+    "tweet_count": "3,273 Tweets"
   },
   {
     "name": "Tere",
     "query": "Tere",
-    "rank": 3,
-    "tweet_count": "27.1K Tweets"
-  },
-  {
-    "name": "Andrés Bello",
-    "query": "\"Andrés Bello\"",
-    "rank": 4,
-    "tweet_count": "3,157 Tweets"
+    "rank": 2,
+    "tweet_count": "27.9K Tweets"
   },
   {
     "name": "#HappyBirthdayLouisTomlinson",
     "query": "#HappyBirthdayLouisTomlinson",
-    "rank": 5,
-    "tweet_count": "58.4K Tweets"
-  },
-  {
-    "name": "#KastSigueSiendoElLider",
-    "query": "#KastSigueSiendoElLider",
-    "rank": 6,
-    "tweet_count": "4,861 Tweets"
+    "rank": 3,
+    "tweet_count": "65.4K Tweets"
   },
   {
     "name": "#SanadoresLaRed",
     "query": "#SanadoresLaRed",
-    "rank": 7,
-    "tweet_count": "1,120 Tweets"
+    "rank": 4,
+    "tweet_count": "1,796 Tweets"
   },
   {
-    "name": "#ApagaTVAbierta",
-    "query": "#ApagaTVAbierta",
-    "rank": 8,
-    "tweet_count": "22.5K Tweets"
-  },
-  {
-    "name": "Feliz Navidad",
-    "query": "\"Feliz Navidad\"",
-    "rank": 9,
-    "tweet_count": "183K Tweets"
-  },
-  {
-    "name": "Lucas",
-    "query": "Lucas",
-    "rank": 10,
-    "tweet_count": "87.6K Tweets"
-  },
-  {
-    "name": "Christmas",
-    "query": "Christmas",
-    "rank": 11,
-    "tweet_count": "2.22M Tweets"
-  },
-  {
-    "name": "Ossandon",
-    "query": "Ossandon",
-    "rank": 12,
-    "tweet_count": "4,347 Tweets"
-  },
-  {
-    "name": "Periodismo",
-    "query": "Periodismo",
-    "rank": 13,
-    "tweet_count": "17.6K Tweets"
-  },
-  {
-    "name": "Providencia",
-    "query": "Providencia",
-    "rank": 14,
-    "tweet_count": "11.4K Tweets"
-  },
-  {
-    "name": "Paren",
-    "query": "Paren",
-    "rank": 15,
-    "tweet_count": "6,798 Tweets"
-  },
-  {
-    "name": "Año Nuevo",
-    "query": "\"Año Nuevo\"",
-    "rank": 16,
-    "tweet_count": "53.3K Tweets"
-  },
-  {
-    "name": "Presidente Boric",
-    "query": "\"Presidente Boric\"",
-    "rank": 17,
-    "tweet_count": "19.5K Tweets"
-  },
-  {
-    "name": "#PrensaBasura",
-    "query": "#PrensaBasura",
-    "rank": 18,
-    "tweet_count": "4,395 Tweets"
+    "name": "#KastSigueSiendoElLider",
+    "query": "#KastSigueSiendoElLider",
+    "rank": 5,
+    "tweet_count": "5,341 Tweets"
   },
   {
     "name": "#AmarProfundo",
     "query": "#AmarProfundo",
-    "rank": 19,
+    "rank": 6,
+    "tweet_count": "1,137 Tweets"
+  },
+  {
+    "name": "Feliz Navidad",
+    "query": "\"Feliz Navidad\"",
+    "rank": 7,
+    "tweet_count": "189K Tweets"
+  },
+  {
+    "name": "Ossandon",
+    "query": "Ossandon",
+    "rank": 8,
+    "tweet_count": "4,569 Tweets"
+  },
+  {
+    "name": "Christmas",
+    "query": "Christmas",
+    "rank": 9,
+    "tweet_count": "2.33M Tweets"
+  },
+  {
+    "name": "Periodismo",
+    "query": "Periodismo",
+    "rank": 10,
+    "tweet_count": "18.2K Tweets"
+  },
+  {
+    "name": "Joan Didion",
+    "query": "\"Joan Didion\"",
+    "rank": 11,
+    "tweet_count": "83.2K Tweets"
+  },
+  {
+    "name": "50 Lucas",
+    "query": "\"50 Lucas\"",
+    "rank": 12,
+    "tweet_count": "7,401 Tweets"
+  },
+  {
+    "name": "Emily",
+    "query": "Emily",
+    "rank": 13,
+    "tweet_count": "117K Tweets"
+  },
+  {
+    "name": "Paren",
+    "query": "Paren",
+    "rank": 14,
+    "tweet_count": "7,063 Tweets"
+  },
+  {
+    "name": "Año Nuevo",
+    "query": "\"Año Nuevo\"",
+    "rank": 15,
+    "tweet_count": "55.4K Tweets"
+  },
+  {
+    "name": "#PrensaBasura",
+    "query": "#PrensaBasura",
+    "rank": 16,
+    "tweet_count": "5,262 Tweets"
+  },
+  {
+    "name": "#ApagaTVAbierta",
+    "query": "#ApagaTVAbierta",
+    "rank": 17,
+    "tweet_count": "23.9K Tweets"
+  },
+  {
+    "name": "#NoNosDejenSinHogar",
+    "query": "#NoNosDejenSinHogar",
+    "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "#Walls",
-    "query": "#Walls",
-    "rank": 20,
-    "tweet_count": "47.3K Tweets"
+    "name": "#eldiscipulochv",
+    "query": "#eldiscipulochv",
+    "rank": 19,
+    "tweet_count": null
   }
 ]
