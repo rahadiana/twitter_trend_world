@@ -9,17 +9,17 @@
     "name": "Christmas",
     "query": "Christmas",
     "rank": 2,
-    "tweet_count": "3.44M Tweets"
-  },
-  {
-    "name": "בוקר טוב",
-    "query": "\"בוקר טוב\"",
-    "rank": 3,
-    "tweet_count": null
+    "tweet_count": "3.14M Tweets"
   },
   {
     "name": "עוד צער",
     "query": "\"עוד צער\"",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "בוקר טוב",
+    "query": "\"בוקר טוב\"",
     "rank": 4,
     "tweet_count": null
   },
@@ -33,7 +33,7 @@
     "name": "#انقذوا_برقه",
     "query": "#انقذوا_برقه",
     "rank": 6,
-    "tweet_count": "36.7K Tweets"
+    "tweet_count": "37.3K Tweets"
   },
   {
     "name": "מזל טוב איריס",
@@ -57,7 +57,7 @@
     "name": "בן גביר",
     "query": "\"בן גביר\"",
     "rank": 10,
-    "tweet_count": "2,601 Tweets"
+    "tweet_count": "2,626 Tweets"
   },
   {
     "name": "ברוך דיין",
@@ -72,8 +72,8 @@
     "tweet_count": null
   },
   {
-    "name": "תודה רבה",
-    "query": "\"תודה רבה\"",
+    "name": "חג שמח",
+    "query": "\"חג שמח\"",
     "rank": 13,
     "tweet_count": null
   },
@@ -81,25 +81,25 @@
     "name": "#China",
     "query": "#China",
     "rank": 14,
-    "tweet_count": "25.8K Tweets"
+    "tweet_count": "26.2K Tweets"
+  },
+  {
+    "name": "Santa",
+    "query": "Santa",
+    "rank": 15,
+    "tweet_count": "605K Tweets"
   },
   {
     "name": "Happy Holidays",
     "query": "\"Happy Holidays\"",
-    "rank": 15,
-    "tweet_count": "901K Tweets"
-  },
-  {
-    "name": "חג שמח",
-    "query": "\"חג שמח\"",
     "rank": 16,
-    "tweet_count": null
+    "tweet_count": "916K Tweets"
   },
   {
     "name": "יוסי כהן",
     "query": "\"יוסי כהן\"",
     "rank": 17,
-    "tweet_count": "1,342 Tweets"
+    "tweet_count": "1,348 Tweets"
   },
   {
     "name": "Ben Gvir",
@@ -111,12 +111,12 @@
     "name": "Homesh",
     "query": "Homesh",
     "rank": 19,
-    "tweet_count": "1,026 Tweets"
+    "tweet_count": "1,049 Tweets"
   },
   {
-    "name": "Santa",
-    "query": "Santa",
+    "name": "חאן אל",
+    "query": "\"חאן אל\"",
     "rank": 20,
-    "tweet_count": "595K Tweets"
+    "tweet_count": null
   }
 ]
