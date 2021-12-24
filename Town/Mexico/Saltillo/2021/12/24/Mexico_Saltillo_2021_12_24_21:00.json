@@ -1,27 +1,27 @@
 [
   {
+    "name": "Feliz Navidad",
+    "query": "\"Feliz Navidad\"",
+    "rank": 1,
+    "tweet_count": "886K Tweets"
+  },
+  {
     "name": "Merry Christmas Eve",
     "query": "\"Merry Christmas Eve\"",
-    "rank": 1,
-    "tweet_count": "431K Tweets"
+    "rank": 2,
+    "tweet_count": "436K Tweets"
   },
   {
     "name": "#24dicembre",
     "query": "#24dicembre",
-    "rank": 2,
-    "tweet_count": "11.4K Tweets"
-  },
-  {
-    "name": "#viernesfresidark",
-    "query": "#viernesfresidark",
     "rank": 3,
-    "tweet_count": null
+    "tweet_count": "11.5K Tweets"
   },
   {
-    "name": "#Gasolinazo",
-    "query": "#Gasolinazo",
+    "name": "#ViernesFresidark",
+    "query": "#ViernesFresidark",
     "rank": 4,
-    "tweet_count": "5,112 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#NavidadPSV",
@@ -36,16 +36,16 @@
     "tweet_count": null
   },
   {
-    "name": "IEPS",
-    "query": "IEPS",
+    "name": "#Gasolinazo",
+    "query": "#Gasolinazo",
     "rank": 7,
-    "tweet_count": "29.2K Tweets"
+    "tweet_count": "5,279 Tweets"
   },
   {
-    "name": "#NavidadDeRiesgo",
-    "query": "#NavidadDeRiesgo",
+    "name": "IEPS",
+    "query": "IEPS",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "29.6K Tweets"
   },
   {
     "name": "Bancomer",
@@ -54,63 +54,63 @@
     "tweet_count": null
   },
   {
+    "name": "#NavidadDeRiesgo",
+    "query": "#NavidadDeRiesgo",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
     "name": "Jesús",
     "query": "Jesús",
-    "rank": 10,
-    "tweet_count": "458K Tweets"
+    "rank": 11,
+    "tweet_count": "466K Tweets"
   },
   {
     "name": "Santa Claus",
     "query": "\"Santa Claus\"",
-    "rank": 11,
-    "tweet_count": "131K Tweets"
+    "rank": 12,
+    "tweet_count": "133K Tweets"
   },
   {
     "name": "Scorsese",
     "query": "Scorsese",
-    "rank": 12,
-    "tweet_count": "24.9K Tweets"
+    "rank": 13,
+    "tweet_count": "25.7K Tweets"
   },
   {
     "name": "Sempra Infraestructura",
     "query": "\"Sempra Infraestructura\"",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "La Navidad",
     "query": "\"La Navidad\"",
-    "rank": 14,
-    "tweet_count": "637K Tweets"
-  },
-  {
-    "name": "Abrazos",
-    "query": "Abrazos",
     "rank": 15,
-    "tweet_count": "23.7K Tweets"
-  },
-  {
-    "name": "Es 24",
-    "query": "\"Es 24\"",
-    "rank": 16,
-    "tweet_count": "102K Tweets"
+    "tweet_count": "649K Tweets"
   },
   {
     "name": "Año Nuevo",
     "query": "\"Año Nuevo\"",
+    "rank": 16,
+    "tweet_count": "85.1K Tweets"
+  },
+  {
+    "name": "Es 24",
+    "query": "\"Es 24\"",
     "rank": 17,
-    "tweet_count": "83.7K Tweets"
+    "tweet_count": "103K Tweets"
+  },
+  {
+    "name": "Abrazos",
+    "query": "Abrazos",
+    "rank": 18,
+    "tweet_count": "24.1K Tweets"
   },
   {
     "name": "Encanto",
     "query": "Encanto",
-    "rank": 18,
-    "tweet_count": "71.9K Tweets"
-  },
-  {
-    "name": "Die Hard",
-    "query": "\"Die Hard\"",
     "rank": 19,
-    "tweet_count": "30K Tweets"
+    "tweet_count": "73.2K Tweets"
   }
 ]
