@@ -1,39 +1,39 @@
 [
   {
-    "name": "Merry Christmas Eve",
-    "query": "\"Merry Christmas Eve\"",
+    "name": "Christmas",
+    "query": "Christmas",
     "rank": 1,
-    "tweet_count": "443K Tweets"
+    "tweet_count": "1.66M Tweets"
   },
   {
     "name": "Frohe Weihnachten",
     "query": "\"Frohe Weihnachten\"",
     "rank": 2,
-    "tweet_count": "77.9K Tweets"
+    "tweet_count": "78.8K Tweets"
+  },
+  {
+    "name": "Happy Holidays",
+    "query": "\"Happy Holidays\"",
+    "rank": 3,
+    "tweet_count": "1.26M Tweets"
   },
   {
     "name": "kogler",
     "query": "kogler",
-    "rank": 3,
-    "tweet_count": "1,078 Tweets"
-  },
-  {
-    "name": "Baum",
-    "query": "Baum",
     "rank": 4,
-    "tweet_count": "6,574 Tweets"
+    "tweet_count": "1,085 Tweets"
   },
   {
     "name": "Baum",
     "query": "Baum",
     "rank": 5,
-    "tweet_count": "6,574 Tweets"
+    "tweet_count": "6,658 Tweets"
   },
   {
     "name": "Ebenfalls",
     "query": "Ebenfalls",
     "rank": 6,
-    "tweet_count": "3,937 Tweets"
+    "tweet_count": "3,978 Tweets"
   },
   {
     "name": "#HurederReichen",
@@ -42,22 +42,22 @@
     "tweet_count": null
   },
   {
-    "name": "Christkind",
-    "query": "Christkind",
+    "name": "Merry Xmas",
+    "query": "\"Merry Xmas\"",
     "rank": 8,
-    "tweet_count": "2,324 Tweets"
+    "tweet_count": "437K Tweets"
   },
   {
     "name": "Liebsten",
     "query": "Liebsten",
     "rank": 9,
-    "tweet_count": "6,104 Tweets"
+    "tweet_count": "6,147 Tweets"
   },
   {
     "name": "#Heiligabend",
     "query": "#Heiligabend",
     "rank": 10,
-    "tweet_count": "5,600 Tweets"
+    "tweet_count": "5,673 Tweets"
   },
   {
     "name": "#lichtinsdunkel",
@@ -66,10 +66,10 @@
     "tweet_count": null
   },
   {
-    "name": "Bescherung",
-    "query": "Bescherung",
+    "name": "bescherung",
+    "query": "bescherung",
     "rank": 12,
-    "tweet_count": "4,150 Tweets"
+    "tweet_count": "4,187 Tweets"
   },
   {
     "name": "#falter",
@@ -81,42 +81,42 @@
     "name": "Rutsch",
     "query": "Rutsch",
     "rank": 14,
-    "tweet_count": "2,665 Tweets"
-  },
-  {
-    "name": "#GetWellSoonYoongi",
-    "query": "#GetWellSoonYoongi",
-    "rank": 15,
-    "tweet_count": "162K Tweets"
+    "tweet_count": "2,677 Tweets"
   },
   {
     "name": "Schelling",
     "query": "Schelling",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Schönes Fest",
     "query": "\"Schönes Fest\"",
+    "rank": 16,
+    "tweet_count": "2,490 Tweets"
+  },
+  {
+    "name": "#GetWellSoonYoongi",
+    "query": "#GetWellSoonYoongi",
     "rank": 17,
-    "tweet_count": "2,476 Tweets"
-  },
-  {
-    "name": "Satire",
-    "query": "Satire",
-    "rank": 18,
-    "tweet_count": "7,464 Tweets"
-  },
-  {
-    "name": "Schmid",
-    "query": "Schmid",
-    "rank": 19,
-    "tweet_count": "1,852 Tweets"
+    "tweet_count": "162K Tweets"
   },
   {
     "name": "Stille Nacht",
     "query": "\"Stille Nacht\"",
+    "rank": 18,
+    "tweet_count": "2,428 Tweets"
+  },
+  {
+    "name": "Satire",
+    "query": "Satire",
+    "rank": 19,
+    "tweet_count": "7,597 Tweets"
+  },
+  {
+    "name": "Schmid",
+    "query": "Schmid",
     "rank": 20,
-    "tweet_count": "2,366 Tweets"
+    "tweet_count": "1,886 Tweets"
   }
 ]
