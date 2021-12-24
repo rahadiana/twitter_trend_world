@@ -6,22 +6,22 @@
     "tweet_count": null
   },
   {
-    "name": "Merry Christmas Eve",
-    "query": "\"Merry Christmas Eve\"",
-    "rank": 2,
-    "tweet_count": "391K Tweets"
-  },
-  {
     "name": "#allyouneedislove",
     "query": "#allyouneedislove",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "Merry Christmas Eve",
+    "query": "\"Merry Christmas Eve\"",
+    "rank": 3,
+    "tweet_count": "396K Tweets"
   },
   {
     "name": "Fijne",
     "query": "Fijne",
     "rank": 4,
-    "tweet_count": "34.3K Tweets"
+    "tweet_count": "34.7K Tweets"
   },
   {
     "name": "#hlf8",
@@ -33,49 +33,49 @@
     "name": "Robert",
     "query": "Robert",
     "rank": 6,
-    "tweet_count": "69.7K Tweets"
+    "tweet_count": "70.5K Tweets"
   },
   {
     "name": "Brink",
     "query": "Brink",
     "rank": 7,
-    "tweet_count": "5,080 Tweets"
+    "tweet_count": "5,154 Tweets"
+  },
+  {
+    "name": "#quarantaine",
+    "query": "#quarantaine",
+    "rank": 8,
+    "tweet_count": null
   },
   {
     "name": "#eenhuisvol",
     "query": "#eenhuisvol",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Timmermans",
     "query": "Timmermans",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Geniet",
     "query": "Geniet",
-    "rank": 10,
-    "tweet_count": "4,210 Tweets"
-  },
-  {
-    "name": "#LangLeveDeLiefde",
-    "query": "#LangLeveDeLiefde",
     "rank": 11,
-    "tweet_count": null
+    "tweet_count": "4,266 Tweets"
   },
   {
-    "name": "Geert",
-    "query": "Geert",
+    "name": "Geert Wilders",
+    "query": "\"Geert Wilders\"",
     "rank": 12,
-    "tweet_count": "5,153 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Rambo",
     "query": "Rambo",
     "rank": 13,
-    "tweet_count": "3,779 Tweets"
+    "tweet_count": "3,815 Tweets"
   },
   {
     "name": "Insgelijks",
@@ -84,39 +84,39 @@
     "tweet_count": null
   },
   {
-    "name": "Huis van Hugo de Jonge",
-    "query": "\"Huis van Hugo de Jonge\"",
-    "rank": 15,
-    "tweet_count": "1,439 Tweets"
-  },
-  {
     "name": "Wens",
     "query": "Wens",
-    "rank": 16,
-    "tweet_count": "6,669 Tweets"
+    "rank": 15,
+    "tweet_count": "6,759 Tweets"
   },
   {
     "name": "Peru",
     "query": "Peru",
-    "rank": 17,
-    "tweet_count": "135K Tweets"
+    "rank": 16,
+    "tweet_count": "136K Tweets"
   },
   {
     "name": "Hoge Raad",
     "query": "\"Hoge Raad\"",
-    "rank": 18,
-    "tweet_count": "1,033 Tweets"
+    "rank": 17,
+    "tweet_count": "1,034 Tweets"
   },
   {
     "name": "Nieuwjaar",
     "query": "Nieuwjaar",
-    "rank": 19,
-    "tweet_count": "1,866 Tweets"
+    "rank": 18,
+    "tweet_count": "1,887 Tweets"
   },
   {
-    "name": "New Year",
-    "query": "\"New Year\"",
+    "name": "#Top2000",
+    "query": "#Top2000",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "#LangLeveDeLiefde",
+    "query": "#LangLeveDeLiefde",
     "rank": 20,
-    "tweet_count": "593K Tweets"
+    "tweet_count": null
   }
 ]

@@ -1,93 +1,93 @@
 [
   {
+    "name": "Walmart",
+    "query": "Walmart",
+    "rank": 1,
+    "tweet_count": "27.9K Tweets"
+  },
+  {
+    "name": "Home Alone",
+    "query": "\"Home Alone\"",
+    "rank": 2,
+    "tweet_count": "48.7K Tweets"
+  },
+  {
     "name": "FedEx",
     "query": "FedEx",
-    "rank": 1,
-    "tweet_count": "57.7K Tweets"
+    "rank": 3,
+    "tweet_count": "58.8K Tweets"
   },
   {
     "name": "Merry Christmas Eve",
     "query": "\"Merry Christmas Eve\"",
-    "rank": 2,
-    "tweet_count": "391K Tweets"
+    "rank": 4,
+    "tweet_count": "396K Tweets"
   },
   {
     "name": "Don't Look Up",
     "query": "\"Don't Look Up\"",
-    "rank": 3,
-    "tweet_count": "35.2K Tweets"
-  },
-  {
-    "name": "Scorsese",
-    "query": "Scorsese",
-    "rank": 4,
-    "tweet_count": "19.9K Tweets"
+    "rank": 5,
+    "tweet_count": "35.7K Tweets"
   },
   {
     "name": "Nick Foles",
     "query": "\"Nick Foles\"",
-    "rank": 5,
-    "tweet_count": "1,154 Tweets"
+    "rank": 6,
+    "tweet_count": "1,489 Tweets"
+  },
+  {
+    "name": "Scorsese",
+    "query": "Scorsese",
+    "rank": 7,
+    "tweet_count": "20.6K Tweets"
   },
   {
     "name": "Darren Collison",
     "query": "\"Darren Collison\"",
-    "rank": 6,
-    "tweet_count": "2,069 Tweets"
-  },
-  {
-    "name": "Saweetie",
-    "query": "Saweetie",
-    "rank": 7,
-    "tweet_count": "14.8K Tweets"
+    "rank": 8,
+    "tweet_count": "2,185 Tweets"
   },
   {
     "name": "#FursuitFriday",
     "query": "#FursuitFriday",
-    "rank": 8,
-    "tweet_count": "14.1K Tweets"
+    "rank": 9,
+    "tweet_count": "14.3K Tweets"
+  },
+  {
+    "name": "Saweetie",
+    "query": "Saweetie",
+    "rank": 10,
+    "tweet_count": "15.2K Tweets"
   },
   {
     "name": "McNeil",
     "query": "McNeil",
-    "rank": 9,
-    "tweet_count": "1,925 Tweets"
+    "rank": 11,
+    "tweet_count": "1,980 Tweets"
   },
   {
     "name": "#AppleWalkout",
     "query": "#AppleWalkout",
-    "rank": 10,
-    "tweet_count": "11.1K Tweets"
-  },
-  {
-    "name": "Encanto",
-    "query": "Encanto",
-    "rank": 11,
-    "tweet_count": "66.7K Tweets"
-  },
-  {
-    "name": "Stephen Miller",
-    "query": "\"Stephen Miller\"",
     "rank": 12,
-    "tweet_count": "17.6K Tweets"
+    "tweet_count": "11.4K Tweets"
   },
   {
     "name": "Bojangles",
     "query": "Bojangles",
     "rank": 13,
-    "tweet_count": "2,400 Tweets"
+    "tweet_count": "2,459 Tweets"
   },
   {
-    "name": "Blake Bortles",
-    "query": "\"Blake Bortles\"",
+    "name": "Encanto",
+    "query": "Encanto",
     "rank": 14,
-    "tweet_count": "1,973 Tweets"
+    "tweet_count": "67.9K Tweets"
   },
   {
-    "name": "Die Hard",
-    "query": "\"Die Hard\"",
+    "name": "Stephen Miller",
+    "query": "\"Stephen Miller\"",
     "rank": 15,
-    "tweet_count": "29.3K Tweets"
+    "tweet_count": "18K Tweets"
   },
   {
     "name": "#BRBettingSim",
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
+    "name": "Die Hard",
+    "query": "\"Die Hard\"",
+    "rank": 17,
+    "tweet_count": "29.7K Tweets"
+  },
+  {
+    "name": "Blake Bortles",
+    "query": "\"Blake Bortles\"",
+    "rank": 18,
+    "tweet_count": "2,043 Tweets"
+  },
+  {
     "name": "#HolidaysWithYoongi",
     "query": "#HolidaysWithYoongi",
-    "rank": 17,
-    "tweet_count": "23K Tweets"
-  },
-  {
-    "name": "Welcome to Texas",
-    "query": "\"Welcome to Texas\"",
-    "rank": 18,
-    "tweet_count": "4,402 Tweets"
-  },
-  {
-    "name": "#stayselcaday",
-    "query": "#stayselcaday",
     "rank": 19,
-    "tweet_count": "49.3K Tweets"
+    "tweet_count": "23.3K Tweets"
   },
   {
     "name": "Peter Dinklage",
     "query": "\"Peter Dinklage\"",
     "rank": 20,
-    "tweet_count": "2,678 Tweets"
+    "tweet_count": "2,744 Tweets"
   }
 ]
