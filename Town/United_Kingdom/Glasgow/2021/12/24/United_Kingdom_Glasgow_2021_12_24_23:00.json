@@ -1,15 +1,15 @@
 [
   {
-    "name": "Wishing",
-    "query": "Wishing",
-    "rank": 1,
-    "tweet_count": "320K Tweets"
-  },
-  {
     "name": "Christmas",
     "query": "Christmas",
+    "rank": 1,
+    "tweet_count": "2.79M Tweets"
+  },
+  {
+    "name": "Santa",
+    "query": "Santa",
     "rank": 2,
-    "tweet_count": "3.1M Tweets"
+    "tweet_count": "966K Tweets"
   },
   {
     "name": "#TheMezzotint",
@@ -21,7 +21,7 @@
     "name": "#DontLookUp",
     "query": "#DontLookUp",
     "rank": 4,
-    "tweet_count": "43.9K Tweets"
+    "tweet_count": "44.4K Tweets"
   },
   {
     "name": "#SpittingImage",
@@ -33,7 +33,7 @@
     "name": "#ScottishIndependence1",
     "query": "#ScottishIndependence1",
     "rank": 6,
-    "tweet_count": "7,015 Tweets"
+    "tweet_count": "7,402 Tweets"
   },
   {
     "name": "#ICanSeeYourVoice",
@@ -42,81 +42,81 @@
     "tweet_count": null
   },
   {
-    "name": "Xmas Eve",
-    "query": "\"Xmas Eve\"",
+    "name": "Amazing Grace",
+    "query": "\"Amazing Grace\"",
     "rank": 8,
-    "tweet_count": "82.5K Tweets"
+    "tweet_count": "1,214 Tweets"
   },
   {
     "name": "Botafogo",
     "query": "Botafogo",
     "rank": 9,
-    "tweet_count": "61.4K Tweets"
+    "tweet_count": "62.8K Tweets"
   },
   {
     "name": "Home Alone",
     "query": "\"Home Alone\"",
     "rank": 10,
-    "tweet_count": "52.6K Tweets"
+    "tweet_count": "53.3K Tweets"
   },
   {
     "name": "Die Hard",
     "query": "\"Die Hard\"",
     "rank": 11,
-    "tweet_count": "29.9K Tweets"
+    "tweet_count": "30.5K Tweets"
   },
   {
     "name": "Eastenders",
     "query": "Eastenders",
     "rank": 12,
-    "tweet_count": "6,345 Tweets"
+    "tweet_count": "6,509 Tweets"
   },
   {
     "name": "Gnabry",
     "query": "Gnabry",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "1,007 Tweets"
   },
   {
     "name": "Midnight Mass",
     "query": "\"Midnight Mass\"",
     "rank": 14,
-    "tweet_count": "5,251 Tweets"
-  },
-  {
-    "name": "Baileys",
-    "query": "Baileys",
-    "rank": 15,
-    "tweet_count": "5,165 Tweets"
-  },
-  {
-    "name": "Muppets Christmas Carol",
-    "query": "\"Muppets Christmas Carol\"",
-    "rank": 16,
-    "tweet_count": "2,360 Tweets"
-  },
-  {
-    "name": "Tequila",
-    "query": "Tequila",
-    "rank": 17,
-    "tweet_count": "11.3K Tweets"
+    "tweet_count": "5,402 Tweets"
   },
   {
     "name": "Rudolph",
     "query": "Rudolph",
-    "rank": 18,
-    "tweet_count": "26.3K Tweets"
+    "rank": 15,
+    "tweet_count": "26.8K Tweets"
   },
   {
-    "name": "Nakatomi Plaza",
-    "query": "\"Nakatomi Plaza\"",
-    "rank": 19,
-    "tweet_count": "9,120 Tweets"
+    "name": "Baileys",
+    "query": "Baileys",
+    "rank": 16,
+    "tweet_count": "5,306 Tweets"
+  },
+  {
+    "name": "Muppets Christmas Carol",
+    "query": "\"Muppets Christmas Carol\"",
+    "rank": 17,
+    "tweet_count": "2,401 Tweets"
   },
   {
     "name": "Love Actually",
     "query": "\"Love Actually\"",
+    "rank": 18,
+    "tweet_count": "25.2K Tweets"
+  },
+  {
+    "name": "Tequila",
+    "query": "Tequila",
+    "rank": 19,
+    "tweet_count": "11.5K Tweets"
+  },
+  {
+    "name": "Hans Gruber",
+    "query": "\"Hans Gruber\"",
     "rank": 20,
-    "tweet_count": "24.8K Tweets"
+    "tweet_count": "2,972 Tweets"
   }
 ]
