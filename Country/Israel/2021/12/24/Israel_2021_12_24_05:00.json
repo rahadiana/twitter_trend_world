@@ -1,25 +1,25 @@
 [
   {
-    "name": "Christmas",
-    "query": "Christmas",
+    "name": "בוקר טוב",
+    "query": "\"בוקר טוב\"",
     "rank": 1,
-    "tweet_count": "4.77M Tweets"
+    "tweet_count": null
   },
   {
     "name": "Christmas",
     "query": "Christmas",
     "rank": 2,
-    "tweet_count": "4.77M Tweets"
+    "tweet_count": "4.95M Tweets"
+  },
+  {
+    "name": "Christmas",
+    "query": "Christmas",
+    "rank": 3,
+    "tweet_count": "4.95M Tweets"
   },
   {
     "name": "עוד צער",
     "query": "\"עוד צער\"",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "בוקר טוב",
-    "query": "\"בוקר טוב\"",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,7 +27,7 @@
     "name": "#انقذوا_برقه",
     "query": "#انقذوا_برقه",
     "rank": 5,
-    "tweet_count": "33.4K Tweets"
+    "tweet_count": "33.5K Tweets"
   },
   {
     "name": "עם ישראל חי",
@@ -39,7 +39,7 @@
     "name": "בן גביר",
     "query": "\"בן גביר\"",
     "rank": 7,
-    "tweet_count": "2,855 Tweets"
+    "tweet_count": "2,872 Tweets"
   },
   {
     "name": "מזל טוב איריס",
@@ -57,25 +57,25 @@
     "name": "Jesus",
     "query": "Jesus",
     "rank": 10,
-    "tweet_count": "319K Tweets"
+    "tweet_count": "321K Tweets"
   },
   {
     "name": "#China",
     "query": "#China",
     "rank": 11,
-    "tweet_count": "27.5K Tweets"
+    "tweet_count": "27.6K Tweets"
   },
   {
     "name": "Happy Holidays",
     "query": "\"Happy Holidays\"",
     "rank": 12,
-    "tweet_count": "818K Tweets"
+    "tweet_count": "825K Tweets"
   },
   {
     "name": "יוסי כהן",
     "query": "\"יוסי כהן\"",
     "rank": 13,
-    "tweet_count": "1,496 Tweets"
+    "tweet_count": "1,505 Tweets"
   },
   {
     "name": "ben gvir",
@@ -87,13 +87,13 @@
     "name": "Santa",
     "query": "Santa",
     "rank": 15,
-    "tweet_count": "578K Tweets"
+    "tweet_count": "582K Tweets"
   },
   {
     "name": "Trump",
     "query": "Trump",
     "rank": 16,
-    "tweet_count": "511K Tweets"
+    "tweet_count": "514K Tweets"
   },
   {
     "name": "יוסי דגן",
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "Emily",
-    "query": "Emily",
+    "name": "בוקר אור",
+    "query": "\"בוקר אור\"",
     "rank": 20,
-    "tweet_count": "122K Tweets"
+    "tweet_count": null
   }
 ]
