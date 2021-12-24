@@ -1,45 +1,45 @@
 [
   {
-    "name": "Merry Christmas Eve",
-    "query": "\"Merry Christmas Eve\"",
+    "name": "Christmas",
+    "query": "Christmas",
     "rank": 1,
-    "tweet_count": "413K Tweets"
+    "tweet_count": "3.14M Tweets"
   },
   {
     "name": "Frohe Weihnachten",
     "query": "\"Frohe Weihnachten\"",
     "rank": 2,
-    "tweet_count": "73.6K Tweets"
+    "tweet_count": "74.4K Tweets"
   },
   {
-    "name": "Weihnachten",
-    "query": "Weihnachten",
+    "name": "#montegeschenke",
+    "query": "#montegeschenke",
     "rank": 3,
-    "tweet_count": "142K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Heiligabend",
     "query": "#Heiligabend",
     "rank": 4,
-    "tweet_count": "5,046 Tweets"
+    "tweet_count": "5,119 Tweets"
   },
   {
     "name": "#Sissi",
     "query": "#Sissi",
     "rank": 5,
-    "tweet_count": "1,792 Tweets"
-  },
-  {
-    "name": "#Platin",
-    "query": "#Platin",
-    "rank": 6,
-    "tweet_count": null
+    "tweet_count": "1,800 Tweets"
   },
   {
     "name": "Bescherung",
     "query": "Bescherung",
+    "rank": 6,
+    "tweet_count": "4,172 Tweets"
+  },
+  {
+    "name": "#Platin",
+    "query": "#Platin",
     "rank": 7,
-    "tweet_count": "4,121 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#kevinalleinzuhaus",
@@ -51,61 +51,61 @@
     "name": "Raclette",
     "query": "Raclette",
     "rank": 9,
-    "tweet_count": "2,432 Tweets"
-  },
-  {
-    "name": "#Weiss2",
-    "query": "#Weiss2",
-    "rank": 10,
-    "tweet_count": null
+    "tweet_count": "2,475 Tweets"
   },
   {
     "name": "Prost",
     "query": "Prost",
+    "rank": 10,
+    "tweet_count": "3,815 Tweets"
+  },
+  {
+    "name": "Happy Holidays",
+    "query": "\"Happy Holidays\"",
     "rank": 11,
-    "tweet_count": "3,783 Tweets"
+    "tweet_count": "1.24M Tweets"
+  },
+  {
+    "name": "Lego",
+    "query": "Lego",
+    "rank": 12,
+    "tweet_count": "22.6K Tweets"
   },
   {
     "name": "Rotkohl",
     "query": "Rotkohl",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Schwester",
     "query": "Schwester",
-    "rank": 13,
-    "tweet_count": "1,656 Tweets"
-  },
-  {
-    "name": "Santa",
-    "query": "Santa",
     "rank": 14,
-    "tweet_count": "867K Tweets"
-  },
-  {
-    "name": "Lego",
-    "query": "Lego",
-    "rank": 15,
-    "tweet_count": "22.4K Tweets"
-  },
-  {
-    "name": "Liebsten",
-    "query": "Liebsten",
-    "rank": 16,
-    "tweet_count": "6,002 Tweets"
+    "tweet_count": "1,680 Tweets"
   },
   {
     "name": "Gleichfalls",
     "query": "Gleichfalls",
-    "rank": 17,
-    "tweet_count": "2,059 Tweets"
+    "rank": 15,
+    "tweet_count": "2,079 Tweets"
   },
   {
-    "name": "Nachtisch",
-    "query": "Nachtisch",
+    "name": "Santa",
+    "query": "Santa",
+    "rank": 16,
+    "tweet_count": "878K Tweets"
+  },
+  {
+    "name": "Merry Xmas",
+    "query": "\"Merry Xmas\"",
+    "rank": 17,
+    "tweet_count": "415K Tweets"
+  },
+  {
+    "name": "Liebsten",
+    "query": "Liebsten",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "6,041 Tweets"
   },
   {
     "name": "Schnaps",
@@ -117,6 +117,6 @@
     "name": "Onkel",
     "query": "Onkel",
     "rank": 20,
-    "tweet_count": "1,272 Tweets"
+    "tweet_count": "1,292 Tweets"
   }
 ]
