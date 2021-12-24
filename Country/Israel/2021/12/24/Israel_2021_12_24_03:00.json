@@ -1,21 +1,21 @@
 [
   {
-    "name": "עוד צער",
-    "query": "\"עוד צער\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Christmas",
     "query": "Christmas",
+    "rank": 1,
+    "tweet_count": "2.19M Tweets"
+  },
+  {
+    "name": "עוד צער",
+    "query": "\"עוד צער\"",
     "rank": 2,
-    "tweet_count": "2.33M Tweets"
+    "tweet_count": null
   },
   {
     "name": "בן גביר",
     "query": "\"בן גביר\"",
     "rank": 3,
-    "tweet_count": "2,949 Tweets"
+    "tweet_count": "2,956 Tweets"
   },
   {
     "name": "עם ישראל חי",
@@ -24,40 +24,40 @@
     "tweet_count": null
   },
   {
-    "name": "ברוך דיין",
-    "query": "\"ברוך דיין\"",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
     "name": "#انقذوا_برقه",
     "query": "#انقذوا_برقه",
-    "rank": 6,
-    "tweet_count": "31.7K Tweets"
+    "rank": 5,
+    "tweet_count": "31.9K Tweets"
   },
   {
     "name": "מזל טוב איריס",
     "query": "\"מזל טוב איריס\"",
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "ברוך דיין",
+    "query": "\"ברוך דיין\"",
     "rank": 7,
     "tweet_count": null
   },
   {
-    "name": "#China",
-    "query": "#China",
-    "rank": 8,
-    "tweet_count": "27.8K Tweets"
-  },
-  {
-    "name": "#HappyHolidays",
-    "query": "#HappyHolidays",
-    "rank": 9,
-    "tweet_count": "35.3K Tweets"
-  },
-  {
     "name": "יוסי כהן",
     "query": "\"יוסי כהן\"",
+    "rank": 8,
+    "tweet_count": "1,571 Tweets"
+  },
+  {
+    "name": "Happy Holidays",
+    "query": "\"Happy Holidays\"",
+    "rank": 9,
+    "tweet_count": "757K Tweets"
+  },
+  {
+    "name": "#China",
+    "query": "#China",
     "rank": 10,
-    "tweet_count": "1,570 Tweets"
+    "tweet_count": "28K Tweets"
   },
   {
     "name": "ben gvir",
@@ -69,13 +69,13 @@
     "name": "Santa",
     "query": "Santa",
     "rank": 12,
-    "tweet_count": "561K Tweets"
+    "tweet_count": "565K Tweets"
   },
   {
     "name": "אריה דרעי",
     "query": "\"אריה דרעי\"",
     "rank": 13,
-    "tweet_count": "1,414 Tweets"
+    "tweet_count": "1,417 Tweets"
   },
   {
     "name": "יוסי דגן",
@@ -84,8 +84,8 @@
     "tweet_count": null
   },
   {
-    "name": "#פידלילה",
-    "query": "#פידלילה",
+    "name": "#נישתי",
+    "query": "#נישתי",
     "rank": 15,
     "tweet_count": null
   },
@@ -96,10 +96,10 @@
     "tweet_count": null
   },
   {
-    "name": "#HappyNewYear",
-    "query": "#HappyNewYear",
+    "name": "#פידלילה",
+    "query": "#פידלילה",
     "rank": 17,
-    "tweet_count": "7,081 Tweets"
+    "tweet_count": null
   },
   {
     "name": "וב טוב",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "Emily",
-    "query": "Emily",
+    "name": "יומולדת שמח",
+    "query": "\"יומולדת שמח\"",
     "rank": 19,
-    "tweet_count": "120K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Trump",
-    "query": "Trump",
+    "name": "Emily",
+    "query": "Emily",
     "rank": 20,
-    "tweet_count": "502K Tweets"
+    "tweet_count": "121K Tweets"
   }
 ]
