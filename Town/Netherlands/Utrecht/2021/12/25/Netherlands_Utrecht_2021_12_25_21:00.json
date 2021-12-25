@@ -1,9 +1,9 @@
 [
   {
-    "name": "Christmas",
-    "query": "Christmas",
+    "name": "Merry Christmas",
+    "query": "\"Merry Christmas\"",
     "rank": 1,
-    "tweet_count": "3.29M Tweets"
+    "tweet_count": "2.1M Tweets"
   },
   {
     "name": "#haardvuur",
@@ -15,17 +15,17 @@
     "name": "#EindeLockdownNu",
     "query": "#EindeLockdownNu",
     "rank": 3,
-    "tweet_count": "3,670 Tweets"
-  },
-  {
-    "name": "#sbs6",
-    "query": "#sbs6",
-    "rank": 4,
-    "tweet_count": null
+    "tweet_count": "3,806 Tweets"
   },
   {
     "name": "#kerstkaleidoscoop",
     "query": "#kerstkaleidoscoop",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "#sbs6",
+    "query": "#sbs6",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,13 +33,13 @@
     "name": "#Top2000",
     "query": "#Top2000",
     "rank": 6,
-    "tweet_count": "7,344 Tweets"
+    "tweet_count": "7,401 Tweets"
   },
   {
     "name": "Love Actually",
     "query": "\"Love Actually\"",
     "rank": 7,
-    "tweet_count": "20.5K Tweets"
+    "tweet_count": "20.7K Tweets"
   },
   {
     "name": "Proost",
@@ -51,72 +51,48 @@
     "name": "Home Alone",
     "query": "\"Home Alone\"",
     "rank": 9,
-    "tweet_count": "61.9K Tweets"
+    "tweet_count": "62.2K Tweets"
   },
   {
     "name": "Hiddema",
     "query": "Hiddema",
     "rank": 10,
-    "tweet_count": "1,419 Tweets"
+    "tweet_count": "1,432 Tweets"
   },
   {
     "name": "Joelfeest",
     "query": "Joelfeest",
     "rank": 11,
-    "tweet_count": "1,339 Tweets"
-  },
-  {
-    "name": "Santa",
-    "query": "Santa",
-    "rank": 12,
-    "tweet_count": "1.42M Tweets"
+    "tweet_count": "1,357 Tweets"
   },
   {
     "name": "Christian",
     "query": "Christian",
-    "rank": 13,
-    "tweet_count": "124K Tweets"
-  },
-  {
-    "name": "1e Kerstdag",
-    "query": "\"1e Kerstdag\"",
-    "rank": 14,
-    "tweet_count": "1,358 Tweets"
+    "rank": 12,
+    "tweet_count": "125K Tweets"
   },
   {
     "name": "Cheers",
     "query": "Cheers",
-    "rank": 15,
-    "tweet_count": "92.7K Tweets"
-  },
-  {
-    "name": "Eerste Kerstdag",
-    "query": "\"Eerste Kerstdag\"",
-    "rank": 16,
-    "tweet_count": "1,850 Tweets"
+    "rank": 13,
+    "tweet_count": "93.2K Tweets"
   },
   {
     "name": "#DieHard",
     "query": "#DieHard",
-    "rank": 17,
-    "tweet_count": "4,423 Tweets"
+    "rank": 14,
+    "tweet_count": "4,438 Tweets"
   },
   {
     "name": "#DontLookUp",
     "query": "#DontLookUp",
-    "rank": 18,
-    "tweet_count": "46.3K Tweets"
+    "rank": 15,
+    "tweet_count": "46.8K Tweets"
   },
   {
     "name": "#Koning",
     "query": "#Koning",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "#kerstdiner",
-    "query": "#kerstdiner",
-    "rank": 20,
+    "rank": 16,
     "tweet_count": null
   }
 ]
