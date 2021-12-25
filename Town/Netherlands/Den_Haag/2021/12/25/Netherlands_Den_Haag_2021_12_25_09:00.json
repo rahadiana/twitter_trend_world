@@ -1,56 +1,68 @@
 [
   {
+    "name": "Dankjewel",
+    "query": "Dankjewel",
+    "rank": 1,
+    "tweet_count": "3,480 Tweets"
+  },
+  {
     "name": "Merry Christmas",
     "query": "\"Merry Christmas\"",
-    "rank": 1,
-    "tweet_count": "2.64M Tweets"
+    "rank": 2,
+    "tweet_count": "2.41M Tweets"
   },
   {
     "name": "#Top2000",
     "query": "#Top2000",
-    "rank": 2,
-    "tweet_count": "3,706 Tweets"
+    "rank": 3,
+    "tweet_count": "3,845 Tweets"
   },
   {
     "name": "Fijne",
     "query": "Fijne",
-    "rank": 3,
-    "tweet_count": "38.5K Tweets"
-  },
-  {
-    "name": "#sneeuw",
-    "query": "#sneeuw",
     "rank": 4,
-    "tweet_count": null
+    "tweet_count": "39.6K Tweets"
   },
   {
     "name": "Jesus",
     "query": "Jesus",
     "rank": 5,
-    "tweet_count": "744K Tweets"
+    "tweet_count": "754K Tweets"
+  },
+  {
+    "name": "#sneeuw",
+    "query": "#sneeuw",
+    "rank": 6,
+    "tweet_count": null
   },
   {
     "name": "Ebru",
     "query": "Ebru",
-    "rank": 6,
-    "tweet_count": "3,902 Tweets"
+    "rank": 7,
+    "tweet_count": "3,996 Tweets"
   },
   {
     "name": "Davido",
     "query": "Davido",
-    "rank": 7,
-    "tweet_count": "60.4K Tweets"
+    "rank": 8,
+    "tweet_count": "62K Tweets"
   },
   {
     "name": "Santa",
     "query": "Santa",
-    "rank": 8,
-    "tweet_count": "1.31M Tweets"
+    "rank": 9,
+    "tweet_count": "1.32M Tweets"
+  },
+  {
+    "name": "Wilders",
+    "query": "Wilders",
+    "rank": 10,
+    "tweet_count": "2,103 Tweets"
   },
   {
     "name": "Insgelijks",
     "query": "Insgelijks",
-    "rank": 9,
+    "rank": 11,
     "tweet_count": null
   }
 ]
