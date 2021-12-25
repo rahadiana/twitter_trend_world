@@ -1,9 +1,9 @@
 [
   {
-    "name": "Christmas",
-    "query": "Christmas",
+    "name": "Merry Christmas",
+    "query": "\"Merry Christmas\"",
     "rank": 1,
-    "tweet_count": "2.44M Tweets"
+    "tweet_count": "2.2M Tweets"
   },
   {
     "name": "#Kersttoespraak",
@@ -15,25 +15,25 @@
     "name": "#Top2000",
     "query": "#Top2000",
     "rank": 3,
-    "tweet_count": "5,329 Tweets"
-  },
-  {
-    "name": "#JWST",
-    "query": "#JWST",
-    "rank": 4,
-    "tweet_count": "29.6K Tweets"
+    "tweet_count": "5,448 Tweets"
   },
   {
     "name": "#JamesWebb",
     "query": "#JamesWebb",
-    "rank": 5,
-    "tweet_count": "9,029 Tweets"
+    "rank": 4,
+    "tweet_count": "9,474 Tweets"
   },
   {
-    "name": "joon",
-    "query": "joon",
+    "name": "Namjoon",
+    "query": "Namjoon",
+    "rank": 5,
+    "tweet_count": "335K Tweets"
+  },
+  {
+    "name": "Hiddema",
+    "query": "Hiddema",
     "rank": 6,
-    "tweet_count": "41.7K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Koning",
@@ -42,51 +42,39 @@
     "tweet_count": null
   },
   {
-    "name": "Hiddema",
-    "query": "Hiddema",
+    "name": "Joelfeest",
+    "query": "Joelfeest",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Joelfeest",
-    "query": "Joelfeest",
+    "name": "#zelftest",
+    "query": "#zelftest",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Theo",
-    "query": "Theo",
+    "name": "theo",
+    "query": "theo",
     "rank": 10,
-    "tweet_count": "25.3K Tweets"
+    "tweet_count": "25.8K Tweets"
   },
   {
     "name": "Bruls",
     "query": "Bruls",
     "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Merry Xmas",
-    "query": "\"Merry Xmas\"",
-    "rank": 12,
-    "tweet_count": "688K Tweets"
+    "tweet_count": "1,003 Tweets"
   },
   {
     "name": "Griekenland",
     "query": "Griekenland",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "ebru",
+    "query": "ebru",
     "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Ebru",
-    "query": "Ebru",
-    "rank": 14,
-    "tweet_count": "4,179 Tweets"
-  },
-  {
-    "name": "#zelftest",
-    "query": "#zelftest",
-    "rank": 15,
-    "tweet_count": null
+    "tweet_count": "4,264 Tweets"
   }
 ]
