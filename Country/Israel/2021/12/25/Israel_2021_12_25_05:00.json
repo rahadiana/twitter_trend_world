@@ -1,15 +1,15 @@
 [
   {
-    "name": "Christmas",
-    "query": "Christmas",
+    "name": "Merry Christmas Eve",
+    "query": "\"Merry Christmas Eve\"",
     "rank": 1,
-    "tweet_count": "3.46M Tweets"
+    "tweet_count": "561K Tweets"
   },
   {
     "name": "שבת שלום",
     "query": "\"שבת שלום\"",
     "rank": 2,
-    "tweet_count": "3,084 Tweets"
+    "tweet_count": "3,101 Tweets"
   },
   {
     "name": "חג שמח",
@@ -21,17 +21,17 @@
     "name": "Shabbat Shalom",
     "query": "\"Shabbat Shalom\"",
     "rank": 4,
-    "tweet_count": "5,909 Tweets"
-  },
-  {
-    "name": "פרסום ראשון",
-    "query": "\"פרסום ראשון\"",
-    "rank": 5,
-    "tweet_count": null
+    "tweet_count": "5,964 Tweets"
   },
   {
     "name": "עוד צער",
     "query": "\"עוד צער\"",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "פרסום ראשון",
+    "query": "\"פרסום ראשון\"",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,22 +42,22 @@
     "tweet_count": null
   },
   {
-    "name": "ميلاد مجيد",
-    "query": "\"ميلاد مجيد\"",
-    "rank": 8,
-    "tweet_count": "32.2K Tweets"
-  },
-  {
     "name": "חאן אל",
     "query": "\"חאן אל\"",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "#انقذوا_برقه",
     "query": "#انقذوا_برقه",
+    "rank": 9,
+    "tweet_count": "25.9K Tweets"
+  },
+  {
+    "name": "Jesus",
+    "query": "Jesus",
     "rank": 10,
-    "tweet_count": "25.8K Tweets"
+    "tweet_count": "681K Tweets"
   },
   {
     "name": "וב טוב",
@@ -72,51 +72,51 @@
     "tweet_count": null
   },
   {
-    "name": "Jesus",
-    "query": "Jesus",
-    "rank": 13,
-    "tweet_count": "668K Tweets"
-  },
-  {
     "name": "עם ישראל",
     "query": "\"עם ישראל\"",
-    "rank": 14,
-    "tweet_count": "1,162 Tweets"
-  },
-  {
-    "name": "חג מולד שמח",
-    "query": "\"חג מולד שמח\"",
-    "rank": 15,
-    "tweet_count": null
+    "rank": 13,
+    "tweet_count": "1,167 Tweets"
   },
   {
     "name": "Bethlehem",
     "query": "Bethlehem",
-    "rank": 16,
-    "tweet_count": "20K Tweets"
+    "rank": 14,
+    "tweet_count": "20.3K Tweets"
   },
   {
     "name": "בחיים שלי",
     "query": "\"בחיים שלי\"",
-    "rank": 17,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "מלח הארץ",
     "query": "\"מלח הארץ\"",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "ממשלה של",
-    "query": "\"ממשלה של\"",
-    "rank": 19,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Nazareth",
     "query": "Nazareth",
+    "rank": 17,
+    "tweet_count": "9,428 Tweets"
+  },
+  {
+    "name": "ממשלה של",
+    "query": "\"ממשלה של\"",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "חג מולד שמח",
+    "query": "\"חג מולד שמח\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "לבן גביר",
+    "query": "\"לבן גביר\"",
     "rank": 20,
-    "tweet_count": "9,255 Tweets"
+    "tweet_count": null
   }
 ]
