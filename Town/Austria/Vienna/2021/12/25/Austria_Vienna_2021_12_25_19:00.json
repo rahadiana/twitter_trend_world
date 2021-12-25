@@ -1,39 +1,39 @@
 [
   {
-    "name": "Merry Christmas",
-    "query": "\"Merry Christmas\"",
+    "name": "Christmas",
+    "query": "Christmas",
     "rank": 1,
-    "tweet_count": "2.21M Tweets"
+    "tweet_count": "3.78M Tweets"
   },
   {
     "name": "Frohe Weihnachten",
     "query": "\"Frohe Weihnachten\"",
     "rank": 2,
-    "tweet_count": "52.9K Tweets"
+    "tweet_count": "53.3K Tweets"
   },
   {
-    "name": "James Webb",
-    "query": "\"James Webb\"",
+    "name": "#JWST",
+    "query": "#JWST",
     "rank": 3,
-    "tweet_count": "111K Tweets"
+    "tweet_count": "37.7K Tweets"
   },
   {
     "name": "Silicon Valley",
     "query": "\"Silicon Valley\"",
     "rank": 4,
-    "tweet_count": "2,019 Tweets"
-  },
-  {
-    "name": "Beileid",
-    "query": "Beileid",
-    "rank": 5,
-    "tweet_count": "2,683 Tweets"
+    "tweet_count": "2,036 Tweets"
   },
   {
     "name": "Palantir",
     "query": "Palantir",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "Happy Holidays",
+    "query": "\"Happy Holidays\"",
+    "rank": 6,
+    "tweet_count": "1.58M Tweets"
   },
   {
     "name": "christtag",
@@ -45,77 +45,77 @@
     "name": "#DontLookUp",
     "query": "#DontLookUp",
     "rank": 8,
-    "tweet_count": "43.8K Tweets"
+    "tweet_count": "44.4K Tweets"
+  },
+  {
+    "name": "Beileid",
+    "query": "Beileid",
+    "rank": 9,
+    "tweet_count": "2,775 Tweets"
+  },
+  {
+    "name": "#JamesWebbTelescope",
+    "query": "#JamesWebbTelescope",
+    "rank": 10,
+    "tweet_count": "3,579 Tweets"
   },
   {
     "name": "joon",
     "query": "joon",
-    "rank": 9,
-    "tweet_count": "62K Tweets"
+    "rank": 11,
+    "tweet_count": "62.4K Tweets"
   },
   {
     "name": "DJI Mystery Future Box",
     "query": "\"DJI Mystery Future Box\"",
-    "rank": 10,
-    "tweet_count": "3,780 Tweets"
+    "rank": 12,
+    "tweet_count": "3,810 Tweets"
   },
   {
     "name": "DJI Kalender",
     "query": "\"DJI Kalender\"",
-    "rank": 11,
+    "rank": 13,
     "tweet_count": null
+  },
+  {
+    "name": "#DJIHolidays",
+    "query": "#DJIHolidays",
+    "rank": 14,
+    "tweet_count": "5,979 Tweets"
   },
   {
     "name": "Baum",
     "query": "Baum",
-    "rank": 12,
-    "tweet_count": "5,579 Tweets"
+    "rank": 15,
+    "tweet_count": "5,625 Tweets"
   },
   {
     "name": "Privatwirtschaft",
     "query": "Privatwirtschaft",
-    "rank": 13,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Sebastian",
     "query": "Sebastian",
-    "rank": 14,
-    "tweet_count": "17.4K Tweets"
+    "rank": 17,
+    "tweet_count": "17.6K Tweets"
   },
   {
     "name": "Öffis",
     "query": "Öffis",
-    "rank": 15,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Neid",
     "query": "Neid",
-    "rank": 16,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Forderungen an die Politik",
     "query": "\"Forderungen an die Politik\"",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Heiligabend",
-    "query": "Heiligabend",
-    "rank": 18,
-    "tweet_count": "8,949 Tweets"
-  },
-  {
-    "name": "Pandemie und die Folgen",
-    "query": "\"Pandemie und die Folgen\"",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Ausbildung",
-    "query": "Ausbildung",
     "rank": 20,
     "tweet_count": null
   }
