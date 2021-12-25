@@ -1,9 +1,9 @@
 [
   {
-    "name": "Christmas",
-    "query": "Christmas",
+    "name": "Merry Christmas",
+    "query": "\"Merry Christmas\"",
     "rank": 1,
-    "tweet_count": "3.82M Tweets"
+    "tweet_count": "1.83M Tweets"
   },
   {
     "name": "#Kersttoespraak",
@@ -12,26 +12,26 @@
     "tweet_count": null
   },
   {
-    "name": "#JWST",
-    "query": "#JWST",
-    "rank": 3,
-    "tweet_count": "26.6K Tweets"
-  },
-  {
-    "name": "#top2000",
-    "query": "#top2000",
-    "rank": 4,
-    "tweet_count": "5,083 Tweets"
-  },
-  {
     "name": "#JamesWebb",
     "query": "#JamesWebb",
-    "rank": 5,
-    "tweet_count": "7,892 Tweets"
+    "rank": 3,
+    "tweet_count": "8,307 Tweets"
   },
   {
-    "name": "#koning",
-    "query": "#koning",
+    "name": "#Top2000",
+    "query": "#Top2000",
+    "rank": 4,
+    "tweet_count": "5,146 Tweets"
+  },
+  {
+    "name": "Namjoon",
+    "query": "Namjoon",
+    "rank": 5,
+    "tweet_count": "189K Tweets"
+  },
+  {
+    "name": "#Koning",
+    "query": "#Koning",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,10 +42,10 @@
     "tweet_count": null
   },
   {
-    "name": "joon",
-    "query": "joon",
+    "name": "#zelftest",
+    "query": "#zelftest",
     "rank": 8,
-    "tweet_count": "28.2K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Joelfeest",
@@ -63,30 +63,12 @@
     "name": "Theo",
     "query": "Theo",
     "rank": 11,
-    "tweet_count": "26K Tweets"
+    "tweet_count": "26.4K Tweets"
   },
   {
     "name": "Ebru",
     "query": "Ebru",
     "rank": 12,
-    "tweet_count": "4,143 Tweets"
-  },
-  {
-    "name": "Frans",
-    "query": "Frans",
-    "rank": 13,
-    "tweet_count": "3,385 Tweets"
-  },
-  {
-    "name": "#zelftest",
-    "query": "#zelftest",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "#MerryXmas",
-    "query": "#MerryXmas",
-    "rank": 15,
-    "tweet_count": "60.8K Tweets"
+    "tweet_count": "4,200 Tweets"
   }
 ]
