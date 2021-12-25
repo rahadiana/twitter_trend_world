@@ -1,44 +1,62 @@
 [
   {
+    "name": "De Mthuda",
+    "query": "\"De Mthuda\"",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "Sending",
     "query": "Sending",
-    "rank": 1,
-    "tweet_count": "207K Tweets"
+    "rank": 2,
+    "tweet_count": "213K Tweets"
   },
   {
     "name": "Choice Assorted",
     "query": "\"Choice Assorted\"",
-    "rank": 2,
-    "tweet_count": "1,856 Tweets"
-  },
-  {
-    "name": "Merry Christmas",
-    "query": "\"Merry Christmas\"",
     "rank": 3,
-    "tweet_count": "3.48M Tweets"
+    "tweet_count": "1,924 Tweets"
   },
   {
-    "name": "De Mthuda",
-    "query": "\"De Mthuda\"",
+    "name": "Christmas",
+    "query": "Christmas",
     "rank": 4,
-    "tweet_count": null
+    "tweet_count": "3.82M Tweets"
+  },
+  {
+    "name": "Merry Xmas",
+    "query": "\"Merry Xmas\"",
+    "rank": 5,
+    "tweet_count": "687K Tweets"
   },
   {
     "name": "#AndileMpisane",
     "query": "#AndileMpisane",
-    "rank": 5,
-    "tweet_count": "3,819 Tweets"
+    "rank": 6,
+    "tweet_count": "3,952 Tweets"
+  },
+  {
+    "name": "#Mamkhize",
+    "query": "#Mamkhize",
+    "rank": 7,
+    "tweet_count": "1,934 Tweets"
   },
   {
     "name": "Jesus",
     "query": "Jesus",
-    "rank": 6,
-    "tweet_count": "779K Tweets"
+    "rank": 8,
+    "tweet_count": "799K Tweets"
   },
   {
-    "name": "Wishing",
-    "query": "Wishing",
-    "rank": 7,
-    "tweet_count": "523K Tweets"
+    "name": "Santa",
+    "query": "Santa",
+    "rank": 9,
+    "tweet_count": "1.37M Tweets"
+  },
+  {
+    "name": "#HappyHolidays",
+    "query": "#HappyHolidays",
+    "rank": 10,
+    "tweet_count": "174K Tweets"
   }
 ]
