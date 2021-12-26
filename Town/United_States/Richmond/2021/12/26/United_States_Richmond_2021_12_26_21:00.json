@@ -1,116 +1,116 @@
 [
   {
-    "name": "Arsenal",
-    "query": "Arsenal",
+    "name": "Seattle",
+    "query": "Seattle",
     "rank": 1,
-    "tweet_count": "177K Tweets"
+    "tweet_count": "20.8K Tweets"
+  },
+  {
+    "name": "Chelsea",
+    "query": "Chelsea",
+    "rank": 2,
+    "tweet_count": "117K Tweets"
   },
   {
     "name": "Desmond Tutu",
     "query": "\"Desmond Tutu\"",
-    "rank": 2,
-    "tweet_count": "448K Tweets"
+    "rank": 3,
+    "tweet_count": "452K Tweets"
   },
   {
-    "name": "#LACvsHOU",
-    "query": "#LACvsHOU",
-    "rank": 3,
-    "tweet_count": "2,611 Tweets"
+    "name": "Chargers",
+    "query": "Chargers",
+    "rank": 4,
+    "tweet_count": "37.1K Tweets"
   },
   {
     "name": "#BALvsCIN",
     "query": "#BALvsCIN",
-    "rank": 4,
-    "tweet_count": "4,564 Tweets"
+    "rank": 5,
+    "tweet_count": "4,617 Tweets"
   },
   {
     "name": "#BUFvsNE",
     "query": "#BUFvsNE",
-    "rank": 5,
-    "tweet_count": "12.7K Tweets"
+    "rank": 6,
+    "tweet_count": "13.1K Tweets"
   },
   {
     "name": "#NYGvsPHI",
     "query": "#NYGvsPHI",
-    "rank": 6,
-    "tweet_count": "11.1K Tweets"
+    "rank": 7,
+    "tweet_count": "11.2K Tweets"
   },
   {
     "name": "#LARvsMIN",
     "query": "#LARvsMIN",
-    "rank": 7,
-    "tweet_count": "4,095 Tweets"
+    "rank": 8,
+    "tweet_count": "4,130 Tweets"
+  },
+  {
+    "name": "#LARvsMIN",
+    "query": "#LARvsMIN",
+    "rank": 9,
+    "tweet_count": "4,130 Tweets"
   },
   {
     "name": "Jets",
     "query": "Jets",
-    "rank": 8,
-    "tweet_count": "38.9K Tweets"
+    "rank": 10,
+    "tweet_count": "39.4K Tweets"
   },
   {
     "name": "Falcons",
     "query": "Falcons",
-    "rank": 9,
-    "tweet_count": "12.1K Tweets"
+    "rank": 11,
+    "tweet_count": "12.2K Tweets"
+  },
+  {
+    "name": "Herbert",
+    "query": "Herbert",
+    "rank": 12,
+    "tweet_count": "11.7K Tweets"
+  },
+  {
+    "name": "Big Ben",
+    "query": "\"Big Ben\"",
+    "rank": 13,
+    "tweet_count": "4,680 Tweets"
   },
   {
     "name": "Matt Rhule",
     "query": "\"Matt Rhule\"",
-    "rank": 10,
-    "tweet_count": "4,393 Tweets"
-  },
-  {
-    "name": "Lukaku",
-    "query": "Lukaku",
-    "rank": 11,
-    "tweet_count": "58.6K Tweets"
-  },
-  {
-    "name": "Staley",
-    "query": "Staley",
-    "rank": 12,
-    "tweet_count": "2,396 Tweets"
-  },
-  {
-    "name": "Kwanzaa",
-    "query": "Kwanzaa",
-    "rank": 13,
-    "tweet_count": "52.8K Tweets"
-  },
-  {
-    "name": "Reagor",
-    "query": "Reagor",
     "rank": 14,
-    "tweet_count": "3,914 Tweets"
-  },
-  {
-    "name": "Damien Harris",
-    "query": "\"Damien Harris\"",
-    "rank": 15,
-    "tweet_count": "5,291 Tweets"
-  },
-  {
-    "name": "Boxing Day",
-    "query": "\"Boxing Day\"",
-    "rank": 16,
-    "tweet_count": "321K Tweets"
-  },
-  {
-    "name": "Voting",
-    "query": "Voting",
-    "rank": 17,
-    "tweet_count": "249K Tweets"
+    "tweet_count": "4,502 Tweets"
   },
   {
     "name": "Spillane",
     "query": "Spillane",
-    "rank": 18,
+    "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "#LARvsMIN",
-    "query": "#LARvsMIN",
+    "name": "Pringle",
+    "query": "Pringle",
+    "rank": 16,
+    "tweet_count": "1,789 Tweets"
+  },
+  {
+    "name": "Staley",
+    "query": "Staley",
+    "rank": 17,
+    "tweet_count": "2,452 Tweets"
+  },
+  {
+    "name": "Lukaku",
+    "query": "Lukaku",
+    "rank": 18,
+    "tweet_count": "59.3K Tweets"
+  },
+  {
+    "name": "Kwanzaa",
+    "query": "Kwanzaa",
     "rank": 19,
-    "tweet_count": "4,095 Tweets"
+    "tweet_count": "53.4K Tweets"
   }
 ]
