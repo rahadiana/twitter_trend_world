@@ -1,68 +1,80 @@
 [
   {
+    "name": "Lukaku",
+    "query": "Lukaku",
+    "rank": 1,
+    "tweet_count": "34.5K Tweets"
+  },
+  {
     "name": "#AVLCHE",
     "query": "#AVLCHE",
-    "rank": 1,
-    "tweet_count": "30.9K Tweets"
+    "rank": 2,
+    "tweet_count": "37.6K Tweets"
+  },
+  {
+    "name": "Mings",
+    "query": "Mings",
+    "rank": 3,
+    "tweet_count": "5,091 Tweets"
   },
   {
     "name": "#MCILEI",
     "query": "#MCILEI",
-    "rank": 2,
-    "tweet_count": "26K Tweets"
-  },
-  {
-    "name": "St Stephen",
-    "query": "\"St Stephen\"",
-    "rank": 3,
-    "tweet_count": "4,890 Tweets"
-  },
-  {
-    "name": "Boxing Day",
-    "query": "\"Boxing Day\"",
     "rank": 4,
-    "tweet_count": "290K Tweets"
+    "tweet_count": "26.1K Tweets"
   },
   {
-    "name": "Zaha",
-    "query": "Zaha",
+    "name": "#StStephensDay",
+    "query": "#StStephensDay",
     "rank": 5,
-    "tweet_count": "14.8K Tweets"
-  },
-  {
-    "name": "Saka",
-    "query": "Saka",
-    "rank": 6,
-    "tweet_count": "59.6K Tweets"
-  },
-  {
-    "name": "Tornado Flyer",
-    "query": "\"Tornado Flyer\"",
-    "rank": 7,
-    "tweet_count": null
+    "tweet_count": "1,287 Tweets"
   },
   {
     "name": "Norwich",
     "query": "Norwich",
+    "rank": 6,
+    "tweet_count": "41.3K Tweets"
+  },
+  {
+    "name": "Boxing Day",
+    "query": "\"Boxing Day\"",
+    "rank": 7,
+    "tweet_count": "293K Tweets"
+  },
+  {
+    "name": "Saka",
+    "query": "Saka",
     "rank": 8,
-    "tweet_count": "40.9K Tweets"
+    "tweet_count": "60.1K Tweets"
+  },
+  {
+    "name": "Tornado Flyer",
+    "query": "\"Tornado Flyer\"",
+    "rank": 9,
+    "tweet_count": null
   },
   {
     "name": "West Ham",
     "query": "\"West Ham\"",
-    "rank": 9,
-    "tweet_count": "9,125 Tweets"
+    "rank": 10,
+    "tweet_count": "23.6K Tweets"
+  },
+  {
+    "name": "Zaha",
+    "query": "Zaha",
+    "rank": 11,
+    "tweet_count": "14.9K Tweets"
   },
   {
     "name": "Desmond Tutu",
     "query": "\"Desmond Tutu\"",
-    "rank": 10,
-    "tweet_count": "386K Tweets"
+    "rank": 12,
+    "tweet_count": "391K Tweets"
   },
   {
     "name": "Ronaldo",
     "query": "Ronaldo",
-    "rank": 11,
-    "tweet_count": "53.2K Tweets"
+    "rank": 13,
+    "tweet_count": "53.8K Tweets"
   }
 ]
