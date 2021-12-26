@@ -1,74 +1,80 @@
 [
   {
-    "name": "#MCILEI",
-    "query": "#MCILEI",
+    "name": "#mcilei",
+    "query": "#mcilei",
     "rank": 1,
-    "tweet_count": "23.9K Tweets"
+    "tweet_count": "24.7K Tweets"
   },
   {
     "name": "Zaha",
     "query": "Zaha",
     "rank": 2,
-    "tweet_count": "13.2K Tweets"
+    "tweet_count": "13.8K Tweets"
   },
   {
-    "name": "#NORARS",
-    "query": "#NORARS",
+    "name": "Saka",
+    "query": "Saka",
     "rank": 3,
-    "tweet_count": "39K Tweets"
-  },
-  {
-    "name": "Tornado Flyer",
-    "query": "\"Tornado Flyer\"",
-    "rank": 4,
-    "tweet_count": null
+    "tweet_count": "55.8K Tweets"
   },
   {
     "name": "Boxing Day",
     "query": "\"Boxing Day\"",
-    "rank": 5,
-    "tweet_count": "248K Tweets"
+    "rank": 4,
+    "tweet_count": "260K Tweets"
   },
   {
-    "name": "#StStephensDay",
-    "query": "#StStephensDay",
+    "name": "St Stephen",
+    "query": "\"St Stephen\"",
+    "rank": 5,
+    "tweet_count": "4,418 Tweets"
+  },
+  {
+    "name": "King George",
+    "query": "\"King George\"",
     "rank": 6,
-    "tweet_count": "1,083 Tweets"
+    "tweet_count": "3,484 Tweets"
+  },
+  {
+    "name": "Tornado Flyer",
+    "query": "\"Tornado Flyer\"",
+    "rank": 7,
+    "tweet_count": null
   },
   {
     "name": "Rodgers",
     "query": "Rodgers",
-    "rank": 7,
-    "tweet_count": "57K Tweets"
+    "rank": 8,
+    "tweet_count": "57.7K Tweets"
   },
   {
     "name": "Ferny Hollow",
     "query": "\"Ferny Hollow\"",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Foden",
     "query": "Foden",
-    "rank": 9,
-    "tweet_count": "10.6K Tweets"
-  },
-  {
-    "name": "#DesmondTutu",
-    "query": "#DesmondTutu",
     "rank": 10,
-    "tweet_count": "42.7K Tweets"
+    "tweet_count": "10.8K Tweets"
   },
   {
-    "name": "Palace",
-    "query": "Palace",
+    "name": "Desmond Tutu",
+    "query": "\"Desmond Tutu\"",
     "rank": 11,
-    "tweet_count": "47.8K Tweets"
+    "tweet_count": "337K Tweets"
   },
   {
     "name": "Ronaldo",
     "query": "Ronaldo",
     "rank": 12,
-    "tweet_count": "52.6K Tweets"
+    "tweet_count": "54K Tweets"
+  },
+  {
+    "name": "Palace",
+    "query": "Palace",
+    "rank": 13,
+    "tweet_count": "49.1K Tweets"
   }
 ]
