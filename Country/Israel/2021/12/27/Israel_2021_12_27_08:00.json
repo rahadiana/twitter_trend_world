@@ -1,39 +1,39 @@
 [
   {
-    "name": "בוקר טוב",
-    "query": "\"בוקר טוב\"",
+    "name": "Merry Christmas",
+    "query": "\"Merry Christmas\"",
     "rank": 1,
-    "tweet_count": null
+    "tweet_count": "1.57M Tweets"
   },
   {
     "name": "Merry Christmas",
     "query": "\"Merry Christmas\"",
     "rank": 2,
-    "tweet_count": "1.56M Tweets"
-  },
-  {
-    "name": "Merry Christmas",
-    "query": "\"Merry Christmas\"",
-    "rank": 3,
-    "tweet_count": "1.56M Tweets"
+    "tweet_count": "1.57M Tweets"
   },
   {
     "name": "מזל טוב",
     "query": "\"מזל טוב\"",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "זיו אריה",
     "query": "\"זיו אריה\"",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "שי ניצן",
     "query": "\"שי ניצן\"",
+    "rank": 5,
+    "tweet_count": "3,515 Tweets"
+  },
+  {
+    "name": "בוקר טוב",
+    "query": "\"בוקר טוב\"",
     "rank": 6,
-    "tweet_count": "3,478 Tweets"
+    "tweet_count": null
   },
   {
     "name": "שבוע טוב",
@@ -45,7 +45,7 @@
     "name": "Lebanon",
     "query": "Lebanon",
     "rank": 8,
-    "tweet_count": "4,814 Tweets"
+    "tweet_count": "4,942 Tweets"
   },
   {
     "name": "בוקר אור",
@@ -66,28 +66,28 @@
     "tweet_count": null
   },
   {
+    "name": "הפועל ירושלים",
+    "query": "\"הפועל ירושלים\"",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
     "name": "Holocaust",
     "query": "Holocaust",
-    "rank": 12,
-    "tweet_count": "6,741 Tweets"
+    "rank": 13,
+    "tweet_count": "6,886 Tweets"
   },
   {
     "name": "Arsenal",
     "query": "Arsenal",
-    "rank": 13,
-    "tweet_count": "199K Tweets"
+    "rank": 14,
+    "tweet_count": "200K Tweets"
   },
   {
     "name": "Telegram",
     "query": "Telegram",
-    "rank": 14,
-    "tweet_count": "402K Tweets"
-  },
-  {
-    "name": "הפועל ירושלים",
-    "query": "\"הפועל ירושלים\"",
     "rank": 15,
-    "tweet_count": null
+    "tweet_count": "409K Tweets"
   },
   {
     "name": "אחר כך",
@@ -117,6 +117,6 @@
     "name": "German",
     "query": "German",
     "rank": 20,
-    "tweet_count": "39.1K Tweets"
+    "tweet_count": "39.7K Tweets"
   }
 ]
