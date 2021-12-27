@@ -1,39 +1,39 @@
 [
   {
-    "name": "#SkeemSaam",
-    "query": "#SkeemSaam",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Tutu",
     "query": "Tutu",
-    "rank": 2,
-    "tweet_count": "351K Tweets"
+    "rank": 1,
+    "tweet_count": "355K Tweets"
   },
   {
     "name": "#GomoraMzanzi",
     "query": "#GomoraMzanzi",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Christmas",
     "query": "Christmas",
+    "rank": 3,
+    "tweet_count": "3.15M Tweets"
+  },
+  {
+    "name": "#SkeemSaam",
+    "query": "#SkeemSaam",
     "rank": 4,
-    "tweet_count": "3.04M Tweets"
+    "tweet_count": null
   },
   {
     "name": "#AVLCHE",
     "query": "#AVLCHE",
     "rank": 5,
-    "tweet_count": "36.7K Tweets"
+    "tweet_count": "36.9K Tweets"
   },
   {
     "name": "#InsecureHBO",
     "query": "#InsecureHBO",
     "rank": 6,
-    "tweet_count": "220K Tweets"
+    "tweet_count": "222K Tweets"
   },
   {
     "name": "#TheEstateOn3",
@@ -45,19 +45,19 @@
     "name": "Winnie",
     "query": "Winnie",
     "rank": 8,
-    "tweet_count": "16.9K Tweets"
+    "tweet_count": "17.1K Tweets"
   },
   {
     "name": "Cyan",
     "query": "Cyan",
     "rank": 9,
-    "tweet_count": "14.1K Tweets"
+    "tweet_count": "14.3K Tweets"
   },
   {
     "name": "Boxing Day",
     "query": "\"Boxing Day\"",
     "rank": 10,
-    "tweet_count": "149K Tweets"
+    "tweet_count": "150K Tweets"
   },
   {
     "name": "Melita",
@@ -69,54 +69,54 @@
     "name": "Don't Look Up",
     "query": "\"Don't Look Up\"",
     "rank": 12,
-    "tweet_count": "115K Tweets"
+    "tweet_count": "117K Tweets"
   },
   {
     "name": "Jub Jub",
     "query": "\"Jub Jub\"",
     "rank": 13,
-    "tweet_count": "8,359 Tweets"
-  },
-  {
-    "name": "BODMAS",
-    "query": "BODMAS",
-    "rank": 14,
-    "tweet_count": null
+    "tweet_count": "8,500 Tweets"
   },
   {
     "name": "Nobel",
     "query": "Nobel",
-    "rank": 15,
-    "tweet_count": "44.4K Tweets"
+    "rank": 14,
+    "tweet_count": "45.1K Tweets"
   },
   {
     "name": "Dalai Lama",
     "query": "\"Dalai Lama\"",
-    "rank": 16,
-    "tweet_count": "5,814 Tweets"
+    "rank": 15,
+    "tweet_count": "5,895 Tweets"
   },
   {
     "name": "Babes Wodumo",
     "query": "\"Babes Wodumo\"",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
-  },
-  {
-    "name": "Apartheid",
-    "query": "Apartheid",
-    "rank": 18,
-    "tweet_count": "128K Tweets"
   },
   {
     "name": "Leicester",
     "query": "Leicester",
-    "rank": 19,
-    "tweet_count": "22.6K Tweets"
+    "rank": 17,
+    "tweet_count": "23K Tweets"
   },
   {
     "name": "De Klerk",
     "query": "\"De Klerk\"",
+    "rank": 18,
+    "tweet_count": "2,395 Tweets"
+  },
+  {
+    "name": "Rasta",
+    "query": "Rasta",
+    "rank": 19,
+    "tweet_count": "6,565 Tweets"
+  },
+  {
+    "name": "BODMAS",
+    "query": "BODMAS",
     "rank": 20,
-    "tweet_count": "2,363 Tweets"
+    "tweet_count": null
   }
 ]
