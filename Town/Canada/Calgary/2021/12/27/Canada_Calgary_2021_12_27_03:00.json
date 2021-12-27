@@ -1,115 +1,115 @@
 [
   {
+    "name": "Boxing Day",
+    "query": "\"Boxing Day\"",
+    "rank": 1,
+    "tweet_count": "340K Tweets"
+  },
+  {
     "name": "Trump",
     "query": "Trump",
-    "rank": 1,
-    "tweet_count": "334K Tweets"
+    "rank": 2,
+    "tweet_count": "341K Tweets"
   },
   {
     "name": "Russia",
     "query": "Russia",
-    "rank": 2,
-    "tweet_count": "76.5K Tweets"
-  },
-  {
-    "name": "#WorldJuniors",
-    "query": "#WorldJuniors",
     "rank": 3,
-    "tweet_count": "12.3K Tweets"
+    "tweet_count": "78.1K Tweets"
   },
   {
     "name": "#InsecureSeriesFinale",
     "query": "#InsecureSeriesFinale",
     "rank": 4,
-    "tweet_count": "26.5K Tweets"
+    "tweet_count": "59K Tweets"
+  },
+  {
+    "name": "#WorldJuniors",
+    "query": "#WorldJuniors",
+    "rank": 5,
+    "tweet_count": "12.6K Tweets"
   },
   {
     "name": "Cowboys",
     "query": "Cowboys",
-    "rank": 5,
-    "tweet_count": "67.6K Tweets"
+    "rank": 6,
+    "tweet_count": "74.5K Tweets"
   },
   {
     "name": "#90DayFiance",
     "query": "#90DayFiance",
-    "rank": 6,
-    "tweet_count": "9,197 Tweets"
-  },
-  {
-    "name": "Ivan Ivan Ivan",
-    "query": "\"Ivan Ivan Ivan\"",
     "rank": 7,
-    "tweet_count": "40.1K Tweets"
+    "tweet_count": "9,401 Tweets"
   },
   {
-    "name": "#GoCanadaGo",
-    "query": "#GoCanadaGo",
+    "name": "Ivan Ivan",
+    "query": "\"Ivan Ivan\"",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "40.6K Tweets"
+  },
+  {
+    "name": "#PickASideYouTube",
+    "query": "#PickASideYouTube",
+    "rank": 9,
+    "tweet_count": "35K Tweets"
   },
   {
     "name": "#WJC2022",
     "query": "#WJC2022",
-    "rank": 9,
-    "tweet_count": "1,284 Tweets"
+    "rank": 10,
+    "tweet_count": "1,299 Tweets"
   },
   {
     "name": "Raptors",
     "query": "Raptors",
-    "rank": 10,
-    "tweet_count": "16K Tweets"
+    "rank": 11,
+    "tweet_count": "16.2K Tweets"
   },
   {
-    "name": "McTavish",
-    "query": "McTavish",
-    "rank": 11,
-    "tweet_count": "1,655 Tweets"
+    "name": "Sabres",
+    "query": "Sabres",
+    "rank": 12,
+    "tweet_count": "1,421 Tweets"
+  },
+  {
+    "name": "Tchéquie",
+    "query": "Tchéquie",
+    "rank": 13,
+    "tweet_count": null
   },
   {
     "name": "Guhle",
     "query": "Guhle",
-    "rank": 12,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Buffalo",
     "query": "Buffalo",
-    "rank": 13,
-    "tweet_count": "27.3K Tweets"
-  },
-  {
-    "name": "Boxing Day",
-    "query": "\"Boxing Day\"",
-    "rank": 14,
-    "tweet_count": "338K Tweets"
-  },
-  {
-    "name": "Sabres",
-    "query": "Sabres",
     "rank": 15,
-    "tweet_count": "1,389 Tweets"
+    "tweet_count": "27.6K Tweets"
   },
   {
     "name": "Boucher",
     "query": "Boucher",
     "rank": 16,
-    "tweet_count": "2,579 Tweets"
-  },
-  {
-    "name": "Cossa",
-    "query": "Cossa",
-    "rank": 17,
-    "tweet_count": null
+    "tweet_count": "2,611 Tweets"
   },
   {
     "name": "Garand",
     "query": "Garand",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Adam Silver",
     "query": "\"Adam Silver\"",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Michkov",
+    "query": "Michkov",
     "rank": 19,
     "tweet_count": null
   },
@@ -117,6 +117,6 @@
     "name": "Yuta",
     "query": "Yuta",
     "rank": 20,
-    "tweet_count": "64K Tweets"
+    "tweet_count": "65.1K Tweets"
   }
 ]
