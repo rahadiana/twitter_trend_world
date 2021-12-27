@@ -1,68 +1,98 @@
 [
   {
+    "name": "в беларуси",
+    "query": "\"в беларуси\"",
+    "rank": 1,
+    "tweet_count": "1,263 Tweets"
+  },
+  {
     "name": "Russia",
     "query": "Russia",
-    "rank": 1,
-    "tweet_count": "116K Tweets"
+    "rank": 2,
+    "tweet_count": "117K Tweets"
+  },
+  {
+    "name": "COVID-19",
+    "query": "COVID-19",
+    "rank": 3,
+    "tweet_count": "409K Tweets"
   },
   {
     "name": "Merry Christmas",
     "query": "\"Merry Christmas\"",
-    "rank": 2,
-    "tweet_count": "758K Tweets"
+    "rank": 4,
+    "tweet_count": "761K Tweets"
   },
   {
     "name": "Точно",
     "query": "Точно",
-    "rank": 3,
-    "tweet_count": "9,656 Tweets"
-  },
-  {
-    "name": "в беларуси",
-    "query": "\"в беларуси\"",
-    "rank": 4,
-    "tweet_count": "1,255 Tweets"
-  },
-  {
-    "name": "#FridayGiveaway",
-    "query": "#FridayGiveaway",
     "rank": 5,
+    "tweet_count": "9,759 Tweets"
+  },
+  {
+    "name": "#fridaygiveaway",
+    "query": "#fridaygiveaway",
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "Рождество",
     "query": "Рождество",
-    "rank": 6,
-    "tweet_count": "1,526 Tweets"
-  },
-  {
-    "name": "Понимаю",
-    "query": "Понимаю",
     "rank": 7,
-    "tweet_count": "12.6K Tweets"
+    "tweet_count": "1,539 Tweets"
   },
   {
-    "name": "Приятного",
-    "query": "Приятного",
+    "name": "Реально",
+    "query": "Реально",
     "rank": 8,
-    "tweet_count": "1,039 Tweets"
+    "tweet_count": "8,314 Tweets"
   },
   {
-    "name": "Давай",
-    "query": "Давай",
+    "name": "Украине",
+    "query": "Украине",
     "rank": 9,
-    "tweet_count": "7,596 Tweets"
+    "tweet_count": "5,247 Tweets"
+  },
+  {
+    "name": "Поздравляю",
+    "query": "Поздравляю",
+    "rank": 10,
+    "tweet_count": "5,048 Tweets"
   },
   {
     "name": "Дааа",
     "query": "Дааа",
-    "rank": 10,
-    "tweet_count": "1,046 Tweets"
+    "rank": 11,
+    "tweet_count": "1,062 Tweets"
   },
   {
-    "name": "Твиттер",
-    "query": "Твиттер",
-    "rank": 11,
-    "tweet_count": "3,868 Tweets"
+    "name": "Давай",
+    "query": "Давай",
+    "rank": 12,
+    "tweet_count": "7,665 Tweets"
+  },
+  {
+    "name": "#GenshinImpact",
+    "query": "#GenshinImpact",
+    "rank": 13,
+    "tweet_count": "236K Tweets"
+  },
+  {
+    "name": "Какое",
+    "query": "Какое",
+    "rank": 14,
+    "tweet_count": "4,168 Tweets"
+  },
+  {
+    "name": "Наверное",
+    "query": "Наверное",
+    "rank": 15,
+    "tweet_count": "6,474 Tweets"
+  },
+  {
+    "name": "Согласен",
+    "query": "Согласен",
+    "rank": 16,
+    "tweet_count": "2,088 Tweets"
   }
 ]
