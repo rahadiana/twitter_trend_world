@@ -1,55 +1,55 @@
 [
   {
-    "name": "שבוע טוב",
-    "query": "\"שבוע טוב\"",
+    "name": "בוקר טוב",
+    "query": "\"בוקר טוב\"",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "בוקר טוב",
-    "query": "\"בוקר טוב\"",
+    "name": "Merry Christmas",
+    "query": "\"Merry Christmas\"",
     "rank": 2,
-    "tweet_count": null
+    "tweet_count": "1.56M Tweets"
+  },
+  {
+    "name": "Merry Christmas",
+    "query": "\"Merry Christmas\"",
+    "rank": 3,
+    "tweet_count": "1.56M Tweets"
   },
   {
     "name": "מזל טוב",
     "query": "\"מזל טוב\"",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "Merry Christmas",
-    "query": "\"Merry Christmas\"",
     "rank": 4,
-    "tweet_count": "1.55M Tweets"
-  },
-  {
-    "name": "Merry Christmas",
-    "query": "\"Merry Christmas\"",
-    "rank": 5,
-    "tweet_count": "1.55M Tweets"
+    "tweet_count": null
   },
   {
     "name": "זיו אריה",
     "query": "\"זיו אריה\"",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "שי ניצן",
     "query": "\"שי ניצן\"",
-    "rank": 7,
-    "tweet_count": "3,442 Tweets"
+    "rank": 6,
+    "tweet_count": "3,478 Tweets"
   },
   {
-    "name": "יום ראשון",
-    "query": "\"יום ראשון\"",
-    "rank": 8,
+    "name": "שבוע טוב",
+    "query": "\"שבוע טוב\"",
+    "rank": 7,
     "tweet_count": null
   },
   {
-    "name": "#rs21",
-    "query": "#rs21",
+    "name": "Lebanon",
+    "query": "Lebanon",
+    "rank": 8,
+    "tweet_count": "4,814 Tweets"
+  },
+  {
+    "name": "בוקר אור",
+    "query": "\"בוקר אור\"",
     "rank": 9,
     "tweet_count": null
   },
@@ -60,8 +60,8 @@
     "tweet_count": null
   },
   {
-    "name": "בוקר אור",
-    "query": "\"בוקר אור\"",
+    "name": "יום ראשון",
+    "query": "\"יום ראשון\"",
     "rank": 11,
     "tweet_count": null
   },
@@ -69,19 +69,19 @@
     "name": "Holocaust",
     "query": "Holocaust",
     "rank": 12,
-    "tweet_count": "6,656 Tweets"
+    "tweet_count": "6,741 Tweets"
   },
   {
     "name": "Arsenal",
     "query": "Arsenal",
     "rank": 13,
-    "tweet_count": "197K Tweets"
+    "tweet_count": "199K Tweets"
   },
   {
     "name": "Telegram",
     "query": "Telegram",
     "rank": 14,
-    "tweet_count": "395K Tweets"
+    "tweet_count": "402K Tweets"
   },
   {
     "name": "הפועל ירושלים",
@@ -90,26 +90,26 @@
     "tweet_count": null
   },
   {
-    "name": "מעגל ראשון",
-    "query": "\"מעגל ראשון\"",
+    "name": "אחר כך",
+    "query": "\"אחר כך\"",
     "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "אח שלי",
-    "query": "\"אח שלי\"",
+    "name": "מעגל ראשון",
+    "query": "\"מעגל ראשון\"",
     "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "אחר כך",
-    "query": "\"אחר כך\"",
-    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "איזה יופי",
     "query": "\"איזה יופי\"",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "אח שלי",
+    "query": "\"אח שלי\"",
     "rank": 19,
     "tweet_count": null
   },
@@ -117,6 +117,6 @@
     "name": "German",
     "query": "German",
     "rank": 20,
-    "tweet_count": "38.7K Tweets"
+    "tweet_count": "39.1K Tweets"
   }
 ]
