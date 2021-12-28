@@ -1,39 +1,39 @@
 [
   {
-    "name": "Dolphins",
-    "query": "Dolphins",
+    "name": "Ian Book",
+    "query": "\"Ian Book\"",
     "rank": 1,
-    "tweet_count": "61.1K Tweets"
+    "tweet_count": "27.7K Tweets"
   },
   {
-    "name": "Ruiz",
-    "query": "Ruiz",
+    "name": "Dolphins",
+    "query": "Dolphins",
     "rank": 2,
-    "tweet_count": "14.3K Tweets"
+    "tweet_count": "61.9K Tweets"
   },
   {
     "name": "Burger King",
     "query": "\"Burger King\"",
     "rank": 3,
-    "tweet_count": "31.2K Tweets"
+    "tweet_count": "33.5K Tweets"
   },
   {
     "name": "The CDC",
     "query": "\"The CDC\"",
     "rank": 4,
-    "tweet_count": "349K Tweets"
+    "tweet_count": "366K Tweets"
   },
   {
     "name": "Houston",
     "query": "Houston",
     "rank": 5,
-    "tweet_count": "34.1K Tweets"
+    "tweet_count": "35.1K Tweets"
   },
   {
-    "name": "#tuesdaymotivations",
-    "query": "#tuesdaymotivations",
+    "name": "QB Carson Wentz",
+    "query": "\"QB Carson Wentz\"",
     "rank": 6,
-    "tweet_count": "19.4K Tweets"
+    "tweet_count": "2,209 Tweets"
   },
   {
     "name": "#2022Means",
@@ -42,81 +42,75 @@
     "tweet_count": null
   },
   {
-    "name": "#BadNamesForCovidVariants",
-    "query": "#BadNamesForCovidVariants",
+    "name": "Merrick Garland",
+    "query": "\"Merrick Garland\"",
     "rank": 8,
-    "tweet_count": "1,251 Tweets"
+    "tweet_count": "24.5K Tweets"
+  },
+  {
+    "name": "#tuesdaymotivations",
+    "query": "#tuesdaymotivations",
+    "rank": 9,
+    "tweet_count": "19.8K Tweets"
   },
   {
     "name": "Navarro",
     "query": "Navarro",
-    "rank": 9,
-    "tweet_count": "69.7K Tweets"
-  },
-  {
-    "name": "Lindsay Ellis",
-    "query": "\"Lindsay Ellis\"",
     "rank": 10,
-    "tweet_count": "12K Tweets"
-  },
-  {
-    "name": "#BloomingSANAday",
-    "query": "#BloomingSANAday",
-    "rank": 11,
-    "tweet_count": "176K Tweets"
-  },
-  {
-    "name": "#BloomingSANAday",
-    "query": "#BloomingSANAday",
-    "rank": 12,
-    "tweet_count": "176K Tweets"
-  },
-  {
-    "name": "Insigne",
-    "query": "Insigne",
-    "rank": 13,
-    "tweet_count": "10.9K Tweets"
-  },
-  {
-    "name": "Southampton",
-    "query": "Southampton",
-    "rank": 14,
-    "tweet_count": "23.1K Tweets"
-  },
-  {
-    "name": "Delta CEO",
-    "query": "\"Delta CEO\"",
-    "rank": 15,
-    "tweet_count": "30K Tweets"
+    "tweet_count": "73.9K Tweets"
   },
   {
     "name": "Brad Marchand",
     "query": "\"Brad Marchand\"",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "Insigne",
+    "query": "Insigne",
+    "rank": 12,
+    "tweet_count": "12.1K Tweets"
+  },
+  {
+    "name": "Lindsay Ellis",
+    "query": "\"Lindsay Ellis\"",
+    "rank": 13,
+    "tweet_count": "12.6K Tweets"
+  },
+  {
+    "name": "HAPPY BIRTHDAY QUACKITY",
+    "query": "\"HAPPY BIRTHDAY QUACKITY\"",
+    "rank": 14,
+    "tweet_count": "40.5K Tweets"
+  },
+  {
+    "name": "#BadNamesForCovidVariants",
+    "query": "#BadNamesForCovidVariants",
+    "rank": 15,
+    "tweet_count": "1,302 Tweets"
+  },
+  {
+    "name": "#PepsiROW",
+    "query": "#PepsiROW",
     "rank": 16,
-    "tweet_count": null
+    "tweet_count": "1,016 Tweets"
   },
   {
-    "name": "Merrick Garland",
-    "query": "\"Merrick Garland\"",
+    "name": "#snailgang",
+    "query": "#snailgang",
     "rank": 17,
-    "tweet_count": "20.6K Tweets"
-  },
-  {
-    "name": "Stetson",
-    "query": "Stetson",
-    "rank": 18,
-    "tweet_count": "1,314 Tweets"
-  },
-  {
-    "name": "Dee Davis",
-    "query": "\"Dee Davis\"",
-    "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Dabo",
-    "query": "Dabo",
-    "rank": 20,
-    "tweet_count": "2,393 Tweets"
+    "name": "Delta CEO",
+    "query": "\"Delta CEO\"",
+    "rank": 18,
+    "tweet_count": "31.7K Tweets"
+  },
+  {
+    "name": "Southampton",
+    "query": "Southampton",
+    "rank": 19,
+    "tweet_count": "23.7K Tweets"
   }
 ]
