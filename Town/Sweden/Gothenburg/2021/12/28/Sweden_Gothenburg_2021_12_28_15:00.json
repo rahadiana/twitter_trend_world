@@ -1,63 +1,63 @@
 [
   {
-    "name": "Yasin",
-    "query": "Yasin",
-    "rank": 1,
-    "tweet_count": "8,838 Tweets"
-  },
-  {
     "name": "Björn Söder",
     "query": "\"Björn Söder\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "östermalm",
     "query": "östermalm",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Guillou",
     "query": "Guillou",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
+  },
+  {
+    "name": "Yasin",
+    "query": "Yasin",
+    "rank": 4,
+    "tweet_count": "8,994 Tweets"
   },
   {
     "name": "#NEWMUN",
     "query": "#NEWMUN",
     "rank": 5,
-    "tweet_count": "76.1K Tweets"
+    "tweet_count": "76.3K Tweets"
   },
   {
     "name": "Memorial",
     "query": "Memorial",
     "rank": 6,
-    "tweet_count": "27.3K Tweets"
-  },
-  {
-    "name": "slovakien",
-    "query": "slovakien",
-    "rank": 7,
-    "tweet_count": null
+    "tweet_count": "28.7K Tweets"
   },
   {
     "name": "Migrationsverket",
     "query": "Migrationsverket",
-    "rank": 8,
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Rashford",
     "query": "Rashford",
+    "rank": 8,
+    "tweet_count": "77.4K Tweets"
+  },
+  {
+    "name": "Slovakien",
+    "query": "Slovakien",
     "rank": 9,
-    "tweet_count": "76.9K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#WorldJuniors",
     "query": "#WorldJuniors",
     "rank": 10,
-    "tweet_count": "5,658 Tweets"
+    "tweet_count": "5,751 Tweets"
   },
   {
     "name": "Horace Engdahl",
@@ -69,17 +69,17 @@
     "name": "Varane",
     "query": "Varane",
     "rank": 12,
-    "tweet_count": "47.2K Tweets"
-  },
-  {
-    "name": "Tour de Ski",
-    "query": "\"Tour de Ski\"",
-    "rank": 13,
-    "tweet_count": null
+    "tweet_count": "47.4K Tweets"
   },
   {
     "name": "Skavlan",
     "query": "Skavlan",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Tour de Ski",
+    "query": "\"Tour de Ski\"",
     "rank": 14,
     "tweet_count": null
   },
@@ -90,26 +90,26 @@
     "tweet_count": null
   },
   {
-    "name": "Axevalla",
-    "query": "Axevalla",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
     "name": "wernblom",
     "query": "wernblom",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "martina montelius",
     "query": "\"martina montelius\"",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "#björklöven",
     "query": "#björklöven",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Schulman",
+    "query": "Schulman",
     "rank": 19,
     "tweet_count": null
   }

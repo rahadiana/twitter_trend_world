@@ -1,13 +1,13 @@
 [
   {
-    "name": "#Calciomercato",
-    "query": "#Calciomercato",
-    "rank": 1,
-    "tweet_count": "1,531 Tweets"
-  },
-  {
     "name": "#Insigne",
     "query": "#Insigne",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "#Lozano",
+    "query": "#Lozano",
     "rank": 2,
     "tweet_count": null
   },
@@ -15,17 +15,17 @@
     "name": "Toronto",
     "query": "Toronto",
     "rank": 3,
-    "tweet_count": "22.3K Tweets"
+    "tweet_count": "23.1K Tweets"
   },
   {
     "name": "#BloomingSANAday",
     "query": "#BloomingSANAday",
     "rank": 4,
-    "tweet_count": "122K Tweets"
+    "tweet_count": "143K Tweets"
   },
   {
-    "name": "#Lozano",
-    "query": "#Lozano",
+    "name": "Francesca Ferragni",
+    "query": "\"Francesca Ferragni\"",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,19 +33,19 @@
     "name": "Mauro da Mantova",
     "query": "\"Mauro da Mantova\"",
     "rank": 6,
-    "tweet_count": "2,928 Tweets"
+    "tweet_count": "3,042 Tweets"
+  },
+  {
+    "name": "#ObbligoVaccinale",
+    "query": "#ObbligoVaccinale",
+    "rank": 7,
+    "tweet_count": "1,334 Tweets"
   },
   {
     "name": "Cruciani",
     "query": "Cruciani",
-    "rank": 7,
-    "tweet_count": "1,050 Tweets"
-  },
-  {
-    "name": "Francesca Ferragni",
-    "query": "\"Francesca Ferragni\"",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "1,171 Tweets"
   },
   {
     "name": "#gaiagozzi",
@@ -57,66 +57,66 @@
     "name": "Canada",
     "query": "Canada",
     "rank": 10,
-    "tweet_count": "117K Tweets"
+    "tweet_count": "120K Tweets"
   },
   {
-    "name": "Giovinco",
-    "query": "Giovinco",
+    "name": "Messico",
+    "query": "Messico",
     "rank": 11,
     "tweet_count": null
   },
   {
+    "name": "Giovinco",
+    "query": "Giovinco",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "Dybala",
+    "query": "Dybala",
+    "rank": 13,
+    "tweet_count": "4,523 Tweets"
+  },
+  {
     "name": "Stelvio",
     "query": "Stelvio",
-    "rank": 12,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Bormio",
     "query": "Bormio",
-    "rank": 13,
-    "tweet_count": "1,232 Tweets"
-  },
-  {
-    "name": "Dybala",
-    "query": "Dybala",
-    "rank": 14,
-    "tweet_count": "4,418 Tweets"
+    "rank": 15,
+    "tweet_count": "1,270 Tweets"
   },
   {
     "name": "iTunes",
     "query": "iTunes",
-    "rank": 15,
-    "tweet_count": "130K Tweets"
+    "rank": 16,
+    "tweet_count": "134K Tweets"
   },
   {
     "name": "Amato",
     "query": "Amato",
-    "rank": 16,
-    "tweet_count": "5,221 Tweets"
+    "rank": 17,
+    "tweet_count": "5,299 Tweets"
   },
   {
     "name": "Parenzo",
     "query": "Parenzo",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Chiellini",
     "query": "Chiellini",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Cartabia",
     "query": "Cartabia",
-    "rank": 19,
-    "tweet_count": "2,702 Tweets"
-  },
-  {
-    "name": "Scamacca",
-    "query": "Scamacca",
     "rank": 20,
-    "tweet_count": "1,990 Tweets"
+    "tweet_count": "2,761 Tweets"
   }
 ]
