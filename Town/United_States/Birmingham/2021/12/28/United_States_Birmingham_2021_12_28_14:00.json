@@ -1,39 +1,39 @@
 [
   {
+    "name": "Ian Book",
+    "query": "\"Ian Book\"",
+    "rank": 1,
+    "tweet_count": "27K Tweets"
+  },
+  {
+    "name": "Saints",
+    "query": "Saints",
+    "rank": 2,
+    "tweet_count": "82.1K Tweets"
+  },
+  {
     "name": "Dolphins",
     "query": "Dolphins",
-    "rank": 1,
-    "tweet_count": "57.8K Tweets"
+    "rank": 3,
+    "tweet_count": "58.5K Tweets"
   },
   {
     "name": "The CDC",
     "query": "\"The CDC\"",
-    "rank": 2,
-    "tweet_count": "217K Tweets"
+    "rank": 4,
+    "tweet_count": "225K Tweets"
   },
   {
     "name": "#TuesdayFeeling",
     "query": "#TuesdayFeeling",
-    "rank": 3,
-    "tweet_count": "4,397 Tweets"
-  },
-  {
-    "name": "Peter Navarro",
-    "query": "\"Peter Navarro\"",
-    "rank": 4,
-    "tweet_count": "12K Tweets"
+    "rank": 5,
+    "tweet_count": "4,775 Tweets"
   },
   {
     "name": "#tuesdaymotivations",
     "query": "#tuesdaymotivations",
-    "rank": 5,
-    "tweet_count": "14.4K Tweets"
-  },
-  {
-    "name": "Good Tuesday",
-    "query": "\"Good Tuesday\"",
     "rank": 6,
-    "tweet_count": "16K Tweets"
+    "tweet_count": "14.8K Tweets"
   },
   {
     "name": "#WhatsNotOnMyResolutionsList",
@@ -42,75 +42,63 @@
     "tweet_count": null
   },
   {
+    "name": "Peter Navarro",
+    "query": "\"Peter Navarro\"",
+    "rank": 8,
+    "tweet_count": "14.3K Tweets"
+  },
+  {
     "name": "Lindsay Ellis",
     "query": "\"Lindsay Ellis\"",
-    "rank": 8,
-    "tweet_count": "7,449 Tweets"
-  },
-  {
-    "name": "#TuesdayThoughts",
-    "query": "#TuesdayThoughts",
     "rank": 9,
-    "tweet_count": "4,625 Tweets"
-  },
-  {
-    "name": "Burger King",
-    "query": "\"Burger King\"",
-    "rank": 10,
-    "tweet_count": "13.5K Tweets"
-  },
-  {
-    "name": "Rand Paul",
-    "query": "\"Rand Paul\"",
-    "rank": 11,
-    "tweet_count": "23.2K Tweets"
+    "tweet_count": "7,839 Tweets"
   },
   {
     "name": "NYPD",
     "query": "NYPD",
+    "rank": 10,
+    "tweet_count": "12.3K Tweets"
+  },
+  {
+    "name": "Burger King",
+    "query": "\"Burger King\"",
+    "rank": 11,
+    "tweet_count": "14.4K Tweets"
+  },
+  {
+    "name": "Good Tuesday",
+    "query": "\"Good Tuesday\"",
     "rank": 12,
-    "tweet_count": "11.5K Tweets"
+    "tweet_count": "16.7K Tweets"
+  },
+  {
+    "name": "Rand Paul",
+    "query": "\"Rand Paul\"",
+    "rank": 13,
+    "tweet_count": "24.1K Tweets"
+  },
+  {
+    "name": "Green Bay Sweep",
+    "query": "\"Green Bay Sweep\"",
+    "rank": 14,
+    "tweet_count": "2,925 Tweets"
   },
   {
     "name": "Inocentes",
     "query": "Inocentes",
-    "rank": 13,
-    "tweet_count": "79.8K Tweets"
-  },
-  {
-    "name": "Tuesday of 2021",
-    "query": "\"Tuesday of 2021\"",
-    "rank": 14,
-    "tweet_count": "4,834 Tweets"
-  },
-  {
-    "name": "Dowoon",
-    "query": "Dowoon",
     "rank": 15,
-    "tweet_count": "53.2K Tweets"
-  },
-  {
-    "name": "Digne",
-    "query": "Digne",
-    "rank": 16,
-    "tweet_count": "10.4K Tweets"
-  },
-  {
-    "name": "Holy Innocents",
-    "query": "\"Holy Innocents\"",
-    "rank": 17,
-    "tweet_count": "2,834 Tweets"
-  },
-  {
-    "name": "Chilwell",
-    "query": "Chilwell",
-    "rank": 18,
-    "tweet_count": "7,479 Tweets"
+    "tweet_count": "86.4K Tweets"
   },
   {
     "name": "Ferran Torres",
     "query": "\"Ferran Torres\"",
-    "rank": 19,
-    "tweet_count": "35.3K Tweets"
+    "rank": 16,
+    "tweet_count": "40.1K Tweets"
+  },
+  {
+    "name": "Tuesday of 2021",
+    "query": "\"Tuesday of 2021\"",
+    "rank": 17,
+    "tweet_count": "5,037 Tweets"
   }
 ]

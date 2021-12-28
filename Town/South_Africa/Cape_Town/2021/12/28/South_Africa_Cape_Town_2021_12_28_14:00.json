@@ -1,27 +1,27 @@
 [
   {
-    "name": "Bavuma",
-    "query": "Bavuma",
-    "rank": 1,
-    "tweet_count": "2,298 Tweets"
-  },
-  {
     "name": "#SmirnoffPineTwist",
     "query": "#SmirnoffPineTwist",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "#SAvIND",
     "query": "#SAvIND",
+    "rank": 2,
+    "tweet_count": "19.9K Tweets"
+  },
+  {
+    "name": "Bavuma",
+    "query": "Bavuma",
     "rank": 3,
-    "tweet_count": "18.7K Tweets"
+    "tweet_count": "2,491 Tweets"
   },
   {
     "name": "Al Ahly",
     "query": "\"Al Ahly\"",
     "rank": 4,
-    "tweet_count": "1,461 Tweets"
+    "tweet_count": "1,550 Tweets"
   },
   {
     "name": "#RedRoadTrip",
@@ -57,55 +57,55 @@
     "name": "Proteas",
     "query": "Proteas",
     "rank": 10,
-    "tweet_count": "1,524 Tweets"
+    "tweet_count": "1,610 Tweets"
   },
   {
     "name": "Wild Coast",
     "query": "\"Wild Coast\"",
     "rank": 11,
-    "tweet_count": "4,210 Tweets"
+    "tweet_count": "4,304 Tweets"
   },
   {
     "name": "Konka",
     "query": "Konka",
     "rank": 12,
-    "tweet_count": "4,143 Tweets"
+    "tweet_count": "4,216 Tweets"
   },
   {
     "name": "Makhadzi",
     "query": "Makhadzi",
     "rank": 13,
-    "tweet_count": "10.3K Tweets"
+    "tweet_count": "10.4K Tweets"
+  },
+  {
+    "name": "Rabada",
+    "query": "Rabada",
+    "rank": 14,
+    "tweet_count": "1,896 Tweets"
   },
   {
     "name": "Helen",
     "query": "Helen",
-    "rank": 14,
-    "tweet_count": "14.2K Tweets"
-  },
-  {
-    "name": "Babes",
-    "query": "Babes",
     "rank": 15,
-    "tweet_count": "32K Tweets"
+    "tweet_count": "14.5K Tweets"
   },
   {
     "name": "Ngidi",
     "query": "Ngidi",
     "rank": 16,
-    "tweet_count": "3,301 Tweets"
+    "tweet_count": "3,353 Tweets"
+  },
+  {
+    "name": "Babes Wodumo",
+    "query": "\"Babes Wodumo\"",
+    "rank": 17,
+    "tweet_count": "5,965 Tweets"
   },
   {
     "name": "Mampintsha",
     "query": "Mampintsha",
-    "rank": 17,
-    "tweet_count": "4,417 Tweets"
-  },
-  {
-    "name": "Rabada",
-    "query": "Rabada",
     "rank": 18,
-    "tweet_count": "1,753 Tweets"
+    "tweet_count": "4,470 Tweets"
   },
   {
     "name": "#LetsRefreshThis",
@@ -117,6 +117,6 @@
     "name": "#chasingsunsets",
     "query": "#chasingsunsets",
     "rank": 20,
-    "tweet_count": "2,179 Tweets"
+    "tweet_count": "2,184 Tweets"
   }
 ]
