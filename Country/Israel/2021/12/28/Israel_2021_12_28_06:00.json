@@ -1,31 +1,31 @@
 [
   {
-    "name": "Latakia",
-    "query": "Latakia",
-    "rank": 1,
-    "tweet_count": "5,498 Tweets"
-  },
-  {
     "name": "בוקר טוב",
     "query": "\"בוקר טוב\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Latakia",
+    "query": "Latakia",
+    "rank": 2,
+    "tweet_count": "5,758 Tweets"
   },
   {
     "name": "בני בגין",
     "query": "\"בני בגין\"",
     "rank": 3,
-    "tweet_count": "3,464 Tweets"
+    "tweet_count": "3,568 Tweets"
+  },
+  {
+    "name": "#Syria",
+    "query": "#Syria",
+    "rank": 4,
+    "tweet_count": "7,001 Tweets"
   },
   {
     "name": "#reversim",
     "query": "#reversim",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "Chaim Walder",
-    "query": "\"Chaim Walder\"",
     "rank": 5,
     "tweet_count": null
   },
@@ -42,40 +42,40 @@
     "tweet_count": null
   },
   {
+    "name": "Chaim Walder",
+    "query": "\"Chaim Walder\"",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
     "name": "Christmas",
     "query": "Christmas",
-    "rank": 8,
-    "tweet_count": "2.24M Tweets"
+    "rank": 9,
+    "tweet_count": "1.3M Tweets"
   },
   {
     "name": "חולה נפש",
     "query": "\"חולה נפש\"",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "#rs21",
     "query": "#rs21",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "#Israeli",
     "query": "#Israeli",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "משי זהב",
     "query": "\"משי זהב\"",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Syria",
-    "query": "Syria",
     "rank": 13,
-    "tweet_count": "22.3K Tweets"
+    "tweet_count": null
   },
   {
     "name": "אבא שלו",
@@ -90,8 +90,8 @@
     "tweet_count": null
   },
   {
-    "name": "יא אפס",
-    "query": "\"יא אפס\"",
+    "name": "ראש ממשלה",
+    "query": "\"ראש ממשלה\"",
     "rank": 16,
     "tweet_count": null
   },
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
+    "name": "יא אפס",
+    "query": "\"יא אפס\"",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
     "name": "מזל טוב אורי",
     "query": "\"מזל טוב אורי\"",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Tutu",
     "query": "Tutu",
-    "rank": 19,
-    "tweet_count": "180K Tweets"
-  },
-  {
-    "name": "חן ליברמן",
-    "query": "\"חן ליברמן\"",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "182K Tweets"
   }
 ]
