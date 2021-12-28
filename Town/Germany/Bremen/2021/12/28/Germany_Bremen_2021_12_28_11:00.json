@@ -3,7 +3,7 @@
     "name": "#Triage",
     "query": "#Triage",
     "rank": 1,
-    "tweet_count": "1,810 Tweets"
+    "tweet_count": "1,915 Tweets"
   },
   {
     "name": "#Memorial",
@@ -12,22 +12,22 @@
     "tweet_count": null
   },
   {
+    "name": "#GenshinImpactLotteryEvent",
+    "query": "#GenshinImpactLotteryEvent",
+    "rank": 3,
+    "tweet_count": "11.1K Tweets"
+  },
+  {
     "name": "#BVerfG",
     "query": "#BVerfG",
-    "rank": 3,
-    "tweet_count": null
+    "rank": 4,
+    "tweet_count": "1,000 Tweets"
   },
   {
     "name": "Gesetzgeber",
     "query": "Gesetzgeber",
-    "rank": 4,
-    "tweet_count": "1,859 Tweets"
-  },
-  {
-    "name": "#GenshinImpactLotteryEvent",
-    "query": "#GenshinImpactLotteryEvent",
     "rank": 5,
-    "tweet_count": "10.9K Tweets"
+    "tweet_count": "1,915 Tweets"
   },
   {
     "name": "#Bundesverfassungsgericht",
@@ -42,14 +42,14 @@
     "tweet_count": null
   },
   {
-    "name": "Schönen Dienstag",
-    "query": "\"Schönen Dienstag\"",
+    "name": "Behinderung",
+    "query": "Behinderung",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Behinderung",
-    "query": "Behinderung",
+    "name": "Schönen Dienstag",
+    "query": "\"Schönen Dienstag\"",
     "rank": 9,
     "tweet_count": null
   },
@@ -69,48 +69,48 @@
     "name": "Demonstrationen",
     "query": "Demonstrationen",
     "rank": 12,
-    "tweet_count": "2,959 Tweets"
+    "tweet_count": "2,994 Tweets"
+  },
+  {
+    "name": "Kriterien",
+    "query": "Kriterien",
+    "rank": 13,
+    "tweet_count": null
   },
   {
     "name": "Luxus",
     "query": "Luxus",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Fleischkonsum",
     "query": "Fleischkonsum",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "#Freital",
-    "query": "#Freital",
     "rank": 15,
-    "tweet_count": "1,792 Tweets"
-  },
-  {
-    "name": "#Bautzen",
-    "query": "#Bautzen",
-    "rank": 16,
-    "tweet_count": "6,340 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Palmer",
     "query": "#Palmer",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
+  },
+  {
+    "name": "#freital",
+    "query": "#freital",
+    "rank": 17,
+    "tweet_count": "1,818 Tweets"
+  },
+  {
+    "name": "#Bautzen",
+    "query": "#Bautzen",
+    "rank": 18,
+    "tweet_count": "6,402 Tweets"
   },
   {
     "name": "#Özdemir",
     "query": "#Özdemir",
-    "rank": 18,
-    "tweet_count": "4,166 Tweets"
-  },
-  {
-    "name": "#Laumann",
-    "query": "#Laumann",
     "rank": 19,
-    "tweet_count": "7,830 Tweets"
+    "tweet_count": "4,218 Tweets"
   }
 ]
