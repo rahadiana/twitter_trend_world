@@ -12,16 +12,16 @@
     "tweet_count": null
   },
   {
-    "name": "Maxima",
-    "query": "Maxima",
-    "rank": 3,
-    "tweet_count": "18.4K Tweets"
-  },
-  {
     "name": "PSRS",
     "query": "PSRS",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
+  },
+  {
+    "name": "Maxima",
+    "query": "Maxima",
+    "rank": 4,
+    "tweet_count": "18.7K Tweets"
   },
   {
     "name": "Vismaz",
@@ -51,19 +51,19 @@
     "name": "Satori",
     "query": "Satori",
     "rank": 9,
-    "tweet_count": "3,127 Tweets"
-  },
-  {
-    "name": "Siguldā",
-    "query": "Siguldā",
-    "rank": 10,
-    "tweet_count": null
+    "tweet_count": "3,130 Tweets"
   },
   {
     "name": "Lidl",
     "query": "Lidl",
+    "rank": 10,
+    "tweet_count": "3,234 Tweets"
+  },
+  {
+    "name": "Siguldā",
+    "query": "Siguldā",
     "rank": 11,
-    "tweet_count": "3,190 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Manuprāt",
@@ -75,23 +75,23 @@
     "name": "Alex",
     "query": "Alex",
     "rank": 13,
-    "tweet_count": "187K Tweets"
-  },
-  {
-    "name": "šķiet",
-    "query": "šķiet",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "ja tev",
-    "query": "\"ja tev\"",
-    "rank": 15,
-    "tweet_count": null
+    "tweet_count": "189K Tweets"
   },
   {
     "name": "Pilnīgi",
     "query": "Pilnīgi",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "#DontLookUp",
+    "query": "#DontLookUp",
+    "rank": 15,
+    "tweet_count": "93.1K Tweets"
+  },
+  {
+    "name": "Liels",
+    "query": "Liels",
     "rank": 16,
     "tweet_count": null
   },
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "#DontLookUp",
-    "query": "#DontLookUp",
+    "name": "Šķiet",
+    "query": "Šķiet",
     "rank": 18,
-    "tweet_count": "92.4K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Liels",
-    "query": "Liels",
+    "name": "Ja Tev",
+    "query": "\"Ja Tev\"",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "#crypto",
-    "query": "#crypto",
+    "name": "biju",
+    "query": "biju",
     "rank": 20,
-    "tweet_count": "354K Tweets"
+    "tweet_count": null
   }
 ]
