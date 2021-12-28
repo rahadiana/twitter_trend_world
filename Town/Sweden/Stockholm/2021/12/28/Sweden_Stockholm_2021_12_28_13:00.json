@@ -1,27 +1,27 @@
 [
   {
+    "name": "Yasin",
+    "query": "Yasin",
+    "rank": 1,
+    "tweet_count": "8,993 Tweets"
+  },
+  {
     "name": "östermalm",
     "query": "östermalm",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Björn Söder",
     "query": "\"Björn Söder\"",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "Yasin",
-    "query": "Yasin",
     "rank": 3,
-    "tweet_count": "8,752 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Memorial",
     "query": "Memorial",
     "rank": 4,
-    "tweet_count": "21.4K Tweets"
+    "tweet_count": "23.1K Tweets"
   },
   {
     "name": "Guillou",
@@ -33,17 +33,17 @@
     "name": "#NEWMUN",
     "query": "#NEWMUN",
     "rank": 6,
-    "tweet_count": "76.2K Tweets"
+    "tweet_count": "76.6K Tweets"
   },
   {
-    "name": "#NEWMUN",
-    "query": "#NEWMUN",
+    "name": "slovakien",
+    "query": "slovakien",
     "rank": 7,
-    "tweet_count": "76.2K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Slovakien",
-    "query": "Slovakien",
+    "name": "Skavlan",
+    "query": "Skavlan",
     "rank": 8,
     "tweet_count": null
   },
@@ -57,11 +57,11 @@
     "name": "#WorldJuniors",
     "query": "#WorldJuniors",
     "rank": 10,
-    "tweet_count": "5,760 Tweets"
+    "tweet_count": "5,848 Tweets"
   },
   {
-    "name": "Skavlan",
-    "query": "Skavlan",
+    "name": "Horace Engdahl",
+    "query": "\"Horace Engdahl\"",
     "rank": 11,
     "tweet_count": null
   },
@@ -69,13 +69,13 @@
     "name": "Varane",
     "query": "Varane",
     "rank": 12,
-    "tweet_count": "46.1K Tweets"
+    "tweet_count": "46.5K Tweets"
   },
   {
     "name": "#FiK60",
     "query": "#FiK60",
     "rank": 13,
-    "tweet_count": "8,797 Tweets"
+    "tweet_count": "8,823 Tweets"
   },
   {
     "name": "#jvm2022",
@@ -84,32 +84,32 @@
     "tweet_count": null
   },
   {
-    "name": "ute 2022",
-    "query": "\"ute 2022\"",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
     "name": "wernblom",
     "query": "wernblom",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Wallstedt",
     "query": "Wallstedt",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Martina Montelius",
+    "query": "\"Martina Montelius\"",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Ronaldo",
-    "query": "Ronaldo",
+    "name": "Tour de Ski",
+    "query": "\"Tour de Ski\"",
     "rank": 18,
-    "tweet_count": "152K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "tour de ski",
-    "query": "\"tour de ski\"",
+    "name": "#björklöven",
+    "query": "#björklöven",
     "rank": 19,
     "tweet_count": null
   }
