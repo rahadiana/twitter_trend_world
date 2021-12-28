@@ -1,13 +1,13 @@
 [
   {
-    "name": "#CrecimientoEconomico",
-    "query": "#CrecimientoEconomico",
+    "name": "#LasAguilas",
+    "query": "#LasAguilas",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "#LasAguilas",
-    "query": "#LasAguilas",
+    "name": "#CrecimientoEconomico",
+    "query": "#CrecimientoEconomico",
     "rank": 2,
     "tweet_count": null
   },
@@ -24,22 +24,22 @@
     "tweet_count": null
   },
   {
-    "name": "Covid",
-    "query": "Covid",
-    "rank": 5,
-    "tweet_count": "1.89M Tweets"
-  },
-  {
     "name": "#DictaduraSanitariaRD",
     "query": "#DictaduraSanitariaRD",
+    "rank": 5,
+    "tweet_count": "4,836 Tweets"
+  },
+  {
+    "name": "Covid",
+    "query": "Covid",
     "rank": 6,
-    "tweet_count": "4,806 Tweets"
+    "tweet_count": "1.35M Tweets"
   },
   {
     "name": "Techy",
     "query": "Techy",
     "rank": 7,
-    "tweet_count": "1,375 Tweets"
+    "tweet_count": "1,389 Tweets"
   },
   {
     "name": "yermin",
@@ -54,22 +54,22 @@
     "tweet_count": null
   },
   {
-    "name": "Omicron",
-    "query": "Omicron",
+    "name": "rosa silverio",
+    "query": "\"rosa silverio\"",
     "rank": 10,
-    "tweet_count": "623K Tweets"
-  },
-  {
-    "name": "Rosa Silverio",
-    "query": "\"Rosa Silverio\"",
-    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Yairo",
     "query": "Yairo",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
+  },
+  {
+    "name": "Omicron",
+    "query": "Omicron",
+    "rank": 12,
+    "tweet_count": "628K Tweets"
   },
   {
     "name": "Sigma Dos",
@@ -93,30 +93,30 @@
     "name": "Laje",
     "query": "Laje",
     "rank": 16,
-    "tweet_count": "1,558 Tweets"
+    "tweet_count": "1,572 Tweets"
   },
   {
     "name": "Pronta",
     "query": "Pronta",
     "rank": 17,
-    "tweet_count": "17.4K Tweets"
+    "tweet_count": "17.5K Tweets"
   },
   {
     "name": "Civic",
     "query": "Civic",
     "rank": 18,
-    "tweet_count": "7,677 Tweets"
+    "tweet_count": "7,727 Tweets"
   },
   {
-    "name": "Pinto",
-    "query": "Pinto",
+    "name": "pinto",
+    "query": "pinto",
     "rank": 19,
-    "tweet_count": "16.3K Tweets"
+    "tweet_count": "16.5K Tweets"
   },
   {
     "name": "Valenzuela",
     "query": "Valenzuela",
     "rank": 20,
-    "tweet_count": "3,873 Tweets"
+    "tweet_count": "3,910 Tweets"
   }
 ]
