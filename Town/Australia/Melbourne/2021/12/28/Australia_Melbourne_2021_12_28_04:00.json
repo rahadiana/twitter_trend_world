@@ -1,105 +1,105 @@
 [
   {
+    "name": "Queensland",
+    "query": "Queensland",
+    "rank": 1,
+    "tweet_count": "7,770 Tweets"
+  },
+  {
     "name": "#Ashes",
     "query": "#Ashes",
-    "rank": 1,
-    "tweet_count": "58.8K Tweets"
+    "rank": 2,
+    "tweet_count": "61.1K Tweets"
+  },
+  {
+    "name": "#ThisisNotJournalism",
+    "query": "#ThisisNotJournalism",
+    "rank": 3,
+    "tweet_count": "1,309 Tweets"
   },
   {
     "name": "#WWERaw",
     "query": "#WWERaw",
-    "rank": 2,
-    "tweet_count": "39.7K Tweets"
+    "rank": 4,
+    "tweet_count": "41.2K Tweets"
   },
   {
     "name": "#FinsUp",
     "query": "#FinsUp",
-    "rank": 3,
-    "tweet_count": "29K Tweets"
+    "rank": 5,
+    "tweet_count": "31.4K Tweets"
   },
   {
     "name": "Poms",
     "query": "Poms",
-    "rank": 4,
-    "tweet_count": "1,286 Tweets"
-  },
-  {
-    "name": "Hazzard",
-    "query": "Hazzard",
-    "rank": 5,
-    "tweet_count": "10.1K Tweets"
+    "rank": 6,
+    "tweet_count": "1,310 Tweets"
   },
   {
     "name": "Richardson",
     "query": "Richardson",
-    "rank": 6,
-    "tweet_count": "4,292 Tweets"
-  },
-  {
-    "name": "Extras",
-    "query": "Extras",
     "rank": 7,
-    "tweet_count": "17.5K Tweets"
+    "tweet_count": "4,374 Tweets"
   },
   {
-    "name": "#ThisIsNotJournalism",
-    "query": "#ThisIsNotJournalism",
+    "name": "RATs",
+    "query": "RATs",
     "rank": 8,
-    "tweet_count": "1,192 Tweets"
+    "tweet_count": "19.6K Tweets"
   },
   {
-    "name": "Hazlewood",
-    "query": "Hazlewood",
+    "name": "Hazzard",
+    "query": "Hazzard",
     "rank": 9,
+    "tweet_count": "10.5K Tweets"
+  },
+  {
+    "name": "hazlewood",
+    "query": "hazlewood",
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "#vicsdoitbetter",
     "query": "#vicsdoitbetter",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "RATs",
-    "query": "RATs",
     "rank": 11,
-    "tweet_count": "19.2K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Victorian",
     "query": "Victorian",
     "rank": 12,
-    "tweet_count": "6,234 Tweets"
-  },
-  {
-    "name": "Starc",
-    "query": "Starc",
-    "rank": 13,
-    "tweet_count": "6,681 Tweets"
+    "tweet_count": "6,364 Tweets"
   },
   {
     "name": "Frydenberg",
     "query": "Frydenberg",
-    "rank": 14,
-    "tweet_count": "4,491 Tweets"
+    "rank": 13,
+    "tweet_count": "4,638 Tweets"
   },
   {
-    "name": "Batman",
-    "query": "Batman",
-    "rank": 15,
-    "tweet_count": "157K Tweets"
+    "name": "Starc",
+    "query": "Starc",
+    "rank": 14,
+    "tweet_count": "6,737 Tweets"
   },
   {
     "name": "Barnaby",
     "query": "Barnaby",
+    "rank": 15,
+    "tweet_count": "4,612 Tweets"
+  },
+  {
+    "name": "Batman",
+    "query": "Batman",
     "rank": 16,
-    "tweet_count": "4,492 Tweets"
+    "tweet_count": "160K Tweets"
   },
   {
     "name": "The Age",
     "query": "\"The Age\"",
     "rank": 17,
-    "tweet_count": "133K Tweets"
+    "tweet_count": "136K Tweets"
   },
   {
     "name": "Ruby Princess",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "#Cricket",
-    "query": "#Cricket",
+    "name": "Boxing Day Test",
+    "query": "\"Boxing Day Test\"",
     "rank": 19,
-    "tweet_count": "6,371 Tweets"
+    "tweet_count": "3,967 Tweets"
   },
   {
-    "name": "#BoxingDayTest",
-    "query": "#BoxingDayTest",
+    "name": "#nswcovid",
+    "query": "#nswcovid",
     "rank": 20,
-    "tweet_count": "1,857 Tweets"
+    "tweet_count": "2,082 Tweets"
   }
 ]
