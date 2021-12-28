@@ -3,7 +3,7 @@
     "name": "#Triage",
     "query": "#Triage",
     "rank": 1,
-    "tweet_count": "1,915 Tweets"
+    "tweet_count": "2,000 Tweets"
   },
   {
     "name": "#Memorial",
@@ -12,26 +12,26 @@
     "tweet_count": null
   },
   {
+    "name": "Gesetzgeber",
+    "query": "Gesetzgeber",
+    "rank": 3,
+    "tweet_count": "1,973 Tweets"
+  },
+  {
     "name": "#BVerfG",
     "query": "#BVerfG",
-    "rank": 3,
-    "tweet_count": "1,000 Tweets"
+    "rank": 4,
+    "tweet_count": "1,027 Tweets"
   },
   {
     "name": "#GenshinImpactLotteryEvent",
     "query": "#GenshinImpactLotteryEvent",
-    "rank": 4,
-    "tweet_count": "11.1K Tweets"
-  },
-  {
-    "name": "Gesetzgeber",
-    "query": "Gesetzgeber",
     "rank": 5,
-    "tweet_count": "1,915 Tweets"
+    "tweet_count": "11.3K Tweets"
   },
   {
-    "name": "#Bundesverfassungsgericht",
-    "query": "#Bundesverfassungsgericht",
+    "name": "#AusgebranntePresse",
+    "query": "#AusgebranntePresse",
     "rank": 6,
     "tweet_count": null
   },
@@ -39,7 +39,7 @@
     "name": "Behinderung",
     "query": "Behinderung",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "1,036 Tweets"
   },
   {
     "name": "Lastenrad",
@@ -63,13 +63,13 @@
     "name": "Regelungen",
     "query": "Regelungen",
     "rank": 11,
-    "tweet_count": null
+    "tweet_count": "1,001 Tweets"
   },
   {
     "name": "Demonstrationen",
     "query": "Demonstrationen",
     "rank": 12,
-    "tweet_count": "2,994 Tweets"
+    "tweet_count": "3,024 Tweets"
   },
   {
     "name": "Kriterien",
@@ -96,21 +96,21 @@
     "tweet_count": null
   },
   {
-    "name": "#freital",
-    "query": "#freital",
+    "name": "#Bundesverfassungsgericht",
+    "query": "#Bundesverfassungsgericht",
     "rank": 17,
-    "tweet_count": "1,818 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "#Freital",
+    "query": "#Freital",
+    "rank": 18,
+    "tweet_count": "1,834 Tweets"
   },
   {
     "name": "#Bautzen",
     "query": "#Bautzen",
-    "rank": 18,
-    "tweet_count": "6,402 Tweets"
-  },
-  {
-    "name": "#Özdemir",
-    "query": "#Özdemir",
     "rank": 19,
-    "tweet_count": "4,218 Tweets"
+    "tweet_count": "6,455 Tweets"
   }
 ]
