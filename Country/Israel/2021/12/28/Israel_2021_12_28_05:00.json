@@ -1,25 +1,25 @@
 [
   {
-    "name": "בני בגין",
-    "query": "\"בני בגין\"",
-    "rank": 1,
-    "tweet_count": "3,236 Tweets"
-  },
-  {
     "name": "בוקר טוב",
     "query": "\"בוקר טוב\"",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "בני בגין",
+    "query": "\"בני בגין\"",
     "rank": 2,
+    "tweet_count": "3,305 Tweets"
+  },
+  {
+    "name": "#reversim",
+    "query": "#reversim",
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Chaim Walder",
     "query": "\"Chaim Walder\"",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "#reversim",
-    "query": "#reversim",
     "rank": 4,
     "tweet_count": null
   },
@@ -39,7 +39,7 @@
     "name": "Christmas",
     "query": "Christmas",
     "rank": 7,
-    "tweet_count": "2.29M Tweets"
+    "tweet_count": "2.31M Tweets"
   },
   {
     "name": "חולה נפש",
@@ -54,16 +54,16 @@
     "tweet_count": null
   },
   {
-    "name": "Syria",
-    "query": "Syria",
+    "name": "משי זהב",
+    "query": "\"משי זהב\"",
     "rank": 10,
-    "tweet_count": "21.8K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "בוקר אור",
-    "query": "\"בוקר אור\"",
+    "name": "Syria",
+    "query": "Syria",
     "rank": 11,
-    "tweet_count": null
+    "tweet_count": "22.2K Tweets"
   },
   {
     "name": "בן שטרית",
@@ -72,14 +72,14 @@
     "tweet_count": null
   },
   {
-    "name": "משי זהב",
-    "query": "\"משי זהב\"",
+    "name": "יא אפס",
+    "query": "\"יא אפס\"",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "יא אפס",
-    "query": "\"יא אפס\"",
+    "name": "בוקר אור",
+    "query": "\"בוקר אור\"",
     "rank": 14,
     "tweet_count": null
   },
@@ -105,7 +105,7 @@
     "name": "Tutu",
     "query": "Tutu",
     "rank": 18,
-    "tweet_count": "188K Tweets"
+    "tweet_count": "189K Tweets"
   },
   {
     "name": "חן ליברמן",
@@ -117,6 +117,6 @@
     "name": "Zionist",
     "query": "Zionist",
     "rank": 20,
-    "tweet_count": "9,283 Tweets"
+    "tweet_count": "9,360 Tweets"
   }
 ]
