@@ -1,31 +1,31 @@
 [
   {
+    "name": "Zoilo",
+    "query": "Zoilo",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "Valenzuela",
     "query": "Valenzuela",
-    "rank": 1,
-    "tweet_count": "3,287 Tweets"
+    "rank": 2,
+    "tweet_count": "3,301 Tweets"
   },
   {
     "name": "#Licey",
     "query": "#Licey",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Covid",
     "query": "Covid",
-    "rank": 3,
-    "tweet_count": "2.69M Tweets"
-  },
-  {
-    "name": "#CrecimientoEconomico",
-    "query": "#CrecimientoEconomico",
     "rank": 4,
-    "tweet_count": null
+    "tweet_count": "2.65M Tweets"
   },
   {
-    "name": "Zoilo",
-    "query": "Zoilo",
+    "name": "#crecimientoeconomico",
+    "query": "#crecimientoeconomico",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,13 +33,13 @@
     "name": "#DictaduraSanitariaRD",
     "query": "#DictaduraSanitariaRD",
     "rank": 6,
-    "tweet_count": "4,160 Tweets"
+    "tweet_count": "4,182 Tweets"
   },
   {
     "name": "Techy",
     "query": "Techy",
     "rank": 7,
-    "tweet_count": "1,182 Tweets"
+    "tweet_count": "1,188 Tweets"
   },
   {
     "name": "#LasAguilas",
@@ -51,7 +51,7 @@
     "name": "#DiaDeLosInocentes",
     "query": "#DiaDeLosInocentes",
     "rank": 9,
-    "tweet_count": "48.9K Tweets"
+    "tweet_count": "49.2K Tweets"
   },
   {
     "name": "Raúl Valdés",
@@ -60,16 +60,16 @@
     "tweet_count": null
   },
   {
-    "name": "Otero",
-    "query": "Otero",
+    "name": "otero",
+    "query": "otero",
     "rank": 11,
-    "tweet_count": "5,405 Tweets"
+    "tweet_count": "5,427 Tweets"
   },
   {
     "name": "Sirí",
     "query": "Sirí",
     "rank": 12,
-    "tweet_count": "18.6K Tweets"
+    "tweet_count": "18.7K Tweets"
   },
   {
     "name": "Laureano",
@@ -81,42 +81,42 @@
     "name": "Lake",
     "query": "Lake",
     "rank": 14,
-    "tweet_count": "40.1K Tweets"
+    "tweet_count": "40.4K Tweets"
   },
   {
     "name": "Laje",
     "query": "Laje",
     "rank": 15,
-    "tweet_count": "1,632 Tweets"
+    "tweet_count": "1,636 Tweets"
   },
   {
     "name": "Torres",
     "query": "Torres",
     "rank": 16,
-    "tweet_count": "92.9K Tweets"
-  },
-  {
-    "name": "Francisco Peña",
-    "query": "\"Francisco Peña\"",
-    "rank": 17,
-    "tweet_count": null
+    "tweet_count": "93.2K Tweets"
   },
   {
     "name": "Pronta",
     "query": "Pronta",
-    "rank": 18,
-    "tweet_count": "16.6K Tweets"
+    "rank": 17,
+    "tweet_count": "16.7K Tweets"
   },
   {
-    "name": "Danny Santana",
-    "query": "\"Danny Santana\"",
-    "rank": 19,
+    "name": "Francisco Peña",
+    "query": "\"Francisco Peña\"",
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Magistrado",
     "query": "Magistrado",
+    "rank": 19,
+    "tweet_count": "1,145 Tweets"
+  },
+  {
+    "name": "Fermín",
+    "query": "Fermín",
     "rank": 20,
-    "tweet_count": "1,137 Tweets"
+    "tweet_count": "9,320 Tweets"
   }
 ]
