@@ -1,86 +1,122 @@
 [
   {
-    "name": "#WorldJuniors",
-    "query": "#WorldJuniors",
+    "name": "John Madden",
+    "query": "\"John Madden\"",
     "rank": 1,
-    "tweet_count": "9,338 Tweets"
-  },
-  {
-    "name": "Don't Look Up",
-    "query": "\"Don't Look Up\"",
-    "rank": 2,
-    "tweet_count": "80.1K Tweets"
-  },
-  {
-    "name": "hobi",
-    "query": "hobi",
-    "rank": 3,
-    "tweet_count": "103K Tweets"
-  },
-  {
-    "name": "#TheBookOfBobaFett",
-    "query": "#TheBookOfBobaFett",
-    "rank": 4,
-    "tweet_count": "15.8K Tweets"
-  },
-  {
-    "name": "#BCedEnhancedMeasures",
-    "query": "#BCedEnhancedMeasures",
-    "rank": 5,
-    "tweet_count": "4,831 Tweets"
+    "tweet_count": "420K Tweets"
   },
   {
     "name": "The CDC",
     "query": "\"The CDC\"",
+    "rank": 2,
+    "tweet_count": "651K Tweets"
+  },
+  {
+    "name": "#TheBookOfBobaFett",
+    "query": "#TheBookOfBobaFett",
+    "rank": 3,
+    "tweet_count": "16.6K Tweets"
+  },
+  {
+    "name": "hobi",
+    "query": "hobi",
+    "rank": 4,
+    "tweet_count": "105K Tweets"
+  },
+  {
+    "name": "#WorldJuniors",
+    "query": "#WorldJuniors",
+    "rank": 5,
+    "tweet_count": "9,351 Tweets"
+  },
+  {
+    "name": "namjoon",
+    "query": "namjoon",
     "rank": 6,
-    "tweet_count": "649K Tweets"
+    "tweet_count": "177K Tweets"
   },
   {
-    "name": "John Madden",
-    "query": "\"John Madden\"",
+    "name": "Don't Look Up",
+    "query": "\"Don't Look Up\"",
     "rank": 7,
-    "tweet_count": "420K Tweets"
-  },
-  {
-    "name": "Jokic",
-    "query": "Jokic",
-    "rank": 8,
-    "tweet_count": "11.1K Tweets"
-  },
-  {
-    "name": "connor bedard",
-    "query": "\"connor bedard\"",
-    "rank": 9,
-    "tweet_count": "4,068 Tweets"
+    "tweet_count": "80.4K Tweets"
   },
   {
     "name": "#GoHabsGo",
     "query": "#GoHabsGo",
-    "rank": 10,
-    "tweet_count": "3,264 Tweets"
+    "rank": 8,
+    "tweet_count": "3,267 Tweets"
+  },
+  {
+    "name": "Insigne",
+    "query": "Insigne",
+    "rank": 9,
+    "tweet_count": "21.9K Tweets"
   },
   {
     "name": "Gallagher",
     "query": "Gallagher",
+    "rank": 10,
+    "tweet_count": "9,878 Tweets"
+  },
+  {
+    "name": "#BCedEnhancedMeasures",
+    "query": "#BCedEnhancedMeasures",
     "rank": 11,
-    "tweet_count": "9,851 Tweets"
+    "tweet_count": "4,850 Tweets"
+  },
+  {
+    "name": "dj wilson",
+    "query": "\"dj wilson\"",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "BOUCHER",
+    "query": "BOUCHER",
+    "rank": 13,
+    "tweet_count": "3,868 Tweets"
+  },
+  {
+    "name": "#NBAAllStar",
+    "query": "#NBAAllStar",
+    "rank": 14,
+    "tweet_count": "191K Tweets"
+  },
+  {
+    "name": "Embiid",
+    "query": "Embiid",
+    "rank": 15,
+    "tweet_count": "7,054 Tweets"
+  },
+  {
+    "name": "Pascal",
+    "query": "Pascal",
+    "rank": 16,
+    "tweet_count": "11.2K Tweets"
+  },
+  {
+    "name": "Jean-Marc Vallée",
+    "query": "\"Jean-Marc Vallée\"",
+    "rank": 17,
+    "tweet_count": "6,065 Tweets"
+  },
+  {
+    "name": "Brayden Point",
+    "query": "\"Brayden Point\"",
+    "rank": 18,
+    "tweet_count": "1,593 Tweets"
+  },
+  {
+    "name": "Giovinco",
+    "query": "Giovinco",
+    "rank": 19,
+    "tweet_count": "1,995 Tweets"
   },
   {
     "name": "Harry Reid",
     "query": "\"Harry Reid\"",
-    "rank": 12,
+    "rank": 20,
     "tweet_count": "116K Tweets"
-  },
-  {
-    "name": "#WeTheNorth",
-    "query": "#WeTheNorth",
-    "rank": 13,
-    "tweet_count": "1,574 Tweets"
-  },
-  {
-    "name": "#Raptors",
-    "query": "#Raptors",
-    "rank": 14,
-    "tweet_count": null
   }
 ]
