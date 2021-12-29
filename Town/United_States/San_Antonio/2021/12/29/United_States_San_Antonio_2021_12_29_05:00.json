@@ -1,122 +1,122 @@
 [
   {
-    "name": "Lebron",
-    "query": "Lebron",
-    "rank": 1,
-    "tweet_count": "81K Tweets"
-  },
-  {
     "name": "Melo",
     "query": "Melo",
-    "rank": 2,
-    "tweet_count": "21.7K Tweets"
-  },
-  {
-    "name": "Warriors",
-    "query": "Warriors",
-    "rank": 3,
-    "tweet_count": "69.4K Tweets"
+    "rank": 1,
+    "tweet_count": "21.8K Tweets"
   },
   {
     "name": "Lubbock",
     "query": "Lubbock",
-    "rank": 4,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "heejin",
     "query": "heejin",
-    "rank": 5,
-    "tweet_count": "36.3K Tweets"
+    "rank": 3,
+    "tweet_count": "36.7K Tweets"
   },
   {
     "name": "Garland",
     "query": "Garland",
-    "rank": 6,
-    "tweet_count": "72.8K Tweets"
+    "rank": 4,
+    "tweet_count": "73.1K Tweets"
   },
   {
     "name": "John Madden",
     "query": "\"John Madden\"",
-    "rank": 7,
-    "tweet_count": "395K Tweets"
-  },
-  {
-    "name": "John Madden",
-    "query": "\"John Madden\"",
-    "rank": 8,
-    "tweet_count": "395K Tweets"
+    "rank": 5,
+    "tweet_count": "397K Tweets"
   },
   {
     "name": "Harry Reid",
     "query": "\"Harry Reid\"",
-    "rank": 9,
-    "tweet_count": "102K Tweets"
+    "rank": 6,
+    "tweet_count": "103K Tweets"
   },
   {
     "name": "The CDC",
     "query": "\"The CDC\"",
-    "rank": 10,
-    "tweet_count": "619K Tweets"
+    "rank": 7,
+    "tweet_count": "624K Tweets"
   },
   {
     "name": "Jokic",
     "query": "Jokic",
-    "rank": 11,
-    "tweet_count": "9,375 Tweets"
-  },
-  {
-    "name": "Rauw",
-    "query": "Rauw",
-    "rank": 12,
-    "tweet_count": "11.2K Tweets"
+    "rank": 8,
+    "tweet_count": "9,784 Tweets"
   },
   {
     "name": "Doege",
     "query": "Doege",
-    "rank": 13,
-    "tweet_count": "1,189 Tweets"
+    "rank": 9,
+    "tweet_count": "1,288 Tweets"
+  },
+  {
+    "name": "rauw",
+    "query": "rauw",
+    "rank": 10,
+    "tweet_count": "11.6K Tweets"
   },
   {
     "name": "#IHadAWhiteFriend",
     "query": "#IHadAWhiteFriend",
-    "rank": 14,
-    "tweet_count": "6,788 Tweets"
+    "rank": 11,
+    "tweet_count": "6,961 Tweets"
   },
   {
     "name": "Nuggets",
     "query": "Nuggets",
-    "rank": 15,
-    "tweet_count": "31.3K Tweets"
+    "rank": 12,
+    "tweet_count": "31.9K Tweets"
   },
   {
     "name": "Russ",
     "query": "Russ",
-    "rank": 16,
-    "tweet_count": "31.8K Tweets"
+    "rank": 13,
+    "tweet_count": "32K Tweets"
+  },
+  {
+    "name": "#Gophers",
+    "query": "#Gophers",
+    "rank": 14,
+    "tweet_count": "1,508 Tweets"
   },
   {
     "name": "Iguodala",
     "query": "Iguodala",
+    "rank": 15,
+    "tweet_count": "1,738 Tweets"
+  },
+  {
+    "name": "Austin Rivers",
+    "query": "\"Austin Rivers\"",
+    "rank": 16,
+    "tweet_count": "1,529 Tweets"
+  },
+  {
+    "name": "Rockets",
+    "query": "Rockets",
     "rank": 17,
-    "tweet_count": "1,449 Tweets"
+    "tweet_count": "21.6K Tweets"
   },
   {
     "name": "Texas Tech",
     "query": "\"Texas Tech\"",
     "rank": 18,
-    "tweet_count": "9,635 Tweets"
+    "tweet_count": "9,696 Tweets"
   },
   {
-    "name": "#Gophers",
-    "query": "#Gophers",
+    "name": "Kuminga",
+    "query": "Kuminga",
     "rank": 19,
-    "tweet_count": "1,445 Tweets"
+    "tweet_count": "3,701 Tweets"
   },
   {
-    "name": "Rockets",
-    "query": "Rockets",
+    "name": "#DENvsGSW",
+    "query": "#DENvsGSW",
     "rank": 20,
-    "tweet_count": "21.4K Tweets"
+    "tweet_count": null
   }
 ]
