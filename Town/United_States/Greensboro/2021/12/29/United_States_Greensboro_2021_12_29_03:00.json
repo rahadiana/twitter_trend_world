@@ -1,116 +1,116 @@
 [
   {
-    "name": "San Diego",
-    "query": "\"San Diego\"",
+    "name": "UCLA",
+    "query": "UCLA",
     "rank": 1,
-    "tweet_count": "15K Tweets"
+    "tweet_count": "15.8K Tweets"
+  },
+  {
+    "name": "Raiders",
+    "query": "Raiders",
+    "rank": 2,
+    "tweet_count": "51.7K Tweets"
   },
   {
     "name": "NCAA",
     "query": "NCAA",
-    "rank": 2,
-    "tweet_count": "8,342 Tweets"
+    "rank": 3,
+    "tweet_count": "8,528 Tweets"
   },
   {
     "name": "John Madden",
     "query": "\"John Madden\"",
-    "rank": 3,
-    "tweet_count": "340K Tweets"
+    "rank": 4,
+    "tweet_count": "353K Tweets"
+  },
+  {
+    "name": "John Madden",
+    "query": "\"John Madden\"",
+    "rank": 5,
+    "tweet_count": "353K Tweets"
   },
   {
     "name": "Harry Reid",
     "query": "\"Harry Reid\"",
-    "rank": 4,
-    "tweet_count": "69.7K Tweets"
+    "rank": 6,
+    "tweet_count": "77.4K Tweets"
   },
   {
-    "name": "Texas Tech",
-    "query": "\"Texas Tech\"",
-    "rank": 5,
-    "tweet_count": "7,438 Tweets"
+    "name": "Bron and Russ",
+    "query": "\"Bron and Russ\"",
+    "rank": 7,
+    "tweet_count": null
   },
   {
     "name": "The CDC",
     "query": "\"The CDC\"",
-    "rank": 6,
-    "tweet_count": "574K Tweets"
-  },
-  {
-    "name": "Summerall",
-    "query": "Summerall",
-    "rank": 7,
-    "tweet_count": "10.2K Tweets"
-  },
-  {
-    "name": "#WWENXT",
-    "query": "#WWENXT",
     "rank": 8,
-    "tweet_count": "14.7K Tweets"
-  },
-  {
-    "name": "#IHadAWhiteFriend",
-    "query": "#IHadAWhiteFriend",
-    "rank": 9,
-    "tweet_count": "3,862 Tweets"
+    "tweet_count": "587K Tweets"
   },
   {
     "name": "Rubio",
     "query": "Rubio",
+    "rank": 9,
+    "tweet_count": "13.7K Tweets"
+  },
+  {
+    "name": "Rockets",
+    "query": "Rockets",
     "rank": 10,
-    "tweet_count": "12.4K Tweets"
+    "tweet_count": "19.7K Tweets"
   },
   {
-    "name": "#LibertyBowl",
-    "query": "#LibertyBowl",
+    "name": "Summerall",
+    "query": "Summerall",
     "rank": 11,
-    "tweet_count": "1,504 Tweets"
+    "tweet_count": "10.8K Tweets"
   },
   {
-    "name": "#Boom",
-    "query": "#Boom",
+    "name": "#IHadAWhiteFriend",
+    "query": "#IHadAWhiteFriend",
     "rank": 12,
-    "tweet_count": "2,222 Tweets"
+    "tweet_count": "4,323 Tweets"
   },
   {
-    "name": "Jalen Green",
-    "query": "\"Jalen Green\"",
+    "name": "Cavs",
+    "query": "Cavs",
     "rank": 13,
-    "tweet_count": "3,629 Tweets"
+    "tweet_count": "22K Tweets"
+  },
+  {
+    "name": "#WWENXT",
+    "query": "#WWENXT",
+    "rank": 14,
+    "tweet_count": "15.2K Tweets"
+  },
+  {
+    "name": "#BOOM",
+    "query": "#BOOM",
+    "rank": 15,
+    "tweet_count": "2,352 Tweets"
   },
   {
     "name": "Grimes",
     "query": "Grimes",
-    "rank": 14,
-    "tweet_count": "6,014 Tweets"
-  },
-  {
-    "name": "Tobias",
-    "query": "Tobias",
-    "rank": 15,
-    "tweet_count": "15.1K Tweets"
-  },
-  {
-    "name": "Franz Wagner",
-    "query": "\"Franz Wagner\"",
     "rank": 16,
-    "tweet_count": "2,627 Tweets"
+    "tweet_count": "6,189 Tweets"
   },
   {
     "name": "The SEC",
     "query": "\"The SEC\"",
     "rank": 17,
-    "tweet_count": "30.9K Tweets"
+    "tweet_count": "32.4K Tweets"
   },
   {
-    "name": "Rockets",
-    "query": "Rockets",
+    "name": "#LALvsHOU",
+    "query": "#LALvsHOU",
     "rank": 18,
-    "tweet_count": "17K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Valentine's Day",
-    "query": "\"Valentine's Day\"",
+    "name": "Herb Jones",
+    "query": "\"Herb Jones\"",
     "rank": 19,
-    "tweet_count": "26.8K Tweets"
+    "tweet_count": null
   }
 ]
