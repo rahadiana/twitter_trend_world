@@ -3,13 +3,13 @@
     "name": "Old Parliament House",
     "query": "\"Old Parliament House\"",
     "rank": 1,
-    "tweet_count": "6,167 Tweets"
+    "tweet_count": "6,573 Tweets"
   },
   {
     "name": "#COVID19Aus",
     "query": "#COVID19Aus",
     "rank": 2,
-    "tweet_count": "4,178 Tweets"
+    "tweet_count": "4,390 Tweets"
   },
   {
     "name": "#ScottyTheAnnouncer",
@@ -18,26 +18,26 @@
     "tweet_count": null
   },
   {
-    "name": "Chemist Warehouse",
-    "query": "\"Chemist Warehouse\"",
+    "name": "#closecontact",
+    "query": "#closecontact",
     "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "#closecontact",
-    "query": "#closecontact",
+    "name": "Chemist Warehouse",
+    "query": "\"Chemist Warehouse\"",
     "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "#NationalCabinet",
-    "query": "#NationalCabinet",
-    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "#ScottyTheGaslighter",
     "query": "#ScottyTheGaslighter",
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "#nationalcabinet",
+    "query": "#nationalcabinet",
     "rank": 7,
     "tweet_count": null
   },
@@ -45,66 +45,72 @@
     "name": "Indigenous",
     "query": "Indigenous",
     "rank": 8,
-    "tweet_count": "37.8K Tweets"
+    "tweet_count": "38.5K Tweets"
   },
   {
     "name": "Ghislaine Maxwell",
     "query": "\"Ghislaine Maxwell\"",
     "rank": 9,
-    "tweet_count": "352K Tweets"
+    "tweet_count": "357K Tweets"
+  },
+  {
+    "name": "Happy New Year",
+    "query": "\"Happy New Year\"",
+    "rank": 10,
+    "tweet_count": "342K Tweets"
   },
   {
     "name": "Aboriginal",
     "query": "Aboriginal",
-    "rank": 10,
-    "tweet_count": "2,368 Tweets"
+    "rank": 11,
+    "tweet_count": "2,585 Tweets"
   },
   {
     "name": "Lebron",
     "query": "Lebron",
-    "rank": 11,
-    "tweet_count": "122K Tweets"
-  },
-  {
-    "name": "New Year's Eve",
-    "query": "\"New Year's Eve\"",
     "rank": 12,
-    "tweet_count": "70.2K Tweets"
+    "tweet_count": "124K Tweets"
   },
   {
     "name": "The PM",
     "query": "\"The PM\"",
     "rank": 13,
-    "tweet_count": "200K Tweets"
-  },
-  {
-    "name": "Marshall",
-    "query": "Marshall",
-    "rank": 14,
-    "tweet_count": "12.8K Tweets"
+    "tweet_count": "209K Tweets"
   },
   {
     "name": "Canberra",
     "query": "Canberra",
+    "rank": 14,
+    "tweet_count": "6,441 Tweets"
+  },
+  {
+    "name": "Marshall",
+    "query": "Marshall",
     "rank": 15,
-    "tweet_count": "6,225 Tweets"
+    "tweet_count": "13K Tweets"
   },
   {
     "name": "#CovidTesting",
     "query": "#CovidTesting",
     "rank": 16,
-    "tweet_count": "8,505 Tweets"
-  },
-  {
-    "name": "#CovidAustralia",
-    "query": "#CovidAustralia",
-    "rank": 17,
-    "tweet_count": null
+    "tweet_count": "8,635 Tweets"
   },
   {
     "name": "#Morrison",
     "query": "#Morrison",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "#CovidAustralia",
+    "query": "#CovidAustralia",
     "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "#scottymustgo",
+    "query": "#scottymustgo",
+    "rank": 19,
     "tweet_count": null
   }
 ]
