@@ -1,39 +1,39 @@
 [
   {
-    "name": "Russ",
-    "query": "Russ",
-    "rank": 1,
-    "tweet_count": "40.3K Tweets"
-  },
-  {
     "name": "#ScottishIndependence6",
     "query": "#ScottishIndependence6",
-    "rank": 2,
-    "tweet_count": "1,503 Tweets"
+    "rank": 1,
+    "tweet_count": "1,687 Tweets"
   },
   {
     "name": "#GhislaineMaxwell",
     "query": "#GhislaineMaxwell",
-    "rank": 3,
-    "tweet_count": "27.7K Tweets"
+    "rank": 2,
+    "tweet_count": "28K Tweets"
   },
   {
     "name": "Nightingale",
     "query": "Nightingale",
-    "rank": 4,
-    "tweet_count": "3,947 Tweets"
+    "rank": 3,
+    "tweet_count": "4,078 Tweets"
   },
   {
     "name": "#AEWDYNAMITE",
     "query": "#AEWDYNAMITE",
-    "rank": 5,
-    "tweet_count": "65.2K Tweets"
+    "rank": 4,
+    "tweet_count": "65.5K Tweets"
   },
   {
     "name": "Lebron",
     "query": "Lebron",
+    "rank": 5,
+    "tweet_count": "124K Tweets"
+  },
+  {
+    "name": "Dembele",
+    "query": "Dembele",
     "rank": 6,
-    "tweet_count": "123K Tweets"
+    "tweet_count": "76.3K Tweets"
   },
   {
     "name": "Clayton",
@@ -42,21 +42,15 @@
     "tweet_count": "11.8K Tweets"
   },
   {
-    "name": "Dembele",
-    "query": "Dembele",
-    "rank": 8,
-    "tweet_count": "75.6K Tweets"
-  },
-  {
     "name": "Toni Storm",
     "query": "\"Toni Storm\"",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": "17.7K Tweets"
   },
   {
     "name": "Michael Smith",
     "query": "\"Michael Smith\"",
-    "rank": 10,
-    "tweet_count": "3,131 Tweets"
+    "rank": 9,
+    "tweet_count": "3,138 Tweets"
   }
 ]
