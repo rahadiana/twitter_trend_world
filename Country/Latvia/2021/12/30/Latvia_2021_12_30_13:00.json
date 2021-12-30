@@ -1,33 +1,33 @@
 [
   {
-    "name": "PSRS",
-    "query": "PSRS",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Bolt",
     "query": "Bolt",
-    "rank": 2,
-    "tweet_count": "13.4K Tweets"
+    "rank": 1,
+    "tweet_count": "13.6K Tweets"
   },
   {
     "name": "itella",
     "query": "itella",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Rīgas",
     "query": "Rīgas",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Putins",
     "query": "Putins",
+    "rank": 4,
+    "tweet_count": "1,061 Tweets"
+  },
+  {
+    "name": "PSRS",
+    "query": "PSRS",
     "rank": 5,
-    "tweet_count": "1,031 Tweets"
+    "tweet_count": null
   },
   {
     "name": "vismaz",
@@ -42,26 +42,26 @@
     "tweet_count": null
   },
   {
-    "name": "šogad",
-    "query": "šogad",
+    "name": "Šogad",
+    "query": "Šogad",
     "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "ukrainu",
-    "query": "ukrainu",
-    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Xanax",
     "query": "Xanax",
-    "rank": 10,
-    "tweet_count": "1,614 Tweets"
+    "rank": 9,
+    "tweet_count": "1,640 Tweets"
   },
   {
-    "name": "Varētu",
-    "query": "Varētu",
+    "name": "Diezgan",
+    "query": "Diezgan",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "varētu",
+    "query": "varētu",
     "rank": 11,
     "tweet_count": null
   },
@@ -72,16 +72,16 @@
     "tweet_count": null
   },
   {
-    "name": "Viss",
-    "query": "Viss",
+    "name": "Ukrainu",
+    "query": "Ukrainu",
     "rank": 13,
-    "tweet_count": "1,257 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Diezgan",
-    "query": "Diezgan",
+    "name": "Viss",
+    "query": "Viss",
     "rank": 14,
-    "tweet_count": null
+    "tweet_count": "1,296 Tweets"
   },
   {
     "name": "Krievija",
@@ -90,22 +90,22 @@
     "tweet_count": null
   },
   {
-    "name": "Gada",
-    "query": "Gada",
+    "name": "Rīgu",
+    "query": "Rīgu",
     "rank": 16,
-    "tweet_count": "18.9K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#Latvia",
-    "query": "#Latvia",
+    "name": "Gada",
+    "query": "Gada",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "19.6K Tweets"
   },
   {
     "name": "mRNA",
     "query": "mRNA",
     "rank": 18,
-    "tweet_count": "158K Tweets"
+    "tweet_count": "161K Tweets"
   },
   {
     "name": "VARAM",
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "Igaunijā",
-    "query": "Igaunijā",
+    "name": "Mums",
+    "query": "Mums",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "7,236 Tweets"
   }
 ]
