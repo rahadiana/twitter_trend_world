@@ -9,31 +9,31 @@
     "name": "Rutsch",
     "query": "Rutsch",
     "rank": 2,
-    "tweet_count": "3,823 Tweets"
+    "tweet_count": "3,884 Tweets"
   },
   {
     "name": "Silvester",
     "query": "Silvester",
     "rank": 3,
-    "tweet_count": "14.5K Tweets"
+    "tweet_count": "14.8K Tweets"
   },
   {
     "name": "Happy New Year",
     "query": "\"Happy New Year\"",
     "rank": 4,
-    "tweet_count": "558K Tweets"
+    "tweet_count": "568K Tweets"
+  },
+  {
+    "name": "#swisscovidfail",
+    "query": "#swisscovidfail",
+    "rank": 5,
+    "tweet_count": null
   },
   {
     "name": "Bundesrat",
     "query": "Bundesrat",
-    "rank": 5,
-    "tweet_count": "1,255 Tweets"
-  },
-  {
-    "name": "#SwissCovidFail",
-    "query": "#SwissCovidFail",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "1,270 Tweets"
   },
   {
     "name": "Telefonkonferenz",
@@ -51,13 +51,13 @@
     "name": "Ghislaine Maxwell",
     "query": "\"Ghislaine Maxwell\"",
     "rank": 9,
-    "tweet_count": "535K Tweets"
+    "tweet_count": "539K Tweets"
   },
   {
     "name": "Durchseuchung",
     "query": "Durchseuchung",
     "rank": 10,
-    "tweet_count": "1,505 Tweets"
+    "tweet_count": "1,526 Tweets"
   },
   {
     "name": "Schliessungen",
@@ -69,7 +69,7 @@
     "name": "#muc2912",
     "query": "#muc2912",
     "rank": 12,
-    "tweet_count": "17.4K Tweets"
+    "tweet_count": "17.5K Tweets"
   },
   {
     "name": "Kommunikation",
@@ -81,36 +81,42 @@
     "name": "Seele",
     "query": "Seele",
     "rank": 14,
-    "tweet_count": "2,114 Tweets"
+    "tweet_count": "2,149 Tweets"
   },
   {
     "name": "Wald",
     "query": "Wald",
     "rank": 15,
-    "tweet_count": "2,850 Tweets"
+    "tweet_count": "2,876 Tweets"
   },
   {
     "name": "Infektionen",
     "query": "Infektionen",
     "rank": 16,
-    "tweet_count": "3,740 Tweets"
+    "tweet_count": "3,776 Tweets"
   },
   {
     "name": "Sabine Weiss",
     "query": "\"Sabine Weiss\"",
     "rank": 17,
-    "tweet_count": "4,013 Tweets"
+    "tweet_count": "4,022 Tweets"
   },
   {
     "name": "Dembele",
     "query": "Dembele",
     "rank": 18,
-    "tweet_count": "116K Tweets"
+    "tweet_count": "117K Tweets"
   },
   {
-    "name": "Zensur",
-    "query": "Zensur",
+    "name": "zensur",
+    "query": "zensur",
     "rank": 19,
-    "tweet_count": "1,831 Tweets"
+    "tweet_count": "1,839 Tweets"
+  },
+  {
+    "name": "Kantonen",
+    "query": "Kantonen",
+    "rank": 20,
+    "tweet_count": null
   }
 ]
