@@ -1,74 +1,86 @@
 [
   {
+    "name": "celtics",
+    "query": "celtics",
+    "rank": 1,
+    "tweet_count": "25.4K Tweets"
+  },
+  {
     "name": "Betty White",
     "query": "\"Betty White\"",
-    "rank": 1,
-    "tweet_count": "1.2M Tweets"
+    "rank": 2,
+    "tweet_count": "1.26M Tweets"
   },
   {
     "name": "Happy New Year",
     "query": "\"Happy New Year\"",
-    "rank": 2,
-    "tweet_count": "3.64M Tweets"
+    "rank": 3,
+    "tweet_count": "3.81M Tweets"
   },
   {
     "name": "#CottonBowl",
     "query": "#CottonBowl",
-    "rank": 3,
-    "tweet_count": "6,077 Tweets"
-  },
-  {
-    "name": "Will Anderson",
-    "query": "\"Will Anderson\"",
     "rank": 4,
-    "tweet_count": "2,193 Tweets"
+    "tweet_count": "6,570 Tweets"
   },
   {
-    "name": "Brian Robinson",
-    "query": "\"Brian Robinson\"",
+    "name": "Demar",
+    "query": "Demar",
     "rank": 5,
-    "tweet_count": "1,041 Tweets"
+    "tweet_count": "31.8K Tweets"
   },
   {
-    "name": "LACES OUT",
-    "query": "\"LACES OUT\"",
+    "name": "Pacers",
+    "query": "Pacers",
     "rank": 6,
-    "tweet_count": "1,201 Tweets"
-  },
-  {
-    "name": "#legend",
-    "query": "#legend",
-    "rank": 7,
-    "tweet_count": "4,951 Tweets"
+    "tweet_count": "6,668 Tweets"
   },
   {
     "name": "Here's to 2022",
     "query": "\"Here's to 2022\"",
+    "rank": 7,
+    "tweet_count": "130K Tweets"
+  },
+  {
+    "name": "#NYE2021",
+    "query": "#NYE2021",
     "rank": 8,
-    "tweet_count": "126K Tweets"
-  },
-  {
-    "name": "Cicely Tyson",
-    "query": "\"Cicely Tyson\"",
-    "rank": 9,
-    "tweet_count": "6,149 Tweets"
-  },
-  {
-    "name": "Sam Jones",
-    "query": "\"Sam Jones\"",
-    "rank": 10,
-    "tweet_count": "8,695 Tweets"
+    "tweet_count": "20K Tweets"
   },
   {
     "name": "Michigan",
     "query": "Michigan",
-    "rank": 11,
-    "tweet_count": "68.6K Tweets"
+    "rank": 9,
+    "tweet_count": "71K Tweets"
   },
   {
-    "name": "Rest in Paradise",
-    "query": "\"Rest in Paradise\"",
+    "name": "#SeeRed",
+    "query": "#SeeRed",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "LACES OUT",
+    "query": "\"LACES OUT\"",
+    "rank": 11,
+    "tweet_count": "1,262 Tweets"
+  },
+  {
+    "name": "#legend",
+    "query": "#legend",
     "rank": 12,
-    "tweet_count": "3,921 Tweets"
+    "tweet_count": "5,156 Tweets"
+  },
+  {
+    "name": "#adamkutnerpowerplay",
+    "query": "#adamkutnerpowerplay",
+    "rank": 13,
+    "tweet_count": "1,974 Tweets"
+  },
+  {
+    "name": "Cicely Tyson",
+    "query": "\"Cicely Tyson\"",
+    "rank": 14,
+    "tweet_count": "6,885 Tweets"
   }
 ]
