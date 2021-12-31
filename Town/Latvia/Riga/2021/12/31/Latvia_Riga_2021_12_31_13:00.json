@@ -1,19 +1,19 @@
 [
   {
+    "name": "Happy New Year",
+    "query": "\"Happy New Year\"",
+    "rank": 1,
+    "tweet_count": "1.02M Tweets"
+  },
+  {
     "name": "Laimīgu Jauno",
     "query": "\"Laimīgu Jauno\"",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "Happy New Year",
-    "query": "\"Happy New Year\"",
-    "rank": 2,
-    "tweet_count": "885K Tweets"
-  },
-  {
-    "name": "Vajag",
-    "query": "Vajag",
+    "name": "vajag",
+    "query": "vajag",
     "rank": 3,
     "tweet_count": null
   },
@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "Ukrainā",
-    "query": "Ukrainā",
-    "rank": 5,
-    "tweet_count": "1,758 Tweets"
-  },
-  {
     "name": "Putins",
     "query": "Putins",
+    "rank": 5,
+    "tweet_count": "1,003 Tweets"
+  },
+  {
+    "name": "Ukrainā",
+    "query": "Ukrainā",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "1,816 Tweets"
   },
   {
     "name": "Krievija",
@@ -75,7 +75,7 @@
     "name": "mRNA",
     "query": "mRNA",
     "rank": 13,
-    "tweet_count": "85.5K Tweets"
+    "tweet_count": "86.9K Tweets"
   },
   {
     "name": "Varētu",
@@ -90,20 +90,20 @@
     "tweet_count": null
   },
   {
-    "name": "Bolt",
-    "query": "Bolt",
+    "name": "#Latvija",
+    "query": "#Latvija",
     "rank": 16,
-    "tweet_count": "8,915 Tweets"
-  },
-  {
-    "name": "Nemaz",
-    "query": "Nemaz",
-    "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Latviju",
-    "query": "Latviju",
+    "name": "Bolt",
+    "query": "Bolt",
+    "rank": 17,
+    "tweet_count": "9,082 Tweets"
+  },
+  {
+    "name": "nemaz",
+    "query": "nemaz",
     "rank": 18,
     "tweet_count": null
   }
