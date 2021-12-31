@@ -1,98 +1,104 @@
 [
   {
-    "name": "Betty White",
-    "query": "\"Betty White\"",
-    "rank": 1,
-    "tweet_count": "1.08M Tweets"
-  },
-  {
     "name": "Happy New Year",
     "query": "\"Happy New Year\"",
+    "rank": 1,
+    "tweet_count": "2.27M Tweets"
+  },
+  {
+    "name": "Betty White",
+    "query": "\"Betty White\"",
     "rank": 2,
-    "tweet_count": "1.8M Tweets"
+    "tweet_count": "1.12M Tweets"
   },
   {
     "name": "Que 2022",
     "query": "\"Que 2022\"",
     "rank": 3,
-    "tweet_count": "554K Tweets"
+    "tweet_count": "626K Tweets"
   },
   {
     "name": "Bom Ano",
     "query": "\"Bom Ano\"",
     "rank": 4,
-    "tweet_count": "64.2K Tweets"
+    "tweet_count": "65K Tweets"
+  },
+  {
+    "name": "Feliz 2022",
+    "query": "\"Feliz 2022\"",
+    "rank": 5,
+    "tweet_count": "400K Tweets"
   },
   {
     "name": "Bom 2022",
     "query": "\"Bom 2022\"",
-    "rank": 5,
-    "tweet_count": "22.1K Tweets"
-  },
-  {
-    "name": "Finals MVP",
-    "query": "\"Finals MVP\"",
     "rank": 6,
-    "tweet_count": "2,544 Tweets"
+    "tweet_count": "22.4K Tweets"
   },
   {
     "name": "Rookie of The Year",
     "query": "\"Rookie of The Year\"",
     "rank": 7,
-    "tweet_count": "4,406 Tweets"
+    "tweet_count": "4,430 Tweets"
+  },
+  {
+    "name": "Finals MVP",
+    "query": "\"Finals MVP\"",
+    "rank": 8,
+    "tweet_count": "2,551 Tweets"
   },
   {
     "name": "Campeão NBA",
     "query": "\"Campeão NBA\"",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Tomás",
     "query": "Tomás",
-    "rank": 9,
-    "tweet_count": "19.9K Tweets"
-  },
-  {
-    "name": "Warriors",
-    "query": "Warriors",
     "rank": 10,
-    "tweet_count": "54.1K Tweets"
+    "tweet_count": "20K Tweets"
   },
   {
     "name": "Em 2022",
     "query": "\"Em 2022\"",
     "rank": 11,
-    "tweet_count": "217K Tweets"
+    "tweet_count": "220K Tweets"
+  },
+  {
+    "name": "Warriors",
+    "query": "Warriors",
+    "rank": 12,
+    "tweet_count": "54.5K Tweets"
+  },
+  {
+    "name": "Happy 2022",
+    "query": "\"Happy 2022\"",
+    "rank": 13,
+    "tweet_count": "1.06M Tweets"
   },
   {
     "name": "Saúde",
     "query": "Saúde",
-    "rank": 12,
-    "tweet_count": "100K Tweets"
+    "rank": 14,
+    "tweet_count": "101K Tweets"
   },
   {
     "name": "Vencedor da Champions",
     "query": "\"Vencedor da Champions\"",
-    "rank": 13,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Para 2022",
     "query": "\"Para 2022\"",
-    "rank": 14,
-    "tweet_count": "477K Tweets"
+    "rank": 16,
+    "tweet_count": "484K Tweets"
   },
   {
     "name": "Bayern",
     "query": "Bayern",
-    "rank": 15,
-    "tweet_count": "25.3K Tweets"
-  },
-  {
-    "name": "Lewandowski",
-    "query": "Lewandowski",
-    "rank": 16,
-    "tweet_count": "10.5K Tweets"
+    "rank": 17,
+    "tweet_count": "25.5K Tweets"
   }
 ]
