@@ -1,39 +1,39 @@
 [
   {
-    "name": "지하철 텅텅",
-    "query": "\"지하철 텅텅\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "이번년도",
     "query": "이번년도",
-    "rank": 2,
-    "tweet_count": "3,077 Tweets"
+    "rank": 1,
+    "tweet_count": "3,123 Tweets"
   },
   {
     "name": "조기퇴근",
     "query": "조기퇴근",
-    "rank": 3,
-    "tweet_count": "7,108 Tweets"
+    "rank": 2,
+    "tweet_count": "7,462 Tweets"
   },
   {
     "name": "위버스콘",
     "query": "위버스콘",
-    "rank": 4,
-    "tweet_count": "5,191 Tweets"
+    "rank": 3,
+    "tweet_count": "5,674 Tweets"
   },
   {
     "name": "가요대제전",
     "query": "가요대제전",
-    "rank": 5,
-    "tweet_count": "97.3K Tweets"
+    "rank": 4,
+    "tweet_count": "104K Tweets"
   },
   {
     "name": "#죽음으로_시작하는_자동완성",
     "query": "#죽음으로_시작하는_자동완성",
+    "rank": 5,
+    "tweet_count": "1,662 Tweets"
+  },
+  {
+    "name": "스노우프린스",
+    "query": "스노우프린스",
     "rank": 6,
-    "tweet_count": "1,604 Tweets"
+    "tweet_count": "3,778 Tweets"
   },
   {
     "name": "#메이링의신년운세",
@@ -42,81 +42,81 @@
     "tweet_count": null
   },
   {
-    "name": "스노우프린스",
-    "query": "스노우프린스",
+    "name": "#온유버블",
+    "query": "#온유버블",
     "rank": 8,
-    "tweet_count": "3,488 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#트친과_입맛궁합_알아보기",
     "query": "#트친과_입맛궁합_알아보기",
     "rank": 9,
-    "tweet_count": "1,392 Tweets"
+    "tweet_count": "1,438 Tweets"
   },
   {
     "name": "간장게장",
     "query": "간장게장",
     "rank": 10,
-    "tweet_count": "2,634 Tweets"
-  },
-  {
-    "name": "#막방사수",
-    "query": "#막방사수",
-    "rank": 11,
-    "tweet_count": "2,599 Tweets"
-  },
-  {
-    "name": "해피뉴이어",
-    "query": "해피뉴이어",
-    "rank": 12,
-    "tweet_count": "10.9K Tweets"
-  },
-  {
-    "name": "사쿠란보",
-    "query": "사쿠란보",
-    "rank": 13,
-    "tweet_count": "1,316 Tweets"
-  },
-  {
-    "name": "새해 첫곡",
-    "query": "\"새해 첫곡\"",
-    "rank": 14,
-    "tweet_count": "23.9K Tweets"
-  },
-  {
-    "name": "대형마트",
-    "query": "대형마트",
-    "rank": 15,
-    "tweet_count": "1,898 Tweets"
-  },
-  {
-    "name": "호랑이 무대",
-    "query": "\"호랑이 무대\"",
-    "rank": 16,
-    "tweet_count": "11.2K Tweets"
+    "tweet_count": "2,686 Tweets"
   },
   {
     "name": "슴스토어",
     "query": "슴스토어",
-    "rank": 17,
+    "rank": 11,
+    "tweet_count": "2,080 Tweets"
+  },
+  {
+    "name": "새해 첫곡",
+    "query": "\"새해 첫곡\"",
+    "rank": 12,
+    "tweet_count": "24.8K Tweets"
+  },
+  {
+    "name": "해피뉴이어",
+    "query": "해피뉴이어",
+    "rank": 13,
+    "tweet_count": "11.2K Tweets"
+  },
+  {
+    "name": "#막방사수",
+    "query": "#막방사수",
+    "rank": 14,
+    "tweet_count": "2,640 Tweets"
+  },
+  {
+    "name": "사쿠란보",
+    "query": "사쿠란보",
+    "rank": 15,
+    "tweet_count": "1,379 Tweets"
+  },
+  {
+    "name": "대형마트",
+    "query": "대형마트",
+    "rank": 16,
     "tweet_count": "1,957 Tweets"
-  },
-  {
-    "name": "#최애결산",
-    "query": "#최애결산",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "다음 외전",
-    "query": "\"다음 외전\"",
-    "rank": 19,
-    "tweet_count": null
   },
   {
     "name": "미리 새해",
     "query": "\"미리 새해\"",
+    "rank": 17,
+    "tweet_count": "3,878 Tweets"
+  },
+  {
+    "name": "호랑이 무대",
+    "query": "\"호랑이 무대\"",
+    "rank": 18,
+    "tweet_count": "12.1K Tweets"
+  },
+  {
+    "name": "새해맞이",
+    "query": "새해맞이",
+    "rank": 19,
+    "tweet_count": "9,473 Tweets"
+  },
+  {
+    "name": "모두 새해",
+    "query": "\"모두 새해\"",
     "rank": 20,
-    "tweet_count": "3,691 Tweets"
+    "tweet_count": "5,356 Tweets"
   }
 ]
