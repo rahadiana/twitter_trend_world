@@ -1,39 +1,39 @@
 [
   {
-    "name": "Seattle",
-    "query": "Seattle",
-    "rank": 1,
-    "tweet_count": "23.8K Tweets"
-  },
-  {
     "name": "#abed",
     "query": "#abed",
-    "rank": 2,
-    "tweet_count": "2,720 Tweets"
+    "rank": 1,
+    "tweet_count": "2,731 Tweets"
   },
   {
-    "name": "Ontario",
-    "query": "Ontario",
-    "rank": 3,
-    "tweet_count": "87.7K Tweets"
+    "name": "Seattle",
+    "query": "Seattle",
+    "rank": 2,
+    "tweet_count": "24.1K Tweets"
   },
   {
     "name": "#Canucks",
     "query": "#Canucks",
+    "rank": 3,
+    "tweet_count": "3,648 Tweets"
+  },
+  {
+    "name": "Halak",
+    "query": "Halak",
     "rank": 4,
-    "tweet_count": "3,626 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Flames",
     "query": "#Flames",
     "rank": 5,
-    "tweet_count": "1,516 Tweets"
+    "tweet_count": "1,524 Tweets"
   },
   {
     "name": "Pearson",
     "query": "Pearson",
     "rank": 6,
-    "tweet_count": "3,646 Tweets"
+    "tweet_count": "3,665 Tweets"
   },
   {
     "name": "Horvat",
@@ -42,57 +42,81 @@
     "tweet_count": null
   },
   {
+    "name": "Petey",
+    "query": "Petey",
+    "rank": 8,
+    "tweet_count": "1,463 Tweets"
+  },
+  {
     "name": "Happy New Year",
     "query": "\"Happy New Year\"",
-    "rank": 8,
-    "tweet_count": "897K Tweets"
+    "rank": 9,
+    "tweet_count": "922K Tweets"
+  },
+  {
+    "name": "Miller",
+    "query": "Miller",
+    "rank": 10,
+    "tweet_count": "32.7K Tweets"
+  },
+  {
+    "name": "Pettersson",
+    "query": "Pettersson",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "Kings",
+    "query": "Kings",
+    "rank": 12,
+    "tweet_count": "44.6K Tweets"
   },
   {
     "name": "Bruce",
     "query": "Bruce",
-    "rank": 9,
-    "tweet_count": "32.9K Tweets"
+    "rank": 13,
+    "tweet_count": "33.2K Tweets"
+  },
+  {
+    "name": "Boudreau",
+    "query": "Boudreau",
+    "rank": 14,
+    "tweet_count": "1,220 Tweets"
   },
   {
     "name": "Colorado",
     "query": "Colorado",
-    "rank": 10,
-    "tweet_count": "107K Tweets"
+    "rank": 15,
+    "tweet_count": "108K Tweets"
   },
   {
     "name": "#SAFEMOONARMY",
     "query": "#SAFEMOONARMY",
-    "rank": 11,
-    "tweet_count": "25.6K Tweets"
+    "rank": 16,
+    "tweet_count": "26.3K Tweets"
   },
   {
     "name": "#AndJustLikeThat",
     "query": "#AndJustLikeThat",
-    "rank": 12,
-    "tweet_count": "8,402 Tweets"
+    "rank": 17,
+    "tweet_count": "8,501 Tweets"
+  },
+  {
+    "name": "Garland",
+    "query": "Garland",
+    "rank": 18,
+    "tweet_count": "32.1K Tweets"
   },
   {
     "name": "ducharme",
     "query": "ducharme",
-    "rank": 13,
-    "tweet_count": "1,015 Tweets"
+    "rank": 19,
+    "tweet_count": "1,021 Tweets"
   },
   {
     "name": "Panthers",
     "query": "Panthers",
-    "rank": 14,
+    "rank": 20,
     "tweet_count": "11.9K Tweets"
-  },
-  {
-    "name": "SQDC",
-    "query": "SQDC",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Moore",
-    "query": "Moore",
-    "rank": 16,
-    "tweet_count": "36K Tweets"
   }
 ]
