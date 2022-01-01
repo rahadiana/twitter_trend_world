@@ -1,104 +1,110 @@
 [
   {
-    "name": "Frohes",
-    "query": "Frohes",
-    "rank": 1,
-    "tweet_count": "65.5K Tweets"
-  },
-  {
     "name": "#Neujahrskonzert",
     "query": "#Neujahrskonzert",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Frohes",
+    "query": "Frohes",
+    "rank": 2,
+    "tweet_count": "66.2K Tweets"
   },
   {
     "name": "Happy New Year",
     "query": "\"Happy New Year\"",
     "rank": 3,
-    "tweet_count": "1.58M Tweets"
+    "tweet_count": "1.52M Tweets"
   },
   {
     "name": "Kater",
     "query": "Kater",
     "rank": 4,
-    "tweet_count": "3,117 Tweets"
+    "tweet_count": "3,198 Tweets"
+  },
+  {
+    "name": "jungkook",
+    "query": "jungkook",
+    "rank": 5,
+    "tweet_count": "594K Tweets"
   },
   {
     "name": "Gutes Neues Jahr",
     "query": "\"Gutes Neues Jahr\"",
-    "rank": 5,
-    "tweet_count": "6,966 Tweets"
+    "rank": 6,
+    "tweet_count": "7,043 Tweets"
+  },
+  {
+    "name": "Gesundes",
+    "query": "Gesundes",
+    "rank": 7,
+    "tweet_count": "13.1K Tweets"
   },
   {
     "name": "#HaltDieFresseSpringerPresse",
     "query": "#HaltDieFresseSpringerPresse",
-    "rank": 6,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Vorsätze",
     "query": "Vorsätze",
-    "rank": 7,
-    "tweet_count": "2,474 Tweets"
-  },
-  {
-    "name": "Gesundes",
-    "query": "Gesundes",
-    "rank": 8,
-    "tweet_count": "12.9K Tweets"
+    "rank": 9,
+    "tweet_count": "2,512 Tweets"
   },
   {
     "name": "Silvesternacht",
     "query": "Silvesternacht",
-    "rank": 9,
-    "tweet_count": "1,448 Tweets"
+    "rank": 10,
+    "tweet_count": "1,497 Tweets"
+  },
+  {
+    "name": "Verbot",
+    "query": "Verbot",
+    "rank": 11,
+    "tweet_count": "3,441 Tweets"
   },
   {
     "name": "#welcome2022",
     "query": "#welcome2022",
-    "rank": 10,
-    "tweet_count": "51.3K Tweets"
+    "rank": 12,
+    "tweet_count": "51.7K Tweets"
   },
   {
     "name": "Raketen",
     "query": "Raketen",
-    "rank": 11,
-    "tweet_count": "2,765 Tweets"
+    "rank": 13,
+    "tweet_count": "2,786 Tweets"
   },
   {
     "name": "Böllerei",
     "query": "Böllerei",
-    "rank": 12,
+    "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "Verkaufsverbot",
-    "query": "Verkaufsverbot",
-    "rank": 13,
-    "tweet_count": "1,321 Tweets"
-  },
-  {
-    "name": "Knall",
-    "query": "Knall",
-    "rank": 14,
-    "tweet_count": "1,330 Tweets"
+    "name": "Knallerei",
+    "query": "Knallerei",
+    "rank": 15,
+    "tweet_count": "1,429 Tweets"
   },
   {
     "name": "Wünsche in Erfüllung",
     "query": "\"Wünsche in Erfüllung\"",
-    "rank": 15,
-    "tweet_count": "1,171 Tweets"
+    "rank": 16,
+    "tweet_count": "1,182 Tweets"
   },
   {
     "name": "Glück und Gesundheit",
     "query": "\"Glück und Gesundheit\"",
-    "rank": 16,
-    "tweet_count": "4,020 Tweets"
+    "rank": 17,
+    "tweet_count": "4,066 Tweets"
   },
   {
-    "name": "Letztes Jahr",
-    "query": "\"Letztes Jahr\"",
-    "rank": 17,
-    "tweet_count": "2,874 Tweets"
+    "name": "Lärm",
+    "query": "Lärm",
+    "rank": 18,
+    "tweet_count": null
   }
 ]
