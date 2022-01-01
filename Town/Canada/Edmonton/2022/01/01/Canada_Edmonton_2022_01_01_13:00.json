@@ -1,26 +1,62 @@
 [
   {
+    "name": "Arsenal",
+    "query": "Arsenal",
+    "rank": 1,
+    "tweet_count": "239K Tweets"
+  },
+  {
+    "name": "Xhaka",
+    "query": "Xhaka",
+    "rank": 2,
+    "tweet_count": "22.3K Tweets"
+  },
+  {
     "name": "Happy New Year",
     "query": "\"Happy New Year\"",
-    "rank": 1,
-    "tweet_count": "2.02M Tweets"
+    "rank": 3,
+    "tweet_count": "2.14M Tweets"
+  },
+  {
+    "name": "Martinelli",
+    "query": "Martinelli",
+    "rank": 4,
+    "tweet_count": "29.5K Tweets"
+  },
+  {
+    "name": "Saka",
+    "query": "Saka",
+    "rank": 5,
+    "tweet_count": "73.4K Tweets"
+  },
+  {
+    "name": "#COYG",
+    "query": "#COYG",
+    "rank": 6,
+    "tweet_count": "9,834 Tweets"
+  },
+  {
+    "name": "Gabriel",
+    "query": "Gabriel",
+    "rank": 7,
+    "tweet_count": "64.2K Tweets"
+  },
+  {
+    "name": "Mahrez",
+    "query": "Mahrez",
+    "rank": 8,
+    "tweet_count": "11.8K Tweets"
+  },
+  {
+    "name": "#2022NewYear",
+    "query": "#2022NewYear",
+    "rank": 9,
+    "tweet_count": "229K Tweets"
   },
   {
     "name": "Bonne Année",
     "query": "\"Bonne Année\"",
-    "rank": 2,
-    "tweet_count": "474K Tweets"
-  },
-  {
-    "name": "ALYSSA",
-    "query": "ALYSSA",
-    "rank": 3,
-    "tweet_count": "77.2K Tweets"
-  },
-  {
-    "name": "Anderson",
-    "query": "Anderson",
-    "rank": 4,
-    "tweet_count": "45.1K Tweets"
+    "rank": 10,
+    "tweet_count": "480K Tweets"
   }
 ]
