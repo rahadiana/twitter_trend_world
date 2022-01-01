@@ -1,81 +1,81 @@
 [
   {
-    "name": "Feliz Año",
-    "query": "\"Feliz Año\"",
-    "rank": 1,
-    "tweet_count": "3.32M Tweets"
-  },
-  {
     "name": "Happy New Year",
     "query": "\"Happy New Year\"",
-    "rank": 2,
-    "tweet_count": "1.33M Tweets"
+    "rank": 1,
+    "tweet_count": "1.32M Tweets"
   },
   {
     "name": "#31Dic",
     "query": "#31Dic",
-    "rank": 3,
-    "tweet_count": "17.1K Tweets"
+    "rank": 2,
+    "tweet_count": "17.2K Tweets"
   },
   {
     "name": "#1Ene",
     "query": "#1Ene",
-    "rank": 4,
-    "tweet_count": "21.5K Tweets"
+    "rank": 3,
+    "tweet_count": "21.9K Tweets"
   },
   {
     "name": "Bienvenido 2022",
     "query": "\"Bienvenido 2022\"",
-    "rank": 5,
-    "tweet_count": "28.7K Tweets"
+    "rank": 4,
+    "tweet_count": "28.9K Tweets"
   },
   {
     "name": "#EneroDeVictorias",
     "query": "#EneroDeVictorias",
+    "rank": 5,
+    "tweet_count": "219K Tweets"
+  },
+  {
+    "name": "Harry Potter",
+    "query": "\"Harry Potter\"",
     "rank": 6,
-    "tweet_count": "216K Tweets"
+    "tweet_count": "103K Tweets"
   },
   {
     "name": "#AñoVictoriosoYDePaz",
     "query": "#AñoVictoriosoYDePaz",
     "rank": 7,
-    "tweet_count": "32.3K Tweets"
+    "tweet_count": "32.4K Tweets"
   },
   {
     "name": "Gisela",
     "query": "Gisela",
     "rank": 8,
-    "tweet_count": "5,116 Tweets"
-  },
-  {
-    "name": "Harry Potter",
-    "query": "\"Harry Potter\"",
-    "rank": 9,
-    "tweet_count": "102K Tweets"
+    "tweet_count": "5,158 Tweets"
   },
   {
     "name": "Amén",
     "query": "Amén",
+    "rank": 9,
+    "tweet_count": "252K Tweets"
+  },
+  {
+    "name": "Jorge Palacios",
+    "query": "\"Jorge Palacios\"",
     "rank": 10,
-    "tweet_count": "251K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Gracias 2021",
     "query": "\"Gracias 2021\"",
     "rank": 11,
-    "tweet_count": "130K Tweets"
-  },
-  {
-    "name": "Jorge Palacios",
-    "query": "\"Jorge Palacios\"",
-    "rank": 12,
-    "tweet_count": null
+    "tweet_count": "131K Tweets"
   },
   {
     "name": "#CubaVive",
     "query": "#CubaVive",
+    "rank": 12,
+    "tweet_count": "250K Tweets"
+  },
+  {
+    "name": "El 2022",
+    "query": "\"El 2022\"",
     "rank": 13,
-    "tweet_count": "247K Tweets"
+    "tweet_count": "850K Tweets"
   },
   {
     "name": "Luisa Ortega Díaz",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
-    "name": "El 2022",
-    "query": "\"El 2022\"",
-    "rank": 16,
-    "tweet_count": "867K Tweets"
-  },
-  {
     "name": "Betty White",
     "query": "\"Betty White\"",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": "1.26M Tweets"
   },
   {
     "name": "Este 2022",
     "query": "\"Este 2022\"",
-    "rank": 18,
-    "tweet_count": "460K Tweets"
+    "rank": 17,
+    "tweet_count": "463K Tweets"
   },
   {
     "name": "Ratón",
     "query": "Ratón",
-    "rank": 19,
-    "tweet_count": "2,711 Tweets"
+    "rank": 18,
+    "tweet_count": "2,733 Tweets"
   },
   {
     "name": "Adiós 2021",
     "query": "\"Adiós 2021\"",
+    "rank": 19,
+    "tweet_count": "20.6K Tweets"
+  },
+  {
+    "name": "Faltan 5",
+    "query": "\"Faltan 5\"",
     "rank": 20,
-    "tweet_count": "20.5K Tweets"
+    "tweet_count": "4,070 Tweets"
   }
 ]
