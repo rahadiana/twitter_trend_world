@@ -1,7 +1,7 @@
 [
   {
-    "name": "#StrefaStarcia",
-    "query": "#StrefaStarcia",
+    "name": "#strefastarcia",
+    "query": "#strefastarcia",
     "rank": 1,
     "tweet_count": null
   },
@@ -9,19 +9,19 @@
     "name": "Luuk de Jong",
     "query": "\"Luuk de Jong\"",
     "rank": 2,
-    "tweet_count": "22.2K Tweets"
-  },
-  {
-    "name": "#NFLpl",
-    "query": "#NFLpl",
-    "rank": 3,
-    "tweet_count": null
+    "tweet_count": "23.5K Tweets"
   },
   {
     "name": "Lewicy",
     "query": "Lewicy",
+    "rank": 3,
+    "tweet_count": "1,336 Tweets"
+  },
+  {
+    "name": "#NFLpl",
+    "query": "#NFLpl",
     "rank": 4,
-    "tweet_count": "1,217 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Czarzastego",
@@ -39,37 +39,37 @@
     "name": "Tusk",
     "query": "Tusk",
     "rank": 7,
-    "tweet_count": "12.2K Tweets"
+    "tweet_count": "12.4K Tweets"
   },
   {
     "name": "#CHELIV",
     "query": "#CHELIV",
     "rank": 8,
-    "tweet_count": "158K Tweets"
+    "tweet_count": "159K Tweets"
   },
   {
     "name": "Wosia",
     "query": "Wosia",
     "rank": 9,
-    "tweet_count": "1,068 Tweets"
+    "tweet_count": "1,092 Tweets"
+  },
+  {
+    "name": "#trylogiasecret",
+    "query": "#trylogiasecret",
+    "rank": 10,
+    "tweet_count": null
   },
   {
     "name": "#Minela20",
     "query": "#Minela20",
-    "rank": 10,
-    "tweet_count": "1,122 Tweets"
-  },
-  {
-    "name": "#plkpl",
-    "query": "#plkpl",
     "rank": 11,
-    "tweet_count": null
+    "tweet_count": "1,130 Tweets"
   },
   {
-    "name": "Chelsea",
-    "query": "Chelsea",
+    "name": "Żukowska",
+    "query": "Żukowska",
     "rank": 12,
-    "tweet_count": "369K Tweets"
+    "tweet_count": "2,947 Tweets"
   },
   {
     "name": "PiSem",
@@ -78,27 +78,27 @@
     "tweet_count": null
   },
   {
-    "name": "Liverpool",
-    "query": "Liverpool",
-    "rank": 14,
-    "tweet_count": "267K Tweets"
-  },
-  {
     "name": "Kościół",
     "query": "Kościół",
-    "rank": 15,
-    "tweet_count": "1,852 Tweets"
+    "rank": 14,
+    "tweet_count": "1,884 Tweets"
   },
   {
     "name": "Holandii",
     "query": "Holandii",
-    "rank": 16,
-    "tweet_count": "1,394 Tweets"
+    "rank": 15,
+    "tweet_count": "1,418 Tweets"
   },
   {
     "name": "Premier League",
     "query": "\"Premier League\"",
+    "rank": 16,
+    "tweet_count": "75.9K Tweets"
+  },
+  {
+    "name": "#plkpl",
+    "query": "#plkpl",
     "rank": 17,
-    "tweet_count": "75.5K Tweets"
+    "tweet_count": null
   }
 ]
