@@ -1,39 +1,39 @@
 [
   {
+    "name": "Greg",
+    "query": "Greg",
+    "rank": 1,
+    "tweet_count": "36.3K Tweets"
+  },
+  {
     "name": "#CowboysNation",
     "query": "#CowboysNation",
-    "rank": 1,
-    "tweet_count": "4,319 Tweets"
+    "rank": 2,
+    "tweet_count": "4,554 Tweets"
   },
   {
     "name": "Cardinals",
     "query": "Cardinals",
-    "rank": 2,
-    "tweet_count": "10.9K Tweets"
+    "rank": 3,
+    "tweet_count": "11.2K Tweets"
   },
   {
-    "name": "#AZvsDAL",
-    "query": "#AZvsDAL",
-    "rank": 3,
-    "tweet_count": "5,661 Tweets"
+    "name": "Zuerlein",
+    "query": "Zuerlein",
+    "rank": 4,
+    "tweet_count": "1,022 Tweets"
+  },
+  {
+    "name": "Schultz",
+    "query": "Schultz",
+    "rank": 5,
+    "tweet_count": "2,799 Tweets"
   },
   {
     "name": "Kyler Murray",
     "query": "\"Kyler Murray\"",
-    "rank": 4,
-    "tweet_count": "1,438 Tweets"
-  },
-  {
-    "name": "Go Cowboys",
-    "query": "\"Go Cowboys\"",
-    "rank": 5,
-    "tweet_count": "2,575 Tweets"
-  },
-  {
-    "name": "Huntley",
-    "query": "Huntley",
     "rank": 6,
-    "tweet_count": "9,010 Tweets"
+    "tweet_count": "1,480 Tweets"
   },
   {
     "name": "#GigEm",
@@ -42,81 +42,81 @@
     "tweet_count": null
   },
   {
-    "name": "#LARvsBAL",
-    "query": "#LARvsBAL",
-    "rank": 8,
-    "tweet_count": "4,834 Tweets"
-  },
-  {
-    "name": "#CHELIV",
-    "query": "#CHELIV",
-    "rank": 9,
-    "tweet_count": "159K Tweets"
-  },
-  {
     "name": "Tee Higgins",
     "query": "\"Tee Higgins\"",
-    "rank": 10,
-    "tweet_count": "1,834 Tweets"
-  },
-  {
-    "name": "Goff",
-    "query": "Goff",
-    "rank": 11,
-    "tweet_count": "3,338 Tweets"
+    "rank": 8,
+    "tweet_count": "1,847 Tweets"
   },
   {
     "name": "VAERS",
     "query": "VAERS",
-    "rank": 12,
-    "tweet_count": "20K Tweets"
+    "rank": 9,
+    "tweet_count": "20.3K Tweets"
+  },
+  {
+    "name": "#RedSea",
+    "query": "#RedSea",
+    "rank": 10,
+    "tweet_count": "1,439 Tweets"
+  },
+  {
+    "name": "#ForTheShoe",
+    "query": "#ForTheShoe",
+    "rank": 11,
+    "tweet_count": "5,151 Tweets"
   },
   {
     "name": "Kansas City",
     "query": "\"Kansas City\"",
+    "rank": 12,
+    "tweet_count": "5,183 Tweets"
+  },
+  {
+    "name": "#FantasyFootball",
+    "query": "#FantasyFootball",
     "rank": 13,
-    "tweet_count": "5,128 Tweets"
-  },
-  {
-    "name": "Mendy",
-    "query": "Mendy",
-    "rank": 14,
-    "tweet_count": "42.3K Tweets"
-  },
-  {
-    "name": "Cooper Kupp",
-    "query": "\"Cooper Kupp\"",
-    "rank": 15,
-    "tweet_count": "4,218 Tweets"
-  },
-  {
-    "name": "Pittsburgh",
-    "query": "Pittsburgh",
-    "rank": 16,
-    "tweet_count": "10.8K Tweets"
-  },
-  {
-    "name": "Gronk",
-    "query": "Gronk",
-    "rank": 17,
-    "tweet_count": "2,211 Tweets"
+    "tweet_count": "6,201 Tweets"
   },
   {
     "name": "Porter",
     "query": "Porter",
-    "rank": 18,
-    "tweet_count": "34.4K Tweets"
+    "rank": 14,
+    "tweet_count": "34.5K Tweets"
   },
   {
     "name": "Kante",
     "query": "Kante",
-    "rank": 19,
-    "tweet_count": "47.4K Tweets"
+    "rank": 15,
+    "tweet_count": "47.6K Tweets"
   },
   {
-    "name": "Buffalo",
-    "query": "Buffalo",
+    "name": "Defense",
+    "query": "Defense",
+    "rank": 16,
+    "tweet_count": "130K Tweets"
+  },
+  {
+    "name": "Jags",
+    "query": "Jags",
+    "rank": 17,
+    "tweet_count": "8,928 Tweets"
+  },
+  {
+    "name": "Eagles",
+    "query": "Eagles",
+    "rank": 18,
+    "tweet_count": "66.3K Tweets"
+  },
+  {
+    "name": "Titans",
+    "query": "Titans",
+    "rank": 19,
+    "tweet_count": "61.8K Tweets"
+  },
+  {
+    "name": "Matt Ryan",
+    "query": "\"Matt Ryan\"",
     "rank": 20,
-    "tweet_count": "17K Tweets"
+    "tweet_count": "6,027 Tweets"
   }
 ]
