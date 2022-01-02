@@ -1,116 +1,122 @@
 [
   {
+    "name": "#コレコレ",
+    "query": "#コレコレ",
+    "rank": 1,
+    "tweet_count": "2,631 Tweets"
+  },
+  {
     "name": "スタトロ",
     "query": "スタトロ",
-    "rank": 1,
-    "tweet_count": "1,457 Tweets"
-  },
-  {
-    "name": "#大橋和也",
-    "query": "#大橋和也",
     "rank": 2,
-    "tweet_count": "3,948 Tweets"
-  },
-  {
-    "name": "ポカチェ",
-    "query": "ポカチェ",
-    "rank": 3,
-    "tweet_count": "34.7K Tweets"
+    "tweet_count": "1,495 Tweets"
   },
   {
     "name": "#f1jp",
     "query": "#f1jp",
+    "rank": 3,
+    "tweet_count": "5,095 Tweets"
+  },
+  {
+    "name": "ポカチェ",
+    "query": "ポカチェ",
     "rank": 4,
-    "tweet_count": "5,028 Tweets"
+    "tweet_count": "35.5K Tweets"
   },
   {
-    "name": "#NNOP2022",
-    "query": "#NNOP2022",
+    "name": "#大橋和也",
+    "query": "#大橋和也",
     "rank": 5,
-    "tweet_count": "37.5K Tweets"
+    "tweet_count": "4,034 Tweets"
   },
   {
-    "name": "大橋くん",
-    "query": "大橋くん",
+    "name": "#菊池風磨",
+    "query": "#菊池風磨",
     "rank": 6,
-    "tweet_count": "7,336 Tweets"
-  },
-  {
-    "name": "#あなたっぽいおもち",
-    "query": "#あなたっぽいおもち",
-    "rank": 7,
-    "tweet_count": "4,302 Tweets"
-  },
-  {
-    "name": "すき焼き",
-    "query": "すき焼き",
-    "rank": 8,
-    "tweet_count": "43.7K Tweets"
-  },
-  {
-    "name": "LiSAの旦那",
-    "query": "LiSAの旦那",
-    "rank": 9,
-    "tweet_count": "17.1K Tweets"
-  },
-  {
-    "name": "KinKi",
-    "query": "KinKi",
-    "rank": 10,
-    "tweet_count": "34.8K Tweets"
-  },
-  {
-    "name": "私の語彙力",
-    "query": "私の語彙力",
-    "rank": 11,
-    "tweet_count": "2,699 Tweets"
+    "tweet_count": "97.3K Tweets"
   },
   {
     "name": "かけペットボトル",
     "query": "かけペットボトル",
-    "rank": 12,
+    "rank": 7,
     "tweet_count": null
   },
   {
-    "name": "少女レイ",
-    "query": "少女レイ",
-    "rank": 13,
-    "tweet_count": "20.5K Tweets"
+    "name": "LiSAの旦那",
+    "query": "LiSAの旦那",
+    "rank": 8,
+    "tweet_count": "17.2K Tweets"
+  },
+  {
+    "name": "#NNOP2022",
+    "query": "#NNOP2022",
+    "rank": 9,
+    "tweet_count": "37.7K Tweets"
+  },
+  {
+    "name": "すき焼き",
+    "query": "すき焼き",
+    "rank": 10,
+    "tweet_count": "44.4K Tweets"
+  },
+  {
+    "name": "KinKi",
+    "query": "KinKi",
+    "rank": 11,
+    "tweet_count": "35.4K Tweets"
+  },
+  {
+    "name": "大橋くん",
+    "query": "大橋くん",
+    "rank": 12,
+    "tweet_count": "7,553 Tweets"
   },
   {
     "name": "WEST",
     "query": "WEST",
-    "rank": 14,
-    "tweet_count": "178K Tweets"
+    "rank": 13,
+    "tweet_count": "182K Tweets"
   },
   {
-    "name": "正月太り",
-    "query": "正月太り",
-    "rank": 15,
-    "tweet_count": "27.5K Tweets"
+    "name": "少女レイ",
+    "query": "少女レイ",
+    "rank": 14,
+    "tweet_count": "20.8K Tweets"
   },
   {
     "name": "スニーカー",
     "query": "スニーカー",
+    "rank": 15,
+    "tweet_count": "15.8K Tweets"
+  },
+  {
+    "name": "正月太り",
+    "query": "正月太り",
     "rank": 16,
-    "tweet_count": "15.5K Tweets"
-  },
-  {
-    "name": "おうし座",
-    "query": "おうし座",
-    "rank": 17,
-    "tweet_count": "4,527 Tweets"
-  },
-  {
-    "name": "ふたご座",
-    "query": "ふたご座",
-    "rank": 18,
-    "tweet_count": "6,337 Tweets"
+    "tweet_count": "28.1K Tweets"
   },
   {
     "name": "おひつじ座",
     "query": "おひつじ座",
+    "rank": 17,
+    "tweet_count": "5,734 Tweets"
+  },
+  {
+    "name": "みずがめ座",
+    "query": "みずがめ座",
+    "rank": 18,
+    "tweet_count": "1,551 Tweets"
+  },
+  {
+    "name": "おうし座",
+    "query": "おうし座",
     "rank": 19,
-    "tweet_count": "5,647 Tweets"
+    "tweet_count": "4,604 Tweets"
+  },
+  {
+    "name": "おとめ座",
+    "query": "おとめ座",
+    "rank": 20,
+    "tweet_count": "7,449 Tweets"
   }
 ]
