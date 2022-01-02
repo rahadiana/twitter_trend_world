@@ -1,110 +1,116 @@
 [
   {
+    "name": "Dolphins",
+    "query": "Dolphins",
+    "rank": 1,
+    "tweet_count": "18.2K Tweets"
+  },
+  {
     "name": "Jags",
     "query": "Jags",
-    "rank": 1,
-    "tweet_count": "5,147 Tweets"
-  },
-  {
-    "name": "Watson",
-    "query": "Watson",
     "rank": 2,
-    "tweet_count": "40.7K Tweets"
+    "tweet_count": "5,581 Tweets"
   },
   {
-    "name": "Duke Johnson",
-    "query": "\"Duke Johnson\"",
+    "name": "#FireBaalke",
+    "query": "#FireBaalke",
     "rank": 3,
-    "tweet_count": null
+    "tweet_count": "5,345 Tweets"
   },
   {
     "name": "Flores",
     "query": "Flores",
     "rank": 4,
-    "tweet_count": "32.5K Tweets"
+    "tweet_count": "33.1K Tweets"
+  },
+  {
+    "name": "Watson",
+    "query": "Watson",
+    "rank": 5,
+    "tweet_count": "41.2K Tweets"
+  },
+  {
+    "name": "Jaguars",
+    "query": "Jaguars",
+    "rank": 6,
+    "tweet_count": "13.6K Tweets"
+  },
+  {
+    "name": "Pats",
+    "query": "Pats",
+    "rank": 7,
+    "tweet_count": "12.3K Tweets"
+  },
+  {
+    "name": "Mac Jones",
+    "query": "\"Mac Jones\"",
+    "rank": 8,
+    "tweet_count": "5,043 Tweets"
+  },
+  {
+    "name": "Duke Johnson",
+    "query": "\"Duke Johnson\"",
+    "rank": 9,
+    "tweet_count": null
   },
   {
     "name": "Holland",
     "query": "Holland",
-    "rank": 5,
-    "tweet_count": "38.2K Tweets"
-  },
-  {
-    "name": "#lightningstrikes",
-    "query": "#lightningstrikes",
-    "rank": 6,
-    "tweet_count": null
+    "rank": 10,
+    "tweet_count": "38.9K Tweets"
   },
   {
     "name": "Defense",
     "query": "Defense",
-    "rank": 7,
-    "tweet_count": "112K Tweets"
+    "rank": 11,
+    "tweet_count": "116K Tweets"
   },
   {
     "name": "Mike Evans",
     "query": "\"Mike Evans\"",
-    "rank": 8,
-    "tweet_count": "2,904 Tweets"
+    "rank": 12,
+    "tweet_count": "2,951 Tweets"
   },
   {
     "name": "Austin Jackson",
     "query": "\"Austin Jackson\"",
-    "rank": 9,
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "#DUUUVAL",
+    "query": "#DUUUVAL",
+    "rank": 14,
+    "tweet_count": "1,722 Tweets"
+  },
+  {
+    "name": "#Lightningstrikes",
+    "query": "#Lightningstrikes",
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Mane",
     "query": "Mane",
-    "rank": 10,
-    "tweet_count": "86.4K Tweets"
-  },
-  {
-    "name": "Rangers",
-    "query": "Rangers",
-    "rank": 11,
-    "tweet_count": "17.1K Tweets"
-  },
-  {
-    "name": "jisoo",
-    "query": "jisoo",
-    "rank": 12,
-    "tweet_count": "955K Tweets"
-  },
-  {
-    "name": "Dean",
-    "query": "Dean",
-    "rank": 13,
-    "tweet_count": "26.8K Tweets"
-  },
-  {
-    "name": "Scott",
-    "query": "Scott",
-    "rank": 14,
-    "tweet_count": "74.4K Tweets"
-  },
-  {
-    "name": "Madrid",
-    "query": "Madrid",
-    "rank": 15,
-    "tweet_count": "182K Tweets"
-  },
-  {
-    "name": "#LARvsBAL",
-    "query": "#LARvsBAL",
     "rank": 16,
-    "tweet_count": "2,151 Tweets"
+    "tweet_count": "87.9K Tweets"
   },
   {
-    "name": "#KCvsCIN",
-    "query": "#KCvsCIN",
+    "name": "Alonso",
+    "query": "Alonso",
     "rank": 17,
-    "tweet_count": "7,231 Tweets"
+    "tweet_count": "39.6K Tweets"
   },
   {
-    "name": "Jets",
-    "query": "Jets",
+    "name": "Gronk",
+    "query": "Gronk",
     "rank": 18,
-    "tweet_count": "32.6K Tweets"
+    "tweet_count": "1,515 Tweets"
+  },
+  {
+    "name": "Shad",
+    "query": "Shad",
+    "rank": 19,
+    "tweet_count": "3,395 Tweets"
   }
 ]
