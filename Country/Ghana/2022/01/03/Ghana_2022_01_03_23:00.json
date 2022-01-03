@@ -1,44 +1,56 @@
 [
   {
-    "name": "#MUNWOL",
-    "query": "#MUNWOL",
-    "rank": 1,
-    "tweet_count": "78.3K Tweets"
-  },
-  {
     "name": "Ronaldo",
     "query": "Ronaldo",
+    "rank": 1,
+    "tweet_count": "143K Tweets"
+  },
+  {
+    "name": "#MUNWOL",
+    "query": "#MUNWOL",
     "rank": 2,
-    "tweet_count": "142K Tweets"
+    "tweet_count": "78.4K Tweets"
   },
   {
     "name": "#NABCO",
     "query": "#NABCO",
     "rank": 3,
-    "tweet_count": "3,322 Tweets"
+    "tweet_count": "3,333 Tweets"
   },
   {
-    "name": "#MUNWOL",
-    "query": "#MUNWOL",
+    "name": "Peter Drury",
+    "query": "\"Peter Drury\"",
     "rank": 4,
-    "tweet_count": "78.3K Tweets"
+    "tweet_count": "14.5K Tweets"
+  },
+  {
+    "name": "Sancho",
+    "query": "Sancho",
+    "rank": 5,
+    "tweet_count": "38K Tweets"
   },
   {
     "name": "Cavani",
     "query": "Cavani",
-    "rank": 5,
-    "tweet_count": "23.4K Tweets"
+    "rank": 6,
+    "tweet_count": "23.5K Tweets"
+  },
+  {
+    "name": "Klopp",
+    "query": "Klopp",
+    "rank": 7,
+    "tweet_count": "30.5K Tweets"
   },
   {
     "name": "McTominay",
     "query": "McTominay",
-    "rank": 6,
-    "tweet_count": "22.3K Tweets"
+    "rank": 8,
+    "tweet_count": "22.4K Tweets"
   },
   {
     "name": "#AFCON2021",
     "query": "#AFCON2021",
-    "rank": 7,
-    "tweet_count": "6,697 Tweets"
+    "rank": 9,
+    "tweet_count": "6,718 Tweets"
   }
 ]
