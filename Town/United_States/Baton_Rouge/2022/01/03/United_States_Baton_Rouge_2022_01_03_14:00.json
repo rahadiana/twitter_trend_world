@@ -1,39 +1,39 @@
 [
   {
+    "name": "Packers",
+    "query": "Packers",
+    "rank": 1,
+    "tweet_count": "108K Tweets"
+  },
+  {
     "name": "Saints",
     "query": "Saints",
-    "rank": 1,
-    "tweet_count": "45.1K Tweets"
+    "rank": 2,
+    "tweet_count": "45.5K Tweets"
   },
   {
     "name": "49ers",
     "query": "49ers",
-    "rank": 2,
-    "tweet_count": "48.5K Tweets"
+    "rank": 3,
+    "tweet_count": "48.7K Tweets"
   },
   {
     "name": "Rams",
     "query": "Rams",
-    "rank": 3,
-    "tweet_count": "53.1K Tweets"
-  },
-  {
-    "name": "Antonio Brown",
-    "query": "\"Antonio Brown\"",
     "rank": 4,
-    "tweet_count": "327K Tweets"
+    "tweet_count": "53.4K Tweets"
   },
   {
     "name": "#MondayMotivation",
     "query": "#MondayMotivation",
     "rank": 5,
-    "tweet_count": "59.4K Tweets"
+    "tweet_count": "61.8K Tweets"
   },
   {
     "name": "Ashli Babbitt",
     "query": "\"Ashli Babbitt\"",
     "rank": 6,
-    "tweet_count": "4,689 Tweets"
+    "tweet_count": "6,696 Tweets"
   },
   {
     "name": "#PMSIDontWantToOverreactBUT",
@@ -42,75 +42,69 @@
     "tweet_count": null
   },
   {
-    "name": "#snowday",
-    "query": "#snowday",
+    "name": "#snowstorm",
+    "query": "#snowstorm",
     "rank": 8,
-    "tweet_count": "1,019 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#ARMYSelcaDay",
     "query": "#ARMYSelcaDay",
     "rank": 9,
-    "tweet_count": "166K Tweets"
+    "tweet_count": "175K Tweets"
   },
   {
-    "name": "#MorningJoe",
-    "query": "#MorningJoe",
+    "name": "Weeknd",
+    "query": "Weeknd",
     "rank": 10,
-    "tweet_count": "1,641 Tweets"
+    "tweet_count": "28.3K Tweets"
   },
   {
     "name": "woozi",
     "query": "woozi",
     "rank": 11,
-    "tweet_count": "461K Tweets"
+    "tweet_count": "468K Tweets"
   },
   {
-    "name": "Weeknd",
-    "query": "Weeknd",
+    "name": "#MorningJoe",
+    "query": "#MorningJoe",
     "rank": 12,
-    "tweet_count": "22.9K Tweets"
+    "tweet_count": "1,812 Tweets"
   },
   {
-    "name": "NICU",
-    "query": "NICU",
+    "name": "Abel",
+    "query": "Abel",
     "rank": 13,
-    "tweet_count": "7,352 Tweets"
+    "tweet_count": "21.9K Tweets"
   },
   {
     "name": "Tyra",
     "query": "Tyra",
     "rank": 14,
-    "tweet_count": "8,544 Tweets"
-  },
-  {
-    "name": "GETTR",
-    "query": "GETTR",
-    "rank": 15,
-    "tweet_count": "182K Tweets"
-  },
-  {
-    "name": "ABEL",
-    "query": "ABEL",
-    "rank": 16,
-    "tweet_count": "20.4K Tweets"
+    "tweet_count": "8,998 Tweets"
   },
   {
     "name": "Capitol",
     "query": "Capitol",
+    "rank": 15,
+    "tweet_count": "135K Tweets"
+  },
+  {
+    "name": "GETTR",
+    "query": "GETTR",
+    "rank": 16,
+    "tweet_count": "185K Tweets"
+  },
+  {
+    "name": "NICU",
+    "query": "NICU",
     "rank": 17,
-    "tweet_count": "132K Tweets"
+    "tweet_count": "7,537 Tweets"
   },
   {
-    "name": "kevin sorbo",
-    "query": "\"kevin sorbo\"",
+    "name": "Orban",
+    "query": "Orban",
     "rank": 18,
-    "tweet_count": "2,731 Tweets"
-  },
-  {
-    "name": "Liz Cheney",
-    "query": "\"Liz Cheney\"",
-    "rank": 19,
-    "tweet_count": null
+    "tweet_count": "2,775 Tweets"
   }
 ]
