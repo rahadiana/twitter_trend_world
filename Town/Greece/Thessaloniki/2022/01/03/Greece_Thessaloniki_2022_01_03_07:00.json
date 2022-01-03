@@ -1,39 +1,39 @@
 [
   {
-    "name": "#survivorGR",
-    "query": "#survivorGR",
-    "rank": 1,
-    "tweet_count": "10.5K Tweets"
-  },
-  {
     "name": "#happyday",
     "query": "#happyday",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "#Συνταγμα",
     "query": "#Συνταγμα",
-    "rank": 3,
-    "tweet_count": "7,129 Tweets"
+    "rank": 2,
+    "tweet_count": "7,220 Tweets"
   },
   {
     "name": "#freezaralikos",
     "query": "#freezaralikos",
-    "rank": 4,
-    "tweet_count": "13.9K Tweets"
+    "rank": 3,
+    "tweet_count": "14K Tweets"
   },
   {
     "name": "#j2us",
     "query": "#j2us",
-    "rank": 5,
-    "tweet_count": "2,518 Tweets"
+    "rank": 4,
+    "tweet_count": "2,529 Tweets"
   },
   {
     "name": "Μητροπολιτης Αιτωλιας",
     "query": "\"Μητροπολιτης Αιτωλιας\"",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "#komantakaidrakoi",
+    "query": "#komantakaidrakoi",
+    "rank": 6,
+    "tweet_count": "2,423 Tweets"
   },
   {
     "name": "Καλημερα Μαιρη",
@@ -54,10 +54,10 @@
     "tweet_count": null
   },
   {
-    "name": "Πακιστανοι",
-    "query": "Πακιστανοι",
+    "name": "πακιστανοι",
+    "query": "πακιστανοι",
     "rank": 10,
-    "tweet_count": "3,150 Tweets"
+    "tweet_count": "3,210 Tweets"
   },
   {
     "name": "αλιαγα",
@@ -81,7 +81,7 @@
     "name": "Καλη Χρονια",
     "query": "\"Καλη Χρονια\"",
     "rank": 14,
-    "tweet_count": "11.6K Tweets"
+    "tweet_count": "11.7K Tweets"
   },
   {
     "name": "στικουδη",
@@ -96,26 +96,26 @@
     "tweet_count": null
   },
   {
-    "name": "Καλημερα Θεοδωρα",
-    "query": "\"Καλημερα Θεοδωρα\"",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
     "name": "ασημινα",
     "query": "ασημινα",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "χαιδω",
     "query": "χαιδω",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "λαμπρος",
     "query": "λαμπρος",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Καλημερα Δημητρη",
+    "query": "\"Καλημερα Δημητρη\"",
     "rank": 20,
     "tweet_count": null
   }
