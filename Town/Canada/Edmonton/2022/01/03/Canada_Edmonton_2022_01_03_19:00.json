@@ -1,87 +1,87 @@
 [
   {
-    "name": "Ontario",
-    "query": "Ontario",
+    "name": "#MUNWOL",
+    "query": "#MUNWOL",
     "rank": 1,
-    "tweet_count": "94.6K Tweets"
-  },
-  {
-    "name": "Doug Ford",
-    "query": "\"Doug Ford\"",
-    "rank": 2,
-    "tweet_count": "21.8K Tweets"
-  },
-  {
-    "name": "#onpoli",
-    "query": "#onpoli",
-    "rank": 3,
-    "tweet_count": "43.4K Tweets"
+    "tweet_count": "70.2K Tweets"
   },
   {
     "name": "#MUNWOL",
     "query": "#MUNWOL",
+    "rank": 2,
+    "tweet_count": "70.2K Tweets"
+  },
+  {
+    "name": "Doug Ford",
+    "query": "\"Doug Ford\"",
+    "rank": 3,
+    "tweet_count": "22.2K Tweets"
+  },
+  {
+    "name": "#onpoli",
+    "query": "#onpoli",
     "rank": 4,
-    "tweet_count": "68.8K Tweets"
+    "tweet_count": "44.1K Tweets"
   },
   {
-    "name": "Ronaldo",
-    "query": "Ronaldo",
+    "name": "#onted",
+    "query": "#onted",
     "rank": 5,
-    "tweet_count": "105K Tweets"
+    "tweet_count": "21.8K Tweets"
   },
   {
-    "name": "Greenwood",
-    "query": "Greenwood",
+    "name": "Ralf",
+    "query": "Ralf",
     "rank": 6,
-    "tweet_count": "24.2K Tweets"
+    "tweet_count": "36K Tweets"
   },
   {
-    "name": "Cavani",
-    "query": "Cavani",
+    "name": "#ARMYSelcaDay",
+    "query": "#ARMYSelcaDay",
     "rank": 7,
-    "tweet_count": "19.3K Tweets"
+    "tweet_count": "249K Tweets"
   },
   {
     "name": "Ontarians",
     "query": "Ontarians",
     "rank": 8,
-    "tweet_count": "6,298 Tweets"
-  },
-  {
-    "name": "#ARMYSelcaDay",
-    "query": "#ARMYSelcaDay",
-    "rank": 9,
-    "tweet_count": "248K Tweets"
-  },
-  {
-    "name": "#defundcbc",
-    "query": "#defundcbc",
-    "rank": 10,
-    "tweet_count": null
+    "tweet_count": "6,383 Tweets"
   },
   {
     "name": "Ivanka",
     "query": "Ivanka",
-    "rank": 11,
-    "tweet_count": "105K Tweets"
+    "rank": 9,
+    "tweet_count": "110K Tweets"
   },
   {
     "name": "Speaking Freely",
     "query": "\"Speaking Freely\"",
-    "rank": 12,
-    "tweet_count": "3,095 Tweets"
+    "rank": 10,
+    "tweet_count": "3,232 Tweets"
   },
   {
     "name": "CERB",
     "query": "CERB",
-    "rank": 13,
-    "tweet_count": "1,553 Tweets"
+    "rank": 11,
+    "tweet_count": "1,668 Tweets"
+  },
+  {
+    "name": "Step 2",
+    "query": "\"Step 2\"",
+    "rank": 12,
+    "tweet_count": "21.2K Tweets"
   },
   {
     "name": "Stage 2",
     "query": "\"Stage 2\"",
+    "rank": 13,
+    "tweet_count": "15.1K Tweets"
+  },
+  {
+    "name": "Minister of Education",
+    "query": "\"Minister of Education\"",
     "rank": 14,
-    "tweet_count": "14.9K Tweets"
+    "tweet_count": "3,467 Tweets"
   },
   {
     "name": "Matt Anderson",
@@ -90,15 +90,21 @@
     "tweet_count": null
   },
   {
-    "name": "#Covid_19",
-    "query": "#Covid_19",
-    "rank": 16,
-    "tweet_count": "62.7K Tweets"
-  },
-  {
     "name": "Auston Matthews",
     "query": "\"Auston Matthews\"",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
+  },
+  {
+    "name": "The CBC",
+    "query": "\"The CBC\"",
+    "rank": 17,
+    "tweet_count": "10.5K Tweets"
+  },
+  {
+    "name": "Varane",
+    "query": "Varane",
+    "rank": 18,
+    "tweet_count": "19.5K Tweets"
   }
 ]
