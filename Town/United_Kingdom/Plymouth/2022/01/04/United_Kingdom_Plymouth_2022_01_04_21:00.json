@@ -1,122 +1,116 @@
 [
   {
-    "name": "Villa",
-    "query": "Villa",
+    "name": "Bolton",
+    "query": "Bolton",
     "rank": 1,
-    "tweet_count": "41.2K Tweets"
+    "tweet_count": "7,485 Tweets"
+  },
+  {
+    "name": "Not Tottenham",
+    "query": "\"Not Tottenham\"",
+    "rank": 2,
+    "tweet_count": "1,266 Tweets"
   },
   {
     "name": "The Apprentice",
     "query": "\"The Apprentice\"",
-    "rank": 2,
-    "tweet_count": "3,567 Tweets"
+    "rank": 3,
+    "tweet_count": "3,677 Tweets"
   },
   {
     "name": "Mane and Salah",
     "query": "\"Mane and Salah\"",
-    "rank": 3,
-    "tweet_count": "2,251 Tweets"
+    "rank": 4,
+    "tweet_count": "2,332 Tweets"
+  },
+  {
+    "name": "#TransferNews",
+    "query": "#TransferNews",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "Crewe",
+    "query": "Crewe",
+    "rank": 6,
+    "tweet_count": "1,460 Tweets"
   },
   {
     "name": "The PM",
     "query": "\"The PM\"",
-    "rank": 4,
-    "tweet_count": "199K Tweets"
-  },
-  {
-    "name": "Polish",
-    "query": "Polish",
-    "rank": 5,
-    "tweet_count": "24.6K Tweets"
-  },
-  {
-    "name": "Peppa Pig",
-    "query": "\"Peppa Pig\"",
-    "rank": 6,
-    "tweet_count": "1,438 Tweets"
-  },
-  {
-    "name": "Gunna",
-    "query": "Gunna",
     "rank": 7,
-    "tweet_count": "35.2K Tweets"
+    "tweet_count": "202K Tweets"
   },
   {
-    "name": "Sadiq Khan",
-    "query": "\"Sadiq Khan\"",
+    "name": "La Liga",
+    "query": "\"La Liga\"",
     "rank": 8,
-    "tweet_count": "4,494 Tweets"
+    "tweet_count": "38.5K Tweets"
+  },
+  {
+    "name": "Digne",
+    "query": "Digne",
+    "rank": 9,
+    "tweet_count": "15.9K Tweets"
   },
   {
     "name": "Elneny",
     "query": "Elneny",
-    "rank": 9,
-    "tweet_count": "1,457 Tweets"
+    "rank": 10,
+    "tweet_count": "1,480 Tweets"
+  },
+  {
+    "name": "Sadiq Khan",
+    "query": "\"Sadiq Khan\"",
+    "rank": 11,
+    "tweet_count": "4,621 Tweets"
+  },
+  {
+    "name": "Peppa Pig",
+    "query": "\"Peppa Pig\"",
+    "rank": 12,
+    "tweet_count": "1,467 Tweets"
   },
   {
     "name": "Steve Cook",
     "query": "\"Steve Cook\"",
-    "rank": 10,
-    "tweet_count": "1,228 Tweets"
+    "rank": 13,
+    "tweet_count": "1,234 Tweets"
+  },
+  {
+    "name": "#NoMoreLockdowns",
+    "query": "#NoMoreLockdowns",
+    "rank": 14,
+    "tweet_count": "16.1K Tweets"
   },
   {
     "name": "#FootwearInSongAndFilm",
     "query": "#FootwearInSongAndFilm",
-    "rank": 11,
-    "tweet_count": "3,764 Tweets"
-  },
-  {
-    "name": "Game Pass",
-    "query": "\"Game Pass\"",
-    "rank": 12,
-    "tweet_count": "16.8K Tweets"
-  },
-  {
-    "name": "Janey",
-    "query": "Janey",
-    "rank": 13,
-    "tweet_count": "1,919 Tweets"
-  },
-  {
-    "name": "#WorldBrailleDay",
-    "query": "#WorldBrailleDay",
-    "rank": 14,
-    "tweet_count": "9,793 Tweets"
-  },
-  {
-    "name": "#snow",
-    "query": "#snow",
     "rank": 15,
-    "tweet_count": "7,592 Tweets"
+    "tweet_count": "3,769 Tweets"
   },
   {
-    "name": "#24hoursinpolicecustody",
-    "query": "#24hoursinpolicecustody",
+    "name": "Serbian",
+    "query": "Serbian",
     "rank": 16,
-    "tweet_count": "2,081 Tweets"
+    "tweet_count": "5,195 Tweets"
   },
   {
-    "name": "#DiggingforBritain",
-    "query": "#DiggingforBritain",
+    "name": "Harry Worth",
+    "query": "\"Harry Worth\"",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Leyton Orient",
-    "query": "\"Leyton Orient\"",
+    "name": "Janey",
+    "query": "Janey",
     "rank": 18,
-    "tweet_count": "1,629 Tweets"
+    "tweet_count": "1,944 Tweets"
   },
   {
-    "name": "Trippier",
-    "query": "Trippier",
+    "name": "#snow",
+    "query": "#snow",
     "rank": 19,
-    "tweet_count": "15.6K Tweets"
-  },
-  {
-    "name": "Logan Paul",
-    "query": "\"Logan Paul\"",
-    "rank": 20,
-    "tweet_count": "1,878 Tweets"
+    "tweet_count": "7,690 Tweets"
   }
 ]
