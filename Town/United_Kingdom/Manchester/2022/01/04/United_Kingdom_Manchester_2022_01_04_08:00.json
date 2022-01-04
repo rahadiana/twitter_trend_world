@@ -1,122 +1,116 @@
 [
   {
+    "name": "Wright",
+    "query": "Wright",
+    "rank": 1,
+    "tweet_count": "48K Tweets"
+  },
+  {
+    "name": "Ronaldo",
+    "query": "Ronaldo",
+    "rank": 2,
+    "tweet_count": "157K Tweets"
+  },
+  {
     "name": "Phil Jones",
     "query": "\"Phil Jones\"",
-    "rank": 1,
-    "tweet_count": "90.7K Tweets"
-  },
-  {
-    "name": "Peter Wright",
-    "query": "\"Peter Wright\"",
-    "rank": 2,
-    "tweet_count": "20.2K Tweets"
-  },
-  {
-    "name": "Wolves",
-    "query": "Wolves",
     "rank": 3,
-    "tweet_count": "183K Tweets"
+    "tweet_count": "91K Tweets"
   },
   {
-    "name": "Rashford",
-    "query": "Rashford",
+    "name": "Harvey",
+    "query": "Harvey",
     "rank": 4,
-    "tweet_count": "28.9K Tweets"
-  },
-  {
-    "name": "Ralf",
-    "query": "Ralf",
-    "rank": 5,
-    "tweet_count": "56.3K Tweets"
+    "tweet_count": "32.7K Tweets"
   },
   {
     "name": "#backtowork",
     "query": "#backtowork",
+    "rank": 5,
+    "tweet_count": "3,471 Tweets"
+  },
+  {
+    "name": "Katie Price",
+    "query": "\"Katie Price\"",
     "rank": 6,
-    "tweet_count": "3,215 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#tuesdaymotivations",
     "query": "#tuesdaymotivations",
     "rank": 7,
-    "tweet_count": "20.1K Tweets"
+    "tweet_count": "21.2K Tweets"
   },
   {
     "name": "#njwk16",
     "query": "#njwk16",
     "rank": 8,
-    "tweet_count": "19.8K Tweets"
+    "tweet_count": "24.1K Tweets"
   },
   {
     "name": "Maggie Throup",
     "query": "\"Maggie Throup\"",
     "rank": 9,
-    "tweet_count": "1,203 Tweets"
-  },
-  {
-    "name": "#TinyVoiceTalks",
-    "query": "#TinyVoiceTalks",
-    "rank": 10,
-    "tweet_count": null
+    "tweet_count": "1,660 Tweets"
   },
   {
     "name": "#ScottishIndependence11",
     "query": "#ScottishIndependence11",
-    "rank": 11,
-    "tweet_count": "2,231 Tweets"
+    "rank": 10,
+    "tweet_count": "2,625 Tweets"
   },
   {
     "name": "Elizabeth Holmes",
     "query": "\"Elizabeth Holmes\"",
+    "rank": 11,
+    "tweet_count": "46.6K Tweets"
+  },
+  {
+    "name": "#TinyVoiceTalks",
+    "query": "#TinyVoiceTalks",
     "rank": 12,
-    "tweet_count": "45.8K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Khloe",
+    "query": "Khloe",
+    "rank": 13,
+    "tweet_count": "35.7K Tweets"
   },
   {
     "name": "Wordle 199 X",
     "query": "\"Wordle 199 X\"",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "Tristan Thompson",
-    "query": "\"Tristan Thompson\"",
-    "rank": 14,
-    "tweet_count": "29.9K Tweets"
-  },
-  {
-    "name": "INSET",
-    "query": "INSET",
+    "name": "Morning Paul",
+    "query": "\"Morning Paul\"",
     "rank": 15,
     "tweet_count": null
   },
   {
+    "name": "INSET",
+    "query": "INSET",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Morbius",
+    "query": "Morbius",
+    "rank": 17,
+    "tweet_count": "22.8K Tweets"
+  },
+  {
     "name": "Tommy Robinson",
     "query": "\"Tommy Robinson\"",
-    "rank": 16,
-    "tweet_count": "8,542 Tweets"
-  },
-  {
-    "name": "Brock",
-    "query": "Brock",
-    "rank": 17,
-    "tweet_count": "24.2K Tweets"
-  },
-  {
-    "name": "#EarlyBiz",
-    "query": "#EarlyBiz",
     "rank": 18,
-    "tweet_count": "2,318 Tweets"
+    "tweet_count": "8,702 Tweets"
   },
   {
-    "name": "#backtoschool",
-    "query": "#backtoschool",
+    "name": "#thicktrunktuesday",
+    "query": "#thicktrunktuesday",
     "rank": 19,
-    "tweet_count": "2,517 Tweets"
-  },
-  {
-    "name": "#teacher5oclockclub",
-    "query": "#teacher5oclockclub",
-    "rank": 20,
     "tweet_count": null
   }
 ]
