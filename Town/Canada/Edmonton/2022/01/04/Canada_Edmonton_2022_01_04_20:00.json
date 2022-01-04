@@ -1,98 +1,104 @@
 [
   {
+    "name": "#cuestrike",
+    "query": "#cuestrike",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "Beds",
     "query": "Beds",
-    "rank": 1,
-    "tweet_count": "29.5K Tweets"
+    "rank": 2,
+    "tweet_count": "30.1K Tweets"
   },
   {
     "name": "Elmo",
     "query": "Elmo",
-    "rank": 2,
-    "tweet_count": "46.7K Tweets"
+    "rank": 3,
+    "tweet_count": "47.8K Tweets"
   },
   {
     "name": "#RepealBill124",
     "query": "#RepealBill124",
-    "rank": 3,
-    "tweet_count": "2,819 Tweets"
-  },
-  {
-    "name": "SQDC",
-    "query": "SQDC",
     "rank": 4,
-    "tweet_count": "2,329 Tweets"
-  },
-  {
-    "name": "#cuestrike",
-    "query": "#cuestrike",
-    "rank": 5,
-    "tweet_count": null
+    "tweet_count": "2,859 Tweets"
   },
   {
     "name": "First Nations",
     "query": "\"First Nations\"",
+    "rank": 5,
+    "tweet_count": "3,743 Tweets"
+  },
+  {
+    "name": "SQDC",
+    "query": "SQDC",
     "rank": 6,
-    "tweet_count": "3,635 Tweets"
+    "tweet_count": "2,364 Tweets"
   },
   {
     "name": "Blackberry",
     "query": "Blackberry",
     "rank": 7,
-    "tweet_count": "31.4K Tweets"
+    "tweet_count": "31.9K Tweets"
   },
   {
     "name": "Ethan",
     "query": "Ethan",
     "rank": 8,
-    "tweet_count": "23.2K Tweets"
+    "tweet_count": "23.8K Tweets"
   },
   {
     "name": "#NationalTriviaDay",
     "query": "#NationalTriviaDay",
     "rank": 9,
-    "tweet_count": "4,963 Tweets"
+    "tweet_count": "5,061 Tweets"
   },
   {
     "name": "Insigne",
     "query": "Insigne",
     "rank": 10,
-    "tweet_count": "17.5K Tweets"
+    "tweet_count": "17.8K Tweets"
+  },
+  {
+    "name": "McDavid",
+    "query": "McDavid",
+    "rank": 11,
+    "tweet_count": "4,487 Tweets"
   },
   {
     "name": "#WorldBrailleDay",
     "query": "#WorldBrailleDay",
-    "rank": 11,
-    "tweet_count": "9,659 Tweets"
+    "rank": 12,
+    "tweet_count": "9,707 Tweets"
   },
   {
     "name": "#abpse",
     "query": "#abpse",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Sunwing",
     "query": "Sunwing",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Connor McDavid",
-    "query": "\"Connor McDavid\"",
     "rank": 14,
-    "tweet_count": "1,163 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Tristan Thompson",
     "query": "\"Tristan Thompson\"",
     "rank": 15,
-    "tweet_count": "77K Tweets"
+    "tweet_count": "77.9K Tweets"
   },
   {
     "name": "Wounded",
     "query": "Wounded",
     "rank": 16,
-    "tweet_count": "46.3K Tweets"
+    "tweet_count": "47.3K Tweets"
+  },
+  {
+    "name": "Cuba",
+    "query": "Cuba",
+    "rank": 17,
+    "tweet_count": "107K Tweets"
   }
 ]
