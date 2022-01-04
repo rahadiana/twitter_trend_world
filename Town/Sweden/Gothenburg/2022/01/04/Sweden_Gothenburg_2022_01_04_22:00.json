@@ -1,25 +1,25 @@
 [
   {
-    "name": "Rögle",
-    "query": "Rögle",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Wolves",
     "query": "Wolves",
-    "rank": 2,
-    "tweet_count": "66K Tweets"
+    "rank": 1,
+    "tweet_count": "66.6K Tweets"
   },
   {
     "name": "Nisse Ekman",
     "query": "\"Nisse Ekman\"",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Everberg",
     "query": "Everberg",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "rögle",
+    "query": "rögle",
     "rank": 4,
     "tweet_count": null
   },
@@ -30,8 +30,8 @@
     "tweet_count": null
   },
   {
-    "name": "birgitte bonnesen",
-    "query": "\"birgitte bonnesen\"",
+    "name": "Birgitte Bonnesen",
+    "query": "\"Birgitte Bonnesen\"",
     "rank": 6,
     "tweet_count": null
   },
@@ -45,7 +45,7 @@
     "name": "Skyttedal",
     "query": "Skyttedal",
     "rank": 8,
-    "tweet_count": "2,067 Tweets"
+    "tweet_count": "2,170 Tweets"
   },
   {
     "name": "#MUNWOL",
@@ -57,7 +57,7 @@
     "name": "Phil Jones",
     "query": "\"Phil Jones\"",
     "rank": 10,
-    "tweet_count": "15.8K Tweets"
+    "tweet_count": "16K Tweets"
   },
   {
     "name": "Region Stockholm",
@@ -78,33 +78,33 @@
     "tweet_count": null
   },
   {
-    "name": "Kazakhstan",
-    "query": "Kazakhstan",
-    "rank": 14,
-    "tweet_count": "20.6K Tweets"
-  },
-  {
     "name": "Cheesus Christ",
     "query": "\"Cheesus Christ\"",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Wounded",
     "query": "Wounded",
-    "rank": 16,
-    "tweet_count": "52.7K Tweets"
+    "rank": 15,
+    "tweet_count": "54.5K Tweets"
   },
   {
     "name": "Roma",
     "query": "Roma",
-    "rank": 17,
-    "tweet_count": "44.3K Tweets"
+    "rank": 16,
+    "tweet_count": "45K Tweets"
   },
   {
     "name": "Aziz",
     "query": "Aziz",
+    "rank": 17,
+    "tweet_count": "33.2K Tweets"
+  },
+  {
+    "name": "Volvo",
+    "query": "Volvo",
     "rank": 18,
-    "tweet_count": "32.8K Tweets"
+    "tweet_count": "3,052 Tweets"
   }
 ]
