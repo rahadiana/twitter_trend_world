@@ -1,9 +1,9 @@
 [
   {
-    "name": "Phil Jones",
-    "query": "\"Phil Jones\"",
+    "name": "#MUNWOL",
+    "query": "#MUNWOL",
     "rank": 1,
-    "tweet_count": "90.9K Tweets"
+    "tweet_count": "80.3K Tweets"
   },
   {
     "name": "Birgitte Bonnesen",
@@ -12,40 +12,40 @@
     "tweet_count": null
   },
   {
-    "name": "Wolves",
-    "query": "Wolves",
-    "rank": 3,
-    "tweet_count": "179K Tweets"
-  },
-  {
     "name": "Swedbanks",
     "query": "Swedbanks",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
-  },
-  {
-    "name": "#MUNWOL",
-    "query": "#MUNWOL",
-    "rank": 5,
-    "tweet_count": "80.2K Tweets"
   },
   {
     "name": "Edvardsen",
     "query": "Edvardsen",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "#tourdeski",
-    "query": "#tourdeski",
-    "rank": 7,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Ralf",
     "query": "Ralf",
+    "rank": 5,
+    "tweet_count": "59.4K Tweets"
+  },
+  {
+    "name": "Krya",
+    "query": "Krya",
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "#TourDeSki",
+    "query": "#TourDeSki",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "Vilken Mumin-figur",
+    "query": "\"Vilken Mumin-figur\"",
     "rank": 8,
-    "tweet_count": "59K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#ARSD",
@@ -57,66 +57,66 @@
     "name": "Aziz",
     "query": "Aziz",
     "rank": 10,
-    "tweet_count": "29.3K Tweets"
-  },
-  {
-    "name": "Ebba",
-    "query": "Ebba",
-    "rank": 11,
-    "tweet_count": null
+    "tweet_count": "29.8K Tweets"
   },
   {
     "name": "Snusmumriken",
     "query": "Snusmumriken",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "Vilken Mumin-figur",
-    "query": "\"Vilken Mumin-figur\"",
-    "rank": 13,
+    "name": "ebba andersson",
+    "query": "\"ebba andersson\"",
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "bo rothstein",
     "query": "\"bo rothstein\"",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Cheesus Christ",
+    "query": "\"Cheesus Christ\"",
     "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Volvo",
+    "query": "Volvo",
+    "rank": 15,
+    "tweet_count": "2,467 Tweets"
+  },
+  {
+    "name": "tovatt",
+    "query": "tovatt",
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "NATO",
     "query": "NATO",
-    "rank": 15,
-    "tweet_count": "39.8K Tweets"
-  },
-  {
-    "name": "Cheesus Christ",
-    "query": "\"Cheesus Christ\"",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "tovatt",
-    "query": "tovatt",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "40.6K Tweets"
   },
   {
     "name": "#ManUtd",
     "query": "#ManUtd",
     "rank": 18,
-    "tweet_count": "3,457 Tweets"
-  },
-  {
-    "name": "Volvo",
-    "query": "Volvo",
-    "rank": 19,
-    "tweet_count": "2,401 Tweets"
+    "tweet_count": "3,474 Tweets"
   },
   {
     "name": "Matic",
     "query": "Matic",
+    "rank": 19,
+    "tweet_count": "149K Tweets"
+  },
+  {
+    "name": "rosenbad",
+    "query": "rosenbad",
     "rank": 20,
-    "tweet_count": "146K Tweets"
+    "tweet_count": null
   }
 ]
