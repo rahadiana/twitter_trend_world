@@ -1,45 +1,45 @@
 [
   {
-    "name": "#zib1",
-    "query": "#zib1",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#WSMDS",
     "query": "#WSMDS",
-    "rank": 2,
-    "tweet_count": "1,376 Tweets"
+    "rank": 1,
+    "tweet_count": "1,745 Tweets"
   },
   {
     "name": "#Djokovic",
     "query": "#Djokovic",
-    "rank": 3,
-    "tweet_count": "23.1K Tweets"
+    "rank": 2,
+    "tweet_count": "23.9K Tweets"
   },
   {
     "name": "#DartsWM",
     "query": "#DartsWM",
+    "rank": 3,
+    "tweet_count": "5,194 Tweets"
+  },
+  {
+    "name": "#zib1",
+    "query": "#zib1",
     "rank": 4,
-    "tweet_count": "5,193 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Atomkraft",
     "query": "Atomkraft",
     "rank": 5,
-    "tweet_count": "8,560 Tweets"
-  },
-  {
-    "name": "Lockdown",
-    "query": "Lockdown",
-    "rank": 6,
-    "tweet_count": "152K Tweets"
+    "tweet_count": "8,638 Tweets"
   },
   {
     "name": "Schulen",
     "query": "Schulen",
+    "rank": 6,
+    "tweet_count": "12.8K Tweets"
+  },
+  {
+    "name": "Lockdown",
+    "query": "Lockdown",
     "rank": 7,
-    "tweet_count": "12.6K Tweets"
+    "tweet_count": "155K Tweets"
   },
   {
     "name": "#Vierschanzentournee",
@@ -51,19 +51,19 @@
     "name": "Neuinfektionen",
     "query": "Neuinfektionen",
     "rank": 9,
-    "tweet_count": "2,085 Tweets"
+    "tweet_count": "2,116 Tweets"
   },
   {
     "name": "Option",
     "query": "Option",
     "rank": 10,
-    "tweet_count": "106K Tweets"
+    "tweet_count": "108K Tweets"
   },
   {
     "name": "Gecko",
     "query": "Gecko",
     "rank": 11,
-    "tweet_count": "6,809 Tweets"
+    "tweet_count": "6,923 Tweets"
   },
   {
     "name": "Ansteckung",
@@ -81,13 +81,13 @@
     "name": "Wirtschaft",
     "query": "Wirtschaft",
     "rank": 14,
-    "tweet_count": "6,218 Tweets"
+    "tweet_count": "6,302 Tweets"
   },
   {
     "name": "Kohle",
     "query": "Kohle",
     "rank": 15,
-    "tweet_count": "1,468 Tweets"
+    "tweet_count": "1,487 Tweets"
   },
   {
     "name": "Kontrollen",
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
+    "name": "Australien",
+    "query": "Australien",
+    "rank": 17,
+    "tweet_count": "4,173 Tweets"
+  },
+  {
     "name": "Tourismus",
     "query": "Tourismus",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Schönen Abend",
+    "query": "\"Schönen Abend\"",
+    "rank": 19,
+    "tweet_count": "1,354 Tweets"
   },
   {
     "name": "Durchseuchung",
     "query": "Durchseuchung",
-    "rank": 18,
-    "tweet_count": "2,093 Tweets"
-  },
-  {
-    "name": "schönen tag",
-    "query": "\"schönen tag\"",
-    "rank": 19,
-    "tweet_count": "2,392 Tweets"
-  },
-  {
-    "name": "Klassen",
-    "query": "Klassen",
     "rank": 20,
-    "tweet_count": "1,843 Tweets"
+    "tweet_count": "2,119 Tweets"
   }
 ]
