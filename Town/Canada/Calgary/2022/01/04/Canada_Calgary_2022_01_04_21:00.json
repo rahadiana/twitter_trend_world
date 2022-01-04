@@ -1,116 +1,122 @@
 [
   {
-    "name": "#CUEStrike",
-    "query": "#CUEStrike",
+    "name": "#CUEstrike",
+    "query": "#CUEstrike",
     "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "#abpse",
+    "query": "#abpse",
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Beds",
     "query": "Beds",
-    "rank": 2,
-    "tweet_count": "29.5K Tweets"
+    "rank": 3,
+    "tweet_count": "30.1K Tweets"
   },
   {
     "name": "Elmo",
     "query": "Elmo",
-    "rank": 3,
-    "tweet_count": "49K Tweets"
-  },
-  {
-    "name": "#RepealBill124",
-    "query": "#RepealBill124",
     "rank": 4,
-    "tweet_count": "2,932 Tweets"
-  },
-  {
-    "name": "First Nations",
-    "query": "\"First Nations\"",
-    "rank": 5,
-    "tweet_count": "3,857 Tweets"
+    "tweet_count": "50.7K Tweets"
   },
   {
     "name": "Insigne",
     "query": "Insigne",
+    "rank": 5,
+    "tweet_count": "19.3K Tweets"
+  },
+  {
+    "name": "First Nations",
+    "query": "\"First Nations\"",
     "rank": 6,
-    "tweet_count": "18.8K Tweets"
+    "tweet_count": "3,997 Tweets"
   },
   {
-    "name": "SQDC",
-    "query": "SQDC",
+    "name": "#RepealBill124",
+    "query": "#RepealBill124",
     "rank": 7,
-    "tweet_count": "2,407 Tweets"
-  },
-  {
-    "name": "#NationalTriviaDay",
-    "query": "#NationalTriviaDay",
-    "rank": 8,
-    "tweet_count": "5,294 Tweets"
+    "tweet_count": "3,009 Tweets"
   },
   {
     "name": "Blackberry",
     "query": "Blackberry",
-    "rank": 9,
-    "tweet_count": "32K Tweets"
+    "rank": 8,
+    "tweet_count": "32.5K Tweets"
   },
   {
-    "name": "Sunwing",
-    "query": "Sunwing",
-    "rank": 10,
-    "tweet_count": null
+    "name": "#NationalTriviaDay",
+    "query": "#NationalTriviaDay",
+    "rank": 9,
+    "tweet_count": "5,438 Tweets"
   },
   {
     "name": "Ethan",
     "query": "Ethan",
+    "rank": 10,
+    "tweet_count": "24.7K Tweets"
+  },
+  {
+    "name": "SQDC",
+    "query": "SQDC",
     "rank": 11,
-    "tweet_count": "24K Tweets"
+    "tweet_count": "2,446 Tweets"
+  },
+  {
+    "name": "Sunwing",
+    "query": "Sunwing",
+    "rank": 12,
+    "tweet_count": null
   },
   {
     "name": "McDavid",
     "query": "McDavid",
-    "rank": 12,
-    "tweet_count": "4,535 Tweets"
+    "rank": 13,
+    "tweet_count": "4,606 Tweets"
   },
   {
     "name": "#WorldBrailleDay",
     "query": "#WorldBrailleDay",
-    "rank": 13,
-    "tweet_count": "9,743 Tweets"
-  },
-  {
-    "name": "#abpse",
-    "query": "#abpse",
     "rank": 14,
-    "tweet_count": null
+    "tweet_count": "9,793 Tweets"
   },
   {
     "name": "Wounded",
     "query": "Wounded",
     "rank": 15,
-    "tweet_count": "48.3K Tweets"
+    "tweet_count": "49.6K Tweets"
   },
   {
     "name": "Cuba",
     "query": "Cuba",
     "rank": 16,
-    "tweet_count": "104K Tweets"
+    "tweet_count": "106K Tweets"
   },
   {
     "name": "Tristan Thompson",
     "query": "\"Tristan Thompson\"",
     "rank": 17,
-    "tweet_count": "79.8K Tweets"
+    "tweet_count": "81.2K Tweets"
   },
   {
     "name": "Wordle",
     "query": "Wordle",
     "rank": 18,
-    "tweet_count": "43.4K Tweets"
+    "tweet_count": "43.9K Tweets"
   },
   {
     "name": "Price",
     "query": "Price",
     "rank": 19,
-    "tweet_count": "484K Tweets"
+    "tweet_count": "489K Tweets"
+  },
+  {
+    "name": "CEOs",
+    "query": "CEOs",
+    "rank": 20,
+    "tweet_count": "7,599 Tweets"
   }
 ]
