@@ -3,13 +3,13 @@
     "name": "Novak",
     "query": "Novak",
     "rank": 1,
-    "tweet_count": "106K Tweets"
+    "tweet_count": "126K Tweets"
   },
   {
     "name": "Macron",
     "query": "Macron",
     "rank": 2,
-    "tweet_count": "768K Tweets"
+    "tweet_count": "781K Tweets"
   },
   {
     "name": "Beileid",
@@ -21,19 +21,19 @@
     "name": "#Kasachstan",
     "query": "#Kasachstan",
     "rank": 4,
-    "tweet_count": "4,247 Tweets"
-  },
-  {
-    "name": "#AustralianOpen",
-    "query": "#AustralianOpen",
-    "rank": 5,
-    "tweet_count": "10.3K Tweets"
+    "tweet_count": "4,449 Tweets"
   },
   {
     "name": "Aargau",
     "query": "Aargau",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "#AusOpen",
+    "query": "#AusOpen",
+    "rank": 6,
+    "tweet_count": "19.8K Tweets"
   },
   {
     "name": "#srfclub",
@@ -48,75 +48,75 @@
     "tweet_count": null
   },
   {
-    "name": "Berset",
-    "query": "Berset",
+    "name": "IKEA",
+    "query": "IKEA",
     "rank": 9,
-    "tweet_count": "2,087 Tweets"
+    "tweet_count": "10.6K Tweets"
+  },
+  {
+    "name": "berset",
+    "query": "berset",
+    "rank": 10,
+    "tweet_count": "2,153 Tweets"
   },
   {
     "name": "#srfwilder",
     "query": "#srfwilder",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "IKEA",
-    "query": "IKEA",
     "rank": 11,
-    "tweet_count": "10.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Quarantäne",
     "query": "Quarantäne",
     "rank": 12,
-    "tweet_count": "6,299 Tweets"
-  },
-  {
-    "name": "#AusOpen",
-    "query": "#AusOpen",
-    "rank": 13,
-    "tweet_count": "17.8K Tweets"
+    "tweet_count": "6,546 Tweets"
   },
   {
     "name": "Melbourne",
     "query": "Melbourne",
-    "rank": 14,
-    "tweet_count": "31.3K Tweets"
-  },
-  {
-    "name": "Schulen",
-    "query": "Schulen",
-    "rank": 15,
-    "tweet_count": "15.7K Tweets"
+    "rank": 13,
+    "tweet_count": "33.9K Tweets"
   },
   {
     "name": "Isolation",
     "query": "Isolation",
-    "rank": 16,
-    "tweet_count": "71.1K Tweets"
+    "rank": 14,
+    "tweet_count": "72.3K Tweets"
+  },
+  {
+    "name": "#CES2022",
+    "query": "#CES2022",
+    "rank": 15,
+    "tweet_count": "72.8K Tweets"
   },
   {
     "name": "Kapazitäten",
     "query": "Kapazitäten",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Omikron",
     "query": "Omikron",
-    "rank": 18,
-    "tweet_count": "42.5K Tweets"
+    "rank": 17,
+    "tweet_count": "43.4K Tweets"
   },
   {
     "name": "Erwachsenen",
     "query": "Erwachsenen",
-    "rank": 19,
-    "tweet_count": null
+    "rank": 18,
+    "tweet_count": "1,003 Tweets"
   },
   {
     "name": "Sony",
     "query": "Sony",
+    "rank": 19,
+    "tweet_count": "66.5K Tweets"
+  },
+  {
+    "name": "medienvielfalt",
+    "query": "medienvielfalt",
     "rank": 20,
-    "tweet_count": "65.6K Tweets"
+    "tweet_count": null
   }
 ]
