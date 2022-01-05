@@ -1,103 +1,103 @@
 [
   {
-    "name": "#konferencja",
-    "query": "#konferencja",
+    "name": "Facebooka",
+    "query": "Facebooka",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "Facebooka",
-    "query": "Facebooka",
+    "name": "Konfederacji",
+    "query": "Konfederacji",
     "rank": 2,
+    "tweet_count": "2,043 Tweets"
+  },
+  {
+    "name": "#konferencja",
+    "query": "#konferencja",
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#skijumpinfamily",
     "query": "#skijumpinfamily",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Wolny",
     "query": "Wolny",
-    "rank": 4,
+    "rank": 5,
+    "tweet_count": "1,366 Tweets"
+  },
+  {
+    "name": "Albicla",
+    "query": "Albicla",
+    "rank": 6,
     "tweet_count": null
   },
   {
-    "name": "SUGA",
-    "query": "SUGA",
-    "rank": 5,
-    "tweet_count": "325K Tweets"
-  },
-  {
-    "name": "Konfederacji",
-    "query": "Konfederacji",
-    "rank": 6,
-    "tweet_count": "1,297 Tweets"
+    "name": "Andrzej Duda",
+    "query": "\"Andrzej Duda\"",
+    "rank": 7,
+    "tweet_count": "1,713 Tweets"
   },
   {
     "name": "Kazachstanie",
     "query": "Kazachstanie",
-    "rank": 7,
-    "tweet_count": "2,372 Tweets"
+    "rank": 8,
+    "tweet_count": "2,515 Tweets"
+  },
+  {
+    "name": "Wolność",
+    "query": "Wolność",
+    "rank": 9,
+    "tweet_count": "3,070 Tweets"
+  },
+  {
+    "name": "SUGA",
+    "query": "SUGA",
+    "rank": 10,
+    "tweet_count": "362K Tweets"
   },
   {
     "name": "Brighton",
     "query": "Brighton",
-    "rank": 8,
-    "tweet_count": "8,505 Tweets"
+    "rank": 11,
+    "tweet_count": "8,779 Tweets"
   },
   {
     "name": "Andre",
     "query": "Andre",
-    "rank": 9,
-    "tweet_count": "46.1K Tweets"
+    "rank": 12,
+    "tweet_count": "47.2K Tweets"
   },
   {
     "name": "Kacper Kozłowski",
     "query": "\"Kacper Kozłowski\"",
-    "rank": 10,
-    "tweet_count": "2,223 Tweets"
-  },
-  {
-    "name": "Pogoni",
-    "query": "Pogoni",
-    "rank": 11,
-    "tweet_count": null
+    "rank": 13,
+    "tweet_count": "2,325 Tweets"
   },
   {
     "name": "Moder",
     "query": "Moder",
-    "rank": 12,
+    "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "Prezydent Andrzej Duda",
-    "query": "\"Prezydent Andrzej Duda\"",
-    "rank": 13,
+    "name": "Pogoni",
+    "query": "Pogoni",
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "papszun",
     "query": "papszun",
-    "rank": 14,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Belgii",
     "query": "Belgii",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "#PolskiWał",
-    "query": "#PolskiWał",
-    "rank": 16,
-    "tweet_count": "2,747 Tweets"
-  },
-  {
-    "name": "#koronawirus",
-    "query": "#koronawirus",
     "rank": 17,
     "tweet_count": null
   }

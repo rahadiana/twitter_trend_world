@@ -1,45 +1,45 @@
 [
   {
-    "name": "Novus",
-    "query": "Novus",
-    "rank": 1,
-    "tweet_count": "2,312 Tweets"
-  },
-  {
     "name": "Kazakstan",
     "query": "Kazakstan",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "novus",
+    "query": "novus",
+    "rank": 2,
+    "tweet_count": "2,413 Tweets"
   },
   {
     "name": "Skyttedal",
     "query": "Skyttedal",
     "rank": 3,
-    "tweet_count": "3,114 Tweets"
-  },
-  {
-    "name": "kristersson",
-    "query": "kristersson",
-    "rank": 4,
-    "tweet_count": null
+    "tweet_count": "3,145 Tweets"
   },
   {
     "name": "Uffe",
     "query": "Uffe",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "Kristersson",
+    "query": "Kristersson",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "Macron",
-    "query": "Macron",
+    "name": "Liverpool",
+    "query": "Liverpool",
     "rank": 6,
-    "tweet_count": "575K Tweets"
+    "tweet_count": "93.7K Tweets"
   },
   {
-    "name": "Reinfeldt",
-    "query": "Reinfeldt",
+    "name": "Macron",
+    "query": "Macron",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "597K Tweets"
   },
   {
     "name": "Region Stockholm",
@@ -51,43 +51,43 @@
     "name": "Isobel",
     "query": "Isobel",
     "rank": 9,
-    "tweet_count": "1,232 Tweets"
-  },
-  {
-    "name": "Kungen",
-    "query": "Kungen",
-    "rank": 10,
-    "tweet_count": null
+    "tweet_count": "1,257 Tweets"
   },
   {
     "name": "Moderaterna",
     "query": "Moderaterna",
-    "rank": 11,
-    "tweet_count": "2,231 Tweets"
-  },
-  {
-    "name": "nisse ekman",
-    "query": "\"nisse ekman\"",
-    "rank": 12,
-    "tweet_count": null
+    "rank": 10,
+    "tweet_count": "2,452 Tweets"
   },
   {
     "name": "Kapitolium",
     "query": "Kapitolium",
-    "rank": 13,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Sonesson",
     "query": "Sonesson",
-    "rank": 14,
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "Reinfeldt",
+    "query": "Reinfeldt",
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Charlotte Kalla",
     "query": "\"Charlotte Kalla\"",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
+  },
+  {
+    "name": "Arsenal",
+    "query": "Arsenal",
+    "rank": 15,
+    "tweet_count": "109K Tweets"
   },
   {
     "name": "Swedbank",
@@ -99,7 +99,7 @@
     "name": "Aziz",
     "query": "Aziz",
     "rank": 17,
-    "tweet_count": "32.1K Tweets"
+    "tweet_count": "33.2K Tweets"
   },
   {
     "name": "#nejtillvaccinpass",
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "Maggan",
-    "query": "Maggan",
+    "name": "Brentford",
+    "query": "Brentford",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "3,782 Tweets"
   }
 ]
