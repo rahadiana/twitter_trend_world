@@ -12,16 +12,16 @@
     "tweet_count": null
   },
   {
-    "name": "Phil Jones",
-    "query": "\"Phil Jones\"",
-    "rank": 3,
-    "tweet_count": "9,425 Tweets"
-  },
-  {
     "name": "Norge",
     "query": "Norge",
+    "rank": 3,
+    "tweet_count": "2,354 Tweets"
+  },
+  {
+    "name": "Phil Jones",
+    "query": "\"Phil Jones\"",
     "rank": 4,
-    "tweet_count": "2,291 Tweets"
+    "tweet_count": "9,559 Tweets"
   },
   {
     "name": "storhamar",
@@ -30,8 +30,8 @@
     "tweet_count": null
   },
   {
-    "name": "Rødt",
-    "query": "Rødt",
+    "name": "Viken",
+    "query": "Viken",
     "rank": 6,
     "tweet_count": null
   },
@@ -48,58 +48,58 @@
     "tweet_count": null
   },
   {
+    "name": "#dagsrevyen",
+    "query": "#dagsrevyen",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
     "name": "Lens",
     "query": "Lens",
-    "rank": 9,
-    "tweet_count": "33.3K Tweets"
+    "rank": 10,
+    "tweet_count": "33.6K Tweets"
   },
   {
     "name": "Lille",
     "query": "Lille",
-    "rank": 10,
-    "tweet_count": "27K Tweets"
+    "rank": 11,
+    "tweet_count": "27.2K Tweets"
   },
   {
     "name": "Venstre",
     "query": "Venstre",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Kjerkol",
     "query": "Kjerkol",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "klassekampen",
     "query": "klassekampen",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
+  },
+  {
+    "name": "Moderna",
+    "query": "Moderna",
+    "rank": 15,
+    "tweet_count": "35.2K Tweets"
   },
   {
     "name": "Innsbruck",
     "query": "Innsbruck",
-    "rank": 14,
-    "tweet_count": "2,107 Tweets"
-  },
-  {
-    "name": "#dagsrevyen",
-    "query": "#dagsrevyen",
-    "rank": 15,
-    "tweet_count": null
+    "rank": 16,
+    "tweet_count": "2,126 Tweets"
   },
   {
     "name": "Siri",
     "query": "Siri",
-    "rank": 16,
-    "tweet_count": "22.4K Tweets"
-  },
-  {
-    "name": "Spider-Man",
-    "query": "Spider-Man",
     "rank": 17,
-    "tweet_count": "77.2K Tweets"
+    "tweet_count": "22.8K Tweets"
   },
   {
     "name": "#2hockey",
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "prim",
-    "query": "prim",
+    "name": "Omikron",
+    "query": "Omikron",
     "rank": 20,
-    "tweet_count": "8,178 Tweets"
+    "tweet_count": "42.5K Tweets"
   }
 ]
