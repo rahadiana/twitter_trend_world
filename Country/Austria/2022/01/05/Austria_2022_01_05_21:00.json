@@ -9,31 +9,31 @@
     "name": "Novak",
     "query": "Novak",
     "rank": 2,
-    "tweet_count": "126K Tweets"
+    "tweet_count": "135K Tweets"
   },
   {
     "name": "Wagner",
     "query": "Wagner",
     "rank": 3,
-    "tweet_count": "16.8K Tweets"
+    "tweet_count": "17K Tweets"
   },
   {
     "name": "#Omikron",
     "query": "#Omikron",
     "rank": 4,
-    "tweet_count": "13K Tweets"
+    "tweet_count": "13.1K Tweets"
   },
   {
     "name": "Flughafen",
     "query": "Flughafen",
     "rank": 5,
-    "tweet_count": "1,458 Tweets"
+    "tweet_count": "1,493 Tweets"
   },
   {
     "name": "Gecko",
     "query": "Gecko",
     "rank": 6,
-    "tweet_count": "5,498 Tweets"
+    "tweet_count": "5,531 Tweets"
   },
   {
     "name": "#COVID19at",
@@ -42,16 +42,16 @@
     "tweet_count": null
   },
   {
-    "name": "Schulen",
-    "query": "Schulen",
-    "rank": 8,
-    "tweet_count": "16.2K Tweets"
-  },
-  {
     "name": "#Kasachstan",
     "query": "#Kasachstan",
+    "rank": 8,
+    "tweet_count": "4,552 Tweets"
+  },
+  {
+    "name": "Schulen",
+    "query": "Schulen",
     "rank": 9,
-    "tweet_count": "4,449 Tweets"
+    "tweet_count": "16.3K Tweets"
   },
   {
     "name": "#Schimpfpflicht",
@@ -63,7 +63,7 @@
     "name": "Neuinfektionen",
     "query": "Neuinfektionen",
     "rank": 11,
-    "tweet_count": "3,797 Tweets"
+    "tweet_count": "3,841 Tweets"
   },
   {
     "name": "Gartlehner",
@@ -81,31 +81,31 @@
     "name": "Lockdown",
     "query": "Lockdown",
     "rank": 14,
-    "tweet_count": "176K Tweets"
+    "tweet_count": "177K Tweets"
+  },
+  {
+    "name": "Tennis",
+    "query": "Tennis",
+    "rank": 15,
+    "tweet_count": "81.4K Tweets"
   },
   {
     "name": "SUGA",
     "query": "SUGA",
-    "rank": 15,
-    "tweet_count": "520K Tweets"
+    "rank": 16,
+    "tweet_count": "522K Tweets"
   },
   {
-    "name": "Bildungsminister",
-    "query": "Bildungsminister",
-    "rank": 16,
+    "name": "bildungsminister",
+    "query": "bildungsminister",
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Macron",
     "query": "Macron",
-    "rank": 17,
-    "tweet_count": "781K Tweets"
-  },
-  {
-    "name": "Tennis",
-    "query": "Tennis",
     "rank": 18,
-    "tweet_count": "78.4K Tweets"
+    "tweet_count": "786K Tweets"
   },
   {
     "name": "Ansteckung",
@@ -117,6 +117,6 @@
     "name": "Expert",
     "query": "Expert",
     "rank": 20,
-    "tweet_count": "67.9K Tweets"
+    "tweet_count": "68.8K Tweets"
   }
 ]
