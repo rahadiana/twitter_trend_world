@@ -1,122 +1,116 @@
 [
   {
+    "name": "Liverpool",
+    "query": "Liverpool",
+    "rank": 1,
+    "tweet_count": "102K Tweets"
+  },
+  {
     "name": "Shrewsbury",
     "query": "Shrewsbury",
-    "rank": 1,
-    "tweet_count": "4,233 Tweets"
+    "rank": 2,
+    "tweet_count": "4,441 Tweets"
   },
   {
     "name": "Leyton Orient",
     "query": "\"Leyton Orient\"",
-    "rank": 2,
-    "tweet_count": "3,906 Tweets"
+    "rank": 3,
+    "tweet_count": "4,004 Tweets"
   },
   {
     "name": "#PMQs",
     "query": "#PMQs",
-    "rank": 3,
-    "tweet_count": "3,919 Tweets"
+    "rank": 4,
+    "tweet_count": "4,158 Tweets"
+  },
+  {
+    "name": "#CarabaoCup",
+    "query": "#CarabaoCup",
+    "rank": 5,
+    "tweet_count": "5,245 Tweets"
+  },
+  {
+    "name": "#ARSLIV",
+    "query": "#ARSLIV",
+    "rank": 6,
+    "tweet_count": "1,852 Tweets"
   },
   {
     "name": "Oh Pippa",
     "query": "\"Oh Pippa\"",
-    "rank": 4,
+    "rank": 7,
     "tweet_count": null
   },
   {
-    "name": "Jon Stewart",
-    "query": "\"Jon Stewart\"",
-    "rank": 5,
-    "tweet_count": "3,644 Tweets"
+    "name": "Anfield",
+    "query": "Anfield",
+    "rank": 8,
+    "tweet_count": "5,860 Tweets"
   },
   {
     "name": "SUVs",
     "query": "SUVs",
-    "rank": 6,
-    "tweet_count": "1,179 Tweets"
+    "rank": 9,
+    "tweet_count": "1,216 Tweets"
+  },
+  {
+    "name": "Poppy",
+    "query": "Poppy",
+    "rank": 10,
+    "tweet_count": "10.6K Tweets"
   },
   {
     "name": "SUGA",
     "query": "SUGA",
-    "rank": 7,
-    "tweet_count": "389K Tweets"
+    "rank": 11,
+    "tweet_count": "404K Tweets"
+  },
+  {
+    "name": "Jon Stewart",
+    "query": "\"Jon Stewart\"",
+    "rank": 12,
+    "tweet_count": "3,845 Tweets"
+  },
+  {
+    "name": "Coutinho",
+    "query": "Coutinho",
+    "rank": 13,
+    "tweet_count": "16.9K Tweets"
   },
   {
     "name": "Jed Wallace",
     "query": "\"Jed Wallace\"",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "Walmart",
-    "query": "Walmart",
-    "rank": 9,
-    "tweet_count": "38.2K Tweets"
-  },
-  {
-    "name": "#ScottishIndependence12",
-    "query": "#ScottishIndependence12",
-    "rank": 10,
-    "tweet_count": "5,273 Tweets"
-  },
-  {
-    "name": "#WednesdayMotivation",
-    "query": "#WednesdayMotivation",
-    "rank": 11,
-    "tweet_count": "21.6K Tweets"
-  },
-  {
-    "name": "Kazakhstan",
-    "query": "Kazakhstan",
-    "rank": 12,
-    "tweet_count": "83.7K Tweets"
-  },
-  {
-    "name": "Trevor Sinclair",
-    "query": "\"Trevor Sinclair\"",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Graeme Sharp",
-    "query": "\"Graeme Sharp\"",
     "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "Macron",
-    "query": "Macron",
+    "name": "AFCON",
+    "query": "AFCON",
     "rank": 15,
-    "tweet_count": "618K Tweets"
+    "tweet_count": "34.7K Tweets"
   },
   {
-    "name": "#NationalBirdDay",
-    "query": "#NationalBirdDay",
+    "name": "Trevor",
+    "query": "Trevor",
     "rank": 16,
-    "tweet_count": "2,328 Tweets"
+    "tweet_count": "14.9K Tweets"
   },
   {
-    "name": "The FA",
-    "query": "\"The FA\"",
+    "name": "Walmart",
+    "query": "Walmart",
     "rank": 17,
-    "tweet_count": "22.6K Tweets"
+    "tweet_count": "38.9K Tweets"
   },
   {
-    "name": "#winnerswednesday",
-    "query": "#winnerswednesday",
+    "name": "Goblins",
+    "query": "Goblins",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "6,006 Tweets"
   },
   {
-    "name": "PCRs",
-    "query": "PCRs",
+    "name": "Kazakhstan",
+    "query": "Kazakhstan",
     "rank": 19,
-    "tweet_count": "3,722 Tweets"
-  },
-  {
-    "name": "FA Cup",
-    "query": "\"FA Cup\"",
-    "rank": 20,
-    "tweet_count": "12K Tweets"
+    "tweet_count": "86.1K Tweets"
   }
 ]

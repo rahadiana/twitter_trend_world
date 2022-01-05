@@ -6,16 +6,16 @@
     "tweet_count": null
   },
   {
-    "name": "#impfschaden",
-    "query": "#impfschaden",
-    "rank": 2,
-    "tweet_count": "3,956 Tweets"
-  },
-  {
     "name": "#NichtmeinPraesident",
     "query": "#NichtmeinPraesident",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "#impfschaden",
+    "query": "#impfschaden",
+    "rank": 3,
+    "tweet_count": "4,061 Tweets"
   },
   {
     "name": "Schlauberger",
@@ -27,29 +27,29 @@
     "name": "#Kasachstan",
     "query": "#Kasachstan",
     "rank": 5,
-    "tweet_count": "2,041 Tweets"
+    "tweet_count": "2,112 Tweets"
   },
   {
     "name": "SUGA",
     "query": "SUGA",
     "rank": 6,
-    "tweet_count": "389K Tweets"
-  },
-  {
-    "name": "Steinmeier",
-    "query": "Steinmeier",
-    "rank": 7,
-    "tweet_count": "5,529 Tweets"
+    "tweet_count": "405K Tweets"
   },
   {
     "name": "Bundespräsident",
     "query": "Bundespräsident",
-    "rank": 8,
-    "tweet_count": "2,774 Tweets"
+    "rank": 7,
+    "tweet_count": "2,843 Tweets"
   },
   {
-    "name": "Kandidaten",
-    "query": "Kandidaten",
+    "name": "Doktortitel",
+    "query": "Doktortitel",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "Feiertag",
+    "query": "Feiertag",
     "rank": 9,
     "tweet_count": null
   },
@@ -60,8 +60,8 @@
     "tweet_count": null
   },
   {
-    "name": "Feiertag",
-    "query": "Feiertag",
+    "name": "Kandidaten",
+    "query": "Kandidaten",
     "rank": 11,
     "tweet_count": null
   },
@@ -75,7 +75,7 @@
     "name": "Bonus",
     "query": "Bonus",
     "rank": 13,
-    "tweet_count": "171K Tweets"
+    "tweet_count": "173K Tweets"
   },
   {
     "name": "Partnerschaft",
@@ -84,15 +84,15 @@
     "tweet_count": null
   },
   {
-    "name": "Kader",
-    "query": "Kader",
+    "name": "Gladbach",
+    "query": "Gladbach",
     "rank": 15,
-    "tweet_count": "12.6K Tweets"
+    "tweet_count": "1,306 Tweets"
   },
   {
-    "name": "Tempolimit",
-    "query": "Tempolimit",
+    "name": "Kader",
+    "query": "Kader",
     "rank": 16,
-    "tweet_count": null
+    "tweet_count": "12.7K Tweets"
   }
 ]

@@ -6,16 +6,16 @@
     "tweet_count": null
   },
   {
-    "name": "#impfschaden",
-    "query": "#impfschaden",
-    "rank": 2,
-    "tweet_count": "3,956 Tweets"
-  },
-  {
     "name": "#NichtmeinPraesident",
     "query": "#NichtmeinPraesident",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "#impfschaden",
+    "query": "#impfschaden",
+    "rank": 3,
+    "tweet_count": "4,061 Tweets"
   },
   {
     "name": "Schlauberger",
@@ -27,35 +27,35 @@
     "name": "#Kasachstan",
     "query": "#Kasachstan",
     "rank": 5,
-    "tweet_count": "2,041 Tweets"
-  },
-  {
-    "name": "SUGA",
-    "query": "SUGA",
-    "rank": 6,
-    "tweet_count": "389K Tweets"
+    "tweet_count": "2,112 Tweets"
   },
   {
     "name": "#FCBBMG",
     "query": "#FCBBMG",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
   },
   {
-    "name": "Steinmeier",
-    "query": "Steinmeier",
+    "name": "SUGA",
+    "query": "SUGA",
+    "rank": 7,
+    "tweet_count": "404K Tweets"
+  },
+  {
+    "name": "Doktortitel",
+    "query": "Doktortitel",
     "rank": 8,
-    "tweet_count": "5,529 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Bundespräsident",
     "query": "Bundespräsident",
     "rank": 9,
-    "tweet_count": "2,774 Tweets"
+    "tweet_count": "2,843 Tweets"
   },
   {
-    "name": "Kandidaten",
-    "query": "Kandidaten",
+    "name": "Feiertag",
+    "query": "Feiertag",
     "rank": 10,
     "tweet_count": null
   },
@@ -66,8 +66,8 @@
     "tweet_count": null
   },
   {
-    "name": "Feiertag",
-    "query": "Feiertag",
+    "name": "Kandidaten",
+    "query": "Kandidaten",
     "rank": 12,
     "tweet_count": null
   },
@@ -81,7 +81,7 @@
     "name": "Bonus",
     "query": "Bonus",
     "rank": 14,
-    "tweet_count": "171K Tweets"
+    "tweet_count": "173K Tweets"
   },
   {
     "name": "Partnerschaft",
@@ -90,26 +90,26 @@
     "tweet_count": null
   },
   {
+    "name": "Papst",
+    "query": "Papst",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Gladbach",
+    "query": "Gladbach",
+    "rank": 17,
+    "tweet_count": "1,306 Tweets"
+  },
+  {
     "name": "Kader",
     "query": "Kader",
-    "rank": 16,
-    "tweet_count": "12.6K Tweets"
+    "rank": 18,
+    "tweet_count": "12.7K Tweets"
   },
   {
     "name": "Tempolimit",
     "query": "Tempolimit",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Datenschutz",
-    "query": "Datenschutz",
-    "rank": 18,
-    "tweet_count": "1,401 Tweets"
-  },
-  {
-    "name": "Vereine",
-    "query": "Vereine",
     "rank": 19,
     "tweet_count": null
   }
