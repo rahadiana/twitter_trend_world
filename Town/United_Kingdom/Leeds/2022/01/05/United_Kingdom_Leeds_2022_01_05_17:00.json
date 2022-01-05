@@ -1,27 +1,27 @@
 [
   {
+    "name": "Bristol",
+    "query": "Bristol",
+    "rank": 1,
+    "tweet_count": "15K Tweets"
+  },
+  {
     "name": "#TheChase",
     "query": "#TheChase",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "Pope",
-    "query": "Pope",
-    "rank": 2,
-    "tweet_count": "15.5K Tweets"
+    "name": "Gerrard",
+    "query": "Gerrard",
+    "rank": 3,
+    "tweet_count": "7,802 Tweets"
   },
   {
     "name": "Mummy G.O",
     "query": "\"Mummy G.O\"",
-    "rank": 3,
-    "tweet_count": "16.2K Tweets"
-  },
-  {
-    "name": "#WednesdayWisdom",
-    "query": "#WednesdayWisdom",
     "rank": 4,
-    "tweet_count": "5,500 Tweets"
+    "tweet_count": "16.7K Tweets"
   },
   {
     "name": "#JohnsonTheCorruptPM",
@@ -30,87 +30,81 @@
     "tweet_count": null
   },
   {
+    "name": "#WednesdayWisdom",
+    "query": "#WednesdayWisdom",
+    "rank": 6,
+    "tweet_count": "5,586 Tweets"
+  },
+  {
     "name": "Prime Minister",
     "query": "\"Prime Minister\"",
-    "rank": 6,
-    "tweet_count": "218K Tweets"
-  },
-  {
-    "name": "Twelfth Night",
-    "query": "\"Twelfth Night\"",
     "rank": 7,
-    "tweet_count": "1,671 Tweets"
+    "tweet_count": "221K Tweets"
   },
   {
-    "name": "#NationalityAndBordersBill",
-    "query": "#NationalityAndBordersBill",
+    "name": "Moshiri",
+    "query": "Moshiri",
     "rank": 8,
-    "tweet_count": "5,149 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Scotty",
     "query": "Scotty",
     "rank": 9,
-    "tweet_count": "10.9K Tweets"
+    "tweet_count": "11K Tweets"
   },
   {
-    "name": "#WinnersWednesday",
-    "query": "#WinnersWednesday",
+    "name": "#NationalityAndBordersBill",
+    "query": "#NationalityAndBordersBill",
     "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Moshiri",
-    "query": "Moshiri",
-    "rank": 11,
-    "tweet_count": null
+    "tweet_count": "5,242 Tweets"
   },
   {
     "name": "SUGA",
     "query": "SUGA",
-    "rank": 12,
-    "tweet_count": "495K Tweets"
-  },
-  {
-    "name": "Judge",
-    "query": "Judge",
-    "rank": 13,
-    "tweet_count": "97.1K Tweets"
+    "rank": 11,
+    "tweet_count": "501K Tweets"
   },
   {
     "name": "Epiphany",
     "query": "Epiphany",
+    "rank": 12,
+    "tweet_count": "8,054 Tweets"
+  },
+  {
+    "name": "#WinnersWednesday",
+    "query": "#WinnersWednesday",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Judge",
+    "query": "Judge",
     "rank": 14,
-    "tweet_count": "7,897 Tweets"
+    "tweet_count": "98.1K Tweets"
+  },
+  {
+    "name": "Board",
+    "query": "Board",
+    "rank": 15,
+    "tweet_count": "141K Tweets"
   },
   {
     "name": "Australia",
     "query": "Australia",
-    "rank": 15,
-    "tweet_count": "165K Tweets"
+    "rank": 16,
+    "tweet_count": "167K Tweets"
   },
   {
     "name": "Coutinho",
     "query": "Coutinho",
-    "rank": 16,
-    "tweet_count": "29.5K Tweets"
-  },
-  {
-    "name": "Liverpool",
-    "query": "Liverpool",
     "rank": 17,
-    "tweet_count": "117K Tweets"
+    "tweet_count": "30.2K Tweets"
   },
   {
-    "name": "Liverpool",
-    "query": "Liverpool",
+    "name": "Edward Colston",
+    "query": "\"Edward Colston\"",
     "rank": 18,
-    "tweet_count": "117K Tweets"
-  },
-  {
-    "name": "Ubisoft",
-    "query": "Ubisoft",
-    "rank": 19,
-    "tweet_count": "9,304 Tweets"
+    "tweet_count": "6,723 Tweets"
   }
 ]
