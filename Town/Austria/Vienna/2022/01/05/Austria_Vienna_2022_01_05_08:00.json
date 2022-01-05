@@ -1,27 +1,27 @@
 [
   {
+    "name": "#zib2",
+    "query": "#zib2",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "#WSMDS",
     "query": "#WSMDS",
-    "rank": 1,
-    "tweet_count": "5,410 Tweets"
+    "rank": 2,
+    "tweet_count": "5,431 Tweets"
   },
   {
     "name": "#Djokovic",
     "query": "#Djokovic",
-    "rank": 2,
-    "tweet_count": "38.4K Tweets"
-  },
-  {
-    "name": "Peter",
-    "query": "Peter",
     "rank": 3,
-    "tweet_count": "193K Tweets"
+    "tweet_count": "39.2K Tweets"
   },
   {
     "name": "Schulen",
     "query": "Schulen",
     "rank": 4,
-    "tweet_count": "14.5K Tweets"
+    "tweet_count": "14.9K Tweets"
   },
   {
     "name": "Gartlehner",
@@ -33,17 +33,17 @@
     "name": "#Omikron",
     "query": "#Omikron",
     "rank": 6,
-    "tweet_count": "12.1K Tweets"
+    "tweet_count": "12.3K Tweets"
   },
   {
-    "name": "#Vierschanzentournee",
-    "query": "#Vierschanzentournee",
+    "name": "Franz",
+    "query": "Franz",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "13K Tweets"
   },
   {
-    "name": "Feiertag",
-    "query": "Feiertag",
+    "name": "#vierschanzentournee",
+    "query": "#vierschanzentournee",
     "rank": 8,
     "tweet_count": null
   },
@@ -51,49 +51,49 @@
     "name": "Lockdown",
     "query": "Lockdown",
     "rank": 9,
-    "tweet_count": "168K Tweets"
+    "tweet_count": "171K Tweets"
   },
   {
     "name": "Gecko",
     "query": "Gecko",
     "rank": 10,
-    "tweet_count": "7,845 Tweets"
+    "tweet_count": "8,011 Tweets"
+  },
+  {
+    "name": "Feiertag",
+    "query": "Feiertag",
+    "rank": 11,
+    "tweet_count": null
   },
   {
     "name": "Markt",
     "query": "Markt",
-    "rank": 11,
-    "tweet_count": "3,335 Tweets"
+    "rank": 12,
+    "tweet_count": "3,415 Tweets"
   },
   {
     "name": "Christine",
     "query": "Christine",
-    "rank": 12,
-    "tweet_count": "16.7K Tweets"
+    "rank": 13,
+    "tweet_count": "16.9K Tweets"
   },
   {
     "name": "Andreas",
     "query": "Andreas",
-    "rank": 13,
-    "tweet_count": "9,202 Tweets"
-  },
-  {
-    "name": "Atomkraft",
-    "query": "Atomkraft",
     "rank": 14,
-    "tweet_count": "6,769 Tweets"
+    "tweet_count": "9,335 Tweets"
   },
   {
     "name": "Petra",
     "query": "Petra",
     "rank": 15,
-    "tweet_count": "7,081 Tweets"
+    "tweet_count": "7,195 Tweets"
   },
   {
-    "name": "Franz",
-    "query": "Franz",
+    "name": "Entscheidungen",
+    "query": "Entscheidungen",
     "rank": 16,
-    "tweet_count": "12.8K Tweets"
+    "tweet_count": "1,927 Tweets"
   },
   {
     "name": "Kocher",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "#ARMYSelcaDay",
-    "query": "#ARMYSelcaDay",
+    "name": "PCR Tests",
+    "query": "\"PCR Tests\"",
     "rank": 18,
-    "tweet_count": "10.8K Tweets"
+    "tweet_count": "61.6K Tweets"
   },
   {
-    "name": "Mitmenschen",
-    "query": "Mitmenschen",
+    "name": "Infizierte",
+    "query": "Infizierte",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "1,946 Tweets"
   },
   {
-    "name": "Shenhe",
-    "query": "Shenhe",
+    "name": "Ansteckung",
+    "query": "Ansteckung",
     "rank": 20,
-    "tweet_count": "274K Tweets"
+    "tweet_count": null
   }
 ]

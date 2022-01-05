@@ -1,15 +1,15 @@
 [
   {
-    "name": "#MUNWOL",
-    "query": "#MUNWOL",
+    "name": "Novus",
+    "query": "Novus",
     "rank": 1,
-    "tweet_count": "5,473 Tweets"
+    "tweet_count": "2,220 Tweets"
   },
   {
-    "name": "edvardsen",
-    "query": "edvardsen",
+    "name": "Wolves",
+    "query": "Wolves",
     "rank": 2,
-    "tweet_count": null
+    "tweet_count": "46.7K Tweets"
   },
   {
     "name": "Kristersson",
@@ -18,16 +18,16 @@
     "tweet_count": null
   },
   {
-    "name": "Moderaterna",
-    "query": "Moderaterna",
+    "name": "edvardsen",
+    "query": "edvardsen",
     "rank": 4,
-    "tweet_count": "1,577 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Democrats",
     "query": "Democrats",
     "rank": 5,
-    "tweet_count": "141K Tweets"
+    "tweet_count": "142K Tweets"
   },
   {
     "name": "Godmorgon",
@@ -42,44 +42,44 @@
     "tweet_count": null
   },
   {
-    "name": "kungen",
-    "query": "kungen",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "Skyttedal",
     "query": "Skyttedal",
+    "rank": 8,
+    "tweet_count": "2,701 Tweets"
+  },
+  {
+    "name": "kungen",
+    "query": "kungen",
     "rank": 9,
-    "tweet_count": "2,665 Tweets"
-  },
-  {
-    "name": "nisse ekman",
-    "query": "\"nisse ekman\"",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Magdalena Andersson",
-    "query": "\"Magdalena Andersson\"",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Kazakstan",
-    "query": "Kazakstan",
-    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Reinfeldt",
     "query": "Reinfeldt",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "nisse ekman",
+    "query": "\"nisse ekman\"",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "Moderaterna",
+    "query": "Moderaterna",
+    "rank": 12,
+    "tweet_count": "1,667 Tweets"
+  },
+  {
+    "name": "Kazakstan",
+    "query": "Kazakstan",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "Swedbank",
-    "query": "Swedbank",
+    "name": "swedbank",
+    "query": "swedbank",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,7 +87,7 @@
     "name": "Aziz",
     "query": "Aziz",
     "rank": 15,
-    "tweet_count": "32.6K Tweets"
+    "tweet_count": "33.1K Tweets"
   },
   {
     "name": "Farmanbar",
@@ -99,18 +99,18 @@
     "name": "Wounded",
     "query": "Wounded",
     "rank": 17,
-    "tweet_count": "74K Tweets"
-  },
-  {
-    "name": "Birgitte Bonnesen",
-    "query": "\"Birgitte Bonnesen\"",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "74.8K Tweets"
   },
   {
     "name": "#championsgobeyond",
     "query": "#championsgobeyond",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Phil Jones",
+    "query": "\"Phil Jones\"",
+    "rank": 19,
+    "tweet_count": "10.7K Tweets"
   }
 ]

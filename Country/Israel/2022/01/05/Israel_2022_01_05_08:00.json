@@ -1,21 +1,21 @@
 [
   {
-    "name": "עמית סגל",
-    "query": "\"עמית סגל\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "עידן רול",
     "query": "\"עידן רול\"",
+    "rank": 1,
+    "tweet_count": "3,573 Tweets"
+  },
+  {
+    "name": "עמית סגל",
+    "query": "\"עמית סגל\"",
     "rank": 2,
-    "tweet_count": "3,558 Tweets"
+    "tweet_count": "3,381 Tweets"
   },
   {
     "name": "בוקר טוב",
     "query": "\"בוקר טוב\"",
     "rank": 3,
-    "tweet_count": null
+    "tweet_count": "1,009 Tweets"
   },
   {
     "name": "#חוסמים_את_עמית",
@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "haifa",
-    "query": "haifa",
-    "rank": 5,
-    "tweet_count": "3,305 Tweets"
-  },
-  {
     "name": "רם בן ברק",
     "query": "\"רם בן ברק\"",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "Haifa",
+    "query": "Haifa",
+    "rank": 6,
+    "tweet_count": "3,351 Tweets"
   },
   {
     "name": "עוד צער",
@@ -42,8 +42,8 @@
     "tweet_count": null
   },
   {
-    "name": "מירב מיכאלי",
-    "query": "\"מירב מיכאלי\"",
+    "name": "בוקר אור",
+    "query": "\"בוקר אור\"",
     "rank": 8,
     "tweet_count": null
   },
@@ -51,17 +51,17 @@
     "name": "מזל טוב",
     "query": "\"מזל טוב\"",
     "rank": 9,
-    "tweet_count": "1,050 Tweets"
+    "tweet_count": "1,056 Tweets"
   },
   {
-    "name": "מיקי לוי",
-    "query": "\"מיקי לוי\"",
+    "name": "מירב מיכאלי",
+    "query": "\"מירב מיכאלי\"",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "לילה טוב",
-    "query": "\"לילה טוב\"",
+    "name": "מיקי לוי",
+    "query": "\"מיקי לוי\"",
     "rank": 11,
     "tweet_count": null
   },
@@ -72,50 +72,50 @@
     "tweet_count": null
   },
   {
-    "name": "בוקר אור",
-    "query": "\"בוקר אור\"",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
     "name": "#عيد_ميلاد_عزيز_مامي",
     "query": "#عيد_ميلاد_عزيز_مامي",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": "11.1K Tweets"
+  },
+  {
+    "name": "סגן שר",
+    "query": "\"סגן שר\"",
+    "rank": 14,
+    "tweet_count": null
   },
   {
     "name": "Free Palestine",
     "query": "\"Free Palestine\"",
     "rank": 15,
-    "tweet_count": "2,305 Tweets"
+    "tweet_count": "2,338 Tweets"
   },
   {
-    "name": "כי הם",
-    "query": "\"כי הם\"",
+    "name": "לילה טוב",
+    "query": "\"לילה טוב\"",
     "rank": 16,
-    "tweet_count": "1,384 Tweets"
-  },
-  {
-    "name": "עומר אדם",
-    "query": "\"עומר אדם\"",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "סגן שר",
-    "query": "\"סגן שר\"",
-    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "#هشام_ابو_هواش",
     "query": "#هشام_ابو_هواش",
-    "rank": 19,
+    "rank": 17,
     "tweet_count": "12.6K Tweets"
   },
   {
-    "name": "יאיר לפיד",
-    "query": "\"יאיר לפיד\"",
+    "name": "עומר אדם",
+    "query": "\"עומר אדם\"",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "ברוך דיין",
+    "query": "\"ברוך דיין\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "כך יפה",
+    "query": "\"כך יפה\"",
     "rank": 20,
     "tweet_count": null
   }
