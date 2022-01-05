@@ -1,9 +1,9 @@
 [
   {
-    "name": "Wolves",
-    "query": "Wolves",
+    "name": "#munwol",
+    "query": "#munwol",
     "rank": 1,
-    "tweet_count": "52.4K Tweets"
+    "tweet_count": "7,403 Tweets"
   },
   {
     "name": "edvardsen",
@@ -12,20 +12,20 @@
     "tweet_count": null
   },
   {
-    "name": "#munwol",
-    "query": "#munwol",
+    "name": "phil jones",
+    "query": "\"phil jones\"",
     "rank": 3,
-    "tweet_count": "7,346 Tweets"
-  },
-  {
-    "name": "Phil Jones",
-    "query": "\"Phil Jones\"",
-    "rank": 4,
-    "tweet_count": "12.1K Tweets"
+    "tweet_count": "12.2K Tweets"
   },
   {
     "name": "region stockholm",
     "query": "\"region stockholm\"",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "Godmorgon",
+    "query": "Godmorgon",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,7 +33,7 @@
     "name": "Skyttedal",
     "query": "Skyttedal",
     "rank": 6,
-    "tweet_count": "2,443 Tweets"
+    "tweet_count": "2,457 Tweets"
   },
   {
     "name": "kungen",
@@ -48,16 +48,16 @@
     "tweet_count": null
   },
   {
-    "name": "swedbank",
-    "query": "swedbank",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
     "name": "Roma",
     "query": "Roma",
+    "rank": 9,
+    "tweet_count": "45.8K Tweets"
+  },
+  {
+    "name": "Swedbank",
+    "query": "Swedbank",
     "rank": 10,
-    "tweet_count": "45.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Everberg",
@@ -69,19 +69,19 @@
     "name": "Aziz",
     "query": "Aziz",
     "rank": 12,
-    "tweet_count": "32.9K Tweets"
+    "tweet_count": "33.2K Tweets"
   },
   {
     "name": "Volvo",
     "query": "Volvo",
     "rank": 13,
-    "tweet_count": "3,130 Tweets"
+    "tweet_count": "3,169 Tweets"
   },
   {
     "name": "Wounded",
     "query": "Wounded",
     "rank": 14,
-    "tweet_count": "70.7K Tweets"
+    "tweet_count": "71.5K Tweets"
   },
   {
     "name": "Birgitte Bonnesen",
@@ -105,6 +105,6 @@
     "name": "Kazakhstan",
     "query": "Kazakhstan",
     "rank": 18,
-    "tweet_count": "35.2K Tweets"
+    "tweet_count": "35.9K Tweets"
   }
 ]

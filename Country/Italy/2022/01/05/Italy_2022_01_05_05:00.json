@@ -1,15 +1,15 @@
 [
   {
-    "name": "#Djokovic",
-    "query": "#Djokovic",
+    "name": "Novak",
+    "query": "Novak",
     "rank": 1,
-    "tweet_count": "34.7K Tweets"
+    "tweet_count": "75.7K Tweets"
   },
   {
     "name": "#backtoschool",
     "query": "#backtoschool",
     "rank": 2,
-    "tweet_count": "26.7K Tweets"
+    "tweet_count": "26.8K Tweets"
   },
   {
     "name": "#Sissi",
@@ -18,105 +18,105 @@
     "tweet_count": "13.6K Tweets"
   },
   {
-    "name": "geronimo Stilton",
-    "query": "\"geronimo Stilton\"",
-    "rank": 4,
-    "tweet_count": "9,639 Tweets"
-  },
-  {
     "name": "#4gennaio",
     "query": "#4gennaio",
+    "rank": 4,
+    "tweet_count": "9,605 Tweets"
+  },
+  {
+    "name": "Geronimo Stilton",
+    "query": "\"Geronimo Stilton\"",
     "rank": 5,
-    "tweet_count": "9,598 Tweets"
+    "tweet_count": "9,647 Tweets"
   },
   {
     "name": "#AustralianOpen",
     "query": "#AustralianOpen",
     "rank": 6,
-    "tweet_count": "10.7K Tweets"
+    "tweet_count": "10.8K Tweets"
+  },
+  {
+    "name": "#AusOpen",
+    "query": "#AusOpen",
+    "rank": 7,
+    "tweet_count": "21.2K Tweets"
   },
   {
     "name": "Nole",
     "query": "Nole",
-    "rank": 7,
-    "tweet_count": "9,501 Tweets"
+    "rank": 8,
+    "tweet_count": "9,555 Tweets"
   },
   {
     "name": "Franz",
     "query": "Franz",
-    "rank": 8,
-    "tweet_count": "12.5K Tweets"
+    "rank": 9,
+    "tweet_count": "12.7K Tweets"
   },
   {
     "name": "giulia salemi",
     "query": "\"giulia salemi\"",
-    "rank": 9,
-    "tweet_count": "6,761 Tweets"
+    "rank": 10,
+    "tweet_count": "6,766 Tweets"
   },
   {
     "name": "clementino",
     "query": "clementino",
-    "rank": 10,
-    "tweet_count": "1,972 Tweets"
+    "rank": 11,
+    "tweet_count": "1,973 Tweets"
   },
   {
     "name": "Nikolai",
     "query": "Nikolai",
-    "rank": 11,
-    "tweet_count": "9,896 Tweets"
-  },
-  {
-    "name": "Kolo Muani",
-    "query": "\"Kolo Muani\"",
     "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "landini",
-    "query": "landini",
-    "rank": 13,
-    "tweet_count": "2,309 Tweets"
-  },
-  {
-    "name": "Toronto",
-    "query": "Toronto",
-    "rank": 14,
-    "tweet_count": "40.2K Tweets"
+    "tweet_count": "9,934 Tweets"
   },
   {
     "name": "xiao",
     "query": "xiao",
-    "rank": 15,
-    "tweet_count": "201K Tweets"
+    "rank": 13,
+    "tweet_count": "206K Tweets"
   },
   {
     "name": "Lulù",
     "query": "Lulù",
-    "rank": 16,
-    "tweet_count": "48.9K Tweets"
+    "rank": 14,
+    "tweet_count": "49.2K Tweets"
+  },
+  {
+    "name": "Toronto",
+    "query": "Toronto",
+    "rank": 15,
+    "tweet_count": "40.5K Tweets"
   },
   {
     "name": "Giorgi",
     "query": "Giorgi",
-    "rank": 17,
-    "tweet_count": "1,553 Tweets"
+    "rank": 16,
+    "tweet_count": "1,556 Tweets"
   },
   {
     "name": "Gianni",
     "query": "Gianni",
-    "rank": 18,
-    "tweet_count": "9,206 Tweets"
+    "rank": 17,
+    "tweet_count": "9,230 Tweets"
   },
   {
     "name": "Karen",
     "query": "Karen",
-    "rank": 19,
-    "tweet_count": "59.2K Tweets"
+    "rank": 18,
+    "tweet_count": "60K Tweets"
   },
   {
     "name": "dedalo",
     "query": "dedalo",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": "1,516 Tweets"
+  },
+  {
+    "name": "Orvieto",
+    "query": "Orvieto",
+    "rank": 20,
+    "tweet_count": null
   }
 ]
