@@ -1,15 +1,15 @@
 [
   {
-    "name": "Novak",
-    "query": "Novak",
+    "name": "#Djokovic",
+    "query": "#Djokovic",
     "rank": 1,
-    "tweet_count": "149K Tweets"
+    "tweet_count": "46.2K Tweets"
   },
   {
     "name": "Macron",
     "query": "Macron",
     "rank": 2,
-    "tweet_count": "742K Tweets"
+    "tweet_count": "752K Tweets"
   },
   {
     "name": "Beileid",
@@ -21,13 +21,13 @@
     "name": "#Kasachstan",
     "query": "#Kasachstan",
     "rank": 4,
-    "tweet_count": "4,645 Tweets"
+    "tweet_count": "4,809 Tweets"
   },
   {
     "name": "#AusOpen",
     "query": "#AusOpen",
     "rank": 5,
-    "tweet_count": "20.6K Tweets"
+    "tweet_count": "21.5K Tweets"
   },
   {
     "name": "Aargau",
@@ -36,34 +36,34 @@
     "tweet_count": null
   },
   {
-    "name": "#srfclub",
-    "query": "#srfclub",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
     "name": "IKEA",
     "query": "IKEA",
-    "rank": 8,
-    "tweet_count": "10.5K Tweets"
+    "rank": 7,
+    "tweet_count": "10.6K Tweets"
   },
   {
     "name": "Berset",
     "query": "Berset",
-    "rank": 9,
-    "tweet_count": "2,203 Tweets"
+    "rank": 8,
+    "tweet_count": "2,244 Tweets"
   },
   {
     "name": "Quarantäne",
     "query": "Quarantäne",
-    "rank": 10,
-    "tweet_count": "6,626 Tweets"
+    "rank": 9,
+    "tweet_count": "6,813 Tweets"
   },
   {
     "name": "Isolation",
     "query": "Isolation",
+    "rank": 10,
+    "tweet_count": "71.4K Tweets"
+  },
+  {
+    "name": "Omikron",
+    "query": "Omikron",
     "rank": 11,
-    "tweet_count": "70.5K Tweets"
+    "tweet_count": "43.9K Tweets"
   },
   {
     "name": "Kapazitäten",
@@ -72,32 +72,32 @@
     "tweet_count": null
   },
   {
-    "name": "Omikron",
-    "query": "Omikron",
-    "rank": 13,
-    "tweet_count": "43.1K Tweets"
-  },
-  {
-    "name": "Erwachsenen",
-    "query": "Erwachsenen",
-    "rank": 14,
-    "tweet_count": "1,062 Tweets"
-  },
-  {
     "name": "Federer",
     "query": "Federer",
-    "rank": 15,
-    "tweet_count": "8,709 Tweets"
+    "rank": 13,
+    "tweet_count": "9,573 Tweets"
   },
   {
     "name": "Sony",
     "query": "Sony",
-    "rank": 16,
-    "tweet_count": "66.6K Tweets"
+    "rank": 14,
+    "tweet_count": "67.6K Tweets"
   },
   {
     "name": "medienvielfalt",
     "query": "medienvielfalt",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Kontakte",
+    "query": "Kontakte",
+    "rank": 16,
+    "tweet_count": "1,469 Tweets"
+  },
+  {
+    "name": "positivitätsrate",
+    "query": "positivitätsrate",
     "rank": 17,
     "tweet_count": null
   }
