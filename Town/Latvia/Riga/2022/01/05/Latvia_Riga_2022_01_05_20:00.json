@@ -1,21 +1,21 @@
 [
   {
-    "name": "Kazahstānā",
-    "query": "Kazahstānā",
-    "rank": 1,
-    "tweet_count": "2,686 Tweets"
-  },
-  {
     "name": "#KasNotiekLatvijā",
     "query": "#KasNotiekLatvijā",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Kazahstānā",
+    "query": "Kazahstānā",
+    "rank": 2,
+    "tweet_count": "2,726 Tweets"
   },
   {
     "name": "Казахстане",
     "query": "Казахстане",
     "rank": 3,
-    "tweet_count": "69.9K Tweets"
+    "tweet_count": "70.8K Tweets"
   },
   {
     "name": "Ukrainai",
@@ -51,65 +51,65 @@
     "name": "Ķīna",
     "query": "Ķīna",
     "rank": 9,
-    "tweet_count": "9,799 Tweets"
+    "tweet_count": "9,869 Tweets"
+  },
+  {
+    "name": "Šodien",
+    "query": "Šodien",
+    "rank": 10,
+    "tweet_count": null
   },
   {
     "name": "Krieviju",
     "query": "Krieviju",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "veiksme",
     "query": "veiksme",
-    "rank": 11,
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "#ltvsupernova",
+    "query": "#ltvsupernova",
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Lukašenko",
     "query": "Lukašenko",
-    "rank": 12,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "IKEA",
     "query": "IKEA",
-    "rank": 13,
-    "tweet_count": "10.6K Tweets"
+    "rank": 15,
+    "tweet_count": "10.7K Tweets"
   },
   {
-    "name": "#ltvsupernova",
-    "query": "#ltvsupernova",
-    "rank": 14,
-    "tweet_count": null
+    "name": "Putins",
+    "query": "Putins",
+    "rank": 16,
+    "tweet_count": "2,882 Tweets"
   },
   {
     "name": "xiao",
     "query": "xiao",
-    "rank": 15,
-    "tweet_count": "227K Tweets"
-  },
-  {
-    "name": "Šodien",
-    "query": "Šodien",
-    "rank": 16,
-    "tweet_count": null
+    "rank": 17,
+    "tweet_count": "228K Tweets"
   },
   {
     "name": "šobrīd",
     "query": "šobrīd",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "igaunijā",
     "query": "igaunijā",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "baltijas",
-    "query": "baltijas",
     "rank": 19,
     "tweet_count": null
   }

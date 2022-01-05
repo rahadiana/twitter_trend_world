@@ -3,13 +3,13 @@
     "name": "Novak",
     "query": "Novak",
     "rank": 1,
-    "tweet_count": "102K Tweets"
+    "tweet_count": "104K Tweets"
   },
   {
     "name": "Macron",
     "query": "Macron",
     "rank": 2,
-    "tweet_count": "807K Tweets"
+    "tweet_count": "813K Tweets"
   },
   {
     "name": "Beileid",
@@ -21,13 +21,13 @@
     "name": "#Kasachstan",
     "query": "#Kasachstan",
     "rank": 4,
-    "tweet_count": "3,946 Tweets"
+    "tweet_count": "4,063 Tweets"
   },
   {
     "name": "#AustralianOpen",
     "query": "#AustralianOpen",
     "rank": 5,
-    "tweet_count": "10.2K Tweets"
+    "tweet_count": "10.4K Tweets"
   },
   {
     "name": "#srfclub",
@@ -36,8 +36,8 @@
     "tweet_count": null
   },
   {
-    "name": "Aargau",
-    "query": "Aargau",
+    "name": "aargau",
+    "query": "aargau",
     "rank": 7,
     "tweet_count": null
   },
@@ -45,7 +45,7 @@
     "name": "Quarantäne",
     "query": "Quarantäne",
     "rank": 8,
-    "tweet_count": "6,209 Tweets"
+    "tweet_count": "6,301 Tweets"
   },
   {
     "name": "Mediengesetz",
@@ -54,16 +54,16 @@
     "tweet_count": null
   },
   {
-    "name": "Schulen",
-    "query": "Schulen",
-    "rank": 10,
-    "tweet_count": "15.8K Tweets"
-  },
-  {
     "name": "Herr Berset",
     "query": "\"Herr Berset\"",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
+  },
+  {
+    "name": "Schulen",
+    "query": "Schulen",
+    "rank": 11,
+    "tweet_count": "15.9K Tweets"
   },
   {
     "name": "Kapazitäten",
@@ -75,7 +75,7 @@
     "name": "Melbourne",
     "query": "Melbourne",
     "rank": 13,
-    "tweet_count": "29.9K Tweets"
+    "tweet_count": "30.5K Tweets"
   },
   {
     "name": "Erwachsenen",
@@ -87,7 +87,7 @@
     "name": "Sony",
     "query": "Sony",
     "rank": 15,
-    "tweet_count": "65.7K Tweets"
+    "tweet_count": "66.1K Tweets"
   },
   {
     "name": "medienvielfalt",
@@ -99,6 +99,6 @@
     "name": "Federer",
     "query": "Federer",
     "rank": 17,
-    "tweet_count": "7,540 Tweets"
+    "tweet_count": "7,695 Tweets"
   }
 ]
