@@ -1,9 +1,9 @@
 [
   {
-    "name": "#MUNWOL",
-    "query": "#MUNWOL",
+    "name": "#munwol",
+    "query": "#munwol",
     "rank": 1,
-    "tweet_count": "8,446 Tweets"
+    "tweet_count": "8,464 Tweets"
   },
   {
     "name": "edvardsen",
@@ -15,7 +15,7 @@
     "name": "skyttedal",
     "query": "skyttedal",
     "rank": 3,
-    "tweet_count": "2,397 Tweets"
+    "tweet_count": "2,410 Tweets"
   },
   {
     "name": "region stockholm",
@@ -24,8 +24,8 @@
     "tweet_count": null
   },
   {
-    "name": "kungen",
-    "query": "kungen",
+    "name": "Kungen",
+    "query": "Kungen",
     "rank": 5,
     "tweet_count": null
   },
@@ -42,69 +42,75 @@
     "tweet_count": null
   },
   {
-    "name": "Roma",
-    "query": "Roma",
+    "name": "Aziz",
+    "query": "Aziz",
     "rank": 8,
-    "tweet_count": "45K Tweets"
+    "tweet_count": "33K Tweets"
   },
   {
-    "name": "Everberg",
-    "query": "Everberg",
+    "name": "everberg",
+    "query": "everberg",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Aziz",
-    "query": "Aziz",
+    "name": "Roma",
+    "query": "Roma",
     "rank": 10,
-    "tweet_count": "32.8K Tweets"
-  },
-  {
-    "name": "volvo",
-    "query": "volvo",
-    "rank": 11,
-    "tweet_count": "3,068 Tweets"
-  },
-  {
-    "name": "Wounded",
-    "query": "Wounded",
-    "rank": 12,
-    "tweet_count": "67.6K Tweets"
-  },
-  {
-    "name": "Birgitte Bonnesen",
-    "query": "\"Birgitte Bonnesen\"",
-    "rank": 13,
-    "tweet_count": null
+    "tweet_count": "45.4K Tweets"
   },
   {
     "name": "Frölunda",
     "query": "Frölunda",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "Birgitte Bonnesen",
+    "query": "\"Birgitte Bonnesen\"",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "Wounded",
+    "query": "Wounded",
+    "rank": 13,
+    "tweet_count": "68.7K Tweets"
+  },
+  {
+    "name": "stockholms",
+    "query": "stockholms",
     "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "#championsgobeyond",
-    "query": "#championsgobeyond",
+    "name": "#ChampionsGoBeyond",
+    "query": "#ChampionsGoBeyond",
     "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Stockholms",
-    "query": "Stockholms",
-    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Kazakhstan",
     "query": "Kazakhstan",
-    "rank": 17,
-    "tweet_count": "32.4K Tweets"
+    "rank": 16,
+    "tweet_count": "33.1K Tweets"
   },
   {
-    "name": "#tourdeski",
-    "query": "#tourdeski",
+    "name": "ebba andersson",
+    "query": "\"ebba andersson\"",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Kreab",
+    "query": "Kreab",
     "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "roger rönnberg",
+    "query": "\"roger rönnberg\"",
+    "rank": 19,
     "tweet_count": null
   }
 ]
