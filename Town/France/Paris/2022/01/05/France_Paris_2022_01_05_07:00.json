@@ -1,39 +1,39 @@
 [
   {
-    "name": "#DirectAN",
-    "query": "#DirectAN",
-    "rank": 1,
-    "tweet_count": "62.1K Tweets"
-  },
-  {
     "name": "#PassVaccinal",
     "query": "#PassVaccinal",
-    "rank": 2,
-    "tweet_count": "57.3K Tweets"
-  },
-  {
-    "name": "Trump",
-    "query": "Trump",
-    "rank": 3,
-    "tweet_count": "633K Tweets"
+    "rank": 1,
+    "tweet_count": "57.9K Tweets"
   },
   {
     "name": "Lens",
     "query": "Lens",
-    "rank": 4,
-    "tweet_count": "32.7K Tweets"
+    "rank": 2,
+    "tweet_count": "32.9K Tweets"
   },
   {
     "name": "Macron",
     "query": "Macron",
-    "rank": 5,
-    "tweet_count": "367K Tweets"
+    "rank": 3,
+    "tweet_count": "375K Tweets"
   },
   {
     "name": "Président",
     "query": "Président",
+    "rank": 4,
+    "tweet_count": "582K Tweets"
+  },
+  {
+    "name": "#nonvaccinés",
+    "query": "#nonvaccinés",
+    "rank": 5,
+    "tweet_count": "10.7K Tweets"
+  },
+  {
+    "name": "#memecredi",
+    "query": "#memecredi",
     "rank": 6,
-    "tweet_count": "575K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#antivaxx",
@@ -42,69 +42,69 @@
     "tweet_count": null
   },
   {
-    "name": "#nonvaccinés",
-    "query": "#nonvaccinés",
-    "rank": 8,
-    "tweet_count": "10.2K Tweets"
-  },
-  {
     "name": "Pompidou",
     "query": "Pompidou",
-    "rank": 9,
-    "tweet_count": "2,499 Tweets"
-  },
-  {
-    "name": "xiao",
-    "query": "xiao",
-    "rank": 10,
-    "tweet_count": "214K Tweets"
+    "rank": 8,
+    "tweet_count": "2,608 Tweets"
   },
   {
     "name": "Parisien",
     "query": "Parisien",
+    "rank": 9,
+    "tweet_count": "60.5K Tweets"
+  },
+  {
+    "name": "Cdiscount",
+    "query": "Cdiscount",
+    "rank": 10,
+    "tweet_count": "1,510 Tweets"
+  },
+  {
+    "name": "xiao",
+    "query": "xiao",
     "rank": 11,
-    "tweet_count": "59.6K Tweets"
+    "tweet_count": "216K Tweets"
   },
   {
     "name": "#JeanMichelTrogneux2022",
     "query": "#JeanMichelTrogneux2022",
     "rank": 12,
-    "tweet_count": "7,935 Tweets"
+    "tweet_count": "8,253 Tweets"
+  },
+  {
+    "name": "Trump",
+    "query": "Trump",
+    "rank": 13,
+    "tweet_count": "635K Tweets"
   },
   {
     "name": "Jupiter",
     "query": "Jupiter",
-    "rank": 13,
-    "tweet_count": "19.6K Tweets"
+    "rank": 14,
+    "tweet_count": "19.7K Tweets"
   },
   {
     "name": "Molina",
     "query": "Molina",
-    "rank": 14,
-    "tweet_count": "16K Tweets"
+    "rank": 15,
+    "tweet_count": "16.1K Tweets"
   },
   {
     "name": "Fofana",
     "query": "Fofana",
-    "rank": 15,
-    "tweet_count": "15.6K Tweets"
-  },
-  {
-    "name": "Louis XVI",
-    "query": "\"Louis XVI\"",
     "rank": 16,
-    "tweet_count": "3,191 Tweets"
-  },
-  {
-    "name": "#AssembleeNatioanle",
-    "query": "#AssembleeNatioanle",
-    "rank": 17,
-    "tweet_count": "7,753 Tweets"
+    "tweet_count": "15.7K Tweets"
   },
   {
     "name": "#CES2022",
     "query": "#CES2022",
+    "rank": 17,
+    "tweet_count": "45.2K Tweets"
+  },
+  {
+    "name": "#AssembleeNatioanle",
+    "query": "#AssembleeNatioanle",
     "rank": 18,
-    "tweet_count": "44.8K Tweets"
+    "tweet_count": "7,906 Tweets"
   }
 ]
