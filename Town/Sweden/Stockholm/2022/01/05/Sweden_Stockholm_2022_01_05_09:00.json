@@ -1,15 +1,15 @@
 [
   {
-    "name": "Moderaterna",
-    "query": "Moderaterna",
-    "rank": 1,
-    "tweet_count": "1,814 Tweets"
-  },
-  {
     "name": "Novus",
     "query": "Novus",
+    "rank": 1,
+    "tweet_count": "2,310 Tweets"
+  },
+  {
+    "name": "Moderaterna",
+    "query": "Moderaterna",
     "rank": 2,
-    "tweet_count": "2,275 Tweets"
+    "tweet_count": "1,875 Tweets"
   },
   {
     "name": "Kristersson",
@@ -24,28 +24,28 @@
     "tweet_count": null
   },
   {
+    "name": "Calle Halfvarsson",
+    "query": "\"Calle Halfvarsson\"",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
     "name": "Reinfeldt",
     "query": "Reinfeldt",
-    "rank": 5,
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "edvardsen",
     "query": "edvardsen",
-    "rank": 6,
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Skyttedal",
     "query": "Skyttedal",
-    "rank": 7,
-    "tweet_count": "2,782 Tweets"
-  },
-  {
-    "name": "Region Stockholm",
-    "query": "\"Region Stockholm\"",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "2,804 Tweets"
   },
   {
     "name": "Kazakstan",
@@ -60,8 +60,8 @@
     "tweet_count": null
   },
   {
-    "name": "Åkesson",
-    "query": "Åkesson",
+    "name": "Region Stockholm",
+    "query": "\"Region Stockholm\"",
     "rank": 11,
     "tweet_count": null
   },
@@ -72,10 +72,10 @@
     "tweet_count": null
   },
   {
-    "name": "#svpol",
-    "query": "#svpol",
+    "name": "Risken",
+    "query": "Risken",
     "rank": 13,
-    "tweet_count": "2,830 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Swedbank",
@@ -93,29 +93,29 @@
     "name": "Aziz",
     "query": "Aziz",
     "rank": 16,
-    "tweet_count": "33.3K Tweets"
-  },
-  {
-    "name": "Farmanbar",
-    "query": "Farmanbar",
-    "rank": 17,
-    "tweet_count": null
+    "tweet_count": "33.7K Tweets"
   },
   {
     "name": "Bulletin",
     "query": "Bulletin",
-    "rank": 18,
-    "tweet_count": "8,201 Tweets"
+    "rank": 17,
+    "tweet_count": "8,321 Tweets"
   },
   {
     "name": "Wounded",
     "query": "Wounded",
-    "rank": 19,
-    "tweet_count": "75.6K Tweets"
+    "rank": 18,
+    "tweet_count": "76K Tweets"
   },
   {
     "name": "Kvinnor",
     "query": "Kvinnor",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "#championsgobeyond",
+    "query": "#championsgobeyond",
     "rank": 20,
     "tweet_count": null
   }
