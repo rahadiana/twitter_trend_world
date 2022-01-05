@@ -12,40 +12,40 @@
     "tweet_count": null
   },
   {
-    "name": "יום שחור",
-    "query": "\"יום שחור\"",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
     "name": "ראש ממשלה",
     "query": "\"ראש ממשלה\"",
-    "rank": 4,
-    "tweet_count": "1,703 Tweets"
+    "rank": 3,
+    "tweet_count": "1,756 Tweets"
   },
   {
     "name": "עמית סגל",
     "query": "\"עמית סגל\"",
-    "rank": 5,
-    "tweet_count": "3,696 Tweets"
+    "rank": 4,
+    "tweet_count": "3,714 Tweets"
   },
   {
     "name": "עידן רול",
     "query": "\"עידן רול\"",
+    "rank": 5,
+    "tweet_count": "2,990 Tweets"
+  },
+  {
+    "name": "יום שחור",
+    "query": "\"יום שחור\"",
     "rank": 6,
-    "tweet_count": "3,005 Tweets"
+    "tweet_count": null
   },
   {
     "name": "נפתלי בנט",
     "query": "\"נפתלי בנט\"",
     "rank": 7,
-    "tweet_count": "1,527 Tweets"
+    "tweet_count": "1,570 Tweets"
   },
   {
     "name": "#Kazakhstan",
     "query": "#Kazakhstan",
     "rank": 8,
-    "tweet_count": "22.7K Tweets"
+    "tweet_count": "23.8K Tweets"
   },
   {
     "name": "#חוסמים_את_עמית",
@@ -66,20 +66,20 @@
     "tweet_count": null
   },
   {
-    "name": "בן כספית",
-    "query": "\"בן כספית\"",
+    "name": "וב טוב",
+    "query": "\"וב טוב\"",
     "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "וב טוב",
-    "query": "\"וב טוב\"",
+    "name": "סגן שר",
+    "query": "\"סגן שר\"",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "לילה טוב",
-    "query": "\"לילה טוב\"",
+    "name": "בן כספית",
+    "query": "\"בן כספית\"",
     "rank": 14,
     "tweet_count": null
   },
@@ -93,30 +93,30 @@
     "name": "#عيد_ميلاد_عزيز_مامي",
     "query": "#عيد_ميلاد_عزيز_مامي",
     "rank": 16,
-    "tweet_count": "10.8K Tweets"
-  },
-  {
-    "name": "סגן שר",
-    "query": "\"סגן שר\"",
-    "rank": 17,
-    "tweet_count": null
+    "tweet_count": "10.7K Tweets"
   },
   {
     "name": "Free Palestine",
     "query": "\"Free Palestine\"",
-    "rank": 18,
-    "tweet_count": "2,332 Tweets"
+    "rank": 17,
+    "tweet_count": "2,352 Tweets"
   },
   {
-    "name": "Haifa",
-    "query": "Haifa",
-    "rank": 19,
-    "tweet_count": "3,021 Tweets"
+    "name": "לילה טוב",
+    "query": "\"לילה טוב\"",
+    "rank": 18,
+    "tweet_count": null
   },
   {
     "name": "#هشام_ابو_هواش",
     "query": "#هشام_ابو_هواش",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": "12.8K Tweets"
+  },
+  {
+    "name": "תודה בנט",
+    "query": "\"תודה בנט\"",
+    "rank": 20,
+    "tweet_count": null
   }
 ]

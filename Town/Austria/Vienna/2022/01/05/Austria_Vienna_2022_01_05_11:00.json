@@ -1,69 +1,69 @@
 [
   {
-    "name": "#Djokovic",
-    "query": "#Djokovic",
+    "name": "#zib2",
+    "query": "#zib2",
     "rank": 1,
-    "tweet_count": "42.3K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Gartlehner",
-    "query": "Gartlehner",
+    "name": "#Djokovic",
+    "query": "#Djokovic",
     "rank": 2,
-    "tweet_count": null
+    "tweet_count": "42.7K Tweets"
   },
   {
     "name": "Schulen",
     "query": "Schulen",
     "rank": 3,
-    "tweet_count": "16K Tweets"
+    "tweet_count": "16.1K Tweets"
+  },
+  {
+    "name": "Gartlehner",
+    "query": "Gartlehner",
+    "rank": 4,
+    "tweet_count": null
   },
   {
     "name": "#Omikron",
     "query": "#Omikron",
-    "rank": 4,
-    "tweet_count": "12.1K Tweets"
-  },
-  {
-    "name": "#Schimpfpflicht",
-    "query": "#Schimpfpflicht",
     "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "#WSMDS",
-    "query": "#WSMDS",
-    "rank": 6,
-    "tweet_count": "5,537 Tweets"
+    "tweet_count": "12.2K Tweets"
   },
   {
     "name": "GECKO",
     "query": "GECKO",
+    "rank": 6,
+    "tweet_count": "7,599 Tweets"
+  },
+  {
+    "name": "#WSMDS",
+    "query": "#WSMDS",
     "rank": 7,
-    "tweet_count": "7,543 Tweets"
+    "tweet_count": "5,539 Tweets"
+  },
+  {
+    "name": "#Schimpfpflicht",
+    "query": "#Schimpfpflicht",
+    "rank": 8,
+    "tweet_count": null
   },
   {
     "name": "Lockdown",
     "query": "Lockdown",
-    "rank": 8,
-    "tweet_count": "182K Tweets"
-  },
-  {
-    "name": "#Doskozil",
-    "query": "#Doskozil",
     "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Australien",
-    "query": "Australien",
-    "rank": 10,
-    "tweet_count": "5,436 Tweets"
+    "tweet_count": "184K Tweets"
   },
   {
     "name": "Die Pandemie ist zu Ende",
     "query": "\"Die Pandemie ist zu Ende\"",
+    "rank": 10,
+    "tweet_count": "4,131 Tweets"
+  },
+  {
+    "name": "Shenhe",
+    "query": "Shenhe",
     "rank": 11,
-    "tweet_count": "4,068 Tweets"
+    "tweet_count": "263K Tweets"
   },
   {
     "name": "Mitmenschen",
@@ -72,51 +72,51 @@
     "tweet_count": null
   },
   {
-    "name": "Shenhe",
-    "query": "Shenhe",
-    "rank": 13,
-    "tweet_count": "261K Tweets"
-  },
-  {
     "name": "Wirtschaft",
     "query": "Wirtschaft",
-    "rank": 14,
-    "tweet_count": "6,134 Tweets"
-  },
-  {
-    "name": "Heizung",
-    "query": "Heizung",
-    "rank": 15,
-    "tweet_count": null
+    "rank": 13,
+    "tweet_count": "6,210 Tweets"
   },
   {
     "name": "Varianten",
     "query": "Varianten",
+    "rank": 14,
+    "tweet_count": "2,381 Tweets"
+  },
+  {
+    "name": "Schönen Tag",
+    "query": "\"Schönen Tag\"",
+    "rank": 15,
+    "tweet_count": "2,400 Tweets"
+  },
+  {
+    "name": "Heizung",
+    "query": "Heizung",
     "rank": 16,
-    "tweet_count": "2,346 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Australien",
+    "query": "Australien",
+    "rank": 17,
+    "tweet_count": "5,513 Tweets"
+  },
+  {
+    "name": "Ansteckung",
+    "query": "Ansteckung",
+    "rank": 18,
+    "tweet_count": null
   },
   {
     "name": "Organe",
     "query": "Organe",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Luftfilter",
-    "query": "Luftfilter",
-    "rank": 18,
-    "tweet_count": "4,282 Tweets"
-  },
-  {
-    "name": "Mutationen",
-    "query": "Mutationen",
     "rank": 19,
-    "tweet_count": "1,200 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Neuinfektionen",
     "query": "Neuinfektionen",
     "rank": 20,
-    "tweet_count": "3,314 Tweets"
+    "tweet_count": "3,364 Tweets"
   }
 ]
