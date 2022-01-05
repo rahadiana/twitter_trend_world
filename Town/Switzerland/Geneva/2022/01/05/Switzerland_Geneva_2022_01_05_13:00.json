@@ -3,13 +3,13 @@
     "name": "Novak",
     "query": "Novak",
     "rank": 1,
-    "tweet_count": "80.5K Tweets"
+    "tweet_count": "81.6K Tweets"
   },
   {
-    "name": "Macron",
-    "query": "Macron",
+    "name": "#Macron",
+    "query": "#Macron",
     "rank": 2,
-    "tweet_count": "597K Tweets"
+    "tweet_count": "153K Tweets"
   },
   {
     "name": "#SwissCovidFail",
@@ -24,87 +24,87 @@
     "tweet_count": null
   },
   {
-    "name": "Quarantäne",
-    "query": "Quarantäne",
+    "name": "#mediengesetzNEIN",
+    "query": "#mediengesetzNEIN",
     "rank": 5,
-    "tweet_count": "4,841 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#MediengesetzNein",
-    "query": "#MediengesetzNein",
+    "name": "Quarantäne",
+    "query": "Quarantäne",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "4,937 Tweets"
+  },
+  {
+    "name": "Fälle",
+    "query": "Fälle",
+    "rank": 7,
+    "tweet_count": "5,306 Tweets"
   },
   {
     "name": "Wirtschaft",
     "query": "Wirtschaft",
-    "rank": 7,
-    "tweet_count": "6,260 Tweets"
+    "rank": 8,
+    "tweet_count": "6,341 Tweets"
   },
   {
     "name": "Koch",
     "query": "Koch",
-    "rank": 8,
-    "tweet_count": "8,817 Tweets"
-  },
-  {
-    "name": "#AusOpen",
-    "query": "#AusOpen",
     "rank": 9,
-    "tweet_count": "20.1K Tweets"
+    "tweet_count": "8,909 Tweets"
   },
   {
     "name": "WEEEU WEEEU",
     "query": "\"WEEEU WEEEU\"",
     "rank": 10,
-    "tweet_count": "32.5K Tweets"
-  },
-  {
-    "name": "Nebelspalter",
-    "query": "Nebelspalter",
-    "rank": 11,
-    "tweet_count": null
+    "tweet_count": "32.7K Tweets"
   },
   {
     "name": "Subventionen",
     "query": "Subventionen",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "Nebelspalter",
+    "query": "Nebelspalter",
     "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "Umfrage",
-    "query": "Umfrage",
-    "rank": 13,
-    "tweet_count": "2,025 Tweets"
-  },
-  {
     "name": "Lockdown",
     "query": "Lockdown",
-    "rank": 14,
-    "tweet_count": "184K Tweets"
+    "rank": 13,
+    "tweet_count": "186K Tweets"
   },
   {
     "name": "Sony",
     "query": "Sony",
+    "rank": 14,
+    "tweet_count": "56.1K Tweets"
+  },
+  {
+    "name": "Umfrage",
+    "query": "Umfrage",
     "rank": 15,
-    "tweet_count": "55.4K Tweets"
-  },
-  {
-    "name": "Kazakhstan",
-    "query": "Kazakhstan",
-    "rank": 16,
-    "tweet_count": "77.7K Tweets"
-  },
-  {
-    "name": "Fälle",
-    "query": "Fälle",
-    "rank": 17,
-    "tweet_count": "5,222 Tweets"
+    "tweet_count": "2,051 Tweets"
   },
   {
     "name": "WhatsApp",
     "query": "WhatsApp",
+    "rank": 16,
+    "tweet_count": "211K Tweets"
+  },
+  {
+    "name": "Président",
+    "query": "Président",
+    "rank": 17,
+    "tweet_count": "708K Tweets"
+  },
+  {
+    "name": "Erwachsenen",
+    "query": "Erwachsenen",
     "rank": 18,
-    "tweet_count": "209K Tweets"
+    "tweet_count": "1,042 Tweets"
   }
 ]
