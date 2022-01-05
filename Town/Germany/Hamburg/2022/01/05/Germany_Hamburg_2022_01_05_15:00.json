@@ -1,13 +1,13 @@
 [
   {
-    "name": "Lieber Opa Karl",
-    "query": "\"Lieber Opa Karl\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#NichtmeinPraesident",
     "query": "#NichtmeinPraesident",
+    "rank": 1,
+    "tweet_count": "1,123 Tweets"
+  },
+  {
+    "name": "Lieber Opa Karl",
+    "query": "\"Lieber Opa Karl\"",
     "rank": 2,
     "tweet_count": null
   },
@@ -24,93 +24,87 @@
     "tweet_count": null
   },
   {
-    "name": "Davies",
-    "query": "Davies",
-    "rank": 5,
-    "tweet_count": "6,576 Tweets"
-  },
-  {
-    "name": "#impfschaden",
-    "query": "#impfschaden",
-    "rank": 6,
-    "tweet_count": "4,475 Tweets"
-  },
-  {
     "name": "#Kasachstan",
     "query": "#Kasachstan",
+    "rank": 5,
+    "tweet_count": "2,434 Tweets"
+  },
+  {
+    "name": "Davies",
+    "query": "Davies",
+    "rank": 6,
+    "tweet_count": "6,857 Tweets"
+  },
+  {
+    "name": "Gurke",
+    "query": "Gurke",
     "rank": 7,
-    "tweet_count": "2,313 Tweets"
-  },
-  {
-    "name": "SUGA",
-    "query": "SUGA",
-    "rank": 8,
-    "tweet_count": "425K Tweets"
-  },
-  {
-    "name": "Gladbach",
-    "query": "Gladbach",
-    "rank": 9,
-    "tweet_count": "1,486 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Paare",
     "query": "Paare",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "SUGA",
+    "query": "SUGA",
+    "rank": 9,
+    "tweet_count": "448K Tweets"
+  },
+  {
+    "name": "Juli Zeh",
+    "query": "\"Juli Zeh\"",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Kader",
-    "query": "Kader",
-    "rank": 11,
-    "tweet_count": "12.1K Tweets"
-  },
-  {
-    "name": "Bundespräsident",
-    "query": "Bundespräsident",
-    "rank": 12,
-    "tweet_count": "2,978 Tweets"
-  },
-  {
     "name": "Doktortitel",
     "query": "Doktortitel",
-    "rank": 13,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Papst",
     "query": "Papst",
-    "rank": 14,
-    "tweet_count": "1,011 Tweets"
-  },
-  {
-    "name": "Mannschaft",
-    "query": "Mannschaft",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Juli Zeh",
-    "query": "\"Juli Zeh\"",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Feiertag",
-    "query": "Feiertag",
-    "rank": 17,
-    "tweet_count": null
+    "rank": 12,
+    "tweet_count": "1,065 Tweets"
   },
   {
     "name": "Macron",
     "query": "Macron",
-    "rank": 18,
-    "tweet_count": "655K Tweets"
+    "rank": 13,
+    "tweet_count": "672K Tweets"
   },
   {
-    "name": "Kandidaten",
-    "query": "Kandidaten",
-    "rank": 19,
+    "name": "Feiertag",
+    "query": "Feiertag",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Kader",
+    "query": "Kader",
+    "rank": 15,
+    "tweet_count": "12.4K Tweets"
+  },
+  {
+    "name": "Mannschaft",
+    "query": "Mannschaft",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Torte",
+    "query": "Torte",
+    "rank": 17,
+    "tweet_count": "1,567 Tweets"
+  },
+  {
+    "name": "Vereine",
+    "query": "Vereine",
+    "rank": 18,
     "tweet_count": null
   }
 ]
