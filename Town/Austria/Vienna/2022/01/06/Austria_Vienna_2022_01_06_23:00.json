@@ -1,39 +1,39 @@
 [
   {
+    "name": "#zib2",
+    "query": "#zib2",
+    "rank": 1,
+    "tweet_count": "1,280 Tweets"
+  },
+  {
     "name": "#Pressekonferenz",
     "query": "#Pressekonferenz",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#zibspezial",
     "query": "#zibspezial",
-    "rank": 2,
-    "tweet_count": "1,241 Tweets"
+    "rank": 3,
+    "tweet_count": "1,250 Tweets"
   },
   {
     "name": "#Djokovic",
     "query": "#Djokovic",
-    "rank": 3,
-    "tweet_count": "99.6K Tweets"
-  },
-  {
-    "name": "#zib2",
-    "query": "#zib2",
     "rank": 4,
-    "tweet_count": "1,272 Tweets"
+    "tweet_count": "101K Tweets"
   },
   {
     "name": "#MaskedDancer",
     "query": "#MaskedDancer",
     "rank": 5,
-    "tweet_count": "3,166 Tweets"
+    "tweet_count": "3,171 Tweets"
   },
   {
     "name": "Feiertag",
     "query": "Feiertag",
     "rank": 6,
-    "tweet_count": "3,667 Tweets"
+    "tweet_count": "3,678 Tweets"
   },
   {
     "name": "Kontaktperson",
@@ -42,8 +42,8 @@
     "tweet_count": null
   },
   {
-    "name": "Tarnanzug",
-    "query": "Tarnanzug",
+    "name": "tarnanzug",
+    "query": "tarnanzug",
     "rank": 8,
     "tweet_count": null
   },
@@ -51,71 +51,71 @@
     "name": "Maßnahmen",
     "query": "Maßnahmen",
     "rank": 9,
-    "tweet_count": "15.1K Tweets"
+    "tweet_count": "15.2K Tweets"
   },
   {
     "name": "Australien",
     "query": "Australien",
     "rank": 10,
-    "tweet_count": "7,216 Tweets"
+    "tweet_count": "7,333 Tweets"
   },
   {
     "name": "Lockdown",
     "query": "Lockdown",
     "rank": 11,
-    "tweet_count": "126K Tweets"
+    "tweet_count": "127K Tweets"
   },
   {
     "name": "Schlüsselbund",
     "query": "Schlüsselbund",
     "rank": 12,
-    "tweet_count": "1,273 Tweets"
-  },
-  {
-    "name": "kassa",
-    "query": "kassa",
-    "rank": 13,
-    "tweet_count": "1,024 Tweets"
+    "tweet_count": "1,288 Tweets"
   },
   {
     "name": "Monate",
     "query": "Monate",
-    "rank": 14,
-    "tweet_count": "5,982 Tweets"
+    "rank": 13,
+    "tweet_count": "6,048 Tweets"
   },
   {
     "name": "Durchseuchung",
     "query": "Durchseuchung",
+    "rank": 14,
+    "tweet_count": "6,619 Tweets"
+  },
+  {
+    "name": "Kassa",
+    "query": "Kassa",
     "rank": 15,
-    "tweet_count": "6,558 Tweets"
+    "tweet_count": "1,031 Tweets"
   },
   {
     "name": "Handel",
     "query": "Handel",
     "rank": 16,
-    "tweet_count": "3,010 Tweets"
-  },
-  {
-    "name": "Virus",
-    "query": "Virus",
-    "rank": 17,
-    "tweet_count": "337K Tweets"
+    "tweet_count": "3,029 Tweets"
   },
   {
     "name": "Kreide",
     "query": "Kreide",
-    "rank": 18,
-    "tweet_count": "1,269 Tweets"
-  },
-  {
-    "name": "Nehammer",
-    "query": "Nehammer",
-    "rank": 19,
-    "tweet_count": "1,299 Tweets"
+    "rank": 17,
+    "tweet_count": "1,278 Tweets"
   },
   {
     "name": "Eingang",
     "query": "Eingang",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Virus",
+    "query": "Virus",
+    "rank": 19,
+    "tweet_count": "343K Tweets"
+  },
+  {
+    "name": "Waffe",
+    "query": "Waffe",
     "rank": 20,
     "tweet_count": null
   }
