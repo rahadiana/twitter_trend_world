@@ -1,39 +1,39 @@
 [
   {
-    "name": "#PolskiLad",
-    "query": "#PolskiLad",
+    "name": "#polskilad",
+    "query": "#polskilad",
     "rank": 1,
-    "tweet_count": "7,112 Tweets"
+    "tweet_count": "7,296 Tweets"
   },
   {
-    "name": "Australii",
-    "query": "Australii",
+    "name": "#wloskarobota",
+    "query": "#wloskarobota",
     "rank": 2,
-    "tweet_count": "4,273 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#leksiuisoverparty",
     "query": "#leksiuisoverparty",
     "rank": 3,
-    "tweet_count": "15.5K Tweets"
-  },
-  {
-    "name": "#wloskarobota",
-    "query": "#wloskarobota",
-    "rank": 4,
-    "tweet_count": null
+    "tweet_count": "15.9K Tweets"
   },
   {
     "name": "Lazio",
     "query": "Lazio",
-    "rank": 5,
-    "tweet_count": "9,781 Tweets"
+    "rank": 4,
+    "tweet_count": "11.6K Tweets"
   },
   {
-    "name": "Dawid",
-    "query": "Dawid",
+    "name": "Hołowni",
+    "query": "Hołowni",
+    "rank": 5,
+    "tweet_count": "1,114 Tweets"
+  },
+  {
+    "name": "Turowa",
+    "query": "Turowa",
     "rank": 6,
-    "tweet_count": "3,164 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Orszak Trzech Króli",
@@ -42,10 +42,10 @@
     "tweet_count": null
   },
   {
-    "name": "Hołowni",
-    "query": "Hołowni",
+    "name": "Dawid",
+    "query": "Dawid",
     "rank": 8,
-    "tweet_count": "1,049 Tweets"
+    "tweet_count": "3,290 Tweets"
   },
   {
     "name": "#skijumpinfamily",
@@ -54,16 +54,16 @@
     "tweet_count": null
   },
   {
-    "name": "Kazachstanu",
-    "query": "Kazachstanu",
-    "rank": 10,
-    "tweet_count": "4,303 Tweets"
-  },
-  {
     "name": "Czechach",
     "query": "Czechach",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
+  },
+  {
+    "name": "Kazachstanu",
+    "query": "Kazachstanu",
+    "rank": 11,
+    "tweet_count": "4,434 Tweets"
   },
   {
     "name": "Trzej Królowie",
@@ -78,21 +78,27 @@
     "tweet_count": null
   },
   {
+    "name": "Dziambor",
+    "query": "Dziambor",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
     "name": "YEONJUN",
     "query": "YEONJUN",
-    "rank": 14,
-    "tweet_count": "198K Tweets"
+    "rank": 15,
+    "tweet_count": "205K Tweets"
   },
   {
     "name": "Ałmaty",
     "query": "Ałmaty",
-    "rank": 15,
-    "tweet_count": "66.5K Tweets"
+    "rank": 16,
+    "tweet_count": "67.6K Tweets"
   },
   {
     "name": "Krzysiu",
     "query": "Krzysiu",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   }
 ]
