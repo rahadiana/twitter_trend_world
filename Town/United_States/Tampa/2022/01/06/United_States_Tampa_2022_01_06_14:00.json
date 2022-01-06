@@ -1,33 +1,33 @@
 [
   {
-    "name": "Djokovic",
-    "query": "Djokovic",
-    "rank": 1,
-    "tweet_count": "691K Tweets"
-  },
-  {
     "name": "Rocco",
     "query": "Rocco",
-    "rank": 2,
-    "tweet_count": "85.9K Tweets"
+    "rank": 1,
+    "tweet_count": "86.9K Tweets"
   },
   {
     "name": "#January6th",
     "query": "#January6th",
-    "rank": 3,
-    "tweet_count": "47K Tweets"
+    "rank": 2,
+    "tweet_count": "53K Tweets"
   },
   {
     "name": "YEONJUN",
     "query": "YEONJUN",
-    "rank": 4,
-    "tweet_count": "189K Tweets"
+    "rank": 3,
+    "tweet_count": "193K Tweets"
   },
   {
     "name": "#AMCDAY",
     "query": "#AMCDAY",
+    "rank": 4,
+    "tweet_count": "16K Tweets"
+  },
+  {
+    "name": "#thursdayvibes",
+    "query": "#thursdayvibes",
     "rank": 5,
-    "tweet_count": "14.3K Tweets"
+    "tweet_count": "12.8K Tweets"
   },
   {
     "name": "#ThreeKingsDay",
@@ -36,10 +36,10 @@
     "tweet_count": null
   },
   {
-    "name": "#thursdayvibes",
-    "query": "#thursdayvibes",
+    "name": "Karl Rove",
+    "query": "\"Karl Rove\"",
     "rank": 7,
-    "tweet_count": "12.4K Tweets"
+    "tweet_count": "7,259 Tweets"
   },
   {
     "name": "#tspotter",
@@ -48,40 +48,40 @@
     "tweet_count": null
   },
   {
-    "name": "Karl Rove",
-    "query": "\"Karl Rove\"",
-    "rank": 9,
-    "tweet_count": "6,875 Tweets"
-  },
-  {
     "name": "Konami",
     "query": "Konami",
-    "rank": 10,
-    "tweet_count": "13K Tweets"
+    "rank": 9,
+    "tweet_count": "13.4K Tweets"
   },
   {
     "name": "Eric Chavez",
     "query": "\"Eric Chavez\"",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Ted Cruz",
     "query": "\"Ted Cruz\"",
-    "rank": 12,
-    "tweet_count": "118K Tweets"
+    "rank": 11,
+    "tweet_count": "120K Tweets"
   },
   {
     "name": "Alex Guerrero",
     "query": "\"Alex Guerrero\"",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "Kevin Porter",
+    "query": "\"Kevin Porter\"",
+    "rank": 13,
+    "tweet_count": "10.7K Tweets"
   },
   {
     "name": "Schoolhouse Rock",
     "query": "\"Schoolhouse Rock\"",
     "rank": 14,
-    "tweet_count": "1,509 Tweets"
+    "tweet_count": "1,643 Tweets"
   },
   {
     "name": "Wordle 201 X",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
+    "name": "Lindsey",
+    "query": "Lindsey",
+    "rank": 16,
+    "tweet_count": "35.1K Tweets"
+  },
+  {
     "name": "Nate Silver",
     "query": "\"Nate Silver\"",
-    "rank": 16,
-    "tweet_count": "6,036 Tweets"
-  },
-  {
-    "name": "Kevin Porter",
-    "query": "\"Kevin Porter\"",
     "rank": 17,
-    "tweet_count": "10.4K Tweets"
+    "tweet_count": "6,169 Tweets"
   },
   {
-    "name": "Bruce Arians",
-    "query": "\"Bruce Arians\"",
+    "name": "Tuukka Rask",
+    "query": "\"Tuukka Rask\"",
     "rank": 18,
-    "tweet_count": "16K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "King Cake",
-    "query": "\"King Cake\"",
+    "name": "The CW",
+    "query": "\"The CW\"",
     "rank": 19,
-    "tweet_count": "1,472 Tweets"
+    "tweet_count": "11.3K Tweets"
   },
   {
-    "name": "Iraq",
-    "query": "Iraq",
+    "name": "Biden and Harris",
+    "query": "\"Biden and Harris\"",
     "rank": 20,
-    "tweet_count": "36.2K Tweets"
+    "tweet_count": "7,824 Tweets"
   }
 ]
