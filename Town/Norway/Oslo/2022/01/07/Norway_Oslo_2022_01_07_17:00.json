@@ -6,8 +6,8 @@
     "tweet_count": null
   },
   {
-    "name": "Helgheim",
-    "query": "Helgheim",
+    "name": "helgheim",
+    "query": "helgheim",
     "rank": 2,
     "tweet_count": null
   },
@@ -18,22 +18,22 @@
     "tweet_count": null
   },
   {
-    "name": "#nrkdebatt",
-    "query": "#nrkdebatt",
+    "name": "#NRKdebatt",
+    "query": "#NRKdebatt",
     "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "Jens Stoltenberg",
+    "query": "\"Jens Stoltenberg\"",
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Coutinho",
     "query": "Coutinho",
-    "rank": 5,
-    "tweet_count": "163K Tweets"
-  },
-  {
-    "name": "Jens Stoltenberg",
-    "query": "\"Jens Stoltenberg\"",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "165K Tweets"
   },
   {
     "name": "Seltzer",
@@ -45,78 +45,78 @@
     "name": "Vlahovic",
     "query": "Vlahovic",
     "rank": 8,
-    "tweet_count": "19.7K Tweets"
+    "tweet_count": "20K Tweets"
   },
   {
     "name": "Kazakhstan",
     "query": "Kazakhstan",
     "rank": 9,
-    "tweet_count": "180K Tweets"
-  },
-  {
-    "name": "Australia",
-    "query": "Australia",
-    "rank": 10,
-    "tweet_count": "370K Tweets"
+    "tweet_count": "182K Tweets"
   },
   {
     "name": "randaberg",
     "query": "randaberg",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "NATO",
     "query": "NATO",
-    "rank": 12,
-    "tweet_count": "44.7K Tweets"
+    "rank": 11,
+    "tweet_count": "45.4K Tweets"
   },
   {
     "name": "Sian",
     "query": "Sian",
-    "rank": 13,
-    "tweet_count": "4,184 Tweets"
+    "rank": 12,
+    "tweet_count": "4,213 Tweets"
   },
   {
     "name": "Thomas",
     "query": "Thomas",
-    "rank": 14,
-    "tweet_count": "89.9K Tweets"
-  },
-  {
-    "name": "#January6th",
-    "query": "#January6th",
-    "rank": 15,
-    "tweet_count": "149K Tweets"
-  },
-  {
-    "name": "#DawnFM",
-    "query": "#DawnFM",
-    "rank": 16,
-    "tweet_count": "131K Tweets"
-  },
-  {
-    "name": "Capitol",
-    "query": "Capitol",
-    "rank": 17,
-    "tweet_count": "677K Tweets"
+    "rank": 13,
+    "tweet_count": "92.6K Tweets"
   },
   {
     "name": "Gunna",
     "query": "Gunna",
-    "rank": 18,
-    "tweet_count": "134K Tweets"
+    "rank": 14,
+    "tweet_count": "135K Tweets"
   },
   {
-    "name": "Høyre",
-    "query": "Høyre",
-    "rank": 19,
-    "tweet_count": null
+    "name": "Australia",
+    "query": "Australia",
+    "rank": 15,
+    "tweet_count": "372K Tweets"
+  },
+  {
+    "name": "#January6th",
+    "query": "#January6th",
+    "rank": 16,
+    "tweet_count": "150K Tweets"
+  },
+  {
+    "name": "#DawnFM",
+    "query": "#DawnFM",
+    "rank": 17,
+    "tweet_count": "131K Tweets"
   },
   {
     "name": "Djokovic",
     "query": "Djokovic",
+    "rank": 18,
+    "tweet_count": "535K Tweets"
+  },
+  {
+    "name": "Capitol",
+    "query": "Capitol",
+    "rank": 19,
+    "tweet_count": "681K Tweets"
+  },
+  {
+    "name": "Høyre",
+    "query": "Høyre",
     "rank": 20,
-    "tweet_count": "531K Tweets"
+    "tweet_count": null
   }
 ]
