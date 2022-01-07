@@ -3,23 +3,23 @@
     "name": "#TheApprentice",
     "query": "#TheApprentice",
     "rank": 1,
-    "tweet_count": "36.9K Tweets"
+    "tweet_count": "37.1K Tweets"
   },
   {
     "name": "Coutinho",
     "query": "Coutinho",
     "rank": 2,
-    "tweet_count": "85.5K Tweets"
+    "tweet_count": "96K Tweets"
   },
   {
     "name": "#FridayFeeling",
     "query": "#FridayFeeling",
     "rank": 3,
-    "tweet_count": "11.5K Tweets"
+    "tweet_count": "12K Tweets"
   },
   {
-    "name": "#NoMoreRed",
-    "query": "#NoMoreRed",
+    "name": "#nomorered",
+    "query": "#nomorered",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,13 +27,13 @@
     "name": "Bairstow",
     "query": "Bairstow",
     "rank": 5,
-    "tweet_count": "8,230 Tweets"
+    "tweet_count": "8,511 Tweets"
   },
   {
     "name": "Kayak",
     "query": "Kayak",
     "rank": 6,
-    "tweet_count": "59.1K Tweets"
+    "tweet_count": "60.7K Tweets"
   },
   {
     "name": "#FreeCashFriday",
@@ -42,10 +42,10 @@
     "tweet_count": null
   },
   {
-    "name": "#DawnFM",
-    "query": "#DawnFM",
+    "name": "#FreeBetFriday",
+    "query": "#FreeBetFriday",
     "rank": 8,
-    "tweet_count": "109K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Grange Hill",
@@ -57,7 +57,7 @@
     "name": "Gunna",
     "query": "Gunna",
     "rank": 10,
-    "tweet_count": "95.5K Tweets"
+    "tweet_count": "97.2K Tweets"
   },
   {
     "name": "Paul Scully",
@@ -72,51 +72,51 @@
     "tweet_count": null
   },
   {
-    "name": "NHS in London",
-    "query": "\"NHS in London\"",
-    "rank": 13,
-    "tweet_count": "2,864 Tweets"
-  },
-  {
-    "name": "Boris Becker",
-    "query": "\"Boris Becker\"",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
     "name": "Wordle",
     "query": "Wordle",
-    "rank": 15,
-    "tweet_count": "90.4K Tweets"
+    "rank": 13,
+    "tweet_count": "92.1K Tweets"
   },
   {
-    "name": "Buendia",
-    "query": "Buendia",
-    "rank": 16,
-    "tweet_count": "2,504 Tweets"
+    "name": "NHS in London",
+    "query": "\"NHS in London\"",
+    "rank": 14,
+    "tweet_count": "3,086 Tweets"
   },
   {
     "name": "Sir Lewis Hamilton",
     "query": "\"Sir Lewis Hamilton\"",
-    "rank": 17,
-    "tweet_count": "6,072 Tweets"
+    "rank": 15,
+    "tweet_count": "6,622 Tweets"
+  },
+  {
+    "name": "Boris Becker",
+    "query": "\"Boris Becker\"",
+    "rank": 16,
+    "tweet_count": null
   },
   {
     "name": "National Anthem",
     "query": "\"National Anthem\"",
+    "rank": 17,
+    "tweet_count": "22.5K Tweets"
+  },
+  {
+    "name": "Cantwell",
+    "query": "Cantwell",
     "rank": 18,
-    "tweet_count": "22K Tweets"
+    "tweet_count": "2,106 Tweets"
+  },
+  {
+    "name": "North Korea",
+    "query": "\"North Korea\"",
+    "rank": 19,
+    "tweet_count": "10.6K Tweets"
   },
   {
     "name": "Reform",
     "query": "Reform",
-    "rank": 19,
-    "tweet_count": "20.3K Tweets"
-  },
-  {
-    "name": "Morning Paul",
-    "query": "\"Morning Paul\"",
     "rank": 20,
-    "tweet_count": "2,554 Tweets"
+    "tweet_count": "20.5K Tweets"
   }
 ]
