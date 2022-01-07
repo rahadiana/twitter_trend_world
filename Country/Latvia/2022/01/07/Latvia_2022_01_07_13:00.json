@@ -1,21 +1,21 @@
 [
   {
-    "name": "Jūtu",
-    "query": "Jūtu",
+    "name": "Līdzjūtība",
+    "query": "Līdzjūtība",
     "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "jūtu",
+    "query": "jūtu",
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Kazahstānā",
     "query": "Kazahstānā",
-    "rank": 2,
-    "tweet_count": "1,910 Tweets"
-  },
-  {
-    "name": "Aldis",
-    "query": "Aldis",
     "rank": 3,
-    "tweet_count": null
+    "tweet_count": "2,005 Tweets"
   },
   {
     "name": "Labdien",
@@ -24,28 +24,28 @@
     "tweet_count": null
   },
   {
-    "name": "Kāpēc",
-    "query": "Kāpēc",
+    "name": "aldis",
+    "query": "aldis",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "#SehYam",
-    "query": "#SehYam",
+    "name": "pasaules",
+    "query": "pasaules",
     "rank": 6,
-    "tweet_count": "10.6K Tweets"
-  },
-  {
-    "name": "#Emanet",
-    "query": "#Emanet",
-    "rank": 7,
-    "tweet_count": "12.4K Tweets"
-  },
-  {
-    "name": "Līdz",
-    "query": "Līdz",
-    "rank": 8,
     "tweet_count": null
+  },
+  {
+    "name": "#sehyam",
+    "query": "#sehyam",
+    "rank": 7,
+    "tweet_count": "10.8K Tweets"
+  },
+  {
+    "name": "#emanet",
+    "query": "#emanet",
+    "rank": 8,
+    "tweet_count": "12.6K Tweets"
   },
   {
     "name": "#teirdarbs",
@@ -60,52 +60,52 @@
     "tweet_count": null
   },
   {
+    "name": "#SılaTürkoğlu",
+    "query": "#SılaTürkoğlu",
+    "rank": 11,
+    "tweet_count": "35.8K Tweets"
+  },
+  {
     "name": "Austrālijā",
     "query": "Austrālijā",
-    "rank": 11,
-    "tweet_count": "1,385 Tweets"
+    "rank": 12,
+    "tweet_count": "1,425 Tweets"
+  },
+  {
+    "name": "Казахстана",
+    "query": "Казахстана",
+    "rank": 13,
+    "tweet_count": "40.9K Tweets"
   },
   {
     "name": "#HalilİbrahimCeyhan",
     "query": "#HalilİbrahimCeyhan",
-    "rank": 12,
-    "tweet_count": "9,239 Tweets"
-  },
-  {
-    "name": "#SılaTürkoğlu",
-    "query": "#SılaTürkoğlu",
-    "rank": 13,
-    "tweet_count": "35.1K Tweets"
+    "rank": 14,
+    "tweet_count": "9,390 Tweets"
   },
   {
     "name": "Pats",
     "query": "Pats",
-    "rank": 14,
-    "tweet_count": "7,230 Tweets"
-  },
-  {
-    "name": "Казахстане",
-    "query": "Казахстане",
     "rank": 15,
-    "tweet_count": "55.8K Tweets"
+    "tweet_count": "7,435 Tweets"
   },
   {
     "name": "Ko Tu",
     "query": "\"Ko Tu\"",
     "rank": 16,
-    "tweet_count": "9,425 Tweets"
+    "tweet_count": "9,690 Tweets"
   },
   {
-    "name": "Almati",
-    "query": "Almati",
+    "name": "Kāpēc",
+    "query": "Kāpēc",
     "rank": 17,
-    "tweet_count": "5,579 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Liepājas",
-    "query": "Liepājas",
+    "name": "almati",
+    "query": "almati",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "5,744 Tweets"
   },
   {
     "name": "vienkārši",
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "Šeit",
-    "query": "Šeit",
+    "name": "Katru",
+    "query": "Katru",
     "rank": 20,
-    "tweet_count": "23.1K Tweets"
+    "tweet_count": null
   }
 ]
