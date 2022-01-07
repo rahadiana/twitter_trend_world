@@ -1,33 +1,33 @@
 [
   {
-    "name": "first aid kit",
-    "query": "\"first aid kit\"",
+    "name": "First Aid Kit",
+    "query": "\"First Aid Kit\"",
     "rank": 1,
-    "tweet_count": "1,582 Tweets"
+    "tweet_count": "1,586 Tweets"
   },
   {
     "name": "Kazakstan",
     "query": "Kazakstan",
     "rank": 2,
-    "tweet_count": "4,480 Tweets"
+    "tweet_count": "4,497 Tweets"
   },
   {
     "name": "Trump",
     "query": "Trump",
     "rank": 3,
-    "tweet_count": "1.17M Tweets"
+    "tweet_count": "1.19M Tweets"
   },
   {
     "name": "Joel",
     "query": "Joel",
     "rank": 4,
-    "tweet_count": "27.8K Tweets"
+    "tweet_count": "28.2K Tweets"
   },
   {
     "name": "Roma",
     "query": "Roma",
     "rank": 5,
-    "tweet_count": "71.6K Tweets"
+    "tweet_count": "71.8K Tweets"
   },
   {
     "name": "kapitolium",
@@ -36,34 +36,34 @@
     "tweet_count": null
   },
   {
-    "name": "Tyrväinen",
-    "query": "Tyrväinen",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
     "name": "Moderaterna",
     "query": "Moderaterna",
-    "rank": 8,
-    "tweet_count": "4,641 Tweets"
+    "rank": 7,
+    "tweet_count": "4,653 Tweets"
   },
   {
-    "name": "Willie Nelson",
-    "query": "\"Willie Nelson\"",
-    "rank": 9,
+    "name": "tyrväinen",
+    "query": "tyrväinen",
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Djokovic",
     "query": "Djokovic",
+    "rank": 9,
+    "tweet_count": "698K Tweets"
+  },
+  {
+    "name": "Willie Nelson",
+    "query": "\"Willie Nelson\"",
     "rank": 10,
-    "tweet_count": "694K Tweets"
+    "tweet_count": null
   },
   {
     "name": "yeonjun",
     "query": "yeonjun",
     "rank": 11,
-    "tweet_count": "252K Tweets"
+    "tweet_count": "253K Tweets"
   },
   {
     "name": "scandinavium",
@@ -78,14 +78,14 @@
     "tweet_count": null
   },
   {
-    "name": "Giesecke",
-    "query": "Giesecke",
+    "name": "Edvardsen",
+    "query": "Edvardsen",
     "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "Edvardsen",
-    "query": "Edvardsen",
+    "name": "giesecke",
+    "query": "giesecke",
     "rank": 15,
     "tweet_count": null
   },
@@ -96,15 +96,21 @@
     "tweet_count": null
   },
   {
+    "name": "#AMCDAY",
+    "query": "#AMCDAY",
+    "rank": 17,
+    "tweet_count": "44.9K Tweets"
+  },
+  {
     "name": "Macron",
     "query": "Macron",
-    "rank": 17,
-    "tweet_count": "338K Tweets"
+    "rank": 18,
+    "tweet_count": "339K Tweets"
   },
   {
     "name": "tyrre",
     "query": "tyrre",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   }
 ]
