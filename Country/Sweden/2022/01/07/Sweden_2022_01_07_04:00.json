@@ -3,31 +3,31 @@
     "name": "First Aid Kit",
     "query": "\"First Aid Kit\"",
     "rank": 1,
-    "tweet_count": "1,591 Tweets"
+    "tweet_count": "1,573 Tweets"
   },
   {
     "name": "Kazakstan",
     "query": "Kazakstan",
     "rank": 2,
-    "tweet_count": "4,513 Tweets"
+    "tweet_count": "4,487 Tweets"
   },
   {
     "name": "Trump",
     "query": "Trump",
     "rank": 3,
-    "tweet_count": "1.2M Tweets"
-  },
-  {
-    "name": "Joel",
-    "query": "Joel",
-    "rank": 4,
-    "tweet_count": "28.4K Tweets"
+    "tweet_count": "1.19M Tweets"
   },
   {
     "name": "Roma",
     "query": "Roma",
+    "rank": 4,
+    "tweet_count": "71.5K Tweets"
+  },
+  {
+    "name": "Joel",
+    "query": "Joel",
     "rank": 5,
-    "tweet_count": "72K Tweets"
+    "tweet_count": "27.8K Tweets"
   },
   {
     "name": "kapitolium",
@@ -36,8 +36,8 @@
     "tweet_count": null
   },
   {
-    "name": "Tyrväinen",
-    "query": "Tyrväinen",
+    "name": "tyrväinen",
+    "query": "tyrväinen",
     "rank": 7,
     "tweet_count": null
   },
@@ -45,13 +45,13 @@
     "name": "Moderaterna",
     "query": "Moderaterna",
     "rank": 8,
-    "tweet_count": "4,659 Tweets"
+    "tweet_count": "4,619 Tweets"
   },
   {
     "name": "Djokovic",
     "query": "Djokovic",
     "rank": 9,
-    "tweet_count": "700K Tweets"
+    "tweet_count": "685K Tweets"
   },
   {
     "name": "Willie Nelson",
@@ -63,7 +63,7 @@
     "name": "yeonjun",
     "query": "yeonjun",
     "rank": 11,
-    "tweet_count": "254K Tweets"
+    "tweet_count": "255K Tweets"
   },
   {
     "name": "scandinavium",
@@ -99,7 +99,7 @@
     "name": "Macron",
     "query": "Macron",
     "rank": 17,
-    "tweet_count": "339K Tweets"
+    "tweet_count": "335K Tweets"
   },
   {
     "name": "tyrre",
@@ -117,6 +117,6 @@
     "name": "Lazio",
     "query": "Lazio",
     "rank": 20,
-    "tweet_count": "13.7K Tweets"
+    "tweet_count": "13.6K Tweets"
   }
 ]
