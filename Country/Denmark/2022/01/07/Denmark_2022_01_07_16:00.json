@@ -1,7 +1,7 @@
 [
   {
-    "name": "#cavlingprisen",
-    "query": "#cavlingprisen",
+    "name": "Cavling",
+    "query": "Cavling",
     "rank": 1,
     "tweet_count": null
   },
@@ -9,7 +9,7 @@
     "name": "Radikale",
     "query": "Radikale",
     "rank": 2,
-    "tweet_count": "2,022 Tweets"
+    "tweet_count": "2,009 Tweets"
   },
   {
     "name": "Thomasberg",
@@ -18,38 +18,38 @@
     "tweet_count": null
   },
   {
-    "name": "Enhedslisten",
-    "query": "Enhedslisten",
+    "name": "enhedslisten",
+    "query": "enhedslisten",
     "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "Cifuentes",
-    "query": "Cifuentes",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Ekstra Bladet",
-    "query": "\"Ekstra Bladet\"",
-    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "Coutinho",
     "query": "Coutinho",
-    "rank": 7,
-    "tweet_count": "155K Tweets"
+    "rank": 5,
+    "tweet_count": "158K Tweets"
   },
   {
     "name": "Randers",
     "query": "Randers",
-    "rank": 8,
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "Cifuentes",
+    "query": "Cifuentes",
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "s-regering",
     "query": "s-regering",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "Ekstra Bladet",
+    "query": "\"Ekstra Bladet\"",
     "rank": 9,
     "tweet_count": null
   },
@@ -57,66 +57,66 @@
     "name": "yeonjun",
     "query": "yeonjun",
     "rank": 10,
-    "tweet_count": "106K Tweets"
+    "tweet_count": "109K Tweets"
+  },
+  {
+    "name": "Sofie",
+    "query": "Sofie",
+    "rank": 11,
+    "tweet_count": "1,518 Tweets"
   },
   {
     "name": "#SuperAaB",
     "query": "#SuperAaB",
-    "rank": 11,
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "Trump",
+    "query": "Trump",
+    "rank": 13,
+    "tweet_count": "1.04M Tweets"
+  },
+  {
+    "name": "Texas",
+    "query": "Texas",
+    "rank": 14,
+    "tweet_count": "109K Tweets"
+  },
+  {
+    "name": "Kazakhstan",
+    "query": "Kazakhstan",
+    "rank": 15,
+    "tweet_count": "180K Tweets"
+  },
+  {
+    "name": "Djokovic",
+    "query": "Djokovic",
+    "rank": 16,
+    "tweet_count": "546K Tweets"
+  },
+  {
+    "name": "Australien",
+    "query": "Australien",
+    "rank": 17,
+    "tweet_count": "6,343 Tweets"
+  },
+  {
+    "name": "Napoli",
+    "query": "Napoli",
+    "rank": 18,
+    "tweet_count": "40.6K Tweets"
+  },
+  {
+    "name": "Morten",
+    "query": "Morten",
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "#dkmedier",
     "query": "#dkmedier",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Sofie",
-    "query": "Sofie",
-    "rank": 13,
-    "tweet_count": "1,540 Tweets"
-  },
-  {
-    "name": "Trump",
-    "query": "Trump",
-    "rank": 14,
-    "tweet_count": "1.01M Tweets"
-  },
-  {
-    "name": "Texas",
-    "query": "Texas",
-    "rank": 15,
-    "tweet_count": "104K Tweets"
-  },
-  {
-    "name": "#dkøko",
-    "query": "#dkøko",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Kazakhstan",
-    "query": "Kazakhstan",
-    "rank": 17,
-    "tweet_count": "174K Tweets"
-  },
-  {
-    "name": "Djokovic",
-    "query": "Djokovic",
-    "rank": 18,
-    "tweet_count": "534K Tweets"
-  },
-  {
-    "name": "Australien",
-    "query": "Australien",
-    "rank": 19,
-    "tweet_count": "6,574 Tweets"
-  },
-  {
-    "name": "Napoli",
-    "query": "Napoli",
     "rank": 20,
-    "tweet_count": "41.6K Tweets"
+    "tweet_count": null
   }
 ]
