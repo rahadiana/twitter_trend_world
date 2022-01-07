@@ -3,37 +3,37 @@
     "name": "Jets",
     "query": "Jets",
     "rank": 1,
-    "tweet_count": "21.3K Tweets"
+    "tweet_count": "21.8K Tweets"
   },
   {
     "name": "Sidney Poitier",
     "query": "\"Sidney Poitier\"",
     "rank": 2,
-    "tweet_count": "20.5K Tweets"
+    "tweet_count": "56.3K Tweets"
   },
   {
     "name": "#FridayFeeling",
     "query": "#FridayFeeling",
     "rank": 3,
-    "tweet_count": "20.6K Tweets"
+    "tweet_count": "22.1K Tweets"
+  },
+  {
+    "name": "#fridaymorning",
+    "query": "#fridaymorning",
+    "rank": 4,
+    "tweet_count": "31.7K Tweets"
   },
   {
     "name": "#SafeReturn",
     "query": "#SafeReturn",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "Orthodox Christmas",
-    "query": "\"Orthodox Christmas\"",
-    "rank": 5,
-    "tweet_count": "10.9K Tweets"
-  },
-  {
-    "name": "#Wordle",
-    "query": "#Wordle",
+    "name": "#OrthodoxChristmas",
+    "query": "#OrthodoxChristmas",
     "rank": 6,
-    "tweet_count": "3,688 Tweets"
+    "tweet_count": "2,606 Tweets"
   },
   {
     "name": "#NSStorm",
@@ -45,18 +45,30 @@
     "name": "Coutinho",
     "query": "Coutinho",
     "rank": 8,
-    "tweet_count": "150K Tweets"
-  },
-  {
-    "name": "#DawnFM",
-    "query": "#DawnFM",
-    "rank": 9,
-    "tweet_count": "124K Tweets"
+    "tweet_count": "154K Tweets"
   },
   {
     "name": "Ted Cruz",
     "query": "\"Ted Cruz\"",
+    "rank": 9,
+    "tweet_count": "186K Tweets"
+  },
+  {
+    "name": "Erin O’Toole",
+    "query": "\"Erin O’Toole\"",
     "rank": 10,
-    "tweet_count": "180K Tweets"
+    "tweet_count": "6,396 Tweets"
+  },
+  {
+    "name": "#Wordle",
+    "query": "#Wordle",
+    "rank": 11,
+    "tweet_count": "3,817 Tweets"
+  },
+  {
+    "name": "#DawnFM",
+    "query": "#DawnFM",
+    "rank": 12,
+    "tweet_count": "126K Tweets"
   }
 ]

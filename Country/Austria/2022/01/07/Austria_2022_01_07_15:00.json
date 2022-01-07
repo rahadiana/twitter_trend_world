@@ -1,21 +1,21 @@
 [
   {
-    "name": "ELGA",
-    "query": "ELGA",
+    "name": "#ELGA",
+    "query": "#ELGA",
     "rank": 1,
-    "tweet_count": "1,162 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Durchseuchung",
     "query": "#Durchseuchung",
     "rank": 2,
-    "tweet_count": "1,775 Tweets"
+    "tweet_count": "1,839 Tweets"
   },
   {
     "name": "#Impfpflicht",
     "query": "#Impfpflicht",
     "rank": 3,
-    "tweet_count": "12.3K Tweets"
+    "tweet_count": "12.7K Tweets"
   },
   {
     "name": "#Pressekonferenz",
@@ -27,7 +27,7 @@
     "name": "Maske",
     "query": "Maske",
     "rank": 5,
-    "tweet_count": "22.3K Tweets"
+    "tweet_count": "22.8K Tweets"
   },
   {
     "name": "Tarnanzug",
@@ -42,34 +42,34 @@
     "tweet_count": null
   },
   {
-    "name": "Umsetzung",
-    "query": "Umsetzung",
-    "rank": 8,
-    "tweet_count": "1,214 Tweets"
-  },
-  {
-    "name": "#gecko",
-    "query": "#gecko",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
     "name": "Reich",
     "query": "Reich",
-    "rank": 10,
-    "tweet_count": "5,994 Tweets"
+    "rank": 8,
+    "tweet_count": "6,111 Tweets"
   },
   {
-    "name": "Kontaktperson",
-    "query": "Kontaktperson",
-    "rank": 11,
+    "name": "Umsetzung",
+    "query": "Umsetzung",
+    "rank": 9,
+    "tweet_count": "1,268 Tweets"
+  },
+  {
+    "name": "Impfregister",
+    "query": "Impfregister",
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Maßnahmen",
     "query": "Maßnahmen",
+    "rank": 11,
+    "tweet_count": "15.8K Tweets"
+  },
+  {
+    "name": "Kontaktperson",
+    "query": "Kontaktperson",
     "rank": 12,
-    "tweet_count": "15.3K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Kassa",
@@ -84,39 +84,39 @@
     "tweet_count": null
   },
   {
-    "name": "Kreide",
-    "query": "Kreide",
-    "rank": 15,
-    "tweet_count": "1,566 Tweets"
-  },
-  {
     "name": "Monate",
     "query": "Monate",
+    "rank": 15,
+    "tweet_count": "6,353 Tweets"
+  },
+  {
+    "name": "Gesundheitsministerium",
+    "query": "Gesundheitsministerium",
     "rank": 16,
-    "tweet_count": "6,201 Tweets"
+    "tweet_count": "1,272 Tweets"
   },
   {
     "name": "Jesus",
     "query": "Jesus",
     "rank": 17,
-    "tweet_count": "241K Tweets"
-  },
-  {
-    "name": "Gesundheitsministerium",
-    "query": "Gesundheitsministerium",
-    "rank": 18,
-    "tweet_count": "1,238 Tweets"
-  },
-  {
-    "name": "Waffe",
-    "query": "Waffe",
-    "rank": 19,
-    "tweet_count": null
+    "tweet_count": "246K Tweets"
   },
   {
     "name": "Uniform",
     "query": "Uniform",
+    "rank": 18,
+    "tweet_count": "20.3K Tweets"
+  },
+  {
+    "name": "bezahlen",
+    "query": "bezahlen",
+    "rank": 19,
+    "tweet_count": "2,122 Tweets"
+  },
+  {
+    "name": "Quarantäne",
+    "query": "Quarantäne",
     "rank": 20,
-    "tweet_count": "19.9K Tweets"
+    "tweet_count": "7,899 Tweets"
   }
 ]
