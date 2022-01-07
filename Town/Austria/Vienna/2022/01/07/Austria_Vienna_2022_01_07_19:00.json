@@ -1,7 +1,7 @@
 [
   {
-    "name": "#ELGA",
-    "query": "#ELGA",
+    "name": "#elga",
+    "query": "#elga",
     "rank": 1,
     "tweet_count": null
   },
@@ -9,13 +9,13 @@
     "name": "Karl",
     "query": "Karl",
     "rank": 2,
-    "tweet_count": "68K Tweets"
+    "tweet_count": "68.4K Tweets"
   },
   {
     "name": "#Durchseuchung",
     "query": "#Durchseuchung",
     "rank": 3,
-    "tweet_count": "1,905 Tweets"
+    "tweet_count": "1,921 Tweets"
   },
   {
     "name": "Selbstisolation",
@@ -27,31 +27,31 @@
     "name": "#Impfpflicht",
     "query": "#Impfpflicht",
     "rank": 5,
-    "tweet_count": "12.9K Tweets"
+    "tweet_count": "13K Tweets"
   },
   {
     "name": "Maske",
     "query": "Maske",
     "rank": 6,
-    "tweet_count": "22K Tweets"
+    "tweet_count": "22.1K Tweets"
   },
   {
     "name": "Sidney Poitier",
     "query": "\"Sidney Poitier\"",
     "rank": 7,
-    "tweet_count": "237K Tweets"
-  },
-  {
-    "name": "Tarnanzug",
-    "query": "Tarnanzug",
-    "rank": 8,
-    "tweet_count": null
+    "tweet_count": "242K Tweets"
   },
   {
     "name": "Quarantäne",
     "query": "Quarantäne",
+    "rank": 8,
+    "tweet_count": "9,306 Tweets"
+  },
+  {
+    "name": "Tarnanzug",
+    "query": "Tarnanzug",
     "rank": 9,
-    "tweet_count": "9,173 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Kontaktperson",
@@ -75,7 +75,7 @@
     "name": "Reich",
     "query": "Reich",
     "rank": 13,
-    "tweet_count": "5,927 Tweets"
+    "tweet_count": "5,991 Tweets"
   },
   {
     "name": "Genesung",
@@ -87,25 +87,25 @@
     "name": "Mückstein",
     "query": "Mückstein",
     "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Verlauf",
-    "query": "Verlauf",
-    "rank": 16,
-    "tweet_count": "4,684 Tweets"
+    "tweet_count": "1,010 Tweets"
   },
   {
     "name": "Umsetzung",
     "query": "Umsetzung",
+    "rank": 16,
+    "tweet_count": "1,425 Tweets"
+  },
+  {
+    "name": "Verlauf",
+    "query": "Verlauf",
     "rank": 17,
-    "tweet_count": "1,415 Tweets"
+    "tweet_count": "4,721 Tweets"
   },
   {
     "name": "Maßnahmen",
     "query": "Maßnahmen",
     "rank": 18,
-    "tweet_count": "16.9K Tweets"
+    "tweet_count": "17.1K Tweets"
   },
   {
     "name": "Pöbel",
@@ -117,6 +117,6 @@
     "name": "Virus",
     "query": "Virus",
     "rank": 20,
-    "tweet_count": "347K Tweets"
+    "tweet_count": "350K Tweets"
   }
 ]
