@@ -1,39 +1,39 @@
 [
   {
-    "name": "Australia",
-    "query": "Australia",
+    "name": "Celtics",
+    "query": "Celtics",
     "rank": 1,
-    "tweet_count": "440K Tweets"
+    "tweet_count": "45.4K Tweets"
   },
   {
-    "name": "Djokovic",
-    "query": "Djokovic",
+    "name": "Australia",
+    "query": "Australia",
     "rank": 2,
-    "tweet_count": "688K Tweets"
+    "tweet_count": "446K Tweets"
   },
   {
     "name": "#Ashes",
     "query": "#Ashes",
     "rank": 3,
-    "tweet_count": "27.1K Tweets"
+    "tweet_count": "28.2K Tweets"
+  },
+  {
+    "name": "Djokovic",
+    "query": "Djokovic",
+    "rank": 4,
+    "tweet_count": "694K Tweets"
   },
   {
     "name": "Kazakhstan",
     "query": "Kazakhstan",
-    "rank": 4,
-    "tweet_count": "198K Tweets"
-  },
-  {
-    "name": "Capitol",
-    "query": "Capitol",
     "rank": 5,
-    "tweet_count": "830K Tweets"
+    "tweet_count": "200K Tweets"
   },
   {
-    "name": "Wordle 201 X",
-    "query": "\"Wordle 201 X\"",
+    "name": "wordle 201 x",
+    "query": "\"wordle 201 x\"",
     "rank": 6,
-    "tweet_count": "1,126 Tweets"
+    "tweet_count": "1,117 Tweets"
   },
   {
     "name": "#SuperSmashNZ",
@@ -45,78 +45,78 @@
     "name": "Elmo",
     "query": "Elmo",
     "rank": 8,
-    "tweet_count": "246K Tweets"
+    "tweet_count": "249K Tweets"
+  },
+  {
+    "name": "Capitol",
+    "query": "Capitol",
+    "rank": 9,
+    "tweet_count": "845K Tweets"
   },
   {
     "name": "Aussies",
     "query": "Aussies",
-    "rank": 9,
-    "tweet_count": "6,988 Tweets"
+    "rank": 10,
+    "tweet_count": "7,177 Tweets"
   },
   {
     "name": "Trump",
     "query": "Trump",
-    "rank": 10,
-    "tweet_count": "1.15M Tweets"
+    "rank": 11,
+    "tweet_count": "1.17M Tweets"
   },
   {
     "name": "#AEWDynamite",
     "query": "#AEWDynamite",
-    "rank": 11,
-    "tweet_count": "21.5K Tweets"
+    "rank": 12,
+    "tweet_count": "21.7K Tweets"
   },
   {
     "name": "yeonjun",
     "query": "yeonjun",
-    "rank": 12,
-    "tweet_count": "249K Tweets"
+    "rank": 13,
+    "tweet_count": "252K Tweets"
   },
   {
     "name": "random dumber generator",
     "query": "\"random dumber generator\"",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "alex paulsen",
     "query": "\"alex paulsen\"",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Border Security",
-    "query": "\"Border Security\"",
     "rank": 15,
-    "tweet_count": "5,495 Tweets"
-  },
-  {
-    "name": "Chris Bishop",
-    "query": "\"Chris Bishop\"",
-    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "#GenshinImpact",
-    "query": "#GenshinImpact",
+    "name": "Serbia",
+    "query": "Serbia",
+    "rank": 16,
+    "tweet_count": "32.9K Tweets"
+  },
+  {
+    "name": "border security",
+    "query": "\"border security\"",
     "rank": 17,
-    "tweet_count": "178K Tweets"
+    "tweet_count": "5,536 Tweets"
   },
   {
     "name": "Pope",
     "query": "Pope",
     "rank": 18,
-    "tweet_count": "83.3K Tweets"
+    "tweet_count": "84.4K Tweets"
   },
   {
-    "name": "Boba Fett",
-    "query": "\"Boba Fett\"",
+    "name": "Chris Bishop",
+    "query": "\"Chris Bishop\"",
     "rank": 19,
-    "tweet_count": "21.8K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Macron",
-    "query": "Macron",
+    "name": "#GenshinImpact",
+    "query": "#GenshinImpact",
     "rank": 20,
-    "tweet_count": "337K Tweets"
+    "tweet_count": "182K Tweets"
   }
 ]
