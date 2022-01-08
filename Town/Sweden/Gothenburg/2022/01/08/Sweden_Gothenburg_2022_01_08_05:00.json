@@ -3,41 +3,41 @@
     "name": "Milos",
     "query": "Milos",
     "rank": 1,
-    "tweet_count": "2,364 Tweets"
+    "tweet_count": "2,402 Tweets"
   },
   {
     "name": "NATO",
     "query": "NATO",
     "rank": 2,
-    "tweet_count": "51.8K Tweets"
+    "tweet_count": "52.3K Tweets"
+  },
+  {
+    "name": "First Aid Kit",
+    "query": "\"First Aid Kit\"",
+    "rank": 3,
+    "tweet_count": "1,073 Tweets"
   },
   {
     "name": "#påspåret",
     "query": "#påspåret",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Sidney Poitier",
     "query": "\"Sidney Poitier\"",
-    "rank": 4,
-    "tweet_count": "386K Tweets"
-  },
-  {
-    "name": "First Aid Kit",
-    "query": "\"First Aid Kit\"",
     "rank": 5,
-    "tweet_count": "1,068 Tweets"
+    "tweet_count": "388K Tweets"
   },
   {
-    "name": "Bajen",
-    "query": "Bajen",
+    "name": "bajen",
+    "query": "bajen",
     "rank": 6,
-    "tweet_count": "3,213 Tweets"
+    "tweet_count": "3,235 Tweets"
   },
   {
-    "name": "tyrväinen",
-    "query": "tyrväinen",
+    "name": "Tyrväinen",
+    "query": "Tyrväinen",
     "rank": 7,
     "tweet_count": null
   },
@@ -45,41 +45,41 @@
     "name": "Ryssland",
     "query": "Ryssland",
     "rank": 8,
-    "tweet_count": "1,439 Tweets"
+    "tweet_count": "1,442 Tweets"
   },
   {
     "name": "Kazakstan",
     "query": "Kazakstan",
     "rank": 9,
-    "tweet_count": "3,935 Tweets"
+    "tweet_count": "3,958 Tweets"
   },
   {
-    "name": "Edvardsen",
-    "query": "Edvardsen",
+    "name": "edvardsen",
+    "query": "edvardsen",
     "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "gudfadern",
-    "query": "gudfadern",
-    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Hammarby",
     "query": "Hammarby",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "gudfadern",
+    "query": "gudfadern",
     "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "Tranås",
-    "query": "Tranås",
+    "name": "tranås",
+    "query": "tranås",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "rosenborg",
-    "query": "rosenborg",
+    "name": "Rosenborg",
+    "query": "Rosenborg",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,24 +87,30 @@
     "name": "Swindon",
     "query": "Swindon",
     "rank": 15,
-    "tweet_count": "28.8K Tweets"
+    "tweet_count": "28.9K Tweets"
   },
   {
     "name": "Aziz",
     "query": "Aziz",
     "rank": 16,
-    "tweet_count": "51.8K Tweets"
-  },
-  {
-    "name": "Coutinho",
-    "query": "Coutinho",
-    "rank": 17,
-    "tweet_count": "184K Tweets"
+    "tweet_count": "52K Tweets"
   },
   {
     "name": "Joel",
     "query": "Joel",
+    "rank": 17,
+    "tweet_count": "31.6K Tweets"
+  },
+  {
+    "name": "Trump",
+    "query": "Trump",
     "rank": 18,
-    "tweet_count": "31.2K Tweets"
+    "tweet_count": "590K Tweets"
+  },
+  {
+    "name": "Coutinho",
+    "query": "Coutinho",
+    "rank": 19,
+    "tweet_count": "185K Tweets"
   }
 ]
