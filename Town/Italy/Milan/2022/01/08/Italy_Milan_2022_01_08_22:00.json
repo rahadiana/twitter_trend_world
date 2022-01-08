@@ -1,61 +1,61 @@
 [
   {
-    "name": "#controcorrente",
-    "query": "#controcorrente",
-    "rank": 1,
-    "tweet_count": "1,268 Tweets"
-  },
-  {
-    "name": "Venezia",
-    "query": "Venezia",
-    "rank": 2,
-    "tweet_count": "5,437 Tweets"
-  },
-  {
     "name": "#CePostaPerTe",
     "query": "#CePostaPerTe",
-    "rank": 3,
-    "tweet_count": "48.4K Tweets"
+    "rank": 1,
+    "tweet_count": "56.1K Tweets"
   },
   {
     "name": "#TalieQuali",
     "query": "#TalieQuali",
-    "rank": 4,
-    "tweet_count": "2,586 Tweets"
+    "rank": 2,
+    "tweet_count": "3,064 Tweets"
   },
   {
     "name": "Alessia",
     "query": "Alessia",
-    "rank": 5,
-    "tweet_count": "6,095 Tweets"
+    "rank": 3,
+    "tweet_count": "6,297 Tweets"
   },
   {
     "name": "#Deltacron",
     "query": "#Deltacron",
-    "rank": 6,
-    "tweet_count": "4,481 Tweets"
+    "rank": 4,
+    "tweet_count": "5,134 Tweets"
   },
   {
     "name": "#Zielinski",
     "query": "#Zielinski",
-    "rank": 7,
-    "tweet_count": "2,355 Tweets"
+    "rank": 5,
+    "tweet_count": "2,571 Tweets"
   },
   {
     "name": "Maria",
     "query": "Maria",
-    "rank": 8,
-    "tweet_count": "179K Tweets"
+    "rank": 6,
+    "tweet_count": "183K Tweets"
+  },
+  {
+    "name": "#LaFabbricadelMondo",
+    "query": "#LaFabbricadelMondo",
+    "rank": 7,
+    "tweet_count": null
   },
   {
     "name": "Paolo Bonolis",
     "query": "\"Paolo Bonolis\"",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Baglioni",
     "query": "Baglioni",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Gennaro",
+    "query": "Gennaro",
     "rank": 10,
     "tweet_count": null
   },
@@ -63,31 +63,31 @@
     "name": "Giada",
     "query": "Giada",
     "rank": 11,
-    "tweet_count": "1,539 Tweets"
+    "tweet_count": "1,575 Tweets"
   },
   {
-    "name": "Gennaro",
-    "query": "Gennaro",
+    "name": "checco zalone",
+    "query": "\"checco zalone\"",
     "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "Checco Zalone",
-    "query": "\"Checco Zalone\"",
+    "name": "Henry",
+    "query": "Henry",
     "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Stef",
-    "query": "Stef",
-    "rank": 14,
-    "tweet_count": "19.5K Tweets"
+    "tweet_count": "55.4K Tweets"
   },
   {
     "name": "Madame",
     "query": "Madame",
+    "rank": 14,
+    "tweet_count": "19.3K Tweets"
+  },
+  {
+    "name": "Queen Mary",
+    "query": "\"Queen Mary\"",
     "rank": 15,
-    "tweet_count": "18.9K Tweets"
+    "tweet_count": "1,136 Tweets"
   },
   {
     "name": "Cipro",
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
-    "name": "Queen Mary",
-    "query": "\"Queen Mary\"",
+    "name": "Delta e Omicron",
+    "query": "\"Delta e Omicron\"",
     "rank": 17,
-    "tweet_count": "1,094 Tweets"
-  },
-  {
-    "name": "delta e omicron",
-    "query": "\"delta e omicron\"",
-    "rank": 18,
-    "tweet_count": "3,318 Tweets"
-  },
-  {
-    "name": "Henry",
-    "query": "Henry",
-    "rank": 19,
-    "tweet_count": "54.5K Tweets"
+    "tweet_count": "3,619 Tweets"
   },
   {
     "name": "Dune",
     "query": "Dune",
+    "rank": 18,
+    "tweet_count": "14.3K Tweets"
+  },
+  {
+    "name": "Stef",
+    "query": "Stef",
+    "rank": 19,
+    "tweet_count": "19.6K Tweets"
+  },
+  {
+    "name": "Margherita",
+    "query": "Margherita",
     "rank": 20,
-    "tweet_count": "14K Tweets"
+    "tweet_count": null
   }
 ]
