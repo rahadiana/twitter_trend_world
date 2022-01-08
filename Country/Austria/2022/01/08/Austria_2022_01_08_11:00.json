@@ -1,21 +1,21 @@
 [
   {
+    "name": "#w0801",
+    "query": "#w0801",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "Neujahrskonzert",
     "query": "Neujahrskonzert",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#Nehammer",
     "query": "#Nehammer",
-    "rank": 2,
-    "tweet_count": "1,356 Tweets"
-  },
-  {
-    "name": "#w0801",
-    "query": "#w0801",
     "rank": 3,
-    "tweet_count": null
+    "tweet_count": "1,399 Tweets"
   },
   {
     "name": "Skihütte",
@@ -27,7 +27,7 @@
     "name": "ELGA",
     "query": "ELGA",
     "rank": 5,
-    "tweet_count": "2,311 Tweets"
+    "tweet_count": "2,321 Tweets"
   },
   {
     "name": "Selbstisolation",
@@ -36,16 +36,16 @@
     "tweet_count": null
   },
   {
-    "name": "Signal",
-    "query": "Signal",
-    "rank": 7,
-    "tweet_count": "56.4K Tweets"
-  },
-  {
     "name": "#Durchseuchung",
     "query": "#Durchseuchung",
+    "rank": 7,
+    "tweet_count": "1,526 Tweets"
+  },
+  {
+    "name": "Signal",
+    "query": "Signal",
     "rank": 8,
-    "tweet_count": "1,516 Tweets"
+    "tweet_count": "56.8K Tweets"
   },
   {
     "name": "#zibspezial",
@@ -54,40 +54,40 @@
     "tweet_count": null
   },
   {
-    "name": "Infektion",
-    "query": "Infektion",
-    "rank": 10,
-    "tweet_count": "7,314 Tweets"
-  },
-  {
     "name": "Maske",
     "query": "Maske",
-    "rank": 11,
-    "tweet_count": "16.5K Tweets"
+    "rank": 10,
+    "tweet_count": "16.7K Tweets"
   },
   {
     "name": "Quarantäne",
     "query": "Quarantäne",
-    "rank": 12,
-    "tweet_count": "10.6K Tweets"
+    "rank": 11,
+    "tweet_count": "10.7K Tweets"
   },
   {
     "name": "Regeln",
     "query": "Regeln",
-    "rank": 13,
-    "tweet_count": "7,524 Tweets"
+    "rank": 12,
+    "tweet_count": "7,610 Tweets"
   },
   {
     "name": "Kontaktperson",
     "query": "Kontaktperson",
-    "rank": 14,
-    "tweet_count": "1,152 Tweets"
+    "rank": 13,
+    "tweet_count": "1,156 Tweets"
   },
   {
     "name": "#Impfpflicht",
     "query": "#Impfpflicht",
+    "rank": 14,
+    "tweet_count": "12.6K Tweets"
+  },
+  {
+    "name": "Infektion",
+    "query": "Infektion",
     "rank": 15,
-    "tweet_count": "12.5K Tweets"
+    "tweet_count": "7,406 Tweets"
   },
   {
     "name": "Vorbildwirkung",
@@ -105,18 +105,18 @@
     "name": "Reich",
     "query": "Reich",
     "rank": 18,
-    "tweet_count": "5,116 Tweets"
+    "tweet_count": "5,151 Tweets"
   },
   {
     "name": "Verlauf",
     "query": "Verlauf",
     "rank": 19,
-    "tweet_count": "4,045 Tweets"
+    "tweet_count": "4,089 Tweets"
   },
   {
-    "name": "Inkubationszeit",
-    "query": "Inkubationszeit",
+    "name": "Demo",
+    "query": "Demo",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "33.3K Tweets"
   }
 ]
