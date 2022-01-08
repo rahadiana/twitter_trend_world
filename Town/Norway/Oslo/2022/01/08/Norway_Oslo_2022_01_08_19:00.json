@@ -3,7 +3,7 @@
     "name": "Dortmund",
     "query": "Dortmund",
     "rank": 1,
-    "tweet_count": "16.5K Tweets"
+    "tweet_count": "17.3K Tweets"
   },
   {
     "name": "Idrettsgallaen",
@@ -15,23 +15,23 @@
     "name": "Cambridge",
     "query": "Cambridge",
     "rank": 3,
-    "tweet_count": "34.8K Tweets"
-  },
-  {
-    "name": "#NUFC",
-    "query": "#NUFC",
-    "rank": 4,
-    "tweet_count": "23.5K Tweets"
+    "tweet_count": "35.4K Tweets"
   },
   {
     "name": "Nornes",
     "query": "Nornes",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "helgheim",
-    "query": "helgheim",
+    "name": "#NUFC",
+    "query": "#NUFC",
+    "rank": 5,
+    "tweet_count": "23.8K Tweets"
+  },
+  {
+    "name": "Helgheim",
+    "query": "Helgheim",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,16 +42,16 @@
     "tweet_count": null
   },
   {
-    "name": "The Voice",
-    "query": "\"The Voice\"",
-    "rank": 8,
-    "tweet_count": "121K Tweets"
-  },
-  {
     "name": "#mesternesmester",
     "query": "#mesternesmester",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
+  },
+  {
+    "name": "The Voice",
+    "query": "\"The Voice\"",
+    "rank": 9,
+    "tweet_count": "122K Tweets"
   },
   {
     "name": "#fredagsselfie",
@@ -60,63 +60,63 @@
     "tweet_count": null
   },
   {
-    "name": "Everton",
-    "query": "Everton",
+    "name": "fa-cupen",
+    "query": "fa-cupen",
     "rank": 11,
-    "tweet_count": "25.9K Tweets"
-  },
-  {
-    "name": "FA-cupen",
-    "query": "FA-cupen",
-    "rank": 12,
     "tweet_count": null
-  },
-  {
-    "name": "hobi",
-    "query": "hobi",
-    "rank": 13,
-    "tweet_count": "129K Tweets"
   },
   {
     "name": "Bjørn Einar Romøren",
     "query": "\"Bjørn Einar Romøren\"",
-    "rank": 14,
+    "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "David Bowie",
-    "query": "\"David Bowie\"",
-    "rank": 15,
-    "tweet_count": "58.9K Tweets"
-  },
-  {
-    "name": "jarlsberg",
-    "query": "jarlsberg",
-    "rank": 16,
+    "name": "Jarlsberg",
+    "query": "Jarlsberg",
+    "rank": 13,
     "tweet_count": null
-  },
-  {
-    "name": "Stoltenberg",
-    "query": "Stoltenberg",
-    "rank": 17,
-    "tweet_count": "1,823 Tweets"
   },
   {
     "name": "Pakistan",
     "query": "Pakistan",
-    "rank": 18,
-    "tweet_count": "131K Tweets"
+    "rank": 14,
+    "tweet_count": "132K Tweets"
   },
   {
-    "name": "Seltzer",
-    "query": "Seltzer",
-    "rank": 19,
-    "tweet_count": null
+    "name": "Stoltenberg",
+    "query": "Stoltenberg",
+    "rank": 15,
+    "tweet_count": "1,829 Tweets"
+  },
+  {
+    "name": "hobi",
+    "query": "hobi",
+    "rank": 16,
+    "tweet_count": "131K Tweets"
   },
   {
     "name": "Haaland",
     "query": "Haaland",
+    "rank": 17,
+    "tweet_count": "28.9K Tweets"
+  },
+  {
+    "name": "Seltzer",
+    "query": "Seltzer",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Australia",
+    "query": "Australia",
+    "rank": 19,
+    "tweet_count": "224K Tweets"
+  },
+  {
+    "name": "#dax18",
+    "query": "#dax18",
     "rank": 20,
-    "tweet_count": "28.2K Tweets"
+    "tweet_count": null
   }
 ]

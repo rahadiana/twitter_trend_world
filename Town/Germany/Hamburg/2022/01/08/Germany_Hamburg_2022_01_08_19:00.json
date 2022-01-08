@@ -3,25 +3,25 @@
     "name": "Demo",
     "query": "Demo",
     "rank": 1,
-    "tweet_count": "35K Tweets"
+    "tweet_count": "35.4K Tweets"
   },
   {
     "name": "#SGEBVB",
     "query": "#SGEBVB",
     "rank": 2,
-    "tweet_count": "7,534 Tweets"
+    "tweet_count": "7,744 Tweets"
   },
   {
     "name": "#Ichbinraus",
     "query": "#Ichbinraus",
     "rank": 3,
-    "tweet_count": "5,131 Tweets"
+    "tweet_count": "5,636 Tweets"
   },
   {
-    "name": "#HeresToTheFuture",
-    "query": "#HeresToTheFuture",
+    "name": "#schlagdenstar",
+    "query": "#schlagdenstar",
     "rank": 4,
-    "tweet_count": "54.7K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#dswnwp",
@@ -30,10 +30,10 @@
     "tweet_count": null
   },
   {
-    "name": "#schlagdenstar",
-    "query": "#schlagdenstar",
+    "name": "#HeresToTheFuture",
+    "query": "#HeresToTheFuture",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "57.9K Tweets"
   },
   {
     "name": "Lammers",
@@ -45,77 +45,77 @@
     "name": "Haaland",
     "query": "Haaland",
     "rank": 8,
-    "tweet_count": "28.2K Tweets"
+    "tweet_count": "28.9K Tweets"
   },
   {
     "name": "Frankfurt",
     "query": "Frankfurt",
     "rank": 9,
-    "tweet_count": "10.8K Tweets"
+    "tweet_count": "11.3K Tweets"
   },
   {
     "name": "Eintracht",
     "query": "Eintracht",
     "rank": 10,
-    "tweet_count": "6,424 Tweets"
-  },
-  {
-    "name": "Stef",
-    "query": "Stef",
-    "rank": 11,
-    "tweet_count": "18.6K Tweets"
+    "tweet_count": "6,753 Tweets"
   },
   {
     "name": "Brandt",
     "query": "Brandt",
+    "rank": 11,
+    "tweet_count": "2,512 Tweets"
+  },
+  {
+    "name": "Halbzeit",
+    "query": "Halbzeit",
     "rank": 12,
-    "tweet_count": "2,472 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Rose",
     "query": "Rose",
     "rank": 13,
-    "tweet_count": "200K Tweets"
-  },
-  {
-    "name": "Halbzeit",
-    "query": "Halbzeit",
-    "rank": 14,
-    "tweet_count": null
+    "tweet_count": "202K Tweets"
   },
   {
     "name": "Meunier",
     "query": "Meunier",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Samstagabend",
     "query": "Samstagabend",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Hinteregger",
+    "query": "Hinteregger",
     "rank": 16,
     "tweet_count": null
   },
   {
+    "name": "Fußball",
+    "query": "Fußball",
+    "rank": 17,
+    "tweet_count": "3,497 Tweets"
+  },
+  {
     "name": "Mathe",
     "query": "Mathe",
-    "rank": 17,
-    "tweet_count": "2,388 Tweets"
+    "rank": 18,
+    "tweet_count": "2,431 Tweets"
   },
   {
     "name": "Mannschaft",
     "query": "Mannschaft",
-    "rank": 18,
-    "tweet_count": "1,044 Tweets"
+    "rank": 19,
+    "tweet_count": "1,072 Tweets"
   },
   {
     "name": "Deutsch und Englisch",
     "query": "\"Deutsch und Englisch\"",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Mentalität",
-    "query": "Mentalität",
     "rank": 20,
     "tweet_count": null
   }
