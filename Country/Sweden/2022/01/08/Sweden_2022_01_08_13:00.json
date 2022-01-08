@@ -1,7 +1,7 @@
 [
   {
-    "name": "SÄPO",
-    "query": "SÄPO",
+    "name": "Säpo",
+    "query": "Säpo",
     "rank": 1,
     "tweet_count": null
   },
@@ -12,22 +12,22 @@
     "tweet_count": null
   },
   {
+    "name": "Magdalena Andersson",
+    "query": "\"Magdalena Andersson\"",
+    "rank": 3,
+    "tweet_count": "1,661 Tweets"
+  },
+  {
     "name": "NATO",
     "query": "NATO",
-    "rank": 3,
-    "tweet_count": "55.9K Tweets"
+    "rank": 4,
+    "tweet_count": "56.6K Tweets"
   },
   {
     "name": "Milos",
     "query": "Milos",
-    "rank": 4,
-    "tweet_count": "1,919 Tweets"
-  },
-  {
-    "name": "Magdalena Andersson",
-    "query": "\"Magdalena Andersson\"",
     "rank": 5,
-    "tweet_count": "1,576 Tweets"
+    "tweet_count": "1,940 Tweets"
   },
   {
     "name": "#ifkgbg",
@@ -42,68 +42,68 @@
     "tweet_count": null
   },
   {
-    "name": "Emma Lennartsson",
-    "query": "\"Emma Lennartsson\"",
+    "name": "erik sorga",
+    "query": "\"erik sorga\"",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Erik Sorga",
-    "query": "\"Erik Sorga\"",
+    "name": "Emma Lennartsson",
+    "query": "\"Emma Lennartsson\"",
     "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Maggan",
+    "query": "Maggan",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "Morenius",
+    "query": "Morenius",
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Ryssland",
     "query": "Ryssland",
-    "rank": 10,
-    "tweet_count": "1,404 Tweets"
-  },
-  {
-    "name": "morenius",
-    "query": "morenius",
-    "rank": 11,
-    "tweet_count": null
+    "rank": 12,
+    "tweet_count": "1,422 Tweets"
   },
   {
     "name": "#påspåret",
     "query": "#påspåret",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Sidney Poitier",
-    "query": "\"Sidney Poitier\"",
     "rank": 13,
-    "tweet_count": "425K Tweets"
-  },
-  {
-    "name": "Maggan",
-    "query": "Maggan",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "#alpint",
-    "query": "#alpint",
-    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Black",
     "query": "Black",
-    "rank": 16,
-    "tweet_count": "859K Tweets"
-  },
-  {
-    "name": "tranås",
-    "query": "tranås",
-    "rank": 17,
-    "tweet_count": null
+    "rank": 14,
+    "tweet_count": "868K Tweets"
   },
   {
     "name": "ygeman",
     "query": "ygeman",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "tranås",
+    "query": "tranås",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Nacka",
+    "query": "Nacka",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Statsministern",
+    "query": "Statsministern",
     "rank": 18,
     "tweet_count": null
   },
@@ -111,12 +111,12 @@
     "name": "Swindon",
     "query": "Swindon",
     "rank": 19,
-    "tweet_count": "31.2K Tweets"
+    "tweet_count": "31.4K Tweets"
   },
   {
-    "name": "Edvardsen",
-    "query": "Edvardsen",
+    "name": "Sidney Poitier",
+    "query": "\"Sidney Poitier\"",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "426K Tweets"
   }
 ]
