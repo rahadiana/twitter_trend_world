@@ -1,122 +1,116 @@
 [
   {
+    "name": "#pipelinewriters",
+    "query": "#pipelinewriters",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "#SidneyPoitier",
+    "query": "#SidneyPoitier",
+    "rank": 2,
+    "tweet_count": "42.8K Tweets"
+  },
+  {
+    "name": "Gorsuch",
+    "query": "Gorsuch",
+    "rank": 3,
+    "tweet_count": "35.9K Tweets"
+  },
+  {
     "name": "#StephenCurry",
     "query": "#StephenCurry",
-    "rank": 1,
-    "tweet_count": "87.1K Tweets"
+    "rank": 4,
+    "tweet_count": "94.7K Tweets"
   },
   {
     "name": "Linsley",
     "query": "Linsley",
-    "rank": 2,
-    "tweet_count": "3,248 Tweets"
+    "rank": 5,
+    "tweet_count": "3,325 Tweets"
   },
   {
-    "name": "#DeliverVotingRightsNow",
-    "query": "#DeliverVotingRightsNow",
-    "rank": 3,
-    "tweet_count": "40.9K Tweets"
+    "name": "Ben Affleck",
+    "query": "\"Ben Affleck\"",
+    "rank": 6,
+    "tweet_count": "16.1K Tweets"
+  },
+  {
+    "name": "Ahmaud Arbery",
+    "query": "\"Ahmaud Arbery\"",
+    "rank": 7,
+    "tweet_count": "109K Tweets"
+  },
+  {
+    "name": "Turning Red",
+    "query": "\"Turning Red\"",
+    "rank": 8,
+    "tweet_count": "6,039 Tweets"
   },
   {
     "name": "#WPMOYChallenge",
     "query": "#WPMOYChallenge",
-    "rank": 4,
-    "tweet_count": "149K Tweets"
+    "rank": 9,
+    "tweet_count": "160K Tweets"
   },
   {
-    "name": "#FridayFeeling",
-    "query": "#FridayFeeling",
-    "rank": 5,
-    "tweet_count": "32.4K Tweets"
+    "name": "To Sir With Love",
+    "query": "\"To Sir With Love\"",
+    "rank": 10,
+    "tweet_count": "31.3K Tweets"
   },
   {
     "name": "#CashAppinWild",
     "query": "#CashAppinWild",
-    "rank": 6,
-    "tweet_count": "14.7K Tweets"
+    "rank": 11,
+    "tweet_count": "14.8K Tweets"
   },
   {
     "name": "Mario Kart",
     "query": "\"Mario Kart\"",
-    "rank": 7,
-    "tweet_count": "26.4K Tweets"
+    "rank": 12,
+    "tweet_count": "27.2K Tweets"
   },
   {
-    "name": "Ahmaud",
-    "query": "Ahmaud",
-    "rank": 8,
-    "tweet_count": "113K Tweets"
+    "name": "Lilies of the Field",
+    "query": "\"Lilies of the Field\"",
+    "rank": 13,
+    "tweet_count": "15K Tweets"
+  },
+  {
+    "name": "Guess Who's Coming to Dinner",
+    "query": "\"Guess Who's Coming to Dinner\"",
+    "rank": 14,
+    "tweet_count": "17.5K Tweets"
   },
   {
     "name": "Justice",
     "query": "Justice",
-    "rank": 9,
-    "tweet_count": "441K Tweets"
+    "rank": 15,
+    "tweet_count": "467K Tweets"
   },
   {
     "name": "Harbaugh",
     "query": "Harbaugh",
-    "rank": 10,
-    "tweet_count": "6,789 Tweets"
+    "rank": 16,
+    "tweet_count": "7,001 Tweets"
   },
   {
     "name": "Frodo",
     "query": "Frodo",
-    "rank": 11,
-    "tweet_count": "15.6K Tweets"
-  },
-  {
-    "name": "Cyber Ninjas",
-    "query": "\"Cyber Ninjas\"",
-    "rank": 12,
-    "tweet_count": "25.7K Tweets"
-  },
-  {
-    "name": "Impact",
-    "query": "Impact",
-    "rank": 13,
-    "tweet_count": "297K Tweets"
-  },
-  {
-    "name": "Bobby Portis",
-    "query": "\"Bobby Portis\"",
-    "rank": 14,
-    "tweet_count": "1,671 Tweets"
-  },
-  {
-    "name": "Naomi",
-    "query": "Naomi",
-    "rank": 15,
-    "tweet_count": "20.2K Tweets"
-  },
-  {
-    "name": "Willow Pill",
-    "query": "\"Willow Pill\"",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Johnny Knoxville",
-    "query": "\"Johnny Knoxville\"",
     "rank": 17,
-    "tweet_count": "1,489 Tweets"
+    "tweet_count": "15.8K Tweets"
   },
   {
-    "name": "Scott Pilgrim",
-    "query": "\"Scott Pilgrim\"",
+    "name": "OSHA",
+    "query": "OSHA",
     "rank": 18,
-    "tweet_count": "11.7K Tweets"
+    "tweet_count": "61.5K Tweets"
   },
   {
-    "name": "Texas GOP",
-    "query": "\"Texas GOP\"",
+    "name": "Sneakers",
+    "query": "Sneakers",
     "rank": 19,
-    "tweet_count": "14.9K Tweets"
-  },
-  {
-    "name": "Godwin",
-    "query": "Godwin",
-    "rank": 20,
-    "tweet_count": "7,576 Tweets"
+    "tweet_count": "17.7K Tweets"
   }
 ]
