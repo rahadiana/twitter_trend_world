@@ -1,13 +1,13 @@
 [
   {
-    "name": "#Durchseuchung",
-    "query": "#Durchseuchung",
+    "name": "#zib2",
+    "query": "#zib2",
     "rank": 1,
-    "tweet_count": "1,964 Tweets"
+    "tweet_count": "1,117 Tweets"
   },
   {
-    "name": "#elga",
-    "query": "#elga",
+    "name": "#ELGA",
+    "query": "#ELGA",
     "rank": 2,
     "tweet_count": null
   },
@@ -18,22 +18,22 @@
     "tweet_count": null
   },
   {
+    "name": "#Durchseuchung",
+    "query": "#Durchseuchung",
+    "rank": 4,
+    "tweet_count": "1,970 Tweets"
+  },
+  {
     "name": "Selbstisolation",
     "query": "Selbstisolation",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Kontaktperson",
     "query": "Kontaktperson",
-    "rank": 5,
-    "tweet_count": "1,141 Tweets"
-  },
-  {
-    "name": "#Impfpflicht",
-    "query": "#Impfpflicht",
     "rank": 6,
-    "tweet_count": "13K Tweets"
+    "tweet_count": "1,146 Tweets"
   },
   {
     "name": "#Impfpflicht",
@@ -57,19 +57,19 @@
     "name": "Mückstein",
     "query": "Mückstein",
     "rank": 10,
-    "tweet_count": "1,222 Tweets"
-  },
-  {
-    "name": "Sidney Poitier",
-    "query": "\"Sidney Poitier\"",
-    "rank": 11,
-    "tweet_count": "388K Tweets"
+    "tweet_count": "1,224 Tweets"
   },
   {
     "name": "Reich",
     "query": "Reich",
+    "rank": 11,
+    "tweet_count": "6,094 Tweets"
+  },
+  {
+    "name": "Sidney Poitier",
+    "query": "\"Sidney Poitier\"",
     "rank": 12,
-    "tweet_count": "6,073 Tweets"
+    "tweet_count": "389K Tweets"
   },
   {
     "name": "Verlauf",
@@ -78,45 +78,45 @@
     "tweet_count": "4,596 Tweets"
   },
   {
-    "name": "impfregister",
-    "query": "impfregister",
+    "name": "Umsetzung",
+    "query": "Umsetzung",
     "rank": 14,
+    "tweet_count": "1,541 Tweets"
+  },
+  {
+    "name": "Impfregister",
+    "query": "Impfregister",
+    "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "Mücke",
-    "query": "Mücke",
-    "rank": 15,
+    "name": "mücke",
+    "query": "mücke",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Feiertag",
+    "query": "Feiertag",
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Jesus",
     "query": "Jesus",
-    "rank": 16,
-    "tweet_count": "242K Tweets"
-  },
-  {
-    "name": "gesundheitsminister",
-    "query": "gesundheitsminister",
-    "rank": 17,
-    "tweet_count": "2,651 Tweets"
-  },
-  {
-    "name": "Kasachstan",
-    "query": "Kasachstan",
     "rank": 18,
-    "tweet_count": "15.4K Tweets"
+    "tweet_count": "243K Tweets"
   },
   {
-    "name": "feiertag",
-    "query": "feiertag",
+    "name": "Gesundheitsminister",
+    "query": "Gesundheitsminister",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "2,660 Tweets"
   },
   {
     "name": "Uniform",
     "query": "Uniform",
     "rank": 20,
-    "tweet_count": "22.5K Tweets"
+    "tweet_count": "22.7K Tweets"
   }
 ]

@@ -1,39 +1,39 @@
 [
   {
-    "name": "#ALLCAPS",
-    "query": "#ALLCAPS",
-    "rank": 1,
-    "tweet_count": "1,718 Tweets"
-  },
-  {
     "name": "Malik Monk",
     "query": "\"Malik Monk\"",
-    "rank": 2,
-    "tweet_count": "20.8K Tweets"
+    "rank": 1,
+    "tweet_count": "22.4K Tweets"
   },
   {
     "name": "#LakeShow",
     "query": "#LakeShow",
-    "rank": 3,
-    "tweet_count": "16.4K Tweets"
+    "rank": 2,
+    "tweet_count": "17K Tweets"
   },
   {
     "name": "#AEWRampage",
     "query": "#AEWRampage",
-    "rank": 4,
-    "tweet_count": "19.2K Tweets"
+    "rank": 3,
+    "tweet_count": "19.3K Tweets"
   },
   {
     "name": "Hawks",
     "query": "Hawks",
-    "rank": 5,
-    "tweet_count": "23.4K Tweets"
+    "rank": 4,
+    "tweet_count": "23.9K Tweets"
   },
   {
     "name": "#SmackDown",
     "query": "#SmackDown",
+    "rank": 5,
+    "tweet_count": "51.5K Tweets"
+  },
+  {
+    "name": "#DragRace",
+    "query": "#DragRace",
     "rank": 6,
-    "tweet_count": "51.1K Tweets"
+    "tweet_count": "21.2K Tweets"
   },
   {
     "name": "#SpacesGotTalent",
@@ -45,31 +45,31 @@
     "name": "Rondo",
     "query": "Rondo",
     "rank": 8,
-    "tweet_count": "5,676 Tweets"
+    "tweet_count": "5,821 Tweets"
   },
   {
     "name": "Giannis",
     "query": "Giannis",
     "rank": 9,
-    "tweet_count": "37.8K Tweets"
+    "tweet_count": "38.2K Tweets"
   },
   {
-    "name": "Cedi",
-    "query": "Cedi",
+    "name": "Mickie James",
+    "query": "\"Mickie James\"",
     "rank": 10,
-    "tweet_count": "1,596 Tweets"
+    "tweet_count": "8,598 Tweets"
+  },
+  {
+    "name": "Trae Young",
+    "query": "\"Trae Young\"",
+    "rank": 11,
+    "tweet_count": "6,026 Tweets"
   },
   {
     "name": "Coby",
     "query": "Coby",
-    "rank": 11,
-    "tweet_count": "5,759 Tweets"
-  },
-  {
-    "name": "Darius Garland",
-    "query": "\"Darius Garland\"",
     "rank": 12,
-    "tweet_count": "3,288 Tweets"
+    "tweet_count": "5,802 Tweets"
   },
   {
     "name": "Todd Graham",
@@ -78,45 +78,45 @@
     "tweet_count": null
   },
   {
+    "name": "Darius Garland",
+    "query": "\"Darius Garland\"",
+    "rank": 14,
+    "tweet_count": "3,486 Tweets"
+  },
+  {
     "name": "Nets",
     "query": "Nets",
-    "rank": 14,
-    "tweet_count": "23.1K Tweets"
+    "rank": 15,
+    "tweet_count": "23.3K Tweets"
   },
   {
     "name": "Solari",
     "query": "Solari",
-    "rank": 15,
-    "tweet_count": "11.4K Tweets"
-  },
-  {
-    "name": "Scott Pilgrim",
-    "query": "\"Scott Pilgrim\"",
     "rank": 16,
-    "tweet_count": "16.4K Tweets"
-  },
-  {
-    "name": "jeff green",
-    "query": "\"jeff green\"",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Mariah Bell",
-    "query": "\"Mariah Bell\"",
-    "rank": 18,
-    "tweet_count": "1,923 Tweets"
+    "tweet_count": "11.7K Tweets"
   },
   {
     "name": "Viagra",
     "query": "Viagra",
-    "rank": 19,
-    "tweet_count": "7,401 Tweets"
+    "rank": 17,
+    "tweet_count": "7,588 Tweets"
   },
   {
-    "name": "Capela",
-    "query": "Capela",
+    "name": "Scott Pilgrim",
+    "query": "\"Scott Pilgrim\"",
+    "rank": 18,
+    "tweet_count": "16.7K Tweets"
+  },
+  {
+    "name": "Mariah Bell",
+    "query": "\"Mariah Bell\"",
+    "rank": 19,
+    "tweet_count": "1,966 Tweets"
+  },
+  {
+    "name": "Lebron is 37",
+    "query": "\"Lebron is 37\"",
     "rank": 20,
-    "tweet_count": "2,047 Tweets"
+    "tweet_count": "2,543 Tweets"
   }
 ]

@@ -1,110 +1,122 @@
 [
   {
+    "name": "#Ashes",
+    "query": "#Ashes",
+    "rank": 1,
+    "tweet_count": "29.2K Tweets"
+  },
+  {
     "name": "Khawaja",
     "query": "Khawaja",
-    "rank": 1,
-    "tweet_count": "3,767 Tweets"
+    "rank": 2,
+    "tweet_count": "7,667 Tweets"
+  },
+  {
+    "name": "Uzzie",
+    "query": "Uzzie",
+    "rank": 3,
+    "tweet_count": null
   },
   {
     "name": "Harris",
     "query": "Harris",
-    "rank": 2,
-    "tweet_count": "72.6K Tweets"
+    "rank": 4,
+    "tweet_count": "73.3K Tweets"
   },
   {
     "name": "Green",
     "query": "Green",
-    "rank": 3,
-    "tweet_count": "266K Tweets"
+    "rank": 5,
+    "tweet_count": "269K Tweets"
   },
   {
     "name": "Hobart",
     "query": "Hobart",
-    "rank": 4,
-    "tweet_count": "1,463 Tweets"
+    "rank": 6,
+    "tweet_count": "1,534 Tweets"
+  },
+  {
+    "name": "#AUSvENG",
+    "query": "#AUSvENG",
+    "rank": 7,
+    "tweet_count": "5,257 Tweets"
+  },
+  {
+    "name": "Uzzy",
+    "query": "Uzzy",
+    "rank": 8,
+    "tweet_count": null
   },
   {
     "name": "Birmo",
     "query": "Birmo",
-    "rank": 5,
-    "tweet_count": "5,622 Tweets"
+    "rank": 9,
+    "tweet_count": "5,819 Tweets"
   },
   {
     "name": "Leunig",
     "query": "Leunig",
-    "rank": 6,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Simon",
     "query": "Simon",
-    "rank": 7,
-    "tweet_count": "42.5K Tweets"
-  },
-  {
-    "name": "Uzzie",
-    "query": "Uzzie",
-    "rank": 8,
-    "tweet_count": null
+    "rank": 11,
+    "tweet_count": "42.8K Tweets"
   },
   {
     "name": "Caulfield",
     "query": "Caulfield",
-    "rank": 9,
+    "rank": 12,
     "tweet_count": null
-  },
-  {
-    "name": "#Ashes2021",
-    "query": "#Ashes2021",
-    "rank": 10,
-    "tweet_count": "2,076 Tweets"
-  },
-  {
-    "name": "#COVID19Vic",
-    "query": "#COVID19Vic",
-    "rank": 11,
-    "tweet_count": "2,864 Tweets"
   },
   {
     "name": "#SmackDown",
     "query": "#SmackDown",
-    "rank": 12,
-    "tweet_count": "51.1K Tweets"
+    "rank": 13,
+    "tweet_count": "51.5K Tweets"
   },
   {
-    "name": "Malcolm",
-    "query": "Malcolm",
-    "rank": 13,
-    "tweet_count": "13.2K Tweets"
+    "name": "Warner",
+    "query": "Warner",
+    "rank": 14,
+    "tweet_count": "12K Tweets"
+  },
+  {
+    "name": "#COVID19Vic",
+    "query": "#COVID19Vic",
+    "rank": 15,
+    "tweet_count": "2,899 Tweets"
   },
   {
     "name": "#AustraliaHasFallen",
     "query": "#AustraliaHasFallen",
-    "rank": 14,
-    "tweet_count": "8,362 Tweets"
+    "rank": 16,
+    "tweet_count": "8,420 Tweets"
   },
   {
     "name": "Jack Leach",
     "query": "\"Jack Leach\"",
-    "rank": 15,
+    "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "#SidneyPoitier",
-    "query": "#SidneyPoitier",
-    "rank": 16,
-    "tweet_count": "46.2K Tweets"
-  },
-  {
-    "name": "Woolies",
-    "query": "Woolies",
-    "rank": 17,
-    "tweet_count": "1,719 Tweets"
-  },
-  {
-    "name": "#scottythefailure",
-    "query": "#scottythefailure",
+    "name": "Malcolm",
+    "query": "Malcolm",
     "rank": 18,
+    "tweet_count": "13.3K Tweets"
+  },
+  {
+    "name": "Sidney Poitier",
+    "query": "\"Sidney Poitier\"",
+    "rank": 19,
+    "tweet_count": "390K Tweets"
+  },
+  {
+    "name": "#ScottytheFailure",
+    "query": "#ScottytheFailure",
+    "rank": 20,
     "tweet_count": null
   }
 ]
