@@ -1,73 +1,73 @@
 [
   {
+    "name": "Jobbe",
+    "query": "Jobbe",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "#FACup",
     "query": "#FACup",
-    "rank": 1,
-    "tweet_count": "30K Tweets"
+    "rank": 2,
+    "tweet_count": "30.6K Tweets"
   },
   {
     "name": "#rvns22",
     "query": "#rvns22",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Ellemann",
     "query": "Ellemann",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "Avisbud",
-    "query": "Avisbud",
-    "rank": 4,
+    "name": "avisbud",
+    "query": "avisbud",
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Radikale",
     "query": "Radikale",
-    "rank": 5,
-    "tweet_count": "1,847 Tweets"
+    "rank": 6,
+    "tweet_count": "1,869 Tweets"
   },
   {
     "name": "#cavlingprisen",
     "query": "#cavlingprisen",
-    "rank": 6,
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Thomasberg",
     "query": "Thomasberg",
-    "rank": 7,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Bones",
     "query": "Bones",
-    "rank": 8,
-    "tweet_count": "27.7K Tweets"
+    "rank": 9,
+    "tweet_count": "27.9K Tweets"
   },
   {
     "name": "Trump",
     "query": "Trump",
-    "rank": 9,
-    "tweet_count": "459K Tweets"
+    "rank": 10,
+    "tweet_count": "463K Tweets"
   },
   {
-    "name": "randers",
-    "query": "randers",
-    "rank": 10,
+    "name": "Randers",
+    "query": "Randers",
+    "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "FA Cup",
-    "query": "\"FA Cup\"",
-    "rank": 11,
-    "tweet_count": "50K Tweets"
-  },
-  {
-    "name": "Enhedslisten",
-    "query": "Enhedslisten",
+    "name": "Ekstra Bladet",
+    "query": "\"Ekstra Bladet\"",
     "rank": 12,
     "tweet_count": null
   },
@@ -78,45 +78,45 @@
     "tweet_count": null
   },
   {
-    "name": "Jobbe",
-    "query": "Jobbe",
+    "name": "#xfactordk",
+    "query": "#xfactordk",
     "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "Ekstra Bladet",
-    "query": "\"Ekstra Bladet\"",
+    "name": "Støjberg",
+    "query": "Støjberg",
     "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "#xfactordk",
-    "query": "#xfactordk",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "mette frederiksen",
-    "query": "\"mette frederiksen\"",
-    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Lego",
     "query": "Lego",
-    "rank": 18,
-    "tweet_count": "20.9K Tweets"
-  },
-  {
-    "name": "Støjberg",
-    "query": "Støjberg",
-    "rank": 19,
-    "tweet_count": null
+    "rank": 16,
+    "tweet_count": "21K Tweets"
   },
   {
     "name": "Coutinho",
     "query": "Coutinho",
+    "rank": 17,
+    "tweet_count": "42.9K Tweets"
+  },
+  {
+    "name": "Inge",
+    "query": "Inge",
+    "rank": 18,
+    "tweet_count": "8,482 Tweets"
+  },
+  {
+    "name": "Sofie",
+    "query": "Sofie",
+    "rank": 19,
+    "tweet_count": "2,482 Tweets"
+  },
+  {
+    "name": "Dawn FM",
+    "query": "\"Dawn FM\"",
     "rank": 20,
-    "tweet_count": "42.8K Tweets"
+    "tweet_count": "46.3K Tweets"
   }
 ]
