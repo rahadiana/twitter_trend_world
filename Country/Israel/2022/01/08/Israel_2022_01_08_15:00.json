@@ -1,33 +1,33 @@
 [
   {
+    "name": "שבוע טוב",
+    "query": "\"שבוע טוב\"",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "שבת שלום",
     "query": "\"שבת שלום\"",
-    "rank": 1,
-    "tweet_count": "1,144 Tweets"
+    "rank": 2,
+    "tweet_count": "1,163 Tweets"
   },
   {
     "name": "איילה חסון",
     "query": "\"איילה חסון\"",
-    "rank": 2,
-    "tweet_count": "2,790 Tweets"
+    "rank": 3,
+    "tweet_count": "2,849 Tweets"
   },
   {
-    "name": "#shabbatshalom",
-    "query": "#shabbatshalom",
-    "rank": 3,
+    "name": "#ShabbatShalom",
+    "query": "#ShabbatShalom",
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "שי ניצן",
     "query": "\"שי ניצן\"",
-    "rank": 4,
-    "tweet_count": "1,881 Tweets"
-  },
-  {
-    "name": "עם מסכה",
-    "query": "\"עם מסכה\"",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "1,916 Tweets"
   },
   {
     "name": "ניר חפץ",
@@ -36,8 +36,8 @@
     "tweet_count": null
   },
   {
-    "name": "של טוויטר",
-    "query": "\"של טוויטר\"",
+    "name": "עם מסכה",
+    "query": "\"עם מסכה\"",
     "rank": 7,
     "tweet_count": null
   },
@@ -48,75 +48,75 @@
     "tweet_count": null
   },
   {
-    "name": "עוף לנו",
-    "query": "\"עוף לנו\"",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
     "name": "עד מדינה",
     "query": "\"עד מדינה\"",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "יורם טהר לב",
     "query": "\"יורם טהר לב\"",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "עוד צער",
     "query": "\"עוד צער\"",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "של טוויטר",
+    "query": "\"של טוויטר\"",
     "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "סימה קדמון",
-    "query": "\"סימה קדמון\"",
+    "name": "Wordle",
+    "query": "Wordle",
     "rank": 13,
+    "tweet_count": "124K Tweets"
+  },
+  {
+    "name": "#encro",
+    "query": "#encro",
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "#EncryptedPhone",
     "query": "#EncryptedPhone",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "#encro",
-    "query": "#encro",
-    "rank": 15,
+    "name": "Australia",
+    "query": "Australia",
+    "rank": 16,
+    "tweet_count": "240K Tweets"
+  },
+  {
+    "name": "אסלה חסון",
+    "query": "\"אסלה חסון\"",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "סימה קדמון",
+    "query": "\"סימה קדמון\"",
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "של ערוץ",
     "query": "\"של ערוץ\"",
-    "rank": 16,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "אראל סגל",
     "query": "\"אראל סגל\"",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "המון מזל טוב",
-    "query": "\"המון מזל טוב\"",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "אסלה חסון",
-    "query": "\"אסלה חסון\"",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "taylor swift",
-    "query": "\"taylor swift\"",
     "rank": 20,
-    "tweet_count": "59.3K Tweets"
+    "tweet_count": null
   }
 ]
