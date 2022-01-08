@@ -1,27 +1,27 @@
 [
   {
-    "name": "#DropToken",
-    "query": "#DropToken",
+    "name": "#droptoken",
+    "query": "#droptoken",
     "rank": 1,
-    "tweet_count": null
-  },
-  {
-    "name": "#krizbitiyor",
-    "query": "#krizbitiyor",
-    "rank": 2,
-    "tweet_count": "2,812 Tweets"
-  },
-  {
-    "name": "Ekonomi Düzelecek",
-    "query": "\"Ekonomi Düzelecek\"",
-    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Bilic",
     "query": "Bilic",
+    "rank": 2,
+    "tweet_count": "2,723 Tweets"
+  },
+  {
+    "name": "#krizbitiyor",
+    "query": "#krizbitiyor",
+    "rank": 3,
+    "tweet_count": "3,184 Tweets"
+  },
+  {
+    "name": "Ekonomi Düzelecek",
+    "query": "\"Ekonomi Düzelecek\"",
     "rank": 4,
-    "tweet_count": "1,889 Tweets"
+    "tweet_count": null
   },
   {
     "name": "YAZIK OLDU İSTANBULA",
@@ -39,19 +39,19 @@
     "name": "Prof",
     "query": "Prof",
     "rank": 7,
-    "tweet_count": "109K Tweets"
+    "tweet_count": "113K Tweets"
   },
   {
     "name": "Yaşar Hacısalihoğlu",
     "query": "\"Yaşar Hacısalihoğlu\"",
     "rank": 8,
-    "tweet_count": "4,114 Tweets"
+    "tweet_count": "4,639 Tweets"
   },
   {
-    "name": "Seks Çılgınlığı",
-    "query": "\"Seks Çılgınlığı\"",
+    "name": "Roman",
+    "query": "Roman",
     "rank": 9,
-    "tweet_count": "1,163 Tweets"
+    "tweet_count": "83K Tweets"
   },
   {
     "name": "Furkan Soyalp",
@@ -60,22 +60,22 @@
     "tweet_count": null
   },
   {
+    "name": "Seks Çılgınlığı",
+    "query": "\"Seks Çılgınlığı\"",
+    "rank": 11,
+    "tweet_count": "1,310 Tweets"
+  },
+  {
     "name": "AFiçin81ilde MHPziyareti",
     "query": "\"AFiçin81ilde MHPziyareti\"",
-    "rank": 11,
-    "tweet_count": "20.2K Tweets"
-  },
-  {
-    "name": "Muhammet Demir",
-    "query": "\"Muhammet Demir\"",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "23.1K Tweets"
   },
   {
-    "name": "Roman",
-    "query": "Roman",
+    "name": "Gaziantep FK",
+    "query": "\"Gaziantep FK\"",
     "rank": 13,
-    "tweet_count": "81.1K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Emre Mor",
@@ -84,21 +84,21 @@
     "tweet_count": null
   },
   {
-    "name": "Gaziantep FK",
-    "query": "\"Gaziantep FK\"",
+    "name": "Muhammet Demir",
+    "query": "\"Muhammet Demir\"",
     "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Zorbay Küçük",
-    "query": "\"Zorbay Küçük\"",
-    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Almanya'da",
     "query": "Almanya'da",
+    "rank": 16,
+    "tweet_count": "12.2K Tweets"
+  },
+  {
+    "name": "Bandırma",
+    "query": "Bandırma",
     "rank": 17,
-    "tweet_count": "11.1K Tweets"
+    "tweet_count": null
   }
 ]
