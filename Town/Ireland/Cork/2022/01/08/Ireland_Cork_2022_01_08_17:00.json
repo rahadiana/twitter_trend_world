@@ -1,39 +1,39 @@
 [
   {
-    "name": "Swindon",
-    "query": "Swindon",
+    "name": "Cambridge",
+    "query": "Cambridge",
     "rank": 1,
-    "tweet_count": "30.6K Tweets"
+    "tweet_count": "30.1K Tweets"
   },
   {
-    "name": "Sinead",
-    "query": "Sinead",
+    "name": "sinead",
+    "query": "sinead",
     "rank": 2,
-    "tweet_count": "10.4K Tweets"
+    "tweet_count": "11K Tweets"
   },
   {
     "name": "#treatylive",
     "query": "#treatylive",
     "rank": 3,
-    "tweet_count": "1,571 Tweets"
+    "tweet_count": "1,576 Tweets"
   },
   {
     "name": "#LateLateShow",
     "query": "#LateLateShow",
     "rank": 4,
-    "tweet_count": "1,161 Tweets"
+    "tweet_count": "1,166 Tweets"
+  },
+  {
+    "name": "Hull",
+    "query": "Hull",
+    "rank": 5,
+    "tweet_count": "9,156 Tweets"
   },
   {
     "name": "Evan Ferguson",
     "query": "\"Evan Ferguson\"",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Shane",
-    "query": "Shane",
     "rank": 6,
-    "tweet_count": "20.6K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#blockrockinbeats",
@@ -42,46 +42,46 @@
     "tweet_count": null
   },
   {
-    "name": "Everton",
-    "query": "Everton",
+    "name": "Shane",
+    "query": "Shane",
     "rank": 8,
-    "tweet_count": "19.5K Tweets"
-  },
-  {
-    "name": "Hull",
-    "query": "Hull",
-    "rank": 9,
-    "tweet_count": "8,275 Tweets"
+    "tweet_count": "21.1K Tweets"
   },
   {
     "name": "Molly Mae",
     "query": "\"Molly Mae\"",
-    "rank": 10,
-    "tweet_count": "45.6K Tweets"
+    "rank": 9,
+    "tweet_count": "45.9K Tweets"
   },
   {
-    "name": "Tipp",
-    "query": "Tipp",
-    "rank": 11,
-    "tweet_count": "2,125 Tweets"
+    "name": "Tipperary",
+    "query": "Tipperary",
+    "rank": 10,
+    "tweet_count": null
   },
   {
     "name": "Wes Hoolahan",
     "query": "\"Wes Hoolahan\"",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
+  },
+  {
+    "name": "Naas",
+    "query": "Naas",
+    "rank": 12,
+    "tweet_count": "1,271 Tweets"
   },
   {
     "name": "Brighton",
     "query": "Brighton",
     "rank": 13,
-    "tweet_count": "8,693 Tweets"
+    "tweet_count": "8,836 Tweets"
   },
   {
     "name": "David Bowie",
     "query": "\"David Bowie\"",
     "rank": 14,
-    "tweet_count": "48.8K Tweets"
+    "tweet_count": "50K Tweets"
   },
   {
     "name": "Crokes",
@@ -93,12 +93,12 @@
     "name": "Constitution Hill",
     "query": "\"Constitution Hill\"",
     "rank": 16,
-    "tweet_count": "1,942 Tweets"
+    "tweet_count": "1,956 Tweets"
   },
   {
-    "name": "Naas",
-    "query": "Naas",
+    "name": "FULL TIME",
+    "query": "\"FULL TIME\"",
     "rank": 17,
-    "tweet_count": "1,248 Tweets"
+    "tweet_count": "79.3K Tweets"
   }
 ]
