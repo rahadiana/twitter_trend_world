@@ -1,33 +1,33 @@
 [
   {
-    "name": "#FACup",
-    "query": "#FACup",
-    "rank": 1,
-    "tweet_count": "31.5K Tweets"
-  },
-  {
     "name": "Mark",
     "query": "Mark",
-    "rank": 2,
-    "tweet_count": "368K Tweets"
+    "rank": 1,
+    "tweet_count": "370K Tweets"
   },
   {
     "name": "#MUNvULS",
     "query": "#MUNvULS",
-    "rank": 3,
-    "tweet_count": "1,635 Tweets"
+    "rank": 2,
+    "tweet_count": "1,662 Tweets"
   },
   {
     "name": "#MaskedSingerUK",
     "query": "#MaskedSingerUK",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": "11.5K Tweets"
   },
   {
     "name": "Ulster",
     "query": "Ulster",
+    "rank": 4,
+    "tweet_count": "2,428 Tweets"
+  },
+  {
+    "name": "#TommyTiernanShow",
+    "query": "#TommyTiernanShow",
     "rank": 5,
-    "tweet_count": "2,381 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Tadhg Beirne",
@@ -51,60 +51,72 @@
     "name": "#LimitlessWin",
     "query": "#LimitlessWin",
     "rank": 9,
-    "tweet_count": "5,251 Tweets"
+    "tweet_count": "5,311 Tweets"
+  },
+  {
+    "name": "Thomond Park",
+    "query": "\"Thomond Park\"",
+    "rank": 10,
+    "tweet_count": null
   },
   {
     "name": "Johnny",
     "query": "Johnny",
-    "rank": 10,
-    "tweet_count": "73.2K Tweets"
-  },
-  {
-    "name": "Cambridge",
-    "query": "Cambridge",
     "rank": 11,
-    "tweet_count": "37.9K Tweets"
-  },
-  {
-    "name": "Sinead",
-    "query": "Sinead",
-    "rank": 12,
-    "tweet_count": "17.7K Tweets"
+    "tweet_count": "73.7K Tweets"
   },
   {
     "name": "Leinster",
     "query": "Leinster",
+    "rank": 12,
+    "tweet_count": "1,123 Tweets"
+  },
+  {
+    "name": "Cambridge",
+    "query": "Cambridge",
     "rank": 13,
-    "tweet_count": "1,108 Tweets"
+    "tweet_count": "38.3K Tweets"
+  },
+  {
+    "name": "Sinead",
+    "query": "Sinead",
+    "rank": 14,
+    "tweet_count": "17.9K Tweets"
   },
   {
     "name": "Shane",
     "query": "Shane",
-    "rank": 14,
-    "tweet_count": "28.4K Tweets"
+    "rank": 15,
+    "tweet_count": "28.6K Tweets"
   },
   {
     "name": "Naas",
     "query": "Naas",
-    "rank": 15,
-    "tweet_count": "1,487 Tweets"
+    "rank": 16,
+    "tweet_count": "1,492 Tweets"
   },
   {
     "name": "FA Cup",
     "query": "\"FA Cup\"",
-    "rank": 16,
-    "tweet_count": "54.4K Tweets"
+    "rank": 17,
+    "tweet_count": "54.9K Tweets"
   },
   {
     "name": "Kerry",
     "query": "Kerry",
-    "rank": 17,
-    "tweet_count": "7,894 Tweets"
+    "rank": 18,
+    "tweet_count": "7,983 Tweets"
   },
   {
     "name": "#HULEVE",
     "query": "#HULEVE",
-    "rank": 18,
-    "tweet_count": "2,950 Tweets"
+    "rank": 19,
+    "tweet_count": "2,951 Tweets"
+  },
+  {
+    "name": "#FACup",
+    "query": "#FACup",
+    "rank": 20,
+    "tweet_count": "31.8K Tweets"
   }
 ]
