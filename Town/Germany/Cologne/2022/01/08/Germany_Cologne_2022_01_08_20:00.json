@@ -1,81 +1,81 @@
 [
   {
-    "name": "Rose",
-    "query": "Rose",
-    "rank": 1,
-    "tweet_count": "200K Tweets"
-  },
-  {
     "name": "Trainer",
     "query": "Trainer",
-    "rank": 2,
-    "tweet_count": "18.6K Tweets"
+    "rank": 1,
+    "tweet_count": "18.7K Tweets"
   },
   {
     "name": "#SGEBVB",
     "query": "#SGEBVB",
-    "rank": 3,
-    "tweet_count": "7,983 Tweets"
+    "rank": 2,
+    "tweet_count": "8,020 Tweets"
   },
   {
     "name": "#Ichbinraus",
     "query": "#Ichbinraus",
+    "rank": 3,
+    "tweet_count": "7,513 Tweets"
+  },
+  {
+    "name": "#schlagdenstar",
+    "query": "#schlagdenstar",
     "rank": 4,
-    "tweet_count": "7,230 Tweets"
+    "tweet_count": "1,091 Tweets"
   },
   {
     "name": "#dswnwp",
     "query": "#dswnwp",
     "rank": 5,
-    "tweet_count": "1,000 Tweets"
-  },
-  {
-    "name": "#schlagdenstar",
-    "query": "#schlagdenstar",
-    "rank": 6,
-    "tweet_count": null
+    "tweet_count": "1,039 Tweets"
   },
   {
     "name": "#HeresToTheFuture",
     "query": "#HeresToTheFuture",
+    "rank": 6,
+    "tweet_count": "69K Tweets"
+  },
+  {
+    "name": "Haaland",
+    "query": "Haaland",
     "rank": 7,
-    "tweet_count": "68.3K Tweets"
+    "tweet_count": "29K Tweets"
   },
   {
     "name": "Dortmund",
     "query": "Dortmund",
     "rank": 8,
-    "tweet_count": "18.2K Tweets"
-  },
-  {
-    "name": "Haaland",
-    "query": "Haaland",
-    "rank": 9,
-    "tweet_count": "28.7K Tweets"
+    "tweet_count": "18.5K Tweets"
   },
   {
     "name": "Lammers",
     "query": "Lammers",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Frankfurt",
     "query": "Frankfurt",
-    "rank": 11,
-    "tweet_count": "12K Tweets"
+    "rank": 10,
+    "tweet_count": "12.3K Tweets"
   },
   {
     "name": "Eintracht",
     "query": "Eintracht",
+    "rank": 11,
+    "tweet_count": "7,212 Tweets"
+  },
+  {
+    "name": "Elton",
+    "query": "Elton",
     "rank": 12,
-    "tweet_count": "7,160 Tweets"
+    "tweet_count": "5,083 Tweets"
   },
   {
     "name": "Stef",
     "query": "Stef",
     "rank": 13,
-    "tweet_count": "19.5K Tweets"
+    "tweet_count": "19.6K Tweets"
   },
   {
     "name": "Halbzeit",
@@ -84,16 +84,16 @@
     "tweet_count": null
   },
   {
-    "name": "Brandt",
-    "query": "Brandt",
-    "rank": 15,
-    "tweet_count": "2,459 Tweets"
-  },
-  {
     "name": "Samstagabend",
     "query": "Samstagabend",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
+  },
+  {
+    "name": "Brandt",
+    "query": "Brandt",
+    "rank": 16,
+    "tweet_count": "2,495 Tweets"
   },
   {
     "name": "Hinteregger",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "Meunier",
-    "query": "Meunier",
+    "name": "Rose",
+    "query": "Rose",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "201K Tweets"
   },
   {
-    "name": "Fußball",
-    "query": "Fußball",
+    "name": "Meunier",
+    "query": "Meunier",
     "rank": 19,
-    "tweet_count": "3,390 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Mannschaft",
     "query": "Mannschaft",
     "rank": 20,
-    "tweet_count": "1,056 Tweets"
+    "tweet_count": "1,061 Tweets"
   }
 ]

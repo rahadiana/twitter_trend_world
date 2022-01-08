@@ -1,7 +1,7 @@
 [
   {
-    "name": "#ngāipanga",
-    "query": "#ngāipanga",
+    "name": "#ngāiPanga",
+    "query": "#ngāiPanga",
     "rank": 1,
     "tweet_count": null
   },
@@ -21,19 +21,19 @@
     "name": "Jane",
     "query": "Jane",
     "rank": 4,
-    "tweet_count": "54.1K Tweets"
+    "tweet_count": "54.6K Tweets"
   },
   {
     "name": "#Ashes",
     "query": "#Ashes",
     "rank": 5,
-    "tweet_count": "28K Tweets"
+    "tweet_count": "28.1K Tweets"
   },
   {
     "name": "Personally",
     "query": "Personally",
     "rank": 6,
-    "tweet_count": "80.2K Tweets"
+    "tweet_count": "80.7K Tweets"
   },
   {
     "name": "Firebirds",
@@ -45,7 +45,7 @@
     "name": "Matty",
     "query": "Matty",
     "rank": 8,
-    "tweet_count": "6,633 Tweets"
+    "tweet_count": "6,667 Tweets"
   },
   {
     "name": "Jaime Ridge",
@@ -57,7 +57,7 @@
     "name": "Starlink",
     "query": "Starlink",
     "rank": 10,
-    "tweet_count": "4,652 Tweets"
+    "tweet_count": "4,681 Tweets"
   },
   {
     "name": "Hipango",
@@ -78,28 +78,28 @@
     "tweet_count": null
   },
   {
+    "name": "Africa",
+    "query": "Africa",
+    "rank": 14,
+    "tweet_count": "158K Tweets"
+  },
+  {
     "name": "Whanganui",
     "query": "Whanganui",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Michael Bracewell",
     "query": "\"Michael Bracewell\"",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "To Sir With Love",
     "query": "\"To Sir With Love\"",
-    "rank": 16,
-    "tweet_count": "16K Tweets"
-  },
-  {
-    "name": "Australia",
-    "query": "Australia",
     "rank": 17,
-    "tweet_count": "218K Tweets"
+    "tweet_count": "16K Tweets"
   },
   {
     "name": "Sidney Poitier",
@@ -108,15 +108,15 @@
     "tweet_count": "177K Tweets"
   },
   {
-    "name": "Voices for Freedom",
-    "query": "\"Voices for Freedom\"",
+    "name": "Australia",
+    "query": "Australia",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "220K Tweets"
   },
   {
-    "name": "Luke",
-    "query": "Luke",
+    "name": "#NationalNotFitToGovern",
+    "query": "#NationalNotFitToGovern",
     "rank": 20,
-    "tweet_count": "49.2K Tweets"
+    "tweet_count": null
   }
 ]
