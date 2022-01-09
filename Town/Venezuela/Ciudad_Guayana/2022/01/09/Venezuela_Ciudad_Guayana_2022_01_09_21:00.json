@@ -3,25 +3,25 @@
     "name": "Barinas",
     "query": "Barinas",
     "rank": 1,
-    "tweet_count": "163K Tweets"
+    "tweet_count": "170K Tweets"
   },
   {
     "name": "Roma",
     "query": "Roma",
     "rank": 2,
-    "tweet_count": "98.3K Tweets"
-  },
-  {
-    "name": "José Curiel",
-    "query": "\"José Curiel\"",
-    "rank": 3,
-    "tweet_count": "6,733 Tweets"
+    "tweet_count": "99.8K Tweets"
   },
   {
     "name": "Claudio Fermín",
     "query": "\"Claudio Fermín\"",
+    "rank": 3,
+    "tweet_count": "7,664 Tweets"
+  },
+  {
+    "name": "José Curiel",
+    "query": "\"José Curiel\"",
     "rank": 4,
-    "tweet_count": "7,249 Tweets"
+    "tweet_count": "6,965 Tweets"
   },
   {
     "name": "#clubhipicoxtves",
@@ -30,75 +30,75 @@
     "tweet_count": null
   },
   {
-    "name": "Robert Hernández",
-    "query": "\"Robert Hernández\"",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
     "name": "Shingeki",
     "query": "Shingeki",
+    "rank": 6,
+    "tweet_count": "246K Tweets"
+  },
+  {
+    "name": "Robert Hernández",
+    "query": "\"Robert Hernández\"",
     "rank": 7,
-    "tweet_count": "240K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Kimetsu",
     "query": "Kimetsu",
     "rank": 8,
-    "tweet_count": "50.7K Tweets"
+    "tweet_count": "51.8K Tweets"
   },
   {
     "name": "Garrido",
     "query": "Garrido",
     "rank": 9,
-    "tweet_count": "20.8K Tweets"
+    "tweet_count": "21.6K Tweets"
   },
   {
     "name": "Argenis Chávez",
     "query": "\"Argenis Chávez\"",
     "rank": 10,
-    "tweet_count": "2,632 Tweets"
+    "tweet_count": "2,748 Tweets"
   },
   {
     "name": "PSUV",
     "query": "PSUV",
     "rank": 11,
-    "tweet_count": "12.5K Tweets"
-  },
-  {
-    "name": "Freddy Superlano",
-    "query": "\"Freddy Superlano\"",
-    "rank": 12,
-    "tweet_count": "3,163 Tweets"
-  },
-  {
-    "name": "Euphoria",
-    "query": "Euphoria",
-    "rank": 13,
-    "tweet_count": "297K Tweets"
+    "tweet_count": "12.9K Tweets"
   },
   {
     "name": "#LaRinconada",
     "query": "#LaRinconada",
-    "rank": 14,
-    "tweet_count": "1,266 Tweets"
-  },
-  {
-    "name": "#FelizDomingo",
-    "query": "#FelizDomingo",
-    "rank": 15,
-    "tweet_count": "20.4K Tweets"
+    "rank": 12,
+    "tweet_count": "1,284 Tweets"
   },
   {
     "name": "Falcón",
     "query": "Falcón",
-    "rank": 16,
-    "tweet_count": "21.3K Tweets"
+    "rank": 13,
+    "tweet_count": "21.7K Tweets"
   },
   {
     "name": "QEPD",
     "query": "QEPD",
+    "rank": 14,
+    "tweet_count": "5,309 Tweets"
+  },
+  {
+    "name": "Freddy Superlano",
+    "query": "\"Freddy Superlano\"",
+    "rank": 15,
+    "tweet_count": "3,275 Tweets"
+  },
+  {
+    "name": "Euphoria",
+    "query": "Euphoria",
+    "rank": 16,
+    "tweet_count": "305K Tweets"
+  },
+  {
+    "name": "#FelizDomingo",
+    "query": "#FelizDomingo",
     "rank": 17,
-    "tweet_count": "5,182 Tweets"
+    "tweet_count": "20.8K Tweets"
   }
 ]
