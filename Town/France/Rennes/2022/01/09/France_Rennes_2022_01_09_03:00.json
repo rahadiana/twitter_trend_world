@@ -1,27 +1,27 @@
 [
   {
-    "name": "Lens",
-    "query": "Lens",
+    "name": "lens",
+    "query": "lens",
     "rank": 1,
-    "tweet_count": "17.8K Tweets"
+    "tweet_count": "18K Tweets"
   },
   {
     "name": "#KCORP",
     "query": "#KCORP",
     "rank": 2,
-    "tweet_count": "52.4K Tweets"
+    "tweet_count": "52.6K Tweets"
   },
   {
-    "name": "#OEED",
-    "query": "#OEED",
+    "name": "#oeed",
+    "query": "#oeed",
     "rank": 3,
-    "tweet_count": "1,394 Tweets"
+    "tweet_count": "1,402 Tweets"
   },
   {
     "name": "#jevotepourzemmour",
     "query": "#jevotepourzemmour",
     "rank": 4,
-    "tweet_count": "7,202 Tweets"
+    "tweet_count": "7,230 Tweets"
   },
   {
     "name": "#KCXShowmatch",
@@ -33,90 +33,90 @@
     "name": "#RCLSRFC",
     "query": "#RCLSRFC",
     "rank": 6,
-    "tweet_count": "5,245 Tweets"
+    "tweet_count": "5,254 Tweets"
   },
   {
     "name": "Malika",
     "query": "Malika",
     "rank": 7,
-    "tweet_count": "2,918 Tweets"
-  },
-  {
-    "name": "Benzema",
-    "query": "Benzema",
-    "rank": 8,
-    "tweet_count": "94.8K Tweets"
+    "tweet_count": "2,951 Tweets"
   },
   {
     "name": "Vinicius",
     "query": "Vinicius",
+    "rank": 8,
+    "tweet_count": "91K Tweets"
+  },
+  {
+    "name": "Benzema",
+    "query": "Benzema",
     "rank": 9,
-    "tweet_count": "90.1K Tweets"
+    "tweet_count": "95.4K Tweets"
   },
   {
     "name": "Rekkles",
     "query": "Rekkles",
     "rank": 10,
-    "tweet_count": "5,097 Tweets"
-  },
-  {
-    "name": "Majib",
-    "query": "Majib",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Cabo",
-    "query": "Cabo",
-    "rank": 12,
-    "tweet_count": "24.9K Tweets"
+    "tweet_count": "5,110 Tweets"
   },
   {
     "name": "Courtois",
     "query": "Courtois",
-    "rank": 13,
-    "tweet_count": "6,991 Tweets"
+    "rank": 11,
+    "tweet_count": "7,009 Tweets"
   },
   {
     "name": "Klay Thompson",
     "query": "\"Klay Thompson\"",
-    "rank": 14,
-    "tweet_count": "60.5K Tweets"
+    "rank": 12,
+    "tweet_count": "61.7K Tweets"
   },
   {
-    "name": "Saken",
-    "query": "Saken",
-    "rank": 15,
-    "tweet_count": "9,741 Tweets"
-  },
-  {
-    "name": "Saïd",
-    "query": "Saïd",
-    "rank": 16,
-    "tweet_count": "1.39M Tweets"
-  },
-  {
-    "name": "Asensio",
-    "query": "Asensio",
-    "rank": 17,
-    "tweet_count": "8,865 Tweets"
+    "name": "saïd",
+    "query": "saïd",
+    "rank": 13,
+    "tweet_count": "1.41M Tweets"
   },
   {
     "name": "Clauss",
     "query": "Clauss",
-    "rank": 18,
-    "tweet_count": "2,294 Tweets"
+    "rank": 14,
+    "tweet_count": "2,315 Tweets"
   },
   {
     "name": "Euphoria",
     "query": "Euphoria",
-    "rank": 19,
-    "tweet_count": "144K Tweets"
+    "rank": 15,
+    "tweet_count": "149K Tweets"
   },
   {
-    "name": "Eren",
-    "query": "Eren",
+    "name": "#mobspace",
+    "query": "#mobspace",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "#NFLextra",
+    "query": "#NFLextra",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "#karmalaserie",
+    "query": "#karmalaserie",
+    "rank": 18,
+    "tweet_count": "1,085 Tweets"
+  },
+  {
+    "name": "#SinglesInferno",
+    "query": "#SinglesInferno",
+    "rank": 19,
+    "tweet_count": "103K Tweets"
+  },
+  {
+    "name": "#KELAWIN",
+    "query": "#KELAWIN",
     "rank": 20,
-    "tweet_count": "59K Tweets"
+    "tweet_count": null
   }
 ]

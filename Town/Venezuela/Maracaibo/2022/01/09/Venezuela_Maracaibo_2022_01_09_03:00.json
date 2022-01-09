@@ -1,21 +1,21 @@
 [
   {
+    "name": "Madrid",
+    "query": "Madrid",
+    "rank": 1,
+    "tweet_count": "271K Tweets"
+  },
+  {
     "name": "Belisario",
     "query": "Belisario",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#LVBPxTLT",
     "query": "#LVBPxTLT",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "Caribes",
-    "query": "Caribes",
     "rank": 3,
-    "tweet_count": "1,484 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Reginatto",
@@ -27,96 +27,96 @@
     "name": "Columbo",
     "query": "Columbo",
     "rank": 5,
-    "tweet_count": "1,287 Tweets"
+    "tweet_count": "1,304 Tweets"
   },
   {
     "name": "Cardenales",
     "query": "Cardenales",
     "rank": 6,
-    "tweet_count": "3,581 Tweets"
+    "tweet_count": "3,638 Tweets"
+  },
+  {
+    "name": "Caribes",
+    "query": "Caribes",
+    "rank": 7,
+    "tweet_count": "1,513 Tweets"
   },
   {
     "name": "Magallanes",
     "query": "Magallanes",
-    "rank": 7,
-    "tweet_count": "8,614 Tweets"
+    "rank": 8,
+    "tweet_count": "8,732 Tweets"
   },
   {
     "name": "Machi",
     "query": "Machi",
-    "rank": 8,
-    "tweet_count": "7,407 Tweets"
+    "rank": 9,
+    "tweet_count": "7,591 Tweets"
   },
   {
     "name": "#VacunateContraLaCovid19",
     "query": "#VacunateContraLaCovid19",
-    "rank": 9,
-    "tweet_count": "167K Tweets"
-  },
-  {
-    "name": "#8Ene",
-    "query": "#8Ene",
     "rank": 10,
-    "tweet_count": "70.6K Tweets"
+    "tweet_count": "169K Tweets"
   },
   {
     "name": "#BarinasSaleDelChavismo",
     "query": "#BarinasSaleDelChavismo",
     "rank": 11,
-    "tweet_count": "1,638 Tweets"
+    "tweet_count": "1,676 Tweets"
   },
   {
-    "name": "El Chichero",
-    "query": "\"El Chichero\"",
+    "name": "el chichero",
+    "query": "\"el chichero\"",
     "rank": 12,
     "tweet_count": null
   },
   {
+    "name": "Shingeki",
+    "query": "Shingeki",
+    "rank": 13,
+    "tweet_count": "80.3K Tweets"
+  },
+  {
     "name": "Chicha",
     "query": "Chicha",
-    "rank": 13,
-    "tweet_count": "4,726 Tweets"
+    "rank": 14,
+    "tweet_count": "4,773 Tweets"
   },
   {
     "name": "Euphoria",
     "query": "Euphoria",
-    "rank": 14,
-    "tweet_count": "144K Tweets"
-  },
-  {
-    "name": "Shingeki",
-    "query": "Shingeki",
     "rank": 15,
-    "tweet_count": "78K Tweets"
+    "tweet_count": "149K Tweets"
   },
   {
-    "name": "#10ene",
-    "query": "#10ene",
+    "name": "#8Ene",
+    "query": "#8Ene",
     "rank": 16,
-    "tweet_count": "3,153 Tweets"
-  },
-  {
-    "name": "Madrid",
-    "query": "Madrid",
-    "rank": 17,
-    "tweet_count": "269K Tweets"
+    "tweet_count": "71.2K Tweets"
   },
   {
     "name": "Trapiello",
     "query": "Trapiello",
-    "rank": 18,
-    "tweet_count": "22.1K Tweets"
+    "rank": 17,
+    "tweet_count": "22.4K Tweets"
   },
   {
-    "name": "benzema",
-    "query": "benzema",
-    "rank": 19,
-    "tweet_count": "94.8K Tweets"
+    "name": "En Barinas",
+    "query": "\"En Barinas\"",
+    "rank": 18,
+    "tweet_count": "42.8K Tweets"
   },
   {
     "name": "Vinicius",
     "query": "Vinicius",
+    "rank": 19,
+    "tweet_count": "91K Tweets"
+  },
+  {
+    "name": "Garrido",
+    "query": "Garrido",
     "rank": 20,
-    "tweet_count": "90K Tweets"
+    "tweet_count": "7,194 Tweets"
   }
 ]
