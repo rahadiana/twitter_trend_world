@@ -3,60 +3,102 @@
     "name": "Arsenal",
     "query": "Arsenal",
     "rank": 1,
-    "tweet_count": "190K Tweets"
+    "tweet_count": "192K Tweets"
   },
   {
     "name": "Cape Verde",
     "query": "\"Cape Verde\"",
     "rank": 2,
-    "tweet_count": "6,212 Tweets"
+    "tweet_count": "6,456 Tweets"
+  },
+  {
+    "name": "Roma",
+    "query": "Roma",
+    "rank": 3,
+    "tweet_count": "97.6K Tweets"
   },
   {
     "name": "#AFCON2021",
     "query": "#AFCON2021",
-    "rank": 3,
-    "tweet_count": "150K Tweets"
+    "rank": 4,
+    "tweet_count": "151K Tweets"
   },
   {
     "name": "Ethiopia",
     "query": "Ethiopia",
-    "rank": 4,
-    "tweet_count": "158K Tweets"
+    "rank": 5,
+    "tweet_count": "159K Tweets"
+  },
+  {
+    "name": "#MentorX",
+    "query": "#MentorX",
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "Mourinho",
+    "query": "Mourinho",
+    "rank": 7,
+    "tweet_count": "17.8K Tweets"
   },
   {
     "name": "Burkina Faso",
     "query": "\"Burkina Faso\"",
-    "rank": 5,
-    "tweet_count": "39K Tweets"
+    "rank": 8,
+    "tweet_count": "39.2K Tweets"
   },
   {
-    "name": "Onana",
-    "query": "Onana",
-    "rank": 6,
-    "tweet_count": "9,039 Tweets"
+    "name": "Nottingham Forest",
+    "query": "\"Nottingham Forest\"",
+    "rank": 9,
+    "tweet_count": "27.8K Tweets"
+  },
+  {
+    "name": "Cameroon",
+    "query": "Cameroon",
+    "rank": 10,
+    "tweet_count": "56.3K Tweets"
+  },
+  {
+    "name": "Juventus",
+    "query": "Juventus",
+    "rank": 11,
+    "tweet_count": "40.8K Tweets"
+  },
+  {
+    "name": "Vincent Aboubakar",
+    "query": "\"Vincent Aboubakar\"",
+    "rank": 12,
+    "tweet_count": "8,846 Tweets"
   },
   {
     "name": "#CMRBFA",
     "query": "#CMRBFA",
-    "rank": 7,
+    "rank": 13,
     "tweet_count": "12.9K Tweets"
   },
   {
     "name": "Africa",
     "query": "Africa",
-    "rank": 8,
-    "tweet_count": "188K Tweets"
+    "rank": 14,
+    "tweet_count": "189K Tweets"
   },
   {
     "name": "Copa America",
     "query": "\"Copa America\"",
-    "rank": 9,
-    "tweet_count": "11K Tweets"
+    "rank": 15,
+    "tweet_count": "11.1K Tweets"
+  },
+  {
+    "name": "#CAN2021",
+    "query": "#CAN2021",
+    "rank": 16,
+    "tweet_count": "54.9K Tweets"
   },
   {
     "name": "European",
     "query": "European",
-    "rank": 10,
-    "tweet_count": "41.5K Tweets"
+    "rank": 17,
+    "tweet_count": "41.9K Tweets"
   }
 ]
