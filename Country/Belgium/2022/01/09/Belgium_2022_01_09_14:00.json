@@ -1,27 +1,27 @@
 [
   {
-    "name": "#7dag",
-    "query": "#7dag",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
-    "name": "#KCORP",
-    "query": "#KCORP",
-    "rank": 2,
-    "tweet_count": "56.4K Tweets"
-  },
-  {
     "name": "#BKMiddelkerke",
     "query": "#BKMiddelkerke",
-    "rank": 3,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "#BKveldrijden",
     "query": "#BKveldrijden",
-    "rank": 4,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "#7dag",
+    "query": "#7dag",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "#KCORP",
+    "query": "#KCORP",
+    "rank": 4,
+    "tweet_count": "56.5K Tweets"
   },
   {
     "name": "#ANDWES",
@@ -42,8 +42,8 @@
     "tweet_count": null
   },
   {
-    "name": "Luuk De Jong",
-    "query": "\"Luuk De Jong\"",
+    "name": "Luuk de Jong",
+    "query": "\"Luuk de Jong\"",
     "rank": 8,
     "tweet_count": "21.9K Tweets"
   },
@@ -51,7 +51,7 @@
     "name": "Vinicius",
     "query": "Vinicius",
     "rank": 9,
-    "tweet_count": "111K Tweets"
+    "tweet_count": "112K Tweets"
   },
   {
     "name": "Sanne Cant",
@@ -69,54 +69,54 @@
     "name": "Dani Alves",
     "query": "\"Dani Alves\"",
     "rank": 12,
-    "tweet_count": "25.9K Tweets"
+    "tweet_count": "26K Tweets"
   },
   {
     "name": "Mendy",
     "query": "Mendy",
     "rank": 13,
-    "tweet_count": "17.2K Tweets"
+    "tweet_count": "17.3K Tweets"
+  },
+  {
+    "name": "Cameroun",
+    "query": "Cameroun",
+    "rank": 14,
+    "tweet_count": "16.1K Tweets"
   },
   {
     "name": "Voka",
     "query": "Voka",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Nawel",
-    "query": "Nawel",
     "rank": 15,
-    "tweet_count": "1,041 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Jamie",
     "query": "Jamie",
     "rank": 16,
-    "tweet_count": "158K Tweets"
-  },
-  {
-    "name": "Cameroun",
-    "query": "Cameroun",
-    "rank": 17,
-    "tweet_count": "15.7K Tweets"
+    "tweet_count": "160K Tweets"
   },
   {
     "name": "Asensio",
     "query": "Asensio",
-    "rank": 18,
-    "tweet_count": "9,774 Tweets"
+    "rank": 17,
+    "tweet_count": "9,799 Tweets"
   },
   {
     "name": "FA Cup",
     "query": "\"FA Cup\"",
-    "rank": 19,
-    "tweet_count": "67.2K Tweets"
+    "rank": 18,
+    "tweet_count": "68.5K Tweets"
   },
   {
     "name": "Rekkles",
     "query": "Rekkles",
+    "rank": 19,
+    "tweet_count": "5,228 Tweets"
+  },
+  {
+    "name": "Courtois",
+    "query": "Courtois",
     "rank": 20,
-    "tweet_count": "5,211 Tweets"
+    "tweet_count": "7,449 Tweets"
   }
 ]
