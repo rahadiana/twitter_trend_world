@@ -1,61 +1,61 @@
 [
   {
-    "name": "#kcorp",
-    "query": "#kcorp",
+    "name": "#KCORP",
+    "query": "#KCORP",
     "rank": 1,
-    "tweet_count": "56.3K Tweets"
-  },
-  {
-    "name": "#KCXShowmatch",
-    "query": "#KCXShowmatch",
-    "rank": 2,
-    "tweet_count": "25.6K Tweets"
+    "tweet_count": "56.7K Tweets"
   },
   {
     "name": "#SB29OGCN",
     "query": "#SB29OGCN",
-    "rank": 3,
-    "tweet_count": "1,501 Tweets"
-  },
-  {
-    "name": "Guillaume Peltier",
-    "query": "\"Guillaume Peltier\"",
-    "rank": 4,
-    "tweet_count": "18.6K Tweets"
+    "rank": 2,
+    "tweet_count": "1,861 Tweets"
   },
   {
     "name": "#Deltacron",
     "query": "#Deltacron",
-    "rank": 5,
-    "tweet_count": "26.5K Tweets"
+    "rank": 3,
+    "tweet_count": "29.2K Tweets"
+  },
+  {
+    "name": "Peltier",
+    "query": "Peltier",
+    "rank": 4,
+    "tweet_count": "52.8K Tweets"
   },
   {
     "name": "Frappart",
     "query": "Frappart",
+    "rank": 5,
+    "tweet_count": "1,329 Tweets"
+  },
+  {
+    "name": "Benitez",
+    "query": "Benitez",
     "rank": 6,
-    "tweet_count": "1,102 Tweets"
+    "tweet_count": "8,047 Tweets"
   },
   {
     "name": "#FreebetUnibet",
     "query": "#FreebetUnibet",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "1,077 Tweets"
   },
   {
-    "name": "Benitez",
-    "query": "Benitez",
+    "name": "Schneiderlin",
+    "query": "Schneiderlin",
     "rank": 8,
-    "tweet_count": "7,867 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Ciotti",
     "query": "Ciotti",
     "rank": 9,
-    "tweet_count": "5,567 Tweets"
+    "tweet_count": "6,126 Tweets"
   },
   {
-    "name": "Schneiderlin",
-    "query": "Schneiderlin",
+    "name": "Kluivert",
+    "query": "Kluivert",
     "rank": 10,
     "tweet_count": null
   },
@@ -66,10 +66,10 @@
     "tweet_count": null
   },
   {
-    "name": "Kluivert",
-    "query": "Kluivert",
+    "name": "Chypre",
+    "query": "Chypre",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "4,269 Tweets"
   },
   {
     "name": "Quentin Fillon Maillet",
@@ -78,45 +78,39 @@
     "tweet_count": null
   },
   {
-    "name": "Dolberg",
-    "query": "Dolberg",
+    "name": "dolberg",
+    "query": "dolberg",
     "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "Chypre",
-    "query": "Chypre",
+    "name": "Brest",
+    "query": "Brest",
     "rank": 15,
-    "tweet_count": "3,457 Tweets"
+    "tweet_count": "4,205 Tweets"
   },
   {
     "name": "Rosario",
     "query": "Rosario",
     "rank": 16,
-    "tweet_count": "12.5K Tweets"
+    "tweet_count": "12.8K Tweets"
+  },
+  {
+    "name": "Effie",
+    "query": "Effie",
+    "rank": 17,
+    "tweet_count": "4,104 Tweets"
+  },
+  {
+    "name": "primaire",
+    "query": "primaire",
+    "rank": 18,
+    "tweet_count": "6,699 Tweets"
   },
   {
     "name": "Boruto",
     "query": "Boruto",
-    "rank": 17,
-    "tweet_count": "26.3K Tweets"
-  },
-  {
-    "name": "Gouiri",
-    "query": "Gouiri",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Eric Zemmour",
-    "query": "\"Eric Zemmour\"",
     "rank": 19,
-    "tweet_count": "49.8K Tweets"
-  },
-  {
-    "name": "Primaire",
-    "query": "Primaire",
-    "rank": 20,
-    "tweet_count": "6,291 Tweets"
+    "tweet_count": "27.8K Tweets"
   }
 ]
