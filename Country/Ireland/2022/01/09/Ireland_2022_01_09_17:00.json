@@ -1,27 +1,27 @@
 [
   {
-    "name": "Ballygunner",
-    "query": "Ballygunner",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#LIVSHR",
     "query": "#LIVSHR",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "19.1K Tweets"
+  },
+  {
+    "name": "Ballygunner",
+    "query": "Ballygunner",
+    "rank": 2,
+    "tweet_count": null
   },
   {
     "name": "AFCON",
     "query": "AFCON",
     "rank": 3,
-    "tweet_count": "98.2K Tweets"
+    "tweet_count": "106K Tweets"
   },
   {
-    "name": "#lufc",
-    "query": "#lufc",
+    "name": "#FACup",
+    "query": "#FACup",
     "rank": 4,
-    "tweet_count": "9,164 Tweets"
+    "tweet_count": "41.6K Tweets"
   },
   {
     "name": "#gaabeo",
@@ -33,30 +33,54 @@
     "name": "Morecambe",
     "query": "Morecambe",
     "rank": 6,
-    "tweet_count": "13.6K Tweets"
+    "tweet_count": "14K Tweets"
+  },
+  {
+    "name": "Fabinho",
+    "query": "Fabinho",
+    "rank": 7,
+    "tweet_count": "7,436 Tweets"
+  },
+  {
+    "name": "#lufc",
+    "query": "#lufc",
+    "rank": 8,
+    "tweet_count": "9,730 Tweets"
+  },
+  {
+    "name": "Shrewsbury",
+    "query": "Shrewsbury",
+    "rank": 9,
+    "tweet_count": "28.5K Tweets"
   },
   {
     "name": "Bowen",
     "query": "Bowen",
-    "rank": 7,
-    "tweet_count": "8,248 Tweets"
+    "rank": 10,
+    "tweet_count": "8,477 Tweets"
   },
   {
     "name": "Bobby",
     "query": "Bobby",
-    "rank": 8,
-    "tweet_count": "32.4K Tweets"
+    "rank": 11,
+    "tweet_count": "33.6K Tweets"
   },
   {
-    "name": "knockmore",
-    "query": "knockmore",
-    "rank": 9,
+    "name": "Knockmore",
+    "query": "Knockmore",
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "FA Cup",
+    "query": "\"FA Cup\"",
+    "rank": 13,
+    "tweet_count": "73K Tweets"
   },
   {
     "name": "Kerry",
     "query": "Kerry",
-    "rank": 10,
-    "tweet_count": "7,451 Tweets"
+    "rank": 14,
+    "tweet_count": "7,665 Tweets"
   }
 ]
