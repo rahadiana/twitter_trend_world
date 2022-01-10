@@ -1,39 +1,39 @@
 [
   {
+    "name": "Curry",
+    "query": "Curry",
+    "rank": 1,
+    "tweet_count": "63K Tweets"
+  },
+  {
     "name": "Klay",
     "query": "Klay",
-    "rank": 1,
-    "tweet_count": "448K Tweets"
+    "rank": 2,
+    "tweet_count": "451K Tweets"
   },
   {
     "name": "Colman",
     "query": "Colman",
-    "rank": 2,
-    "tweet_count": "28.2K Tweets"
-  },
-  {
-    "name": "Curry",
-    "query": "Curry",
     "rank": 3,
-    "tweet_count": "62.4K Tweets"
+    "tweet_count": "28.4K Tweets"
   },
   {
     "name": "Ja Morant",
     "query": "\"Ja Morant\"",
     "rank": 4,
-    "tweet_count": "45.5K Tweets"
+    "tweet_count": "47.4K Tweets"
   },
   {
-    "name": "Stromae",
-    "query": "Stromae",
+    "name": "stromae",
+    "query": "stromae",
     "rank": 5,
-    "tweet_count": "40.8K Tweets"
+    "tweet_count": "41.2K Tweets"
   },
   {
     "name": "#AttackonTitanFinalSeasonpart2",
     "query": "#AttackonTitanFinalSeasonpart2",
     "rank": 6,
-    "tweet_count": "92.3K Tweets"
+    "tweet_count": "93.4K Tweets"
   },
   {
     "name": "#OLPSG",
@@ -42,34 +42,34 @@
     "tweet_count": "35.5K Tweets"
   },
   {
-    "name": "#Euphoria",
-    "query": "#Euphoria",
+    "name": "#NFLextra",
+    "query": "#NFLextra",
     "rank": 8,
-    "tweet_count": "250K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Koba",
-    "query": "Koba",
+    "name": "#EUPHORIA",
+    "query": "#EUPHORIA",
     "rank": 9,
-    "tweet_count": "20.9K Tweets"
+    "tweet_count": "260K Tweets"
   },
   {
     "name": "Camille",
     "query": "Camille",
     "rank": 10,
-    "tweet_count": "9,606 Tweets"
+    "tweet_count": "9,745 Tweets"
   },
   {
-    "name": "#NFLextra",
-    "query": "#NFLextra",
+    "name": "Koba",
+    "query": "Koba",
     "rank": 11,
-    "tweet_count": null
+    "tweet_count": "21.1K Tweets"
   },
   {
     "name": "#ZoneInterdite",
     "query": "#ZoneInterdite",
     "rank": 12,
-    "tweet_count": "6,781 Tweets"
+    "tweet_count": "6,847 Tweets"
   },
   {
     "name": "Michut",
@@ -78,39 +78,27 @@
     "tweet_count": "10.9K Tweets"
   },
   {
-    "name": "Demon Slayer",
-    "query": "\"Demon Slayer\"",
-    "rank": 14,
-    "tweet_count": "90.4K Tweets"
-  },
-  {
-    "name": "Kimetsu",
-    "query": "Kimetsu",
-    "rank": 15,
-    "tweet_count": "66.1K Tweets"
-  },
-  {
-    "name": "Twittos",
-    "query": "Twittos",
-    "rank": 16,
-    "tweet_count": "7,471 Tweets"
-  },
-  {
     "name": "Verratti",
     "query": "Verratti",
-    "rank": 17,
-    "tweet_count": "4,952 Tweets"
+    "rank": 14,
+    "tweet_count": "4,968 Tweets"
   },
   {
     "name": "Pochettino",
     "query": "Pochettino",
-    "rank": 18,
-    "tweet_count": "8,335 Tweets"
+    "rank": 15,
+    "tweet_count": "8,375 Tweets"
   },
   {
-    "name": "xavi simons",
-    "query": "\"xavi simons\"",
-    "rank": 19,
-    "tweet_count": "4,058 Tweets"
+    "name": "Xavi Simons",
+    "query": "\"Xavi Simons\"",
+    "rank": 16,
+    "tweet_count": "4,092 Tweets"
+  },
+  {
+    "name": "#DemonSlayer",
+    "query": "#DemonSlayer",
+    "rank": 17,
+    "tweet_count": "27.5K Tweets"
   }
 ]
