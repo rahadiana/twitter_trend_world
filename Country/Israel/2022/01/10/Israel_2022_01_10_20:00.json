@@ -18,22 +18,22 @@
     "tweet_count": null
   },
   {
-    "name": "Bob Saget",
-    "query": "\"Bob Saget\"",
-    "rank": 4,
-    "tweet_count": "690K Tweets"
-  },
-  {
     "name": "רק בריאות",
     "query": "\"רק בריאות\"",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "רפואה שלמה",
     "query": "\"רפואה שלמה\"",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "bob saget",
+    "query": "\"bob saget\"",
+    "rank": 6,
+    "tweet_count": "691K Tweets"
   },
   {
     "name": "Aura Herzog",
@@ -69,13 +69,13 @@
     "name": "Japan",
     "query": "Japan",
     "rank": 12,
-    "tweet_count": "305K Tweets"
+    "tweet_count": "306K Tweets"
   },
   {
     "name": "#NFTCommumity",
     "query": "#NFTCommumity",
     "rank": 13,
-    "tweet_count": "64.2K Tweets"
+    "tweet_count": "64.6K Tweets"
   },
   {
     "name": "של משרד",
@@ -108,14 +108,14 @@
     "tweet_count": null
   },
   {
-    "name": "knesset",
-    "query": "knesset",
+    "name": "יום שני",
+    "query": "\"יום שני\"",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "יום שני",
-    "query": "\"יום שני\"",
+    "name": "Knesset",
+    "query": "Knesset",
     "rank": 20,
     "tweet_count": null
   }
