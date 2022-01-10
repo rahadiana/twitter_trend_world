@@ -1,122 +1,80 @@
 [
   {
+    "name": "Chivas",
+    "query": "Chivas",
+    "rank": 1,
+    "tweet_count": "30.1K Tweets"
+  },
+  {
     "name": "#FelizLunes",
     "query": "#FelizLunes",
-    "rank": 1,
-    "tweet_count": "8,202 Tweets"
+    "rank": 2,
+    "tweet_count": "9,414 Tweets"
+  },
+  {
+    "name": "#FelizInicioDeSemana",
+    "query": "#FelizInicioDeSemana",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "#GallitoBuenaOnda",
+    "query": "#GallitoBuenaOnda",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "#BLESSED_CURSED",
+    "query": "#BLESSED_CURSED",
+    "rank": 5,
+    "tweet_count": "1.26M Tweets"
   },
   {
     "name": "Euphoria",
     "query": "Euphoria",
-    "rank": 2,
-    "tweet_count": "899K Tweets"
+    "rank": 6,
+    "tweet_count": "913K Tweets"
   },
   {
-    "name": "#DimensionAnswer_OutNow",
-    "query": "#DimensionAnswer_OutNow",
-    "rank": 3,
-    "tweet_count": "499K Tweets"
+    "name": "Pascal",
+    "query": "Pascal",
+    "rank": 7,
+    "tweet_count": "12.6K Tweets"
+  },
+  {
+    "name": "Rápido y Furioso",
+    "query": "\"Rápido y Furioso\"",
+    "rank": 8,
+    "tweet_count": "23K Tweets"
   },
   {
     "name": "Raiders",
     "query": "Raiders",
-    "rank": 4,
-    "tweet_count": "404K Tweets"
-  },
-  {
-    "name": "#LuchaDeEliminación",
-    "query": "#LuchaDeEliminación",
-    "rank": 5,
-    "tweet_count": "8,383 Tweets"
-  },
-  {
-    "name": "Steelers",
-    "query": "Steelers",
-    "rank": 6,
-    "tweet_count": "324K Tweets"
-  },
-  {
-    "name": "#ShingekiNoKyojin",
-    "query": "#ShingekiNoKyojin",
-    "rank": 7,
-    "tweet_count": "135K Tweets"
-  },
-  {
-    "name": "Rappi",
-    "query": "Rappi",
-    "rank": 8,
-    "tweet_count": "19.1K Tweets"
-  },
-  {
-    "name": "#MePropongo",
-    "query": "#MePropongo",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "406K Tweets"
   },
   {
-    "name": "Bob Saget",
-    "query": "\"Bob Saget\"",
+    "name": "Nicaragua",
+    "query": "Nicaragua",
     "rank": 10,
-    "tweet_count": "588K Tweets"
+    "tweet_count": "35.4K Tweets"
   },
   {
-    "name": "Chumel",
-    "query": "Chumel",
+    "name": "Daniel Ortega",
+    "query": "\"Daniel Ortega\"",
     "rank": 11,
-    "tweet_count": "25.9K Tweets"
+    "tweet_count": "23.6K Tweets"
   },
   {
-    "name": "49ers",
-    "query": "49ers",
+    "name": "lexi",
+    "query": "lexi",
     "rank": 12,
-    "tweet_count": "191K Tweets"
+    "tweet_count": "70.3K Tweets"
   },
   {
-    "name": "Covid",
-    "query": "Covid",
+    "name": "herbert",
+    "query": "herbert",
     "rank": 13,
-    "tweet_count": "2.41M Tweets"
-  },
-  {
-    "name": "Justin Herbert",
-    "query": "\"Justin Herbert\"",
-    "rank": 14,
-    "tweet_count": "46.4K Tweets"
-  },
-  {
-    "name": "Umtiti",
-    "query": "Umtiti",
-    "rank": 15,
-    "tweet_count": "19.1K Tweets"
-  },
-  {
-    "name": "Attack on Titan",
-    "query": "\"Attack on Titan\"",
-    "rank": 16,
-    "tweet_count": "207K Tweets"
-  },
-  {
-    "name": "Playoffs",
-    "query": "Playoffs",
-    "rank": 17,
-    "tweet_count": "280K Tweets"
-  },
-  {
-    "name": "Crunchyroll",
-    "query": "Crunchyroll",
-    "rank": 18,
-    "tweet_count": "99.3K Tweets"
-  },
-  {
-    "name": "Eren",
-    "query": "Eren",
-    "rank": 19,
-    "tweet_count": "160K Tweets"
-  },
-  {
-    "name": "Colts",
-    "query": "Colts",
-    "rank": 20,
-    "tweet_count": "181K Tweets"
+    "tweet_count": "97.3K Tweets"
   }
 ]
