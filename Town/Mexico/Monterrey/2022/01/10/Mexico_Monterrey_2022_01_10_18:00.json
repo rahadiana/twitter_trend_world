@@ -1,116 +1,110 @@
 [
   {
+    "name": "Chargers",
+    "query": "Chargers",
+    "rank": 1,
+    "tweet_count": "315K Tweets"
+  },
+  {
     "name": "Raiders",
     "query": "Raiders",
-    "rank": 1,
-    "tweet_count": "422K Tweets"
+    "rank": 2,
+    "tweet_count": "424K Tweets"
   },
   {
     "name": "Steelers",
     "query": "Steelers",
-    "rank": 2,
-    "tweet_count": "321K Tweets"
+    "rank": 3,
+    "tweet_count": "323K Tweets"
   },
   {
     "name": "#BLESSED_CURSED",
     "query": "#BLESSED_CURSED",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": "1.32M Tweets"
   },
   {
     "name": "#DIMENSION_ANSWER",
     "query": "#DIMENSION_ANSWER",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": "1.38M Tweets"
+  },
+  {
+    "name": "Nate",
+    "query": "Nate",
+    "rank": 6,
+    "tweet_count": "241K Tweets"
   },
   {
     "name": "Euphoria",
     "query": "Euphoria",
-    "rank": 5,
-    "tweet_count": "973K Tweets"
+    "rank": 7,
+    "tweet_count": "989K Tweets"
   },
   {
     "name": "#FelizLunes",
     "query": "#FelizLunes",
-    "rank": 6,
-    "tweet_count": "18.3K Tweets"
+    "rank": 8,
+    "tweet_count": "19K Tweets"
   },
   {
-    "name": "#Disciplina",
-    "query": "#Disciplina",
-    "rank": 7,
-    "tweet_count": null
+    "name": "WE WANT BLACKPINK COMEBACK",
+    "query": "\"WE WANT BLACKPINK COMEBACK\"",
+    "rank": 9,
+    "tweet_count": "8,994 Tweets"
   },
   {
     "name": "Nicaragua",
     "query": "Nicaragua",
-    "rank": 8,
-    "tweet_count": "52K Tweets"
-  },
-  {
-    "name": "Irresponsable",
-    "query": "Irresponsable",
-    "rank": 9,
-    "tweet_count": "22.1K Tweets"
-  },
-  {
-    "name": "Kings of Convenience",
-    "query": "\"Kings of Convenience\"",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "54.5K Tweets"
   },
   {
     "name": "SEOUL",
     "query": "SEOUL",
     "rank": 11,
-    "tweet_count": "118K Tweets"
+    "tweet_count": "120K Tweets"
+  },
+  {
+    "name": "Kings of Convenience",
+    "query": "\"Kings of Convenience\"",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "Irresponsable",
+    "query": "Irresponsable",
+    "rank": 13,
+    "tweet_count": "22.9K Tweets"
+  },
+  {
+    "name": "Daniel Ortega",
+    "query": "\"Daniel Ortega\"",
+    "rank": 14,
+    "tweet_count": "33.8K Tweets"
   },
   {
     "name": "Brian Flores",
     "query": "\"Brian Flores\"",
-    "rank": 12,
-    "tweet_count": "49.6K Tweets"
+    "rank": 15,
+    "tweet_count": "51.8K Tweets"
   },
   {
     "name": "Umtiti",
     "query": "Umtiti",
-    "rank": 13,
-    "tweet_count": "38.2K Tweets"
+    "rank": 16,
+    "tweet_count": "39.2K Tweets"
+  },
+  {
+    "name": "Alfredo Del Mazo González",
+    "query": "\"Alfredo Del Mazo González\"",
+    "rank": 17,
+    "tweet_count": "1,384 Tweets"
   },
   {
     "name": "Anaya",
     "query": "Anaya",
-    "rank": 14,
-    "tweet_count": "12.7K Tweets"
-  },
-  {
-    "name": "Centroamérica",
-    "query": "Centroamérica",
-    "rank": 15,
-    "tweet_count": "2,266 Tweets"
-  },
-  {
-    "name": "Monreal",
-    "query": "Monreal",
-    "rank": 16,
-    "tweet_count": "19.5K Tweets"
-  },
-  {
-    "name": "El Presidente",
-    "query": "\"El Presidente\"",
-    "rank": 17,
-    "tweet_count": "156K Tweets"
-  },
-  {
-    "name": "Gabriela Mistral",
-    "query": "\"Gabriela Mistral\"",
     "rank": 18,
-    "tweet_count": "3,593 Tweets"
-  },
-  {
-    "name": "Locatel",
-    "query": "Locatel",
-    "rank": 19,
-    "tweet_count": "1,063 Tweets"
+    "tweet_count": "13.3K Tweets"
   }
 ]
