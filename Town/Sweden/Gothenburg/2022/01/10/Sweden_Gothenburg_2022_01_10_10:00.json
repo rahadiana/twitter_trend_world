@@ -1,9 +1,9 @@
 [
   {
-    "name": "SÄPO",
-    "query": "SÄPO",
+    "name": "Säpo",
+    "query": "Säpo",
     "rank": 1,
-    "tweet_count": "2,145 Tweets"
+    "tweet_count": "2,157 Tweets"
   },
   {
     "name": "#fofrk",
@@ -15,13 +15,13 @@
     "name": "Bob Saget",
     "query": "\"Bob Saget\"",
     "rank": 3,
-    "tweet_count": "562K Tweets"
+    "tweet_count": "564K Tweets"
   },
   {
     "name": "Magdalena Andersson",
     "query": "\"Magdalena Andersson\"",
     "rank": 4,
-    "tweet_count": "3,096 Tweets"
+    "tweet_count": "3,135 Tweets"
   },
   {
     "name": "Kristianstad",
@@ -33,7 +33,7 @@
     "name": "#HelpRefugees_Indonesia",
     "query": "#HelpRefugees_Indonesia",
     "rank": 6,
-    "tweet_count": "288K Tweets"
+    "tweet_count": "290K Tweets"
   },
   {
     "name": "godmorgon",
@@ -42,14 +42,14 @@
     "tweet_count": null
   },
   {
-    "name": "Maggan",
-    "query": "Maggan",
+    "name": "Försvar",
+    "query": "Försvar",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Försvar",
-    "query": "Försvar",
+    "name": "Maggan",
+    "query": "Maggan",
     "rank": 9,
     "tweet_count": null
   },
@@ -57,7 +57,7 @@
     "name": "Swish",
     "query": "Swish",
     "rank": 10,
-    "tweet_count": "2,464 Tweets"
+    "tweet_count": "2,476 Tweets"
   },
   {
     "name": "Sagerska",
@@ -69,7 +69,7 @@
     "name": "#AFCON2021",
     "query": "#AFCON2021",
     "rank": 12,
-    "tweet_count": "161K Tweets"
+    "tweet_count": "162K Tweets"
   },
   {
     "name": "#städgate",
@@ -78,27 +78,27 @@
     "tweet_count": null
   },
   {
-    "name": "Djokovic",
-    "query": "Djokovic",
-    "rank": 14,
-    "tweet_count": "322K Tweets"
-  },
-  {
     "name": "Statsministern",
     "query": "Statsministern",
-    "rank": 15,
-    "tweet_count": "2,769 Tweets"
+    "rank": 14,
+    "tweet_count": "2,791 Tweets"
   },
   {
     "name": "morenius",
     "query": "morenius",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Venezia",
     "query": "Venezia",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": "17.5K Tweets"
+  },
+  {
+    "name": "Djokovic",
+    "query": "Djokovic",
+    "rank": 17,
+    "tweet_count": "329K Tweets"
   }
 ]

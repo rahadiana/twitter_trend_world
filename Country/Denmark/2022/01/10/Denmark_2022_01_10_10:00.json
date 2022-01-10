@@ -1,37 +1,37 @@
 [
   {
-    "name": "Full House",
-    "query": "\"Full House\"",
-    "rank": 1,
-    "tweet_count": "180K Tweets"
-  },
-  {
-    "name": "#sundpol",
-    "query": "#sundpol",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
     "name": "Wass",
     "query": "Wass",
-    "rank": 3,
-    "tweet_count": "4,618 Tweets"
+    "rank": 1,
+    "tweet_count": "4,733 Tweets"
   },
   {
-    "name": "#dkpol",
-    "query": "#dkpol",
-    "rank": 4,
-    "tweet_count": "3,215 Tweets"
+    "name": "Full House",
+    "query": "\"Full House\"",
+    "rank": 2,
+    "tweet_count": "180K Tweets"
   },
   {
     "name": "#FACup",
     "query": "#FACup",
-    "rank": 5,
-    "tweet_count": "42.4K Tweets"
+    "rank": 3,
+    "tweet_count": "42.6K Tweets"
   },
   {
     "name": "#uddpol",
     "query": "#uddpol",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "#dkpol",
+    "query": "#dkpol",
+    "rank": 5,
+    "tweet_count": "3,248 Tweets"
+  },
+  {
+    "name": "#sundpol",
+    "query": "#sundpol",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,46 +42,46 @@
     "tweet_count": null
   },
   {
-    "name": "Forest",
-    "query": "Forest",
-    "rank": 8,
-    "tweet_count": "109K Tweets"
-  },
-  {
     "name": "Colts",
     "query": "Colts",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": "181K Tweets"
   },
   {
     "name": "Rams",
     "query": "Rams",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": "117K Tweets"
   },
   {
     "name": "Highbury",
     "query": "Highbury",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Roma",
     "query": "Roma",
-    "rank": 12,
-    "tweet_count": "105K Tweets"
+    "rank": 11,
+    "tweet_count": "106K Tweets"
   },
   {
     "name": "Tavares",
     "query": "Tavares",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": "16.8K Tweets"
   },
   {
     "name": "Brian",
     "query": "Brian",
+    "rank": 13,
+    "tweet_count": "52.6K Tweets"
+  },
+  {
+    "name": "Brøndby",
+    "query": "Brøndby",
     "rank": 14,
-    "tweet_count": "52.3K Tweets"
+    "tweet_count": null
   },
   {
     "name": "pia kjærsgaard",
@@ -93,7 +93,7 @@
     "name": "Stamford Bridge",
     "query": "\"Stamford Bridge\"",
     "rank": 16,
-    "tweet_count": "2,540 Tweets"
+    "tweet_count": "2,556 Tweets"
   },
   {
     "name": "avisbud",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "Chargers",
-    "query": "Chargers",
+    "name": "Forest",
+    "query": "Forest",
     "rank": 18,
+    "tweet_count": "110K Tweets"
+  },
+  {
+    "name": "chargers",
+    "query": "chargers",
+    "rank": 19,
     "tweet_count": "298K Tweets"
   },
   {
     "name": "Wembley",
     "query": "Wembley",
-    "rank": 19,
-    "tweet_count": "2,808 Tweets"
-  },
-  {
-    "name": "Arteta",
-    "query": "Arteta",
     "rank": 20,
-    "tweet_count": "22.9K Tweets"
+    "tweet_count": "2,829 Tweets"
   }
 ]
