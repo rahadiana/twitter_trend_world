@@ -1,63 +1,63 @@
 [
   {
-    "name": "#Djokovic",
-    "query": "#Djokovic",
+    "name": "#GoodbyeDeutschland",
+    "query": "#GoodbyeDeutschland",
     "rank": 1,
-    "tweet_count": "78.3K Tweets"
-  },
-  {
-    "name": "#dasperfektedinner",
-    "query": "#dasperfektedinner",
-    "rank": 2,
-    "tweet_count": "1,308 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Parlamentspoetin",
     "query": "#Parlamentspoetin",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "#hro1001",
+    "query": "#hro1001",
+    "rank": 3,
+    "tweet_count": "1,882 Tweets"
+  },
+  {
+    "name": "#GipfelderQuizgiganten",
+    "query": "#GipfelderQuizgiganten",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "#le1001",
+    "query": "#le1001",
+    "rank": 5,
+    "tweet_count": "1,393 Tweets"
   },
   {
     "name": "Poesie",
     "query": "Poesie",
-    "rank": 4,
-    "tweet_count": "2,142 Tweets"
+    "rank": 6,
+    "tweet_count": "2,184 Tweets"
   },
   {
     "name": "Ethikrat",
     "query": "Ethikrat",
-    "rank": 5,
-    "tweet_count": "2,428 Tweets"
+    "rank": 7,
+    "tweet_count": "2,494 Tweets"
   },
   {
     "name": "Guido",
     "query": "Guido",
-    "rank": 6,
-    "tweet_count": "6,907 Tweets"
+    "rank": 8,
+    "tweet_count": "6,973 Tweets"
   },
   {
     "name": "Jürgen von der Lippe",
     "query": "\"Jürgen von der Lippe\"",
-    "rank": 7,
-    "tweet_count": "1,929 Tweets"
+    "rank": 9,
+    "tweet_count": "1,950 Tweets"
   },
   {
     "name": "Hofnarren",
     "query": "Hofnarren",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "Bahncard",
-    "query": "Bahncard",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "ossis",
-    "query": "ossis",
     "rank": 10,
-    "tweet_count": "2,256 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Herzliches Beileid",
@@ -66,45 +66,57 @@
     "tweet_count": null
   },
   {
+    "name": "Bahncard",
+    "query": "Bahncard",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "Ossis",
+    "query": "Ossis",
+    "rank": 13,
+    "tweet_count": "2,270 Tweets"
+  },
+  {
     "name": "Gegenprotest",
     "query": "Gegenprotest",
-    "rank": 12,
-    "tweet_count": "1,277 Tweets"
+    "rank": 14,
+    "tweet_count": "1,316 Tweets"
   },
   {
     "name": "Fehlalarm",
     "query": "Fehlalarm",
-    "rank": 13,
-    "tweet_count": "1,390 Tweets"
+    "rank": 15,
+    "tweet_count": "1,404 Tweets"
   },
   {
     "name": "Osten",
     "query": "Osten",
-    "rank": 14,
-    "tweet_count": "2,009 Tweets"
+    "rank": 16,
+    "tweet_count": "2,027 Tweets"
   },
   {
     "name": "Müller",
     "query": "Müller",
-    "rank": 15,
-    "tweet_count": "8,073 Tweets"
+    "rank": 17,
+    "tweet_count": "8,140 Tweets"
   },
   {
     "name": "Wessi",
     "query": "Wessi",
-    "rank": 16,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Pavel",
     "query": "Pavel",
-    "rank": 17,
-    "tweet_count": "4,508 Tweets"
+    "rank": 19,
+    "tweet_count": "4,535 Tweets"
   },
   {
     "name": "Lüdenscheid",
     "query": "Lüdenscheid",
-    "rank": 18,
+    "rank": 20,
     "tweet_count": null
   }
 ]
