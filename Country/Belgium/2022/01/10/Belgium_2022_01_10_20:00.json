@@ -1,37 +1,37 @@
 [
   {
-    "name": "#DeAfspraak",
-    "query": "#DeAfspraak",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Stromae",
     "query": "Stromae",
+    "rank": 1,
+    "tweet_count": "75K Tweets"
+  },
+  {
+    "name": "#deafspraak",
+    "query": "#deafspraak",
     "rank": 2,
-    "tweet_count": "73.8K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#TPMP",
     "query": "#TPMP",
     "rank": 3,
-    "tweet_count": "7,386 Tweets"
-  },
-  {
-    "name": "Oprechte",
-    "query": "Oprechte",
-    "rank": 4,
-    "tweet_count": null
+    "tweet_count": "8,301 Tweets"
   },
   {
     "name": "jean-luc crucke",
     "query": "\"jean-luc crucke\"",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "Oprechte",
+    "query": "Oprechte",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "#verlorenmaandag",
-    "query": "#verlorenmaandag",
+    "name": "#VerlorenMaandag",
+    "query": "#VerlorenMaandag",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,81 +42,81 @@
     "tweet_count": null
   },
   {
-    "name": "Innige",
-    "query": "Innige",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "#MARGHA",
-    "query": "#MARGHA",
-    "rank": 9,
-    "tweet_count": "4,542 Tweets"
-  },
-  {
     "name": "Verschrikkelijk",
     "query": "Verschrikkelijk",
-    "rank": 10,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Annemans",
     "query": "Annemans",
-    "rank": 11,
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "#bkmiddelkerke",
+    "query": "#bkmiddelkerke",
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Bob Saget",
     "query": "\"Bob Saget\"",
-    "rank": 12,
-    "tweet_count": "686K Tweets"
+    "rank": 11,
+    "tweet_count": "690K Tweets"
   },
   {
-    "name": "Colman",
-    "query": "Colman",
-    "rank": 13,
-    "tweet_count": "26.2K Tweets"
+    "name": "Innige",
+    "query": "Innige",
+    "rank": 12,
+    "tweet_count": null
   },
   {
     "name": "Herman",
     "query": "Herman",
+    "rank": 13,
+    "tweet_count": "5,360 Tweets"
+  },
+  {
+    "name": "Colman",
+    "query": "Colman",
     "rank": 14,
-    "tweet_count": "5,254 Tweets"
-  },
-  {
-    "name": "Van Damme",
-    "query": "\"Van Damme\"",
-    "rank": 15,
-    "tweet_count": "1,340 Tweets"
-  },
-  {
-    "name": "Zwijndrecht",
-    "query": "Zwijndrecht",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "26.4K Tweets"
   },
   {
     "name": "Grondwettelijk Hof",
     "query": "\"Grondwettelijk Hof\"",
-    "rank": 17,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Sterkte",
     "query": "Sterkte",
-    "rank": 18,
-    "tweet_count": "5,628 Tweets"
+    "rank": 16,
+    "tweet_count": "5,792 Tweets"
   },
   {
     "name": "Ducarme",
     "query": "Ducarme",
-    "rank": 19,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Boufal",
     "query": "Boufal",
-    "rank": 20,
+    "rank": 18,
     "tweet_count": "10.9K Tweets"
+  },
+  {
+    "name": "Ghana",
+    "query": "Ghana",
+    "rank": 19,
+    "tweet_count": "116K Tweets"
+  },
+  {
+    "name": "Klay",
+    "query": "Klay",
+    "rank": 20,
+    "tweet_count": "412K Tweets"
   }
 ]
