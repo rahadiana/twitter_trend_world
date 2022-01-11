@@ -1,25 +1,25 @@
 [
   {
-    "name": "#Latvia",
-    "query": "#Latvia",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "atkal",
     "query": "atkal",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "Omicron",
     "query": "Omicron",
-    "rank": 3,
-    "tweet_count": "501K Tweets"
+    "rank": 2,
+    "tweet_count": "506K Tweets"
   },
   {
-    "name": "rīgai",
-    "query": "rīgai",
+    "name": "Rīgai",
+    "query": "Rīgai",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "#Latvia",
+    "query": "#Latvia",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,61 +27,61 @@
     "name": "Ukraine",
     "query": "Ukraine",
     "rank": 5,
-    "tweet_count": "48.6K Tweets"
-  },
-  {
-    "name": "Liels",
-    "query": "Liels",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "Vācijā",
-    "query": "Vācijā",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
-    "name": "kurzemes",
-    "query": "kurzemes",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "Francijā",
-    "query": "Francijā",
-    "rank": 9,
-    "tweet_count": null
+    "tweet_count": "49.1K Tweets"
   },
   {
     "name": "COVID-19",
     "query": "COVID-19",
-    "rank": 10,
-    "tweet_count": "638K Tweets"
+    "rank": 6,
+    "tweet_count": "644K Tweets"
+  },
+  {
+    "name": "Liels",
+    "query": "Liels",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "Kurzemes",
+    "query": "Kurzemes",
+    "rank": 8,
+    "tweet_count": null
   },
   {
     "name": "#teirdarbs",
     "query": "#teirdarbs",
-    "rank": 11,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "#NFTs",
     "query": "#NFTs",
-    "rank": 12,
-    "tweet_count": "607K Tweets"
+    "rank": 10,
+    "tweet_count": "612K Tweets"
+  },
+  {
+    "name": "Viss",
+    "query": "Viss",
+    "rank": 11,
+    "tweet_count": "1,584 Tweets"
   },
   {
     "name": "tomēr",
     "query": "tomēr",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Google",
     "query": "Google",
+    "rank": 13,
+    "tweet_count": "684K Tweets"
+  },
+  {
+    "name": "Manuprāt",
+    "query": "Manuprāt",
     "rank": 14,
-    "tweet_count": "680K Tweets"
+    "tweet_count": null
   },
   {
     "name": "viņam",
@@ -99,24 +99,24 @@
     "name": "problēma",
     "query": "problēma",
     "rank": 17,
-    "tweet_count": "175K Tweets"
-  },
-  {
-    "name": "viss",
-    "query": "viss",
-    "rank": 18,
-    "tweet_count": "1,565 Tweets"
+    "tweet_count": "177K Tweets"
   },
   {
     "name": "Germany",
     "query": "Germany",
-    "rank": 19,
-    "tweet_count": "60.9K Tweets"
+    "rank": 18,
+    "tweet_count": "61.8K Tweets"
   },
   {
     "name": "tāda",
     "query": "tāda",
+    "rank": 19,
+    "tweet_count": "4,884 Tweets"
+  },
+  {
+    "name": "NATO",
+    "query": "NATO",
     "rank": 20,
-    "tweet_count": "4,851 Tweets"
+    "tweet_count": "62K Tweets"
   }
 ]

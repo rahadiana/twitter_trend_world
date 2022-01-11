@@ -1,39 +1,39 @@
 [
   {
-    "name": "Ciudadela",
-    "query": "Ciudadela",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Florida",
     "query": "Florida",
+    "rank": 1,
+    "tweet_count": "120K Tweets"
+  },
+  {
+    "name": "Ciudadela",
+    "query": "Ciudadela",
     "rank": 2,
-    "tweet_count": "118K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Capital",
     "query": "Capital",
     "rank": 3,
-    "tweet_count": "129K Tweets"
-  },
-  {
-    "name": "#ElPeorPresidenteDeLaHistoria",
-    "query": "#ElPeorPresidenteDeLaHistoria",
-    "rank": 4,
-    "tweet_count": "1,155 Tweets"
+    "tweet_count": "130K Tweets"
   },
   {
     "name": "Interpol",
     "query": "Interpol",
+    "rank": 4,
+    "tweet_count": "12.7K Tweets"
+  },
+  {
+    "name": "#ElPeorPresidenteDeLaHistoria",
+    "query": "#ElPeorPresidenteDeLaHistoria",
     "rank": 5,
-    "tweet_count": "12.6K Tweets"
+    "tweet_count": "1,176 Tweets"
   },
   {
     "name": "Almagro",
     "query": "Almagro",
     "rank": 6,
-    "tweet_count": "1,404 Tweets"
+    "tweet_count": "1,426 Tweets"
   },
   {
     "name": "Ushuaia",
@@ -45,78 +45,78 @@
     "name": "Animal",
     "query": "Animal",
     "rank": 8,
-    "tweet_count": "152K Tweets"
+    "tweet_count": "153K Tweets"
   },
   {
-    "name": "Indio",
-    "query": "Indio",
+    "name": "Ortega",
+    "query": "Ortega",
     "rank": 9,
-    "tweet_count": "11K Tweets"
+    "tweet_count": "94.6K Tweets"
   },
   {
     "name": "Carrascal",
     "query": "Carrascal",
     "rank": 10,
-    "tweet_count": "3,411 Tweets"
-  },
-  {
-    "name": "Ortega",
-    "query": "Ortega",
-    "rank": 11,
-    "tweet_count": "93.7K Tweets"
+    "tweet_count": "3,442 Tweets"
   },
   {
     "name": "Cerati",
     "query": "Cerati",
+    "rank": 11,
+    "tweet_count": "5,975 Tweets"
+  },
+  {
+    "name": "#BuenMartes",
+    "query": "#BuenMartes",
     "rank": 12,
-    "tweet_count": "5,901 Tweets"
+    "tweet_count": "2,716 Tweets"
   },
   {
     "name": "#CorteDeLuz",
     "query": "#CorteDeLuz",
     "rank": 13,
-    "tweet_count": "13.8K Tweets"
+    "tweet_count": "14.3K Tweets"
   },
   {
     "name": "#SinLuz",
     "query": "#SinLuz",
     "rank": 14,
-    "tweet_count": "5,233 Tweets"
+    "tweet_count": "5,535 Tweets"
   },
   {
     "name": "Edenor",
     "query": "Edenor",
     "rank": 15,
-    "tweet_count": "22.8K Tweets"
+    "tweet_count": "23.8K Tweets"
   },
   {
     "name": "#CopaDeLaLiga",
     "query": "#CopaDeLaLiga",
     "rank": 16,
-    "tweet_count": "2,089 Tweets"
-  },
-  {
-    "name": "#EraMacri",
-    "query": "#EraMacri",
-    "rank": 17,
-    "tweet_count": "2,426 Tweets"
+    "tweet_count": "2,255 Tweets"
   },
   {
     "name": "AMBA",
     "query": "AMBA",
+    "rank": 17,
+    "tweet_count": "5,015 Tweets"
+  },
+  {
+    "name": "Aranguren",
+    "query": "Aranguren",
     "rank": 18,
-    "tweet_count": "4,903 Tweets"
+    "tweet_count": "2,927 Tweets"
   },
   {
-    "name": "Villa Urquiza",
-    "query": "\"Villa Urquiza\"",
+    "name": "ENRE",
+    "query": "ENRE",
     "rank": 19,
-    "tweet_count": "1,186 Tweets"
+    "tweet_count": "1,620 Tweets"
   },
   {
-    "name": "Villa Urquiza",
-    "query": "\"Villa Urquiza\"",
+    "name": "Con Macri",
+    "query": "\"Con Macri\"",
     "rank": 20,
-    "tweet_count": "1,186 Tweets"
+    "tweet_count": "14.1K Tweets"
   }
 ]
