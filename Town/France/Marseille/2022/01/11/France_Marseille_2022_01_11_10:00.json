@@ -1,15 +1,15 @@
 [
   {
-    "name": "#MardiConseil",
-    "query": "#MardiConseil",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "David Sassoli",
     "query": "\"David Sassoli\"",
+    "rank": 1,
+    "tweet_count": "47.8K Tweets"
+  },
+  {
+    "name": "#MardiConseil",
+    "query": "#MardiConseil",
     "rank": 2,
-    "tweet_count": "46.9K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Gaudu",
@@ -21,19 +21,19 @@
     "name": "Pinot",
     "query": "Pinot",
     "rank": 4,
-    "tweet_count": "1,252 Tweets"
-  },
-  {
-    "name": "Parlement",
-    "query": "Parlement",
-    "rank": 5,
-    "tweet_count": "11K Tweets"
+    "tweet_count": "1,308 Tweets"
   },
   {
     "name": "Giro",
     "query": "Giro",
+    "rank": 5,
+    "tweet_count": "13.3K Tweets"
+  },
+  {
+    "name": "Parlement",
+    "query": "Parlement",
     "rank": 6,
-    "tweet_count": "13.1K Tweets"
+    "tweet_count": "11.2K Tweets"
   },
   {
     "name": "Gaspard Koenig",
@@ -42,16 +42,16 @@
     "tweet_count": null
   },
   {
-    "name": "Manuel Valls",
-    "query": "\"Manuel Valls\"",
+    "name": "Valls",
+    "query": "Valls",
     "rank": 8,
-    "tweet_count": "1,108 Tweets"
+    "tweet_count": "4,322 Tweets"
   },
   {
     "name": "Le Mot",
     "query": "\"Le Mot\"",
     "rank": 9,
-    "tweet_count": "10.5K Tweets"
+    "tweet_count": "10.6K Tweets"
   },
   {
     "name": "Farod",
@@ -63,36 +63,36 @@
     "name": "Tinubu",
     "query": "Tinubu",
     "rank": 11,
-    "tweet_count": "24K Tweets"
+    "tweet_count": "24.3K Tweets"
   },
   {
     "name": "Kurzawa",
     "query": "Kurzawa",
     "rank": 12,
-    "tweet_count": "1,520 Tweets"
+    "tweet_count": "1,536 Tweets"
   },
   {
     "name": "Sierra Leone",
     "query": "\"Sierra Leone\"",
     "rank": 13,
-    "tweet_count": "5,716 Tweets"
-  },
-  {
-    "name": "SUTOM",
-    "query": "SUTOM",
-    "rank": 14,
-    "tweet_count": "1,399 Tweets"
+    "tweet_count": "5,814 Tweets"
   },
   {
     "name": "Azmoun",
     "query": "Azmoun",
-    "rank": 15,
-    "tweet_count": "3,519 Tweets"
+    "rank": 14,
+    "tweet_count": "3,552 Tweets"
   },
   {
-    "name": "Garonne",
-    "query": "Garonne",
+    "name": "Wordle",
+    "query": "Wordle",
+    "rank": 15,
+    "tweet_count": "178K Tweets"
+  },
+  {
+    "name": "SUTOM",
+    "query": "SUTOM",
     "rank": 16,
-    "tweet_count": "4,422 Tweets"
+    "tweet_count": "1,417 Tweets"
   }
 ]
