@@ -1,21 +1,21 @@
 [
   {
-    "name": "COVID-19",
-    "query": "COVID-19",
-    "rank": 1,
-    "tweet_count": "623K Tweets"
-  },
-  {
     "name": "Tuta",
     "query": "Tuta",
-    "rank": 2,
-    "tweet_count": "1,705 Tweets"
+    "rank": 1,
+    "tweet_count": "1,725 Tweets"
   },
   {
-    "name": "Krievijas",
-    "query": "Krievijas",
-    "rank": 3,
+    "name": "Krievija",
+    "query": "Krievija",
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "COVID-19",
+    "query": "COVID-19",
+    "rank": 3,
+    "tweet_count": "631K Tweets"
   },
   {
     "name": "ruby royalty club",
@@ -27,35 +27,35 @@
     "name": "Rīga",
     "query": "Rīga",
     "rank": 5,
-    "tweet_count": "1,401 Tweets"
+    "tweet_count": "1,427 Tweets"
   },
   {
     "name": "Laba",
     "query": "Laba",
     "rank": 6,
-    "tweet_count": "6,935 Tweets"
+    "tweet_count": "6,996 Tweets"
+  },
+  {
+    "name": "Latvijā",
+    "query": "Latvijā",
+    "rank": 7,
+    "tweet_count": null
   },
   {
     "name": "kopš",
     "query": "kopš",
-    "rank": 7,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Tāda",
     "query": "Tāda",
-    "rank": 8,
-    "tweet_count": "4,785 Tweets"
+    "rank": 9,
+    "tweet_count": "4,895 Tweets"
   },
   {
     "name": "somijas",
     "query": "somijas",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Latvijā",
-    "query": "Latvijā",
     "rank": 10,
     "tweet_count": null
   },
@@ -81,7 +81,7 @@
     "name": "#NFTs",
     "query": "#NFTs",
     "rank": 14,
-    "tweet_count": "593K Tweets"
+    "tweet_count": "604K Tweets"
   },
   {
     "name": "Kurzemes",
@@ -90,8 +90,8 @@
     "tweet_count": null
   },
   {
-    "name": "#Herpes",
-    "query": "#Herpes",
+    "name": "#herpes",
+    "query": "#herpes",
     "rank": 16,
     "tweet_count": null
   },
@@ -99,24 +99,24 @@
     "name": "tējas",
     "query": "tējas",
     "rank": 17,
-    "tweet_count": "2,577 Tweets"
+    "tweet_count": "2,618 Tweets"
   },
   {
     "name": "Omicron",
     "query": "Omicron",
     "rank": 18,
-    "tweet_count": "459K Tweets"
+    "tweet_count": "465K Tweets"
   },
   {
     "name": "НАТО",
     "query": "НАТО",
     "rank": 19,
-    "tweet_count": "15.1K Tweets"
+    "tweet_count": "15.5K Tweets"
   },
   {
-    "name": "#TRON",
-    "query": "#TRON",
+    "name": "protams",
+    "query": "protams",
     "rank": 20,
-    "tweet_count": "7,625 Tweets"
+    "tweet_count": null
   }
 ]
