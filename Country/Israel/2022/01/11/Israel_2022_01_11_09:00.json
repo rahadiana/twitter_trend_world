@@ -1,19 +1,19 @@
 [
   {
-    "name": "בוקר טוב",
-    "query": "\"בוקר טוב\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "בוקר אור",
     "query": "\"בוקר אור\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "פאק מרי קיל",
     "query": "\"פאק מרי קיל\"",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "בוקר טוב",
+    "query": "\"בוקר טוב\"",
     "rank": 3,
     "tweet_count": null
   },
@@ -21,7 +21,7 @@
     "name": "יאיר לפיד",
     "query": "\"יאיר לפיד\"",
     "rank": 4,
-    "tweet_count": "2,035 Tweets"
+    "tweet_count": "2,093 Tweets"
   },
   {
     "name": "Bob Saget",
@@ -60,63 +60,63 @@
     "tweet_count": null
   },
   {
+    "name": "#انقذوا_النقب",
+    "query": "#انقذوا_النقب",
+    "rank": 11,
+    "tweet_count": "1,571 Tweets"
+  },
+  {
     "name": "דל״פ",
     "query": "דל״פ",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "רק בריאות",
     "query": "\"רק בריאות\"",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "מירב מיכאלי",
     "query": "\"מירב מיכאלי\"",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "בית המשפט",
     "query": "\"בית המשפט\"",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "#startup",
     "query": "#startup",
-    "rank": 15,
-    "tweet_count": "12.9K Tweets"
+    "rank": 16,
+    "tweet_count": "13.1K Tweets"
   },
   {
     "name": "עץ או פלי",
     "query": "\"עץ או פלי\"",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Abraham Accords",
     "query": "\"Abraham Accords\"",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "יום שני",
     "query": "\"יום שני\"",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Knesset",
     "query": "Knesset",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Cyprus",
-    "query": "Cyprus",
     "rank": 20,
-    "tweet_count": "13.9K Tweets"
+    "tweet_count": null
   }
 ]
