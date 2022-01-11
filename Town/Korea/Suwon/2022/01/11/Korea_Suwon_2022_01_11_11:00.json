@@ -1,15 +1,15 @@
 [
   {
-    "name": "스타벅스",
-    "query": "스타벅스",
-    "rank": 1,
-    "tweet_count": "64.1K Tweets"
-  },
-  {
     "name": "본인의 문제점",
     "query": "\"본인의 문제점\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "참여완료",
+    "query": "참여완료",
+    "rank": 2,
+    "tweet_count": "4,250 Tweets"
   },
   {
     "name": "콜렉트콜",
@@ -18,14 +18,14 @@
     "tweet_count": null
   },
   {
-    "name": "참여완료",
-    "query": "참여완료",
-    "rank": 4,
-    "tweet_count": "3,742 Tweets"
-  },
-  {
     "name": "#트친과_입맛궁합_알아보기",
     "query": "#트친과_입맛궁합_알아보기",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "몬스타엑스 최애모먼트",
+    "query": "\"몬스타엑스 최애모먼트\"",
     "rank": 5,
     "tweet_count": null
   },
@@ -36,22 +36,22 @@
     "tweet_count": null
   },
   {
-    "name": "몬스타엑스 최애모먼트",
-    "query": "\"몬스타엑스 최애모먼트\"",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
     "name": "컴포즈커피",
     "query": "컴포즈커피",
-    "rank": 8,
-    "tweet_count": "4,685 Tweets"
+    "rank": 7,
+    "tweet_count": "4,898 Tweets"
   },
   {
     "name": "리듬천재",
     "query": "리듬천재",
+    "rank": 8,
+    "tweet_count": "2,974 Tweets"
+  },
+  {
+    "name": "#카이버블",
+    "query": "#카이버블",
     "rank": 9,
-    "tweet_count": "2,832 Tweets"
+    "tweet_count": null
   },
   {
     "name": "태의 생일",
@@ -60,16 +60,16 @@
     "tweet_count": null
   },
   {
-    "name": "#카이버블",
-    "query": "#카이버블",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
     "name": "#도블도블",
     "query": "#도블도블",
+    "rank": 11,
+    "tweet_count": "1,035 Tweets"
+  },
+  {
+    "name": "케이팝클릭",
+    "query": "케이팝클릭",
     "rank": 12,
-    "tweet_count": "1,037 Tweets"
+    "tweet_count": null
   },
   {
     "name": "최종우승",
@@ -78,8 +78,8 @@
     "tweet_count": null
   },
   {
-    "name": "최애 음식",
-    "query": "\"최애 음식\"",
+    "name": "#손절각테스트",
+    "query": "#손절각테스트",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,29 +87,29 @@
     "name": "선제타격",
     "query": "선제타격",
     "rank": 15,
-    "tweet_count": "2,449 Tweets"
+    "tweet_count": "2,499 Tweets"
   },
   {
-    "name": "손절각 테스트 결과",
-    "query": "\"손절각 테스트 결과\"",
+    "name": "최애 라면",
+    "query": "\"최애 라면\"",
     "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "최애 음식",
+    "query": "\"최애 음식\"",
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "유설생 기현",
     "query": "\"유설생 기현\"",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "최애 라면",
-    "query": "\"최애 라면\"",
     "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "케이팝클릭",
-    "query": "케이팝클릭",
+    "name": "#탐라에서_비슷한_트친_찾기",
+    "query": "#탐라에서_비슷한_트친_찾기",
     "rank": 19,
     "tweet_count": null
   }
