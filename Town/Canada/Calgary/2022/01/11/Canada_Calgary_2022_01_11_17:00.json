@@ -1,92 +1,98 @@
 [
   {
+    "name": "Detroit",
+    "query": "Detroit",
+    "rank": 1,
+    "tweet_count": "21.1K Tweets"
+  },
+  {
     "name": "#PortfolioDay",
     "query": "#PortfolioDay",
-    "rank": 1,
-    "tweet_count": "49.4K Tweets"
+    "rank": 2,
+    "tweet_count": "60.6K Tweets"
   },
   {
     "name": "Rand Paul",
     "query": "\"Rand Paul\"",
-    "rank": 2,
-    "tweet_count": "55.8K Tweets"
-  },
-  {
-    "name": "#TeamNigeria",
-    "query": "#TeamNigeria",
     "rank": 3,
-    "tweet_count": "28.6K Tweets"
-  },
-  {
-    "name": "Powell",
-    "query": "Powell",
-    "rank": 4,
-    "tweet_count": "29.2K Tweets"
-  },
-  {
-    "name": "CRYSTAL",
-    "query": "CRYSTAL",
-    "rank": 5,
-    "tweet_count": "61.5K Tweets"
-  },
-  {
-    "name": "Sierra Leone",
-    "query": "\"Sierra Leone\"",
-    "rank": 6,
-    "tweet_count": "39.5K Tweets"
-  },
-  {
-    "name": "#tuesdayvibe",
-    "query": "#tuesdayvibe",
-    "rank": 7,
-    "tweet_count": "18.3K Tweets"
-  },
-  {
-    "name": "#tuesdaymotivations",
-    "query": "#tuesdaymotivations",
-    "rank": 8,
-    "tweet_count": "34.9K Tweets"
-  },
-  {
-    "name": "Shireen",
-    "query": "Shireen",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Pfizer CEO",
-    "query": "\"Pfizer CEO\"",
-    "rank": 10,
-    "tweet_count": "68.9K Tweets"
+    "tweet_count": "74.2K Tweets"
   },
   {
     "name": "Ken Holland",
     "query": "\"Ken Holland\"",
-    "rank": 11,
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "#TeamNigeria",
+    "query": "#TeamNigeria",
+    "rank": 5,
+    "tweet_count": "32.7K Tweets"
+  },
+  {
+    "name": "Powell",
+    "query": "Powell",
+    "rank": 6,
+    "tweet_count": "32.8K Tweets"
+  },
+  {
+    "name": "#Happy9YearsWithJimin",
+    "query": "#Happy9YearsWithJimin",
+    "rank": 7,
+    "tweet_count": "124K Tweets"
+  },
+  {
+    "name": "Crystal",
+    "query": "Crystal",
+    "rank": 8,
+    "tweet_count": "65.1K Tweets"
+  },
+  {
+    "name": "#tuesdayvibe",
+    "query": "#tuesdayvibe",
+    "rank": 9,
+    "tweet_count": "18.9K Tweets"
+  },
+  {
+    "name": "Shireen",
+    "query": "Shireen",
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Dr Arruda",
     "query": "\"Dr Arruda\"",
+    "rank": 11,
+    "tweet_count": "4,349 Tweets"
+  },
+  {
+    "name": "Pfizer CEO",
+    "query": "\"Pfizer CEO\"",
     "rank": 12,
-    "tweet_count": "4,211 Tweets"
+    "tweet_count": "70.4K Tweets"
   },
   {
     "name": "#Wordle",
     "query": "#Wordle",
     "rank": 13,
-    "tweet_count": "7,349 Tweets"
+    "tweet_count": "7,575 Tweets"
   },
   {
     "name": "Manchin",
     "query": "Manchin",
     "rank": 14,
-    "tweet_count": "64.4K Tweets"
+    "tweet_count": "67.7K Tweets"
   },
   {
     "name": "#CovidVaccine",
     "query": "#CovidVaccine",
     "rank": 15,
-    "tweet_count": "8,204 Tweets"
+    "tweet_count": "8,469 Tweets"
+  },
+  {
+    "name": "#LauderdaleLecce",
+    "query": "#LauderdaleLecce",
+    "rank": 16,
+    "tweet_count": "1,221 Tweets"
   }
 ]
