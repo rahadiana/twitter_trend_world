@@ -6,20 +6,20 @@
     "tweet_count": null
   },
   {
-    "name": "Comunicaciones",
-    "query": "Comunicaciones",
-    "rank": 2,
-    "tweet_count": "3,000 Tweets"
-  },
-  {
     "name": "Ortega",
     "query": "Ortega",
-    "rank": 3,
-    "tweet_count": "91.5K Tweets"
+    "rank": 2,
+    "tweet_count": "92K Tweets"
   },
   {
-    "name": "Marro",
-    "query": "Marro",
+    "name": "Comunicaciones",
+    "query": "Comunicaciones",
+    "rank": 3,
+    "tweet_count": "3,039 Tweets"
+  },
+  {
+    "name": "marro",
+    "query": "marro",
     "rank": 4,
     "tweet_count": null
   },
@@ -42,8 +42,8 @@
     "tweet_count": "109K Tweets"
   },
   {
-    "name": "#cadenanacional",
-    "query": "#cadenanacional",
+    "name": "#CadenaNacional",
+    "query": "#CadenaNacional",
     "rank": 8,
     "tweet_count": null
   },
@@ -54,69 +54,69 @@
     "tweet_count": "340K Tweets"
   },
   {
-    "name": "Lacayo",
-    "query": "Lacayo",
+    "name": "lacayo",
+    "query": "lacayo",
     "rank": 10,
-    "tweet_count": "1,666 Tweets"
-  },
-  {
-    "name": "Euphoria",
-    "query": "Euphoria",
-    "rank": 11,
-    "tweet_count": "458K Tweets"
-  },
-  {
-    "name": "#Happy9YearsWithJimin",
-    "query": "#Happy9YearsWithJimin",
-    "rank": 12,
-    "tweet_count": "176K Tweets"
+    "tweet_count": "1,687 Tweets"
   },
   {
     "name": "tikal",
     "query": "tikal",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "cayalá",
+    "query": "cayalá",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "Santa Catarina",
+    "query": "\"Santa Catarina\"",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "2,659 Tweets"
   },
   {
-    "name": "Cayalá",
-    "query": "Cayalá",
+    "name": "#Happy9YearsWithJimin",
+    "query": "#Happy9YearsWithJimin",
     "rank": 14,
-    "tweet_count": null
+    "tweet_count": "177K Tweets"
   },
   {
-    "name": "Michael",
-    "query": "Michael",
+    "name": "Euphoria",
+    "query": "Euphoria",
     "rank": 15,
-    "tweet_count": "213K Tweets"
-  },
-  {
-    "name": "allan rodríguez",
-    "query": "\"allan rodríguez\"",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "461K Tweets"
   },
   {
     "name": "#VamosGuate",
     "query": "#VamosGuate",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "La UFM",
     "query": "\"La UFM\"",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Allan Rodríguez",
+    "query": "\"Allan Rodríguez\"",
     "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "Ferran",
-    "query": "Ferran",
+    "name": "Michael",
+    "query": "Michael",
     "rank": 19,
-    "tweet_count": "27.8K Tweets"
+    "tweet_count": "214K Tweets"
   },
   {
-    "name": "#ShingekiNoKyojin",
-    "query": "#ShingekiNoKyojin",
+    "name": "Ferran",
+    "query": "Ferran",
     "rank": 20,
-    "tweet_count": "13.1K Tweets"
+    "tweet_count": "27.9K Tweets"
   }
 ]
