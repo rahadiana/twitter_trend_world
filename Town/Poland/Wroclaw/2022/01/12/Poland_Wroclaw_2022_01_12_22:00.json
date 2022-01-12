@@ -1,15 +1,15 @@
 [
   {
-    "name": "#ElClasico",
-    "query": "#ElClasico",
-    "rank": 1,
-    "tweet_count": "132K Tweets"
-  },
-  {
     "name": "Sienkiewicz",
     "query": "Sienkiewicz",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#ElClasico",
+    "query": "#ElClasico",
+    "rank": 2,
+    "tweet_count": "135K Tweets"
   },
   {
     "name": "Realu",
@@ -21,95 +21,95 @@
     "name": "#InterJuve",
     "query": "#InterJuve",
     "rank": 4,
-    "tweet_count": "24.9K Tweets"
-  },
-  {
-    "name": "#LaZabawa",
-    "query": "#LaZabawa",
-    "rank": 5,
-    "tweet_count": null
+    "tweet_count": "27.4K Tweets"
   },
   {
     "name": "#FCBRMA",
     "query": "#FCBRMA",
-    "rank": 6,
-    "tweet_count": "3,033 Tweets"
+    "rank": 5,
+    "tweet_count": "3,048 Tweets"
   },
   {
     "name": "Dembele",
     "query": "Dembele",
-    "rank": 7,
-    "tweet_count": "51.7K Tweets"
+    "rank": 6,
+    "tweet_count": "52.2K Tweets"
   },
   {
     "name": "Rodrygo",
     "query": "Rodrygo",
-    "rank": 8,
-    "tweet_count": "27.1K Tweets"
+    "rank": 7,
+    "tweet_count": "27.4K Tweets"
   },
   {
     "name": "Barca",
     "query": "Barca",
-    "rank": 9,
-    "tweet_count": "222K Tweets"
+    "rank": 8,
+    "tweet_count": "225K Tweets"
   },
   {
-    "name": "Trzymajcie",
-    "query": "Trzymajcie",
+    "name": "#LaZabawa",
+    "query": "#LaZabawa",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "trzymajcie",
+    "query": "trzymajcie",
     "rank": 10,
     "tweet_count": null
   },
   {
+    "name": "Xaviego",
+    "query": "Xaviego",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "Luuk de Jong",
+    "query": "\"Luuk de Jong\"",
+    "rank": 12,
+    "tweet_count": "34.6K Tweets"
+  },
+  {
     "name": "Real Madryt",
     "query": "\"Real Madryt\"",
-    "rank": 11,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Stasiu",
     "query": "Stasiu",
-    "rank": 12,
+    "rank": 14,
     "tweet_count": null
-  },
-  {
-    "name": "Senat",
-    "query": "Senat",
-    "rank": 13,
-    "tweet_count": "45K Tweets"
   },
   {
     "name": "Lotos",
     "query": "Lotos",
-    "rank": 14,
-    "tweet_count": "6,870 Tweets"
+    "rank": 15,
+    "tweet_count": "6,915 Tweets"
   },
   {
-    "name": "senacie",
-    "query": "senacie",
-    "rank": 15,
+    "name": "Senatu",
+    "query": "Senatu",
+    "rank": 16,
+    "tweet_count": "1,643 Tweets"
+  },
+  {
+    "name": "Senacie",
+    "query": "Senacie",
+    "rank": 17,
     "tweet_count": null
+  },
+  {
+    "name": "Onet",
+    "query": "Onet",
+    "rank": 18,
+    "tweet_count": "4,685 Tweets"
   },
   {
     "name": "Niemcom",
     "query": "Niemcom",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "onet",
-    "query": "onet",
-    "rank": 17,
-    "tweet_count": "4,652 Tweets"
-  },
-  {
-    "name": "PGNiG",
-    "query": "PGNiG",
-    "rank": 18,
-    "tweet_count": "1,536 Tweets"
-  },
-  {
-    "name": "#pokójmodlitwy",
-    "query": "#pokójmodlitwy",
     "rank": 19,
     "tweet_count": null
   }
