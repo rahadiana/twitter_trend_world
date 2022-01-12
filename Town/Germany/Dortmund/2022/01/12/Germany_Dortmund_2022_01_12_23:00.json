@@ -1,21 +1,21 @@
 [
   {
-    "name": "#Maischberger",
-    "query": "#Maischberger",
+    "name": "#Lanz",
+    "query": "#Lanz",
     "rank": 1,
+    "tweet_count": "2,119 Tweets"
+  },
+  {
+    "name": "#maischberger",
+    "query": "#maischberger",
+    "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "#Lanz",
-    "query": "#Lanz",
-    "rank": 2,
-    "tweet_count": "1,841 Tweets"
-  },
-  {
-    "name": "#WirSindVieleGegenRechts",
-    "query": "#WirSindVieleGegenRechts",
+    "name": "#TwitterBan",
+    "query": "#TwitterBan",
     "rank": 3,
-    "tweet_count": "2,339 Tweets"
+    "tweet_count": "7,563 Tweets"
   },
   {
     "name": "#Laumann",
@@ -27,13 +27,13 @@
     "name": "Jugendamt",
     "query": "Jugendamt",
     "rank": 5,
-    "tweet_count": "1,470 Tweets"
+    "tweet_count": "1,534 Tweets"
   },
   {
     "name": "Barca",
     "query": "Barca",
     "rank": 6,
-    "tweet_count": "229K Tweets"
+    "tweet_count": "233K Tweets"
   },
   {
     "name": "Franzbrötchen",
@@ -45,55 +45,55 @@
     "name": "Hagen",
     "query": "Hagen",
     "rank": 8,
-    "tweet_count": "4,679 Tweets"
+    "tweet_count": "4,792 Tweets"
   },
   {
     "name": "Schülerin",
     "query": "Schülerin",
     "rank": 9,
-    "tweet_count": "1,783 Tweets"
+    "tweet_count": "1,849 Tweets"
   },
   {
-    "name": "Lego",
-    "query": "Lego",
+    "name": "Spurs",
+    "query": "Spurs",
     "rank": 10,
-    "tweet_count": "21.5K Tweets"
+    "tweet_count": "45.9K Tweets"
+  },
+  {
+    "name": "#wirsindvielegegenrechts",
+    "query": "#wirsindvielegegenrechts",
+    "rank": 11,
+    "tweet_count": "2,417 Tweets"
   },
   {
     "name": "#AktenzeichenXY",
     "query": "#AktenzeichenXY",
-    "rank": 11,
-    "tweet_count": "2,159 Tweets"
-  },
-  {
-    "name": "#TwitterBan",
-    "query": "#TwitterBan",
     "rank": 12,
-    "tweet_count": "5,147 Tweets"
-  },
-  {
-    "name": "#TotChe",
-    "query": "#TotChe",
-    "rank": 13,
-    "tweet_count": "30.4K Tweets"
+    "tweet_count": "2,159 Tweets"
   },
   {
     "name": "#Palmer",
     "query": "#Palmer",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "#sterntv",
     "query": "#sterntv",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
+  },
+  {
+    "name": "#TotChe",
+    "query": "#TotChe",
+    "rank": 15,
+    "tweet_count": "30.9K Tweets"
   },
   {
     "name": "#muc1201",
     "query": "#muc1201",
     "rank": 16,
-    "tweet_count": "2,176 Tweets"
+    "tweet_count": "2,223 Tweets"
   },
   {
     "name": "#promibacken",
@@ -111,6 +111,6 @@
     "name": "#Eternals",
     "query": "#Eternals",
     "rank": 19,
-    "tweet_count": "80.8K Tweets"
+    "tweet_count": "82K Tweets"
   }
 ]
