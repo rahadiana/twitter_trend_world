@@ -1,7 +1,7 @@
 [
   {
-    "name": "конституции",
-    "query": "конституции",
+    "name": "Конституции",
+    "query": "Конституции",
     "rank": 1,
     "tweet_count": null
   },
@@ -12,10 +12,10 @@
     "tweet_count": null
   },
   {
-    "name": "#nftart",
-    "query": "#nftart",
+    "name": "#Butter",
+    "query": "#Butter",
     "rank": 3,
-    "tweet_count": "147K Tweets"
+    "tweet_count": "307K Tweets"
   },
   {
     "name": "Реальный Брест",
@@ -24,22 +24,22 @@
     "tweet_count": null
   },
   {
+    "name": "#nftart",
+    "query": "#nftart",
+    "rank": 5,
+    "tweet_count": "151K Tweets"
+  },
+  {
     "name": "Господи",
     "query": "Господи",
-    "rank": 5,
-    "tweet_count": "4,664 Tweets"
+    "rank": 6,
+    "tweet_count": "4,818 Tweets"
   },
   {
     "name": "Главное",
     "query": "Главное",
-    "rank": 6,
-    "tweet_count": "6,360 Tweets"
-  },
-  {
-    "name": "#twiby",
-    "query": "#twiby",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "6,549 Tweets"
   },
   {
     "name": "#референдум",
@@ -48,33 +48,45 @@
     "tweet_count": null
   },
   {
+    "name": "Согласен",
+    "query": "Согласен",
+    "rank": 9,
+    "tweet_count": "1,765 Tweets"
+  },
+  {
     "name": "#CreativeSociety",
     "query": "#CreativeSociety",
-    "rank": 9,
-    "tweet_count": "1,154 Tweets"
+    "rank": 10,
+    "tweet_count": "1,187 Tweets"
   },
   {
     "name": "COVID-19",
     "query": "COVID-19",
-    "rank": 10,
-    "tweet_count": "635K Tweets"
-  },
-  {
-    "name": "ЖАЛЬ",
-    "query": "ЖАЛЬ",
     "rank": 11,
-    "tweet_count": "4,893 Tweets"
+    "tweet_count": "653K Tweets"
   },
   {
-    "name": "Кстати",
-    "query": "Кстати",
+    "name": "Жаль",
+    "query": "Жаль",
     "rank": 12,
-    "tweet_count": "9,115 Tweets"
+    "tweet_count": "5,089 Tweets"
   },
   {
-    "name": "минске",
-    "query": "минске",
+    "name": "Минска",
+    "query": "Минска",
     "rank": 13,
     "tweet_count": null
+  },
+  {
+    "name": "Здравствуйте",
+    "query": "Здравствуйте",
+    "rank": 14,
+    "tweet_count": "1,626 Tweets"
+  },
+  {
+    "name": "Гарри Поттер",
+    "query": "\"Гарри Поттер\"",
+    "rank": 15,
+    "tweet_count": "1,087 Tweets"
   }
 ]
