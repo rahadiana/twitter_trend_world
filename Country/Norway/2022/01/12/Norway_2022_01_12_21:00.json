@@ -1,39 +1,39 @@
 [
   {
-    "name": "#TotChe",
-    "query": "#TotChe",
+    "name": "Spurs",
+    "query": "Spurs",
     "rank": 1,
-    "tweet_count": "25.8K Tweets"
+    "tweet_count": "40K Tweets"
   },
   {
     "name": "Gyda",
     "query": "Gyda",
     "rank": 2,
-    "tweet_count": "1,130 Tweets"
+    "tweet_count": "1,142 Tweets"
   },
   {
     "name": "Rudiger",
     "query": "Rudiger",
     "rank": 3,
-    "tweet_count": "16.8K Tweets"
+    "tweet_count": "18K Tweets"
   },
   {
     "name": "Stoltenberg",
     "query": "Stoltenberg",
     "rank": 4,
-    "tweet_count": "3,678 Tweets"
+    "tweet_count": "3,713 Tweets"
   },
   {
     "name": "Kane",
     "query": "Kane",
     "rank": 5,
-    "tweet_count": "32.2K Tweets"
+    "tweet_count": "33.2K Tweets"
   },
   {
     "name": "Bowen",
     "query": "Bowen",
     "rank": 6,
-    "tweet_count": "10.6K Tweets"
+    "tweet_count": "12K Tweets"
   },
   {
     "name": "Espejord",
@@ -48,8 +48,8 @@
     "tweet_count": null
   },
   {
-    "name": "Glimt",
-    "query": "Glimt",
+    "name": "Kondolerer",
+    "query": "Kondolerer",
     "rank": 9,
     "tweet_count": null
   },
@@ -57,25 +57,25 @@
     "name": "Barca",
     "query": "Barca",
     "rank": 10,
-    "tweet_count": "185K Tweets"
+    "tweet_count": "201K Tweets"
+  },
+  {
+    "name": "glimt",
+    "query": "glimt",
+    "rank": 11,
+    "tweet_count": null
   },
   {
     "name": "Skjalg Fjellheim",
     "query": "\"Skjalg Fjellheim\"",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Boris Johnson",
     "query": "\"Boris Johnson\"",
-    "rank": 12,
-    "tweet_count": "336K Tweets"
-  },
-  {
-    "name": "Kondolerer",
-    "query": "Kondolerer",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "340K Tweets"
   },
   {
     "name": "#nrkdebatt",
@@ -87,36 +87,36 @@
     "name": "Odds",
     "query": "Odds",
     "rank": 15,
-    "tweet_count": "44.8K Tweets"
-  },
-  {
-    "name": "Saudi-Arabia",
-    "query": "Saudi-Arabia",
-    "rank": 16,
-    "tweet_count": "31.5K Tweets"
-  },
-  {
-    "name": "Bodø",
-    "query": "Bodø",
-    "rank": 17,
-    "tweet_count": null
+    "tweet_count": "45.2K Tweets"
   },
   {
     "name": "Chelsea",
     "query": "Chelsea",
-    "rank": 18,
-    "tweet_count": "101K Tweets"
+    "rank": 16,
+    "tweet_count": "111K Tweets"
   },
   {
-    "name": "nnpf",
-    "query": "nnpf",
+    "name": "Saudi-Arabia",
+    "query": "Saudi-Arabia",
+    "rank": 17,
+    "tweet_count": "32.1K Tweets"
+  },
+  {
+    "name": "Bodø",
+    "query": "Bodø",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "NNPF",
+    "query": "NNPF",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Pfizer",
-    "query": "Pfizer",
+    "name": "Støre",
+    "query": "Støre",
     "rank": 20,
-    "tweet_count": "199K Tweets"
+    "tweet_count": null
   }
 ]
