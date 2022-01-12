@@ -1,27 +1,27 @@
 [
   {
+    "name": "#wsmds",
+    "query": "#wsmds",
+    "rank": 1,
+    "tweet_count": "5,804 Tweets"
+  },
+  {
     "name": "#Pushback",
     "query": "#Pushback",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "#DurchseuchungOhneUns",
-    "query": "#DurchseuchungOhneUns",
-    "rank": 2,
-    "tweet_count": "9,067 Tweets"
-  },
-  {
-    "name": "#Parlamentspoetin",
-    "query": "#Parlamentspoetin",
+    "name": "Schulausfall",
+    "query": "Schulausfall",
     "rank": 3,
-    "tweet_count": "6,425 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#Habeck",
-    "query": "#Habeck",
+    "name": "Neuinfektionen",
+    "query": "Neuinfektionen",
     "rank": 4,
-    "tweet_count": "6,965 Tweets"
+    "tweet_count": "3,631 Tweets"
   },
   {
     "name": "Wochenteiler",
@@ -30,87 +30,69 @@
     "tweet_count": null
   },
   {
-    "name": "Schulausfall",
-    "query": "Schulausfall",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "Chorerfahrung",
-    "query": "Chorerfahrung",
-    "rank": 7,
-    "tweet_count": "1,545 Tweets"
-  },
-  {
-    "name": "Neuinfektionen",
-    "query": "Neuinfektionen",
-    "rank": 8,
-    "tweet_count": "3,523 Tweets"
-  },
-  {
-    "name": "Bergfest",
-    "query": "Bergfest",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
     "name": "Wordle 207 X",
     "query": "\"Wordle 207 X\"",
-    "rank": 10,
-    "tweet_count": "2,460 Tweets"
-  },
-  {
-    "name": "Rumänien",
-    "query": "Rumänien",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "guten morgen welt",
-    "query": "\"guten morgen welt\"",
-    "rank": 12,
-    "tweet_count": null
+    "rank": 6,
+    "tweet_count": "2,535 Tweets"
   },
   {
     "name": "Vampir",
     "query": "Vampir",
-    "rank": 13,
-    "tweet_count": "1,078 Tweets"
+    "rank": 7,
+    "tweet_count": "1,100 Tweets"
   },
   {
-    "name": "start in die woche",
-    "query": "\"start in die woche\"",
+    "name": "Bergfest",
+    "query": "Bergfest",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "start in den tag",
+    "query": "\"start in den tag\"",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Habeck",
+    "query": "Habeck",
+    "rank": 10,
+    "tweet_count": "12.3K Tweets"
+  },
+  {
+    "name": "#DurchseuchungOhneUns",
+    "query": "#DurchseuchungOhneUns",
+    "rank": 11,
+    "tweet_count": "9,153 Tweets"
+  },
+  {
+    "name": "#unwortdesjahres",
+    "query": "#unwortdesjahres",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "#BubatzBlienert",
+    "query": "#BubatzBlienert",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "#Chorerfahrung",
+    "query": "#Chorerfahrung",
     "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "Impfpflicht",
-    "query": "Impfpflicht",
+    "name": "#Omikronwand",
+    "query": "#Omikronwand",
     "rank": 15,
-    "tweet_count": "39.5K Tweets"
+    "tweet_count": "2,085 Tweets"
   },
   {
-    "name": "Schönen Mittwoch",
-    "query": "\"Schönen Mittwoch\"",
+    "name": "#HappyBirthdayZayn",
+    "query": "#HappyBirthdayZayn",
     "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Tag 12",
-    "query": "\"Tag 12\"",
-    "rank": 17,
-    "tweet_count": "49.8K Tweets"
-  },
-  {
-    "name": "Mark Forster",
-    "query": "\"Mark Forster\"",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Franzbrötchen",
-    "query": "Franzbrötchen",
-    "rank": 19,
-    "tweet_count": null
+    "tweet_count": "34.2K Tweets"
   }
 ]
