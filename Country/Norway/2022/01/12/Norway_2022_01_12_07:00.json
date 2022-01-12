@@ -1,15 +1,15 @@
 [
   {
-    "name": "#polkvart",
-    "query": "#polkvart",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Stoltenberg",
     "query": "Stoltenberg",
+    "rank": 1,
+    "tweet_count": "1,567 Tweets"
+  },
+  {
+    "name": "#polkvart",
+    "query": "#polkvart",
     "rank": 2,
-    "tweet_count": "1,559 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Gyda",
@@ -42,38 +42,38 @@
     "tweet_count": null
   },
   {
-    "name": "ida wolden bache",
-    "query": "\"ida wolden bache\"",
+    "name": "Pfizer",
+    "query": "Pfizer",
     "rank": 8,
+    "tweet_count": "207K Tweets"
+  },
+  {
+    "name": "Viken",
+    "query": "Viken",
+    "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Pfizer",
-    "query": "Pfizer",
-    "rank": 9,
-    "tweet_count": "205K Tweets"
+    "name": "ida wolden bache",
+    "query": "\"ida wolden bache\"",
+    "rank": 10,
+    "tweet_count": null
   },
   {
-    "name": "viken",
-    "query": "viken",
-    "rank": 10,
+    "name": "Petter Strand",
+    "query": "\"Petter Strand\"",
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "#PortfolioDay",
     "query": "#PortfolioDay",
-    "rank": 11,
-    "tweet_count": "246K Tweets"
-  },
-  {
-    "name": "petter strand",
-    "query": "\"petter strand\"",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "247K Tweets"
   },
   {
-    "name": "stjernen",
-    "query": "stjernen",
+    "name": "Stjernen",
+    "query": "Stjernen",
     "rank": 13,
     "tweet_count": null
   },
@@ -87,25 +87,25 @@
     "name": "NATO",
     "query": "NATO",
     "rank": 15,
-    "tweet_count": "52.2K Tweets"
-  },
-  {
-    "name": "Glimt",
-    "query": "Glimt",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "52.5K Tweets"
   },
   {
     "name": "#TOTY",
     "query": "#TOTY",
-    "rank": 17,
-    "tweet_count": "6,052 Tweets"
+    "rank": 16,
+    "tweet_count": "6,070 Tweets"
   },
   {
-    "name": "Michael",
-    "query": "Michael",
+    "name": "Bodø",
+    "query": "Bodø",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Glimt",
+    "query": "Glimt",
     "rank": 18,
-    "tweet_count": "215K Tweets"
+    "tweet_count": null
   },
   {
     "name": "farmen kjendis",
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "Bodø",
-    "query": "Bodø",
+    "name": "Michael",
+    "query": "Michael",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "216K Tweets"
   }
 ]
