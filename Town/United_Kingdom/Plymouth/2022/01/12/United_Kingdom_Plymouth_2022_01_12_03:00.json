@@ -1,63 +1,63 @@
 [
   {
-    "name": "#readingfc",
-    "query": "#readingfc",
-    "rank": 1,
-    "tweet_count": "9,564 Tweets"
-  },
-  {
     "name": "Sunderland",
     "query": "Sunderland",
-    "rank": 2,
-    "tweet_count": "6,127 Tweets"
+    "rank": 1,
+    "tweet_count": "6,134 Tweets"
   },
   {
     "name": "Boris Johnson",
     "query": "\"Boris Johnson\"",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": "218K Tweets"
   },
   {
     "name": "Sue Gray",
     "query": "\"Sue Gray\"",
-    "rank": 4,
-    "tweet_count": "67.2K Tweets"
+    "rank": 3,
+    "tweet_count": "67.3K Tweets"
   },
   {
     "name": "Wordle 207 X",
     "query": "\"Wordle 207 X\"",
-    "rank": 5,
-    "tweet_count": null
+    "rank": 4,
+    "tweet_count": "1,002 Tweets"
   },
   {
     "name": "Grizzlies",
     "query": "Grizzlies",
-    "rank": 6,
-    "tweet_count": "21K Tweets"
+    "rank": 5,
+    "tweet_count": "22K Tweets"
   },
   {
     "name": "Chris Wood",
     "query": "\"Chris Wood\"",
-    "rank": 7,
-    "tweet_count": "15.9K Tweets"
+    "rank": 6,
+    "tweet_count": "16K Tweets"
   },
   {
     "name": "Ja Morant",
     "query": "\"Ja Morant\"",
+    "rank": 7,
+    "tweet_count": "24.3K Tweets"
+  },
+  {
+    "name": "Burnley",
+    "query": "Burnley",
     "rank": 8,
-    "tweet_count": "23.6K Tweets"
+    "tweet_count": "14.2K Tweets"
   },
   {
     "name": "Broja",
     "query": "Broja",
     "rank": 9,
-    "tweet_count": "7,775 Tweets"
+    "tweet_count": "7,796 Tweets"
   },
   {
     "name": "Colby",
     "query": "Colby",
     "rank": 10,
-    "tweet_count": "19.4K Tweets"
+    "tweet_count": "19.5K Tweets"
   },
   {
     "name": "#SaintsFC",
@@ -69,19 +69,19 @@
     "name": "fulham",
     "query": "fulham",
     "rank": 12,
-    "tweet_count": "6,047 Tweets"
+    "tweet_count": "6,054 Tweets"
   },
   {
     "name": "#PMQs",
     "query": "#PMQs",
     "rank": 13,
-    "tweet_count": "8,710 Tweets"
+    "tweet_count": "8,721 Tweets"
   },
   {
     "name": "Andy Carroll",
     "query": "\"Andy Carroll\"",
     "rank": 14,
-    "tweet_count": "8,924 Tweets"
+    "tweet_count": "8,926 Tweets"
   },
   {
     "name": "#RulesOfTheGame",
@@ -90,21 +90,21 @@
     "tweet_count": null
   },
   {
+    "name": "#SAFC",
+    "query": "#SAFC",
+    "rank": 16,
+    "tweet_count": "2,368 Tweets"
+  },
+  {
     "name": "Fixed Brexit",
     "query": "\"Fixed Brexit\"",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Harry Enfield",
     "query": "\"Harry Enfield\"",
-    "rank": 17,
-    "tweet_count": "2,149 Tweets"
-  },
-  {
-    "name": "Lee Johnson",
-    "query": "\"Lee Johnson\"",
     "rank": 18,
-    "tweet_count": "1,556 Tweets"
+    "tweet_count": "2,151 Tweets"
   }
 ]

@@ -1,27 +1,27 @@
 [
   {
-    "name": "USAC",
-    "query": "USAC",
+    "name": "Usac",
+    "query": "Usac",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "Ortega",
-    "query": "Ortega",
-    "rank": 2,
-    "tweet_count": "78.6K Tweets"
-  },
-  {
     "name": "kevin lópez",
     "query": "\"kevin lópez\"",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Marro",
     "query": "Marro",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
+  },
+  {
+    "name": "Ortega",
+    "query": "Ortega",
+    "rank": 4,
+    "tweet_count": "78.9K Tweets"
   },
   {
     "name": "URNG",
@@ -33,71 +33,71 @@
     "name": "Nicaragua",
     "query": "Nicaragua",
     "rank": 6,
-    "tweet_count": "90.6K Tweets"
+    "tweet_count": "91K Tweets"
   },
   {
     "name": "Lacayo",
     "query": "Lacayo",
     "rank": 7,
-    "tweet_count": "1,555 Tweets"
+    "tweet_count": "1,565 Tweets"
   },
   {
     "name": "BILLBOARD",
     "query": "BILLBOARD",
     "rank": 8,
-    "tweet_count": "437K Tweets"
+    "tweet_count": "448K Tweets"
   },
   {
     "name": "La UFM",
     "query": "\"La UFM\"",
     "rank": 9,
-    "tweet_count": "1,301 Tweets"
-  },
-  {
-    "name": "Alfredo Ajpacajá",
-    "query": "\"Alfredo Ajpacajá\"",
-    "rank": 10,
-    "tweet_count": null
+    "tweet_count": "1,323 Tweets"
   },
   {
     "name": "#InformeNacional",
     "query": "#InformeNacional",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Motagua",
     "query": "Motagua",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "#Happy9YearsWithJimin",
     "query": "#Happy9YearsWithJimin",
-    "rank": 13,
-    "tweet_count": "205K Tweets"
+    "rank": 12,
+    "tweet_count": "206K Tweets"
   },
   {
     "name": "Comunicaciones FC",
     "query": "\"Comunicaciones FC\"",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "parque nacional tikal",
     "query": "\"parque nacional tikal\"",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "#BLACKPINKCOMEBACKNOW",
     "query": "#BLACKPINKCOMEBACKNOW",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": "242K Tweets"
   },
   {
     "name": "Cayalá",
     "query": "Cayalá",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Alfredo Ajpacajá",
+    "query": "\"Alfredo Ajpacajá\"",
     "rank": 17,
     "tweet_count": null
   },
@@ -111,12 +111,12 @@
     "name": "Ferran",
     "query": "Ferran",
     "rank": 19,
-    "tweet_count": "28.2K Tweets"
+    "tweet_count": "28.3K Tweets"
   },
   {
-    "name": "Euphoria",
-    "query": "Euphoria",
+    "name": "Michael",
+    "query": "Michael",
     "rank": 20,
-    "tweet_count": "402K Tweets"
+    "tweet_count": "215K Tweets"
   }
 ]
