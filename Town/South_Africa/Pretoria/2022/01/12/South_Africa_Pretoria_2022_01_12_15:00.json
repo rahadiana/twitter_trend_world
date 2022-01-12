@@ -1,87 +1,87 @@
 [
   {
-    "name": "Petersen",
-    "query": "Petersen",
+    "name": "Proteas",
+    "query": "Proteas",
     "rank": 1,
-    "tweet_count": "5,965 Tweets"
+    "tweet_count": "1,652 Tweets"
   },
   {
     "name": "Grade 1",
     "query": "\"Grade 1\"",
     "rank": 2,
-    "tweet_count": "30.6K Tweets"
-  },
-  {
-    "name": "Proteas",
-    "query": "Proteas",
-    "rank": 3,
-    "tweet_count": "1,599 Tweets"
-  },
-  {
-    "name": "#BackToSchool",
-    "query": "#BackToSchool",
-    "rank": 4,
-    "tweet_count": "9,301 Tweets"
+    "tweet_count": "31.2K Tweets"
   },
   {
     "name": "Zondo",
     "query": "Zondo",
-    "rank": 5,
-    "tweet_count": "6,932 Tweets"
+    "rank": 3,
+    "tweet_count": "8,518 Tweets"
   },
   {
     "name": "#TUNMLI",
     "query": "#TUNMLI",
-    "rank": 6,
-    "tweet_count": "17.2K Tweets"
+    "rank": 4,
+    "tweet_count": "24.9K Tweets"
   },
   {
     "name": "Chief Justice",
     "query": "\"Chief Justice\"",
-    "rank": 7,
-    "tweet_count": "8,774 Tweets"
+    "rank": 5,
+    "tweet_count": "9,667 Tweets"
   },
   {
     "name": "#LindiweSisulu",
     "query": "#LindiweSisulu",
-    "rank": 8,
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "Judiciary",
     "query": "Judiciary",
-    "rank": 9,
-    "tweet_count": "22.7K Tweets"
+    "rank": 7,
+    "tweet_count": "23.7K Tweets"
+  },
+  {
+    "name": "#voucherplug",
+    "query": "#voucherplug",
+    "rank": 8,
+    "tweet_count": null
   },
   {
     "name": "Dawn",
     "query": "Dawn",
-    "rank": 10,
-    "tweet_count": "78.4K Tweets"
+    "rank": 9,
+    "tweet_count": "79.9K Tweets"
   },
   {
     "name": "#Enjoymax",
     "query": "#Enjoymax",
+    "rank": 10,
+    "tweet_count": "1,517 Tweets"
+  },
+  {
+    "name": "#firstdayofschool",
+    "query": "#firstdayofschool",
     "rank": 11,
-    "tweet_count": "1,450 Tweets"
+    "tweet_count": "1,541 Tweets"
+  },
+  {
+    "name": "Opinion",
+    "query": "Opinion",
+    "rank": 12,
+    "tweet_count": "321K Tweets"
   },
   {
     "name": "Porsche",
     "query": "Porsche",
-    "rank": 12,
-    "tweet_count": "12.4K Tweets"
+    "rank": 13,
+    "tweet_count": "13.1K Tweets"
   },
   {
     "name": "Jansen",
     "query": "Jansen",
-    "rank": 13,
-    "tweet_count": "6,306 Tweets"
-  },
-  {
-    "name": "Kay Yarms",
-    "query": "\"Kay Yarms\"",
     "rank": 14,
-    "tweet_count": "4,300 Tweets"
+    "tweet_count": "6,771 Tweets"
   },
   {
     "name": "SADTU",
@@ -90,15 +90,33 @@
     "tweet_count": null
   },
   {
-    "name": "Bavuma",
-    "query": "Bavuma",
+    "name": "Kay Yarms",
+    "query": "\"Kay Yarms\"",
     "rank": 16,
-    "tweet_count": "2,475 Tweets"
+    "tweet_count": "4,450 Tweets"
+  },
+  {
+    "name": "Constitution",
+    "query": "Constitution",
+    "rank": 17,
+    "tweet_count": "90K Tweets"
+  },
+  {
+    "name": "Petersen",
+    "query": "Petersen",
+    "rank": 18,
+    "tweet_count": "6,059 Tweets"
   },
   {
     "name": "Rabada",
     "query": "Rabada",
-    "rank": 17,
-    "tweet_count": "6,546 Tweets"
+    "rank": 19,
+    "tweet_count": "6,866 Tweets"
+  },
+  {
+    "name": "Bavuma",
+    "query": "Bavuma",
+    "rank": 20,
+    "tweet_count": "2,530 Tweets"
   }
 ]
