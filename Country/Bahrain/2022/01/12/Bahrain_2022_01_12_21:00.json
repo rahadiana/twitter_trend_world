@@ -1,104 +1,110 @@
 [
   {
+    "name": "Barca",
+    "query": "Barca",
+    "rank": 1,
+    "tweet_count": "184K Tweets"
+  },
+  {
     "name": "بوسكيتس",
     "query": "بوسكيتس",
-    "rank": 1,
-    "tweet_count": "8,025 Tweets"
+    "rank": 2,
+    "tweet_count": "9,220 Tweets"
   },
   {
     "name": "مدريد",
     "query": "مدريد",
-    "rank": 2,
-    "tweet_count": "115K Tweets"
+    "rank": 3,
+    "tweet_count": "119K Tweets"
   },
   {
     "name": "برشلونة",
     "query": "برشلونة",
-    "rank": 3,
-    "tweet_count": "105K Tweets"
+    "rank": 4,
+    "tweet_count": "108K Tweets"
   },
   {
     "name": "#صادق_ثامر",
     "query": "#صادق_ثامر",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "#Bitcoin",
     "query": "#Bitcoin",
-    "rank": 5,
-    "tweet_count": "364K Tweets"
+    "rank": 6,
+    "tweet_count": "369K Tweets"
   },
   {
     "name": "#جعفر_سلطان",
     "query": "#جعفر_سلطان",
-    "rank": 6,
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "#كلا_للاعدام",
     "query": "#كلا_للاعدام",
-    "rank": 7,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "COVID-19",
     "query": "COVID-19",
-    "rank": 8,
-    "tweet_count": "661K Tweets"
+    "rank": 9,
+    "tweet_count": "674K Tweets"
   },
   {
     "name": "قاضي السماء",
     "query": "\"قاضي السماء\"",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "ابو حسين",
     "query": "\"ابو حسين\"",
-    "rank": 10,
-    "tweet_count": null
+    "rank": 11,
+    "tweet_count": "1,014 Tweets"
   },
   {
     "name": "#كاس_امم_افريقيا",
     "query": "#كاس_امم_افريقيا",
-    "rank": 11,
-    "tweet_count": "10.9K Tweets"
+    "rank": 12,
+    "tweet_count": "11K Tweets"
   },
   {
     "name": "العراق",
     "query": "العراق",
-    "rank": 12,
-    "tweet_count": "26.6K Tweets"
+    "rank": 13,
+    "tweet_count": "27K Tweets"
   },
   {
     "name": "ميسي",
     "query": "ميسي",
-    "rank": 13,
-    "tweet_count": "9,599 Tweets"
+    "rank": 14,
+    "tweet_count": "10.1K Tweets"
   },
   {
     "name": "الرياض",
     "query": "الرياض",
-    "rank": 14,
-    "tweet_count": "259K Tweets"
+    "rank": 15,
+    "tweet_count": "263K Tweets"
   },
   {
     "name": "Bob Saget",
     "query": "\"Bob Saget\"",
-    "rank": 15,
-    "tweet_count": "18.7K Tweets"
+    "rank": 16,
+    "tweet_count": "19K Tweets"
   },
   {
     "name": "Arab",
     "query": "Arab",
-    "rank": 16,
-    "tweet_count": "80.2K Tweets"
+    "rank": 17,
+    "tweet_count": "81.3K Tweets"
   },
   {
     "name": "تيك توك",
     "query": "\"تيك توك\"",
-    "rank": 17,
-    "tweet_count": "5,622 Tweets"
+    "rank": 18,
+    "tweet_count": "5,719 Tweets"
   }
 ]
