@@ -1,51 +1,51 @@
 [
   {
-    "name": "#steenrijkstraatarm",
-    "query": "#steenrijkstraatarm",
+    "name": "#lldl",
+    "query": "#lldl",
     "rank": 1,
     "tweet_count": null
   },
   {
+    "name": "#steenrijkstraatarm",
+    "query": "#steenrijkstraatarm",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "Luuk de Jong",
+    "query": "\"Luuk de Jong\"",
+    "rank": 3,
+    "tweet_count": "30.5K Tweets"
+  },
+  {
     "name": "#DitIsM",
     "query": "#DitIsM",
-    "rank": 2,
+    "rank": 4,
+    "tweet_count": "1,017 Tweets"
+  },
+  {
+    "name": "#BARRMA",
+    "query": "#BARRMA",
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Barca",
     "query": "Barca",
-    "rank": 3,
-    "tweet_count": "122K Tweets"
-  },
-  {
-    "name": "#BARRMA",
-    "query": "#BARRMA",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "#FirstDates",
-    "query": "#FirstDates",
-    "rank": 5,
-    "tweet_count": "1,719 Tweets"
+    "rank": 6,
+    "tweet_count": "133K Tweets"
   },
   {
     "name": "Groot Wassink",
     "query": "\"Groot Wassink\"",
-    "rank": 6,
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Margriet",
     "query": "Margriet",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
-    "name": "Daniel",
-    "query": "Daniel",
     "rank": 8,
-    "tweet_count": "160K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Koerhuis",
@@ -54,63 +54,63 @@
     "tweet_count": null
   },
   {
-    "name": "Mali",
-    "query": "Mali",
+    "name": "Daniel",
+    "query": "Daniel",
     "rank": 10,
-    "tweet_count": "140K Tweets"
+    "tweet_count": "164K Tweets"
   },
   {
-    "name": "Tunisia",
-    "query": "Tunisia",
+    "name": "Kitty",
+    "query": "Kitty",
     "rank": 11,
-    "tweet_count": "42.4K Tweets"
+    "tweet_count": "81.7K Tweets"
+  },
+  {
+    "name": "Afrika Cup",
+    "query": "\"Afrika Cup\"",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "NATO",
+    "query": "NATO",
+    "rank": 13,
+    "tweet_count": "60.4K Tweets"
   },
   {
     "name": "Ernst",
     "query": "Ernst",
-    "rank": 12,
-    "tweet_count": "9,599 Tweets"
-  },
-  {
-    "name": "Amsterdamse",
-    "query": "Amsterdamse",
-    "rank": 13,
-    "tweet_count": null
+    "rank": 14,
+    "tweet_count": "9,971 Tweets"
   },
   {
     "name": "Hengelo",
     "query": "Hengelo",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "#LangLeveDeLiefde",
-    "query": "#LangLeveDeLiefde",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "#eenvandaag",
-    "query": "#eenvandaag",
+    "name": "Amsterdamse",
+    "query": "Amsterdamse",
     "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "#TUNMLI",
-    "query": "#TUNMLI",
+    "name": "#nachtdieren",
+    "query": "#nachtdieren",
     "rank": 17,
-    "tweet_count": "43.1K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#StopDeLockdownNu",
-    "query": "#StopDeLockdownNu",
+    "name": "#FirstDates",
+    "query": "#FirstDates",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "1,699 Tweets"
   },
   {
-    "name": "#AfricaCup",
-    "query": "#AfricaCup",
+    "name": "#FCBRMA",
+    "query": "#FCBRMA",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "1,717 Tweets"
   }
 ]
