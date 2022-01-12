@@ -1,33 +1,33 @@
 [
   {
-    "name": "#Bundestag",
-    "query": "#Bundestag",
+    "name": "#FirstDates",
+    "query": "#FirstDates",
     "rank": 1,
-    "tweet_count": "8,681 Tweets"
+    "tweet_count": "1,663 Tweets"
   },
   {
     "name": "#Telegram",
     "query": "#Telegram",
     "rank": 2,
-    "tweet_count": "16.9K Tweets"
+    "tweet_count": "17.1K Tweets"
+  },
+  {
+    "name": "#Bundestag",
+    "query": "#Bundestag",
+    "rank": 3,
+    "tweet_count": "8,933 Tweets"
   },
   {
     "name": "#wirsindvielegegenrechts",
     "query": "#wirsindvielegegenrechts",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "#FirstDates",
-    "query": "#FirstDates",
-    "rank": 4,
-    "tweet_count": "1,465 Tweets"
-  },
-  {
-    "name": "Die Mehrheit der Deutschen",
-    "query": "\"Die Mehrheit der Deutschen\"",
+    "name": "die mehrheit der deutschen",
+    "query": "\"die mehrheit der deutschen\"",
     "rank": 5,
-    "tweet_count": "1,563 Tweets"
+    "tweet_count": "1,627 Tweets"
   },
   {
     "name": "Helmut Schmidt",
@@ -39,31 +39,31 @@
     "name": "Eklat",
     "query": "Eklat",
     "rank": 7,
-    "tweet_count": "1,180 Tweets"
+    "tweet_count": "1,224 Tweets"
   },
   {
     "name": "Kirby",
     "query": "Kirby",
     "rank": 8,
-    "tweet_count": "87.5K Tweets"
+    "tweet_count": "89.7K Tweets"
   },
   {
-    "name": "spaltung",
-    "query": "spaltung",
+    "name": "Spaltung",
+    "query": "Spaltung",
     "rank": 9,
-    "tweet_count": "4,253 Tweets"
+    "tweet_count": "4,341 Tweets"
+  },
+  {
+    "name": "Diana",
+    "query": "Diana",
+    "rank": 10,
+    "tweet_count": "42.5K Tweets"
   },
   {
     "name": "Provokation",
     "query": "Provokation",
-    "rank": 10,
-    "tweet_count": "1,043 Tweets"
-  },
-  {
-    "name": "Eternals",
-    "query": "Eternals",
     "rank": 11,
-    "tweet_count": "123K Tweets"
+    "tweet_count": "1,071 Tweets"
   },
   {
     "name": "Schilder",
@@ -72,45 +72,45 @@
     "tweet_count": null
   },
   {
+    "name": "Unwort des Jahres",
+    "query": "\"Unwort des Jahres\"",
+    "rank": 13,
+    "tweet_count": "1,710 Tweets"
+  },
+  {
     "name": "Franzbrötchen",
     "query": "Franzbrötchen",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "Unwort des Jahres",
-    "query": "\"Unwort des Jahres\"",
-    "rank": 14,
-    "tweet_count": "1,683 Tweets"
-  },
-  {
-    "name": "Rumänien",
-    "query": "Rumänien",
+    "name": "Rumänen",
+    "query": "Rumänen",
     "rank": 15,
-    "tweet_count": "2,860 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Schulausfall",
     "query": "Schulausfall",
     "rank": 16,
-    "tweet_count": "2,030 Tweets"
+    "tweet_count": "2,068 Tweets"
+  },
+  {
+    "name": "Zusammenarbeit",
+    "query": "Zusammenarbeit",
+    "rank": 17,
+    "tweet_count": "1,108 Tweets"
   },
   {
     "name": "Abgeordneten",
     "query": "Abgeordneten",
-    "rank": 17,
-    "tweet_count": "3,265 Tweets"
+    "rank": 18,
+    "tweet_count": "3,329 Tweets"
   },
   {
     "name": "Staiger",
     "query": "Staiger",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Plenarsaal",
-    "query": "Plenarsaal",
     "rank": 19,
-    "tweet_count": "3,936 Tweets"
+    "tweet_count": null
   }
 ]
