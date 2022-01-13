@@ -1,13 +1,13 @@
 [
   {
-    "name": "#LasstUnsReden",
-    "query": "#LasstUnsReden",
+    "name": "#ORF3",
+    "query": "#ORF3",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "#Raab",
-    "query": "#Raab",
+    "name": "#LasstUnsReden",
+    "query": "#LasstUnsReden",
     "rank": 2,
     "tweet_count": null
   },
@@ -15,7 +15,7 @@
     "name": "Aktien",
     "query": "Aktien",
     "rank": 3,
-    "tweet_count": "1,188 Tweets"
+    "tweet_count": "1,223 Tweets"
   },
   {
     "name": "#superfund",
@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "Schönen Abend",
-    "query": "\"Schönen Abend\"",
-    "rank": 5,
-    "tweet_count": "1,580 Tweets"
-  },
-  {
     "name": "Matura",
     "query": "Matura",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "Raab",
+    "query": "Raab",
+    "rank": 6,
+    "tweet_count": "11.1K Tweets"
   },
   {
     "name": "Gräben",
@@ -42,58 +42,58 @@
     "tweet_count": null
   },
   {
+    "name": "Schönen Abend",
+    "query": "\"Schönen Abend\"",
+    "rank": 8,
+    "tweet_count": "1,648 Tweets"
+  },
+  {
     "name": "#dok1",
     "query": "#dok1",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Blümel",
     "query": "Blümel",
-    "rank": 9,
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "Einkommen",
+    "query": "Einkommen",
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "#dasperfektedinner",
     "query": "#dasperfektedinner",
-    "rank": 10,
-    "tweet_count": "1,385 Tweets"
+    "rank": 12,
+    "tweet_count": "1,388 Tweets"
   },
   {
     "name": "Nullen",
     "query": "Nullen",
-    "rank": 11,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Gewinne",
     "query": "Gewinne",
-    "rank": 12,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Google Analytics",
     "query": "\"Google Analytics\"",
-    "rank": 13,
-    "tweet_count": "3,066 Tweets"
+    "rank": 15,
+    "tweet_count": "3,119 Tweets"
   },
   {
     "name": "Schüler",
     "query": "Schüler",
-    "rank": 14,
-    "tweet_count": "5,783 Tweets"
-  },
-  {
-    "name": "Kampagne",
-    "query": "Kampagne",
-    "rank": 15,
-    "tweet_count": "1,083 Tweets"
-  },
-  {
-    "name": "Einkommen",
-    "query": "Einkommen",
     "rank": 16,
-    "tweet_count": null
+    "tweet_count": "5,862 Tweets"
   },
   {
     "name": "Anbieter",
@@ -105,18 +105,18 @@
     "name": "Petition",
     "query": "Petition",
     "rank": 18,
-    "tweet_count": "65.2K Tweets"
+    "tweet_count": "66.2K Tweets"
   },
   {
-    "name": "armin wolf",
-    "query": "\"armin wolf\"",
+    "name": "Kampagne",
+    "query": "Kampagne",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "1,093 Tweets"
   },
   {
     "name": "Kapital",
     "query": "Kapital",
     "rank": 20,
-    "tweet_count": "2,231 Tweets"
+    "tweet_count": "2,267 Tweets"
   }
 ]
