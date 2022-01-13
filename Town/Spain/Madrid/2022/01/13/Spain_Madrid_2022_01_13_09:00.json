@@ -1,116 +1,122 @@
 [
   {
+    "name": "Boris Johnson",
+    "query": "\"Boris Johnson\"",
+    "rank": 1,
+    "tweet_count": "356K Tweets"
+  },
+  {
     "name": "Olga",
     "query": "Olga",
-    "rank": 1,
-    "tweet_count": "24.7K Tweets"
+    "rank": 2,
+    "tweet_count": "25.1K Tweets"
   },
   {
     "name": "#SaludMental",
     "query": "#SaludMental",
-    "rank": 2,
-    "tweet_count": "1,586 Tweets"
+    "rank": 3,
+    "tweet_count": "1,687 Tweets"
   },
   {
     "name": "#FelizJueves",
     "query": "#FelizJueves",
-    "rank": 3,
-    "tweet_count": "3,666 Tweets"
+    "rank": 4,
+    "tweet_count": "4,042 Tweets"
   },
   {
     "name": "#PokémonArceusMM",
     "query": "#PokémonArceusMM",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "#apoyorocio13e",
-    "query": "#apoyorocio13e",
     "rank": 5,
-    "tweet_count": "6,225 Tweets"
+    "tweet_count": "1,153 Tweets"
   },
   {
-    "name": "#depresión",
-    "query": "#depresión",
+    "name": "#APOYOROCIO13E",
+    "query": "#APOYOROCIO13E",
     "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "Firefox",
-    "query": "Firefox",
-    "rank": 7,
-    "tweet_count": "11.5K Tweets"
-  },
-  {
-    "name": "Coachella",
-    "query": "Coachella",
-    "rank": 8,
-    "tweet_count": "225K Tweets"
-  },
-  {
-    "name": "Wordle",
-    "query": "Wordle",
-    "rank": 9,
-    "tweet_count": "196K Tweets"
-  },
-  {
-    "name": "Esperanza Aguirre",
-    "query": "\"Esperanza Aguirre\"",
-    "rank": 10,
-    "tweet_count": "2,850 Tweets"
-  },
-  {
-    "name": "Día Mundial de Lucha",
-    "query": "\"Día Mundial de Lucha\"",
-    "rank": 11,
-    "tweet_count": "1,558 Tweets"
-  },
-  {
-    "name": "Ronnie Spector",
-    "query": "\"Ronnie Spector\"",
-    "rank": 12,
-    "tweet_count": "56.8K Tweets"
-  },
-  {
-    "name": "El 13",
-    "query": "\"El 13\"",
-    "rank": 13,
-    "tweet_count": "61.4K Tweets"
-  },
-  {
-    "name": "Molina de Segura",
-    "query": "\"Molina de Segura\"",
-    "rank": 14,
-    "tweet_count": "5,277 Tweets"
-  },
-  {
-    "name": "La Justicia",
-    "query": "\"La Justicia\"",
-    "rank": 15,
-    "tweet_count": "113K Tweets"
+    "tweet_count": "6,648 Tweets"
   },
   {
     "name": "#YoMeRebelo13E",
     "query": "#YoMeRebelo13E",
+    "rank": 7,
+    "tweet_count": "8,331 Tweets"
+  },
+  {
+    "name": "Depresión",
+    "query": "Depresión",
+    "rank": 8,
+    "tweet_count": "36.4K Tweets"
+  },
+  {
+    "name": "Firefox",
+    "query": "Firefox",
+    "rank": 9,
+    "tweet_count": "14.5K Tweets"
+  },
+  {
+    "name": "Wordle",
+    "query": "Wordle",
+    "rank": 10,
+    "tweet_count": "199K Tweets"
+  },
+  {
+    "name": "Coachella",
+    "query": "Coachella",
+    "rank": 11,
+    "tweet_count": "228K Tweets"
+  },
+  {
+    "name": "Esperanza Aguirre",
+    "query": "\"Esperanza Aguirre\"",
+    "rank": 12,
+    "tweet_count": "3,496 Tweets"
+  },
+  {
+    "name": "Ronnie Spector",
+    "query": "\"Ronnie Spector\"",
+    "rank": 13,
+    "tweet_count": "57.4K Tweets"
+  },
+  {
+    "name": "El 13",
+    "query": "\"El 13\"",
+    "rank": 14,
+    "tweet_count": "63.2K Tweets"
+  },
+  {
+    "name": "Molina de Segura",
+    "query": "\"Molina de Segura\"",
+    "rank": 15,
+    "tweet_count": "5,469 Tweets"
+  },
+  {
+    "name": "La Justicia",
+    "query": "\"La Justicia\"",
     "rank": 16,
-    "tweet_count": "7,741 Tweets"
+    "tweet_count": "115K Tweets"
+  },
+  {
+    "name": "Doñana",
+    "query": "Doñana",
+    "rank": 17,
+    "tweet_count": "3,561 Tweets"
   },
   {
     "name": "#EsperandoOtroDiaMas",
     "query": "#EsperandoOtroDiaMas",
-    "rank": 17,
-    "tweet_count": null
+    "rank": 18,
+    "tweet_count": "1,085 Tweets"
   },
   {
     "name": "#Peacemaker",
     "query": "#Peacemaker",
-    "rank": 18,
-    "tweet_count": "6,711 Tweets"
+    "rank": 19,
+    "tweet_count": "6,993 Tweets"
   },
   {
     "name": "#MareaFucsia",
     "query": "#MareaFucsia",
-    "rank": 19,
-    "tweet_count": "9,780 Tweets"
+    "rank": 20,
+    "tweet_count": "10.2K Tweets"
   }
 ]
