@@ -1,15 +1,15 @@
 [
   {
-    "name": "Blümel",
-    "query": "Blümel",
+    "name": "#Blümel",
+    "query": "#Blümel",
     "rank": 1,
-    "tweet_count": "1,905 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Raab",
-    "query": "Raab",
+    "name": "#raab",
+    "query": "#raab",
     "rank": 2,
-    "tweet_count": "14.2K Tweets"
+    "tweet_count": null
   },
   {
     "name": "superfund",
@@ -18,105 +18,105 @@
     "tweet_count": "1,271 Tweets"
   },
   {
-    "name": "#zib2",
-    "query": "#zib2",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
     "name": "Nullen",
     "query": "Nullen",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "#dok1",
     "query": "#dok1",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "#zib2",
+    "query": "#zib2",
     "rank": 6,
     "tweet_count": null
   },
   {
-    "name": "#Omikronwand",
-    "query": "#Omikronwand",
-    "rank": 7,
-    "tweet_count": "3,055 Tweets"
-  },
-  {
     "name": "Laptop",
     "query": "Laptop",
+    "rank": 7,
+    "tweet_count": "45.9K Tweets"
+  },
+  {
+    "name": "#Omikronwand",
+    "query": "#Omikronwand",
     "rank": 8,
-    "tweet_count": "45.6K Tweets"
+    "tweet_count": "3,056 Tweets"
   },
   {
-    "name": "#WSMDS",
-    "query": "#WSMDS",
+    "name": "Matura",
+    "query": "Matura",
     "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "#aktenzeichenxy",
-    "query": "#aktenzeichenxy",
-    "rank": 10,
-    "tweet_count": "2,182 Tweets"
+    "tweet_count": "1,019 Tweets"
   },
   {
     "name": "Wäsche",
     "query": "Wäsche",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "matura",
-    "query": "matura",
-    "rank": 12,
-    "tweet_count": "1,018 Tweets"
-  },
-  {
-    "name": "Nudeln",
-    "query": "Nudeln",
-    "rank": 13,
+    "name": "nudeln",
+    "query": "nudeln",
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "New York",
     "query": "\"New York\"",
-    "rank": 14,
-    "tweet_count": "125K Tweets"
+    "rank": 12,
+    "tweet_count": "126K Tweets"
   },
   {
-    "name": "Prognose",
-    "query": "Prognose",
-    "rank": 15,
+    "name": "prognose",
+    "query": "prognose",
+    "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "medienministerin",
-    "query": "medienministerin",
-    "rank": 16,
+    "name": "Medienministerin",
+    "query": "Medienministerin",
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "hessenthaler",
     "query": "hessenthaler",
-    "rank": 17,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "staubsaugen",
     "query": "staubsaugen",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "nachmeldungen",
+    "query": "nachmeldungen",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "bügeln",
+    "query": "bügeln",
     "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "finanzminister",
-    "query": "finanzminister",
+    "name": "Lego",
+    "query": "Lego",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "21.5K Tweets"
   },
   {
     "name": "Neuinfektionen",
     "query": "Neuinfektionen",
     "rank": 20,
-    "tweet_count": "5,851 Tweets"
+    "tweet_count": "5,860 Tweets"
   }
 ]
