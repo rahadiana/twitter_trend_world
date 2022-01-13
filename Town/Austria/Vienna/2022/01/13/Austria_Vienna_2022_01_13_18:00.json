@@ -6,20 +6,20 @@
     "tweet_count": null
   },
   {
-    "name": "Aktien",
-    "query": "Aktien",
-    "rank": 2,
-    "tweet_count": "1,103 Tweets"
-  },
-  {
     "name": "Matura",
     "query": "Matura",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#superfund",
     "query": "#superfund",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "#dok1",
+    "query": "#dok1",
     "rank": 4,
     "tweet_count": null
   },
@@ -30,10 +30,10 @@
     "tweet_count": null
   },
   {
-    "name": "#dok1",
-    "query": "#dok1",
+    "name": "Aktien",
+    "query": "Aktien",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "1,139 Tweets"
   },
   {
     "name": "Nullen",
@@ -60,56 +60,56 @@
     "tweet_count": null
   },
   {
+    "name": "Google Analytics",
+    "query": "\"Google Analytics\"",
+    "rank": 11,
+    "tweet_count": "2,911 Tweets"
+  },
+  {
     "name": "Schüler",
     "query": "Schüler",
-    "rank": 11,
-    "tweet_count": "5,407 Tweets"
+    "rank": 12,
+    "tweet_count": "5,593 Tweets"
   },
   {
     "name": "Anbieter",
     "query": "Anbieter",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "Google Analytics",
-    "query": "\"Google Analytics\"",
-    "rank": 13,
-    "tweet_count": "2,816 Tweets"
+    "name": "Einkommen",
+    "query": "Einkommen",
+    "rank": 14,
+    "tweet_count": null
   },
   {
-    "name": "petition",
-    "query": "petition",
-    "rank": 14,
-    "tweet_count": "63.3K Tweets"
+    "name": "Petition",
+    "query": "Petition",
+    "rank": 15,
+    "tweet_count": "65.1K Tweets"
   },
   {
     "name": "Bügeln",
     "query": "Bügeln",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Rapid",
     "query": "Rapid",
-    "rank": 16,
-    "tweet_count": "68.2K Tweets"
+    "rank": 17,
+    "tweet_count": "69.4K Tweets"
   },
   {
     "name": "Armin Wolf",
     "query": "\"Armin Wolf\"",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Russen",
-    "query": "Russen",
     "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "2g am arbeitsplatz",
-    "query": "\"2g am arbeitsplatz\"",
+    "name": "2G am Arbeitsplatz",
+    "query": "\"2G am Arbeitsplatz\"",
     "rank": 19,
     "tweet_count": null
   },
