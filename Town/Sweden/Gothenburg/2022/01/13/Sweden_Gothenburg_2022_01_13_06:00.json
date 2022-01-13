@@ -1,69 +1,69 @@
 [
   {
-    "name": "2000 kwh",
-    "query": "\"2000 kwh\"",
+    "name": "2000 kWh",
+    "query": "\"2000 kWh\"",
     "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "Region Stockholm",
+    "query": "\"Region Stockholm\"",
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#pldebatt",
     "query": "#pldebatt",
-    "rank": 2,
-    "tweet_count": "1,157 Tweets"
+    "rank": 3,
+    "tweet_count": "1,164 Tweets"
+  },
+  {
+    "name": "Bolund",
+    "query": "Bolund",
+    "rank": 4,
+    "tweet_count": "3,672 Tweets"
   },
   {
     "name": "#SVVocSizeTest",
     "query": "#SVVocSizeTest",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "bolund",
-    "query": "bolund",
-    "rank": 4,
-    "tweet_count": "3,602 Tweets"
-  },
-  {
-    "name": "#svpol",
-    "query": "#svpol",
     "rank": 5,
-    "tweet_count": "4,634 Tweets"
-  },
-  {
-    "name": "Bowen",
-    "query": "Bowen",
-    "rank": 6,
-    "tweet_count": "17.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Annie Lööf",
     "query": "\"Annie Lööf\"",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
+  },
+  {
+    "name": "#svpol",
+    "query": "#svpol",
+    "rank": 7,
+    "tweet_count": "4,730 Tweets"
+  },
+  {
+    "name": "Bowen",
+    "query": "Bowen",
+    "rank": 8,
+    "tweet_count": "17.5K Tweets"
   },
   {
     "name": "Damberg",
     "query": "Damberg",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Guidetti",
-    "query": "Guidetti",
-    "rank": 9,
+    "name": "guidetti",
+    "query": "guidetti",
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Barca",
     "query": "Barca",
-    "rank": 10,
-    "tweet_count": "248K Tweets"
-  },
-  {
-    "name": "#PortfolioDay",
-    "query": "#PortfolioDay",
     "rank": 11,
-    "tweet_count": "120K Tweets"
+    "tweet_count": "250K Tweets"
   },
   {
     "name": "anton bengtsson",
@@ -72,10 +72,10 @@
     "tweet_count": null
   },
   {
-    "name": "#HV71",
-    "query": "#HV71",
+    "name": "#PortfolioDay",
+    "query": "#PortfolioDay",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "121K Tweets"
   },
   {
     "name": "Ronneby",
@@ -87,36 +87,24 @@
     "name": "Ronnie Spector",
     "query": "\"Ronnie Spector\"",
     "rank": 15,
-    "tweet_count": "51.2K Tweets"
+    "tweet_count": "52.2K Tweets"
+  },
+  {
+    "name": "#elpris",
+    "query": "#elpris",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Godmorgon",
+    "query": "Godmorgon",
+    "rank": 17,
+    "tweet_count": null
   },
   {
     "name": "Johnson",
     "query": "Johnson",
-    "rank": 16,
-    "tweet_count": "592K Tweets"
-  },
-  {
-    "name": "Doherty",
-    "query": "Doherty",
-    "rank": 17,
-    "tweet_count": "5,706 Tweets"
-  },
-  {
-    "name": "jimmie åkesson",
-    "query": "\"jimmie åkesson\"",
     "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Bidrag",
-    "query": "Bidrag",
-    "rank": 19,
-    "tweet_count": "5,290 Tweets"
-  },
-  {
-    "name": "Sara Skyttedal",
-    "query": "\"Sara Skyttedal\"",
-    "rank": 20,
-    "tweet_count": null
+    "tweet_count": "597K Tweets"
   }
 ]
