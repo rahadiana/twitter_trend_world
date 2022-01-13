@@ -1,25 +1,25 @@
 [
   {
-    "name": "인터파크",
-    "query": "인터파크",
-    "rank": 1,
-    "tweet_count": "5,464 Tweets"
-  },
-  {
     "name": "게으른 새끼",
     "query": "\"게으른 새끼\"",
+    "rank": 1,
+    "tweet_count": "1,076 Tweets"
+  },
+  {
+    "name": "인터파크",
+    "query": "인터파크",
     "rank": 2,
+    "tweet_count": "5,912 Tweets"
+  },
+  {
+    "name": "쓸데없는 생각",
+    "query": "\"쓸데없는 생각\"",
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "상품정보",
     "query": "상품정보",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "쓸데없는 생각",
-    "query": "\"쓸데없는 생각\"",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,11 +27,11 @@
     "name": "멸치칼국수",
     "query": "멸치칼국수",
     "rank": 5,
-    "tweet_count": "1,770 Tweets"
+    "tweet_count": "2,661 Tweets"
   },
   {
-    "name": "대기번호",
-    "query": "대기번호",
+    "name": "친한 멤버",
+    "query": "\"친한 멤버\"",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,8 +42,8 @@
     "tweet_count": null
   },
   {
-    "name": "친한 멤버",
-    "query": "\"친한 멤버\"",
+    "name": "대기번호",
+    "query": "대기번호",
     "rank": 8,
     "tweet_count": null
   },
@@ -51,7 +51,7 @@
     "name": "#Seungkwan1stDaesang",
     "query": "#Seungkwan1stDaesang",
     "rank": 9,
-    "tweet_count": "48.3K Tweets"
+    "tweet_count": "49.7K Tweets"
   },
   {
     "name": "룸메이트",
@@ -60,16 +60,16 @@
     "tweet_count": null
   },
   {
-    "name": "칼국수 모델",
-    "query": "\"칼국수 모델\"",
-    "rank": 11,
-    "tweet_count": "2,089 Tweets"
-  },
-  {
     "name": "레인보우",
     "query": "레인보우",
+    "rank": 11,
+    "tweet_count": "1,743 Tweets"
+  },
+  {
+    "name": "칼국수 모델",
+    "query": "\"칼국수 모델\"",
     "rank": 12,
-    "tweet_count": "1,706 Tweets"
+    "tweet_count": "2,937 Tweets"
   },
   {
     "name": "대기순서",
@@ -84,33 +84,33 @@
     "tweet_count": null
   },
   {
-    "name": "아몬드봉봉",
-    "query": "아몬드봉봉",
+    "name": "칼국수돌",
+    "query": "칼국수돌",
     "rank": 15,
-    "tweet_count": "1,250 Tweets"
+    "tweet_count": "1,437 Tweets"
   },
   {
-    "name": "윤기 목걸이",
-    "query": "\"윤기 목걸이\"",
+    "name": "아몬드봉봉",
+    "query": "아몬드봉봉",
     "rank": 16,
-    "tweet_count": "1,939 Tweets"
+    "tweet_count": "1,295 Tweets"
+  },
+  {
+    "name": "스트로베리",
+    "query": "스트로베리",
+    "rank": 17,
+    "tweet_count": "4,056 Tweets"
   },
   {
     "name": "피스타치오",
     "query": "피스타치오",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "목걸이 양도",
-    "query": "\"목걸이 양도\"",
     "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "치즈케이크",
-    "query": "치즈케이크",
+    "name": "윤기 목걸이",
+    "query": "\"윤기 목걸이\"",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "2,057 Tweets"
   }
 ]
