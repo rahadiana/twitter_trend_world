@@ -3,7 +3,7 @@
     "name": "Maestro",
     "query": "Maestro",
     "rank": 1,
-    "tweet_count": "24.9K Tweets"
+    "tweet_count": "25.1K Tweets"
   },
   {
     "name": "Liepājā",
@@ -12,14 +12,14 @@
     "tweet_count": null
   },
   {
-    "name": "Veselību",
-    "query": "Veselību",
+    "name": "veselību",
+    "query": "veselību",
     "rank": 3,
     "tweet_count": null
   },
   {
-    "name": "kariņš",
-    "query": "kariņš",
+    "name": "Kariņš",
+    "query": "Kariņš",
     "rank": 4,
     "tweet_count": null
   },
@@ -33,23 +33,23 @@
     "name": "Manam",
     "query": "Manam",
     "rank": 6,
-    "tweet_count": "1,343 Tweets"
+    "tweet_count": "1,373 Tweets"
   },
   {
-    "name": "#Latvia",
-    "query": "#Latvia",
+    "name": "#latvia",
+    "query": "#latvia",
     "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "Labdien",
+    "query": "Labdien",
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Parasti",
     "query": "Parasti",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "igaunijā",
-    "query": "igaunijā",
     "rank": 9,
     "tweet_count": null
   },
@@ -57,13 +57,13 @@
     "name": "Europe",
     "query": "Europe",
     "rank": 10,
-    "tweet_count": "127K Tweets"
+    "tweet_count": "129K Tweets"
   },
   {
     "name": "Viena",
     "query": "Viena",
     "rank": 11,
-    "tweet_count": "1,256 Tweets"
+    "tweet_count": "1,272 Tweets"
   },
   {
     "name": "reirs",
@@ -78,38 +78,38 @@
     "tweet_count": null
   },
   {
-    "name": "rīgai",
-    "query": "rīgai",
+    "name": "COVID-19",
+    "query": "COVID-19",
     "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "#лигачемпионов",
-    "query": "#лигачемпионов",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "šajā",
-    "query": "šajā",
-    "rank": 16,
-    "tweet_count": "57.4K Tweets"
-  },
-  {
-    "name": "vidzemē",
-    "query": "vidzemē",
-    "rank": 17,
-    "tweet_count": null
+    "tweet_count": "660K Tweets"
   },
   {
     "name": "#vakance",
     "query": "#vakance",
-    "rank": 18,
+    "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "Diemžēl",
-    "query": "Diemžēl",
+    "name": "#crypto",
+    "query": "#crypto",
+    "rank": 16,
+    "tweet_count": "472K Tweets"
+  },
+  {
+    "name": "Rīgai",
+    "query": "Rīgai",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Šajā",
+    "query": "Šajā",
+    "rank": 18,
+    "tweet_count": "58.5K Tweets"
+  },
+  {
+    "name": "#лигачемпионов",
+    "query": "#лигачемпионов",
     "rank": 19,
     "tweet_count": null
   }
