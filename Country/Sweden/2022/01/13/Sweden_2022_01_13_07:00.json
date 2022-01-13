@@ -6,22 +6,22 @@
     "tweet_count": null
   },
   {
-    "name": "#pldebatt",
-    "query": "#pldebatt",
-    "rank": 2,
-    "tweet_count": "1,144 Tweets"
-  },
-  {
     "name": "Region Stockholm",
     "query": "\"Region Stockholm\"",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "#pldebatt",
+    "query": "#pldebatt",
+    "rank": 3,
+    "tweet_count": "1,149 Tweets"
   },
   {
     "name": "Bolund",
     "query": "Bolund",
     "rank": 4,
-    "tweet_count": "3,709 Tweets"
+    "tweet_count": "3,765 Tweets"
   },
   {
     "name": "#SVVocSizeTest",
@@ -39,13 +39,13 @@
     "name": "#svpol",
     "query": "#svpol",
     "rank": 7,
-    "tweet_count": "4,607 Tweets"
+    "tweet_count": "4,684 Tweets"
   },
   {
     "name": "Bowen",
     "query": "Bowen",
     "rank": 8,
-    "tweet_count": "17.6K Tweets"
+    "tweet_count": "17.8K Tweets"
   },
   {
     "name": "Damberg",
@@ -63,7 +63,7 @@
     "name": "Barca",
     "query": "Barca",
     "rank": 11,
-    "tweet_count": "250K Tweets"
+    "tweet_count": "251K Tweets"
   },
   {
     "name": "anton bengtsson",
@@ -93,30 +93,30 @@
     "name": "Doherty",
     "query": "Doherty",
     "rank": 16,
-    "tweet_count": "5,756 Tweets"
-  },
-  {
-    "name": "Godmorgon",
-    "query": "Godmorgon",
-    "rank": 17,
-    "tweet_count": null
+    "tweet_count": "5,798 Tweets"
   },
   {
     "name": "Knut",
     "query": "Knut",
-    "rank": 18,
-    "tweet_count": "1,854 Tweets"
+    "rank": 17,
+    "tweet_count": "1,870 Tweets"
   },
   {
     "name": "bidrag",
     "query": "bidrag",
-    "rank": 19,
-    "tweet_count": "5,221 Tweets"
+    "rank": 18,
+    "tweet_count": "5,283 Tweets"
   },
   {
-    "name": "Boris Johnson",
-    "query": "\"Boris Johnson\"",
+    "name": "Boba Fett",
+    "query": "\"Boba Fett\"",
+    "rank": 19,
+    "tweet_count": "22.8K Tweets"
+  },
+  {
+    "name": "Erick",
+    "query": "Erick",
     "rank": 20,
-    "tweet_count": "349K Tweets"
+    "tweet_count": "27.1K Tweets"
   }
 ]

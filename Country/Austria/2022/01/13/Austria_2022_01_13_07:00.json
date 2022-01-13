@@ -1,21 +1,21 @@
 [
   {
-    "name": "Christine",
-    "query": "Christine",
-    "rank": 1,
-    "tweet_count": "11.3K Tweets"
-  },
-  {
     "name": "#Raab",
     "query": "#Raab",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "Blümel",
     "query": "Blümel",
+    "rank": 2,
+    "tweet_count": "1,965 Tweets"
+  },
+  {
+    "name": "Christine",
+    "query": "Christine",
     "rank": 3,
-    "tweet_count": "1,955 Tweets"
+    "tweet_count": "11.4K Tweets"
   },
   {
     "name": "#dok1",
@@ -24,40 +24,40 @@
     "tweet_count": null
   },
   {
-    "name": "Guten Morgen Andreas",
-    "query": "\"Guten Morgen Andreas\"",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
     "name": "superfund",
     "query": "superfund",
-    "rank": 6,
-    "tweet_count": "1,310 Tweets"
+    "rank": 5,
+    "tweet_count": "1,313 Tweets"
   },
   {
     "name": "Nullen",
     "query": "Nullen",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
+  },
+  {
+    "name": "Andreas",
+    "query": "Andreas",
+    "rank": 7,
+    "tweet_count": "9,123 Tweets"
   },
   {
     "name": "#Omikronwand",
     "query": "#Omikronwand",
     "rank": 8,
-    "tweet_count": "2,854 Tweets"
+    "tweet_count": "2,886 Tweets"
   },
   {
     "name": "Dienst",
     "query": "Dienst",
     "rank": 9,
-    "tweet_count": "3,256 Tweets"
+    "tweet_count": "3,308 Tweets"
   },
   {
-    "name": "#zib2",
-    "query": "#zib2",
+    "name": "Laptop",
+    "query": "Laptop",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "44.3K Tweets"
   },
   {
     "name": "#WSMDS",
@@ -66,22 +66,22 @@
     "tweet_count": null
   },
   {
-    "name": "Laptop",
-    "query": "Laptop",
-    "rank": 12,
-    "tweet_count": "43.7K Tweets"
-  },
-  {
     "name": "Vogel",
     "query": "Vogel",
+    "rank": 12,
+    "tweet_count": "9,183 Tweets"
+  },
+  {
+    "name": "#zib2",
+    "query": "#zib2",
     "rank": 13,
-    "tweet_count": "9,084 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Franz",
     "query": "Franz",
     "rank": 14,
-    "tweet_count": "9,329 Tweets"
+    "tweet_count": "9,452 Tweets"
   },
   {
     "name": "Nudeln",
@@ -93,7 +93,7 @@
     "name": "New York",
     "query": "\"New York\"",
     "rank": 16,
-    "tweet_count": "122K Tweets"
+    "tweet_count": "123K Tweets"
   },
   {
     "name": "Prognose",
@@ -114,8 +114,8 @@
     "tweet_count": null
   },
   {
-    "name": "Nachmeldungen",
-    "query": "Nachmeldungen",
+    "name": "Schnupfen",
+    "query": "Schnupfen",
     "rank": 20,
     "tweet_count": null
   }
