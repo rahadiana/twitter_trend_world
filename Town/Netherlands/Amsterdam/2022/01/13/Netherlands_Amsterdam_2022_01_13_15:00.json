@@ -3,19 +3,19 @@
     "name": "#NederlandGaatOpen",
     "query": "#NederlandGaatOpen",
     "rank": 1,
-    "tweet_count": "10.1K Tweets"
+    "tweet_count": "10.7K Tweets"
   },
   {
     "name": "#horeca",
     "query": "#horeca",
     "rank": 2,
-    "tweet_count": "2,171 Tweets"
+    "tweet_count": "2,445 Tweets"
   },
   {
     "name": "#persconferentie",
     "query": "#persconferentie",
     "rank": 3,
-    "tweet_count": "5,031 Tweets"
+    "tweet_count": "5,197 Tweets"
   },
   {
     "name": "Gouden Koets",
@@ -33,41 +33,41 @@
     "name": "#QRcode",
     "query": "#QRcode",
     "rank": 6,
-    "tweet_count": "4,845 Tweets"
+    "tweet_count": "5,148 Tweets"
+  },
+  {
+    "name": "Muse",
+    "query": "Muse",
+    "rank": 7,
+    "tweet_count": "32K Tweets"
   },
   {
     "name": "Winkelen",
     "query": "Winkelen",
-    "rank": 7,
-    "tweet_count": "3,855 Tweets"
+    "rank": 8,
+    "tweet_count": "4,080 Tweets"
   },
   {
     "name": "Zonder QR",
     "query": "\"Zonder QR\"",
-    "rank": 8,
-    "tweet_count": "1,412 Tweets"
+    "rank": 9,
+    "tweet_count": "1,510 Tweets"
   },
   {
     "name": "Zutphen",
     "query": "Zutphen",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Lareb",
-    "query": "Lareb",
     "rank": 10,
-    "tweet_count": "2,163 Tweets"
-  },
-  {
-    "name": "#NederlandOpen",
-    "query": "#NederlandOpen",
-    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "#koning",
     "query": "#koning",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "#NederlandOpen",
+    "query": "#NederlandOpen",
     "rank": 12,
     "tweet_count": null
   },
@@ -78,16 +78,16 @@
     "tweet_count": null
   },
   {
-    "name": "#AllesOpen",
-    "query": "#AllesOpen",
-    "rank": 14,
-    "tweet_count": "2,477 Tweets"
-  },
-  {
     "name": "#GeenQR",
     "query": "#GeenQR",
+    "rank": 14,
+    "tweet_count": "1,579 Tweets"
+  },
+  {
+    "name": "#AllesOpen",
+    "query": "#AllesOpen",
     "rank": 15,
-    "tweet_count": "1,557 Tweets"
+    "tweet_count": "2,539 Tweets"
   },
   {
     "name": "#cultuur",
@@ -96,9 +96,15 @@
     "tweet_count": null
   },
   {
+    "name": "#QRankzinnigheid",
+    "query": "#QRankzinnigheid",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
     "name": "#wegmetkuipers",
     "query": "#wegmetkuipers",
-    "rank": 17,
-    "tweet_count": "4,160 Tweets"
+    "rank": 18,
+    "tweet_count": "4,243 Tweets"
   }
 ]
