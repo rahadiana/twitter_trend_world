@@ -1,122 +1,122 @@
 [
   {
-    "name": "Watson",
-    "query": "Watson",
-    "rank": 1,
-    "tweet_count": "25.3K Tweets"
-  },
-  {
     "name": "McCarthy",
     "query": "McCarthy",
-    "rank": 2,
-    "tweet_count": "155K Tweets"
+    "rank": 1,
+    "tweet_count": "156K Tweets"
   },
   {
     "name": "Hillary",
     "query": "Hillary",
-    "rank": 3,
-    "tweet_count": "63.2K Tweets"
+    "rank": 2,
+    "tweet_count": "63.7K Tweets"
   },
   {
     "name": "Supreme Court",
     "query": "\"Supreme Court\"",
+    "rank": 3,
+    "tweet_count": "255K Tweets"
+  },
+  {
+    "name": "OSHA",
+    "query": "OSHA",
     "rank": 4,
-    "tweet_count": "239K Tweets"
+    "tweet_count": "62.1K Tweets"
   },
   {
-    "name": "#LIVARS",
-    "query": "#LIVARS",
+    "name": "SCOTUS",
+    "query": "SCOTUS",
     "rank": 5,
-    "tweet_count": "33K Tweets"
+    "tweet_count": "86.2K Tweets"
   },
   {
-    "name": "Culley",
-    "query": "Culley",
+    "name": "David Culley",
+    "query": "\"David Culley\"",
     "rank": 6,
-    "tweet_count": "13.3K Tweets"
+    "tweet_count": "10.3K Tweets"
+  },
+  {
+    "name": "Xhaka",
+    "query": "Xhaka",
+    "rank": 7,
+    "tweet_count": "77.3K Tweets"
   },
   {
     "name": "Sinema",
     "query": "Sinema",
-    "rank": 7,
-    "tweet_count": "190K Tweets"
+    "rank": 8,
+    "tweet_count": "201K Tweets"
   },
   {
-    "name": "Oathkeepers",
-    "query": "Oathkeepers",
-    "rank": 8,
-    "tweet_count": "64.7K Tweets"
+    "name": "Oath Keepers",
+    "query": "\"Oath Keepers\"",
+    "rank": 9,
+    "tweet_count": "8,820 Tweets"
+  },
+  {
+    "name": "Watson",
+    "query": "Watson",
+    "rank": 10,
+    "tweet_count": "26.1K Tweets"
   },
   {
     "name": "Degrassi",
     "query": "Degrassi",
-    "rank": 9,
-    "tweet_count": "16.6K Tweets"
+    "rank": 11,
+    "tweet_count": "18K Tweets"
+  },
+  {
+    "name": "#LIVARS",
+    "query": "#LIVARS",
+    "rank": 12,
+    "tweet_count": "35.6K Tweets"
+  },
+  {
+    "name": "Seditious Conspiracy",
+    "query": "\"Seditious Conspiracy\"",
+    "rank": 13,
+    "tweet_count": "69.9K Tweets"
   },
   {
     "name": "#YIAYmean",
     "query": "#YIAYmean",
-    "rank": 10,
-    "tweet_count": "1,002 Tweets"
-  },
-  {
-    "name": "Rohn Stark",
-    "query": "\"Rohn Stark\"",
-    "rank": 11,
-    "tweet_count": "1,518 Tweets"
-  },
-  {
-    "name": "Cam Reddish",
-    "query": "\"Cam Reddish\"",
-    "rank": 12,
-    "tweet_count": "27.7K Tweets"
+    "rank": 14,
+    "tweet_count": "1,048 Tweets"
   },
   {
     "name": "Navient",
     "query": "Navient",
-    "rank": 13,
-    "tweet_count": "12.6K Tweets"
+    "rank": 15,
+    "tweet_count": "13K Tweets"
+  },
+  {
+    "name": "Rohn Stark",
+    "query": "\"Rohn Stark\"",
+    "rank": 16,
+    "tweet_count": "1,547 Tweets"
   },
   {
     "name": "Prince Andrew",
     "query": "\"Prince Andrew\"",
-    "rank": 14,
-    "tweet_count": "92.9K Tweets"
+    "rank": 17,
+    "tweet_count": "94.9K Tweets"
   },
   {
-    "name": "Healthcare",
-    "query": "Healthcare",
-    "rank": 15,
-    "tweet_count": "92.6K Tweets"
+    "name": "Cam Reddish",
+    "query": "\"Cam Reddish\"",
+    "rank": 18,
+    "tweet_count": "28K Tweets"
   },
   {
     "name": "#Peacemaker",
     "query": "#Peacemaker",
-    "rank": 16,
-    "tweet_count": "22.9K Tweets"
-  },
-  {
-    "name": "Glenn Beck",
-    "query": "\"Glenn Beck\"",
-    "rank": 17,
-    "tweet_count": "19K Tweets"
-  },
-  {
-    "name": "Senate",
-    "query": "Senate",
-    "rank": 18,
-    "tweet_count": "352K Tweets"
-  },
-  {
-    "name": "#CouldYouBeTheOne",
-    "query": "#CouldYouBeTheOne",
     "rank": 19,
-    "tweet_count": "9,634 Tweets"
+    "tweet_count": "23.3K Tweets"
   },
   {
-    "name": "Let It Burn",
-    "query": "\"Let It Burn\"",
+    "name": "#BudLightCelly",
+    "query": "#BudLightCelly",
     "rank": 20,
-    "tweet_count": "3,830 Tweets"
+    "tweet_count": "1,631 Tweets"
   }
 ]
