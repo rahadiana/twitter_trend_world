@@ -1,15 +1,15 @@
 [
   {
-    "name": "#нюдсочетверг",
-    "query": "#нюдсочетверг",
-    "rank": 1,
-    "tweet_count": "1,534 Tweets"
-  },
-  {
     "name": "Игра Wordle",
     "query": "\"Игра Wordle\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#нюдсочетверг",
+    "query": "#нюдсочетверг",
+    "rank": 2,
+    "tweet_count": "1,571 Tweets"
   },
   {
     "name": "#гетероянварь",
@@ -24,14 +24,14 @@
     "tweet_count": "116K Tweets"
   },
   {
-    "name": "С Наступающим",
-    "query": "\"С Наступающим\"",
+    "name": "#коточетверг",
+    "query": "#коточетверг",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "#коточетверг",
-    "query": "#коточетверг",
+    "name": "С Наступающим",
+    "query": "\"С Наступающим\"",
     "rank": 6,
     "tweet_count": null
   },
@@ -48,58 +48,58 @@
     "tweet_count": "149K Tweets"
   },
   {
-    "name": "Ту-160М",
-    "query": "Ту-160М",
+    "name": "prefect",
+    "query": "prefect",
     "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "PREFECT",
-    "query": "PREFECT",
-    "rank": 10,
-    "tweet_count": "1,693 Tweets"
-  },
-  {
-    "name": "в 2014",
-    "query": "\"в 2014\"",
-    "rank": 11,
-    "tweet_count": "3,186 Tweets"
-  },
-  {
-    "name": "Озверевший",
-    "query": "Озверевший",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Сумасшедший",
-    "query": "Сумасшедший",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Байконуре",
-    "query": "Байконуре",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Новым",
-    "query": "Новым",
-    "rank": 15,
-    "tweet_count": "3,850 Tweets"
+    "tweet_count": "1,679 Tweets"
   },
   {
     "name": "Михаил Зеленский",
     "query": "\"Михаил Зеленский\"",
-    "rank": 16,
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "В 2014",
+    "query": "\"В 2014\"",
+    "rank": 11,
+    "tweet_count": "3,212 Tweets"
+  },
+  {
+    "name": "озверевший",
+    "query": "озверевший",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "Ту-160М",
+    "query": "Ту-160М",
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "НАТО",
     "query": "НАТО",
+    "rank": 14,
+    "tweet_count": "24.3K Tweets"
+  },
+  {
+    "name": "Сумасшедший",
+    "query": "Сумасшедший",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "ONLY FEW DAYS",
+    "query": "\"ONLY FEW DAYS\"",
+    "rank": 16,
+    "tweet_count": "14.7K Tweets"
+  },
+  {
+    "name": "Just Look",
+    "query": "\"Just Look\"",
     "rank": 17,
-    "tweet_count": "24.1K Tweets"
+    "tweet_count": "128K Tweets"
   },
   {
     "name": "Мой 2014",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "Ехидный",
-    "query": "Ехидный",
+    "name": "Новым",
+    "query": "Новым",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "3,895 Tweets"
   },
   {
-    "name": "only few days",
-    "query": "\"only few days\"",
+    "name": "Ехидный",
+    "query": "Ехидный",
     "rank": 20,
-    "tweet_count": "14.7K Tweets"
+    "tweet_count": null
   }
 ]
