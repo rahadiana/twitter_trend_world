@@ -6,10 +6,10 @@
     "tweet_count": null
   },
   {
-    "name": "Aktien",
-    "query": "Aktien",
+    "name": "Matura",
+    "query": "Matura",
     "rank": 2,
-    "tweet_count": "1,079 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#superfund",
@@ -18,22 +18,22 @@
     "tweet_count": null
   },
   {
-    "name": "Matura",
-    "query": "Matura",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
     "name": "Blümel",
     "query": "Blümel",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "#dok1",
     "query": "#dok1",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "Aktien",
+    "query": "Aktien",
+    "rank": 6,
+    "tweet_count": "1,103 Tweets"
   },
   {
     "name": "Nullen",
@@ -42,80 +42,80 @@
     "tweet_count": null
   },
   {
-    "name": "#zib2",
-    "query": "#zib2",
+    "name": "#polaschek",
+    "query": "#polaschek",
     "rank": 8,
-    "tweet_count": "1,003 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#Demir",
-    "query": "#Demir",
+    "name": "#zib2",
+    "query": "#zib2",
     "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Gewinne",
+    "query": "Gewinne",
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Schüler",
     "query": "Schüler",
-    "rank": 10,
-    "tweet_count": "5,369 Tweets"
-  },
-  {
-    "name": "Petition",
-    "query": "Petition",
     "rank": 11,
-    "tweet_count": "64.8K Tweets"
-  },
-  {
-    "name": "Gewinne",
-    "query": "Gewinne",
-    "rank": 12,
-    "tweet_count": null
+    "tweet_count": "5,416 Tweets"
   },
   {
     "name": "Anbieter",
     "query": "Anbieter",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Google Analytics",
     "query": "\"Google Analytics\"",
-    "rank": 14,
-    "tweet_count": "2,783 Tweets"
+    "rank": 13,
+    "tweet_count": "2,820 Tweets"
   },
   {
-    "name": "Laptop",
-    "query": "Laptop",
-    "rank": 15,
-    "tweet_count": "44.1K Tweets"
+    "name": "petition",
+    "query": "petition",
+    "rank": 14,
+    "tweet_count": "63.4K Tweets"
   },
   {
     "name": "Bügeln",
     "query": "Bügeln",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Rapid",
     "query": "Rapid",
-    "rank": 17,
-    "tweet_count": "69.8K Tweets"
+    "rank": 16,
+    "tweet_count": "68.3K Tweets"
   },
   {
     "name": "Armin Wolf",
     "query": "\"Armin Wolf\"",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Russen",
     "query": "Russen",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "2g am arbeitsplatz",
+    "query": "\"2g am arbeitsplatz\"",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "2G am Arbeitsplatz",
-    "query": "\"2G am Arbeitsplatz\"",
+    "name": "Herausforderungen",
+    "query": "Herausforderungen",
     "rank": 20,
     "tweet_count": null
   }
