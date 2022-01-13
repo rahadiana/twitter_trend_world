@@ -1,31 +1,31 @@
 [
   {
-    "name": "#coronamaatregelen",
-    "query": "#coronamaatregelen",
-    "rank": 1,
-    "tweet_count": "2,398 Tweets"
-  },
-  {
     "name": "#Kampvankoningsbrugge",
     "query": "#Kampvankoningsbrugge",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "#LIVARS",
     "query": "#LIVARS",
-    "rank": 3,
-    "tweet_count": "24.2K Tweets"
+    "rank": 2,
+    "tweet_count": "28.4K Tweets"
   },
   {
     "name": "#MarbleMania",
     "query": "#MarbleMania",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#deslimstemens",
     "query": "#deslimstemens",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "#secretduets",
+    "query": "#secretduets",
     "rank": 5,
     "tweet_count": null
   },
@@ -42,80 +42,80 @@
     "tweet_count": null
   },
   {
-    "name": "Danny",
-    "query": "Danny",
-    "rank": 8,
-    "tweet_count": "41.8K Tweets"
-  },
-  {
     "name": "Halsema",
     "query": "Halsema",
-    "rank": 9,
-    "tweet_count": "2,905 Tweets"
+    "rank": 8,
+    "tweet_count": "2,970 Tweets"
   },
   {
     "name": "Milieudefensie",
     "query": "Milieudefensie",
-    "rank": 10,
-    "tweet_count": "4,745 Tweets"
-  },
-  {
-    "name": "Winkelen",
-    "query": "Winkelen",
-    "rank": 11,
-    "tweet_count": "5,750 Tweets"
+    "rank": 9,
+    "tweet_count": "4,850 Tweets"
   },
   {
     "name": "Zonder QR",
     "query": "\"Zonder QR\"",
-    "rank": 12,
-    "tweet_count": "2,473 Tweets"
-  },
-  {
-    "name": "Hamilton",
-    "query": "Hamilton",
-    "rank": 13,
-    "tweet_count": "31.5K Tweets"
+    "rank": 10,
+    "tweet_count": "2,546 Tweets"
   },
   {
     "name": "Justitie",
     "query": "Justitie",
-    "rank": 14,
-    "tweet_count": "2,744 Tweets"
+    "rank": 11,
+    "tweet_count": "2,801 Tweets"
   },
   {
     "name": "#NederlandGaatOpen",
     "query": "#NederlandGaatOpen",
-    "rank": 15,
-    "tweet_count": "15.7K Tweets"
-  },
-  {
-    "name": "#firstdates",
-    "query": "#firstdates",
-    "rank": 16,
-    "tweet_count": "1,681 Tweets"
-  },
-  {
-    "name": "#secretduets",
-    "query": "#secretduets",
-    "rank": 17,
-    "tweet_count": null
+    "rank": 12,
+    "tweet_count": "16.1K Tweets"
   },
   {
     "name": "#burgerlijkeongehoorzaamheid",
     "query": "#burgerlijkeongehoorzaamheid",
-    "rank": 18,
-    "tweet_count": null
+    "rank": 13,
+    "tweet_count": "1,030 Tweets"
   },
   {
     "name": "#lldl",
     "query": "#lldl",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "#FirstDates",
+    "query": "#FirstDates",
+    "rank": 15,
+    "tweet_count": "1,679 Tweets"
+  },
+  {
+    "name": "#versoepelingen",
+    "query": "#versoepelingen",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "#HorecaOPEN",
+    "query": "#HorecaOPEN",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "#persconferentie",
+    "query": "#persconferentie",
+    "rank": 18,
+    "tweet_count": "6,799 Tweets"
+  },
+  {
+    "name": "#goudenkoets",
+    "query": "#goudenkoets",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "#LangLeveDeLiefde",
-    "query": "#LangLeveDeLiefde",
+    "name": "#NederlandOpen",
+    "query": "#NederlandOpen",
     "rank": 20,
     "tweet_count": null
   }
