@@ -3,13 +3,13 @@
     "name": "#terugvolgvrijdag",
     "query": "#terugvolgvrijdag",
     "rank": 1,
-    "tweet_count": "2,512 Tweets"
+    "tweet_count": "2,655 Tweets"
   },
   {
-    "name": "#Djokovic",
-    "query": "#Djokovic",
+    "name": "#persconferentie",
+    "query": "#persconferentie",
     "rank": 2,
-    "tweet_count": "38.6K Tweets"
+    "tweet_count": "7,293 Tweets"
   },
   {
     "name": "Almere",
@@ -18,32 +18,32 @@
     "tweet_count": null
   },
   {
-    "name": "Australië",
-    "query": "Australië",
-    "rank": 4,
-    "tweet_count": "12.7K Tweets"
-  },
-  {
-    "name": "#persconferentie",
-    "query": "#persconferentie",
-    "rank": 5,
-    "tweet_count": "6,820 Tweets"
-  },
-  {
     "name": "Zuid-Limburg",
     "query": "Zuid-Limburg",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "#Djokovic",
+    "query": "#Djokovic",
+    "rank": 5,
+    "tweet_count": "40.1K Tweets"
+  },
+  {
+    "name": "Australië",
+    "query": "Australië",
     "rank": 6,
+    "tweet_count": "13.3K Tweets"
+  },
+  {
+    "name": "Valkenburg",
+    "query": "Valkenburg",
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "#NACpraat",
     "query": "#NACpraat",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
-    "name": "Valkenburg",
-    "query": "Valkenburg",
     "rank": 8,
     "tweet_count": null
   },
@@ -51,13 +51,13 @@
     "name": "Nanda",
     "query": "Nanda",
     "rank": 9,
-    "tweet_count": "7,931 Tweets"
+    "tweet_count": "8,175 Tweets"
   },
   {
-    "name": "Australische",
-    "query": "Australische",
+    "name": "australische",
+    "query": "australische",
     "rank": 10,
-    "tweet_count": "1,382 Tweets"
+    "tweet_count": "1,414 Tweets"
   },
   {
     "name": "Attje",
@@ -69,24 +69,30 @@
     "name": "#AusOpen",
     "query": "#AusOpen",
     "rank": 12,
-    "tweet_count": "29.2K Tweets"
+    "tweet_count": "30K Tweets"
   },
   {
     "name": "#GeenQR",
     "query": "#GeenQR",
     "rank": 13,
-    "tweet_count": "1,670 Tweets"
+    "tweet_count": "1,760 Tweets"
   },
   {
     "name": "#NederlandMoetOpen",
     "query": "#NederlandMoetOpen",
     "rank": 14,
-    "tweet_count": "1,130 Tweets"
+    "tweet_count": "1,158 Tweets"
   },
   {
     "name": "#cultuursector",
     "query": "#cultuursector",
     "rank": 15,
     "tweet_count": null
+  },
+  {
+    "name": "#2GRegel",
+    "query": "#2GRegel",
+    "rank": 16,
+    "tweet_count": "1,475 Tweets"
   }
 ]
