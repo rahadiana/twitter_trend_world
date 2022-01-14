@@ -1,21 +1,21 @@
 [
   {
-    "name": "#SRFArena",
-    "query": "#SRFArena",
+    "name": "#srfarena",
+    "query": "#srfarena",
     "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "#Stempelsteuer",
+    "query": "#Stempelsteuer",
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#gfvip",
     "query": "#gfvip",
-    "rank": 2,
-    "tweet_count": "88.5K Tweets"
-  },
-  {
-    "name": "#Stempelsteuer",
-    "query": "#Stempelsteuer",
     "rank": 3,
-    "tweet_count": null
+    "tweet_count": "94.5K Tweets"
   },
   {
     "name": "Ueli",
@@ -27,13 +27,13 @@
     "name": "Edon Zhegrova",
     "query": "\"Edon Zhegrova\"",
     "rank": 5,
-    "tweet_count": "1,081 Tweets"
+    "tweet_count": "1,090 Tweets"
   },
   {
     "name": "Lille",
     "query": "Lille",
     "rank": 6,
-    "tweet_count": "9,178 Tweets"
+    "tweet_count": "9,243 Tweets"
   },
   {
     "name": "#Wengen",
@@ -48,75 +48,75 @@
     "tweet_count": null
   },
   {
-    "name": "#braunesDrecksblatt",
-    "query": "#braunesDrecksblatt",
+    "name": "#braunesdrecksblatt",
+    "query": "#braunesdrecksblatt",
     "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Rapperswil",
+    "query": "Rapperswil",
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Booba",
     "query": "Booba",
-    "rank": 10,
-    "tweet_count": "14.7K Tweets"
+    "rank": 11,
+    "tweet_count": "15.1K Tweets"
   },
   {
     "name": "Serie",
     "query": "Serie",
-    "rank": 11,
-    "tweet_count": "160K Tweets"
-  },
-  {
-    "name": "James Bond",
-    "query": "\"James Bond\"",
     "rank": 12,
-    "tweet_count": "9,187 Tweets"
-  },
-  {
-    "name": "Xhaka",
-    "query": "Xhaka",
-    "rank": 13,
-    "tweet_count": "38.2K Tweets"
+    "tweet_count": "162K Tweets"
   },
   {
     "name": "Abschaffung",
     "query": "Abschaffung",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "Lugano",
-    "query": "Lugano",
-    "rank": 15,
-    "tweet_count": null
+    "name": "James Bond",
+    "query": "\"James Bond\"",
+    "rank": 14,
+    "tweet_count": "9,232 Tweets"
   },
   {
     "name": "gruyère",
     "query": "gruyère",
-    "rank": 16,
-    "tweet_count": "1,412 Tweets"
-  },
-  {
-    "name": "Republican",
-    "query": "Republican",
-    "rank": 17,
-    "tweet_count": "176K Tweets"
-  },
-  {
-    "name": "mediengesetz",
-    "query": "mediengesetz",
-    "rank": 18,
-    "tweet_count": null
+    "rank": 15,
+    "tweet_count": "1,415 Tweets"
   },
   {
     "name": "Willkommen",
     "query": "Willkommen",
-    "rank": 19,
-    "tweet_count": "2,412 Tweets"
+    "rank": 16,
+    "tweet_count": "2,425 Tweets"
   },
   {
-    "name": "Schwurblern",
-    "query": "Schwurblern",
-    "rank": 20,
+    "name": "Mediengesetz",
+    "query": "Mediengesetz",
+    "rank": 17,
     "tweet_count": null
+  },
+  {
+    "name": "lugano",
+    "query": "lugano",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Zürich",
+    "query": "Zürich",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Republican",
+    "query": "Republican",
+    "rank": 20,
+    "tweet_count": "178K Tweets"
   }
 ]
