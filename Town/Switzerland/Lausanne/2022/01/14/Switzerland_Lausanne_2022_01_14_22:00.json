@@ -1,43 +1,43 @@
 [
   {
-    "name": "#srfarena",
-    "query": "#srfarena",
+    "name": "#SRFArena",
+    "query": "#SRFArena",
     "rank": 1,
-    "tweet_count": null
-  },
-  {
-    "name": "#Stempelsteuer",
-    "query": "#Stempelsteuer",
-    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#gfvip",
     "query": "#gfvip",
+    "rank": 2,
+    "tweet_count": "88.5K Tweets"
+  },
+  {
+    "name": "#Stempelsteuer",
+    "query": "#Stempelsteuer",
     "rank": 3,
-    "tweet_count": "79.5K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Ueli",
+    "query": "Ueli",
+    "rank": 4,
+    "tweet_count": null
   },
   {
     "name": "Edon Zhegrova",
     "query": "\"Edon Zhegrova\"",
-    "rank": 4,
-    "tweet_count": "1,058 Tweets"
+    "rank": 5,
+    "tweet_count": "1,081 Tweets"
   },
   {
     "name": "Lille",
     "query": "Lille",
-    "rank": 5,
-    "tweet_count": "8,997 Tweets"
-  },
-  {
-    "name": "Marco Odermatt",
-    "query": "\"Marco Odermatt\"",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "9,178 Tweets"
   },
   {
-    "name": "Rapperswil",
-    "query": "Rapperswil",
+    "name": "marco odermatt",
+    "query": "\"marco odermatt\"",
     "rank": 7,
     "tweet_count": null
   },
@@ -45,25 +45,25 @@
     "name": "Booba",
     "query": "Booba",
     "rank": 8,
-    "tweet_count": "13.8K Tweets"
-  },
-  {
-    "name": "Ueli Maurer",
-    "query": "\"Ueli Maurer\"",
-    "rank": 9,
-    "tweet_count": null
+    "tweet_count": "14.7K Tweets"
   },
   {
     "name": "Serie",
     "query": "Serie",
-    "rank": 10,
-    "tweet_count": "157K Tweets"
+    "rank": 9,
+    "tweet_count": "160K Tweets"
   },
   {
     "name": "James Bond",
     "query": "\"James Bond\"",
+    "rank": 10,
+    "tweet_count": "9,185 Tweets"
+  },
+  {
+    "name": "Xhaka",
+    "query": "Xhaka",
     "rank": 11,
-    "tweet_count": "9,079 Tweets"
+    "tweet_count": "38.2K Tweets"
   },
   {
     "name": "Abschaffung",
@@ -72,33 +72,33 @@
     "tweet_count": null
   },
   {
-    "name": "gruyère",
-    "query": "gruyère",
+    "name": "Lugano",
+    "query": "Lugano",
     "rank": 13,
-    "tweet_count": "1,401 Tweets"
-  },
-  {
-    "name": "Willkommen",
-    "query": "Willkommen",
-    "rank": 14,
-    "tweet_count": "2,356 Tweets"
-  },
-  {
-    "name": "Mediengesetz",
-    "query": "Mediengesetz",
-    "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "LUGANO",
-    "query": "LUGANO",
+    "name": "gruyère",
+    "query": "gruyère",
+    "rank": 14,
+    "tweet_count": "1,412 Tweets"
+  },
+  {
+    "name": "Republican",
+    "query": "Republican",
+    "rank": 15,
+    "tweet_count": "176K Tweets"
+  },
+  {
+    "name": "mediengesetz",
+    "query": "mediengesetz",
     "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "Zürich",
-    "query": "Zürich",
+    "name": "Willkommen",
+    "query": "Willkommen",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "2,412 Tweets"
   }
 ]

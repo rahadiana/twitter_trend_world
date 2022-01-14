@@ -1,45 +1,45 @@
 [
   {
-    "name": "#Scholz",
-    "query": "#Scholz",
-    "rank": 1,
-    "tweet_count": "2,138 Tweets"
-  },
-  {
     "name": "#BVBSCF",
     "query": "#BVBSCF",
-    "rank": 2,
-    "tweet_count": "4,605 Tweets"
+    "rank": 1,
+    "tweet_count": "4,675 Tweets"
   },
   {
     "name": "Meunier",
     "query": "Meunier",
+    "rank": 2,
+    "tweet_count": "4,762 Tweets"
+  },
+  {
+    "name": "#LezFaZ",
+    "query": "#LezFaZ",
     "rank": 3,
-    "tweet_count": "4,643 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "#SchleFaZ",
+    "query": "#SchleFaZ",
+    "rank": 4,
+    "tweet_count": null
   },
   {
     "name": "#MattscheibeMatters",
     "query": "#MattscheibeMatters",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Dahoud",
     "query": "Dahoud",
-    "rank": 5,
-    "tweet_count": "1,747 Tweets"
-  },
-  {
-    "name": "#WodieLiebehinfällt",
-    "query": "#WodieLiebehinfällt",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "1,822 Tweets"
   },
   {
     "name": "Freiburg",
     "query": "Freiburg",
     "rank": 7,
-    "tweet_count": "5,845 Tweets"
+    "tweet_count": "5,948 Tweets"
   },
   {
     "name": "Halbzeit",
@@ -48,28 +48,28 @@
     "tweet_count": null
   },
   {
-    "name": "Tore",
-    "query": "Tore",
-    "rank": 9,
-    "tweet_count": "11.3K Tweets"
-  },
-  {
     "name": "Freitagabend",
     "query": "Freitagabend",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
+  },
+  {
+    "name": "Ghana",
+    "query": "Ghana",
+    "rank": 10,
+    "tweet_count": "128K Tweets"
   },
   {
     "name": "Brandt",
     "query": "Brandt",
     "rank": 11,
-    "tweet_count": "3,640 Tweets"
+    "tweet_count": "3,743 Tweets"
   },
   {
     "name": "Drosten",
     "query": "Drosten",
     "rank": 12,
-    "tweet_count": "14.7K Tweets"
+    "tweet_count": "15K Tweets"
   },
   {
     "name": "Handschrift",
@@ -81,7 +81,7 @@
     "name": "Herzmuskelentzündung",
     "query": "Herzmuskelentzündung",
     "rank": 14,
-    "tweet_count": "5,247 Tweets"
+    "tweet_count": "5,348 Tweets"
   },
   {
     "name": "Totimpfstoff",
@@ -90,27 +90,27 @@
     "tweet_count": null
   },
   {
-    "name": "#LezFaZ",
-    "query": "#LezFaZ",
+    "name": "Tennisspieler",
+    "query": "Tennisspieler",
     "rank": 16,
+    "tweet_count": "1,461 Tweets"
+  },
+  {
+    "name": "#WodieLiebehinfällt",
+    "query": "#WodieLiebehinfällt",
+    "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "#SchleFaZ",
-    "query": "#SchleFaZ",
-    "rank": 17,
+    "name": "#CowboysVsDinosaurs",
+    "query": "#CowboysVsDinosaurs",
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "#StrayKids_in_Riyadh",
     "query": "#StrayKids_in_Riyadh",
-    "rank": 18,
-    "tweet_count": "691K Tweets"
-  },
-  {
-    "name": "#CowboysVsDinosaurs",
-    "query": "#CowboysVsDinosaurs",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "722K Tweets"
   }
 ]
