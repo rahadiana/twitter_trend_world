@@ -1,51 +1,51 @@
 [
   {
-    "name": "Novak Djokovic",
-    "query": "\"Novak Djokovic\"",
+    "name": "#DjokovicOut",
+    "query": "#DjokovicOut",
     "rank": 1,
-    "tweet_count": "72.5K Tweets"
+    "tweet_count": "10K Tweets"
+  },
+  {
+    "name": "Australia",
+    "query": "Australia",
+    "rank": 2,
+    "tweet_count": "184K Tweets"
   },
   {
     "name": "#InterJuve",
     "query": "#InterJuve",
-    "rank": 2,
-    "tweet_count": "6,256 Tweets"
+    "rank": 3,
+    "tweet_count": "6,282 Tweets"
   },
   {
     "name": "#LIVARS",
     "query": "#LIVARS",
-    "rank": 3,
-    "tweet_count": "49K Tweets"
+    "rank": 4,
+    "tweet_count": "49.2K Tweets"
   },
   {
     "name": "#AusOpen",
     "query": "#AusOpen",
-    "rank": 4,
-    "tweet_count": "16.5K Tweets"
-  },
-  {
-    "name": "#odermatt",
-    "query": "#odermatt",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "18.6K Tweets"
   },
   {
     "name": "Biden",
     "query": "Biden",
     "rank": 6,
-    "tweet_count": "913K Tweets"
+    "tweet_count": "917K Tweets"
   },
   {
     "name": "Firmen",
     "query": "Firmen",
     "rank": 7,
-    "tweet_count": "1,586 Tweets"
+    "tweet_count": "1,606 Tweets"
   },
   {
     "name": "Gruyère",
     "query": "Gruyère",
     "rank": 8,
-    "tweet_count": "1,035 Tweets"
+    "tweet_count": "1,045 Tweets"
   },
   {
     "name": "mediengesetz",
@@ -63,48 +63,48 @@
     "name": "Allegri",
     "query": "Allegri",
     "rank": 11,
-    "tweet_count": "5,441 Tweets"
+    "tweet_count": "5,472 Tweets"
+  },
+  {
+    "name": "Interesse",
+    "query": "Interesse",
+    "rank": 12,
+    "tweet_count": "31.1K Tweets"
   },
   {
     "name": "Alex Sandro",
     "query": "\"Alex Sandro\"",
-    "rank": 12,
-    "tweet_count": "7,208 Tweets"
+    "rank": 13,
+    "tweet_count": "7,219 Tweets"
   },
   {
     "name": "Migros",
     "query": "Migros",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Kirby",
     "query": "Kirby",
-    "rank": 14,
-    "tweet_count": "89.2K Tweets"
+    "rank": 15,
+    "tweet_count": "90K Tweets"
+  },
+  {
+    "name": "Lied",
+    "query": "Lied",
+    "rank": 16,
+    "tweet_count": "78.2K Tweets"
   },
   {
     "name": "salz",
     "query": "salz",
-    "rank": 15,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Cassis",
     "query": "Cassis",
-    "rank": 16,
-    "tweet_count": "1,257 Tweets"
-  },
-  {
-    "name": "Republican",
-    "query": "Republican",
-    "rank": 17,
-    "tweet_count": "205K Tweets"
-  },
-  {
-    "name": "Andrew",
-    "query": "Andrew",
     "rank": 18,
-    "tweet_count": "253K Tweets"
+    "tweet_count": "1,267 Tweets"
   }
 ]
