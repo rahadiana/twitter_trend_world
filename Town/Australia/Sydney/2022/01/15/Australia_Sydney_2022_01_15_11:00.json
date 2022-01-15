@@ -3,23 +3,23 @@
     "name": "Sending",
     "query": "Sending",
     "rank": 1,
-    "tweet_count": "161K Tweets"
+    "tweet_count": "162K Tweets"
   },
   {
     "name": "Tonga",
     "query": "Tonga",
     "rank": 2,
-    "tweet_count": "120K Tweets"
+    "tweet_count": "125K Tweets"
   },
   {
     "name": "#Ashes",
     "query": "#Ashes",
     "rank": 3,
-    "tweet_count": "19.8K Tweets"
+    "tweet_count": "20.4K Tweets"
   },
   {
-    "name": "#SYDvBRI",
-    "query": "#SYDvBRI",
+    "name": "Scott Boland",
+    "query": "\"Scott Boland\"",
     "rank": 4,
     "tweet_count": null
   },
@@ -30,10 +30,10 @@
     "tweet_count": null
   },
   {
-    "name": "#AdelaideTennis",
-    "query": "#AdelaideTennis",
+    "name": "#SYDvBRI",
+    "query": "#SYDvBRI",
     "rank": 6,
-    "tweet_count": "2,606 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#AdelaideInternational",
@@ -42,81 +42,81 @@
     "tweet_count": null
   },
   {
-    "name": "Thanasi",
-    "query": "Thanasi",
+    "name": "#AdelaideTennis",
+    "query": "#AdelaideTennis",
     "rank": 8,
-    "tweet_count": "1,913 Tweets"
+    "tweet_count": "2,674 Tweets"
   },
   {
-    "name": "leckie",
-    "query": "leckie",
+    "name": "Thanasi",
+    "query": "Thanasi",
     "rank": 9,
+    "tweet_count": "2,011 Tweets"
+  },
+  {
+    "name": "Leckie",
+    "query": "Leckie",
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Mary-Louise",
     "query": "Mary-Louise",
-    "rank": 10,
-    "tweet_count": "4,046 Tweets"
-  },
-  {
-    "name": "Scott Boland",
-    "query": "\"Scott Boland\"",
     "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Billings",
-    "query": "Billings",
-    "rank": 12,
-    "tweet_count": "1,841 Tweets"
-  },
-  {
-    "name": "Woakes",
-    "query": "Woakes",
-    "rank": 13,
-    "tweet_count": "1,036 Tweets"
+    "tweet_count": "4,104 Tweets"
   },
   {
     "name": "Wishing",
     "query": "Wishing",
-    "rank": 14,
-    "tweet_count": "121K Tweets"
+    "rank": 12,
+    "tweet_count": "122K Tweets"
   },
   {
-    "name": "England",
-    "query": "England",
-    "rank": 15,
-    "tweet_count": "103K Tweets"
-  },
-  {
-    "name": "Nathan Lyon",
-    "query": "\"Nathan Lyon\"",
-    "rank": 16,
-    "tweet_count": null
+    "name": "Lyon",
+    "query": "Lyon",
+    "rank": 13,
+    "tweet_count": "13.9K Tweets"
   },
   {
     "name": "Starc",
     "query": "Starc",
-    "rank": 17,
-    "tweet_count": "1,151 Tweets"
+    "rank": 14,
+    "tweet_count": "1,176 Tweets"
+  },
+  {
+    "name": "Nadal",
+    "query": "Nadal",
+    "rank": 15,
+    "tweet_count": "21.8K Tweets"
   },
   {
     "name": "Joe Root",
     "query": "\"Joe Root\"",
-    "rank": 18,
-    "tweet_count": "1,195 Tweets"
+    "rank": 16,
+    "tweet_count": "1,207 Tweets"
   },
   {
     "name": "Magic Millions",
     "query": "\"Magic Millions\"",
-    "rank": 19,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Kanye",
     "query": "Kanye",
+    "rank": 18,
+    "tweet_count": "58.3K Tweets"
+  },
+  {
+    "name": "Craig Kelly",
+    "query": "\"Craig Kelly\"",
+    "rank": 19,
+    "tweet_count": "3,868 Tweets"
+  },
+  {
+    "name": "#AFLWCatsBlues",
+    "query": "#AFLWCatsBlues",
     "rank": 20,
-    "tweet_count": "57.8K Tweets"
+    "tweet_count": null
   }
 ]
