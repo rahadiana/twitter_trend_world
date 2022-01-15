@@ -3,13 +3,13 @@
     "name": "Gotland",
     "query": "Gotland",
     "rank": 1,
-    "tweet_count": "4,204 Tweets"
+    "tweet_count": "4,230 Tweets"
   },
   {
     "name": "Ryssland",
     "query": "Ryssland",
     "rank": 2,
-    "tweet_count": "3,146 Tweets"
+    "tweet_count": "3,160 Tweets"
   },
   {
     "name": "Östersjön",
@@ -21,23 +21,23 @@
     "name": "NATO",
     "query": "NATO",
     "rank": 4,
-    "tweet_count": "64.7K Tweets"
+    "tweet_count": "65.4K Tweets"
   },
   {
     "name": "Ukraina",
     "query": "Ukraina",
     "rank": 5,
-    "tweet_count": "5,126 Tweets"
+    "tweet_count": "5,161 Tweets"
   },
   {
     "name": "Putin",
     "query": "Putin",
     "rank": 6,
-    "tweet_count": "80.9K Tweets"
+    "tweet_count": "81.9K Tweets"
   },
   {
-    "name": "på spåret",
-    "query": "\"på spåret\"",
+    "name": "På Spåret",
+    "query": "\"På Spåret\"",
     "rank": 7,
     "tweet_count": null
   },
@@ -45,37 +45,37 @@
     "name": "Bolund",
     "query": "Bolund",
     "rank": 8,
-    "tweet_count": "1,932 Tweets"
-  },
-  {
-    "name": "visby",
-    "query": "visby",
-    "rank": 9,
-    "tweet_count": "1,100 Tweets"
+    "tweet_count": "1,936 Tweets"
   },
   {
     "name": "#norrsken",
     "query": "#norrsken",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "sahara hotnights",
     "query": "\"sahara hotnights\"",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
+  },
+  {
+    "name": "Försvarsmakten",
+    "query": "Försvarsmakten",
+    "rank": 11,
+    "tweet_count": "1,336 Tweets"
   },
   {
     "name": "#LIVARS",
     "query": "#LIVARS",
     "rank": 12,
-    "tweet_count": "7,801 Tweets"
+    "tweet_count": "7,824 Tweets"
   },
   {
-    "name": "Försvarsmakten",
-    "query": "Försvarsmakten",
+    "name": "Visby",
+    "query": "Visby",
     "rank": 13,
-    "tweet_count": "1,329 Tweets"
+    "tweet_count": "1,107 Tweets"
   },
   {
     "name": "Ryssen",
@@ -84,27 +84,33 @@
     "tweet_count": null
   },
   {
-    "name": "Xhaka",
-    "query": "Xhaka",
-    "rank": 15,
-    "tweet_count": "29.1K Tweets"
-  },
-  {
     "name": "#kasslersband",
     "query": "#kasslersband",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "#northernlights",
     "query": "#northernlights",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
+  },
+  {
+    "name": "Brighton",
+    "query": "Brighton",
+    "rank": 17,
+    "tweet_count": "24.9K Tweets"
   },
   {
     "name": "Ryssarna",
     "query": "Ryssarna",
     "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Grattis",
+    "query": "Grattis",
+    "rank": 19,
+    "tweet_count": "1,437 Tweets"
   }
 ]
