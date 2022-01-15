@@ -3,25 +3,25 @@
     "name": "Gotland",
     "query": "Gotland",
     "rank": 1,
-    "tweet_count": "4,844 Tweets"
+    "tweet_count": "4,889 Tweets"
   },
   {
     "name": "Ryssland",
     "query": "Ryssland",
     "rank": 2,
-    "tweet_count": "3,573 Tweets"
-  },
-  {
-    "name": "Forsmark",
-    "query": "Forsmark",
-    "rank": 3,
-    "tweet_count": null
+    "tweet_count": "3,609 Tweets"
   },
   {
     "name": "NATO",
     "query": "NATO",
+    "rank": 3,
+    "tweet_count": "62.2K Tweets"
+  },
+  {
+    "name": "Putin",
+    "query": "Putin",
     "rank": 4,
-    "tweet_count": "61.8K Tweets"
+    "tweet_count": "81.5K Tweets"
   },
   {
     "name": "Östersjön",
@@ -30,10 +30,10 @@
     "tweet_count": null
   },
   {
-    "name": "Putin",
-    "query": "Putin",
+    "name": "Forsmark",
+    "query": "Forsmark",
     "rank": 6,
-    "tweet_count": "81.1K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Ringhals",
@@ -45,25 +45,25 @@
     "name": "Ukraina",
     "query": "Ukraina",
     "rank": 8,
-    "tweet_count": "4,399 Tweets"
-  },
-  {
-    "name": "Oskarshamn",
-    "query": "Oskarshamn",
-    "rank": 9,
-    "tweet_count": null
+    "tweet_count": "4,431 Tweets"
   },
   {
     "name": "Barsebäck",
     "query": "Barsebäck",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Ryssen",
     "query": "Ryssen",
+    "rank": 10,
+    "tweet_count": "1,168 Tweets"
+  },
+  {
+    "name": "Oskarshamn",
+    "query": "Oskarshamn",
     "rank": 11,
-    "tweet_count": "1,145 Tweets"
+    "tweet_count": null
   },
   {
     "name": "På Spåret",
@@ -81,13 +81,13 @@
     "name": "Försvarsmakten",
     "query": "Försvarsmakten",
     "rank": 14,
-    "tweet_count": "1,458 Tweets"
+    "tweet_count": "1,470 Tweets"
   },
   {
-    "name": "visby",
-    "query": "visby",
+    "name": "Visby",
+    "query": "Visby",
     "rank": 15,
-    "tweet_count": "1,243 Tweets"
+    "tweet_count": "1,251 Tweets"
   },
   {
     "name": "ryssarna",
@@ -99,7 +99,7 @@
     "name": "Bolund",
     "query": "Bolund",
     "rank": 17,
-    "tweet_count": "1,101 Tweets"
+    "tweet_count": "1,102 Tweets"
   },
   {
     "name": "Sahara Hotnights",
@@ -117,6 +117,6 @@
     "name": "Pride",
     "query": "Pride",
     "rank": 20,
-    "tweet_count": "79.1K Tweets"
+    "tweet_count": "79.5K Tweets"
   }
 ]
