@@ -1,27 +1,27 @@
 [
   {
-    "name": "Lascelles",
-    "query": "Lascelles",
-    "rank": 1,
-    "tweet_count": "3,566 Tweets"
-  },
-  {
     "name": "Donny",
     "query": "Donny",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "42.9K Tweets"
   },
   {
-    "name": "Bills",
-    "query": "Bills",
+    "name": "James Ward",
+    "query": "\"James Ward\"",
+    "rank": 2,
+    "tweet_count": "5,343 Tweets"
+  },
+  {
+    "name": "Kenwright",
+    "query": "Kenwright",
     "rank": 3,
-    "tweet_count": "139K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Dybala",
     "query": "Dybala",
     "rank": 4,
-    "tweet_count": "25K Tweets"
+    "tweet_count": "25.3K Tweets"
   },
   {
     "name": "Alesha Dixon",
@@ -30,10 +30,10 @@
     "tweet_count": null
   },
   {
-    "name": "James Ward-Prowse",
-    "query": "\"James Ward-Prowse\"",
+    "name": "Benteke",
+    "query": "Benteke",
     "rank": 6,
-    "tweet_count": "5,161 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#SaturdayNight",
@@ -45,78 +45,78 @@
     "name": "De Gea",
     "query": "\"De Gea\"",
     "rank": 8,
-    "tweet_count": "20.6K Tweets"
-  },
-  {
-    "name": "Kenwright",
-    "query": "Kenwright",
-    "rank": 9,
-    "tweet_count": null
+    "tweet_count": "20.7K Tweets"
   },
   {
     "name": "#rafaout",
     "query": "#rafaout",
-    "rank": 10,
-    "tweet_count": "4,593 Tweets"
-  },
-  {
-    "name": "Benteke",
-    "query": "Benteke",
-    "rank": 11,
-    "tweet_count": null
+    "rank": 9,
+    "tweet_count": "4,597 Tweets"
   },
   {
     "name": "Moyes",
     "query": "Moyes",
-    "rank": 12,
-    "tweet_count": "1,923 Tweets"
-  },
-  {
-    "name": "Goodison",
-    "query": "Goodison",
-    "rank": 13,
-    "tweet_count": "1,044 Tweets"
-  },
-  {
-    "name": "Keane",
-    "query": "Keane",
-    "rank": 14,
-    "tweet_count": "8,688 Tweets"
+    "rank": 10,
+    "tweet_count": "1,932 Tweets"
   },
   {
     "name": "#BackBoris",
     "query": "#BackBoris",
-    "rank": 15,
-    "tweet_count": "13.6K Tweets"
+    "rank": 11,
+    "tweet_count": "14.2K Tweets"
   },
   {
-    "name": "Coutinho",
-    "query": "Coutinho",
-    "rank": 16,
-    "tweet_count": "172K Tweets"
-  },
-  {
-    "name": "#MaskedSingerUK",
-    "query": "#MaskedSingerUK",
-    "rank": 17,
-    "tweet_count": "6,959 Tweets"
+    "name": "#AVLMUN",
+    "query": "#AVLMUN",
+    "rank": 12,
+    "tweet_count": "73.8K Tweets"
   },
   {
     "name": "#MOTD",
     "query": "#MOTD",
-    "rank": 18,
+    "rank": 13,
     "tweet_count": null
-  },
-  {
-    "name": "Raiders",
-    "query": "Raiders",
-    "rank": 19,
-    "tweet_count": "127K Tweets"
   },
   {
     "name": "Bengals",
     "query": "Bengals",
+    "rank": 14,
+    "tweet_count": "123K Tweets"
+  },
+  {
+    "name": "Barry Hawkins",
+    "query": "\"Barry Hawkins\"",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Everton",
+    "query": "Everton",
+    "rank": 16,
+    "tweet_count": "70.7K Tweets"
+  },
+  {
+    "name": "Joe Burrow",
+    "query": "\"Joe Burrow\"",
+    "rank": 17,
+    "tweet_count": "22.8K Tweets"
+  },
+  {
+    "name": "Prince Harry",
+    "query": "\"Prince Harry\"",
+    "rank": 18,
+    "tweet_count": "6,550 Tweets"
+  },
+  {
+    "name": "Giles Coren",
+    "query": "\"Giles Coren\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "House 1",
+    "query": "\"House 1\"",
     "rank": 20,
-    "tweet_count": "120K Tweets"
+    "tweet_count": "224K Tweets"
   }
 ]
