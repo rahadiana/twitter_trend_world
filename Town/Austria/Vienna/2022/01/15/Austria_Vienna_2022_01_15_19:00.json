@@ -1,27 +1,27 @@
 [
   {
-    "name": "Demo",
-    "query": "Demo",
-    "rank": 1,
-    "tweet_count": "40.1K Tweets"
-  },
-  {
     "name": "#w1501",
     "query": "#w1501",
-    "rank": 2,
-    "tweet_count": "5,644 Tweets"
+    "rank": 1,
+    "tweet_count": "5,710 Tweets"
   },
   {
     "name": "#lasstunsreden",
     "query": "#lasstunsreden",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "#gnoe",
+    "query": "#gnoe",
     "rank": 3,
     "tweet_count": null
   },
   {
-    "name": "#GNOE",
-    "query": "#GNOE",
+    "name": "#Tonga",
+    "query": "#Tonga",
     "rank": 4,
-    "tweet_count": null
+    "tweet_count": "131K Tweets"
   },
   {
     "name": "#zib1",
@@ -30,10 +30,10 @@
     "tweet_count": null
   },
   {
-    "name": "#Tonga",
-    "query": "#Tonga",
+    "name": "Demo",
+    "query": "Demo",
     "rank": 6,
-    "tweet_count": "128K Tweets"
+    "tweet_count": "40.5K Tweets"
   },
   {
     "name": "Innenminister",
@@ -45,13 +45,13 @@
     "name": "Innenstadt",
     "query": "Innenstadt",
     "rank": 8,
-    "tweet_count": "1,048 Tweets"
+    "tweet_count": "1,065 Tweets"
   },
   {
     "name": "Glas",
     "query": "Glas",
     "rank": 9,
-    "tweet_count": "5,724 Tweets"
+    "tweet_count": "5,789 Tweets"
   },
   {
     "name": "Anzeigen",
@@ -66,56 +66,56 @@
     "tweet_count": null
   },
   {
-    "name": "Kickl",
-    "query": "Kickl",
-    "rank": 12,
-    "tweet_count": "1,165 Tweets"
-  },
-  {
     "name": "Plagiat",
     "query": "Plagiat",
-    "rank": 13,
-    "tweet_count": "1,059 Tweets"
+    "rank": 12,
+    "tweet_count": "1,069 Tweets"
   },
   {
     "name": "Chelsea",
     "query": "Chelsea",
-    "rank": 14,
-    "tweet_count": "247K Tweets"
+    "rank": 13,
+    "tweet_count": "249K Tweets"
   },
   {
     "name": "Uniformen",
     "query": "Uniformen",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Plakat",
     "query": "Plakat",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "weber",
-    "query": "weber",
-    "rank": 17,
-    "tweet_count": "4,696 Tweets"
+    "name": "Weber",
+    "query": "Weber",
+    "rank": 16,
+    "tweet_count": "4,751 Tweets"
   },
   {
     "name": "KeSt",
     "query": "KeSt",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Wappler",
     "query": "Wappler",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Visum",
     "query": "Visum",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Einkommen",
+    "query": "Einkommen",
     "rank": 20,
     "tweet_count": null
   }
