@@ -3,85 +3,85 @@
     "name": "津波警報",
     "query": "津波警報",
     "rank": 1,
-    "tweet_count": "850K Tweets"
+    "tweet_count": "856K Tweets"
   },
   {
     "name": "津波注意報",
     "query": "津波注意報",
     "rank": 2,
-    "tweet_count": "334K Tweets"
+    "tweet_count": "337K Tweets"
   },
   {
     "name": "エリアメール",
     "query": "エリアメール",
     "rank": 3,
-    "tweet_count": "48.5K Tweets"
-  },
-  {
-    "name": "緊急速報",
-    "query": "緊急速報",
-    "rank": 4,
-    "tweet_count": "55.7K Tweets"
-  },
-  {
-    "name": "#AdoANN0",
-    "query": "#AdoANN0",
-    "rank": 5,
-    "tweet_count": "6,595 Tweets"
+    "tweet_count": "49K Tweets"
   },
   {
     "name": "津波大丈夫",
     "query": "津波大丈夫",
+    "rank": 4,
+    "tweet_count": "75.7K Tweets"
+  },
+  {
+    "name": "緊急速報",
+    "query": "緊急速報",
+    "rank": 5,
+    "tweet_count": "56.1K Tweets"
+  },
+  {
+    "name": "#AdoANN0",
+    "query": "#AdoANN0",
     "rank": 6,
-    "tweet_count": "74.6K Tweets"
+    "tweet_count": "6,634 Tweets"
   },
   {
     "name": "潮位変化",
     "query": "潮位変化",
     "rank": 7,
-    "tweet_count": "75.9K Tweets"
-  },
-  {
-    "name": "火山噴火",
-    "query": "火山噴火",
-    "rank": 8,
-    "tweet_count": null
+    "tweet_count": "77.1K Tweets"
   },
   {
     "name": "避難指示",
     "query": "避難指示",
+    "rank": 8,
+    "tweet_count": "65.8K Tweets"
+  },
+  {
+    "name": "火山噴火",
+    "query": "火山噴火",
     "rank": 9,
-    "tweet_count": "65.1K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#マーベルヒーローの日キャンペーン",
     "query": "#マーベルヒーローの日キャンペーン",
     "rank": 10,
-    "tweet_count": "16.9K Tweets"
+    "tweet_count": "17.3K Tweets"
   },
   {
     "name": "サイレン",
     "query": "サイレン",
     "rank": 11,
-    "tweet_count": "38.3K Tweets"
-  },
-  {
-    "name": "太平洋側",
-    "query": "太平洋側",
-    "rank": 12,
-    "tweet_count": "46.1K Tweets"
+    "tweet_count": "38.4K Tweets"
   },
   {
     "name": "神奈川県",
     "query": "神奈川県",
+    "rank": 12,
+    "tweet_count": "54.2K Tweets"
+  },
+  {
+    "name": "太平洋側",
+    "query": "太平洋側",
     "rank": 13,
-    "tweet_count": "53.6K Tweets"
+    "tweet_count": "46.7K Tweets"
   },
   {
     "name": "気圧変化",
     "query": "気圧変化",
     "rank": 14,
-    "tweet_count": "44.9K Tweets"
+    "tweet_count": "45.3K Tweets"
   },
   {
     "name": "#annkw",
@@ -93,30 +93,30 @@
     "name": "コウチーニョ",
     "query": "コウチーニョ",
     "rank": 16,
-    "tweet_count": "2,959 Tweets"
-  },
-  {
-    "name": "奄美群島",
-    "query": "奄美群島",
-    "rank": 17,
-    "tweet_count": "257K Tweets"
-  },
-  {
-    "name": "アラート",
-    "query": "アラート",
-    "rank": 18,
-    "tweet_count": "12.8K Tweets"
-  },
-  {
-    "name": "気象庁の会見",
-    "query": "気象庁の会見",
-    "rank": 19,
-    "tweet_count": "42.2K Tweets"
+    "tweet_count": "3,000 Tweets"
   },
   {
     "name": "東日本大震災",
     "query": "東日本大震災",
+    "rank": 17,
+    "tweet_count": "61.8K Tweets"
+  },
+  {
+    "name": "奄美群島",
+    "query": "奄美群島",
+    "rank": 18,
+    "tweet_count": "258K Tweets"
+  },
+  {
+    "name": "アラート",
+    "query": "アラート",
+    "rank": 19,
+    "tweet_count": "12.9K Tweets"
+  },
+  {
+    "name": "気象庁の会見",
+    "query": "気象庁の会見",
     "rank": 20,
-    "tweet_count": "61.3K Tweets"
+    "tweet_count": "42.9K Tweets"
   }
 ]
