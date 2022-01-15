@@ -3,79 +3,79 @@
     "name": "Gotland",
     "query": "Gotland",
     "rank": 1,
-    "tweet_count": "4,237 Tweets"
+    "tweet_count": "4,295 Tweets"
   },
   {
     "name": "Ryssland",
     "query": "Ryssland",
     "rank": 2,
-    "tweet_count": "3,164 Tweets"
+    "tweet_count": "3,213 Tweets"
+  },
+  {
+    "name": "Oskarshamn",
+    "query": "Oskarshamn",
+    "rank": 3,
+    "tweet_count": null
   },
   {
     "name": "Östersjön",
     "query": "Östersjön",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "NATO",
     "query": "NATO",
-    "rank": 4,
-    "tweet_count": "63.8K Tweets"
+    "rank": 5,
+    "tweet_count": "64.4K Tweets"
+  },
+  {
+    "name": "Helsingborg",
+    "query": "Helsingborg",
+    "rank": 6,
+    "tweet_count": null
   },
   {
     "name": "Putin",
     "query": "Putin",
-    "rank": 5,
-    "tweet_count": "80.7K Tweets"
+    "rank": 7,
+    "tweet_count": "81.2K Tweets"
   },
   {
     "name": "Ukraina",
     "query": "Ukraina",
-    "rank": 6,
-    "tweet_count": "4,830 Tweets"
+    "rank": 8,
+    "tweet_count": "4,883 Tweets"
   },
   {
     "name": "Godmorgon",
     "query": "Godmorgon",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
-    "name": "Oskarshamn",
-    "query": "Oskarshamn",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "#påspåret",
     "query": "#påspåret",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Bolund",
     "query": "Bolund",
-    "rank": 10,
-    "tweet_count": "1,607 Tweets"
+    "rank": 11,
+    "tweet_count": "1,613 Tweets"
   },
   {
     "name": "#norrsken",
     "query": "#norrsken",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "sahara hotnights",
-    "query": "\"sahara hotnights\"",
     "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "#livars",
-    "query": "#livars",
+    "name": "Ringhals",
+    "query": "Ringhals",
     "rank": 13,
-    "tweet_count": "5,552 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Ryssen",
@@ -84,32 +84,32 @@
     "tweet_count": null
   },
   {
-    "name": "Visby",
-    "query": "Visby",
+    "name": "#livars",
+    "query": "#livars",
     "rank": 15,
-    "tweet_count": "1,122 Tweets"
+    "tweet_count": "5,871 Tweets"
+  },
+  {
+    "name": "visby",
+    "query": "visby",
+    "rank": 16,
+    "tweet_count": "1,128 Tweets"
   },
   {
     "name": "Försvarsmakten",
     "query": "Försvarsmakten",
-    "rank": 16,
-    "tweet_count": "1,333 Tweets"
+    "rank": 17,
+    "tweet_count": "1,352 Tweets"
+  },
+  {
+    "name": "Sahara Hotnights",
+    "query": "\"Sahara Hotnights\"",
+    "rank": 18,
+    "tweet_count": null
   },
   {
     "name": "#kasslersband",
     "query": "#kasslersband",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "brighton",
-    "query": "brighton",
-    "rank": 18,
-    "tweet_count": "24.6K Tweets"
-  },
-  {
-    "name": "Ryssarna",
-    "query": "Ryssarna",
     "rank": 19,
     "tweet_count": null
   }
