@@ -3,23 +3,23 @@
     "name": "Mary-Louise",
     "query": "Mary-Louise",
     "rank": 1,
-    "tweet_count": "1,069 Tweets"
+    "tweet_count": "1,173 Tweets"
   },
   {
     "name": "Wishing",
     "query": "Wishing",
     "rank": 2,
-    "tweet_count": "138K Tweets"
-  },
-  {
-    "name": "Rory Burns",
-    "query": "\"Rory Burns\"",
-    "rank": 3,
-    "tweet_count": null
+    "tweet_count": "139K Tweets"
   },
   {
     "name": "#AFLWPiesSaints",
     "query": "#AFLWPiesSaints",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "Rory Burns",
+    "query": "\"Rory Burns\"",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,7 +27,7 @@
     "name": "#ThanksJoeRogan",
     "query": "#ThanksJoeRogan",
     "rank": 5,
-    "tweet_count": "16.6K Tweets"
+    "tweet_count": "17.1K Tweets"
   },
   {
     "name": "Nathan Lyon",
@@ -42,28 +42,28 @@
     "tweet_count": null
   },
   {
-    "name": "Wood",
-    "query": "Wood",
-    "rank": 8,
-    "tweet_count": "49.5K Tweets"
-  },
-  {
     "name": "#AshesTest",
     "query": "#AshesTest",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "#LCA2022",
     "query": "#LCA2022",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
+  },
+  {
+    "name": "Wood",
+    "query": "Wood",
+    "rank": 10,
+    "tweet_count": "49.9K Tweets"
   },
   {
     "name": "George Christensen",
     "query": "\"George Christensen\"",
     "rank": 11,
-    "tweet_count": "2,205 Tweets"
+    "tweet_count": "2,261 Tweets"
   },
   {
     "name": "The Age",
@@ -72,33 +72,39 @@
     "tweet_count": "114K Tweets"
   },
   {
-    "name": "Craig Kelly",
-    "query": "\"Craig Kelly\"",
-    "rank": 13,
-    "tweet_count": "2,555 Tweets"
-  },
-  {
     "name": "Federal Court",
     "query": "\"Federal Court\"",
+    "rank": 13,
+    "tweet_count": "21.2K Tweets"
+  },
+  {
+    "name": "Craig Kelly",
+    "query": "\"Craig Kelly\"",
     "rank": 14,
-    "tweet_count": "21.1K Tweets"
+    "tweet_count": "2,598 Tweets"
   },
   {
     "name": "#ThisisNotJournalism",
     "query": "#ThisisNotJournalism",
     "rank": 15,
-    "tweet_count": "1,053 Tweets"
+    "tweet_count": "1,069 Tweets"
+  },
+  {
+    "name": "#TheAshes",
+    "query": "#TheAshes",
+    "rank": 16,
+    "tweet_count": null
   },
   {
     "name": "#MagicMillions",
     "query": "#MagicMillions",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "#LetNovakPlay",
     "query": "#LetNovakPlay",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": "10.4K Tweets"
   }
 ]

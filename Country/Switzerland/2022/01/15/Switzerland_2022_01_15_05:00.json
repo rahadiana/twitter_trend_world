@@ -1,25 +1,25 @@
 [
   {
-    "name": "#srfarena",
-    "query": "#srfarena",
+    "name": "#SRFArena",
+    "query": "#SRFArena",
     "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "#Wengen",
+    "query": "#Wengen",
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#gfvip",
     "query": "#gfvip",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": "138K Tweets"
   },
   {
-    "name": "#wengen",
-    "query": "#wengen",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "Marco Odermatt",
-    "query": "\"Marco Odermatt\"",
+    "name": "marco odermatt",
+    "query": "\"marco odermatt\"",
     "rank": 4,
     "tweet_count": null
   },
@@ -33,31 +33,31 @@
     "name": "Booba",
     "query": "Booba",
     "rank": 6,
-    "tweet_count": "21.5K Tweets"
+    "tweet_count": "21.7K Tweets"
   },
   {
     "name": "Lille",
     "query": "Lille",
     "rank": 7,
-    "tweet_count": "9,466 Tweets"
-  },
-  {
-    "name": "#lauberhorn",
-    "query": "#lauberhorn",
-    "rank": 8,
-    "tweet_count": null
+    "tweet_count": "9,480 Tweets"
   },
   {
     "name": "Edon Zhegrova",
     "query": "\"Edon Zhegrova\"",
-    "rank": 9,
-    "tweet_count": "1,174 Tweets"
+    "rank": 8,
+    "tweet_count": "1,175 Tweets"
   },
   {
-    "name": "James Bond",
-    "query": "\"James Bond\"",
+    "name": "#Lauberhorn",
+    "query": "#Lauberhorn",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "rapperswil",
+    "query": "rapperswil",
     "rank": 10,
-    "tweet_count": "7,175 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Xhaka",
@@ -66,26 +66,26 @@
     "tweet_count": "27.4K Tweets"
   },
   {
-    "name": "Maurer",
-    "query": "Maurer",
+    "name": "James Bond",
+    "query": "\"James Bond\"",
     "rank": 12,
+    "tweet_count": "7,204 Tweets"
+  },
+  {
+    "name": "Gruyère",
+    "query": "Gruyère",
+    "rank": 13,
+    "tweet_count": "1,583 Tweets"
+  },
+  {
+    "name": "mediengesetz",
+    "query": "mediengesetz",
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Lugano",
     "query": "Lugano",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "gruyère",
-    "query": "gruyère",
-    "rank": 14,
-    "tweet_count": "1,577 Tweets"
-  },
-  {
-    "name": "mediengesetz",
-    "query": "mediengesetz",
     "rank": 15,
     "tweet_count": null
   },
@@ -99,24 +99,24 @@
     "name": "The UK",
     "query": "\"The UK\"",
     "rank": 17,
-    "tweet_count": "483K Tweets"
+    "tweet_count": "484K Tweets"
   },
   {
     "name": "Australia",
     "query": "Australia",
     "rank": 18,
-    "tweet_count": "342K Tweets"
+    "tweet_count": "344K Tweets"
   },
   {
     "name": "Sophie",
     "query": "Sophie",
     "rank": 19,
-    "tweet_count": "32K Tweets"
+    "tweet_count": "32.1K Tweets"
   },
   {
-    "name": "Russians",
-    "query": "Russians",
+    "name": "Boss",
+    "query": "Boss",
     "rank": 20,
-    "tweet_count": "10K Tweets"
+    "tweet_count": "363K Tweets"
   }
 ]
