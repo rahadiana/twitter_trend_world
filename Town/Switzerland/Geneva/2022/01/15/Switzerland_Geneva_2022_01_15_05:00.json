@@ -1,21 +1,21 @@
 [
   {
-    "name": "#SRFArena",
-    "query": "#SRFArena",
+    "name": "#srfarena",
+    "query": "#srfarena",
     "rank": 1,
-    "tweet_count": null
-  },
-  {
-    "name": "#Wengen",
-    "query": "#Wengen",
-    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#gfvip",
     "query": "#gfvip",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": "138K Tweets"
+  },
+  {
+    "name": "#wengen",
+    "query": "#wengen",
+    "rank": 3,
+    "tweet_count": null
   },
   {
     "name": "Marco Odermatt",
@@ -33,78 +33,78 @@
     "name": "Booba",
     "query": "Booba",
     "rank": 6,
-    "tweet_count": "21.2K Tweets"
+    "tweet_count": "21.5K Tweets"
   },
   {
     "name": "Lille",
     "query": "Lille",
     "rank": 7,
-    "tweet_count": "9,427 Tweets"
+    "tweet_count": "9,466 Tweets"
   },
   {
     "name": "Edon Zhegrova",
     "query": "\"Edon Zhegrova\"",
     "rank": 8,
-    "tweet_count": "1,170 Tweets"
-  },
-  {
-    "name": "rapperswil",
-    "query": "rapperswil",
-    "rank": 9,
-    "tweet_count": null
+    "tweet_count": "1,174 Tweets"
   },
   {
     "name": "James Bond",
     "query": "\"James Bond\"",
+    "rank": 9,
+    "tweet_count": "7,170 Tweets"
+  },
+  {
+    "name": "Xhaka",
+    "query": "Xhaka",
     "rank": 10,
-    "tweet_count": "7,117 Tweets"
+    "tweet_count": "27.4K Tweets"
   },
   {
-    "name": "Gruyère",
-    "query": "Gruyère",
+    "name": "Maurer",
+    "query": "Maurer",
     "rank": 11,
-    "tweet_count": "1,562 Tweets"
-  },
-  {
-    "name": "mediengesetz",
-    "query": "mediengesetz",
-    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Lugano",
     "query": "Lugano",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "gruyère",
+    "query": "gruyère",
     "rank": 13,
+    "tweet_count": "1,576 Tweets"
+  },
+  {
+    "name": "mediengesetz",
+    "query": "mediengesetz",
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Schwurblern",
     "query": "Schwurblern",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "The UK",
     "query": "\"The UK\"",
-    "rank": 15,
-    "tweet_count": "482K Tweets"
+    "rank": 16,
+    "tweet_count": "483K Tweets"
   },
   {
     "name": "Australia",
     "query": "Australia",
-    "rank": 16,
-    "tweet_count": "339K Tweets"
+    "rank": 17,
+    "tweet_count": "342K Tweets"
   },
   {
     "name": "Sophie",
     "query": "Sophie",
-    "rank": 17,
-    "tweet_count": "31.8K Tweets"
-  },
-  {
-    "name": "Boss",
-    "query": "Boss",
     "rank": 18,
-    "tweet_count": "356K Tweets"
+    "tweet_count": "32K Tweets"
   }
 ]
