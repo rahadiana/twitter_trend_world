@@ -3,31 +3,31 @@
     "name": "Demo",
     "query": "Demo",
     "rank": 1,
-    "tweet_count": "40.5K Tweets"
+    "tweet_count": "41.1K Tweets"
+  },
+  {
+    "name": "#FCSPaue",
+    "query": "#FCSPaue",
+    "rank": 2,
+    "tweet_count": "1,048 Tweets"
   },
   {
     "name": "#BMGB04",
     "query": "#BMGB04",
-    "rank": 2,
-    "tweet_count": "2,556 Tweets"
+    "rank": 3,
+    "tweet_count": "2,640 Tweets"
   },
   {
     "name": "#DSWNWP",
     "query": "#DSWNWP",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Elfmeter",
     "query": "Elfmeter",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "#AVLMUN",
-    "query": "#AVLMUN",
     "rank": 5,
-    "tweet_count": "63.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Wilsberg",
@@ -36,32 +36,32 @@
     "tweet_count": null
   },
   {
+    "name": "#AVLMUN",
+    "query": "#AVLMUN",
+    "rank": 7,
+    "tweet_count": "65.7K Tweets"
+  },
+  {
     "name": "Elfer",
     "query": "Elfer",
-    "rank": 7,
+    "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "#VfBRBL",
-    "query": "#VfBRBL",
-    "rank": 8,
-    "tweet_count": "2,118 Tweets"
-  },
-  {
-    "name": "Staatsfeinde",
-    "query": "Staatsfeinde",
+    "name": "leverkusen",
+    "query": "leverkusen",
     "rank": 9,
-    "tweet_count": "2,343 Tweets"
-  },
-  {
-    "name": "Leverkusen",
-    "query": "Leverkusen",
-    "rank": 10,
-    "tweet_count": "4,231 Tweets"
+    "tweet_count": "4,363 Tweets"
   },
   {
     "name": "Samstag Abend",
     "query": "\"Samstag Abend\"",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "Schiri",
+    "query": "Schiri",
     "rank": 11,
     "tweet_count": null
   },
@@ -81,42 +81,42 @@
     "name": "Foul",
     "query": "Foul",
     "rank": 14,
-    "tweet_count": "21.2K Tweets"
-  },
-  {
-    "name": "Schiri",
-    "query": "Schiri",
-    "rank": 15,
-    "tweet_count": null
+    "tweet_count": "21.5K Tweets"
   },
   {
     "name": "Villa",
     "query": "Villa",
-    "rank": 16,
-    "tweet_count": "139K Tweets"
+    "rank": 15,
+    "tweet_count": "147K Tweets"
   },
   {
     "name": "Schindlers Liste",
     "query": "\"Schindlers Liste\"",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Friedrich",
     "query": "Friedrich",
-    "rank": 18,
-    "tweet_count": "7,930 Tweets"
+    "rank": 17,
+    "tweet_count": "8,008 Tweets"
   },
   {
     "name": "Tore",
     "query": "Tore",
-    "rank": 19,
-    "tweet_count": "9,493 Tweets"
+    "rank": 18,
+    "tweet_count": "9,584 Tweets"
   },
   {
     "name": "Mannschaft",
     "query": "Mannschaft",
+    "rank": 19,
+    "tweet_count": "1,352 Tweets"
+  },
+  {
+    "name": "Fürth",
+    "query": "Fürth",
     "rank": 20,
-    "tweet_count": "1,335 Tweets"
+    "tweet_count": null
   }
 ]

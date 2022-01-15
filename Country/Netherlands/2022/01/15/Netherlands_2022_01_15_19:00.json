@@ -1,33 +1,33 @@
 [
   {
+    "name": "#widm",
+    "query": "#widm",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "#feyvit",
     "query": "#feyvit",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#respectvoorGroningen",
     "query": "#respectvoorGroningen",
-    "rank": 2,
-    "tweet_count": "5,781 Tweets"
+    "rank": 3,
+    "tweet_count": "6,179 Tweets"
   },
   {
     "name": "#Fakkeltocht",
     "query": "#Fakkeltocht",
-    "rank": 3,
-    "tweet_count": "1,453 Tweets"
+    "rank": 4,
+    "tweet_count": "1,666 Tweets"
   },
   {
     "name": "#necher",
     "query": "#necher",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "#AVLMUN",
-    "query": "#AVLMUN",
     "rank": 5,
-    "tweet_count": "63.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Vloet",
@@ -45,13 +45,13 @@
     "name": "Villa",
     "query": "Villa",
     "rank": 8,
-    "tweet_count": "140K Tweets"
+    "tweet_count": "147K Tweets"
   },
   {
     "name": "Linda de Mol",
     "query": "\"Linda de Mol\"",
     "rank": 9,
-    "tweet_count": "2,228 Tweets"
+    "tweet_count": "2,259 Tweets"
   },
   {
     "name": "Vismarkt",
@@ -60,63 +60,63 @@
     "tweet_count": null
   },
   {
-    "name": "john de mol",
-    "query": "\"john de mol\"",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Vitesse",
-    "query": "Vitesse",
-    "rank": 12,
-    "tweet_count": "4,067 Tweets"
-  },
-  {
     "name": "Tim Hofman",
     "query": "\"Tim Hofman\"",
-    "rank": 13,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Marokkaan",
     "query": "Marokkaan",
-    "rank": 14,
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "John de Mol",
+    "query": "\"John de Mol\"",
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Maan",
     "query": "Maan",
-    "rank": 15,
-    "tweet_count": "11.6K Tweets"
+    "rank": 14,
+    "tweet_count": "11.7K Tweets"
   },
   {
     "name": "Hilversum",
     "query": "Hilversum",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "#wieisdemol",
+    "query": "#wieisdemol",
     "rank": 16,
     "tweet_count": null
   },
   {
+    "name": "#AVLMUN",
+    "query": "#AVLMUN",
+    "rank": 17,
+    "tweet_count": "65.9K Tweets"
+  },
+  {
     "name": "#FakkelvoorGroningen",
     "query": "#FakkelvoorGroningen",
-    "rank": 17,
-    "tweet_count": "1,004 Tweets"
-  },
-  {
-    "name": "#tvoh",
-    "query": "#tvoh",
     "rank": 18,
-    "tweet_count": "6,159 Tweets"
+    "tweet_count": "1,130 Tweets"
   },
   {
-    "name": "#rtlboulevard",
-    "query": "#rtlboulevard",
+    "name": "#twehee",
+    "query": "#twehee",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "#TheVoice",
-    "query": "#TheVoice",
+    "name": "#tvoh",
+    "query": "#tvoh",
     "rank": 20,
-    "tweet_count": "1,246 Tweets"
+    "tweet_count": "6,251 Tweets"
   }
 ]
