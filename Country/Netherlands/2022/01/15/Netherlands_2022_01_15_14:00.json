@@ -3,83 +3,83 @@
     "name": "#tvoh",
     "query": "#tvoh",
     "rank": 1,
-    "tweet_count": "3,883 Tweets"
-  },
-  {
-    "name": "#MCICHE",
-    "query": "#MCICHE",
-    "rank": 2,
-    "tweet_count": "66.5K Tweets"
+    "tweet_count": "4,093 Tweets"
   },
   {
     "name": "Ali B",
     "query": "\"Ali B\"",
-    "rank": 3,
-    "tweet_count": "4,180 Tweets"
-  },
-  {
-    "name": "Jeroen Rietbergen",
-    "query": "\"Jeroen Rietbergen\"",
-    "rank": 4,
-    "tweet_count": "1,982 Tweets"
-  },
-  {
-    "name": "Linda de Mol",
-    "query": "\"Linda de Mol\"",
-    "rank": 5,
-    "tweet_count": "1,217 Tweets"
+    "rank": 2,
+    "tweet_count": "4,441 Tweets"
   },
   {
     "name": "The Voice",
     "query": "\"The Voice\"",
-    "rank": 6,
-    "tweet_count": "147K Tweets"
+    "rank": 3,
+    "tweet_count": "150K Tweets"
   },
   {
-    "name": "#BOOS",
-    "query": "#BOOS",
+    "name": "#MCICHE",
+    "query": "#MCICHE",
+    "rank": 4,
+    "tweet_count": "71.8K Tweets"
+  },
+  {
+    "name": "Jeroen Rietbergen",
+    "query": "\"Jeroen Rietbergen\"",
+    "rank": 5,
+    "tweet_count": "2,094 Tweets"
+  },
+  {
+    "name": "Linda de Mol",
+    "query": "\"Linda de Mol\"",
+    "rank": 6,
+    "tweet_count": "1,342 Tweets"
+  },
+  {
+    "name": "#boos",
+    "query": "#boos",
     "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "#roddelpraat",
+    "query": "#roddelpraat",
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Marco Borsato",
     "query": "\"Marco Borsato\"",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "#MeToo",
     "query": "#MeToo",
-    "rank": 9,
-    "tweet_count": "20.6K Tweets"
+    "rank": 10,
+    "tweet_count": "21.1K Tweets"
   },
   {
-    "name": "#roddelpraat",
-    "query": "#roddelpraat",
-    "rank": 10,
+    "name": "John de Mol",
+    "query": "\"John de Mol\"",
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Maan",
     "query": "Maan",
-    "rank": 11,
-    "tweet_count": "10.4K Tweets"
-  },
-  {
-    "name": "John de Mol",
-    "query": "\"John de Mol\"",
     "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Ziyech",
-    "query": "Ziyech",
-    "rank": 13,
-    "tweet_count": "24.4K Tweets"
+    "tweet_count": "10.6K Tweets"
   },
   {
     "name": "Waylon",
     "query": "Waylon",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Marokkaan",
+    "query": "Marokkaan",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,7 +87,7 @@
     "name": "Tonga",
     "query": "Tonga",
     "rank": 15,
-    "tweet_count": "191K Tweets"
+    "tweet_count": "203K Tweets"
   },
   {
     "name": "Tim Hofman",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "Anouk",
-    "query": "Anouk",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
     "name": "Rusland",
     "query": "Rusland",
+    "rank": 18,
+    "tweet_count": "3,974 Tweets"
+  },
+  {
+    "name": "Anouk",
+    "query": "Anouk",
     "rank": 19,
-    "tweet_count": "3,915 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Russen",
     "query": "Russen",
     "rank": 20,
-    "tweet_count": "1,326 Tweets"
+    "tweet_count": "1,366 Tweets"
   }
 ]
