@@ -1,15 +1,15 @@
 [
   {
-    "name": "Demo",
-    "query": "Demo",
-    "rank": 1,
-    "tweet_count": "39K Tweets"
-  },
-  {
     "name": "#w1501",
     "query": "#w1501",
+    "rank": 1,
+    "tweet_count": "5,365 Tweets"
+  },
+  {
+    "name": "Demo",
+    "query": "Demo",
     "rank": 2,
-    "tweet_count": "5,142 Tweets"
+    "tweet_count": "40.1K Tweets"
   },
   {
     "name": "#lasstunsreden",
@@ -18,14 +18,14 @@
     "tweet_count": null
   },
   {
-    "name": "#gnoe",
-    "query": "#gnoe",
+    "name": "#GNOE",
+    "query": "#GNOE",
     "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "#Kickl",
-    "query": "#Kickl",
+    "name": "Innenminister",
+    "query": "Innenminister",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,17 +33,17 @@
     "name": "#Tonga",
     "query": "#Tonga",
     "rank": 6,
-    "tweet_count": "111K Tweets"
-  },
-  {
-    "name": "Innenminister",
-    "query": "Innenminister",
-    "rank": 7,
-    "tweet_count": null
+    "tweet_count": "118K Tweets"
   },
   {
     "name": "Innenstadt",
     "query": "Innenstadt",
+    "rank": 7,
+    "tweet_count": "1,026 Tweets"
+  },
+  {
+    "name": "#zadic",
+    "query": "#zadic",
     "rank": 8,
     "tweet_count": null
   },
@@ -51,7 +51,7 @@
     "name": "Glas",
     "query": "Glas",
     "rank": 9,
-    "tweet_count": "5,495 Tweets"
+    "tweet_count": "5,703 Tweets"
   },
   {
     "name": "Anzeigen",
@@ -66,57 +66,57 @@
     "tweet_count": null
   },
   {
-    "name": "Wien",
-    "query": "Wien",
+    "name": "Kickl",
+    "query": "Kickl",
     "rank": 12,
-    "tweet_count": "6,237 Tweets"
-  },
-  {
-    "name": "kest",
-    "query": "kest",
-    "rank": 13,
-    "tweet_count": null
+    "tweet_count": "1,142 Tweets"
   },
   {
     "name": "Chelsea",
     "query": "Chelsea",
-    "rank": 14,
-    "tweet_count": "243K Tweets"
+    "rank": 13,
+    "tweet_count": "247K Tweets"
   },
   {
     "name": "Plagiat",
     "query": "Plagiat",
-    "rank": 15,
-    "tweet_count": "1,053 Tweets"
+    "rank": 14,
+    "tweet_count": "1,079 Tweets"
   },
   {
-    "name": "Wappler",
-    "query": "Wappler",
-    "rank": 16,
+    "name": "kest",
+    "query": "kest",
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Visum",
     "query": "Visum",
-    "rank": 17,
-    "tweet_count": "1,010 Tweets"
+    "rank": 16,
+    "tweet_count": "1,014 Tweets"
   },
   {
-    "name": "Einkommen",
-    "query": "Einkommen",
+    "name": "Wappler",
+    "query": "Wappler",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Plakat",
+    "query": "Plakat",
     "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "Apres Ski",
-    "query": "\"Apres Ski\"",
+    "name": "Einkommen",
+    "query": "Einkommen",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Rechtsextreme",
-    "query": "Rechtsextreme",
+    "name": "apres ski",
+    "query": "\"apres ski\"",
     "rank": 20,
-    "tweet_count": "1,751 Tweets"
+    "tweet_count": null
   }
 ]
