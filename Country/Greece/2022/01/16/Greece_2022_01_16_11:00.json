@@ -1,33 +1,33 @@
 [
   {
+    "name": "#σεισμος",
+    "query": "#σεισμος",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "#metooGR",
     "query": "#metooGR",
-    "rank": 1,
-    "tweet_count": "33K Tweets"
+    "rank": 2,
+    "tweet_count": "33.3K Tweets"
   },
   {
     "name": "#cancel_Αχιλλειον",
     "query": "#cancel_Αχιλλειον",
-    "rank": 2,
-    "tweet_count": "20.4K Tweets"
+    "rank": 3,
+    "tweet_count": "20.6K Tweets"
   },
   {
     "name": "#cancel_cocacola",
     "query": "#cancel_cocacola",
-    "rank": 3,
-    "tweet_count": "11.5K Tweets"
+    "rank": 4,
+    "tweet_count": "11.6K Tweets"
   },
   {
     "name": "#βιασμος",
     "query": "#βιασμος",
-    "rank": 4,
-    "tweet_count": "8,110 Tweets"
-  },
-  {
-    "name": "#xamogelakaipali",
-    "query": "#xamogelakaipali",
     "rank": 5,
-    "tweet_count": "1,731 Tweets"
+    "tweet_count": "8,188 Tweets"
   },
   {
     "name": "Βαλαντης",
@@ -36,10 +36,10 @@
     "tweet_count": null
   },
   {
-    "name": "Καλη Κυριακη",
-    "query": "\"Καλη Κυριακη\"",
+    "name": "καλη κυριακη",
+    "query": "\"καλη κυριακη\"",
     "rank": 7,
-    "tweet_count": "2,214 Tweets"
+    "tweet_count": "2,241 Tweets"
   },
   {
     "name": "καλο σαββατοκυριακο",
@@ -63,7 +63,7 @@
     "name": "Ομορφη Κυριακη",
     "query": "\"Ομορφη Κυριακη\"",
     "rank": 11,
-    "tweet_count": "1,411 Tweets"
+    "tweet_count": "1,431 Tweets"
   },
   {
     "name": "ευγενια",
@@ -81,42 +81,42 @@
     "name": "η αθηνα",
     "query": "\"η αθηνα\"",
     "rank": 14,
-    "tweet_count": "1,059 Tweets"
-  },
-  {
-    "name": "καραμπετη",
-    "query": "καραμπετη",
-    "rank": 15,
-    "tweet_count": null
+    "tweet_count": "1,066 Tweets"
   },
   {
     "name": "Ferrari",
     "query": "Ferrari",
-    "rank": 16,
-    "tweet_count": "13K Tweets"
+    "rank": 15,
+    "tweet_count": "13.1K Tweets"
   },
   {
     "name": "σοφιανα",
     "query": "σοφιανα",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "φεραρι",
     "query": "φεραρι",
-    "rank": 18,
-    "tweet_count": "3,355 Tweets"
+    "rank": 17,
+    "tweet_count": "3,365 Tweets"
   },
   {
     "name": "γιωρικα",
     "query": "γιωρικα",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "δαλακα",
     "query": "δαλακα",
+    "rank": 19,
+    "tweet_count": "1,203 Tweets"
+  },
+  {
+    "name": "ευρυδικαρα",
+    "query": "ευρυδικαρα",
     "rank": 20,
-    "tweet_count": "1,200 Tweets"
+    "tweet_count": null
   }
 ]
