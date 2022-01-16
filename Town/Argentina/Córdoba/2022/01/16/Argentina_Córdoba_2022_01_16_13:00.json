@@ -12,34 +12,34 @@
     "tweet_count": null
   },
   {
-    "name": "#DetrasDeLasNoticias",
-    "query": "#DetrasDeLasNoticias",
+    "name": "Australia",
+    "query": "Australia",
     "rank": 3,
-    "tweet_count": null
+    "tweet_count": "358K Tweets"
   },
   {
     "name": "Australia",
     "query": "Australia",
     "rank": 4,
-    "tweet_count": "340K Tweets"
-  },
-  {
-    "name": "Australia",
-    "query": "Australia",
-    "rank": 5,
-    "tweet_count": "340K Tweets"
+    "tweet_count": "358K Tweets"
   },
   {
     "name": "Berni",
     "query": "Berni",
-    "rank": 6,
-    "tweet_count": "22.3K Tweets"
+    "rank": 5,
+    "tweet_count": "22.9K Tweets"
   },
   {
-    "name": "#Lluvia",
-    "query": "#Lluvia",
+    "name": "#lluvia",
+    "query": "#lluvia",
+    "rank": 6,
+    "tweet_count": "4,190 Tweets"
+  },
+  {
+    "name": "#DetrasDeLasNoticias",
+    "query": "#DetrasDeLasNoticias",
     "rank": 7,
-    "tweet_count": "4,145 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#alocarla",
@@ -48,69 +48,69 @@
     "tweet_count": null
   },
   {
-    "name": "esta lloviendo",
-    "query": "\"esta lloviendo\"",
+    "name": "Olleros",
+    "query": "Olleros",
     "rank": 9,
-    "tweet_count": "12.9K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Cafiero",
     "query": "Cafiero",
     "rank": 10,
-    "tweet_count": "8,915 Tweets"
+    "tweet_count": "9,184 Tweets"
   },
   {
-    "name": "Olleros",
-    "query": "Olleros",
+    "name": "esta lloviendo",
+    "query": "\"esta lloviendo\"",
     "rank": 11,
-    "tweet_count": null
+    "tweet_count": "12.9K Tweets"
   },
   {
     "name": "Liliana",
     "query": "Liliana",
     "rank": 12,
-    "tweet_count": "10.2K Tweets"
+    "tweet_count": "10.4K Tweets"
   },
   {
     "name": "Pepsi",
     "query": "Pepsi",
     "rank": 13,
-    "tweet_count": "14K Tweets"
-  },
-  {
-    "name": "Dibu",
-    "query": "Dibu",
-    "rank": 14,
-    "tweet_count": "21.4K Tweets"
+    "tweet_count": "14.3K Tweets"
   },
   {
     "name": "Nole",
     "query": "Nole",
-    "rank": 15,
-    "tweet_count": "12.3K Tweets"
-  },
-  {
-    "name": "Tonga",
-    "query": "Tonga",
-    "rank": 16,
-    "tweet_count": "812K Tweets"
+    "rank": 14,
+    "tweet_count": "12.9K Tweets"
   },
   {
     "name": "Sergio Lapegüe",
     "query": "\"Sergio Lapegüe\"",
-    "rank": 17,
+    "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "Coutinho",
-    "query": "Coutinho",
-    "rank": 18,
-    "tweet_count": "213K Tweets"
+    "name": "Dibu",
+    "query": "Dibu",
+    "rank": 16,
+    "tweet_count": "21.5K Tweets"
   },
   {
-    "name": "Invierno",
-    "query": "Invierno",
+    "name": "Tonga",
+    "query": "Tonga",
+    "rank": 17,
+    "tweet_count": "820K Tweets"
+  },
+  {
+    "name": "Nací",
+    "query": "Nací",
+    "rank": 18,
+    "tweet_count": "8,969 Tweets"
+  },
+  {
+    "name": "Clint",
+    "query": "Clint",
     "rank": 19,
-    "tweet_count": "38.1K Tweets"
+    "tweet_count": "8,111 Tweets"
   }
 ]
