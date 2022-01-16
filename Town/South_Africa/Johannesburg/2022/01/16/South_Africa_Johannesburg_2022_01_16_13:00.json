@@ -1,27 +1,27 @@
 [
   {
-    "name": "#AVLMUN",
-    "query": "#AVLMUN",
-    "rank": 1,
-    "tweet_count": "74.8K Tweets"
-  },
-  {
     "name": "Western Cape",
     "query": "\"Western Cape\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "Khloe",
     "query": "Khloe",
-    "rank": 3,
-    "tweet_count": "8,507 Tweets"
+    "rank": 2,
+    "tweet_count": "8,707 Tweets"
   },
   {
-    "name": "Tristan",
-    "query": "Tristan",
+    "name": "Bolt",
+    "query": "Bolt",
+    "rank": 3,
+    "tweet_count": "12.5K Tweets"
+  },
+  {
+    "name": "#uMjoloWithAzola",
+    "query": "#uMjoloWithAzola",
     "rank": 4,
-    "tweet_count": "14.4K Tweets"
+    "tweet_count": "2,928 Tweets"
   },
   {
     "name": "#LiveBetter",
@@ -30,10 +30,10 @@
     "tweet_count": null
   },
   {
-    "name": "#uMjoloWithAzola",
-    "query": "#uMjoloWithAzola",
+    "name": "#soulfulsunday",
+    "query": "#soulfulsunday",
     "rank": 6,
-    "tweet_count": "2,831 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Gayton",
@@ -42,63 +42,57 @@
     "tweet_count": null
   },
   {
-    "name": "Mali",
-    "query": "Mali",
+    "name": "Lamola",
+    "query": "Lamola",
     "rank": 8,
-    "tweet_count": "68.9K Tweets"
+    "tweet_count": "2,646 Tweets"
   },
   {
     "name": "North West",
     "query": "\"North West\"",
     "rank": 9,
-    "tweet_count": "11.7K Tweets"
+    "tweet_count": "11.8K Tweets"
   },
   {
-    "name": "Spirituality",
-    "query": "Spirituality",
+    "name": "Mali",
+    "query": "Mali",
     "rank": 10,
-    "tweet_count": "8,042 Tweets"
-  },
-  {
-    "name": "Lamola",
-    "query": "Lamola",
-    "rank": 11,
-    "tweet_count": "2,503 Tweets"
+    "tweet_count": "71.1K Tweets"
   },
   {
     "name": "Northern Cape",
     "query": "\"Northern Cape\"",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
+  },
+  {
+    "name": "Spirituality",
+    "query": "Spirituality",
+    "rank": 12,
+    "tweet_count": "8,163 Tweets"
   },
   {
     "name": "Australia",
     "query": "Australia",
     "rank": 13,
-    "tweet_count": "359K Tweets"
+    "tweet_count": "367K Tweets"
   },
   {
     "name": "#Ashes",
     "query": "#Ashes",
     "rank": 14,
-    "tweet_count": "39.8K Tweets"
+    "tweet_count": "40.4K Tweets"
   },
   {
     "name": "Kanye",
     "query": "Kanye",
     "rank": 15,
-    "tweet_count": "138K Tweets"
-  },
-  {
-    "name": "#Djokovic",
-    "query": "#Djokovic",
-    "rank": 16,
-    "tweet_count": "84.8K Tweets"
+    "tweet_count": "140K Tweets"
   },
   {
     "name": "England",
     "query": "England",
-    "rank": 17,
-    "tweet_count": "139K Tweets"
+    "rank": 16,
+    "tweet_count": "141K Tweets"
   }
 ]
