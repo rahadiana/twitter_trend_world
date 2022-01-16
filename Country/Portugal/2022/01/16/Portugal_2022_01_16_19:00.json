@@ -1,122 +1,98 @@
 [
   {
-    "name": "Sarabia",
-    "query": "Sarabia",
+    "name": "Nuno Santos",
+    "query": "\"Nuno Santos\"",
     "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "Vizela",
+    "query": "Vizela",
+    "rank": 2,
+    "tweet_count": "2,275 Tweets"
+  },
+  {
+    "name": "Gonçalo Esteves",
+    "query": "\"Gonçalo Esteves\"",
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Matheus Reis",
     "query": "\"Matheus Reis\"",
-    "rank": 2,
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "Sarabia",
+    "query": "Sarabia",
+    "rank": 5,
+    "tweet_count": "1,049 Tweets"
+  },
+  {
+    "name": "Palhinha",
+    "query": "Palhinha",
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "Bragança",
     "query": "Bragança",
-    "rank": 3,
-    "tweet_count": "2,386 Tweets"
-  },
-  {
-    "name": "Palhinha",
-    "query": "Palhinha",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "Paulinho",
-    "query": "Paulinho",
-    "rank": 5,
-    "tweet_count": "2,681 Tweets"
-  },
-  {
-    "name": "Moreirense",
-    "query": "Moreirense",
-    "rank": 6,
-    "tweet_count": "2,158 Tweets"
-  },
-  {
-    "name": "Sérgio Oliveira",
-    "query": "\"Sérgio Oliveira\"",
     "rank": 7,
-    "tweet_count": "2,936 Tweets"
-  },
-  {
-    "name": "Pote",
-    "query": "Pote",
-    "rank": 8,
-    "tweet_count": "18.1K Tweets"
-  },
-  {
-    "name": "Pedro Gonçalves",
-    "query": "\"Pedro Gonçalves\"",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Benfica",
-    "query": "Benfica",
-    "rank": 10,
-    "tweet_count": "17.9K Tweets"
-  },
-  {
-    "name": "Vizela",
-    "query": "Vizela",
-    "rank": 11,
-    "tweet_count": "1,751 Tweets"
-  },
-  {
-    "name": "Sporting",
-    "query": "Sporting",
-    "rank": 12,
-    "tweet_count": "26.3K Tweets"
-  },
-  {
-    "name": "Esgaio",
-    "query": "Esgaio",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Roma",
-    "query": "Roma",
-    "rank": 14,
-    "tweet_count": "45.1K Tweets"
-  },
-  {
-    "name": "Gilberto",
-    "query": "Gilberto",
-    "rank": 15,
-    "tweet_count": "4,748 Tweets"
+    "tweet_count": "2,473 Tweets"
   },
   {
     "name": "Bruno Costa",
     "query": "\"Bruno Costa\"",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "Esgaio",
+    "query": "Esgaio",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Sérgio Oliveira",
+    "query": "\"Sérgio Oliveira\"",
+    "rank": 10,
+    "tweet_count": "3,089 Tweets"
+  },
+  {
+    "name": "Pote",
+    "query": "Pote",
+    "rank": 11,
+    "tweet_count": "18.4K Tweets"
+  },
+  {
+    "name": "Roma",
+    "query": "Roma",
+    "rank": 12,
+    "tweet_count": "45.7K Tweets"
+  },
+  {
+    "name": "Coates",
+    "query": "Coates",
+    "rank": 13,
+    "tweet_count": "1,247 Tweets"
+  },
+  {
+    "name": "O CDS",
+    "query": "\"O CDS\"",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "#DiaDeSporting",
+    "query": "#DiaDeSporting",
+    "rank": 15,
+    "tweet_count": "2,145 Tweets"
+  },
+  {
+    "name": "Nani",
+    "query": "Nani",
     "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Nuno Santos",
-    "query": "\"Nuno Santos\"",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Coutinho",
-    "query": "Coutinho",
-    "rank": 18,
-    "tweet_count": "117K Tweets"
-  },
-  {
-    "name": "Marfim",
-    "query": "Marfim",
-    "rank": 19,
-    "tweet_count": "1,517 Tweets"
-  },
-  {
-    "name": "#AMascara",
-    "query": "#AMascara",
-    "rank": 20,
-    "tweet_count": "1,234 Tweets"
+    "tweet_count": "25.8K Tweets"
   }
 ]
