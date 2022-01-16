@@ -1,19 +1,19 @@
 [
   {
-    "name": "Australii",
-    "query": "Australii",
-    "rank": 1,
-    "tweet_count": "8,162 Tweets"
-  },
-  {
     "name": "#skijumpingfamily",
     "query": "#skijumpingfamily",
-    "rank": 2,
-    "tweet_count": "7,784 Tweets"
+    "rank": 1,
+    "tweet_count": "7,827 Tweets"
   },
   {
     "name": "Marusarzu",
     "query": "Marusarzu",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "#rzutfśśtbramka",
+    "query": "#rzutfśśtbramka",
     "rank": 3,
     "tweet_count": null
   },
@@ -21,84 +21,90 @@
     "name": "#hotelmaffija2",
     "query": "#hotelmaffija2",
     "rank": 4,
-    "tweet_count": "4,461 Tweets"
+    "tweet_count": "4,496 Tweets"
   },
   {
-    "name": "Piotr Żyła",
-    "query": "\"Piotr Żyła\"",
+    "name": "piotr żyła",
+    "query": "\"piotr żyła\"",
     "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Hula",
-    "query": "Hula",
-    "rank": 6,
-    "tweet_count": "5,236 Tweets"
-  },
-  {
-    "name": "Igrzyska",
-    "query": "Igrzyska",
-    "rank": 7,
-    "tweet_count": "1,101 Tweets"
-  },
-  {
-    "name": "Danii",
-    "query": "Danii",
-    "rank": 8,
-    "tweet_count": "2,792 Tweets"
-  },
-  {
-    "name": "#zakopane",
-    "query": "#zakopane",
-    "rank": 9,
-    "tweet_count": "1,065 Tweets"
-  },
-  {
-    "name": "#PlusLiga",
-    "query": "#PlusLiga",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Paweł Wąsek",
-    "query": "\"Paweł Wąsek\"",
-    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "#ehfeuro2022",
     "query": "#ehfeuro2022",
+    "rank": 6,
+    "tweet_count": "3,164 Tweets"
+  },
+  {
+    "name": "hula",
+    "query": "hula",
+    "rank": 7,
+    "tweet_count": "5,254 Tweets"
+  },
+  {
+    "name": "igrzyska",
+    "query": "igrzyska",
+    "rank": 8,
+    "tweet_count": "1,109 Tweets"
+  },
+  {
+    "name": "Danii",
+    "query": "Danii",
+    "rank": 9,
+    "tweet_count": "2,808 Tweets"
+  },
+  {
+    "name": "Paweł Wąsek",
+    "query": "\"Paweł Wąsek\"",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "Zakopanem",
+    "query": "Zakopanem",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "#plusliga",
+    "query": "#plusliga",
     "rank": 12,
-    "tweet_count": "3,104 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Australia",
+    "query": "Australia",
+    "rank": 13,
+    "tweet_count": "473K Tweets"
   },
   {
     "name": "Pekinie",
     "query": "Pekinie",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Najlepsze",
-    "query": "Najlepsze",
     "rank": 14,
-    "tweet_count": "2,338 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Owsiak",
     "query": "Owsiak",
     "rank": 15,
-    "tweet_count": "1,079 Tweets"
+    "tweet_count": "1,096 Tweets"
+  },
+  {
+    "name": "Najlepsze",
+    "query": "Najlepsze",
+    "rank": 16,
+    "tweet_count": "2,366 Tweets"
   },
   {
     "name": "#NFLpl",
     "query": "#NFLpl",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "#skokoholicy",
     "query": "#skokoholicy",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
   }
 ]
