@@ -1,37 +1,37 @@
 [
   {
-    "name": "paulu",
-    "query": "paulu",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#boksaakademija",
     "query": "#boksaakademija",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "IKEA",
     "query": "IKEA",
-    "rank": 3,
-    "tweet_count": "9,558 Tweets"
+    "rank": 2,
+    "tweet_count": "9,741 Tweets"
   },
   {
-    "name": "Vakar",
-    "query": "Vakar",
-    "rank": 4,
+    "name": "vakar",
+    "query": "vakar",
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "zemessardzē",
     "query": "zemessardzē",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "Austrālijas",
+    "query": "Austrālijas",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "austrālijas",
-    "query": "austrālijas",
+    "name": "#floorball",
+    "query": "#floorball",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,34 +42,34 @@
     "tweet_count": null
   },
   {
-    "name": "#floorball",
-    "query": "#floorball",
+    "name": "muļķības",
+    "query": "muļķības",
     "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "Muļķības",
-    "query": "Muļķības",
-    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Cilvēki",
     "query": "Cilvēki",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Bolt",
     "query": "Bolt",
-    "rank": 11,
-    "tweet_count": "13.7K Tweets"
+    "rank": 10,
+    "tweet_count": "14K Tweets"
   },
   {
-    "name": "Латвии",
-    "query": "Латвии",
+    "name": "Ukraina",
+    "query": "Ukraina",
+    "rank": 11,
+    "tweet_count": "3,625 Tweets"
+  },
+  {
+    "name": "Ukrainian",
+    "query": "Ukrainian",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "13.9K Tweets"
   },
   {
     "name": "Iespējams",
@@ -78,44 +78,44 @@
     "tweet_count": null
   },
   {
-    "name": "Ukraina",
-    "query": "Ukraina",
-    "rank": 14,
-    "tweet_count": "3,521 Tweets"
-  },
-  {
-    "name": "Ukrainian",
-    "query": "Ukrainian",
-    "rank": 15,
-    "tweet_count": "13.5K Tweets"
-  },
-  {
     "name": "Pareizi",
     "query": "Pareizi",
-    "rank": 16,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "kurzemē",
     "query": "kurzemē",
-    "rank": 17,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Eiropas",
     "query": "Eiropas",
-    "rank": 18,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "NATO",
     "query": "NATO",
-    "rank": 19,
-    "tweet_count": "50.4K Tweets"
+    "rank": 17,
+    "tweet_count": "51.6K Tweets"
   },
   {
-    "name": "Zviedriju",
-    "query": "Zviedriju",
+    "name": "Piekrītu",
+    "query": "Piekrītu",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "zviedriju",
+    "query": "zviedriju",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "latgales",
+    "query": "latgales",
     "rank": 20,
     "tweet_count": null
   }
