@@ -1,25 +1,25 @@
 [
   {
-    "name": "Cowboys",
-    "query": "Cowboys",
-    "rank": 1,
-    "tweet_count": "552K Tweets"
-  },
-  {
     "name": "#dwtsirl",
     "query": "#dwtsirl",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "#AVLMUN",
     "query": "#AVLMUN",
-    "rank": 3,
-    "tweet_count": "7,823 Tweets"
+    "rank": 2,
+    "tweet_count": "7,188 Tweets"
   },
   {
-    "name": "#lotto",
-    "query": "#lotto",
+    "name": "Chiefs",
+    "query": "Chiefs",
+    "rank": 3,
+    "tweet_count": "152K Tweets"
+  },
+  {
+    "name": "#LOTTO",
+    "query": "#LOTTO",
     "rank": 4,
     "tweet_count": null
   },
@@ -33,7 +33,7 @@
     "name": "dublin castle",
     "query": "\"dublin castle\"",
     "rank": 6,
-    "tweet_count": "3,552 Tweets"
+    "tweet_count": "3,555 Tweets"
   },
   {
     "name": "#LUFC",
@@ -45,7 +45,7 @@
     "name": "Barbara",
     "query": "Barbara",
     "rank": 8,
-    "tweet_count": "39.3K Tweets"
+    "tweet_count": "38.6K Tweets"
   },
   {
     "name": "Everton",
@@ -57,25 +57,25 @@
     "name": "Montpellier",
     "query": "Montpellier",
     "rank": 10,
-    "tweet_count": "8,412 Tweets"
+    "tweet_count": "8,244 Tweets"
   },
   {
     "name": "Leinster",
     "query": "Leinster",
     "rank": 11,
-    "tweet_count": "2,955 Tweets"
+    "tweet_count": "2,950 Tweets"
   },
   {
     "name": "bob olinger",
     "query": "\"bob olinger\"",
     "rank": 12,
-    "tweet_count": "1,467 Tweets"
+    "tweet_count": "1,469 Tweets"
   },
   {
     "name": "West Indies",
     "query": "\"West Indies\"",
     "rank": 13,
-    "tweet_count": "2,930 Tweets"
+    "tweet_count": "2,948 Tweets"
   },
   {
     "name": "Dysart Dynamo",
@@ -87,36 +87,36 @@
     "name": "Michael Collins",
     "query": "\"Michael Collins\"",
     "rank": 15,
-    "tweet_count": "1,461 Tweets"
-  },
-  {
-    "name": "Steelers",
-    "query": "Steelers",
-    "rank": 16,
-    "tweet_count": "198K Tweets"
+    "tweet_count": "1,469 Tweets"
   },
   {
     "name": "Barrs",
     "query": "Barrs",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Australia",
     "query": "Australia",
+    "rank": 17,
+    "tweet_count": "549K Tweets"
+  },
+  {
+    "name": "Steelers",
+    "query": "Steelers",
     "rank": 18,
-    "tweet_count": "552K Tweets"
+    "tweet_count": "212K Tweets"
+  },
+  {
+    "name": "Dallas",
+    "query": "Dallas",
+    "rank": 19,
+    "tweet_count": "189K Tweets"
   },
   {
     "name": "Benitez",
     "query": "Benitez",
-    "rank": 19,
-    "tweet_count": "55.2K Tweets"
-  },
-  {
-    "name": "Eagles",
-    "query": "Eagles",
     "rank": 20,
-    "tweet_count": "279K Tweets"
+    "tweet_count": "55.1K Tweets"
   }
 ]
