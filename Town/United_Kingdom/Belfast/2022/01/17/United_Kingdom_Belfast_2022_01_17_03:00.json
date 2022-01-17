@@ -3,55 +3,55 @@
     "name": "Cowboys",
     "query": "Cowboys",
     "rank": 1,
-    "tweet_count": "527K Tweets"
-  },
-  {
-    "name": "#SFvsDAL",
-    "query": "#SFvsDAL",
-    "rank": 2,
-    "tweet_count": "81.8K Tweets"
+    "tweet_count": "540K Tweets"
   },
   {
     "name": "#EuphoriaHBOMax",
     "query": "#EuphoriaHBOMax",
-    "rank": 3,
-    "tweet_count": "49K Tweets"
+    "rank": 2,
+    "tweet_count": "73K Tweets"
   },
   {
-    "name": "#FTTB",
-    "query": "#FTTB",
+    "name": "49ers",
+    "query": "49ers",
+    "rank": 3,
+    "tweet_count": "256K Tweets"
+  },
+  {
+    "name": "Mahomes",
+    "query": "Mahomes",
     "rank": 4,
-    "tweet_count": "55.3K Tweets"
+    "tweet_count": "45.3K Tweets"
   },
   {
     "name": "Jimmy G",
     "query": "\"Jimmy G\"",
     "rank": 5,
-    "tweet_count": "45.9K Tweets"
+    "tweet_count": "46.5K Tweets"
+  },
+  {
+    "name": "Steelers",
+    "query": "Steelers",
+    "rank": 6,
+    "tweet_count": "180K Tweets"
+  },
+  {
+    "name": "#FTTB",
+    "query": "#FTTB",
+    "rank": 7,
+    "tweet_count": "56.3K Tweets"
   },
   {
     "name": "The BBC",
     "query": "\"The BBC\"",
-    "rank": 6,
-    "tweet_count": "286K Tweets"
-  },
-  {
-    "name": "Niners",
-    "query": "Niners",
-    "rank": 7,
-    "tweet_count": "87.5K Tweets"
-  },
-  {
-    "name": "maddy",
-    "query": "maddy",
     "rank": 8,
-    "tweet_count": "56.2K Tweets"
+    "tweet_count": "287K Tweets"
   },
   {
-    "name": "Mahomes",
-    "query": "Mahomes",
+    "name": "#Chiefs",
+    "query": "#Chiefs",
     "rank": 9,
-    "tweet_count": "37.9K Tweets"
+    "tweet_count": "9,472 Tweets"
   },
   {
     "name": "Wordle 212 X",
@@ -60,21 +60,27 @@
     "tweet_count": null
   },
   {
-    "name": "Steelers",
-    "query": "Steelers",
+    "name": "#HereWeGo",
+    "query": "#HereWeGo",
     "rank": 11,
-    "tweet_count": "157K Tweets"
+    "tweet_count": "46.1K Tweets"
   },
   {
     "name": "Mike McCarthy",
     "query": "\"Mike McCarthy\"",
     "rank": 12,
-    "tweet_count": "36.2K Tweets"
+    "tweet_count": "37.3K Tweets"
   },
   {
-    "name": "Deebo",
-    "query": "Deebo",
+    "name": "Mike Todd",
+    "query": "\"Mike Todd\"",
     "rank": 13,
-    "tweet_count": "50.2K Tweets"
+    "tweet_count": "5,467 Tweets"
+  },
+  {
+    "name": "Hail Mary",
+    "query": "\"Hail Mary\"",
+    "rank": 14,
+    "tweet_count": "5,174 Tweets"
   }
 ]
