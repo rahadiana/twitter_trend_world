@@ -12,22 +12,22 @@
     "tweet_count": null
   },
   {
-    "name": "Milan",
-    "query": "Milan",
-    "rank": 3,
-    "tweet_count": "62.3K Tweets"
-  },
-  {
     "name": "Philip Jönsson",
     "query": "\"Philip Jönsson\"",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#handboll",
     "query": "#handboll",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "Milan",
+    "query": "Milan",
+    "rank": 5,
+    "tweet_count": "63.3K Tweets"
   },
   {
     "name": "Nils van der Poel",
@@ -57,66 +57,66 @@
     "name": "Ryssland",
     "query": "Ryssland",
     "rank": 10,
-    "tweet_count": "2,121 Tweets"
+    "tweet_count": "2,138 Tweets"
   },
   {
     "name": "Farmanbar",
     "query": "Farmanbar",
     "rank": 11,
-    "tweet_count": "1,187 Tweets"
+    "tweet_count": "1,191 Tweets"
   },
   {
-    "name": "Forsmark",
-    "query": "Forsmark",
+    "name": "Spezia",
+    "query": "Spezia",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "21.4K Tweets"
+  },
+  {
+    "name": "Genoa",
+    "query": "Genoa",
+    "rank": 13,
+    "tweet_count": "6,046 Tweets"
   },
   {
     "name": "Gotland",
     "query": "Gotland",
-    "rank": 13,
-    "tweet_count": "3,158 Tweets"
+    "rank": 14,
+    "tweet_count": "3,182 Tweets"
+  },
+  {
+    "name": "Forsmark",
+    "query": "Forsmark",
+    "rank": 15,
+    "tweet_count": null
   },
   {
     "name": "Raoul Wallenberg",
     "query": "\"Raoul Wallenberg\"",
-    "rank": 14,
-    "tweet_count": "1,729 Tweets"
+    "rank": 16,
+    "tweet_count": "1,753 Tweets"
   },
   {
     "name": "Cassie",
     "query": "Cassie",
-    "rank": 15,
-    "tweet_count": "280K Tweets"
+    "rank": 17,
+    "tweet_count": "282K Tweets"
   },
   {
     "name": "NATO",
     "query": "NATO",
-    "rank": 16,
-    "tweet_count": "44K Tweets"
+    "rank": 18,
+    "tweet_count": "44.5K Tweets"
+  },
+  {
+    "name": "frankrike",
+    "query": "frankrike",
+    "rank": 19,
+    "tweet_count": "1,407 Tweets"
   },
   {
     "name": "#MLKDay",
     "query": "#MLKDay",
-    "rank": 17,
-    "tweet_count": "378K Tweets"
-  },
-  {
-    "name": "Kiev",
-    "query": "Kiev",
-    "rank": 18,
-    "tweet_count": "4,461 Tweets"
-  },
-  {
-    "name": "San Siro",
-    "query": "\"San Siro\"",
-    "rank": 19,
-    "tweet_count": "3,567 Tweets"
-  },
-  {
-    "name": "Frankrike",
-    "query": "Frankrike",
     "rank": 20,
-    "tweet_count": "1,395 Tweets"
+    "tweet_count": "384K Tweets"
   }
 ]
