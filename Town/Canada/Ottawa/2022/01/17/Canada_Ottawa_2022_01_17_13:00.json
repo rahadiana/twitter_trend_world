@@ -1,45 +1,45 @@
 [
   {
-    "name": "#Toronto",
-    "query": "#Toronto",
-    "rank": 1,
-    "tweet_count": "3,354 Tweets"
-  },
-  {
     "name": "#ONStorm",
     "query": "#ONStorm",
-    "rank": 2,
-    "tweet_count": "14K Tweets"
+    "rank": 1,
+    "tweet_count": "14.5K Tweets"
   },
   {
     "name": "#snowday",
     "query": "#snowday",
-    "rank": 3,
-    "tweet_count": "4,057 Tweets"
+    "rank": 2,
+    "tweet_count": "4,283 Tweets"
   },
   {
     "name": "#BettyWhiteChallenge",
     "query": "#BettyWhiteChallenge",
+    "rank": 3,
+    "tweet_count": "14.2K Tweets"
+  },
+  {
+    "name": "#blizzard",
+    "query": "#blizzard",
     "rank": 4,
-    "tweet_count": "13.6K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#BlueMonday",
     "query": "#BlueMonday",
     "rank": 5,
-    "tweet_count": "50.9K Tweets"
+    "tweet_count": "52.8K Tweets"
   },
   {
     "name": "Mother Nature",
     "query": "\"Mother Nature\"",
     "rank": 6,
-    "tweet_count": "8,392 Tweets"
+    "tweet_count": "8,548 Tweets"
   },
   {
     "name": "CLOSED",
     "query": "CLOSED",
     "rank": 7,
-    "tweet_count": "121K Tweets"
+    "tweet_count": "123K Tweets"
   },
   {
     "name": "Google Classroom",
@@ -51,72 +51,72 @@
     "name": "TDSB",
     "query": "TDSB",
     "rank": 9,
-    "tweet_count": "9,279 Tweets"
+    "tweet_count": "9,421 Tweets"
   },
   {
     "name": "Environment Canada",
     "query": "\"Environment Canada\"",
     "rank": 10,
-    "tweet_count": "1,653 Tweets"
+    "tweet_count": "1,683 Tweets"
   },
   {
-    "name": "Niagara",
-    "query": "Niagara",
+    "name": "Southern Ontario",
+    "query": "\"Southern Ontario\"",
     "rank": 11,
-    "tweet_count": "3,965 Tweets"
+    "tweet_count": "2,037 Tweets"
   },
   {
     "name": "Le Mot",
     "query": "\"Le Mot\"",
     "rank": 12,
-    "tweet_count": "13.7K Tweets"
+    "tweet_count": "13.9K Tweets"
   },
   {
     "name": "cassie",
     "query": "cassie",
     "rank": 13,
-    "tweet_count": "199K Tweets"
+    "tweet_count": "200K Tweets"
   },
   {
-    "name": "lexi",
-    "query": "lexi",
+    "name": "#Toronto",
+    "query": "#Toronto",
     "rank": 14,
-    "tweet_count": "144K Tweets"
-  },
-  {
-    "name": "#blizzard",
-    "query": "#blizzard",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "#MondayMorning",
-    "query": "#MondayMorning",
-    "rank": 16,
-    "tweet_count": "11K Tweets"
-  },
-  {
-    "name": "#MLKDay",
-    "query": "#MLKDay",
-    "rank": 17,
-    "tweet_count": "57.7K Tweets"
+    "tweet_count": "3,480 Tweets"
   },
   {
     "name": "#MondayMotivation",
     "query": "#MondayMotivation",
+    "rank": 15,
+    "tweet_count": "65.9K Tweets"
+  },
+  {
+    "name": "#MLKDay",
+    "query": "#MLKDay",
+    "rank": 16,
+    "tweet_count": "62.2K Tweets"
+  },
+  {
+    "name": "#WinterStorm",
+    "query": "#WinterStorm",
+    "rank": 17,
+    "tweet_count": "3,093 Tweets"
+  },
+  {
+    "name": "#Wordle212",
+    "query": "#Wordle212",
     "rank": 18,
-    "tweet_count": "64.1K Tweets"
+    "tweet_count": "1,531 Tweets"
+  },
+  {
+    "name": "#MondayMorning",
+    "query": "#MondayMorning",
+    "rank": 19,
+    "tweet_count": "11.3K Tweets"
   },
   {
     "name": "#dlws",
     "query": "#dlws",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "#winterstorm",
-    "query": "#winterstorm",
     "rank": 20,
-    "tweet_count": "3,039 Tweets"
+    "tweet_count": null
   }
 ]
