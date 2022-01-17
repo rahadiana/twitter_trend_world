@@ -1,69 +1,69 @@
 [
   {
+    "name": "The BBC",
+    "query": "\"The BBC\"",
+    "rank": 1,
+    "tweet_count": "414K Tweets"
+  },
+  {
+    "name": "#Newsnight",
+    "query": "#Newsnight",
+    "rank": 2,
+    "tweet_count": "2,489 Tweets"
+  },
+  {
     "name": "#UniversityChallenge",
     "query": "#UniversityChallenge",
-    "rank": 1,
-    "tweet_count": "1,837 Tweets"
+    "rank": 3,
+    "tweet_count": "1,849 Tweets"
   },
   {
     "name": "Hatate",
     "query": "Hatate",
-    "rank": 2,
-    "tweet_count": "4,973 Tweets"
-  },
-  {
-    "name": "#CelebsGoDating",
-    "query": "#CelebsGoDating",
-    "rank": 3,
-    "tweet_count": null
+    "rank": 4,
+    "tweet_count": "5,225 Tweets"
   },
   {
     "name": "Burnley",
     "query": "Burnley",
-    "rank": 4,
-    "tweet_count": "14.9K Tweets"
+    "rank": 5,
+    "tweet_count": "15.1K Tweets"
+  },
+  {
+    "name": "#CelebsGoDating",
+    "query": "#CelebsGoDating",
+    "rank": 6,
+    "tweet_count": null
   },
   {
     "name": "#WolfMoon",
     "query": "#WolfMoon",
-    "rank": 5,
-    "tweet_count": "6,335 Tweets"
+    "rank": 7,
+    "tweet_count": "6,426 Tweets"
   },
   {
     "name": "Hibs",
     "query": "Hibs",
-    "rank": 6,
-    "tweet_count": "2,994 Tweets"
-  },
-  {
-    "name": "#onlyconnect",
-    "query": "#onlyconnect",
-    "rank": 7,
-    "tweet_count": null
+    "rank": 8,
+    "tweet_count": "3,061 Tweets"
   },
   {
     "name": "Nadine Dorries",
     "query": "\"Nadine Dorries\"",
-    "rank": 8,
-    "tweet_count": "42.5K Tweets"
-  },
-  {
-    "name": "Steve Bray",
-    "query": "\"Steve Bray\"",
     "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Vlahovic",
-    "query": "Vlahovic",
-    "rank": 10,
-    "tweet_count": "15.8K Tweets"
+    "tweet_count": "43.5K Tweets"
   },
   {
     "name": "Lords",
     "query": "Lords",
+    "rank": 10,
+    "tweet_count": "50.3K Tweets"
+  },
+  {
+    "name": "Vlahovic",
+    "query": "Vlahovic",
     "rank": 11,
-    "tweet_count": "48.7K Tweets"
+    "tweet_count": "16.2K Tweets"
   },
   {
     "name": "Starfelt",
@@ -75,19 +75,19 @@
     "name": "Barnard Castle",
     "query": "\"Barnard Castle\"",
     "rank": 13,
-    "tweet_count": "1,834 Tweets"
-  },
-  {
-    "name": "Nisbet",
-    "query": "Nisbet",
-    "rank": 14,
-    "tweet_count": null
+    "tweet_count": "1,938 Tweets"
   },
   {
     "name": "Joss Whedon",
     "query": "\"Joss Whedon\"",
+    "rank": 14,
+    "tweet_count": "50.9K Tweets"
+  },
+  {
+    "name": "Nisbet",
+    "query": "Nisbet",
     "rank": 15,
-    "tweet_count": "50K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Suhana",
@@ -99,18 +99,18 @@
     "name": "Cavs",
     "query": "Cavs",
     "rank": 17,
-    "tweet_count": "30.8K Tweets"
+    "tweet_count": "32.3K Tweets"
   },
   {
     "name": "Kyrie",
     "query": "Kyrie",
     "rank": 18,
-    "tweet_count": "13.6K Tweets"
+    "tweet_count": "13.9K Tweets"
   },
   {
     "name": "Mendy",
     "query": "Mendy",
     "rank": 19,
-    "tweet_count": "79.5K Tweets"
+    "tweet_count": "80.3K Tweets"
   }
 ]
