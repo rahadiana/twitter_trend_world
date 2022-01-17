@@ -1,15 +1,15 @@
 [
   {
-    "name": "Milan",
-    "query": "Milan",
-    "rank": 1,
-    "tweet_count": "57.6K Tweets"
-  },
-  {
     "name": "#idrottsgalan",
     "query": "#idrottsgalan",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Milan",
+    "query": "Milan",
+    "rank": 2,
+    "tweet_count": "60.2K Tweets"
   },
   {
     "name": "#HV71",
@@ -18,22 +18,22 @@
     "tweet_count": null
   },
   {
-    "name": "Putin",
-    "query": "Putin",
-    "rank": 4,
-    "tweet_count": "53.5K Tweets"
-  },
-  {
     "name": "Gotland",
     "query": "Gotland",
-    "rank": 5,
-    "tweet_count": "3,239 Tweets"
+    "rank": 4,
+    "tweet_count": "3,304 Tweets"
   },
   {
-    "name": "farmanbar",
-    "query": "farmanbar",
+    "name": "Putin",
+    "query": "Putin",
+    "rank": 5,
+    "tweet_count": "54.6K Tweets"
+  },
+  {
+    "name": "Farmanbar",
+    "query": "Farmanbar",
     "rank": 6,
-    "tweet_count": "1,246 Tweets"
+    "tweet_count": "1,260 Tweets"
   },
   {
     "name": "Eddie Meduza",
@@ -42,69 +42,69 @@
     "tweet_count": null
   },
   {
-    "name": "Cassie",
-    "query": "Cassie",
-    "rank": 8,
-    "tweet_count": "266K Tweets"
-  },
-  {
     "name": "Raoul Wallenberg",
     "query": "\"Raoul Wallenberg\"",
+    "rank": 8,
+    "tweet_count": "1,635 Tweets"
+  },
+  {
+    "name": "Forsmark",
+    "query": "Forsmark",
     "rank": 9,
-    "tweet_count": "1,582 Tweets"
+    "tweet_count": null
   },
   {
     "name": "NATO",
     "query": "NATO",
     "rank": 10,
-    "tweet_count": "43.3K Tweets"
+    "tweet_count": "44.1K Tweets"
+  },
+  {
+    "name": "Cassie",
+    "query": "Cassie",
+    "rank": 11,
+    "tweet_count": "270K Tweets"
   },
   {
     "name": "Kiev",
     "query": "Kiev",
-    "rank": 11,
-    "tweet_count": "4,205 Tweets"
-  },
-  {
-    "name": "Östersjön",
-    "query": "Östersjön",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "4,352 Tweets"
   },
   {
     "name": "#MLKDay",
     "query": "#MLKDay",
     "rank": 13,
-    "tweet_count": "334K Tweets"
+    "tweet_count": "348K Tweets"
   },
   {
-    "name": "Agenda",
-    "query": "Agenda",
+    "name": "#handboll",
+    "query": "#handboll",
     "rank": 14,
-    "tweet_count": "138K Tweets"
-  },
-  {
-    "name": "Dree Low",
-    "query": "\"Dree Low\"",
-    "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "Ronaldo",
-    "query": "Ronaldo",
-    "rank": 16,
-    "tweet_count": "93.4K Tweets"
-  },
-  {
-    "name": "Almtuna",
-    "query": "Almtuna",
-    "rank": 17,
+    "name": "Östersjön",
+    "query": "Östersjön",
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Frankrike",
     "query": "Frankrike",
+    "rank": 16,
+    "tweet_count": "1,403 Tweets"
+  },
+  {
+    "name": "Dree Low",
+    "query": "\"Dree Low\"",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Agenda",
+    "query": "Agenda",
     "rank": 18,
-    "tweet_count": "1,373 Tweets"
+    "tweet_count": "141K Tweets"
   }
 ]
