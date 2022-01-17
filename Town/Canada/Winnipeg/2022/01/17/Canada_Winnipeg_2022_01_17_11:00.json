@@ -1,39 +1,39 @@
 [
   {
-    "name": "Cowboys",
-    "query": "Cowboys",
-    "rank": 1,
-    "tweet_count": "590K Tweets"
-  },
-  {
     "name": "Snow Day",
     "query": "\"Snow Day\"",
+    "rank": 1,
+    "tweet_count": "24.3K Tweets"
+  },
+  {
+    "name": "Cowboys",
+    "query": "Cowboys",
     "rank": 2,
-    "tweet_count": "23.8K Tweets"
+    "tweet_count": "590K Tweets"
   },
   {
     "name": "#ONStorm",
     "query": "#ONStorm",
     "rank": 3,
-    "tweet_count": "10.6K Tweets"
+    "tweet_count": "10.8K Tweets"
   },
   {
     "name": "#EuphoriaHBOMax",
     "query": "#EuphoriaHBOMax",
     "rank": 4,
-    "tweet_count": "140K Tweets"
+    "tweet_count": "141K Tweets"
   },
   {
-    "name": "#TLMEP",
-    "query": "#TLMEP",
+    "name": "#tlmep",
+    "query": "#tlmep",
     "rank": 5,
-    "tweet_count": "3,844 Tweets"
+    "tweet_count": "3,876 Tweets"
   },
   {
-    "name": "#NFLPlayoffs",
-    "query": "#NFLPlayoffs",
+    "name": "Chiefs",
+    "query": "Chiefs",
     "rank": 6,
-    "tweet_count": "40.1K Tweets"
+    "tweet_count": "171K Tweets"
   },
   {
     "name": "#SFvsDAL",
@@ -45,78 +45,78 @@
     "name": "Eagles",
     "query": "Eagles",
     "rank": 8,
-    "tweet_count": "279K Tweets"
+    "tweet_count": "280K Tweets"
   },
   {
-    "name": "Chiefs",
-    "query": "Chiefs",
+    "name": "Steelers",
+    "query": "Steelers",
     "rank": 9,
-    "tweet_count": "171K Tweets"
+    "tweet_count": "235K Tweets"
   },
   {
     "name": "Mike McCarthy",
     "query": "\"Mike McCarthy\"",
     "rank": 10,
-    "tweet_count": "41.6K Tweets"
+    "tweet_count": "41.7K Tweets"
   },
   {
     "name": "Niners",
     "query": "Niners",
     "rank": 11,
-    "tweet_count": "94.6K Tweets"
-  },
-  {
-    "name": "Australia",
-    "query": "Australia",
-    "rank": 12,
-    "tweet_count": "460K Tweets"
-  },
-  {
-    "name": "Jimmy G",
-    "query": "\"Jimmy G\"",
-    "rank": 13,
-    "tweet_count": "48.7K Tweets"
+    "tweet_count": "94.7K Tweets"
   },
   {
     "name": "CLOSED",
     "query": "CLOSED",
-    "rank": 14,
-    "tweet_count": "117K Tweets"
+    "rank": 12,
+    "tweet_count": "119K Tweets"
   },
   {
-    "name": "Romo",
-    "query": "Romo",
-    "rank": 15,
-    "tweet_count": "32K Tweets"
-  },
-  {
-    "name": "Pats",
-    "query": "Pats",
-    "rank": 16,
-    "tweet_count": "26.3K Tweets"
-  },
-  {
-    "name": "Brady",
-    "query": "Brady",
-    "rank": 17,
-    "tweet_count": "112K Tweets"
+    "name": "#Yellowjackets",
+    "query": "#Yellowjackets",
+    "rank": 13,
+    "tweet_count": "15.9K Tweets"
   },
   {
     "name": "Mother Nature",
     "query": "\"Mother Nature\"",
-    "rank": 18,
-    "tweet_count": "7,592 Tweets"
+    "rank": 14,
+    "tweet_count": "7,675 Tweets"
   },
   {
-    "name": "taeyeon",
-    "query": "taeyeon",
+    "name": "Australia",
+    "query": "Australia",
+    "rank": 15,
+    "tweet_count": "464K Tweets"
+  },
+  {
+    "name": "Romo",
+    "query": "Romo",
+    "rank": 16,
+    "tweet_count": "32K Tweets"
+  },
+  {
+    "name": "Jimmy G",
+    "query": "\"Jimmy G\"",
+    "rank": 17,
+    "tweet_count": "48.7K Tweets"
+  },
+  {
+    "name": "jules",
+    "query": "jules",
+    "rank": 18,
+    "tweet_count": "97.7K Tweets"
+  },
+  {
+    "name": "Brady",
+    "query": "Brady",
     "rank": 19,
-    "tweet_count": "141K Tweets"
+    "tweet_count": "112K Tweets"
   },
   {
     "name": "Mahomes",
     "query": "Mahomes",
     "rank": 20,
-    "tweet_count": "61.8K Tweets"
+    "tweet_count": "61.9K Tweets"
   }
 ]
