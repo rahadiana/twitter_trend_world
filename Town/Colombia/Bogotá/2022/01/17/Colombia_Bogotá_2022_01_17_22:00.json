@@ -1,122 +1,122 @@
 [
   {
-    "name": "Messi",
-    "query": "Messi",
-    "rank": 1,
-    "tweet_count": "163K Tweets"
-  },
-  {
     "name": "Regina",
     "query": "Regina",
-    "rank": 2,
-    "tweet_count": "18.4K Tweets"
+    "rank": 1,
+    "tweet_count": "18.9K Tweets"
   },
   {
     "name": "#NoMás",
     "query": "#NoMás",
-    "rank": 3,
-    "tweet_count": "9,629 Tweets"
+    "rank": 2,
+    "tweet_count": "11K Tweets"
   },
   {
     "name": "Ibai",
     "query": "Ibai",
-    "rank": 4,
-    "tweet_count": "27.4K Tweets"
+    "rank": 3,
+    "tweet_count": "33.6K Tweets"
   },
   {
     "name": "#MiCamellónDeLaBahía",
     "query": "#MiCamellónDeLaBahía",
-    "rank": 5,
-    "tweet_count": null
+    "rank": 4,
+    "tweet_count": "2,430 Tweets"
   },
   {
     "name": "Jhonier Leal",
     "query": "\"Jhonier Leal\"",
-    "rank": 6,
-    "tweet_count": "1,167 Tweets"
-  },
-  {
-    "name": "Jagger",
-    "query": "Jagger",
-    "rank": 7,
-    "tweet_count": "25.2K Tweets"
+    "rank": 5,
+    "tweet_count": "1,461 Tweets"
   },
   {
     "name": "Mauricio Leal",
     "query": "\"Mauricio Leal\"",
-    "rank": 8,
-    "tweet_count": "2,097 Tweets"
+    "rank": 6,
+    "tweet_count": "2,308 Tweets"
   },
   {
     "name": "#saquelargowin",
     "query": "#saquelargowin",
-    "rank": 9,
+    "rank": 7,
     "tweet_count": null
+  },
+  {
+    "name": "Jagger",
+    "query": "Jagger",
+    "rank": 8,
+    "tweet_count": "26.2K Tweets"
   },
   {
     "name": "#pelaezdefranciscoenlaw",
     "query": "#pelaezdefranciscoenlaw",
-    "rank": 10,
-    "tweet_count": "1,731 Tweets"
+    "rank": 9,
+    "tweet_count": "1,740 Tweets"
   },
   {
     "name": "#esland",
     "query": "#esland",
-    "rank": 11,
-    "tweet_count": "22.6K Tweets"
+    "rank": 10,
+    "tweet_count": "25K Tweets"
   },
   {
     "name": "The Best",
     "query": "\"The Best\"",
+    "rank": 11,
+    "tweet_count": "1.52M Tweets"
+  },
+  {
+    "name": "Messi",
+    "query": "Messi",
     "rank": 12,
-    "tweet_count": "1.49M Tweets"
+    "tweet_count": "168K Tweets"
   },
   {
     "name": "Corferias",
     "query": "Corferias",
     "rank": 13,
-    "tweet_count": "2,873 Tweets"
+    "tweet_count": "3,372 Tweets"
+  },
+  {
+    "name": "Aldair",
+    "query": "Aldair",
+    "rank": 14,
+    "tweet_count": "1,499 Tweets"
+  },
+  {
+    "name": "Lewandowski",
+    "query": "Lewandowski",
+    "rank": 15,
+    "tweet_count": "82.5K Tweets"
   },
   {
     "name": "Bancolombia",
     "query": "Bancolombia",
-    "rank": 14,
-    "tweet_count": "11K Tweets"
-  },
-  {
-    "name": "FIFA",
-    "query": "FIFA",
-    "rank": 15,
-    "tweet_count": "268K Tweets"
-  },
-  {
-    "name": "Taganga",
-    "query": "Taganga",
     "rank": 16,
-    "tweet_count": "3,545 Tweets"
+    "tweet_count": "11.1K Tweets"
   },
   {
     "name": "Spezia",
     "query": "Spezia",
     "rank": 17,
-    "tweet_count": "22K Tweets"
+    "tweet_count": "22.6K Tweets"
   },
   {
-    "name": "Aldair",
-    "query": "Aldair",
+    "name": "Taganga",
+    "query": "Taganga",
     "rank": 18,
-    "tweet_count": "1,447 Tweets"
+    "tweet_count": "3,701 Tweets"
+  },
+  {
+    "name": "FIFA",
+    "query": "FIFA",
+    "rank": 19,
+    "tweet_count": "277K Tweets"
   },
   {
     "name": "Kevin Agudelo",
     "query": "\"Kevin Agudelo\"",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Cris",
-    "query": "Cris",
     "rank": 20,
-    "tweet_count": "36.3K Tweets"
+    "tweet_count": null
   }
 ]

@@ -1,39 +1,39 @@
 [
   {
-    "name": "The Best",
-    "query": "\"The Best\"",
-    "rank": 1,
-    "tweet_count": "1.49M Tweets"
-  },
-  {
     "name": "Ibai",
     "query": "Ibai",
-    "rank": 2,
-    "tweet_count": "27.6K Tweets"
+    "rank": 1,
+    "tweet_count": "33.7K Tweets"
   },
   {
     "name": "Fajardo",
     "query": "Fajardo",
+    "rank": 2,
+    "tweet_count": "6,439 Tweets"
+  },
+  {
+    "name": "The Best",
+    "query": "\"The Best\"",
     "rank": 3,
-    "tweet_count": "6,327 Tweets"
+    "tweet_count": "1.52M Tweets"
   },
   {
     "name": "Cooper",
     "query": "Cooper",
     "rank": 4,
-    "tweet_count": "24.4K Tweets"
+    "tweet_count": "24.8K Tweets"
   },
   {
     "name": "FIFA",
     "query": "FIFA",
     "rank": 5,
-    "tweet_count": "269K Tweets"
+    "tweet_count": "277K Tweets"
   },
   {
     "name": "#EuphoriaHBOMax",
     "query": "#EuphoriaHBOMax",
     "rank": 6,
-    "tweet_count": "181K Tweets"
+    "tweet_count": "183K Tweets"
   },
   {
     "name": "Changuinola",
@@ -45,7 +45,7 @@
     "name": "Jagger",
     "query": "Jagger",
     "rank": 8,
-    "tweet_count": "25.3K Tweets"
+    "tweet_count": "26.3K Tweets"
   },
   {
     "name": "ayarza",
@@ -57,13 +57,13 @@
     "name": "Cowboys",
     "query": "Cowboys",
     "rank": 10,
-    "tweet_count": "559K Tweets"
+    "tweet_count": "561K Tweets"
   },
   {
     "name": "Dallas",
     "query": "Dallas",
     "rank": 11,
-    "tweet_count": "182K Tweets"
+    "tweet_count": "183K Tweets"
   },
   {
     "name": "#nobtsnolife",
@@ -72,51 +72,51 @@
     "tweet_count": null
   },
   {
-    "name": "Modric",
-    "query": "Modric",
+    "name": "Rubén Blades",
+    "query": "\"Rubén Blades\"",
     "rank": 13,
-    "tweet_count": "55.5K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "adán sánchez",
+    "query": "\"adán sánchez\"",
+    "rank": 14,
+    "tweet_count": null
   },
   {
     "name": "Panamá",
     "query": "Panamá",
-    "rank": 14,
-    "tweet_count": "17.8K Tweets"
-  },
-  {
-    "name": "Perú",
-    "query": "Perú",
     "rank": 15,
-    "tweet_count": "79.6K Tweets"
-  },
-  {
-    "name": "Rubén Blades",
-    "query": "\"Rubén Blades\"",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "18.4K Tweets"
   },
   {
     "name": "Auron",
     "query": "Auron",
+    "rank": 16,
+    "tweet_count": "26.2K Tweets"
+  },
+  {
+    "name": "Perú",
+    "query": "Perú",
     "rank": 17,
-    "tweet_count": "23.1K Tweets"
-  },
-  {
-    "name": "Adán Sánchez",
-    "query": "\"Adán Sánchez\"",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Bocas del Toro",
-    "query": "\"Bocas del Toro\"",
-    "rank": 19,
-    "tweet_count": null
+    "tweet_count": "81.3K Tweets"
   },
   {
     "name": "Víctor Medina",
     "query": "\"Víctor Medina\"",
-    "rank": 20,
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Athletic",
+    "query": "Athletic",
+    "rank": 19,
+    "tweet_count": "26.5K Tweets"
+  },
+  {
+    "name": "Modric",
+    "query": "Modric",
+    "rank": 20,
+    "tweet_count": "56.1K Tweets"
   }
 ]
