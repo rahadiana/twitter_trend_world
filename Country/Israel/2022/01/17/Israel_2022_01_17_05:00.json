@@ -1,15 +1,15 @@
 [
   {
-    "name": "#Colleyville",
-    "query": "#Colleyville",
-    "rank": 1,
-    "tweet_count": "13.7K Tweets"
-  },
-  {
     "name": "בוקר טוב",
     "query": "\"בוקר טוב\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#Colleyville",
+    "query": "#Colleyville",
+    "rank": 2,
+    "tweet_count": "13.7K Tweets"
   },
   {
     "name": "שבוע טוב",
@@ -21,19 +21,19 @@
     "name": "אהרון ברק",
     "query": "\"אהרון ברק\"",
     "rank": 4,
-    "tweet_count": "2,572 Tweets"
+    "tweet_count": "2,591 Tweets"
   },
   {
     "name": "ינון מגל",
     "query": "\"ינון מגל\"",
     "rank": 5,
-    "tweet_count": "2,078 Tweets"
+    "tweet_count": "2,096 Tweets"
   },
   {
     "name": "#Antisemitism",
     "query": "#Antisemitism",
     "rank": 6,
-    "tweet_count": "4,856 Tweets"
+    "tweet_count": "4,885 Tweets"
   },
   {
     "name": "חג שמח",
@@ -42,80 +42,80 @@
     "tweet_count": null
   },
   {
-    "name": "Muhammad Siddiqui",
-    "query": "\"Muhammad Siddiqui\"",
-    "rank": 8,
-    "tweet_count": "1,313 Tweets"
-  },
-  {
     "name": "קשה יום",
     "query": "\"קשה יום\"",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "#tubishvat",
+    "query": "#tubishvat",
     "rank": 9,
     "tweet_count": null
   },
   {
+    "name": "Shabbat",
+    "query": "Shabbat",
+    "rank": 10,
+    "tweet_count": "7,703 Tweets"
+  },
+  {
     "name": "ברוך השם",
     "query": "\"ברוך השם\"",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "למה רק",
     "query": "\"למה רק\"",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Aafia Siddiqui",
     "query": "\"Aafia Siddiqui\"",
-    "rank": 12,
-    "tweet_count": "15.3K Tweets"
+    "rank": 13,
+    "tweet_count": "15.4K Tweets"
   },
   {
     "name": "Malik Faisal Akram",
     "query": "\"Malik Faisal Akram\"",
-    "rank": 13,
-    "tweet_count": "20.5K Tweets"
-  },
-  {
-    "name": "Shabbat",
-    "query": "Shabbat",
     "rank": 14,
-    "tweet_count": "7,652 Tweets"
-  },
-  {
-    "name": "#tubishvat",
-    "query": "#tubishvat",
-    "rank": 15,
-    "tweet_count": null
+    "tweet_count": "20.8K Tweets"
   },
   {
     "name": "בית כנסת",
     "query": "\"בית כנסת\"",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "מערכת המשפט",
     "query": "\"מערכת המשפט\"",
-    "rank": 17,
-    "tweet_count": "3,438 Tweets"
+    "rank": 16,
+    "tweet_count": "3,458 Tweets"
   },
   {
     "name": "רק שפעת",
     "query": "\"רק שפעת\"",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "בא לנו",
-    "query": "\"בא לנו\"",
-    "rank": 19,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "ישראל פריי",
     "query": "\"ישראל פריי\"",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "מיליון ש",
+    "query": "\"מיליון ש\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "אביעד שילוח",
+    "query": "\"אביעד שילוח\"",
     "rank": 20,
     "tweet_count": null
   }
