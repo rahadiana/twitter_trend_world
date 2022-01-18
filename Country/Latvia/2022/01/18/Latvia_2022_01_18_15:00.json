@@ -1,7 +1,7 @@
 [
   {
-    "name": "gauja",
-    "query": "gauja",
+    "name": "Gauja",
+    "query": "Gauja",
     "rank": 1,
     "tweet_count": null
   },
@@ -15,7 +15,7 @@
     "name": "Venta",
     "query": "Venta",
     "rank": 3,
-    "tweet_count": "38K Tweets"
+    "tweet_count": "39.1K Tweets"
   },
   {
     "name": "ukrainai",
@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "Apple",
-    "query": "Apple",
+    "name": "Ķīna",
+    "query": "Ķīna",
     "rank": 5,
-    "tweet_count": "350K Tweets"
+    "tweet_count": "10.1K Tweets"
   },
   {
-    "name": "pekinas",
-    "query": "pekinas",
+    "name": "Apple",
+    "query": "Apple",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "359K Tweets"
   },
   {
     "name": "bauskas",
@@ -42,50 +42,50 @@
     "tweet_count": null
   },
   {
-    "name": "German",
-    "query": "German",
+    "name": "China",
+    "query": "China",
     "rank": 8,
-    "tweet_count": "58.2K Tweets"
+    "tweet_count": "293K Tweets"
   },
   {
-    "name": "vispār",
-    "query": "vispār",
+    "name": "German",
+    "query": "German",
     "rank": 9,
+    "tweet_count": "59.6K Tweets"
+  },
+  {
+    "name": "Vispār",
+    "query": "Vispār",
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "jūrmalā",
     "query": "jūrmalā",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "jelgavas",
     "query": "jelgavas",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "manā",
-    "query": "manā",
-    "rank": 12,
-    "tweet_count": "183K Tweets"
+    "name": "Manā",
+    "query": "Manā",
+    "rank": 13,
+    "tweet_count": "188K Tweets"
   },
   {
     "name": "Zane",
     "query": "Zane",
-    "rank": 13,
-    "tweet_count": "2,900 Tweets"
-  },
-  {
-    "name": "ja tev",
-    "query": "\"ja tev\"",
     "rank": 14,
-    "tweet_count": null
+    "tweet_count": "2,989 Tweets"
   },
   {
-    "name": "Skaidrs",
-    "query": "Skaidrs",
+    "name": "skaidrs",
+    "query": "skaidrs",
     "rank": 15,
     "tweet_count": null
   },
@@ -93,30 +93,30 @@
     "name": "Bolt",
     "query": "Bolt",
     "rank": 16,
-    "tweet_count": "8,853 Tweets"
+    "tweet_count": "9,061 Tweets"
   },
   {
-    "name": "Lieliski",
-    "query": "Lieliski",
+    "name": "Ja Tev",
+    "query": "\"Ja Tev\"",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "COVID-19",
-    "query": "COVID-19",
-    "rank": 18,
-    "tweet_count": "461K Tweets"
-  },
-  {
     "name": "vairāk",
     "query": "vairāk",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Dievam",
     "query": "Dievam",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "COVID-19",
+    "query": "COVID-19",
+    "rank": 20,
+    "tweet_count": "475K Tweets"
   }
 ]
