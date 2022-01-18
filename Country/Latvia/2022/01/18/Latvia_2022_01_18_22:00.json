@@ -15,7 +15,7 @@
     "name": "Microsoft",
     "query": "Microsoft",
     "rank": 3,
-    "tweet_count": "491K Tweets"
+    "tweet_count": "503K Tweets"
   },
   {
     "name": "Vācija",
@@ -27,13 +27,13 @@
     "name": "ķīna",
     "query": "ķīna",
     "rank": 5,
-    "tweet_count": "9,632 Tweets"
+    "tweet_count": "9,809 Tweets"
   },
   {
     "name": "Apple",
     "query": "Apple",
     "rank": 6,
-    "tweet_count": "366K Tweets"
+    "tweet_count": "374K Tweets"
   },
   {
     "name": "ukrainai",
@@ -45,13 +45,13 @@
     "name": "Germany",
     "query": "Germany",
     "rank": 8,
-    "tweet_count": "78.8K Tweets"
+    "tweet_count": "80.5K Tweets"
   },
   {
-    "name": "Bolt",
-    "query": "Bolt",
+    "name": "bolt",
+    "query": "bolt",
     "rank": 9,
-    "tweet_count": "8,900 Tweets"
+    "tweet_count": "9,102 Tweets"
   },
   {
     "name": "skaidrs",
@@ -60,20 +60,20 @@
     "tweet_count": null
   },
   {
-    "name": "visu",
-    "query": "visu",
-    "rank": 11,
-    "tweet_count": "1,258 Tweets"
-  },
-  {
     "name": "ja tev",
     "query": "\"ja tev\"",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "jūrmalā",
+    "query": "jūrmalā",
     "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "Jūrmalā",
-    "query": "Jūrmalā",
+    "name": "Pavļuts",
+    "query": "Pavļuts",
     "rank": 13,
     "tweet_count": null
   },
@@ -93,29 +93,29 @@
     "name": "manā",
     "query": "manā",
     "rank": 16,
-    "tweet_count": "185K Tweets"
+    "tweet_count": "187K Tweets"
   },
   {
-    "name": "dievam",
-    "query": "dievam",
+    "name": "Tikmēr",
+    "query": "Tikmēr",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Pavļuts",
-    "query": "Pavļuts",
+    "name": "dievam",
+    "query": "dievam",
     "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "vakar",
-    "query": "vakar",
-    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "jelgavā",
     "query": "jelgavā",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Bauskas",
+    "query": "Bauskas",
     "rank": 20,
     "tweet_count": null
   }
