@@ -1,104 +1,110 @@
 [
   {
-    "name": "#GoodbyeDeutschland",
-    "query": "#GoodbyeDeutschland",
-    "rank": 1,
-    "tweet_count": "2,988 Tweets"
-  },
-  {
     "name": "#SperrtSHomburg",
     "query": "#SperrtSHomburg",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "#agrarkongress",
+    "query": "#agrarkongress",
     "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "Mantel",
-    "query": "Mantel",
+    "name": "#Baerbock",
+    "query": "#Baerbock",
     "rank": 3,
-    "tweet_count": "1,317 Tweets"
+    "tweet_count": "4,941 Tweets"
   },
   {
-    "name": "blau",
-    "query": "blau",
+    "name": "Blau",
+    "query": "Blau",
     "rank": 4,
-    "tweet_count": "4,086 Tweets"
+    "tweet_count": "4,153 Tweets"
+  },
+  {
+    "name": "Mantel",
+    "query": "Mantel",
+    "rank": 5,
+    "tweet_count": "1,345 Tweets"
   },
   {
     "name": "Moon Knight",
     "query": "\"Moon Knight\"",
-    "rank": 5,
-    "tweet_count": "107K Tweets"
+    "rank": 6,
+    "tweet_count": "188K Tweets"
   },
   {
     "name": "Wordle 213 X",
     "query": "\"Wordle 213 X\"",
-    "rank": 6,
-    "tweet_count": "7,077 Tweets"
+    "rank": 7,
+    "tweet_count": "7,194 Tweets"
   },
   {
     "name": "Abtreibung",
     "query": "Abtreibung",
-    "rank": 7,
-    "tweet_count": "1,613 Tweets"
-  },
-  {
-    "name": "Sachsen-Anhalt",
-    "query": "Sachsen-Anhalt",
     "rank": 8,
-    "tweet_count": "3,787 Tweets"
-  },
-  {
-    "name": "Außenminister",
-    "query": "Außenminister",
-    "rank": 9,
-    "tweet_count": null
+    "tweet_count": "1,642 Tweets"
   },
   {
     "name": "Sender",
     "query": "Sender",
-    "rank": 10,
-    "tweet_count": "28K Tweets"
+    "rank": 9,
+    "tweet_count": "28.3K Tweets"
   },
   {
-    "name": "Morddrohungen",
-    "query": "Morddrohungen",
+    "name": "Sachsen-Anhalt",
+    "query": "Sachsen-Anhalt",
+    "rank": 10,
+    "tweet_count": "3,839 Tweets"
+  },
+  {
+    "name": "morddrohungen",
+    "query": "morddrohungen",
     "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "Außenminister",
+    "query": "Außenminister",
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Schwangerschaft",
     "query": "Schwangerschaft",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "Abschaffung",
-    "query": "Abschaffung",
-    "rank": 13,
-    "tweet_count": "1,938 Tweets"
-  },
-  {
-    "name": "PCR Tests",
-    "query": "\"PCR Tests\"",
+    "name": "PCR-Tests",
+    "query": "PCR-Tests",
     "rank": 14,
-    "tweet_count": "11.1K Tweets"
+    "tweet_count": "1,812 Tweets"
   },
   {
     "name": "Rundfunk",
     "query": "Rundfunk",
     "rank": 15,
-    "tweet_count": "1,312 Tweets"
+    "tweet_count": "1,339 Tweets"
+  },
+  {
+    "name": "Abschaffung",
+    "query": "Abschaffung",
+    "rank": 16,
+    "tweet_count": "1,956 Tweets"
   },
   {
     "name": "Außenpolitik",
     "query": "Außenpolitik",
-    "rank": 16,
-    "tweet_count": "1,798 Tweets"
+    "rank": 17,
+    "tweet_count": "1,818 Tweets"
   },
   {
-    "name": "#Agrarkongress",
-    "query": "#Agrarkongress",
-    "rank": 17,
+    "name": "#Zwayer",
+    "query": "#Zwayer",
+    "rank": 18,
     "tweet_count": null
   }
 ]
