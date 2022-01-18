@@ -1,49 +1,49 @@
 [
   {
+    "name": "Microsoft",
+    "query": "Microsoft",
+    "rank": 1,
+    "tweet_count": "110K Tweets"
+  },
+  {
     "name": "Carlos Daniel",
     "query": "\"Carlos Daniel\"",
-    "rank": 1,
-    "tweet_count": "1,312 Tweets"
+    "rank": 2,
+    "tweet_count": "1,319 Tweets"
   },
   {
     "name": "#bbtvi",
     "query": "#bbtvi",
-    "rank": 2,
-    "tweet_count": "9,285 Tweets"
+    "rank": 3,
+    "tweet_count": "9,445 Tweets"
   },
   {
     "name": "Milan",
     "query": "Milan",
-    "rank": 3,
-    "tweet_count": "77.9K Tweets"
+    "rank": 4,
+    "tweet_count": "78.6K Tweets"
   },
   {
     "name": "#BBB22",
     "query": "#BBB22",
-    "rank": 4,
-    "tweet_count": "1.49M Tweets"
+    "rank": 5,
+    "tweet_count": "1.5M Tweets"
   },
   {
     "name": "Fernando Santos",
     "query": "\"Fernando Santos\"",
-    "rank": 5,
-    "tweet_count": "1,202 Tweets"
-  },
-  {
-    "name": "João Ferreira",
-    "query": "\"João Ferreira\"",
     "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "Microsoft",
-    "query": "Microsoft",
-    "rank": 7,
-    "tweet_count": "73.4K Tweets"
+    "tweet_count": "1,207 Tweets"
   },
   {
     "name": "#thevoicept",
     "query": "#thevoicept",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "João Ferreira",
+    "query": "\"João Ferreira\"",
     "rank": 8,
     "tweet_count": null
   },
@@ -51,7 +51,7 @@
     "name": "Messi",
     "query": "Messi",
     "rank": 9,
-    "tweet_count": "229K Tweets"
+    "tweet_count": "231K Tweets"
   },
   {
     "name": "Checoslováquia",
@@ -69,25 +69,25 @@
     "name": "Edmundo",
     "query": "Edmundo",
     "rank": 12,
-    "tweet_count": "2,363 Tweets"
+    "tweet_count": "2,390 Tweets"
   },
   {
     "name": "Observador",
     "query": "Observador",
     "rank": 13,
-    "tweet_count": "3,030 Tweets"
+    "tweet_count": "3,086 Tweets"
   },
   {
-    "name": "varandas",
-    "query": "varandas",
+    "name": "Varandas",
+    "query": "Varandas",
     "rank": 14,
-    "tweet_count": "1,312 Tweets"
+    "tweet_count": "1,357 Tweets"
   },
   {
     "name": "Leandro",
     "query": "Leandro",
     "rank": 15,
-    "tweet_count": "10.6K Tweets"
+    "tweet_count": "10.7K Tweets"
   },
   {
     "name": "#canal11futeboltotal",
@@ -99,24 +99,24 @@
     "name": "The Best",
     "query": "\"The Best\"",
     "rank": 17,
-    "tweet_count": "1.38M Tweets"
+    "tweet_count": "1.07M Tweets"
   },
   {
     "name": "Riso",
     "query": "Riso",
     "rank": 18,
-    "tweet_count": "7,824 Tweets"
+    "tweet_count": "7,923 Tweets"
   },
   {
     "name": "Gobert",
     "query": "Gobert",
     "rank": 19,
-    "tweet_count": "44.8K Tweets"
+    "tweet_count": "45.2K Tweets"
   },
   {
-    "name": "Lamela",
-    "query": "Lamela",
+    "name": "Cassie",
+    "query": "Cassie",
     "rank": 20,
-    "tweet_count": "24.9K Tweets"
+    "tweet_count": "163K Tweets"
   }
 ]
