@@ -1,15 +1,15 @@
 [
   {
-    "name": "Activision Blizzard",
-    "query": "\"Activision Blizzard\"",
+    "name": "Microsoft",
+    "query": "Microsoft",
     "rank": 1,
-    "tweet_count": "115K Tweets"
+    "tweet_count": "203K Tweets"
   },
   {
     "name": "Banaś",
     "query": "Banaś",
     "rank": 2,
-    "tweet_count": "3,386 Tweets"
+    "tweet_count": "3,505 Tweets"
   },
   {
     "name": "Jebać PiS",
@@ -21,19 +21,19 @@
     "name": "Niemcy",
     "query": "Niemcy",
     "rank": 4,
-    "tweet_count": "12.7K Tweets"
+    "tweet_count": "12.8K Tweets"
   },
   {
     "name": "Ukrainy",
     "query": "Ukrainy",
     "rank": 5,
-    "tweet_count": "6,003 Tweets"
+    "tweet_count": "6,076 Tweets"
   },
   {
     "name": "#Pegasus",
     "query": "#Pegasus",
     "rank": 6,
-    "tweet_count": "6,654 Tweets"
+    "tweet_count": "6,759 Tweets"
   },
   {
     "name": "Parlamentu Europejskiego",
@@ -42,39 +42,39 @@
     "tweet_count": null
   },
   {
-    "name": "#telefonzaufania",
-    "query": "#telefonzaufania",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "#MoonKnight",
     "query": "#MoonKnight",
-    "rank": 9,
-    "tweet_count": "129K Tweets"
+    "rank": 8,
+    "tweet_count": "130K Tweets"
   },
   {
     "name": "Hoca",
     "query": "Hoca",
-    "rank": 10,
-    "tweet_count": "24.2K Tweets"
+    "rank": 9,
+    "tweet_count": "24.4K Tweets"
   },
   {
     "name": "NATO",
     "query": "NATO",
-    "rank": 11,
-    "tweet_count": "49.4K Tweets"
+    "rank": 10,
+    "tweet_count": "50K Tweets"
   },
   {
     "name": "Niemcom",
     "query": "Niemcom",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "#ratujmydzieci",
     "query": "#ratujmydzieci",
+    "rank": 12,
+    "tweet_count": "6,808 Tweets"
+  },
+  {
+    "name": "telefon zaufania",
+    "query": "\"telefon zaufania\"",
     "rank": 13,
-    "tweet_count": "6,795 Tweets"
+    "tweet_count": "13.5K Tweets"
   }
 ]
