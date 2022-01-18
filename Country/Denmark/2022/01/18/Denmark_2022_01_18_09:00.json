@@ -1,31 +1,31 @@
 [
   {
+    "name": "#demokratisksamtale",
+    "query": "#demokratisksamtale",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "#dkpol",
     "query": "#dkpol",
-    "rank": 1,
-    "tweet_count": "2,827 Tweets"
+    "rank": 2,
+    "tweet_count": "2,945 Tweets"
   },
   {
     "name": "#dkgreen",
     "query": "#dkgreen",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#obdk",
     "query": "#obdk",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "#barndommensusynligestadion",
     "query": "#barndommensusynligestadion",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "#uddpol",
-    "query": "#uddpol",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,7 +33,7 @@
     "name": "Spezia",
     "query": "Spezia",
     "rank": 6,
-    "tweet_count": "26.7K Tweets"
+    "tweet_count": "27K Tweets"
   },
   {
     "name": "tv2 play",
@@ -45,13 +45,13 @@
     "name": "Milan",
     "query": "Milan",
     "rank": 8,
-    "tweet_count": "72.3K Tweets"
+    "tweet_count": "73.3K Tweets"
   },
   {
     "name": "Christian Eriksen",
     "query": "\"Christian Eriksen\"",
     "rank": 9,
-    "tweet_count": "9,234 Tweets"
+    "tweet_count": "9,282 Tweets"
   },
   {
     "name": "mandag",
@@ -69,13 +69,13 @@
     "name": "PCR-Test",
     "query": "PCR-Test",
     "rank": 12,
-    "tweet_count": "2,692 Tweets"
+    "tweet_count": "2,758 Tweets"
   },
   {
-    "name": "coronapas",
-    "query": "coronapas",
+    "name": "Coronapas",
+    "query": "Coronapas",
     "rank": 13,
-    "tweet_count": "3,364 Tweets"
+    "tweet_count": "3,588 Tweets"
   },
   {
     "name": "uhre",
@@ -84,10 +84,10 @@
     "tweet_count": null
   },
   {
-    "name": "Lexi",
-    "query": "Lexi",
+    "name": "lexi",
+    "query": "lexi",
     "rank": 15,
-    "tweet_count": "181K Tweets"
+    "tweet_count": "182K Tweets"
   },
   {
     "name": "Cassie",
@@ -99,7 +99,7 @@
     "name": "HBO Max",
     "query": "\"HBO Max\"",
     "rank": 17,
-    "tweet_count": "27.9K Tweets"
+    "tweet_count": "28.1K Tweets"
   },
   {
     "name": "Cowboys",
@@ -111,12 +111,12 @@
     "name": "Brentford",
     "query": "Brentford",
     "rank": 19,
-    "tweet_count": "13.4K Tweets"
+    "tweet_count": "13.5K Tweets"
   },
   {
     "name": "Ukraine",
     "query": "Ukraine",
     "rank": 20,
-    "tweet_count": "106K Tweets"
+    "tweet_count": "108K Tweets"
   }
 ]
