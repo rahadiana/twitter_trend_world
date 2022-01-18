@@ -3,19 +3,19 @@
     "name": "Microsoft",
     "query": "Microsoft",
     "rank": 1,
-    "tweet_count": "503K Tweets"
-  },
-  {
-    "name": "Xbox",
-    "query": "Xbox",
-    "rank": 2,
-    "tweet_count": "385K Tweets"
+    "tweet_count": "510K Tweets"
   },
   {
     "name": "#NFTCommmunity",
     "query": "#NFTCommmunity",
+    "rank": 2,
+    "tweet_count": "157K Tweets"
+  },
+  {
+    "name": "מדינה יהודית",
+    "query": "\"מדינה יהודית\"",
     "rank": 3,
-    "tweet_count": "155K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#מבצע_דוגו",
@@ -27,7 +27,7 @@
     "name": "Ukraine",
     "query": "Ukraine",
     "rank": 5,
-    "tweet_count": "143K Tweets"
+    "tweet_count": "146K Tweets"
   },
   {
     "name": "#MLKDay",
@@ -39,31 +39,31 @@
     "name": "Abu Dhabi",
     "query": "\"Abu Dhabi\"",
     "rank": 7,
-    "tweet_count": "20.4K Tweets"
+    "tweet_count": "20.6K Tweets"
   },
   {
-    "name": "מדינה יהודית",
-    "query": "\"מדינה יהודית\"",
+    "name": "#SaveSheikhJarrah",
+    "query": "#SaveSheikhJarrah",
     "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "פרסום ראשון",
-    "query": "\"פרסום ראשון\"",
-    "rank": 9,
-    "tweet_count": null
+    "tweet_count": "8,252 Tweets"
   },
   {
     "name": "רז מאיר",
     "query": "\"רז מאיר\"",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Houthis",
     "query": "Houthis",
+    "rank": 10,
+    "tweet_count": "11.2K Tweets"
+  },
+  {
+    "name": "יאיר לפיד",
+    "query": "\"יאיר לפיד\"",
     "rank": 11,
-    "tweet_count": "11.1K Tweets"
+    "tweet_count": "1,340 Tweets"
   },
   {
     "name": "gush etzion",
@@ -72,50 +72,50 @@
     "tweet_count": null
   },
   {
-    "name": "יאיר לפיד",
-    "query": "\"יאיר לפיד\"",
-    "rank": 13,
-    "tweet_count": "1,321 Tweets"
-  },
-  {
-    "name": "#SaveSheikhJarrah",
-    "query": "#SaveSheikhJarrah",
-    "rank": 14,
-    "tweet_count": "8,219 Tweets"
-  },
-  {
     "name": "West Bank",
     "query": "\"West Bank\"",
-    "rank": 15,
-    "tweet_count": "3,408 Tweets"
-  },
-  {
-    "name": "Turkey",
-    "query": "Turkey",
-    "rank": 16,
-    "tweet_count": "47.2K Tweets"
-  },
-  {
-    "name": "מכבי חיפה",
-    "query": "\"מכבי חיפה\"",
-    "rank": 17,
-    "tweet_count": null
+    "rank": 13,
+    "tweet_count": "3,428 Tweets"
   },
   {
     "name": "עם שלם",
     "query": "\"עם שלם\"",
-    "rank": 18,
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Turkey",
+    "query": "Turkey",
+    "rank": 15,
+    "tweet_count": "47.9K Tweets"
+  },
+  {
+    "name": "מכבי חיפה",
+    "query": "\"מכבי חיפה\"",
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "NSO's Pegasus",
     "query": "\"NSO's Pegasus\"",
-    "rank": 19,
-    "tweet_count": "1,091 Tweets"
+    "rank": 17,
+    "tweet_count": "1,098 Tweets"
   },
   {
     "name": "בר לב",
     "query": "\"בר לב\"",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "של גנץ",
+    "query": "\"של גנץ\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "רוני לוי",
+    "query": "\"רוני לוי\"",
     "rank": 20,
     "tweet_count": null
   }

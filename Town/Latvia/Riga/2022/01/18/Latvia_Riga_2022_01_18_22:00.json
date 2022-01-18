@@ -15,7 +15,7 @@
     "name": "Microsoft",
     "query": "Microsoft",
     "rank": 3,
-    "tweet_count": "503K Tweets"
+    "tweet_count": "510K Tweets"
   },
   {
     "name": "Vācija",
@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "ķīna",
-    "query": "ķīna",
+    "name": "Ķīna",
+    "query": "Ķīna",
     "rank": 5,
-    "tweet_count": "9,800 Tweets"
+    "tweet_count": "9,967 Tweets"
   },
   {
     "name": "Apple",
     "query": "Apple",
     "rank": 6,
-    "tweet_count": "373K Tweets"
+    "tweet_count": "378K Tweets"
   },
   {
     "name": "ukrainai",
@@ -45,55 +45,55 @@
     "name": "Germany",
     "query": "Germany",
     "rank": 8,
-    "tweet_count": "80.4K Tweets"
+    "tweet_count": "81.5K Tweets"
+  },
+  {
+    "name": "China",
+    "query": "China",
+    "rank": 9,
+    "tweet_count": "293K Tweets"
   },
   {
     "name": "Bolt",
     "query": "Bolt",
-    "rank": 9,
-    "tweet_count": "9,102 Tweets"
-  },
-  {
-    "name": "skaidrs",
-    "query": "skaidrs",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "9,202 Tweets"
   },
   {
-    "name": "ja tev",
-    "query": "\"ja tev\"",
+    "name": "Skaidrs",
+    "query": "Skaidrs",
     "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "jūrmalā",
-    "query": "jūrmalā",
+    "name": "Ja Tev",
+    "query": "\"Ja Tev\"",
     "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "Jūrmalā",
+    "query": "Jūrmalā",
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Pavļuts",
     "query": "Pavļuts",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "nedomāju",
-    "query": "nedomāju",
     "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Vispār",
-    "query": "Vispār",
-    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "manā",
     "query": "manā",
+    "rank": 15,
+    "tweet_count": "188K Tweets"
+  },
+  {
+    "name": "vispār",
+    "query": "vispār",
     "rank": 16,
-    "tweet_count": "187K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Tikmēr",
@@ -102,8 +102,8 @@
     "tweet_count": null
   },
   {
-    "name": "dievam",
-    "query": "dievam",
+    "name": "Nedomāju",
+    "query": "Nedomāju",
     "rank": 18,
     "tweet_count": null
   }
