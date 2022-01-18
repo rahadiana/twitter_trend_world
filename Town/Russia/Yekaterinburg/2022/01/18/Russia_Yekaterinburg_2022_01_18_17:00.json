@@ -3,19 +3,19 @@
     "name": "#вордли",
     "query": "#вордли",
     "rank": 1,
-    "tweet_count": "1,230 Tweets"
-  },
-  {
-    "name": "Microsoft",
-    "query": "Microsoft",
-    "rank": 2,
-    "tweet_count": "361K Tweets"
+    "tweet_count": "1,232 Tweets"
   },
   {
     "name": "#клубромантики",
     "query": "#клубромантики",
+    "rank": 2,
+    "tweet_count": "2,109 Tweets"
+  },
+  {
+    "name": "Microsoft",
+    "query": "Microsoft",
     "rank": 3,
-    "tweet_count": "2,091 Tweets"
+    "tweet_count": "371K Tweets"
   },
   {
     "name": "майкрософт",
@@ -27,7 +27,7 @@
     "name": "Игра Wordle",
     "query": "\"Игра Wordle\"",
     "rank": 5,
-    "tweet_count": "1,284 Tweets"
+    "tweet_count": "1,288 Tweets"
   },
   {
     "name": "#happybirthdayniko",
@@ -60,22 +60,22 @@
     "tweet_count": null
   },
   {
-    "name": "Xbox",
-    "query": "Xbox",
-    "rank": 11,
-    "tweet_count": "294K Tweets"
-  },
-  {
     "name": "Порошенко",
     "query": "Порошенко",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": "15.7K Tweets"
+  },
+  {
+    "name": "Xbox",
+    "query": "Xbox",
+    "rank": 12,
+    "tweet_count": "301K Tweets"
   },
   {
     "name": "Ленинграда",
     "query": "Ленинграда",
     "rank": 13,
-    "tweet_count": "1,568 Tweets"
+    "tweet_count": "1,595 Tweets"
   },
   {
     "name": "Котика",
@@ -87,30 +87,30 @@
     "name": "Duty",
     "query": "Duty",
     "rank": 15,
-    "tweet_count": "101K Tweets"
+    "tweet_count": "103K Tweets"
   },
   {
     "name": "Mimi",
     "query": "Mimi",
     "rank": 16,
-    "tweet_count": "62.3K Tweets"
+    "tweet_count": "62.8K Tweets"
   },
   {
     "name": "news news news",
     "query": "\"news news news\"",
     "rank": 17,
-    "tweet_count": "3.78M Tweets"
-  },
-  {
-    "name": "крещения господня",
-    "query": "\"крещения господня\"",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "3.81M Tweets"
   },
   {
     "name": "вциом",
     "query": "вциом",
+    "rank": 18,
+    "tweet_count": "1,331 Tweets"
+  },
+  {
+    "name": "Активижн",
+    "query": "Активижн",
     "rank": 19,
-    "tweet_count": "1,324 Tweets"
+    "tweet_count": null
   }
 ]
