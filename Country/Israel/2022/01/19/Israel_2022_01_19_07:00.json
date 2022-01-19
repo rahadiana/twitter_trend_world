@@ -1,69 +1,69 @@
 [
   {
-    "name": "בוקר טוב",
-    "query": "\"בוקר טוב\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Microsoft",
     "query": "Microsoft",
-    "rank": 2,
-    "tweet_count": "613K Tweets"
-  },
-  {
-    "name": "#SheikhJarrah",
-    "query": "#SheikhJarrah",
-    "rank": 3,
-    "tweet_count": "2,217 Tweets"
+    "rank": 1,
+    "tweet_count": "615K Tweets"
   },
   {
     "name": "בר לב",
     "query": "\"בר לב\"",
-    "rank": 4,
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "רפואה שלמה",
+    "query": "\"רפואה שלמה\"",
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#NFTCommmunity",
     "query": "#NFTCommmunity",
+    "rank": 4,
+    "tweet_count": "188K Tweets"
+  },
+  {
+    "name": "#SheikhJarrah",
+    "query": "#SheikhJarrah",
     "rank": 5,
-    "tweet_count": "186K Tweets"
+    "tweet_count": "2,287 Tweets"
   },
   {
     "name": "Xbox",
     "query": "Xbox",
     "rank": 6,
-    "tweet_count": "451K Tweets"
+    "tweet_count": "453K Tweets"
+  },
+  {
+    "name": "מדינה יהודית",
+    "query": "\"מדינה יהודית\"",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "בוקר טוב",
+    "query": "\"בוקר טוב\"",
+    "rank": 8,
+    "tweet_count": null
   },
   {
     "name": "#מבצע_דוגו",
     "query": "#מבצע_דוגו",
-    "rank": 7,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Holocaust",
     "query": "Holocaust",
-    "rank": 8,
-    "tweet_count": "11K Tweets"
-  },
-  {
-    "name": "מדינה יהודית",
-    "query": "\"מדינה יהודית\"",
-    "rank": 9,
-    "tweet_count": null
+    "rank": 10,
+    "tweet_count": "11.1K Tweets"
   },
   {
     "name": "רז מאיר",
     "query": "\"רז מאיר\"",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Houthis",
-    "query": "Houthis",
     "rank": 11,
-    "tweet_count": "7,386 Tweets"
+    "tweet_count": null
   },
   {
     "name": "בלי קשר",
@@ -72,34 +72,34 @@
     "tweet_count": null
   },
   {
-    "name": "רפואה שלמה",
-    "query": "\"רפואה שלמה\"",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
     "name": "Abu Dhabi",
     "query": "\"Abu Dhabi\"",
+    "rank": 13,
+    "tweet_count": "16K Tweets"
+  },
+  {
+    "name": "Houthis",
+    "query": "Houthis",
     "rank": 14,
-    "tweet_count": "15.9K Tweets"
+    "tweet_count": "7,410 Tweets"
   },
   {
     "name": "יאיר לפיד",
     "query": "\"יאיר לפיד\"",
     "rank": 15,
-    "tweet_count": "1,439 Tweets"
-  },
-  {
-    "name": "Trump",
-    "query": "Trump",
-    "rank": 16,
-    "tweet_count": "587K Tweets"
+    "tweet_count": "1,453 Tweets"
   },
   {
     "name": "מכבי חיפה",
     "query": "\"מכבי חיפה\"",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
+  },
+  {
+    "name": "NSO's Pegasus",
+    "query": "\"NSO's Pegasus\"",
+    "rank": 17,
+    "tweet_count": "1,187 Tweets"
   },
   {
     "name": "למה הם",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "NSO's Pegasus",
-    "query": "\"NSO's Pegasus\"",
+    "name": "Trump",
+    "query": "Trump",
     "rank": 19,
-    "tweet_count": "1,182 Tweets"
+    "tweet_count": "591K Tweets"
   },
   {
-    "name": "Arab",
-    "query": "Arab",
+    "name": "רוני לוי",
+    "query": "\"רוני לוי\"",
     "rank": 20,
-    "tweet_count": "50.6K Tweets"
+    "tweet_count": null
   }
 ]
