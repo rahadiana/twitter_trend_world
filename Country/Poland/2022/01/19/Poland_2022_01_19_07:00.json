@@ -1,39 +1,39 @@
 [
   {
-    "name": "#SuwRoom",
-    "query": "#SuwRoom",
-    "rank": 1,
-    "tweet_count": "3,437 Tweets"
-  },
-  {
     "name": "#Jedziemy",
     "query": "#Jedziemy",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#SuwRoom",
+    "query": "#SuwRoom",
+    "rank": 2,
+    "tweet_count": "3,453 Tweets"
   },
   {
     "name": "Niemcy",
     "query": "Niemcy",
     "rank": 3,
-    "tweet_count": "14K Tweets"
+    "tweet_count": "14.1K Tweets"
   },
   {
     "name": "Ukrainę",
     "query": "Ukrainę",
     "rank": 4,
-    "tweet_count": "160K Tweets"
+    "tweet_count": "157K Tweets"
   },
   {
     "name": "Microsoft",
     "query": "Microsoft",
     "rank": 5,
-    "tweet_count": "608K Tweets"
+    "tweet_count": "609K Tweets"
   },
   {
     "name": "Miłego",
     "query": "Miłego",
     "rank": 6,
-    "tweet_count": "9,650 Tweets"
+    "tweet_count": "8,601 Tweets"
   },
   {
     "name": "#rzutfśśtbramka",
@@ -45,31 +45,31 @@
     "name": "#hotelmaffija2",
     "query": "#hotelmaffija2",
     "rank": 8,
-    "tweet_count": "4,094 Tweets"
+    "tweet_count": "3,966 Tweets"
   },
   {
     "name": "#POLGER",
     "query": "#POLGER",
     "rank": 9,
-    "tweet_count": "1,344 Tweets"
+    "tweet_count": "1,346 Tweets"
   },
   {
     "name": "Banaś",
     "query": "Banaś",
     "rank": 10,
-    "tweet_count": "7,962 Tweets"
-  },
-  {
-    "name": "Chorzów",
-    "query": "Chorzów",
-    "rank": 11,
-    "tweet_count": null
+    "tweet_count": "7,990 Tweets"
   },
   {
     "name": "Dzień Dobry",
     "query": "\"Dzień Dobry\"",
+    "rank": 11,
+    "tweet_count": "6,210 Tweets"
+  },
+  {
+    "name": "Chorzów",
+    "query": "Chorzów",
     "rank": 12,
-    "tweet_count": "6,947 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Aschrafa",
@@ -81,7 +81,7 @@
     "name": "Ewa Kopacz",
     "query": "\"Ewa Kopacz\"",
     "rank": 14,
-    "tweet_count": "1,884 Tweets"
+    "tweet_count": "1,898 Tweets"
   },
   {
     "name": "Andruszkiewicza",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
-    "name": "Kajdanowicz",
-    "query": "Kajdanowicz",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
     "name": "Parlamentu Europejskiego",
     "query": "\"Parlamentu Europejskiego\"",
-    "rank": 17,
-    "tweet_count": "2,018 Tweets"
+    "rank": 16,
+    "tweet_count": "2,024 Tweets"
   },
   {
     "name": "Dobrego",
     "query": "Dobrego",
-    "rank": 18,
-    "tweet_count": "2,415 Tweets"
+    "rank": 17,
+    "tweet_count": "2,227 Tweets"
   },
   {
     "name": "Złote",
     "query": "Złote",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Kajdanowicz",
+    "query": "Kajdanowicz",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Iranu",
-    "query": "Iranu",
+    "name": "Niemiec",
+    "query": "Niemiec",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "6,280 Tweets"
   }
 ]
