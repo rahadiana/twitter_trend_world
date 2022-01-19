@@ -1,104 +1,98 @@
 [
   {
-    "name": "#urgente",
-    "query": "#urgente",
+    "name": "#URGENTE",
+    "query": "#URGENTE",
     "rank": 1,
-    "tweet_count": "15.2K Tweets"
+    "tweet_count": "15.4K Tweets"
   },
   {
     "name": "Marina",
     "query": "Marina",
     "rank": 2,
-    "tweet_count": "52.5K Tweets"
-  },
-  {
-    "name": "La Pampilla",
-    "query": "\"La Pampilla\"",
-    "rank": 3,
-    "tweet_count": "13.6K Tweets"
+    "tweet_count": "53.1K Tweets"
   },
   {
     "name": "Repsol",
     "query": "Repsol",
-    "rank": 4,
-    "tweet_count": "114K Tweets"
+    "rank": 3,
+    "tweet_count": "116K Tweets"
   },
   {
     "name": "Rosa María Palacios",
     "query": "\"Rosa María Palacios\"",
-    "rank": 5,
-    "tweet_count": "5,162 Tweets"
+    "rank": 4,
+    "tweet_count": "5,280 Tweets"
   },
   {
     "name": "Ventanilla",
     "query": "Ventanilla",
-    "rank": 6,
-    "tweet_count": "53.5K Tweets"
+    "rank": 5,
+    "tweet_count": "54.2K Tweets"
   },
   {
     "name": "OEFA",
     "query": "OEFA",
+    "rank": 6,
+    "tweet_count": "4,948 Tweets"
+  },
+  {
+    "name": "Incidente",
+    "query": "Incidente",
     "rank": 7,
-    "tweet_count": "4,844 Tweets"
+    "tweet_count": "6,627 Tweets"
   },
   {
     "name": "Harry Styles",
     "query": "\"Harry Styles\"",
     "rank": 8,
-    "tweet_count": "250K Tweets"
+    "tweet_count": "253K Tweets"
   },
   {
-    "name": "Incidente",
-    "query": "Incidente",
+    "name": "Petroperú",
+    "query": "Petroperú",
     "rank": 9,
-    "tweet_count": "6,538 Tweets"
+    "tweet_count": null
   },
   {
     "name": "El Peruano",
     "query": "\"El Peruano\"",
     "rank": 10,
-    "tweet_count": "7,676 Tweets"
+    "tweet_count": "7,764 Tweets"
   },
   {
     "name": "#BTS_Butter",
     "query": "#BTS_Butter",
     "rank": 11,
-    "tweet_count": "1.09M Tweets"
-  },
-  {
-    "name": "Petroperú",
-    "query": "Petroperú",
-    "rank": 12,
-    "tweet_count": null
+    "tweet_count": "1.1M Tweets"
   },
   {
     "name": "Paolo Guerrero",
     "query": "\"Paolo Guerrero\"",
-    "rank": 13,
-    "tweet_count": "1,552 Tweets"
+    "rank": 12,
+    "tweet_count": "1,569 Tweets"
   },
   {
     "name": "Cavero",
     "query": "Cavero",
-    "rank": 14,
-    "tweet_count": "2,270 Tweets"
+    "rank": 13,
+    "tweet_count": "2,293 Tweets"
   },
   {
     "name": "Ancón",
     "query": "Ancón",
-    "rank": 15,
-    "tweet_count": "11.2K Tweets"
+    "rank": 14,
+    "tweet_count": "11.3K Tweets"
   },
   {
-    "name": "Amazonía",
-    "query": "Amazonía",
-    "rank": 16,
-    "tweet_count": "7,278 Tweets"
+    "name": "La Pampilla",
+    "query": "\"La Pampilla\"",
+    "rank": 15,
+    "tweet_count": "13.8K Tweets"
   },
   {
     "name": "Sigrid",
     "query": "Sigrid",
-    "rank": 17,
-    "tweet_count": "5,216 Tweets"
+    "rank": 16,
+    "tweet_count": "5,257 Tweets"
   }
 ]

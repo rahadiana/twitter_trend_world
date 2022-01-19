@@ -1,110 +1,104 @@
 [
   {
+    "name": "Senate",
+    "query": "Senate",
+    "rank": 1,
+    "tweet_count": "320K Tweets"
+  },
+  {
+    "name": "Manchin",
+    "query": "Manchin",
+    "rank": 2,
+    "tweet_count": "154K Tweets"
+  },
+  {
+    "name": "Gorsuch",
+    "query": "Gorsuch",
+    "rank": 3,
+    "tweet_count": "112K Tweets"
+  },
+  {
     "name": "#bidenpressconference",
     "query": "#bidenpressconference",
-    "rank": 1,
-    "tweet_count": "5,076 Tweets"
+    "rank": 4,
+    "tweet_count": "6,123 Tweets"
   },
   {
-    "name": "Leicester",
-    "query": "Leicester",
-    "rank": 2,
-    "tweet_count": "61.9K Tweets"
-  },
-  {
-    "name": "Doocy",
-    "query": "Doocy",
-    "rank": 3,
-    "tweet_count": "6,336 Tweets"
+    "name": "#COYS",
+    "query": "#COYS",
+    "rank": 5,
+    "tweet_count": "15.8K Tweets"
   },
   {
     "name": "Newsmax",
     "query": "Newsmax",
-    "rank": 4,
-    "tweet_count": "41.3K Tweets"
+    "rank": 6,
+    "tweet_count": "44.4K Tweets"
+  },
+  {
+    "name": "Putin",
+    "query": "Putin",
+    "rank": 7,
+    "tweet_count": "114K Tweets"
+  },
+  {
+    "name": "Leicester",
+    "query": "Leicester",
+    "rank": 8,
+    "tweet_count": "63.7K Tweets"
+  },
+  {
+    "name": "Doocy",
+    "query": "Doocy",
+    "rank": 9,
+    "tweet_count": "8,024 Tweets"
   },
   {
     "name": "#BoycottStarbucks",
     "query": "#BoycottStarbucks",
-    "rank": 5,
-    "tweet_count": "5,485 Tweets"
+    "rank": 10,
+    "tweet_count": "5,709 Tweets"
+  },
+  {
+    "name": "Tottenham",
+    "query": "Tottenham",
+    "rank": 11,
+    "tweet_count": "54.9K Tweets"
+  },
+  {
+    "name": "Ukraine",
+    "query": "Ukraine",
+    "rank": 12,
+    "tweet_count": "200K Tweets"
+  },
+  {
+    "name": "James Rosen",
+    "query": "\"James Rosen\"",
+    "rank": 13,
+    "tweet_count": "2,392 Tweets"
+  },
+  {
+    "name": "Spurs",
+    "query": "Spurs",
+    "rank": 14,
+    "tweet_count": "62.4K Tweets"
+  },
+  {
+    "name": "Russia",
+    "query": "Russia",
+    "rank": 15,
+    "tweet_count": "202K Tweets"
   },
   {
     "name": "#BREMUN",
     "query": "#BREMUN",
-    "rank": 6,
-    "tweet_count": "58.6K Tweets"
-  },
-  {
-    "name": "Dolly",
-    "query": "Dolly",
-    "rank": 7,
-    "tweet_count": "46.6K Tweets"
-  },
-  {
-    "name": "#VotingRightsForThePeople",
-    "query": "#VotingRightsForThePeople",
-    "rank": 8,
-    "tweet_count": "91.2K Tweets"
-  },
-  {
-    "name": "Ronaldo",
-    "query": "Ronaldo",
-    "rank": 9,
-    "tweet_count": "107K Tweets"
-  },
-  {
-    "name": "#ilovepublicschools",
-    "query": "#ilovepublicschools",
-    "rank": 10,
-    "tweet_count": "2,184 Tweets"
-  },
-  {
-    "name": "Maguire",
-    "query": "Maguire",
-    "rank": 11,
-    "tweet_count": "42.7K Tweets"
-  },
-  {
-    "name": "76ers",
-    "query": "76ers",
-    "rank": 12,
-    "tweet_count": "3,752 Tweets"
-  },
-  {
-    "name": "Build Back Better",
-    "query": "\"Build Back Better\"",
-    "rank": 13,
-    "tweet_count": "14.4K Tweets"
-  },
-  {
-    "name": "Mac Miller",
-    "query": "\"Mac Miller\"",
-    "rank": 14,
-    "tweet_count": "138K Tweets"
-  },
-  {
-    "name": "Kathy Griffin",
-    "query": "\"Kathy Griffin\"",
-    "rank": 15,
-    "tweet_count": "2,754 Tweets"
-  },
-  {
-    "name": "Tim Scott",
-    "query": "\"Tim Scott\"",
     "rank": 16,
-    "tweet_count": "10.5K Tweets"
+    "tweet_count": "59.4K Tweets"
   },
   {
-    "name": "Burton",
-    "query": "Burton",
+    "name": "#LEITOT",
+    "query": "#LEITOT",
     "rank": 17,
-    "tweet_count": "7,019 Tweets"
-  },
-  {
-    "name": "Moses Simon",
-    "query": "\"Moses Simon\"",
-    "rank": 18,
-    "tweet_count": "46.4K Tweets"
+    "tweet_count": "21K Tweets"
   }
 ]
