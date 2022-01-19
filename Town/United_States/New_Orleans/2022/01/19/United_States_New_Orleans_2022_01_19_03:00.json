@@ -1,110 +1,116 @@
 [
   {
-    "name": "#ThisIsUs",
-    "query": "#ThisIsUs",
-    "rank": 1,
-    "tweet_count": "7,448 Tweets"
-  },
-  {
     "name": "The Departed",
     "query": "\"The Departed\"",
-    "rank": 2,
-    "tweet_count": "5,729 Tweets"
+    "rank": 1,
+    "tweet_count": "6,018 Tweets"
   },
   {
-    "name": "#AbbottElementary",
-    "query": "#AbbottElementary",
-    "rank": 3,
-    "tweet_count": "7,072 Tweets"
+    "name": "#ThisIsUs",
+    "query": "#ThisIsUs",
+    "rank": 2,
+    "tweet_count": "7,727 Tweets"
   },
   {
     "name": "#WWENXT",
     "query": "#WWENXT",
+    "rank": 3,
+    "tweet_count": "18.8K Tweets"
+  },
+  {
+    "name": "#AbbottElementary",
+    "query": "#AbbottElementary",
     "rank": 4,
-    "tweet_count": "17.4K Tweets"
+    "tweet_count": "7,352 Tweets"
   },
   {
     "name": "Randle",
     "query": "Randle",
     "rank": 5,
-    "tweet_count": "5,355 Tweets"
+    "tweet_count": "5,789 Tweets"
   },
   {
     "name": "Kemba",
     "query": "Kemba",
     "rank": 6,
-    "tweet_count": "4,501 Tweets"
+    "tweet_count": "4,745 Tweets"
+  },
+  {
+    "name": "Andre Leon Talley",
+    "query": "\"Andre Leon Talley\"",
+    "rank": 7,
+    "tweet_count": "8,156 Tweets"
   },
   {
     "name": "#PumpRules",
     "query": "#PumpRules",
-    "rank": 7,
-    "tweet_count": "2,503 Tweets"
-  },
-  {
-    "name": "Fournier",
-    "query": "Fournier",
     "rank": 8,
-    "tweet_count": "3,079 Tweets"
+    "tweet_count": "2,756 Tweets"
   },
   {
-    "name": "#OurKindOfPeople",
-    "query": "#OurKindOfPeople",
+    "name": "#QueensABC",
+    "query": "#QueensABC",
     "rank": 9,
-    "tweet_count": "2,814 Tweets"
-  },
-  {
-    "name": "Thibs",
-    "query": "Thibs",
-    "rank": 10,
-    "tweet_count": "1,815 Tweets"
+    "tweet_count": "2,171 Tweets"
   },
   {
     "name": "When We Were Young",
     "query": "\"When We Were Young\"",
-    "rank": 11,
-    "tweet_count": "44.9K Tweets"
-  },
-  {
-    "name": "Burks",
-    "query": "Burks",
-    "rank": 12,
-    "tweet_count": "1,958 Tweets"
-  },
-  {
-    "name": "Willie O'Ree",
-    "query": "\"Willie O'Ree\"",
-    "rank": 13,
-    "tweet_count": "10.5K Tweets"
+    "rank": 10,
+    "tweet_count": "46.6K Tweets"
   },
   {
     "name": "GOOTS",
     "query": "GOOTS",
-    "rank": 14,
-    "tweet_count": "2,066 Tweets"
+    "rank": 11,
+    "tweet_count": "2,373 Tweets"
+  },
+  {
+    "name": "Boras",
+    "query": "Boras",
+    "rank": 12,
+    "tweet_count": "1,336 Tweets"
   },
   {
     "name": "How I Met Your Father",
     "query": "\"How I Met Your Father\"",
-    "rank": 15,
-    "tweet_count": "7,220 Tweets"
+    "rank": 13,
+    "tweet_count": "7,415 Tweets"
+  },
+  {
+    "name": "Willie O'Ree",
+    "query": "\"Willie O'Ree\"",
+    "rank": 14,
+    "tweet_count": "10.7K Tweets"
   },
   {
     "name": "Timberwolves",
     "query": "Timberwolves",
+    "rank": 15,
+    "tweet_count": "9,993 Tweets"
+  },
+  {
+    "name": "Sarray",
+    "query": "Sarray",
     "rank": 16,
-    "tweet_count": "9,223 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Chara",
     "query": "Chara",
     "rank": 17,
-    "tweet_count": "15.7K Tweets"
+    "tweet_count": "16K Tweets"
   },
   {
-    "name": "Uros",
-    "query": "Uros",
+    "name": "Marcus Carr",
+    "query": "\"Marcus Carr\"",
     "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Wahlstrom",
+    "query": "Wahlstrom",
+    "rank": 19,
     "tweet_count": null
   }
 ]
