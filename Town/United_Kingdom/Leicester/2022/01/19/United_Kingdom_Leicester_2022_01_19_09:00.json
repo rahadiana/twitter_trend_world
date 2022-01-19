@@ -1,39 +1,39 @@
 [
   {
+    "name": "Ghana",
+    "query": "Ghana",
+    "rank": 1,
+    "tweet_count": "366K Tweets"
+  },
+  {
     "name": "Lukaku",
     "query": "Lukaku",
-    "rank": 1,
-    "tweet_count": "51.6K Tweets"
+    "rank": 2,
+    "tweet_count": "51.9K Tweets"
   },
   {
     "name": "#nobodytoldme",
     "query": "#nobodytoldme",
-    "rank": 2,
-    "tweet_count": "23.2K Tweets"
+    "rank": 3,
+    "tweet_count": "23.4K Tweets"
   },
   {
     "name": "#WednesdayMotivation",
     "query": "#WednesdayMotivation",
-    "rank": 3,
-    "tweet_count": "23.7K Tweets"
+    "rank": 4,
+    "tweet_count": "24.1K Tweets"
   },
   {
     "name": "James Heappey",
     "query": "\"James Heappey\"",
-    "rank": 4,
-    "tweet_count": "2,126 Tweets"
+    "rank": 5,
+    "tweet_count": "2,236 Tweets"
   },
   {
     "name": "Fraggle Rock",
     "query": "\"Fraggle Rock\"",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "#r4today",
-    "query": "#r4today",
     "rank": 6,
-    "tweet_count": "4,357 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#ASongOrMovieForDairyProducts",
@@ -42,81 +42,75 @@
     "tweet_count": null
   },
   {
+    "name": "#porkpieplot",
+    "query": "#porkpieplot",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
     "name": "#Wordle214",
     "query": "#Wordle214",
-    "rank": 8,
-    "tweet_count": "1,423 Tweets"
+    "rank": 9,
+    "tweet_count": "1,445 Tweets"
   },
   {
     "name": "André Leon Talley",
     "query": "\"André Leon Talley\"",
-    "rank": 9,
-    "tweet_count": "59.5K Tweets"
-  },
-  {
-    "name": "Graham Brady",
-    "query": "\"Graham Brady\"",
     "rank": 10,
-    "tweet_count": "6,436 Tweets"
-  },
-  {
-    "name": "Vine",
-    "query": "Vine",
-    "rank": 11,
-    "tweet_count": "19.6K Tweets"
+    "tweet_count": "60.2K Tweets"
   },
   {
     "name": "Adil Ray",
     "query": "\"Adil Ray\"",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Morning John",
     "query": "\"Morning John\"",
+    "rank": 12,
+    "tweet_count": "2,000 Tweets"
+  },
+  {
+    "name": "Sunak",
+    "query": "Sunak",
     "rank": 13,
-    "tweet_count": "1,965 Tweets"
+    "tweet_count": "45K Tweets"
   },
   {
     "name": "David",
     "query": "David",
     "rank": 14,
-    "tweet_count": "187K Tweets"
+    "tweet_count": "188K Tweets"
   },
   {
-    "name": "Sunak",
-    "query": "Sunak",
+    "name": "VONC",
+    "query": "VONC",
     "rank": 15,
-    "tweet_count": "44K Tweets"
-  },
-  {
-    "name": "Melton Mowbray",
-    "query": "\"Melton Mowbray\"",
-    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Plan B",
     "query": "\"Plan B\"",
-    "rank": 17,
-    "tweet_count": "17K Tweets"
-  },
-  {
-    "name": "VONC",
-    "query": "VONC",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "When We Were Young",
-    "query": "\"When We Were Young\"",
-    "rank": 19,
-    "tweet_count": "64.6K Tweets"
+    "rank": 16,
+    "tweet_count": "17.4K Tweets"
   },
   {
     "name": "Steve Baker",
     "query": "\"Steve Baker\"",
-    "rank": 20,
-    "tweet_count": "1,578 Tweets"
+    "rank": 17,
+    "tweet_count": "1,683 Tweets"
+  },
+  {
+    "name": "When We Were Young",
+    "query": "\"When We Were Young\"",
+    "rank": 18,
+    "tweet_count": "65K Tweets"
+  },
+  {
+    "name": "RIP Colin",
+    "query": "\"RIP Colin\"",
+    "rank": 19,
+    "tweet_count": null
   }
 ]
