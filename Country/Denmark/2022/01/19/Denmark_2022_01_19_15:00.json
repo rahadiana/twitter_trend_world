@@ -6,20 +6,20 @@
     "tweet_count": null
   },
   {
-    "name": "Microsoft",
-    "query": "Microsoft",
-    "rank": 2,
-    "tweet_count": "451K Tweets"
-  },
-  {
     "name": "harry styles",
     "query": "\"harry styles\"",
-    "rank": 3,
-    "tweet_count": "119K Tweets"
+    "rank": 2,
+    "tweet_count": "129K Tweets"
   },
   {
-    "name": "Tjernobyl",
-    "query": "Tjernobyl",
+    "name": "Microsoft",
+    "query": "Microsoft",
+    "rank": 3,
+    "tweet_count": "453K Tweets"
+  },
+  {
+    "name": "tjernobyl",
+    "query": "tjernobyl",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,7 +27,7 @@
     "name": "David",
     "query": "David",
     "rank": 5,
-    "tweet_count": "218K Tweets"
+    "tweet_count": "220K Tweets"
   },
   {
     "name": "Parken",
@@ -36,8 +36,8 @@
     "tweet_count": null
   },
   {
-    "name": "Risø",
-    "query": "Risø",
+    "name": "risø",
+    "query": "risø",
     "rank": 7,
     "tweet_count": null
   },
@@ -45,11 +45,11 @@
     "name": "Fukushima",
     "query": "Fukushima",
     "rank": 8,
-    "tweet_count": "3,884 Tweets"
+    "tweet_count": "3,904 Tweets"
   },
   {
-    "name": "bamse",
-    "query": "bamse",
+    "name": "Bamse",
+    "query": "Bamse",
     "rank": 9,
     "tweet_count": null
   },
@@ -63,7 +63,7 @@
     "name": "Xbox",
     "query": "Xbox",
     "rank": 11,
-    "tweet_count": "320K Tweets"
+    "tweet_count": "322K Tweets"
   },
   {
     "name": "I DK",
@@ -75,31 +75,31 @@
     "name": "Dortmund",
     "query": "Dortmund",
     "rank": 13,
-    "tweet_count": "25.1K Tweets"
-  },
-  {
-    "name": "Brighton",
-    "query": "Brighton",
-    "rank": 14,
-    "tweet_count": "58.6K Tweets"
-  },
-  {
-    "name": "Atomkraft",
-    "query": "Atomkraft",
-    "rank": 15,
-    "tweet_count": "1,487 Tweets"
-  },
-  {
-    "name": "lalandia",
-    "query": "lalandia",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "25.2K Tweets"
   },
   {
     "name": "Copenhagen",
     "query": "Copenhagen",
+    "rank": 14,
+    "tweet_count": "2,007 Tweets"
+  },
+  {
+    "name": "Brighton",
+    "query": "Brighton",
+    "rank": 15,
+    "tweet_count": "58.8K Tweets"
+  },
+  {
+    "name": "Atomkraft",
+    "query": "Atomkraft",
+    "rank": 16,
+    "tweet_count": "1,502 Tweets"
+  },
+  {
+    "name": "lalandia",
+    "query": "lalandia",
     "rank": 17,
-    "tweet_count": "1,984 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Vermund",
