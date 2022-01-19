@@ -1,7 +1,7 @@
 [
   {
-    "name": "Slīmests",
-    "query": "Slīmests",
+    "name": "slīmests",
+    "query": "slīmests",
     "rank": 1,
     "tweet_count": null
   },
@@ -21,11 +21,11 @@
     "name": "Microsoft",
     "query": "Microsoft",
     "rank": 4,
-    "tweet_count": "342K Tweets"
+    "tweet_count": "311K Tweets"
   },
   {
-    "name": "Dailes",
-    "query": "Dailes",
+    "name": "dailes",
+    "query": "dailes",
     "rank": 5,
     "tweet_count": null
   },
@@ -51,7 +51,7 @@
     "name": "no 25",
     "query": "\"no 25\"",
     "rank": 9,
-    "tweet_count": "56.2K Tweets"
+    "tweet_count": "55.1K Tweets"
   },
   {
     "name": "ja tev",
@@ -63,7 +63,7 @@
     "name": "VARAM",
     "query": "VARAM",
     "rank": 11,
-    "tweet_count": "1,073 Tweets"
+    "tweet_count": "1,043 Tweets"
   },
   {
     "name": "igaunijā",
@@ -72,14 +72,14 @@
     "tweet_count": null
   },
   {
-    "name": "Skaidrs",
-    "query": "Skaidrs",
+    "name": "Bija",
+    "query": "Bija",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "1,484 Tweets"
   },
   {
-    "name": "pavļuts",
-    "query": "pavļuts",
+    "name": "Skaidrs",
+    "query": "Skaidrs",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,7 +87,7 @@
     "name": "COVID-19",
     "query": "COVID-19",
     "rank": 15,
-    "tweet_count": "610K Tweets"
+    "tweet_count": "588K Tweets"
   },
   {
     "name": "jūrmalā",
@@ -117,6 +117,6 @@
     "name": "#climatechange",
     "query": "#climatechange",
     "rank": 20,
-    "tweet_count": "8,443 Tweets"
+    "tweet_count": "8,181 Tweets"
   }
 ]
