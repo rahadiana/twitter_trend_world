@@ -1,69 +1,69 @@
 [
   {
+    "name": "Panthers",
+    "query": "Panthers",
+    "rank": 1,
+    "tweet_count": "10.9K Tweets"
+  },
+  {
     "name": "#Flames",
     "query": "#Flames",
-    "rank": 1,
-    "tweet_count": "1,414 Tweets"
+    "rank": 2,
+    "tweet_count": "1,422 Tweets"
   },
   {
     "name": "#GoHabsGo",
     "query": "#GoHabsGo",
-    "rank": 2,
-    "tweet_count": "5,026 Tweets"
+    "rank": 3,
+    "tweet_count": "5,054 Tweets"
   },
   {
     "name": "Walter",
     "query": "Walter",
-    "rank": 3,
-    "tweet_count": "30.5K Tweets"
-  },
-  {
-    "name": "Seguin",
-    "query": "Seguin",
     "rank": 4,
-    "tweet_count": "1,388 Tweets"
-  },
-  {
-    "name": "The Departed",
-    "query": "\"The Departed\"",
-    "rank": 5,
-    "tweet_count": "6,919 Tweets"
-  },
-  {
-    "name": "#FlyTheFlag",
-    "query": "#FlyTheFlag",
-    "rank": 6,
-    "tweet_count": null
+    "tweet_count": "30.9K Tweets"
   },
   {
     "name": "#WWENXT",
     "query": "#WWENXT",
-    "rank": 7,
-    "tweet_count": "21.6K Tweets"
+    "rank": 5,
+    "tweet_count": "21.8K Tweets"
   },
   {
     "name": "Andre Leon Talley",
     "query": "\"Andre Leon Talley\"",
+    "rank": 6,
+    "tweet_count": "41.8K Tweets"
+  },
+  {
+    "name": "#FlyTheFlag",
+    "query": "#FlyTheFlag",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "The Departed",
+    "query": "\"The Departed\"",
     "rank": 8,
-    "tweet_count": "40K Tweets"
+    "tweet_count": "6,989 Tweets"
+  },
+  {
+    "name": "Montembeault",
+    "query": "Montembeault",
+    "rank": 9,
+    "tweet_count": null
   },
   {
     "name": "#bclib22",
     "query": "#bclib22",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "hobi",
     "query": "hobi",
-    "rank": 10,
-    "tweet_count": "155K Tweets"
-  },
-  {
-    "name": "Montembeault",
-    "query": "Montembeault",
     "rank": 11,
-    "tweet_count": null
+    "tweet_count": "157K Tweets"
   },
   {
     "name": "Shapo",
@@ -75,11 +75,11 @@
     "name": "Stars",
     "query": "Stars",
     "rank": 13,
-    "tweet_count": "184K Tweets"
+    "tweet_count": "185K Tweets"
   },
   {
-    "name": "Josh brown",
-    "query": "\"Josh brown\"",
+    "name": "Josh Brown",
+    "query": "\"Josh Brown\"",
     "rank": 14,
     "tweet_count": null
   },
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
-    "name": "Carol Off",
-    "query": "\"Carol Off\"",
+    "name": "Pezzetta",
+    "query": "Pezzetta",
     "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "Dallas",
-    "query": "Dallas",
+    "name": "Carol Off",
+    "query": "\"Carol Off\"",
     "rank": 17,
-    "tweet_count": "44.1K Tweets"
-  },
-  {
-    "name": "Pezzetta",
-    "query": "Pezzetta",
-    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Chara",
     "query": "Chara",
-    "rank": 19,
-    "tweet_count": "16.3K Tweets"
+    "rank": 18,
+    "tweet_count": "16.4K Tweets"
   },
   {
-    "name": "Brannstrom",
-    "query": "Brannstrom",
+    "name": "Dallas",
+    "query": "Dallas",
+    "rank": 19,
+    "tweet_count": "44.4K Tweets"
+  },
+  {
+    "name": "Petey",
+    "query": "Petey",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "1,817 Tweets"
   }
 ]
