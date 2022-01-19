@@ -1,7 +1,7 @@
 [
   {
-    "name": "slīmests",
-    "query": "slīmests",
+    "name": "Slīmests",
+    "query": "Slīmests",
     "rank": 1,
     "tweet_count": null
   },
@@ -18,20 +18,20 @@
     "tweet_count": null
   },
   {
-    "name": "Microsoft",
-    "query": "Microsoft",
+    "name": "Dailes",
+    "query": "Dailes",
     "rank": 4,
-    "tweet_count": "313K Tweets"
-  },
-  {
-    "name": "dailes",
-    "query": "dailes",
-    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "SPKC",
     "query": "SPKC",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "ja tev",
+    "query": "\"ja tev\"",
     "rank": 6,
     "tweet_count": null
   },
@@ -45,7 +45,7 @@
     "name": "Bija",
     "query": "Bija",
     "rank": 8,
-    "tweet_count": "1,511 Tweets"
+    "tweet_count": "1,534 Tweets"
   },
   {
     "name": "Tiešām",
@@ -57,53 +57,53 @@
     "name": "no 25",
     "query": "\"no 25\"",
     "rank": 10,
-    "tweet_count": "55.4K Tweets"
-  },
-  {
-    "name": "ja tev",
-    "query": "\"ja tev\"",
-    "rank": 11,
-    "tweet_count": null
+    "tweet_count": "55.7K Tweets"
   },
   {
     "name": "VARAM",
     "query": "VARAM",
-    "rank": 12,
-    "tweet_count": "1,050 Tweets"
+    "rank": 11,
+    "tweet_count": "1,056 Tweets"
   },
   {
     "name": "Tavs",
     "query": "Tavs",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "igaunijā",
-    "query": "igaunijā",
-    "rank": 14,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Skaidrs",
     "query": "Skaidrs",
-    "rank": 15,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "COVID-19",
     "query": "COVID-19",
-    "rank": 16,
-    "tweet_count": "594K Tweets"
+    "rank": 14,
+    "tweet_count": "601K Tweets"
+  },
+  {
+    "name": "igaunijā",
+    "query": "igaunijā",
+    "rank": 15,
+    "tweet_count": null
   },
   {
     "name": "jūrmalā",
     "query": "jūrmalā",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "vācijai",
-    "query": "vācijai",
+    "name": "Microsoft",
+    "query": "Microsoft",
+    "rank": 17,
+    "tweet_count": "314K Tweets"
+  },
+  {
+    "name": "Vācijai",
+    "query": "Vācijai",
     "rank": 18,
     "tweet_count": null
   },
