@@ -1,33 +1,33 @@
 [
   {
+    "name": "Dani Alves",
+    "query": "\"Dani Alves\"",
+    "rank": 1,
+    "tweet_count": "9,785 Tweets"
+  },
+  {
     "name": "Elza Soares",
     "query": "\"Elza Soares\"",
-    "rank": 1,
-    "tweet_count": "106K Tweets"
+    "rank": 2,
+    "tweet_count": "115K Tweets"
   },
   {
     "name": "Diogo Jota",
     "query": "\"Diogo Jota\"",
-    "rank": 2,
-    "tweet_count": "13K Tweets"
+    "rank": 3,
+    "tweet_count": "13.8K Tweets"
   },
   {
     "name": "#BBB22",
     "query": "#BBB22",
-    "rank": 3,
-    "tweet_count": "833K Tweets"
-  },
-  {
-    "name": "Fernando Daniel",
-    "query": "\"Fernando Daniel\"",
     "rank": 4,
-    "tweet_count": null
+    "tweet_count": "862K Tweets"
   },
   {
-    "name": "harry styles",
-    "query": "\"harry styles\"",
+    "name": "Barça",
+    "query": "Barça",
     "rank": 5,
-    "tweet_count": "174K Tweets"
+    "tweet_count": "126K Tweets"
   },
   {
     "name": "João Oliveira",
@@ -36,26 +36,26 @@
     "tweet_count": null
   },
   {
-    "name": "Ferran Torres",
-    "query": "\"Ferran Torres\"",
+    "name": "harry styles",
+    "query": "\"harry styles\"",
     "rank": 7,
-    "tweet_count": "16K Tweets"
+    "tweet_count": "177K Tweets"
   },
   {
-    "name": "Zé Albino",
-    "query": "\"Zé Albino\"",
+    "name": "Fernando Daniel",
+    "query": "\"Fernando Daniel\"",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Hazard",
-    "query": "Hazard",
+    "name": "Ferran Torres",
+    "query": "\"Ferran Torres\"",
     "rank": 9,
-    "tweet_count": "64.1K Tweets"
+    "tweet_count": "16.7K Tweets"
   },
   {
-    "name": "#LOT2022RevendaLisboa",
-    "query": "#LOT2022RevendaLisboa",
+    "name": "Zé Albino",
+    "query": "\"Zé Albino\"",
     "rank": 10,
     "tweet_count": null
   },
@@ -66,46 +66,46 @@
     "tweet_count": null
   },
   {
-    "name": "Linn",
-    "query": "Linn",
+    "name": "#LOT2022RevendaLisboa",
+    "query": "#LOT2022RevendaLisboa",
     "rank": 12,
-    "tweet_count": "272K Tweets"
-  },
-  {
-    "name": "Barça",
-    "query": "Barça",
-    "rank": 13,
-    "tweet_count": "115K Tweets"
-  },
-  {
-    "name": "#LoveOnTour2022",
-    "query": "#LoveOnTour2022",
-    "rank": 14,
-    "tweet_count": "11.6K Tweets"
-  },
-  {
-    "name": "Jéssica Silva",
-    "query": "\"Jéssica Silva\"",
-    "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "Liverpool",
-    "query": "Liverpool",
-    "rank": 16,
-    "tweet_count": "122K Tweets"
+    "name": "Linn",
+    "query": "Linn",
+    "rank": 13,
+    "tweet_count": "283K Tweets"
+  },
+  {
+    "name": "Barcelona",
+    "query": "Barcelona",
+    "rank": 14,
+    "tweet_count": "127K Tweets"
   },
   {
     "name": "Scooby",
     "query": "Scooby",
-    "rank": 17,
-    "tweet_count": "280K Tweets"
+    "rank": 15,
+    "tweet_count": "289K Tweets"
+  },
+  {
+    "name": "#LoveOnTour2022",
+    "query": "#LoveOnTour2022",
+    "rank": 16,
+    "tweet_count": "11.8K Tweets"
   },
   {
     "name": "Real Madrid",
     "query": "\"Real Madrid\"",
+    "rank": 17,
+    "tweet_count": "84.3K Tweets"
+  },
+  {
+    "name": "Jéssica Silva",
+    "query": "\"Jéssica Silva\"",
     "rank": 18,
-    "tweet_count": "82K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#VoleibolSCP",
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "Barcelona",
-    "query": "Barcelona",
+    "name": "Plata",
+    "query": "Plata",
     "rank": 20,
-    "tweet_count": "120K Tweets"
+    "tweet_count": "81.1K Tweets"
   }
 ]
