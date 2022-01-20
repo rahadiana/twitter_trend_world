@@ -9,19 +9,19 @@
     "name": "Leicester",
     "query": "Leicester",
     "rank": 2,
-    "tweet_count": "82.5K Tweets"
+    "tweet_count": "83.2K Tweets"
   },
   {
     "name": "Elanga",
     "query": "Elanga",
     "rank": 3,
-    "tweet_count": "44.9K Tweets"
+    "tweet_count": "45.2K Tweets"
   },
   {
-    "name": "#COYS",
-    "query": "#COYS",
+    "name": "Sabuni",
+    "query": "Sabuni",
     "rank": 4,
-    "tweet_count": "21K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Märta Stenevi",
@@ -30,64 +30,64 @@
     "tweet_count": null
   },
   {
-    "name": "Sabuni",
-    "query": "Sabuni",
+    "name": "mattias karlsson",
+    "query": "\"mattias karlsson\"",
     "rank": 6,
     "tweet_count": null
   },
   {
-    "name": "mattias karlsson",
-    "query": "\"mattias karlsson\"",
+    "name": "godmorgon",
+    "query": "godmorgon",
     "rank": 7,
     "tweet_count": null
   },
   {
-    "name": "Godmorgon",
-    "query": "Godmorgon",
+    "name": "degerfors",
+    "query": "degerfors",
     "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "De Gea",
-    "query": "\"De Gea\"",
-    "rank": 9,
-    "tweet_count": "38K Tweets"
-  },
-  {
-    "name": "Degerfors",
-    "query": "Degerfors",
-    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Xhaka",
     "query": "Xhaka",
-    "rank": 11,
-    "tweet_count": "18.6K Tweets"
-  },
-  {
-    "name": "McTominay",
-    "query": "McTominay",
-    "rank": 12,
-    "tweet_count": "19.4K Tweets"
+    "rank": 9,
+    "tweet_count": "18.7K Tweets"
   },
   {
     "name": "Kane",
     "query": "Kane",
-    "rank": 13,
-    "tweet_count": "32.9K Tweets"
+    "rank": 10,
+    "tweet_count": "33.3K Tweets"
   },
   {
     "name": "Microsoft",
     "query": "Microsoft",
-    "rank": 14,
-    "tweet_count": "157K Tweets"
+    "rank": 11,
+    "tweet_count": "159K Tweets"
   },
   {
-    "name": "Anne Ramberg",
-    "query": "\"Anne Ramberg\"",
-    "rank": 15,
+    "name": "Ramberg",
+    "query": "Ramberg",
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "Frank",
+    "query": "Frank",
+    "rank": 13,
+    "tweet_count": "94.8K Tweets"
+  },
+  {
+    "name": "Bill Gates",
+    "query": "\"Bill Gates\"",
+    "rank": 14,
+    "tweet_count": "30.3K Tweets"
+  },
+  {
+    "name": "Uppdrag Granskning",
+    "query": "\"Uppdrag Granskning\"",
+    "rank": 15,
+    "tweet_count": "1,633 Tweets"
   },
   {
     "name": "Hallengren",
@@ -96,21 +96,15 @@
     "tweet_count": null
   },
   {
-    "name": "Frank",
-    "query": "Frank",
+    "name": "KU-anmälningar",
+    "query": "KU-anmälningar",
     "rank": 17,
-    "tweet_count": "93.7K Tweets"
-  },
-  {
-    "name": "uppdrag granskning",
-    "query": "\"uppdrag granskning\"",
-    "rank": 18,
-    "tweet_count": "1,591 Tweets"
+    "tweet_count": null
   },
   {
     "name": "KU-anmäla",
     "query": "KU-anmäla",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   }
 ]
