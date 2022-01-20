@@ -1,105 +1,105 @@
 [
   {
-    "name": "#abc730",
-    "query": "#abc730",
-    "rank": 1,
-    "tweet_count": "6,556 Tweets"
-  },
-  {
     "name": "Medvedev",
     "query": "Medvedev",
+    "rank": 1,
+    "tweet_count": "4,762 Tweets"
+  },
+  {
+    "name": "#abc730",
+    "query": "#abc730",
     "rank": 2,
-    "tweet_count": "4,510 Tweets"
+    "tweet_count": "7,050 Tweets"
+  },
+  {
+    "name": "#ImACelebrityAU",
+    "query": "#ImACelebrityAU",
+    "rank": 3,
+    "tweet_count": null
   },
   {
     "name": "#forklifts",
     "query": "#forklifts",
-    "rank": 3,
-    "tweet_count": "4,060 Tweets"
+    "rank": 4,
+    "tweet_count": "4,145 Tweets"
   },
   {
     "name": "#WomensAshes",
     "query": "#WomensAshes",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Laura Tingle",
     "query": "\"Laura Tingle\"",
-    "rank": 5,
-    "tweet_count": "2,880 Tweets"
-  },
-  {
-    "name": "National Cabinet",
-    "query": "\"National Cabinet\"",
     "rank": 6,
-    "tweet_count": "9,082 Tweets"
+    "tweet_count": "3,076 Tweets"
   },
   {
-    "name": "#thedrum",
-    "query": "#thedrum",
+    "name": "#netballchaos",
+    "query": "#netballchaos",
     "rank": 7,
     "tweet_count": null
   },
   {
-    "name": "Jokic",
-    "query": "Jokic",
-    "rank": 8,
-    "tweet_count": "31.1K Tweets"
-  },
-  {
     "name": "Bogut",
     "query": "Bogut",
+    "rank": 8,
+    "tweet_count": "2,164 Tweets"
+  },
+  {
+    "name": "National Cabinet",
+    "query": "\"National Cabinet\"",
     "rank": 9,
-    "tweet_count": "2,131 Tweets"
+    "tweet_count": "9,153 Tweets"
   },
   {
     "name": "Murray",
     "query": "Murray",
     "rank": 10,
-    "tweet_count": "27.2K Tweets"
+    "tweet_count": "27.7K Tweets"
   },
   {
-    "name": "Vogel",
-    "query": "Vogel",
+    "name": "Jokic",
+    "query": "Jokic",
     "rank": 11,
-    "tweet_count": "27.6K Tweets"
-  },
-  {
-    "name": "Frydenberg",
-    "query": "Frydenberg",
-    "rank": 12,
-    "tweet_count": "5,545 Tweets"
+    "tweet_count": "31.3K Tweets"
   },
   {
     "name": "Joey",
     "query": "Joey",
+    "rank": 12,
+    "tweet_count": "20.6K Tweets"
+  },
+  {
+    "name": "Frydenberg",
+    "query": "Frydenberg",
     "rank": 13,
-    "tweet_count": "20.5K Tweets"
+    "tweet_count": "6,021 Tweets"
   },
   {
     "name": "Novavax",
     "query": "Novavax",
     "rank": 14,
-    "tweet_count": "5,189 Tweets"
+    "tweet_count": "5,234 Tweets"
+  },
+  {
+    "name": "Lakers",
+    "query": "Lakers",
+    "rank": 15,
+    "tweet_count": "96.9K Tweets"
   },
   {
     "name": "Premiers",
     "query": "Premiers",
-    "rank": 15,
-    "tweet_count": "12.9K Tweets"
+    "rank": 16,
+    "tweet_count": "13.1K Tweets"
   },
   {
     "name": "Putin",
     "query": "Putin",
-    "rank": 16,
-    "tweet_count": "158K Tweets"
-  },
-  {
-    "name": "#BTS_Butter",
-    "query": "#BTS_Butter",
     "rank": 17,
-    "tweet_count": "1.69M Tweets"
+    "tweet_count": "159K Tweets"
   },
   {
     "name": "Sam Stosur",
@@ -111,6 +111,12 @@
     "name": "ACCC",
     "query": "ACCC",
     "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "#Neighbours",
+    "query": "#Neighbours",
+    "rank": 20,
     "tweet_count": null
   }
 ]
