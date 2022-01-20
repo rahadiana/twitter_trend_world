@@ -1,39 +1,39 @@
 [
   {
-    "name": "#LahoreBlast",
-    "query": "#LahoreBlast",
+    "name": "#Anarkali",
+    "query": "#Anarkali",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "#Anarkali",
-    "query": "#Anarkali",
+    "name": "#LahoreBlast",
+    "query": "#LahoreBlast",
     "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "Fawad Alam",
-    "query": "\"Fawad Alam\"",
-    "rank": 3,
-    "tweet_count": null
+    "tweet_count": "1,300 Tweets"
   },
   {
     "name": "#JIKhi_WomenDharna",
     "query": "#JIKhi_WomenDharna",
-    "rank": 4,
-    "tweet_count": "17.9K Tweets"
+    "rank": 3,
+    "tweet_count": "19.5K Tweets"
   },
   {
     "name": "#MyPMImranKhan",
     "query": "#MyPMImranKhan",
+    "rank": 4,
+    "tweet_count": "27K Tweets"
+  },
+  {
+    "name": "Fawad Alam",
+    "query": "\"Fawad Alam\"",
     "rank": 5,
-    "tweet_count": "26.9K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Rana Shamim",
     "query": "\"Rana Shamim\"",
     "rank": 6,
-    "tweet_count": "1,024 Tweets"
+    "tweet_count": "1,045 Tweets"
   },
   {
     "name": "Hassan Ali",
@@ -51,7 +51,7 @@
     "name": "ICC Men",
     "query": "\"ICC Men\"",
     "rank": 9,
-    "tweet_count": "11.6K Tweets"
+    "tweet_count": "11.8K Tweets"
   },
   {
     "name": "al-haj automotive",
@@ -75,13 +75,13 @@
     "name": "Locally",
     "query": "Locally",
     "rank": 13,
-    "tweet_count": "8,350 Tweets"
+    "tweet_count": "8,420 Tweets"
   },
   {
     "name": "ICC ODI",
     "query": "\"ICC ODI\"",
     "rank": 14,
-    "tweet_count": "5,139 Tweets"
+    "tweet_count": "5,330 Tweets"
   },
   {
     "name": "wahab bhai",
@@ -90,21 +90,21 @@
     "tweet_count": null
   },
   {
-    "name": "haider mustehsan",
-    "query": "\"haider mustehsan\"",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
     "name": "Ayesha Malik",
     "query": "\"Ayesha Malik\"",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Bavuma",
     "query": "Bavuma",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": "10.7K Tweets"
+  },
+  {
+    "name": "Ali Zafar",
+    "query": "\"Ali Zafar\"",
+    "rank": 18,
+    "tweet_count": "1,468 Tweets"
   }
 ]
