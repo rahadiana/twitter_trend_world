@@ -1,13 +1,13 @@
 [
   {
-    "name": "Bordāns",
-    "query": "Bordāns",
+    "name": "Gunāra Astras",
+    "query": "\"Gunāra Astras\"",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "Gunāra Astras",
-    "query": "\"Gunāra Astras\"",
+    "name": "Bordāns",
+    "query": "Bordāns",
     "rank": 2,
     "tweet_count": null
   },
@@ -18,20 +18,20 @@
     "tweet_count": null
   },
   {
+    "name": "Latviju",
+    "query": "Latviju",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
     "name": "slīmests",
     "query": "slīmests",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Ventspils",
     "query": "Ventspils",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Latviju",
-    "query": "Latviju",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,28 +42,28 @@
     "tweet_count": null
   },
   {
-    "name": "ceru",
-    "query": "ceru",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "kurzemes",
     "query": "kurzemes",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Google",
     "query": "Google",
-    "rank": 10,
-    "tweet_count": "694K Tweets"
+    "rank": 9,
+    "tweet_count": "701K Tweets"
   },
   {
     "name": "tukuma",
     "query": "tukuma",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
+  },
+  {
+    "name": "Lidl",
+    "query": "Lidl",
+    "rank": 11,
+    "tweet_count": "4,383 Tweets"
   },
   {
     "name": "mairis",
@@ -72,44 +72,44 @@
     "tweet_count": null
   },
   {
-    "name": "Lidl",
-    "query": "Lidl",
-    "rank": 13,
-    "tweet_count": "4,344 Tweets"
-  },
-  {
     "name": "Putina",
     "query": "Putina",
-    "rank": 14,
-    "tweet_count": "3,253 Tweets"
-  },
-  {
-    "name": "Cilvēki",
-    "query": "Cilvēki",
-    "rank": 15,
-    "tweet_count": null
+    "rank": 13,
+    "tweet_count": "3,319 Tweets"
   },
   {
     "name": "Russian",
     "query": "Russian",
-    "rank": 16,
-    "tweet_count": "116K Tweets"
+    "rank": 14,
+    "tweet_count": "117K Tweets"
   },
   {
-    "name": "Saeima",
-    "query": "Saeima",
-    "rank": 17,
+    "name": "saeima",
+    "query": "saeima",
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Rīgai",
     "query": "Rīgai",
-    "rank": 18,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Skaidrs",
     "query": "Skaidrs",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "COVID-19",
+    "query": "COVID-19",
+    "rank": 18,
+    "tweet_count": "614K Tweets"
+  },
+  {
+    "name": "dailes",
+    "query": "dailes",
     "rank": 19,
     "tweet_count": null
   }

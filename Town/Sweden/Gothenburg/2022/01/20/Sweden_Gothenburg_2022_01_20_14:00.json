@@ -3,7 +3,7 @@
     "name": "Grattis",
     "query": "Grattis",
     "rank": 1,
-    "tweet_count": "1,202 Tweets"
+    "tweet_count": "1,227 Tweets"
   },
   {
     "name": "Gulan",
@@ -12,20 +12,20 @@
     "tweet_count": null
   },
   {
-    "name": "Leicester",
-    "query": "Leicester",
-    "rank": 3,
-    "tweet_count": "86K Tweets"
-  },
-  {
     "name": "Elanga",
     "query": "Elanga",
-    "rank": 4,
-    "tweet_count": "47.6K Tweets"
+    "rank": 3,
+    "tweet_count": "47.7K Tweets"
   },
   {
-    "name": "Sabuni",
-    "query": "Sabuni",
+    "name": "Leicester",
+    "query": "Leicester",
+    "rank": 4,
+    "tweet_count": "86.2K Tweets"
+  },
+  {
+    "name": "sabuni",
+    "query": "sabuni",
     "rank": 5,
     "tweet_count": null
   },
@@ -36,28 +36,28 @@
     "tweet_count": null
   },
   {
+    "name": "#BREMUN",
+    "query": "#BREMUN",
+    "rank": 7,
+    "tweet_count": "73.6K Tweets"
+  },
+  {
     "name": "#LEITOT",
     "query": "#LEITOT",
-    "rank": 7,
-    "tweet_count": "24.2K Tweets"
-  },
-  {
-    "name": "De Gea",
-    "query": "\"De Gea\"",
     "rank": 8,
-    "tweet_count": "39.7K Tweets"
-  },
-  {
-    "name": "Xhaka",
-    "query": "Xhaka",
-    "rank": 9,
-    "tweet_count": "20K Tweets"
+    "tweet_count": "24.2K Tweets"
   },
   {
     "name": "Kyrgios",
     "query": "Kyrgios",
+    "rank": 9,
+    "tweet_count": "18.2K Tweets"
+  },
+  {
+    "name": "Xhaka",
+    "query": "Xhaka",
     "rank": 10,
-    "tweet_count": "18.1K Tweets"
+    "tweet_count": "20.1K Tweets"
   },
   {
     "name": "ramberg",
@@ -69,17 +69,17 @@
     "name": "Kane",
     "query": "Kane",
     "rank": 12,
-    "tweet_count": "34.4K Tweets"
+    "tweet_count": "34.6K Tweets"
   },
   {
-    "name": "KU-anmälningar",
-    "query": "KU-anmälningar",
+    "name": "2000 Kwh",
+    "query": "\"2000 Kwh\"",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "2000 kWh",
-    "query": "\"2000 kWh\"",
+    "name": "ku-anmälningar",
+    "query": "ku-anmälningar",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,12 +87,18 @@
     "name": "Uppdrag Granskning",
     "query": "\"Uppdrag Granskning\"",
     "rank": 15,
-    "tweet_count": "1,770 Tweets"
+    "tweet_count": "1,775 Tweets"
   },
   {
     "name": "Hallengren",
     "query": "Hallengren",
     "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "mattias karlsson",
+    "query": "\"mattias karlsson\"",
+    "rank": 17,
     "tweet_count": null
   }
 ]
