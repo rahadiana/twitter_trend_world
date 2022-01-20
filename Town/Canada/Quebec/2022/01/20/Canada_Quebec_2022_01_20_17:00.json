@@ -1,39 +1,39 @@
 [
   {
-    "name": "Ukraine",
-    "query": "Ukraine",
-    "rank": 1,
-    "tweet_count": "269K Tweets"
-  },
-  {
     "name": "#ALGCIV",
     "query": "#ALGCIV",
-    "rank": 2,
-    "tweet_count": "23.5K Tweets"
+    "rank": 1,
+    "tweet_count": "36K Tweets"
   },
   {
     "name": "#CIVALG",
     "query": "#CIVALG",
+    "rank": 2,
+    "tweet_count": "13.4K Tweets"
+  },
+  {
+    "name": "Dr. Moore",
+    "query": "\"Dr. Moore\"",
     "rank": 3,
-    "tweet_count": "8,739 Tweets"
-  },
-  {
-    "name": "#TeamCotedIvoire",
-    "query": "#TeamCotedIvoire",
-    "rank": 4,
-    "tweet_count": "11.8K Tweets"
-  },
-  {
-    "name": "Algeria",
-    "query": "Algeria",
-    "rank": 5,
-    "tweet_count": "22K Tweets"
+    "tweet_count": "5,505 Tweets"
   },
   {
     "name": "Rex Murphy",
     "query": "\"Rex Murphy\"",
+    "rank": 4,
+    "tweet_count": "1,275 Tweets"
+  },
+  {
+    "name": "DeBrincat",
+    "query": "DeBrincat",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "Mahrez",
+    "query": "Mahrez",
     "rank": 6,
-    "tweet_count": "1,150 Tweets"
+    "tweet_count": "18.6K Tweets"
   },
   {
     "name": "Dr. Hirji",
@@ -42,69 +42,69 @@
     "tweet_count": null
   },
   {
+    "name": "#Wordle215",
+    "query": "#Wordle215",
+    "rank": 8,
+    "tweet_count": "3,360 Tweets"
+  },
+  {
     "name": "#thursdayvibes",
     "query": "#thursdayvibes",
-    "rank": 8,
-    "tweet_count": "15.7K Tweets"
-  },
-  {
-    "name": "DeBrincat",
-    "query": "DeBrincat",
     "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Dr. Moore",
-    "query": "\"Dr. Moore\"",
-    "rank": 10,
-    "tweet_count": "5,041 Tweets"
+    "tweet_count": "16.3K Tweets"
   },
   {
     "name": "CMOH",
     "query": "CMOH",
-    "rank": 11,
-    "tweet_count": "5,659 Tweets"
+    "rank": 10,
+    "tweet_count": "5,887 Tweets"
   },
   {
-    "name": "Canada Post",
-    "query": "\"Canada Post\"",
-    "rank": 12,
-    "tweet_count": "3,812 Tweets"
+    "name": "David Lynch",
+    "query": "\"David Lynch\"",
+    "rank": 11,
+    "tweet_count": "14.9K Tweets"
   },
   {
     "name": "Premier Doug Ford",
     "query": "\"Premier Doug Ford\"",
+    "rank": 12,
+    "tweet_count": "1,642 Tweets"
+  },
+  {
+    "name": "Canada Post",
+    "query": "\"Canada Post\"",
     "rank": 13,
-    "tweet_count": "1,475 Tweets"
+    "tweet_count": "3,942 Tweets"
   },
   {
     "name": "Dembele",
     "query": "Dembele",
     "rank": 14,
-    "tweet_count": "118K Tweets"
+    "tweet_count": "123K Tweets"
   },
   {
     "name": "Russie",
     "query": "Russie",
     "rank": 15,
-    "tweet_count": "9,540 Tweets"
+    "tweet_count": "9,800 Tweets"
   },
   {
     "name": "McConnell",
     "query": "McConnell",
     "rank": 16,
-    "tweet_count": "151K Tweets"
+    "tweet_count": "158K Tweets"
   },
   {
     "name": "Mitch",
     "query": "Mitch",
     "rank": 17,
-    "tweet_count": "138K Tweets"
+    "tweet_count": "144K Tweets"
   },
   {
     "name": "National Post",
     "query": "\"National Post\"",
     "rank": 18,
-    "tweet_count": "4,048 Tweets"
+    "tweet_count": "4,145 Tweets"
   }
 ]
