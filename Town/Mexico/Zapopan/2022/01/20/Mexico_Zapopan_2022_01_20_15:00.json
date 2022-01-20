@@ -1,33 +1,33 @@
 [
   {
-    "name": "Atlas",
-    "query": "Atlas",
-    "rank": 1,
-    "tweet_count": "25.7K Tweets"
-  },
-  {
     "name": "León",
     "query": "León",
-    "rank": 2,
-    "tweet_count": "151K Tweets"
+    "rank": 1,
+    "tweet_count": "152K Tweets"
   },
   {
-    "name": "#AMLONoSabeManejar",
-    "query": "#AMLONoSabeManejar",
-    "rank": 3,
-    "tweet_count": "9,912 Tweets"
+    "name": "Atlas",
+    "query": "Atlas",
+    "rank": 2,
+    "tweet_count": "26.3K Tweets"
   },
   {
     "name": "#FelizJueves",
     "query": "#FelizJueves",
-    "rank": 4,
-    "tweet_count": "11.7K Tweets"
+    "rank": 3,
+    "tweet_count": "12.3K Tweets"
   },
   {
     "name": "BUTTER BELIEVE IT",
     "query": "\"BUTTER BELIEVE IT\"",
+    "rank": 4,
+    "tweet_count": "1.04M Tweets"
+  },
+  {
+    "name": "#PoderosoFelizAño",
+    "query": "#PoderosoFelizAño",
     "rank": 5,
-    "tweet_count": "983K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#KornoParanoico",
@@ -39,7 +39,7 @@
     "name": "#BuenJueves",
     "query": "#BuenJueves",
     "rank": 7,
-    "tweet_count": "2,528 Tweets"
+    "tweet_count": "2,651 Tweets"
   },
   {
     "name": "#gallitorola",
@@ -54,69 +54,69 @@
     "tweet_count": null
   },
   {
-    "name": "Benedicto XVI",
-    "query": "\"Benedicto XVI\"",
+    "name": "Enrique Alfaro",
+    "query": "\"Enrique Alfaro\"",
     "rank": 10,
-    "tweet_count": "3,011 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Dembélé",
     "query": "Dembélé",
     "rank": 11,
-    "tweet_count": "102K Tweets"
+    "tweet_count": "104K Tweets"
+  },
+  {
+    "name": "Benedicto XVI",
+    "query": "\"Benedicto XVI\"",
+    "rank": 12,
+    "tweet_count": "3,331 Tweets"
   },
   {
     "name": "Jueves 20",
     "query": "\"Jueves 20\"",
-    "rank": 12,
-    "tweet_count": "19.5K Tweets"
-  },
-  {
-    "name": "Elektra",
-    "query": "Elektra",
     "rank": 13,
-    "tweet_count": "13.3K Tweets"
-  },
-  {
-    "name": "Joe Biden",
-    "query": "\"Joe Biden\"",
-    "rank": 14,
-    "tweet_count": "284K Tweets"
-  },
-  {
-    "name": "Zedillo",
-    "query": "Zedillo",
-    "rank": 15,
-    "tweet_count": "22.4K Tweets"
-  },
-  {
-    "name": "Playa del Carmen",
-    "query": "\"Playa del Carmen\"",
-    "rank": 16,
-    "tweet_count": "9,250 Tweets"
+    "tweet_count": "20.1K Tweets"
   },
   {
     "name": "Ricardo Salinas Pliego",
     "query": "\"Ricardo Salinas Pliego\"",
+    "rank": 14,
+    "tweet_count": "3,936 Tweets"
+  },
+  {
+    "name": "Elektra",
+    "query": "Elektra",
+    "rank": 15,
+    "tweet_count": "13.7K Tweets"
+  },
+  {
+    "name": "Joe Biden",
+    "query": "\"Joe Biden\"",
+    "rank": 16,
+    "tweet_count": "290K Tweets"
+  },
+  {
+    "name": "Playa del Carmen",
+    "query": "\"Playa del Carmen\"",
     "rank": 17,
-    "tweet_count": "3,768 Tweets"
+    "tweet_count": "9,555 Tweets"
   },
   {
     "name": "Biden",
     "query": "Biden",
     "rank": 18,
-    "tweet_count": "1.25M Tweets"
+    "tweet_count": "1.27M Tweets"
   },
   {
-    "name": "Otero",
-    "query": "Otero",
+    "name": "Zedillo",
+    "query": "Zedillo",
     "rank": 19,
-    "tweet_count": "13.8K Tweets"
+    "tweet_count": "22.7K Tweets"
   },
   {
     "name": "Ucrania",
     "query": "Ucrania",
     "rank": 20,
-    "tweet_count": "45.9K Tweets"
+    "tweet_count": "47.1K Tweets"
   }
 ]
