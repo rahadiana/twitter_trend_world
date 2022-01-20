@@ -1,73 +1,73 @@
 [
   {
-    "name": "#биатлон",
-    "query": "#биатлон",
-    "rank": 1,
-    "tweet_count": "1,211 Tweets"
-  },
-  {
     "name": "#этерна",
     "query": "#этерна",
-    "rank": 2,
-    "tweet_count": "1,382 Tweets"
+    "rank": 1,
+    "tweet_count": "1,424 Tweets"
   },
   {
     "name": "#нюдсочетверг",
     "query": "#нюдсочетверг",
+    "rank": 2,
+    "tweet_count": "4,542 Tweets"
+  },
+  {
+    "name": "#биатлон",
+    "query": "#биатлон",
     "rank": 3,
-    "tweet_count": "4,505 Tweets"
+    "tweet_count": "1,214 Tweets"
   },
   {
-    "name": "#китаефдселкадэй",
-    "query": "#китаефдселкадэй",
+    "name": "#HoYoLAB",
+    "query": "#HoYoLAB",
     "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "с праздником",
-    "query": "\"с праздником\"",
-    "rank": 5,
-    "tweet_count": "1,185 Tweets"
-  },
-  {
-    "name": "ДНР и ЛНР",
-    "query": "\"ДНР и ЛНР\"",
-    "rank": 6,
-    "tweet_count": "1,924 Tweets"
+    "tweet_count": "3,386 Tweets"
   },
   {
     "name": "гаспар ульель",
     "query": "\"гаспар ульель\"",
-    "rank": 7,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "#CRKingdom1stParty",
     "query": "#CRKingdom1stParty",
-    "rank": 8,
-    "tweet_count": "4,480 Tweets"
-  },
-  {
-    "name": "с крещением господним",
-    "query": "\"с крещением господним\"",
-    "rank": 9,
-    "tweet_count": null
+    "rank": 6,
+    "tweet_count": "4,513 Tweets"
   },
   {
     "name": "ЦБ РФ",
     "query": "\"ЦБ РФ\"",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "больше 15",
+    "query": "\"больше 15\"",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "ДНР и ЛНР",
+    "query": "\"ДНР и ЛНР\"",
+    "rank": 9,
+    "tweet_count": "1,930 Tweets"
+  },
+  {
+    "name": "Миллер",
+    "query": "Миллер",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Больше 15",
-    "query": "\"Больше 15\"",
+    "name": "Герой",
+    "query": "Герой",
     "rank": 11,
-    "tweet_count": null
+    "tweet_count": "2,362 Tweets"
   },
   {
-    "name": "прокуратура берлина",
-    "query": "\"прокуратура берлина\"",
+    "name": "Джинн",
+    "query": "Джинн",
     "rank": 12,
     "tweet_count": null
   },
@@ -75,42 +75,48 @@
     "name": "Путина",
     "query": "Путина",
     "rank": 13,
-    "tweet_count": "15.8K Tweets"
-  },
-  {
-    "name": "ЛИ ФЕЛИКС",
-    "query": "\"ЛИ ФЕЛИКС\"",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Игра Wordle",
-    "query": "\"Игра Wordle\"",
-    "rank": 15,
-    "tweet_count": "1,137 Tweets"
+    "tweet_count": "16K Tweets"
   },
   {
     "name": "Слава КПСС",
     "query": "\"Слава КПСС\"",
-    "rank": 16,
-    "tweet_count": "1,169 Tweets"
+    "rank": 14,
+    "tweet_count": "1,179 Tweets"
   },
   {
-    "name": "Единая Россия",
-    "query": "\"Единая Россия\"",
+    "name": "игра wordle",
+    "query": "\"игра wordle\"",
+    "rank": 15,
+    "tweet_count": "1,140 Tweets"
+  },
+  {
+    "name": "BUTTER BELIEVE IT",
+    "query": "\"BUTTER BELIEVE IT\"",
+    "rank": 16,
+    "tweet_count": "1.56M Tweets"
+  },
+  {
+    "name": "Прокуратура Берлина",
+    "query": "\"Прокуратура Берлина\"",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "кабо-верде",
-    "query": "кабо-верде",
+    "name": "с крещением",
+    "query": "\"с крещением\"",
     "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Ли Феликс",
+    "query": "\"Ли Феликс\"",
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Pfizer",
     "query": "Pfizer",
-    "rank": 19,
-    "tweet_count": "114K Tweets"
+    "rank": 20,
+    "tweet_count": "116K Tweets"
   }
 ]
