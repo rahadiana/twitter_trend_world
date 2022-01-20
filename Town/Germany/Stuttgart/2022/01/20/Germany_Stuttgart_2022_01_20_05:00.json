@@ -1,81 +1,81 @@
 [
   {
+    "name": "Freiburg",
+    "query": "Freiburg",
+    "rank": 1,
+    "tweet_count": "2,670 Tweets"
+  },
+  {
     "name": "#DFBPokal",
     "query": "#DFBPokal",
-    "rank": 1,
-    "tweet_count": "6,171 Tweets"
+    "rank": 2,
+    "tweet_count": "6,207 Tweets"
   },
   {
     "name": "#BSCFCU",
     "query": "#BSCFCU",
-    "rank": 2,
-    "tweet_count": "4,570 Tweets"
+    "rank": 3,
+    "tweet_count": "4,585 Tweets"
   },
   {
     "name": "#H96BMG",
     "query": "#H96BMG",
-    "rank": 3,
-    "tweet_count": "4,624 Tweets"
-  },
-  {
-    "name": "#fcspbvb",
-    "query": "#fcspbvb",
     "rank": 4,
-    "tweet_count": "1,499 Tweets"
+    "tweet_count": "4,630 Tweets"
   },
   {
-    "name": "#tvtotal",
-    "query": "#tvtotal",
+    "name": "#TVTotal",
+    "query": "#TVTotal",
     "rank": 5,
-    "tweet_count": "2,222 Tweets"
+    "tweet_count": "2,225 Tweets"
+  },
+  {
+    "name": "#FCSPBVB",
+    "query": "#FCSPBVB",
+    "rank": 6,
+    "tweet_count": "1,502 Tweets"
   },
   {
     "name": "Snickers",
     "query": "Snickers",
-    "rank": 6,
-    "tweet_count": "8,011 Tweets"
+    "rank": 7,
+    "tweet_count": "8,030 Tweets"
   },
   {
-    "name": "Elton",
-    "query": "Elton",
-    "rank": 7,
-    "tweet_count": "6,592 Tweets"
+    "name": "Wölfin",
+    "query": "Wölfin",
+    "rank": 8,
+    "tweet_count": "1,472 Tweets"
+  },
+  {
+    "name": "elton",
+    "query": "elton",
+    "rank": 9,
+    "tweet_count": "6,632 Tweets"
   },
   {
     "name": "Microsoft",
     "query": "Microsoft",
-    "rank": 8,
+    "rank": 10,
     "tweet_count": "187K Tweets"
-  },
-  {
-    "name": "wochenteiler",
-    "query": "wochenteiler",
-    "rank": 9,
-    "tweet_count": null
   },
   {
     "name": "hütter",
     "query": "hütter",
-    "rank": 10,
-    "tweet_count": "1,200 Tweets"
+    "rank": 11,
+    "tweet_count": "1,202 Tweets"
   },
   {
-    "name": "Hertha",
-    "query": "Hertha",
-    "rank": 11,
-    "tweet_count": "3,676 Tweets"
+    "name": "hertha",
+    "query": "hertha",
+    "rank": 12,
+    "tweet_count": "3,682 Tweets"
   },
   {
     "name": "Versprecher",
     "query": "Versprecher",
-    "rank": 12,
-    "tweet_count": "1,975 Tweets"
-  },
-  {
-    "name": "Monte",
-    "query": "Monte",
     "rank": 13,
-    "tweet_count": "39.6K Tweets"
+    "tweet_count": "1,990 Tweets"
   },
   {
     "name": "Moin Klaus",
@@ -84,39 +84,39 @@
     "tweet_count": null
   },
   {
+    "name": "Monte",
+    "query": "Monte",
+    "rank": 15,
+    "tweet_count": "39.7K Tweets"
+  },
+  {
     "name": "Harry Styles",
     "query": "\"Harry Styles\"",
-    "rank": 15,
-    "tweet_count": "287K Tweets"
+    "rank": 16,
+    "tweet_count": "288K Tweets"
   },
   {
     "name": "Gladbach",
     "query": "Gladbach",
-    "rank": 16,
-    "tweet_count": "3,843 Tweets"
+    "rank": 17,
+    "tweet_count": "3,856 Tweets"
   },
   {
     "name": "viertelfinale",
     "query": "viertelfinale",
-    "rank": 17,
-    "tweet_count": "1,001 Tweets"
-  },
-  {
-    "name": "Johnson",
-    "query": "Johnson",
     "rank": 18,
-    "tweet_count": "543K Tweets"
-  },
-  {
-    "name": "Wölfin",
-    "query": "Wölfin",
-    "rank": 19,
-    "tweet_count": "1,443 Tweets"
+    "tweet_count": "1,002 Tweets"
   },
   {
     "name": "zieler",
     "query": "zieler",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "Johnson",
+    "query": "Johnson",
+    "rank": 20,
+    "tweet_count": "544K Tweets"
   }
 ]
