@@ -1,33 +1,33 @@
 [
   {
+    "name": "Omicron",
+    "query": "Omicron",
+    "rank": 1,
+    "tweet_count": "335K Tweets"
+  },
+  {
     "name": "Supreme",
     "query": "Supreme",
-    "rank": 1,
-    "tweet_count": "196K Tweets"
+    "rank": 2,
+    "tweet_count": "201K Tweets"
   },
   {
     "name": "#tweats",
     "query": "#tweats",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "Omicron",
-    "query": "Omicron",
     "rank": 3,
-    "tweet_count": "323K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Luxon",
     "query": "Luxon",
     "rank": 4,
-    "tweet_count": "1,049 Tweets"
+    "tweet_count": "1,109 Tweets"
   },
   {
     "name": "Nelson",
     "query": "Nelson",
     "rank": 5,
-    "tweet_count": "22.5K Tweets"
+    "tweet_count": "23.1K Tweets"
   },
   {
     "name": "Te Reo",
@@ -42,46 +42,46 @@
     "tweet_count": null
   },
   {
-    "name": "Trevor",
-    "query": "Trevor",
+    "name": "Palmy",
+    "query": "Palmy",
     "rank": 8,
-    "tweet_count": "10.5K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "palmy",
-    "query": "palmy",
+    "name": "Trevor",
+    "query": "Trevor",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "10.9K Tweets"
   },
   {
     "name": "Orange",
     "query": "Orange",
     "rank": 10,
-    "tweet_count": "89.6K Tweets"
+    "tweet_count": "92.2K Tweets"
   },
   {
-    "name": "Maori",
-    "query": "Maori",
+    "name": "Medvedev",
+    "query": "Medvedev",
     "rank": 11,
-    "tweet_count": "3,714 Tweets"
-  },
-  {
-    "name": "medvedev",
-    "query": "medvedev",
-    "rank": 12,
-    "tweet_count": "16.9K Tweets"
+    "tweet_count": "17.1K Tweets"
   },
   {
     "name": "#PenguinAwarenessDay",
     "query": "#PenguinAwarenessDay",
-    "rank": 13,
-    "tweet_count": "12K Tweets"
+    "rank": 12,
+    "tweet_count": "12.2K Tweets"
   },
   {
     "name": "Arsenal",
     "query": "Arsenal",
+    "rank": 13,
+    "tweet_count": "248K Tweets"
+  },
+  {
+    "name": "Judith",
+    "query": "Judith",
     "rank": 14,
-    "tweet_count": "246K Tweets"
+    "tweet_count": "8,131 Tweets"
   },
   {
     "name": "derek tait",
@@ -96,16 +96,16 @@
     "tweet_count": null
   },
   {
-    "name": "Judith",
-    "query": "Judith",
+    "name": "Maori",
+    "query": "Maori",
     "rank": 17,
-    "tweet_count": "7,965 Tweets"
+    "tweet_count": "3,817 Tweets"
   },
   {
     "name": "Vogel",
     "query": "Vogel",
     "rank": 18,
-    "tweet_count": "38.8K Tweets"
+    "tweet_count": "39.2K Tweets"
   },
   {
     "name": "#SaveOurTrains",
@@ -114,8 +114,8 @@
     "tweet_count": null
   },
   {
-    "name": "liz gunn",
-    "query": "\"liz gunn\"",
+    "name": "Liz Gunn",
+    "query": "\"Liz Gunn\"",
     "rank": 20,
     "tweet_count": null
   }
