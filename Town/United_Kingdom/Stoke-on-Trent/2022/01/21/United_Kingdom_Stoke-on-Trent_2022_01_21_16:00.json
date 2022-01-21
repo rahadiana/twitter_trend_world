@@ -1,86 +1,98 @@
 [
   {
-    "name": "Adama",
-    "query": "Adama",
+    "name": "#lingo",
+    "query": "#lingo",
     "rank": 1,
-    "tweet_count": "15K Tweets"
-  },
-  {
-    "name": "#BrexitShambles",
-    "query": "#BrexitShambles",
-    "rank": 2,
-    "tweet_count": "1,875 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Ukraine",
     "query": "Ukraine",
-    "rank": 3,
-    "tweet_count": "225K Tweets"
+    "rank": 2,
+    "tweet_count": "233K Tweets"
   },
   {
     "name": "#NeighbourhoodPolicingWeek",
     "query": "#NeighbourhoodPolicingWeek",
-    "rank": 4,
-    "tweet_count": "1,376 Tweets"
+    "rank": 3,
+    "tweet_count": "1,430 Tweets"
   },
   {
     "name": "#SaveDerbyCounty",
     "query": "#SaveDerbyCounty",
-    "rank": 5,
-    "tweet_count": "6,050 Tweets"
+    "rank": 4,
+    "tweet_count": "6,182 Tweets"
   },
   {
     "name": "#TheApprentice",
     "query": "#TheApprentice",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": "16.4K Tweets"
   },
   {
     "name": "Jota",
     "query": "Jota",
-    "rank": 7,
-    "tweet_count": "80.9K Tweets"
+    "rank": 6,
+    "tweet_count": "81.8K Tweets"
   },
   {
     "name": "Meat Loaf",
     "query": "\"Meat Loaf\"",
-    "rank": 8,
-    "tweet_count": "163K Tweets"
+    "rank": 7,
+    "tweet_count": "114K Tweets"
   },
   {
     "name": "Bat Out of Hell",
     "query": "\"Bat Out of Hell\"",
-    "rank": 9,
-    "tweet_count": "63.3K Tweets"
-  },
-  {
-    "name": "Adele",
-    "query": "Adele",
-    "rank": 10,
-    "tweet_count": "78.3K Tweets"
+    "rank": 8,
+    "tweet_count": "65.6K Tweets"
   },
   {
     "name": "Dover",
     "query": "Dover",
-    "rank": 11,
-    "tweet_count": "37.2K Tweets"
+    "rank": 9,
+    "tweet_count": "39.1K Tweets"
   },
   {
-    "name": "Defoe",
-    "query": "Defoe",
+    "name": "Rhona Cameron",
+    "query": "\"Rhona Cameron\"",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "Adele",
+    "query": "Adele",
+    "rank": 11,
+    "tweet_count": "80.1K Tweets"
+  },
+  {
+    "name": "Bowyer",
+    "query": "Bowyer",
     "rank": 12,
-    "tweet_count": "1,255 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Lee Hurst",
+    "query": "\"Lee Hurst\"",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Payet",
+    "query": "Payet",
+    "rank": 14,
+    "tweet_count": "3,050 Tweets"
+  },
+  {
+    "name": "Robert Paulson",
+    "query": "\"Robert Paulson\"",
+    "rank": 15,
+    "tweet_count": "12.9K Tweets"
   },
   {
     "name": "Alvarez",
     "query": "Alvarez",
-    "rank": 13,
-    "tweet_count": "37.8K Tweets"
-  },
-  {
-    "name": "Patrick Roberts",
-    "query": "\"Patrick Roberts\"",
-    "rank": 14,
-    "tweet_count": "1,043 Tweets"
+    "rank": 16,
+    "tweet_count": "41.1K Tweets"
   }
 ]
