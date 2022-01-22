@@ -1,69 +1,69 @@
 [
   {
-    "name": "Morelo",
-    "query": "Morelo",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
-    "name": "Chile",
-    "query": "Chile",
-    "rank": 2,
-    "tweet_count": "199K Tweets"
-  },
-  {
     "name": "Gómez",
     "query": "Gómez",
-    "rank": 3,
-    "tweet_count": "45.9K Tweets"
+    "rank": 1,
+    "tweet_count": "46.5K Tweets"
   },
   {
-    "name": "Alexis",
-    "query": "Alexis",
+    "name": "Larry",
+    "query": "Larry",
+    "rank": 2,
+    "tweet_count": "25.7K Tweets"
+  },
+  {
+    "name": "Gutiérrez",
+    "query": "Gutiérrez",
+    "rank": 3,
+    "tweet_count": "11.5K Tweets"
+  },
+  {
+    "name": "Farah",
+    "query": "Farah",
     "rank": 4,
-    "tweet_count": "19.7K Tweets"
+    "tweet_count": "7,916 Tweets"
   },
   {
     "name": "Herazo",
     "query": "Herazo",
     "rank": 5,
-    "tweet_count": "2,650 Tweets"
-  },
-  {
-    "name": "Farah",
-    "query": "Farah",
-    "rank": 6,
-    "tweet_count": "7,800 Tweets"
+    "tweet_count": "2,710 Tweets"
   },
   {
     "name": "#BillboardRacist",
     "query": "#BillboardRacist",
-    "rank": 7,
-    "tweet_count": "67.4K Tweets"
+    "rank": 6,
+    "tweet_count": "70.7K Tweets"
   },
   {
     "name": "Montero",
     "query": "Montero",
+    "rank": 7,
+    "tweet_count": "17.3K Tweets"
+  },
+  {
+    "name": "Vega",
+    "query": "Vega",
     "rank": 8,
-    "tweet_count": "17.2K Tweets"
+    "tweet_count": "16.1K Tweets"
   },
   {
     "name": "Millonarios",
     "query": "Millonarios",
     "rank": 9,
-    "tweet_count": "12.1K Tweets"
-  },
-  {
-    "name": "Vega",
-    "query": "Vega",
-    "rank": 10,
-    "tweet_count": "15.8K Tweets"
+    "tweet_count": "12.3K Tweets"
   },
   {
     "name": "#StopAsianHate",
     "query": "#StopAsianHate",
+    "rank": 10,
+    "tweet_count": "41.6K Tweets"
+  },
+  {
+    "name": "#ArelysHenao",
+    "query": "#ArelysHenao",
     "rank": 11,
-    "tweet_count": "39.6K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Rengifo",
@@ -72,16 +72,16 @@
     "tweet_count": null
   },
   {
-    "name": "Pasto",
-    "query": "Pasto",
+    "name": "#Enfermeras",
+    "query": "#Enfermeras",
     "rank": 13,
-    "tweet_count": "5,667 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Larry",
-    "query": "Larry",
+    "name": "Pasto",
+    "query": "Pasto",
     "rank": 14,
-    "tweet_count": "25.3K Tweets"
+    "tweet_count": "5,771 Tweets"
   },
   {
     "name": "Juanda",
@@ -93,30 +93,30 @@
     "name": "Millos",
     "query": "Millos",
     "rank": 16,
-    "tweet_count": "1,611 Tweets"
+    "tweet_count": "1,640 Tweets"
   },
   {
     "name": "Santa Fe",
     "query": "\"Santa Fe\"",
     "rank": 17,
-    "tweet_count": "7,280 Tweets"
+    "tweet_count": "7,434 Tweets"
   },
   {
-    "name": "Equidad",
-    "query": "Equidad",
+    "name": "#LALIGAxWIN",
+    "query": "#LALIGAxWIN",
     "rank": 18,
-    "tweet_count": "13.5K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#YoMeLlamo",
-    "query": "#YoMeLlamo",
+    "name": "Marlos Moreno",
+    "query": "\"Marlos Moreno\"",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "wilfrido de la rosa",
-    "query": "\"wilfrido de la rosa\"",
+    "name": "De la Rosa",
+    "query": "\"De la Rosa\"",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "13.8K Tweets"
   }
 ]
