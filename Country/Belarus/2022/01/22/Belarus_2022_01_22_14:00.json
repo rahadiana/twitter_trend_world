@@ -1,92 +1,50 @@
 [
   {
-    "name": "#cars",
-    "query": "#cars",
-    "rank": 1,
-    "tweet_count": "1,690 Tweets"
-  },
-  {
-    "name": "Путина",
-    "query": "Путина",
-    "rank": 2,
-    "tweet_count": "9,825 Tweets"
-  },
-  {
-    "name": "какие",
-    "query": "какие",
-    "rank": 3,
-    "tweet_count": "11K Tweets"
-  },
-  {
-    "name": "#беларусь",
-    "query": "#беларусь",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "#autonomousvehicles",
-    "query": "#autonomousvehicles",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Украину",
-    "query": "Украину",
-    "rank": 6,
-    "tweet_count": "12.2K Tweets"
-  },
-  {
-    "name": "#blockchain",
-    "query": "#blockchain",
-    "rank": 7,
-    "tweet_count": "126K Tweets"
-  },
-  {
-    "name": "Russia",
-    "query": "Russia",
-    "rank": 8,
-    "tweet_count": "201K Tweets"
-  },
-  {
-    "name": "конституцию",
-    "query": "конституцию",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Блин",
-    "query": "Блин",
-    "rank": 10,
-    "tweet_count": "8,286 Tweets"
-  },
-  {
     "name": "#вордли",
     "query": "#вордли",
-    "rank": 11,
-    "tweet_count": "1,057 Tweets"
-  },
-  {
-    "name": "минска",
-    "query": "минска",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Возможно",
-    "query": "Возможно",
-    "rank": 13,
-    "tweet_count": "5,774 Tweets"
-  },
-  {
-    "name": "Благодарю",
-    "query": "Благодарю",
-    "rank": 14,
-    "tweet_count": null
+    "rank": 1,
+    "tweet_count": "1,070 Tweets"
   },
   {
     "name": "Игра Wordle",
     "query": "\"Игра Wordle\"",
-    "rank": 15,
-    "tweet_count": "1,089 Tweets"
+    "rank": 2,
+    "tweet_count": "1,102 Tweets"
+  },
+  {
+    "name": "Беларусь",
+    "query": "Беларусь",
+    "rank": 3,
+    "tweet_count": "2,052 Tweets"
+  },
+  {
+    "name": "#Belarus",
+    "query": "#Belarus",
+    "rank": 4,
+    "tweet_count": "1,877 Tweets"
+  },
+  {
+    "name": "Понимаю",
+    "query": "Понимаю",
+    "rank": 5,
+    "tweet_count": "12.8K Tweets"
+  },
+  {
+    "name": "Блин",
+    "query": "Блин",
+    "rank": 6,
+    "tweet_count": "8,392 Tweets"
+  },
+  {
+    "name": "Ukraine",
+    "query": "Ukraine",
+    "rank": 7,
+    "tweet_count": "236K Tweets"
+  },
+  {
+    "name": "Ладно",
+    "query": "Ладно",
+    "rank": 8,
+    "tweet_count": "9,004 Tweets"
   }
 ]
