@@ -3,89 +3,89 @@
     "name": "Saison",
     "query": "Saison",
     "rank": 1,
-    "tweet_count": "20.2K Tweets"
+    "tweet_count": "20.8K Tweets"
   },
   {
     "name": "Fußball",
     "query": "Fußball",
     "rank": 2,
-    "tweet_count": "3,199 Tweets"
+    "tweet_count": "3,417 Tweets"
+  },
+  {
+    "name": "Spieler",
+    "query": "Spieler",
+    "rank": 3,
+    "tweet_count": "3,448 Tweets"
+  },
+  {
+    "name": "Gegner",
+    "query": "Gegner",
+    "rank": 4,
+    "tweet_count": "1,327 Tweets"
   },
   {
     "name": "Punkte",
     "query": "Punkte",
-    "rank": 3,
-    "tweet_count": "1,571 Tweets"
+    "rank": 5,
+    "tweet_count": "1,743 Tweets"
+  },
+  {
+    "name": "Freiburg",
+    "query": "Freiburg",
+    "rank": 6,
+    "tweet_count": "2,956 Tweets"
   },
   {
     "name": "#TSGBVB",
     "query": "#TSGBVB",
-    "rank": 4,
-    "tweet_count": "3,623 Tweets"
-  },
-  {
-    "name": "#SCFVfB",
-    "query": "#SCFVfB",
-    "rank": 5,
-    "tweet_count": "1,990 Tweets"
+    "rank": 7,
+    "tweet_count": "4,011 Tweets"
   },
   {
     "name": "#BMGFCU",
     "query": "#BMGFCU",
-    "rank": 6,
-    "tweet_count": "1,891 Tweets"
+    "rank": 8,
+    "tweet_count": "2,161 Tweets"
+  },
+  {
+    "name": "#SCFVfB",
+    "query": "#SCFVfB",
+    "rank": 9,
+    "tweet_count": "2,196 Tweets"
   },
   {
     "name": "#B04FCA",
     "query": "#B04FCA",
-    "rank": 7,
-    "tweet_count": "1,176 Tweets"
+    "rank": 10,
+    "tweet_count": "1,343 Tweets"
   },
   {
     "name": "#SCPSVW",
     "query": "#SCPSVW",
-    "rank": 8,
-    "tweet_count": "3,801 Tweets"
+    "rank": 11,
+    "tweet_count": "3,826 Tweets"
   },
   {
     "name": "Fehlentscheidung",
     "query": "Fehlentscheidung",
-    "rank": 9,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Witsel",
     "query": "Witsel",
-    "rank": 10,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Elfer",
     "query": "Elfer",
-    "rank": 11,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Elfmeter",
     "query": "Elfmeter",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Gegentor",
-    "query": "Gegentor",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Tore",
-    "query": "Tore",
-    "rank": 14,
-    "tweet_count": "19.4K Tweets"
-  },
-  {
-    "name": "Schiri",
-    "query": "Schiri",
     "rank": 15,
     "tweet_count": null
   },
@@ -93,29 +93,29 @@
     "name": "Mannschaft",
     "query": "Mannschaft",
     "rank": 16,
-    "tweet_count": "1,147 Tweets"
+    "tweet_count": "1,299 Tweets"
   },
   {
-    "name": "Haaland",
-    "query": "Haaland",
+    "name": "Tore",
+    "query": "Tore",
     "rank": 17,
-    "tweet_count": "16.6K Tweets"
-  },
-  {
-    "name": "namjoon",
-    "query": "namjoon",
-    "rank": 18,
-    "tweet_count": "231K Tweets"
-  },
-  {
-    "name": "Akanji",
-    "query": "Akanji",
-    "rank": 19,
-    "tweet_count": "1,052 Tweets"
+    "tweet_count": "19.7K Tweets"
   },
   {
     "name": "Fürth",
     "query": "Fürth",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Sieg",
+    "query": "Sieg",
+    "rank": 19,
+    "tweet_count": "3,708 Tweets"
+  },
+  {
+    "name": "Gegentor",
+    "query": "Gegentor",
     "rank": 20,
     "tweet_count": null
   }

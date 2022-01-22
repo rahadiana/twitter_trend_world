@@ -1,9 +1,9 @@
 [
   {
-    "name": "#srfarena",
-    "query": "#srfarena",
+    "name": "#SRFArena",
+    "query": "#SRFArena",
     "rank": 1,
-    "tweet_count": "1,118 Tweets"
+    "tweet_count": "1,133 Tweets"
   },
   {
     "name": "Mediengesetz",
@@ -15,25 +15,25 @@
     "name": "Zemmour",
     "query": "Zemmour",
     "rank": 3,
-    "tweet_count": "109K Tweets"
+    "tweet_count": "112K Tweets"
   },
   {
     "name": "Le Mot",
     "query": "\"Le Mot\"",
     "rank": 4,
-    "tweet_count": "10K Tweets"
+    "tweet_count": "10.3K Tweets"
   },
   {
     "name": "Journalismus",
     "query": "Journalismus",
     "rank": 5,
-    "tweet_count": "1,878 Tweets"
+    "tweet_count": "1,943 Tweets"
   },
   {
     "name": "Luft",
     "query": "Luft",
     "rank": 6,
-    "tweet_count": "3,003 Tweets"
+    "tweet_count": "3,096 Tweets"
   },
   {
     "name": "#DVglpCH",
@@ -45,60 +45,60 @@
     "name": "Ukraine",
     "query": "Ukraine",
     "rank": 8,
-    "tweet_count": "230K Tweets"
+    "tweet_count": "239K Tweets"
   },
   {
-    "name": "Zeitungen",
-    "query": "Zeitungen",
+    "name": "zeitungen",
+    "query": "zeitungen",
     "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Dave Ryding",
+    "query": "\"Dave Ryding\"",
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Unterstützung",
     "query": "Unterstützung",
-    "rank": 10,
-    "tweet_count": "2,187 Tweets"
+    "rank": 11,
+    "tweet_count": "2,261 Tweets"
   },
   {
-    "name": "Dave Ryding",
-    "query": "\"Dave Ryding\"",
-    "rank": 11,
-    "tweet_count": null
+    "name": "Demo",
+    "query": "Demo",
+    "rank": 12,
+    "tweet_count": "58.3K Tweets"
   },
   {
     "name": "#cryptocrash",
     "query": "#cryptocrash",
-    "rank": 12,
-    "tweet_count": "53.3K Tweets"
+    "rank": 13,
+    "tweet_count": "55.3K Tweets"
   },
   {
     "name": "Integration",
     "query": "Integration",
-    "rank": 13,
-    "tweet_count": "17.7K Tweets"
+    "rank": 14,
+    "tweet_count": "18.1K Tweets"
+  },
+  {
+    "name": "AKWs",
+    "query": "AKWs",
+    "rank": 15,
+    "tweet_count": null
   },
   {
     "name": "Cameroun",
     "query": "Cameroun",
-    "rank": 14,
-    "tweet_count": "23.8K Tweets"
-  },
-  {
-    "name": "Inhalt",
-    "query": "Inhalt",
-    "rank": 15,
-    "tweet_count": "1,581 Tweets"
-  },
-  {
-    "name": "\"Chicorée\"",
-    "query": "\"Chicorée\"",
     "rank": 16,
-    "tweet_count": null
+    "tweet_count": "26.5K Tweets"
   },
   {
-    "name": "Alex",
-    "query": "Alex",
+    "name": "Verbot",
+    "query": "Verbot",
     "rank": 17,
-    "tweet_count": "213K Tweets"
+    "tweet_count": "1,473 Tweets"
   }
 ]
