@@ -1,69 +1,69 @@
 [
   {
-    "name": "#Bitcoin",
-    "query": "#Bitcoin",
-    "rank": 1,
-    "tweet_count": "439K Tweets"
-  },
-  {
     "name": "#scpsvw",
     "query": "#scpsvw",
-    "rank": 2,
-    "tweet_count": "2,955 Tweets"
+    "rank": 1,
+    "tweet_count": "3,375 Tweets"
   },
   {
-    "name": "#werder",
-    "query": "#werder",
-    "rank": 3,
-    "tweet_count": "1,746 Tweets"
+    "name": "#Werder",
+    "query": "#Werder",
+    "rank": 2,
+    "tweet_count": "2,003 Tweets"
   },
   {
     "name": "#Merz",
     "query": "#Merz",
+    "rank": 3,
+    "tweet_count": "3,595 Tweets"
+  },
+  {
+    "name": "#cdupt22",
+    "query": "#cdupt22",
     "rank": 4,
-    "tweet_count": "3,528 Tweets"
+    "tweet_count": "3,590 Tweets"
   },
   {
     "name": "Paderborn",
     "query": "Paderborn",
     "rank": 5,
-    "tweet_count": "1,258 Tweets"
-  },
-  {
-    "name": "Welz",
-    "query": "Welz",
-    "rank": 6,
-    "tweet_count": null
+    "tweet_count": "1,359 Tweets"
   },
   {
     "name": "Schiri",
     "query": "Schiri",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "Chan",
     "query": "Chan",
+    "rank": 7,
+    "tweet_count": "390K Tweets"
+  },
+  {
+    "name": "Ole Werner",
+    "query": "\"Ole Werner\"",
     "rank": 8,
-    "tweet_count": "363K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Welz",
+    "query": "Welz",
+    "rank": 9,
+    "tweet_count": null
   },
   {
     "name": "Anzeigen",
     "query": "Anzeigen",
-    "rank": 9,
-    "tweet_count": "1,452 Tweets"
+    "rank": 10,
+    "tweet_count": "1,508 Tweets"
   },
   {
     "name": "Foul",
     "query": "Foul",
-    "rank": 10,
-    "tweet_count": "26.8K Tweets"
-  },
-  {
-    "name": "Elfer",
-    "query": "Elfer",
     "rank": 11,
-    "tweet_count": null
+    "tweet_count": "27.1K Tweets"
   },
   {
     "name": "Freistoß",
@@ -72,45 +72,45 @@
     "tweet_count": null
   },
   {
-    "name": "Schiedsrichter",
-    "query": "Schiedsrichter",
+    "name": "Kommentator",
+    "query": "Kommentator",
     "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Acker",
-    "query": "Acker",
-    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Vorsitzenden",
     "query": "Vorsitzenden",
-    "rank": 15,
-    "tweet_count": "1,141 Tweets"
+    "rank": 14,
+    "tweet_count": "1,157 Tweets"
   },
   {
     "name": "Nestlé",
     "query": "Nestlé",
-    "rank": 16,
-    "tweet_count": "6,807 Tweets"
+    "rank": 15,
+    "tweet_count": "6,895 Tweets"
   },
   {
-    "name": "Kommentator",
-    "query": "Kommentator",
-    "rank": 17,
+    "name": "Acker",
+    "query": "Acker",
+    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "Recherche",
-    "query": "Recherche",
-    "rank": 18,
-    "tweet_count": "16.1K Tweets"
+    "name": "Parteitag",
+    "query": "Parteitag",
+    "rank": 17,
+    "tweet_count": "1,986 Tweets"
   },
   {
-    "name": "fakes",
-    "query": "fakes",
+    "name": "Fakes",
+    "query": "Fakes",
+    "rank": 18,
+    "tweet_count": "6,990 Tweets"
+  },
+  {
+    "name": "Generalsekretär",
+    "query": "Generalsekretär",
     "rank": 19,
-    "tweet_count": "6,897 Tweets"
+    "tweet_count": null
   }
 ]

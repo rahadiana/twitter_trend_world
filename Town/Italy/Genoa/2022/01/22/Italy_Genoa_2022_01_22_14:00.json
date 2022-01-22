@@ -1,25 +1,25 @@
 [
   {
-    "name": "#gfvip",
-    "query": "#gfvip",
-    "rank": 1,
-    "tweet_count": "174K Tweets"
-  },
-  {
     "name": "#alternanzascuolalavoro",
     "query": "#alternanzascuolalavoro",
-    "rank": 2,
-    "tweet_count": "3,264 Tweets"
+    "rank": 1,
+    "tweet_count": "3,338 Tweets"
   },
   {
     "name": "#Balotelli",
     "query": "#Balotelli",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "#tvtalk",
+    "query": "#tvtalk",
     "rank": 3,
     "tweet_count": null
   },
   {
-    "name": "#twittamibeautiful",
-    "query": "#twittamibeautiful",
+    "name": "#JuveFiorentina",
+    "query": "#JuveFiorentina",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,19 +27,19 @@
     "name": "Lazetic",
     "query": "Lazetic",
     "rank": 5,
-    "tweet_count": "1,677 Tweets"
-  },
-  {
-    "name": "#GenoaUdinese",
-    "query": "#GenoaUdinese",
-    "rank": 6,
-    "tweet_count": null
+    "tweet_count": "1,804 Tweets"
   },
   {
     "name": "Chan",
     "query": "Chan",
+    "rank": 6,
+    "tweet_count": "390K Tweets"
+  },
+  {
+    "name": "Bocconi",
+    "query": "Bocconi",
     "rank": 7,
-    "tweet_count": "363K Tweets"
+    "tweet_count": "1,602 Tweets"
   },
   {
     "name": "Forza Alessandro",
@@ -48,75 +48,69 @@
     "tweet_count": null
   },
   {
-    "name": "Bocconi",
-    "query": "Bocconi",
-    "rank": 9,
-    "tweet_count": "1,566 Tweets"
-  },
-  {
     "name": "Sofia Goggia",
     "query": "\"Sofia Goggia\"",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
+  },
+  {
+    "name": "Cilic",
+    "query": "Cilic",
+    "rank": 10,
+    "tweet_count": "4,457 Tweets"
   },
   {
     "name": "Cortina",
     "query": "Cortina",
     "rank": 11,
-    "tweet_count": "4,979 Tweets"
+    "tweet_count": "5,042 Tweets"
   },
   {
-    "name": "Cilic",
-    "query": "Cilic",
+    "name": "Rublev",
+    "query": "Rublev",
     "rank": 12,
-    "tweet_count": "4,348 Tweets"
+    "tweet_count": "6,005 Tweets"
   },
   {
-    "name": "Thomas",
-    "query": "Thomas",
+    "name": "Steffy",
+    "query": "Steffy",
     "rank": 13,
-    "tweet_count": "175K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Vlahovic",
-    "query": "Vlahovic",
+    "name": "Condoglianze Gianluca",
+    "query": "\"Condoglianze Gianluca\"",
     "rank": 14,
-    "tweet_count": "16.9K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Condoglianze",
-    "query": "Condoglianze",
+    "name": "Pellegri",
+    "query": "Pellegri",
     "rank": 15,
-    "tweet_count": "3,241 Tweets"
+    "tweet_count": "2,366 Tweets"
+  },
+  {
+    "name": "Lucarelli",
+    "query": "Lucarelli",
+    "rank": 16,
+    "tweet_count": null
   },
   {
     "name": "Lapo",
     "query": "Lapo",
-    "rank": 16,
-    "tweet_count": "1,480 Tweets"
-  },
-  {
-    "name": "Montanari",
-    "query": "Montanari",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "1,505 Tweets"
   },
   {
     "name": "Jannik",
     "query": "Jannik",
     "rank": 18,
-    "tweet_count": "2,125 Tweets"
+    "tweet_count": "2,147 Tweets"
   },
   {
-    "name": "Pellegri",
-    "query": "Pellegri",
+    "name": "buon sabato",
+    "query": "\"buon sabato\"",
     "rank": 19,
-    "tweet_count": "2,296 Tweets"
-  },
-  {
-    "name": "Buon Sabato",
-    "query": "\"Buon Sabato\"",
-    "rank": 20,
-    "tweet_count": "5,261 Tweets"
+    "tweet_count": "5,307 Tweets"
   }
 ]
