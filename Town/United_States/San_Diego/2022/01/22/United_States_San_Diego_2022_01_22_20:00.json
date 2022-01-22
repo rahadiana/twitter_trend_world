@@ -3,19 +3,19 @@
     "name": "Game Day",
     "query": "\"Game Day\"",
     "rank": 1,
-    "tweet_count": "56K Tweets"
+    "tweet_count": "57K Tweets"
   },
   {
-    "name": "#ColoradoFire",
-    "query": "#ColoradoFire",
+    "name": "#SaturdayMorning",
+    "query": "#SaturdayMorning",
     "rank": 2,
-    "tweet_count": "5,533 Tweets"
+    "tweet_count": "34.6K Tweets"
   },
   {
-    "name": "Scarface",
-    "query": "Scarface",
+    "name": "Martial",
+    "query": "Martial",
     "rank": 3,
-    "tweet_count": "2,685 Tweets"
+    "tweet_count": "67K Tweets"
   },
   {
     "name": "#49ersfaithful",
@@ -24,93 +24,93 @@
     "tweet_count": null
   },
   {
+    "name": "#ColoradoFire",
+    "query": "#ColoradoFire",
+    "rank": 5,
+    "tweet_count": "5,606 Tweets"
+  },
+  {
+    "name": "#SFvsGB",
+    "query": "#SFvsGB",
+    "rank": 6,
+    "tweet_count": "12.7K Tweets"
+  },
+  {
     "name": "#Wordle217",
     "query": "#Wordle217",
-    "rank": 5,
-    "tweet_count": "2,794 Tweets"
+    "rank": 7,
+    "tweet_count": "2,808 Tweets"
+  },
+  {
+    "name": "Big Sur",
+    "query": "\"Big Sur\"",
+    "rank": 8,
+    "tweet_count": "7,886 Tweets"
   },
   {
     "name": "Santa Ana",
     "query": "\"Santa Ana\"",
-    "rank": 6,
-    "tweet_count": "4,616 Tweets"
+    "rank": 9,
+    "tweet_count": "4,670 Tweets"
   },
   {
-    "name": "Prada",
-    "query": "Prada",
-    "rank": 7,
-    "tweet_count": "18.7K Tweets"
+    "name": "Gane",
+    "query": "Gane",
+    "rank": 10,
+    "tweet_count": "52.3K Tweets"
   },
   {
-    "name": "#Sundance",
-    "query": "#Sundance",
-    "rank": 8,
-    "tweet_count": "3,052 Tweets"
+    "name": "The Devil Wears Prada",
+    "query": "\"The Devil Wears Prada\"",
+    "rank": 11,
+    "tweet_count": "3,600 Tweets"
   },
   {
     "name": "Francis",
     "query": "Francis",
-    "rank": 9,
-    "tweet_count": "51.4K Tweets"
+    "rank": 12,
+    "tweet_count": "52K Tweets"
   },
   {
     "name": "Ukrainian",
     "query": "Ukrainian",
-    "rank": 10,
-    "tweet_count": "25.3K Tweets"
-  },
-  {
-    "name": "#GI22",
-    "query": "#GI22",
-    "rank": 11,
-    "tweet_count": "2,544 Tweets"
+    "rank": 13,
+    "tweet_count": "25.8K Tweets"
   },
   {
     "name": "Auburn",
     "query": "Auburn",
-    "rank": 12,
-    "tweet_count": "30K Tweets"
+    "rank": 14,
+    "tweet_count": "31.1K Tweets"
+  },
+  {
+    "name": "Grayson Allen",
+    "query": "\"Grayson Allen\"",
+    "rank": 15,
+    "tweet_count": "28.9K Tweets"
   },
   {
     "name": "Packers",
     "query": "Packers",
-    "rank": 13,
-    "tweet_count": "74.7K Tweets"
+    "rank": 16,
+    "tweet_count": "76.5K Tweets"
   },
   {
     "name": "Titans",
     "query": "Titans",
-    "rank": 14,
-    "tweet_count": "81.8K Tweets"
-  },
-  {
-    "name": "Jabari Smith",
-    "query": "\"Jabari Smith\"",
-    "rank": 15,
-    "tweet_count": "1,932 Tweets"
-  },
-  {
-    "name": "Paid in Full",
-    "query": "\"Paid in Full\"",
-    "rank": 16,
-    "tweet_count": "3,218 Tweets"
-  },
-  {
-    "name": "Arizona Democratic Party",
-    "query": "\"Arizona Democratic Party\"",
     "rank": 17,
-    "tweet_count": "26.2K Tweets"
+    "tweet_count": "84.5K Tweets"
   },
   {
-    "name": "Southampton",
-    "query": "Southampton",
+    "name": "TyTy",
+    "query": "TyTy",
     "rank": 18,
-    "tweet_count": "42.2K Tweets"
+    "tweet_count": "6,755 Tweets"
   },
   {
-    "name": "Flyers",
-    "query": "Flyers",
+    "name": "Wheeler",
+    "query": "Wheeler",
     "rank": 19,
-    "tweet_count": "7,433 Tweets"
+    "tweet_count": "7,818 Tweets"
   }
 ]
