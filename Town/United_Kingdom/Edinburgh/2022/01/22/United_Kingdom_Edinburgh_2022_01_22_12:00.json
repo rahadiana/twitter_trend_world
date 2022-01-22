@@ -1,39 +1,39 @@
 [
   {
-    "name": "Russia",
-    "query": "Russia",
-    "rank": 1,
-    "tweet_count": "207K Tweets"
-  },
-  {
     "name": "#EVEAVL",
     "query": "#EVEAVL",
-    "rank": 2,
-    "tweet_count": "5,346 Tweets"
+    "rank": 1,
+    "tweet_count": "7,860 Tweets"
   },
   {
     "name": "#Caturday",
     "query": "#Caturday",
-    "rank": 3,
-    "tweet_count": "8,041 Tweets"
+    "rank": 2,
+    "tweet_count": "8,830 Tweets"
   },
   {
     "name": "Daniel Craig",
     "query": "\"Daniel Craig\"",
-    "rank": 4,
-    "tweet_count": "3,143 Tweets"
+    "rank": 3,
+    "tweet_count": "3,247 Tweets"
   },
   {
     "name": "#SaturdayMorning",
     "query": "#SaturdayMorning",
-    "rank": 5,
-    "tweet_count": "20.9K Tweets"
+    "rank": 4,
+    "tweet_count": "21.8K Tweets"
   },
   {
-    "name": "#NFFC",
-    "query": "#NFFC",
+    "name": "Patterson",
+    "query": "Patterson",
+    "rank": 5,
+    "tweet_count": "3,910 Tweets"
+  },
+  {
+    "name": "#EVEAST",
+    "query": "#EVEAST",
     "rank": 6,
-    "tweet_count": "3,959 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Holgate",
@@ -42,69 +42,75 @@
     "tweet_count": null
   },
   {
-    "name": "Patterson",
-    "query": "Patterson",
-    "rank": 8,
-    "tweet_count": "3,818 Tweets"
-  },
-  {
     "name": "#parkrun",
     "query": "#parkrun",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "Andrew Castle",
+    "query": "\"Andrew Castle\"",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Dover",
-    "query": "Dover",
+    "name": "Mykolenko",
+    "query": "Mykolenko",
     "rank": 10,
-    "tweet_count": "75.3K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Game Day",
     "query": "\"Game Day\"",
     "rank": 11,
-    "tweet_count": "44.4K Tweets"
+    "tweet_count": "45K Tweets"
   },
   {
-    "name": "Andrew Castle",
-    "query": "\"Andrew Castle\"",
+    "name": "Dover",
+    "query": "Dover",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "77.2K Tweets"
   },
   {
     "name": "Wordle 217 X",
     "query": "\"Wordle 217 X\"",
     "rank": 13,
-    "tweet_count": "4,097 Tweets"
-  },
-  {
-    "name": "Nicki",
-    "query": "Nicki",
-    "rank": 14,
-    "tweet_count": "27.5K Tweets"
+    "tweet_count": "4,244 Tweets"
   },
   {
     "name": "Tom Hardy",
     "query": "\"Tom Hardy\"",
-    "rank": 15,
-    "tweet_count": "1,643 Tweets"
-  },
-  {
-    "name": "Chris Boardman",
-    "query": "\"Chris Boardman\"",
-    "rank": 16,
-    "tweet_count": "3,910 Tweets"
+    "rank": 14,
+    "tweet_count": "1,842 Tweets"
   },
   {
     "name": "Cilic",
     "query": "Cilic",
-    "rank": 17,
-    "tweet_count": "2,133 Tweets"
+    "rank": 15,
+    "tweet_count": "3,060 Tweets"
   },
   {
-    "name": "Soccer AM",
-    "query": "\"Soccer AM\"",
-    "rank": 18,
+    "name": "The Chauffeur",
+    "query": "\"The Chauffeur\"",
+    "rank": 16,
     "tweet_count": null
+  },
+  {
+    "name": "Regina King",
+    "query": "\"Regina King\"",
+    "rank": 17,
+    "tweet_count": "21.1K Tweets"
+  },
+  {
+    "name": "Nicki",
+    "query": "Nicki",
+    "rank": 18,
+    "tweet_count": "27.9K Tweets"
+  },
+  {
+    "name": "Igbo",
+    "query": "Igbo",
+    "rank": 19,
+    "tweet_count": "20.6K Tweets"
   }
 ]
