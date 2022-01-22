@@ -1,81 +1,81 @@
 [
   {
+    "name": "Fehlentscheidung",
+    "query": "Fehlentscheidung",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "Saison",
     "query": "Saison",
-    "rank": 1,
-    "tweet_count": "22.1K Tweets"
+    "rank": 2,
+    "tweet_count": "23K Tweets"
   },
   {
     "name": "#DSDS",
     "query": "#DSDS",
-    "rank": 2,
-    "tweet_count": "5,452 Tweets"
+    "rank": 3,
+    "tweet_count": "5,487 Tweets"
   },
   {
     "name": "#AUES04",
     "query": "#AUES04",
-    "rank": 3,
-    "tweet_count": "2,086 Tweets"
+    "rank": 4,
+    "tweet_count": "2,113 Tweets"
   },
   {
     "name": "#TeamFreiheit",
     "query": "#TeamFreiheit",
-    "rank": 4,
-    "tweet_count": "1,475 Tweets"
-  },
-  {
-    "name": "#CINvsTEN",
-    "query": "#CINvsTEN",
     "rank": 5,
-    "tweet_count": "15.2K Tweets"
+    "tweet_count": "1,540 Tweets"
   },
   {
-    "name": "Jury",
-    "query": "Jury",
+    "name": "#Titans",
+    "query": "#Titans",
     "rank": 6,
-    "tweet_count": "20.8K Tweets"
+    "tweet_count": "19.8K Tweets"
+  },
+  {
+    "name": "Janina",
+    "query": "Janina",
+    "rank": 7,
+    "tweet_count": null
   },
   {
     "name": "Tag 2",
     "query": "\"Tag 2\"",
-    "rank": 7,
-    "tweet_count": "433K Tweets"
-  },
-  {
-    "name": "Hamm",
-    "query": "Hamm",
     "rank": 8,
-    "tweet_count": "2,488 Tweets"
+    "tweet_count": "436K Tweets"
   },
   {
     "name": "#BOCKOE",
     "query": "#BOCKOE",
     "rank": 9,
-    "tweet_count": "1,537 Tweets"
+    "tweet_count": "1,538 Tweets"
+  },
+  {
+    "name": "Hamm",
+    "query": "Hamm",
+    "rank": 10,
+    "tweet_count": "2,596 Tweets"
+  },
+  {
+    "name": "Jury",
+    "query": "Jury",
+    "rank": 11,
+    "tweet_count": "20.9K Tweets"
   },
   {
     "name": "Vindheim",
     "query": "Vindheim",
-    "rank": 10,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Jasmin",
     "query": "Jasmin",
-    "rank": 11,
-    "tweet_count": "9,371 Tweets"
-  },
-  {
-    "name": "Willi",
-    "query": "Willi",
-    "rank": 12,
-    "tweet_count": "1,860 Tweets"
-  },
-  {
-    "name": "Schalke",
-    "query": "Schalke",
     "rank": 13,
-    "tweet_count": "1,849 Tweets"
+    "tweet_count": "9,449 Tweets"
   },
   {
     "name": "Bohlen",
@@ -84,39 +84,39 @@
     "tweet_count": null
   },
   {
+    "name": "Willi",
+    "query": "Willi",
+    "rank": 15,
+    "tweet_count": "1,905 Tweets"
+  },
+  {
+    "name": "Schalke",
+    "query": "Schalke",
+    "rank": 16,
+    "tweet_count": "1,885 Tweets"
+  },
+  {
     "name": "Admiral",
     "query": "Admiral",
-    "rank": 15,
-    "tweet_count": "11.1K Tweets"
+    "rank": 17,
+    "tweet_count": "11.4K Tweets"
   },
   {
     "name": "Samstagabend",
     "query": "Samstagabend",
-    "rank": 16,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Krim",
     "query": "Krim",
-    "rank": 17,
-    "tweet_count": "4,078 Tweets"
-  },
-  {
-    "name": "Dieter",
-    "query": "Dieter",
-    "rank": 18,
-    "tweet_count": "1,709 Tweets"
-  },
-  {
-    "name": "Tore",
-    "query": "Tore",
     "rank": 19,
-    "tweet_count": "15.7K Tweets"
+    "tweet_count": "4,133 Tweets"
   },
   {
-    "name": "Grammozis",
-    "query": "Grammozis",
+    "name": "Nestlé",
+    "query": "Nestlé",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "6,618 Tweets"
   }
 ]
