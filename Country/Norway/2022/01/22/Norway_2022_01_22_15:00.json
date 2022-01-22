@@ -1,21 +1,21 @@
 [
   {
-    "name": "Dennis",
-    "query": "Dennis",
-    "rank": 1,
-    "tweet_count": "55.2K Tweets"
-  },
-  {
     "name": "Taliban",
     "query": "Taliban",
+    "rank": 1,
+    "tweet_count": "41.2K Tweets"
+  },
+  {
+    "name": "Dennis",
+    "query": "Dennis",
     "rank": 2,
-    "tweet_count": "40.4K Tweets"
+    "tweet_count": "55.7K Tweets"
   },
   {
     "name": "Everton",
     "query": "Everton",
     "rank": 3,
-    "tweet_count": "68.3K Tweets"
+    "tweet_count": "71.6K Tweets"
   },
   {
     "name": "Dave Ryding",
@@ -39,84 +39,84 @@
     "name": "Ronaldo",
     "query": "Ronaldo",
     "rank": 7,
-    "tweet_count": "83.7K Tweets"
+    "tweet_count": "88.2K Tweets"
   },
   {
     "name": "Watford",
     "query": "Watford",
     "rank": 8,
-    "tweet_count": "38.7K Tweets"
+    "tweet_count": "38.9K Tweets"
+  },
+  {
+    "name": "Problemet",
+    "query": "Problemet",
+    "rank": 9,
+    "tweet_count": null
   },
   {
     "name": "Norwich",
     "query": "Norwich",
-    "rank": 9,
-    "tweet_count": "39K Tweets"
-  },
-  {
-    "name": "problemet",
-    "query": "problemet",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "39.3K Tweets"
   },
   {
-    "name": "Goodison",
-    "query": "Goodison",
+    "name": "West Ham",
+    "query": "\"West Ham\"",
     "rank": 11,
-    "tweet_count": "7,573 Tweets"
+    "tweet_count": "40.8K Tweets"
   },
   {
     "name": "#Norway",
     "query": "#Norway",
     "rank": 12,
-    "tweet_count": "1,566 Tweets"
-  },
-  {
-    "name": "West Ham",
-    "query": "\"West Ham\"",
-    "rank": 13,
-    "tweet_count": "37.1K Tweets"
+    "tweet_count": "1,590 Tweets"
   },
   {
     "name": "TV 2",
     "query": "\"TV 2\"",
-    "rank": 14,
-    "tweet_count": "62.1K Tweets"
+    "rank": 13,
+    "tweet_count": "63.2K Tweets"
   },
   {
     "name": "Maguire",
     "query": "Maguire",
+    "rank": 14,
+    "tweet_count": "30.8K Tweets"
+  },
+  {
+    "name": "#nrksport",
+    "query": "#nrksport",
     "rank": 15,
-    "tweet_count": "29K Tweets"
+    "tweet_count": null
   },
   {
     "name": "nytt",
     "query": "nytt",
     "rank": 16,
-    "tweet_count": "1,109 Tweets"
-  },
-  {
-    "name": "#nrksport",
-    "query": "#nrksport",
-    "rank": 17,
-    "tweet_count": null
+    "tweet_count": "1,147 Tweets"
   },
   {
     "name": "#fintwit",
     "query": "#fintwit",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Qatar",
     "query": "Qatar",
-    "rank": 19,
-    "tweet_count": "20.3K Tweets"
+    "rank": 18,
+    "tweet_count": "22.7K Tweets"
   },
   {
-    "name": "Ukraine",
-    "query": "Ukraine",
+    "name": "Venstre",
+    "query": "Venstre",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Meat Loaf",
+    "query": "\"Meat Loaf\"",
     "rank": 20,
-    "tweet_count": "227K Tweets"
+    "tweet_count": "106K Tweets"
   }
 ]
