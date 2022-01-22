@@ -1,9 +1,9 @@
 [
   {
-    "name": "Everton",
-    "query": "Everton",
+    "name": "#EVEAVL",
+    "query": "#EVEAVL",
     "rank": 1,
-    "tweet_count": "47.2K Tweets"
+    "tweet_count": "11.4K Tweets"
   },
   {
     "name": "#EVEAST",
@@ -15,67 +15,67 @@
     "name": "Mings",
     "query": "Mings",
     "rank": 3,
-    "tweet_count": "1,809 Tweets"
+    "tweet_count": "1,964 Tweets"
   },
   {
     "name": "#NFFC",
     "query": "#NFFC",
     "rank": 4,
-    "tweet_count": "4,854 Tweets"
+    "tweet_count": "5,087 Tweets"
+  },
+  {
+    "name": "Jacob Ramsey",
+    "query": "\"Jacob Ramsey\"",
+    "rank": 5,
+    "tweet_count": null
   },
   {
     "name": "Watkins",
     "query": "Watkins",
-    "rank": 5,
-    "tweet_count": "4,243 Tweets"
+    "rank": 6,
+    "tweet_count": "4,416 Tweets"
+  },
+  {
+    "name": "Daniel Craig",
+    "query": "\"Daniel Craig\"",
+    "rank": 7,
+    "tweet_count": "3,389 Tweets"
   },
   {
     "name": "Richarlison",
     "query": "Richarlison",
-    "rank": 6,
-    "tweet_count": "1,423 Tweets"
-  },
-  {
-    "name": "Bond",
-    "query": "Bond",
-    "rank": 7,
-    "tweet_count": "69.7K Tweets"
+    "rank": 8,
+    "tweet_count": "1,568 Tweets"
   },
   {
     "name": "#Caturday",
     "query": "#Caturday",
-    "rank": 8,
-    "tweet_count": "10.4K Tweets"
-  },
-  {
-    "name": "Big Dunc",
-    "query": "\"Big Dunc\"",
     "rank": 9,
-    "tweet_count": "2,739 Tweets"
+    "tweet_count": "11K Tweets"
   },
   {
     "name": "Jonbon",
     "query": "Jonbon",
     "rank": 10,
-    "tweet_count": "1,684 Tweets"
+    "tweet_count": "1,756 Tweets"
   },
   {
-    "name": "Holgate",
-    "query": "Holgate",
+    "name": "Big Dunc",
+    "query": "\"Big Dunc\"",
     "rank": 11,
-    "tweet_count": null
+    "tweet_count": "2,794 Tweets"
   },
   {
     "name": "Townsend",
     "query": "Townsend",
     "rank": 12,
-    "tweet_count": "1,813 Tweets"
+    "tweet_count": "1,912 Tweets"
   },
   {
-    "name": "Gomes",
-    "query": "Gomes",
+    "name": "Holgate",
+    "query": "Holgate",
     "rank": 13,
-    "tweet_count": "30.7K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Lucozade",
@@ -84,27 +84,27 @@
     "tweet_count": null
   },
   {
+    "name": "Gomes",
+    "query": "Gomes",
+    "rank": 15,
+    "tweet_count": "31.1K Tweets"
+  },
+  {
+    "name": "Andrew Castle",
+    "query": "\"Andrew Castle\"",
+    "rank": 16,
+    "tweet_count": "1,374 Tweets"
+  },
+  {
     "name": "Doucoure",
     "query": "Doucoure",
-    "rank": 15,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "David Maxwell",
     "query": "\"David Maxwell\"",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "McGinn",
-    "query": "McGinn",
-    "rank": 17,
-    "tweet_count": "1,273 Tweets"
-  },
-  {
-    "name": "#SaturdayMorning",
-    "query": "#SaturdayMorning",
     "rank": 18,
-    "tweet_count": "23.2K Tweets"
+    "tweet_count": null
   }
 ]
