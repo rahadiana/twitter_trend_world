@@ -1,39 +1,39 @@
 [
   {
-    "name": "Lakers",
-    "query": "Lakers",
-    "rank": 1,
-    "tweet_count": "120K Tweets"
-  },
-  {
     "name": "Patty",
     "query": "Patty",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "15.1K Tweets"
   },
   {
-    "name": "josh sargent",
-    "query": "\"josh sargent\"",
+    "name": "#PorVida",
+    "query": "#PorVida",
+    "rank": 2,
+    "tweet_count": "3,022 Tweets"
+  },
+  {
+    "name": "Gannon",
+    "query": "Gannon",
     "rank": 3,
-    "tweet_count": "11.6K Tweets"
+    "tweet_count": "2,327 Tweets"
   },
   {
-    "name": "Lost Lands",
-    "query": "\"Lost Lands\"",
+    "name": "karl",
+    "query": "karl",
     "rank": 4,
-    "tweet_count": "6,501 Tweets"
-  },
-  {
-    "name": "Nick Jonas",
-    "query": "\"Nick Jonas\"",
-    "rank": 5,
-    "tweet_count": "33.4K Tweets"
+    "tweet_count": "50.9K Tweets"
   },
   {
     "name": "#FaZe1",
     "query": "#FaZe1",
+    "rank": 5,
+    "tweet_count": "9,895 Tweets"
+  },
+  {
+    "name": "Panthers",
+    "query": "Panthers",
     "rank": 6,
-    "tweet_count": "10.3K Tweets"
+    "tweet_count": "15.2K Tweets"
   },
   {
     "name": "#FridayFeeling",
@@ -42,81 +42,81 @@
     "tweet_count": "28.3K Tweets"
   },
   {
+    "name": "#Meatloaf",
+    "query": "#Meatloaf",
+    "rank": 8,
+    "tweet_count": "55.4K Tweets"
+  },
+  {
+    "name": "Nick Jonas",
+    "query": "\"Nick Jonas\"",
+    "rank": 9,
+    "tweet_count": "34.2K Tweets"
+  },
+  {
     "name": "#UFC270",
     "query": "#UFC270",
-    "rank": 8,
-    "tweet_count": "46.1K Tweets"
-  },
-  {
-    "name": "#LunarNewYearXboxSweepstakes",
-    "query": "#LunarNewYearXboxSweepstakes",
-    "rank": 9,
-    "tweet_count": "25.6K Tweets"
-  },
-  {
-    "name": "#Ethereum",
-    "query": "#Ethereum",
     "rank": 10,
-    "tweet_count": "124K Tweets"
+    "tweet_count": "43.5K Tweets"
   },
   {
     "name": "McCown",
     "query": "McCown",
     "rank": 11,
-    "tweet_count": "5,156 Tweets"
+    "tweet_count": "4,919 Tweets"
   },
   {
     "name": "Robert Paulson",
     "query": "\"Robert Paulson\"",
     "rank": 12,
-    "tweet_count": "18.8K Tweets"
+    "tweet_count": "19K Tweets"
   },
   {
     "name": "Mean Girls",
     "query": "\"Mean Girls\"",
     "rank": 13,
-    "tweet_count": "4,979 Tweets"
+    "tweet_count": "5,547 Tweets"
+  },
+  {
+    "name": "Doc Rivers",
+    "query": "\"Doc Rivers\"",
+    "rank": 14,
+    "tweet_count": "1,309 Tweets"
   },
   {
     "name": "Durk",
     "query": "Durk",
-    "rank": 14,
-    "tweet_count": "12.6K Tweets"
-  },
-  {
-    "name": "Thich Nhat Hanh",
-    "query": "\"Thich Nhat Hanh\"",
     "rank": 15,
-    "tweet_count": "21.5K Tweets"
+    "tweet_count": "13.3K Tweets"
   },
   {
     "name": "Ozark",
     "query": "Ozark",
     "rank": 16,
-    "tweet_count": "56.7K Tweets"
+    "tweet_count": "57.8K Tweets"
+  },
+  {
+    "name": "Thich Nhat Hanh",
+    "query": "\"Thich Nhat Hanh\"",
+    "rank": 17,
+    "tweet_count": "23.8K Tweets"
   },
   {
     "name": "Harlem",
     "query": "Harlem",
-    "rank": 17,
-    "tweet_count": "11.5K Tweets"
+    "rank": 18,
+    "tweet_count": "13.5K Tweets"
+  },
+  {
+    "name": "Raising Arizona",
+    "query": "\"Raising Arizona\"",
+    "rank": 19,
+    "tweet_count": null
   },
   {
     "name": "Wink",
     "query": "Wink",
-    "rank": 18,
-    "tweet_count": "19K Tweets"
-  },
-  {
-    "name": "Suggs",
-    "query": "Suggs",
-    "rank": 19,
-    "tweet_count": "2,455 Tweets"
-  },
-  {
-    "name": "DeSmith",
-    "query": "DeSmith",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "19K Tweets"
   }
 ]
