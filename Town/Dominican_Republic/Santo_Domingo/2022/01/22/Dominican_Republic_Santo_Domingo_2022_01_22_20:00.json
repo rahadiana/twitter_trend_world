@@ -1,15 +1,15 @@
 [
   {
-    "name": "#DaniloQueriaVender",
-    "query": "#DaniloQueriaVender",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Uber",
     "query": "Uber",
+    "rank": 1,
+    "tweet_count": "57.4K Tweets"
+  },
+  {
+    "name": "#DaniloQueriaVender",
+    "query": "#DaniloQueriaVender",
     "rank": 2,
-    "tweet_count": "56.1K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#RDbrillaEnFITUR",
@@ -27,7 +27,7 @@
     "name": "Chile",
     "query": "Chile",
     "rank": 5,
-    "tweet_count": "173K Tweets"
+    "tweet_count": "176K Tweets"
   },
   {
     "name": "Virgen de La Altagracia",
@@ -42,10 +42,10 @@
     "tweet_count": null
   },
   {
-    "name": "los gigantes",
-    "query": "\"los gigantes\"",
+    "name": "Los Gigantes",
+    "query": "\"Los Gigantes\"",
     "rank": 8,
-    "tweet_count": "2,025 Tweets"
+    "tweet_count": "2,047 Tweets"
   },
   {
     "name": "#pldresponda",
@@ -99,13 +99,13 @@
     "name": "Curry",
     "query": "Curry",
     "rank": 17,
-    "tweet_count": "133K Tweets"
+    "tweet_count": "134K Tweets"
   },
   {
     "name": "Google",
     "query": "Google",
     "rank": 18,
-    "tweet_count": "617K Tweets"
+    "tweet_count": "623K Tweets"
   },
   {
     "name": "Concordato",
@@ -117,6 +117,6 @@
     "name": "Viagra",
     "query": "Viagra",
     "rank": 20,
-    "tweet_count": "5,340 Tweets"
+    "tweet_count": "5,420 Tweets"
   }
 ]
