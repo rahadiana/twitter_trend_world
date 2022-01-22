@@ -1,63 +1,63 @@
 [
   {
-    "name": "Mejía",
-    "query": "Mejía",
-    "rank": 1,
-    "tweet_count": "3,908 Tweets"
-  },
-  {
     "name": "Mantilla",
     "query": "Mantilla",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Mejía",
+    "query": "Mejía",
+    "rank": 2,
+    "tweet_count": "3,968 Tweets"
   },
   {
     "name": "Atlético",
     "query": "Atlético",
     "rank": 3,
-    "tweet_count": "44.1K Tweets"
+    "tweet_count": "46.6K Tweets"
   },
   {
     "name": "Valencia",
     "query": "Valencia",
     "rank": 4,
-    "tweet_count": "49.8K Tweets"
-  },
-  {
-    "name": "#YoApoyoAGuillen",
-    "query": "#YoApoyoAGuillen",
-    "rank": 5,
-    "tweet_count": "9,393 Tweets"
+    "tweet_count": "51.9K Tweets"
   },
   {
     "name": "Guzmán",
     "query": "Guzmán",
+    "rank": 5,
+    "tweet_count": "9,346 Tweets"
+  },
+  {
+    "name": "Restrepo",
+    "query": "Restrepo",
     "rank": 6,
-    "tweet_count": "9,217 Tweets"
+    "tweet_count": "1,758 Tweets"
+  },
+  {
+    "name": "#YoApoyoAGuillen",
+    "query": "#YoApoyoAGuillen",
+    "rank": 7,
+    "tweet_count": "9,670 Tweets"
+  },
+  {
+    "name": "Candelo",
+    "query": "Candelo",
+    "rank": 8,
+    "tweet_count": null
   },
   {
     "name": "#SquidCraftGames",
     "query": "#SquidCraftGames",
-    "rank": 7,
-    "tweet_count": "7,482 Tweets"
-  },
-  {
-    "name": "Cholo",
-    "query": "Cholo",
-    "rank": 8,
-    "tweet_count": "8,627 Tweets"
-  },
-  {
-    "name": "Cortuluá",
-    "query": "Cortuluá",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "8,246 Tweets"
   },
   {
-    "name": "Andorra",
-    "query": "Andorra",
+    "name": "Tuluá",
+    "query": "Tuluá",
     "rank": 10,
-    "tweet_count": "34.1K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Jarlan",
@@ -66,33 +66,39 @@
     "tweet_count": null
   },
   {
+    "name": "Andorra",
+    "query": "Andorra",
+    "rank": 12,
+    "tweet_count": "34.8K Tweets"
+  },
+  {
     "name": "#UribeParacoHpta",
     "query": "#UribeParacoHpta",
-    "rank": 12,
-    "tweet_count": "2,621 Tweets"
+    "rank": 13,
+    "tweet_count": "2,697 Tweets"
   },
   {
     "name": "#VamosNacional",
     "query": "#VamosNacional",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "rubius",
-    "query": "rubius",
-    "rank": 14,
-    "tweet_count": "16.6K Tweets"
+    "name": "#LeCumplimosaAtlántico",
+    "query": "#LeCumplimosaAtlántico",
+    "rank": 15,
+    "tweet_count": "1,675 Tweets"
   },
   {
-    "name": "Auron",
-    "query": "Auron",
-    "rank": 15,
-    "tweet_count": "41.6K Tweets"
+    "name": "Rubius",
+    "query": "Rubius",
+    "rank": 16,
+    "tweet_count": "17K Tweets"
   },
   {
     "name": "Tino",
     "query": "Tino",
-    "rank": 16,
-    "tweet_count": "6,392 Tweets"
+    "rank": 17,
+    "tweet_count": "6,491 Tweets"
   }
 ]
