@@ -1,39 +1,39 @@
 [
   {
-    "name": "#CePostaPerTe",
-    "query": "#CePostaPerTe",
+    "name": "#cepostaperte",
+    "query": "#cepostaperte",
     "rank": 1,
     "tweet_count": "50.4K Tweets"
   },
   {
-    "name": "#23gennaio",
-    "query": "#23gennaio",
+    "name": "#CagliariFiorentina",
+    "query": "#CagliariFiorentina",
     "rank": 2,
-    "tweet_count": "3,605 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Buona Domenica",
-    "query": "\"Buona Domenica\"",
+    "name": "#23gennaio",
+    "query": "#23gennaio",
     "rank": 3,
-    "tweet_count": "12.7K Tweets"
+    "tweet_count": "3,708 Tweets"
   },
   {
     "name": "#Berrettini",
     "query": "#Berrettini",
     "rank": 4,
-    "tweet_count": null
+    "tweet_count": "1,008 Tweets"
   },
   {
-    "name": "#CagliariFiorentina",
-    "query": "#CagliariFiorentina",
+    "name": "Buona Domenica",
+    "query": "\"Buona Domenica\"",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "13K Tweets"
   },
   {
     "name": "#AusOpen",
     "query": "#AusOpen",
     "rank": 6,
-    "tweet_count": "47.6K Tweets"
+    "tweet_count": "48.1K Tweets"
   },
   {
     "name": "San Raffaele",
@@ -57,7 +57,7 @@
     "name": "Bentancur",
     "query": "Bentancur",
     "rank": 10,
-    "tweet_count": "3,171 Tweets"
+    "tweet_count": "3,229 Tweets"
   },
   {
     "name": "Berizzi",
@@ -69,13 +69,13 @@
     "name": "Dzeko",
     "query": "Dzeko",
     "rank": 12,
-    "tweet_count": "15.3K Tweets"
+    "tweet_count": "15.4K Tweets"
   },
   {
     "name": "Modolo",
     "query": "Modolo",
     "rank": 13,
-    "tweet_count": "2,128 Tweets"
+    "tweet_count": "2,157 Tweets"
   },
   {
     "name": "Elisabetta Belloni",
@@ -84,39 +84,39 @@
     "tweet_count": null
   },
   {
+    "name": "Olimpiadi",
+    "query": "Olimpiadi",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
     "name": "Forza Pier",
     "query": "\"Forza Pier\"",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Zverev",
     "query": "Zverev",
-    "rank": 16,
-    "tweet_count": "13.7K Tweets"
+    "rank": 17,
+    "tweet_count": "14K Tweets"
   },
   {
     "name": "Casellati",
     "query": "Casellati",
-    "rank": 17,
-    "tweet_count": "2,284 Tweets"
+    "rank": 18,
+    "tweet_count": "2,313 Tweets"
   },
   {
     "name": "Putin",
     "query": "Putin",
-    "rank": 18,
-    "tweet_count": "132K Tweets"
-  },
-  {
-    "name": "Confindustria",
-    "query": "Confindustria",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "133K Tweets"
   },
   {
-    "name": "Chigi",
-    "query": "Chigi",
+    "name": "Ucraina",
+    "query": "Ucraina",
     "rank": 20,
-    "tweet_count": "4,230 Tweets"
+    "tweet_count": "6,467 Tweets"
   }
 ]
