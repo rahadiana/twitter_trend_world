@@ -9,25 +9,25 @@
     "name": "iPhone",
     "query": "iPhone",
     "rank": 2,
-    "tweet_count": "293K Tweets"
+    "tweet_count": "300K Tweets"
   },
   {
     "name": "Google",
     "query": "Google",
     "rank": 3,
-    "tweet_count": "598K Tweets"
+    "tweet_count": "612K Tweets"
   },
   {
     "name": "Kāda",
     "query": "Kāda",
     "rank": 4,
-    "tweet_count": "11.1K Tweets"
+    "tweet_count": "11.4K Tweets"
   },
   {
     "name": "Bija",
     "query": "Bija",
     "rank": 5,
-    "tweet_count": "1,443 Tweets"
+    "tweet_count": "1,487 Tweets"
   },
   {
     "name": "krievijā",
@@ -45,17 +45,17 @@
     "name": "Putina",
     "query": "Putina",
     "rank": 8,
-    "tweet_count": "4,917 Tweets"
-  },
-  {
-    "name": "Ukrainas",
-    "query": "Ukrainas",
-    "rank": 9,
-    "tweet_count": null
+    "tweet_count": "5,060 Tweets"
   },
   {
     "name": "Starp",
     "query": "Starp",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Ukrainas",
+    "query": "Ukrainas",
     "rank": 10,
     "tweet_count": null
   },
@@ -63,13 +63,13 @@
     "name": "German",
     "query": "German",
     "rank": 11,
-    "tweet_count": "73K Tweets"
+    "tweet_count": "75K Tweets"
   },
   {
     "name": "Labs",
     "query": "Labs",
     "rank": 12,
-    "tweet_count": "16.7K Tweets"
+    "tweet_count": "17.1K Tweets"
   },
   {
     "name": "labdien",
@@ -78,8 +78,8 @@
     "tweet_count": null
   },
   {
-    "name": "Pasaules",
-    "query": "Pasaules",
+    "name": "pasaules",
+    "query": "pasaules",
     "rank": 14,
     "tweet_count": null
   },
@@ -96,21 +96,21 @@
     "tweet_count": null
   },
   {
+    "name": "Ceru",
+    "query": "Ceru",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
     "name": "drīzāk",
     "query": "drīzāk",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Latvia",
     "query": "Latvia",
-    "rank": 18,
-    "tweet_count": "2,708 Tweets"
-  },
-  {
-    "name": "ceru",
-    "query": "ceru",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "2,758 Tweets"
   }
 ]
