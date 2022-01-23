@@ -1,15 +1,15 @@
 [
   {
-    "name": "#CheTot",
-    "query": "#CheTot",
-    "rank": 1,
-    "tweet_count": "83.7K Tweets"
-  },
-  {
     "name": "#DWTSIRL",
     "query": "#DWTSIRL",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#CheTot",
+    "query": "#CheTot",
+    "rank": 2,
+    "tweet_count": "85.1K Tweets"
   },
   {
     "name": "TJ Reid",
@@ -18,8 +18,8 @@
     "tweet_count": null
   },
   {
-    "name": "#MUNvWAS",
-    "query": "#MUNvWAS",
+    "name": "#munvwas",
+    "query": "#munvwas",
     "rank": 4,
     "tweet_count": null
   },
@@ -30,87 +30,93 @@
     "tweet_count": "39K Tweets"
   },
   {
+    "name": "Ziyech",
+    "query": "Ziyech",
+    "rank": 6,
+    "tweet_count": "77.3K Tweets"
+  },
+  {
+    "name": "Alfie",
+    "query": "Alfie",
+    "rank": 7,
+    "tweet_count": "7,044 Tweets"
+  },
+  {
     "name": "Kane",
     "query": "Kane",
-    "rank": 6,
-    "tweet_count": "42.2K Tweets"
-  },
-  {
-    "name": "Lukaku",
-    "query": "Lukaku",
-    "rank": 7,
-    "tweet_count": "50.8K Tweets"
-  },
-  {
-    "name": "Silva",
-    "query": "Silva",
     "rank": 8,
-    "tweet_count": "81.8K Tweets"
+    "tweet_count": "42.6K Tweets"
   },
   {
     "name": "St Thomas",
     "query": "\"St Thomas\"",
     "rank": 9,
-    "tweet_count": "1,993 Tweets"
+    "tweet_count": "2,012 Tweets"
+  },
+  {
+    "name": "Silva",
+    "query": "Silva",
+    "rank": 10,
+    "tweet_count": "83K Tweets"
   },
   {
     "name": "Ballyhale",
     "query": "Ballyhale",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "#GAABEO",
-    "query": "#GAABEO",
     "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "Munster",
-    "query": "Munster",
+    "name": "Lukaku",
+    "query": "Lukaku",
     "rank": 12,
-    "tweet_count": "3,031 Tweets"
+    "tweet_count": "51.2K Tweets"
   },
   {
-    "name": "thomond park",
-    "query": "\"thomond park\"",
+    "name": "#GAABEO",
+    "query": "#GAABEO",
     "rank": 13,
     "tweet_count": null
   },
   {
+    "name": "Jota",
+    "query": "Jota",
+    "rank": 14,
+    "tweet_count": "32.5K Tweets"
+  },
+  {
+    "name": "Munster",
+    "query": "Munster",
+    "rank": 15,
+    "tweet_count": "3,113 Tweets"
+  },
+  {
     "name": "Wasps",
     "query": "Wasps",
-    "rank": 14,
-    "tweet_count": "1,869 Tweets"
-  },
-  {
-    "name": "Russians",
-    "query": "Russians",
-    "rank": 15,
-    "tweet_count": "16.4K Tweets"
-  },
-  {
-    "name": "Connacht",
-    "query": "Connacht",
     "rank": 16,
-    "tweet_count": "1,046 Tweets"
+    "tweet_count": "1,896 Tweets"
   },
   {
     "name": "Putin",
     "query": "Putin",
     "rank": 17,
-    "tweet_count": "147K Tweets"
+    "tweet_count": "149K Tweets"
   },
   {
-    "name": "#suaf",
-    "query": "#suaf",
+    "name": "Connacht",
+    "query": "Connacht",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "1,072 Tweets"
   },
   {
-    "name": "#ARSBUR",
-    "query": "#ARSBUR",
+    "name": "Arteta",
+    "query": "Arteta",
     "rank": 19,
-    "tweet_count": "26.9K Tweets"
+    "tweet_count": "21K Tweets"
+  },
+  {
+    "name": "Burnley",
+    "query": "Burnley",
+    "rank": 20,
+    "tweet_count": "48.1K Tweets"
   }
 ]
