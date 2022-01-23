@@ -1,67 +1,67 @@
 [
   {
-    "name": "Harry Potter",
-    "query": "\"Harry Potter\"",
-    "rank": 1,
-    "tweet_count": "32.5K Tweets"
-  },
-  {
     "name": "Ozark",
     "query": "Ozark",
-    "rank": 2,
-    "tweet_count": "34.3K Tweets"
+    "rank": 1,
+    "tweet_count": "34.8K Tweets"
   },
   {
     "name": "San Lorenzo",
     "query": "\"San Lorenzo\"",
-    "rank": 3,
-    "tweet_count": "5,678 Tweets"
-  },
-  {
-    "name": "Cerutti",
-    "query": "Cerutti",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "Uvita",
-    "query": "Uvita",
-    "rank": 5,
-    "tweet_count": "1,649 Tweets"
-  },
-  {
-    "name": "Talleres",
-    "query": "Talleres",
-    "rank": 6,
-    "tweet_count": "5,843 Tweets"
+    "rank": 2,
+    "tweet_count": "5,808 Tweets"
   },
   {
     "name": "Dadatina",
     "query": "Dadatina",
-    "rank": 7,
-    "tweet_count": "1,458 Tweets"
+    "rank": 3,
+    "tweet_count": "1,626 Tweets"
+  },
+  {
+    "name": "Uvita",
+    "query": "Uvita",
+    "rank": 4,
+    "tweet_count": "1,716 Tweets"
+  },
+  {
+    "name": "Talleres",
+    "query": "Talleres",
+    "rank": 5,
+    "tweet_count": "5,930 Tweets"
   },
   {
     "name": "Garro",
     "query": "Garro",
-    "rank": 8,
-    "tweet_count": "3,332 Tweets"
+    "rank": 6,
+    "tweet_count": "3,367 Tweets"
   },
   {
-    "name": "Gattoni",
-    "query": "Gattoni",
-    "rank": 9,
+    "name": "#Cosquin2022",
+    "query": "#Cosquin2022",
+    "rank": 7,
     "tweet_count": null
   },
   {
-    "name": "Sabella",
-    "query": "Sabella",
-    "rank": 10,
+    "name": "#UFC270",
+    "query": "#UFC270",
+    "rank": 8,
+    "tweet_count": "125K Tweets"
+  },
+  {
+    "name": "Cerutti",
+    "query": "Cerutti",
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Troglio",
     "query": "Troglio",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "Gattoni",
+    "query": "Gattoni",
     "rank": 11,
     "tweet_count": null
   },
@@ -72,51 +72,51 @@
     "tweet_count": null
   },
   {
-    "name": "#UFC270",
-    "query": "#UFC270",
-    "rank": 13,
-    "tweet_count": "110K Tweets"
-  },
-  {
-    "name": "Hoyos",
-    "query": "Hoyos",
-    "rank": 14,
-    "tweet_count": "6,072 Tweets"
-  },
-  {
     "name": "Axel",
     "query": "Axel",
+    "rank": 13,
+    "tweet_count": "16.6K Tweets"
+  },
+  {
+    "name": "Sabella",
+    "query": "Sabella",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "valentin",
+    "query": "valentin",
     "rank": 15,
-    "tweet_count": "16.4K Tweets"
-  },
-  {
-    "name": "#Cosquin2022",
-    "query": "#Cosquin2022",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "#TratoHecho",
-    "query": "#TratoHecho",
-    "rank": 17,
-    "tweet_count": null
+    "tweet_count": "12.4K Tweets"
   },
   {
     "name": "#ExolsApologizeToArmys",
     "query": "#ExolsApologizeToArmys",
-    "rank": 18,
-    "tweet_count": "32.5K Tweets"
+    "rank": 16,
+    "tweet_count": "34.2K Tweets"
   },
   {
     "name": "BTS GOLDEN DISCOGRAPHY",
     "query": "\"BTS GOLDEN DISCOGRAPHY\"",
-    "rank": 19,
-    "tweet_count": "17.5K Tweets"
+    "rank": 17,
+    "tweet_count": "18.6K Tweets"
+  },
+  {
+    "name": "#TratoHecho",
+    "query": "#TratoHecho",
+    "rank": 18,
+    "tweet_count": null
   },
   {
     "name": "Menem",
     "query": "Menem",
+    "rank": 19,
+    "tweet_count": "5,403 Tweets"
+  },
+  {
+    "name": "Fertoli",
+    "query": "Fertoli",
     "rank": 20,
-    "tweet_count": "5,306 Tweets"
+    "tweet_count": null
   }
 ]
