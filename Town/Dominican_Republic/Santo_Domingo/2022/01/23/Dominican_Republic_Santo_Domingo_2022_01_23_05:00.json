@@ -1,62 +1,62 @@
 [
   {
-    "name": "San Pedro",
-    "query": "\"San Pedro\"",
-    "rank": 1,
-    "tweet_count": "5,648 Tweets"
-  },
-  {
     "name": "#SerieFinalLIDOM",
     "query": "#SerieFinalLIDOM",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "Gigantes del Cibao",
     "query": "\"Gigantes del Cibao\"",
-    "rank": 3,
-    "tweet_count": "1,223 Tweets"
+    "rank": 2,
+    "tweet_count": "1,257 Tweets"
   },
   {
     "name": "Agripino Núñez Collado",
     "query": "\"Agripino Núñez Collado\"",
-    "rank": 4,
-    "tweet_count": "2,834 Tweets"
+    "rank": 3,
+    "tweet_count": "2,845 Tweets"
   },
   {
     "name": "Campeones",
     "query": "Campeones",
-    "rank": 5,
-    "tweet_count": "11.1K Tweets"
+    "rank": 4,
+    "tweet_count": "11.3K Tweets"
   },
   {
     "name": "Serie del Caribe",
     "query": "\"Serie del Caribe\"",
+    "rank": 5,
+    "tweet_count": "1,216 Tweets"
+  },
+  {
+    "name": "Marcell Ozuna",
+    "query": "\"Marcell Ozuna\"",
     "rank": 6,
-    "tweet_count": "1,192 Tweets"
+    "tweet_count": null
   },
   {
     "name": "mons",
     "query": "mons",
     "rank": 7,
-    "tweet_count": "4,315 Tweets"
-  },
-  {
-    "name": "Marcell Ozuna",
-    "query": "\"Marcell Ozuna\"",
-    "rank": 8,
-    "tweet_count": null
+    "tweet_count": "4,342 Tweets"
   },
   {
     "name": "PUCMM",
     "query": "PUCMM",
+    "rank": 8,
+    "tweet_count": "1,027 Tweets"
+  },
+  {
+    "name": "San Pedro",
+    "query": "\"San Pedro\"",
     "rank": 9,
-    "tweet_count": "1,022 Tweets"
+    "tweet_count": "5,713 Tweets"
   },
   {
     "name": "Uber",
     "query": "Uber",
     "rank": 10,
-    "tweet_count": "64.1K Tweets"
+    "tweet_count": "64.6K Tweets"
   }
 ]
