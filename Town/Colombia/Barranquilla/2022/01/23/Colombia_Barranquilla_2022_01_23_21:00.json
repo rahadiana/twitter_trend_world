@@ -1,110 +1,122 @@
 [
   {
+    "name": "Luis Suárez",
+    "query": "\"Luis Suárez\"",
+    "rank": 1,
+    "tweet_count": "2,398 Tweets"
+  },
+  {
     "name": "Barranquilla",
     "query": "Barranquilla",
-    "rank": 1,
-    "tweet_count": "48.4K Tweets"
+    "rank": 2,
+    "tweet_count": "49K Tweets"
   },
   {
     "name": "#ELNConPetro",
     "query": "#ELNConPetro",
-    "rank": 2,
-    "tweet_count": "30.9K Tweets"
-  },
-  {
-    "name": "Fórmula 1",
-    "query": "\"Fórmula 1\"",
     "rank": 3,
-    "tweet_count": "62.1K Tweets"
+    "tweet_count": "31.3K Tweets"
   },
   {
     "name": "#PetroEsGrande",
     "query": "#PetroEsGrande",
     "rank": 4,
-    "tweet_count": "5,435 Tweets"
+    "tweet_count": "5,938 Tweets"
   },
   {
-    "name": "Elche",
-    "query": "Elche",
+    "name": "Lerma",
+    "query": "Lerma",
     "rank": 5,
-    "tweet_count": "51.6K Tweets"
+    "tweet_count": "1,539 Tweets"
   },
   {
-    "name": "Chelsea",
-    "query": "Chelsea",
+    "name": "Xavi",
+    "query": "Xavi",
     "rank": 6,
-    "tweet_count": "176K Tweets"
+    "tweet_count": "27.7K Tweets"
+  },
+  {
+    "name": "Juventus",
+    "query": "Juventus",
+    "rank": 7,
+    "tweet_count": "29.7K Tweets"
+  },
+  {
+    "name": "Ricaurte",
+    "query": "Ricaurte",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "Fórmula 1",
+    "query": "\"Fórmula 1\"",
+    "rank": 9,
+    "tweet_count": "62.7K Tweets"
+  },
+  {
+    "name": "Comesaña",
+    "query": "Comesaña",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "#SerieAxESPN",
+    "query": "#SerieAxESPN",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "Milan",
+    "query": "Milan",
+    "rank": 12,
+    "tweet_count": "52K Tweets"
+  },
+  {
+    "name": "#ShingekiNoKyojin",
+    "query": "#ShingekiNoKyojin",
+    "rank": 13,
+    "tweet_count": "19K Tweets"
+  },
+  {
+    "name": "Koeman",
+    "query": "Koeman",
+    "rank": 14,
+    "tweet_count": "4,360 Tweets"
+  },
+  {
+    "name": "Alba",
+    "query": "Alba",
+    "rank": 15,
+    "tweet_count": "29.9K Tweets"
   },
   {
     "name": "Char",
     "query": "Char",
-    "rank": 7,
-    "tweet_count": "41.2K Tweets"
-  },
-  {
-    "name": "iago falque",
-    "query": "\"iago falque\"",
-    "rank": 8,
-    "tweet_count": "4,184 Tweets"
-  },
-  {
-    "name": "#LosDanieles",
-    "query": "#LosDanieles",
-    "rank": 9,
-    "tweet_count": "6,225 Tweets"
-  },
-  {
-    "name": "#ElFantasmaDeTulapas",
-    "query": "#ElFantasmaDeTulapas",
-    "rank": 10,
-    "tweet_count": "6,401 Tweets"
-  },
-  {
-    "name": "#FelizDomingo",
-    "query": "#FelizDomingo",
-    "rank": 11,
-    "tweet_count": "21.8K Tweets"
-  },
-  {
-    "name": "Cantillo",
-    "query": "Cantillo",
-    "rank": 12,
-    "tweet_count": "2,223 Tweets"
-  },
-  {
-    "name": "#PaladinesAnticorrupción",
-    "query": "#PaladinesAnticorrupción",
-    "rank": 13,
-    "tweet_count": "3,162 Tweets"
-  },
-  {
-    "name": "#MiSecretoMejorGuardado",
-    "query": "#MiSecretoMejorGuardado",
-    "rank": 14,
-    "tweet_count": "3,896 Tweets"
-  },
-  {
-    "name": "#ElCuraPacho",
-    "query": "#ElCuraPacho",
-    "rank": 15,
-    "tweet_count": "2,774 Tweets"
-  },
-  {
-    "name": "#PapeletaParaRevocarJepYCortes",
-    "query": "#PapeletaParaRevocarJepYCortes",
     "rank": 16,
-    "tweet_count": "2,661 Tweets"
+    "tweet_count": "41.5K Tweets"
   },
   {
-    "name": "#ADiosRogandoYContratosDando",
-    "query": "#ADiosRogandoYContratosDando",
+    "name": "William Ospina",
+    "query": "\"William Ospina\"",
     "rank": 17,
-    "tweet_count": "3,929 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#ElLenteDeIndira",
-    "query": "#ElLenteDeIndira",
+    "name": "Ziyech",
+    "query": "Ziyech",
     "rank": 18,
-    "tweet_count": "3,286 Tweets"
+    "tweet_count": "90.9K Tweets"
+  },
+  {
+    "name": "Perú y Argentina",
+    "query": "\"Perú y Argentina\"",
+    "rank": 19,
+    "tweet_count": "1,087 Tweets"
+  },
+  {
+    "name": "Chelsea",
+    "query": "Chelsea",
+    "rank": 20,
+    "tweet_count": "177K Tweets"
   }
 ]
