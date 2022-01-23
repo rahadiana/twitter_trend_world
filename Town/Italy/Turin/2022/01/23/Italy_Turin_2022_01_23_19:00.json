@@ -1,37 +1,37 @@
 [
   {
-    "name": "#EmpoliRoma",
-    "query": "#EmpoliRoma",
-    "rank": 1,
-    "tweet_count": "6,112 Tweets"
-  },
-  {
     "name": "#MilanJuve",
     "query": "#MilanJuve",
-    "rank": 2,
-    "tweet_count": "7,162 Tweets"
+    "rank": 1,
+    "tweet_count": "8,442 Tweets"
   },
   {
-    "name": "#Amici21",
-    "query": "#Amici21",
+    "name": "#EmpoliRoma",
+    "query": "#EmpoliRoma",
+    "rank": 2,
+    "tweet_count": "6,241 Tweets"
+  },
+  {
+    "name": "#CTCF",
+    "query": "#CTCF",
     "rank": 3,
-    "tweet_count": "110K Tweets"
+    "tweet_count": null
   },
   {
     "name": "De Ligt",
     "query": "\"De Ligt\"",
     "rank": 4,
-    "tweet_count": "4,660 Tweets"
+    "tweet_count": "4,802 Tweets"
+  },
+  {
+    "name": "#Amici21",
+    "query": "#Amici21",
+    "rank": 5,
+    "tweet_count": "111K Tweets"
   },
   {
     "name": "#cercandoUn",
     "query": "#cercandoUn",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "#CTCF",
-    "query": "#CTCF",
     "rank": 6,
     "tweet_count": null
   },
@@ -39,7 +39,7 @@
     "name": "Zaniolo",
     "query": "Zaniolo",
     "rank": 7,
-    "tweet_count": "2,264 Tweets"
+    "tweet_count": "2,345 Tweets"
   },
   {
     "name": "Forza Roma",
@@ -51,19 +51,19 @@
     "name": "Tammy",
     "query": "Tammy",
     "rank": 9,
-    "tweet_count": "12.8K Tweets"
+    "tweet_count": "13.4K Tweets"
   },
   {
     "name": "Sergio Oliveira",
     "query": "\"Sergio Oliveira\"",
     "rank": 10,
-    "tweet_count": "1,427 Tweets"
+    "tweet_count": "1,518 Tweets"
   },
   {
     "name": "Riccardi",
     "query": "Riccardi",
     "rank": 11,
-    "tweet_count": "2,031 Tweets"
+    "tweet_count": "2,081 Tweets"
   },
   {
     "name": "Andreazzoli",
@@ -72,51 +72,51 @@
     "tweet_count": null
   },
   {
-    "name": "Elmas",
-    "query": "Elmas",
+    "name": "Forza Sofia",
+    "query": "\"Forza Sofia\"",
     "rank": 13,
-    "tweet_count": "18.2K Tweets"
-  },
-  {
-    "name": "Scamacca",
-    "query": "Scamacca",
-    "rank": 14,
     "tweet_count": null
-  },
-  {
-    "name": "Mattia",
-    "query": "Mattia",
-    "rank": 15,
-    "tweet_count": "14K Tweets"
-  },
-  {
-    "name": "Mancini",
-    "query": "Mancini",
-    "rank": 16,
-    "tweet_count": "6,094 Tweets"
   },
   {
     "name": "Bentancur",
     "query": "Bentancur",
-    "rank": 17,
-    "tweet_count": "3,503 Tweets"
+    "rank": 14,
+    "tweet_count": "3,606 Tweets"
   },
   {
-    "name": "Mizuno",
-    "query": "Mizuno",
-    "rank": 18,
-    "tweet_count": "12.1K Tweets"
-  },
-  {
-    "name": "Berizzi",
-    "query": "Berizzi",
-    "rank": 19,
+    "name": "Scamacca",
+    "query": "Scamacca",
+    "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "Mertens",
-    "query": "Mertens",
+    "name": "Elmas",
+    "query": "Elmas",
+    "rank": 16,
+    "tweet_count": "18.9K Tweets"
+  },
+  {
+    "name": "Forza Milan",
+    "query": "\"Forza Milan\"",
+    "rank": 17,
+    "tweet_count": "1,013 Tweets"
+  },
+  {
+    "name": "Mattia",
+    "query": "Mattia",
+    "rank": 18,
+    "tweet_count": "14.2K Tweets"
+  },
+  {
+    "name": "Mancini",
+    "query": "Mancini",
+    "rank": 19,
+    "tweet_count": "6,158 Tweets"
+  },
+  {
+    "name": "mizuno",
+    "query": "mizuno",
     "rank": 20,
-    "tweet_count": "2,551 Tweets"
+    "tweet_count": "12.2K Tweets"
   }
 ]
