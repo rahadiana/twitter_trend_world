@@ -3,7 +3,7 @@
     "name": "שבוע טוב",
     "query": "\"שבוע טוב\"",
     "rank": 1,
-    "tweet_count": "2,075 Tweets"
+    "tweet_count": "2,094 Tweets"
   },
   {
     "name": "בוקר טוב",
@@ -12,28 +12,28 @@
     "tweet_count": null
   },
   {
-    "name": "שבת שלום",
-    "query": "\"שבת שלום\"",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
     "name": "בוקר אור",
     "query": "\"בוקר אור\"",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "זיו אריה",
     "query": "\"זיו אריה\"",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Hebrew",
     "query": "Hebrew",
+    "rank": 5,
+    "tweet_count": "1,865 Tweets"
+  },
+  {
+    "name": "שבת שלום",
+    "query": "\"שבת שלום\"",
     "rank": 6,
-    "tweet_count": "1,835 Tweets"
+    "tweet_count": null
   },
   {
     "name": "דני עמוס",
@@ -48,50 +48,50 @@
     "tweet_count": null
   },
   {
-    "name": "Biden",
-    "query": "Biden",
-    "rank": 9,
-    "tweet_count": "485K Tweets"
-  },
-  {
     "name": "עד עכשיו",
     "query": "\"עד עכשיו\"",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "של נתניהו",
     "query": "\"של נתניהו\"",
+    "rank": 10,
+    "tweet_count": "3,406 Tweets"
+  },
+  {
+    "name": "Biden",
+    "query": "Biden",
     "rank": 11,
-    "tweet_count": "3,333 Tweets"
+    "tweet_count": "489K Tweets"
   },
   {
     "name": "של סילמן",
     "query": "\"של סילמן\"",
     "rank": 12,
-    "tweet_count": "3,154 Tweets"
+    "tweet_count": "3,248 Tweets"
   },
   {
     "name": "namjoon",
     "query": "namjoon",
     "rank": 13,
-    "tweet_count": "337K Tweets"
-  },
-  {
-    "name": "Germany",
-    "query": "Germany",
-    "rank": 14,
-    "tweet_count": "107K Tweets"
-  },
-  {
-    "name": "חיים שלי",
-    "query": "\"חיים שלי\"",
-    "rank": 15,
-    "tweet_count": null
+    "tweet_count": "340K Tweets"
   },
   {
     "name": "מי אמר",
     "query": "\"מי אמר\"",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Germany",
+    "query": "Germany",
+    "rank": 15,
+    "tweet_count": "108K Tweets"
+  },
+  {
+    "name": "חיים שלי",
+    "query": "\"חיים שלי\"",
     "rank": 16,
     "tweet_count": null
   },
@@ -105,7 +105,7 @@
     "name": "דנה וייס",
     "query": "\"דנה וייס\"",
     "rank": 18,
-    "tweet_count": "1,069 Tweets"
+    "tweet_count": "1,076 Tweets"
   },
   {
     "name": "חבורה של",
@@ -117,6 +117,6 @@
     "name": "Israelis",
     "query": "Israelis",
     "rank": 20,
-    "tweet_count": "3,251 Tweets"
+    "tweet_count": "3,294 Tweets"
   }
 ]
