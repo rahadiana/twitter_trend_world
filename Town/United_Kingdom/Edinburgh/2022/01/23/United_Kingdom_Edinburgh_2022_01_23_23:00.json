@@ -1,27 +1,27 @@
 [
   {
+    "name": "Liverpool",
+    "query": "Liverpool",
+    "rank": 1,
+    "tweet_count": "99.9K Tweets"
+  },
+  {
     "name": "#TriggerPoint",
     "query": "#TriggerPoint",
-    "rank": 1,
-    "tweet_count": "10.2K Tweets"
+    "rank": 2,
+    "tweet_count": "10.3K Tweets"
   },
   {
     "name": "#LARvsTB",
     "query": "#LARvsTB",
-    "rank": 2,
-    "tweet_count": "66K Tweets"
-  },
-  {
-    "name": "Brady",
-    "query": "Brady",
     "rank": 3,
-    "tweet_count": "439K Tweets"
+    "tweet_count": "67.4K Tweets"
   },
   {
     "name": "Alfie",
     "query": "Alfie",
     "rank": 4,
-    "tweet_count": "10.8K Tweets"
+    "tweet_count": "10.9K Tweets"
   },
   {
     "name": "#forgotten80s",
@@ -30,22 +30,22 @@
     "tweet_count": null
   },
   {
-    "name": "Nigeria",
-    "query": "Nigeria",
-    "rank": 6,
-    "tweet_count": "265K Tweets"
-  },
-  {
     "name": "#MOTD2",
     "query": "#MOTD2",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
+  },
+  {
+    "name": "Nigeria",
+    "query": "Nigeria",
+    "rank": 7,
+    "tweet_count": "267K Tweets"
   },
   {
     "name": "#DancingOnIce",
     "query": "#DancingOnIce",
     "rank": 8,
-    "tweet_count": "4,446 Tweets"
+    "tweet_count": "4,464 Tweets"
   },
   {
     "name": "Hossein Vafaei",
@@ -63,7 +63,7 @@
     "name": "TB12",
     "query": "TB12",
     "rank": 11,
-    "tweet_count": "12.4K Tweets"
+    "tweet_count": "12.8K Tweets"
   },
   {
     "name": "Adrian Lester",
@@ -72,51 +72,51 @@
     "tweet_count": null
   },
   {
-    "name": "Kane",
-    "query": "Kane",
-    "rank": 13,
-    "tweet_count": "44.3K Tweets"
-  },
-  {
     "name": "Lukaku",
     "query": "Lukaku",
-    "rank": 14,
-    "tweet_count": "52.7K Tweets"
+    "rank": 13,
+    "tweet_count": "52.8K Tweets"
   },
   {
-    "name": "Okoye",
-    "query": "Okoye",
-    "rank": 15,
-    "tweet_count": "91.8K Tweets"
+    "name": "Bills",
+    "query": "Bills",
+    "rank": 14,
+    "tweet_count": "171K Tweets"
   },
   {
     "name": "Kia Joorabchian",
     "query": "\"Kia Joorabchian\"",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
-  },
-  {
-    "name": "lana",
-    "query": "lana",
-    "rank": 17,
-    "tweet_count": "46.2K Tweets"
   },
   {
     "name": "Vicky McClure",
     "query": "\"Vicky McClure\"",
-    "rank": 18,
-    "tweet_count": "3,337 Tweets"
+    "rank": 16,
+    "tweet_count": "3,407 Tweets"
   },
   {
-    "name": "Vitor Pereira",
-    "query": "\"Vitor Pereira\"",
-    "rank": 19,
-    "tweet_count": "2,852 Tweets"
+    "name": "Cooper Kupp",
+    "query": "\"Cooper Kupp\"",
+    "rank": 17,
+    "tweet_count": "45.7K Tweets"
   },
   {
     "name": "Chips",
     "query": "Chips",
+    "rank": 18,
+    "tweet_count": "41.4K Tweets"
+  },
+  {
+    "name": "lana",
+    "query": "lana",
+    "rank": 19,
+    "tweet_count": "47K Tweets"
+  },
+  {
+    "name": "Okoye",
+    "query": "Okoye",
     "rank": 20,
-    "tweet_count": "40.9K Tweets"
+    "tweet_count": "93K Tweets"
   }
 ]
