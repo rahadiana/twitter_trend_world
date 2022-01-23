@@ -1,75 +1,75 @@
 [
   {
-    "name": "Atlético",
-    "query": "Atlético",
-    "rank": 1,
-    "tweet_count": "53.6K Tweets"
-  },
-  {
     "name": "Wordle",
     "query": "Wordle",
-    "rank": 2,
-    "tweet_count": "346K Tweets"
+    "rank": 1,
+    "tweet_count": "349K Tweets"
   },
   {
     "name": "Luna Ki",
     "query": "\"Luna Ki\"",
-    "rank": 3,
-    "tweet_count": "2,177 Tweets"
+    "rank": 2,
+    "tweet_count": "2,553 Tweets"
   },
   {
     "name": "#FelizDomingo",
     "query": "#FelizDomingo",
-    "rank": 4,
-    "tweet_count": "4,120 Tweets"
+    "rank": 3,
+    "tweet_count": "4,412 Tweets"
   },
   {
     "name": "Eurovisión",
     "query": "Eurovisión",
+    "rank": 4,
+    "tweet_count": "10.2K Tweets"
+  },
+  {
+    "name": "RTVE",
+    "query": "RTVE",
     "rank": 5,
-    "tweet_count": "9,643 Tweets"
+    "tweet_count": "7,880 Tweets"
   },
   {
     "name": "17 X",
     "query": "\"17 X\"",
     "rank": 6,
-    "tweet_count": "10.3K Tweets"
-  },
-  {
-    "name": "RTVE",
-    "query": "RTVE",
-    "rank": 7,
-    "tweet_count": "7,641 Tweets"
+    "tweet_count": "10.5K Tweets"
   },
   {
     "name": "#BenidormFest",
     "query": "#BenidormFest",
-    "rank": 8,
-    "tweet_count": "4,668 Tweets"
-  },
-  {
-    "name": "#YoMeRebelo23E",
-    "query": "#YoMeRebelo23E",
-    "rank": 9,
-    "tweet_count": "13.2K Tweets"
-  },
-  {
-    "name": "#CrisLu23E",
-    "query": "#CrisLu23E",
-    "rank": 10,
-    "tweet_count": "4,835 Tweets"
+    "rank": 7,
+    "tweet_count": "4,933 Tweets"
   },
   {
     "name": "#1MesFinalCrisLu",
     "query": "#1MesFinalCrisLu",
-    "rank": 11,
-    "tweet_count": "1,174 Tweets"
+    "rank": 8,
+    "tweet_count": "1,833 Tweets"
   },
   {
-    "name": "Escritura",
-    "query": "Escritura",
+    "name": "#CrisLu23E",
+    "query": "#CrisLu23E",
+    "rank": 9,
+    "tweet_count": "5,539 Tweets"
+  },
+  {
+    "name": "#YoMeRebelo23E",
+    "query": "#YoMeRebelo23E",
+    "rank": 10,
+    "tweet_count": "13.8K Tweets"
+  },
+  {
+    "name": "Autotune",
+    "query": "Autotune",
+    "rank": 11,
+    "tweet_count": "15.5K Tweets"
+  },
+  {
+    "name": "Voy a Morir",
+    "query": "\"Voy a Morir\"",
     "rank": 12,
-    "tweet_count": "3,042 Tweets"
+    "tweet_count": "6,460 Tweets"
   },
   {
     "name": "Benifest",
@@ -78,15 +78,9 @@
     "tweet_count": null
   },
   {
-    "name": "Voy a Morir",
-    "query": "\"Voy a Morir\"",
+    "name": "Escritura",
+    "query": "Escritura",
     "rank": 14,
-    "tweet_count": "6,377 Tweets"
-  },
-  {
-    "name": "San Ildefonso",
-    "query": "\"San Ildefonso\"",
-    "rank": 15,
-    "tweet_count": null
+    "tweet_count": "3,061 Tweets"
   }
 ]
