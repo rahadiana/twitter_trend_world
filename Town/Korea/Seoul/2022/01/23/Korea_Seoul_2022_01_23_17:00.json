@@ -1,109 +1,109 @@
 [
   {
-    "name": "#SF9",
-    "query": "#SF9",
+    "name": "성격 취향캐",
+    "query": "\"성격 취향캐\"",
     "rank": 1,
-    "tweet_count": "111K Tweets"
+    "tweet_count": "2,166 Tweets"
   },
   {
-    "name": "더보이즈",
-    "query": "더보이즈",
+    "name": "목소리 취향캐",
+    "query": "\"목소리 취향캐\"",
     "rank": 2,
-    "tweet_count": "161K Tweets"
-  },
-  {
-    "name": "#보면_복붙",
-    "query": "#보면_복붙",
-    "rank": 3,
-    "tweet_count": "1,500 Tweets"
+    "tweet_count": "2,143 Tweets"
   },
   {
     "name": "#NCT127_서가대대상_축하해",
     "query": "#NCT127_서가대대상_축하해",
-    "rank": 4,
-    "tweet_count": "294K Tweets"
+    "rank": 3,
+    "tweet_count": "295K Tweets"
   },
   {
     "name": "새로운 트친",
     "query": "\"새로운 트친\"",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "서울가요대상",
+    "query": "서울가요대상",
+    "rank": 5,
+    "tweet_count": "555K Tweets"
   },
   {
     "name": "엔시티 드림",
     "query": "\"엔시티 드림\"",
     "rank": 6,
-    "tweet_count": "46.7K Tweets"
-  },
-  {
-    "name": "서울가요대상",
-    "query": "서울가요대상",
-    "rank": 7,
-    "tweet_count": "553K Tweets"
-  },
-  {
-    "name": "러시안룰렛",
-    "query": "러시안룰렛",
-    "rank": 8,
-    "tweet_count": "13.6K Tweets"
+    "tweet_count": "46.8K Tweets"
   },
   {
     "name": "오케스트라",
     "query": "오케스트라",
-    "rank": 9,
-    "tweet_count": "2,182 Tweets"
-  },
-  {
-    "name": "너무 고생",
-    "query": "\"너무 고생\"",
-    "rank": 10,
-    "tweet_count": "6,569 Tweets"
+    "rank": 7,
+    "tweet_count": "2,188 Tweets"
   },
   {
     "name": "강다니엘",
     "query": "강다니엘",
-    "rank": 11,
-    "tweet_count": "20K Tweets"
+    "rank": 8,
+    "tweet_count": "20.1K Tweets"
   },
   {
     "name": "탈빠합니",
     "query": "탈빠합니",
-    "rank": 12,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "#더비구함",
     "query": "#더비구함",
-    "rank": 13,
-    "tweet_count": "4,071 Tweets"
+    "rank": 10,
+    "tweet_count": "4,067 Tweets"
   },
   {
     "name": "모험 대사",
     "query": "\"모험 대사\"",
-    "rank": 14,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "죠죠의 기묘",
     "query": "\"죠죠의 기묘\"",
-    "rank": 15,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "#막밤사수",
     "query": "#막밤사수",
-    "rank": 16,
-    "tweet_count": "5,438 Tweets"
+    "rank": 13,
+    "tweet_count": "5,488 Tweets"
+  },
+  {
+    "name": "#엔진_트친소",
+    "query": "#엔진_트친소",
+    "rank": 14,
+    "tweet_count": "1,778 Tweets"
+  },
+  {
+    "name": "#정블리",
+    "query": "#정블리",
+    "rank": 15,
+    "tweet_count": null
   },
   {
     "name": "다른그룹",
     "query": "다른그룹",
-    "rank": 17,
-    "tweet_count": "1,848 Tweets"
+    "rank": 16,
+    "tweet_count": "1,862 Tweets"
   },
   {
     "name": "수중촬영",
     "query": "수중촬영",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "유사 문자",
+    "query": "\"유사 문자\"",
     "rank": 18,
     "tweet_count": null
   },
@@ -111,12 +111,12 @@
     "name": "우리 종현",
     "query": "\"우리 종현\"",
     "rank": 19,
-    "tweet_count": "1,063 Tweets"
+    "tweet_count": "1,093 Tweets"
   },
   {
-    "name": "유사 문자",
-    "query": "\"유사 문자\"",
+    "name": "대상가수",
+    "query": "대상가수",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "23.9K Tweets"
   }
 ]
