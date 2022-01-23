@@ -1,116 +1,122 @@
 [
   {
+    "name": "San Lorenzo",
+    "query": "\"San Lorenzo\"",
+    "rank": 1,
+    "tweet_count": "5,387 Tweets"
+  },
+  {
     "name": "Cerutti",
     "query": "Cerutti",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "garro",
-    "query": "garro",
-    "rank": 2,
-    "tweet_count": "3,114 Tweets"
-  },
-  {
-    "name": "Sabella",
-    "query": "Sabella",
+    "name": "Uvita Fernández",
+    "query": "\"Uvita Fernández\"",
     "rank": 3,
     "tweet_count": null
   },
   {
-    "name": "Dadatina",
-    "query": "Dadatina",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "BTS GOLDEN DISCOGRAPHY",
-    "query": "\"BTS GOLDEN DISCOGRAPHY\"",
-    "rank": 5,
-    "tweet_count": "15.2K Tweets"
-  },
-  {
-    "name": "#UFC270",
-    "query": "#UFC270",
-    "rank": 6,
-    "tweet_count": "82.2K Tweets"
-  },
-  {
     "name": "Talleres",
     "query": "Talleres",
-    "rank": 7,
-    "tweet_count": "5,138 Tweets"
+    "rank": 4,
+    "tweet_count": "5,816 Tweets"
+  },
+  {
+    "name": "Dadatina",
+    "query": "Dadatina",
+    "rank": 5,
+    "tweet_count": "1,196 Tweets"
   },
   {
     "name": "Gattoni",
     "query": "Gattoni",
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "Garro",
+    "query": "Garro",
+    "rank": 7,
+    "tweet_count": "3,303 Tweets"
+  },
+  {
+    "name": "Sabella",
+    "query": "Sabella",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Uvita",
-    "query": "Uvita",
+    "name": "Troglio",
+    "query": "Troglio",
     "rank": 9,
-    "tweet_count": "1,076 Tweets"
-  },
-  {
-    "name": "#ExolsApologizeToArmys",
-    "query": "#ExolsApologizeToArmys",
-    "rank": 10,
-    "tweet_count": "26.7K Tweets"
-  },
-  {
-    "name": "Laspina",
-    "query": "Laspina",
-    "rank": 11,
     "tweet_count": null
-  },
-  {
-    "name": "#sabadoentn",
-    "query": "#sabadoentn",
-    "rank": 12,
-    "tweet_count": "1,470 Tweets"
-  },
-  {
-    "name": "Axel",
-    "query": "Axel",
-    "rank": 13,
-    "tweet_count": "15.7K Tweets"
-  },
-  {
-    "name": "Peñarol",
-    "query": "Peñarol",
-    "rank": 14,
-    "tweet_count": "11.7K Tweets"
   },
   {
     "name": "Ortigoza",
     "query": "Ortigoza",
-    "rank": 15,
+    "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Bengals",
-    "query": "Bengals",
-    "rank": 16,
-    "tweet_count": "336K Tweets"
+    "name": "Axel",
+    "query": "Axel",
+    "rank": 11,
+    "tweet_count": "16.4K Tweets"
+  },
+  {
+    "name": "#UFC270",
+    "query": "#UFC270",
+    "rank": 12,
+    "tweet_count": "94.3K Tweets"
+  },
+  {
+    "name": "#ExolsApologizeToArmys",
+    "query": "#ExolsApologizeToArmys",
+    "rank": 13,
+    "tweet_count": "28.9K Tweets"
+  },
+  {
+    "name": "BTS GOLDEN DISCOGRAPHY",
+    "query": "\"BTS GOLDEN DISCOGRAPHY\"",
+    "rank": 14,
+    "tweet_count": "16.5K Tweets"
+  },
+  {
+    "name": "Ciclón",
+    "query": "Ciclón",
+    "rank": 15,
+    "tweet_count": "1,358 Tweets"
   },
   {
     "name": "Menem",
     "query": "Menem",
+    "rank": 16,
+    "tweet_count": "5,125 Tweets"
+  },
+  {
+    "name": "#sabadoentn",
+    "query": "#sabadoentn",
     "rank": 17,
-    "tweet_count": "4,967 Tweets"
+    "tweet_count": "1,473 Tweets"
   },
   {
-    "name": "FREE DISCIPLINA",
-    "query": "\"FREE DISCIPLINA\"",
+    "name": "Fertoli",
+    "query": "Fertoli",
     "rank": 18,
-    "tweet_count": "5,358 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Pachuca",
-    "query": "Pachuca",
+    "name": "Cosquín",
+    "query": "Cosquín",
     "rank": 19,
-    "tweet_count": "2,197 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Laspina",
+    "query": "Laspina",
+    "rank": 20,
+    "tweet_count": null
   }
 ]
