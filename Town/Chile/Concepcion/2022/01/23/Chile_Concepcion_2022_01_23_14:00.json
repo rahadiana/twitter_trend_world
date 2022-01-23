@@ -3,49 +3,49 @@
     "name": "#MesaCentral",
     "query": "#MesaCentral",
     "rank": 1,
-    "tweet_count": null
-  },
-  {
-    "name": "#ALERTA",
-    "query": "#ALERTA",
-    "rank": 2,
-    "tweet_count": "6,520 Tweets"
+    "tweet_count": "1,226 Tweets"
   },
   {
     "name": "#FestivalDeLasCondes",
     "query": "#FestivalDeLasCondes",
-    "rank": 3,
-    "tweet_count": "4,046 Tweets"
+    "rank": 2,
+    "tweet_count": "4,056 Tweets"
   },
   {
-    "name": "#skzenchile",
-    "query": "#skzenchile",
+    "name": "#ALERTA",
+    "query": "#ALERTA",
+    "rank": 3,
+    "tweet_count": "6,581 Tweets"
+  },
+  {
+    "name": "La Terraza",
+    "query": "\"La Terraza\"",
     "rank": 4,
-    "tweet_count": "18.8K Tweets"
+    "tweet_count": "6,250 Tweets"
   },
   {
     "name": "#FelizDomingo",
     "query": "#FelizDomingo",
     "rank": 5,
-    "tweet_count": "10.2K Tweets"
-  },
-  {
-    "name": "La Terraza",
-    "query": "\"La Terraza\"",
-    "rank": 6,
-    "tweet_count": "6,030 Tweets"
-  },
-  {
-    "name": "Barros Luco",
-    "query": "\"Barros Luco\"",
-    "rank": 7,
-    "tweet_count": null
+    "tweet_count": "10.6K Tweets"
   },
   {
     "name": "Marcel",
     "query": "Marcel",
+    "rank": 6,
+    "tweet_count": "17.9K Tweets"
+  },
+  {
+    "name": "#skzenchile",
+    "query": "#skzenchile",
+    "rank": 7,
+    "tweet_count": "18.8K Tweets"
+  },
+  {
+    "name": "Barros Luco",
+    "query": "\"Barros Luco\"",
     "rank": 8,
-    "tweet_count": "17.7K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Barros Boric",
@@ -57,66 +57,66 @@
     "name": "Javiera Contador",
     "query": "\"Javiera Contador\"",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "1,006 Tweets"
   },
   {
     "name": "Huachipato",
     "query": "Huachipato",
     "rank": 11,
-    "tweet_count": "4,262 Tweets"
+    "tweet_count": "4,269 Tweets"
   },
   {
-    "name": "Francisca Valenzuela",
-    "query": "\"Francisca Valenzuela\"",
+    "name": "Francisca valenzuela",
+    "query": "\"Francisca valenzuela\"",
     "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "Ponte",
-    "query": "Ponte",
-    "rank": 13,
-    "tweet_count": "16.7K Tweets"
-  },
-  {
     "name": "FFAA",
     "query": "FFAA",
+    "rank": 13,
+    "tweet_count": "15.8K Tweets"
+  },
+  {
+    "name": "Ponte",
+    "query": "Ponte",
     "rank": 14,
-    "tweet_count": "15.6K Tweets"
-  },
-  {
-    "name": "Copiapó",
-    "query": "Copiapó",
-    "rank": 15,
-    "tweet_count": "3,607 Tweets"
-  },
-  {
-    "name": "Sutil",
-    "query": "Sutil",
-    "rank": 16,
-    "tweet_count": "4,774 Tweets"
-  },
-  {
-    "name": "Ministra",
-    "query": "Ministra",
-    "rank": 17,
-    "tweet_count": "54.6K Tweets"
-  },
-  {
-    "name": "Aylwin",
-    "query": "Aylwin",
-    "rank": 18,
-    "tweet_count": "6,921 Tweets"
-  },
-  {
-    "name": "FRAN VALENZUELA",
-    "query": "\"FRAN VALENZUELA\"",
-    "rank": 19,
-    "tweet_count": null
+    "tweet_count": "16.8K Tweets"
   },
   {
     "name": "Izkia",
     "query": "Izkia",
+    "rank": 15,
+    "tweet_count": "15.1K Tweets"
+  },
+  {
+    "name": "Ministra",
+    "query": "Ministra",
+    "rank": 16,
+    "tweet_count": "55.3K Tweets"
+  },
+  {
+    "name": "Aylwin",
+    "query": "Aylwin",
+    "rank": 17,
+    "tweet_count": "6,954 Tweets"
+  },
+  {
+    "name": "Sutil",
+    "query": "Sutil",
+    "rank": 18,
+    "tweet_count": "4,825 Tweets"
+  },
+  {
+    "name": "Copiapó",
+    "query": "Copiapó",
+    "rank": 19,
+    "tweet_count": "3,620 Tweets"
+  },
+  {
+    "name": "FRAN VALENZUELA",
+    "query": "\"FRAN VALENZUELA\"",
     "rank": 20,
-    "tweet_count": "14.4K Tweets"
+    "tweet_count": null
   }
 ]
