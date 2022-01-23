@@ -3,13 +3,13 @@
     "name": "#ranNFL",
     "query": "#ranNFL",
     "rank": 1,
-    "tweet_count": "3,963 Tweets"
+    "tweet_count": "3,970 Tweets"
   },
   {
     "name": "#BRU2301",
     "query": "#BRU2301",
     "rank": 2,
-    "tweet_count": "4,321 Tweets"
+    "tweet_count": "5,138 Tweets"
   },
   {
     "name": "#H96SGD",
@@ -21,19 +21,19 @@
     "name": "#Brüssel",
     "query": "#Brüssel",
     "rank": 4,
-    "tweet_count": "1,067 Tweets"
+    "tweet_count": "1,209 Tweets"
   },
   {
-    "name": "Schönen Sonntag",
-    "query": "\"Schönen Sonntag\"",
+    "name": "#sgd1953",
+    "query": "#sgd1953",
     "rank": 5,
-    "tweet_count": "4,567 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Vortex",
     "query": "Vortex",
     "rank": 6,
-    "tweet_count": "5,247 Tweets"
+    "tweet_count": "5,304 Tweets"
   },
   {
     "name": "Raizen",
@@ -42,75 +42,81 @@
     "tweet_count": null
   },
   {
+    "name": "Schönen Sonntag",
+    "query": "\"Schönen Sonntag\"",
+    "rank": 8,
+    "tweet_count": "4,606 Tweets"
+  },
+  {
     "name": "Vergessenheit",
     "query": "Vergessenheit",
-    "rank": 8,
-    "tweet_count": "1,365 Tweets"
+    "rank": 9,
+    "tweet_count": "1,405 Tweets"
   },
   {
     "name": "Bundeskanzler",
     "query": "Bundeskanzler",
-    "rank": 9,
-    "tweet_count": "2,263 Tweets"
+    "rank": 10,
+    "tweet_count": "2,295 Tweets"
   },
   {
     "name": "Sonntags",
     "query": "Sonntags",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Packers",
     "query": "Packers",
-    "rank": 11,
-    "tweet_count": "426K Tweets"
+    "rank": 12,
+    "tweet_count": "429K Tweets"
   },
   {
     "name": "#Streif",
     "query": "#Streif",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "#TeamFreiheit",
-    "query": "#TeamFreiheit",
     "rank": 13,
-    "tweet_count": "6,608 Tweets"
-  },
-  {
-    "name": "#SSVKSV",
-    "query": "#SSVKSV",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "#Bruxelles",
-    "query": "#Bruxelles",
-    "rank": 15,
-    "tweet_count": "11.3K Tweets"
-  },
-  {
-    "name": "#dopa",
-    "query": "#dopa",
-    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "#RBLWOB",
     "query": "#RBLWOB",
-    "rank": 17,
+    "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "#sgd1953",
-    "query": "#sgd1953",
-    "rank": 18,
+    "name": "#MSVFCS",
+    "query": "#MSVFCS",
+    "rank": 15,
     "tweet_count": null
+  },
+  {
+    "name": "#SSVKSV",
+    "query": "#SSVKSV",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "#Bruxelles",
+    "query": "#Bruxelles",
+    "rank": 17,
+    "tweet_count": "12.8K Tweets"
+  },
+  {
+    "name": "#TeamFreiheit",
+    "query": "#TeamFreiheit",
+    "rank": 18,
+    "tweet_count": "6,678 Tweets"
   },
   {
     "name": "#Kitzbuehel",
     "query": "#Kitzbuehel",
     "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "#dopa",
+    "query": "#dopa",
+    "rank": 20,
     "tweet_count": null
   }
 ]
