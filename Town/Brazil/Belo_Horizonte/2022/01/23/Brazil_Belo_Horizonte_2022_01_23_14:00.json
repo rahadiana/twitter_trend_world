@@ -1,39 +1,39 @@
 [
   {
-    "name": "Maria",
-    "query": "Maria",
-    "rank": 1,
-    "tweet_count": "487K Tweets"
-  },
-  {
     "name": "Jessi",
     "query": "Jessi",
-    "rank": 2,
-    "tweet_count": "65.1K Tweets"
+    "rank": 1,
+    "tweet_count": "65.7K Tweets"
   },
   {
     "name": "Laís",
     "query": "Laís",
-    "rank": 3,
-    "tweet_count": "148K Tweets"
+    "rank": 2,
+    "tweet_count": "149K Tweets"
   },
   {
     "name": "Estadão",
     "query": "Estadão",
-    "rank": 4,
-    "tweet_count": "17K Tweets"
+    "rank": 3,
+    "tweet_count": "17.7K Tweets"
   },
   {
     "name": "#SkateNoVE",
     "query": "#SkateNoVE",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "renjun",
     "query": "renjun",
+    "rank": 5,
+    "tweet_count": "364K Tweets"
+  },
+  {
+    "name": "Robertson",
+    "query": "Robertson",
     "rank": 6,
-    "tweet_count": "359K Tweets"
+    "tweet_count": "7,941 Tweets"
   },
   {
     "name": "Luizinho",
@@ -45,7 +45,7 @@
     "name": "#NotMeSeriesEP6",
     "query": "#NotMeSeriesEP6",
     "rank": 8,
-    "tweet_count": "119K Tweets"
+    "tweet_count": "150K Tweets"
   },
   {
     "name": "#LulaEPTDestruiramOBrasil",
@@ -54,69 +54,69 @@
     "tweet_count": null
   },
   {
-    "name": "Van Dijk",
-    "query": "\"Van Dijk\"",
+    "name": "Chamberlain",
+    "query": "Chamberlain",
     "rank": 10,
-    "tweet_count": "6,240 Tweets"
-  },
-  {
-    "name": "#SonRomantik",
-    "query": "#SonRomantik",
-    "rank": 11,
-    "tweet_count": "14.5K Tweets"
-  },
-  {
-    "name": "Bom Domingo",
-    "query": "\"Bom Domingo\"",
-    "rank": 12,
-    "tweet_count": "9,869 Tweets"
-  },
-  {
-    "name": "#JustGLOWxOhmNanon",
-    "query": "#JustGLOWxOhmNanon",
-    "rank": 13,
-    "tweet_count": "276K Tweets"
+    "tweet_count": "5,753 Tweets"
   },
   {
     "name": "Vargas",
     "query": "Vargas",
+    "rank": 11,
+    "tweet_count": "11.9K Tweets"
+  },
+  {
+    "name": "Van Dijk",
+    "query": "\"Van Dijk\"",
+    "rank": 12,
+    "tweet_count": "6,598 Tweets"
+  },
+  {
+    "name": "Crystal Palace",
+    "query": "\"Crystal Palace\"",
+    "rank": 13,
+    "tweet_count": "13.6K Tweets"
+  },
+  {
+    "name": "Vakif",
+    "query": "Vakif",
     "rank": 14,
-    "tweet_count": "11.5K Tweets"
+    "tweet_count": "1,957 Tweets"
+  },
+  {
+    "name": "#SonRomantik",
+    "query": "#SonRomantik",
+    "rank": 15,
+    "tweet_count": "15.6K Tweets"
+  },
+  {
+    "name": "#JustGLOWxOhmNanon",
+    "query": "#JustGLOWxOhmNanon",
+    "rank": 16,
+    "tweet_count": "283K Tweets"
+  },
+  {
+    "name": "BUTTER INCREASE IT",
+    "query": "\"BUTTER INCREASE IT\"",
+    "rank": 17,
+    "tweet_count": "217K Tweets"
+  },
+  {
+    "name": "BOM DOMINGO",
+    "query": "\"BOM DOMINGO\"",
+    "rank": 18,
+    "tweet_count": "10.3K Tweets"
+  },
+  {
+    "name": "Fener",
+    "query": "Fener",
+    "rank": 19,
+    "tweet_count": "4,515 Tweets"
   },
   {
     "name": "Gui Khury",
     "query": "\"Gui Khury\"",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "BOLSONARO INSIGNIFICANTE",
-    "query": "\"BOLSONARO INSIGNIFICANTE\"",
-    "rank": 16,
-    "tweet_count": "13.4K Tweets"
-  },
-  {
-    "name": "Rei da América",
-    "query": "\"Rei da América\"",
-    "rank": 17,
-    "tweet_count": "1,429 Tweets"
-  },
-  {
-    "name": "Rosé",
-    "query": "Rosé",
-    "rank": 18,
-    "tweet_count": "272K Tweets"
-  },
-  {
-    "name": "Globo Rural",
-    "query": "\"Globo Rural\"",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "UNITED FOR BUTTER",
-    "query": "\"UNITED FOR BUTTER\"",
     "rank": 20,
-    "tweet_count": "266K Tweets"
+    "tweet_count": null
   }
 ]
