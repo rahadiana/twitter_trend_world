@@ -1,21 +1,21 @@
 [
   {
-    "name": "#Brussel",
-    "query": "#Brussel",
-    "rank": 1,
-    "tweet_count": "58.4K Tweets"
-  },
-  {
     "name": "Antifa",
     "query": "Antifa",
-    "rank": 2,
-    "tweet_count": "67.6K Tweets"
+    "rank": 1,
+    "tweet_count": "68K Tweets"
   },
   {
     "name": "#KVMAND",
     "query": "#KVMAND",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "#Brussel",
+    "query": "#Brussel",
+    "rank": 3,
+    "tweet_count": "58.6K Tweets"
   },
   {
     "name": "#STACLU",
@@ -24,14 +24,14 @@
     "tweet_count": "1,506 Tweets"
   },
   {
-    "name": "#deochtend",
-    "query": "#deochtend",
+    "name": "#USGGNK",
+    "query": "#USGGNK",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "#usggnk",
-    "query": "#usggnk",
+    "name": "#deochtend",
+    "query": "#deochtend",
     "rank": 6,
     "tweet_count": null
   },
@@ -39,83 +39,83 @@
     "name": "Goeiemorgen",
     "query": "Goeiemorgen",
     "rank": 7,
-    "tweet_count": "1,064 Tweets"
-  },
-  {
-    "name": "Ngannou",
-    "query": "Ngannou",
-    "rank": 8,
-    "tweet_count": "128K Tweets"
+    "tweet_count": "1,084 Tweets"
   },
   {
     "name": "Pieter Loridon",
     "query": "\"Pieter Loridon\"",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "Thierry Mugler",
+    "query": "\"Thierry Mugler\"",
     "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Union",
-    "query": "Union",
-    "rank": 10,
-    "tweet_count": "150K Tweets"
-  },
-  {
-    "name": "lachaert",
-    "query": "lachaert",
-    "rank": 11,
-    "tweet_count": null
+    "tweet_count": "102K Tweets"
   },
   {
     "name": "Cyril",
     "query": "Cyril",
-    "rank": 12,
-    "tweet_count": "20.8K Tweets"
-  },
-  {
-    "name": "bart de wever",
-    "query": "\"bart de wever\"",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Mata",
-    "query": "Mata",
-    "rank": 14,
-    "tweet_count": "133K Tweets"
+    "rank": 10,
+    "tweet_count": "20.6K Tweets"
   },
   {
     "name": "Jubelpark",
     "query": "Jubelpark",
-    "rank": 15,
-    "tweet_count": "3,693 Tweets"
+    "rank": 11,
+    "tweet_count": "3,746 Tweets"
   },
   {
-    "name": "nsoki",
-    "query": "nsoki",
-    "rank": 16,
+    "name": "Lachaert",
+    "query": "Lachaert",
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "zirkzee",
+    "query": "zirkzee",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "MAPPA",
+    "query": "MAPPA",
+    "rank": 14,
+    "tweet_count": "72.1K Tweets"
+  },
+  {
+    "name": "Demon Slayer",
+    "query": "\"Demon Slayer\"",
+    "rank": 15,
+    "tweet_count": "77.3K Tweets"
   },
   {
     "name": "Vinicius",
     "query": "Vinicius",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": "29.1K Tweets"
   },
   {
-    "name": "mechele",
-    "query": "mechele",
-    "rank": 18,
+    "name": "donnum",
+    "query": "donnum",
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Rits",
     "query": "Rits",
-    "rank": 19,
-    "tweet_count": "1,853 Tweets"
+    "rank": 18,
+    "tweet_count": "1,863 Tweets"
   },
   {
-    "name": "zirkzee",
-    "query": "zirkzee",
+    "name": "Schuman",
+    "query": "Schuman",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "nsoki",
+    "query": "nsoki",
     "rank": 20,
     "tweet_count": null
   }
