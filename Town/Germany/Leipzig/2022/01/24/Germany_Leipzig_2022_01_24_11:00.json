@@ -1,21 +1,21 @@
 [
   {
-    "name": "#OutInChurch",
-    "query": "#OutInChurch",
-    "rank": 1,
-    "tweet_count": "2,073 Tweets"
-  },
-  {
     "name": "#SperrtHomburg",
     "query": "#SperrtHomburg",
-    "rank": 2,
-    "tweet_count": "2,033 Tweets"
+    "rank": 1,
+    "tweet_count": "2,150 Tweets"
   },
   {
-    "name": "#narkosedoc",
-    "query": "#narkosedoc",
+    "name": "#OutInChurch",
+    "query": "#OutInChurch",
+    "rank": 2,
+    "tweet_count": "2,126 Tweets"
+  },
+  {
+    "name": "#WieGottUnsSchuf",
+    "query": "#WieGottUnsSchuf",
     "rank": 3,
-    "tweet_count": "5,348 Tweets"
+    "tweet_count": "1,028 Tweets"
   },
   {
     "name": "Falschaussage",
@@ -27,13 +27,13 @@
     "name": "Wochenstart",
     "query": "Wochenstart",
     "rank": 5,
-    "tweet_count": "1,464 Tweets"
+    "tweet_count": "1,476 Tweets"
   },
   {
     "name": "Start in die Woche",
     "query": "\"Start in die Woche\"",
     "rank": 6,
-    "tweet_count": "2,273 Tweets"
+    "tweet_count": "2,291 Tweets"
   },
   {
     "name": "Papst Benedikt XVI",
@@ -51,19 +51,19 @@
     "name": "Klarnamen",
     "query": "Klarnamen",
     "rank": 9,
-    "tweet_count": "1,710 Tweets"
+    "tweet_count": "1,744 Tweets"
   },
   {
     "name": "Kirche",
     "query": "Kirche",
     "rank": 10,
-    "tweet_count": "7,950 Tweets"
+    "tweet_count": "8,102 Tweets"
   },
   {
     "name": "Wordle 219 X",
     "query": "\"Wordle 219 X\"",
     "rank": 11,
-    "tweet_count": "6,688 Tweets"
+    "tweet_count": "6,835 Tweets"
   },
   {
     "name": "Förderung",
@@ -72,8 +72,8 @@
     "tweet_count": null
   },
   {
-    "name": "Montagmorgen",
-    "query": "Montagmorgen",
+    "name": "montagmorgen",
+    "query": "montagmorgen",
     "rank": 13,
     "tweet_count": null
   },
@@ -87,7 +87,7 @@
     "name": "Humbug",
     "query": "Humbug",
     "rank": 15,
-    "tweet_count": "1,093 Tweets"
+    "tweet_count": "1,104 Tweets"
   },
   {
     "name": "Moin Klaus",
@@ -105,6 +105,6 @@
     "name": "Priester",
     "query": "Priester",
     "rank": 18,
-    "tweet_count": "1,005 Tweets"
+    "tweet_count": "1,026 Tweets"
   }
 ]
