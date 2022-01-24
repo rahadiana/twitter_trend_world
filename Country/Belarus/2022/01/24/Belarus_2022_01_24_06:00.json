@@ -1,116 +1,80 @@
 [
   {
+    "name": "COVID-19",
+    "query": "COVID-19",
+    "rank": 1,
+    "tweet_count": "350K Tweets"
+  },
+  {
     "name": "Игра Wordle",
     "query": "\"Игра Wordle\"",
-    "rank": 1,
-    "tweet_count": "1,218 Tweets"
+    "rank": 2,
+    "tweet_count": "1,262 Tweets"
   },
   {
     "name": "#вордли",
     "query": "#вордли",
-    "rank": 2,
-    "tweet_count": "1,156 Tweets"
+    "rank": 3,
+    "tweet_count": "1,196 Tweets"
+  },
+  {
+    "name": "#Беларусь",
+    "query": "#Беларусь",
+    "rank": 4,
+    "tweet_count": null
   },
   {
     "name": "Люблю",
     "query": "Люблю",
-    "rank": 3,
-    "tweet_count": "22.4K Tweets"
-  },
-  {
-    "name": "Господи",
-    "query": "Господи",
-    "rank": 4,
-    "tweet_count": "4,734 Tweets"
-  },
-  {
-    "name": "Реальный Брест",
-    "query": "\"Реальный Брест\"",
     "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "#CreativeSociety",
-    "query": "#CreativeSociety",
-    "rank": 6,
-    "tweet_count": "1,238 Tweets"
+    "tweet_count": "22.7K Tweets"
   },
   {
     "name": "Какие",
     "query": "Какие",
+    "rank": 6,
+    "tweet_count": "11.2K Tweets"
+  },
+  {
+    "name": "#МояГодовщинаВТвиттере",
+    "query": "#МояГодовщинаВТвиттере",
     "rank": 7,
-    "tweet_count": "11K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Беларусь",
-    "query": "Беларусь",
+    "name": "Господи",
+    "query": "Господи",
     "rank": 8,
-    "tweet_count": "1,196 Tweets"
-  },
-  {
-    "name": "Russia",
-    "query": "Russia",
-    "rank": 9,
-    "tweet_count": "282K Tweets"
-  },
-  {
-    "name": "оооо",
-    "query": "оооо",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Минске",
-    "query": "Минске",
-    "rank": 11,
-    "tweet_count": null
+    "tweet_count": "4,792 Tweets"
   },
   {
     "name": "Украину",
     "query": "Украину",
-    "rank": 12,
-    "tweet_count": "11.4K Tweets"
+    "rank": 9,
+    "tweet_count": "11.6K Tweets"
   },
   {
-    "name": "#GlobalCrisis",
-    "query": "#GlobalCrisis",
-    "rank": 13,
-    "tweet_count": "1,221 Tweets"
-  },
-  {
-    "name": "Давай",
-    "query": "Давай",
-    "rank": 14,
-    "tweet_count": "7,034 Tweets"
-  },
-  {
-    "name": "Понимаю",
-    "query": "Понимаю",
-    "rank": 15,
-    "tweet_count": "13.6K Tweets"
-  },
-  {
-    "name": "наверное",
-    "query": "наверное",
-    "rank": 16,
-    "tweet_count": "6,916 Tweets"
+    "name": "Russian",
+    "query": "Russian",
+    "rank": 10,
+    "tweet_count": "161K Tweets"
   },
   {
     "name": "Ладно",
     "query": "Ладно",
-    "rank": 17,
-    "tweet_count": "9,820 Tweets"
+    "rank": 11,
+    "tweet_count": "9,965 Tweets"
   },
   {
-    "name": "Жесть",
-    "query": "Жесть",
-    "rank": 18,
-    "tweet_count": "4,437 Tweets"
+    "name": "СССР",
+    "query": "СССР",
+    "rank": 12,
+    "tweet_count": "5,351 Tweets"
   },
   {
-    "name": "Боже",
-    "query": "Боже",
-    "rank": 19,
-    "tweet_count": "7,824 Tweets"
+    "name": "Главное",
+    "query": "Главное",
+    "rank": 13,
+    "tweet_count": "6,392 Tweets"
   }
 ]
