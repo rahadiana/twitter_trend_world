@@ -24,22 +24,22 @@
     "tweet_count": null
   },
   {
-    "name": "Russian",
-    "query": "Russian",
-    "rank": 5,
-    "tweet_count": "155K Tweets"
-  },
-  {
     "name": "מרים נאור",
     "query": "\"מרים נאור\"",
-    "rank": 6,
-    "tweet_count": "1,479 Tweets"
+    "rank": 5,
+    "tweet_count": "1,502 Tweets"
   },
   {
     "name": "עוד צער",
     "query": "\"עוד צער\"",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
+  },
+  {
+    "name": "Russian",
+    "query": "Russian",
+    "rank": 7,
+    "tweet_count": "157K Tweets"
   },
   {
     "name": "בן אדם",
@@ -51,13 +51,13 @@
     "name": "Houthis",
     "query": "Houthis",
     "rank": 9,
-    "tweet_count": "27.9K Tweets"
+    "tweet_count": "28.2K Tweets"
   },
   {
     "name": "Christian",
     "query": "Christian",
     "rank": 10,
-    "tweet_count": "93.4K Tweets"
+    "tweet_count": "94.2K Tweets"
   },
   {
     "name": "של סילמן",
@@ -69,54 +69,54 @@
     "name": "#Wordle",
     "query": "#Wordle",
     "rank": 12,
-    "tweet_count": "10.8K Tweets"
+    "tweet_count": "11K Tweets"
   },
   {
     "name": "של גנץ",
     "query": "\"של גנץ\"",
     "rank": 13,
-    "tweet_count": "1,102 Tweets"
-  },
-  {
-    "name": "Israelis",
-    "query": "Israelis",
-    "rank": 14,
-    "tweet_count": "2,053 Tweets"
-  },
-  {
-    "name": "איזה אפס",
-    "query": "\"איזה אפס\"",
-    "rank": 15,
-    "tweet_count": null
+    "tweet_count": "1,104 Tweets"
   },
   {
     "name": "#Omicron",
     "query": "#Omicron",
+    "rank": 14,
+    "tweet_count": "43.8K Tweets"
+  },
+  {
+    "name": "מי אמר",
+    "query": "\"מי אמר\"",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Israelis",
+    "query": "Israelis",
     "rank": 16,
-    "tweet_count": "43.3K Tweets"
+    "tweet_count": "2,068 Tweets"
+  },
+  {
+    "name": "איזה אפס",
+    "query": "\"איזה אפס\"",
+    "rank": 17,
+    "tweet_count": null
   },
   {
     "name": "שים לב",
     "query": "\"שים לב\"",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Gaza",
     "query": "Gaza",
-    "rank": 18,
-    "tweet_count": "9,391 Tweets"
+    "rank": 19,
+    "tweet_count": "9,477 Tweets"
   },
   {
     "name": "נו באמת",
     "query": "\"נו באמת\"",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Abu Dhabi",
-    "query": "\"Abu Dhabi\"",
     "rank": 20,
-    "tweet_count": "41.8K Tweets"
+    "tweet_count": null
   }
 ]
