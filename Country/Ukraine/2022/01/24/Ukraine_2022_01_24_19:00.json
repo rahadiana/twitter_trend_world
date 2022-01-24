@@ -3,25 +3,25 @@
     "name": "#stayselcaday",
     "query": "#stayselcaday",
     "rank": 1,
-    "tweet_count": "136K Tweets"
+    "tweet_count": "137K Tweets"
   },
   {
     "name": "#StrayKids",
     "query": "#StrayKids",
     "rank": 2,
-    "tweet_count": "245K Tweets"
+    "tweet_count": "246K Tweets"
   },
   {
     "name": "Донбассе",
     "query": "Донбассе",
     "rank": 3,
-    "tweet_count": "2,603 Tweets"
+    "tweet_count": "2,623 Tweets"
   },
   {
-    "name": "Eastern Europe",
-    "query": "\"Eastern Europe\"",
+    "name": "Ukraine",
+    "query": "Ukraine",
     "rank": 4,
-    "tweet_count": "40.9K Tweets"
+    "tweet_count": "531K Tweets"
   },
   {
     "name": "СНБО",
@@ -30,16 +30,16 @@
     "tweet_count": null
   },
   {
-    "name": "COVID-19",
-    "query": "COVID-19",
-    "rank": 6,
-    "tweet_count": "390K Tweets"
-  },
-  {
     "name": "#крым",
     "query": "#крым",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
+  },
+  {
+    "name": "Eastern Europe",
+    "query": "\"Eastern Europe\"",
+    "rank": 7,
+    "tweet_count": "41.4K Tweets"
   },
   {
     "name": "#subqueryjanuary",
@@ -48,75 +48,75 @@
     "tweet_count": null
   },
   {
+    "name": "COVID-19",
+    "query": "COVID-19",
+    "rank": 9,
+    "tweet_count": "395K Tweets"
+  },
+  {
     "name": "Kyiv",
     "query": "Kyiv",
-    "rank": 9,
-    "tweet_count": "32K Tweets"
+    "rank": 10,
+    "tweet_count": "32.6K Tweets"
   },
   {
     "name": "#словко",
     "query": "#словко",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Украины",
     "query": "Украины",
-    "rank": 11,
-    "tweet_count": "16.1K Tweets"
+    "rank": 12,
+    "tweet_count": "16.3K Tweets"
+  },
+  {
+    "name": "NATO",
+    "query": "NATO",
+    "rank": 13,
+    "tweet_count": "146K Tweets"
   },
   {
     "name": "European",
     "query": "European",
-    "rank": 12,
-    "tweet_count": "85.1K Tweets"
+    "rank": 14,
+    "tweet_count": "86.1K Tweets"
   },
   {
     "name": "Польши",
     "query": "Польши",
-    "rank": 13,
-    "tweet_count": "1,155 Tweets"
+    "rank": 15,
+    "tweet_count": "1,202 Tweets"
   },
   {
     "name": "Благодарю",
     "query": "Благодарю",
-    "rank": 14,
-    "tweet_count": "1,148 Tweets"
+    "rank": 16,
+    "tweet_count": "1,156 Tweets"
   },
   {
     "name": "Мураева",
     "query": "Мураева",
-    "rank": 15,
+    "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Хорошего",
-    "query": "Хорошего",
-    "rank": 16,
-    "tweet_count": "3,420 Tweets"
+    "name": "Russian",
+    "query": "Russian",
+    "rank": 18,
+    "tweet_count": "179K Tweets"
   },
   {
     "name": "Ужас",
     "query": "Ужас",
-    "rank": 17,
-    "tweet_count": "2,992 Tweets"
-  },
-  {
-    "name": "Германия",
-    "query": "Германия",
-    "rank": 18,
-    "tweet_count": "3,289 Tweets"
-  },
-  {
-    "name": "В Киеве",
-    "query": "\"В Киеве\"",
     "rank": 19,
-    "tweet_count": "2,088 Tweets"
+    "tweet_count": "3,017 Tweets"
   },
   {
-    "name": "China",
-    "query": "China",
+    "name": "Хорошего",
+    "query": "Хорошего",
     "rank": 20,
-    "tweet_count": "273K Tweets"
+    "tweet_count": "3,440 Tweets"
   }
 ]
