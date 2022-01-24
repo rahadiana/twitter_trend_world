@@ -1,39 +1,39 @@
 [
   {
+    "name": "#stayselcaday",
+    "query": "#stayselcaday",
+    "rank": 1,
+    "tweet_count": "85.3K Tweets"
+  },
+  {
     "name": "Донбассе",
     "query": "Донбассе",
-    "rank": 1,
-    "tweet_count": "2,350 Tweets"
+    "rank": 2,
+    "tweet_count": "2,466 Tweets"
   },
   {
     "name": "#словко",
     "query": "#словко",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Ukraine",
     "query": "Ukraine",
-    "rank": 3,
-    "tweet_count": "441K Tweets"
+    "rank": 4,
+    "tweet_count": "454K Tweets"
   },
   {
     "name": "COVID-19",
     "query": "COVID-19",
-    "rank": 4,
-    "tweet_count": "349K Tweets"
-  },
-  {
-    "name": "Eastern Europe",
-    "query": "\"Eastern Europe\"",
     "rank": 5,
-    "tweet_count": "26.6K Tweets"
+    "tweet_count": "359K Tweets"
   },
   {
     "name": "Donbas",
     "query": "Donbas",
     "rank": 6,
-    "tweet_count": "4,954 Tweets"
+    "tweet_count": "5,140 Tweets"
   },
   {
     "name": "#Крым",
@@ -45,7 +45,7 @@
     "name": "Класс",
     "query": "Класс",
     "rank": 8,
-    "tweet_count": "2,277 Tweets"
+    "tweet_count": "2,330 Tweets"
   },
   {
     "name": "Польши",
@@ -54,69 +54,69 @@
     "tweet_count": null
   },
   {
+    "name": "Eastern Europe",
+    "query": "\"Eastern Europe\"",
+    "rank": 10,
+    "tweet_count": "28.4K Tweets"
+  },
+  {
     "name": "#Japan",
     "query": "#Japan",
-    "rank": 10,
-    "tweet_count": "9,770 Tweets"
+    "rank": 11,
+    "tweet_count": "9,924 Tweets"
   },
   {
     "name": "#subqueryjanuary",
     "query": "#subqueryjanuary",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Мураев",
     "query": "Мураев",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Chelsea",
-    "query": "Chelsea",
     "rank": 13,
-    "tweet_count": "175K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Украины",
     "query": "Украины",
     "rank": 14,
-    "tweet_count": "14.3K Tweets"
+    "tweet_count": "14.8K Tweets"
   },
   {
     "name": "Nigeria",
     "query": "Nigeria",
     "rank": 15,
-    "tweet_count": "264K Tweets"
-  },
-  {
-    "name": "Kyiv",
-    "query": "Kyiv",
-    "rank": 16,
-    "tweet_count": "25.2K Tweets"
+    "tweet_count": "266K Tweets"
   },
   {
     "name": "Los Angeles",
     "query": "\"Los Angeles\"",
-    "rank": 17,
-    "tweet_count": "44.5K Tweets"
+    "rank": 16,
+    "tweet_count": "45.1K Tweets"
   },
   {
     "name": "China",
     "query": "China",
+    "rank": 17,
+    "tweet_count": "257K Tweets"
+  },
+  {
+    "name": "Kyiv",
+    "query": "Kyiv",
     "rank": 18,
-    "tweet_count": "250K Tweets"
+    "tweet_count": "25.6K Tweets"
   },
   {
     "name": "Британии",
     "query": "Британии",
     "rank": 19,
-    "tweet_count": "1,234 Tweets"
+    "tweet_count": "1,251 Tweets"
   },
   {
     "name": "Putin",
     "query": "Putin",
     "rank": 20,
-    "tweet_count": "171K Tweets"
+    "tweet_count": "177K Tweets"
   }
 ]
