@@ -1,13 +1,13 @@
 [
   {
-    "name": "#guldbaggegalan",
-    "query": "#guldbaggegalan",
+    "name": "Komorerna",
+    "query": "Komorerna",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "Komorerna",
-    "query": "Komorerna",
+    "name": "#guldbaggegalan",
+    "query": "#guldbaggegalan",
     "rank": 2,
     "tweet_count": null
   },
@@ -15,13 +15,13 @@
     "name": "Ebba",
     "query": "Ebba",
     "rank": 3,
-    "tweet_count": "1,005 Tweets"
+    "tweet_count": "1,013 Tweets"
   },
   {
-    "name": "#guldbaggen",
-    "query": "#guldbaggen",
+    "name": "Kamerun",
+    "query": "Kamerun",
     "rank": 4,
-    "tweet_count": null
+    "tweet_count": "1,752 Tweets"
   },
   {
     "name": "#uppesittarkväll",
@@ -30,52 +30,52 @@
     "tweet_count": null
   },
   {
-    "name": "Kamerun",
-    "query": "Kamerun",
-    "rank": 6,
-    "tweet_count": "1,724 Tweets"
-  },
-  {
     "name": "Lina",
     "query": "Lina",
+    "rank": 6,
+    "tweet_count": "81K Tweets"
+  },
+  {
+    "name": "Timrå",
+    "query": "Timrå",
     "rank": 7,
-    "tweet_count": "80.8K Tweets"
+    "tweet_count": null
   },
   {
     "name": "taylor",
     "query": "taylor",
     "rank": 8,
-    "tweet_count": "151K Tweets"
+    "tweet_count": "163K Tweets"
   },
   {
-    "name": "Timrå",
-    "query": "Timrå",
+    "name": "#guldbaggen",
+    "query": "#guldbaggen",
     "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Bildt",
-    "query": "Bildt",
-    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Isak",
     "query": "Isak",
-    "rank": 11,
-    "tweet_count": "15K Tweets"
+    "rank": 10,
+    "tweet_count": "15.1K Tweets"
   },
   {
-    "name": "Gina Dirawi",
-    "query": "\"Gina Dirawi\"",
-    "rank": 12,
+    "name": "Pierre Bengtsson",
+    "query": "\"Pierre Bengtsson\"",
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "#AFCON2021",
     "query": "#AFCON2021",
+    "rank": 12,
+    "tweet_count": "78.5K Tweets"
+  },
+  {
+    "name": "Gina Dirawi",
+    "query": "\"Gina Dirawi\"",
     "rank": 13,
-    "tweet_count": "77.1K Tweets"
+    "tweet_count": null
   },
   {
     "name": "nibe",
@@ -84,27 +84,33 @@
     "tweet_count": null
   },
   {
-    "name": "#Euphoria",
-    "query": "#Euphoria",
+    "name": "Aktuellt",
+    "query": "Aktuellt",
     "rank": 15,
-    "tweet_count": "385K Tweets"
-  },
-  {
-    "name": "pierre bengtsson",
-    "query": "\"pierre bengtsson\"",
-    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "Boris Johnson",
-    "query": "\"Boris Johnson\"",
+    "name": "Brady",
+    "query": "Brady",
+    "rank": 16,
+    "tweet_count": "434K Tweets"
+  },
+  {
+    "name": "Agenda",
+    "query": "Agenda",
     "rank": 17,
-    "tweet_count": "139K Tweets"
+    "tweet_count": "128K Tweets"
   },
   {
     "name": "Ann Linde",
     "query": "\"Ann Linde\"",
     "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Ranieri",
+    "query": "Ranieri",
+    "rank": 19,
+    "tweet_count": "14.2K Tweets"
   }
 ]
