@@ -1,81 +1,81 @@
 [
   {
-    "name": "Cali",
-    "query": "Cali",
-    "rank": 1,
-    "tweet_count": "33.1K Tweets"
-  },
-  {
     "name": "Barranquilla",
     "query": "Barranquilla",
-    "rank": 2,
-    "tweet_count": "59.1K Tweets"
+    "rank": 1,
+    "tweet_count": "59.2K Tweets"
   },
   {
     "name": "#ELNConPetro",
     "query": "#ELNConPetro",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": "46.2K Tweets"
   },
   {
     "name": "#PetroEsGrande",
     "query": "#PetroEsGrande",
-    "rank": 4,
-    "tweet_count": "21.4K Tweets"
+    "rank": 3,
+    "tweet_count": "21.5K Tweets"
   },
   {
     "name": "Fórmula 1",
     "query": "\"Fórmula 1\"",
-    "rank": 5,
-    "tweet_count": "70.1K Tweets"
+    "rank": 4,
+    "tweet_count": "70.3K Tweets"
   },
   {
-    "name": "#Euphoria",
-    "query": "#Euphoria",
-    "rank": 6,
-    "tweet_count": "238K Tweets"
+    "name": "Euphoria",
+    "query": "Euphoria",
+    "rank": 5,
+    "tweet_count": "615K Tweets"
   },
   {
     "name": "Caldera",
     "query": "Caldera",
+    "rank": 6,
+    "tweet_count": "3,442 Tweets"
+  },
+  {
+    "name": "#elfantasmadetulapas",
+    "query": "#elfantasmadetulapas",
     "rank": 7,
-    "tweet_count": "3,424 Tweets"
+    "tweet_count": "7,387 Tweets"
   },
   {
     "name": "#Autoridad",
     "query": "#Autoridad",
     "rank": 8,
-    "tweet_count": "1,093 Tweets"
+    "tweet_count": "1,096 Tweets"
   },
   {
-    "name": "#elfantasmadetulapas",
-    "query": "#elfantasmadetulapas",
+    "name": "#LosDanieles",
+    "query": "#LosDanieles",
     "rank": 9,
-    "tweet_count": "7,380 Tweets"
+    "tweet_count": "6,532 Tweets"
   },
   {
-    "name": "Jaguares",
-    "query": "Jaguares",
+    "name": "Iago Falque",
+    "query": "\"Iago Falque\"",
     "rank": 10,
-    "tweet_count": "1,779 Tweets"
+    "tweet_count": "4,562 Tweets"
   },
   {
     "name": "elliot",
     "query": "elliot",
     "rank": 11,
-    "tweet_count": "64.1K Tweets"
-  },
-  {
-    "name": "Iago Falque",
-    "query": "\"Iago Falque\"",
-    "rank": 12,
-    "tweet_count": "4,561 Tweets"
+    "tweet_count": "64.5K Tweets"
   },
   {
     "name": "restrepo",
     "query": "restrepo",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": "3,077 Tweets"
+  },
+  {
+    "name": "Mahomes",
+    "query": "Mahomes",
+    "rank": 13,
+    "tweet_count": "313K Tweets"
   },
   {
     "name": "Chiefs",
@@ -84,39 +84,39 @@
     "tweet_count": "450K Tweets"
   },
   {
-    "name": "Mahomes",
-    "query": "Mahomes",
-    "rank": 15,
-    "tweet_count": "313K Tweets"
-  },
-  {
     "name": "Ziyech",
     "query": "Ziyech",
-    "rank": 16,
-    "tweet_count": "104K Tweets"
+    "rank": 15,
+    "tweet_count": "105K Tweets"
   },
   {
-    "name": "Lucky",
-    "query": "Lucky",
-    "rank": 17,
-    "tweet_count": "416K Tweets"
+    "name": "jaguares",
+    "query": "jaguares",
+    "rank": 16,
+    "tweet_count": "1,780 Tweets"
   },
   {
     "name": "Blinks",
     "query": "Blinks",
+    "rank": 17,
+    "tweet_count": "288K Tweets"
+  },
+  {
+    "name": "Luis Suárez",
+    "query": "\"Luis Suárez\"",
     "rank": 18,
-    "tweet_count": "285K Tweets"
+    "tweet_count": "4,216 Tweets"
   },
   {
-    "name": "lexi",
-    "query": "lexi",
+    "name": "william ospina",
+    "query": "\"william ospina\"",
     "rank": 19,
-    "tweet_count": "94.7K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Josh Allen",
-    "query": "\"Josh Allen\"",
+    "name": "Lucky",
+    "query": "Lucky",
     "rank": 20,
-    "tweet_count": "265K Tweets"
+    "tweet_count": "420K Tweets"
   }
 ]
