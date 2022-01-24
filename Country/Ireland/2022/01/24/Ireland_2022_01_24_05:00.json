@@ -1,21 +1,21 @@
 [
   {
-    "name": "Mahomes",
-    "query": "Mahomes",
-    "rank": 1,
-    "tweet_count": "296K Tweets"
-  },
-  {
     "name": "Chiefs",
     "query": "Chiefs",
-    "rank": 2,
-    "tweet_count": "430K Tweets"
+    "rank": 1,
+    "tweet_count": "433K Tweets"
   },
   {
     "name": "#CheTot",
     "query": "#CheTot",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": "106K Tweets"
+  },
+  {
+    "name": "#LARvsTB",
+    "query": "#LARvsTB",
+    "rank": 3,
+    "tweet_count": "70.9K Tweets"
   },
   {
     "name": "#CRYLIV",
@@ -33,49 +33,49 @@
     "name": "Josh Allen",
     "query": "\"Josh Allen\"",
     "rank": 6,
-    "tweet_count": "256K Tweets"
+    "tweet_count": "257K Tweets"
   },
   {
-    "name": "#Euphoria",
-    "query": "#Euphoria",
+    "name": "Mahomes",
+    "query": "Mahomes",
     "rank": 7,
-    "tweet_count": "180K Tweets"
-  },
-  {
-    "name": "#dwtsirl",
-    "query": "#dwtsirl",
-    "rank": 8,
-    "tweet_count": null
+    "tweet_count": "298K Tweets"
   },
   {
     "name": "tj reid",
     "query": "\"tj reid\"",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "#SFPvCON",
+    "query": "#SFPvCON",
     "rank": 9,
     "tweet_count": null
   },
   {
+    "name": "Alfie",
+    "query": "Alfie",
+    "rank": 10,
+    "tweet_count": "12.3K Tweets"
+  },
+  {
     "name": "Russia",
     "query": "Russia",
-    "rank": 10,
-    "tweet_count": "283K Tweets"
+    "rank": 11,
+    "tweet_count": "285K Tweets"
+  },
+  {
+    "name": "Aaron Rodgers",
+    "query": "\"Aaron Rodgers\"",
+    "rank": 12,
+    "tweet_count": "308K Tweets"
   },
   {
     "name": "St Thomas",
     "query": "\"St Thomas\"",
-    "rank": 11,
-    "tweet_count": "1,923 Tweets"
-  },
-  {
-    "name": "Wasps",
-    "query": "Wasps",
-    "rank": 12,
-    "tweet_count": "2,047 Tweets"
-  },
-  {
-    "name": "Brady",
-    "query": "Brady",
     "rank": 13,
-    "tweet_count": "525K Tweets"
+    "tweet_count": "1,930 Tweets"
   },
   {
     "name": "ballyhale",
@@ -84,38 +84,38 @@
     "tweet_count": null
   },
   {
-    "name": "Alfie",
-    "query": "Alfie",
-    "rank": 15,
-    "tweet_count": "12.2K Tweets"
-  },
-  {
     "name": "Ukraine",
     "query": "Ukraine",
+    "rank": 15,
+    "tweet_count": "378K Tweets"
+  },
+  {
+    "name": "Wordle 219 X",
+    "query": "\"Wordle 219 X\"",
     "rank": 16,
-    "tweet_count": "376K Tweets"
+    "tweet_count": "3,246 Tweets"
   },
   {
     "name": "Cavani",
     "query": "Cavani",
     "rank": 17,
-    "tweet_count": "18.5K Tweets"
+    "tweet_count": "18.6K Tweets"
   },
   {
-    "name": "Wordle 219 X",
-    "query": "\"Wordle 219 X\"",
+    "name": "Tunisia",
+    "query": "Tunisia",
     "rank": 18,
-    "tweet_count": "3,159 Tweets"
+    "tweet_count": "106K Tweets"
   },
   {
-    "name": "Maguire",
-    "query": "Maguire",
+    "name": "wasps",
+    "query": "wasps",
     "rank": 19,
-    "tweet_count": "16.5K Tweets"
+    "tweet_count": "2,049 Tweets"
   },
   {
-    "name": "thomond park",
-    "query": "\"thomond park\"",
+    "name": "thurles",
+    "query": "thurles",
     "rank": 20,
     "tweet_count": null
   }
