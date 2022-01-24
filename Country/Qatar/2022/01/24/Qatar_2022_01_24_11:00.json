@@ -1,15 +1,15 @@
 [
   {
-    "name": "#الشمال",
-    "query": "#الشمال",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#الامارات",
     "query": "#الامارات",
+    "rank": 1,
+    "tweet_count": "35.6K Tweets"
+  },
+  {
+    "name": "#الشمال",
+    "query": "#الشمال",
     "rank": 2,
-    "tweet_count": "35.1K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#ام_صلال",
@@ -27,13 +27,13 @@
     "name": "#صباح_الخير",
     "query": "#صباح_الخير",
     "rank": 5,
-    "tweet_count": "45.7K Tweets"
+    "tweet_count": "46.1K Tweets"
   },
   {
     "name": "الشوط الاول",
     "query": "\"الشوط الاول\"",
     "rank": 6,
-    "tweet_count": "2,718 Tweets"
+    "tweet_count": "2,722 Tweets"
   },
   {
     "name": "الشوط الثاني",
@@ -45,19 +45,19 @@
     "name": "تونس",
     "query": "تونس",
     "rank": 8,
-    "tweet_count": "31.7K Tweets"
+    "tweet_count": "31.9K Tweets"
   },
   {
     "name": "COVID-19",
     "query": "COVID-19",
     "rank": 9,
-    "tweet_count": "343K Tweets"
+    "tweet_count": "346K Tweets"
   },
   {
     "name": "Chelsea",
     "query": "Chelsea",
     "rank": 10,
-    "tweet_count": "185K Tweets"
+    "tweet_count": "186K Tweets"
   },
   {
     "name": "نيجيريا",
@@ -75,48 +75,48 @@
     "name": "الكويت",
     "query": "الكويت",
     "rank": 13,
-    "tweet_count": "43.5K Tweets"
+    "tweet_count": "44.1K Tweets"
   },
   {
     "name": "المغرب",
     "query": "المغرب",
     "rank": 14,
-    "tweet_count": "16.5K Tweets"
-  },
-  {
-    "name": "Nigeria",
-    "query": "Nigeria",
-    "rank": 15,
-    "tweet_count": "272K Tweets"
-  },
-  {
-    "name": "May Allah",
-    "query": "\"May Allah\"",
-    "rank": 16,
-    "tweet_count": "25.2K Tweets"
+    "tweet_count": "16.7K Tweets"
   },
   {
     "name": "Ukraine",
     "query": "Ukraine",
+    "rank": 15,
+    "tweet_count": "390K Tweets"
+  },
+  {
+    "name": "Nigeria",
+    "query": "Nigeria",
+    "rank": 16,
+    "tweet_count": "273K Tweets"
+  },
+  {
+    "name": "May Allah",
+    "query": "\"May Allah\"",
     "rank": 17,
-    "tweet_count": "386K Tweets"
+    "tweet_count": "25.6K Tweets"
   },
   {
     "name": "Kenya",
     "query": "Kenya",
     "rank": 18,
-    "tweet_count": "57.5K Tweets"
+    "tweet_count": "58K Tweets"
   },
   {
     "name": "Ruto",
     "query": "Ruto",
     "rank": 19,
-    "tweet_count": "49.5K Tweets"
+    "tweet_count": "49.8K Tweets"
   },
   {
-    "name": "Lisa",
-    "query": "Lisa",
+    "name": "Europe",
+    "query": "Europe",
     "rank": 20,
-    "tweet_count": "353K Tweets"
+    "tweet_count": "187K Tweets"
   }
 ]
