@@ -1,13 +1,13 @@
 [
   {
-    "name": "Vavro",
-    "query": "Vavro",
+    "name": "Messerschmidt",
+    "query": "Messerschmidt",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "Messerschmidt",
-    "query": "Messerschmidt",
+    "name": "Vavro",
+    "query": "Vavro",
     "rank": 2,
     "tweet_count": null
   },
@@ -30,8 +30,8 @@
     "tweet_count": "40.3K Tweets"
   },
   {
-    "name": "Uhre",
-    "query": "Uhre",
+    "name": "uhre",
+    "query": "uhre",
     "rank": 6,
     "tweet_count": null
   },
@@ -51,7 +51,7 @@
     "name": "Pierre",
     "query": "Pierre",
     "rank": 9,
-    "tweet_count": "38.2K Tweets"
+    "tweet_count": "38.6K Tweets"
   },
   {
     "name": "#CheTot",
@@ -69,7 +69,7 @@
     "name": "Kina",
     "query": "Kina",
     "rank": 12,
-    "tweet_count": "13.1K Tweets"
+    "tweet_count": "13.2K Tweets"
   },
   {
     "name": "Rams",
@@ -84,39 +84,39 @@
     "tweet_count": null
   },
   {
-    "name": "#presselogen",
-    "query": "#presselogen",
+    "name": "København",
+    "query": "København",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "Taliban",
-    "query": "Taliban",
+    "name": "#presselogen",
+    "query": "#presselogen",
     "rank": 16,
-    "tweet_count": "39.9K Tweets"
-  },
-  {
-    "name": "Rodgers",
-    "query": "Rodgers",
-    "rank": 17,
-    "tweet_count": "357K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Russian",
     "query": "Russian",
+    "rank": 17,
+    "tweet_count": "161K Tweets"
+  },
+  {
+    "name": "Rodgers",
+    "query": "Rodgers",
     "rank": 18,
-    "tweet_count": "160K Tweets"
+    "tweet_count": "357K Tweets"
+  },
+  {
+    "name": "Taliban",
+    "query": "Taliban",
+    "rank": 19,
+    "tweet_count": "40.3K Tweets"
   },
   {
     "name": "Burnley",
     "query": "Burnley",
-    "rank": 19,
-    "tweet_count": "48.4K Tweets"
-  },
-  {
-    "name": "Herning",
-    "query": "Herning",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "48.5K Tweets"
   }
 ]

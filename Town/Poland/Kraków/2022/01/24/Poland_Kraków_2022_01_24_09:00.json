@@ -1,39 +1,39 @@
 [
   {
-    "name": "#minela8",
-    "query": "#minela8",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Solaris",
     "query": "Solaris",
+    "rank": 1,
+    "tweet_count": "2,664 Tweets"
+  },
+  {
+    "name": "Solidarności",
+    "query": "Solidarności",
     "rank": 2,
-    "tweet_count": "2,595 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Miłego",
     "query": "Miłego",
     "rank": 3,
-    "tweet_count": "12.5K Tweets"
+    "tweet_count": "12.8K Tweets"
   },
   {
     "name": "#AusOpen",
     "query": "#AusOpen",
     "rank": 4,
-    "tweet_count": "44.7K Tweets"
-  },
-  {
-    "name": "#pizgaczhell",
-    "query": "#pizgaczhell",
-    "rank": 5,
-    "tweet_count": "7,931 Tweets"
+    "tweet_count": "45.2K Tweets"
   },
   {
     "name": "#famemma",
     "query": "#famemma",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": "1,725 Tweets"
+  },
+  {
+    "name": "#pizgaczhell",
+    "query": "#pizgaczhell",
+    "rank": 6,
+    "tweet_count": "7,947 Tweets"
   },
   {
     "name": "#JazdaIga",
@@ -42,14 +42,14 @@
     "tweet_count": null
   },
   {
-    "name": "Solidarności",
-    "query": "Solidarności",
+    "name": "Razem",
+    "query": "Razem",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "8,986 Tweets"
   },
   {
-    "name": "Zandberg",
-    "query": "Zandberg",
+    "name": "#Jedziemy",
+    "query": "#Jedziemy",
     "rank": 9,
     "tweet_count": null
   },
@@ -60,62 +60,62 @@
     "tweet_count": null
   },
   {
-    "name": "Cirstea",
-    "query": "Cirstea",
+    "name": "Zandberg",
+    "query": "Zandberg",
     "rank": 11,
-    "tweet_count": "1,198 Tweets"
-  },
-  {
-    "name": "Razem",
-    "query": "Razem",
-    "rank": 12,
-    "tweet_count": "8,873 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Ukrainy",
     "query": "Ukrainy",
-    "rank": 13,
-    "tweet_count": "5,785 Tweets"
+    "rank": 12,
+    "tweet_count": "5,894 Tweets"
   },
   {
     "name": "Kijowie",
     "query": "Kijowie",
-    "rank": 14,
-    "tweet_count": "1,939 Tweets"
+    "rank": 13,
+    "tweet_count": "1,959 Tweets"
   },
   {
     "name": "Barbara Krafftówna",
     "query": "\"Barbara Krafftówna\"",
+    "rank": 14,
+    "tweet_count": "1,107 Tweets"
+  },
+  {
+    "name": "lewica",
+    "query": "lewica",
     "rank": 15,
-    "tweet_count": "1,105 Tweets"
+    "tweet_count": "5,775 Tweets"
   },
   {
-    "name": "Dobrego",
-    "query": "Dobrego",
+    "name": "Cirstea",
+    "query": "Cirstea",
     "rank": 16,
-    "tweet_count": "2,153 Tweets"
-  },
-  {
-    "name": "Lewica",
-    "query": "Lewica",
-    "rank": 17,
-    "tweet_count": "5,646 Tweets"
-  },
-  {
-    "name": "Wenezueli",
-    "query": "Wenezueli",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "1,253 Tweets"
   },
   {
     "name": "Putin",
     "query": "Putin",
-    "rank": 19,
-    "tweet_count": "158K Tweets"
+    "rank": 17,
+    "tweet_count": "159K Tweets"
   },
   {
-    "name": "Giertycha",
-    "query": "Giertycha",
+    "name": "Rosji",
+    "query": "Rosji",
+    "rank": 18,
+    "tweet_count": "6,195 Tweets"
+  },
+  {
+    "name": "janina traczykówna",
+    "query": "\"janina traczykówna\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "franciszka salezego",
+    "query": "\"franciszka salezego\"",
     "rank": 20,
     "tweet_count": null
   }
