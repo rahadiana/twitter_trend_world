@@ -1,39 +1,39 @@
 [
   {
-    "name": "Comoros",
-    "query": "Comoros",
-    "rank": 1,
-    "tweet_count": "48K Tweets"
-  },
-  {
     "name": "Russia",
     "query": "Russia",
-    "rank": 2,
-    "tweet_count": "438K Tweets"
+    "rank": 1,
+    "tweet_count": "444K Tweets"
   },
   {
     "name": "Damon Albarn",
     "query": "\"Damon Albarn\"",
+    "rank": 2,
+    "tweet_count": "15.4K Tweets"
+  },
+  {
+    "name": "#crimesandconfessions",
+    "query": "#crimesandconfessions",
     "rank": 3,
-    "tweet_count": "11.9K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "#AFCON2021",
+    "query": "#AFCON2021",
+    "rank": 4,
+    "tweet_count": "79.8K Tweets"
   },
   {
     "name": "#CRYLIV",
     "query": "#CRYLIV",
-    "rank": 4,
-    "tweet_count": "5,355 Tweets"
+    "rank": 5,
+    "tweet_count": "5,380 Tweets"
   },
   {
     "name": "#LARvsTB",
     "query": "#LARvsTB",
-    "rank": 5,
-    "tweet_count": "53.3K Tweets"
-  },
-  {
-    "name": "Alfie",
-    "query": "Alfie",
     "rank": 6,
-    "tweet_count": "17.7K Tweets"
+    "tweet_count": "53.3K Tweets"
   },
   {
     "name": "#liveline",
@@ -42,81 +42,81 @@
     "tweet_count": null
   },
   {
-    "name": "#UniversityChallenge",
-    "query": "#UniversityChallenge",
+    "name": "Alfie",
+    "query": "Alfie",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "17.9K Tweets"
   },
   {
     "name": "Wordle 219 X",
     "query": "\"Wordle 219 X\"",
     "rank": 9,
-    "tweet_count": "12.8K Tweets"
+    "tweet_count": "12.9K Tweets"
   },
   {
     "name": "Shannon",
     "query": "Shannon",
     "rank": 10,
-    "tweet_count": "13K Tweets"
-  },
-  {
-    "name": "#onlyconnect",
-    "query": "#onlyconnect",
-    "rank": 11,
-    "tweet_count": "1,393 Tweets"
+    "tweet_count": "13.3K Tweets"
   },
   {
     "name": "NATO",
     "query": "NATO",
-    "rank": 12,
-    "tweet_count": "157K Tweets"
+    "rank": 11,
+    "tweet_count": "159K Tweets"
   },
   {
     "name": "Tom Brady",
     "query": "\"Tom Brady\"",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": "191K Tweets"
   },
   {
     "name": "Denmark",
     "query": "Denmark",
-    "rank": 14,
-    "tweet_count": "17.1K Tweets"
+    "rank": 13,
+    "tweet_count": "17.3K Tweets"
   },
   {
     "name": "Bob Marley",
     "query": "\"Bob Marley\"",
-    "rank": 15,
-    "tweet_count": "7,301 Tweets"
+    "rank": 14,
+    "tweet_count": "7,356 Tweets"
   },
   {
     "name": "Danes",
     "query": "Danes",
+    "rank": 15,
+    "tweet_count": "2,755 Tweets"
+  },
+  {
+    "name": "Joanne Hayes",
+    "query": "\"Joanne Hayes\"",
     "rank": 16,
-    "tweet_count": "2,729 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Boris",
     "query": "Boris",
     "rank": 17,
-    "tweet_count": "197K Tweets"
+    "tweet_count": "202K Tweets"
+  },
+  {
+    "name": "Bohs",
+    "query": "Bohs",
+    "rank": 18,
+    "tweet_count": null
   },
   {
     "name": "TJ Reid",
     "query": "\"TJ Reid\"",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Chiefs",
     "query": "Chiefs",
-    "rank": 19,
-    "tweet_count": "522K Tweets"
-  },
-  {
-    "name": "Bohs",
-    "query": "Bohs",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "524K Tweets"
   }
 ]

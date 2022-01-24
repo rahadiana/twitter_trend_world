@@ -9,25 +9,25 @@
     "name": "taylor",
     "query": "taylor",
     "rank": 2,
-    "tweet_count": "163K Tweets"
+    "tweet_count": "176K Tweets"
   },
   {
     "name": "רק אחד",
     "query": "\"רק אחד\"",
     "rank": 3,
-    "tweet_count": "1,111 Tweets"
-  },
-  {
-    "name": "Ukraine",
-    "query": "Ukraine",
-    "rank": 4,
-    "tweet_count": "569K Tweets"
+    "tweet_count": "1,120 Tweets"
   },
   {
     "name": "בן ארי",
     "query": "\"בן ארי\"",
+    "rank": 4,
+    "tweet_count": "1,307 Tweets"
+  },
+  {
+    "name": "Ukraine",
+    "query": "Ukraine",
     "rank": 5,
-    "tweet_count": "1,288 Tweets"
+    "tweet_count": "578K Tweets"
   },
   {
     "name": "ברוך דיין",
@@ -45,7 +45,7 @@
     "name": "מרים נאור",
     "query": "\"מרים נאור\"",
     "rank": 8,
-    "tweet_count": "1,957 Tweets"
+    "tweet_count": "1,973 Tweets"
   },
   {
     "name": "ישראל כץ",
@@ -66,57 +66,57 @@
     "tweet_count": null
   },
   {
-    "name": "jules",
-    "query": "jules",
+    "name": "Jules",
+    "query": "Jules",
     "rank": 12,
-    "tweet_count": "128K Tweets"
+    "tweet_count": "129K Tweets"
   },
   {
     "name": "Torah",
     "query": "Torah",
     "rank": 13,
-    "tweet_count": "1,428 Tweets"
-  },
-  {
-    "name": "Dean",
-    "query": "Dean",
-    "rank": 14,
-    "tweet_count": "49.8K Tweets"
+    "tweet_count": "1,443 Tweets"
   },
   {
     "name": "תודה לאל",
     "query": "\"תודה לאל\"",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Western",
     "query": "Western",
-    "rank": 16,
-    "tweet_count": "71.7K Tweets"
+    "rank": 15,
+    "tweet_count": "72.5K Tweets"
   },
   {
-    "name": "איזה אפס",
-    "query": "\"איזה אפס\"",
-    "rank": 17,
-    "tweet_count": null
+    "name": "Dean",
+    "query": "Dean",
+    "rank": 16,
+    "tweet_count": "50.4K Tweets"
   },
   {
     "name": "אהרון ברק",
     "query": "\"אהרון ברק\"",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "שים לב",
     "query": "\"שים לב\"",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "#blockchain",
     "query": "#blockchain",
+    "rank": 19,
+    "tweet_count": "115K Tweets"
+  },
+  {
+    "name": "איזה אפס",
+    "query": "\"איזה אפס\"",
     "rank": 20,
-    "tweet_count": "114K Tweets"
+    "tweet_count": null
   }
 ]
