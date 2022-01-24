@@ -1,92 +1,98 @@
 [
   {
+    "name": "Puma",
+    "query": "Puma",
+    "rank": 1,
+    "tweet_count": "15.2K Tweets"
+  },
+  {
     "name": "Maracanã",
     "query": "Maracanã",
-    "rank": 1,
-    "tweet_count": "3,881 Tweets"
+    "rank": 2,
+    "tweet_count": "3,919 Tweets"
   },
   {
     "name": "Elden Ring",
     "query": "\"Elden Ring\"",
-    "rank": 2,
-    "tweet_count": "13.5K Tweets"
+    "rank": 3,
+    "tweet_count": "13.8K Tweets"
   },
   {
     "name": "Breno Lopes",
     "query": "\"Breno Lopes\"",
-    "rank": 3,
-    "tweet_count": "2,102 Tweets"
+    "rank": 4,
+    "tweet_count": "2,124 Tweets"
+  },
+  {
+    "name": "Itaquera",
+    "query": "Itaquera",
+    "rank": 5,
+    "tweet_count": null
   },
   {
     "name": "O Santos",
     "query": "\"O Santos\"",
-    "rank": 4,
-    "tweet_count": "32.2K Tweets"
+    "rank": 6,
+    "tweet_count": "32.4K Tweets"
   },
   {
     "name": "Prior",
     "query": "Prior",
-    "rank": 5,
+    "rank": 7,
     "tweet_count": "101K Tweets"
+  },
+  {
+    "name": "Armin",
+    "query": "Armin",
+    "rank": 8,
+    "tweet_count": "52.2K Tweets"
   },
   {
     "name": "Boga",
     "query": "Boga",
-    "rank": 6,
-    "tweet_count": "8,597 Tweets"
+    "rank": 9,
+    "tweet_count": "8,818 Tweets"
   },
   {
     "name": "#ForaTiago",
     "query": "#ForaTiago",
-    "rank": 7,
-    "tweet_count": "12.9K Tweets"
+    "rank": 10,
+    "tweet_count": "13.1K Tweets"
   },
   {
     "name": "#OurBrightestLightLucas",
     "query": "#OurBrightestLightLucas",
-    "rank": 8,
-    "tweet_count": "561K Tweets"
-  },
-  {
-    "name": "#stayselcaday",
-    "query": "#stayselcaday",
-    "rank": 9,
-    "tweet_count": "130K Tweets"
+    "rank": 11,
+    "tweet_count": "563K Tweets"
   },
   {
     "name": "Procurando Nemo",
     "query": "\"Procurando Nemo\"",
-    "rank": 10,
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "#stayselcaday",
+    "query": "#stayselcaday",
+    "rank": 13,
+    "tweet_count": "131K Tweets"
   },
   {
     "name": "#黄旭熙0125生日快乐",
     "query": "#黄旭熙0125生日快乐",
-    "rank": 11,
-    "tweet_count": "478K Tweets"
-  },
-  {
-    "name": "Cauê Moura",
-    "query": "\"Cauê Moura\"",
-    "rank": 12,
-    "tweet_count": "7,657 Tweets"
-  },
-  {
-    "name": "Igreja Universal",
-    "query": "\"Igreja Universal\"",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "CABELO DE CLORO IS COMING",
-    "query": "\"CABELO DE CLORO IS COMING\"",
     "rank": 14,
-    "tweet_count": "1,351 Tweets"
+    "tweet_count": "480K Tweets"
   },
   {
-    "name": "mackenzie",
-    "query": "mackenzie",
+    "name": "Universal",
+    "query": "Universal",
     "rank": 15,
-    "tweet_count": "2,627 Tweets"
+    "tweet_count": "64.8K Tweets"
+  },
+  {
+    "name": "#HAPPYLUCASDAY",
+    "query": "#HAPPYLUCASDAY",
+    "rank": 16,
+    "tweet_count": "347K Tweets"
   }
 ]
