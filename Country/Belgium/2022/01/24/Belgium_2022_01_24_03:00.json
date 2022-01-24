@@ -1,27 +1,27 @@
 [
   {
-    "name": "#Brussel",
-    "query": "#Brussel",
-    "rank": 1,
-    "tweet_count": "56.2K Tweets"
-  },
-  {
     "name": "#STACLU",
     "query": "#STACLU",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "1,505 Tweets"
   },
   {
     "name": "#USGGNK",
     "query": "#USGGNK",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "#Brussel",
+    "query": "#Brussel",
+    "rank": 3,
+    "tweet_count": "56.3K Tweets"
   },
   {
     "name": "Antifa",
     "query": "Antifa",
     "rank": 4,
-    "tweet_count": "64.6K Tweets"
+    "tweet_count": "65.1K Tweets"
   },
   {
     "name": "#KVMAND",
@@ -33,7 +33,7 @@
     "name": "#Bruxelles",
     "query": "#Bruxelles",
     "rank": 6,
-    "tweet_count": "71.5K Tweets"
+    "tweet_count": "71.7K Tweets"
   },
   {
     "name": "Lestienne",
@@ -45,13 +45,13 @@
     "name": "Union",
     "query": "Union",
     "rank": 8,
-    "tweet_count": "145K Tweets"
+    "tweet_count": "147K Tweets"
   },
   {
     "name": "jubelpark",
     "query": "jubelpark",
     "rank": 9,
-    "tweet_count": "3,434 Tweets"
+    "tweet_count": "3,437 Tweets"
   },
   {
     "name": "Lachaert",
@@ -63,13 +63,13 @@
     "name": "moreno",
     "query": "moreno",
     "rank": 11,
-    "tweet_count": "111K Tweets"
+    "tweet_count": "112K Tweets"
   },
   {
     "name": "Cyril",
     "query": "Cyril",
     "rank": 12,
-    "tweet_count": "39.9K Tweets"
+    "tweet_count": "40K Tweets"
   },
   {
     "name": "bart de wever",
@@ -81,11 +81,11 @@
     "name": "Raman",
     "query": "Raman",
     "rank": 14,
-    "tweet_count": "2,985 Tweets"
+    "tweet_count": "3,051 Tweets"
   },
   {
-    "name": "bruges",
-    "query": "bruges",
+    "name": "Bruges",
+    "query": "Bruges",
     "rank": 15,
     "tweet_count": null
   },
@@ -93,13 +93,13 @@
     "name": "Mata",
     "query": "Mata",
     "rank": 16,
-    "tweet_count": "133K Tweets"
+    "tweet_count": "136K Tweets"
   },
   {
-    "name": "goedemorgen",
-    "query": "goedemorgen",
+    "name": "Goedemorgen",
+    "query": "Goedemorgen",
     "rank": 17,
-    "tweet_count": "7,226 Tweets"
+    "tweet_count": "7,223 Tweets"
   },
   {
     "name": "Nsoki",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "Extreem",
-    "query": "Extreem",
+    "name": "Ziyech",
+    "query": "Ziyech",
     "rank": 19,
-    "tweet_count": "5,727 Tweets"
+    "tweet_count": "97.8K Tweets"
   },
   {
-    "name": "Vinicius",
-    "query": "Vinicius",
+    "name": "Extreem",
+    "query": "Extreem",
     "rank": 20,
-    "tweet_count": "26.2K Tweets"
+    "tweet_count": "5,733 Tweets"
   }
 ]

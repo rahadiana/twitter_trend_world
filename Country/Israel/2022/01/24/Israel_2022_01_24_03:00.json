@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "Hebrew",
-    "query": "Hebrew",
+    "name": "hebrew",
+    "query": "hebrew",
     "rank": 5,
-    "tweet_count": "2,143 Tweets"
+    "tweet_count": "2,183 Tweets"
   },
   {
     "name": "Russian",
     "query": "Russian",
     "rank": 6,
-    "tweet_count": "152K Tweets"
+    "tweet_count": "155K Tweets"
   },
   {
     "name": "ישראל כץ",
@@ -57,13 +57,13 @@
     "name": "של נתניהו",
     "query": "\"של נתניהו\"",
     "rank": 10,
-    "tweet_count": "5,463 Tweets"
+    "tweet_count": "5,481 Tweets"
   },
   {
     "name": "Nazis",
     "query": "Nazis",
     "rank": 11,
-    "tweet_count": "41.2K Tweets"
+    "tweet_count": "41.8K Tweets"
   },
   {
     "name": "נו באמת",
@@ -75,7 +75,7 @@
     "name": "Putin",
     "query": "Putin",
     "rank": 13,
-    "tweet_count": "150K Tweets"
+    "tweet_count": "153K Tweets"
   },
   {
     "name": "בן גביר",
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
+    "name": "Christian",
+    "query": "Christian",
+    "rank": 17,
+    "tweet_count": "107K Tweets"
+  },
+  {
     "name": "של סילמן",
     "query": "\"של סילמן\"",
-    "rank": 17,
-    "tweet_count": "1,418 Tweets"
+    "rank": 18,
+    "tweet_count": "1,420 Tweets"
   },
   {
     "name": "עד היום",
     "query": "\"עד היום\"",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Israelis",
     "query": "Israelis",
-    "rank": 19,
-    "tweet_count": "2,237 Tweets"
-  },
-  {
-    "name": "ישר כוח",
-    "query": "\"ישר כוח\"",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "2,276 Tweets"
   }
 ]
