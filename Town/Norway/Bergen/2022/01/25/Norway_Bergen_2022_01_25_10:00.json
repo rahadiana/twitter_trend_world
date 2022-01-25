@@ -1,27 +1,27 @@
 [
   {
+    "name": "Taliban",
+    "query": "Taliban",
+    "rank": 1,
+    "tweet_count": "42.6K Tweets"
+  },
+  {
     "name": "#noradkonf",
     "query": "#noradkonf",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "Taliban",
-    "query": "Taliban",
-    "rank": 2,
-    "tweet_count": "42.1K Tweets"
+    "name": "Norge",
+    "query": "Norge",
+    "rank": 3,
+    "tweet_count": "3,207 Tweets"
   },
   {
     "name": "Afghanistan",
     "query": "Afghanistan",
-    "rank": 3,
-    "tweet_count": "92.1K Tweets"
-  },
-  {
-    "name": "Odds",
-    "query": "Odds",
     "rank": 4,
-    "tweet_count": "39K Tweets"
+    "tweet_count": "93K Tweets"
   },
   {
     "name": "#polkvart",
@@ -30,64 +30,64 @@
     "tweet_count": null
   },
   {
-    "name": "Norge",
-    "query": "Norge",
-    "rank": 6,
-    "tweet_count": "3,142 Tweets"
-  },
-  {
     "name": "komorene",
     "query": "komorene",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
+  },
+  {
+    "name": "odds",
+    "query": "odds",
+    "rank": 7,
+    "tweet_count": "39.5K Tweets"
   },
   {
     "name": "Kamerun",
     "query": "Kamerun",
     "rank": 8,
-    "tweet_count": "2,656 Tweets"
+    "tweet_count": "2,694 Tweets"
   },
   {
     "name": "Paco",
     "query": "Paco",
     "rank": 9,
-    "tweet_count": "12.9K Tweets"
+    "tweet_count": "13.1K Tweets"
   },
   {
     "name": "Watford",
     "query": "Watford",
     "rank": 10,
-    "tweet_count": "33.9K Tweets"
+    "tweet_count": "34.2K Tweets"
   },
   {
-    "name": "Martial",
-    "query": "Martial",
+    "name": "#vendepunkt",
+    "query": "#vendepunkt",
     "rank": 11,
-    "tweet_count": "79.5K Tweets"
-  },
-  {
-    "name": "Juve",
-    "query": "Juve",
-    "rank": 12,
-    "tweet_count": "37.1K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Listhaug",
     "query": "Listhaug",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "Juve",
+    "query": "Juve",
+    "rank": 13,
+    "tweet_count": "38.1K Tweets"
   },
   {
     "name": "Boris Johnson",
     "query": "\"Boris Johnson\"",
     "rank": 14,
-    "tweet_count": "177K Tweets"
+    "tweet_count": "180K Tweets"
   },
   {
-    "name": "#dagsrevyen",
-    "query": "#dagsrevyen",
+    "name": "Martial",
+    "query": "Martial",
     "rank": 15,
-    "tweet_count": null
+    "tweet_count": "81K Tweets"
   },
   {
     "name": "Oslofjorden",
@@ -96,15 +96,15 @@
     "tweet_count": null
   },
   {
-    "name": "Viken",
-    "query": "Viken",
+    "name": "#dagsrevyen",
+    "query": "#dagsrevyen",
     "rank": 17,
-    "tweet_count": "3,458 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Tanganga",
-    "query": "Tanganga",
+    "name": "London",
+    "query": "London",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "123K Tweets"
   }
 ]
