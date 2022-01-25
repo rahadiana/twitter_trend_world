@@ -1,116 +1,110 @@
 [
   {
-    "name": "Prüfung",
-    "query": "Prüfung",
-    "rank": 1,
-    "tweet_count": "1,145 Tweets"
-  },
-  {
     "name": "Schnelltests",
     "query": "Schnelltests",
+    "rank": 1,
+    "tweet_count": "3,710 Tweets"
+  },
+  {
+    "name": "#Genesenenstatus",
+    "query": "#Genesenenstatus",
     "rank": 2,
-    "tweet_count": "3,676 Tweets"
+    "tweet_count": "7,873 Tweets"
   },
   {
     "name": "#Lanz",
     "query": "#Lanz",
     "rank": 3,
-    "tweet_count": "1,853 Tweets"
+    "tweet_count": "2,071 Tweets"
   },
   {
-    "name": "#WSMDS",
-    "query": "#WSMDS",
+    "name": "#wsmds",
+    "query": "#wsmds",
     "rank": 4,
-    "tweet_count": "8,908 Tweets"
-  },
-  {
-    "name": "#Palmer",
-    "query": "#Palmer",
-    "rank": 5,
-    "tweet_count": null
+    "tweet_count": "8,928 Tweets"
   },
   {
     "name": "Sterne",
     "query": "Sterne",
-    "rank": 6,
-    "tweet_count": "1,181 Tweets"
+    "rank": 5,
+    "tweet_count": "1,187 Tweets"
   },
   {
     "name": "Tara",
     "query": "Tara",
-    "rank": 7,
-    "tweet_count": "35.4K Tweets"
+    "rank": 6,
+    "tweet_count": "35.8K Tweets"
   },
   {
     "name": "Harald",
     "query": "Harald",
-    "rank": 8,
-    "tweet_count": "2,563 Tweets"
-  },
-  {
-    "name": "#Streeck",
-    "query": "#Streeck",
-    "rank": 9,
-    "tweet_count": null
+    "rank": 7,
+    "tweet_count": "2,587 Tweets"
   },
   {
     "name": "Anke Engelke",
     "query": "\"Anke Engelke\"",
-    "rank": 10,
+    "rank": 8,
     "tweet_count": null
+  },
+  {
+    "name": "Prüfung",
+    "query": "Prüfung",
+    "rank": 9,
+    "tweet_count": "1,154 Tweets"
   },
   {
     "name": "Filip",
     "query": "Filip",
-    "rank": 11,
-    "tweet_count": "3,064 Tweets"
+    "rank": 10,
+    "tweet_count": "3,093 Tweets"
   },
   {
     "name": "Anouschka",
     "query": "Anouschka",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Tina",
     "query": "Tina",
+    "rank": 12,
+    "tweet_count": "29.4K Tweets"
+  },
+  {
+    "name": "Sonja",
+    "query": "Sonja",
     "rank": 13,
-    "tweet_count": "29K Tweets"
+    "tweet_count": "2,741 Tweets"
   },
   {
     "name": "Jasmin",
     "query": "Jasmin",
     "rank": 14,
-    "tweet_count": "7,118 Tweets"
+    "tweet_count": "7,181 Tweets"
   },
   {
-    "name": "fisch",
-    "query": "fisch",
+    "name": "Fisch",
+    "query": "Fisch",
     "rank": 15,
-    "tweet_count": "1,154 Tweets"
+    "tweet_count": "1,168 Tweets"
   },
   {
-    "name": "Sonja",
-    "query": "Sonja",
+    "name": "renzi",
+    "query": "renzi",
     "rank": 16,
-    "tweet_count": "2,708 Tweets"
+    "tweet_count": "5,901 Tweets"
   },
   {
-    "name": "Joko",
-    "query": "Joko",
+    "name": "joko",
+    "query": "joko",
     "rank": 17,
-    "tweet_count": "6,758 Tweets"
+    "tweet_count": "6,820 Tweets"
   },
   {
     "name": "Camp",
     "query": "Camp",
     "rank": 18,
-    "tweet_count": "160K Tweets"
-  },
-  {
-    "name": "Kandidaten",
-    "query": "Kandidaten",
-    "rank": 19,
-    "tweet_count": "3,716 Tweets"
+    "tweet_count": "163K Tweets"
   }
 ]
