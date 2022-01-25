@@ -1,7 +1,7 @@
 [
   {
-    "name": "allmänna",
-    "query": "allmänna",
+    "name": "Allmänna",
+    "query": "Allmänna",
     "rank": 1,
     "tweet_count": null
   },
@@ -9,19 +9,19 @@
     "name": "Guldbaggegalan",
     "query": "Guldbaggegalan",
     "rank": 2,
-    "tweet_count": "1,488 Tweets"
-  },
-  {
-    "name": "Neil Young",
-    "query": "\"Neil Young\"",
-    "rank": 3,
-    "tweet_count": "50.9K Tweets"
+    "tweet_count": "1,503 Tweets"
   },
   {
     "name": "Ebba",
     "query": "Ebba",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
+  },
+  {
+    "name": "Neil Young",
+    "query": "\"Neil Young\"",
+    "rank": 4,
+    "tweet_count": "51.4K Tweets"
   },
   {
     "name": "Arvsfonden",
@@ -30,93 +30,93 @@
     "tweet_count": null
   },
   {
-    "name": "#Uppesittarkväll",
-    "query": "#Uppesittarkväll",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
     "name": "Komorerna",
     "query": "Komorerna",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "Lina",
     "query": "Lina",
-    "rank": 8,
-    "tweet_count": "79.1K Tweets"
+    "rank": 7,
+    "tweet_count": "79.4K Tweets"
   },
   {
     "name": "Isak",
     "query": "Isak",
-    "rank": 9,
-    "tweet_count": "18.9K Tweets"
+    "rank": 8,
+    "tweet_count": "19.1K Tweets"
   },
   {
-    "name": "pierre bengtsson",
-    "query": "\"pierre bengtsson\"",
-    "rank": 10,
+    "name": "#Uppesittarkväll",
+    "query": "#Uppesittarkväll",
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Encanto",
     "query": "Encanto",
+    "rank": 10,
+    "tweet_count": "80.7K Tweets"
+  },
+  {
+    "name": "ygeman",
+    "query": "ygeman",
     "rank": 11,
-    "tweet_count": "80.3K Tweets"
+    "tweet_count": "1,093 Tweets"
+  },
+  {
+    "name": "pierre bengtsson",
+    "query": "\"pierre bengtsson\"",
+    "rank": 12,
+    "tweet_count": null
   },
   {
     "name": "Kamerun",
     "query": "Kamerun",
-    "rank": 12,
-    "tweet_count": "2,697 Tweets"
+    "rank": 13,
+    "tweet_count": "2,714 Tweets"
   },
   {
     "name": "Watford",
     "query": "Watford",
-    "rank": 13,
-    "tweet_count": "34.2K Tweets"
+    "rank": 14,
+    "tweet_count": "34.6K Tweets"
   },
   {
-    "name": "#guldbaggen",
-    "query": "#guldbaggen",
-    "rank": 14,
+    "name": "#Guldbaggen",
+    "query": "#Guldbaggen",
+    "rank": 15,
     "tweet_count": null
+  },
+  {
+    "name": "Taylor Swift",
+    "query": "\"Taylor Swift\"",
+    "rank": 16,
+    "tweet_count": "217K Tweets"
   },
   {
     "name": "Gina",
     "query": "Gina",
-    "rank": 15,
-    "tweet_count": "15.6K Tweets"
-  },
-  {
-    "name": "#björklöven",
-    "query": "#björklöven",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Erik Helmerson",
-    "query": "\"Erik Helmerson\"",
     "rank": 17,
+    "tweet_count": "15.8K Tweets"
+  },
+  {
+    "name": "bildt",
+    "query": "bildt",
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Vlahovic",
     "query": "Vlahovic",
-    "rank": 18,
-    "tweet_count": "82.2K Tweets"
+    "rank": 19,
+    "tweet_count": "83.3K Tweets"
   },
   {
     "name": "Ann Linde",
     "query": "\"Ann Linde\"",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Juve",
-    "query": "Juve",
     "rank": 20,
-    "tweet_count": "38.1K Tweets"
+    "tweet_count": null
   }
 ]
