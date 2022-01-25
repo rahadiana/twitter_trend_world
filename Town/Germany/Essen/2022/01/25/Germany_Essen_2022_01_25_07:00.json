@@ -3,31 +3,31 @@
     "name": "#Heidelberg",
     "query": "#Heidelberg",
     "rank": 1,
-    "tweet_count": "15.1K Tweets"
+    "tweet_count": "15.2K Tweets"
   },
   {
     "name": "#WieGottUnsSchuf",
     "query": "#WieGottUnsSchuf",
     "rank": 2,
-    "tweet_count": "4,331 Tweets"
+    "tweet_count": "4,380 Tweets"
   },
   {
     "name": "#OutInChurch",
     "query": "#OutInChurch",
     "rank": 3,
-    "tweet_count": "5,797 Tweets"
+    "tweet_count": "5,857 Tweets"
   },
   {
-    "name": "#OsterholzBleibt",
-    "query": "#OsterholzBleibt",
+    "name": "Kirche",
+    "query": "Kirche",
     "rank": 4,
-    "tweet_count": "1,682 Tweets"
+    "tweet_count": "12.8K Tweets"
   },
   {
-    "name": "Janina",
-    "query": "Janina",
+    "name": "janina",
+    "query": "janina",
     "rank": 5,
-    "tweet_count": "3,099 Tweets"
+    "tweet_count": "3,138 Tweets"
   },
   {
     "name": "Wochenstart",
@@ -42,22 +42,22 @@
     "tweet_count": null
   },
   {
-    "name": "Kirche",
-    "query": "Kirche",
-    "rank": 8,
-    "tweet_count": "12.6K Tweets"
-  },
-  {
     "name": "Tara",
     "query": "Tara",
-    "rank": 9,
-    "tweet_count": "32.1K Tweets"
+    "rank": 8,
+    "tweet_count": "32.5K Tweets"
   },
   {
-    "name": "Start in die Woche",
-    "query": "\"Start in die Woche\"",
+    "name": "start in die woche",
+    "query": "\"start in die woche\"",
+    "rank": 9,
+    "tweet_count": "1,646 Tweets"
+  },
+  {
+    "name": "Historiker",
+    "query": "Historiker",
     "rank": 10,
-    "tweet_count": "1,642 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Start in den Tag",
@@ -69,48 +69,42 @@
     "name": "Busch",
     "query": "Busch",
     "rank": 12,
-    "tweet_count": "2,262 Tweets"
+    "tweet_count": "2,293 Tweets"
   },
   {
     "name": "Filip",
     "query": "Filip",
     "rank": 13,
-    "tweet_count": "3,471 Tweets"
-  },
-  {
-    "name": "Historiker",
-    "query": "Historiker",
-    "rank": 14,
-    "tweet_count": null
+    "tweet_count": "3,496 Tweets"
   },
   {
     "name": "Moin Klaus",
     "query": "\"Moin Klaus\"",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Luftgewehr",
     "query": "Luftgewehr",
+    "rank": 15,
+    "tweet_count": "2,898 Tweets"
+  },
+  {
+    "name": "Guten Morgen ihr Lieben",
+    "query": "\"Guten Morgen ihr Lieben\"",
     "rank": 16,
-    "tweet_count": "2,878 Tweets"
-  },
-  {
-    "name": "Mahnwache",
-    "query": "Mahnwache",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Guten Morgen Welt",
-    "query": "\"Guten Morgen Welt\"",
-    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "montagmorgen",
     "query": "montagmorgen",
-    "rank": 19,
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Morsche",
+    "query": "Morsche",
+    "rank": 18,
     "tweet_count": null
   }
 ]
