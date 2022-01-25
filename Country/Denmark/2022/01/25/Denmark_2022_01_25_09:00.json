@@ -1,13 +1,13 @@
 [
   {
-    "name": "Viborg",
-    "query": "Viborg",
+    "name": "Lars Friis",
+    "query": "\"Lars Friis\"",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "Lars Friis",
-    "query": "\"Lars Friis\"",
+    "name": "Viborg",
+    "query": "Viborg",
     "rank": 2,
     "tweet_count": null
   },
@@ -21,7 +21,7 @@
     "name": "#dkpol",
     "query": "#dkpol",
     "rank": 4,
-    "tweet_count": "3,164 Tweets"
+    "tweet_count": "3,207 Tweets"
   },
   {
     "name": "Jylland",
@@ -36,22 +36,22 @@
     "tweet_count": null
   },
   {
+    "name": "Holocaust",
+    "query": "Holocaust",
+    "rank": 7,
+    "tweet_count": "36.3K Tweets"
+  },
+  {
     "name": "Taliban",
     "query": "Taliban",
-    "rank": 7,
-    "tweet_count": "43.2K Tweets"
+    "rank": 8,
+    "tweet_count": "43.4K Tweets"
   },
   {
     "name": "comorerne",
     "query": "comorerne",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "Holocaust",
-    "query": "Holocaust",
     "rank": 9,
-    "tweet_count": "36.2K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Messerschmidt",
@@ -69,7 +69,7 @@
     "name": "Russian",
     "query": "Russian",
     "rank": 12,
-    "tweet_count": "203K Tweets"
+    "tweet_count": "204K Tweets"
   },
   {
     "name": "#skolechat",
@@ -87,7 +87,7 @@
     "name": "Mali",
     "query": "Mali",
     "rank": 15,
-    "tweet_count": "50.4K Tweets"
+    "tweet_count": "50.8K Tweets"
   },
   {
     "name": "boilesen",
@@ -99,24 +99,24 @@
     "name": "Norway",
     "query": "Norway",
     "rank": 17,
-    "tweet_count": "21.4K Tweets"
+    "tweet_count": "21.6K Tweets"
+  },
+  {
+    "name": "Vlahovic",
+    "query": "Vlahovic",
+    "rank": 18,
+    "tweet_count": "78.4K Tweets"
   },
   {
     "name": "uhre",
     "query": "uhre",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "#obdk",
     "query": "#obdk",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Vlahovic",
-    "query": "Vlahovic",
     "rank": 20,
-    "tweet_count": "77K Tweets"
+    "tweet_count": null
   }
 ]
