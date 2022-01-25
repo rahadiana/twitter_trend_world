@@ -1,27 +1,27 @@
 [
   {
-    "name": "#DAZN",
-    "query": "#DAZN",
-    "rank": 1,
-    "tweet_count": "5,630 Tweets"
-  },
-  {
     "name": "#Otte",
     "query": "#Otte",
+    "rank": 1,
+    "tweet_count": "3,545 Tweets"
+  },
+  {
+    "name": "#DAZN",
+    "query": "#DAZN",
     "rank": 2,
-    "tweet_count": "3,333 Tweets"
+    "tweet_count": "5,721 Tweets"
   },
   {
     "name": "#Doblerin",
     "query": "#Doblerin",
     "rank": 3,
-    "tweet_count": "3,182 Tweets"
+    "tweet_count": "3,301 Tweets"
   },
   {
-    "name": "Sozialisten",
-    "query": "Sozialisten",
+    "name": "#ReichtHaltNicht",
+    "query": "#ReichtHaltNicht",
     "rank": 4,
-    "tweet_count": "5,502 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#PeopleNotProfit",
@@ -30,10 +30,10 @@
     "tweet_count": null
   },
   {
-    "name": "#ReichtHaltNicht",
-    "query": "#ReichtHaltNicht",
+    "name": "Sozialisten",
+    "query": "Sozialisten",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "5,610 Tweets"
   },
   {
     "name": "Preiserhöhung",
@@ -42,81 +42,81 @@
     "tweet_count": null
   },
   {
-    "name": "Bundesliga",
-    "query": "Bundesliga",
-    "rank": 8,
-    "tweet_count": "7,198 Tweets"
-  },
-  {
-    "name": "Fußball",
-    "query": "Fußball",
-    "rank": 9,
-    "tweet_count": "4,163 Tweets"
-  },
-  {
-    "name": "Kündigung",
-    "query": "Kündigung",
-    "rank": 10,
-    "tweet_count": "1,607 Tweets"
-  },
-  {
     "name": "Nominierung",
     "query": "Nominierung",
-    "rank": 11,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Maaßen",
     "query": "Maaßen",
-    "rank": 12,
-    "tweet_count": "1,104 Tweets"
+    "rank": 9,
+    "tweet_count": "1,145 Tweets"
+  },
+  {
+    "name": "Bundesliga",
+    "query": "Bundesliga",
+    "rank": 10,
+    "tweet_count": "7,324 Tweets"
+  },
+  {
+    "name": "Kündigung",
+    "query": "Kündigung",
+    "rank": 11,
+    "tweet_count": "1,647 Tweets"
   },
   {
     "name": "NSDAP",
     "query": "NSDAP",
-    "rank": 13,
-    "tweet_count": "2,184 Tweets"
+    "rank": 12,
+    "tweet_count": "2,235 Tweets"
   },
   {
     "name": "Jahresabo",
     "query": "Jahresabo",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Pakete",
     "query": "Pakete",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Cancel Culture",
     "query": "\"Cancel Culture\"",
-    "rank": 16,
-    "tweet_count": "7,432 Tweets"
-  },
-  {
-    "name": "Abos",
-    "query": "Abos",
-    "rank": 17,
-    "tweet_count": "1,026 Tweets"
+    "rank": 15,
+    "tweet_count": "7,533 Tweets"
   },
   {
     "name": "Parteiausschlussverfahren",
     "query": "Parteiausschlussverfahren",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Bestandskunden",
-    "query": "Bestandskunden",
-    "rank": 19,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "mamamoo",
     "query": "mamamoo",
+    "rank": 17,
+    "tweet_count": "62.9K Tweets"
+  },
+  {
+    "name": "Bestandskunden",
+    "query": "Bestandskunden",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Kandidaten",
+    "query": "Kandidaten",
+    "rank": 19,
+    "tweet_count": "1,503 Tweets"
+  },
+  {
+    "name": "Geschichtsrevisionismus",
+    "query": "Geschichtsrevisionismus",
     "rank": 20,
-    "tweet_count": "62.3K Tweets"
+    "tweet_count": null
   }
 ]
