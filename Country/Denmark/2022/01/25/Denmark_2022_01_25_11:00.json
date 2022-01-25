@@ -1,39 +1,39 @@
 [
   {
-    "name": "Lars Friis",
-    "query": "\"Lars Friis\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Per Christensen",
     "query": "\"Per Christensen\"",
-    "rank": 2,
-    "tweet_count": "2,948 Tweets"
+    "rank": 1,
+    "tweet_count": "2,988 Tweets"
   },
   {
-    "name": "#dkpol",
-    "query": "#dkpol",
-    "rank": 3,
-    "tweet_count": "3,134 Tweets"
+    "name": "Lars Friis",
+    "query": "\"Lars Friis\"",
+    "rank": 2,
+    "tweet_count": null
   },
   {
     "name": "Viborg",
     "query": "Viborg",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#SuperAaB",
     "query": "#SuperAaB",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Vavro",
     "query": "Vavro",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "#dkpol",
+    "query": "#dkpol",
+    "rank": 6,
+    "tweet_count": "3,201 Tweets"
   },
   {
     "name": "aalborg",
@@ -45,37 +45,37 @@
     "name": "Holocaust",
     "query": "Holocaust",
     "rank": 8,
-    "tweet_count": "35.2K Tweets"
-  },
-  {
-    "name": "Jylland",
-    "query": "Jylland",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Thomasberg",
-    "query": "Thomasberg",
-    "rank": 10,
-    "tweet_count": null
+    "tweet_count": "35.4K Tweets"
   },
   {
     "name": "comorerne",
     "query": "comorerne",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Taliban",
+    "query": "Taliban",
+    "rank": 10,
+    "tweet_count": "41.8K Tweets"
+  },
+  {
+    "name": "Thomasberg",
+    "query": "Thomasberg",
     "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "Jylland",
+    "query": "Jylland",
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Vlahovic",
     "query": "Vlahovic",
-    "rank": 12,
-    "tweet_count": "84.1K Tweets"
-  },
-  {
-    "name": "#dkbiz",
-    "query": "#dkbiz",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "85.5K Tweets"
   },
   {
     "name": "khocholava",
@@ -84,10 +84,10 @@
     "tweet_count": null
   },
   {
-    "name": "Comoros",
-    "query": "Comoros",
+    "name": "Russian",
+    "query": "Russian",
     "rank": 15,
-    "tweet_count": "74.6K Tweets"
+    "tweet_count": "199K Tweets"
   },
   {
     "name": "Højre",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "Cameroun",
-    "query": "Cameroun",
+    "name": "København",
+    "query": "København",
     "rank": 18,
-    "tweet_count": "111K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Messerschmidt",
+    "query": "Messerschmidt",
+    "rank": 19,
+    "tweet_count": null
   },
   {
     "name": "Mali",
     "query": "Mali",
-    "rank": 19,
-    "tweet_count": "49.7K Tweets"
-  },
-  {
-    "name": "#dkgreen",
-    "query": "#dkgreen",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "50.3K Tweets"
   }
 ]

@@ -1,69 +1,69 @@
 [
   {
-    "name": "PCR-Tests",
-    "query": "PCR-Tests",
-    "rank": 1,
-    "tweet_count": "5,252 Tweets"
-  },
-  {
     "name": "#DAZN",
     "query": "#DAZN",
-    "rank": 2,
-    "tweet_count": "4,111 Tweets"
+    "rank": 1,
+    "tweet_count": "4,309 Tweets"
   },
   {
-    "name": "#doblerin",
-    "query": "#doblerin",
-    "rank": 3,
+    "name": "#Doblerin",
+    "query": "#Doblerin",
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Preiserhöhung",
     "query": "Preiserhöhung",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Sozialisten",
     "query": "Sozialisten",
-    "rank": 5,
-    "tweet_count": "2,772 Tweets"
+    "rank": 4,
+    "tweet_count": "2,976 Tweets"
   },
   {
     "name": "Jahresabo",
     "query": "Jahresabo",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "Bundesliga",
+    "query": "Bundesliga",
     "rank": 6,
+    "tweet_count": "6,106 Tweets"
+  },
+  {
+    "name": "Kündigung",
+    "query": "Kündigung",
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "#Otte",
     "query": "#Otte",
-    "rank": 7,
-    "tweet_count": "1,152 Tweets"
-  },
-  {
-    "name": "Bundesliga",
-    "query": "Bundesliga",
     "rank": 8,
-    "tweet_count": "5,947 Tweets"
-  },
-  {
-    "name": "Kündigung",
-    "query": "Kündigung",
-    "rank": 9,
-    "tweet_count": null
+    "tweet_count": "1,218 Tweets"
   },
   {
     "name": "Pakete",
     "query": "Pakete",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Exxpress",
     "query": "Exxpress",
+    "rank": 10,
+    "tweet_count": "1,161 Tweets"
+  },
+  {
+    "name": "Buli",
+    "query": "Buli",
     "rank": 11,
-    "tweet_count": "1,079 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Abos",
@@ -72,45 +72,39 @@
     "tweet_count": null
   },
   {
-    "name": "Sportarten",
-    "query": "Sportarten",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "mamamoo",
-    "query": "mamamoo",
-    "rank": 14,
-    "tweet_count": "69K Tweets"
-  },
-  {
-    "name": "Buli",
-    "query": "Buli",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "#OsterholzBleibt",
-    "query": "#OsterholzBleibt",
-    "rank": 16,
-    "tweet_count": "3,107 Tweets"
-  },
-  {
     "name": "Euro im Monat",
     "query": "\"Euro im Monat\"",
-    "rank": 17,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Bestandskunden",
     "query": "Bestandskunden",
-    "rank": 18,
+    "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "Historiker",
-    "query": "Historiker",
-    "rank": 19,
+    "name": "Sportarten",
+    "query": "Sportarten",
+    "rank": 15,
     "tweet_count": null
+  },
+  {
+    "name": "Sozialismus",
+    "query": "Sozialismus",
+    "rank": 16,
+    "tweet_count": "1,284 Tweets"
+  },
+  {
+    "name": "mamamoo",
+    "query": "mamamoo",
+    "rank": 17,
+    "tweet_count": "70.1K Tweets"
+  },
+  {
+    "name": "Cancel Culture",
+    "query": "\"Cancel Culture\"",
+    "rank": 18,
+    "tweet_count": "7,175 Tweets"
   }
 ]
