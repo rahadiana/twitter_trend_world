@@ -1,110 +1,110 @@
 [
   {
-    "name": "#Jeopardy",
-    "query": "#Jeopardy",
+    "name": "Mike White",
+    "query": "\"Mike White\"",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "Hobi",
-    "query": "Hobi",
+    "name": "#Jeopardy",
+    "query": "#Jeopardy",
     "rank": 2,
-    "tweet_count": "67.4K Tweets"
+    "tweet_count": "1,004 Tweets"
+  },
+  {
+    "name": "Vance Joseph",
+    "query": "\"Vance Joseph\"",
+    "rank": 3,
+    "tweet_count": "1,538 Tweets"
   },
   {
     "name": "Moana",
     "query": "Moana",
-    "rank": 3,
-    "tweet_count": "9,477 Tweets"
+    "rank": 4,
+    "tweet_count": "9,271 Tweets"
   },
   {
-    "name": "Inside Out",
-    "query": "\"Inside Out\"",
-    "rank": 4,
-    "tweet_count": "29.8K Tweets"
+    "name": "Hobi",
+    "query": "Hobi",
+    "rank": 5,
+    "tweet_count": "66.9K Tweets"
   },
   {
     "name": "Doocy",
     "query": "Doocy",
-    "rank": 5,
-    "tweet_count": "209K Tweets"
-  },
-  {
-    "name": "#TheBachelor",
-    "query": "#TheBachelor",
     "rank": 6,
-    "tweet_count": "15.3K Tweets"
+    "tweet_count": "220K Tweets"
   },
   {
     "name": "Neil Young",
     "query": "\"Neil Young\"",
     "rank": 7,
-    "tweet_count": "23.6K Tweets"
+    "tweet_count": "26.7K Tweets"
+  },
+  {
+    "name": "#TheBachelor",
+    "query": "#TheBachelor",
+    "rank": 8,
+    "tweet_count": "16.7K Tweets"
   },
   {
     "name": "#WWERaw",
     "query": "#WWERaw",
-    "rank": 8,
-    "tweet_count": "30.3K Tweets"
+    "rank": 9,
+    "tweet_count": "34.2K Tweets"
   },
   {
     "name": "Randle",
     "query": "Randle",
-    "rank": 9,
-    "tweet_count": "7,701 Tweets"
+    "rank": 10,
+    "tweet_count": "8,018 Tweets"
   },
   {
     "name": "#IHaveAPreexistingCondition",
     "query": "#IHaveAPreexistingCondition",
-    "rank": 10,
-    "tweet_count": "9,236 Tweets"
+    "rank": 11,
+    "tweet_count": "9,700 Tweets"
   },
   {
     "name": "#SummerHouse",
     "query": "#SummerHouse",
-    "rank": 11,
-    "tweet_count": "1,294 Tweets"
+    "rank": 12,
+    "tweet_count": "1,491 Tweets"
   },
   {
     "name": "Adam Fox",
     "query": "\"Adam Fox\"",
-    "rank": 12,
-    "tweet_count": "1,148 Tweets"
+    "rank": 13,
+    "tweet_count": "1,692 Tweets"
   },
   {
     "name": "Taylor Swift",
     "query": "\"Taylor Swift\"",
-    "rank": 13,
-    "tweet_count": "152K Tweets"
+    "rank": 14,
+    "tweet_count": "157K Tweets"
   },
   {
     "name": "Kevin Love",
     "query": "\"Kevin Love\"",
-    "rank": 14,
-    "tweet_count": "3,176 Tweets"
-  },
-  {
-    "name": "Quentin Grimes",
-    "query": "\"Quentin Grimes\"",
     "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Damon Albarn",
-    "query": "\"Damon Albarn\"",
-    "rank": 16,
-    "tweet_count": "49K Tweets"
+    "tweet_count": "3,265 Tweets"
   },
   {
     "name": "Weverse",
     "query": "Weverse",
-    "rank": 17,
-    "tweet_count": "133K Tweets"
+    "rank": 16,
+    "tweet_count": "128K Tweets"
   },
   {
-    "name": "Chad Gable",
-    "query": "\"Chad Gable\"",
-    "rank": 18,
+    "name": "Quentin Grimes",
+    "query": "\"Quentin Grimes\"",
+    "rank": 17,
     "tweet_count": null
+  },
+  {
+    "name": "Madison Keys",
+    "query": "\"Madison Keys\"",
+    "rank": 18,
+    "tweet_count": "2,121 Tweets"
   }
 ]
