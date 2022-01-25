@@ -1,13 +1,13 @@
 [
   {
-    "name": "#nrkdebatt",
-    "query": "#nrkdebatt",
+    "name": "Berge",
+    "query": "Berge",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "Berge",
-    "query": "Berge",
+    "name": "#nrkdebatt",
+    "query": "#nrkdebatt",
     "rank": 2,
     "tweet_count": null
   },
@@ -45,7 +45,7 @@
     "name": "Neil Young",
     "query": "\"Neil Young\"",
     "rank": 8,
-    "tweet_count": "137K Tweets"
+    "tweet_count": "139K Tweets"
   },
   {
     "name": "Vestfold",
@@ -57,13 +57,13 @@
     "name": "Taliban",
     "query": "Taliban",
     "rank": 10,
-    "tweet_count": "37.3K Tweets"
+    "tweet_count": "37.5K Tweets"
   },
   {
     "name": "Kamerun",
     "query": "Kamerun",
     "rank": 11,
-    "tweet_count": "1,638 Tweets"
+    "tweet_count": "1,640 Tweets"
   },
   {
     "name": "Telemark",
@@ -84,27 +84,27 @@
     "tweet_count": null
   },
   {
-    "name": "Norge",
-    "query": "Norge",
-    "rank": 15,
-    "tweet_count": "4,171 Tweets"
-  },
-  {
     "name": "viken",
     "query": "viken",
-    "rank": 16,
-    "tweet_count": "2,394 Tweets"
+    "rank": 15,
+    "tweet_count": "2,400 Tweets"
   },
   {
     "name": "Watford",
     "query": "Watford",
-    "rank": 17,
-    "tweet_count": "28.4K Tweets"
+    "rank": 16,
+    "tweet_count": "28.8K Tweets"
   },
   {
     "name": "Fiorentina",
     "query": "Fiorentina",
+    "rank": 17,
+    "tweet_count": "48K Tweets"
+  },
+  {
+    "name": "#polkvart",
+    "query": "#polkvart",
     "rank": 18,
-    "tweet_count": "47.9K Tweets"
+    "tweet_count": null
   }
 ]
