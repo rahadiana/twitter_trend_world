@@ -1,116 +1,110 @@
 [
   {
-    "name": "Chiefs",
-    "query": "Chiefs",
-    "rank": 1,
-    "tweet_count": "178K Tweets"
-  },
-  {
     "name": "Neil Young",
     "query": "\"Neil Young\"",
-    "rank": 2,
-    "tweet_count": "43K Tweets"
+    "rank": 1,
+    "tweet_count": "43.9K Tweets"
   },
   {
     "name": "Doocy",
     "query": "Doocy",
-    "rank": 3,
-    "tweet_count": "275K Tweets"
+    "rank": 2,
+    "tweet_count": "277K Tweets"
   },
   {
     "name": "#BoycottPepsi",
     "query": "#BoycottPepsi",
-    "rank": 4,
-    "tweet_count": "4,204 Tweets"
+    "rank": 3,
+    "tweet_count": "4,546 Tweets"
   },
   {
     "name": "#TheBachelor",
     "query": "#TheBachelor",
+    "rank": 4,
+    "tweet_count": "19.5K Tweets"
+  },
+  {
+    "name": "Kansas",
+    "query": "Kansas",
     "rank": 5,
-    "tweet_count": "19.4K Tweets"
+    "tweet_count": "36.7K Tweets"
   },
   {
-    "name": "#WWERaw",
-    "query": "#WWERaw",
+    "name": "Texas Tech",
+    "query": "\"Texas Tech\"",
     "rank": 6,
-    "tweet_count": "48.9K Tweets"
-  },
-  {
-    "name": "#IHaveAPreexistingCondition",
-    "query": "#IHaveAPreexistingCondition",
-    "rank": 7,
-    "tweet_count": "14.9K Tweets"
+    "tweet_count": "6,805 Tweets"
   },
   {
     "name": "Nadal",
     "query": "Nadal",
-    "rank": 8,
-    "tweet_count": "29.1K Tweets"
+    "rank": 7,
+    "tweet_count": "30.5K Tweets"
   },
   {
-    "name": "#TheGildedAge",
-    "query": "#TheGildedAge",
+    "name": "#IHaveAPreexistingCondition",
+    "query": "#IHaveAPreexistingCondition",
+    "rank": 8,
+    "tweet_count": "14.9K Tweets"
+  },
+  {
+    "name": "#WWERaw",
+    "query": "#WWERaw",
     "rank": 9,
-    "tweet_count": "2,316 Tweets"
+    "tweet_count": "49.2K Tweets"
   },
   {
     "name": "Wordle 220 X",
     "query": "\"Wordle 220 X\"",
     "rank": 10,
-    "tweet_count": "1,382 Tweets"
+    "tweet_count": "1,450 Tweets"
+  },
+  {
+    "name": "#TheGildedAge",
+    "query": "#TheGildedAge",
+    "rank": 11,
+    "tweet_count": "2,352 Tweets"
   },
   {
     "name": "Bryson Williams",
     "query": "\"Bryson Williams\"",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Taylor Swift",
     "query": "\"Taylor Swift\"",
-    "rank": 12,
-    "tweet_count": "195K Tweets"
+    "rank": 13,
+    "tweet_count": "197K Tweets"
   },
   {
     "name": "McCullar",
     "query": "McCullar",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Chris Paul",
     "query": "\"Chris Paul\"",
-    "rank": 14,
-    "tweet_count": "3,596 Tweets"
-  },
-  {
-    "name": "Jayhawks",
-    "query": "Jayhawks",
     "rank": 15,
-    "tweet_count": "1,331 Tweets"
-  },
-  {
-    "name": "karl",
-    "query": "karl",
-    "rank": 16,
-    "tweet_count": "57.5K Tweets"
+    "tweet_count": "3,659 Tweets"
   },
   {
     "name": "Baiken",
     "query": "Baiken",
+    "rank": 16,
+    "tweet_count": "24.6K Tweets"
+  },
+  {
+    "name": "Weverse",
+    "query": "Weverse",
     "rank": 17,
-    "tweet_count": "24.2K Tweets"
+    "tweet_count": "115K Tweets"
   },
   {
     "name": "Randle",
     "query": "Randle",
     "rank": 18,
-    "tweet_count": "9,556 Tweets"
-  },
-  {
-    "name": "Adam Fox",
-    "query": "\"Adam Fox\"",
-    "rank": 19,
-    "tweet_count": "2,204 Tweets"
+    "tweet_count": "9,578 Tweets"
   }
 ]

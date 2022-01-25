@@ -1,57 +1,57 @@
 [
   {
+    "name": "Channel 9",
+    "query": "\"Channel 9\"",
+    "rank": 1,
+    "tweet_count": "5,685 Tweets"
+  },
+  {
     "name": "Aboriginal",
     "query": "Aboriginal",
-    "rank": 1,
-    "tweet_count": "9,110 Tweets"
+    "rank": 2,
+    "tweet_count": "9,223 Tweets"
   },
   {
     "name": "Grace Tame",
     "query": "\"Grace Tame\"",
-    "rank": 2,
-    "tweet_count": "22.8K Tweets"
-  },
-  {
-    "name": "AOTY",
-    "query": "AOTY",
     "rank": 3,
-    "tweet_count": "17.3K Tweets"
+    "tweet_count": "24.5K Tweets"
   },
   {
     "name": "Kyrgios",
     "query": "Kyrgios",
     "rank": 4,
-    "tweet_count": "2,497 Tweets"
+    "tweet_count": "3,080 Tweets"
+  },
+  {
+    "name": "AOTY",
+    "query": "AOTY",
+    "rank": 5,
+    "tweet_count": "16.2K Tweets"
   },
   {
     "name": "Australian of the Year",
     "query": "\"Australian of the Year\"",
-    "rank": 5,
-    "tweet_count": "11.5K Tweets"
+    "rank": 6,
+    "tweet_count": "12K Tweets"
   },
   {
     "name": "Nadal",
     "query": "Nadal",
-    "rank": 6,
-    "tweet_count": "29K Tweets"
+    "rank": 7,
+    "tweet_count": "30.4K Tweets"
   },
   {
     "name": "#AustralianOpen",
     "query": "#AustralianOpen",
-    "rank": 7,
-    "tweet_count": "3,470 Tweets"
+    "rank": 8,
+    "tweet_count": "3,456 Tweets"
   },
   {
     "name": "Peter Van Onselen",
     "query": "\"Peter Van Onselen\"",
-    "rank": 8,
-    "tweet_count": "3,057 Tweets"
-  },
-  {
-    "name": "Kokkinakis",
-    "query": "Kokkinakis",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "3,500 Tweets"
   },
   {
     "name": "#ScottyFromPhotoOps",
@@ -60,16 +60,16 @@
     "tweet_count": null
   },
   {
-    "name": "Prime Minister",
-    "query": "\"Prime Minister\"",
-    "rank": 11,
-    "tweet_count": "121K Tweets"
-  },
-  {
     "name": "Kia Arena",
     "query": "\"Kia Arena\"",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
+  },
+  {
+    "name": "Prime Minister",
+    "query": "\"Prime Minister\"",
+    "rank": 12,
+    "tweet_count": "118K Tweets"
   },
   {
     "name": "Jane Norman",
@@ -81,42 +81,42 @@
     "name": "Richard Colbeck",
     "query": "\"Richard Colbeck\"",
     "rank": 14,
-    "tweet_count": "2,261 Tweets"
+    "tweet_count": "2,451 Tweets"
+  },
+  {
+    "name": "Special Ks",
+    "query": "\"Special Ks\"",
+    "rank": 15,
+    "tweet_count": null
   },
   {
     "name": "Albo",
     "query": "Albo",
-    "rank": 15,
-    "tweet_count": "18.5K Tweets"
+    "rank": 16,
+    "tweet_count": "18.3K Tweets"
+  },
+  {
+    "name": "Thanasi",
+    "query": "Thanasi",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Happy Gilmore",
+    "query": "\"Happy Gilmore\"",
+    "rank": 18,
+    "tweet_count": null
   },
   {
     "name": "Venus",
     "query": "Venus",
-    "rank": 16,
-    "tweet_count": "36.8K Tweets"
-  },
-  {
-    "name": "Neil Young",
-    "query": "\"Neil Young\"",
-    "rank": 17,
-    "tweet_count": "43K Tweets"
+    "rank": 19,
+    "tweet_count": "36.7K Tweets"
   },
   {
     "name": "The Lodge",
     "query": "\"The Lodge\"",
-    "rank": 18,
-    "tweet_count": "5,104 Tweets"
-  },
-  {
-    "name": "#AustraliaDay2022",
-    "query": "#AustraliaDay2022",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "#EnoughIsEnough",
-    "query": "#EnoughIsEnough",
     "rank": 20,
-    "tweet_count": "3,316 Tweets"
+    "tweet_count": "5,124 Tweets"
   }
 ]
