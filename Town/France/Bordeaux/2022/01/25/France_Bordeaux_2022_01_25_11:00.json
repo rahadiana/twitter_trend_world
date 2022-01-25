@@ -1,21 +1,21 @@
 [
   {
-    "name": "#CDFBetclic",
-    "query": "#CDFBetclic",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Berrettini",
     "query": "Berrettini",
-    "rank": 2,
-    "tweet_count": "10.1K Tweets"
+    "rank": 1,
+    "tweet_count": "10.6K Tweets"
   },
   {
     "name": "Monfils",
     "query": "Monfils",
+    "rank": 2,
+    "tweet_count": "11.9K Tweets"
+  },
+  {
+    "name": "#CDFBetclic",
+    "query": "#CDFBetclic",
     "rank": 3,
-    "tweet_count": "11.5K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#MardiConseil",
@@ -27,13 +27,13 @@
     "name": "Gaël",
     "query": "Gaël",
     "rank": 5,
-    "tweet_count": "10.1K Tweets"
+    "tweet_count": "10.3K Tweets"
   },
   {
     "name": "#DisneylandParis30",
     "query": "#DisneylandParis30",
     "rank": 6,
-    "tweet_count": "2,096 Tweets"
+    "tweet_count": "2,233 Tweets"
   },
   {
     "name": "RER E",
@@ -42,57 +42,57 @@
     "tweet_count": null
   },
   {
+    "name": "Nadal",
+    "query": "Nadal",
+    "rank": 8,
+    "tweet_count": "52.1K Tweets"
+  },
+  {
     "name": "Cluzel",
     "query": "Cluzel",
-    "rank": 8,
-    "tweet_count": "2,454 Tweets"
+    "rank": 9,
+    "tweet_count": "2,511 Tweets"
   },
   {
     "name": "SNCF Connect",
     "query": "\"SNCF Connect\"",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
+  },
+  {
+    "name": "Ehpad",
+    "query": "Ehpad",
+    "rank": 11,
+    "tweet_count": "6,958 Tweets"
   },
   {
     "name": "Orelsan",
     "query": "Orelsan",
-    "rank": 10,
-    "tweet_count": "10.7K Tweets"
-  },
-  {
-    "name": "EHPAD",
-    "query": "EHPAD",
-    "rank": 11,
-    "tweet_count": "6,841 Tweets"
-  },
-  {
-    "name": "Joe Biden",
-    "query": "\"Joe Biden\"",
     "rank": 12,
-    "tweet_count": "253K Tweets"
+    "tweet_count": "10.9K Tweets"
+  },
+  {
+    "name": "Trump",
+    "query": "Trump",
+    "rank": 13,
+    "tweet_count": "710K Tweets"
   },
   {
     "name": "Édouard Philippe",
     "query": "\"Édouard Philippe\"",
-    "rank": 13,
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Tchernobyl",
+    "query": "Tchernobyl",
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Fukushima",
     "query": "Fukushima",
-    "rank": 14,
-    "tweet_count": "3,549 Tweets"
-  },
-  {
-    "name": "Morata",
-    "query": "Morata",
-    "rank": 15,
-    "tweet_count": "21K Tweets"
-  },
-  {
-    "name": "Juve",
-    "query": "Juve",
     "rank": 16,
-    "tweet_count": "39.2K Tweets"
+    "tweet_count": "3,612 Tweets"
   }
 ]
