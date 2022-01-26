@@ -1,37 +1,37 @@
 [
   {
-    "name": "Heidi Weng",
-    "query": "\"Heidi Weng\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Helfo",
     "query": "Helfo",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "#nrkdebatt",
     "query": "#nrkdebatt",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Newcastle",
     "query": "Newcastle",
+    "rank": 3,
+    "tweet_count": "61.2K Tweets"
+  },
+  {
+    "name": "Neil Young",
+    "query": "\"Neil Young\"",
     "rank": 4,
-    "tweet_count": "58.3K Tweets"
+    "tweet_count": "153K Tweets"
   },
   {
-    "name": "Jordan Peterson",
-    "query": "\"Jordan Peterson\"",
+    "name": "Heidi Weng",
+    "query": "\"Heidi Weng\"",
     "rank": 5,
-    "tweet_count": "12.9K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "benjamin hermansen",
-    "query": "\"benjamin hermansen\"",
+    "name": "#2sjakk",
+    "query": "#2sjakk",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,22 +42,22 @@
     "tweet_count": null
   },
   {
-    "name": "atle lie mcgrath",
-    "query": "\"atle lie mcgrath\"",
+    "name": "Berge",
+    "query": "Berge",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Berge",
-    "query": "Berge",
+    "name": "Atle Lie McGrath",
+    "query": "\"Atle Lie McGrath\"",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Viken",
-    "query": "Viken",
+    "name": "benjamin hermansen",
+    "query": "\"benjamin hermansen\"",
     "rank": 10,
-    "tweet_count": "1,374 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Sagosen",
@@ -75,19 +75,19 @@
     "name": "Watford",
     "query": "Watford",
     "rank": 13,
-    "tweet_count": "25.4K Tweets"
-  },
-  {
-    "name": "Isak",
-    "query": "Isak",
-    "rank": 14,
-    "tweet_count": "12.4K Tweets"
+    "tweet_count": "25.7K Tweets"
   },
   {
     "name": "#polkvart",
     "query": "#polkvart",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
+  },
+  {
+    "name": "Isak",
+    "query": "Isak",
+    "rank": 15,
+    "tweet_count": "11K Tweets"
   },
   {
     "name": "Glenn Solberg",
@@ -99,24 +99,24 @@
     "name": "Taliban",
     "query": "Taliban",
     "rank": 17,
-    "tweet_count": "27.9K Tweets"
-  },
-  {
-    "name": "#2sjakk",
-    "query": "#2sjakk",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "26.8K Tweets"
   },
   {
     "name": "Paco",
     "query": "Paco",
-    "rank": 19,
-    "tweet_count": "15.5K Tweets"
+    "rank": 18,
+    "tweet_count": "15.1K Tweets"
   },
   {
     "name": "Kina",
     "query": "Kina",
+    "rank": 19,
+    "tweet_count": "11K Tweets"
+  },
+  {
+    "name": "Telemark",
+    "query": "Telemark",
     "rank": 20,
-    "tweet_count": "11.6K Tweets"
+    "tweet_count": null
   }
 ]
