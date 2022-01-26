@@ -1,39 +1,39 @@
 [
   {
-    "name": "#Bundestag",
-    "query": "#Bundestag",
-    "rank": 1,
-    "tweet_count": "11.3K Tweets"
-  },
-  {
     "name": "#Impfpflicht",
     "query": "#Impfpflicht",
+    "rank": 1,
+    "tweet_count": "37K Tweets"
+  },
+  {
+    "name": "#Bundestag",
+    "query": "#Bundestag",
     "rank": 2,
-    "tweet_count": "35K Tweets"
+    "tweet_count": "12.4K Tweets"
   },
   {
     "name": "Helme",
     "query": "Helme",
     "rank": 3,
-    "tweet_count": "3,909 Tweets"
+    "tweet_count": "4,124 Tweets"
   },
   {
     "name": "#RicardaLang",
     "query": "#RicardaLang",
     "rank": 4,
+    "tweet_count": "1,156 Tweets"
+  },
+  {
+    "name": "#Kubicki",
+    "query": "#Kubicki",
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Debatte",
     "query": "Debatte",
-    "rank": 5,
-    "tweet_count": "7,893 Tweets"
-  },
-  {
-    "name": "#Kubicki",
-    "query": "#Kubicki",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "8,305 Tweets"
   },
   {
     "name": "Medizin und Recht",
@@ -45,31 +45,31 @@
     "name": "Ethik",
     "query": "Ethik",
     "rank": 8,
-    "tweet_count": "1,472 Tweets"
+    "tweet_count": "1,537 Tweets"
   },
   {
-    "name": "Alice Weidel",
-    "query": "\"Alice Weidel\"",
+    "name": "Säbelrasseln",
+    "query": "Säbelrasseln",
     "rank": 9,
-    "tweet_count": "3,862 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Abgeordneten",
     "query": "Abgeordneten",
     "rank": 10,
-    "tweet_count": "2,292 Tweets"
-  },
-  {
-    "name": "Säbelrasseln",
-    "query": "Säbelrasseln",
-    "rank": 11,
-    "tweet_count": null
+    "tweet_count": "2,405 Tweets"
   },
   {
     "name": "Ukrainer",
     "query": "Ukrainer",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
+  },
+  {
+    "name": "Gesundheitssystem",
+    "query": "Gesundheitssystem",
+    "rank": 12,
+    "tweet_count": "1,758 Tweets"
   },
   {
     "name": "Impfregister",
@@ -78,39 +78,39 @@
     "tweet_count": null
   },
   {
-    "name": "Gesundheitssystem",
-    "query": "Gesundheitssystem",
-    "rank": 14,
-    "tweet_count": "1,696 Tweets"
-  },
-  {
     "name": "Applaus",
     "query": "Applaus",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Hohn",
-    "query": "Hohn",
-    "rank": 16,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Felix",
     "query": "Felix",
-    "rank": 17,
-    "tweet_count": "109K Tweets"
+    "rank": 15,
+    "tweet_count": "111K Tweets"
   },
   {
     "name": "Lieferung",
     "query": "Lieferung",
-    "rank": 18,
+    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "#FirstDates",
-    "query": "#FirstDates",
+    "name": "#CIVEGY",
+    "query": "#CIVEGY",
+    "rank": 17,
+    "tweet_count": "13.4K Tweets"
+  },
+  {
+    "name": "#Wagenknecht",
+    "query": "#Wagenknecht",
+    "rank": 18,
+    "tweet_count": "1,057 Tweets"
+  },
+  {
+    "name": "#MSVFCM",
+    "query": "#MSVFCM",
     "rank": 19,
-    "tweet_count": "1,236 Tweets"
+    "tweet_count": null
   }
 ]
