@@ -1,110 +1,122 @@
 [
   {
-    "name": "Celtics",
-    "query": "Celtics",
-    "rank": 1,
-    "tweet_count": "15.6K Tweets"
-  },
-  {
     "name": "Luka",
     "query": "Luka",
+    "rank": 1,
+    "tweet_count": "30.4K Tweets"
+  },
+  {
+    "name": "Bjelica",
+    "query": "Bjelica",
     "rank": 2,
-    "tweet_count": "29.6K Tweets"
-  },
-  {
-    "name": "Kyrie",
-    "query": "Kyrie",
-    "rank": 3,
-    "tweet_count": "14.1K Tweets"
-  },
-  {
-    "name": "Brooklyn",
-    "query": "Brooklyn",
-    "rank": 4,
-    "tweet_count": "29.9K Tweets"
-  },
-  {
-    "name": "Jordan Peterson",
-    "query": "\"Jordan Peterson\"",
-    "rank": 5,
-    "tweet_count": "6,960 Tweets"
-  },
-  {
-    "name": "Clips",
-    "query": "Clips",
-    "rank": 6,
-    "tweet_count": "61.6K Tweets"
-  },
-  {
-    "name": "#SacramentoProud",
-    "query": "#SacramentoProud",
-    "rank": 7,
     "tweet_count": null
-  },
-  {
-    "name": "Anthony Davis",
-    "query": "\"Anthony Davis\"",
-    "rank": 8,
-    "tweet_count": "12.1K Tweets"
-  },
-  {
-    "name": "Bud Selig",
-    "query": "\"Bud Selig\"",
-    "rank": 9,
-    "tweet_count": "2,539 Tweets"
-  },
-  {
-    "name": "Nancy Pelosi",
-    "query": "\"Nancy Pelosi\"",
-    "rank": 10,
-    "tweet_count": "26.3K Tweets"
   },
   {
     "name": "Mavs",
     "query": "Mavs",
-    "rank": 11,
-    "tweet_count": "4,101 Tweets"
+    "rank": 3,
+    "tweet_count": "4,433 Tweets"
+  },
+  {
+    "name": "Clips",
+    "query": "Clips",
+    "rank": 4,
+    "tweet_count": "62.4K Tweets"
+  },
+  {
+    "name": "Anthony Davis",
+    "query": "\"Anthony Davis\"",
+    "rank": 5,
+    "tweet_count": "12.3K Tweets"
+  },
+  {
+    "name": "Nancy Pelosi",
+    "query": "\"Nancy Pelosi\"",
+    "rank": 6,
+    "tweet_count": "27.2K Tweets"
   },
   {
     "name": "#SFGiants",
     "query": "#SFGiants",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Ty Cobb",
-    "query": "\"Ty Cobb\"",
-    "rank": 13,
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Speaker",
     "query": "Speaker",
-    "rank": 14,
-    "tweet_count": "52.3K Tweets"
+    "rank": 8,
+    "tweet_count": "53.2K Tweets"
+  },
+  {
+    "name": "Peter Dinklage",
+    "query": "\"Peter Dinklage\"",
+    "rank": 9,
+    "tweet_count": "24.4K Tweets"
   },
   {
     "name": "Astros",
     "query": "Astros",
-    "rank": 15,
-    "tweet_count": "4,536 Tweets"
+    "rank": 10,
+    "tweet_count": "4,640 Tweets"
   },
   {
     "name": "Alex Jones",
     "query": "\"Alex Jones\"",
-    "rank": 16,
-    "tweet_count": "18.2K Tweets"
-  },
-  {
-    "name": "#NFTartists",
-    "query": "#NFTartists",
-    "rank": 17,
-    "tweet_count": "69.1K Tweets"
+    "rank": 11,
+    "tweet_count": "18.5K Tweets"
   },
   {
     "name": "Taco Tuesday",
     "query": "\"Taco Tuesday\"",
+    "rank": 12,
+    "tweet_count": "5,828 Tweets"
+  },
+  {
+    "name": "#NFTartists",
+    "query": "#NFTartists",
+    "rank": 13,
+    "tweet_count": "70.1K Tweets"
+  },
+  {
+    "name": "World Series",
+    "query": "\"World Series\"",
+    "rank": 14,
+    "tweet_count": "14.5K Tweets"
+  },
+  {
+    "name": "Twins",
+    "query": "Twins",
+    "rank": 15,
+    "tweet_count": "31.5K Tweets"
+  },
+  {
+    "name": "Cheryl Hines",
+    "query": "\"Cheryl Hines\"",
+    "rank": 16,
+    "tweet_count": "5,983 Tweets"
+  },
+  {
+    "name": "The Rock",
+    "query": "\"The Rock\"",
+    "rank": 17,
+    "tweet_count": "87.6K Tweets"
+  },
+  {
+    "name": "Yankees",
+    "query": "Yankees",
     "rank": 18,
-    "tweet_count": "5,744 Tweets"
+    "tweet_count": "8,162 Tweets"
+  },
+  {
+    "name": "Dodger",
+    "query": "Dodger",
+    "rank": 19,
+    "tweet_count": "3,191 Tweets"
+  },
+  {
+    "name": "John Wall",
+    "query": "\"John Wall\"",
+    "rank": 20,
+    "tweet_count": "5,444 Tweets"
   }
 ]
