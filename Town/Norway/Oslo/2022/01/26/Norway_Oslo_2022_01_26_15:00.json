@@ -1,13 +1,13 @@
 [
   {
-    "name": "#nrkdebatt",
-    "query": "#nrkdebatt",
+    "name": "Helfo",
+    "query": "Helfo",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "Helfo",
-    "query": "Helfo",
+    "name": "#nrkdebatt",
+    "query": "#nrkdebatt",
     "rank": 2,
     "tweet_count": null
   },
@@ -21,7 +21,7 @@
     "name": "Neil Young",
     "query": "\"Neil Young\"",
     "rank": 4,
-    "tweet_count": "151K Tweets"
+    "tweet_count": "152K Tweets"
   },
   {
     "name": "Benjamin Hermansen",
@@ -63,7 +63,7 @@
     "name": "Viken",
     "query": "Viken",
     "rank": 11,
-    "tweet_count": "1,227 Tweets"
+    "tweet_count": "1,234 Tweets"
   },
   {
     "name": "Vestfold",
@@ -75,7 +75,7 @@
     "name": "Newcastle",
     "query": "Newcastle",
     "rank": 13,
-    "tweet_count": "73.5K Tweets"
+    "tweet_count": "74.2K Tweets"
   },
   {
     "name": "#polkvart",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
-    "name": "Joe Rogan",
-    "query": "\"Joe Rogan\"",
-    "rank": 16,
-    "tweet_count": "88.7K Tweets"
-  },
-  {
     "name": "Taliban",
     "query": "Taliban",
-    "rank": 17,
-    "tweet_count": "27K Tweets"
-  },
-  {
-    "name": "Jordan Peterson",
-    "query": "\"Jordan Peterson\"",
-    "rank": 18,
-    "tweet_count": "16.6K Tweets"
+    "rank": 16,
+    "tweet_count": "27.3K Tweets"
   },
   {
     "name": "telemark",
     "query": "telemark",
-    "rank": 19,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Qatar",
     "query": "Qatar",
+    "rank": 18,
+    "tweet_count": "26.5K Tweets"
+  },
+  {
+    "name": "jordal",
+    "query": "jordal",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Watford",
+    "query": "Watford",
     "rank": 20,
-    "tweet_count": "26.3K Tweets"
+    "tweet_count": "25.3K Tweets"
   }
 ]
