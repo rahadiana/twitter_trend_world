@@ -1,86 +1,98 @@
 [
   {
+    "name": "#BookofBobaFett",
+    "query": "#BookofBobaFett",
+    "rank": 1,
+    "tweet_count": "4,599 Tweets"
+  },
+  {
     "name": "#BellLetsTalk",
     "query": "#BellLetsTalk",
-    "rank": 1,
-    "tweet_count": "13.1K Tweets"
+    "rank": 2,
+    "tweet_count": "13.3K Tweets"
   },
   {
     "name": "Spencer Martin",
     "query": "\"Spencer Martin\"",
-    "rank": 2,
-    "tweet_count": "1,586 Tweets"
+    "rank": 3,
+    "tweet_count": "1,587 Tweets"
   },
   {
-    "name": "#sapnap",
-    "query": "#sapnap",
-    "rank": 3,
-    "tweet_count": "8,621 Tweets"
+    "name": "#Canucks",
+    "query": "#Canucks",
+    "rank": 4,
+    "tweet_count": "4,407 Tweets"
+  },
+  {
+    "name": "McDavid",
+    "query": "McDavid",
+    "rank": 5,
+    "tweet_count": "2,667 Tweets"
   },
   {
     "name": "Myers",
     "query": "Myers",
-    "rank": 4,
-    "tweet_count": "5,865 Tweets"
+    "rank": 6,
+    "tweet_count": "5,892 Tweets"
+  },
+  {
+    "name": "Motte",
+    "query": "Motte",
+    "rank": 7,
+    "tweet_count": "1,725 Tweets"
   },
   {
     "name": "Halak",
     "query": "Halak",
-    "rank": 5,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Highmore",
     "query": "Highmore",
-    "rank": 6,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Dell",
     "query": "Dell",
-    "rank": 7,
-    "tweet_count": "58.5K Tweets"
+    "rank": 10,
+    "tweet_count": "59K Tweets"
   },
   {
-    "name": "#ThisisUs",
-    "query": "#ThisisUs",
-    "rank": 8,
-    "tweet_count": "7,622 Tweets"
+    "name": "#ThisIsUs",
+    "query": "#ThisIsUs",
+    "rank": 11,
+    "tweet_count": "7,656 Tweets"
   },
   {
     "name": "Nuge",
     "query": "Nuge",
-    "rank": 9,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Theo",
     "query": "Theo",
-    "rank": 10,
-    "tweet_count": "32.7K Tweets"
-  },
-  {
-    "name": "Kobe",
-    "query": "Kobe",
-    "rank": 11,
-    "tweet_count": "75K Tweets"
+    "rank": 13,
+    "tweet_count": "32.9K Tweets"
   },
   {
     "name": "Batherson",
     "query": "Batherson",
-    "rank": 12,
-    "tweet_count": "1,722 Tweets"
-  },
-  {
-    "name": "Miller",
-    "query": "Miller",
-    "rank": 13,
-    "tweet_count": "34.9K Tweets"
-  },
-  {
-    "name": "#everychildmatters",
-    "query": "#everychildmatters",
     "rank": 14,
-    "tweet_count": "1,361 Tweets"
+    "tweet_count": "1,725 Tweets"
+  },
+  {
+    "name": "miller",
+    "query": "miller",
+    "rank": 15,
+    "tweet_count": "35.1K Tweets"
+  },
+  {
+    "name": "#ConvoyForFreedom2022",
+    "query": "#ConvoyForFreedom2022",
+    "rank": 16,
+    "tweet_count": "3,050 Tweets"
   }
 ]
