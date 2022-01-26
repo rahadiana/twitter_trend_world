@@ -1,39 +1,39 @@
 [
   {
-    "name": "#LucaApp",
-    "query": "#LucaApp",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#Bachelor",
     "query": "#Bachelor",
-    "rank": 2,
-    "tweet_count": "3,089 Tweets"
+    "rank": 1,
+    "tweet_count": "3,714 Tweets"
   },
   {
     "name": "#RicardaLang",
     "query": "#RicardaLang",
+    "rank": 2,
+    "tweet_count": "2,336 Tweets"
+  },
+  {
+    "name": "#Impfpflicht",
+    "query": "#Impfpflicht",
     "rank": 3,
-    "tweet_count": "2,022 Tweets"
+    "tweet_count": "41.2K Tweets"
   },
   {
     "name": "Helme",
     "query": "Helme",
     "rank": 4,
-    "tweet_count": "4,592 Tweets"
+    "tweet_count": "4,717 Tweets"
   },
   {
     "name": "Debatte",
     "query": "Debatte",
     "rank": 5,
-    "tweet_count": "9,083 Tweets"
+    "tweet_count": "9,317 Tweets"
   },
   {
     "name": "Ethik",
     "query": "Ethik",
     "rank": 6,
-    "tweet_count": "1,646 Tweets"
+    "tweet_count": "1,666 Tweets"
   },
   {
     "name": "Medizin und Recht",
@@ -42,8 +42,8 @@
     "tweet_count": null
   },
   {
-    "name": "Säbelrasseln",
-    "query": "Säbelrasseln",
+    "name": "Übergewicht",
+    "query": "Übergewicht",
     "rank": 8,
     "tweet_count": null
   },
@@ -51,29 +51,29 @@
     "name": "Abgeordneten",
     "query": "Abgeordneten",
     "rank": 9,
-    "tweet_count": "2,515 Tweets"
+    "tweet_count": "2,556 Tweets"
   },
   {
-    "name": "Bürgertest",
-    "query": "Bürgertest",
+    "name": "Säbelrasseln",
+    "query": "Säbelrasseln",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Gesundheitssystem",
-    "query": "Gesundheitssystem",
+    "name": "Bürgertest",
+    "query": "Bürgertest",
     "rank": 11,
-    "tweet_count": "1,896 Tweets"
-  },
-  {
-    "name": "Impfregister",
-    "query": "Impfregister",
-    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Ukrainer",
     "query": "Ukrainer",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "Impfregister",
+    "query": "Impfregister",
     "rank": 13,
     "tweet_count": null
   },
@@ -93,18 +93,18 @@
     "name": "Habeck",
     "query": "Habeck",
     "rank": 16,
-    "tweet_count": "4,661 Tweets"
-  },
-  {
-    "name": "#Impfpflicht",
-    "query": "#Impfpflicht",
-    "rank": 17,
-    "tweet_count": "40.3K Tweets"
+    "tweet_count": "4,738 Tweets"
   },
   {
     "name": "#tvtotal",
     "query": "#tvtotal",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
+  },
+  {
+    "name": "#Bundestag",
+    "query": "#Bundestag",
+    "rank": 18,
+    "tweet_count": "14.8K Tweets"
   }
 ]
