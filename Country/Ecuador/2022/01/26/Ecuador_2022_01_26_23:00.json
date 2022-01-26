@@ -1,7 +1,7 @@
 [
   {
-    "name": "#AlFútbolConLaRed",
-    "query": "#AlFútbolConLaRed",
+    "name": "#alfútbolconlared",
+    "query": "#alfútbolconlared",
     "rank": 1,
     "tweet_count": null
   },
@@ -9,13 +9,13 @@
     "name": "Ecuador",
     "query": "Ecuador",
     "rank": 2,
-    "tweet_count": "57.1K Tweets"
+    "tweet_count": "57.8K Tweets"
   },
   {
     "name": "#COENacional",
     "query": "#COENacional",
     "rank": 3,
-    "tweet_count": "2,006 Tweets"
+    "tweet_count": "2,071 Tweets"
   },
   {
     "name": "Rodrigo Paz Delgado",
@@ -27,19 +27,19 @@
     "name": "Zapata",
     "query": "Zapata",
     "rank": 5,
-    "tweet_count": "7,571 Tweets"
+    "tweet_count": "7,728 Tweets"
   },
   {
     "name": "#EliminatoriasSudamericanas",
     "query": "#EliminatoriasSudamericanas",
     "rank": 6,
-    "tweet_count": "2,292 Tweets"
+    "tweet_count": "2,333 Tweets"
   },
   {
-    "name": "#NocheAmarilla",
-    "query": "#NocheAmarilla",
+    "name": "Noche Amarilla",
+    "query": "\"Noche Amarilla\"",
     "rank": 7,
-    "tweet_count": "1,915 Tweets"
+    "tweet_count": "3,108 Tweets"
   },
   {
     "name": "COE Cantonal",
@@ -54,21 +54,27 @@
     "tweet_count": null
   },
   {
-    "name": "Dahik",
-    "query": "Dahik",
-    "rank": 10,
-    "tweet_count": "5,287 Tweets"
-  },
-  {
     "name": "#Qatar2022",
     "query": "#Qatar2022",
+    "rank": 10,
+    "tweet_count": "2,621 Tweets"
+  },
+  {
+    "name": "Dahik",
+    "query": "Dahik",
     "rank": 11,
-    "tweet_count": "2,587 Tweets"
+    "tweet_count": "5,381 Tweets"
+  },
+  {
+    "name": "Viteri",
+    "query": "Viteri",
+    "rank": 12,
+    "tweet_count": "1,742 Tweets"
   },
   {
     "name": "#PonyApache",
     "query": "#PonyApache",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   }
 ]
