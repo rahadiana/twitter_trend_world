@@ -1,15 +1,15 @@
 [
   {
-    "name": "Norge",
-    "query": "Norge",
-    "rank": 1,
-    "tweet_count": "3,654 Tweets"
-  },
-  {
     "name": "Neil Young",
     "query": "\"Neil Young\"",
+    "rank": 1,
+    "tweet_count": "156K Tweets"
+  },
+  {
+    "name": "Norge",
+    "query": "Norge",
     "rank": 2,
-    "tweet_count": "155K Tweets"
+    "tweet_count": "3,681 Tweets"
   },
   {
     "name": "Tjärna Ängar",
@@ -33,35 +33,35 @@
     "name": "Försvarsmakten",
     "query": "Försvarsmakten",
     "rank": 6,
-    "tweet_count": "1,347 Tweets"
+    "tweet_count": "1,370 Tweets"
   },
   {
     "name": "Evelina",
     "query": "Evelina",
     "rank": 7,
-    "tweet_count": "1,690 Tweets"
+    "tweet_count": "1,716 Tweets"
   },
   {
     "name": "Sarr",
     "query": "Sarr",
     "rank": 8,
-    "tweet_count": "5,310 Tweets"
+    "tweet_count": "5,331 Tweets"
+  },
+  {
+    "name": "Apple",
+    "query": "Apple",
+    "rank": 9,
+    "tweet_count": "381K Tweets"
   },
   {
     "name": "Hemvärnet",
     "query": "Hemvärnet",
-    "rank": 9,
-    "tweet_count": "1,944 Tweets"
+    "rank": 10,
+    "tweet_count": "1,964 Tweets"
   },
   {
     "name": "Sagosen",
     "query": "Sagosen",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "guldbaggegalan",
-    "query": "guldbaggegalan",
     "rank": 11,
     "tweet_count": null
   },
@@ -69,53 +69,53 @@
     "name": "Isak",
     "query": "Isak",
     "rank": 12,
-    "tweet_count": "13.2K Tweets"
-  },
-  {
-    "name": "Apple",
-    "query": "Apple",
-    "rank": 13,
-    "tweet_count": "377K Tweets"
+    "tweet_count": "13.3K Tweets"
   },
   {
     "name": "bergendahl",
     "query": "bergendahl",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "Metall",
-    "query": "Metall",
-    "rank": 15,
-    "tweet_count": "2,236 Tweets"
+    "name": "metall",
+    "query": "metall",
+    "rank": 14,
+    "tweet_count": "2,262 Tweets"
   },
   {
     "name": "Lena Einhorn",
     "query": "\"Lena Einhorn\"",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Svenskt Näringsliv",
     "query": "\"Svenskt Näringsliv\"",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Mordor",
-    "query": "Mordor",
-    "rank": 18,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "botkyrka",
     "query": "botkyrka",
-    "rank": 19,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "welcome to sweden",
     "query": "\"welcome to sweden\"",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "försäkringskassan",
+    "query": "försäkringskassan",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "#uppesittarkväll",
+    "query": "#uppesittarkväll",
     "rank": 20,
     "tweet_count": null
   }
