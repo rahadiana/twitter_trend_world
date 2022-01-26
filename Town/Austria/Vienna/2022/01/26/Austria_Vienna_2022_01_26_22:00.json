@@ -1,7 +1,7 @@
 [
   {
-    "name": "#Beinschab",
-    "query": "#Beinschab",
+    "name": "#beinschab",
+    "query": "#beinschab",
     "rank": 1,
     "tweet_count": null
   },
@@ -12,34 +12,34 @@
     "tweet_count": null
   },
   {
-    "name": "#DOK1",
-    "query": "#DOK1",
+    "name": "#dok1",
+    "query": "#dok1",
     "rank": 3,
     "tweet_count": null
   },
   {
-    "name": "#Bachelor",
-    "query": "#Bachelor",
-    "rank": 4,
-    "tweet_count": "6,054 Tweets"
-  },
-  {
     "name": "Beileid",
     "query": "Beileid",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "#doblerin",
     "query": "#doblerin",
-    "rank": 6,
-    "tweet_count": "2,022 Tweets"
+    "rank": 5,
+    "tweet_count": "2,028 Tweets"
   },
   {
-    "name": "Lockdown für Ungeimpfte",
-    "query": "\"Lockdown für Ungeimpfte\"",
+    "name": "#lockdown",
+    "query": "#lockdown",
+    "rank": 6,
+    "tweet_count": "3,233 Tweets"
+  },
+  {
+    "name": "Finanzministerium",
+    "query": "Finanzministerium",
     "rank": 7,
-    "tweet_count": "2,061 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Pfau",
@@ -48,22 +48,22 @@
     "tweet_count": null
   },
   {
-    "name": "Welches Tier",
-    "query": "\"Welches Tier\"",
+    "name": "Tier",
+    "query": "Tier",
     "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Finanzministerium",
-    "query": "Finanzministerium",
-    "rank": 10,
-    "tweet_count": null
+    "tweet_count": "77.9K Tweets"
   },
   {
     "name": "Discord",
     "query": "Discord",
+    "rank": 10,
+    "tweet_count": "1.57M Tweets"
+  },
+  {
+    "name": "Sendung",
+    "query": "Sendung",
     "rank": 11,
-    "tweet_count": "1.55M Tweets"
+    "tweet_count": "1,517 Tweets"
   },
   {
     "name": "Lockerungen",
@@ -72,50 +72,50 @@
     "tweet_count": null
   },
   {
-    "name": "Sozialisten",
-    "query": "Sozialisten",
-    "rank": 13,
-    "tweet_count": "2,923 Tweets"
-  },
-  {
     "name": "Handel",
     "query": "Handel",
-    "rank": 14,
-    "tweet_count": "4,698 Tweets"
-  },
-  {
-    "name": "Sendung",
-    "query": "Sendung",
-    "rank": 15,
-    "tweet_count": "1,479 Tweets"
-  },
-  {
-    "name": "Schmitt",
-    "query": "Schmitt",
-    "rank": 16,
-    "tweet_count": "2,517 Tweets"
-  },
-  {
-    "name": "Studien",
-    "query": "Studien",
-    "rank": 17,
-    "tweet_count": "4,663 Tweets"
-  },
-  {
-    "name": "Leichen",
-    "query": "Leichen",
-    "rank": 18,
-    "tweet_count": null
+    "rank": 13,
+    "tweet_count": "4,773 Tweets"
   },
   {
     "name": "Helme",
     "query": "Helme",
-    "rank": 19,
-    "tweet_count": "5,711 Tweets"
+    "rank": 14,
+    "tweet_count": "5,811 Tweets"
+  },
+  {
+    "name": "Leichen",
+    "query": "Leichen",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Studien",
+    "query": "Studien",
+    "rank": 16,
+    "tweet_count": "4,758 Tweets"
+  },
+  {
+    "name": "Wahlrecht",
+    "query": "Wahlrecht",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Schmitt",
+    "query": "Schmitt",
+    "rank": 18,
+    "tweet_count": "2,562 Tweets"
   },
   {
     "name": "2G Regel",
     "query": "\"2G Regel\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Olivenöl",
+    "query": "Olivenöl",
     "rank": 20,
     "tweet_count": null
   }
