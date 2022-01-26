@@ -1,9 +1,9 @@
 [
   {
-    "name": "Latvijas",
-    "query": "Latvijas",
+    "name": "Kariņa",
+    "query": "Kariņa",
     "rank": 1,
-    "tweet_count": "1,043 Tweets"
+    "tweet_count": "33.7K Tweets"
   },
   {
     "name": "Tikko",
@@ -12,20 +12,20 @@
     "tweet_count": null
   },
   {
-    "name": "Kariņa",
-    "query": "Kariņa",
+    "name": "Rīga",
+    "query": "Rīga",
     "rank": 3,
-    "tweet_count": "33.3K Tweets"
+    "tweet_count": "1,680 Tweets"
+  },
+  {
+    "name": "Latvijas",
+    "query": "Latvijas",
+    "rank": 4,
+    "tweet_count": "1,072 Tweets"
   },
   {
     "name": "#ValdībasTrešaisGads",
     "query": "#ValdībasTrešaisGads",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "ministru",
-    "query": "ministru",
     "rank": 5,
     "tweet_count": null
   },
@@ -36,38 +36,38 @@
     "tweet_count": null
   },
   {
-    "name": "Putin",
-    "query": "Putin",
+    "name": "Ministru",
+    "query": "Ministru",
     "rank": 7,
-    "tweet_count": "203K Tweets"
-  },
-  {
-    "name": "Ukrainas",
-    "query": "Ukrainas",
-    "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Rīga",
-    "query": "Rīga",
-    "rank": 9,
-    "tweet_count": "1,663 Tweets"
+    "name": "Putin",
+    "query": "Putin",
+    "rank": 8,
+    "tweet_count": "204K Tweets"
   },
   {
     "name": "#NFTs",
     "query": "#NFTs",
-    "rank": 10,
-    "tweet_count": "757K Tweets"
+    "rank": 9,
+    "tweet_count": "765K Tweets"
   },
   {
     "name": "neplp",
     "query": "neplp",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Saeimas",
     "query": "Saeimas",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "Ukrainas",
+    "query": "Ukrainas",
     "rank": 12,
     "tweet_count": null
   },
@@ -75,13 +75,13 @@
     "name": "Visu",
     "query": "Visu",
     "rank": 13,
-    "tweet_count": "1,464 Tweets"
+    "tweet_count": "1,477 Tweets"
   },
   {
     "name": "Kāda",
     "query": "Kāda",
     "rank": 14,
-    "tweet_count": "13.1K Tweets"
+    "tweet_count": "13.2K Tweets"
   },
   {
     "name": "Liepājas",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
-    "name": "pekinā",
-    "query": "pekinā",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
     "name": "#greenwashing",
     "query": "#greenwashing",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "atkal",
     "query": "atkal",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Mūsu",
     "query": "Mūsu",
-    "rank": 19,
-    "tweet_count": "2,752 Tweets"
+    "rank": 18,
+    "tweet_count": "2,797 Tweets"
   },
   {
     "name": "Europe",
     "query": "Europe",
+    "rank": 19,
+    "tweet_count": "195K Tweets"
+  },
+  {
+    "name": "Neko",
+    "query": "Neko",
     "rank": 20,
-    "tweet_count": "193K Tweets"
+    "tweet_count": "107K Tweets"
   }
 ]
