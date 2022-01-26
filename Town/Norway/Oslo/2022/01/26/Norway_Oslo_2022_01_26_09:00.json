@@ -1,13 +1,13 @@
 [
   {
-    "name": "#nrkdebatt",
-    "query": "#nrkdebatt",
+    "name": "#noradkonf",
+    "query": "#noradkonf",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "#noradkonf",
-    "query": "#noradkonf",
+    "name": "#nrkdebatt",
+    "query": "#nrkdebatt",
     "rank": 2,
     "tweet_count": null
   },
@@ -60,8 +60,8 @@
     "tweet_count": null
   },
   {
-    "name": "atle lie mcgrath",
-    "query": "\"atle lie mcgrath\"",
+    "name": "Atle Lie McGrath",
+    "query": "\"Atle Lie McGrath\"",
     "rank": 11,
     "tweet_count": null
   },
@@ -72,32 +72,32 @@
     "tweet_count": null
   },
   {
-    "name": "Watford",
-    "query": "Watford",
+    "name": "Helfo",
+    "query": "Helfo",
     "rank": 13,
-    "tweet_count": "27.8K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "watford",
+    "query": "watford",
+    "rank": 14,
+    "tweet_count": "28.3K Tweets"
   },
   {
     "name": "Isak",
     "query": "Isak",
-    "rank": 14,
-    "tweet_count": "15K Tweets"
+    "rank": 15,
+    "tweet_count": "15.2K Tweets"
   },
   {
     "name": "Viken",
     "query": "Viken",
-    "rank": 15,
-    "tweet_count": "1,565 Tweets"
+    "rank": 16,
+    "tweet_count": "1,582 Tweets"
   },
   {
     "name": "Glenn Solberg",
     "query": "\"Glenn Solberg\"",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Helfo",
-    "query": "Helfo",
     "rank": 17,
     "tweet_count": null
   },
@@ -105,18 +105,18 @@
     "name": "Taliban",
     "query": "Taliban",
     "rank": 18,
-    "tweet_count": "28.1K Tweets"
+    "tweet_count": "28.5K Tweets"
   },
   {
     "name": "Tony",
     "query": "Tony",
     "rank": 19,
-    "tweet_count": "81.5K Tweets"
+    "tweet_count": "82.3K Tweets"
   },
   {
     "name": "Paco",
     "query": "Paco",
     "rank": 20,
-    "tweet_count": "15.1K Tweets"
+    "tweet_count": "15.2K Tweets"
   }
 ]
