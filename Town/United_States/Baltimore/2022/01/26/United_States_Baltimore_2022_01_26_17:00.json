@@ -1,86 +1,98 @@
 [
   {
-    "name": "Kobe",
-    "query": "Kobe",
+    "name": "Stephen Breyer",
+    "query": "\"Stephen Breyer\"",
     "rank": 1,
-    "tweet_count": "216K Tweets"
+    "tweet_count": "26.9K Tweets"
   },
   {
-    "name": "Breyer",
-    "query": "Breyer",
+    "name": "Kobe",
+    "query": "Kobe",
     "rank": 2,
-    "tweet_count": "28.3K Tweets"
+    "tweet_count": "226K Tweets"
+  },
+  {
+    "name": "#SCOTUS",
+    "query": "#SCOTUS",
+    "rank": 3,
+    "tweet_count": "3,454 Tweets"
   },
   {
     "name": "#BellLetsTalk",
     "query": "#BellLetsTalk",
-    "rank": 3,
-    "tweet_count": "181K Tweets"
-  },
-  {
-    "name": "#MambaForever",
-    "query": "#MambaForever",
     "rank": 4,
-    "tweet_count": "25.3K Tweets"
+    "tweet_count": "191K Tweets"
   },
   {
     "name": "#IWSGPit",
     "query": "#IWSGPit",
     "rank": 5,
-    "tweet_count": "5,430 Tweets"
+    "tweet_count": "6,253 Tweets"
+  },
+  {
+    "name": "#TheBookOfBobaFett",
+    "query": "#TheBookOfBobaFett",
+    "rank": 6,
+    "tweet_count": "43.8K Tweets"
   },
   {
     "name": "Brandon Brooks",
     "query": "\"Brandon Brooks\"",
-    "rank": 6,
-    "tweet_count": "3,855 Tweets"
-  },
-  {
-    "name": "#BookofBobaFett",
-    "query": "#BookofBobaFett",
     "rank": 7,
-    "tweet_count": "11.6K Tweets"
+    "tweet_count": "4,091 Tweets"
   },
   {
-    "name": "Ketanji Brown Jackson",
-    "query": "\"Ketanji Brown Jackson\"",
+    "name": "#WednesdayMotivation",
+    "query": "#WednesdayMotivation",
     "rank": 8,
-    "tweet_count": "1,757 Tweets"
+    "tweet_count": "42K Tweets"
+  },
+  {
+    "name": "Murkowski",
+    "query": "Murkowski",
+    "rank": 9,
+    "tweet_count": "1,181 Tweets"
   },
   {
     "name": "Dave Scott",
     "query": "\"Dave Scott\"",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "No Labels",
-    "query": "\"No Labels\"",
-    "rank": 10,
-    "tweet_count": "2,706 Tweets"
-  },
-  {
-    "name": "Co Cap",
-    "query": "\"Co Cap\"",
+    "name": "Wordle 221 X",
+    "query": "\"Wordle 221 X\"",
     "rank": 11,
-    "tweet_count": "4,547 Tweets"
-  },
-  {
-    "name": "Planet Coaster",
-    "query": "\"Planet Coaster\"",
-    "rank": 12,
-    "tweet_count": "2,283 Tweets"
+    "tweet_count": "4,736 Tweets"
   },
   {
     "name": "Michael Rapaport",
     "query": "\"Michael Rapaport\"",
-    "rank": 13,
-    "tweet_count": "4,311 Tweets"
+    "rank": 12,
+    "tweet_count": "4,630 Tweets"
   },
   {
-    "name": "Charlie Brown",
-    "query": "\"Charlie Brown\"",
+    "name": "Co-Cap",
+    "query": "Co-Cap",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Planet Coaster",
+    "query": "\"Planet Coaster\"",
     "rank": 14,
-    "tweet_count": "13.2K Tweets"
+    "tweet_count": "2,546 Tweets"
+  },
+  {
+    "name": "No Labels",
+    "query": "\"No Labels\"",
+    "rank": 15,
+    "tweet_count": "2,827 Tweets"
+  },
+  {
+    "name": "Peter Robbins",
+    "query": "\"Peter Robbins\"",
+    "rank": 16,
+    "tweet_count": "11.4K Tweets"
   }
 ]
