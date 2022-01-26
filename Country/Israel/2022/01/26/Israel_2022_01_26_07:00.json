@@ -1,15 +1,15 @@
 [
   {
-    "name": "בוקר אור",
-    "query": "\"בוקר אור\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "חאן אל",
     "query": "\"חאן אל\"",
+    "rank": 1,
+    "tweet_count": "1,460 Tweets"
+  },
+  {
+    "name": "בוקר אור",
+    "query": "\"בוקר אור\"",
     "rank": 2,
-    "tweet_count": "1,429 Tweets"
+    "tweet_count": null
   },
   {
     "name": "בוקר טוב",
@@ -33,7 +33,7 @@
     "name": "West Bank",
     "query": "\"West Bank\"",
     "rank": 6,
-    "tweet_count": "2,504 Tweets"
+    "tweet_count": "2,515 Tweets"
   },
   {
     "name": "לנו עם",
@@ -48,38 +48,38 @@
     "tweet_count": null
   },
   {
-    "name": "Germany",
-    "query": "Germany",
-    "rank": 9,
-    "tweet_count": "82.7K Tweets"
-  },
-  {
     "name": "בחירות חמישיות",
     "query": "\"בחירות חמישיות\"",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "עידן ורד",
     "query": "\"עידן ורד\"",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "של הפועל",
     "query": "\"של הפועל\"",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "taylor swift",
     "query": "\"taylor swift\"",
-    "rank": 13,
-    "tweet_count": "145K Tweets"
+    "rank": 12,
+    "tweet_count": "146K Tweets"
   },
   {
     "name": "מודעות עצמית",
     "query": "\"מודעות עצמית\"",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "רפואה שלמה",
+    "query": "\"רפואה שלמה\"",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,7 +87,7 @@
     "name": "#gaming",
     "query": "#gaming",
     "rank": 15,
-    "tweet_count": "45.7K Tweets"
+    "tweet_count": "46.3K Tweets"
   },
   {
     "name": "עד מדינה",
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "רפואה שלמה",
-    "query": "\"רפואה שלמה\"",
+    "name": "#cybersecurity",
+    "query": "#cybersecurity",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "32.8K Tweets"
   }
 ]
