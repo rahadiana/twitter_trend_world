@@ -9,31 +9,31 @@
     "name": "Neil Young",
     "query": "\"Neil Young\"",
     "rank": 2,
-    "tweet_count": "149K Tweets"
-  },
-  {
-    "name": "Norge",
-    "query": "Norge",
-    "rank": 3,
-    "tweet_count": "3,532 Tweets"
+    "tweet_count": "151K Tweets"
   },
   {
     "name": "Tjärna Ängar",
     "query": "\"Tjärna Ängar\"",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
+  },
+  {
+    "name": "Norge",
+    "query": "Norge",
+    "rank": 4,
+    "tweet_count": "3,592 Tweets"
   },
   {
     "name": "Försvarsmakten",
     "query": "Försvarsmakten",
     "rank": 5,
-    "tweet_count": "1,536 Tweets"
+    "tweet_count": "1,560 Tweets"
   },
   {
     "name": "Hemvärnet",
     "query": "Hemvärnet",
     "rank": 6,
-    "tweet_count": "1,928 Tweets"
+    "tweet_count": "1,962 Tweets"
   },
   {
     "name": "valter chrintz",
@@ -45,25 +45,25 @@
     "name": "Evelina",
     "query": "Evelina",
     "rank": 8,
-    "tweet_count": "1,776 Tweets"
+    "tweet_count": "1,792 Tweets"
   },
   {
     "name": "Joe Rogan",
     "query": "\"Joe Rogan\"",
     "rank": 9,
-    "tweet_count": "86.9K Tweets"
+    "tweet_count": "88.7K Tweets"
   },
   {
     "name": "Medvedev",
     "query": "Medvedev",
     "rank": 10,
-    "tweet_count": "31.1K Tweets"
+    "tweet_count": "32K Tweets"
   },
   {
     "name": "Apple",
     "query": "Apple",
     "rank": 11,
-    "tweet_count": "381K Tweets"
+    "tweet_count": "390K Tweets"
   },
   {
     "name": "Sagosen",
@@ -84,39 +84,39 @@
     "tweet_count": null
   },
   {
-    "name": "Svenskt Näringsliv",
-    "query": "\"Svenskt Näringsliv\"",
+    "name": "svenskt näringsliv",
+    "query": "\"svenskt näringsliv\"",
     "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Strandhäll",
+    "query": "Strandhäll",
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Försäkringskassan",
     "query": "Försäkringskassan",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "METALL",
     "query": "METALL",
-    "rank": 17,
-    "tweet_count": "2,072 Tweets"
+    "rank": 18,
+    "tweet_count": "2,118 Tweets"
   },
   {
     "name": "botkyrka",
     "query": "botkyrka",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "welcome to sweden",
     "query": "\"welcome to sweden\"",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Einhorn",
-    "query": "Einhorn",
     "rank": 20,
-    "tweet_count": "1,351 Tweets"
+    "tweet_count": null
   }
 ]

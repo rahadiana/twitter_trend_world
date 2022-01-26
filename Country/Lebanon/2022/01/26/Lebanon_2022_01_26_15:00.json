@@ -1,9 +1,9 @@
 [
   {
-    "name": "#صباح_الخير",
-    "query": "#صباح_الخير",
+    "name": "#جوقه_باسيل",
+    "query": "#جوقه_باسيل",
     "rank": 1,
-    "tweet_count": "64.8K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#بدبلوماسيه",
@@ -12,46 +12,46 @@
     "tweet_count": null
   },
   {
+    "name": "#صباح_الخير",
+    "query": "#صباح_الخير",
+    "rank": 3,
+    "tweet_count": "65.6K Tweets"
+  },
+  {
     "name": "#ميلاد_العماد",
     "query": "#ميلاد_العماد",
-    "rank": 3,
-    "tweet_count": "2,579 Tweets"
+    "rank": 4,
+    "tweet_count": "2,611 Tweets"
   },
   {
     "name": "#لهون_وبس",
     "query": "#لهون_وبس",
-    "rank": 4,
-    "tweet_count": "2,264 Tweets"
-  },
-  {
-    "name": "#عامر_زيان",
-    "query": "#عامر_زيان",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "1,714 Tweets"
   },
   {
     "name": "كهربا",
     "query": "كهربا",
     "rank": 6,
-    "tweet_count": "1,483 Tweets"
+    "tweet_count": "1,522 Tweets"
   },
   {
     "name": "صاحب الزمان",
     "query": "\"صاحب الزمان\"",
     "rank": 7,
-    "tweet_count": "1,480 Tweets"
+    "tweet_count": "1,507 Tweets"
   },
   {
-    "name": "world bank",
-    "query": "\"world bank\"",
+    "name": "World Bank",
+    "query": "\"World Bank\"",
     "rank": 8,
-    "tweet_count": "5,385 Tweets"
+    "tweet_count": "5,529 Tweets"
   },
   {
     "name": "Arsenal",
     "query": "Arsenal",
     "rank": 9,
-    "tweet_count": "91.3K Tweets"
+    "tweet_count": "93.5K Tweets"
   },
   {
     "name": "الطايفه السنيه",
@@ -63,7 +63,7 @@
     "name": "مجلس الوزراء",
     "query": "\"مجلس الوزراء\"",
     "rank": 11,
-    "tweet_count": "17.1K Tweets"
+    "tweet_count": "17.3K Tweets"
   },
   {
     "name": "المبادره الكويتيه",
@@ -75,48 +75,48 @@
     "name": "COVID-19",
     "query": "COVID-19",
     "rank": 13,
-    "tweet_count": "472K Tweets"
+    "tweet_count": "483K Tweets"
   },
   {
     "name": "اسرائيل",
     "query": "اسرائيل",
     "rank": 14,
-    "tweet_count": "17K Tweets"
-  },
-  {
-    "name": "ميشال عون",
-    "query": "\"ميشال عون\"",
-    "rank": 15,
-    "tweet_count": "1,007 Tweets"
-  },
-  {
-    "name": "Lebanon",
-    "query": "Lebanon",
-    "rank": 16,
-    "tweet_count": "9,244 Tweets"
+    "tweet_count": "17.4K Tweets"
   },
   {
     "name": "Saad Hariri",
     "query": "\"Saad Hariri\"",
-    "rank": 17,
+    "rank": 15,
     "tweet_count": null
-  },
-  {
-    "name": "Syria",
-    "query": "Syria",
-    "rank": 18,
-    "tweet_count": "21.9K Tweets"
-  },
-  {
-    "name": "Happiest",
-    "query": "Happiest",
-    "rank": 19,
-    "tweet_count": "36.4K Tweets"
   },
   {
     "name": "الاحتلال الايراني",
     "query": "\"الاحتلال الايراني\"",
-    "rank": 20,
+    "rank": 16,
     "tweet_count": null
+  },
+  {
+    "name": "Iran",
+    "query": "Iran",
+    "rank": 17,
+    "tweet_count": "60.4K Tweets"
+  },
+  {
+    "name": "ميشال عون",
+    "query": "\"ميشال عون\"",
+    "rank": 18,
+    "tweet_count": "1,026 Tweets"
+  },
+  {
+    "name": "Spotify",
+    "query": "Spotify",
+    "rank": 19,
+    "tweet_count": "803K Tweets"
+  },
+  {
+    "name": "Nour",
+    "query": "Nour",
+    "rank": 20,
+    "tweet_count": "6,484 Tweets"
   }
 ]
