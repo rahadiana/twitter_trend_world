@@ -6,16 +6,16 @@
     "tweet_count": null
   },
   {
-    "name": "Newcastle",
-    "query": "Newcastle",
-    "rank": 2,
-    "tweet_count": "63.4K Tweets"
-  },
-  {
     "name": "#nrkdebatt",
     "query": "#nrkdebatt",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "Newcastle",
+    "query": "Newcastle",
+    "rank": 3,
+    "tweet_count": "65.4K Tweets"
   },
   {
     "name": "#2sjakk",
@@ -27,7 +27,7 @@
     "name": "Neil Young",
     "query": "\"Neil Young\"",
     "rank": 5,
-    "tweet_count": "155K Tweets"
+    "tweet_count": "156K Tweets"
   },
   {
     "name": "Heidi Weng",
@@ -54,28 +54,28 @@
     "tweet_count": null
   },
   {
-    "name": "Viken",
-    "query": "Viken",
-    "rank": 10,
-    "tweet_count": "1,291 Tweets"
-  },
-  {
     "name": "Vestfold",
     "query": "Vestfold",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Sagosen",
     "query": "Sagosen",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Benjamin Hermansen",
     "query": "\"Benjamin Hermansen\"",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "Viken",
+    "query": "Viken",
+    "rank": 13,
+    "tweet_count": "1,298 Tweets"
   },
   {
     "name": "Isak",
@@ -96,15 +96,15 @@
     "tweet_count": null
   },
   {
-    "name": "Joe Rogan",
-    "query": "\"Joe Rogan\"",
-    "rank": 17,
-    "tweet_count": "89.8K Tweets"
-  },
-  {
     "name": "Taliban",
     "query": "Taliban",
+    "rank": 17,
+    "tweet_count": "27.6K Tweets"
+  },
+  {
+    "name": "Paco",
+    "query": "Paco",
     "rank": 18,
-    "tweet_count": "27.3K Tweets"
+    "tweet_count": "15.5K Tweets"
   }
 ]
