@@ -1,92 +1,122 @@
 [
   {
+    "name": "Ronaldo",
+    "query": "Ronaldo",
+    "rank": 1,
+    "tweet_count": "62.3K Tweets"
+  },
+  {
+    "name": "Neuer",
+    "query": "Neuer",
+    "rank": 2,
+    "tweet_count": "9,483 Tweets"
+  },
+  {
     "name": "Saulo",
     "query": "Saulo",
-    "rank": 1,
-    "tweet_count": "5,368 Tweets"
+    "rank": 3,
+    "tweet_count": "5,582 Tweets"
+  },
+  {
+    "name": "Sylvio",
+    "query": "Sylvio",
+    "rank": 4,
+    "tweet_count": "1,400 Tweets"
+  },
+  {
+    "name": "Piton",
+    "query": "Piton",
+    "rank": 5,
+    "tweet_count": "2,057 Tweets"
+  },
+  {
+    "name": "Rafa Kalimann",
+    "query": "\"Rafa Kalimann\"",
+    "rank": 6,
+    "tweet_count": "2,203 Tweets"
+  },
+  {
+    "name": "João Victor",
+    "query": "\"João Victor\"",
+    "rank": 7,
+    "tweet_count": "1,130 Tweets"
+  },
+  {
+    "name": "#Provoca",
+    "query": "#Provoca",
+    "rank": 8,
+    "tweet_count": null
   },
   {
     "name": "#SCCPxFER",
     "query": "#SCCPxFER",
-    "rank": 2,
-    "tweet_count": "12.5K Tweets"
+    "rank": 9,
+    "tweet_count": "12.7K Tweets"
   },
   {
-    "name": "coca cola",
-    "query": "\"coca cola\"",
-    "rank": 3,
-    "tweet_count": "20.1K Tweets"
+    "name": "2k22",
+    "query": "2k22",
+    "rank": 10,
+    "tweet_count": "6,080 Tweets"
   },
   {
     "name": "Elano",
     "query": "Elano",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "Du Queiroz",
-    "query": "\"Du Queiroz\"",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "FAMA",
-    "query": "FAMA",
-    "rank": 6,
-    "tweet_count": "37.3K Tweets"
-  },
-  {
-    "name": "Trippie Redd",
-    "query": "\"Trippie Redd\"",
-    "rank": 7,
-    "tweet_count": "1,995 Tweets"
-  },
-  {
-    "name": "#TeamPauloAndre",
-    "query": "#TeamPauloAndre",
-    "rank": 8,
-    "tweet_count": "5,630 Tweets"
-  },
-  {
-    "name": "#FaustãoNaBand",
-    "query": "#FaustãoNaBand",
-    "rank": 9,
-    "tweet_count": "1,401 Tweets"
-  },
-  {
-    "name": "Ganyu",
-    "query": "Ganyu",
-    "rank": 10,
-    "tweet_count": "217K Tweets"
-  },
-  {
-    "name": "#Paulistao2022",
-    "query": "#Paulistao2022",
     "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "picsart",
-    "query": "picsart",
+    "name": "Pierre",
+    "query": "Pierre",
     "rank": 12,
-    "tweet_count": "29.9K Tweets"
+    "tweet_count": "43.1K Tweets"
   },
   {
-    "name": "Zhongli",
-    "query": "Zhongli",
+    "name": "coca cola",
+    "query": "\"coca cola\"",
     "rank": 13,
-    "tweet_count": "187K Tweets"
+    "tweet_count": "20.5K Tweets"
   },
   {
-    "name": "Raffa Moreira",
-    "query": "\"Raffa Moreira\"",
+    "name": "percy jackson",
+    "query": "\"percy jackson\"",
     "rank": 14,
+    "tweet_count": "136K Tweets"
+  },
+  {
+    "name": "Trippie Redd",
+    "query": "\"Trippie Redd\"",
+    "rank": 15,
+    "tweet_count": "2,087 Tweets"
+  },
+  {
+    "name": "Leifert",
+    "query": "Leifert",
+    "rank": 16,
+    "tweet_count": "2,561 Tweets"
+  },
+  {
+    "name": "Du Queiroz",
+    "query": "\"Du Queiroz\"",
+    "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "OCDE",
-    "query": "OCDE",
-    "rank": 15,
-    "tweet_count": "19.6K Tweets"
+    "name": "#TeamPauloAndre",
+    "query": "#TeamPauloAndre",
+    "rank": 18,
+    "tweet_count": "5,876 Tweets"
+  },
+  {
+    "name": "Fábio Santos",
+    "query": "\"Fábio Santos\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "#FaustãoNaBand",
+    "query": "#FaustãoNaBand",
+    "rank": 20,
+    "tweet_count": "1,417 Tweets"
   }
 ]
