@@ -1,13 +1,13 @@
 [
   {
-    "name": "#handbollsem",
-    "query": "#handbollsem",
+    "name": "Tjärna Ängar",
+    "query": "\"Tjärna Ängar\"",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "Tjärna Ängar",
-    "query": "\"Tjärna Ängar\"",
+    "name": "#handbollsem",
+    "query": "#handbollsem",
     "rank": 2,
     "tweet_count": null
   },
@@ -15,37 +15,37 @@
     "name": "Neil Young",
     "query": "\"Neil Young\"",
     "rank": 3,
-    "tweet_count": "138K Tweets"
+    "tweet_count": "140K Tweets"
   },
   {
     "name": "Försvarsmakten",
     "query": "Försvarsmakten",
     "rank": 4,
-    "tweet_count": "1,555 Tweets"
+    "tweet_count": "1,490 Tweets"
+  },
+  {
+    "name": "Amoo",
+    "query": "Amoo",
+    "rank": 5,
+    "tweet_count": "10.2K Tweets"
   },
   {
     "name": "Norge",
     "query": "Norge",
-    "rank": 5,
-    "tweet_count": "3,598 Tweets"
-  },
-  {
-    "name": "Hemvärnet",
-    "query": "Hemvärnet",
     "rank": 6,
-    "tweet_count": "1,695 Tweets"
+    "tweet_count": "3,518 Tweets"
   },
   {
-    "name": "Strandhäll",
-    "query": "Strandhäll",
+    "name": "Annika Strandhäll",
+    "query": "\"Annika Strandhäll\"",
     "rank": 7,
     "tweet_count": null
   },
   {
-    "name": "Evelina",
-    "query": "Evelina",
+    "name": "Hemvärnet",
+    "query": "Hemvärnet",
     "rank": 8,
-    "tweet_count": "1,679 Tweets"
+    "tweet_count": "1,717 Tweets"
   },
   {
     "name": "Beklagar",
@@ -54,57 +54,57 @@
     "tweet_count": null
   },
   {
-    "name": "Valter Chrintz",
-    "query": "\"Valter Chrintz\"",
+    "name": "Evelina",
+    "query": "Evelina",
     "rank": 10,
+    "tweet_count": "1,583 Tweets"
+  },
+  {
+    "name": "Kalmar",
+    "query": "Kalmar",
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Medvedev",
     "query": "Medvedev",
-    "rank": 11,
-    "tweet_count": "33.9K Tweets"
-  },
-  {
-    "name": "Apple",
-    "query": "Apple",
     "rank": 12,
-    "tweet_count": "379K Tweets"
+    "tweet_count": "34.5K Tweets"
   },
   {
-    "name": "Kalmar",
-    "query": "Kalmar",
+    "name": "chrintz",
+    "query": "chrintz",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "Svenskt Näringsliv",
-    "query": "\"Svenskt Näringsliv\"",
+    "name": "Joe Rogan",
+    "query": "\"Joe Rogan\"",
     "rank": 14,
+    "tweet_count": "83.7K Tweets"
+  },
+  {
+    "name": "Apple",
+    "query": "Apple",
+    "rank": 15,
+    "tweet_count": "389K Tweets"
+  },
+  {
+    "name": "svenskt näringsliv",
+    "query": "\"svenskt näringsliv\"",
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "botkyrka",
     "query": "botkyrka",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "försäkringskassan",
-    "query": "försäkringskassan",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "welcome to sweden",
     "query": "\"welcome to sweden\"",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Einhorn",
-    "query": "Einhorn",
     "rank": 18,
-    "tweet_count": "1,271 Tweets"
+    "tweet_count": null
   }
 ]
