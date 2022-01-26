@@ -1,39 +1,39 @@
 [
   {
+    "name": "#dok1",
+    "query": "#dok1",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "#Beinschab",
     "query": "#Beinschab",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Welches Tier",
     "query": "\"Welches Tier\"",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#WSMDS",
     "query": "#WSMDS",
-    "rank": 3,
-    "tweet_count": "5,736 Tweets"
-  },
-  {
-    "name": "#zib1",
-    "query": "#zib1",
     "rank": 4,
-    "tweet_count": null
+    "tweet_count": "5,743 Tweets"
   },
   {
     "name": "Lockdown für Ungeimpfte",
     "query": "\"Lockdown für Ungeimpfte\"",
     "rank": 5,
-    "tweet_count": "1,988 Tweets"
+    "tweet_count": "1,996 Tweets"
   },
   {
     "name": "#Doblerin",
     "query": "#Doblerin",
     "rank": 6,
-    "tweet_count": "2,880 Tweets"
+    "tweet_count": "2,884 Tweets"
   },
   {
     "name": "Pfau",
@@ -48,8 +48,8 @@
     "tweet_count": null
   },
   {
-    "name": "#Schladming",
-    "query": "#Schladming",
+    "name": "#zib1",
+    "query": "#zib1",
     "rank": 9,
     "tweet_count": null
   },
@@ -63,13 +63,13 @@
     "name": "Studien",
     "query": "Studien",
     "rank": 11,
-    "tweet_count": "4,138 Tweets"
+    "tweet_count": "4,204 Tweets"
   },
   {
     "name": "DAZN",
     "query": "DAZN",
     "rank": 12,
-    "tweet_count": "17.1K Tweets"
+    "tweet_count": "17.2K Tweets"
   },
   {
     "name": "Lockerungen",
@@ -81,7 +81,7 @@
     "name": "Handel",
     "query": "Handel",
     "rank": 14,
-    "tweet_count": "4,576 Tweets"
+    "tweet_count": "4,610 Tweets"
   },
   {
     "name": "Kündigung",
@@ -93,29 +93,29 @@
     "name": "Sozialisten",
     "query": "Sozialisten",
     "rank": 16,
-    "tweet_count": "3,631 Tweets"
-  },
-  {
-    "name": "tom turbo",
-    "query": "\"tom turbo\"",
-    "rank": 17,
-    "tweet_count": null
+    "tweet_count": "3,640 Tweets"
   },
   {
     "name": "Schmitt",
     "query": "Schmitt",
-    "rank": 18,
-    "tweet_count": "2,584 Tweets"
+    "rank": 17,
+    "tweet_count": "2,613 Tweets"
   },
   {
     "name": "2G Regel",
     "query": "\"2G Regel\"",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Schmalz",
     "query": "Schmalz",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "marcus franz",
+    "query": "\"marcus franz\"",
     "rank": 20,
     "tweet_count": null
   }
