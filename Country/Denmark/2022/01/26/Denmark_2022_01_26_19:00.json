@@ -1,7 +1,7 @@
 [
   {
-    "name": "#covid19dk",
-    "query": "#covid19dk",
+    "name": "#COVID19dk",
+    "query": "#COVID19dk",
     "rank": 1,
     "tweet_count": null
   },
@@ -9,25 +9,25 @@
     "name": "Mette Frederiksen",
     "query": "\"Mette Frederiksen\"",
     "rank": 2,
-    "tweet_count": "9,612 Tweets"
-  },
-  {
-    "name": "Heunicke",
-    "query": "Heunicke",
-    "rank": 3,
-    "tweet_count": null
+    "tweet_count": "10.4K Tweets"
   },
   {
     "name": "Wolt",
     "query": "Wolt",
+    "rank": 3,
+    "tweet_count": "1,485 Tweets"
+  },
+  {
+    "name": "Heunicke",
+    "query": "Heunicke",
     "rank": 4,
-    "tweet_count": "1,481 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Denmark",
     "query": "Denmark",
     "rank": 5,
-    "tweet_count": "30.7K Tweets"
+    "tweet_count": "32.1K Tweets"
   },
   {
     "name": "Brostrøm",
@@ -42,22 +42,22 @@
     "tweet_count": null
   },
   {
+    "name": "Canada",
+    "query": "Canada",
+    "rank": 8,
+    "tweet_count": "316K Tweets"
+  },
+  {
     "name": "Glæder",
     "query": "Glæder",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Mali",
     "query": "Mali",
-    "rank": 9,
-    "tweet_count": "59.9K Tweets"
-  },
-  {
-    "name": "Xhaka",
-    "query": "Xhaka",
     "rank": 10,
-    "tweet_count": "2,919 Tweets"
+    "tweet_count": "60.8K Tweets"
   },
   {
     "name": "Neil Young",
@@ -72,51 +72,51 @@
     "tweet_count": null
   },
   {
-    "name": "orri",
-    "query": "orri",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
     "name": "Corona",
     "query": "Corona",
+    "rank": 13,
+    "tweet_count": "122K Tweets"
+  },
+  {
+    "name": "orri",
+    "query": "orri",
     "rank": 14,
-    "tweet_count": "120K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "MitID",
-    "query": "MitID",
+    "name": "Xhaka",
+    "query": "Xhaka",
     "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Sjælland",
-    "query": "Sjælland",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "2,979 Tweets"
   },
   {
     "name": "Svend",
     "query": "Svend",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Newcastle",
+    "query": "Newcastle",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "79.6K Tweets"
   },
   {
-    "name": "#dkpol",
-    "query": "#dkpol",
+    "name": "MitID",
+    "query": "MitID",
     "rank": 18,
-    "tweet_count": "3,550 Tweets"
-  },
-  {
-    "name": "#dkenergi",
-    "query": "#dkenergi",
-    "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Uber",
-    "query": "Uber",
+    "name": "Omikron",
+    "query": "Omikron",
+    "rank": 19,
+    "tweet_count": "22.7K Tweets"
+  },
+  {
+    "name": "sjælland",
+    "query": "sjælland",
     "rank": 20,
-    "tweet_count": "43.6K Tweets"
+    "tweet_count": null
   }
 ]

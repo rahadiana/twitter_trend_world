@@ -1,37 +1,37 @@
 [
   {
+    "name": "#Bachelor",
+    "query": "#Bachelor",
+    "rank": 1,
+    "tweet_count": "2,260 Tweets"
+  },
+  {
     "name": "#RicardaLang",
     "query": "#RicardaLang",
-    "rank": 1,
-    "tweet_count": "1,589 Tweets"
+    "rank": 2,
+    "tweet_count": "1,778 Tweets"
   },
   {
     "name": "#Impfpflicht",
     "query": "#Impfpflicht",
-    "rank": 2,
-    "tweet_count": "38.4K Tweets"
+    "rank": 3,
+    "tweet_count": "39.4K Tweets"
   },
   {
     "name": "#Bundestag",
     "query": "#Bundestag",
-    "rank": 3,
-    "tweet_count": "13.4K Tweets"
+    "rank": 4,
+    "tweet_count": "13.8K Tweets"
   },
   {
     "name": "Helme",
     "query": "Helme",
-    "rank": 4,
-    "tweet_count": "4,357 Tweets"
-  },
-  {
-    "name": "#Kubicki",
-    "query": "#Kubicki",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "4,483 Tweets"
   },
   {
-    "name": "#dasperfektedinner",
-    "query": "#dasperfektedinner",
+    "name": "#tvtotal",
+    "query": "#tvtotal",
     "rank": 6,
     "tweet_count": null
   },
@@ -39,7 +39,7 @@
     "name": "Debatte",
     "query": "Debatte",
     "rank": 7,
-    "tweet_count": "8,610 Tweets"
+    "tweet_count": "8,883 Tweets"
   },
   {
     "name": "Medizin und Recht",
@@ -51,7 +51,7 @@
     "name": "Ethik",
     "query": "Ethik",
     "rank": 9,
-    "tweet_count": "1,583 Tweets"
+    "tweet_count": "1,613 Tweets"
   },
   {
     "name": "Säbelrasseln",
@@ -63,19 +63,19 @@
     "name": "Abgeordneten",
     "query": "Abgeordneten",
     "rank": 11,
-    "tweet_count": "2,430 Tweets"
-  },
-  {
-    "name": "Ukrainer",
-    "query": "Ukrainer",
-    "rank": 12,
-    "tweet_count": null
+    "tweet_count": "2,473 Tweets"
   },
   {
     "name": "Gesundheitssystem",
     "query": "Gesundheitssystem",
+    "rank": 12,
+    "tweet_count": "1,868 Tweets"
+  },
+  {
+    "name": "Impfregister",
+    "query": "Impfregister",
     "rank": 13,
-    "tweet_count": "1,821 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Applaus",
@@ -84,8 +84,8 @@
     "tweet_count": null
   },
   {
-    "name": "impfregister",
-    "query": "impfregister",
+    "name": "Ukrainer",
+    "query": "Ukrainer",
     "rank": 15,
     "tweet_count": null
   },
@@ -99,24 +99,24 @@
     "name": "Felix",
     "query": "Felix",
     "rank": 17,
-    "tweet_count": "110K Tweets"
+    "tweet_count": "111K Tweets"
   },
   {
-    "name": "#MSVFCM",
-    "query": "#MSVFCM",
+    "name": "#dasperfektedinner",
+    "query": "#dasperfektedinner",
     "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "#CIVEGY",
-    "query": "#CIVEGY",
+    "name": "#Kubicki",
+    "query": "#Kubicki",
     "rank": 19,
-    "tweet_count": "18.7K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#Wagenknecht",
-    "query": "#Wagenknecht",
+    "name": "#MSVFCM",
+    "query": "#MSVFCM",
     "rank": 20,
-    "tweet_count": "1,198 Tweets"
+    "tweet_count": null
   }
 ]
