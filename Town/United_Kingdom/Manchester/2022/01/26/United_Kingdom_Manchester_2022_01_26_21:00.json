@@ -1,122 +1,122 @@
 [
   {
-    "name": "#TheBay",
-    "query": "#TheBay",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "West Brom",
     "query": "\"West Brom\"",
-    "rank": 2,
-    "tweet_count": "1,376 Tweets"
+    "rank": 1,
+    "tweet_count": "1,419 Tweets"
   },
   {
     "name": "#Corrie",
     "query": "#Corrie",
+    "rank": 2,
+    "tweet_count": "1,158 Tweets"
+  },
+  {
+    "name": "Stonewall",
+    "query": "Stonewall",
     "rank": 3,
-    "tweet_count": "1,147 Tweets"
+    "tweet_count": "2,868 Tweets"
+  },
+  {
+    "name": "#RealDailyBriefing",
+    "query": "#RealDailyBriefing",
+    "rank": 4,
+    "tweet_count": null
   },
   {
     "name": "Planet Coaster",
     "query": "\"Planet Coaster\"",
-    "rank": 4,
-    "tweet_count": "4,104 Tweets"
+    "rank": 5,
+    "tweet_count": "4,167 Tweets"
+  },
+  {
+    "name": "#FOMC",
+    "query": "#FOMC",
+    "rank": 6,
+    "tweet_count": "9,852 Tweets"
   },
   {
     "name": "Bacuna",
     "query": "Bacuna",
-    "rank": 5,
+    "rank": 7,
     "tweet_count": null
   },
   {
-    "name": "Afghan",
-    "query": "Afghan",
-    "rank": 6,
-    "tweet_count": "32.3K Tweets"
+    "name": "Kobe",
+    "query": "Kobe",
+    "rank": 8,
+    "tweet_count": "303K Tweets"
+  },
+  {
+    "name": "Afghans",
+    "query": "Afghans",
+    "rank": 9,
+    "tweet_count": "10.6K Tweets"
   },
   {
     "name": "#IWSGPit",
     "query": "#IWSGPit",
-    "rank": 7,
-    "tweet_count": "11.7K Tweets"
+    "rank": 10,
+    "tweet_count": "12K Tweets"
   },
   {
     "name": "#SueGrayDay",
     "query": "#SueGrayDay",
-    "rank": 8,
+    "rank": 11,
     "tweet_count": null
-  },
-  {
-    "name": "Jack Monroe",
-    "query": "\"Jack Monroe\"",
-    "rank": 9,
-    "tweet_count": "7,837 Tweets"
   },
   {
     "name": "Cornet",
     "query": "Cornet",
-    "rank": 10,
-    "tweet_count": "5,238 Tweets"
+    "rank": 12,
+    "tweet_count": "5,253 Tweets"
   },
   {
-    "name": "Ellis",
-    "query": "Ellis",
-    "rank": 11,
-    "tweet_count": "7,888 Tweets"
+    "name": "Jack Monroe",
+    "query": "\"Jack Monroe\"",
+    "rank": 13,
+    "tweet_count": "8,048 Tweets"
   },
   {
     "name": "Wilf",
     "query": "Wilf",
-    "rank": 12,
+    "rank": 14,
     "tweet_count": null
+  },
+  {
+    "name": "Ellis",
+    "query": "Ellis",
+    "rank": 15,
+    "tweet_count": "8,007 Tweets"
   },
   {
     "name": "Nowzad",
     "query": "Nowzad",
-    "rank": 13,
-    "tweet_count": "9,441 Tweets"
-  },
-  {
-    "name": "#womaninbizhour",
-    "query": "#womaninbizhour",
-    "rank": 14,
-    "tweet_count": "1,895 Tweets"
+    "rank": 16,
+    "tweet_count": "9,747 Tweets"
   },
   {
     "name": "Episode 5",
     "query": "\"Episode 5\"",
-    "rank": 15,
-    "tweet_count": "14K Tweets"
-  },
-  {
-    "name": "Elneny",
-    "query": "Elneny",
-    "rank": 16,
-    "tweet_count": "3,669 Tweets"
-  },
-  {
-    "name": "John Lewis",
-    "query": "\"John Lewis\"",
     "rank": 17,
-    "tweet_count": "2,469 Tweets"
+    "tweet_count": "14.1K Tweets"
   },
   {
     "name": "Sausage",
     "query": "Sausage",
     "rank": 18,
-    "tweet_count": "11.6K Tweets"
+    "tweet_count": "11.8K Tweets"
+  },
+  {
+    "name": "John Lewis",
+    "query": "\"John Lewis\"",
+    "rank": 19,
+    "tweet_count": "2,500 Tweets"
   },
   {
     "name": "Diaz",
     "query": "Diaz",
-    "rank": 19,
-    "tweet_count": "106K Tweets"
-  },
-  {
-    "name": "Kobe",
-    "query": "Kobe",
     "rank": 20,
-    "tweet_count": "298K Tweets"
+    "tweet_count": "107K Tweets"
   }
 ]
