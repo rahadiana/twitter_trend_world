@@ -3,19 +3,19 @@
     "name": "#Bundestag",
     "query": "#Bundestag",
     "rank": 1,
-    "tweet_count": "9,906 Tweets"
-  },
-  {
-    "name": "Helme",
-    "query": "Helme",
-    "rank": 2,
-    "tweet_count": "3,565 Tweets"
+    "tweet_count": "10.4K Tweets"
   },
   {
     "name": "#Impfpflicht",
     "query": "#Impfpflicht",
+    "rank": 2,
+    "tweet_count": "33.7K Tweets"
+  },
+  {
+    "name": "Helme",
+    "query": "Helme",
     "rank": 3,
-    "tweet_count": "32.8K Tweets"
+    "tweet_count": "3,657 Tweets"
   },
   {
     "name": "#Kubicki",
@@ -27,13 +27,13 @@
     "name": "Debatte",
     "query": "Debatte",
     "rank": 5,
-    "tweet_count": "7,302 Tweets"
+    "tweet_count": "7,513 Tweets"
   },
   {
-    "name": "#b2601",
-    "query": "#b2601",
+    "name": "#FirstDates",
+    "query": "#FirstDates",
     "rank": 6,
-    "tweet_count": "5,625 Tweets"
+    "tweet_count": "1,591 Tweets"
   },
   {
     "name": "#Wagenknecht",
@@ -51,7 +51,7 @@
     "name": "Ethik",
     "query": "Ethik",
     "rank": 9,
-    "tweet_count": "1,358 Tweets"
+    "tweet_count": "1,395 Tweets"
   },
   {
     "name": "Säbelrasseln",
@@ -63,7 +63,7 @@
     "name": "Abgeordneten",
     "query": "Abgeordneten",
     "rank": 11,
-    "tweet_count": "2,182 Tweets"
+    "tweet_count": "2,234 Tweets"
   },
   {
     "name": "Impfregister",
@@ -72,34 +72,34 @@
     "tweet_count": null
   },
   {
+    "name": "Gesundheitssystem",
+    "query": "Gesundheitssystem",
+    "rank": 13,
+    "tweet_count": "1,670 Tweets"
+  },
+  {
     "name": "Ukrainer",
     "query": "Ukrainer",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Dänemark",
     "query": "Dänemark",
-    "rank": 14,
-    "tweet_count": "6,312 Tweets"
+    "rank": 15,
+    "tweet_count": "6,431 Tweets"
   },
   {
     "name": "Hohn",
     "query": "Hohn",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Felix",
     "query": "Felix",
-    "rank": 16,
-    "tweet_count": "108K Tweets"
-  },
-  {
-    "name": "Lieferung",
-    "query": "Lieferung",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "109K Tweets"
   },
   {
     "name": "Applaus",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "#FirstDates",
-    "query": "#FirstDates",
+    "name": "Lieferung",
+    "query": "Lieferung",
     "rank": 19,
-    "tweet_count": "1,518 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#Weidel",
-    "query": "#Weidel",
+    "name": "#b2601",
+    "query": "#b2601",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "5,729 Tweets"
   }
 ]
