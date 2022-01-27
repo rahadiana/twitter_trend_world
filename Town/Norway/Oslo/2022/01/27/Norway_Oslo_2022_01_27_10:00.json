@@ -3,13 +3,13 @@
     "name": "Neil Young",
     "query": "\"Neil Young\"",
     "rank": 1,
-    "tweet_count": "248K Tweets"
+    "tweet_count": "250K Tweets"
   },
   {
-    "name": "harry styles",
-    "query": "\"harry styles\"",
+    "name": "Harry Styles",
+    "query": "\"Harry Styles\"",
     "rank": 2,
-    "tweet_count": "87.4K Tweets"
+    "tweet_count": "88.1K Tweets"
   },
   {
     "name": "Ove Thue",
@@ -18,20 +18,20 @@
     "tweet_count": null
   },
   {
-    "name": "#polkvart",
-    "query": "#polkvart",
+    "name": "rødt",
+    "query": "rødt",
     "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "HELFO",
-    "query": "HELFO",
+    "name": "#polkvart",
+    "query": "#polkvart",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "#2sjakk",
-    "query": "#2sjakk",
+    "name": "helfo",
+    "query": "helfo",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,22 +42,22 @@
     "tweet_count": null
   },
   {
-    "name": "Holocaust",
-    "query": "Holocaust",
+    "name": "#2sjakk",
+    "query": "#2sjakk",
     "rank": 8,
-    "tweet_count": "131K Tweets"
-  },
-  {
-    "name": "Rødt",
-    "query": "Rødt",
-    "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "acer",
-    "query": "acer",
+    "name": "Holocaust",
+    "query": "Holocaust",
+    "rank": 9,
+    "tweet_count": "133K Tweets"
+  },
+  {
+    "name": "Acer",
+    "query": "Acer",
     "rank": 10,
-    "tweet_count": "6,692 Tweets"
+    "tweet_count": "6,786 Tweets"
   },
   {
     "name": "Berge",
@@ -78,45 +78,45 @@
     "tweet_count": null
   },
   {
-    "name": "Vestfold",
-    "query": "Vestfold",
+    "name": "heidi weng",
+    "query": "\"heidi weng\"",
     "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "heidi weng",
-    "query": "\"heidi weng\"",
+    "name": "Deilig",
+    "query": "Deilig",
     "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "E134 Haukelifjell",
-    "query": "\"E134 Haukelifjell\"",
-    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Egypt",
     "query": "Egypt",
-    "rank": 17,
-    "tweet_count": "77.9K Tweets"
+    "rank": 16,
+    "tweet_count": "78.3K Tweets"
   },
   {
-    "name": "deilig",
-    "query": "deilig",
-    "rank": 18,
+    "name": "sylvi listhaug",
+    "query": "\"sylvi listhaug\"",
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Boba Fett",
     "query": "\"Boba Fett\"",
-    "rank": 19,
-    "tweet_count": "41.9K Tweets"
+    "rank": 18,
+    "tweet_count": "42K Tweets"
   },
   {
     "name": "Newcastle",
     "query": "Newcastle",
+    "rank": 19,
+    "tweet_count": "66.8K Tweets"
+  },
+  {
+    "name": "kjerkol",
+    "query": "kjerkol",
     "rank": 20,
-    "tweet_count": "66.4K Tweets"
+    "tweet_count": null
   }
 ]
