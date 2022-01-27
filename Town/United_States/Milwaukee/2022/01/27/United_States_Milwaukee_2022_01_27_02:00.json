@@ -1,122 +1,116 @@
 [
   {
-    "name": "Milwaukee",
-    "query": "Milwaukee",
-    "rank": 1,
-    "tweet_count": "8,464 Tweets"
-  },
-  {
     "name": "Donte",
     "query": "Donte",
-    "rank": 2,
-    "tweet_count": "1,004 Tweets"
+    "rank": 1,
+    "tweet_count": "1,105 Tweets"
   },
   {
-    "name": "#BeachBreak",
-    "query": "#BeachBreak",
+    "name": "Bobby",
+    "query": "Bobby",
+    "rank": 2,
+    "tweet_count": "76.3K Tweets"
+  },
+  {
+    "name": "Ron Johnson",
+    "query": "\"Ron Johnson\"",
     "rank": 3,
-    "tweet_count": "13.1K Tweets"
+    "tweet_count": "20.6K Tweets"
+  },
+  {
+    "name": "#AEWDynamite",
+    "query": "#AEWDynamite",
+    "rank": 4,
+    "tweet_count": "45.7K Tweets"
   },
   {
     "name": "Spotify",
     "query": "Spotify",
-    "rank": 4,
-    "tweet_count": "903K Tweets"
+    "rank": 5,
+    "tweet_count": "943K Tweets"
   },
   {
     "name": "#MAFS",
     "query": "#MAFS",
-    "rank": 5,
-    "tweet_count": "4,823 Tweets"
-  },
-  {
-    "name": "#Jeopardy",
-    "query": "#Jeopardy",
     "rank": 6,
-    "tweet_count": "3,693 Tweets"
+    "tweet_count": "8,622 Tweets"
   },
   {
-    "name": "Maus",
-    "query": "Maus",
+    "name": "#MarriedAtFirstSight",
+    "query": "#MarriedAtFirstSight",
     "rank": 7,
-    "tweet_count": "35.4K Tweets"
+    "tweet_count": "7,809 Tweets"
   },
   {
     "name": "Cavs",
     "query": "Cavs",
     "rank": 8,
-    "tweet_count": "20K Tweets"
-  },
-  {
-    "name": "#SecureTheTribe",
-    "query": "#SecureTheTribe",
-    "rank": 9,
-    "tweet_count": "36.3K Tweets"
+    "tweet_count": "26.1K Tweets"
   },
   {
     "name": "#SistasOnBET",
     "query": "#SistasOnBET",
+    "rank": 9,
+    "tweet_count": "6,915 Tweets"
+  },
+  {
+    "name": "#AEWBeachBreak",
+    "query": "#AEWBeachBreak",
     "rank": 10,
-    "tweet_count": "1,921 Tweets"
+    "tweet_count": "4,852 Tweets"
   },
   {
-    "name": "HAVE A PROBLEM",
-    "query": "\"HAVE A PROBLEM\"",
+    "name": "Neil Young",
+    "query": "\"Neil Young\"",
     "rank": 11,
-    "tweet_count": "45.8K Tweets"
+    "tweet_count": "193K Tweets"
   },
   {
-    "name": "Supreme Court",
-    "query": "\"Supreme Court\"",
+    "name": "Maus",
+    "query": "Maus",
     "rank": 12,
-    "tweet_count": "345K Tweets"
+    "tweet_count": "41K Tweets"
   },
   {
-    "name": "Charlie Moore",
-    "query": "\"Charlie Moore\"",
+    "name": "Thibs",
+    "query": "Thibs",
     "rank": 13,
-    "tweet_count": "1,178 Tweets"
+    "tweet_count": "4,336 Tweets"
   },
   {
-    "name": "D.A.R.E.",
-    "query": "D.A.R.E.",
+    "name": "Alyssa",
+    "query": "Alyssa",
     "rank": 14,
-    "tweet_count": "20.2K Tweets"
+    "tweet_count": "50.8K Tweets"
   },
   {
-    "name": "Minnie Mouse",
-    "query": "\"Minnie Mouse\"",
+    "name": "Sammy",
+    "query": "Sammy",
     "rank": 15,
-    "tweet_count": "3,284 Tweets"
+    "tweet_count": "41.2K Tweets"
   },
   {
-    "name": "Wardlow",
-    "query": "Wardlow",
+    "name": "DO WE HAVE A PROBLEM",
+    "query": "\"DO WE HAVE A PROBLEM\"",
     "rank": 16,
-    "tweet_count": "1,724 Tweets"
+    "tweet_count": "23.8K Tweets"
   },
   {
-    "name": "burks",
-    "query": "burks",
+    "name": "Joe Rogan",
+    "query": "\"Joe Rogan\"",
     "rank": 17,
-    "tweet_count": "2,277 Tweets"
+    "tweet_count": "140K Tweets"
   },
   {
-    "name": "Calendly",
-    "query": "Calendly",
+    "name": "Hornets",
+    "query": "Hornets",
     "rank": 18,
-    "tweet_count": "1,328 Tweets"
+    "tweet_count": "9,852 Tweets"
   },
   {
-    "name": "Cedi",
-    "query": "Cedi",
+    "name": "Randle",
+    "query": "Randle",
     "rank": 19,
-    "tweet_count": "2,003 Tweets"
-  },
-  {
-    "name": "Northwestern",
-    "query": "Northwestern",
-    "rank": 20,
-    "tweet_count": "3,419 Tweets"
+    "tweet_count": "6,642 Tweets"
   }
 ]
