@@ -1,39 +1,39 @@
 [
   {
-    "name": "Spotify",
-    "query": "Spotify",
-    "rank": 1,
-    "tweet_count": "1.02M Tweets"
-  },
-  {
     "name": "Förintelsens",
     "query": "Förintelsens",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Spotify",
+    "query": "Spotify",
+    "rank": 2,
+    "tweet_count": "1.03M Tweets"
   },
   {
     "name": "Sabuni",
     "query": "Sabuni",
     "rank": 3,
-    "tweet_count": "1,737 Tweets"
+    "tweet_count": "1,770 Tweets"
   },
   {
     "name": "#WeRemember",
     "query": "#WeRemember",
     "rank": 4,
-    "tweet_count": "28.7K Tweets"
+    "tweet_count": "30.7K Tweets"
   },
   {
     "name": "Tjärna Ängar",
     "query": "\"Tjärna Ängar\"",
     "rank": 5,
-    "tweet_count": "1,957 Tweets"
+    "tweet_count": "1,985 Tweets"
   },
   {
-    "name": "#HolocaustMemorialDay",
-    "query": "#HolocaustMemorialDay",
+    "name": "Auschwitz",
+    "query": "Auschwitz",
     "rank": 6,
-    "tweet_count": "33.1K Tweets"
+    "tweet_count": "74.7K Tweets"
   },
   {
     "name": "Svenskt Näringsliv",
@@ -42,16 +42,16 @@
     "tweet_count": null
   },
   {
-    "name": "Powell",
-    "query": "Powell",
-    "rank": 8,
-    "tweet_count": "68.6K Tweets"
-  },
-  {
     "name": "Liberalerna",
     "query": "Liberalerna",
+    "rank": 8,
+    "tweet_count": "1,630 Tweets"
+  },
+  {
+    "name": "Powell",
+    "query": "Powell",
     "rank": 9,
-    "tweet_count": "1,587 Tweets"
+    "tweet_count": "69K Tweets"
   },
   {
     "name": "Borlänge",
@@ -60,63 +60,63 @@
     "tweet_count": null
   },
   {
-    "name": "Socialdemokraterna",
-    "query": "Socialdemokraterna",
-    "rank": 11,
-    "tweet_count": "2,197 Tweets"
-  },
-  {
-    "name": "harry styles",
-    "query": "\"harry styles\"",
-    "rank": 12,
-    "tweet_count": "86.2K Tweets"
-  },
-  {
     "name": "chrintz",
     "query": "chrintz",
-    "rank": 13,
+    "rank": 11,
     "tweet_count": null
+  },
+  {
+    "name": "Socialdemokraterna",
+    "query": "Socialdemokraterna",
+    "rank": 12,
+    "tweet_count": "2,217 Tweets"
   },
   {
     "name": "Evelina",
     "query": "Evelina",
-    "rank": 14,
-    "tweet_count": "1,287 Tweets"
+    "rank": 13,
+    "tweet_count": "1,301 Tweets"
   },
   {
     "name": "#BenidormFest",
     "query": "#BenidormFest",
-    "rank": 15,
-    "tweet_count": "234K Tweets"
+    "rank": 14,
+    "tweet_count": "236K Tweets"
   },
   {
     "name": "Metall",
     "query": "Metall",
-    "rank": 16,
-    "tweet_count": "1,503 Tweets"
+    "rank": 15,
+    "tweet_count": "1,537 Tweets"
   },
   {
     "name": "William",
     "query": "William",
+    "rank": 16,
+    "tweet_count": "64.5K Tweets"
+  },
+  {
+    "name": "Emanuel",
+    "query": "Emanuel",
     "rank": 17,
-    "tweet_count": "63.9K Tweets"
+    "tweet_count": "3,813 Tweets"
   },
   {
     "name": "#SecureTheTribe",
     "query": "#SecureTheTribe",
     "rank": 18,
-    "tweet_count": "194K Tweets"
+    "tweet_count": "208K Tweets"
+  },
+  {
+    "name": "harry styles",
+    "query": "\"harry styles\"",
+    "rank": 19,
+    "tweet_count": "87.3K Tweets"
   },
   {
     "name": "Hemvärnet",
     "query": "Hemvärnet",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Emanuel",
-    "query": "Emanuel",
     "rank": 20,
-    "tweet_count": "3,764 Tweets"
+    "tweet_count": null
   }
 ]
