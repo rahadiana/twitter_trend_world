@@ -1,21 +1,21 @@
 [
   {
-    "name": "Solvang",
-    "query": "Solvang",
+    "name": "Neil Young",
+    "query": "\"Neil Young\"",
     "rank": 1,
+    "tweet_count": "301K Tweets"
+  },
+  {
+    "name": "#polkvart",
+    "query": "#polkvart",
+    "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "Neil Young",
-    "query": "\"Neil Young\"",
-    "rank": 2,
-    "tweet_count": "295K Tweets"
-  },
-  {
-    "name": "#iHeartAwards",
-    "query": "#iHeartAwards",
+    "name": "Fredrik Solvang",
+    "query": "\"Fredrik Solvang\"",
     "rank": 3,
-    "tweet_count": "1.1M Tweets"
+    "tweet_count": null
   },
   {
     "name": "Rødt",
@@ -24,93 +24,93 @@
     "tweet_count": null
   },
   {
-    "name": "#polkvart",
-    "query": "#polkvart",
+    "name": "#HolocaustMemorialDay",
+    "query": "#HolocaustMemorialDay",
     "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Adama",
-    "query": "Adama",
-    "rank": 6,
-    "tweet_count": "69.9K Tweets"
-  },
-  {
-    "name": "Holocaust",
-    "query": "Holocaust",
-    "rank": 7,
-    "tweet_count": "256K Tweets"
+    "tweet_count": "103K Tweets"
   },
   {
     "name": "Kondolerer",
     "query": "Kondolerer",
-    "rank": 8,
+    "rank": 6,
     "tweet_count": null
   },
   {
-    "name": "ove thue",
-    "query": "\"ove thue\"",
-    "rank": 9,
+    "name": "Ove Thue",
+    "query": "\"Ove Thue\"",
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Helfo",
     "query": "Helfo",
-    "rank": 10,
+    "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "#brennpunkt",
-    "query": "#brennpunkt",
-    "rank": 11,
+    "name": "#Brennpunkt",
+    "query": "#Brennpunkt",
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Germany",
     "query": "Germany",
-    "rank": 12,
-    "tweet_count": "98.3K Tweets"
+    "rank": 10,
+    "tweet_count": "101K Tweets"
   },
   {
-    "name": "e134 haukelifjell",
-    "query": "\"e134 haukelifjell\"",
+    "name": "Egypt",
+    "query": "Egypt",
+    "rank": 11,
+    "tweet_count": "68.2K Tweets"
+  },
+  {
+    "name": "Benjamin",
+    "query": "Benjamin",
+    "rank": 12,
+    "tweet_count": "23K Tweets"
+  },
+  {
+    "name": "Usikker",
+    "query": "Usikker",
     "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Bodø",
+    "query": "Bodø",
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Molde",
     "query": "Molde",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Kurt",
-    "query": "Kurt",
     "rank": 15,
-    "tweet_count": "23.3K Tweets"
-  },
-  {
-    "name": "Egypt",
-    "query": "Egypt",
-    "rank": 16,
-    "tweet_count": "67.5K Tweets"
-  },
-  {
-    "name": "Benjamin",
-    "query": "Benjamin",
-    "rank": 17,
-    "tweet_count": "22.5K Tweets"
-  },
-  {
-    "name": "Bodø",
-    "query": "Bodø",
-    "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "Viken",
-    "query": "Viken",
+    "name": "Erna Solberg",
+    "query": "\"Erna Solberg\"",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Traore",
+    "query": "Traore",
+    "rank": 17,
+    "tweet_count": "49.1K Tweets"
+  },
+  {
+    "name": "voss",
+    "query": "voss",
+    "rank": 18,
+    "tweet_count": "1,851 Tweets"
+  },
+  {
+    "name": "heiberg",
+    "query": "heiberg",
     "rank": 19,
-    "tweet_count": "7,738 Tweets"
+    "tweet_count": null
   }
 ]
