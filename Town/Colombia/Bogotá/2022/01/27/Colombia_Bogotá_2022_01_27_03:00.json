@@ -1,69 +1,69 @@
 [
   {
-    "name": "Cali",
-    "query": "Cali",
-    "rank": 1,
-    "tweet_count": "35.9K Tweets"
-  },
-  {
     "name": "Embera",
     "query": "Embera",
+    "rank": 1,
+    "tweet_count": "13.6K Tweets"
+  },
+  {
+    "name": "Junior",
+    "query": "Junior",
     "rank": 2,
-    "tweet_count": "13.5K Tweets"
+    "tweet_count": "76.6K Tweets"
   },
   {
     "name": "Mantilla",
     "query": "Mantilla",
     "rank": 3,
-    "tweet_count": "2,329 Tweets"
-  },
-  {
-    "name": "Junior",
-    "query": "Junior",
-    "rank": 4,
-    "tweet_count": "75.7K Tweets"
+    "tweet_count": "2,450 Tweets"
   },
   {
     "name": "#UribeLa13NoTeQuiere",
     "query": "#UribeLa13NoTeQuiere",
-    "rank": 5,
-    "tweet_count": "12.1K Tweets"
+    "rank": 4,
+    "tweet_count": "12.5K Tweets"
   },
   {
     "name": "Albornoz",
     "query": "Albornoz",
-    "rank": 6,
-    "tweet_count": "1,773 Tweets"
+    "rank": 5,
+    "tweet_count": "1,803 Tweets"
   },
   {
     "name": "Fuentes",
     "query": "Fuentes",
-    "rank": 7,
-    "tweet_count": "16.4K Tweets"
+    "rank": 6,
+    "tweet_count": "16.6K Tweets"
   },
   {
     "name": "#LaNietaElegida",
     "query": "#LaNietaElegida",
+    "rank": 7,
+    "tweet_count": "3,099 Tweets"
+  },
+  {
+    "name": "Dorlan",
+    "query": "Dorlan",
     "rank": 8,
-    "tweet_count": "2,987 Tweets"
+    "tweet_count": "1,141 Tweets"
   },
   {
     "name": "Velasco",
     "query": "Velasco",
     "rank": 9,
-    "tweet_count": "4,753 Tweets"
-  },
-  {
-    "name": "Dorlan",
-    "query": "Dorlan",
-    "rank": 10,
-    "tweet_count": "1,049 Tweets"
+    "tweet_count": "4,797 Tweets"
   },
   {
     "name": "Jarlan",
     "query": "Jarlan",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
+  },
+  {
+    "name": "Restrepo",
+    "query": "Restrepo",
+    "rank": 11,
+    "tweet_count": "2,769 Tweets"
   },
   {
     "name": "#ArelysHenao",
@@ -78,45 +78,45 @@
     "tweet_count": null
   },
   {
-    "name": "Restrepo",
-    "query": "Restrepo",
+    "name": "Viera",
+    "query": "Viera",
     "rank": 14,
-    "tweet_count": "2,709 Tweets"
-  },
-  {
-    "name": "viera",
-    "query": "viera",
-    "rank": 15,
-    "tweet_count": "8,246 Tweets"
+    "tweet_count": "8,353 Tweets"
   },
   {
     "name": "Giraldo",
     "query": "Giraldo",
-    "rank": 16,
-    "tweet_count": "1,524 Tweets"
+    "rank": 15,
+    "tweet_count": "1,547 Tweets"
   },
   {
     "name": "Mera",
     "query": "Mera",
-    "rank": 17,
-    "tweet_count": "51.2K Tweets"
+    "rank": 16,
+    "tweet_count": "51.5K Tweets"
   },
   {
     "name": "Didier",
     "query": "Didier",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": "12K Tweets"
   },
   {
-    "name": "Castrillón",
-    "query": "Castrillón",
+    "name": "Piketty",
+    "query": "Piketty",
+    "rank": 18,
+    "tweet_count": "2,128 Tweets"
+  },
+  {
+    "name": "Juan Cruz Real",
+    "query": "\"Juan Cruz Real\"",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Juan Cruz",
-    "query": "\"Juan Cruz\"",
+    "name": "Castrillón",
+    "query": "Castrillón",
     "rank": 20,
-    "tweet_count": "1,593 Tweets"
+    "tweet_count": null
   }
 ]
