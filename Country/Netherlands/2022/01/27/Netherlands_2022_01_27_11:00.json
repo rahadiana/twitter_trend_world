@@ -1,63 +1,63 @@
 [
   {
-    "name": "#gedichtendag",
-    "query": "#gedichtendag",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Hans Teeuwen",
     "query": "\"Hans Teeuwen\"",
+    "rank": 1,
+    "tweet_count": "1,068 Tweets"
+  },
+  {
+    "name": "#gedichtendag",
+    "query": "#gedichtendag",
     "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "#HolocaustMemorialDay",
-    "query": "#HolocaustMemorialDay",
-    "rank": 3,
-    "tweet_count": "41.7K Tweets"
-  },
-  {
     "name": "#RutteMoetWeg",
     "query": "#RutteMoetWeg",
+    "rank": 3,
+    "tweet_count": "1,282 Tweets"
+  },
+  {
+    "name": "#HolocaustMemorialDay",
+    "query": "#HolocaustMemorialDay",
     "rank": 4,
-    "tweet_count": "1,213 Tweets"
+    "tweet_count": "43.5K Tweets"
   },
   {
     "name": "Goedemorgen",
     "query": "Goedemorgen",
     "rank": 5,
-    "tweet_count": "6,980 Tweets"
-  },
-  {
-    "name": "Spotify",
-    "query": "Spotify",
-    "rank": 6,
-    "tweet_count": "1.02M Tweets"
+    "tweet_count": "7,003 Tweets"
   },
   {
     "name": "#SecureTheTribe",
     "query": "#SecureTheTribe",
-    "rank": 7,
-    "tweet_count": "233K Tweets"
+    "rank": 6,
+    "tweet_count": "242K Tweets"
   },
   {
-    "name": "#TruckersForFreedom2022",
-    "query": "#TruckersForFreedom2022",
-    "rank": 8,
-    "tweet_count": "15.6K Tweets"
+    "name": "Spotify",
+    "query": "Spotify",
+    "rank": 7,
+    "tweet_count": "1.03M Tweets"
   },
   {
     "name": "Canada",
     "query": "Canada",
+    "rank": 8,
+    "tweet_count": "361K Tweets"
+  },
+  {
+    "name": "#Poezieweek",
+    "query": "#Poezieweek",
     "rank": 9,
-    "tweet_count": "359K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Trudeau",
     "query": "Trudeau",
     "rank": 10,
-    "tweet_count": "138K Tweets"
+    "tweet_count": "139K Tweets"
   },
   {
     "name": "Bolkestein",
@@ -69,18 +69,24 @@
     "name": "Sahla",
     "query": "Sahla",
     "rank": 12,
-    "tweet_count": "6,504 Tweets"
+    "tweet_count": "6,570 Tweets"
   },
   {
-    "name": "#TruckerConvoy2022",
-    "query": "#TruckerConvoy2022",
+    "name": "#TruckersForFreedom2022",
+    "query": "#TruckersForFreedom2022",
     "rank": 13,
-    "tweet_count": "31.4K Tweets"
+    "tweet_count": "15.8K Tweets"
   },
   {
     "name": "#coronatoegangsbewijs",
     "query": "#coronatoegangsbewijs",
     "rank": 14,
-    "tweet_count": "1,978 Tweets"
+    "tweet_count": "2,065 Tweets"
+  },
+  {
+    "name": "#TruckerConvoy2022",
+    "query": "#TruckerConvoy2022",
+    "rank": 15,
+    "tweet_count": "31.7K Tweets"
   }
 ]

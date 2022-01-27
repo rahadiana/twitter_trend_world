@@ -1,57 +1,57 @@
 [
   {
-    "name": "Förintelsens",
-    "query": "Förintelsens",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Spotify",
     "query": "Spotify",
-    "rank": 2,
-    "tweet_count": "1.02M Tweets"
+    "rank": 1,
+    "tweet_count": "1.03M Tweets"
   },
   {
     "name": "Sabuni",
     "query": "Sabuni",
+    "rank": 2,
+    "tweet_count": "1,845 Tweets"
+  },
+  {
+    "name": "Förintelsens",
+    "query": "Förintelsens",
     "rank": 3,
-    "tweet_count": "1,819 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Tjärna Ängar",
     "query": "\"Tjärna Ängar\"",
     "rank": 4,
-    "tweet_count": "1,959 Tweets"
+    "tweet_count": "1,982 Tweets"
   },
   {
     "name": "Auschwitz",
     "query": "Auschwitz",
     "rank": 5,
-    "tweet_count": "80.5K Tweets"
+    "tweet_count": "83.2K Tweets"
   },
   {
     "name": "#WeRemember",
     "query": "#WeRemember",
     "rank": 6,
-    "tweet_count": "33.5K Tweets"
+    "tweet_count": "34.9K Tweets"
+  },
+  {
+    "name": "#SecureTheTribe",
+    "query": "#SecureTheTribe",
+    "rank": 7,
+    "tweet_count": "241K Tweets"
   },
   {
     "name": "Svenskt Näringsliv",
     "query": "\"Svenskt Näringsliv\"",
-    "rank": 7,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Liberalerna",
     "query": "Liberalerna",
-    "rank": 8,
-    "tweet_count": "1,656 Tweets"
-  },
-  {
-    "name": "#SecureTheTribe",
-    "query": "#SecureTheTribe",
     "rank": 9,
-    "tweet_count": "232K Tweets"
+    "tweet_count": "1,694 Tweets"
   },
   {
     "name": "Borlänge",
@@ -63,13 +63,13 @@
     "name": "Powell",
     "query": "Powell",
     "rank": 11,
-    "tweet_count": "68.9K Tweets"
+    "tweet_count": "69.2K Tweets"
   },
   {
     "name": "Socialdemokraterna",
     "query": "Socialdemokraterna",
     "rank": 12,
-    "tweet_count": "2,167 Tweets"
+    "tweet_count": "2,189 Tweets"
   },
   {
     "name": "chrintz",
@@ -81,19 +81,19 @@
     "name": "#BenidormFest",
     "query": "#BenidormFest",
     "rank": 14,
-    "tweet_count": "235K Tweets"
+    "tweet_count": "236K Tweets"
   },
   {
     "name": "Emanuel",
     "query": "Emanuel",
     "rank": 15,
-    "tweet_count": "3,780 Tweets"
+    "tweet_count": "3,805 Tweets"
   },
   {
     "name": "Metall",
     "query": "Metall",
     "rank": 16,
-    "tweet_count": "1,496 Tweets"
+    "tweet_count": "1,515 Tweets"
   },
   {
     "name": "Arlanda",
@@ -105,6 +105,6 @@
     "name": "#NeverForget",
     "query": "#NeverForget",
     "rank": 18,
-    "tweet_count": "9,107 Tweets"
+    "tweet_count": "9,301 Tweets"
   }
 ]
