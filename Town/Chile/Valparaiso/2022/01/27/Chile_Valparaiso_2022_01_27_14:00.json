@@ -1,39 +1,39 @@
 [
   {
-    "name": "Martorell",
-    "query": "Martorell",
+    "name": "martorell",
+    "query": "martorell",
     "rank": 1,
-    "tweet_count": "1,899 Tweets"
-  },
-  {
-    "name": "Dibu Martínez",
-    "query": "\"Dibu Martínez\"",
-    "rank": 2,
-    "tweet_count": "14K Tweets"
+    "tweet_count": "1,979 Tweets"
   },
   {
     "name": "Mike Patton",
     "query": "\"Mike Patton\"",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "Renca",
-    "query": "Renca",
-    "rank": 4,
-    "tweet_count": "1,622 Tweets"
+    "name": "Dibu Martínez",
+    "query": "\"Dibu Martínez\"",
+    "rank": 3,
+    "tweet_count": "14.3K Tweets"
   },
   {
     "name": "Argentina",
     "query": "Argentina",
+    "rank": 4,
+    "tweet_count": "129K Tweets"
+  },
+  {
+    "name": "Renca",
+    "query": "Renca",
     "rank": 5,
-    "tweet_count": "127K Tweets"
+    "tweet_count": "1,694 Tweets"
   },
   {
     "name": "Calama",
     "query": "Calama",
     "rank": 6,
-    "tweet_count": "6,494 Tweets"
+    "tweet_count": "6,645 Tweets"
   },
   {
     "name": "Castrilli",
@@ -42,40 +42,40 @@
     "tweet_count": null
   },
   {
+    "name": "Neil Young",
+    "query": "\"Neil Young\"",
+    "rank": 8,
+    "tweet_count": "282K Tweets"
+  },
+  {
     "name": "Jadue",
     "query": "Jadue",
-    "rank": 8,
-    "tweet_count": "2,568 Tweets"
+    "rank": 9,
+    "tweet_count": "2,619 Tweets"
   },
   {
     "name": "Tarapacá",
     "query": "Tarapacá",
-    "rank": 9,
-    "tweet_count": "10.9K Tweets"
+    "rank": 10,
+    "tweet_count": "11K Tweets"
   },
   {
-    "name": "Neil Young",
-    "query": "\"Neil Young\"",
-    "rank": 10,
-    "tweet_count": "278K Tweets"
+    "name": "Delgado",
+    "query": "Delgado",
+    "rank": 11,
+    "tweet_count": "25.2K Tweets"
   },
   {
     "name": "#MuchoGustoMega",
     "query": "#MuchoGustoMega",
-    "rank": 11,
-    "tweet_count": "2,791 Tweets"
+    "rank": 12,
+    "tweet_count": "3,202 Tweets"
   },
   {
     "name": "#ContigoCHV",
     "query": "#ContigoCHV",
-    "rank": 12,
-    "tweet_count": "5,626 Tweets"
-  },
-  {
-    "name": "#FelizJueves",
-    "query": "#FelizJueves",
     "rank": 13,
-    "tweet_count": "11.7K Tweets"
+    "tweet_count": "5,743 Tweets"
   },
   {
     "name": "#AutopiZtaDeRadioZeta",
@@ -84,9 +84,9 @@
     "tweet_count": null
   },
   {
-    "name": "#cafeconnata",
-    "query": "#cafeconnata",
+    "name": "#FelizJueves",
+    "query": "#FelizJueves",
     "rank": 15,
-    "tweet_count": null
+    "tweet_count": "12.2K Tweets"
   }
 ]
