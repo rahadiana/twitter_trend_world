@@ -3,7 +3,7 @@
     "name": "Neil Young",
     "query": "\"Neil Young\"",
     "rank": 1,
-    "tweet_count": "325K Tweets"
+    "tweet_count": "329K Tweets"
   },
   {
     "name": "Solvang",
@@ -12,16 +12,16 @@
     "tweet_count": null
   },
   {
-    "name": "Rødt",
-    "query": "Rødt",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
     "name": "#iHeartAwards",
     "query": "#iHeartAwards",
+    "rank": 3,
+    "tweet_count": "1.81M Tweets"
+  },
+  {
+    "name": "rødt",
+    "query": "rødt",
     "rank": 4,
-    "tweet_count": "1.77M Tweets"
+    "tweet_count": null
   },
   {
     "name": "#polkvart",
@@ -33,7 +33,7 @@
     "name": "Holocaust",
     "query": "Holocaust",
     "rank": 6,
-    "tweet_count": "331K Tweets"
+    "tweet_count": "337K Tweets"
   },
   {
     "name": "#dagsrevyen",
@@ -48,16 +48,16 @@
     "tweet_count": null
   },
   {
-    "name": "Ove Thue",
-    "query": "\"Ove Thue\"",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
     "name": "Adama",
     "query": "Adama",
+    "rank": 9,
+    "tweet_count": "94.6K Tweets"
+  },
+  {
+    "name": "Barca",
+    "query": "Barca",
     "rank": 10,
-    "tweet_count": "92.6K Tweets"
+    "tweet_count": "86.7K Tweets"
   },
   {
     "name": "Helfo",
@@ -72,51 +72,51 @@
     "tweet_count": null
   },
   {
-    "name": "Barca",
-    "query": "Barca",
+    "name": "Debatten",
+    "query": "Debatten",
     "rank": 13,
-    "tweet_count": "85.3K Tweets"
+    "tweet_count": "1,682 Tweets"
+  },
+  {
+    "name": "Ove Thue",
+    "query": "\"Ove Thue\"",
+    "rank": 14,
+    "tweet_count": null
   },
   {
     "name": "Jehovas Vitner",
     "query": "\"Jehovas Vitner\"",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "e134 haukelifjell",
     "query": "\"e134 haukelifjell\"",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Debatten",
-    "query": "Debatten",
     "rank": 16,
-    "tweet_count": "1,660 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Kurt",
     "query": "Kurt",
     "rank": 17,
-    "tweet_count": "24.5K Tweets"
+    "tweet_count": "24.9K Tweets"
   },
   {
     "name": "Viken",
     "query": "Viken",
     "rank": 18,
-    "tweet_count": "9,228 Tweets"
+    "tweet_count": "9,259 Tweets"
+  },
+  {
+    "name": "Maus",
+    "query": "Maus",
+    "rank": 19,
+    "tweet_count": "130K Tweets"
   },
   {
     "name": "OpenSea",
     "query": "OpenSea",
-    "rank": 19,
-    "tweet_count": "487K Tweets"
-  },
-  {
-    "name": "Benjamin",
-    "query": "Benjamin",
     "rank": 20,
-    "tweet_count": "22.4K Tweets"
+    "tweet_count": "493K Tweets"
   }
 ]
