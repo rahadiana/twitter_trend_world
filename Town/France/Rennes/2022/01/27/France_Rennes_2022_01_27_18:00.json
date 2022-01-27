@@ -1,39 +1,39 @@
 [
   {
-    "name": "Faivre",
-    "query": "Faivre",
-    "rank": 1,
-    "tweet_count": "4,494 Tweets"
-  },
-  {
     "name": "#KCORP",
     "query": "#KCORP",
+    "rank": 1,
+    "tweet_count": "10.9K Tweets"
+  },
+  {
+    "name": "Faivre",
+    "query": "Faivre",
     "rank": 2,
-    "tweet_count": "9,379 Tweets"
+    "tweet_count": "4,737 Tweets"
   },
   {
     "name": "#iHeartAwards",
     "query": "#iHeartAwards",
     "rank": 3,
-    "tweet_count": "1.5M Tweets"
+    "tweet_count": "1.59M Tweets"
   },
   {
     "name": "Colman",
     "query": "Colman",
     "rank": 4,
-    "tweet_count": "9,035 Tweets"
+    "tweet_count": "9,358 Tweets"
   },
   {
     "name": "#avecvous",
     "query": "#avecvous",
     "rank": 5,
-    "tweet_count": "3,371 Tweets"
+    "tweet_count": "3,625 Tweets"
   },
   {
     "name": "Donda 2",
     "query": "\"Donda 2\"",
     "rank": 6,
-    "tweet_count": "17.4K Tweets"
+    "tweet_count": "20K Tweets"
   },
   {
     "name": "Skhiri",
@@ -45,17 +45,17 @@
     "name": "Georgina",
     "query": "Georgina",
     "rank": 8,
-    "tweet_count": "8,846 Tweets"
+    "tweet_count": "9,654 Tweets"
   },
   {
     "name": "Marcelo",
     "query": "Marcelo",
     "rank": 9,
-    "tweet_count": "26.9K Tweets"
+    "tweet_count": "27.5K Tweets"
   },
   {
-    "name": "Guilavogui",
-    "query": "Guilavogui",
+    "name": "guilavogui",
+    "query": "guilavogui",
     "rank": 10,
     "tweet_count": null
   },
@@ -63,42 +63,42 @@
     "name": "Aouar",
     "query": "Aouar",
     "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Ambroise",
-    "query": "Ambroise",
-    "rank": 12,
-    "tweet_count": "11K Tweets"
-  },
-  {
-    "name": "Shoah",
-    "query": "Shoah",
-    "rank": 13,
-    "tweet_count": "25.3K Tweets"
-  },
-  {
-    "name": "MARK LEE",
-    "query": "\"MARK LEE\"",
-    "rank": 14,
-    "tweet_count": "209K Tweets"
-  },
-  {
-    "name": "René de Obaldia",
-    "query": "\"René de Obaldia\"",
-    "rank": 15,
-    "tweet_count": null
+    "tweet_count": "1,028 Tweets"
   },
   {
     "name": "Mexer",
     "query": "Mexer",
-    "rank": 16,
-    "tweet_count": "7,416 Tweets"
+    "rank": 12,
+    "tweet_count": "7,576 Tweets"
   },
   {
-    "name": "Guimaraes",
-    "query": "Guimaraes",
+    "name": "Ambroise",
+    "query": "Ambroise",
+    "rank": 13,
+    "tweet_count": "11.3K Tweets"
+  },
+  {
+    "name": "Sporting",
+    "query": "Sporting",
+    "rank": 14,
+    "tweet_count": "29K Tweets"
+  },
+  {
+    "name": "Shoah",
+    "query": "Shoah",
+    "rank": 15,
+    "tweet_count": "26.1K Tweets"
+  },
+  {
+    "name": "Attali",
+    "query": "Attali",
+    "rank": 16,
+    "tweet_count": "2,131 Tweets"
+  },
+  {
+    "name": "René de Obaldia",
+    "query": "\"René de Obaldia\"",
     "rank": 17,
-    "tweet_count": "15.8K Tweets"
+    "tweet_count": null
   }
 ]
