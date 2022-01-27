@@ -1,15 +1,15 @@
 [
   {
-    "name": "Neil Young",
-    "query": "\"Neil Young\"",
-    "rank": 1,
-    "tweet_count": "260K Tweets"
-  },
-  {
     "name": "Come to Copenhagen",
     "query": "\"Come to Copenhagen\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Neil Young",
+    "query": "\"Neil Young\"",
+    "rank": 2,
+    "tweet_count": "267K Tweets"
   },
   {
     "name": "højlund",
@@ -24,44 +24,44 @@
     "tweet_count": null
   },
   {
-    "name": "Ukraines",
-    "query": "Ukraines",
-    "rank": 5,
-    "tweet_count": "1,993 Tweets"
-  },
-  {
     "name": "Amoo",
     "query": "Amoo",
-    "rank": 6,
-    "tweet_count": "10.4K Tweets"
-  },
-  {
-    "name": "Xhaka",
-    "query": "Xhaka",
-    "rank": 7,
-    "tweet_count": "2,579 Tweets"
+    "rank": 5,
+    "tweet_count": "10.6K Tweets"
   },
   {
     "name": "Denmark",
     "query": "Denmark",
-    "rank": 8,
-    "tweet_count": "66.1K Tweets"
+    "rank": 6,
+    "tweet_count": "66.8K Tweets"
   },
   {
     "name": "#obdk",
     "query": "#obdk",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Glæder",
-    "query": "Glæder",
-    "rank": 10,
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "#COVID19dk",
     "query": "#COVID19dk",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "#dkøko",
+    "query": "#dkøko",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Xhaka",
+    "query": "Xhaka",
+    "rank": 10,
+    "tweet_count": "2,687 Tweets"
+  },
+  {
+    "name": "glæder",
+    "query": "glæder",
     "rank": 11,
     "tweet_count": null
   },
@@ -72,10 +72,10 @@
     "tweet_count": null
   },
   {
-    "name": "Mali",
-    "query": "Mali",
+    "name": "Frankrig",
+    "query": "Frankrig",
     "rank": 13,
-    "tweet_count": "97K Tweets"
+    "tweet_count": null
   },
   {
     "name": "sjælland",
@@ -84,39 +84,39 @@
     "tweet_count": null
   },
   {
-    "name": "Frankrig",
-    "query": "Frankrig",
+    "name": "Mali",
+    "query": "Mali",
     "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Mette",
-    "query": "Mette",
-    "rank": 16,
-    "tweet_count": "26.7K Tweets"
-  },
-  {
-    "name": "mitid",
-    "query": "mitid",
-    "rank": 17,
-    "tweet_count": null
+    "tweet_count": "98.4K Tweets"
   },
   {
     "name": "Uber",
     "query": "Uber",
-    "rank": 18,
-    "tweet_count": "48.1K Tweets"
+    "rank": 16,
+    "tweet_count": "49.5K Tweets"
+  },
+  {
+    "name": "pelle",
+    "query": "pelle",
+    "rank": 17,
+    "tweet_count": "3,203 Tweets"
   },
   {
     "name": "Svend",
     "query": "Svend",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "mitid",
+    "query": "mitid",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Pelle",
-    "query": "Pelle",
+    "name": "Roony",
+    "query": "Roony",
     "rank": 20,
-    "tweet_count": "3,132 Tweets"
+    "tweet_count": null
   }
 ]
