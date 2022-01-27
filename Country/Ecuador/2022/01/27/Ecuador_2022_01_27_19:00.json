@@ -3,7 +3,7 @@
     "name": "#iHeartAwards",
     "query": "#iHeartAwards",
     "rank": 1,
-    "tweet_count": "1.74M Tweets"
+    "tweet_count": "1.77M Tweets"
   },
   {
     "name": "#LaTrixECDF",
@@ -12,28 +12,28 @@
     "tweet_count": null
   },
   {
-    "name": "Efraín",
-    "query": "Efraín",
-    "rank": 3,
-    "tweet_count": "3,667 Tweets"
-  },
-  {
     "name": "Alejandra Jaramillo",
     "query": "\"Alejandra Jaramillo\"",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
+  },
+  {
+    "name": "Efraín Ruales",
+    "query": "\"Efraín Ruales\"",
+    "rank": 4,
+    "tweet_count": "1,287 Tweets"
   },
   {
     "name": "#NocheAmarilla",
     "query": "#NocheAmarilla",
     "rank": 5,
-    "tweet_count": "3,525 Tweets"
+    "tweet_count": "3,559 Tweets"
   },
   {
     "name": "Vamos Ecuador",
     "query": "\"Vamos Ecuador\"",
     "rank": 6,
-    "tweet_count": "2,684 Tweets"
+    "tweet_count": "2,760 Tweets"
   },
   {
     "name": "#MiHermanoEsCalidad",
@@ -42,51 +42,57 @@
     "tweet_count": null
   },
   {
-    "name": "Marriot",
-    "query": "Marriot",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "#Tricolor",
     "query": "#Tricolor",
+    "rank": 8,
+    "tweet_count": "1,055 Tweets"
+  },
+  {
+    "name": "Pablo Arosemena",
+    "query": "\"Pablo Arosemena\"",
     "rank": 9,
-    "tweet_count": "1,052 Tweets"
+    "tweet_count": "1,900 Tweets"
+  },
+  {
+    "name": "Marriot",
+    "query": "Marriot",
+    "rank": 10,
+    "tweet_count": null
   },
   {
     "name": "Rodrigo Paz Delgado",
     "query": "\"Rodrigo Paz Delgado\"",
-    "rank": 10,
-    "tweet_count": "2,125 Tweets"
-  },
-  {
-    "name": "monumental",
-    "query": "monumental",
     "rank": 11,
-    "tweet_count": "17.6K Tweets"
+    "tweet_count": "2,143 Tweets"
   },
   {
-    "name": "#Qatar2022",
-    "query": "#Qatar2022",
+    "name": "Monumental",
+    "query": "Monumental",
     "rank": 12,
-    "tweet_count": "5,066 Tweets"
+    "tweet_count": "17.7K Tweets"
   },
   {
-    "name": "#ContigoPao",
-    "query": "#ContigoPao",
+    "name": "#ecuadorvsbrasil",
+    "query": "#ecuadorvsbrasil",
     "rank": 13,
-    "tweet_count": "7,833 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#EliminatoriasSudamericanas",
     "query": "#EliminatoriasSudamericanas",
     "rank": 14,
-    "tweet_count": "4,256 Tweets"
+    "tweet_count": "4,311 Tweets"
   },
   {
-    "name": "#ecuadorvsbrasil",
-    "query": "#ecuadorvsbrasil",
+    "name": "#Qatar2022",
+    "query": "#Qatar2022",
     "rank": 15,
-    "tweet_count": null
+    "tweet_count": "5,143 Tweets"
+  },
+  {
+    "name": "#ContigoPao",
+    "query": "#ContigoPao",
+    "rank": 16,
+    "tweet_count": "7,915 Tweets"
   }
 ]
