@@ -1,25 +1,25 @@
 [
   {
-    "name": "#WeRemember",
-    "query": "#WeRemember",
-    "rank": 1,
-    "tweet_count": "77.1K Tweets"
-  },
-  {
     "name": "Spotify",
     "query": "Spotify",
+    "rank": 1,
+    "tweet_count": "1.25M Tweets"
+  },
+  {
+    "name": "#WeRemember",
+    "query": "#WeRemember",
     "rank": 2,
-    "tweet_count": "1.24M Tweets"
+    "tweet_count": "77.4K Tweets"
+  },
+  {
+    "name": "Tidal",
+    "query": "Tidal",
+    "rank": 3,
+    "tweet_count": "20.7K Tweets"
   },
   {
     "name": "Kariņš",
     "query": "Kariņš",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "#TeIrDarbs",
-    "query": "#TeIrDarbs",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,25 +27,25 @@
     "name": "Apple",
     "query": "Apple",
     "rank": 5,
-    "tweet_count": "521K Tweets"
+    "tweet_count": "525K Tweets"
   },
   {
-    "name": "turklāt",
-    "query": "turklāt",
+    "name": "#teirdarbs",
+    "query": "#teirdarbs",
     "rank": 6,
     "tweet_count": null
   },
   {
-    "name": "baltkrieviju",
-    "query": "baltkrieviju",
+    "name": "Zviedrijas",
+    "query": "Zviedrijas",
     "rank": 7,
     "tweet_count": null
   },
   {
-    "name": "rīta panorāmā",
-    "query": "\"rīta panorāmā\"",
+    "name": "COVID-19",
+    "query": "COVID-19",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "435K Tweets"
   },
   {
     "name": "Kāds",
@@ -54,20 +54,20 @@
     "tweet_count": null
   },
   {
-    "name": "labrīt",
-    "query": "labrīt",
+    "name": "valmieras",
+    "query": "valmieras",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "COVID-19",
-    "query": "COVID-19",
-    "rank": 11,
-    "tweet_count": "432K Tweets"
-  },
-  {
     "name": "Vairāk",
     "query": "Vairāk",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "Polijas",
+    "query": "Polijas",
     "rank": 12,
     "tweet_count": null
   },
@@ -78,38 +78,38 @@
     "tweet_count": null
   },
   {
-    "name": "bondars",
-    "query": "bondars",
+    "name": "Labdien",
+    "query": "Labdien",
     "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "šajā",
-    "query": "šajā",
+    "name": "Baltkrieviju",
+    "query": "Baltkrieviju",
     "rank": 15,
-    "tweet_count": "64.8K Tweets"
-  },
-  {
-    "name": "grūti",
-    "query": "grūti",
-    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "Woah",
-    "query": "Woah",
+    "name": "latvia",
+    "query": "latvia",
+    "rank": 16,
+    "tweet_count": "2,441 Tweets"
+  },
+  {
+    "name": "neko",
+    "query": "neko",
     "rank": 17,
-    "tweet_count": "44.6K Tweets"
+    "tweet_count": "106K Tweets"
+  },
+  {
+    "name": "China",
+    "query": "China",
+    "rank": 18,
+    "tweet_count": "260K Tweets"
   },
   {
     "name": "āfrikas",
     "query": "āfrikas",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "trojanskis",
-    "query": "trojanskis",
     "rank": 19,
     "tweet_count": null
   }
