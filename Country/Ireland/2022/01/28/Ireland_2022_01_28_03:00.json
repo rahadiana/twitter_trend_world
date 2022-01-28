@@ -1,33 +1,33 @@
 [
   {
-    "name": "Wordle 223 X",
-    "query": "\"Wordle 223 X\"",
-    "rank": 1,
-    "tweet_count": "3,589 Tweets"
-  },
-  {
     "name": "Spotify",
     "query": "Spotify",
-    "rank": 2,
-    "tweet_count": "1.2M Tweets"
+    "rank": 1,
+    "tweet_count": "1.21M Tweets"
   },
   {
     "name": "#HolocaustRemembranceDay",
     "query": "#HolocaustRemembranceDay",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": "108K Tweets"
   },
   {
     "name": "#FirstDatesIRL",
     "query": "#FirstDatesIRL",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
+  },
+  {
+    "name": "Wordle 223 X",
+    "query": "\"Wordle 223 X\"",
+    "rank": 4,
+    "tweet_count": "3,665 Tweets"
   },
   {
     "name": "Brazil",
     "query": "Brazil",
     "rank": 5,
-    "tweet_count": "81.5K Tweets"
+    "tweet_count": "82K Tweets"
   },
   {
     "name": "#theapprentice",
@@ -45,7 +45,7 @@
     "name": "#ECUBRA",
     "query": "#ECUBRA",
     "rank": 8,
-    "tweet_count": "2,217 Tweets"
+    "tweet_count": "2,218 Tweets"
   },
   {
     "name": "Congratulations Stephen",
@@ -63,7 +63,7 @@
     "name": "Katie",
     "query": "Katie",
     "rank": 11,
-    "tweet_count": "22.8K Tweets"
+    "tweet_count": "22.9K Tweets"
   },
   {
     "name": "Tariq",
@@ -81,7 +81,7 @@
     "name": "Chambers",
     "query": "Chambers",
     "rank": 14,
-    "tweet_count": "42K Tweets"
+    "tweet_count": "42.2K Tweets"
   },
   {
     "name": "Barry Cryer",
@@ -99,7 +99,7 @@
     "name": "Russian",
     "query": "Russian",
     "rank": 17,
-    "tweet_count": "132K Tweets"
+    "tweet_count": "133K Tweets"
   },
   {
     "name": "sue ramsbottom",
@@ -117,6 +117,6 @@
     "name": "Trudeau",
     "query": "Trudeau",
     "rank": 20,
-    "tweet_count": "252K Tweets"
+    "tweet_count": "253K Tweets"
   }
 ]
