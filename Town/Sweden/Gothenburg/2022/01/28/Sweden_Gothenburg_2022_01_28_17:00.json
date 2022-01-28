@@ -1,39 +1,39 @@
 [
   {
+    "name": "Skål",
+    "query": "Skål",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "Spotify",
     "query": "Spotify",
-    "rank": 1,
-    "tweet_count": "1.22M Tweets"
+    "rank": 2,
+    "tweet_count": "1.25M Tweets"
   },
   {
     "name": "Neil Young",
     "query": "\"Neil Young\"",
-    "rank": 2,
-    "tweet_count": "228K Tweets"
-  },
-  {
-    "name": "Skål",
-    "query": "Skål",
     "rank": 3,
-    "tweet_count": null
+    "tweet_count": "234K Tweets"
   },
   {
     "name": "Diaz",
     "query": "Diaz",
     "rank": 4,
-    "tweet_count": "207K Tweets"
+    "tweet_count": "211K Tweets"
+  },
+  {
+    "name": "Trevlig",
+    "query": "Trevlig",
+    "rank": 5,
+    "tweet_count": null
   },
   {
     "name": "Rogan",
     "query": "Rogan",
-    "rank": 5,
-    "tweet_count": "304K Tweets"
-  },
-  {
-    "name": "Sarr",
-    "query": "Sarr",
     "rank": 6,
-    "tweet_count": "3,897 Tweets"
+    "tweet_count": "311K Tweets"
   },
   {
     "name": "Sabuni",
@@ -42,38 +42,38 @@
     "tweet_count": null
   },
   {
-    "name": "Svenskt Näringsliv",
-    "query": "\"Svenskt Näringsliv\"",
+    "name": "Sarr",
+    "query": "Sarr",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "4,005 Tweets"
   },
   {
     "name": "Amoo",
     "query": "Amoo",
     "rank": 9,
-    "tweet_count": "11.4K Tweets"
-  },
-  {
-    "name": "Simmar",
-    "query": "Simmar",
-    "rank": 10,
-    "tweet_count": null
+    "tweet_count": "11.6K Tweets"
   },
   {
     "name": "Dejan",
     "query": "Dejan",
+    "rank": 10,
+    "tweet_count": "41.9K Tweets"
+  },
+  {
+    "name": "Svenskt Näringsliv",
+    "query": "\"Svenskt Näringsliv\"",
     "rank": 11,
-    "tweet_count": "41K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Tidal",
-    "query": "Tidal",
+    "name": "Simmar",
+    "query": "Simmar",
     "rank": 12,
-    "tweet_count": "19.7K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#förintelsensminnesdag",
-    "query": "#förintelsensminnesdag",
+    "name": "Jammerbugt",
+    "query": "Jammerbugt",
     "rank": 13,
     "tweet_count": null
   },
@@ -81,30 +81,24 @@
     "name": "#HolocaustRemembranceDay",
     "query": "#HolocaustRemembranceDay",
     "rank": 14,
-    "tweet_count": "84.4K Tweets"
+    "tweet_count": "84.9K Tweets"
+  },
+  {
+    "name": "Tidal",
+    "query": "Tidal",
+    "rank": 15,
+    "tweet_count": "20.1K Tweets"
   },
   {
     "name": "Tom Cruise",
     "query": "\"Tom Cruise\"",
-    "rank": 15,
-    "tweet_count": "2,126 Tweets"
-  },
-  {
-    "name": "Trevlig",
-    "query": "Trevlig",
     "rank": 16,
-    "tweet_count": null
+    "tweet_count": "2,184 Tweets"
   },
   {
-    "name": "Jammerbugt",
-    "query": "Jammerbugt",
+    "name": "Henke",
+    "query": "Henke",
     "rank": 17,
     "tweet_count": null
-  },
-  {
-    "name": "#iHeartAwards",
-    "query": "#iHeartAwards",
-    "rank": 18,
-    "tweet_count": "1.95M Tweets"
   }
 ]
