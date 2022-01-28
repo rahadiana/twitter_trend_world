@@ -1,37 +1,37 @@
 [
   {
-    "name": "Lakers",
-    "query": "Lakers",
+    "name": "Malkin",
+    "query": "Malkin",
     "rank": 1,
-    "tweet_count": "53.1K Tweets"
+    "tweet_count": "1,066 Tweets"
+  },
+  {
+    "name": "Dwight Howard",
+    "query": "\"Dwight Howard\"",
+    "rank": 2,
+    "tweet_count": null
   },
   {
     "name": "Westbrook",
     "query": "Westbrook",
-    "rank": 2,
-    "tweet_count": "9,914 Tweets"
-  },
-  {
-    "name": "Melo",
-    "query": "Melo",
     "rank": 3,
-    "tweet_count": "26.7K Tweets"
-  },
-  {
-    "name": "Tobias Harris",
-    "query": "\"Tobias Harris\"",
-    "rank": 4,
-    "tweet_count": "1,064 Tweets"
+    "tweet_count": "11.2K Tweets"
   },
   {
     "name": "Geno",
     "query": "Geno",
-    "rank": 5,
-    "tweet_count": "4,738 Tweets"
+    "rank": 4,
+    "tweet_count": "5,034 Tweets"
   },
   {
-    "name": "Malkin",
-    "query": "Malkin",
+    "name": "Jarry",
+    "query": "Jarry",
+    "rank": 5,
+    "tweet_count": "1,277 Tweets"
+  },
+  {
+    "name": "#HereTheyCome",
+    "query": "#HereTheyCome",
     "rank": 6,
     "tweet_count": null
   },
@@ -45,72 +45,72 @@
     "name": "#FaZe1",
     "query": "#FaZe1",
     "rank": 8,
-    "tweet_count": "9,547 Tweets"
+    "tweet_count": "9,941 Tweets"
   },
   {
     "name": "Wiggins",
     "query": "Wiggins",
     "rank": 9,
-    "tweet_count": "72.6K Tweets"
-  },
-  {
-    "name": "Andrew Wiggins",
-    "query": "\"Andrew Wiggins\"",
-    "rank": 10,
-    "tweet_count": "41.6K Tweets"
+    "tweet_count": "80.2K Tweets"
   },
   {
     "name": "#USMNT",
     "query": "#USMNT",
-    "rank": 11,
-    "tweet_count": "9,050 Tweets"
+    "rank": 10,
+    "tweet_count": "9,563 Tweets"
   },
   {
     "name": "Anthony Davis",
     "query": "\"Anthony Davis\"",
+    "rank": 11,
+    "tweet_count": "10K Tweets"
+  },
+  {
+    "name": "Melo",
+    "query": "Melo",
     "rank": 12,
-    "tweet_count": "8,675 Tweets"
+    "tweet_count": "29.2K Tweets"
   },
   {
     "name": "All-Star",
     "query": "All-Star",
     "rank": 13,
-    "tweet_count": "62.5K Tweets"
+    "tweet_count": "68.8K Tweets"
   },
   {
     "name": "Not Wordle",
     "query": "\"Not Wordle\"",
     "rank": 14,
-    "tweet_count": "31.3K Tweets"
+    "tweet_count": "34.4K Tweets"
   },
   {
-    "name": "Jamaica",
-    "query": "Jamaica",
+    "name": "#H3forJB",
+    "query": "#H3forJB",
     "rank": 15,
-    "tweet_count": "33.9K Tweets"
+    "tweet_count": "1,396 Tweets"
+  },
+  {
+    "name": "GEORGE LORE",
+    "query": "\"GEORGE LORE\"",
+    "rank": 16,
+    "tweet_count": "1,459 Tweets"
+  },
+  {
+    "name": "Pulisic",
+    "query": "Pulisic",
+    "rank": 17,
+    "tweet_count": "7,337 Tweets"
   },
   {
     "name": "Trevor Zegras",
     "query": "\"Trevor Zegras\"",
-    "rank": 16,
-    "tweet_count": "3,091 Tweets"
-  },
-  {
-    "name": "Zardes",
-    "query": "Zardes",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "#JoeMillionaire",
-    "query": "#JoeMillionaire",
     "rank": 18,
-    "tweet_count": "3,341 Tweets"
+    "tweet_count": "3,589 Tweets"
   },
   {
-    "name": "Ezra Miller",
-    "query": "\"Ezra Miller\"",
+    "name": "Jamaica",
+    "query": "Jamaica",
     "rank": 19,
-    "tweet_count": "3,528 Tweets"
+    "tweet_count": "36.5K Tweets"
   }
 ]
