@@ -1,110 +1,116 @@
 [
   {
+    "name": "De Paul",
+    "query": "\"De Paul\"",
+    "rank": 1,
+    "tweet_count": "50.1K Tweets"
+  },
+  {
+    "name": "Chile",
+    "query": "Chile",
+    "rank": 2,
+    "tweet_count": "276K Tweets"
+  },
+  {
     "name": "#YoEscuchoLOS40",
     "query": "#YoEscuchoLOS40",
-    "rank": 1,
-    "tweet_count": "3,024 Tweets"
+    "rank": 3,
+    "tweet_count": "3,662 Tweets"
   },
   {
     "name": "Guzmán",
     "query": "Guzmán",
-    "rank": 2,
-    "tweet_count": "17.8K Tweets"
+    "rank": 4,
+    "tweet_count": "18.8K Tweets"
   },
   {
     "name": "#AcuerdoconelFMI",
     "query": "#AcuerdoconelFMI",
-    "rank": 3,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Alberto Fernández",
     "query": "\"Alberto Fernández\"",
-    "rank": 4,
-    "tweet_count": "9,308 Tweets"
-  },
-  {
-    "name": "#BuenViernes",
-    "query": "#BuenViernes",
-    "rank": 5,
-    "tweet_count": "2,267 Tweets"
-  },
-  {
-    "name": "Fondo Monetario Internacional",
-    "query": "\"Fondo Monetario Internacional\"",
     "rank": 6,
-    "tweet_count": "2,389 Tweets"
-  },
-  {
-    "name": "#elclubdelmoro",
-    "query": "#elclubdelmoro",
-    "rank": 7,
-    "tweet_count": null
+    "tweet_count": "9,624 Tweets"
   },
   {
     "name": "Congreso",
     "query": "Congreso",
+    "rank": 7,
+    "tweet_count": "74K Tweets"
+  },
+  {
+    "name": "Fondo Monetario Internacional",
+    "query": "\"Fondo Monetario Internacional\"",
     "rank": 8,
-    "tweet_count": "72.9K Tweets"
+    "tweet_count": "2,640 Tweets"
+  },
+  {
+    "name": "#BuenViernes",
+    "query": "#BuenViernes",
+    "rank": 9,
+    "tweet_count": "2,327 Tweets"
   },
   {
     "name": "Manzur",
     "query": "Manzur",
-    "rank": 9,
-    "tweet_count": "2,707 Tweets"
-  },
-  {
-    "name": "Cadena Nacional",
-    "query": "\"Cadena Nacional\"",
     "rank": 10,
-    "tweet_count": "2,808 Tweets"
+    "tweet_count": "2,857 Tweets"
   },
   {
-    "name": "Damocles",
-    "query": "Damocles",
+    "name": "#elclubdelmoro",
+    "query": "#elclubdelmoro",
     "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "Sarasa",
-    "query": "Sarasa",
+    "name": "Cadena Nacional",
+    "query": "\"Cadena Nacional\"",
     "rank": 12,
-    "tweet_count": "3,083 Tweets"
+    "tweet_count": "2,900 Tweets"
   },
   {
     "name": "Solano",
     "query": "Solano",
     "rank": 13,
-    "tweet_count": "2,128 Tweets"
+    "tweet_count": "2,155 Tweets"
   },
   {
-    "name": "#Navarro2023",
-    "query": "#Navarro2023",
+    "name": "Damocles",
+    "query": "Damocles",
     "rank": 14,
-    "tweet_count": "1,129 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Sergio Massa",
-    "query": "\"Sergio Massa\"",
+    "name": "Sarasa",
+    "query": "Sarasa",
     "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Juan Román Riquelme",
-    "query": "\"Juan Román Riquelme\"",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "3,255 Tweets"
   },
   {
     "name": "Gaich",
     "query": "Gaich",
-    "rank": 17,
-    "tweet_count": "1,011 Tweets"
+    "rank": 16,
+    "tweet_count": "1,042 Tweets"
   },
   {
-    "name": "Esequiel Barco",
-    "query": "\"Esequiel Barco\"",
+    "name": "#Navarro2023",
+    "query": "#Navarro2023",
+    "rank": 17,
+    "tweet_count": "1,183 Tweets"
+  },
+  {
+    "name": "Sergio Massa",
+    "query": "\"Sergio Massa\"",
     "rank": 18,
-    "tweet_count": "1,311 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "El Presidente",
+    "query": "\"El Presidente\"",
+    "rank": 19,
+    "tweet_count": "250K Tweets"
   }
 ]
