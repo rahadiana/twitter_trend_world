@@ -1,9 +1,9 @@
 [
   {
-    "name": "#WeRemember",
-    "query": "#WeRemember",
+    "name": "#HolocaustRemembranceDay",
+    "query": "#HolocaustRemembranceDay",
     "rank": 1,
-    "tweet_count": "103K Tweets"
+    "tweet_count": "109K Tweets"
   },
   {
     "name": "Makler",
@@ -12,14 +12,14 @@
     "tweet_count": null
   },
   {
-    "name": "#HolocaustGedenktag",
-    "query": "#HolocaustGedenktag",
-    "rank": 3,
-    "tweet_count": "7,028 Tweets"
-  },
-  {
     "name": "#Beinschab",
     "query": "#Beinschab",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "Haushalte",
+    "query": "Haushalte",
     "rank": 4,
     "tweet_count": null
   },
@@ -33,7 +33,7 @@
     "name": "#NieWieder",
     "query": "#NieWieder",
     "rank": 6,
-    "tweet_count": "11.2K Tweets"
+    "tweet_count": "11.3K Tweets"
   },
   {
     "name": "Stimmzettel",
@@ -42,16 +42,16 @@
     "tweet_count": null
   },
   {
-    "name": "Haushalte",
-    "query": "Haushalte",
+    "name": "#servustv",
+    "query": "#servustv",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "1,365 Tweets"
   },
   {
     "name": "Mauthausen",
     "query": "Mauthausen",
     "rank": 9,
-    "tweet_count": "4,541 Tweets"
+    "tweet_count": "4,551 Tweets"
   },
   {
     "name": "övp mit anstand",
@@ -63,19 +63,19 @@
     "name": "Neil Young",
     "query": "\"Neil Young\"",
     "rank": 11,
-    "tweet_count": "246K Tweets"
+    "tweet_count": "247K Tweets"
   },
   {
     "name": "Armut",
     "query": "Armut",
     "rank": 12,
-    "tweet_count": "1,895 Tweets"
+    "tweet_count": "1,931 Tweets"
   },
   {
-    "name": "London",
-    "query": "London",
+    "name": "Matura",
+    "query": "Matura",
     "rank": 13,
-    "tweet_count": "155K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Grasser",
@@ -87,13 +87,13 @@
     "name": "heute vor 77 jahren",
     "query": "\"heute vor 77 jahren\"",
     "rank": 15,
-    "tweet_count": "1,616 Tweets"
+    "tweet_count": "1,621 Tweets"
   },
   {
     "name": "Joe Rogan",
     "query": "\"Joe Rogan\"",
     "rank": 16,
-    "tweet_count": "259K Tweets"
+    "tweet_count": "260K Tweets"
   },
   {
     "name": "Wohnungen",
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "Spotify",
-    "query": "Spotify",
+    "name": "Landeshauptmann",
+    "query": "Landeshauptmann",
     "rank": 20,
-    "tweet_count": "1.2M Tweets"
+    "tweet_count": null
   }
 ]
