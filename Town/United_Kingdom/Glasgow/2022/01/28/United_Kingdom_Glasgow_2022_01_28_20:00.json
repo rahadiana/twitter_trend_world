@@ -3,13 +3,13 @@
     "name": "The Met",
     "query": "\"The Met\"",
     "rank": 1,
-    "tweet_count": "258K Tweets"
+    "tweet_count": "263K Tweets"
   },
   {
     "name": "#TOTP",
     "query": "#TOTP",
     "rank": 2,
-    "tweet_count": "2,139 Tweets"
+    "tweet_count": "3,848 Tweets"
   },
   {
     "name": "#HUDSTK",
@@ -21,25 +21,25 @@
     "name": "#FreeCodeFridayContest",
     "query": "#FreeCodeFridayContest",
     "rank": 4,
-    "tweet_count": "1,230 Tweets"
-  },
-  {
-    "name": "#FuryWhyte",
-    "query": "#FuryWhyte",
-    "rank": 5,
-    "tweet_count": "2,380 Tweets"
+    "tweet_count": "1,688 Tweets"
   },
   {
     "name": "Gavin Ward",
     "query": "\"Gavin Ward\"",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Koroma",
     "query": "Koroma",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
+  },
+  {
+    "name": "#FuryWhyte",
+    "query": "#FuryWhyte",
+    "rank": 7,
+    "tweet_count": "2,527 Tweets"
   },
   {
     "name": "Ivan Toney",
@@ -48,51 +48,51 @@
     "tweet_count": null
   },
   {
-    "name": "Huddersfield",
-    "query": "Huddersfield",
+    "name": "#WILTY",
+    "query": "#WILTY",
     "rank": 9,
-    "tweet_count": "2,841 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#shirleybassey",
-    "query": "#shirleybassey",
+    "name": "Ryan Searle",
+    "query": "\"Ryan Searle\"",
     "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "Annie Lennox",
+    "query": "\"Annie Lennox\"",
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Wedding Present",
     "query": "\"Wedding Present\"",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Ciaran Clark",
     "query": "\"Ciaran Clark\"",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Joe Lycett",
     "query": "\"Joe Lycett\"",
-    "rank": 13,
-    "tweet_count": "3,174 Tweets"
+    "rank": 14,
+    "tweet_count": "3,240 Tweets"
+  },
+  {
+    "name": "Faye",
+    "query": "Faye",
+    "rank": 15,
+    "tweet_count": "7,128 Tweets"
   },
   {
     "name": "Nirvana",
     "query": "Nirvana",
-    "rank": 14,
-    "tweet_count": "9,446 Tweets"
-  },
-  {
-    "name": "Bloody Nora",
-    "query": "\"Bloody Nora\"",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "DAZN",
-    "query": "DAZN",
     "rank": 16,
-    "tweet_count": "6,350 Tweets"
+    "tweet_count": "9,565 Tweets"
   }
 ]

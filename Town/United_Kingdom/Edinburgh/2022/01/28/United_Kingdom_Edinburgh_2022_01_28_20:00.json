@@ -3,13 +3,13 @@
     "name": "The Met",
     "query": "\"The Met\"",
     "rank": 1,
-    "tweet_count": "258K Tweets"
+    "tweet_count": "263K Tweets"
   },
   {
     "name": "#TOTP",
     "query": "#TOTP",
     "rank": 2,
-    "tweet_count": "2,069 Tweets"
+    "tweet_count": "3,848 Tweets"
   },
   {
     "name": "#HUDSTK",
@@ -18,28 +18,28 @@
     "tweet_count": null
   },
   {
-    "name": "#FuryWhyte",
-    "query": "#FuryWhyte",
-    "rank": 4,
-    "tweet_count": "2,382 Tweets"
-  },
-  {
     "name": "#FreeCodeFridayContest",
     "query": "#FreeCodeFridayContest",
-    "rank": 5,
-    "tweet_count": "1,199 Tweets"
+    "rank": 4,
+    "tweet_count": "1,688 Tweets"
   },
   {
     "name": "Gavin Ward",
     "query": "\"Gavin Ward\"",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Koroma",
     "query": "Koroma",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
+  },
+  {
+    "name": "#FuryWhyte",
+    "query": "#FuryWhyte",
+    "rank": 7,
+    "tweet_count": "2,527 Tweets"
   },
   {
     "name": "Ivan Toney",
@@ -48,75 +48,75 @@
     "tweet_count": null
   },
   {
-    "name": "#shirleybassey",
-    "query": "#shirleybassey",
+    "name": "Annie Lennox",
+    "query": "\"Annie Lennox\"",
     "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "#WILTY",
+    "query": "#WILTY",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "Ryan Searle",
+    "query": "\"Ryan Searle\"",
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Wedding Present",
     "query": "\"Wedding Present\"",
-    "rank": 10,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Ciaran Clark",
     "query": "\"Ciaran Clark\"",
-    "rank": 11,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Joe Lycett",
     "query": "\"Joe Lycett\"",
-    "rank": 12,
-    "tweet_count": "3,174 Tweets"
-  },
-  {
-    "name": "Bloody Nora",
-    "query": "\"Bloody Nora\"",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "DAZN",
-    "query": "DAZN",
     "rank": 14,
-    "tweet_count": "6,350 Tweets"
+    "tweet_count": "3,240 Tweets"
+  },
+  {
+    "name": "Faye",
+    "query": "Faye",
+    "rank": 15,
+    "tweet_count": "7,128 Tweets"
   },
   {
     "name": "Nirvana",
     "query": "Nirvana",
-    "rank": 15,
-    "tweet_count": "9,446 Tweets"
+    "rank": 16,
+    "tweet_count": "9,565 Tweets"
+  },
+  {
+    "name": "Bloody Nora",
+    "query": "\"Bloody Nora\"",
+    "rank": 17,
+    "tweet_count": null
   },
   {
     "name": "Not Wordle",
     "query": "\"Not Wordle\"",
-    "rank": 16,
-    "tweet_count": "80K Tweets"
-  },
-  {
-    "name": "Davon",
-    "query": "Davon",
-    "rank": 17,
-    "tweet_count": "22.5K Tweets"
-  },
-  {
-    "name": "Priya",
-    "query": "Priya",
     "rank": 18,
-    "tweet_count": "21.1K Tweets"
+    "tweet_count": "81.5K Tweets"
   },
   {
-    "name": "Faye Johnson",
-    "query": "\"Faye Johnson\"",
+    "name": "DAZN",
+    "query": "DAZN",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "6,436 Tweets"
   },
   {
-    "name": "Queensbury",
-    "query": "Queensbury",
+    "name": "Erasure",
+    "query": "Erasure",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "3,366 Tweets"
   }
 ]
