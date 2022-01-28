@@ -1,110 +1,116 @@
 [
   {
-    "name": "#WeRemember",
-    "query": "#WeRemember",
+    "name": "#HolocaustRemembranceDay",
+    "query": "#HolocaustRemembranceDay",
     "rank": 1,
-    "tweet_count": "120K Tweets"
+    "tweet_count": "106K Tweets"
   },
   {
-    "name": "#FaceABaba",
-    "query": "#FaceABaba",
+    "name": "#faceababa",
+    "query": "#faceababa",
     "rank": 2,
     "tweet_count": "138K Tweets"
   },
   {
-    "name": "#HolocaustMemorialDay",
-    "query": "#HolocaustMemorialDay",
-    "rank": 3,
-    "tweet_count": "174K Tweets"
-  },
-  {
-    "name": "Spotify",
-    "query": "Spotify",
-    "rank": 4,
-    "tweet_count": "1.16M Tweets"
-  },
-  {
     "name": "Neil Young",
     "query": "\"Neil Young\"",
+    "rank": 3,
+    "tweet_count": "268K Tweets"
+  },
+  {
+    "name": "#NieWieder",
+    "query": "#NieWieder",
+    "rank": 4,
+    "tweet_count": "17K Tweets"
+  },
+  {
+    "name": "#Giornatadellamemoria",
+    "query": "#Giornatadellamemoria",
     "rank": 5,
-    "tweet_count": "264K Tweets"
-  },
-  {
-    "name": "Zemmour",
-    "query": "Zemmour",
-    "rank": 6,
-    "tweet_count": "137K Tweets"
-  },
-  {
-    "name": "#iHeartAwards",
-    "query": "#iHeartAwards",
-    "rank": 7,
-    "tweet_count": "2.86M Tweets"
+    "tweet_count": "60.6K Tweets"
   },
   {
     "name": "Mélenchon",
     "query": "Mélenchon",
-    "rank": 8,
-    "tweet_count": "115K Tweets"
-  },
-  {
-    "name": "Colman",
-    "query": "Colman",
-    "rank": 9,
-    "tweet_count": "12.6K Tweets"
-  },
-  {
-    "name": "Joe Rogan",
-    "query": "\"Joe Rogan\"",
-    "rank": 10,
-    "tweet_count": "265K Tweets"
-  },
-  {
-    "name": "Sifu",
-    "query": "Sifu",
-    "rank": 11,
-    "tweet_count": "11.8K Tweets"
-  },
-  {
-    "name": "Zertifikate",
-    "query": "Zertifikate",
-    "rank": 12,
-    "tweet_count": "2,585 Tweets"
-  },
-  {
-    "name": "strafe",
-    "query": "strafe",
-    "rank": 13,
-    "tweet_count": "1,182 Tweets"
-  },
-  {
-    "name": "Nazis",
-    "query": "Nazis",
-    "rank": 14,
+    "rank": 6,
     "tweet_count": "116K Tweets"
-  },
-  {
-    "name": "Canada",
-    "query": "Canada",
-    "rank": 15,
-    "tweet_count": "430K Tweets"
-  },
-  {
-    "name": "Symbole",
-    "query": "Symbole",
-    "rank": 16,
-    "tweet_count": "2,374 Tweets"
   },
   {
     "name": "Helme",
     "query": "Helme",
-    "rank": 17,
-    "tweet_count": "3,021 Tweets"
+    "rank": 7,
+    "tweet_count": "2,980 Tweets"
   },
   {
-    "name": "valais",
-    "query": "valais",
+    "name": "Colman",
+    "query": "Colman",
+    "rank": 8,
+    "tweet_count": "12.5K Tweets"
+  },
+  {
+    "name": "Unversehrtheit",
+    "query": "Unversehrtheit",
+    "rank": 9,
+    "tweet_count": "2,215 Tweets"
+  },
+  {
+    "name": "Strafe",
+    "query": "Strafe",
+    "rank": 10,
+    "tweet_count": "1,188 Tweets"
+  },
+  {
+    "name": "Valais",
+    "query": "Valais",
+    "rank": 11,
+    "tweet_count": "2,068 Tweets"
+  },
+  {
+    "name": "Sifu",
+    "query": "Sifu",
+    "rank": 12,
+    "tweet_count": "11.9K Tweets"
+  },
+  {
+    "name": "Zertifikate",
+    "query": "Zertifikate",
+    "rank": 13,
+    "tweet_count": "2,582 Tweets"
+  },
+  {
+    "name": "Peter Weigelt",
+    "query": "\"Peter Weigelt\"",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Trudeau",
+    "query": "Trudeau",
+    "rank": 15,
+    "tweet_count": "248K Tweets"
+  },
+  {
+    "name": "Neymar",
+    "query": "Neymar",
+    "rank": 16,
+    "tweet_count": "57.6K Tweets"
+  },
+  {
+    "name": "sozialismus",
+    "query": "sozialismus",
+    "rank": 17,
+    "tweet_count": "1,408 Tweets"
+  },
+  {
+    "name": "Danemark",
+    "query": "Danemark",
     "rank": 18,
-    "tweet_count": "2,073 Tweets"
+    "tweet_count": "11.8K Tweets"
+  },
+  {
+    "name": "impfstoffe",
+    "query": "impfstoffe",
+    "rank": 19,
+    "tweet_count": "5,146 Tweets"
   }
 ]

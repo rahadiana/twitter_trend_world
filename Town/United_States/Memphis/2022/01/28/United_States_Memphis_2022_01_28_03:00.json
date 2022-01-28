@@ -1,116 +1,122 @@
 [
   {
-    "name": "I-65",
-    "query": "I-65",
+    "name": "#LadyVols",
+    "query": "#LadyVols",
     "rank": 1,
-    "tweet_count": "15.8K Tweets"
-  },
-  {
-    "name": "Ja Morant",
-    "query": "\"Ja Morant\"",
-    "rank": 2,
-    "tweet_count": "26.7K Tweets"
-  },
-  {
-    "name": "Lebron",
-    "query": "Lebron",
-    "rank": 3,
-    "tweet_count": "66.6K Tweets"
-  },
-  {
-    "name": "Maus",
-    "query": "Maus",
-    "rank": 4,
-    "tweet_count": "129K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Wiggins",
     "query": "Wiggins",
-    "rank": 5,
-    "tweet_count": "82.5K Tweets"
+    "rank": 2,
+    "tweet_count": "86K Tweets"
   },
   {
     "name": "#USMNT",
     "query": "#USMNT",
-    "rank": 6,
-    "tweet_count": "9,639 Tweets"
+    "rank": 3,
+    "tweet_count": "9,841 Tweets"
   },
   {
     "name": "Embiid",
     "query": "Embiid",
-    "rank": 7,
-    "tweet_count": "36.9K Tweets"
+    "rank": 4,
+    "tweet_count": "38.1K Tweets"
   },
   {
     "name": "Melo",
     "query": "Melo",
-    "rank": 8,
-    "tweet_count": "28.6K Tweets"
+    "rank": 5,
+    "tweet_count": "29.4K Tweets"
   },
   {
     "name": "Anthony Davis",
     "query": "\"Anthony Davis\"",
-    "rank": 9,
-    "tweet_count": "10.5K Tweets"
+    "rank": 6,
+    "tweet_count": "11.1K Tweets"
   },
   {
     "name": "All-Star",
     "query": "All-Star",
-    "rank": 10,
-    "tweet_count": "70K Tweets"
-  },
-  {
-    "name": "Not Wordle",
-    "query": "\"Not Wordle\"",
-    "rank": 11,
-    "tweet_count": "34.8K Tweets"
-  },
-  {
-    "name": "CALLAHAN",
-    "query": "CALLAHAN",
-    "rank": 12,
-    "tweet_count": "2,647 Tweets"
-  },
-  {
-    "name": "GEORGE LORE",
-    "query": "\"GEORGE LORE\"",
-    "rank": 13,
-    "tweet_count": "2,259 Tweets"
-  },
-  {
-    "name": "#USAvSLV",
-    "query": "#USAvSLV",
-    "rank": 14,
-    "tweet_count": "5,991 Tweets"
+    "rank": 7,
+    "tweet_count": "72.5K Tweets"
   },
   {
     "name": "#ReleaseTheTranscript",
     "query": "#ReleaseTheTranscript",
+    "rank": 8,
+    "tweet_count": "13.9K Tweets"
+  },
+  {
+    "name": "Not Wordle",
+    "query": "\"Not Wordle\"",
+    "rank": 9,
+    "tweet_count": "36.3K Tweets"
+  },
+  {
+    "name": "GEORGE LORE",
+    "query": "\"GEORGE LORE\"",
+    "rank": 10,
+    "tweet_count": "3,091 Tweets"
+  },
+  {
+    "name": "#ProjectRunway",
+    "query": "#ProjectRunway",
+    "rank": 11,
+    "tweet_count": "1,013 Tweets"
+  },
+  {
+    "name": "#grownish",
+    "query": "#grownish",
+    "rank": 12,
+    "tweet_count": "1,419 Tweets"
+  },
+  {
+    "name": "Sixers",
+    "query": "Sixers",
+    "rank": 13,
+    "tweet_count": "18K Tweets"
+  },
+  {
+    "name": "nate jacobs",
+    "query": "\"nate jacobs\"",
+    "rank": 14,
+    "tweet_count": "72K Tweets"
+  },
+  {
+    "name": "Ezra Miller",
+    "query": "\"Ezra Miller\"",
     "rank": 15,
-    "tweet_count": "6,929 Tweets"
+    "tweet_count": "4,826 Tweets"
   },
   {
-    "name": "#H3forJB",
-    "query": "#H3forJB",
+    "name": "Ferreira",
+    "query": "Ferreira",
     "rank": 16,
-    "tweet_count": "1,600 Tweets"
+    "tweet_count": "13.7K Tweets"
   },
   {
-    "name": "#LALvsPHI",
-    "query": "#LALvsPHI",
+    "name": "Danny Green",
+    "query": "\"Danny Green\"",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "1,475 Tweets"
   },
   {
-    "name": "Pulisic",
-    "query": "Pulisic",
+    "name": "Jamaica",
+    "query": "Jamaica",
     "rank": 18,
-    "tweet_count": "7,288 Tweets"
+    "tweet_count": "37.2K Tweets"
   },
   {
-    "name": "Antonee Robinson",
-    "query": "\"Antonee Robinson\"",
+    "name": "Trevor Zegras",
+    "query": "\"Trevor Zegras\"",
     "rank": 19,
-    "tweet_count": "2,296 Tweets"
+    "tweet_count": "3,804 Tweets"
+  },
+  {
+    "name": "McDaniels",
+    "query": "McDaniels",
+    "rank": 20,
+    "tweet_count": "11.3K Tweets"
   }
 ]
