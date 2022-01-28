@@ -1,21 +1,21 @@
 [
   {
+    "name": "#GermanAngst",
+    "query": "#GermanAngst",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "#Kachelmann",
     "query": "#Kachelmann",
-    "rank": 1,
-    "tweet_count": "1,231 Tweets"
+    "rank": 2,
+    "tweet_count": "1,345 Tweets"
   },
   {
     "name": "Zeugnis",
     "query": "Zeugnis",
-    "rank": 2,
-    "tweet_count": "1,183 Tweets"
-  },
-  {
-    "name": "#GermanAngst",
-    "query": "#GermanAngst",
     "rank": 3,
-    "tweet_count": null
+    "tweet_count": "1,258 Tweets"
   },
   {
     "name": "Start ins Wochenende",
@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "#Eberl",
-    "query": "#Eberl",
-    "rank": 5,
-    "tweet_count": "1,225 Tweets"
-  },
-  {
     "name": "#Datenschutztag",
     "query": "#Datenschutztag",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "Schönen Freitag",
+    "query": "\"Schönen Freitag\"",
+    "rank": 6,
+    "tweet_count": "1,595 Tweets"
   },
   {
     "name": "Halbjahr",
@@ -42,38 +42,38 @@
     "tweet_count": null
   },
   {
-    "name": "Schönen Freitag",
-    "query": "\"Schönen Freitag\"",
-    "rank": 8,
-    "tweet_count": "1,578 Tweets"
-  },
-  {
     "name": "Wordle 223 X",
     "query": "\"Wordle 223 X\"",
-    "rank": 9,
-    "tweet_count": "7,318 Tweets"
+    "rank": 8,
+    "tweet_count": "7,409 Tweets"
   },
   {
-    "name": "Guten Morgen ihr Lieben",
-    "query": "\"Guten Morgen ihr Lieben\"",
+    "name": "Gladbach",
+    "query": "Gladbach",
+    "rank": 9,
+    "tweet_count": "1,424 Tweets"
+  },
+  {
+    "name": "guten morgen ihr lieben",
+    "query": "\"guten morgen ihr lieben\"",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Ricarda Lang",
-    "query": "\"Ricarda Lang\"",
-    "rank": 11,
-    "tweet_count": "28.8K Tweets"
-  },
-  {
     "name": "#PokemonLegendsArceus",
     "query": "#PokemonLegendsArceus",
-    "rank": 12,
-    "tweet_count": "72.8K Tweets"
+    "rank": 11,
+    "tweet_count": "73.8K Tweets"
   },
   {
     "name": "#frivolerFreitag",
     "query": "#frivolerFreitag",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "#Schröder",
+    "query": "#Schröder",
     "rank": 13,
     "tweet_count": null
   },
@@ -84,33 +84,27 @@
     "tweet_count": null
   },
   {
-    "name": "#AusOpen",
-    "query": "#AusOpen",
+    "name": "#CanadaTruckers",
+    "query": "#CanadaTruckers",
     "rank": 15,
-    "tweet_count": "68K Tweets"
+    "tweet_count": "17.9K Tweets"
   },
   {
-    "name": "#FreedomConvoy2022",
-    "query": "#FreedomConvoy2022",
+    "name": "#Eberl",
+    "query": "#Eberl",
     "rank": 16,
-    "tweet_count": "74.2K Tweets"
+    "tweet_count": "1,253 Tweets"
   },
   {
     "name": "#HarryStylesLoveOnTour",
     "query": "#HarryStylesLoveOnTour",
     "rank": 17,
-    "tweet_count": "9,438 Tweets"
+    "tweet_count": "9,725 Tweets"
   },
   {
-    "name": "#LauterbachRuecktritt",
-    "query": "#LauterbachRuecktritt",
+    "name": "#FreedomConvoy2022",
+    "query": "#FreedomConvoy2022",
     "rank": 18,
-    "tweet_count": "1,931 Tweets"
-  },
-  {
-    "name": "#Illner",
-    "query": "#Illner",
-    "rank": 19,
-    "tweet_count": "3,177 Tweets"
+    "tweet_count": "74.8K Tweets"
   }
 ]
