@@ -1,21 +1,21 @@
 [
   {
-    "name": "Argentina",
-    "query": "Argentina",
+    "name": "Montiel",
+    "query": "Montiel",
     "rank": 1,
-    "tweet_count": "265K Tweets"
+    "tweet_count": "10.7K Tweets"
   },
   {
-    "name": "Lautaro",
-    "query": "Lautaro",
+    "name": "Colombia",
+    "query": "Colombia",
     "rank": 2,
-    "tweet_count": "20.4K Tweets"
+    "tweet_count": "201K Tweets"
   },
   {
     "name": "Scaloni",
     "query": "Scaloni",
     "rank": 3,
-    "tweet_count": "16.5K Tweets"
+    "tweet_count": "16.6K Tweets"
   },
   {
     "name": "#Destapate",
@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "Chile",
-    "query": "Chile",
-    "rank": 5,
-    "tweet_count": "271K Tweets"
-  },
-  {
     "name": "#BuenViernes",
     "query": "#BuenViernes",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "Chile",
+    "query": "Chile",
+    "rank": 6,
+    "tweet_count": "272K Tweets"
   },
   {
     "name": "#lasoleencosquin",
@@ -45,31 +45,31 @@
     "name": "Oneto",
     "query": "Oneto",
     "rank": 8,
-    "tweet_count": "3,647 Tweets"
+    "tweet_count": "3,667 Tweets"
   },
   {
     "name": "De Paul",
     "query": "\"De Paul\"",
     "rank": 9,
-    "tweet_count": "45.7K Tweets"
+    "tweet_count": "45.9K Tweets"
   },
   {
     "name": "#DebateZoe",
     "query": "#DebateZoe",
     "rank": 10,
-    "tweet_count": "2,313 Tweets"
+    "tweet_count": "2,319 Tweets"
   },
   {
     "name": "Qatar",
     "query": "Qatar",
     "rank": 11,
-    "tweet_count": "52.5K Tweets"
+    "tweet_count": "52.7K Tweets"
   },
   {
     "name": "Beto",
     "query": "Beto",
     "rank": 12,
-    "tweet_count": "16.5K Tweets"
+    "tweet_count": "16.6K Tweets"
   },
   {
     "name": "Molina",
@@ -78,45 +78,45 @@
     "tweet_count": "19.3K Tweets"
   },
   {
-    "name": "nate jacobs",
-    "query": "\"nate jacobs\"",
-    "rank": 14,
-    "tweet_count": "121K Tweets"
-  },
-  {
-    "name": "Berrettini",
-    "query": "Berrettini",
-    "rank": 15,
-    "tweet_count": "34.2K Tweets"
-  },
-  {
     "name": "Julian",
     "query": "Julian",
+    "rank": 14,
+    "tweet_count": "48.4K Tweets"
+  },
+  {
+    "name": "nate jacobs",
+    "query": "\"nate jacobs\"",
+    "rank": 15,
+    "tweet_count": "122K Tweets"
+  },
+  {
+    "name": "paredes",
+    "query": "paredes",
     "rank": 16,
-    "tweet_count": "48.2K Tweets"
-  },
-  {
-    "name": "Paredes",
-    "query": "Paredes",
-    "rank": 17,
     "tweet_count": "14K Tweets"
-  },
-  {
-    "name": "Pedro Aznar",
-    "query": "\"Pedro Aznar\"",
-    "rank": 18,
-    "tweet_count": "1,095 Tweets"
-  },
-  {
-    "name": "Montiel",
-    "query": "Montiel",
-    "rank": 19,
-    "tweet_count": "10.6K Tweets"
   },
   {
     "name": "Otamendi",
     "query": "Otamendi",
+    "rank": 17,
+    "tweet_count": "4,267 Tweets"
+  },
+  {
+    "name": "Lautaro",
+    "query": "Lautaro",
+    "rank": 18,
+    "tweet_count": "20.4K Tweets"
+  },
+  {
+    "name": "la scaloneta",
+    "query": "\"la scaloneta\"",
+    "rank": 19,
+    "tweet_count": "22.6K Tweets"
+  },
+  {
+    "name": "Pablo Escobar",
+    "query": "\"Pablo Escobar\"",
     "rank": 20,
-    "tweet_count": "4,258 Tweets"
+    "tweet_count": "2,953 Tweets"
   }
 ]
