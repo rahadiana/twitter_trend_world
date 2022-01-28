@@ -1,7 +1,7 @@
 [
   {
-    "name": "#nrkdebatt",
-    "query": "#nrkdebatt",
+    "name": "#Debatten",
+    "query": "#Debatten",
     "rank": 1,
     "tweet_count": null
   },
@@ -9,7 +9,7 @@
     "name": "Neil Young",
     "query": "\"Neil Young\"",
     "rank": 2,
-    "tweet_count": "260K Tweets"
+    "tweet_count": "262K Tweets"
   },
   {
     "name": "Jenny Klinge",
@@ -21,7 +21,7 @@
     "name": "#iHeartAwards",
     "query": "#iHeartAwards",
     "rank": 4,
-    "tweet_count": "1.89M Tweets"
+    "tweet_count": "1.83M Tweets"
   },
   {
     "name": "Solvang",
@@ -33,7 +33,7 @@
     "name": "#BestFanArmy",
     "query": "#BestFanArmy",
     "rank": 6,
-    "tweet_count": "1.97M Tweets"
+    "tweet_count": "1.94M Tweets"
   },
   {
     "name": "#HolocaustRemembranceDay",
@@ -45,7 +45,7 @@
     "name": "Barca",
     "query": "Barca",
     "rank": 8,
-    "tweet_count": "92.4K Tweets"
+    "tweet_count": "93.1K Tweets"
   },
   {
     "name": "rødt",
@@ -81,13 +81,13 @@
     "name": "Kurt",
     "query": "Kurt",
     "rank": 14,
-    "tweet_count": "25K Tweets"
+    "tweet_count": "25.2K Tweets"
   },
   {
-    "name": "Frisk",
-    "query": "Frisk",
+    "name": "frisk",
+    "query": "frisk",
     "rank": 15,
-    "tweet_count": "2,969 Tweets"
+    "tweet_count": "3,021 Tweets"
   },
   {
     "name": "Kondolerer",
@@ -99,23 +99,23 @@
     "name": "Adama",
     "query": "Adama",
     "rank": 17,
-    "tweet_count": "120K Tweets"
+    "tweet_count": "121K Tweets"
+  },
+  {
+    "name": "Auschwitz",
+    "query": "Auschwitz",
+    "rank": 18,
+    "tweet_count": "267K Tweets"
   },
   {
     "name": "Christine",
     "query": "Christine",
-    "rank": 18,
-    "tweet_count": "13.7K Tweets"
+    "rank": 19,
+    "tweet_count": "13.9K Tweets"
   },
   {
     "name": "holse",
     "query": "holse",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "trettebergstuen",
-    "query": "trettebergstuen",
     "rank": 20,
     "tweet_count": null
   }
