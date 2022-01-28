@@ -1,122 +1,116 @@
 [
   {
-    "name": "национальному",
-    "query": "национальному",
+    "name": "Национальному",
+    "query": "Национальному",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "посланием",
-    "query": "посланием",
+    "name": "Посланием",
+    "query": "Посланием",
     "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "послания президента",
-    "query": "\"послания президента\"",
-    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Александр Лукашенко",
     "query": "\"Александр Лукашенко\"",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
-  },
-  {
-    "name": "#iHeartAwards",
-    "query": "#iHeartAwards",
-    "rank": 5,
-    "tweet_count": "3.5M Tweets"
-  },
-  {
-    "name": "интересно",
-    "query": "интересно",
-    "rank": 6,
-    "tweet_count": "9,882 Tweets"
-  },
-  {
-    "name": "#нюдсочетверг",
-    "query": "#нюдсочетверг",
-    "rank": 7,
-    "tweet_count": "1,819 Tweets"
-  },
-  {
-    "name": "#nftart",
-    "query": "#nftart",
-    "rank": 8,
-    "tweet_count": "168K Tweets"
   },
   {
     "name": "#импровизация",
     "query": "#импровизация",
-    "rank": 9,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "#twiby",
+    "query": "#twiby",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "#нюдсочетверг",
+    "query": "#нюдсочетверг",
+    "rank": 6,
+    "tweet_count": "1,827 Tweets"
   },
   {
     "name": "#артон",
     "query": "#артон",
-    "rank": 10,
+    "rank": 7,
     "tweet_count": null
-  },
-  {
-    "name": "Чжун Ли",
-    "query": "\"Чжун Ли\"",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Беларусь",
-    "query": "Беларусь",
-    "rank": 12,
-    "tweet_count": "1,616 Tweets"
   },
   {
     "name": "Странно",
     "query": "Странно",
+    "rank": 8,
+    "tweet_count": "2,495 Tweets"
+  },
+  {
+    "name": "#NFTCommunity",
+    "query": "#NFTCommunity",
+    "rank": 9,
+    "tweet_count": "562K Tweets"
+  },
+  {
+    "name": "Блин",
+    "query": "Блин",
+    "rank": 10,
+    "tweet_count": "8,799 Tweets"
+  },
+  {
+    "name": "Республики Беларусь",
+    "query": "\"Республики Беларусь\"",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "Наверное",
+    "query": "Наверное",
+    "rank": 12,
+    "tweet_count": "7,029 Tweets"
+  },
+  {
+    "name": "радио мир в беларуси",
+    "query": "\"радио мир в беларуси\"",
     "rank": 13,
-    "tweet_count": "2,469 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "в беларуси",
-    "query": "\"в беларуси\"",
+    "name": "Держись",
+    "query": "Держись",
     "rank": 14,
-    "tweet_count": "1,186 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Давай",
-    "query": "Давай",
+    "name": "Выздоравливай",
+    "query": "Выздоравливай",
     "rank": 15,
-    "tweet_count": "7,982 Tweets"
+    "tweet_count": "1,973 Tweets"
   },
   {
-    "name": "Кстати",
-    "query": "Кстати",
+    "name": "Возможно",
+    "query": "Возможно",
     "rank": 16,
-    "tweet_count": "8,894 Tweets"
+    "tweet_count": "5,794 Tweets"
   },
   {
-    "name": "Дааа",
-    "query": "Дааа",
+    "name": "Дудя",
+    "query": "Дудя",
     "rank": 17,
-    "tweet_count": "1,156 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Игра Wordle",
-    "query": "\"Игра Wordle\"",
+    "name": "Молодец",
+    "query": "Молодец",
     "rank": 18,
-    "tweet_count": "1,445 Tweets"
+    "tweet_count": "2,732 Tweets"
   },
   {
     "name": "COVID-19",
     "query": "COVID-19",
     "rank": 19,
-    "tweet_count": "407K Tweets"
-  },
-  {
-    "name": "Держись",
-    "query": "Держись",
-    "rank": 20,
-    "tweet_count": null
+    "tweet_count": "410K Tweets"
   }
 ]
