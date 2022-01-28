@@ -9,7 +9,7 @@
     "name": "Spotify",
     "query": "Spotify",
     "rank": 2,
-    "tweet_count": "1.24M Tweets"
+    "tweet_count": "1.25M Tweets"
   },
   {
     "name": "#påspåret",
@@ -18,22 +18,22 @@
     "tweet_count": null
   },
   {
+    "name": "#Handbollsem",
+    "query": "#Handbollsem",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
     "name": "Neil Young",
     "query": "\"Neil Young\"",
-    "rank": 4,
-    "tweet_count": "229K Tweets"
+    "rank": 5,
+    "tweet_count": "232K Tweets"
   },
   {
     "name": "Spanien",
     "query": "Spanien",
-    "rank": 5,
-    "tweet_count": "2,398 Tweets"
-  },
-  {
-    "name": "#Handbollsem",
-    "query": "#Handbollsem",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "2,468 Tweets"
   },
   {
     "name": "Trevlig",
@@ -42,63 +42,69 @@
     "tweet_count": null
   },
   {
-    "name": "Diaz",
-    "query": "Diaz",
-    "rank": 8,
-    "tweet_count": "220K Tweets"
-  },
-  {
     "name": "Amoo",
     "query": "Amoo",
-    "rank": 9,
-    "tweet_count": "11.4K Tweets"
+    "rank": 8,
+    "tweet_count": "11.5K Tweets"
   },
   {
-    "name": "Mora",
-    "query": "Mora",
-    "rank": 10,
-    "tweet_count": "28.8K Tweets"
+    "name": "Diaz",
+    "query": "Diaz",
+    "rank": 9,
+    "tweet_count": "222K Tweets"
   },
   {
     "name": "Rogan",
     "query": "Rogan",
-    "rank": 11,
-    "tweet_count": "311K Tweets"
+    "rank": 10,
+    "tweet_count": "315K Tweets"
   },
   {
     "name": "Sarr",
     "query": "Sarr",
-    "rank": 12,
-    "tweet_count": "4,369 Tweets"
+    "rank": 11,
+    "tweet_count": "4,451 Tweets"
   },
   {
     "name": "Sabuni",
     "query": "Sabuni",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "Heja Sverige",
+    "query": "\"Heja Sverige\"",
     "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Mora",
+    "query": "Mora",
+    "rank": 14,
+    "tweet_count": "29.2K Tweets"
+  },
+  {
+    "name": "Detsamma",
+    "query": "Detsamma",
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Svenskt Näringsliv",
     "query": "\"Svenskt Näringsliv\"",
-    "rank": 14,
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Frankrike",
+    "query": "Frankrike",
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Henke",
     "query": "Henke",
-    "rank": 15,
+    "rank": 18,
     "tweet_count": null
-  },
-  {
-    "name": "Detsamma",
-    "query": "Detsamma",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Tidal",
-    "query": "Tidal",
-    "rank": 17,
-    "tweet_count": "19.6K Tweets"
   }
 ]
