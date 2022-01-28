@@ -1,19 +1,19 @@
 [
   {
+    "name": "Nils Arne",
+    "query": "\"Nils Arne\"",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "Spotify",
     "query": "Spotify",
-    "rank": 1,
-    "tweet_count": "1.24M Tweets"
+    "rank": 2,
+    "tweet_count": "1.22M Tweets"
   },
   {
     "name": "#Debatten",
     "query": "#Debatten",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "Nils Arne",
-    "query": "\"Nils Arne\"",
     "rank": 3,
     "tweet_count": null
   },
@@ -21,7 +21,7 @@
     "name": "Luis Diaz",
     "query": "\"Luis Diaz\"",
     "rank": 4,
-    "tweet_count": "71.4K Tweets"
+    "tweet_count": "75.3K Tweets"
   },
   {
     "name": "Jenny Klinge",
@@ -30,81 +30,81 @@
     "tweet_count": null
   },
   {
+    "name": "Lerkendal",
+    "query": "Lerkendal",
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
     "name": "Medvedev",
     "query": "Medvedev",
-    "rank": 6,
-    "tweet_count": "37.2K Tweets"
+    "rank": 7,
+    "tweet_count": "38.1K Tweets"
   },
   {
     "name": "Solvang",
     "query": "Solvang",
-    "rank": 7,
+    "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Minamino",
-    "query": "Minamino",
-    "rank": 8,
-    "tweet_count": "7,377 Tweets"
-  },
-  {
-    "name": "Liverpool",
-    "query": "Liverpool",
+    "name": "kongen",
+    "query": "kongen",
     "rank": 9,
-    "tweet_count": "98.8K Tweets"
-  },
-  {
-    "name": "Rogan",
-    "query": "Rogan",
-    "rank": 10,
-    "tweet_count": "302K Tweets"
-  },
-  {
-    "name": "Kongen",
-    "query": "Kongen",
-    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "#iHeartAwards",
     "query": "#iHeartAwards",
-    "rank": 12,
-    "tweet_count": "4.23M Tweets"
+    "rank": 10,
+    "tweet_count": "4.3M Tweets"
   },
   {
-    "name": "Lerkendal",
-    "query": "Lerkendal",
-    "rank": 13,
-    "tweet_count": null
+    "name": "Rogan",
+    "query": "Rogan",
+    "rank": 11,
+    "tweet_count": "293K Tweets"
   },
   {
     "name": "#HolocaustRemembranceDay",
     "query": "#HolocaustRemembranceDay",
-    "rank": 14,
-    "tweet_count": "108K Tweets"
+    "rank": 12,
+    "tweet_count": "106K Tweets"
   },
   {
     "name": "helfo",
     "query": "helfo",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Frankrike",
-    "query": "Frankrike",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "gaute drevdal",
-    "query": "\"gaute drevdal\"",
-    "rank": 17,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "jehovas",
     "query": "jehovas",
-    "rank": 18,
+    "rank": 14,
     "tweet_count": null
+  },
+  {
+    "name": "Ellingsen",
+    "query": "Ellingsen",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Gaute Drevdal",
+    "query": "\"Gaute Drevdal\"",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Kurt",
+    "query": "Kurt",
+    "rank": 17,
+    "tweet_count": "24.5K Tweets"
+  },
+  {
+    "name": "Frisk",
+    "query": "Frisk",
+    "rank": 18,
+    "tweet_count": "2,675 Tweets"
   }
 ]
