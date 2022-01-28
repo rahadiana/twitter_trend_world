@@ -6,8 +6,8 @@
     "tweet_count": null
   },
   {
-    "name": "Nils Arne",
-    "query": "\"Nils Arne\"",
+    "name": "#Debatten",
+    "query": "#Debatten",
     "rank": 2,
     "tweet_count": null
   },
@@ -15,11 +15,11 @@
     "name": "Spotify",
     "query": "Spotify",
     "rank": 3,
-    "tweet_count": "1.23M Tweets"
+    "tweet_count": "1.24M Tweets"
   },
   {
-    "name": "#Debatten",
-    "query": "#Debatten",
+    "name": "Nils Arne",
+    "query": "\"Nils Arne\"",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,13 +27,13 @@
     "name": "Luis Diaz",
     "query": "\"Luis Diaz\"",
     "rank": 5,
-    "tweet_count": "84K Tweets"
+    "tweet_count": "85.3K Tweets"
   },
   {
     "name": "Neil Young",
     "query": "\"Neil Young\"",
     "rank": 6,
-    "tweet_count": "230K Tweets"
+    "tweet_count": "232K Tweets"
   },
   {
     "name": "Lerkendal",
@@ -60,51 +60,57 @@
     "tweet_count": null
   },
   {
-    "name": "Solvang",
-    "query": "Solvang",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
     "name": "#iHeartAwards",
     "query": "#iHeartAwards",
-    "rank": 12,
-    "tweet_count": "4.2M Tweets"
-  },
-  {
-    "name": "Rogan",
-    "query": "Rogan",
-    "rank": 13,
-    "tweet_count": "295K Tweets"
+    "rank": 11,
+    "tweet_count": "4.25M Tweets"
   },
   {
     "name": "Medvedev",
     "query": "Medvedev",
-    "rank": 14,
-    "tweet_count": "40.5K Tweets"
+    "rank": 12,
+    "tweet_count": "40.8K Tweets"
+  },
+  {
+    "name": "Solvang",
+    "query": "Solvang",
+    "rank": 13,
+    "tweet_count": null
   },
   {
     "name": "#HolocaustRemembranceDay",
     "query": "#HolocaustRemembranceDay",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": "102K Tweets"
   },
   {
     "name": "Gaute Drevdal",
     "query": "\"Gaute Drevdal\"",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Karpe",
     "query": "Karpe",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
+  },
+  {
+    "name": "#PokemonLegendsArceus",
+    "query": "#PokemonLegendsArceus",
+    "rank": 17,
+    "tweet_count": "88K Tweets"
   },
   {
     "name": "jehovas",
     "query": "jehovas",
     "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Ellingsen",
+    "query": "Ellingsen",
+    "rank": 19,
     "tweet_count": null
   }
 ]

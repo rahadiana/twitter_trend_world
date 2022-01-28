@@ -6,8 +6,8 @@
     "tweet_count": null
   },
   {
-    "name": "Nils Arne",
-    "query": "\"Nils Arne\"",
+    "name": "#Debatten",
+    "query": "#Debatten",
     "rank": 2,
     "tweet_count": null
   },
@@ -15,11 +15,11 @@
     "name": "Spotify",
     "query": "Spotify",
     "rank": 3,
-    "tweet_count": "1.23M Tweets"
+    "tweet_count": "1.24M Tweets"
   },
   {
-    "name": "#Debatten",
-    "query": "#Debatten",
+    "name": "Nils Arne",
+    "query": "\"Nils Arne\"",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,13 +27,13 @@
     "name": "Luis Diaz",
     "query": "\"Luis Diaz\"",
     "rank": 5,
-    "tweet_count": "84.1K Tweets"
+    "tweet_count": "85.4K Tweets"
   },
   {
     "name": "Neil Young",
     "query": "\"Neil Young\"",
     "rank": 6,
-    "tweet_count": "230K Tweets"
+    "tweet_count": "232K Tweets"
   },
   {
     "name": "Lerkendal",
@@ -63,19 +63,19 @@
     "name": "#iHeartAwards",
     "query": "#iHeartAwards",
     "rank": 11,
-    "tweet_count": "4.22M Tweets"
+    "tweet_count": "4M Tweets"
   },
   {
     "name": "Rogan",
     "query": "Rogan",
     "rank": 12,
-    "tweet_count": "296K Tweets"
+    "tweet_count": "298K Tweets"
   },
   {
     "name": "Medvedev",
     "query": "Medvedev",
     "rank": 13,
-    "tweet_count": "40.5K Tweets"
+    "tweet_count": "40.9K Tweets"
   },
   {
     "name": "Solvang",
@@ -90,32 +90,32 @@
     "tweet_count": "102K Tweets"
   },
   {
-    "name": "Mane",
-    "query": "Mane",
-    "rank": 16,
-    "tweet_count": "53.3K Tweets"
-  },
-  {
     "name": "Gaute Drevdal",
     "query": "\"Gaute Drevdal\"",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Karpe",
     "query": "Karpe",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
+  },
+  {
+    "name": "Mane",
+    "query": "Mane",
+    "rank": 18,
+    "tweet_count": "53.8K Tweets"
+  },
+  {
+    "name": "#PokemonLegendsArceus",
+    "query": "#PokemonLegendsArceus",
+    "rank": 19,
+    "tweet_count": "88.2K Tweets"
   },
   {
     "name": "jehovas",
     "query": "jehovas",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Ellingsen",
-    "query": "Ellingsen",
     "rank": 20,
     "tweet_count": null
   }
