@@ -1,122 +1,98 @@
 [
   {
-    "name": "#Meuthen",
-    "query": "#Meuthen",
+    "name": "Schönen Samstag",
+    "query": "\"Schönen Samstag\"",
     "rank": 1,
-    "tweet_count": "12.7K Tweets"
+    "tweet_count": "1,330 Tweets"
   },
   {
-    "name": "#Eberl",
-    "query": "#Eberl",
+    "name": "#dBPT2022",
+    "query": "#dBPT2022",
     "rank": 2,
-    "tweet_count": "4,864 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#dbdk22",
-    "query": "#dbdk22",
+    "name": "#Kretschmann",
+    "query": "#Kretschmann",
     "rank": 3,
-    "tweet_count": "2,835 Tweets"
+    "tweet_count": "2,714 Tweets"
+  },
+  {
+    "name": "#GameOver",
+    "query": "#GameOver",
+    "rank": 4,
+    "tweet_count": "8,708 Tweets"
   },
   {
     "name": "#Steinbach",
     "query": "#Steinbach",
-    "rank": 4,
-    "tweet_count": "1,973 Tweets"
-  },
-  {
-    "name": "#PokemonLegendenArceus",
-    "query": "#PokemonLegendenArceus",
     "rank": 5,
-    "tweet_count": "11.4K Tweets"
+    "tweet_count": "2,005 Tweets"
   },
   {
-    "name": "Schönen Samstag",
-    "query": "\"Schönen Samstag\"",
+    "name": "#Caturday",
+    "query": "#Caturday",
     "rank": 6,
-    "tweet_count": "1,313 Tweets"
-  },
-  {
-    "name": "Präsenzpflicht im Bundestag",
-    "query": "\"Präsenzpflicht im Bundestag\"",
-    "rank": 7,
-    "tweet_count": "7,572 Tweets"
-  },
-  {
-    "name": "Zeugnis",
-    "query": "Zeugnis",
-    "rank": 8,
-    "tweet_count": "1,641 Tweets"
-  },
-  {
-    "name": "Start ins Wochenende",
-    "query": "\"Start ins Wochenende\"",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Bärbel Bas",
-    "query": "\"Bärbel Bas\"",
-    "rank": 10,
-    "tweet_count": "1,980 Tweets"
-  },
-  {
-    "name": "Petry",
-    "query": "Petry",
-    "rank": 11,
-    "tweet_count": "3,058 Tweets"
-  },
-  {
-    "name": "schönen freitag",
-    "query": "\"schönen freitag\"",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Samstagmorgen",
-    "query": "Samstagmorgen",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Sülze",
-    "query": "Sülze",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Joni Mitchell",
-    "query": "\"Joni Mitchell\"",
-    "rank": 15,
-    "tweet_count": "59.3K Tweets"
-  },
-  {
-    "name": "wordle 223 x",
-    "query": "\"wordle 223 x\"",
-    "rank": 16,
-    "tweet_count": "7,976 Tweets"
+    "tweet_count": "6,314 Tweets"
   },
   {
     "name": "Moin Klaus",
     "query": "\"Moin Klaus\"",
-    "rank": 17,
+    "rank": 7,
     "tweet_count": null
   },
   {
-    "name": "After Eight",
-    "query": "\"After Eight\"",
-    "rank": 18,
-    "tweet_count": "2,766 Tweets"
+    "name": "Facharzt",
+    "query": "Facharzt",
+    "rank": 8,
+    "tweet_count": null
   },
   {
-    "name": "Höcke",
-    "query": "Höcke",
-    "rank": 19,
-    "tweet_count": "3,933 Tweets"
+    "name": "Guten Morgen ihr Lieben",
+    "query": "\"Guten Morgen ihr Lieben\"",
+    "rank": 9,
+    "tweet_count": null
   },
   {
-    "name": "danke max",
-    "query": "\"danke max\"",
-    "rank": 20,
-    "tweet_count": "1,038 Tweets"
+    "name": "Virologen",
+    "query": "Virologen",
+    "rank": 10,
+    "tweet_count": "6,844 Tweets"
+  },
+  {
+    "name": "Sturm",
+    "query": "Sturm",
+    "rank": 11,
+    "tweet_count": "1,670 Tweets"
+  },
+  {
+    "name": "Präsenzpflicht",
+    "query": "Präsenzpflicht",
+    "rank": 12,
+    "tweet_count": "12.5K Tweets"
+  },
+  {
+    "name": "Bärbel Bas",
+    "query": "\"Bärbel Bas\"",
+    "rank": 13,
+    "tweet_count": "2,022 Tweets"
+  },
+  {
+    "name": "Petition",
+    "query": "Petition",
+    "rank": 14,
+    "tweet_count": "79.3K Tweets"
+  },
+  {
+    "name": "#dbdk22",
+    "query": "#dbdk22",
+    "rank": 15,
+    "tweet_count": "2,870 Tweets"
+  },
+  {
+    "name": "#TruckersForFreedom2022",
+    "query": "#TruckersForFreedom2022",
+    "rank": 16,
+    "tweet_count": "115K Tweets"
   }
 ]

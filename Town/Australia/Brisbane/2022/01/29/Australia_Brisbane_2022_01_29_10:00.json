@@ -1,104 +1,122 @@
 [
   {
+    "name": "Ipswich",
+    "query": "Ipswich",
+    "rank": 1,
+    "tweet_count": "1,663 Tweets"
+  },
+  {
     "name": "#AusOpen",
     "query": "#AusOpen",
-    "rank": 1,
-    "tweet_count": "68.9K Tweets"
+    "rank": 2,
+    "tweet_count": "72.7K Tweets"
   },
   {
     "name": "#BartyParty",
     "query": "#BartyParty",
-    "rank": 2,
-    "tweet_count": "6,198 Tweets"
+    "rank": 3,
+    "tweet_count": "6,768 Tweets"
   },
   {
-    "name": "#AO2022",
-    "query": "#AO2022",
-    "rank": 3,
-    "tweet_count": "23.9K Tweets"
+    "name": "Evonne Goolagong Cawley",
+    "query": "\"Evonne Goolagong Cawley\"",
+    "rank": 4,
+    "tweet_count": "1,640 Tweets"
   },
   {
     "name": "Go Ash",
     "query": "\"Go Ash\"",
-    "rank": 4,
-    "tweet_count": "2,604 Tweets"
+    "rank": 5,
+    "tweet_count": "2,659 Tweets"
   },
   {
     "name": "#BRIvWSW",
     "query": "#BRIvWSW",
-    "rank": 5,
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "Yes Ash",
+    "query": "\"Yes Ash\"",
+    "rank": 7,
+    "tweet_count": "1,025 Tweets"
+  },
+  {
+    "name": "Cathy Freeman",
+    "query": "\"Cathy Freeman\"",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "Congrats Ash",
+    "query": "\"Congrats Ash\"",
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "#MVCvWEL",
     "query": "#MVCvWEL",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "C'mon Ash",
-    "query": "\"C'mon Ash\"",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
-    "name": "Russell Crowe",
-    "query": "\"Russell Crowe\"",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "Joni Mitchell",
-    "query": "\"Joni Mitchell\"",
-    "rank": 9,
-    "tweet_count": "59.3K Tweets"
-  },
-  {
-    "name": "Jelena Dokic",
-    "query": "\"Jelena Dokic\"",
     "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Koala",
-    "query": "Koala",
-    "rank": 11,
-    "tweet_count": "12.6K Tweets"
-  },
-  {
-    "name": "Rosehill",
-    "query": "Rosehill",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Son of Omicron",
-    "query": "\"Son of Omicron\"",
-    "rank": 13,
-    "tweet_count": "2,684 Tweets"
-  },
-  {
-    "name": "#FFACup",
-    "query": "#FFACup",
-    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "#WUNvMCY",
     "query": "#WUNvMCY",
-    "rank": 15,
+    "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "#BRIvMCY",
-    "query": "#BRIvMCY",
+    "name": "C'mon Ash",
+    "query": "\"C'mon Ash\"",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "Wanderers",
+    "query": "Wanderers",
+    "rank": 13,
+    "tweet_count": "2,658 Tweets"
+  },
+  {
+    "name": "Russell Crowe",
+    "query": "\"Russell Crowe\"",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Robbo",
+    "query": "Robbo",
+    "rank": 15,
+    "tweet_count": "1,496 Tweets"
+  },
+  {
+    "name": "Margaret Court",
+    "query": "\"Margaret Court\"",
     "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "#AustralianOpen",
-    "query": "#AustralianOpen",
+    "name": "Grand Slam",
+    "query": "\"Grand Slam\"",
     "rank": 17,
-    "tweet_count": "5,385 Tweets"
+    "tweet_count": "18.2K Tweets"
+  },
+  {
+    "name": "Wimbledon",
+    "query": "Wimbledon",
+    "rank": 18,
+    "tweet_count": "3,726 Tweets"
+  },
+  {
+    "name": "Joni Mitchell",
+    "query": "\"Joni Mitchell\"",
+    "rank": 19,
+    "tweet_count": "60.2K Tweets"
+  },
+  {
+    "name": "Jelena Dokic",
+    "query": "\"Jelena Dokic\"",
+    "rank": 20,
+    "tweet_count": null
   }
 ]
