@@ -3,7 +3,7 @@
     "name": "Spotify",
     "query": "Spotify",
     "rank": 1,
-    "tweet_count": "1.26M Tweets"
+    "tweet_count": "1.3M Tweets"
   },
   {
     "name": "#GAABEO",
@@ -12,22 +12,22 @@
     "tweet_count": null
   },
   {
-    "name": "Kilcoo",
-    "query": "Kilcoo",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
     "name": "#ZEBvMUN",
     "query": "#ZEBvMUN",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Paisley Park",
     "query": "\"Paisley Park\"",
+    "rank": 4,
+    "tweet_count": "1,924 Tweets"
+  },
+  {
+    "name": "Kilcoo",
+    "query": "Kilcoo",
     "rank": 5,
-    "tweet_count": "1,865 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#CONvGLA",
@@ -39,7 +39,7 @@
     "name": "#LateLate",
     "query": "#LateLate",
     "rank": 7,
-    "tweet_count": "1,031 Tweets"
+    "tweet_count": "1,048 Tweets"
   },
   {
     "name": "Barrs",
@@ -57,25 +57,25 @@
     "name": "Bloody Sunday",
     "query": "\"Bloody Sunday\"",
     "rank": 10,
-    "tweet_count": "10.7K Tweets"
+    "tweet_count": "11.4K Tweets"
   },
   {
     "name": "Ross County",
     "query": "\"Ross County\"",
     "rank": 11,
-    "tweet_count": "6,754 Tweets"
+    "tweet_count": "6,827 Tweets"
   },
   {
     "name": "Pied Piper",
     "query": "\"Pied Piper\"",
     "rank": 12,
-    "tweet_count": "3,148 Tweets"
+    "tweet_count": "3,217 Tweets"
   },
   {
     "name": "Diaz",
     "query": "Diaz",
     "rank": 13,
-    "tweet_count": "116K Tweets"
+    "tweet_count": "117K Tweets"
   },
   {
     "name": "Wexford",
@@ -90,10 +90,10 @@
     "tweet_count": null
   },
   {
-    "name": "Amad",
-    "query": "Amad",
+    "name": "Abada",
+    "query": "Abada",
     "rank": 16,
-    "tweet_count": "31.4K Tweets"
+    "tweet_count": "3,581 Tweets"
   },
   {
     "name": "Tubridy",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "Russia",
-    "query": "Russia",
+    "name": "Ireland's Call",
+    "query": "\"Ireland's Call\"",
     "rank": 18,
-    "tweet_count": "219K Tweets"
-  },
-  {
-    "name": "Abada",
-    "query": "Abada",
-    "rank": 19,
-    "tweet_count": "3,450 Tweets"
-  },
-  {
-    "name": "Connacht",
-    "query": "Connacht",
-    "rank": 20,
     "tweet_count": null
+  },
+  {
+    "name": "Ireland's EEZ",
+    "query": "\"Ireland's EEZ\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Russians",
+    "query": "Russians",
+    "rank": 20,
+    "tweet_count": "14.8K Tweets"
   }
 ]
