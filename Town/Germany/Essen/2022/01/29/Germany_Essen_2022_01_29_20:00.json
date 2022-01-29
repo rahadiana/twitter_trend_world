@@ -1,86 +1,110 @@
 [
   {
-    "name": "Satire",
-    "query": "Satire",
-    "rank": 1,
-    "tweet_count": "11K Tweets"
-  },
-  {
-    "name": "Tom Brady",
-    "query": "\"Tom Brady\"",
-    "rank": 2,
-    "tweet_count": "357K Tweets"
-  },
-  {
     "name": "#schlagdenstar",
     "query": "#schlagdenstar",
-    "rank": 3,
-    "tweet_count": "1,516 Tweets"
+    "rank": 1,
+    "tweet_count": "1,634 Tweets"
+  },
+  {
+    "name": "#Brady",
+    "query": "#Brady",
+    "rank": 2,
+    "tweet_count": "3,159 Tweets"
   },
   {
     "name": "#DSDS",
     "query": "#DSDS",
+    "rank": 3,
+    "tweet_count": "1,365 Tweets"
+  },
+  {
+    "name": "Tom Brady",
+    "query": "\"Tom Brady\"",
     "rank": 4,
-    "tweet_count": "1,246 Tweets"
-  },
-  {
-    "name": "#Boehmermann",
-    "query": "#Boehmermann",
-    "rank": 5,
-    "tweet_count": "3,651 Tweets"
-  },
-  {
-    "name": "#le2901",
-    "query": "#le2901",
-    "rank": 6,
-    "tweet_count": "5,702 Tweets"
-  },
-  {
-    "name": "Psychiatrie",
-    "query": "Psychiatrie",
-    "rank": 7,
-    "tweet_count": "5,344 Tweets"
+    "tweet_count": "378K Tweets"
   },
   {
     "name": "Steven",
     "query": "Steven",
+    "rank": 5,
+    "tweet_count": "29.8K Tweets"
+  },
+  {
+    "name": "Psychiatrie",
+    "query": "Psychiatrie",
+    "rank": 6,
+    "tweet_count": "5,445 Tweets"
+  },
+  {
+    "name": "Max Kruse",
+    "query": "\"Max Kruse\"",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "Klinik",
+    "query": "Klinik",
     "rank": 8,
-    "tweet_count": "29.6K Tweets"
+    "tweet_count": "7,097 Tweets"
   },
   {
-    "name": "Ratten",
-    "query": "Ratten",
+    "name": "Satire",
+    "query": "Satire",
     "rank": 9,
-    "tweet_count": "3,454 Tweets"
+    "tweet_count": "11.2K Tweets"
   },
   {
-    "name": "#Sturm",
-    "query": "#Sturm",
+    "name": "Elton",
+    "query": "Elton",
     "rank": 10,
-    "tweet_count": "1,727 Tweets"
+    "tweet_count": "5,916 Tweets"
   },
   {
-    "name": "#FCMFCS",
-    "query": "#FCMFCS",
+    "name": "Samstag Abend",
+    "query": "\"Samstag Abend\"",
     "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "#Nadia",
-    "query": "#Nadia",
+    "name": "Landfriedensbruch",
+    "query": "Landfriedensbruch",
     "rank": 12,
-    "tweet_count": "1,053 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#dbdk22",
-    "query": "#dbdk22",
+    "name": "Ratten",
+    "query": "Ratten",
     "rank": 13,
-    "tweet_count": "5,260 Tweets"
+    "tweet_count": "3,540 Tweets"
   },
   {
-    "name": "#Gruene",
-    "query": "#Gruene",
+    "name": "Fortschrittskoalition",
+    "query": "Fortschrittskoalition",
     "rank": 14,
-    "tweet_count": "2,096 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Brücken",
+    "query": "Brücken",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Omid",
+    "query": "Omid",
+    "rank": 16,
+    "tweet_count": "3,587 Tweets"
+  },
+  {
+    "name": "Locken",
+    "query": "Locken",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Norden",
+    "query": "Norden",
+    "rank": 18,
+    "tweet_count": "1,922 Tweets"
   }
 ]
