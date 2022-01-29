@@ -3,37 +3,37 @@
     "name": "#iHeartAwards",
     "query": "#iHeartAwards",
     "rank": 1,
-    "tweet_count": "3.15M Tweets"
+    "tweet_count": "3.18M Tweets"
   },
   {
     "name": "#BestFanArmy",
     "query": "#BestFanArmy",
     "rank": 2,
-    "tweet_count": "1.81M Tweets"
-  },
-  {
-    "name": "#вордли",
-    "query": "#вордли",
-    "rank": 3,
-    "tweet_count": "1,170 Tweets"
-  },
-  {
-    "name": "Игра Wordle",
-    "query": "\"Игра Wordle\"",
-    "rank": 4,
-    "tweet_count": "1,193 Tweets"
+    "tweet_count": "1.83M Tweets"
   },
   {
     "name": "Ленинграда",
     "query": "Ленинграда",
-    "rank": 5,
-    "tweet_count": "2,256 Tweets"
+    "rank": 3,
+    "tweet_count": "2,267 Tweets"
   },
   {
     "name": "#Louies",
     "query": "#Louies",
+    "rank": 4,
+    "tweet_count": "450K Tweets"
+  },
+  {
+    "name": "#JimmyKimmelRacist",
+    "query": "#JimmyKimmelRacist",
+    "rank": 5,
+    "tweet_count": "116K Tweets"
+  },
+  {
+    "name": "Игра Wordle",
+    "query": "\"Игра Wordle\"",
     "rank": 6,
-    "tweet_count": "446K Tweets"
+    "tweet_count": "1,244 Tweets"
   },
   {
     "name": "Акутагава",
@@ -42,28 +42,28 @@
     "tweet_count": null
   },
   {
-    "name": "Утра",
-    "query": "Утра",
+    "name": "Медведев",
+    "query": "Медведев",
     "rank": 8,
-    "tweet_count": "4,849 Tweets"
+    "tweet_count": "3,634 Tweets"
   },
   {
     "name": "NEWS-BBC-NEWS",
     "query": "NEWS-BBC-NEWS",
     "rank": 9,
-    "tweet_count": "97.6K Tweets"
-  },
-  {
-    "name": "Медведев",
-    "query": "Медведев",
-    "rank": 10,
-    "tweet_count": "3,596 Tweets"
+    "tweet_count": "99K Tweets"
   },
   {
     "name": "Афганистана",
     "query": "Афганистана",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
+  },
+  {
+    "name": "Утра",
+    "query": "Утра",
+    "rank": 11,
+    "tweet_count": "4,980 Tweets"
   },
   {
     "name": "социальный",
@@ -99,6 +99,6 @@
     "name": "фонд",
     "query": "фонд",
     "rank": 17,
-    "tweet_count": "1,279 Tweets"
+    "tweet_count": "1,300 Tweets"
   }
 ]
