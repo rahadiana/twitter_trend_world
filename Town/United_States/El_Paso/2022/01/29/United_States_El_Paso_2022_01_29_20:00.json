@@ -3,102 +3,108 @@
     "name": "Tom Brady",
     "query": "\"Tom Brady\"",
     "rank": 1,
-    "tweet_count": "285K Tweets"
-  },
-  {
-    "name": "#TomBrady",
-    "query": "#TomBrady",
-    "rank": 2,
-    "tweet_count": "5,895 Tweets"
+    "tweet_count": "359K Tweets"
   },
   {
     "name": "New England",
     "query": "\"New England\"",
-    "rank": 3,
-    "tweet_count": "16.9K Tweets"
+    "rank": 2,
+    "tweet_count": "18.2K Tweets"
   },
   {
     "name": "Patriot",
     "query": "Patriot",
-    "rank": 4,
-    "tweet_count": "32.3K Tweets"
+    "rank": 3,
+    "tweet_count": "33.5K Tweets"
   },
   {
     "name": "Canton",
     "query": "Canton",
-    "rank": 5,
-    "tweet_count": "9,485 Tweets"
+    "rank": 4,
+    "tweet_count": "10.3K Tweets"
   },
   {
     "name": "#RoyalRumble",
     "query": "#RoyalRumble",
+    "rank": 5,
+    "tweet_count": "55.3K Tweets"
+  },
+  {
+    "name": "Bruce Arians",
+    "query": "\"Bruce Arians\"",
     "rank": 6,
-    "tweet_count": "53.1K Tweets"
+    "tweet_count": "1,654 Tweets"
   },
   {
     "name": "Matt Ryan",
     "query": "\"Matt Ryan\"",
     "rank": 7,
-    "tweet_count": "1,851 Tweets"
+    "tweet_count": "2,312 Tweets"
   },
   {
-    "name": "#Caturday",
-    "query": "#Caturday",
+    "name": "Gretzky",
+    "query": "Gretzky",
     "rank": 8,
-    "tweet_count": "24.4K Tweets"
+    "tweet_count": "2,061 Tweets"
   },
   {
     "name": "Skip Bayless",
     "query": "\"Skip Bayless\"",
     "rank": 9,
-    "tweet_count": "3,858 Tweets"
+    "tweet_count": "4,593 Tweets"
   },
   {
-    "name": "#BlizzardOf2022",
-    "query": "#BlizzardOf2022",
+    "name": "#Caturday",
+    "query": "#Caturday",
     "rank": 10,
-    "tweet_count": "1,433 Tweets"
-  },
-  {
-    "name": "Gretzky",
-    "query": "Gretzky",
-    "rank": 11,
-    "tweet_count": "1,596 Tweets"
-  },
-  {
-    "name": "#Rolex24",
-    "query": "#Rolex24",
-    "rank": 12,
-    "tweet_count": "9,087 Tweets"
-  },
-  {
-    "name": "Jameis",
-    "query": "Jameis",
-    "rank": 13,
-    "tweet_count": "1,308 Tweets"
-  },
-  {
-    "name": "Gasparilla",
-    "query": "Gasparilla",
-    "rank": 14,
-    "tweet_count": "3,397 Tweets"
-  },
-  {
-    "name": "Father Time",
-    "query": "\"Father Time\"",
-    "rank": 15,
-    "tweet_count": "5,247 Tweets"
+    "tweet_count": "25.3K Tweets"
   },
   {
     "name": "Nick Foles",
     "query": "\"Nick Foles\"",
+    "rank": 11,
+    "tweet_count": "1,094 Tweets"
+  },
+  {
+    "name": "#blizzard2022",
+    "query": "#blizzard2022",
+    "rank": 12,
+    "tweet_count": "12.2K Tweets"
+  },
+  {
+    "name": "Tubbo",
+    "query": "Tubbo",
+    "rank": 13,
+    "tweet_count": "31K Tweets"
+  },
+  {
+    "name": "Jameis",
+    "query": "Jameis",
+    "rank": 14,
+    "tweet_count": "1,582 Tweets"
+  },
+  {
+    "name": "Joe Montana",
+    "query": "\"Joe Montana\"",
+    "rank": 15,
+    "tweet_count": "1,491 Tweets"
+  },
+  {
+    "name": "Gasparilla",
+    "query": "Gasparilla",
     "rank": 16,
-    "tweet_count": null
+    "tweet_count": "3,535 Tweets"
   },
   {
     "name": "Drew Bledsoe",
     "query": "\"Drew Bledsoe\"",
     "rank": 17,
     "tweet_count": null
+  },
+  {
+    "name": "Father Time",
+    "query": "\"Father Time\"",
+    "rank": 18,
+    "tweet_count": "5,437 Tweets"
   }
 ]
