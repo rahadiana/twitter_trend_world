@@ -1,21 +1,21 @@
 [
   {
-    "name": "HiMERU",
-    "query": "HiMERU",
-    "rank": 1,
-    "tweet_count": "18.3K Tweets"
-  },
-  {
     "name": "#SixTONESANN",
     "query": "#SixTONESANN",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "260K Tweets"
   },
   {
     "name": "Wordle 225",
     "query": "\"Wordle 225\"",
+    "rank": 2,
+    "tweet_count": "27.4K Tweets"
+  },
+  {
+    "name": "#水溜りボンドANN0",
+    "query": "#水溜りボンドANN0",
     "rank": 3,
-    "tweet_count": "26.6K Tweets"
+    "tweet_count": "8,159 Tweets"
   },
   {
     "name": "#ノブコブANN",
@@ -24,44 +24,44 @@
     "tweet_count": "10.4K Tweets"
   },
   {
-    "name": "#水溜りボンドANN0",
-    "query": "#水溜りボンドANN0",
-    "rank": 5,
-    "tweet_count": "7,155 Tweets"
-  },
-  {
     "name": "どうぶつ睡眠タイプ診断",
     "query": "どうぶつ睡眠タイプ診断",
-    "rank": 6,
-    "tweet_count": "2,551 Tweets"
+    "rank": 5,
+    "tweet_count": "2,627 Tweets"
   },
   {
     "name": "#fmgenki",
     "query": "#fmgenki",
-    "rank": 7,
-    "tweet_count": "9,596 Tweets"
+    "rank": 6,
+    "tweet_count": "10K Tweets"
   },
   {
     "name": "#ファンラジ795",
     "query": "#ファンラジ795",
-    "rank": 8,
-    "tweet_count": "1,489 Tweets"
+    "rank": 7,
+    "tweet_count": "1,553 Tweets"
   },
   {
     "name": "Kotobade Asobou",
     "query": "\"Kotobade Asobou\"",
-    "rank": 9,
-    "tweet_count": "1,499 Tweets"
+    "rank": 8,
+    "tweet_count": "1,523 Tweets"
   },
   {
     "name": "きょもゆご",
     "query": "きょもゆご",
-    "rank": 10,
-    "tweet_count": "9,323 Tweets"
+    "rank": 9,
+    "tweet_count": "9,335 Tweets"
   },
   {
     "name": "クマタイプ",
     "query": "クマタイプ",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "イルカタイプ",
+    "query": "イルカタイプ",
     "rank": 11,
     "tweet_count": null
   },
@@ -69,11 +69,11 @@
     "name": "ぱしゃっつ",
     "query": "ぱしゃっつ",
     "rank": 12,
-    "tweet_count": "28.8K Tweets"
+    "tweet_count": "28.9K Tweets"
   },
   {
-    "name": "イルカタイプ",
-    "query": "イルカタイプ",
+    "name": "完璧主義者",
+    "query": "完璧主義者",
     "rank": 13,
     "tweet_count": null
   },
@@ -84,22 +84,22 @@
     "tweet_count": null
   },
   {
-    "name": "完璧主義者",
-    "query": "完璧主義者",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
     "name": "職人気質",
     "query": "職人気質",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "わこじぇる",
     "query": "わこじぇる",
+    "rank": 16,
+    "tweet_count": "9,011 Tweets"
+  },
+  {
+    "name": "カンタくん",
+    "query": "カンタくん",
     "rank": 17,
-    "tweet_count": "8,958 Tweets"
+    "tweet_count": null
   },
   {
     "name": "エンキョリクライ",
@@ -111,12 +111,12 @@
     "name": "ルカさん",
     "query": "ルカさん",
     "rank": 19,
-    "tweet_count": "22.3K Tweets"
+    "tweet_count": "22.4K Tweets"
   },
   {
-    "name": "雪白の月",
-    "query": "雪白の月",
+    "name": "ジェルくん",
+    "query": "ジェルくん",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "13.9K Tweets"
   }
 ]
