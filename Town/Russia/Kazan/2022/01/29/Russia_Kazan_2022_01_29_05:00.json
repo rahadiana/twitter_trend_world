@@ -1,69 +1,69 @@
 [
   {
-    "name": "#iHeartAwards",
-    "query": "#iHeartAwards",
-    "rank": 1,
-    "tweet_count": "2.7M Tweets"
-  },
-  {
     "name": "#JimmyKimmelRacist",
     "query": "#JimmyKimmelRacist",
+    "rank": 1,
+    "tweet_count": "106K Tweets"
+  },
+  {
+    "name": "#iHeartAwards",
+    "query": "#iHeartAwards",
     "rank": 2,
-    "tweet_count": "104K Tweets"
+    "tweet_count": "3.3M Tweets"
   },
   {
     "name": "#BestFanArmy",
     "query": "#BestFanArmy",
     "rank": 3,
-    "tweet_count": "1.89M Tweets"
+    "tweet_count": "1.85M Tweets"
   },
   {
-    "name": "сводка чс",
-    "query": "\"сводка чс\"",
+    "name": "#сводка_чс",
+    "query": "#сводка_чс",
     "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "Ленинграда",
-    "query": "Ленинграда",
+    "name": "#вордли",
+    "query": "#вордли",
     "rank": 5,
-    "tweet_count": "2,724 Tweets"
+    "tweet_count": "1,295 Tweets"
   },
   {
-    "name": "#Louies",
-    "query": "#Louies",
+    "name": "Игра Wordle",
+    "query": "\"Игра Wordle\"",
     "rank": 6,
-    "tweet_count": "450K Tweets"
+    "tweet_count": "1,339 Tweets"
+  },
+  {
+    "name": "Ленинграда",
+    "query": "Ленинграда",
+    "rank": 7,
+    "tweet_count": "2,738 Tweets"
   },
   {
     "name": "Акутагава",
     "query": "Акутагава",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
-    "name": "#BTSARMY",
-    "query": "#BTSARMY",
     "rank": 8,
-    "tweet_count": "1.32M Tweets"
+    "tweet_count": null
   },
   {
     "name": "NEWS-BBC-NEWS",
     "query": "NEWS-BBC-NEWS",
     "rank": 9,
-    "tweet_count": "96.3K Tweets"
+    "tweet_count": "97K Tweets"
   },
   {
     "name": "Медведев",
     "query": "Медведев",
     "rank": 10,
-    "tweet_count": "4,005 Tweets"
+    "tweet_count": "4,017 Tweets"
   },
   {
-    "name": "Игра Wordle",
-    "query": "\"Игра Wordle\"",
+    "name": "Афганистана",
+    "query": "Афганистана",
     "rank": 11,
-    "tweet_count": "1,323 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Главного",
@@ -96,21 +96,21 @@
     "tweet_count": null
   },
   {
+    "name": "Лавров",
+    "query": "Лавров",
+    "rank": 17,
+    "tweet_count": "10K Tweets"
+  },
+  {
     "name": "альфа",
     "query": "альфа",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "фонд",
     "query": "фонд",
-    "rank": 18,
-    "tweet_count": "1,479 Tweets"
-  },
-  {
-    "name": "циципаса",
-    "query": "циципаса",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "1,480 Tweets"
   }
 ]
