@@ -1,15 +1,15 @@
 [
   {
-    "name": "Leinster",
-    "query": "Leinster",
-    "rank": 1,
-    "tweet_count": "1,403 Tweets"
-  },
-  {
     "name": "Armagh",
     "query": "Armagh",
+    "rank": 1,
+    "tweet_count": "2,388 Tweets"
+  },
+  {
+    "name": "#CARvLEI",
+    "query": "#CARvLEI",
     "rank": 2,
-    "tweet_count": "2,284 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#DUBvARM",
@@ -21,7 +21,7 @@
     "name": "Tom Brady",
     "query": "\"Tom Brady\"",
     "rank": 4,
-    "tweet_count": "441K Tweets"
+    "tweet_count": "461K Tweets"
   },
   {
     "name": "#MaskedSingerUK",
@@ -30,87 +30,93 @@
     "tweet_count": "11.3K Tweets"
   },
   {
-    "name": "#CARvLEI",
-    "query": "#CARvLEI",
+    "name": "Cardiff",
+    "query": "Cardiff",
     "rank": 6,
+    "tweet_count": "7,151 Tweets"
+  },
+  {
+    "name": "#AllianzLeagues",
+    "query": "#AllianzLeagues",
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Rian O'Neill",
     "query": "\"Rian O'Neill\"",
-    "rank": 7,
+    "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "#AllianzLeagues",
-    "query": "#AllianzLeagues",
-    "rank": 8,
+    "name": "Rian O'Neill",
+    "query": "\"Rian O'Neill\"",
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Dubs",
     "query": "Dubs",
-    "rank": 9,
-    "tweet_count": "4,790 Tweets"
+    "rank": 10,
+    "tweet_count": "4,848 Tweets"
+  },
+  {
+    "name": "Brady",
+    "query": "Brady",
+    "rank": 11,
+    "tweet_count": "573K Tweets"
+  },
+  {
+    "name": "Leinster",
+    "query": "Leinster",
+    "rank": 12,
+    "tweet_count": "1,542 Tweets"
   },
   {
     "name": "Croke Park",
     "query": "\"Croke Park\"",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "GOAT",
-    "query": "GOAT",
-    "rank": 11,
-    "tweet_count": "342K Tweets"
-  },
-  {
-    "name": "#COYBIB",
-    "query": "#COYBIB",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "West Cork",
-    "query": "\"West Cork\"",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "Croker",
-    "query": "Croker",
+    "name": "Diaz",
+    "query": "Diaz",
     "rank": 14,
-    "tweet_count": null
+    "tweet_count": "103K Tweets"
   },
   {
-    "name": "Joni Mitchell",
-    "query": "\"Joni Mitchell\"",
+    "name": "#PPCheltenham",
+    "query": "#PPCheltenham",
     "rank": 15,
-    "tweet_count": "151K Tweets"
-  },
-  {
-    "name": "#GAABEO",
-    "query": "#GAABEO",
-    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "#RoyalRumble",
-    "query": "#RoyalRumble",
-    "rank": 17,
-    "tweet_count": "57.9K Tweets"
+    "name": "Michael Owen",
+    "query": "\"Michael Owen\"",
+    "rank": 16,
+    "tweet_count": "2,306 Tweets"
   },
   {
-    "name": "#CONVGLA",
-    "query": "#CONVGLA",
+    "name": "Bloody Sunday",
+    "query": "\"Bloody Sunday\"",
+    "rank": 17,
+    "tweet_count": "13.9K Tweets"
+  },
+  {
+    "name": "Dessie",
+    "query": "Dessie",
     "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "#BloodySunday50",
-    "query": "#BloodySunday50",
+    "name": "Donie",
+    "query": "Donie",
     "rank": 19,
-    "tweet_count": "6,525 Tweets"
+    "tweet_count": "5,129 Tweets"
+  },
+  {
+    "name": "Richard O'Halloran",
+    "query": "\"Richard O'Halloran\"",
+    "rank": 20,
+    "tweet_count": null
   }
 ]
