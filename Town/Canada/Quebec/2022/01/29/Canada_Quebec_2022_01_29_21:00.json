@@ -1,116 +1,122 @@
 [
   {
-    "name": "Canadians",
-    "query": "Canadians",
+    "name": "#AFCON2021",
+    "query": "#AFCON2021",
     "rank": 1,
-    "tweet_count": "98.6K Tweets"
+    "tweet_count": "46K Tweets"
+  },
+  {
+    "name": "#ConvoyForFreedom2022",
+    "query": "#ConvoyForFreedom2022",
+    "rank": 2,
+    "tweet_count": "35K Tweets"
   },
   {
     "name": "Terry Fox",
     "query": "\"Terry Fox\"",
-    "rank": 2,
-    "tweet_count": "23.4K Tweets"
+    "rank": 3,
+    "tweet_count": "25.2K Tweets"
   },
   {
     "name": "Tom Brady",
     "query": "\"Tom Brady\"",
-    "rank": 3,
-    "tweet_count": "461K Tweets"
+    "rank": 4,
+    "tweet_count": "485K Tweets"
   },
   {
-    "name": "Brady",
-    "query": "Brady",
-    "rank": 4,
-    "tweet_count": "571K Tweets"
+    "name": "#TB12",
+    "query": "#TB12",
+    "rank": 5,
+    "tweet_count": "11.4K Tweets"
+  },
+  {
+    "name": "#GOAT",
+    "query": "#GOAT",
+    "rank": 6,
+    "tweet_count": "10.4K Tweets"
   },
   {
     "name": "#FluTrucksKlan",
     "query": "#FluTrucksKlan",
-    "rank": 5,
-    "tweet_count": "18.5K Tweets"
-  },
-  {
-    "name": "Parliament Hill",
-    "query": "\"Parliament Hill\"",
-    "rank": 6,
-    "tweet_count": "60.5K Tweets"
-  },
-  {
-    "name": "#freedomconvoy22",
-    "query": "#freedomconvoy22",
     "rank": 7,
-    "tweet_count": "26.6K Tweets"
+    "tweet_count": "19K Tweets"
   },
   {
     "name": "Tomb of the Unknown Soldier",
     "query": "\"Tomb of the Unknown Soldier\"",
     "rank": 8,
-    "tweet_count": "4,706 Tweets"
+    "tweet_count": "5,015 Tweets"
   },
   {
-    "name": "#IStandWithTrudeau",
-    "query": "#IStandWithTrudeau",
+    "name": "Parliament Hill",
+    "query": "\"Parliament Hill\"",
     "rank": 9,
-    "tweet_count": "4,547 Tweets"
+    "tweet_count": "62K Tweets"
   },
   {
-    "name": "#Ottawa",
-    "query": "#Ottawa",
+    "name": "Schefter",
+    "query": "Schefter",
     "rank": 10,
-    "tweet_count": "60.9K Tweets"
+    "tweet_count": "7,893 Tweets"
   },
   {
-    "name": "Nazis",
-    "query": "Nazis",
+    "name": "Gronk",
+    "query": "Gronk",
     "rank": 11,
-    "tweet_count": "53.4K Tweets"
-  },
-  {
-    "name": "National War Memorial",
-    "query": "\"National War Memorial\"",
-    "rank": 12,
-    "tweet_count": "3,252 Tweets"
-  },
-  {
-    "name": "Canada Day",
-    "query": "\"Canada Day\"",
-    "rank": 13,
-    "tweet_count": "10.5K Tweets"
+    "tweet_count": "11.2K Tweets"
   },
   {
     "name": "Michael Cooper",
     "query": "\"Michael Cooper\"",
+    "rank": 12,
+    "tweet_count": "2,912 Tweets"
+  },
+  {
+    "name": "Nazis",
+    "query": "Nazis",
+    "rank": 13,
+    "tweet_count": "54.3K Tweets"
+  },
+  {
+    "name": "National War Memorial",
+    "query": "\"National War Memorial\"",
     "rank": 14,
-    "tweet_count": "2,805 Tweets"
+    "tweet_count": "3,537 Tweets"
   },
   {
-    "name": "Rideau Centre",
-    "query": "\"Rideau Centre\"",
+    "name": "Canada Day",
+    "query": "\"Canada Day\"",
     "rank": 15,
-    "tweet_count": "1,538 Tweets"
+    "tweet_count": "10.7K Tweets"
   },
   {
-    "name": "Islamophobia",
-    "query": "Islamophobia",
+    "name": "Cenotaph",
+    "query": "Cenotaph",
     "rank": 16,
-    "tweet_count": "21K Tweets"
-  },
-  {
-    "name": "Gretzky",
-    "query": "Gretzky",
-    "rank": 17,
-    "tweet_count": "2,717 Tweets"
+    "tweet_count": "5,581 Tweets"
   },
   {
     "name": "Jagmeet",
     "query": "Jagmeet",
-    "rank": 18,
-    "tweet_count": "1,417 Tweets"
+    "rank": 17,
+    "tweet_count": "1,572 Tweets"
   },
   {
-    "name": "Disgusting",
-    "query": "Disgusting",
+    "name": "Rideau Centre",
+    "query": "\"Rideau Centre\"",
+    "rank": 18,
+    "tweet_count": "1,652 Tweets"
+  },
+  {
+    "name": "Gretzky",
+    "query": "Gretzky",
     "rank": 19,
-    "tweet_count": "86.8K Tweets"
+    "tweet_count": "2,874 Tweets"
+  },
+  {
+    "name": "Swastikas",
+    "query": "Swastikas",
+    "rank": 20,
+    "tweet_count": "11.6K Tweets"
   }
 ]
