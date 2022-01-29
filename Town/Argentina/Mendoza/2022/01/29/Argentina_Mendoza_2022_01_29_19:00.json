@@ -1,122 +1,110 @@
 [
   {
-    "name": "#iHeartAwards",
-    "query": "#iHeartAwards",
-    "rank": 1,
-    "tweet_count": "2.81M Tweets"
-  },
-  {
-    "name": "Chile",
-    "query": "Chile",
-    "rank": 2,
-    "tweet_count": "143K Tweets"
-  },
-  {
-    "name": "#YoEscuchoLOS40",
-    "query": "#YoEscuchoLOS40",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "#AcuerdoconelFMI",
-    "query": "#AcuerdoconelFMI",
-    "rank": 4,
-    "tweet_count": "3,495 Tweets"
-  },
-  {
-    "name": "Macri",
-    "query": "Macri",
-    "rank": 5,
-    "tweet_count": "58.2K Tweets"
-  },
-  {
-    "name": "#BestFanArmy",
-    "query": "#BestFanArmy",
-    "rank": 6,
-    "tweet_count": "1.61M Tweets"
-  },
-  {
-    "name": "De Paul",
-    "query": "\"De Paul\"",
-    "rank": 7,
-    "tweet_count": "24.5K Tweets"
-  },
-  {
-    "name": "Di María",
-    "query": "\"Di María\"",
-    "rank": 8,
-    "tweet_count": "6,913 Tweets"
-  },
-  {
-    "name": "Molina",
-    "query": "Molina",
-    "rank": 9,
-    "tweet_count": "10.5K Tweets"
-  },
-  {
-    "name": "#buenviernes",
-    "query": "#buenviernes",
-    "rank": 10,
-    "tweet_count": "1,122 Tweets"
-  },
-  {
     "name": "Ladaga",
     "query": "Ladaga",
-    "rank": 11,
-    "tweet_count": "1,539 Tweets"
-  },
-  {
-    "name": "Azzaro",
-    "query": "Azzaro",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Congreso",
-    "query": "Congreso",
-    "rank": 13,
-    "tweet_count": "64.1K Tweets"
-  },
-  {
-    "name": "nate jacobs",
-    "query": "\"nate jacobs\"",
-    "rank": 14,
-    "tweet_count": "144K Tweets"
-  },
-  {
-    "name": "Perú",
-    "query": "Perú",
-    "rank": 15,
-    "tweet_count": "259K Tweets"
-  },
-  {
-    "name": "Montiel",
-    "query": "Montiel",
-    "rank": 16,
-    "tweet_count": "3,801 Tweets"
-  },
-  {
-    "name": "Colombia",
-    "query": "Colombia",
-    "rank": 17,
-    "tweet_count": "341K Tweets"
-  },
-  {
-    "name": "Oneto",
-    "query": "Oneto",
-    "rank": 18,
-    "tweet_count": null
+    "rank": 1,
+    "tweet_count": "1,648 Tweets"
   },
   {
     "name": "Otro 29",
     "query": "\"Otro 29\"",
-    "rank": 19,
-    "tweet_count": "1,200 Tweets"
+    "rank": 2,
+    "tweet_count": "1,223 Tweets"
   },
   {
-    "name": "Guzmán",
-    "query": "Guzmán",
-    "rank": 20,
-    "tweet_count": "24.3K Tweets"
+    "name": "Yanyoré",
+    "query": "Yanyoré",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "Lodeiro",
+    "query": "Lodeiro",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "Ayato",
+    "query": "Ayato",
+    "rank": 5,
+    "tweet_count": "86.1K Tweets"
+  },
+  {
+    "name": "Salvatto",
+    "query": "Salvatto",
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "#RiverTND",
+    "query": "#RiverTND",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "Mikey",
+    "query": "Mikey",
+    "rank": 8,
+    "tweet_count": "27.7K Tweets"
+  },
+  {
+    "name": "Gambia",
+    "query": "Gambia",
+    "rank": 9,
+    "tweet_count": "25.5K Tweets"
+  },
+  {
+    "name": "Sandro",
+    "query": "Sandro",
+    "rank": 10,
+    "tweet_count": "6,478 Tweets"
+  },
+  {
+    "name": "Cardona",
+    "query": "Cardona",
+    "rank": 11,
+    "tweet_count": "3,765 Tweets"
+  },
+  {
+    "name": "Limonada",
+    "query": "Limonada",
+    "rank": 12,
+    "tweet_count": "1,801 Tweets"
+  },
+  {
+    "name": "#BuenSabado",
+    "query": "#BuenSabado",
+    "rank": 13,
+    "tweet_count": "1,941 Tweets"
+  },
+  {
+    "name": "Majul",
+    "query": "Majul",
+    "rank": 14,
+    "tweet_count": "2,315 Tweets"
+  },
+  {
+    "name": "Joni Mitchell",
+    "query": "\"Joni Mitchell\"",
+    "rank": 15,
+    "tweet_count": "135K Tweets"
+  },
+  {
+    "name": "Sordo",
+    "query": "Sordo",
+    "rank": 16,
+    "tweet_count": "3,165 Tweets"
+  },
+  {
+    "name": "María Becerra",
+    "query": "\"María Becerra\"",
+    "rank": 17,
+    "tweet_count": "3,386 Tweets"
+  },
+  {
+    "name": "#NoAlAcuerdoFMI",
+    "query": "#NoAlAcuerdoFMI",
+    "rank": 18,
+    "tweet_count": "9,974 Tweets"
   }
 ]
