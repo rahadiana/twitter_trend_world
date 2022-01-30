@@ -1,121 +1,121 @@
 [
   {
-    "name": "#USGAND",
-    "query": "#USGAND",
-    "rank": 1,
-    "tweet_count": "1,564 Tweets"
-  },
-  {
     "name": "#GNTANT",
     "query": "#GNTANT",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "#USGAND",
+    "query": "#USGAND",
     "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "Tom Brady",
-    "query": "\"Tom Brady\"",
-    "rank": 3,
-    "tweet_count": "805K Tweets"
-  },
-  {
-    "name": "#7dag",
-    "query": "#7dag",
-    "rank": 4,
-    "tweet_count": null
+    "tweet_count": "1,604 Tweets"
   },
   {
     "name": "#EGYMAR",
     "query": "#EGYMAR",
-    "rank": 5,
-    "tweet_count": "15.7K Tweets"
+    "rank": 3,
+    "tweet_count": "19.6K Tweets"
   },
   {
-    "name": "Greenwood",
-    "query": "Greenwood",
+    "name": "Boufal",
+    "query": "Boufal",
+    "rank": 4,
+    "tweet_count": "11.7K Tweets"
+  },
+  {
+    "name": "Maroc",
+    "query": "Maroc",
+    "rank": 5,
+    "tweet_count": "32.2K Tweets"
+  },
+  {
+    "name": "Nadal",
+    "query": "Nadal",
     "rank": 6,
-    "tweet_count": "519K Tweets"
+    "tweet_count": "681K Tweets"
   },
   {
     "name": "#TeamMorocco",
     "query": "#TeamMorocco",
     "rank": 7,
-    "tweet_count": "16.7K Tweets"
+    "tweet_count": "19.4K Tweets"
   },
   {
-    "name": "Freddy Thielemans",
-    "query": "\"Freddy Thielemans\"",
+    "name": "#7dag",
+    "query": "#7dag",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Boufal",
-    "query": "Boufal",
-    "rank": 9,
-    "tweet_count": "10.2K Tweets"
-  },
-  {
     "name": "Hakimi",
     "query": "Hakimi",
+    "rank": 9,
+    "tweet_count": "18.9K Tweets"
+  },
+  {
+    "name": "Greenwood",
+    "query": "Greenwood",
     "rank": 10,
-    "tweet_count": "17.1K Tweets"
+    "tweet_count": "529K Tweets"
   },
   {
-    "name": "Maroc",
-    "query": "Maroc",
+    "name": "Freddy Thielemans",
+    "query": "\"Freddy Thielemans\"",
     "rank": 11,
-    "tweet_count": "28.1K Tweets"
-  },
-  {
-    "name": "Zirkzee",
-    "query": "Zirkzee",
-    "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "Union",
-    "query": "Union",
-    "rank": 13,
-    "tweet_count": "119K Tweets"
-  },
-  {
-    "name": "Munir",
-    "query": "Munir",
-    "rank": 14,
-    "tweet_count": "6,578 Tweets"
-  },
-  {
-    "name": "Trudeau",
-    "query": "Trudeau",
-    "rank": 15,
-    "tweet_count": "517K Tweets"
+    "name": "Amrabat",
+    "query": "Amrabat",
+    "rank": 12,
+    "tweet_count": "2,681 Tweets"
   },
   {
     "name": "Lemajic",
     "query": "Lemajic",
-    "rank": 16,
+    "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "Refaelov",
-    "query": "Refaelov",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Canada",
-    "query": "Canada",
-    "rank": 18,
-    "tweet_count": "877K Tweets"
-  },
-  {
-    "name": "Tunisie",
-    "query": "Tunisie",
-    "rank": 19,
-    "tweet_count": "19.5K Tweets"
+    "name": "Medvedev",
+    "query": "Medvedev",
+    "rank": 14,
+    "tweet_count": "224K Tweets"
   },
   {
     "name": "Kouamé",
     "query": "Kouamé",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Munir",
+    "query": "Munir",
+    "rank": 16,
+    "tweet_count": "7,034 Tweets"
+  },
+  {
+    "name": "Zirkzee",
+    "query": "Zirkzee",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Djokovic",
+    "query": "Djokovic",
+    "rank": 18,
+    "tweet_count": "90.2K Tweets"
+  },
+  {
+    "name": "Union",
+    "query": "Union",
+    "rank": 19,
+    "tweet_count": "121K Tweets"
+  },
+  {
+    "name": "Kompany",
+    "query": "Kompany",
     "rank": 20,
     "tweet_count": null
   }
