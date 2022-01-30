@@ -1,21 +1,21 @@
 [
   {
+    "name": "Светлая",
+    "query": "Светлая",
+    "rank": 1,
+    "tweet_count": "1,931 Tweets"
+  },
+  {
     "name": "Леонид Куравлев",
     "query": "\"Леонид Куравлев\"",
-    "rank": 1,
-    "tweet_count": "3,707 Tweets"
+    "rank": 2,
+    "tweet_count": "3,880 Tweets"
   },
   {
     "name": "#AO2022",
     "query": "#AO2022",
-    "rank": 2,
-    "tweet_count": "36.2K Tweets"
-  },
-  {
-    "name": "Светлая",
-    "query": "Светлая",
     "rank": 3,
-    "tweet_count": "1,879 Tweets"
+    "tweet_count": "37K Tweets"
   },
   {
     "name": "Леонид Вячеславович",
@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "#мемноевоскресенье",
-    "query": "#мемноевоскресенье",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
     "name": "#AusOpen",
     "query": "#AusOpen",
+    "rank": 5,
+    "tweet_count": "89.1K Tweets"
+  },
+  {
+    "name": "#мемноевоскресенье",
+    "query": "#мемноевоскресенье",
     "rank": 6,
-    "tweet_count": "87.2K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Надаль",
@@ -42,16 +42,16 @@
     "tweet_count": null
   },
   {
-    "name": "аято",
-    "query": "аято",
+    "name": "Аято",
+    "query": "Аято",
     "rank": 8,
-    "tweet_count": "9,978 Tweets"
+    "tweet_count": "10K Tweets"
   },
   {
     "name": "лондоне",
     "query": "лондоне",
     "rank": 9,
-    "tweet_count": "1,189 Tweets"
+    "tweet_count": "1,298 Tweets"
   },
   {
     "name": "Даня",
@@ -60,22 +60,22 @@
     "tweet_count": null
   },
   {
+    "name": "Любовь",
+    "query": "Любовь",
+    "rank": 11,
+    "tweet_count": "10.1K Tweets"
+  },
+  {
     "name": "#биатлон",
     "query": "#биатлон",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Афоня",
     "query": "Афоня",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Любовь",
-    "query": "Любовь",
     "rank": 13,
-    "tweet_count": "9,852 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Царствие",
@@ -87,13 +87,13 @@
     "name": "Канаде",
     "query": "Канаде",
     "rank": 15,
-    "tweet_count": "1,700 Tweets"
+    "tweet_count": "1,735 Tweets"
   },
   {
     "name": "Трюдо",
     "query": "Трюдо",
     "rank": 16,
-    "tweet_count": "1,996 Tweets"
+    "tweet_count": "2,061 Tweets"
   },
   {
     "name": "РСФСР",
@@ -108,15 +108,15 @@
     "tweet_count": "148K Tweets"
   },
   {
-    "name": "Медведев",
-    "query": "Медведев",
+    "name": "медведев",
+    "query": "медведев",
     "rank": 19,
-    "tweet_count": "1,466 Tweets"
+    "tweet_count": "1,513 Tweets"
   },
   {
     "name": "Великобритании",
     "query": "Великобритании",
     "rank": 20,
-    "tweet_count": "1,487 Tweets"
+    "tweet_count": "1,557 Tweets"
   }
 ]
