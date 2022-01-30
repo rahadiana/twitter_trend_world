@@ -1,15 +1,15 @@
 [
   {
-    "name": "Spotify",
-    "query": "Spotify",
-    "rank": 1,
-    "tweet_count": "1.33M Tweets"
-  },
-  {
     "name": "#RoyalRumble",
     "query": "#RoyalRumble",
+    "rank": 1,
+    "tweet_count": "565K Tweets"
+  },
+  {
+    "name": "#SYDvCCM",
+    "query": "#SYDvCCM",
     "rank": 2,
-    "tweet_count": "556K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Brian Houston",
@@ -18,75 +18,81 @@
     "tweet_count": null
   },
   {
-    "name": "Kyrie",
-    "query": "Kyrie",
-    "rank": 4,
-    "tweet_count": "36K Tweets"
-  },
-  {
     "name": "James Blunt",
     "query": "\"James Blunt\"",
+    "rank": 4,
+    "tweet_count": "3,262 Tweets"
+  },
+  {
+    "name": "Kyrie",
+    "query": "Kyrie",
     "rank": 5,
-    "tweet_count": "3,211 Tweets"
+    "tweet_count": "36.6K Tweets"
   },
   {
     "name": "Coorey",
     "query": "Coorey",
     "rank": 6,
-    "tweet_count": "3,049 Tweets"
+    "tweet_count": "3,091 Tweets"
   },
   {
     "name": "Speers",
     "query": "Speers",
     "rank": 7,
-    "tweet_count": "6,024 Tweets"
-  },
-  {
-    "name": "Matthew Guy",
-    "query": "\"Matthew Guy\"",
-    "rank": 8,
-    "tweet_count": "1,069 Tweets"
+    "tweet_count": "6,116 Tweets"
   },
   {
     "name": "Tom Brady",
     "query": "\"Tom Brady\"",
-    "rank": 9,
-    "tweet_count": "719K Tweets"
+    "rank": 8,
+    "tweet_count": "722K Tweets"
   },
   {
-    "name": "Trudeau",
-    "query": "Trudeau",
+    "name": "Matthew Guy",
+    "query": "\"Matthew Guy\"",
+    "rank": 9,
+    "tweet_count": "1,097 Tweets"
+  },
+  {
+    "name": "Taliban",
+    "query": "Taliban",
     "rank": 10,
-    "tweet_count": "387K Tweets"
+    "tweet_count": "23.7K Tweets"
   },
   {
     "name": "Margaret Court",
     "query": "\"Margaret Court\"",
     "rank": 11,
-    "tweet_count": "2,654 Tweets"
+    "tweet_count": "2,685 Tweets"
   },
   {
-    "name": "Taliban",
-    "query": "Taliban",
+    "name": "Ottawa",
+    "query": "Ottawa",
     "rank": 12,
-    "tweet_count": "23.6K Tweets"
-  },
-  {
-    "name": "Aged Care",
-    "query": "\"Aged Care\"",
-    "rank": 13,
-    "tweet_count": "14.1K Tweets"
+    "tweet_count": "537K Tweets"
   },
   {
     "name": "Koala",
     "query": "Koala",
+    "rank": 13,
+    "tweet_count": "17.9K Tweets"
+  },
+  {
+    "name": "Trudeau",
+    "query": "Trudeau",
     "rank": 14,
-    "tweet_count": "17.7K Tweets"
+    "tweet_count": "390K Tweets"
+  },
+  {
+    "name": "Aged Care",
+    "query": "\"Aged Care\"",
+    "rank": 15,
+    "tweet_count": "14.2K Tweets"
   },
   {
     "name": "Pauline Hanson",
     "query": "\"Pauline Hanson\"",
-    "rank": 15,
-    "tweet_count": "2,740 Tweets"
+    "rank": 16,
+    "tweet_count": "2,751 Tweets"
   }
 ]
