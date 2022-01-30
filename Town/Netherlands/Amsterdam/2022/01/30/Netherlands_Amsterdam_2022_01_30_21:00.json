@@ -1,7 +1,7 @@
 [
   {
-    "name": "#Vertrouwelijk",
-    "query": "#Vertrouwelijk",
+    "name": "#vertrouwelijk",
+    "query": "#vertrouwelijk",
     "rank": 1,
     "tweet_count": null
   },
@@ -21,19 +21,19 @@
     "name": "Corrie",
     "query": "Corrie",
     "rank": 4,
-    "tweet_count": "7,390 Tweets"
-  },
-  {
-    "name": "Pidcock",
-    "query": "Pidcock",
-    "rank": 5,
-    "tweet_count": "2,158 Tweets"
+    "tweet_count": "7,505 Tweets"
   },
   {
     "name": "#Fayetteville2022",
     "query": "#Fayetteville2022",
+    "rank": 5,
+    "tweet_count": "6,743 Tweets"
+  },
+  {
+    "name": "Pidcock",
+    "query": "Pidcock",
     "rank": 6,
-    "tweet_count": "5,997 Tweets"
+    "tweet_count": "2,650 Tweets"
   },
   {
     "name": "#WKFayetteville",
@@ -45,7 +45,7 @@
     "name": "Lars",
     "query": "Lars",
     "rank": 8,
-    "tweet_count": "5,896 Tweets"
+    "tweet_count": "5,970 Tweets"
   },
   {
     "name": "Niebert",
@@ -63,7 +63,7 @@
     "name": "Chiefs",
     "query": "Chiefs",
     "rank": 11,
-    "tweet_count": "188K Tweets"
+    "tweet_count": "193K Tweets"
   },
   {
     "name": "KNMI",
@@ -75,19 +75,19 @@
     "name": "Egypte",
     "query": "Egypte",
     "rank": 13,
-    "tweet_count": "38.1K Tweets"
+    "tweet_count": "38.5K Tweets"
   },
   {
     "name": "Joden",
     "query": "Joden",
     "rank": 14,
-    "tweet_count": "3,150 Tweets"
+    "tweet_count": "3,189 Tweets"
   },
   {
     "name": "Bergwijn",
     "query": "Bergwijn",
     "rank": 15,
-    "tweet_count": "2,543 Tweets"
+    "tweet_count": "2,552 Tweets"
   },
   {
     "name": "Djokovic",
@@ -96,8 +96,8 @@
     "tweet_count": "108K Tweets"
   },
   {
-    "name": "#GevaarlijksteWegen",
-    "query": "#GevaarlijksteWegen",
+    "name": "#ontvoerd",
+    "query": "#ontvoerd",
     "rank": 17,
     "tweet_count": null
   },
@@ -108,14 +108,14 @@
     "tweet_count": null
   },
   {
-    "name": "#tranenvantito",
-    "query": "#tranenvantito",
+    "name": "#GevaarlijksteWegen",
+    "query": "#GevaarlijksteWegen",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "#Codeoranje",
-    "query": "#Codeoranje",
+    "name": "#tranenvantito",
+    "query": "#tranenvantito",
     "rank": 20,
     "tweet_count": null
   }
