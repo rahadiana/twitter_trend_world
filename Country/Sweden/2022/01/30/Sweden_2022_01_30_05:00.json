@@ -3,19 +3,19 @@
     "name": "Spotify",
     "query": "Spotify",
     "rank": 1,
-    "tweet_count": "1.34M Tweets"
+    "tweet_count": "1.35M Tweets"
   },
   {
     "name": "Malik",
     "query": "Malik",
     "rank": 2,
-    "tweet_count": "44.5K Tweets"
+    "tweet_count": "44.7K Tweets"
   },
   {
-    "name": "Rogan",
-    "query": "Rogan",
+    "name": "#BenidormFest",
+    "query": "#BenidormFest",
     "rank": 3,
-    "tweet_count": "357K Tweets"
+    "tweet_count": "613K Tweets"
   },
   {
     "name": "palicka",
@@ -24,38 +24,38 @@
     "tweet_count": null
   },
   {
+    "name": "Rogan",
+    "query": "Rogan",
+    "rank": 5,
+    "tweet_count": "358K Tweets"
+  },
+  {
     "name": "Joni Mitchell",
     "query": "\"Joni Mitchell\"",
-    "rank": 5,
+    "rank": 6,
     "tweet_count": "155K Tweets"
   },
   {
-    "name": "#handbollsem",
-    "query": "#handbollsem",
-    "rank": 6,
+    "name": "Tom Brady",
+    "query": "\"Tom Brady\"",
+    "rank": 7,
+    "tweet_count": "724K Tweets"
+  },
+  {
+    "name": "Gudrun",
+    "query": "Gudrun",
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Neil Young",
     "query": "\"Neil Young\"",
-    "rank": 7,
+    "rank": 9,
     "tweet_count": "255K Tweets"
   },
   {
-    "name": "Tom Brady",
-    "query": "\"Tom Brady\"",
-    "rank": 8,
-    "tweet_count": "722K Tweets"
-  },
-  {
-    "name": "#BenidormFest",
-    "query": "#BenidormFest",
-    "rank": 9,
-    "tweet_count": "613K Tweets"
-  },
-  {
-    "name": "håkan hellström",
-    "query": "\"håkan hellström\"",
+    "name": "#handbollsem",
+    "query": "#handbollsem",
     "rank": 10,
     "tweet_count": null
   },
@@ -63,59 +63,59 @@
     "name": "henrik lundqvist",
     "query": "\"henrik lundqvist\"",
     "rank": 11,
-    "tweet_count": "1,996 Tweets"
+    "tweet_count": "1,997 Tweets"
   },
   {
-    "name": "Gudrun",
-    "query": "Gudrun",
+    "name": "blåser",
+    "query": "blåser",
     "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "Rinkeby",
+    "query": "Rinkeby",
+    "rank": 13,
+    "tweet_count": "1,053 Tweets"
+  },
+  {
+    "name": "Amoo",
+    "query": "Amoo",
+    "rank": 14,
+    "tweet_count": "9,018 Tweets"
+  },
+  {
+    "name": "Ottawa",
+    "query": "Ottawa",
+    "rank": 15,
+    "tweet_count": "539K Tweets"
+  },
+  {
+    "name": "Michael",
+    "query": "Michael",
+    "rank": 16,
+    "tweet_count": "213K Tweets"
+  },
+  {
+    "name": "håkan hellström",
+    "query": "\"håkan hellström\"",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "henke",
+    "query": "henke",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "på spåret",
+    "query": "\"på spåret\"",
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "#fbkse",
     "query": "#fbkse",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "gottfridsson",
-    "query": "gottfridsson",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "blåser",
-    "query": "blåser",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Winston",
-    "query": "Winston",
-    "rank": 16,
-    "tweet_count": "12.9K Tweets"
-  },
-  {
-    "name": "Tidal",
-    "query": "Tidal",
-    "rank": 17,
-    "tweet_count": "18.7K Tweets"
-  },
-  {
-    "name": "Ottawa",
-    "query": "Ottawa",
-    "rank": 18,
-    "tweet_count": "537K Tweets"
-  },
-  {
-    "name": "mantas",
-    "query": "mantas",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Vasastan",
-    "query": "Vasastan",
     "rank": 20,
     "tweet_count": null
   }
