@@ -1,45 +1,45 @@
 [
   {
-    "name": "Tom Brady",
-    "query": "\"Tom Brady\"",
+    "name": "#AusOpen",
+    "query": "#AusOpen",
     "rank": 1,
-    "tweet_count": "464K Tweets"
+    "tweet_count": "462K Tweets"
+  },
+  {
+    "name": "#Nadal",
+    "query": "#Nadal",
+    "rank": 2,
+    "tweet_count": "50.3K Tweets"
   },
   {
     "name": "#Mattarella",
     "query": "#Mattarella",
-    "rank": 2,
-    "tweet_count": "54.1K Tweets"
+    "rank": 3,
+    "tweet_count": "54.5K Tweets"
+  },
+  {
+    "name": "Federer",
+    "query": "Federer",
+    "rank": 4,
+    "tweet_count": "93.2K Tweets"
+  },
+  {
+    "name": "#AO2022",
+    "query": "#AO2022",
+    "rank": 5,
+    "tweet_count": "222K Tweets"
   },
   {
     "name": "Greenwood",
     "query": "Greenwood",
-    "rank": 3,
-    "tweet_count": "621K Tweets"
-  },
-  {
-    "name": "Roger",
-    "query": "Roger",
-    "rank": 4,
-    "tweet_count": "80.6K Tweets"
-  },
-  {
-    "name": "#fclfcb",
-    "query": "#fclfcb",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "#lsfcsg",
-    "query": "#lsfcsg",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "626K Tweets"
   },
   {
-    "name": "#rotblaulive",
-    "query": "#rotblaulive",
+    "name": "Djoko",
+    "query": "Djoko",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "7,024 Tweets"
   },
   {
     "name": "engelberger",
@@ -51,60 +51,60 @@
     "name": "Ottawa",
     "query": "Ottawa",
     "rank": 9,
-    "tweet_count": "554K Tweets"
-  },
-  {
-    "name": "Tiere",
-    "query": "Tiere",
-    "rank": 10,
-    "tweet_count": "1,250 Tweets"
-  },
-  {
-    "name": "Zakaria",
-    "query": "Zakaria",
-    "rank": 11,
-    "tweet_count": "33.7K Tweets"
-  },
-  {
-    "name": "Unsinn",
-    "query": "Unsinn",
-    "rank": 12,
-    "tweet_count": "1,234 Tweets"
-  },
-  {
-    "name": "Klimawandel",
-    "query": "Klimawandel",
-    "rank": 13,
-    "tweet_count": "1,421 Tweets"
-  },
-  {
-    "name": "Microsoft",
-    "query": "Microsoft",
-    "rank": 14,
-    "tweet_count": "25.5K Tweets"
-  },
-  {
-    "name": "Kantone",
-    "query": "Kantone",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Entscheidungen",
-    "query": "Entscheidungen",
-    "rank": 16,
-    "tweet_count": "1,092 Tweets"
-  },
-  {
-    "name": "Lockerungen",
-    "query": "Lockerungen",
-    "rank": 17,
-    "tweet_count": "2,056 Tweets"
+    "tweet_count": "560K Tweets"
   },
   {
     "name": "Canada",
     "query": "Canada",
+    "rank": 10,
+    "tweet_count": "914K Tweets"
+  },
+  {
+    "name": "Lockerungen",
+    "query": "Lockerungen",
+    "rank": 11,
+    "tweet_count": "2,098 Tweets"
+  },
+  {
+    "name": "Spotify",
+    "query": "Spotify",
+    "rank": 12,
+    "tweet_count": "1.21M Tweets"
+  },
+  {
+    "name": "Berset",
+    "query": "Berset",
+    "rank": 13,
+    "tweet_count": "2,234 Tweets"
+  },
+  {
+    "name": "Zakaria",
+    "query": "Zakaria",
+    "rank": 14,
+    "tweet_count": "34.9K Tweets"
+  },
+  {
+    "name": "GOAT",
+    "query": "GOAT",
+    "rank": 15,
+    "tweet_count": "248K Tweets"
+  },
+  {
+    "name": "Tessin",
+    "query": "Tessin",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Paratici",
+    "query": "Paratici",
+    "rank": 17,
+    "tweet_count": "9,808 Tweets"
+  },
+  {
+    "name": "Sanremo",
+    "query": "Sanremo",
     "rank": 18,
-    "tweet_count": "902K Tweets"
+    "tweet_count": "17.5K Tweets"
   }
 ]
