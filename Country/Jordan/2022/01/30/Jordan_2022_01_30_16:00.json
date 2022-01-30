@@ -1,33 +1,33 @@
 [
   {
-    "name": "#AusOpen",
-    "query": "#AusOpen",
-    "rank": 1,
-    "tweet_count": "403K Tweets"
-  },
-  {
     "name": "#ستون_ومعك_ماضون",
     "query": "#ستون_ومعك_ماضون",
-    "rank": 2,
-    "tweet_count": "7,288 Tweets"
+    "rank": 1,
+    "tweet_count": "7,395 Tweets"
   },
   {
     "name": "نادال",
     "query": "نادال",
-    "rank": 3,
-    "tweet_count": "33.3K Tweets"
+    "rank": 2,
+    "tweet_count": "34K Tweets"
   },
   {
     "name": "#عيد_الملك60",
     "query": "#عيد_الملك60",
-    "rank": 4,
-    "tweet_count": "5,984 Tweets"
+    "rank": 3,
+    "tweet_count": "6,042 Tweets"
   },
   {
     "name": "#الرساله_الملكيه",
     "query": "#الرساله_الملكيه",
+    "rank": 4,
+    "tweet_count": "3,653 Tweets"
+  },
+  {
+    "name": "#AusOpen",
+    "query": "#AusOpen",
     "rank": 5,
-    "tweet_count": "3,182 Tweets"
+    "tweet_count": "416K Tweets"
   },
   {
     "name": "#الاردن_مش_بخير",
@@ -57,7 +57,7 @@
     "name": "nate jacobs",
     "query": "\"nate jacobs\"",
     "rank": 10,
-    "tweet_count": "85.1K Tweets"
+    "tweet_count": "85.9K Tweets"
   },
   {
     "name": "سيد البلاد",
@@ -69,54 +69,54 @@
     "name": "Europe",
     "query": "Europe",
     "rank": 12,
-    "tweet_count": "126K Tweets"
+    "tweet_count": "130K Tweets"
   },
   {
     "name": "Islam",
     "query": "Islam",
     "rank": 13,
-    "tweet_count": "136K Tweets"
+    "tweet_count": "139K Tweets"
   },
   {
     "name": "توتنهام",
     "query": "توتنهام",
     "rank": 14,
-    "tweet_count": "2,623 Tweets"
+    "tweet_count": "2,670 Tweets"
   },
   {
     "name": "Jordan",
     "query": "Jordan",
     "rank": 15,
-    "tweet_count": "106K Tweets"
+    "tweet_count": "109K Tweets"
+  },
+  {
+    "name": "الكهرباء الاردنيه",
+    "query": "\"الكهرباء الاردنيه\"",
+    "rank": 16,
+    "tweet_count": null
   },
   {
     "name": "سناب",
     "query": "سناب",
-    "rank": 16,
-    "tweet_count": "27.8K Tweets"
+    "rank": 17,
+    "tweet_count": "28.8K Tweets"
   },
   {
     "name": "اليوتيوب",
     "query": "اليوتيوب",
-    "rank": 17,
-    "tweet_count": "7,078 Tweets"
+    "rank": 18,
+    "tweet_count": "7,348 Tweets"
   },
   {
     "name": "Israel",
     "query": "Israel",
-    "rank": 18,
-    "tweet_count": "111K Tweets"
+    "rank": 19,
+    "tweet_count": "114K Tweets"
   },
   {
     "name": "علي الخاص",
     "query": "\"علي الخاص\"",
-    "rank": 19,
-    "tweet_count": "16K Tweets"
-  },
-  {
-    "name": "فيصل",
-    "query": "فيصل",
     "rank": 20,
-    "tweet_count": "17.7K Tweets"
+    "tweet_count": "16.4K Tweets"
   }
 ]
