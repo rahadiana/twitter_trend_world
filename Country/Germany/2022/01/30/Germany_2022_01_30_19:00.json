@@ -1,15 +1,15 @@
 [
   {
-    "name": "#DFBPokal",
-    "query": "#DFBPokal",
-    "rank": 1,
-    "tweet_count": "1,243 Tweets"
-  },
-  {
     "name": "#Polizeiruf110",
     "query": "#Polizeiruf110",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#DFBPokal",
+    "query": "#DFBPokal",
+    "rank": 2,
+    "tweet_count": "1,284 Tweets"
   },
   {
     "name": "#Kruse",
@@ -33,7 +33,7 @@
     "name": "Wolfsburg",
     "query": "Wolfsburg",
     "rank": 6,
-    "tweet_count": "5,172 Tweets"
+    "tweet_count": "5,265 Tweets"
   },
   {
     "name": "Anführer",
@@ -42,8 +42,8 @@
     "tweet_count": null
   },
   {
-    "name": "Heimspiel",
-    "query": "Heimspiel",
+    "name": "Sonntagabend",
+    "query": "Sonntagabend",
     "rank": 8,
     "tweet_count": null
   },
@@ -54,69 +54,69 @@
     "tweet_count": null
   },
   {
-    "name": "Sonntagabend",
-    "query": "Sonntagabend",
+    "name": "Kohfeldt",
+    "query": "Kohfeldt",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Kohfeldt",
-    "query": "Kohfeldt",
+    "name": "Heimspiel",
+    "query": "Heimspiel",
     "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Halbfinale",
-    "query": "Halbfinale",
-    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Wechsel",
     "query": "Wechsel",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "Halbfinale",
+    "query": "Halbfinale",
     "rank": 13,
     "tweet_count": null
   },
   {
+    "name": "Konto",
+    "query": "Konto",
+    "rank": 14,
+    "tweet_count": "9,371 Tweets"
+  },
+  {
     "name": "Transfer",
     "query": "Transfer",
-    "rank": 14,
-    "tweet_count": "161K Tweets"
+    "rank": 15,
+    "tweet_count": "163K Tweets"
   },
   {
     "name": "Kanada",
     "query": "Kanada",
-    "rank": 15,
-    "tweet_count": "28.5K Tweets"
+    "rank": 16,
+    "tweet_count": "29K Tweets"
   },
   {
     "name": "Leipzig",
     "query": "Leipzig",
-    "rank": 16,
-    "tweet_count": "8,024 Tweets"
-  },
-  {
-    "name": "Studium",
-    "query": "Studium",
     "rank": 17,
-    "tweet_count": "3,703 Tweets"
-  },
-  {
-    "name": "Ausgaben",
-    "query": "Ausgaben",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "8,081 Tweets"
   },
   {
     "name": "Legalisierung",
     "query": "Legalisierung",
-    "rank": 19,
-    "tweet_count": "1,037 Tweets"
+    "rank": 18,
+    "tweet_count": "1,051 Tweets"
   },
   {
-    "name": "Hannover",
-    "query": "Hannover",
+    "name": "Ausgaben",
+    "query": "Ausgaben",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Cannabis",
+    "query": "Cannabis",
     "rank": 20,
-    "tweet_count": "1,670 Tweets"
+    "tweet_count": "18.1K Tweets"
   }
 ]
