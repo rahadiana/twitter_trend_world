@@ -1,116 +1,110 @@
 [
   {
+    "name": "Lechuga",
+    "query": "Lechuga",
+    "rank": 1,
+    "tweet_count": "3,413 Tweets"
+  },
+  {
     "name": "Tom Brady",
     "query": "\"Tom Brady\"",
-    "rank": 1,
-    "tweet_count": "677K Tweets"
+    "rank": 2,
+    "tweet_count": "681K Tweets"
   },
   {
     "name": "Tomate",
     "query": "Tomate",
-    "rank": 2,
-    "tweet_count": "9,035 Tweets"
+    "rank": 3,
+    "tweet_count": "9,123 Tweets"
   },
   {
     "name": "#RoyalRumbleCL",
     "query": "#RoyalRumbleCL",
-    "rank": 3,
-    "tweet_count": "2,447 Tweets"
+    "rank": 4,
+    "tweet_count": "2,589 Tweets"
   },
   {
     "name": "#LaDivinaComida",
     "query": "#LaDivinaComida",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "Ronda",
-    "query": "Ronda",
     "rank": 5,
-    "tweet_count": "44.3K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Rollins",
     "query": "Rollins",
     "rank": 6,
-    "tweet_count": "28K Tweets"
+    "tweet_count": "28.6K Tweets"
   },
   {
     "name": "San Miguel",
     "query": "\"San Miguel\"",
     "rank": 7,
-    "tweet_count": "4,312 Tweets"
+    "tweet_count": "4,415 Tweets"
   },
   {
     "name": "Acosta",
     "query": "Acosta",
     "rank": 8,
-    "tweet_count": "31.7K Tweets"
+    "tweet_count": "31.9K Tweets"
   },
   {
     "name": "Paige",
     "query": "Paige",
     "rank": 9,
-    "tweet_count": "8,447 Tweets"
+    "tweet_count": "8,818 Tweets"
   },
   {
     "name": "Sasha",
     "query": "Sasha",
     "rank": 10,
-    "tweet_count": "48.5K Tweets"
+    "tweet_count": "50.4K Tweets"
+  },
+  {
+    "name": "Bielsa",
+    "query": "Bielsa",
+    "rank": 11,
+    "tweet_count": "2,948 Tweets"
   },
   {
     "name": "Pizzi",
     "query": "Pizzi",
-    "rank": 11,
-    "tweet_count": "1,660 Tweets"
-  },
-  {
-    "name": "Seth",
-    "query": "Seth",
     "rank": 12,
-    "tweet_count": "54.4K Tweets"
+    "tweet_count": "1,671 Tweets"
   },
   {
     "name": "#ATEEZINCHILE",
     "query": "#ATEEZINCHILE",
     "rank": 13,
-    "tweet_count": "3,116 Tweets"
+    "tweet_count": "3,138 Tweets"
   },
   {
-    "name": "Roman",
-    "query": "Roman",
+    "name": "#THEFELLOWSHIPTOUR_LATAM",
+    "query": "#THEFELLOWSHIPTOUR_LATAM",
     "rank": 14,
-    "tweet_count": "67.8K Tweets"
+    "tweet_count": "3,261 Tweets"
   },
   {
-    "name": "#thefellowshiptour_latam",
-    "query": "#thefellowshiptour_latam",
+    "name": "Sampaoli",
+    "query": "Sampaoli",
     "rank": 15,
-    "tweet_count": "3,236 Tweets"
-  },
-  {
-    "name": "Bielsa",
-    "query": "Bielsa",
-    "rank": 16,
-    "tweet_count": "2,921 Tweets"
-  },
-  {
-    "name": "sampaoli",
-    "query": "sampaoli",
-    "rank": 17,
-    "tweet_count": "2,161 Tweets"
+    "tweet_count": "2,196 Tweets"
   },
   {
     "name": "San Pedro de Atacama",
     "query": "\"San Pedro de Atacama\"",
-    "rank": 18,
-    "tweet_count": "1,681 Tweets"
+    "rank": 16,
+    "tweet_count": "1,748 Tweets"
   },
   {
-    "name": "Lechuga",
-    "query": "Lechuga",
-    "rank": 19,
-    "tweet_count": "3,399 Tweets"
+    "name": "#BenidormFest",
+    "query": "#BenidormFest",
+    "rank": 17,
+    "tweet_count": "607K Tweets"
+  },
+  {
+    "name": "#PaseDeMovilidad",
+    "query": "#PaseDeMovilidad",
+    "rank": 18,
+    "tweet_count": null
   }
 ]
