@@ -1,75 +1,75 @@
 [
   {
-    "name": "Greenwood",
-    "query": "Greenwood",
-    "rank": 1,
-    "tweet_count": "331K Tweets"
-  },
-  {
     "name": "Nadal",
     "query": "Nadal",
+    "rank": 1,
+    "tweet_count": "181K Tweets"
+  },
+  {
+    "name": "Greenwood",
+    "query": "Greenwood",
     "rank": 2,
-    "tweet_count": "160K Tweets"
+    "tweet_count": "346K Tweets"
   },
   {
     "name": "Malik",
     "query": "Malik",
     "rank": 3,
-    "tweet_count": "44.8K Tweets"
+    "tweet_count": "45.7K Tweets"
   },
   {
     "name": "Spotify",
     "query": "Spotify",
     "rank": 4,
-    "tweet_count": "1.3M Tweets"
+    "tweet_count": "1.31M Tweets"
   },
   {
     "name": "Amoo",
     "query": "Amoo",
     "rank": 5,
-    "tweet_count": "9,192 Tweets"
+    "tweet_count": "9,308 Tweets"
   },
   {
-    "name": "rinkeby",
-    "query": "rinkeby",
+    "name": "Chili",
+    "query": "Chili",
     "rank": 6,
-    "tweet_count": "1,094 Tweets"
+    "tweet_count": "16.2K Tweets"
   },
   {
     "name": "Rogan",
     "query": "Rogan",
     "rank": 7,
-    "tweet_count": "321K Tweets"
-  },
-  {
-    "name": "Kulusevski",
-    "query": "Kulusevski",
-    "rank": 8,
-    "tweet_count": "34.7K Tweets"
-  },
-  {
-    "name": "Tom Brady",
-    "query": "\"Tom Brady\"",
-    "rank": 9,
-    "tweet_count": "769K Tweets"
+    "tweet_count": "325K Tweets"
   },
   {
     "name": "Neil Young",
     "query": "\"Neil Young\"",
-    "rank": 10,
-    "tweet_count": "218K Tweets"
+    "rank": 8,
+    "tweet_count": "220K Tweets"
   },
   {
     "name": "Ronaldo",
     "query": "Ronaldo",
-    "rank": 11,
-    "tweet_count": "97.2K Tweets"
+    "rank": 9,
+    "tweet_count": "99.7K Tweets"
   },
   {
-    "name": "Chili",
-    "query": "Chili",
+    "name": "Tom Brady",
+    "query": "\"Tom Brady\"",
+    "rank": 10,
+    "tweet_count": "772K Tweets"
+  },
+  {
+    "name": "Kulusevski",
+    "query": "Kulusevski",
+    "rank": 11,
+    "tweet_count": "36.2K Tweets"
+  },
+  {
+    "name": "rinkeby",
+    "query": "rinkeby",
     "rank": 12,
-    "tweet_count": "16K Tweets"
+    "tweet_count": "1,112 Tweets"
   },
   {
     "name": "Joni Mitchell",
@@ -78,33 +78,27 @@
     "tweet_count": "126K Tweets"
   },
   {
-    "name": "Prix",
-    "query": "Prix",
+    "name": "Nyans",
+    "query": "Nyans",
     "rank": 14,
-    "tweet_count": "25.7K Tweets"
-  },
-  {
-    "name": "#TruckersForFreedom2022",
-    "query": "#TruckersForFreedom2022",
-    "rank": 15,
-    "tweet_count": "255K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Bentancur",
     "query": "Bentancur",
+    "rank": 15,
+    "tweet_count": "33K Tweets"
+  },
+  {
+    "name": "Winston",
+    "query": "Winston",
     "rank": 16,
-    "tweet_count": "31K Tweets"
+    "tweet_count": "13.7K Tweets"
   },
   {
-    "name": "Blåser",
-    "query": "Blåser",
+    "name": "#TruckersForFreedom2022",
+    "query": "#TruckersForFreedom2022",
     "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Nyans",
-    "query": "Nyans",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "260K Tweets"
   }
 ]

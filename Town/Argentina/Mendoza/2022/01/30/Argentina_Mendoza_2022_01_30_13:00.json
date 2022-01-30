@@ -3,29 +3,29 @@
     "name": "Nadal",
     "query": "Nadal",
     "rank": 1,
-    "tweet_count": "160K Tweets"
+    "tweet_count": "181K Tweets"
   },
   {
     "name": "#BuenDomingo",
     "query": "#BuenDomingo",
     "rank": 2,
-    "tweet_count": null
+    "tweet_count": "1,051 Tweets"
   },
   {
     "name": "#AUSTRALIAxESPN",
     "query": "#AUSTRALIAxESPN",
     "rank": 3,
-    "tweet_count": "2,724 Tweets"
+    "tweet_count": "2,967 Tweets"
+  },
+  {
+    "name": "#AustralianOpen2022",
+    "query": "#AustralianOpen2022",
+    "rank": 4,
+    "tweet_count": "8,213 Tweets"
   },
   {
     "name": "#Alocarla",
     "query": "#Alocarla",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "#EsteFinde",
-    "query": "#EsteFinde",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,42 +33,48 @@
     "name": "#FelizDomingo",
     "query": "#FelizDomingo",
     "rank": 6,
-    "tweet_count": "7,828 Tweets"
+    "tweet_count": "8,347 Tweets"
   },
   {
     "name": "Greenwood",
     "query": "Greenwood",
     "rank": 7,
-    "tweet_count": "331K Tweets"
+    "tweet_count": "346K Tweets"
   },
   {
     "name": "Grand Slam",
     "query": "\"Grand Slam\"",
     "rank": 8,
-    "tweet_count": "18.5K Tweets"
+    "tweet_count": "19.2K Tweets"
   },
   {
     "name": "Luis Díaz",
     "query": "\"Luis Díaz\"",
     "rank": 9,
-    "tweet_count": "83.4K Tweets"
+    "tweet_count": "88K Tweets"
   },
   {
-    "name": "Ruso",
-    "query": "Ruso",
+    "name": "Federer",
+    "query": "Federer",
     "rank": 10,
-    "tweet_count": "17K Tweets"
+    "tweet_count": "18.7K Tweets"
+  },
+  {
+    "name": "Roger",
+    "query": "Roger",
+    "rank": 11,
+    "tweet_count": "45.5K Tweets"
   },
   {
     "name": "Canadá",
     "query": "Canadá",
-    "rank": 11,
-    "tweet_count": "818K Tweets"
+    "rank": 12,
+    "tweet_count": "831K Tweets"
   },
   {
-    "name": "ESPN",
-    "query": "ESPN",
-    "rank": 12,
-    "tweet_count": "181K Tweets"
+    "name": "#EsteFinde",
+    "query": "#EsteFinde",
+    "rank": 13,
+    "tweet_count": null
   }
 ]

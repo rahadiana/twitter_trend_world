@@ -1,39 +1,39 @@
 [
   {
-    "name": "#تاسي",
-    "query": "#تاسي",
-    "rank": 1,
-    "tweet_count": "3,993 Tweets"
-  },
-  {
     "name": "نادال",
     "query": "نادال",
-    "rank": 2,
-    "tweet_count": "14.2K Tweets"
+    "rank": 1,
+    "tweet_count": "15.6K Tweets"
   },
   {
-    "name": "#رساله_اليوم",
-    "query": "#رساله_اليوم",
-    "rank": 3,
-    "tweet_count": "9,198 Tweets"
+    "name": "جون ماري",
+    "query": "\"جون ماري\"",
+    "rank": 2,
+    "tweet_count": null
   },
   {
     "name": "#القهوه_السعوديه",
     "query": "#القهوه_السعوديه",
+    "rank": 3,
+    "tweet_count": "2,096 Tweets"
+  },
+  {
+    "name": "#AusOpen",
+    "query": "#AusOpen",
     "rank": 4,
-    "tweet_count": "1,745 Tweets"
+    "tweet_count": "127K Tweets"
+  },
+  {
+    "name": "#الميركه24",
+    "query": "#الميركه24",
+    "rank": 5,
+    "tweet_count": "2,719 Tweets"
   },
   {
     "name": "#البزنس57",
     "query": "#البزنس57",
-    "rank": 5,
-    "tweet_count": "9,164 Tweets"
-  },
-  {
-    "name": "القهوه العربيه",
-    "query": "\"القهوه العربيه\"",
     "rank": 6,
-    "tweet_count": "3,911 Tweets"
+    "tweet_count": "9,435 Tweets"
   },
   {
     "name": "المجموعه الثانيه",
@@ -42,22 +42,22 @@
     "tweet_count": null
   },
   {
-    "name": "فرع جديد",
-    "query": "\"فرع جديد\"",
+    "name": "القهوه العربيه",
+    "query": "\"القهوه العربيه\"",
     "rank": 8,
-    "tweet_count": "8,978 Tweets"
+    "tweet_count": "4,356 Tweets"
   },
   {
     "name": "الجبرين",
     "query": "الجبرين",
     "rank": 9,
-    "tweet_count": "1,542 Tweets"
+    "tweet_count": "1,615 Tweets"
   },
   {
-    "name": "الشباب",
-    "query": "الشباب",
+    "name": "فرع جديد",
+    "query": "\"فرع جديد\"",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "9,096 Tweets"
   },
   {
     "name": "#تاباتا_ياماجد",
@@ -66,51 +66,51 @@
     "tweet_count": null
   },
   {
-    "name": "#AusOpen",
-    "query": "#AusOpen",
-    "rank": 12,
-    "tweet_count": "118K Tweets"
-  },
-  {
-    "name": "#الميركه24",
-    "query": "#الميركه24",
-    "rank": 13,
-    "tweet_count": "2,265 Tweets"
-  },
-  {
     "name": "#مليونيه30يناير",
     "query": "#مليونيه30يناير",
-    "rank": 14,
-    "tweet_count": "19.4K Tweets"
+    "rank": 12,
+    "tweet_count": "21.1K Tweets"
   },
   {
     "name": "#تصويري",
     "query": "#تصويري",
-    "rank": 15,
-    "tweet_count": "4,815 Tweets"
-  },
-  {
-    "name": "#معصيتيي_راحتيء",
-    "query": "#معصيتيي_راحتيء",
-    "rank": 16,
-    "tweet_count": "9,012 Tweets"
+    "rank": 13,
+    "tweet_count": "5,148 Tweets"
   },
   {
     "name": "#برنامج_الاجاويد190",
     "query": "#برنامج_الاجاويد190",
-    "rank": 17,
+    "rank": 14,
     "tweet_count": null
+  },
+  {
+    "name": "#معصيتيي_راحتيء",
+    "query": "#معصيتيي_راحتيء",
+    "rank": 15,
+    "tweet_count": "9,257 Tweets"
   },
   {
     "name": "#الاسهم_السعوديه",
     "query": "#الاسهم_السعوديه",
-    "rank": 18,
-    "tweet_count": "3,399 Tweets"
+    "rank": 16,
+    "tweet_count": "3,465 Tweets"
   },
   {
-    "name": "#التعليم_يحتاج_معلمين",
-    "query": "#التعليم_يحتاج_معلمين",
+    "name": "#كوفي_كيان",
+    "query": "#كوفي_كيان",
+    "rank": 17,
+    "tweet_count": "23.8K Tweets"
+  },
+  {
+    "name": "#AO2022",
+    "query": "#AO2022",
+    "rank": 18,
+    "tweet_count": "48.7K Tweets"
+  },
+  {
+    "name": "#ساحات_تداول",
+    "query": "#ساحات_تداول",
     "rank": 19,
-    "tweet_count": "17.6K Tweets"
+    "tweet_count": null
   }
 ]
