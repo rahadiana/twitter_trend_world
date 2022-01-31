@@ -1,39 +1,39 @@
 [
   {
-    "name": "#افتتاح_منفذ_الربع_الخالي",
-    "query": "#افتتاح_منفذ_الربع_الخالي",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#اختبار_الفيزياء",
     "query": "#اختبار_الفيزياء",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "#اختبار_الجغرافيا",
     "query": "#اختبار_الجغرافيا",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#اللجنه_العليا",
     "query": "#اللجنه_العليا",
+    "rank": 3,
+    "tweet_count": "2,206 Tweets"
+  },
+  {
+    "name": "#افتتاح_منفذ_الربع_الخالي",
+    "query": "#افتتاح_منفذ_الربع_الخالي",
     "rank": 4,
-    "tweet_count": "2,119 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#البزنس58",
     "query": "#البزنس58",
     "rank": 5,
-    "tweet_count": "41.4K Tweets"
+    "tweet_count": "43.3K Tweets"
   },
   {
     "name": "استراليا",
     "query": "استراليا",
     "rank": 6,
-    "tweet_count": "4,371 Tweets"
+    "tweet_count": "4,470 Tweets"
   },
   {
     "name": "فريق عثمان",
@@ -45,7 +45,7 @@
     "name": "نادال",
     "query": "نادال",
     "rank": 8,
-    "tweet_count": "6,553 Tweets"
+    "tweet_count": "6,599 Tweets"
   },
   {
     "name": "حمودي",
@@ -63,43 +63,43 @@
     "name": "الادعاء العام",
     "query": "\"الادعاء العام\"",
     "rank": 11,
-    "tweet_count": "1,647 Tweets"
-  },
-  {
-    "name": "علي حسب",
-    "query": "\"علي حسب\"",
-    "rank": 12,
-    "tweet_count": "9,313 Tweets"
+    "tweet_count": "1,651 Tweets"
   },
   {
     "name": "ميسي",
     "query": "ميسي",
+    "rank": 12,
+    "tweet_count": "8,000 Tweets"
+  },
+  {
+    "name": "علي حسب",
+    "query": "\"علي حسب\"",
     "rank": 13,
-    "tweet_count": "7,481 Tweets"
+    "tweet_count": "9,610 Tweets"
   },
   {
     "name": "باريس",
     "query": "باريس",
     "rank": 14,
-    "tweet_count": "7,268 Tweets"
+    "tweet_count": "7,768 Tweets"
   },
   {
     "name": "مدريد",
     "query": "مدريد",
     "rank": 15,
-    "tweet_count": "8,930 Tweets"
+    "tweet_count": "9,138 Tweets"
+  },
+  {
+    "name": "برشلونة",
+    "query": "برشلونة",
+    "rank": 16,
+    "tweet_count": "14.1K Tweets"
   },
   {
     "name": "تويتر",
     "query": "تويتر",
-    "rank": 16,
-    "tweet_count": "78K Tweets"
-  },
-  {
-    "name": "الانستا",
-    "query": "الانستا",
     "rank": 17,
-    "tweet_count": "1,647 Tweets"
+    "tweet_count": "79.9K Tweets"
   },
   {
     "name": "هانت باقي",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "برشلونة",
-    "query": "برشلونة",
+    "name": "الانستا",
+    "query": "الانستا",
     "rank": 19,
-    "tweet_count": "13.7K Tweets"
+    "tweet_count": "1,665 Tweets"
   },
   {
     "name": "GOAT",
     "query": "GOAT",
     "rank": 20,
-    "tweet_count": "123K Tweets"
+    "tweet_count": "125K Tweets"
   }
 ]
