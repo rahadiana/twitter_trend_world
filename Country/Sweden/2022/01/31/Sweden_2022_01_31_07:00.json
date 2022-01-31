@@ -1,39 +1,39 @@
 [
   {
-    "name": "#HandbollsEM",
-    "query": "#HandbollsEM",
-    "rank": 1,
-    "tweet_count": "1,066 Tweets"
-  },
-  {
     "name": "Mason Greenwood",
     "query": "\"Mason Greenwood\"",
-    "rank": 2,
-    "tweet_count": "459K Tweets"
+    "rank": 1,
+    "tweet_count": "460K Tweets"
   },
   {
     "name": "Nadal",
     "query": "Nadal",
+    "rank": 2,
+    "tweet_count": "865K Tweets"
+  },
+  {
+    "name": "#handbollsEM",
+    "query": "#handbollsEM",
     "rank": 3,
-    "tweet_count": "861K Tweets"
+    "tweet_count": "1,073 Tweets"
   },
   {
     "name": "EM-guld",
     "query": "EM-guld",
     "rank": 4,
-    "tweet_count": "1,206 Tweets"
-  },
-  {
-    "name": "Malik",
-    "query": "Malik",
-    "rank": 5,
-    "tweet_count": "47K Tweets"
+    "tweet_count": "1,211 Tweets"
   },
   {
     "name": "Godmorgon",
     "query": "Godmorgon",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "Malik",
+    "query": "Malik",
+    "rank": 6,
+    "tweet_count": "47.6K Tweets"
   },
   {
     "name": "Medvedev",
@@ -45,13 +45,13 @@
     "name": "Bengals",
     "query": "Bengals",
     "rank": 8,
-    "tweet_count": "979K Tweets"
+    "tweet_count": "981K Tweets"
   },
   {
     "name": "Agenda",
     "query": "Agenda",
     "rank": 9,
-    "tweet_count": "99K Tweets"
+    "tweet_count": "100K Tweets"
   },
   {
     "name": "#ehfeuro2022",
@@ -60,40 +60,40 @@
     "tweet_count": "10.1K Tweets"
   },
   {
-    "name": "palicka",
-    "query": "palicka",
-    "rank": 11,
-    "tweet_count": "1,404 Tweets"
-  },
-  {
-    "name": "Spotify",
-    "query": "Spotify",
-    "rank": 12,
-    "tweet_count": "1.1M Tweets"
-  },
-  {
     "name": "Spanien",
     "query": "Spanien",
-    "rank": 13,
-    "tweet_count": "1,834 Tweets"
+    "rank": 11,
+    "tweet_count": "1,871 Tweets"
   },
   {
     "name": "Ekberg",
     "query": "Ekberg",
-    "rank": 14,
-    "tweet_count": "1,206 Tweets"
+    "rank": 12,
+    "tweet_count": "1,209 Tweets"
+  },
+  {
+    "name": "Spotify",
+    "query": "Spotify",
+    "rank": 13,
+    "tweet_count": "1.12M Tweets"
   },
   {
     "name": "Cassie",
     "query": "Cassie",
+    "rank": 14,
+    "tweet_count": "199K Tweets"
+  },
+  {
+    "name": "Palicka",
+    "query": "Palicka",
     "rank": 15,
-    "tweet_count": "195K Tweets"
+    "tweet_count": "1,404 Tweets"
   },
   {
     "name": "Djokovic",
     "query": "Djokovic",
     "rank": 16,
-    "tweet_count": "118K Tweets"
+    "tweet_count": "119K Tweets"
   },
   {
     "name": "Hultqvist",
@@ -102,8 +102,8 @@
     "tweet_count": null
   },
   {
-    "name": "Grattis Sverige",
-    "query": "\"Grattis Sverige\"",
+    "name": "Nyans",
+    "query": "Nyans",
     "rank": 18,
     "tweet_count": null
   },
@@ -111,12 +111,12 @@
     "name": "Kulusevski",
     "query": "Kulusevski",
     "rank": 19,
-    "tweet_count": "37.7K Tweets"
+    "tweet_count": "36.9K Tweets"
   },
   {
-    "name": "Nyans",
-    "query": "Nyans",
+    "name": "Super Bowl",
+    "query": "\"Super Bowl\"",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "136K Tweets"
   }
 ]
