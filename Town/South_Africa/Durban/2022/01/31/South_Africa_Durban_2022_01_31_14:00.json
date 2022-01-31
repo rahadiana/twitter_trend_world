@@ -1,13 +1,13 @@
 [
   {
-    "name": "Terry",
-    "query": "Terry",
-    "rank": 1,
-    "tweet_count": "91K Tweets"
-  },
-  {
     "name": "#CurroSchoolFees",
     "query": "#CurroSchoolFees",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "#SAMC22",
+    "query": "#SAMC22",
     "rank": 2,
     "tweet_count": null
   },
@@ -15,37 +15,37 @@
     "name": "Cassie",
     "query": "Cassie",
     "rank": 3,
-    "tweet_count": "252K Tweets"
+    "tweet_count": "254K Tweets"
   },
   {
     "name": "Herman Mashaba",
     "query": "\"Herman Mashaba\"",
     "rank": 4,
-    "tweet_count": "1,145 Tweets"
-  },
-  {
-    "name": "#TheLadyOnDrive",
-    "query": "#TheLadyOnDrive",
-    "rank": 5,
-    "tweet_count": null
+    "tweet_count": "1,189 Tweets"
   },
   {
     "name": "#GetWellSoonJimin",
     "query": "#GetWellSoonJimin",
-    "rank": 6,
-    "tweet_count": "753K Tweets"
-  },
-  {
-    "name": "#BeefeaterCityStories",
-    "query": "#BeefeaterCityStories",
-    "rank": 7,
-    "tweet_count": null
+    "rank": 5,
+    "tweet_count": "767K Tweets"
   },
   {
     "name": "Frank Lampard",
     "query": "\"Frank Lampard\"",
+    "rank": 6,
+    "tweet_count": "37.6K Tweets"
+  },
+  {
+    "name": "Mbappe",
+    "query": "Mbappe",
+    "rank": 7,
+    "tweet_count": "62.8K Tweets"
+  },
+  {
+    "name": "Kempton Park",
+    "query": "\"Kempton Park\"",
     "rank": 8,
-    "tweet_count": "36.6K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Dali Mpofu",
@@ -54,63 +54,51 @@
     "tweet_count": null
   },
   {
-    "name": "Kempton Park",
-    "query": "\"Kempton Park\"",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Mbappe",
-    "query": "Mbappe",
-    "rank": 11,
-    "tweet_count": "60.6K Tweets"
-  },
-  {
-    "name": "#DeadlineDay",
-    "query": "#DeadlineDay",
-    "rank": 12,
-    "tweet_count": "58K Tweets"
-  },
-  {
     "name": "Nick Cannon",
     "query": "\"Nick Cannon\"",
-    "rank": 13,
-    "tweet_count": "29.4K Tweets"
+    "rank": 10,
+    "tweet_count": "29.7K Tweets"
   },
   {
     "name": "Auba",
     "query": "Auba",
-    "rank": 14,
-    "tweet_count": "31.3K Tweets"
-  },
-  {
-    "name": "Nthabi",
-    "query": "Nthabi",
-    "rank": 15,
-    "tweet_count": "4,915 Tweets"
+    "rank": 11,
+    "tweet_count": "31.9K Tweets"
   },
   {
     "name": "iPhone 13",
     "query": "\"iPhone 13\"",
-    "rank": 16,
-    "tweet_count": "53.5K Tweets"
+    "rank": 12,
+    "tweet_count": "54.7K Tweets"
   },
   {
-    "name": "Home Affairs",
-    "query": "\"Home Affairs\"",
-    "rank": 17,
-    "tweet_count": "5,347 Tweets"
-  },
-  {
-    "name": "Newcastle",
-    "query": "Newcastle",
-    "rank": 18,
-    "tweet_count": "71K Tweets"
+    "name": "Nthabi",
+    "query": "Nthabi",
+    "rank": 13,
+    "tweet_count": "4,932 Tweets"
   },
   {
     "name": "Vyno",
     "query": "Vyno",
-    "rank": 19,
-    "tweet_count": "6,053 Tweets"
+    "rank": 14,
+    "tweet_count": "6,080 Tweets"
+  },
+  {
+    "name": "Home Affairs",
+    "query": "\"Home Affairs\"",
+    "rank": 15,
+    "tweet_count": "5,404 Tweets"
+  },
+  {
+    "name": "ActionSA",
+    "query": "ActionSA",
+    "rank": 16,
+    "tweet_count": "1,614 Tweets"
+  },
+  {
+    "name": "Newcastle",
+    "query": "Newcastle",
+    "rank": 17,
+    "tweet_count": "72.6K Tweets"
   }
 ]
