@@ -1,122 +1,122 @@
 [
   {
-    "name": "#NFLPlayoffs",
-    "query": "#NFLPlayoffs",
+    "name": "Seahawks",
+    "query": "Seahawks",
     "rank": 1,
-    "tweet_count": "65.9K Tweets"
+    "tweet_count": "4,874 Tweets"
   },
   {
-    "name": "Tre Flowers",
-    "query": "\"Tre Flowers\"",
+    "name": "Romo",
+    "query": "Romo",
     "rank": 2,
+    "tweet_count": "28K Tweets"
+  },
+  {
+    "name": "Tre flowers",
+    "query": "\"Tre flowers\"",
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Kelce",
     "query": "Kelce",
-    "rank": 3,
-    "tweet_count": "23K Tweets"
+    "rank": 4,
+    "tweet_count": "23.1K Tweets"
+  },
+  {
+    "name": "Halo",
+    "query": "Halo",
+    "rank": 5,
+    "tweet_count": "172K Tweets"
   },
   {
     "name": "Nazis",
     "query": "Nazis",
-    "rank": 4,
-    "tweet_count": "104K Tweets"
+    "rank": 6,
+    "tweet_count": "106K Tweets"
+  },
+  {
+    "name": "Ohio",
+    "query": "Ohio",
+    "rank": 7,
+    "tweet_count": "51.1K Tweets"
   },
   {
     "name": "#USMNT",
     "query": "#USMNT",
-    "rank": 5,
-    "tweet_count": "14.5K Tweets"
+    "rank": 8,
+    "tweet_count": "14.6K Tweets"
+  },
+  {
+    "name": "#CINvsKC",
+    "query": "#CINvsKC",
+    "rank": 9,
+    "tweet_count": "71.2K Tweets"
   },
   {
     "name": "Cassie",
     "query": "Cassie",
-    "rank": 6,
-    "tweet_count": "62.2K Tweets"
-  },
-  {
-    "name": "#CINvsKC",
-    "query": "#CINvsKC",
-    "rank": 7,
-    "tweet_count": "70.9K Tweets"
-  },
-  {
-    "name": "#CINvsKC",
-    "query": "#CINvsKC",
-    "rank": 8,
-    "tweet_count": "70.9K Tweets"
-  },
-  {
-    "name": "Jimmy G",
-    "query": "\"Jimmy G\"",
-    "rank": 9,
-    "tweet_count": "59.1K Tweets"
-  },
-  {
-    "name": "#SFvsLAR",
-    "query": "#SFvsLAR",
     "rank": 10,
-    "tweet_count": "36.8K Tweets"
+    "tweet_count": "82.1K Tweets"
   },
   {
     "name": "McVay",
     "query": "McVay",
     "rank": 11,
-    "tweet_count": "28.4K Tweets"
-  },
-  {
-    "name": "maddy",
-    "query": "maddy",
-    "rank": 12,
-    "tweet_count": "39.1K Tweets"
+    "tweet_count": "31.7K Tweets"
   },
   {
     "name": "Aaron Donald",
     "query": "\"Aaron Donald\"",
+    "rank": 12,
+    "tweet_count": "13.1K Tweets"
+  },
+  {
+    "name": "Joe Burrow",
+    "query": "\"Joe Burrow\"",
     "rank": 13,
-    "tweet_count": "7,820 Tweets"
+    "tweet_count": "277K Tweets"
   },
   {
-    "name": "Kittle",
-    "query": "Kittle",
+    "name": "Tartt",
+    "query": "Tartt",
     "rank": 14,
-    "tweet_count": "18.6K Tweets"
-  },
-  {
-    "name": "Shanahan",
-    "query": "Shanahan",
-    "rank": 15,
-    "tweet_count": "10K Tweets"
-  },
-  {
-    "name": "sam levinson",
-    "query": "\"sam levinson\"",
-    "rank": 16,
-    "tweet_count": "2,797 Tweets"
-  },
-  {
-    "name": "Brandy",
-    "query": "Brandy",
-    "rank": 17,
-    "tweet_count": "17K Tweets"
-  },
-  {
-    "name": "Reeder",
-    "query": "Reeder",
-    "rank": 18,
-    "tweet_count": "3,346 Tweets"
+    "tweet_count": "9,226 Tweets"
   },
   {
     "name": "Trey Lance",
     "query": "\"Trey Lance\"",
-    "rank": 19,
-    "tweet_count": "2,601 Tweets"
+    "rank": 15,
+    "tweet_count": "7,365 Tweets"
   },
   {
-    "name": "Fred Warner",
-    "query": "\"Fred Warner\"",
+    "name": "#SFvsLA",
+    "query": "#SFvsLA",
+    "rank": 16,
+    "tweet_count": "4,227 Tweets"
+  },
+  {
+    "name": "#90DayFiance",
+    "query": "#90DayFiance",
+    "rank": 17,
+    "tweet_count": "11.3K Tweets"
+  },
+  {
+    "name": "Burrow",
+    "query": "Burrow",
+    "rank": 18,
+    "tweet_count": "396K Tweets"
+  },
+  {
+    "name": "Kyle Shanahan",
+    "query": "\"Kyle Shanahan\"",
+    "rank": 19,
+    "tweet_count": "7,012 Tweets"
+  },
+  {
+    "name": "#LARams",
+    "query": "#LARams",
     "rank": 20,
-    "tweet_count": "4,360 Tweets"
+    "tweet_count": "2,889 Tweets"
   }
 ]
