@@ -1,110 +1,110 @@
 [
   {
-    "name": "Bolivia",
-    "query": "Bolivia",
-    "rank": 1,
-    "tweet_count": "50.8K Tweets"
-  },
-  {
     "name": "Tesillo",
     "query": "Tesillo",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Bolivia",
+    "query": "Bolivia",
+    "rank": 2,
+    "tweet_count": "52.7K Tweets"
+  },
+  {
+    "name": "Ospina",
+    "query": "Ospina",
+    "rank": 3,
+    "tweet_count": "4,864 Tweets"
   },
   {
     "name": "Camilo Vargas",
     "query": "\"Camilo Vargas\"",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "Borja",
+    "query": "Borja",
+    "rank": 5,
+    "tweet_count": "5,339 Tweets"
   },
   {
     "name": "Medina",
     "query": "Medina",
-    "rank": 4,
-    "tweet_count": "11.9K Tweets"
+    "rank": 6,
+    "tweet_count": "12.3K Tweets"
   },
   {
     "name": "Argentina",
     "query": "Argentina",
-    "rank": 5,
-    "tweet_count": "139K Tweets"
-  },
-  {
-    "name": "Alexis Sánchez",
-    "query": "\"Alexis Sánchez\"",
-    "rank": 6,
-    "tweet_count": "8,580 Tweets"
-  },
-  {
-    "name": "La Paz",
-    "query": "\"La Paz\"",
     "rank": 7,
-    "tweet_count": "79.6K Tweets"
+    "tweet_count": "143K Tweets"
   },
   {
     "name": "Papa",
     "query": "Papa",
     "rank": 8,
-    "tweet_count": "163K Tweets"
+    "tweet_count": "165K Tweets"
+  },
+  {
+    "name": "Alexis Sánchez",
+    "query": "\"Alexis Sánchez\"",
+    "rank": 9,
+    "tweet_count": "9,701 Tweets"
   },
   {
     "name": "Colombia",
     "query": "Colombia",
-    "rank": 9,
-    "tweet_count": "213K Tweets"
+    "rank": 10,
+    "tweet_count": "217K Tweets"
   },
   {
-    "name": "César Gaviria",
-    "query": "\"César Gaviria\"",
-    "rank": 10,
-    "tweet_count": "11.2K Tweets"
+    "name": "Cuadrado",
+    "query": "Cuadrado",
+    "rank": 11,
+    "tweet_count": "4,359 Tweets"
   },
   {
     "name": "Vaticano",
     "query": "Vaticano",
-    "rank": 11,
-    "tweet_count": "5,390 Tweets"
-  },
-  {
-    "name": "#YoMeMonto",
-    "query": "#YoMeMonto",
     "rank": 12,
-    "tweet_count": "10.9K Tweets"
-  },
-  {
-    "name": "#EliminatoriasQatar2022",
-    "query": "#EliminatoriasQatar2022",
-    "rank": 13,
-    "tweet_count": "3,396 Tweets"
-  },
-  {
-    "name": "Uruguay",
-    "query": "Uruguay",
-    "rank": 14,
-    "tweet_count": "35.1K Tweets"
+    "tweet_count": "5,713 Tweets"
   },
   {
     "name": "Muñoz",
     "query": "Muñoz",
-    "rank": 15,
-    "tweet_count": "8,921 Tweets"
+    "rank": 13,
+    "tweet_count": "9,113 Tweets"
   },
   {
-    "name": "David Ospina",
-    "query": "\"David Ospina\"",
+    "name": "César Gaviria",
+    "query": "\"César Gaviria\"",
+    "rank": 14,
+    "tweet_count": "11.6K Tweets"
+  },
+  {
+    "name": "#YoMeMonto",
+    "query": "#YoMeMonto",
+    "rank": 15,
+    "tweet_count": "11.3K Tweets"
+  },
+  {
+    "name": "#EliminatoriasQatar2022",
+    "query": "#EliminatoriasQatar2022",
     "rank": 16,
+    "tweet_count": "3,656 Tweets"
+  },
+  {
+    "name": "Cantillo",
+    "query": "Cantillo",
+    "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "#MiVotoEsPetro",
-    "query": "#MiVotoEsPetro",
-    "rank": 17,
-    "tweet_count": "19.5K Tweets"
-  },
-  {
-    "name": "Liberal",
-    "query": "Liberal",
+    "name": "Uruguay",
+    "query": "Uruguay",
     "rank": 18,
-    "tweet_count": "105K Tweets"
+    "tweet_count": "36.7K Tweets"
   }
 ]

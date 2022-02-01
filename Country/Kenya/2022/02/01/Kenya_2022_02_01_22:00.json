@@ -1,39 +1,39 @@
 [
   {
-    "name": "#Newsnight",
-    "query": "#Newsnight",
-    "rank": 1,
-    "tweet_count": "12.2K Tweets"
-  },
-  {
     "name": "Happy New Month",
     "query": "\"Happy New Month\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "133K Tweets"
   },
   {
-    "name": "Nzioka Waita",
-    "query": "\"Nzioka Waita\"",
-    "rank": 3,
-    "tweet_count": "1,365 Tweets"
-  },
-  {
-    "name": "#earthquakeinnairobi",
-    "query": "#earthquakeinnairobi",
-    "rank": 4,
-    "tweet_count": "6,454 Tweets"
+    "name": "#EarthquakeInNairobi",
+    "query": "#EarthquakeInNairobi",
+    "rank": 2,
+    "tweet_count": "6,457 Tweets"
   },
   {
     "name": "Rihanna",
     "query": "Rihanna",
-    "rank": 5,
+    "rank": 3,
     "tweet_count": "1.09M Tweets"
+  },
+  {
+    "name": "#Newsnight",
+    "query": "#Newsnight",
+    "rank": 4,
+    "tweet_count": "12.6K Tweets"
+  },
+  {
+    "name": "Nzioka Waita",
+    "query": "\"Nzioka Waita\"",
+    "rank": 5,
+    "tweet_count": "1,380 Tweets"
   },
   {
     "name": "#AzimioMtaaniNyandarua",
     "query": "#AzimioMtaaniNyandarua",
     "rank": 6,
-    "tweet_count": "3,449 Tweets"
+    "tweet_count": "3,451 Tweets"
   },
   {
     "name": "Machakos",
@@ -42,40 +42,40 @@
     "tweet_count": null
   },
   {
-    "name": "#StoryZaKanairo",
-    "query": "#StoryZaKanairo",
+    "name": "#storyzakanairo",
+    "query": "#storyzakanairo",
     "rank": 8,
-    "tweet_count": "5,772 Tweets"
-  },
-  {
-    "name": "#hiddenwealthinke",
-    "query": "#hiddenwealthinke",
-    "rank": 9,
-    "tweet_count": "5,677 Tweets"
+    "tweet_count": "5,773 Tweets"
   },
   {
     "name": "Auba",
     "query": "Auba",
+    "rank": 9,
+    "tweet_count": "98.4K Tweets"
+  },
+  {
+    "name": "#utumishikwawote",
+    "query": "#utumishikwawote",
     "rank": 10,
-    "tweet_count": "97.6K Tweets"
+    "tweet_count": "4,371 Tweets"
   },
   {
     "name": "Margaret Wanjiru",
     "query": "\"Margaret Wanjiru\"",
     "rank": 11,
-    "tweet_count": "4,076 Tweets"
+    "tweet_count": "4,080 Tweets"
   },
   {
     "name": "ida odinga",
     "query": "\"ida odinga\"",
     "rank": 12,
-    "tweet_count": "5,857 Tweets"
+    "tweet_count": "5,858 Tweets"
   },
   {
     "name": "johnson sakaja",
     "query": "\"johnson sakaja\"",
     "rank": 13,
-    "tweet_count": "4,685 Tweets"
+    "tweet_count": "4,687 Tweets"
   },
   {
     "name": "flaqo",
@@ -90,10 +90,10 @@
     "tweet_count": "4,905 Tweets"
   },
   {
-    "name": "Drake",
-    "query": "Drake",
+    "name": "Lake Victoria",
+    "query": "\"Lake Victoria\"",
     "rank": 16,
-    "tweet_count": "165K Tweets"
+    "tweet_count": "7,083 Tweets"
   },
   {
     "name": "ASAP Rocky",
@@ -102,21 +102,21 @@
     "tweet_count": "107K Tweets"
   },
   {
-    "name": "Lake Victoria",
-    "query": "\"Lake Victoria\"",
+    "name": "Arteta",
+    "query": "Arteta",
     "rank": 18,
-    "tweet_count": "7,081 Tweets"
+    "tweet_count": "32.1K Tweets"
   },
   {
-    "name": "Riri",
-    "query": "Riri",
+    "name": "Barcelona",
+    "query": "Barcelona",
     "rank": 19,
-    "tweet_count": "54.2K Tweets"
+    "tweet_count": "135K Tweets"
   },
   {
     "name": "Churches",
     "query": "Churches",
     "rank": 20,
-    "tweet_count": "24.3K Tweets"
+    "tweet_count": "24.5K Tweets"
   }
 ]
