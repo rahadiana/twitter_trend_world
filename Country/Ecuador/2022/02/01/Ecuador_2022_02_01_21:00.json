@@ -3,43 +3,43 @@
     "name": "Bolivia",
     "query": "Bolivia",
     "rank": 1,
-    "tweet_count": "35.8K Tweets"
+    "tweet_count": "37.3K Tweets"
   },
   {
     "name": "#AyPame",
     "query": "#AyPame",
     "rank": 2,
-    "tweet_count": "1,060 Tweets"
+    "tweet_count": "1,109 Tweets"
   },
   {
     "name": "Alexis Sánchez",
     "query": "\"Alexis Sánchez\"",
     "rank": 3,
-    "tweet_count": "3,057 Tweets"
-  },
-  {
-    "name": "#LaGasca",
-    "query": "#LaGasca",
-    "rank": 4,
-    "tweet_count": "40.4K Tweets"
-  },
-  {
-    "name": "Chile",
-    "query": "Chile",
-    "rank": 5,
-    "tweet_count": "160K Tweets"
-  },
-  {
-    "name": "manabí",
-    "query": "manabí",
-    "rank": 6,
-    "tweet_count": "2,273 Tweets"
+    "tweet_count": "3,370 Tweets"
   },
   {
     "name": "La Paz",
     "query": "\"La Paz\"",
+    "rank": 4,
+    "tweet_count": "76.4K Tweets"
+  },
+  {
+    "name": "#LaGasca",
+    "query": "#LaGasca",
+    "rank": 5,
+    "tweet_count": "41.2K Tweets"
+  },
+  {
+    "name": "Chile",
+    "query": "Chile",
+    "rank": 6,
+    "tweet_count": "164K Tweets"
+  },
+  {
+    "name": "Manabí",
+    "query": "Manabí",
     "rank": 7,
-    "tweet_count": "75.1K Tweets"
+    "tweet_count": "2,349 Tweets"
   },
   {
     "name": "#LaCábalaDeEcuador",
@@ -51,66 +51,72 @@
     "name": "Puerto Santa Ana",
     "query": "\"Puerto Santa Ana\"",
     "rank": 9,
-    "tweet_count": "6,753 Tweets"
+    "tweet_count": "6,848 Tweets"
   },
   {
-    "name": "#QuitoSolidario",
-    "query": "#QuitoSolidario",
+    "name": "#suicidio",
+    "query": "#suicidio",
     "rank": 10,
-    "tweet_count": "2,640 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#QuitoEnEmergencia",
-    "query": "#QuitoEnEmergencia",
+    "name": "#quitosolidario",
+    "query": "#quitosolidario",
     "rank": 11,
-    "tweet_count": "2,829 Tweets"
+    "tweet_count": "2,780 Tweets"
   },
   {
     "name": "China",
     "query": "China",
     "rank": 12,
-    "tweet_count": "385K Tweets"
+    "tweet_count": "389K Tweets"
   },
   {
     "name": "Guarderas",
     "query": "Guarderas",
     "rank": 13,
-    "tweet_count": "16.4K Tweets"
+    "tweet_count": "16.7K Tweets"
   },
   {
     "name": "Miserable",
     "query": "Miserable",
     "rank": 14,
-    "tweet_count": "61.7K Tweets"
+    "tweet_count": "62.6K Tweets"
   },
   {
     "name": "Municipio",
     "query": "Municipio",
     "rank": 15,
-    "tweet_count": "42K Tweets"
+    "tweet_count": "42.5K Tweets"
   },
   {
     "name": "Urkupamba",
     "query": "Urkupamba",
     "rank": 16,
-    "tweet_count": "19.3K Tweets"
+    "tweet_count": "19.6K Tweets"
+  },
+  {
+    "name": "#QuitoEnEmergencia",
+    "query": "#QuitoEnEmergencia",
+    "rank": 17,
+    "tweet_count": "2,871 Tweets"
   },
   {
     "name": "#aluvion",
     "query": "#aluvion",
-    "rank": 17,
-    "tweet_count": "16.6K Tweets"
+    "rank": 18,
+    "tweet_count": "16.9K Tweets"
   },
   {
     "name": "#LaComuna",
     "query": "#LaComuna",
-    "rank": 18,
-    "tweet_count": "1,996 Tweets"
+    "rank": 19,
+    "tweet_count": "2,065 Tweets"
   },
   {
     "name": "#QuitoSinAlcalde",
     "query": "#QuitoSinAlcalde",
-    "rank": 19,
-    "tweet_count": "1,501 Tweets"
+    "rank": 20,
+    "tweet_count": "1,512 Tweets"
   }
 ]
