@@ -1,99 +1,99 @@
 [
   {
+    "name": "Rihanna",
+    "query": "Rihanna",
+    "rank": 1,
+    "tweet_count": "1.42M Tweets"
+  },
+  {
     "name": "Pelicans",
     "query": "Pelicans",
-    "rank": 1,
-    "tweet_count": "3,331 Tweets"
+    "rank": 2,
+    "tweet_count": "3,352 Tweets"
   },
   {
     "name": "Laine",
     "query": "Laine",
-    "rank": 2,
-    "tweet_count": "2,273 Tweets"
-  },
-  {
-    "name": "Garland",
-    "query": "Garland",
     "rank": 3,
-    "tweet_count": "68.7K Tweets"
+    "tweet_count": "2,290 Tweets"
   },
   {
     "name": "Rondo",
     "query": "Rondo",
     "rank": 4,
-    "tweet_count": "3,544 Tweets"
+    "tweet_count": "3,564 Tweets"
   },
   {
-    "name": "Drake",
-    "query": "Drake",
+    "name": "Garland",
+    "query": "Garland",
     "rank": 5,
-    "tweet_count": "218K Tweets"
+    "tweet_count": "69.1K Tweets"
   },
   {
-    "name": "Bachelor",
-    "query": "Bachelor",
+    "name": "#Bachelor",
+    "query": "#Bachelor",
     "rank": 6,
-    "tweet_count": "13K Tweets"
+    "tweet_count": "5,047 Tweets"
   },
   {
     "name": "#WWERaw",
     "query": "#WWERaw",
     "rank": 7,
-    "tweet_count": "44.4K Tweets"
+    "tweet_count": "48.8K Tweets"
   },
   {
     "name": "Maxey",
     "query": "Maxey",
     "rank": 8,
-    "tweet_count": "13.4K Tweets"
+    "tweet_count": "13.9K Tweets"
   },
   {
     "name": "Iowa",
     "query": "Iowa",
     "rank": 9,
-    "tweet_count": "19.9K Tweets"
+    "tweet_count": "20.2K Tweets"
+  },
+  {
+    "name": "Tyrese Maxey",
+    "query": "\"Tyrese Maxey\"",
+    "rank": 10,
+    "tweet_count": "7,302 Tweets"
   },
   {
     "name": "#1000lbSisters",
     "query": "#1000lbSisters",
-    "rank": 10,
-    "tweet_count": "1,811 Tweets"
-  },
-  {
-    "name": "#SummerHouse",
-    "query": "#SummerHouse",
     "rank": 11,
-    "tweet_count": "1,712 Tweets"
-  },
-  {
-    "name": "Whoopi",
-    "query": "Whoopi",
-    "rank": 12,
-    "tweet_count": "51.7K Tweets"
+    "tweet_count": "2,096 Tweets"
   },
   {
     "name": "#barkingspace",
     "query": "#barkingspace",
-    "rank": 13,
-    "tweet_count": "1,779 Tweets"
+    "rank": 12,
+    "tweet_count": "2,164 Tweets"
   },
   {
-    "name": "#911LoneStar",
-    "query": "#911LoneStar",
+    "name": "#SummerHouse",
+    "query": "#SummerHouse",
+    "rank": 13,
+    "tweet_count": "1,758 Tweets"
+  },
+  {
+    "name": "Whoopi",
+    "query": "Whoopi",
     "rank": 14,
-    "tweet_count": "18.9K Tweets"
+    "tweet_count": "52.6K Tweets"
   },
   {
     "name": "Des Moines",
     "query": "\"Des Moines\"",
     "rank": 15,
-    "tweet_count": "2,233 Tweets"
+    "tweet_count": "2,281 Tweets"
   },
   {
     "name": "Ja Morant",
     "query": "\"Ja Morant\"",
     "rank": 16,
-    "tweet_count": "13.1K Tweets"
+    "tweet_count": "13.3K Tweets"
   },
   {
     "name": "Caitlin Clark",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "Wyoming",
-    "query": "Wyoming",
-    "rank": 18,
-    "tweet_count": "7,815 Tweets"
-  },
-  {
     "name": "Ted Cruz",
     "query": "\"Ted Cruz\"",
-    "rank": 19,
-    "tweet_count": "17.6K Tweets"
+    "rank": 18,
+    "tweet_count": "18.3K Tweets"
   },
   {
-    "name": "drummond",
-    "query": "drummond",
+    "name": "Wyoming",
+    "query": "Wyoming",
+    "rank": 19,
+    "tweet_count": "7,919 Tweets"
+  },
+  {
+    "name": "Drummond",
+    "query": "Drummond",
     "rank": 20,
-    "tweet_count": "4,095 Tweets"
+    "tweet_count": "4,163 Tweets"
   }
 ]

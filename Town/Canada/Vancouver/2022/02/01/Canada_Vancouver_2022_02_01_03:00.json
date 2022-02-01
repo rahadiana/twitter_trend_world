@@ -1,33 +1,33 @@
 [
   {
-    "name": "Chicago",
-    "query": "Chicago",
-    "rank": 1,
-    "tweet_count": "53.1K Tweets"
-  },
-  {
     "name": "Rihanna",
     "query": "Rihanna",
-    "rank": 2,
-    "tweet_count": "1.41M Tweets"
+    "rank": 1,
+    "tweet_count": "1.42M Tweets"
   },
   {
-    "name": "#leafsforever",
-    "query": "#leafsforever",
-    "rank": 3,
-    "tweet_count": "5,217 Tweets"
+    "name": "#LeafsForever",
+    "query": "#LeafsForever",
+    "rank": 2,
+    "tweet_count": "5,349 Tweets"
   },
   {
     "name": "#Bachelor",
     "query": "#Bachelor",
-    "rank": 4,
-    "tweet_count": "4,970 Tweets"
+    "rank": 3,
+    "tweet_count": "5,049 Tweets"
   },
   {
     "name": "Kerfoot",
     "query": "Kerfoot",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "#WWERaw",
+    "query": "#WWERaw",
+    "rank": 5,
+    "tweet_count": "48K Tweets"
   },
   {
     "name": "Stutzle",
@@ -42,81 +42,81 @@
     "tweet_count": null
   },
   {
-    "name": "#WWERaw",
-    "query": "#WWERaw",
-    "rank": 8,
-    "tweet_count": "44.3K Tweets"
-  },
-  {
     "name": "Mason Marchment",
     "query": "\"Mason Marchment\"",
-    "rank": 9,
-    "tweet_count": "1,348 Tweets"
+    "rank": 8,
+    "tweet_count": "1,369 Tweets"
   },
   {
     "name": "Spezza",
     "query": "Spezza",
-    "rank": 10,
-    "tweet_count": "1,431 Tweets"
+    "rank": 9,
+    "tweet_count": "1,440 Tweets"
   },
   {
     "name": "Nick Paul",
     "query": "\"Nick Paul\"",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Campbell",
     "query": "Campbell",
-    "rank": 12,
-    "tweet_count": "13.5K Tweets"
+    "rank": 11,
+    "tweet_count": "13.7K Tweets"
   },
   {
     "name": "Timmy",
     "query": "Timmy",
+    "rank": 12,
+    "tweet_count": "7,271 Tweets"
+  },
+  {
+    "name": "Devils",
+    "query": "Devils",
     "rank": 13,
-    "tweet_count": "7,218 Tweets"
+    "tweet_count": "11.3K Tweets"
   },
   {
     "name": "Koskinen",
     "query": "Koskinen",
     "rank": 14,
-    "tweet_count": null
+    "tweet_count": "1,008 Tweets"
   },
   {
     "name": "Hawks",
     "query": "Hawks",
     "rank": 15,
-    "tweet_count": "14.1K Tweets"
-  },
-  {
-    "name": "Devils",
-    "query": "Devils",
-    "rank": 16,
-    "tweet_count": "11.2K Tweets"
-  },
-  {
-    "name": "#NJDvsTOR",
-    "query": "#NJDvsTOR",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Mitch Marner",
-    "query": "\"Mitch Marner\"",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Mrazek",
-    "query": "Mrazek",
-    "rank": 19,
-    "tweet_count": null
+    "tweet_count": "14.3K Tweets"
   },
   {
     "name": "Iowa",
     "query": "Iowa",
+    "rank": 16,
+    "tweet_count": "20.2K Tweets"
+  },
+  {
+    "name": "Happy Lunar New Year",
+    "query": "\"Happy Lunar New Year\"",
+    "rank": 17,
+    "tweet_count": "281K Tweets"
+  },
+  {
+    "name": "Mrazek",
+    "query": "Mrazek",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "mitch marner",
+    "query": "\"mitch marner\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "#NJDvsTOR",
+    "query": "#NJDvsTOR",
     "rank": 20,
-    "tweet_count": "19.9K Tweets"
+    "tweet_count": null
   }
 ]

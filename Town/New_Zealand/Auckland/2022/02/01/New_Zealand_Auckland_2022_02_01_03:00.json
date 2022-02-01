@@ -1,33 +1,33 @@
 [
   {
-    "name": "Fox News",
-    "query": "\"Fox News\"",
-    "rank": 1,
-    "tweet_count": "37.4K Tweets"
-  },
-  {
     "name": "Taliban",
     "query": "Taliban",
+    "rank": 1,
+    "tweet_count": "32.6K Tweets"
+  },
+  {
+    "name": "Fox News",
+    "query": "\"Fox News\"",
     "rank": 2,
-    "tweet_count": "32.2K Tweets"
+    "tweet_count": "38K Tweets"
   },
   {
     "name": "Charlotte Bellis",
     "query": "\"Charlotte Bellis\"",
     "rank": 3,
-    "tweet_count": "2,248 Tweets"
+    "tweet_count": "2,294 Tweets"
   },
   {
     "name": "Rihanna",
     "query": "Rihanna",
     "rank": 4,
-    "tweet_count": "1.41M Tweets"
+    "tweet_count": "1.42M Tweets"
   },
   {
     "name": "Afghanistan",
     "query": "Afghanistan",
     "rank": 5,
-    "tweet_count": "46.5K Tweets"
+    "tweet_count": "46.9K Tweets"
   },
   {
     "name": "Roy Morgan",
@@ -42,58 +42,58 @@
     "tweet_count": "19.6K Tweets"
   },
   {
-    "name": "#trillionairethugs",
-    "query": "#trillionairethugs",
-    "rank": 8,
-    "tweet_count": "32.9K Tweets"
-  },
-  {
     "name": "Bengals",
     "query": "Bengals",
-    "rank": 9,
-    "tweet_count": "226K Tweets"
+    "rank": 8,
+    "tweet_count": "227K Tweets"
   },
   {
     "name": "#pervwel",
     "query": "#pervwel",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Grant Robertson",
-    "query": "\"Grant Robertson\"",
-    "rank": 11,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Kiwisaver",
     "query": "Kiwisaver",
-    "rank": 12,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "#tthugsarmy",
     "query": "#tthugsarmy",
-    "rank": 13,
-    "tweet_count": "23.1K Tweets"
+    "rank": 11,
+    "tweet_count": "23.2K Tweets"
+  },
+  {
+    "name": "Grant Robertson",
+    "query": "\"Grant Robertson\"",
+    "rank": 12,
+    "tweet_count": null
   },
   {
     "name": "Happy Lunar New Year",
     "query": "\"Happy Lunar New Year\"",
-    "rank": 14,
-    "tweet_count": "276K Tweets"
+    "rank": 13,
+    "tweet_count": "281K Tweets"
   },
   {
     "name": "#NFLPlayoffs",
     "query": "#NFLPlayoffs",
+    "rank": 14,
+    "tweet_count": "9,785 Tweets"
+  },
+  {
+    "name": "#Trillionairethugs",
+    "query": "#Trillionairethugs",
     "rank": 15,
-    "tweet_count": "9,753 Tweets"
+    "tweet_count": "33K Tweets"
   },
   {
     "name": "Bungie",
     "query": "Bungie",
     "rank": 16,
-    "tweet_count": "175K Tweets"
+    "tweet_count": "176K Tweets"
   },
   {
     "name": "Barry Soper",
@@ -105,7 +105,7 @@
     "name": "#GetWellSoonJimin",
     "query": "#GetWellSoonJimin",
     "rank": 18,
-    "tweet_count": "1.2M Tweets"
+    "tweet_count": "1.21M Tweets"
   },
   {
     "name": "Belgium",
@@ -117,6 +117,6 @@
     "name": "Queenstown",
     "query": "Queenstown",
     "rank": 20,
-    "tweet_count": "1,356 Tweets"
+    "tweet_count": "1,382 Tweets"
   }
 ]
