@@ -1,33 +1,33 @@
 [
   {
-    "name": "Maria",
-    "query": "Maria",
-    "rank": 1,
-    "tweet_count": "420K Tweets"
-  },
-  {
     "name": "Tadeu",
     "query": "Tadeu",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "301K Tweets"
   },
   {
     "name": "Naiara",
     "query": "Naiara",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": "440K Tweets"
   },
   {
-    "name": "Naiara",
-    "query": "Naiara",
-    "rank": 4,
-    "tweet_count": "440K Tweets"
+    "name": "Tiago",
+    "query": "Tiago",
+    "rank": 3,
+    "tweet_count": "192K Tweets"
   },
   {
     "name": "Viny",
     "query": "Viny",
+    "rank": 4,
+    "tweet_count": "49.1K Tweets"
+  },
+  {
+    "name": "#AnittaOnFallon",
+    "query": "#AnittaOnFallon",
     "rank": 5,
-    "tweet_count": "49K Tweets"
+    "tweet_count": "29.3K Tweets"
   },
   {
     "name": "Bruna",
@@ -36,28 +36,28 @@
     "tweet_count": "61.4K Tweets"
   },
   {
-    "name": "#AnittaOnFallon",
-    "query": "#AnittaOnFallon",
+    "name": "Scooby",
+    "query": "Scooby",
     "rank": 7,
-    "tweet_count": "28.9K Tweets"
+    "tweet_count": "270K Tweets"
   },
   {
-    "name": "Arthur Aguiar",
-    "query": "\"Arthur Aguiar\"",
+    "name": "#Happybirthdayharry",
+    "query": "#Happybirthdayharry",
     "rank": 8,
-    "tweet_count": "143K Tweets"
+    "tweet_count": "77.7K Tweets"
   },
   {
     "name": "30 X",
     "query": "\"30 X\"",
     "rank": 9,
-    "tweet_count": "19.1K Tweets"
+    "tweet_count": "19.2K Tweets"
   },
   {
-    "name": "#Happybirthdayharry",
-    "query": "#Happybirthdayharry",
+    "name": "Arthur Aguiar",
+    "query": "\"Arthur Aguiar\"",
     "rank": 10,
-    "tweet_count": "76.8K Tweets"
+    "tweet_count": "143K Tweets"
   },
   {
     "name": "O Arthur",
@@ -72,16 +72,16 @@
     "tweet_count": "10.2K Tweets"
   },
   {
-    "name": "Scooby",
-    "query": "Scooby",
-    "rank": 13,
-    "tweet_count": "270K Tweets"
-  },
-  {
     "name": "Laís",
     "query": "Laís",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": "140K Tweets"
+  },
+  {
+    "name": "#FallonTonight",
+    "query": "#FallonTonight",
+    "rank": 14,
+    "tweet_count": "19.3K Tweets"
   },
   {
     "name": "Eslovênia",
@@ -114,8 +114,8 @@
     "tweet_count": "96.2K Tweets"
   },
   {
-    "name": "Eslováquia",
-    "query": "Eslováquia",
+    "name": "eslováquia",
+    "query": "eslováquia",
     "rank": 20,
     "tweet_count": "31.9K Tweets"
   }
