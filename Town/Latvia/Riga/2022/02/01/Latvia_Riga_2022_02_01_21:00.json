@@ -1,21 +1,21 @@
 [
   {
-    "name": "Bolt",
-    "query": "Bolt",
-    "rank": 1,
-    "tweet_count": "14.9K Tweets"
-  },
-  {
     "name": "No 1",
     "query": "\"No 1\"",
-    "rank": 2,
-    "tweet_count": "551K Tweets"
+    "rank": 1,
+    "tweet_count": "555K Tweets"
   },
   {
     "name": "Depozīta",
     "query": "Depozīta",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "Bolt",
+    "query": "Bolt",
+    "rank": 3,
+    "tweet_count": "15.1K Tweets"
   },
   {
     "name": "dārta",
@@ -48,26 +48,26 @@
     "tweet_count": null
   },
   {
+    "name": "Nebūs",
+    "query": "Nebūs",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
     "name": "Domā",
     "query": "Domā",
-    "rank": 9,
-    "tweet_count": "3,505 Tweets"
+    "rank": 10,
+    "tweet_count": "3,534 Tweets"
   },
   {
     "name": "Tikai",
     "query": "Tikai",
-    "rank": 10,
-    "tweet_count": "1,549 Tweets"
-  },
-  {
-    "name": "Nebūs",
-    "query": "Nebūs",
     "rank": 11,
-    "tweet_count": null
+    "tweet_count": "1,569 Tweets"
   },
   {
-    "name": "Ministru",
-    "query": "Ministru",
+    "name": "ministru",
+    "query": "ministru",
     "rank": 12,
     "tweet_count": null
   },
@@ -99,7 +99,7 @@
     "name": "Riga",
     "query": "Riga",
     "rank": 17,
-    "tweet_count": "2,050 Tweets"
+    "tweet_count": "2,065 Tweets"
   },
   {
     "name": "stambulas",
