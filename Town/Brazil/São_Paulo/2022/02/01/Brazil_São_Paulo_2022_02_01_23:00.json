@@ -1,122 +1,122 @@
 [
   {
+    "name": "Rio de Janeiro",
+    "query": "\"Rio de Janeiro\"",
+    "rank": 1,
+    "tweet_count": "51.2K Tweets"
+  },
+  {
     "name": "Jorge",
     "query": "Jorge",
-    "rank": 1,
-    "tweet_count": "66K Tweets"
+    "rank": 2,
+    "tweet_count": "66.7K Tweets"
+  },
+  {
+    "name": "Lomba",
+    "query": "Lomba",
+    "rank": 3,
+    "tweet_count": "4,154 Tweets"
   },
   {
     "name": "Willian",
     "query": "Willian",
-    "rank": 2,
-    "tweet_count": "5,462 Tweets"
+    "rank": 4,
+    "tweet_count": "5,531 Tweets"
+  },
+  {
+    "name": "Diadema",
+    "query": "Diadema",
+    "rank": 5,
+    "tweet_count": null
   },
   {
     "name": "Dublador",
     "query": "Dublador",
-    "rank": 3,
-    "tweet_count": "12.1K Tweets"
+    "rank": 6,
+    "tweet_count": "12.5K Tweets"
   },
   {
     "name": "PSDB",
     "query": "PSDB",
-    "rank": 4,
-    "tweet_count": "15.8K Tweets"
+    "rank": 7,
+    "tweet_count": "16K Tweets"
+  },
+  {
+    "name": "Metrô",
+    "query": "Metrô",
+    "rank": 8,
+    "tweet_count": "101K Tweets"
   },
   {
     "name": "ARTHURPICOLI NO FOFOCALIZANDO",
     "query": "\"ARTHURPICOLI NO FOFOCALIZANDO\"",
-    "rank": 5,
+    "rank": 9,
     "tweet_count": "22.2K Tweets"
   },
   {
     "name": "Etec",
     "query": "Etec",
-    "rank": 6,
-    "tweet_count": "2,493 Tweets"
-  },
-  {
-    "name": "Rio de Janeiro",
-    "query": "\"Rio de Janeiro\"",
-    "rank": 7,
-    "tweet_count": "50.6K Tweets"
-  },
-  {
-    "name": "Maluf",
-    "query": "Maluf",
-    "rank": 8,
-    "tweet_count": null
+    "rank": 10,
+    "tweet_count": "2,571 Tweets"
   },
   {
     "name": "Killing Eve",
     "query": "\"Killing Eve\"",
-    "rank": 9,
-    "tweet_count": "13.2K Tweets"
+    "rank": 11,
+    "tweet_count": "13.3K Tweets"
   },
   {
-    "name": "Barroso",
-    "query": "Barroso",
-    "rank": 10,
-    "tweet_count": "23.6K Tweets"
+    "name": "Maluf",
+    "query": "Maluf",
+    "rank": 12,
+    "tweet_count": null
   },
   {
     "name": "Tropicália",
     "query": "Tropicália",
-    "rank": 11,
-    "tweet_count": "48.1K Tweets"
+    "rank": 13,
+    "tweet_count": "48.5K Tweets"
   },
   {
     "name": "Mundial de Clubes",
     "query": "\"Mundial de Clubes\"",
-    "rank": 12,
-    "tweet_count": "5,251 Tweets"
+    "rank": 14,
+    "tweet_count": "5,309 Tweets"
   },
   {
     "name": "Ganso",
     "query": "Ganso",
-    "rank": 13,
-    "tweet_count": "4,678 Tweets"
+    "rank": 15,
+    "tweet_count": "4,717 Tweets"
+  },
+  {
+    "name": "Tom Brady",
+    "query": "\"Tom Brady\"",
+    "rank": 16,
+    "tweet_count": "290K Tweets"
   },
   {
     "name": "#TheBatman",
     "query": "#TheBatman",
-    "rank": 14,
-    "tweet_count": "45K Tweets"
+    "rank": 17,
+    "tweet_count": "45.4K Tweets"
   },
   {
     "name": "Igor Gomes",
     "query": "\"Igor Gomes\"",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Sabesp",
-    "query": "Sabesp",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "unicamp",
-    "query": "unicamp",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Pinheiros",
     "query": "Pinheiros",
-    "rank": 18,
-    "tweet_count": "1,393 Tweets"
-  },
-  {
-    "name": "#ThankYouTom",
-    "query": "#ThankYouTom",
     "rank": 19,
-    "tweet_count": "29.9K Tweets"
+    "tweet_count": "1,403 Tweets"
   },
   {
-    "name": "Tigre",
-    "query": "Tigre",
+    "name": "Sabesp",
+    "query": "Sabesp",
     "rank": 20,
-    "tweet_count": "48.7K Tweets"
+    "tweet_count": null
   }
 ]

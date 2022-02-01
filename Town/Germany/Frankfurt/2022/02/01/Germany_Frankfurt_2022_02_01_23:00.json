@@ -1,25 +1,25 @@
 [
   {
-    "name": "#WSMDS",
-    "query": "#WSMDS",
+    "name": "#ibes",
+    "query": "#ibes",
     "rank": 1,
-    "tweet_count": "4,544 Tweets"
+    "tweet_count": "13.5K Tweets"
+  },
+  {
+    "name": "#wsmds",
+    "query": "#wsmds",
+    "rank": 2,
+    "tweet_count": "4,546 Tweets"
   },
   {
     "name": "Manuel",
     "query": "Manuel",
-    "rank": 2,
-    "tweet_count": "58.5K Tweets"
-  },
-  {
-    "name": "#ibes",
-    "query": "#ibes",
     "rank": 3,
-    "tweet_count": "13.5K Tweets"
+    "tweet_count": "59K Tweets"
   },
   {
-    "name": "Dr. Bob",
-    "query": "\"Dr. Bob\"",
+    "name": "dr. bob",
+    "query": "\"dr. bob\"",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,13 +27,13 @@
     "name": "Sonja",
     "query": "Sonja",
     "rank": 5,
-    "tweet_count": "3,874 Tweets"
+    "tweet_count": "3,890 Tweets"
   },
   {
     "name": "Anouschka",
     "query": "Anouschka",
     "rank": 6,
-    "tweet_count": "1,260 Tweets"
+    "tweet_count": "1,262 Tweets"
   },
   {
     "name": "#DieAnstalt",
@@ -45,66 +45,66 @@
     "name": "Eric",
     "query": "Eric",
     "rank": 8,
-    "tweet_count": "153K Tweets"
-  },
-  {
-    "name": "Peter",
-    "query": "Peter",
-    "rank": 9,
-    "tweet_count": "185K Tweets"
+    "tweet_count": "155K Tweets"
   },
   {
     "name": "Flores",
     "query": "Flores",
-    "rank": 10,
-    "tweet_count": "185K Tweets"
+    "rank": 9,
+    "tweet_count": "194K Tweets"
   },
   {
     "name": "Joko",
     "query": "Joko",
-    "rank": 11,
-    "tweet_count": "3,619 Tweets"
+    "rank": 10,
+    "tweet_count": "3,644 Tweets"
   },
   {
-    "name": "Tina",
-    "query": "Tina",
-    "rank": 12,
-    "tweet_count": "31.1K Tweets"
+    "name": "riccardo",
+    "query": "riccardo",
+    "rank": 11,
+    "tweet_count": "2,623 Tweets"
   },
   {
     "name": "Göre",
     "query": "Göre",
+    "rank": 12,
+    "tweet_count": "62.5K Tweets"
+  },
+  {
+    "name": "Anke",
+    "query": "Anke",
     "rank": 13,
-    "tweet_count": "62.2K Tweets"
-  },
-  {
-    "name": "Camp",
-    "query": "Camp",
-    "rank": 14,
-    "tweet_count": "170K Tweets"
-  },
-  {
-    "name": "Riccardo",
-    "query": "Riccardo",
-    "rank": 15,
-    "tweet_count": "2,607 Tweets"
-  },
-  {
-    "name": "ANKE",
-    "query": "ANKE",
-    "rank": 16,
-    "tweet_count": "1,030 Tweets"
+    "tweet_count": "1,034 Tweets"
   },
   {
     "name": "Kopftuch",
     "query": "Kopftuch",
-    "rank": 17,
-    "tweet_count": "2,607 Tweets"
+    "rank": 14,
+    "tweet_count": "2,639 Tweets"
   },
   {
     "name": "Mark",
     "query": "Mark",
+    "rank": 15,
+    "tweet_count": "678K Tweets"
+  },
+  {
+    "name": "Klaas",
+    "query": "Klaas",
+    "rank": 16,
+    "tweet_count": "1,330 Tweets"
+  },
+  {
+    "name": "Ostern",
+    "query": "Ostern",
+    "rank": 17,
+    "tweet_count": "7,511 Tweets"
+  },
+  {
+    "name": "Apartheid",
+    "query": "Apartheid",
     "rank": 18,
-    "tweet_count": "673K Tweets"
+    "tweet_count": "134K Tweets"
   }
 ]

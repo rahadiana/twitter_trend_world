@@ -1,9 +1,9 @@
 [
   {
-    "name": "Harbaugh",
-    "query": "Harbaugh",
+    "name": "#snowday",
+    "query": "#snowday",
     "rank": 1,
-    "tweet_count": "18.9K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Gattis",
@@ -12,28 +12,28 @@
     "tweet_count": null
   },
   {
+    "name": "Harbaugh",
+    "query": "Harbaugh",
+    "rank": 3,
+    "tweet_count": "19.1K Tweets"
+  },
+  {
     "name": "Minnesota",
     "query": "Minnesota",
-    "rank": 3,
-    "tweet_count": "23.1K Tweets"
+    "rank": 4,
+    "tweet_count": "23.4K Tweets"
   },
   {
     "name": "Brian Flores",
     "query": "\"Brian Flores\"",
-    "rank": 4,
-    "tweet_count": "103K Tweets"
+    "rank": 5,
+    "tweet_count": "109K Tweets"
   },
   {
     "name": "#DragRaceUK",
     "query": "#DragRaceUK",
-    "rank": 5,
-    "tweet_count": "15.2K Tweets"
-  },
-  {
-    "name": "Leslie Frazier",
-    "query": "\"Leslie Frazier\"",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "15.8K Tweets"
   },
   {
     "name": "#LightningStrikes",
@@ -42,80 +42,80 @@
     "tweet_count": null
   },
   {
-    "name": "Wale",
-    "query": "Wale",
+    "name": "Leslie Frazier",
+    "query": "\"Leslie Frazier\"",
     "rank": 8,
-    "tweet_count": "44.9K Tweets"
-  },
-  {
-    "name": "Mina the Hollower",
-    "query": "\"Mina the Hollower\"",
-    "rank": 9,
-    "tweet_count": "1,564 Tweets"
-  },
-  {
-    "name": "WNBA",
-    "query": "WNBA",
-    "rank": 10,
-    "tweet_count": "12.2K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Kevin Steele",
     "query": "\"Kevin Steele\"",
-    "rank": 11,
-    "tweet_count": null
+    "rank": 9,
+    "tweet_count": "1,158 Tweets"
   },
   {
-    "name": "Bridgewater College",
-    "query": "\"Bridgewater College\"",
-    "rank": 12,
-    "tweet_count": "6,227 Tweets"
-  },
-  {
-    "name": "#hourlycomicday",
-    "query": "#hourlycomicday",
-    "rank": 13,
-    "tweet_count": "6,886 Tweets"
-  },
-  {
-    "name": "Green Book",
-    "query": "\"Green Book\"",
-    "rank": 14,
-    "tweet_count": "1,632 Tweets"
-  },
-  {
-    "name": "Golden Corral",
-    "query": "\"Golden Corral\"",
-    "rank": 15,
-    "tweet_count": "21.5K Tweets"
+    "name": "Mina the Hollower",
+    "query": "\"Mina the Hollower\"",
+    "rank": 10,
+    "tweet_count": "2,103 Tweets"
   },
   {
     "name": "Happy Birthday Leo",
     "query": "\"Happy Birthday Leo\"",
-    "rank": 16,
+    "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "Richfield",
-    "query": "Richfield",
-    "rank": 17,
-    "tweet_count": "4,904 Tweets"
+    "name": "Wale",
+    "query": "Wale",
+    "rank": 12,
+    "tweet_count": "45.1K Tweets"
   },
   {
-    "name": "Whoopi",
-    "query": "Whoopi",
-    "rank": 18,
-    "tweet_count": "127K Tweets"
+    "name": "WNBA",
+    "query": "WNBA",
+    "rank": 13,
+    "tweet_count": "12.6K Tweets"
+  },
+  {
+    "name": "Bridgewater College",
+    "query": "\"Bridgewater College\"",
+    "rank": 14,
+    "tweet_count": "6,720 Tweets"
+  },
+  {
+    "name": "Green Book",
+    "query": "\"Green Book\"",
+    "rank": 15,
+    "tweet_count": "1,677 Tweets"
+  },
+  {
+    "name": "#hourlycomicday",
+    "query": "#hourlycomicday",
+    "rank": 16,
+    "tweet_count": "7,018 Tweets"
   },
   {
     "name": "Hitpiece",
     "query": "Hitpiece",
-    "rank": 19,
-    "tweet_count": "3,771 Tweets"
+    "rank": 17,
+    "tweet_count": "4,146 Tweets"
   },
   {
-    "name": "#Stupid5YearGoalQuestions",
-    "query": "#Stupid5YearGoalQuestions",
+    "name": "Golden Corral",
+    "query": "\"Golden Corral\"",
+    "rank": 18,
+    "tweet_count": "21.7K Tweets"
+  },
+  {
+    "name": "Whoopi",
+    "query": "Whoopi",
+    "rank": 19,
+    "tweet_count": "129K Tweets"
+  },
+  {
+    "name": "Dan Snyder",
+    "query": "\"Dan Snyder\"",
     "rank": 20,
     "tweet_count": null
   }

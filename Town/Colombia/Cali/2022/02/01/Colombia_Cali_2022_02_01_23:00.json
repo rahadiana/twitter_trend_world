@@ -1,122 +1,122 @@
 [
   {
+    "name": "Cuadrado",
+    "query": "Cuadrado",
+    "rank": 1,
+    "tweet_count": "6,337 Tweets"
+  },
+  {
+    "name": "Di María",
+    "query": "\"Di María\"",
+    "rank": 2,
+    "tweet_count": "8,704 Tweets"
+  },
+  {
     "name": "Tesillo",
     "query": "Tesillo",
-    "rank": 1,
-    "tweet_count": "1,320 Tweets"
-  },
-  {
-    "name": "Ospina",
-    "query": "Ospina",
-    "rank": 2,
-    "tweet_count": "5,597 Tweets"
-  },
-  {
-    "name": "Argentina",
-    "query": "Argentina",
     "rank": 3,
-    "tweet_count": "151K Tweets"
+    "tweet_count": "1,420 Tweets"
   },
   {
     "name": "Argentina",
     "query": "Argentina",
     "rank": 4,
-    "tweet_count": "151K Tweets"
+    "tweet_count": "156K Tweets"
   },
   {
-    "name": "Chile",
-    "query": "Chile",
+    "name": "Argentina",
+    "query": "Argentina",
     "rank": 5,
-    "tweet_count": "188K Tweets"
+    "tweet_count": "156K Tweets"
   },
   {
-    "name": "Di María",
-    "query": "\"Di María\"",
+    "name": "Ospina",
+    "query": "Ospina",
     "rank": 6,
-    "tweet_count": "7,223 Tweets"
-  },
-  {
-    "name": "Camilo Vargas",
-    "query": "\"Camilo Vargas\"",
-    "rank": 7,
-    "tweet_count": null
+    "tweet_count": "5,731 Tweets"
   },
   {
     "name": "Borja",
     "query": "Borja",
+    "rank": 7,
+    "tweet_count": "5,945 Tweets"
+  },
+  {
+    "name": "Camilo Vargas",
+    "query": "\"Camilo Vargas\"",
     "rank": 8,
-    "tweet_count": "5,689 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Medina",
-    "query": "Medina",
+    "name": "Mojica",
+    "query": "Mojica",
     "rank": 9,
-    "tweet_count": "12.8K Tweets"
+    "tweet_count": "1,306 Tweets"
   },
   {
-    "name": "Cuadrado",
-    "query": "Cuadrado",
+    "name": "Chile",
+    "query": "Chile",
     "rank": 10,
-    "tweet_count": "4,933 Tweets"
+    "tweet_count": "190K Tweets"
   },
   {
     "name": "Uruguay",
     "query": "Uruguay",
     "rank": 11,
-    "tweet_count": "47.4K Tweets"
+    "tweet_count": "52.9K Tweets"
   },
   {
-    "name": "Papa",
-    "query": "Papa",
+    "name": "Medina",
+    "query": "Medina",
     "rank": 12,
-    "tweet_count": "165K Tweets"
+    "tweet_count": "13.1K Tweets"
+  },
+  {
+    "name": "Matheus Uribe",
+    "query": "\"Matheus Uribe\"",
+    "rank": 13,
+    "tweet_count": null
   },
   {
     "name": "#EliminatoriasQatar2022",
     "query": "#EliminatoriasQatar2022",
-    "rank": 13,
-    "tweet_count": "4,584 Tweets"
+    "rank": 14,
+    "tweet_count": "4,922 Tweets"
+  },
+  {
+    "name": "Papa",
+    "query": "Papa",
+    "rank": 15,
+    "tweet_count": "167K Tweets"
   },
   {
     "name": "Vaticano",
     "query": "Vaticano",
-    "rank": 14,
-    "tweet_count": "6,523 Tweets"
-  },
-  {
-    "name": "#YoMeMonto",
-    "query": "#YoMeMonto",
-    "rank": 15,
-    "tweet_count": "12K Tweets"
-  },
-  {
-    "name": "Malvinas",
-    "query": "Malvinas",
     "rank": 16,
-    "tweet_count": "3,998 Tweets"
-  },
-  {
-    "name": "Alexis Sánchez",
-    "query": "\"Alexis Sánchez\"",
-    "rank": 17,
-    "tweet_count": "11.2K Tweets"
-  },
-  {
-    "name": "Muñoz",
-    "query": "Muñoz",
-    "rank": 18,
-    "tweet_count": "9,002 Tweets"
+    "tweet_count": "6,744 Tweets"
   },
   {
     "name": "Cantillo",
     "query": "Cantillo",
-    "rank": 19,
+    "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Liberal",
-    "query": "Liberal",
+    "name": "#YoMeMonto",
+    "query": "#YoMeMonto",
+    "rank": 18,
+    "tweet_count": "12.1K Tweets"
+  },
+  {
+    "name": "Alexis Sánchez",
+    "query": "\"Alexis Sánchez\"",
+    "rank": 19,
+    "tweet_count": "11.4K Tweets"
+  },
+  {
+    "name": "Malvinas",
+    "query": "Malvinas",
     "rank": 20,
-    "tweet_count": "107K Tweets"
+    "tweet_count": "4,185 Tweets"
   }
 ]
