@@ -1,21 +1,21 @@
 [
   {
-    "name": "Sejmie",
-    "query": "Sejmie",
-    "rank": 1,
-    "tweet_count": "3,751 Tweets"
-  },
-  {
     "name": "#LexKonfident",
     "query": "#LexKonfident",
-    "rank": 2,
-    "tweet_count": "10.7K Tweets"
+    "rank": 1,
+    "tweet_count": "11K Tweets"
   },
   {
     "name": "#lexKaczyński",
     "query": "#lexKaczyński",
+    "rank": 2,
+    "tweet_count": "2,477 Tweets"
+  },
+  {
+    "name": "Sejmie",
+    "query": "Sejmie",
     "rank": 3,
-    "tweet_count": "2,367 Tweets"
+    "tweet_count": "3,888 Tweets"
   },
   {
     "name": "#ZapukajDoMoichDrzwi",
@@ -27,13 +27,13 @@
     "name": "Dallas",
     "query": "Dallas",
     "rank": 5,
-    "tweet_count": "65.3K Tweets"
+    "tweet_count": "66.1K Tweets"
   },
   {
     "name": "Komisji Zdrowia",
     "query": "\"Komisji Zdrowia\"",
     "rank": 6,
-    "tweet_count": "2,261 Tweets"
+    "tweet_count": "2,315 Tweets"
   },
   {
     "name": "Maksymowicz",
@@ -51,13 +51,13 @@
     "name": "LGBT",
     "query": "LGBT",
     "rank": 9,
-    "tweet_count": "66.3K Tweets"
+    "tweet_count": "66.7K Tweets"
   },
   {
     "name": "#LouisTomlinsonWorldTour2022",
     "query": "#LouisTomlinsonWorldTour2022",
     "rank": 10,
-    "tweet_count": "17.7K Tweets"
+    "tweet_count": "18K Tweets"
   },
   {
     "name": "Orbana",
@@ -69,24 +69,12 @@
     "name": "Orlen",
     "query": "Orlen",
     "rank": 12,
-    "tweet_count": "6,001 Tweets"
+    "tweet_count": "6,060 Tweets"
   },
   {
     "name": "Boniek",
     "query": "Boniek",
     "rank": 13,
     "tweet_count": null
-  },
-  {
-    "name": "VATu",
-    "query": "VATu",
-    "rank": 14,
-    "tweet_count": "1,817 Tweets"
-  },
-  {
-    "name": "#TarczaAntyinflacyjna",
-    "query": "#TarczaAntyinflacyjna",
-    "rank": 15,
-    "tweet_count": "4,672 Tweets"
   }
 ]
