@@ -3,25 +3,25 @@
     "name": "#Atomkraft",
     "query": "#Atomkraft",
     "rank": 1,
-    "tweet_count": "1,902 Tweets"
+    "tweet_count": "1,995 Tweets"
   },
   {
     "name": "#Taxonomie",
     "query": "#Taxonomie",
     "rank": 2,
-    "tweet_count": "2,775 Tweets"
+    "tweet_count": "2,932 Tweets"
   },
   {
     "name": "#WirWerdenLaut",
     "query": "#WirWerdenLaut",
     "rank": 3,
-    "tweet_count": "3,230 Tweets"
+    "tweet_count": "3,430 Tweets"
   },
   {
-    "name": "Kimmich",
-    "query": "Kimmich",
+    "name": "#VollgasInDieKrise",
+    "query": "#VollgasInDieKrise",
     "rank": 4,
-    "tweet_count": "1,764 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Atommüll",
@@ -33,37 +33,37 @@
     "name": "EU-Kommission",
     "query": "EU-Kommission",
     "rank": 6,
-    "tweet_count": "1,971 Tweets"
-  },
-  {
-    "name": "datum",
-    "query": "datum",
-    "rank": 7,
-    "tweet_count": "2,701 Tweets"
+    "tweet_count": "2,068 Tweets"
   },
   {
     "name": "Endlager",
     "query": "Endlager",
-    "rank": 8,
+    "rank": 7,
     "tweet_count": null
+  },
+  {
+    "name": "Datum",
+    "query": "Datum",
+    "rank": 8,
+    "tweet_count": "2,742 Tweets"
   },
   {
     "name": "Kopftuch",
     "query": "Kopftuch",
     "rank": 9,
-    "tweet_count": "4,283 Tweets"
+    "tweet_count": "4,317 Tweets"
   },
   {
     "name": "jongin",
     "query": "jongin",
     "rank": 10,
-    "tweet_count": "16.4K Tweets"
+    "tweet_count": "16.7K Tweets"
   },
   {
     "name": "Erkältung",
     "query": "Erkältung",
     "rank": 11,
-    "tweet_count": "3,250 Tweets"
+    "tweet_count": "3,290 Tweets"
   },
   {
     "name": "Investitionen",
@@ -75,11 +75,11 @@
     "name": "Energiepreise",
     "query": "Energiepreise",
     "rank": 13,
-    "tweet_count": "1,050 Tweets"
+    "tweet_count": "1,069 Tweets"
   },
   {
-    "name": "mittagspause",
-    "query": "mittagspause",
+    "name": "Rasse",
+    "query": "Rasse",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,24 +87,30 @@
     "name": "Apartheid",
     "query": "Apartheid",
     "rank": 15,
-    "tweet_count": "140K Tweets"
+    "tweet_count": "141K Tweets"
   },
   {
     "name": "Lockdowns",
     "query": "Lockdowns",
     "rank": 16,
-    "tweet_count": "81.9K Tweets"
-  },
-  {
-    "name": "#VollgasInDieKrise",
-    "query": "#VollgasInDieKrise",
-    "rank": 17,
-    "tweet_count": null
+    "tweet_count": "83K Tweets"
   },
   {
     "name": "#DeleteLuca",
     "query": "#DeleteLuca",
+    "rank": 17,
+    "tweet_count": "1,757 Tweets"
+  },
+  {
+    "name": "#TheBookOfBobaFett",
+    "query": "#TheBookOfBobaFett",
     "rank": 18,
-    "tweet_count": "1,731 Tweets"
+    "tweet_count": "58.9K Tweets"
+  },
+  {
+    "name": "#Kimmich",
+    "query": "#Kimmich",
+    "rank": 19,
+    "tweet_count": null
   }
 ]
