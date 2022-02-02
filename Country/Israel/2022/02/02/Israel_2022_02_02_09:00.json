@@ -1,27 +1,27 @@
 [
   {
-    "name": "Amnesty",
-    "query": "Amnesty",
-    "rank": 1,
-    "tweet_count": "176K Tweets"
-  },
-  {
     "name": "Whoopi Goldberg",
     "query": "\"Whoopi Goldberg\"",
-    "rank": 2,
-    "tweet_count": "114K Tweets"
+    "rank": 1,
+    "tweet_count": "115K Tweets"
   },
   {
-    "name": "Israel",
-    "query": "Israel",
-    "rank": 3,
-    "tweet_count": "223K Tweets"
+    "name": "Amnesty",
+    "query": "Amnesty",
+    "rank": 2,
+    "tweet_count": "177K Tweets"
   },
   {
     "name": "מיכל שיר",
     "query": "\"מיכל שיר\"",
+    "rank": 3,
+    "tweet_count": "1,054 Tweets"
+  },
+  {
+    "name": "Israel",
+    "query": "Israel",
     "rank": 4,
-    "tweet_count": "1,040 Tweets"
+    "tweet_count": "225K Tweets"
   },
   {
     "name": "יום משפחה שמח",
@@ -45,7 +45,7 @@
     "name": "Apartheid",
     "query": "Apartheid",
     "rank": 8,
-    "tweet_count": "158K Tweets"
+    "tweet_count": "159K Tweets"
   },
   {
     "name": "חודש טוב",
@@ -54,14 +54,14 @@
     "tweet_count": null
   },
   {
-    "name": "עוד צער",
-    "query": "\"עוד צער\"",
+    "name": "מזל טוב",
+    "query": "\"מזל טוב\"",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "מזל טוב",
-    "query": "\"מזל טוב\"",
+    "name": "עוד צער",
+    "query": "\"עוד צער\"",
     "rank": 11,
     "tweet_count": null
   },
@@ -75,7 +75,7 @@
     "name": "אהוד ברק",
     "query": "\"אהוד ברק\"",
     "rank": 13,
-    "tweet_count": "1,036 Tweets"
+    "tweet_count": "1,043 Tweets"
   },
   {
     "name": "Black",
@@ -84,39 +84,39 @@
     "tweet_count": "1.83M Tweets"
   },
   {
+    "name": "Tommy",
+    "query": "Tommy",
+    "rank": 15,
+    "tweet_count": "50.2K Tweets"
+  },
+  {
     "name": "ישראל היום",
     "query": "\"ישראל היום\"",
-    "rank": 15,
-    "tweet_count": "1,114 Tweets"
+    "rank": 16,
+    "tweet_count": "1,134 Tweets"
   },
   {
     "name": "#NFTCommmunity",
     "query": "#NFTCommmunity",
-    "rank": 16,
-    "tweet_count": "156K Tweets"
-  },
-  {
-    "name": "ברוך דיין",
-    "query": "\"ברוך דיין\"",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "158K Tweets"
   },
   {
-    "name": "The Nazis",
-    "query": "\"The Nazis\"",
+    "name": "Arabs",
+    "query": "Arabs",
     "rank": 18,
-    "tweet_count": "65.5K Tweets"
+    "tweet_count": "7,118 Tweets"
   },
   {
-    "name": "בוקר אור",
-    "query": "\"בוקר אור\"",
+    "name": "Europe",
+    "query": "Europe",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "144K Tweets"
   },
   {
-    "name": "Qatar",
-    "query": "Qatar",
+    "name": "חצי שעה",
+    "query": "\"חצי שעה\"",
     "rank": 20,
-    "tweet_count": "76.8K Tweets"
+    "tweet_count": null
   }
 ]

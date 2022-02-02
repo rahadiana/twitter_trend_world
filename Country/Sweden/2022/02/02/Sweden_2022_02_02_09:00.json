@@ -1,7 +1,7 @@
 [
   {
-    "name": "Di Leva",
-    "query": "\"Di Leva\"",
+    "name": "di leva",
+    "query": "\"di leva\"",
     "rank": 1,
     "tweet_count": null
   },
@@ -12,20 +12,20 @@
     "tweet_count": null
   },
   {
-    "name": "visby",
-    "query": "visby",
+    "name": "Ebba",
+    "query": "Ebba",
     "rank": 3,
+    "tweet_count": "1,703 Tweets"
+  },
+  {
+    "name": "Visby",
+    "query": "Visby",
+    "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "Ebba",
-    "query": "Ebba",
-    "rank": 4,
-    "tweet_count": "1,690 Tweets"
-  },
-  {
-    "name": "rockström",
-    "query": "rockström",
+    "name": "Rockström",
+    "query": "Rockström",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,7 +33,7 @@
     "name": "Amnesty",
     "query": "Amnesty",
     "rank": 6,
-    "tweet_count": "176K Tweets"
+    "tweet_count": "177K Tweets"
   },
   {
     "name": "#vårpåminplanet",
@@ -51,37 +51,37 @@
     "name": "#DeadlineDay",
     "query": "#DeadlineDay",
     "rank": 9,
-    "tweet_count": "7,591 Tweets"
+    "tweet_count": "7,611 Tweets"
   },
   {
     "name": "Nyans",
     "query": "Nyans",
     "rank": 10,
-    "tweet_count": "1,009 Tweets"
-  },
-  {
-    "name": "Grattis",
-    "query": "Grattis",
-    "rank": 11,
-    "tweet_count": "1,265 Tweets"
+    "tweet_count": "1,028 Tweets"
   },
   {
     "name": "Israel",
     "query": "Israel",
+    "rank": 11,
+    "tweet_count": "225K Tweets"
+  },
+  {
+    "name": "Grattis",
+    "query": "Grattis",
     "rank": 12,
-    "tweet_count": "223K Tweets"
+    "tweet_count": "1,286 Tweets"
   },
   {
     "name": "Auba",
     "query": "Auba",
     "rank": 13,
-    "tweet_count": "83.7K Tweets"
+    "tweet_count": "84.5K Tweets"
   },
   {
-    "name": "#Sanremo2022",
-    "query": "#Sanremo2022",
+    "name": "Ulf Kristersson",
+    "query": "\"Ulf Kristersson\"",
     "rank": 14,
-    "tweet_count": "867K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Söderhamn",
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
-    "name": "Jonna",
-    "query": "Jonna",
+    "name": "#Sanremo2022",
+    "query": "#Sanremo2022",
     "rank": 17,
-    "tweet_count": "3,082 Tweets"
-  },
-  {
-    "name": "Ulf Kristersson",
-    "query": "\"Ulf Kristersson\"",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "870K Tweets"
   },
   {
     "name": "#happybirthdayharry",
     "query": "#happybirthdayharry",
-    "rank": 19,
-    "tweet_count": "45.9K Tweets"
+    "rank": 18,
+    "tweet_count": "46K Tweets"
   },
   {
-    "name": "kävlinge",
-    "query": "kävlinge",
+    "name": "Jonna",
+    "query": "Jonna",
+    "rank": 19,
+    "tweet_count": "3,117 Tweets"
+  },
+  {
+    "name": "ADHD",
+    "query": "ADHD",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "24.8K Tweets"
   }
 ]
