@@ -1,21 +1,21 @@
 [
   {
+    "name": "Barnaby",
+    "query": "Barnaby",
+    "rank": 1,
+    "tweet_count": "2,279 Tweets"
+  },
+  {
     "name": "#ScottyThePsycho",
     "query": "#ScottyThePsycho",
-    "rank": 1,
-    "tweet_count": "1,942 Tweets"
+    "rank": 2,
+    "tweet_count": "2,000 Tweets"
   },
   {
     "name": "#WorldWetlandsDay",
     "query": "#WorldWetlandsDay",
-    "rank": 2,
-    "tweet_count": "5,594 Tweets"
-  },
-  {
-    "name": "Afghan",
-    "query": "Afghan",
     "rank": 3,
-    "tweet_count": "16.5K Tweets"
+    "tweet_count": "6,030 Tweets"
   },
   {
     "name": "Kyle Sandilands",
@@ -24,63 +24,87 @@
     "tweet_count": null
   },
   {
-    "name": "Lowe",
-    "query": "Lowe",
+    "name": "Afghan",
+    "query": "Afghan",
     "rank": 5,
-    "tweet_count": "4,482 Tweets"
+    "tweet_count": "17.3K Tweets"
+  },
+  {
+    "name": "#auspoll",
+    "query": "#auspoll",
+    "rank": 6,
+    "tweet_count": null
   },
   {
     "name": "Whoopi",
     "query": "Whoopi",
-    "rank": 6,
-    "tweet_count": "158K Tweets"
+    "rank": 7,
+    "tweet_count": "165K Tweets"
   },
   {
     "name": "Richie Benaud",
     "query": "\"Richie Benaud\"",
-    "rank": 7,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Glenn Wheatley",
     "query": "\"Glenn Wheatley\"",
-    "rank": 8,
-    "tweet_count": "2,090 Tweets"
+    "rank": 9,
+    "tweet_count": "2,119 Tweets"
+  },
+  {
+    "name": "#HorribleHorriblePerson",
+    "query": "#HorribleHorriblePerson",
+    "rank": 10,
+    "tweet_count": "1,581 Tweets"
   },
   {
     "name": "Minister",
     "query": "Minister",
-    "rank": 9,
-    "tweet_count": "357K Tweets"
+    "rank": 11,
+    "tweet_count": "361K Tweets"
   },
   {
     "name": "Stuart Robert",
     "query": "\"Stuart Robert\"",
-    "rank": 10,
-    "tweet_count": "2,462 Tweets"
+    "rank": 12,
+    "tweet_count": "2,552 Tweets"
   },
   {
     "name": "Federal",
     "query": "Federal",
-    "rank": 11,
-    "tweet_count": "220K Tweets"
+    "rank": 13,
+    "tweet_count": "223K Tweets"
+  },
+  {
+    "name": "Berejiklian",
+    "query": "Berejiklian",
+    "rank": 14,
+    "tweet_count": "7,012 Tweets"
   },
   {
     "name": "Arnold",
     "query": "Arnold",
-    "rank": 12,
-    "tweet_count": "12.7K Tweets"
-  },
-  {
-    "name": "Tom Brady",
-    "query": "\"Tom Brady\"",
-    "rank": 13,
-    "tweet_count": "328K Tweets"
+    "rank": 15,
+    "tweet_count": "12.9K Tweets"
   },
   {
     "name": "Tegan",
     "query": "Tegan",
-    "rank": 14,
-    "tweet_count": "4,530 Tweets"
+    "rank": 16,
+    "tweet_count": "4,628 Tweets"
+  },
+  {
+    "name": "Tom Brady",
+    "query": "\"Tom Brady\"",
+    "rank": 17,
+    "tweet_count": "330K Tweets"
+  },
+  {
+    "name": "Socceroos",
+    "query": "Socceroos",
+    "rank": 18,
+    "tweet_count": "2,975 Tweets"
   }
 ]
