@@ -1,15 +1,15 @@
 [
   {
-    "name": "בוקר טוב",
-    "query": "\"בוקר טוב\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Amnesty",
     "query": "Amnesty",
+    "rank": 1,
+    "tweet_count": "178K Tweets"
+  },
+  {
+    "name": "בוקר טוב",
+    "query": "\"בוקר טוב\"",
     "rank": 2,
-    "tweet_count": "177K Tweets"
+    "tweet_count": null
   },
   {
     "name": "יום משפחה שמח",
@@ -18,40 +18,40 @@
     "tweet_count": null
   },
   {
-    "name": "Whoopi",
-    "query": "Whoopi",
+    "name": "Whoopi Goldberg",
+    "query": "\"Whoopi Goldberg\"",
     "rank": 4,
-    "tweet_count": "187K Tweets"
+    "tweet_count": "112K Tweets"
   },
   {
     "name": "Israel",
     "query": "Israel",
     "rank": 5,
-    "tweet_count": "223K Tweets"
+    "tweet_count": "225K Tweets"
   },
   {
-    "name": "Apartheid",
-    "query": "Apartheid",
+    "name": "מיכל שיר",
+    "query": "\"מיכל שיר\"",
     "rank": 6,
-    "tweet_count": "158K Tweets"
+    "tweet_count": "1,010 Tweets"
   },
   {
     "name": "Colbert",
     "query": "Colbert",
     "rank": 7,
-    "tweet_count": "15.8K Tweets"
-  },
-  {
-    "name": "מיכל שיר",
-    "query": "\"מיכל שיר\"",
-    "rank": 8,
-    "tweet_count": null
+    "tweet_count": "16K Tweets"
   },
   {
     "name": "יום האם",
     "query": "\"יום האם\"",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
+  },
+  {
+    "name": "Apartheid",
+    "query": "Apartheid",
+    "rank": 9,
+    "tweet_count": "160K Tweets"
   },
   {
     "name": "חודש טוב",
@@ -75,13 +75,13 @@
     "name": "Black",
     "query": "Black",
     "rank": 13,
-    "tweet_count": "1.81M Tweets"
+    "tweet_count": "1.82M Tweets"
   },
   {
     "name": "ישראל היום",
     "query": "\"ישראל היום\"",
     "rank": 14,
-    "tweet_count": "1,075 Tweets"
+    "tweet_count": "1,109 Tweets"
   },
   {
     "name": "ברוך דיין",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
+    "name": "מזל טוב",
+    "query": "\"מזל טוב\"",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
     "name": "#NFTCommmunity",
     "query": "#NFTCommmunity",
-    "rank": 16,
-    "tweet_count": "150K Tweets"
-  },
-  {
-    "name": "Qatar",
-    "query": "Qatar",
     "rank": 17,
-    "tweet_count": "77.5K Tweets"
-  },
-  {
-    "name": "חצי שעה",
-    "query": "\"חצי שעה\"",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "שאלה טובה",
-    "query": "\"שאלה טובה\"",
-    "rank": 19,
-    "tweet_count": null
+    "tweet_count": "152K Tweets"
   },
   {
     "name": "The Nazis",
     "query": "\"The Nazis\"",
+    "rank": 18,
+    "tweet_count": "65.8K Tweets"
+  },
+  {
+    "name": "Qatar",
+    "query": "Qatar",
+    "rank": 19,
+    "tweet_count": "77.8K Tweets"
+  },
+  {
+    "name": "חצי שעה",
+    "query": "\"חצי שעה\"",
     "rank": 20,
-    "tweet_count": "65.5K Tweets"
+    "tweet_count": null
   }
 ]

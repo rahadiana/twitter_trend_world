@@ -1,25 +1,25 @@
 [
   {
-    "name": "#200Milligramm",
-    "query": "#200Milligramm",
-    "rank": 1,
-    "tweet_count": "10.9K Tweets"
-  },
-  {
-    "name": "#guteBesserungKarl",
-    "query": "#guteBesserungKarl",
-    "rank": 2,
-    "tweet_count": "3,702 Tweets"
-  },
-  {
-    "name": "#letztegeneration",
-    "query": "#letztegeneration",
-    "rank": 3,
-    "tweet_count": "4,674 Tweets"
-  },
-  {
     "name": "#DeleteLuca",
     "query": "#DeleteLuca",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "Bergfest",
+    "query": "Bergfest",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "Schönen Mittwoch",
+    "query": "\"Schönen Mittwoch\"",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "#Murmeltiertag",
+    "query": "#Murmeltiertag",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,13 +27,13 @@
     "name": "#GroundhogDay",
     "query": "#GroundhogDay",
     "rank": 5,
-    "tweet_count": "4,035 Tweets"
+    "tweet_count": "4,185 Tweets"
   },
   {
-    "name": "Bergfest",
-    "query": "Bergfest",
+    "name": "Datum",
+    "query": "Datum",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "1,974 Tweets"
   },
   {
     "name": "Wochenteiler",
@@ -42,81 +42,63 @@
     "tweet_count": null
   },
   {
-    "name": "Schönen Mittwoch",
-    "query": "\"Schönen Mittwoch\"",
+    "name": "#Drosten",
+    "query": "#Drosten",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Datum",
-    "query": "Datum",
+    "name": "#BioNTech",
+    "query": "#BioNTech",
     "rank": 9,
-    "tweet_count": "1,900 Tweets"
-  },
-  {
-    "name": "Ostern",
-    "query": "Ostern",
-    "rank": 10,
-    "tweet_count": "8,987 Tweets"
-  },
-  {
-    "name": "Olaf Scholz",
-    "query": "\"Olaf Scholz\"",
-    "rank": 11,
-    "tweet_count": "7,045 Tweets"
-  },
-  {
-    "name": "Guten Morgen ihr Lieben",
-    "query": "\"Guten Morgen ihr Lieben\"",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Happy Lunar New Year",
-    "query": "\"Happy Lunar New Year\"",
-    "rank": 13,
-    "tweet_count": "399K Tweets"
-  },
-  {
-    "name": "Amnesty",
-    "query": "Amnesty",
-    "rank": 14,
-    "tweet_count": "177K Tweets"
+    "tweet_count": "1,610 Tweets"
   },
   {
     "name": "Apartheid",
     "query": "Apartheid",
-    "rank": 15,
-    "tweet_count": "158K Tweets"
-  },
-  {
-    "name": "wilderei",
-    "query": "wilderei",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "euer ehren",
-    "query": "\"euer ehren\"",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Eric",
-    "query": "Eric",
-    "rank": 18,
-    "tweet_count": "158K Tweets"
+    "rank": 10,
+    "tweet_count": "160K Tweets"
   },
   {
     "name": "Kopftuch",
     "query": "Kopftuch",
-    "rank": 19,
-    "tweet_count": "3,158 Tweets"
+    "rank": 11,
+    "tweet_count": "3,227 Tweets"
   },
   {
-    "name": "Manuel",
-    "query": "Manuel",
-    "rank": 20,
-    "tweet_count": "54.2K Tweets"
+    "name": "Olaf",
+    "query": "Olaf",
+    "rank": 12,
+    "tweet_count": "12.4K Tweets"
+  },
+  {
+    "name": "Ostern",
+    "query": "Ostern",
+    "rank": 13,
+    "tweet_count": "9,114 Tweets"
+  },
+  {
+    "name": "#woIstScholz",
+    "query": "#woIstScholz",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "#Lockerungen",
+    "query": "#Lockerungen",
+    "rank": 15,
+    "tweet_count": "1,828 Tweets"
+  },
+  {
+    "name": "#LucaApp",
+    "query": "#LucaApp",
+    "rank": 16,
+    "tweet_count": "1,098 Tweets"
+  },
+  {
+    "name": "#letztegeneration",
+    "query": "#letztegeneration",
+    "rank": 17,
+    "tweet_count": "4,751 Tweets"
   }
 ]
