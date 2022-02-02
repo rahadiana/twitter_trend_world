@@ -1,33 +1,33 @@
 [
   {
+    "name": "#zib2",
+    "query": "#zib2",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "#lobaubleibt",
     "query": "#lobaubleibt",
-    "rank": 1,
-    "tweet_count": "1,237 Tweets"
+    "rank": 2,
+    "tweet_count": "1,242 Tweets"
   },
   {
     "name": "#Bachelor",
     "query": "#Bachelor",
-    "rank": 2,
-    "tweet_count": "5,063 Tweets"
+    "rank": 3,
+    "tweet_count": "5,081 Tweets"
   },
   {
     "name": "#Atomkraft",
     "query": "#Atomkraft",
-    "rank": 3,
-    "tweet_count": "3,783 Tweets"
-  },
-  {
-    "name": "#zib2",
-    "query": "#zib2",
     "rank": 4,
-    "tweet_count": null
+    "tweet_count": "3,818 Tweets"
   },
   {
     "name": "#Taxonomie",
     "query": "#Taxonomie",
     "rank": 5,
-    "tweet_count": "6,300 Tweets"
+    "tweet_count": "6,431 Tweets"
   },
   {
     "name": "Stadtstraße",
@@ -42,64 +42,64 @@
     "tweet_count": null
   },
   {
-    "name": "Straßen",
-    "query": "Straßen",
-    "rank": 8,
-    "tweet_count": "1,566 Tweets"
-  },
-  {
     "name": "Plakat",
     "query": "Plakat",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Klimabewegung",
-    "query": "Klimabewegung",
-    "rank": 10,
-    "tweet_count": null
+    "name": "Straßen",
+    "query": "Straßen",
+    "rank": 9,
+    "tweet_count": "1,597 Tweets"
   },
   {
     "name": "Klimapolitik",
     "query": "Klimapolitik",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Autobahn",
-    "query": "Autobahn",
-    "rank": 12,
-    "tweet_count": "1,436 Tweets"
-  },
-  {
-    "name": "Öffis",
-    "query": "Öffis",
-    "rank": 13,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Sideletter",
     "query": "Sideletter",
-    "rank": 14,
-    "tweet_count": "1,611 Tweets"
+    "rank": 11,
+    "tweet_count": "1,630 Tweets"
+  },
+  {
+    "name": "Autobahn",
+    "query": "Autobahn",
+    "rank": 12,
+    "tweet_count": "1,445 Tweets"
   },
   {
     "name": "Kundgebung",
     "query": "Kundgebung",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Werner",
+    "query": "Werner",
+    "rank": 14,
+    "tweet_count": "4,162 Tweets"
+  },
+  {
+    "name": "besetzer",
+    "query": "besetzer",
     "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Öffis",
+    "query": "Öffis",
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Aktivisten",
     "query": "Aktivisten",
-    "rank": 16,
-    "tweet_count": "1,212 Tweets"
-  },
-  {
-    "name": "besetzer",
-    "query": "besetzer",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "1,215 Tweets"
   },
   {
     "name": "donaustadt",
@@ -111,6 +111,6 @@
     "name": "Atomenergie",
     "query": "Atomenergie",
     "rank": 19,
-    "tweet_count": "1,072 Tweets"
+    "tweet_count": "1,085 Tweets"
   }
 ]
