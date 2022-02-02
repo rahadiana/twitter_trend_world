@@ -1,19 +1,19 @@
 [
   {
+    "name": "Briseles",
+    "query": "Briseles",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "Kongresu",
     "query": "Kongresu",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "artuss",
     "query": "artuss",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "Briseles",
-    "query": "Briseles",
     "rank": 3,
     "tweet_count": null
   },
@@ -27,7 +27,7 @@
     "name": "Lidl",
     "query": "Lidl",
     "rank": 5,
-    "tweet_count": "2,656 Tweets"
+    "tweet_count": "2,677 Tweets"
   },
   {
     "name": "Pekinā",
@@ -57,7 +57,7 @@
     "name": "Depo",
     "query": "Depo",
     "rank": 10,
-    "tweet_count": "6,144 Tweets"
+    "tweet_count": "6,191 Tweets"
   },
   {
     "name": "Piedod",
@@ -87,23 +87,23 @@
     "name": "European",
     "query": "European",
     "rank": 15,
-    "tweet_count": "55.7K Tweets"
-  },
-  {
-    "name": "Ceru",
-    "query": "Ceru",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "56.4K Tweets"
   },
   {
     "name": "#vakance",
     "query": "#vakance",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Igaunijas",
     "query": "Igaunijas",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Ceru",
+    "query": "Ceru",
     "rank": 18,
     "tweet_count": null
   },
