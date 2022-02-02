@@ -1,39 +1,39 @@
 [
   {
-    "name": "#BlackHistoryMonth",
-    "query": "#BlackHistoryMonth",
-    "rank": 1,
-    "tweet_count": "304K Tweets"
-  },
-  {
     "name": "Whoopi",
     "query": "Whoopi",
-    "rank": 2,
-    "tweet_count": "182K Tweets"
+    "rank": 1,
+    "tweet_count": "183K Tweets"
   },
   {
     "name": "Auburn",
     "query": "Auburn",
-    "rank": 3,
-    "tweet_count": "19.2K Tweets"
+    "rank": 2,
+    "tweet_count": "19.3K Tweets"
   },
   {
     "name": "Suns",
     "query": "Suns",
-    "rank": 4,
-    "tweet_count": "28.4K Tweets"
+    "rank": 3,
+    "tweet_count": "28.5K Tweets"
   },
   {
     "name": "#RHONJ",
     "query": "#RHONJ",
+    "rank": 4,
+    "tweet_count": "15.8K Tweets"
+  },
+  {
+    "name": "#Wordle228",
+    "query": "#Wordle228",
     "rank": 5,
-    "tweet_count": "15.7K Tweets"
+    "tweet_count": "3,051 Tweets"
   },
   {
     "name": "Steve Smith",
     "query": "\"Steve Smith\"",
     "rank": 6,
-    "tweet_count": "2,242 Tweets"
+    "tweet_count": "2,240 Tweets"
   },
   {
     "name": "Brian Flores",
@@ -42,81 +42,75 @@
     "tweet_count": "177K Tweets"
   },
   {
-    "name": "#Wordle228",
-    "query": "#Wordle228",
-    "rank": 8,
-    "tweet_count": "2,878 Tweets"
-  },
-  {
     "name": "#bangtancourtzz",
     "query": "#bangtancourtzz",
-    "rank": 9,
-    "tweet_count": "3,674 Tweets"
+    "rank": 8,
+    "tweet_count": "3,696 Tweets"
   },
   {
     "name": "Flowers in the Attic",
     "query": "\"Flowers in the Attic\"",
-    "rank": 10,
-    "tweet_count": "2,069 Tweets"
+    "rank": 9,
+    "tweet_count": "2,240 Tweets"
   },
   {
     "name": "#ThisIsUs",
     "query": "#ThisIsUs",
-    "rank": 11,
-    "tweet_count": "8,021 Tweets"
+    "rank": 10,
+    "tweet_count": "8,078 Tweets"
   },
   {
     "name": "Bacot",
     "query": "Bacot",
-    "rank": 12,
-    "tweet_count": "7,441 Tweets"
+    "rank": 11,
+    "tweet_count": "7,328 Tweets"
   },
   {
     "name": "Commanders",
     "query": "Commanders",
-    "rank": 13,
-    "tweet_count": "23.6K Tweets"
+    "rank": 12,
+    "tweet_count": "23.8K Tweets"
   },
   {
     "name": "Spurs",
     "query": "Spurs",
-    "rank": 14,
-    "tweet_count": "28.8K Tweets"
+    "rank": 13,
+    "tweet_count": "28.3K Tweets"
   },
   {
     "name": "Kevin Samuels",
     "query": "\"Kevin Samuels\"",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
+  },
+  {
+    "name": "Vaxxed",
+    "query": "Vaxxed",
+    "rank": 15,
+    "tweet_count": "41.8K Tweets"
   },
   {
     "name": "Josh Smith",
     "query": "\"Josh Smith\"",
     "rank": 16,
-    "tweet_count": "4,701 Tweets"
+    "tweet_count": "4,734 Tweets"
   },
   {
     "name": "Groundhog Day",
     "query": "\"Groundhog Day\"",
     "rank": 17,
-    "tweet_count": "15.3K Tweets"
-  },
-  {
-    "name": "Vaxxed",
-    "query": "Vaxxed",
-    "rank": 18,
-    "tweet_count": "42.2K Tweets"
+    "tweet_count": "15.5K Tweets"
   },
   {
     "name": "Louisville",
     "query": "Louisville",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": "11.3K Tweets"
   },
   {
-    "name": "Chris Beard",
-    "query": "\"Chris Beard\"",
-    "rank": 20,
-    "tweet_count": "6,538 Tweets"
+    "name": "Texas Tech",
+    "query": "\"Texas Tech\"",
+    "rank": 19,
+    "tweet_count": "14.5K Tweets"
   }
 ]
