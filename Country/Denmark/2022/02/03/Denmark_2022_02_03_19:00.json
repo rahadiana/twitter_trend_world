@@ -3,7 +3,7 @@
     "name": "Benny",
     "query": "Benny",
     "rank": 1,
-    "tweet_count": "26K Tweets"
+    "tweet_count": "26.2K Tweets"
   },
   {
     "name": "Enhedslisten",
@@ -12,16 +12,16 @@
     "tweet_count": null
   },
   {
-    "name": "Folketinget",
-    "query": "Folketinget",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
     "name": "#dkpol",
     "query": "#dkpol",
+    "rank": 3,
+    "tweet_count": "3,794 Tweets"
+  },
+  {
+    "name": "Folketinget",
+    "query": "Folketinget",
     "rank": 4,
-    "tweet_count": "3,731 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Jacob Friis",
@@ -33,7 +33,7 @@
     "name": "HYUNA",
     "query": "HYUNA",
     "rank": 6,
-    "tweet_count": "121K Tweets"
+    "tweet_count": "123K Tweets"
   },
   {
     "name": "#dkmedier",
@@ -45,49 +45,49 @@
     "name": "#Ulysses100",
     "query": "#Ulysses100",
     "rank": 8,
-    "tweet_count": "2,287 Tweets"
+    "tweet_count": "2,293 Tweets"
   },
   {
     "name": "Jack",
     "query": "Jack",
     "rank": 9,
-    "tweet_count": "149K Tweets"
+    "tweet_count": "150K Tweets"
   },
   {
     "name": "Konservative",
     "query": "Konservative",
     "rank": 10,
-    "tweet_count": "1,016 Tweets"
+    "tweet_count": "1,024 Tweets"
   },
   {
     "name": "David",
     "query": "David",
     "rank": 11,
-    "tweet_count": "231K Tweets"
-  },
-  {
-    "name": "Steam",
-    "query": "Steam",
-    "rank": 12,
-    "tweet_count": "54.5K Tweets"
+    "tweet_count": "233K Tweets"
   },
   {
     "name": "Carl",
     "query": "Carl",
-    "rank": 13,
-    "tweet_count": "23.3K Tweets"
+    "rank": 12,
+    "tweet_count": "23.5K Tweets"
   },
   {
     "name": "Støjberg",
     "query": "Støjberg",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Ten Hag",
     "query": "\"Ten Hag\"",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": "10.2K Tweets"
+  },
+  {
+    "name": "Trine Bramsen",
+    "query": "\"Trine Bramsen\"",
+    "rank": 15,
+    "tweet_count": null
   },
   {
     "name": "radikale",
@@ -105,18 +105,18 @@
     "name": "Mette",
     "query": "Mette",
     "rank": 18,
-    "tweet_count": "7,373 Tweets"
-  },
-  {
-    "name": "Trine Bramsen",
-    "query": "\"Trine Bramsen\"",
-    "rank": 19,
-    "tweet_count": null
+    "tweet_count": "7,457 Tweets"
   },
   {
     "name": "#dkgreen",
     "query": "#dkgreen",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "Delta",
+    "query": "Delta",
+    "rank": 20,
+    "tweet_count": "44.9K Tweets"
   }
 ]
