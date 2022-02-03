@@ -1,122 +1,116 @@
 [
   {
-    "name": "Lakers",
-    "query": "Lakers",
-    "rank": 1,
-    "tweet_count": "37.5K Tweets"
-  },
-  {
     "name": "Marina",
     "query": "Marina",
-    "rank": 2,
-    "tweet_count": "33.2K Tweets"
-  },
-  {
-    "name": "World Cup",
-    "query": "\"World Cup\"",
-    "rank": 3,
-    "tweet_count": "55.6K Tweets"
-  },
-  {
-    "name": "#twitchstreamers",
-    "query": "#twitchstreamers",
-    "rank": 4,
-    "tweet_count": "15.9K Tweets"
+    "rank": 1,
+    "tweet_count": "33.5K Tweets"
   },
   {
     "name": "Mando",
     "query": "Mando",
-    "rank": 5,
-    "tweet_count": "88.2K Tweets"
+    "rank": 2,
+    "tweet_count": "88.4K Tweets"
   },
   {
     "name": "Wordle 229 X",
     "query": "\"Wordle 229 X\"",
-    "rank": 6,
-    "tweet_count": "7,497 Tweets"
+    "rank": 3,
+    "tweet_count": "7,601 Tweets"
   },
   {
     "name": "#DeleteFacebook",
     "query": "#DeleteFacebook",
-    "rank": 7,
-    "tweet_count": "2,791 Tweets"
+    "rank": 4,
+    "tweet_count": "2,871 Tweets"
   },
   {
     "name": "#AEWDynamite",
     "query": "#AEWDynamite",
-    "rank": 8,
-    "tweet_count": "65.7K Tweets"
+    "rank": 5,
+    "tweet_count": "65.8K Tweets"
   },
   {
     "name": "#MAFS",
     "query": "#MAFS",
-    "rank": 9,
-    "tweet_count": "19K Tweets"
+    "rank": 6,
+    "tweet_count": "19.3K Tweets"
   },
   {
     "name": "The Masked Singer",
     "query": "\"The Masked Singer\"",
-    "rank": 10,
-    "tweet_count": "23.6K Tweets"
+    "rank": 7,
+    "tweet_count": "23.8K Tweets"
   },
   {
     "name": "#RHOC",
     "query": "#RHOC",
-    "rank": 11,
-    "tweet_count": "4,457 Tweets"
+    "rank": 8,
+    "tweet_count": "4,472 Tweets"
   },
   {
     "name": "James Harden",
     "query": "\"James Harden\"",
-    "rank": 12,
-    "tweet_count": "8,572 Tweets"
+    "rank": 9,
+    "tweet_count": "8,601 Tweets"
+  },
+  {
+    "name": "#mubb",
+    "query": "#mubb",
+    "rank": 10,
+    "tweet_count": "1,800 Tweets"
   },
   {
     "name": "Rocky Wirtz",
     "query": "\"Rocky Wirtz\"",
-    "rank": 13,
+    "rank": 11,
     "tweet_count": "14.4K Tweets"
   },
   {
-    "name": "blazers",
-    "query": "blazers",
-    "rank": 14,
-    "tweet_count": "6,147 Tweets"
+    "name": "Blazers",
+    "query": "Blazers",
+    "rank": 12,
+    "tweet_count": "6,170 Tweets"
   },
   {
     "name": "Honda",
     "query": "Honda",
-    "rank": 15,
-    "tweet_count": "32.1K Tweets"
+    "rank": 13,
+    "tweet_count": "32.5K Tweets"
   },
   {
     "name": "Woodside",
     "query": "Woodside",
-    "rank": 16,
-    "tweet_count": "2,357 Tweets"
+    "rank": 14,
+    "tweet_count": "2,416 Tweets"
   },
   {
-    "name": "Boba Fett",
-    "query": "\"Boba Fett\"",
-    "rank": 17,
-    "tweet_count": "70K Tweets"
-  },
-  {
-    "name": "Marquette",
-    "query": "Marquette",
-    "rank": 18,
-    "tweet_count": "4,212 Tweets"
+    "name": "Jenny McCarthy",
+    "query": "\"Jenny McCarthy\"",
+    "rank": 15,
+    "tweet_count": "2,081 Tweets"
   },
   {
     "name": "Panama",
     "query": "Panama",
-    "rank": 19,
+    "rank": 16,
     "tweet_count": "123K Tweets"
   },
   {
     "name": "Susan Sarandon",
     "query": "\"Susan Sarandon\"",
-    "rank": 20,
-    "tweet_count": "3,065 Tweets"
+    "rank": 17,
+    "tweet_count": "3,115 Tweets"
+  },
+  {
+    "name": "Barton",
+    "query": "Barton",
+    "rank": 18,
+    "tweet_count": "5,311 Tweets"
+  },
+  {
+    "name": "Kofi",
+    "query": "Kofi",
+    "rank": 19,
+    "tweet_count": "14.2K Tweets"
   }
 ]
