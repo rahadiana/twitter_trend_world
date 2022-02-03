@@ -1,13 +1,13 @@
 [
   {
-    "name": "Sveits",
-    "query": "Sveits",
+    "name": "sveits",
+    "query": "sveits",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "bjørn dæhlie",
-    "query": "\"bjørn dæhlie\"",
+    "name": "Bjørn Dæhlie",
+    "query": "\"Bjørn Dæhlie\"",
     "rank": 2,
     "tweet_count": null
   },
@@ -21,7 +21,7 @@
     "name": "#TheBookOfBobaFett",
     "query": "#TheBookOfBobaFett",
     "rank": 4,
-    "tweet_count": "119K Tweets"
+    "tweet_count": "121K Tweets"
   },
   {
     "name": "vesterålen",
@@ -30,92 +30,92 @@
     "tweet_count": null
   },
   {
-    "name": "stoltenberg",
-    "query": "stoltenberg",
+    "name": "Stoltenberg",
+    "query": "Stoltenberg",
     "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "#dax18",
+    "query": "#dax18",
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Egypt",
     "query": "Egypt",
-    "rank": 7,
-    "tweet_count": "26.9K Tweets"
+    "rank": 8,
+    "tweet_count": "27.2K Tweets"
   },
   {
     "name": "Old Firm",
     "query": "\"Old Firm\"",
-    "rank": 8,
-    "tweet_count": "16.9K Tweets"
-  },
-  {
-    "name": "#dax18",
-    "query": "#dax18",
     "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Bodø",
-    "query": "Bodø",
-    "rank": 10,
-    "tweet_count": null
+    "tweet_count": "16.9K Tweets"
   },
   {
     "name": "Rangers",
     "query": "Rangers",
-    "rank": 11,
-    "tweet_count": "64.7K Tweets"
-  },
-  {
-    "name": "glimt",
-    "query": "glimt",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "rødt",
-    "query": "rødt",
-    "rank": 13,
-    "tweet_count": null
+    "rank": 10,
+    "tweet_count": "65K Tweets"
   },
   {
     "name": "Senegal",
     "query": "Senegal",
-    "rank": 14,
+    "rank": 11,
     "tweet_count": "133K Tweets"
-  },
-  {
-    "name": "Luke",
-    "query": "Luke",
-    "rank": 15,
-    "tweet_count": "90.1K Tweets"
   },
   {
     "name": "Tommy",
     "query": "Tommy",
-    "rank": 16,
-    "tweet_count": "61.3K Tweets"
+    "rank": 12,
+    "tweet_count": "62.5K Tweets"
   },
   {
     "name": "Aston Villa",
     "query": "\"Aston Villa\"",
-    "rank": 17,
-    "tweet_count": "3,915 Tweets"
+    "rank": 13,
+    "tweet_count": "3,930 Tweets"
   },
   {
-    "name": "høyre",
-    "query": "høyre",
-    "rank": 18,
+    "name": "Luke",
+    "query": "Luke",
+    "rank": 14,
+    "tweet_count": "91.5K Tweets"
+  },
+  {
+    "name": "nakstad",
+    "query": "nakstad",
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Twitch",
     "query": "Twitch",
-    "rank": 19,
-    "tweet_count": "453K Tweets"
+    "rank": 16,
+    "tweet_count": "461K Tweets"
   },
   {
-    "name": "Nakstad",
-    "query": "Nakstad",
+    "name": "Battlefield",
+    "query": "Battlefield",
+    "rank": 17,
+    "tweet_count": "17.1K Tweets"
+  },
+  {
+    "name": "Rødt",
+    "query": "Rødt",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "#StarWars",
+    "query": "#StarWars",
+    "rank": 19,
+    "tweet_count": "22.6K Tweets"
+  },
+  {
+    "name": "selvfølgelig",
+    "query": "selvfølgelig",
     "rank": 20,
     "tweet_count": null
   }
