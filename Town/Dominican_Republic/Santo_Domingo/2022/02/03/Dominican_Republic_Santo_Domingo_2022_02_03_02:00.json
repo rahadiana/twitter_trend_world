@@ -15,7 +15,7 @@
     "name": "La Victoria",
     "query": "\"La Victoria\"",
     "rank": 3,
-    "tweet_count": "42.5K Tweets"
+    "tweet_count": "42.9K Tweets"
   },
   {
     "name": "#VoyAlMioRD",
@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "Venezuela",
-    "query": "Venezuela",
-    "rank": 5,
-    "tweet_count": "236K Tweets"
-  },
-  {
     "name": "#AuditoriaRevelaFallas",
     "query": "#AuditoriaRevelaFallas",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "Venezuela",
+    "query": "Venezuela",
+    "rank": 6,
+    "tweet_count": "239K Tweets"
   },
   {
     "name": "Moisés Sierra",
@@ -51,65 +51,65 @@
     "name": "Banco Central",
     "query": "\"Banco Central\"",
     "rank": 9,
-    "tweet_count": "3,961 Tweets"
-  },
-  {
-    "name": "Bancamérica",
-    "query": "Bancamérica",
-    "rank": 10,
-    "tweet_count": "1,470 Tweets"
+    "tweet_count": "4,035 Tweets"
   },
   {
     "name": "#SerieDelCaribe2022",
     "query": "#SerieDelCaribe2022",
+    "rank": 10,
+    "tweet_count": "12.5K Tweets"
+  },
+  {
+    "name": "bancamérica",
+    "query": "bancamérica",
     "rank": 11,
-    "tweet_count": "12.2K Tweets"
+    "tweet_count": "1,520 Tweets"
+  },
+  {
+    "name": "México",
+    "query": "México",
+    "rank": 12,
+    "tweet_count": "290K Tweets"
   },
   {
     "name": "Torito",
     "query": "Torito",
-    "rank": 12,
-    "tweet_count": "1,121 Tweets"
+    "rank": 13,
+    "tweet_count": "1,133 Tweets"
   },
   {
     "name": "Rivas",
     "query": "Rivas",
-    "rank": 13,
-    "tweet_count": "7,160 Tweets"
+    "rank": 14,
+    "tweet_count": "7,419 Tweets"
   },
   {
     "name": "#MesDeLaPatria",
     "query": "#MesDeLaPatria",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Pau Pau",
     "query": "\"Pau Pau\"",
-    "rank": 15,
-    "tweet_count": "81.3K Tweets"
+    "rank": 16,
+    "tweet_count": "84.4K Tweets"
   },
   {
     "name": "Colombia",
     "query": "Colombia",
-    "rank": 16,
-    "tweet_count": "234K Tweets"
+    "rank": 17,
+    "tweet_count": "238K Tweets"
   },
   {
     "name": "Humedales",
     "query": "Humedales",
-    "rank": 17,
-    "tweet_count": "31.1K Tweets"
-  },
-  {
-    "name": "México",
-    "query": "México",
     "rank": 18,
-    "tweet_count": "283K Tweets"
+    "tweet_count": "31.4K Tweets"
   },
   {
-    "name": "Fulcar",
-    "query": "Fulcar",
+    "name": "Urrutia",
+    "query": "Urrutia",
     "rank": 19,
     "tweet_count": null
   },
@@ -117,6 +117,6 @@
     "name": "Dominicana",
     "query": "Dominicana",
     "rank": 20,
-    "tweet_count": "15.2K Tweets"
+    "tweet_count": "15.6K Tweets"
   }
 ]
