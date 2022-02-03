@@ -1,15 +1,15 @@
 [
   {
-    "name": "Czesi",
-    "query": "Czesi",
-    "rank": 1,
-    "tweet_count": "5,960 Tweets"
-  },
-  {
     "name": "TSUE",
     "query": "TSUE",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "10.5K Tweets"
+  },
+  {
+    "name": "Czesi",
+    "query": "Czesi",
+    "rank": 2,
+    "tweet_count": "5,984 Tweets"
   },
   {
     "name": "Turów",
@@ -21,7 +21,7 @@
     "name": "Czechami",
     "query": "Czechami",
     "rank": 4,
-    "tweet_count": "4,224 Tweets"
+    "tweet_count": "4,240 Tweets"
   },
   {
     "name": "Norwegii",
@@ -33,13 +33,13 @@
     "name": "Carlo",
     "query": "Carlo",
     "rank": 6,
-    "tweet_count": "18.1K Tweets"
+    "tweet_count": "18.4K Tweets"
   },
   {
     "name": "Isco",
     "query": "Isco",
     "rank": 7,
-    "tweet_count": "16.6K Tweets"
+    "tweet_count": "16.8K Tweets"
   },
   {
     "name": "Tom Odell",
@@ -51,25 +51,25 @@
     "name": "Bilbao",
     "query": "Bilbao",
     "rank": 9,
-    "tweet_count": "28K Tweets"
+    "tweet_count": "28.5K Tweets"
+  },
+  {
+    "name": "Bilbao",
+    "query": "Bilbao",
+    "rank": 10,
+    "tweet_count": "28.5K Tweets"
   },
   {
     "name": "Bon Jovi",
     "query": "\"Bon Jovi\"",
-    "rank": 10,
-    "tweet_count": "2,282 Tweets"
-  },
-  {
-    "name": "#CopaDelRey",
-    "query": "#CopaDelRey",
     "rank": 11,
-    "tweet_count": "32.9K Tweets"
+    "tweet_count": "2,293 Tweets"
   },
   {
-    "name": "#CopaDelRey",
-    "query": "#CopaDelRey",
+    "name": "#wtylewizji",
+    "query": "#wtylewizji",
     "rank": 12,
-    "tweet_count": "32.9K Tweets"
+    "tweet_count": "1,605 Tweets"
   },
   {
     "name": "#rzutkitarczarodzina",
@@ -84,33 +84,33 @@
     "tweet_count": null
   },
   {
-    "name": "Ancelottiego",
-    "query": "Ancelottiego",
+    "name": "ancelottiego",
+    "query": "ancelottiego",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "Betis",
-    "query": "Betis",
+    "name": "Realu",
+    "query": "Realu",
     "rank": 16,
-    "tweet_count": "38.6K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Izby Dyscyplinarnej",
     "query": "\"Izby Dyscyplinarnej\"",
     "rank": 17,
-    "tweet_count": "3,430 Tweets"
+    "tweet_count": "3,437 Tweets"
+  },
+  {
+    "name": "#bufor",
+    "query": "#bufor",
+    "rank": 18,
+    "tweet_count": null
   },
   {
     "name": "Kołodziejczak",
     "query": "Kołodziejczak",
-    "rank": 18,
-    "tweet_count": "3,913 Tweets"
-  },
-  {
-    "name": "Sukces",
-    "query": "Sukces",
     "rank": 19,
-    "tweet_count": "9,098 Tweets"
+    "tweet_count": "3,930 Tweets"
   }
 ]
