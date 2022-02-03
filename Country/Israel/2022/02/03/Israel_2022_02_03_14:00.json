@@ -1,21 +1,21 @@
 [
   {
-    "name": "ISIS",
-    "query": "ISIS",
-    "rank": 1,
-    "tweet_count": "44.7K Tweets"
-  },
-  {
     "name": "יואב יצחק",
     "query": "\"יואב יצחק\"",
-    "rank": 2,
-    "tweet_count": "1,260 Tweets"
+    "rank": 1,
+    "tweet_count": "1,268 Tweets"
   },
   {
     "name": "Amnesty",
     "query": "Amnesty",
+    "rank": 2,
+    "tweet_count": "74.8K Tweets"
+  },
+  {
+    "name": "ISIS",
+    "query": "ISIS",
     "rank": 3,
-    "tweet_count": "73.5K Tweets"
+    "tweet_count": "49.7K Tweets"
   },
   {
     "name": "מי מינה",
@@ -27,19 +27,19 @@
     "name": "Bahrain",
     "query": "Bahrain",
     "rank": 5,
-    "tweet_count": "6,316 Tweets"
+    "tweet_count": "6,464 Tweets"
   },
   {
     "name": "בן ארי",
     "query": "\"בן ארי\"",
     "rank": 6,
-    "tweet_count": "1,949 Tweets"
+    "tweet_count": "1,961 Tweets"
   },
   {
     "name": "Whoopi Goldberg",
     "query": "\"Whoopi Goldberg\"",
     "rank": 7,
-    "tweet_count": "118K Tweets"
+    "tweet_count": "119K Tweets"
   },
   {
     "name": "Benny Gantz",
@@ -51,19 +51,19 @@
     "name": "Syria",
     "query": "Syria",
     "rank": 9,
-    "tweet_count": "46.6K Tweets"
+    "tweet_count": "50.7K Tweets"
   },
   {
     "name": "Africa",
     "query": "Africa",
     "rank": 10,
-    "tweet_count": "176K Tweets"
+    "tweet_count": "179K Tweets"
   },
   {
     "name": "Lebanon",
     "query": "Lebanon",
     "rank": 11,
-    "tweet_count": "10.1K Tweets"
+    "tweet_count": "10.3K Tweets"
   },
   {
     "name": "בר לב",
@@ -78,45 +78,45 @@
     "tweet_count": null
   },
   {
-    "name": "Europe",
-    "query": "Europe",
-    "rank": 14,
-    "tweet_count": "168K Tweets"
-  },
-  {
     "name": "יום האם",
     "query": "\"יום האם\"",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Colbert",
     "query": "Colbert",
-    "rank": 16,
-    "tweet_count": "12K Tweets"
+    "rank": 15,
+    "tweet_count": "12.3K Tweets"
   },
   {
     "name": "בוקר טוב",
     "query": "\"בוקר טוב\"",
-    "rank": 17,
-    "tweet_count": "1,020 Tweets"
+    "rank": 16,
+    "tweet_count": "1,023 Tweets"
   },
   {
     "name": "שעה אחת",
     "query": "\"שעה אחת\"",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Hollywood",
     "query": "Hollywood",
-    "rank": 19,
-    "tweet_count": "49K Tweets"
+    "rank": 18,
+    "tweet_count": "49.9K Tweets"
   },
   {
     "name": "Amen",
     "query": "Amen",
+    "rank": 19,
+    "tweet_count": "151K Tweets"
+  },
+  {
+    "name": "Holocaust",
+    "query": "Holocaust",
     "rank": 20,
-    "tweet_count": "148K Tweets"
+    "tweet_count": "88.4K Tweets"
   }
 ]
