@@ -1,13 +1,13 @@
 [
   {
-    "name": "David Seymour",
-    "query": "\"David Seymour\"",
+    "name": "#ShortlandStreet",
+    "query": "#ShortlandStreet",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "#ShortlandStreet",
-    "query": "#ShortlandStreet",
+    "name": "David Seymour",
+    "query": "\"David Seymour\"",
     "rank": 2,
     "tweet_count": null
   },
@@ -15,7 +15,7 @@
     "name": "Wordle 229 X",
     "query": "\"Wordle 229 X\"",
     "rank": 3,
-    "tweet_count": "5,789 Tweets"
+    "tweet_count": "5,993 Tweets"
   },
   {
     "name": "Leo Molloy",
@@ -27,13 +27,13 @@
     "name": "Taliban",
     "query": "Taliban",
     "rank": 5,
-    "tweet_count": "31.8K Tweets"
+    "tweet_count": "32.2K Tweets"
   },
   {
-    "name": "Labour",
-    "query": "Labour",
+    "name": "Andrew Little",
+    "query": "\"Andrew Little\"",
     "rank": 6,
-    "tweet_count": "81.1K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#TheBookOfBobaFett",
@@ -42,44 +42,44 @@
     "tweet_count": "124K Tweets"
   },
   {
+    "name": "Labour",
+    "query": "Labour",
+    "rank": 8,
+    "tweet_count": "81.8K Tweets"
+  },
+  {
     "name": "Bellis",
     "query": "Bellis",
-    "rank": 8,
-    "tweet_count": "1,852 Tweets"
+    "rank": 9,
+    "tweet_count": "1,879 Tweets"
   },
   {
     "name": "Mandates",
     "query": "Mandates",
-    "rank": 9,
-    "tweet_count": "162K Tweets"
-  },
-  {
-    "name": "Andrew Little",
-    "query": "\"Andrew Little\"",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "163K Tweets"
   },
   {
     "name": "#PokemonLEGENDS",
     "query": "#PokemonLEGENDS",
     "rank": 11,
-    "tweet_count": "157K Tweets"
+    "tweet_count": "159K Tweets"
   },
   {
-    "name": "Business NZ",
-    "query": "\"Business NZ\"",
+    "name": "business nz",
+    "query": "\"business nz\"",
     "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "Luxon",
+    "query": "Luxon",
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Stuart Nash",
     "query": "\"Stuart Nash\"",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "#LedByDonkeys",
-    "query": "#LedByDonkeys",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,35 +87,35 @@
     "name": "Jedi",
     "query": "Jedi",
     "rank": 15,
-    "tweet_count": "30.4K Tweets"
+    "tweet_count": "30.7K Tweets"
   },
   {
-    "name": "winz",
-    "query": "winz",
+    "name": "Winz",
+    "query": "Winz",
     "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "Westport",
-    "query": "Westport",
+    "name": "#LedByDonkeys",
+    "query": "#LedByDonkeys",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Jacinda Ardern",
-    "query": "\"Jacinda Ardern\"",
-    "rank": 18,
-    "tweet_count": "2,936 Tweets"
-  },
-  {
     "name": "#covidnz",
     "query": "#covidnz",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "airnz",
-    "query": "airnz",
+    "name": "Afghanistan",
+    "query": "Afghanistan",
+    "rank": 19,
+    "tweet_count": "58.7K Tweets"
+  },
+  {
+    "name": "Westport",
+    "query": "Westport",
     "rank": 20,
     "tweet_count": null
   }
