@@ -1,21 +1,21 @@
 [
   {
-    "name": "IS-vrouwen",
-    "query": "IS-vrouwen",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Schmidt",
     "query": "Schmidt",
+    "rank": 1,
+    "tweet_count": "9,899 Tweets"
+  },
+  {
+    "name": "IS-vrouwen",
+    "query": "IS-vrouwen",
     "rank": 2,
-    "tweet_count": "9,714 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Cocu",
     "query": "Cocu",
     "rank": 3,
-    "tweet_count": "1,057 Tweets"
+    "tweet_count": "1,095 Tweets"
   },
   {
     "name": "Letsch",
@@ -27,25 +27,25 @@
     "name": "#CELRAN",
     "query": "#CELRAN",
     "rank": 5,
-    "tweet_count": "26.8K Tweets"
-  },
-  {
-    "name": "Koeman",
-    "query": "Koeman",
-    "rank": 6,
-    "tweet_count": "1,192 Tweets"
+    "tweet_count": "27K Tweets"
   },
   {
     "name": "#Spoedwet",
     "query": "#Spoedwet",
-    "rank": 7,
-    "tweet_count": "6,914 Tweets"
+    "rank": 6,
+    "tweet_count": "6,939 Tweets"
   },
   {
     "name": "Bezos",
     "query": "Bezos",
+    "rank": 7,
+    "tweet_count": "15.6K Tweets"
+  },
+  {
+    "name": "Koeman",
+    "query": "Koeman",
     "rank": 8,
-    "tweet_count": "15.5K Tweets"
+    "tweet_count": "1,217 Tweets"
   },
   {
     "name": "#kleurindenatuur",
@@ -54,63 +54,63 @@
     "tweet_count": null
   },
   {
-    "name": "#HetIsKlaar",
-    "query": "#HetIsKlaar",
+    "name": "#hetisklaar",
+    "query": "#hetisklaar",
     "rank": 10,
-    "tweet_count": "11K Tweets"
+    "tweet_count": "11.1K Tweets"
   },
   {
     "name": "Syrië",
     "query": "Syrië",
     "rank": 11,
-    "tweet_count": "2,346 Tweets"
+    "tweet_count": "2,412 Tweets"
+  },
+  {
+    "name": "Giethoorn",
+    "query": "Giethoorn",
+    "rank": 12,
+    "tweet_count": null
   },
   {
     "name": "Fraser",
     "query": "Fraser",
-    "rank": 12,
-    "tweet_count": "5,293 Tweets"
+    "rank": 13,
+    "tweet_count": "5,357 Tweets"
   },
   {
     "name": "Syrisch",
     "query": "Syrisch",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Van Nistelrooij",
     "query": "\"Van Nistelrooij\"",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Giethoorn",
-    "query": "Giethoorn",
     "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Goedemorgen",
-    "query": "Goedemorgen",
-    "rank": 16,
-    "tweet_count": "7,160 Tweets"
-  },
-  {
-    "name": "Mustapha S.",
-    "query": "\"Mustapha S.\"",
-    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "De Hef",
     "query": "\"De Hef\"",
-    "rank": 18,
-    "tweet_count": null
+    "rank": 16,
+    "tweet_count": "1,006 Tweets"
+  },
+  {
+    "name": "Goedemorgen",
+    "query": "Goedemorgen",
+    "rank": 17,
+    "tweet_count": "7,183 Tweets"
   },
   {
     "name": "Ruud",
     "query": "Ruud",
+    "rank": 18,
+    "tweet_count": "1,137 Tweets"
+  },
+  {
+    "name": "Mustapha S.",
+    "query": "\"Mustapha S.\"",
     "rank": 19,
-    "tweet_count": "1,116 Tweets"
+    "tweet_count": null
   }
 ]
