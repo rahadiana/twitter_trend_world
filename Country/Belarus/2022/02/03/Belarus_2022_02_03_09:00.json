@@ -1,110 +1,122 @@
 [
   {
-    "name": "в беларуси",
-    "query": "\"в беларуси\"",
-    "rank": 1,
-    "tweet_count": "1,130 Tweets"
-  },
-  {
     "name": "С Днём Рождения",
     "query": "\"С Днём Рождения\"",
+    "rank": 1,
+    "tweet_count": "3,563 Tweets"
+  },
+  {
+    "name": "Здоровья",
+    "query": "Здоровья",
     "rank": 2,
-    "tweet_count": "3,507 Tweets"
+    "tweet_count": "2,504 Tweets"
   },
   {
-    "name": "#NFTs",
-    "query": "#NFTs",
+    "name": "Беларуси",
+    "query": "Беларуси",
     "rank": 3,
-    "tweet_count": "870K Tweets"
+    "tweet_count": "1,824 Tweets"
   },
   {
-    "name": "Конституции",
-    "query": "Конституции",
+    "name": "COVID-19",
+    "query": "COVID-19",
     "rank": 4,
-    "tweet_count": null
+    "tweet_count": "455K Tweets"
   },
   {
     "name": "Russia",
     "query": "Russia",
     "rank": 5,
-    "tweet_count": "220K Tweets"
+    "tweet_count": "222K Tweets"
   },
   {
-    "name": "#CreativeSociety",
-    "query": "#CreativeSociety",
+    "name": "#вордли",
+    "query": "#вордли",
     "rank": 6,
-    "tweet_count": "1,289 Tweets"
+    "tweet_count": "1,343 Tweets"
   },
   {
-    "name": "COVID-19",
-    "query": "COVID-19",
+    "name": "Конституции",
+    "query": "Конституции",
     "rank": 7,
-    "tweet_count": "446K Tweets"
-  },
-  {
-    "name": "#Брест",
-    "query": "#Брест",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "#WeWant2Live",
-    "query": "#WeWant2Live",
-    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Благодарю",
     "query": "Благодарю",
-    "rank": 10,
-    "tweet_count": "1,342 Tweets"
+    "rank": 8,
+    "tweet_count": "1,366 Tweets"
   },
   {
-    "name": "#МояГодовщинаВТвиттере",
-    "query": "#МояГодовщинаВТвиттере",
-    "rank": 11,
+    "name": "Твиттере",
+    "query": "Твиттере",
+    "rank": 9,
+    "tweet_count": "3,733 Tweets"
+  },
+  {
+    "name": "#WeWant2Live",
+    "query": "#WeWant2Live",
+    "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Видимо",
-    "query": "Видимо",
+    "name": "#Belarus",
+    "query": "#Belarus",
+    "rank": 11,
+    "tweet_count": "1,748 Tweets"
+  },
+  {
+    "name": "Игра Wordle",
+    "query": "\"Игра Wordle\"",
     "rank": 12,
-    "tweet_count": "5,574 Tweets"
+    "tweet_count": "1,386 Tweets"
   },
   {
-    "name": "Поздравляю",
-    "query": "Поздравляю",
+    "name": "#Брест",
+    "query": "#Брест",
     "rank": 13,
-    "tweet_count": "3,907 Tweets"
-  },
-  {
-    "name": "Интересно",
-    "query": "Интересно",
-    "rank": 14,
-    "tweet_count": "10.5K Tweets"
-  },
-  {
-    "name": "Звучит",
-    "query": "Звучит",
-    "rank": 15,
-    "tweet_count": "5,104 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Думаю",
     "query": "Думаю",
+    "rank": 14,
+    "tweet_count": "14.4K Tweets"
+  },
+  {
+    "name": "Интересно",
+    "query": "Интересно",
+    "rank": 15,
+    "tweet_count": "10.7K Tweets"
+  },
+  {
+    "name": "#twiby",
+    "query": "#twiby",
     "rank": 16,
-    "tweet_count": "14.1K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Звучит",
+    "query": "Звучит",
+    "rank": 17,
+    "tweet_count": "5,172 Tweets"
+  },
+  {
+    "name": "Скорее",
+    "query": "Скорее",
+    "rank": 18,
+    "tweet_count": "5,382 Tweets"
   },
   {
     "name": "Выздоравливай",
     "query": "Выздоравливай",
-    "rank": 17,
-    "tweet_count": "1,832 Tweets"
+    "rank": 19,
+    "tweet_count": "1,884 Tweets"
   },
   {
-    "name": "Согласна",
-    "query": "Согласна",
-    "rank": 18,
-    "tweet_count": "2,651 Tweets"
+    "name": "Какие",
+    "query": "Какие",
+    "rank": 20,
+    "tweet_count": "12.4K Tweets"
   }
 ]
