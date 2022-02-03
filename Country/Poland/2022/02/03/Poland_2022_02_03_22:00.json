@@ -6,99 +6,105 @@
     "tweet_count": null
   },
   {
-    "name": "Bon Jovi",
-    "query": "\"Bon Jovi\"",
+    "name": "Bilbao",
+    "query": "Bilbao",
     "rank": 2,
-    "tweet_count": "2,197 Tweets"
+    "tweet_count": "25.1K Tweets"
+  },
+  {
+    "name": "bon jovi",
+    "query": "\"bon jovi\"",
+    "rank": 3,
+    "tweet_count": "2,238 Tweets"
+  },
+  {
+    "name": "#CopaDelRey",
+    "query": "#CopaDelRey",
+    "rank": 4,
+    "tweet_count": "30.7K Tweets"
+  },
+  {
+    "name": "Asensio",
+    "query": "Asensio",
+    "rank": 5,
+    "tweet_count": "13.6K Tweets"
   },
   {
     "name": "#piekielnakuchnia",
     "query": "#piekielnakuchnia",
-    "rank": 3,
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "#rzutkitarczarodzina",
+    "query": "#rzutkitarczarodzina",
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Scarlett",
     "query": "Scarlett",
-    "rank": 4,
-    "tweet_count": "11.1K Tweets"
-  },
-  {
-    "name": "#CopaDelRey",
-    "query": "#CopaDelRey",
-    "rank": 5,
-    "tweet_count": "27.5K Tweets"
-  },
-  {
-    "name": "Czesi",
-    "query": "Czesi",
-    "rank": 6,
-    "tweet_count": "5,788 Tweets"
-  },
-  {
-    "name": "#Sanremo2022",
-    "query": "#Sanremo2022",
-    "rank": 7,
-    "tweet_count": "525K Tweets"
-  },
-  {
-    "name": "Kłeczek",
-    "query": "Kłeczek",
     "rank": 8,
-    "tweet_count": "1,654 Tweets"
+    "tweet_count": "11.4K Tweets"
   },
   {
-    "name": "Kłeczka",
-    "query": "Kłeczka",
+    "name": "Realu",
+    "query": "Realu",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "turowa",
-    "query": "turowa",
+    "name": "Czesi",
+    "query": "Czesi",
     "rank": 10,
-    "tweet_count": "7,406 Tweets"
+    "tweet_count": "5,858 Tweets"
+  },
+  {
+    "name": "#Sanremo2022",
+    "query": "#Sanremo2022",
+    "rank": 11,
+    "tweet_count": "556K Tweets"
+  },
+  {
+    "name": "Kłeczek",
+    "query": "Kłeczek",
+    "rank": 12,
+    "tweet_count": "1,692 Tweets"
+  },
+  {
+    "name": "Kłeczka",
+    "query": "Kłeczka",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Turowa",
+    "query": "Turowa",
+    "rank": 14,
+    "tweet_count": "7,505 Tweets"
   },
   {
     "name": "Kołodziejczak",
     "query": "Kołodziejczak",
-    "rank": 11,
-    "tweet_count": "3,782 Tweets"
-  },
-  {
-    "name": "TSUE",
-    "query": "TSUE",
-    "rank": 12,
-    "tweet_count": "10.2K Tweets"
-  },
-  {
-    "name": "Tommy",
-    "query": "Tommy",
-    "rank": 13,
-    "tweet_count": "69.4K Tweets"
+    "rank": 15,
+    "tweet_count": "3,837 Tweets"
   },
   {
     "name": "Czechów",
     "query": "Czechów",
-    "rank": 14,
-    "tweet_count": "1,660 Tweets"
+    "rank": 16,
+    "tweet_count": "1,669 Tweets"
   },
   {
-    "name": "Czechami",
-    "query": "Czechami",
-    "rank": 15,
-    "tweet_count": "4,117 Tweets"
+    "name": "Tommy",
+    "query": "Tommy",
+    "rank": 17,
+    "tweet_count": "70.5K Tweets"
   },
   {
     "name": "Prezydent",
     "query": "Prezydent",
-    "rank": 16,
-    "tweet_count": "4,534 Tweets"
-  },
-  {
-    "name": "Czechy",
-    "query": "Czechy",
-    "rank": 17,
-    "tweet_count": "2,266 Tweets"
+    "rank": 18,
+    "tweet_count": "4,577 Tweets"
   }
 ]
