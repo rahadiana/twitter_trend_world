@@ -12,8 +12,8 @@
     "tweet_count": null
   },
   {
-    "name": "#CrokyCup",
-    "query": "#CrokyCup",
+    "name": "#crokycup",
+    "query": "#crokycup",
     "rank": 3,
     "tweet_count": null
   },
@@ -24,16 +24,16 @@
     "tweet_count": "19.4K Tweets"
   },
   {
-    "name": "lemajic",
-    "query": "lemajic",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
     "name": "#EUTaxonomy",
     "query": "#EUTaxonomy",
+    "rank": 5,
+    "tweet_count": "2,252 Tweets"
+  },
+  {
+    "name": "lemajic",
+    "query": "lemajic",
     "rank": 6,
-    "tweet_count": "2,243 Tweets"
+    "tweet_count": null
   },
   {
     "name": "verboomen",
@@ -45,7 +45,7 @@
     "name": "odoi",
     "query": "odoi",
     "rank": 8,
-    "tweet_count": "1,250 Tweets"
+    "tweet_count": "1,254 Tweets"
   },
   {
     "name": "de bilde",
@@ -54,22 +54,22 @@
     "tweet_count": null
   },
   {
+    "name": "vreg",
+    "query": "vreg",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
     "name": "Remco",
     "query": "Remco",
-    "rank": 10,
-    "tweet_count": "1,700 Tweets"
+    "rank": 11,
+    "tweet_count": "1,704 Tweets"
   },
   {
     "name": "hendry",
     "query": "hendry",
-    "rank": 11,
-    "tweet_count": "1,054 Tweets"
-  },
-  {
-    "name": "vreg",
-    "query": "vreg",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "1,056 Tweets"
   },
   {
     "name": "pierre van damme",
@@ -78,45 +78,45 @@
     "tweet_count": null
   },
   {
-    "name": "pepinster",
-    "query": "pepinster",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
     "name": "Whoopi Goldberg",
     "query": "\"Whoopi Goldberg\"",
-    "rank": 15,
-    "tweet_count": "162K Tweets"
+    "rank": 14,
+    "tweet_count": "163K Tweets"
   },
   {
     "name": "Rekkles",
     "query": "Rekkles",
-    "rank": 16,
-    "tweet_count": "7,780 Tweets"
+    "rank": 15,
+    "tweet_count": "7,790 Tweets"
   },
   {
-    "name": "Nsoki",
-    "query": "Nsoki",
-    "rank": 17,
+    "name": "nsoki",
+    "query": "nsoki",
+    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "mignolet",
-    "query": "mignolet",
-    "rank": 18,
+    "name": "Mignolet",
+    "query": "Mignolet",
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Mané",
     "query": "Mané",
-    "rank": 19,
-    "tweet_count": "115K Tweets"
+    "rank": 18,
+    "tweet_count": "116K Tweets"
   },
   {
     "name": "Sobol",
     "query": "Sobol",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "de sart",
+    "query": "\"de sart\"",
+    "rank": 20,
+    "tweet_count": "1,958 Tweets"
   }
 ]
