@@ -1,99 +1,99 @@
 [
   {
+    "name": "#zib1",
+    "query": "#zib1",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "#Bundesrat",
     "query": "#Bundesrat",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "HYUNA",
     "query": "HYUNA",
-    "rank": 2,
-    "tweet_count": "108K Tweets"
+    "rank": 3,
+    "tweet_count": "112K Tweets"
   },
   {
-    "name": "#Atomkraft",
-    "query": "#Atomkraft",
-    "rank": 3,
-    "tweet_count": "2,241 Tweets"
+    "name": "#Superkraft",
+    "query": "#Superkraft",
+    "rank": 4,
+    "tweet_count": null
   },
   {
     "name": "#Taxonomie",
     "query": "#Taxonomie",
-    "rank": 4,
-    "tweet_count": "5,271 Tweets"
+    "rank": 5,
+    "tweet_count": "5,348 Tweets"
   },
   {
     "name": "#Bachelor",
     "query": "#Bachelor",
-    "rank": 5,
-    "tweet_count": "4,005 Tweets"
+    "rank": 6,
+    "tweet_count": "4,028 Tweets"
+  },
+  {
+    "name": "Schönen Abend",
+    "query": "\"Schönen Abend\"",
+    "rank": 7,
+    "tweet_count": "1,349 Tweets"
   },
   {
     "name": "Ludwig",
     "query": "Ludwig",
-    "rank": 6,
-    "tweet_count": "4,811 Tweets"
-  },
-  {
-    "name": "#Waldhäusl",
-    "query": "#Waldhäusl",
-    "rank": 7,
-    "tweet_count": null
+    "rank": 8,
+    "tweet_count": "4,863 Tweets"
   },
   {
     "name": "Boba",
     "query": "Boba",
-    "rank": 8,
-    "tweet_count": "87.1K Tweets"
-  },
-  {
-    "name": "Gastronomie",
-    "query": "Gastronomie",
     "rank": 9,
-    "tweet_count": "1,209 Tweets"
+    "tweet_count": "88.4K Tweets"
   },
   {
-    "name": "machtwort",
-    "query": "machtwort",
+    "name": "Elli",
+    "query": "Elli",
     "rank": 10,
+    "tweet_count": "16.3K Tweets"
+  },
+  {
+    "name": "Machtwort",
+    "query": "Machtwort",
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Plakat",
     "query": "Plakat",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Veganer",
     "query": "Veganer",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "atomenergie",
     "query": "atomenergie",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Statistiken",
     "query": "Statistiken",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Kinderarzt",
     "query": "Kinderarzt",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Impfkampagne",
-    "query": "Impfkampagne",
     "rank": 16,
-    "tweet_count": "3,121 Tweets"
+    "tweet_count": null
   },
   {
     "name": "spö oö",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "Rolle",
-    "query": "Rolle",
+    "name": "Radfahrer",
+    "query": "Radfahrer",
     "rank": 18,
-    "tweet_count": "2,698 Tweets"
-  },
-  {
-    "name": "Lucina",
-    "query": "Lucina",
-    "rank": 19,
-    "tweet_count": "3,503 Tweets"
-  },
-  {
-    "name": "Fähigkeiten",
-    "query": "Fähigkeiten",
-    "rank": 20,
     "tweet_count": null
+  },
+  {
+    "name": "Impfkampagne",
+    "query": "Impfkampagne",
+    "rank": 19,
+    "tweet_count": "3,179 Tweets"
+  },
+  {
+    "name": "Gastronomie",
+    "query": "Gastronomie",
+    "rank": 20,
+    "tweet_count": "1,240 Tweets"
   }
 ]
