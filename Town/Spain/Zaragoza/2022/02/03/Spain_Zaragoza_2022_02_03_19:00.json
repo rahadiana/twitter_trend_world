@@ -1,93 +1,93 @@
 [
   {
+    "name": "PSOE",
+    "query": "PSOE",
+    "rank": 1,
+    "tweet_count": "74.9K Tweets"
+  },
+  {
     "name": "#ReformaLaboral",
     "query": "#ReformaLaboral",
-    "rank": 1,
-    "tweet_count": "52K Tweets"
+    "rank": 2,
+    "tweet_count": "53.7K Tweets"
   },
   {
     "name": "Alberto Casero",
     "query": "\"Alberto Casero\"",
-    "rank": 2,
-    "tweet_count": "5,595 Tweets"
+    "rank": 3,
+    "tweet_count": "6,644 Tweets"
   },
   {
     "name": "Batet",
     "query": "Batet",
-    "rank": 3,
-    "tweet_count": "12.3K Tweets"
+    "rank": 4,
+    "tweet_count": "14.4K Tweets"
   },
   {
     "name": "Congreso",
     "query": "Congreso",
-    "rank": 4,
-    "tweet_count": "142K Tweets"
+    "rank": 5,
+    "tweet_count": "147K Tweets"
   },
   {
     "name": "Tamayazo",
     "query": "Tamayazo",
-    "rank": 5,
-    "tweet_count": "5,059 Tweets"
+    "rank": 6,
+    "tweet_count": "6,322 Tweets"
   },
   {
     "name": "El PP",
     "query": "\"El PP\"",
-    "rank": 6,
-    "tweet_count": "90.1K Tweets"
+    "rank": 7,
+    "tweet_count": "94.7K Tweets"
   },
   {
     "name": "William Carvalho",
     "query": "\"William Carvalho\"",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
-    "name": "Error",
-    "query": "Error",
     "rank": 8,
-    "tweet_count": "103K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Pucherazo",
     "query": "Pucherazo",
     "rank": 9,
-    "tweet_count": "6,066 Tweets"
+    "tweet_count": "7,983 Tweets"
   },
   {
-    "name": "Frank Cuesta",
-    "query": "\"Frank Cuesta\"",
+    "name": "Error",
+    "query": "Error",
     "rank": 10,
-    "tweet_count": "7,242 Tweets"
+    "tweet_count": "106K Tweets"
   },
   {
     "name": "Cáceres",
     "query": "Cáceres",
     "rank": 11,
-    "tweet_count": "6,395 Tweets"
+    "tweet_count": "6,772 Tweets"
+  },
+  {
+    "name": "Frank Cuesta",
+    "query": "\"Frank Cuesta\"",
+    "rank": 12,
+    "tweet_count": "7,437 Tweets"
   },
   {
     "name": "Asensio",
     "query": "Asensio",
-    "rank": 12,
-    "tweet_count": "3,426 Tweets"
+    "rank": 13,
+    "tweet_count": "3,701 Tweets"
   },
   {
     "name": "Alberto Rodríguez",
     "query": "\"Alberto Rodríguez\"",
-    "rank": 13,
-    "tweet_count": "2,998 Tweets"
-  },
-  {
-    "name": "Juan Miguel",
-    "query": "\"Juan Miguel\"",
     "rank": 14,
-    "tweet_count": null
+    "tweet_count": "3,263 Tweets"
   },
   {
     "name": "Bildu",
     "query": "Bildu",
     "rank": 15,
-    "tweet_count": "17K Tweets"
+    "tweet_count": "17.5K Tweets"
   },
   {
     "name": "#Pasapalabra446",
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
-    "name": "Cuca Gamarra",
-    "query": "\"Cuca Gamarra\"",
+    "name": "Juanmi",
+    "query": "Juanmi",
     "rank": 17,
-    "tweet_count": "7,915 Tweets"
+    "tweet_count": "2,208 Tweets"
   },
   {
-    "name": "#AgradecimientosChopin",
-    "query": "#AgradecimientosChopin",
+    "name": "Cuca Gamarra",
+    "query": "\"Cuca Gamarra\"",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "8,467 Tweets"
+  },
+  {
+    "name": "Guevara",
+    "query": "Guevara",
+    "rank": 19,
+    "tweet_count": "6,756 Tweets"
   },
   {
     "name": "Trujillo",
     "query": "Trujillo",
-    "rank": 19,
-    "tweet_count": "6,760 Tweets"
-  },
-  {
-    "name": "Adanero",
-    "query": "Adanero",
     "rank": 20,
-    "tweet_count": "4,013 Tweets"
+    "tweet_count": "6,906 Tweets"
   }
 ]
