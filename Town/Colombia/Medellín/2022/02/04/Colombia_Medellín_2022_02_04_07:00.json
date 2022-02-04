@@ -1,27 +1,27 @@
 [
   {
-    "name": "Duque",
-    "query": "Duque",
+    "name": "duque",
+    "query": "duque",
     "rank": 1,
-    "tweet_count": "42.8K Tweets"
+    "tweet_count": "42.9K Tweets"
   },
   {
     "name": "Restrepo",
     "query": "Restrepo",
     "rank": 2,
-    "tweet_count": "6,432 Tweets"
+    "tweet_count": "6,445 Tweets"
   },
   {
     "name": "Tolima",
     "query": "Tolima",
     "rank": 3,
-    "tweet_count": "6,370 Tweets"
+    "tweet_count": "6,410 Tweets"
   },
   {
-    "name": "Mantilla",
-    "query": "Mantilla",
+    "name": "#ATravesDeMiVentanaNetflix",
+    "query": "#ATravesDeMiVentanaNetflix",
     "rank": 4,
-    "tweet_count": "1,958 Tweets"
+    "tweet_count": "19.9K Tweets"
   },
   {
     "name": "#SerieDelCaribe2022",
@@ -30,70 +30,70 @@
     "tweet_count": "10.7K Tweets"
   },
   {
+    "name": "Mantilla",
+    "query": "Mantilla",
+    "rank": 6,
+    "tweet_count": "1,961 Tweets"
+  },
+  {
     "name": "Dorlan",
     "query": "Dorlan",
-    "rank": 6,
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Teodora",
     "query": "Teodora",
-    "rank": 7,
-    "tweet_count": "5,161 Tweets"
+    "rank": 8,
+    "tweet_count": "5,179 Tweets"
   },
   {
     "name": "Piedad Córdoba",
     "query": "\"Piedad Córdoba\"",
-    "rank": 8,
-    "tweet_count": "25.4K Tweets"
-  },
-  {
-    "name": "#ATravesDeMiVentanaNetflix",
-    "query": "#ATravesDeMiVentanaNetflix",
     "rank": 9,
-    "tweet_count": "17.4K Tweets"
+    "tweet_count": "25.5K Tweets"
   },
   {
-    "name": "candelo",
-    "query": "candelo",
+    "name": "Caimanes",
+    "query": "Caimanes",
     "rank": 10,
+    "tweet_count": "17K Tweets"
+  },
+  {
+    "name": "Candelo",
+    "query": "Candelo",
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Andrade",
     "query": "Andrade",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": "13K Tweets"
   },
   {
     "name": "Rifle",
     "query": "Rifle",
-    "rank": 12,
-    "tweet_count": "8,022 Tweets"
+    "rank": 13,
+    "tweet_count": "8,076 Tweets"
   },
   {
-    "name": "Guzmán",
-    "query": "Guzmán",
-    "rank": 13,
+    "name": "guzmán",
+    "query": "guzmán",
+    "rank": 14,
     "tweet_count": "14.4K Tweets"
   },
   {
     "name": "Béisbol",
     "query": "Béisbol",
-    "rank": 14,
-    "tweet_count": "16.3K Tweets"
+    "rank": 15,
+    "tweet_count": "16.4K Tweets"
   },
   {
     "name": "Atlético Nacional",
     "query": "\"Atlético Nacional\"",
-    "rank": 15,
-    "tweet_count": "1,418 Tweets"
-  },
-  {
-    "name": "#UribeParacoHpta",
-    "query": "#UribeParacoHpta",
     "rank": 16,
-    "tweet_count": "6,530 Tweets"
+    "tweet_count": "1,418 Tweets"
   },
   {
     "name": "Alex Saab",
@@ -102,9 +102,21 @@
     "tweet_count": "29.9K Tweets"
   },
   {
-    "name": "#Yomellamo",
-    "query": "#Yomellamo",
+    "name": "#UribeParacoHpta",
+    "query": "#UribeParacoHpta",
     "rank": 18,
-    "tweet_count": "1,050 Tweets"
+    "tweet_count": "6,535 Tweets"
+  },
+  {
+    "name": "#yomellamo",
+    "query": "#yomellamo",
+    "rank": 19,
+    "tweet_count": "1,043 Tweets"
+  },
+  {
+    "name": "Jaguares",
+    "query": "Jaguares",
+    "rank": 20,
+    "tweet_count": null
   }
 ]

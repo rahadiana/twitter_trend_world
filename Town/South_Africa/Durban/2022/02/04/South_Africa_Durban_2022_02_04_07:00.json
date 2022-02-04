@@ -1,91 +1,91 @@
 [
   {
-    "name": "#RHODurban",
-    "query": "#RHODurban",
-    "rank": 1,
-    "tweet_count": "1,502 Tweets"
-  },
-  {
     "name": "#DoWeHaveAProblem",
     "query": "#DoWeHaveAProblem",
-    "rank": 2,
-    "tweet_count": "136K Tweets"
+    "rank": 1,
+    "tweet_count": "138K Tweets"
   },
   {
     "name": "#wooliesvalentines",
     "query": "#wooliesvalentines",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#SweetestGirl",
     "query": "#SweetestGirl",
-    "rank": 4,
-    "tweet_count": "1,065 Tweets"
+    "rank": 3,
+    "tweet_count": "1,068 Tweets"
   },
   {
-    "name": "#WorldCancerDay",
-    "query": "#WorldCancerDay",
-    "rank": 5,
-    "tweet_count": "58.3K Tweets"
+    "name": "#RHOD",
+    "query": "#RHOD",
+    "rank": 4,
+    "tweet_count": null
   },
   {
     "name": "LaConco",
     "query": "LaConco",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "#WorldCancerDay",
+    "query": "#WorldCancerDay",
+    "rank": 6,
+    "tweet_count": "59.9K Tweets"
+  },
+  {
+    "name": "Annie",
+    "query": "Annie",
+    "rank": 7,
+    "tweet_count": "23.9K Tweets"
   },
   {
     "name": "Lakers",
     "query": "Lakers",
-    "rank": 7,
-    "tweet_count": "68K Tweets"
+    "rank": 8,
+    "tweet_count": "68.6K Tweets"
   },
   {
     "name": "Slik Talk",
     "query": "\"Slik Talk\"",
-    "rank": 8,
-    "tweet_count": "1,423 Tweets"
+    "rank": 9,
+    "tweet_count": "1,517 Tweets"
   },
   {
     "name": "Nicki",
     "query": "Nicki",
-    "rank": 9,
-    "tweet_count": "243K Tweets"
+    "rank": 10,
+    "tweet_count": "245K Tweets"
   },
   {
     "name": "Thobile",
     "query": "Thobile",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "SA Hip Hop",
     "query": "\"SA Hip Hop\"",
-    "rank": 11,
-    "tweet_count": "2,021 Tweets"
+    "rank": 12,
+    "tweet_count": "2,060 Tweets"
   },
   {
     "name": "Malema",
     "query": "Malema",
-    "rank": 12,
-    "tweet_count": "20.4K Tweets"
+    "rank": 13,
+    "tweet_count": "20.6K Tweets"
   },
   {
     "name": "Hlaudi",
     "query": "Hlaudi",
-    "rank": 13,
-    "tweet_count": "8,798 Tweets"
-  },
-  {
-    "name": "#soon2",
-    "query": "#soon2",
     "rank": 14,
-    "tweet_count": null
+    "tweet_count": "8,967 Tweets"
   },
   {
-    "name": "#NedbankCup2022",
-    "query": "#NedbankCup2022",
+    "name": "#nedbankcup2022",
+    "query": "#nedbankcup2022",
     "rank": 15,
     "tweet_count": null
   },
@@ -96,8 +96,8 @@
     "tweet_count": null
   },
   {
-    "name": "#ThomasAndSkhumba",
-    "query": "#ThomasAndSkhumba",
+    "name": "#thomasandskhumba",
+    "query": "#thomasandskhumba",
     "rank": 17,
     "tweet_count": null
   },
@@ -111,6 +111,12 @@
     "name": "#powerbreakfast",
     "query": "#powerbreakfast",
     "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "#SOON2",
+    "query": "#SOON2",
+    "rank": 20,
     "tweet_count": null
   }
 ]
