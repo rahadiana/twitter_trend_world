@@ -1,15 +1,15 @@
 [
   {
-    "name": "Benfica",
-    "query": "Benfica",
-    "rank": 1,
-    "tweet_count": "16.8K Tweets"
-  },
-  {
     "name": "Florida",
     "query": "Florida",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "130K Tweets"
+  },
+  {
+    "name": "Benfica",
+    "query": "Benfica",
+    "rank": 2,
+    "tweet_count": "16.9K Tweets"
   },
   {
     "name": "hyuna",
@@ -21,13 +21,13 @@
     "name": "Rui Costa",
     "query": "\"Rui Costa\"",
     "rank": 4,
-    "tweet_count": "4,133 Tweets"
+    "tweet_count": "4,158 Tweets"
   },
   {
     "name": "andré almeida",
     "query": "\"andré almeida\"",
     "rank": 5,
-    "tweet_count": "1,101 Tweets"
+    "tweet_count": "1,107 Tweets"
   },
   {
     "name": "Gil Vicente",
@@ -45,7 +45,7 @@
     "name": "Burke",
     "query": "Burke",
     "rank": 8,
-    "tweet_count": "4,862 Tweets"
+    "tweet_count": "4,879 Tweets"
   },
   {
     "name": "Quinaz",
@@ -57,7 +57,7 @@
     "name": "Mafalda",
     "query": "Mafalda",
     "rank": 10,
-    "tweet_count": "2,302 Tweets"
+    "tweet_count": "2,314 Tweets"
   },
   {
     "name": "Rita Matias",
@@ -75,13 +75,13 @@
     "name": "Nelson",
     "query": "Nelson",
     "rank": 13,
-    "tweet_count": "22.3K Tweets"
+    "tweet_count": "22.4K Tweets"
   },
   {
     "name": "Veríssimo",
     "query": "Veríssimo",
     "rank": 14,
-    "tweet_count": "1,911 Tweets"
+    "tweet_count": "1,925 Tweets"
   },
   {
     "name": "LAURO ANTÓNIO",
@@ -99,24 +99,24 @@
     "name": "Eduardo",
     "query": "Eduardo",
     "rank": 17,
-    "tweet_count": "32K Tweets"
+    "tweet_count": "32.2K Tweets"
   },
   {
     "name": "Nicki",
     "query": "Nicki",
     "rank": 18,
-    "tweet_count": "254K Tweets"
+    "tweet_count": "255K Tweets"
   },
   {
     "name": "Camarões",
     "query": "Camarões",
     "rank": 19,
-    "tweet_count": "2,957 Tweets"
+    "tweet_count": "2,962 Tweets"
   },
   {
-    "name": "Isco",
-    "query": "Isco",
+    "name": "Pacheco de Amorim",
+    "query": "\"Pacheco de Amorim\"",
     "rank": 20,
-    "tweet_count": "19.4K Tweets"
+    "tweet_count": null
   }
 ]
