@@ -1,25 +1,25 @@
 [
   {
-    "name": "Frölunda",
-    "query": "Frölunda",
-    "rank": 1,
-    "tweet_count": "1,249 Tweets"
-  },
-  {
     "name": "#aldrigiPH",
     "query": "#aldrigiPH",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "#påspåret",
     "query": "#påspåret",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "Skål",
-    "query": "Skål",
+    "name": "Frölunda",
+    "query": "Frölunda",
+    "rank": 3,
+    "tweet_count": "1,259 Tweets"
+  },
+  {
+    "name": "Ullström",
+    "query": "Ullström",
     "rank": 4,
     "tweet_count": null
   },
@@ -30,8 +30,8 @@
     "tweet_count": null
   },
   {
-    "name": "Ullström",
-    "query": "Ullström",
+    "name": "Skål",
+    "query": "Skål",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,16 +42,16 @@
     "tweet_count": null
   },
   {
-    "name": "hyuna",
-    "query": "hyuna",
+    "name": "Hiss",
+    "query": "Hiss",
     "rank": 8,
-    "tweet_count": "68K Tweets"
+    "tweet_count": "2,310 Tweets"
   },
   {
-    "name": "Kamerun",
-    "query": "Kamerun",
+    "name": "hyuna",
+    "query": "hyuna",
     "rank": 9,
-    "tweet_count": "1,794 Tweets"
+    "tweet_count": "68.2K Tweets"
   },
   {
     "name": "#GONINJAS",
@@ -60,40 +60,40 @@
     "tweet_count": null
   },
   {
+    "name": "Kamerun",
+    "query": "Kamerun",
+    "rank": 11,
+    "tweet_count": "1,799 Tweets"
+  },
+  {
     "name": "Trevlig",
     "query": "Trevlig",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "GTA 6",
-    "query": "\"GTA 6\"",
     "rank": 12,
-    "tweet_count": "62.3K Tweets"
-  },
-  {
-    "name": "#OS2022",
-    "query": "#OS2022",
-    "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "Edvardsen",
-    "query": "Edvardsen",
-    "rank": 14,
+    "name": "#HV71",
+    "query": "#HV71",
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Grattis Maria",
     "query": "\"Grattis Maria\"",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Sabuni",
     "query": "Sabuni",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
+  },
+  {
+    "name": "GTA 6",
+    "query": "\"GTA 6\"",
+    "rank": 16,
+    "tweet_count": "15K Tweets"
   },
   {
     "name": "Plejd",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "Göteborg",
-    "query": "Göteborg",
+    "name": "göteborg",
+    "query": "göteborg",
     "rank": 18,
-    "tweet_count": "1,123 Tweets"
+    "tweet_count": "1,136 Tweets"
   },
   {
-    "name": "Mjällby",
-    "query": "Mjällby",
+    "name": "Edvardsen",
+    "query": "Edvardsen",
     "rank": 19,
-    "tweet_count": "1,412 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Northvolt",
-    "query": "Northvolt",
+    "name": "Marbella",
+    "query": "Marbella",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "1,653 Tweets"
   }
 ]
