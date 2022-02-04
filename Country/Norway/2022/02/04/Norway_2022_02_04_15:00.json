@@ -1,9 +1,9 @@
 [
   {
-    "name": "Stoltenberg",
-    "query": "Stoltenberg",
+    "name": "stoltenberg",
+    "query": "stoltenberg",
     "rank": 1,
-    "tweet_count": "5,411 Tweets"
+    "tweet_count": "5,479 Tweets"
   },
   {
     "name": "#sentralbanksjef",
@@ -42,14 +42,14 @@
     "tweet_count": null
   },
   {
-    "name": "Sveits",
-    "query": "Sveits",
+    "name": "Rotevatn",
+    "query": "Rotevatn",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Rotevatn",
-    "query": "Rotevatn",
+    "name": "sveits",
+    "query": "sveits",
     "rank": 9,
     "tweet_count": null
   },
@@ -63,7 +63,7 @@
     "name": "Odds",
     "query": "Odds",
     "rank": 11,
-    "tweet_count": "45K Tweets"
+    "tweet_count": "45.4K Tweets"
   },
   {
     "name": "#debatten",
@@ -72,26 +72,26 @@
     "tweet_count": null
   },
   {
-    "name": "dæhlie",
-    "query": "dæhlie",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
     "name": "Egypt",
     "query": "Egypt",
-    "rank": 14,
-    "tweet_count": "149K Tweets"
+    "rank": 13,
+    "tweet_count": "150K Tweets"
   },
   {
-    "name": "Gutteklubben Grei",
-    "query": "\"Gutteklubben Grei\"",
-    "rank": 15,
+    "name": "Dæhlie",
+    "query": "Dæhlie",
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Finansdepartementet",
     "query": "Finansdepartementet",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Sognsvann",
+    "query": "Sognsvann",
     "rank": 16,
     "tweet_count": null
   },
@@ -99,24 +99,24 @@
     "name": "NATO",
     "query": "NATO",
     "rank": 17,
-    "tweet_count": "150K Tweets"
-  },
-  {
-    "name": "Sognsvann",
-    "query": "Sognsvann",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "151K Tweets"
   },
   {
     "name": "#AFCON2021",
     "query": "#AFCON2021",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": "122K Tweets"
   },
   {
     "name": "hyuna",
     "query": "hyuna",
+    "rank": 19,
+    "tweet_count": "118K Tweets"
+  },
+  {
+    "name": "Gutteklubben Grei",
+    "query": "\"Gutteklubben Grei\"",
     "rank": 20,
-    "tweet_count": "117K Tweets"
+    "tweet_count": null
   }
 ]
