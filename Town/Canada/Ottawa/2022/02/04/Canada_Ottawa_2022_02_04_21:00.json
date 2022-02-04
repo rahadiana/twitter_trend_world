@@ -1,45 +1,45 @@
 [
   {
+    "name": "Olympics",
+    "query": "Olympics",
+    "rank": 1,
+    "tweet_count": "340K Tweets"
+  },
+  {
     "name": "NACI",
     "query": "NACI",
-    "rank": 1,
-    "tweet_count": "25K Tweets"
+    "rank": 2,
+    "tweet_count": "25.3K Tweets"
   },
   {
     "name": "#FreedomConvoy",
     "query": "#FreedomConvoy",
-    "rank": 2,
-    "tweet_count": "17.4K Tweets"
+    "rank": 3,
+    "tweet_count": "17.5K Tweets"
   },
   {
     "name": "University",
     "query": "University",
-    "rank": 3,
-    "tweet_count": "167K Tweets"
-  },
-  {
-    "name": "Winter Olympics",
-    "query": "\"Winter Olympics\"",
     "rank": 4,
-    "tweet_count": "116K Tweets"
+    "tweet_count": "169K Tweets"
   },
   {
     "name": "#freecodefridaycontest",
     "query": "#freecodefridaycontest",
     "rank": 5,
-    "tweet_count": "5,525 Tweets"
+    "tweet_count": "5,907 Tweets"
   },
   {
     "name": "Clippers",
     "query": "Clippers",
     "rank": 6,
-    "tweet_count": "52.8K Tweets"
+    "tweet_count": "53.4K Tweets"
   },
   {
-    "name": "Kawhi",
-    "query": "Kawhi",
+    "name": "Clippers",
+    "query": "Clippers",
     "rank": 7,
-    "tweet_count": "12.9K Tweets"
+    "tweet_count": "53.4K Tweets"
   },
   {
     "name": "#CHAllStar",
@@ -48,75 +48,75 @@
     "tweet_count": null
   },
   {
-    "name": "Ronaldo",
-    "query": "Ronaldo",
+    "name": "#MUNMID",
+    "query": "#MUNMID",
     "rank": 9,
-    "tweet_count": "110K Tweets"
+    "tweet_count": "12.9K Tweets"
   },
   {
-    "name": "Sancho",
-    "query": "Sancho",
+    "name": "Rashford",
+    "query": "Rashford",
     "rank": 10,
-    "tweet_count": "26.6K Tweets"
+    "tweet_count": "18.2K Tweets"
   },
   {
     "name": "Navigator",
     "query": "Navigator",
     "rank": 11,
-    "tweet_count": "2,515 Tweets"
-  },
-  {
-    "name": "Rashford",
-    "query": "Rashford",
-    "rank": 12,
-    "tweet_count": "16.2K Tweets"
+    "tweet_count": "2,582 Tweets"
   },
   {
     "name": "Pence",
     "query": "Pence",
+    "rank": 12,
+    "tweet_count": "59K Tweets"
+  },
+  {
+    "name": "Portland",
+    "query": "Portland",
     "rank": 13,
-    "tweet_count": "52.1K Tweets"
+    "tweet_count": "22.6K Tweets"
+  },
+  {
+    "name": "Dame",
+    "query": "Dame",
+    "rank": 14,
+    "tweet_count": "58.4K Tweets"
   },
   {
     "name": "#WorldCancerDay",
     "query": "#WorldCancerDay",
-    "rank": 14,
-    "tweet_count": "171K Tweets"
+    "rank": 15,
+    "tweet_count": "172K Tweets"
   },
   {
     "name": "Kanye",
     "query": "Kanye",
-    "rank": 15,
-    "tweet_count": "80.3K Tweets"
+    "rank": 16,
+    "tweet_count": "82.4K Tweets"
   },
   {
     "name": "2019 Raptors",
     "query": "\"2019 Raptors\"",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "GTA 6",
     "query": "\"GTA 6\"",
-    "rank": 17,
-    "tweet_count": "18K Tweets"
-  },
-  {
-    "name": "Joe West",
-    "query": "\"Joe West\"",
     "rank": 18,
-    "tweet_count": "6,341 Tweets"
+    "tweet_count": "75.6K Tweets"
   },
   {
     "name": "Charlottesville",
     "query": "Charlottesville",
     "rank": 19,
-    "tweet_count": "1,129 Tweets"
+    "tweet_count": "1,141 Tweets"
   },
   {
-    "name": "Chiarelli",
-    "query": "Chiarelli",
+    "name": "Joe West",
+    "query": "\"Joe West\"",
     "rank": 20,
-    "tweet_count": "1,055 Tweets"
+    "tweet_count": "6,472 Tweets"
   }
 ]
