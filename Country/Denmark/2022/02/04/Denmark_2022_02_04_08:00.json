@@ -1,21 +1,21 @@
 [
   {
-    "name": "#Olympics",
-    "query": "#Olympics",
-    "rank": 1,
-    "tweet_count": "25.2K Tweets"
-  },
-  {
     "name": "Benny",
     "query": "Benny",
+    "rank": 1,
+    "tweet_count": "36K Tweets"
+  },
+  {
+    "name": "#Olympics",
+    "query": "#Olympics",
     "rank": 2,
-    "tweet_count": "35.4K Tweets"
+    "tweet_count": "25.8K Tweets"
   },
   {
     "name": "Enhedslisten",
     "query": "Enhedslisten",
     "rank": 3,
-    "tweet_count": "1,172 Tweets"
+    "tweet_count": "1,190 Tweets"
   },
   {
     "name": "#oldk",
@@ -30,16 +30,16 @@
     "tweet_count": null
   },
   {
-    "name": "Folketinget",
-    "query": "Folketinget",
+    "name": "folketinget",
+    "query": "folketinget",
     "rank": 6,
     "tweet_count": null
   },
   {
-    "name": "friis",
-    "query": "friis",
+    "name": "#dkpol",
+    "query": "#dkpol",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "4,304 Tweets"
   },
   {
     "name": "Bødskov",
@@ -48,38 +48,38 @@
     "tweet_count": null
   },
   {
-    "name": "Debatten",
-    "query": "Debatten",
+    "name": "friis",
+    "query": "friis",
     "rank": 9,
-    "tweet_count": "1,487 Tweets"
-  },
-  {
-    "name": "#dkpol",
-    "query": "#dkpol",
-    "rank": 10,
-    "tweet_count": "4,209 Tweets"
-  },
-  {
-    "name": "#dkmedier",
-    "query": "#dkmedier",
-    "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "stoklund",
-    "query": "stoklund",
-    "rank": 12,
+    "name": "CEPOS",
+    "query": "CEPOS",
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Kina",
     "query": "Kina",
-    "rank": 13,
-    "tweet_count": "11.1K Tweets"
+    "rank": 11,
+    "tweet_count": "11.4K Tweets"
   },
   {
-    "name": "CEPOS",
-    "query": "CEPOS",
+    "name": "Debatten",
+    "query": "Debatten",
+    "rank": 12,
+    "tweet_count": "1,529 Tweets"
+  },
+  {
+    "name": "#dkmedier",
+    "query": "#dkmedier",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "stoklund",
+    "query": "stoklund",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,35 +87,35 @@
     "name": "Jack",
     "query": "Jack",
     "rank": 15,
-    "tweet_count": "147K Tweets"
+    "tweet_count": "148K Tweets"
   },
   {
     "name": "Konservative",
     "query": "Konservative",
     "rank": 16,
-    "tweet_count": "1,134 Tweets"
+    "tweet_count": "1,149 Tweets"
+  },
+  {
+    "name": "Bitcoin",
+    "query": "Bitcoin",
+    "rank": 17,
+    "tweet_count": "418K Tweets"
   },
   {
     "name": "Tommy",
     "query": "Tommy",
-    "rank": 17,
-    "tweet_count": "66.3K Tweets"
+    "rank": 18,
+    "tweet_count": "66.8K Tweets"
   },
   {
     "name": "hyuna",
     "query": "hyuna",
-    "rank": 18,
-    "tweet_count": "177K Tweets"
+    "rank": 19,
+    "tweet_count": "178K Tweets"
   },
   {
     "name": "Bramsen",
     "query": "Bramsen",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "støjberg",
-    "query": "støjberg",
     "rank": 20,
     "tweet_count": null
   }
