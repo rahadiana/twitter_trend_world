@@ -1,15 +1,15 @@
 [
   {
-    "name": "#GNTM",
-    "query": "#GNTM",
-    "rank": 1,
-    "tweet_count": "29.7K Tweets"
-  },
-  {
     "name": "#WirWerdenLaut",
     "query": "#WirWerdenLaut",
+    "rank": 1,
+    "tweet_count": "12.2K Tweets"
+  },
+  {
+    "name": "#GNTM",
+    "query": "#GNTM",
     "rank": 2,
-    "tweet_count": "12.1K Tweets"
+    "tweet_count": "29.8K Tweets"
   },
   {
     "name": "#Weltkrebstag",
@@ -21,13 +21,13 @@
     "name": "Ayato",
     "query": "Ayato",
     "rank": 4,
-    "tweet_count": "67.6K Tweets"
+    "tweet_count": "83.4K Tweets"
   },
   {
-    "name": "Frank Zander",
-    "query": "\"Frank Zander\"",
+    "name": "#WorldCancerDay",
+    "query": "#WorldCancerDay",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "77.9K Tweets"
   },
   {
     "name": "Start ins Wochenende",
@@ -36,64 +36,64 @@
     "tweet_count": null
   },
   {
-    "name": "#A100",
-    "query": "#A100",
+    "name": "Frank Zander",
+    "query": "\"Frank Zander\"",
     "rank": 7,
     "tweet_count": null
   },
   {
-    "name": "#SolidaritaetMitDrosten",
-    "query": "#SolidaritaetMitDrosten",
+    "name": "#ZweiVonUns",
+    "query": "#ZweiVonUns",
     "rank": 8,
-    "tweet_count": "5,199 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Schönen Freitag",
-    "query": "\"Schönen Freitag\"",
+    "name": "schönen freitag",
+    "query": "\"schönen freitag\"",
     "rank": 9,
-    "tweet_count": "1,462 Tweets"
+    "tweet_count": "1,492 Tweets"
   },
   {
     "name": "Vitamin D",
     "query": "\"Vitamin D\"",
     "rank": 10,
-    "tweet_count": "17.4K Tweets"
+    "tweet_count": "17.6K Tweets"
   },
   {
     "name": "Staatsfunk",
     "query": "Staatsfunk",
     "rank": 11,
-    "tweet_count": "1,847 Tweets"
+    "tweet_count": "1,887 Tweets"
   },
   {
     "name": "Sportler",
     "query": "Sportler",
     "rank": 12,
-    "tweet_count": "2,634 Tweets"
+    "tweet_count": "2,660 Tweets"
   },
   {
     "name": "Brücke",
     "query": "Brücke",
     "rank": 13,
-    "tweet_count": "1,464 Tweets"
+    "tweet_count": "1,488 Tweets"
   },
   {
-    "name": "#WorldCancerDay",
-    "query": "#WorldCancerDay",
+    "name": "#A100",
+    "query": "#A100",
     "rank": 14,
-    "tweet_count": "75.5K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "#SolidaritaetMitDrosten",
+    "query": "#SolidaritaetMitDrosten",
+    "rank": 15,
+    "tweet_count": "5,266 Tweets"
   },
   {
     "name": "#Telegram",
     "query": "#Telegram",
-    "rank": 15,
-    "tweet_count": "7,830 Tweets"
-  },
-  {
-    "name": "#ZweiVonUns",
-    "query": "#ZweiVonUns",
     "rank": 16,
-    "tweet_count": null
+    "tweet_count": "7,892 Tweets"
   },
   {
     "name": "#Schweigeminute",
@@ -105,18 +105,18 @@
     "name": "#Olympics",
     "query": "#Olympics",
     "rank": 18,
-    "tweet_count": "26.4K Tweets"
-  },
-  {
-    "name": "#Beijing2022",
-    "query": "#Beijing2022",
-    "rank": 19,
-    "tweet_count": "143K Tweets"
+    "tweet_count": "26.6K Tweets"
   },
   {
     "name": "#Olympia",
     "query": "#Olympia",
+    "rank": 19,
+    "tweet_count": "1,278 Tweets"
+  },
+  {
+    "name": "#Peking2022",
+    "query": "#Peking2022",
     "rank": 20,
-    "tweet_count": "1,262 Tweets"
+    "tweet_count": "1,182 Tweets"
   }
 ]
