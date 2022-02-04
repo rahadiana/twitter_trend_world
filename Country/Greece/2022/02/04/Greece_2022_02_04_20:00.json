@@ -1,15 +1,15 @@
 [
   {
-    "name": "#καταπληκτικη_ποιοτητα_ζωης",
-    "query": "#καταπληκτικη_ποιοτητα_ζωης",
-    "rank": 1,
-    "tweet_count": "23.5K Tweets"
-  },
-  {
     "name": "#OiAparadektoi",
     "query": "#OiAparadektoi",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#καταπληκτικη_ποιοτητα_ζωης",
+    "query": "#καταπληκτικη_ποιοτητα_ζωης",
+    "rank": 2,
+    "tweet_count": "23.9K Tweets"
   },
   {
     "name": "#SympetheroiApTaTirana",
@@ -48,46 +48,46 @@
     "tweet_count": null
   },
   {
-    "name": "παγκοσμια ημερα",
-    "query": "\"παγκοσμια ημερα\"",
+    "name": "καρκινου",
+    "query": "καρκινου",
     "rank": 9,
-    "tweet_count": "2,378 Tweets"
-  },
-  {
-    "name": "Καρκινου",
-    "query": "Καρκινου",
-    "rank": 10,
-    "tweet_count": "3,250 Tweets"
+    "tweet_count": "3,296 Tweets"
   },
   {
     "name": "Πωλινα",
     "query": "Πωλινα",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
+  },
+  {
+    "name": "Καληνυχτα",
+    "query": "Καληνυχτα",
+    "rank": 11,
+    "tweet_count": "1,357 Tweets"
+  },
+  {
+    "name": "Παγκοσμια Ημερα",
+    "query": "\"Παγκοσμια Ημερα\"",
+    "rank": 12,
+    "tweet_count": "2,411 Tweets"
   },
   {
     "name": "4 Φεβρουαριου",
     "query": "\"4 Φεβρουαριου\"",
-    "rank": 12,
-    "tweet_count": "1,620 Tweets"
+    "rank": 13,
+    "tweet_count": "1,643 Tweets"
   },
   {
     "name": "Καλλιοπη",
     "query": "Καλλιοπη",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "μηνας",
     "query": "μηνας",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "hyuna",
-    "query": "hyuna",
     "rank": 15,
-    "tweet_count": "60.9K Tweets"
+    "tweet_count": null
   },
   {
     "name": "ΕΥΔΑΠ",
@@ -111,12 +111,12 @@
     "name": "jungkook",
     "query": "jungkook",
     "rank": 19,
-    "tweet_count": "650K Tweets"
+    "tweet_count": "654K Tweets"
   },
   {
-    "name": "Αλβανος",
-    "query": "Αλβανος",
+    "name": "παρασκευης",
+    "query": "παρασκευης",
     "rank": 20,
-    "tweet_count": "1,657 Tweets"
+    "tweet_count": null
   }
 ]
