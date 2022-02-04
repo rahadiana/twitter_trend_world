@@ -1,15 +1,15 @@
 [
   {
-    "name": "Colombia",
-    "query": "Colombia",
-    "rank": 1,
-    "tweet_count": "201K Tweets"
-  },
-  {
     "name": "#combustibles",
     "query": "#combustibles",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Colombia",
+    "query": "Colombia",
+    "rank": 2,
+    "tweet_count": "203K Tweets"
   },
   {
     "name": "#NoQuiereAuditoria",
@@ -21,7 +21,7 @@
     "name": "Cáncer",
     "query": "Cáncer",
     "rank": 4,
-    "tweet_count": "598K Tweets"
+    "tweet_count": "601K Tweets"
   },
   {
     "name": "Faride",
@@ -33,7 +33,7 @@
     "name": "#ATravesDeMiVentanaNetflix",
     "query": "#ATravesDeMiVentanaNetflix",
     "rank": 6,
-    "tweet_count": "108K Tweets"
+    "tweet_count": "109K Tweets"
   },
   {
     "name": "#RDEstaCambiando",
@@ -48,26 +48,26 @@
     "tweet_count": null
   },
   {
-    "name": "Lake",
-    "query": "Lake",
+    "name": "Raúl Valdez",
+    "query": "\"Raúl Valdez\"",
     "rank": 9,
-    "tweet_count": "56.5K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "raúl valdez",
-    "query": "\"raúl valdez\"",
+    "name": "Lake",
+    "query": "Lake",
     "rank": 10,
+    "tweet_count": "57K Tweets"
+  },
+  {
+    "name": "INTRANT",
+    "query": "INTRANT",
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Tyler Alexander",
     "query": "\"Tyler Alexander\"",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "INTRANT",
-    "query": "INTRANT",
     "rank": 12,
     "tweet_count": null
   },
@@ -75,48 +75,48 @@
     "name": "Kanye",
     "query": "Kanye",
     "rank": 13,
-    "tweet_count": "89K Tweets"
+    "tweet_count": "91.5K Tweets"
   },
   {
     "name": "Navarro",
     "query": "Navarro",
     "rank": 14,
-    "tweet_count": "15.3K Tweets"
+    "tweet_count": "15.5K Tweets"
   },
   {
-    "name": "Abogados",
-    "query": "Abogados",
+    "name": "Ares",
+    "query": "Ares",
     "rank": 15,
-    "tweet_count": "17.4K Tweets"
+    "tweet_count": "46K Tweets"
   },
   {
     "name": "Hoy 4",
     "query": "\"Hoy 4\"",
     "rank": 16,
-    "tweet_count": "66.2K Tweets"
+    "tweet_count": "66.8K Tweets"
+  },
+  {
+    "name": "Abogados",
+    "query": "Abogados",
+    "rank": 17,
+    "tweet_count": "17.6K Tweets"
+  },
+  {
+    "name": "Margarita",
+    "query": "Margarita",
+    "rank": 18,
+    "tweet_count": "10.7K Tweets"
+  },
+  {
+    "name": "Raquel",
+    "query": "Raquel",
+    "rank": 19,
+    "tweet_count": "38.2K Tweets"
   },
   {
     "name": "Barranquilla",
     "query": "Barranquilla",
-    "rank": 17,
-    "tweet_count": "21.7K Tweets"
-  },
-  {
-    "name": "Pipe",
-    "query": "Pipe",
-    "rank": 18,
-    "tweet_count": "17.8K Tweets"
-  },
-  {
-    "name": "Ares",
-    "query": "Ares",
-    "rank": 19,
-    "tweet_count": "45.5K Tweets"
-  },
-  {
-    "name": "Sierra",
-    "query": "Sierra",
     "rank": 20,
-    "tweet_count": "14.7K Tweets"
+    "tweet_count": "21.8K Tweets"
   }
 ]
