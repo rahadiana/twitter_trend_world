@@ -1,7 +1,7 @@
 [
   {
-    "name": "#nacrod",
-    "query": "#nacrod",
+    "name": "#NACROD",
+    "query": "#NACROD",
     "rank": 1,
     "tweet_count": null
   },
@@ -12,28 +12,28 @@
     "tweet_count": null
   },
   {
-    "name": "Illy",
-    "query": "Illy",
-    "rank": 3,
-    "tweet_count": "1,758 Tweets"
-  },
-  {
     "name": "Proost",
     "query": "Proost",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "Illy",
+    "query": "Illy",
     "rank": 4,
+    "tweet_count": "1,805 Tweets"
+  },
+  {
+    "name": "#telGRA",
+    "query": "#telGRA",
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "#Rayan",
     "query": "#Rayan",
-    "rank": 5,
-    "tweet_count": "99.5K Tweets"
-  },
-  {
-    "name": "#telGRA",
-    "query": "#telGRA",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "101K Tweets"
   },
   {
     "name": "#zeiklozevrijdagavond",
@@ -51,13 +51,13 @@
     "name": "Thuis",
     "query": "Thuis",
     "rank": 9,
-    "tweet_count": "4,959 Tweets"
+    "tweet_count": "5,012 Tweets"
   },
   {
     "name": "Gezondheidsraad",
     "query": "Gezondheidsraad",
     "rank": 10,
-    "tweet_count": "4,660 Tweets"
+    "tweet_count": "4,710 Tweets"
   },
   {
     "name": "Oeigoeren",
@@ -69,7 +69,7 @@
     "name": "jungkook",
     "query": "jungkook",
     "rank": 12,
-    "tweet_count": "647K Tweets"
+    "tweet_count": "650K Tweets"
   },
   {
     "name": "#emmtop",
@@ -78,20 +78,20 @@
     "tweet_count": null
   },
   {
+    "name": "#NACpraat",
+    "query": "#NACpraat",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
     "name": "#doralm",
     "query": "#doralm",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "#LangLeveDeLiefde",
     "query": "#LangLeveDeLiefde",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "#NACpraat",
-    "query": "#NACpraat",
     "rank": 16,
     "tweet_count": null
   },
@@ -99,24 +99,24 @@
     "name": "#terugvolgvrijdag",
     "query": "#terugvolgvrijdag",
     "rank": 17,
-    "tweet_count": "4,420 Tweets"
+    "tweet_count": "4,448 Tweets"
   },
   {
     "name": "#FirstDates",
     "query": "#FirstDates",
     "rank": 18,
-    "tweet_count": "1,329 Tweets"
+    "tweet_count": "1,331 Tweets"
+  },
+  {
+    "name": "#QRWeigeraar",
+    "query": "#QRWeigeraar",
+    "rank": 19,
+    "tweet_count": null
   },
   {
     "name": "#wereldkankerdag",
     "query": "#wereldkankerdag",
-    "rank": 19,
-    "tweet_count": "1,564 Tweets"
-  },
-  {
-    "name": "#overwaarde",
-    "query": "#overwaarde",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "1,576 Tweets"
   }
 ]

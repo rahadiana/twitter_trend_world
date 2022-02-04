@@ -6,8 +6,8 @@
     "tweet_count": null
   },
   {
-    "name": "#nacrod",
-    "query": "#nacrod",
+    "name": "#NACROD",
+    "query": "#NACROD",
     "rank": 2,
     "tweet_count": null
   },
@@ -18,22 +18,22 @@
     "tweet_count": null
   },
   {
-    "name": "Illy",
-    "query": "Illy",
-    "rank": 4,
-    "tweet_count": "1,748 Tweets"
-  },
-  {
     "name": "Proost",
     "query": "Proost",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "Illy",
+    "query": "Illy",
+    "rank": 5,
+    "tweet_count": "1,805 Tweets"
   },
   {
     "name": "#Rayan",
     "query": "#Rayan",
     "rank": 6,
-    "tweet_count": "99.5K Tweets"
+    "tweet_count": "101K Tweets"
   },
   {
     "name": "Volt",
@@ -45,13 +45,13 @@
     "name": "Thuis",
     "query": "Thuis",
     "rank": 8,
-    "tweet_count": "4,950 Tweets"
+    "tweet_count": "5,007 Tweets"
   },
   {
     "name": "Gezondheidsraad",
     "query": "Gezondheidsraad",
     "rank": 9,
-    "tweet_count": "4,651 Tweets"
+    "tweet_count": "4,698 Tweets"
   },
   {
     "name": "Oeigoeren",
@@ -63,17 +63,17 @@
     "name": "jungkook",
     "query": "jungkook",
     "rank": 11,
-    "tweet_count": "647K Tweets"
-  },
-  {
-    "name": "#telGRA",
-    "query": "#telGRA",
-    "rank": 12,
-    "tweet_count": null
+    "tweet_count": "650K Tweets"
   },
   {
     "name": "#zeiklozevrijdagavond",
     "query": "#zeiklozevrijdagavond",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "#telGRA",
+    "query": "#telGRA",
     "rank": 13,
     "tweet_count": null
   },
@@ -90,14 +90,14 @@
     "tweet_count": null
   },
   {
-    "name": "#LangLeveDeLiefde",
-    "query": "#LangLeveDeLiefde",
+    "name": "#NACpraat",
+    "query": "#NACpraat",
     "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "#NACpraat",
-    "query": "#NACpraat",
+    "name": "#LangLeveDeLiefde",
+    "query": "#LangLeveDeLiefde",
     "rank": 17,
     "tweet_count": null
   },
@@ -105,12 +105,12 @@
     "name": "#terugvolgvrijdag",
     "query": "#terugvolgvrijdag",
     "rank": 18,
-    "tweet_count": "4,415 Tweets"
+    "tweet_count": "4,447 Tweets"
   },
   {
     "name": "#FirstDates",
     "query": "#FirstDates",
     "rank": 19,
-    "tweet_count": "1,329 Tweets"
+    "tweet_count": "1,331 Tweets"
   }
 ]
