@@ -1,37 +1,37 @@
 [
   {
-    "name": "Giovanni",
-    "query": "Giovanni",
-    "rank": 1,
-    "tweet_count": "16.3K Tweets"
-  },
-  {
     "name": "Adriano",
     "query": "Adriano",
-    "rank": 2,
-    "tweet_count": "5,239 Tweets"
-  },
-  {
-    "name": "Maicon",
-    "query": "Maicon",
-    "rank": 3,
-    "tweet_count": "1,990 Tweets"
+    "rank": 1,
+    "tweet_count": "5,319 Tweets"
   },
   {
     "name": "João Paulo",
     "query": "\"João Paulo\"",
-    "rank": 4,
-    "tweet_count": "1,407 Tweets"
-  },
-  {
-    "name": "Fábio",
-    "query": "Fábio",
-    "rank": 5,
-    "tweet_count": "20.4K Tweets"
+    "rank": 2,
+    "tweet_count": "1,458 Tweets"
   },
   {
     "name": "Geovane",
     "query": "Geovane",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "Fábio",
+    "query": "Fábio",
+    "rank": 4,
+    "tweet_count": "20.6K Tweets"
+  },
+  {
+    "name": "Poços de Caldas",
+    "query": "\"Poços de Caldas\"",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "Matheus Silva",
+    "query": "\"Matheus Silva\"",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,81 +42,81 @@
     "tweet_count": null
   },
   {
-    "name": "Matheus Silva",
-    "query": "\"Matheus Silva\"",
+    "name": "Ronaldão",
+    "query": "Ronaldão",
     "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "Poços de Caldas",
-    "query": "\"Poços de Caldas\"",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Vamos Cruzeiro",
-    "query": "\"Vamos Cruzeiro\"",
-    "rank": 10,
-    "tweet_count": "2,785 Tweets"
+    "tweet_count": "1,023 Tweets"
   },
   {
     "name": "Ganso",
     "query": "Ganso",
-    "rank": 11,
-    "tweet_count": "4,538 Tweets"
+    "rank": 9,
+    "tweet_count": "4,568 Tweets"
   },
   {
     "name": "pism",
     "query": "pism",
-    "rank": 12,
-    "tweet_count": "2,278 Tweets"
-  },
-  {
-    "name": "#DiaDeCruzeiro",
-    "query": "#DiaDeCruzeiro",
-    "rank": 13,
-    "tweet_count": "1,114 Tweets"
+    "rank": 10,
+    "tweet_count": "2,323 Tweets"
   },
   {
     "name": "34 X",
     "query": "\"34 X\"",
-    "rank": 14,
-    "tweet_count": "9,290 Tweets"
-  },
-  {
-    "name": "#neyday",
-    "query": "#neyday",
-    "rank": 15,
-    "tweet_count": "9,157 Tweets"
+    "rank": 11,
+    "tweet_count": "9,341 Tweets"
   },
   {
     "name": "Cristiano Ronaldo",
     "query": "\"Cristiano Ronaldo\"",
-    "rank": 16,
-    "tweet_count": "190K Tweets"
+    "rank": 12,
+    "tweet_count": "191K Tweets"
   },
   {
     "name": "Chelsea",
     "query": "Chelsea",
-    "rank": 17,
+    "rank": 13,
     "tweet_count": "138K Tweets"
+  },
+  {
+    "name": "Cruzeiro",
+    "query": "Cruzeiro",
+    "rank": 14,
+    "tweet_count": "47.7K Tweets"
   },
   {
     "name": "Heitor",
     "query": "Heitor",
-    "rank": 18,
-    "tweet_count": "10.8K Tweets"
+    "rank": 15,
+    "tweet_count": "11.4K Tweets"
   },
   {
     "name": "#Caldeirao",
     "query": "#Caldeirao",
-    "rank": 19,
-    "tweet_count": "5,695 Tweets"
+    "rank": 16,
+    "tweet_count": "5,888 Tweets"
   },
   {
     "name": "Ypiranga",
     "query": "Ypiranga",
+    "rank": 17,
+    "tweet_count": "6,084 Tweets"
+  },
+  {
+    "name": "Dourado",
+    "query": "Dourado",
+    "rank": 18,
+    "tweet_count": "15.5K Tweets"
+  },
+  {
+    "name": "Paulo Ricardo",
+    "query": "\"Paulo Ricardo\"",
+    "rank": 19,
+    "tweet_count": "1,715 Tweets"
+  },
+  {
+    "name": "Rafael Santos",
+    "query": "\"Rafael Santos\"",
     "rank": 20,
-    "tweet_count": "5,449 Tweets"
+    "tweet_count": "1,847 Tweets"
   }
 ]
