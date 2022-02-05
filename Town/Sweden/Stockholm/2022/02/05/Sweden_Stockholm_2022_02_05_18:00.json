@@ -1,27 +1,27 @@
 [
   {
+    "name": "Giroud",
+    "query": "Giroud",
+    "rank": 1,
+    "tweet_count": "21.9K Tweets"
+  },
+  {
     "name": "#OS2022",
     "query": "#OS2022",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Johaug",
     "query": "Johaug",
-    "rank": 2,
-    "tweet_count": "3,825 Tweets"
+    "rank": 3,
+    "tweet_count": "3,836 Tweets"
   },
   {
     "name": "Walter Wallberg",
     "query": "\"Walter Wallberg\"",
-    "rank": 3,
-    "tweet_count": "1,177 Tweets"
-  },
-  {
-    "name": "Milan",
-    "query": "Milan",
     "rank": 4,
-    "tweet_count": "60.8K Tweets"
+    "tweet_count": "1,184 Tweets"
   },
   {
     "name": "#vkongress",
@@ -33,7 +33,7 @@
     "name": "Frida",
     "query": "Frida",
     "rank": 6,
-    "tweet_count": "7,404 Tweets"
+    "tweet_count": "7,484 Tweets"
   },
   {
     "name": "OS-guld",
@@ -42,20 +42,20 @@
     "tweet_count": null
   },
   {
-    "name": "Elanga",
-    "query": "Elanga",
+    "name": "#Melfest",
+    "query": "#Melfest",
     "rank": 8,
-    "tweet_count": "87.5K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#Beijing2022",
-    "query": "#Beijing2022",
+    "name": "#MUNMID",
+    "query": "#MUNMID",
     "rank": 9,
-    "tweet_count": "169K Tweets"
+    "tweet_count": "49.7K Tweets"
   },
   {
-    "name": "#os22se",
-    "query": "#os22se",
+    "name": "#melodifestivalen",
+    "query": "#melodifestivalen",
     "rank": 10,
     "tweet_count": null
   },
@@ -63,11 +63,11 @@
     "name": "Plymouth",
     "query": "Plymouth",
     "rank": 11,
-    "tweet_count": "45.1K Tweets"
+    "tweet_count": "45.3K Tweets"
   },
   {
-    "name": "#lufwest22",
-    "query": "#lufwest22",
+    "name": "Örjan",
+    "query": "Örjan",
     "rank": 12,
     "tweet_count": null
   },
@@ -78,10 +78,10 @@
     "tweet_count": null
   },
   {
-    "name": "Örjan",
-    "query": "Örjan",
+    "name": "Mello",
+    "query": "Mello",
     "rank": 14,
-    "tweet_count": null
+    "tweet_count": "32.2K Tweets"
   },
   {
     "name": "på spåret",
@@ -90,32 +90,32 @@
     "tweet_count": null
   },
   {
-    "name": "Mello",
-    "query": "Mello",
-    "rank": 16,
-    "tweet_count": "32.1K Tweets"
-  },
-  {
     "name": "Lukaku",
     "query": "Lukaku",
-    "rank": 17,
-    "tweet_count": "54.1K Tweets"
+    "rank": 16,
+    "tweet_count": "55.1K Tweets"
   },
   {
-    "name": "hans fahlén",
-    "query": "\"hans fahlén\"",
-    "rank": 18,
+    "name": "Hans Fahlén",
+    "query": "\"Hans Fahlén\"",
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Kidderminster",
     "query": "Kidderminster",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": "21.9K Tweets"
   },
   {
     "name": "Ulf Brunnberg",
     "query": "\"Ulf Brunnberg\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "puckelpist",
+    "query": "puckelpist",
     "rank": 20,
     "tweet_count": null
   }
