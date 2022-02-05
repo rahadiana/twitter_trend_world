@@ -1,27 +1,27 @@
 [
   {
-    "name": "Chilean Premier League",
-    "query": "\"Chilean Premier League\"",
-    "rank": 1,
-    "tweet_count": "1,586 Tweets"
-  },
-  {
     "name": "#ifelaboral",
     "query": "#ifelaboral",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "Clínica Las Condes",
-    "query": "\"Clínica Las Condes\"",
-    "rank": 3,
-    "tweet_count": "18.2K Tweets"
+    "name": "clínica las condes",
+    "query": "\"clínica las condes\"",
+    "rank": 2,
+    "tweet_count": "18.3K Tweets"
   },
   {
     "name": "#StayAlive_CHAKHO",
     "query": "#StayAlive_CHAKHO",
+    "rank": 3,
+    "tweet_count": "248K Tweets"
+  },
+  {
+    "name": "Tabilo",
+    "query": "Tabilo",
     "rank": 4,
-    "tweet_count": "214K Tweets"
+    "tweet_count": "1,883 Tweets"
   },
   {
     "name": "#OHISERxTNTSports",
@@ -33,31 +33,31 @@
     "name": "Fuente Alemana",
     "query": "\"Fuente Alemana\"",
     "rank": 6,
-    "tweet_count": "3,840 Tweets"
+    "tweet_count": "4,151 Tweets"
   },
   {
-    "name": "#TNTSportsDance",
-    "query": "#TNTSportsDance",
+    "name": "#ElDiscipuloCHV",
+    "query": "#ElDiscipuloCHV",
     "rank": 7,
     "tweet_count": null
   },
   {
-    "name": "O'Higgins",
-    "query": "O'Higgins",
-    "rank": 8,
-    "tweet_count": "1,676 Tweets"
-  },
-  {
     "name": "La Serena",
     "query": "\"La Serena\"",
-    "rank": 9,
-    "tweet_count": "3,801 Tweets"
+    "rank": 8,
+    "tweet_count": "3,841 Tweets"
   },
   {
-    "name": "Tabilo",
-    "query": "Tabilo",
+    "name": "o'higgins",
+    "query": "o'higgins",
+    "rank": 9,
+    "tweet_count": "1,685 Tweets"
+  },
+  {
+    "name": "Báez",
+    "query": "Báez",
     "rank": 10,
-    "tweet_count": "1,168 Tweets"
+    "tweet_count": "5,480 Tweets"
   },
   {
     "name": "Basay",
@@ -69,48 +69,48 @@
     "name": "Barceló",
     "query": "Barceló",
     "rank": 12,
-    "tweet_count": "1,031 Tweets"
+    "tweet_count": "1,040 Tweets"
   },
   {
     "name": "Walker",
     "query": "Walker",
     "rank": 13,
-    "tweet_count": "58.2K Tweets"
+    "tweet_count": "58.6K Tweets"
   },
   {
-    "name": "Bad Bunny",
-    "query": "\"Bad Bunny\"",
+    "name": "Chilean Premier League",
+    "query": "\"Chilean Premier League\"",
     "rank": 14,
-    "tweet_count": "45.5K Tweets"
-  },
-  {
-    "name": "Rancagua",
-    "query": "Rancagua",
-    "rank": 15,
-    "tweet_count": "1,084 Tweets"
+    "tweet_count": "1,593 Tweets"
   },
   {
     "name": "Plan B",
     "query": "\"Plan B\"",
+    "rank": 15,
+    "tweet_count": "20.6K Tweets"
+  },
+  {
+    "name": "Rancagua",
+    "query": "Rancagua",
     "rank": 16,
-    "tweet_count": "20.4K Tweets"
+    "tweet_count": "1,110 Tweets"
   },
   {
     "name": "0 PCR",
     "query": "\"0 PCR\"",
     "rank": 17,
-    "tweet_count": "2,591 Tweets"
+    "tweet_count": "2,633 Tweets"
+  },
+  {
+    "name": "Bad Bunny",
+    "query": "\"Bad Bunny\"",
+    "rank": 18,
+    "tweet_count": "45.6K Tweets"
   },
   {
     "name": "Nimu",
     "query": "Nimu",
-    "rank": 18,
-    "tweet_count": "25.2K Tweets"
-  },
-  {
-    "name": "Cristiano",
-    "query": "Cristiano",
     "rank": 19,
-    "tweet_count": "120K Tweets"
+    "tweet_count": "25.4K Tweets"
   }
 ]
