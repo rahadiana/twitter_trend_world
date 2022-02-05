@@ -1,21 +1,21 @@
 [
   {
-    "name": "Esmu",
-    "query": "Esmu",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#ltvsupernova",
     "query": "#ltvsupernova",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "#Beijing2022",
     "query": "#Beijing2022",
+    "rank": 2,
+    "tweet_count": "181K Tweets"
+  },
+  {
+    "name": "Esmu",
+    "query": "Esmu",
     "rank": 3,
-    "tweet_count": "179K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Indexo",
@@ -51,13 +51,13 @@
     "name": "Olympics",
     "query": "Olympics",
     "rank": 9,
-    "tweet_count": "302K Tweets"
+    "tweet_count": "305K Tweets"
   },
   {
     "name": "Lidl",
     "query": "Lidl",
     "rank": 10,
-    "tweet_count": "2,358 Tweets"
+    "tweet_count": "2,397 Tweets"
   },
   {
     "name": "Interesanti",
@@ -75,41 +75,41 @@
     "name": "Ramona",
     "query": "Ramona",
     "rank": 13,
-    "tweet_count": "3,037 Tweets"
+    "tweet_count": "3,072 Tweets"
+  },
+  {
+    "name": "Satversmes",
+    "query": "Satversmes",
+    "rank": 14,
+    "tweet_count": null
   },
   {
     "name": "Diez",
     "query": "Diez",
-    "rank": 14,
-    "tweet_count": "18.7K Tweets"
+    "rank": 15,
+    "tweet_count": "18.9K Tweets"
   },
   {
-    "name": "Olimpisko",
-    "query": "Olimpisko",
-    "rank": 15,
+    "name": "Saeimas",
+    "query": "Saeimas",
+    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "Mums",
-    "query": "Mums",
-    "rank": 16,
-    "tweet_count": "7,380 Tweets"
+    "name": "olimpisko",
+    "query": "olimpisko",
+    "rank": 17,
+    "tweet_count": null
   },
   {
-    "name": "saeima",
-    "query": "saeima",
-    "rank": 17,
+    "name": "Labdien",
+    "query": "Labdien",
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "parasti",
     "query": "parasti",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "satversmes",
-    "query": "satversmes",
     "rank": 19,
     "tweet_count": null
   }
