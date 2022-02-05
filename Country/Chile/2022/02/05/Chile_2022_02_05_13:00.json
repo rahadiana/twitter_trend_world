@@ -1,27 +1,27 @@
 [
   {
+    "name": "#ALERTA",
+    "query": "#ALERTA",
+    "rank": 1,
+    "tweet_count": "2,464 Tweets"
+  },
+  {
     "name": "#FelizSabado",
     "query": "#FelizSabado",
-    "rank": 1,
-    "tweet_count": "7,827 Tweets"
+    "rank": 2,
+    "tweet_count": "8,569 Tweets"
   },
   {
     "name": "Plan B",
     "query": "\"Plan B\"",
-    "rank": 2,
-    "tweet_count": "23.9K Tweets"
+    "rank": 3,
+    "tweet_count": "23.5K Tweets"
   },
   {
     "name": "#cavadachvcnn",
     "query": "#cavadachvcnn",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "#ALERTA",
-    "query": "#ALERTA",
     "rank": 4,
-    "tweet_count": "2,549 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#StayAlive_CHAKHO",
@@ -30,93 +30,93 @@
     "tweet_count": "462K Tweets"
   },
   {
-    "name": "Walker",
-    "query": "Walker",
+    "name": "Violeta Parra",
+    "query": "\"Violeta Parra\"",
     "rank": 6,
-    "tweet_count": "62K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Allamand",
-    "query": "Allamand",
+    "name": "Walker",
+    "query": "Walker",
     "rank": 7,
-    "tweet_count": "23.7K Tweets"
+    "tweet_count": "58.9K Tweets"
   },
   {
     "name": "Fernando",
     "query": "Fernando",
     "rank": 8,
-    "tweet_count": "39.3K Tweets"
-  },
-  {
-    "name": "#eldiscipulochv",
-    "query": "#eldiscipulochv",
-    "rank": 9,
-    "tweet_count": "1,020 Tweets"
-  },
-  {
-    "name": "Violeta Parra",
-    "query": "\"Violeta Parra\"",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Tabilo",
-    "query": "Tabilo",
-    "rank": 11,
-    "tweet_count": "2,800 Tweets"
+    "tweet_count": "38.1K Tweets"
   },
   {
     "name": "Fuente Alemana",
     "query": "\"Fuente Alemana\"",
+    "rank": 9,
+    "tweet_count": "11.6K Tweets"
+  },
+  {
+    "name": "Allamand",
+    "query": "Allamand",
+    "rank": 10,
+    "tweet_count": "22.4K Tweets"
+  },
+  {
+    "name": "#eldiscipulochv",
+    "query": "#eldiscipulochv",
+    "rank": 11,
+    "tweet_count": "1,020 Tweets"
+  },
+  {
+    "name": "Tabilo",
+    "query": "Tabilo",
     "rank": 12,
-    "tweet_count": "11K Tweets"
+    "tweet_count": "2,828 Tweets"
   },
   {
     "name": "Clínica Las Condes",
     "query": "\"Clínica Las Condes\"",
     "rank": 13,
-    "tweet_count": "20.6K Tweets"
-  },
-  {
-    "name": "España",
-    "query": "España",
-    "rank": 14,
-    "tweet_count": "183K Tweets"
+    "tweet_count": "19.7K Tweets"
   },
   {
     "name": "Chelsea",
     "query": "Chelsea",
+    "rank": 14,
+    "tweet_count": "86.7K Tweets"
+  },
+  {
+    "name": "España",
+    "query": "España",
     "rank": 15,
-    "tweet_count": "85.1K Tweets"
+    "tweet_count": "175K Tweets"
   },
   {
     "name": "Chilean Premier League",
     "query": "\"Chilean Premier League\"",
     "rank": 16,
-    "tweet_count": "1,712 Tweets"
+    "tweet_count": "1,684 Tweets"
   },
   {
     "name": "Ayato",
     "query": "Ayato",
     "rank": 17,
-    "tweet_count": "376K Tweets"
+    "tweet_count": "349K Tweets"
   },
   {
     "name": "O'Higgins",
     "query": "O'Higgins",
     "rank": 18,
-    "tweet_count": "1,865 Tweets"
+    "tweet_count": "1,851 Tweets"
   },
   {
     "name": "Vitacura",
     "query": "Vitacura",
     "rank": 19,
-    "tweet_count": "11.2K Tweets"
+    "tweet_count": "10.6K Tweets"
   },
   {
-    "name": "Cholomandinga",
-    "query": "Cholomandinga",
+    "name": "Carlos Siri",
+    "query": "\"Carlos Siri\"",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "1,250 Tweets"
   }
 ]
