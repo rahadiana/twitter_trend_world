@@ -3,13 +3,13 @@
     "name": "Barnaby",
     "query": "Barnaby",
     "rank": 1,
-    "tweet_count": "41.4K Tweets"
+    "tweet_count": "41.8K Tweets"
   },
   {
     "name": "#FFACupFinal",
     "query": "#FFACupFinal",
     "rank": 2,
-    "tweet_count": "1,491 Tweets"
+    "tweet_count": "1,517 Tweets"
   },
   {
     "name": "#MVCvCCM",
@@ -21,7 +21,7 @@
     "name": "Victory",
     "query": "Victory",
     "rank": 4,
-    "tweet_count": "86.7K Tweets"
+    "tweet_count": "88.1K Tweets"
   },
   {
     "name": "#MVFC",
@@ -33,7 +33,7 @@
     "name": "Moira",
     "query": "Moira",
     "rank": 6,
-    "tweet_count": "2,726 Tweets"
+    "tweet_count": "2,777 Tweets"
   },
   {
     "name": "King of Swing",
@@ -48,26 +48,26 @@
     "tweet_count": null
   },
   {
-    "name": "Mariners",
-    "query": "Mariners",
-    "rank": 9,
-    "tweet_count": "1,651 Tweets"
-  },
-  {
-    "name": "#aflwdeessuns",
-    "query": "#aflwdeessuns",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
     "name": "#NBL22",
     "query": "#NBL22",
-    "rank": 11,
+    "rank": 9,
     "tweet_count": null
+  },
+  {
+    "name": "mariners",
+    "query": "mariners",
+    "rank": 10,
+    "tweet_count": "1,665 Tweets"
   },
   {
     "name": "Burgo",
     "query": "Burgo",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "#MagicOfTheCup",
+    "query": "#MagicOfTheCup",
     "rank": 12,
     "tweet_count": null
   },
@@ -75,42 +75,42 @@
     "name": "Langer",
     "query": "Langer",
     "rank": 13,
-    "tweet_count": "17K Tweets"
+    "tweet_count": "17.3K Tweets"
   },
   {
     "name": "Nats",
     "query": "Nats",
     "rank": 14,
-    "tweet_count": "33.4K Tweets"
+    "tweet_count": "34K Tweets"
   },
   {
-    "name": "Cricket Australia",
-    "query": "\"Cricket Australia\"",
+    "name": "GoFundMe",
+    "query": "GoFundMe",
     "rank": 15,
-    "tweet_count": "7,315 Tweets"
+    "tweet_count": "752K Tweets"
   },
   {
     "name": "Nationals",
     "query": "Nationals",
     "rank": 16,
-    "tweet_count": "7,635 Tweets"
-  },
-  {
-    "name": "GoFundMe",
-    "query": "GoFundMe",
-    "rank": 17,
-    "tweet_count": "736K Tweets"
+    "tweet_count": "7,745 Tweets"
   },
   {
     "name": "National Party",
     "query": "\"National Party\"",
-    "rank": 18,
-    "tweet_count": "16.7K Tweets"
+    "rank": 17,
+    "tweet_count": "16.8K Tweets"
   },
   {
-    "name": "#MagicOfTheCup",
-    "query": "#MagicOfTheCup",
+    "name": "#WinterOlympics2022",
+    "query": "#WinterOlympics2022",
+    "rank": 18,
+    "tweet_count": "10.7K Tweets"
+  },
+  {
+    "name": "#CricketAustralia",
+    "query": "#CricketAustralia",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "1,013 Tweets"
   }
 ]
