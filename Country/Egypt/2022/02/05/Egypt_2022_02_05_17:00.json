@@ -1,61 +1,61 @@
 [
   {
-    "name": "الاهلي",
-    "query": "الاهلي",
+    "name": "حسين",
+    "query": "حسين",
     "rank": 1,
-    "tweet_count": "122K Tweets"
+    "tweet_count": "38.9K Tweets"
   },
   {
-    "name": "عبد القادر",
-    "query": "\"عبد القادر\"",
+    "name": "الاهلي",
+    "query": "الاهلي",
     "rank": 2,
-    "tweet_count": "1,337 Tweets"
+    "tweet_count": "126K Tweets"
   },
   {
     "name": "علي لطفي",
     "query": "\"علي لطفي\"",
     "rank": 3,
-    "tweet_count": "1,221 Tweets"
+    "tweet_count": "1,313 Tweets"
+  },
+  {
+    "name": "عبد القادر",
+    "query": "\"عبد القادر\"",
+    "rank": 4,
+    "tweet_count": "1,373 Tweets"
   },
   {
     "name": "ابو ظبي",
     "query": "\"ابو ظبي\"",
-    "rank": 4,
-    "tweet_count": "3,885 Tweets"
+    "rank": 5,
+    "tweet_count": "4,008 Tweets"
   },
   {
-    "name": "حسين",
-    "query": "حسين",
-    "rank": 5,
-    "tweet_count": "37.4K Tweets"
+    "name": "#يلا_يا_اهلي",
+    "query": "#يلا_يا_اهلي",
+    "rank": 6,
+    "tweet_count": "1,234 Tweets"
   },
   {
     "name": "#انقاذ_الطفل",
     "query": "#انقاذ_الطفل",
-    "rank": 6,
-    "tweet_count": "72.9K Tweets"
-  },
-  {
-    "name": "#ريان",
-    "query": "#ريان",
     "rank": 7,
-    "tweet_count": "67.9K Tweets"
+    "tweet_count": "73.4K Tweets"
   },
   {
     "name": "#كاس_العالم_للانديه",
     "query": "#كاس_العالم_للانديه",
     "rank": 8,
-    "tweet_count": "20.5K Tweets"
+    "tweet_count": "21.2K Tweets"
+  },
+  {
+    "name": "#انقذوا_ريان",
+    "query": "#انقذوا_ريان",
+    "rank": 9,
+    "tweet_count": "249K Tweets"
   },
   {
     "name": "بيرلو",
     "query": "بيرلو",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "GO EGYPT",
-    "query": "\"GO EGYPT\"",
     "rank": 10,
     "tweet_count": null
   },
@@ -63,30 +63,12 @@
     "name": "تشافي",
     "query": "تشافي",
     "rank": 11,
-    "tweet_count": "3,309 Tweets"
-  },
-  {
-    "name": "نيمار",
-    "query": "نيمار",
-    "rank": 12,
-    "tweet_count": "2,990 Tweets"
+    "tweet_count": "3,243 Tweets"
   },
   {
     "name": "نوير",
     "query": "نوير",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
-  },
-  {
-    "name": "#شجع_مصر",
-    "query": "#شجع_مصر",
-    "rank": 14,
-    "tweet_count": "1,223 Tweets"
-  },
-  {
-    "name": "#تحيا_مصر",
-    "query": "#تحيا_مصر",
-    "rank": 15,
-    "tweet_count": "2,040 Tweets"
   }
 ]

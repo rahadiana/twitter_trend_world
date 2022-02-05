@@ -1,21 +1,21 @@
 [
   {
-    "name": "esmu",
-    "query": "esmu",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#ltvsupernova",
     "query": "#ltvsupernova",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "#Beijing2022",
     "query": "#Beijing2022",
+    "rank": 2,
+    "tweet_count": "171K Tweets"
+  },
+  {
+    "name": "Esmu",
+    "query": "Esmu",
     "rank": 3,
-    "tweet_count": "170K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Indexo",
@@ -45,7 +45,7 @@
     "name": "Olympics",
     "query": "Olympics",
     "rank": 8,
-    "tweet_count": "280K Tweets"
+    "tweet_count": "283K Tweets"
   },
   {
     "name": "Pekinā",
@@ -54,69 +54,69 @@
     "tweet_count": null
   },
   {
+    "name": "Rīgu",
+    "query": "Rīgu",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
     "name": "Lidl",
     "query": "Lidl",
-    "rank": 10,
-    "tweet_count": "2,383 Tweets"
+    "rank": 11,
+    "tweet_count": "2,258 Tweets"
   },
   {
     "name": "Ukraine",
     "query": "Ukraine",
-    "rank": 11,
-    "tweet_count": "135K Tweets"
-  },
-  {
-    "name": "Manuprāt",
-    "query": "Manuprāt",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "137K Tweets"
   },
   {
     "name": "Ramona",
     "query": "Ramona",
     "rank": 13,
-    "tweet_count": "3,098 Tweets"
-  },
-  {
-    "name": "Satversmes",
-    "query": "Satversmes",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Rīgu",
-    "query": "Rīgu",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "saeimas",
-    "query": "saeimas",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "2,959 Tweets"
   },
   {
     "name": "olimpisko",
     "query": "olimpisko",
-    "rank": 17,
+    "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "Viena",
-    "query": "Viena",
-    "rank": 18,
-    "tweet_count": "1,538 Tweets"
+    "name": "Mums",
+    "query": "Mums",
+    "rank": 15,
+    "tweet_count": "8,276 Tweets"
+  },
+  {
+    "name": "saeima",
+    "query": "saeima",
+    "rank": 16,
+    "tweet_count": null
   },
   {
     "name": "parasti",
     "query": "parasti",
-    "rank": 19,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Diez",
     "query": "Diez",
+    "rank": 18,
+    "tweet_count": "19K Tweets"
+  },
+  {
+    "name": "satversmes",
+    "query": "satversmes",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "#Crypto",
+    "query": "#Crypto",
     "rank": 20,
-    "tweet_count": "19.6K Tweets"
+    "tweet_count": "410K Tweets"
   }
 ]

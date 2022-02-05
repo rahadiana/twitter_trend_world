@@ -1,33 +1,33 @@
 [
   {
-    "name": "TEAM NEWS",
-    "query": "\"TEAM NEWS\"",
+    "name": "Super Frank",
+    "query": "\"Super Frank\"",
     "rank": 1,
-    "tweet_count": "30.6K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#SAFC",
     "query": "#SAFC",
     "rank": 2,
-    "tweet_count": "4,664 Tweets"
+    "tweet_count": "4,677 Tweets"
   },
   {
-    "name": "Super Frank",
-    "query": "\"Super Frank\"",
+    "name": "Second Half",
+    "query": "\"Second Half\"",
     "rank": 3,
+    "tweet_count": "14.6K Tweets"
+  },
+  {
+    "name": "#lofc",
+    "query": "#lofc",
+    "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "Evans",
-    "query": "Evans",
-    "rank": 4,
-    "tweet_count": "23.5K Tweets"
-  },
-  {
-    "name": "#MCIFUL",
-    "query": "#MCIFUL",
+    "name": "Azpi",
+    "query": "Azpi",
     "rank": 5,
-    "tweet_count": "1,660 Tweets"
+    "tweet_count": "5,527 Tweets"
   },
   {
     "name": "#WearTheRose",
@@ -36,26 +36,26 @@
     "tweet_count": null
   },
   {
-    "name": "#GreenArmy",
-    "query": "#GreenArmy",
+    "name": "#MCIFUL",
+    "query": "#MCIFUL",
     "rank": 7,
+    "tweet_count": "1,744 Tweets"
+  },
+  {
+    "name": "Tosun",
+    "query": "Tosun",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "Hirst",
+    "query": "Hirst",
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Ahoy Senor",
     "query": "\"Ahoy Senor\"",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "Bowen",
-    "query": "Bowen",
-    "rank": 9,
-    "tweet_count": "4,631 Tweets"
-  },
-  {
-    "name": "Hirst",
-    "query": "Hirst",
     "rank": 10,
     "tweet_count": null
   },
@@ -63,7 +63,7 @@
     "name": "Timo",
     "query": "Timo",
     "rank": 11,
-    "tweet_count": "11.1K Tweets"
+    "tweet_count": "10.9K Tweets"
   },
   {
     "name": "L'Homme Presse",
@@ -72,45 +72,45 @@
     "tweet_count": null
   },
   {
-    "name": "Morecambe",
-    "query": "Morecambe",
+    "name": "Champions of Europe",
+    "query": "\"Champions of Europe\"",
     "rank": 13,
-    "tweet_count": "1,228 Tweets"
-  },
-  {
-    "name": "Welsh",
-    "query": "Welsh",
-    "rank": 14,
-    "tweet_count": "11.8K Tweets"
+    "tweet_count": "1,327 Tweets"
   },
   {
     "name": "Hartlepool",
     "query": "Hartlepool",
+    "rank": 14,
+    "tweet_count": "5,195 Tweets"
+  },
+  {
+    "name": "Stamford Bridge",
+    "query": "\"Stamford Bridge\"",
     "rank": 15,
-    "tweet_count": "5,053 Tweets"
+    "tweet_count": "3,941 Tweets"
+  },
+  {
+    "name": "Welsh",
+    "query": "Welsh",
+    "rank": 16,
+    "tweet_count": "11.3K Tweets"
+  },
+  {
+    "name": "Keane",
+    "query": "Keane",
+    "rank": 17,
+    "tweet_count": "17.8K Tweets"
   },
   {
     "name": "Jimmy Carr",
     "query": "\"Jimmy Carr\"",
-    "rank": 16,
-    "tweet_count": "47.6K Tweets"
+    "rank": 18,
+    "tweet_count": "45.1K Tweets"
   },
   {
     "name": "Roma",
     "query": "Roma",
-    "rank": 17,
-    "tweet_count": "74.3K Tweets"
-  },
-  {
-    "name": "Kidderminster",
-    "query": "Kidderminster",
-    "rank": 18,
-    "tweet_count": "21K Tweets"
-  },
-  {
-    "name": "Flower of Scotland",
-    "query": "\"Flower of Scotland\"",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "72K Tweets"
   }
 ]
