@@ -1,19 +1,19 @@
 [
   {
+    "name": "Andreas",
+    "query": "Andreas",
+    "rank": 1,
+    "tweet_count": "9,698 Tweets"
+  },
+  {
     "name": "#scrhtb",
     "query": "#scrhtb",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "Andreas",
-    "query": "Andreas",
-    "rank": 2,
-    "tweet_count": "9,620 Tweets"
-  },
-  {
-    "name": "#Klammer",
-    "query": "#Klammer",
+    "name": "#klammer",
+    "query": "#klammer",
     "rank": 3,
     "tweet_count": null
   },
@@ -21,79 +21,79 @@
     "name": "Filip",
     "query": "Filip",
     "rank": 4,
-    "tweet_count": "5,886 Tweets"
+    "tweet_count": "5,930 Tweets"
   },
   {
     "name": "Manuel",
     "query": "Manuel",
     "rank": 5,
-    "tweet_count": "56.6K Tweets"
-  },
-  {
-    "name": "Christine",
-    "query": "Christine",
-    "rank": 6,
-    "tweet_count": "13.9K Tweets"
-  },
-  {
-    "name": "Rapid",
-    "query": "Rapid",
-    "rank": 7,
-    "tweet_count": "21.5K Tweets"
-  },
-  {
-    "name": "#stadlober",
-    "query": "#stadlober",
-    "rank": 8,
-    "tweet_count": null
+    "tweet_count": "57K Tweets"
   },
   {
     "name": "#Olympia2022",
     "query": "#Olympia2022",
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "#stadlober",
+    "query": "#stadlober",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "Christine",
+    "query": "Christine",
+    "rank": 8,
+    "tweet_count": "14.1K Tweets"
+  },
+  {
+    "name": "Rapid",
+    "query": "Rapid",
     "rank": 9,
+    "tweet_count": "21.6K Tweets"
+  },
+  {
+    "name": "impflotterie",
+    "query": "impflotterie",
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "#tauschitz",
     "query": "#tauschitz",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "impflotterie",
-    "query": "impflotterie",
     "rank": 11,
     "tweet_count": null
   },
   {
+    "name": "Peter",
+    "query": "Peter",
+    "rank": 12,
+    "tweet_count": "118K Tweets"
+  },
+  {
     "name": "Verfassungsschutz",
     "query": "Verfassungsschutz",
-    "rank": 12,
-    "tweet_count": "8,334 Tweets"
+    "rank": 13,
+    "tweet_count": "8,448 Tweets"
   },
   {
     "name": "Abfahrt",
     "query": "Abfahrt",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "medaille",
-    "query": "medaille",
-    "rank": 14,
-    "tweet_count": "7,907 Tweets"
+    "name": "Medaille",
+    "query": "Medaille",
+    "rank": 15,
+    "tweet_count": "7,950 Tweets"
   },
   {
     "name": "schönen samstag",
     "query": "\"schönen samstag\"",
-    "rank": 15,
-    "tweet_count": "1,571 Tweets"
-  },
-  {
-    "name": "Grippe",
-    "query": "Grippe",
     "rank": 16,
-    "tweet_count": "3,404 Tweets"
+    "tweet_count": "1,262 Tweets"
   },
   {
     "name": "kocher",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "Tipp",
-    "query": "Tipp",
+    "name": "Hartberg",
+    "query": "Hartberg",
     "rank": 18,
-    "tweet_count": "2,113 Tweets"
-  },
-  {
-    "name": "milliarde",
-    "query": "milliarde",
-    "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Rechtsstaat",
-    "query": "Rechtsstaat",
+    "name": "Verein",
+    "query": "Verein",
+    "rank": 19,
+    "tweet_count": "2,642 Tweets"
+  },
+  {
+    "name": "Tipp",
+    "query": "Tipp",
     "rank": 20,
-    "tweet_count": "2,185 Tweets"
+    "tweet_count": "2,127 Tweets"
   }
 ]
