@@ -1,27 +1,27 @@
 [
   {
-    "name": "Roest",
-    "query": "Roest",
-    "rank": 1,
-    "tweet_count": "1,763 Tweets"
-  },
-  {
     "name": "#feyspa",
     "query": "#feyspa",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Roest",
+    "query": "Roest",
+    "rank": 2,
+    "tweet_count": "1,817 Tweets"
   },
   {
     "name": "Van der Poel",
     "query": "\"Van der Poel\"",
     "rank": 3,
-    "tweet_count": "2,387 Tweets"
+    "tweet_count": "2,490 Tweets"
   },
   {
     "name": "#olympischespelen",
     "query": "#olympischespelen",
     "rank": 4,
-    "tweet_count": "2,001 Tweets"
+    "tweet_count": "2,038 Tweets"
   },
   {
     "name": "#schaatsen",
@@ -30,16 +30,16 @@
     "tweet_count": null
   },
   {
-    "name": "#Olympics",
-    "query": "#Olympics",
+    "name": "#buitenhof",
+    "query": "#buitenhof",
     "rank": 6,
-    "tweet_count": "39.5K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#svenkramer",
-    "query": "#svenkramer",
+    "name": "#Olympics",
+    "query": "#Olympics",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "39.8K Tweets"
   },
   {
     "name": "Zweed",
@@ -48,14 +48,14 @@
     "tweet_count": null
   },
   {
-    "name": "Bergsma",
-    "query": "Bergsma",
+    "name": "Kuip",
+    "query": "Kuip",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Kuip",
-    "query": "Kuip",
+    "name": "Bergsma",
+    "query": "Bergsma",
     "rank": 10,
     "tweet_count": null
   },
@@ -63,59 +63,59 @@
     "name": "Vrouwen",
     "query": "Vrouwen",
     "rank": 11,
-    "tweet_count": "3,578 Tweets"
+    "tweet_count": "3,677 Tweets"
   },
   {
-    "name": "Goedemorgen Lex",
-    "query": "\"Goedemorgen Lex\"",
+    "name": "Koopmans",
+    "query": "Koopmans",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "1,888 Tweets"
   },
   {
-    "name": "koopmans",
-    "query": "koopmans",
+    "name": "Leroy",
+    "query": "Leroy",
     "rank": 13,
-    "tweet_count": "1,841 Tweets"
+    "tweet_count": "4,669 Tweets"
   },
   {
     "name": "Marion",
     "query": "Marion",
     "rank": 14,
-    "tweet_count": "6,416 Tweets"
+    "tweet_count": "6,485 Tweets"
   },
   {
     "name": "Mona",
     "query": "Mona",
     "rank": 15,
-    "tweet_count": "57.8K Tweets"
+    "tweet_count": "58.3K Tweets"
   },
   {
     "name": "Lisa",
     "query": "Lisa",
     "rank": 16,
-    "tweet_count": "230K Tweets"
+    "tweet_count": "233K Tweets"
   },
   {
     "name": "Luyendijk",
     "query": "Luyendijk",
     "rank": 17,
+    "tweet_count": "1,002 Tweets"
+  },
+  {
+    "name": "#svenkramer",
+    "query": "#svenkramer",
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "#NKTegenwindfietsen",
     "query": "#NKTegenwindfietsen",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "#OS2022",
     "query": "#OS2022",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "#5000m",
-    "query": "#5000m",
     "rank": 20,
     "tweet_count": null
   }
