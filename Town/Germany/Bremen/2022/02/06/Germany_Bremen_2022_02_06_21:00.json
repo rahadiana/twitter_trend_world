@@ -1,15 +1,15 @@
 [
   {
-    "name": "#Tatort",
-    "query": "#Tatort",
-    "rank": 1,
-    "tweet_count": "1,949 Tweets"
-  },
-  {
     "name": "#AnneWill",
     "query": "#AnneWill",
+    "rank": 1,
+    "tweet_count": "1,355 Tweets"
+  },
+  {
+    "name": "#Tatort",
+    "query": "#Tatort",
     "rank": 2,
-    "tweet_count": null
+    "tweet_count": "1,967 Tweets"
   },
   {
     "name": "#KitchenImpossible",
@@ -21,23 +21,23 @@
     "name": "Halsschmerzen",
     "query": "Halsschmerzen",
     "rank": 4,
-    "tweet_count": "2,398 Tweets"
+    "tweet_count": "2,495 Tweets"
+  },
+  {
+    "name": "Botschafter",
+    "query": "Botschafter",
+    "rank": 5,
+    "tweet_count": null
   },
   {
     "name": "Bilanz an Sterbefällen",
     "query": "\"Bilanz an Sterbefällen\"",
-    "rank": 5,
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "Konfro",
     "query": "Konfro",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "Botschafter",
-    "query": "Botschafter",
     "rank": 7,
     "tweet_count": null
   },
@@ -45,7 +45,7 @@
     "name": "Demon Slayer",
     "query": "\"Demon Slayer\"",
     "rank": 8,
-    "tweet_count": "119K Tweets"
+    "tweet_count": "124K Tweets"
   },
   {
     "name": "Gewitter",
@@ -72,39 +72,39 @@
     "tweet_count": null
   },
   {
-    "name": "Rose",
-    "query": "Rose",
-    "rank": 13,
-    "tweet_count": "246K Tweets"
-  },
-  {
     "name": "Reus",
     "query": "Reus",
-    "rank": 14,
-    "tweet_count": "8,744 Tweets"
-  },
-  {
-    "name": "Ronnie",
-    "query": "Ronnie",
-    "rank": 15,
-    "tweet_count": "11.7K Tweets"
+    "rank": 13,
+    "tweet_count": "8,778 Tweets"
   },
   {
     "name": "Trainer",
     "query": "Trainer",
-    "rank": 16,
-    "tweet_count": "21.1K Tweets"
+    "rank": 14,
+    "tweet_count": "21.3K Tweets"
   },
   {
     "name": "Dortmund",
     "query": "Dortmund",
-    "rank": 17,
+    "rank": 15,
     "tweet_count": "18.5K Tweets"
+  },
+  {
+    "name": "Rose",
+    "query": "Rose",
+    "rank": 16,
+    "tweet_count": "248K Tweets"
   },
   {
     "name": "Leverkusen",
     "query": "Leverkusen",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": "13.4K Tweets"
+  },
+  {
+    "name": "Sturm",
+    "query": "Sturm",
+    "rank": 18,
+    "tweet_count": "3,352 Tweets"
   }
 ]
