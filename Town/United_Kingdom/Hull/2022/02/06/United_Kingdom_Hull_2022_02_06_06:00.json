@@ -1,116 +1,110 @@
 [
   {
-    "name": "Lebron",
-    "query": "Lebron",
-    "rank": 1,
-    "tweet_count": "81.1K Tweets"
-  },
-  {
     "name": "#tinderswindler",
     "query": "#tinderswindler",
-    "rank": 2,
-    "tweet_count": "28.6K Tweets"
+    "rank": 1,
+    "tweet_count": "28.8K Tweets"
   },
   {
     "name": "#MaskedSingerUK",
     "query": "#MaskedSingerUK",
-    "rank": 3,
-    "tweet_count": "10.1K Tweets"
+    "rank": 2,
+    "tweet_count": "10.2K Tweets"
   },
   {
     "name": "#LataMangeshkar",
     "query": "#LataMangeshkar",
-    "rank": 4,
-    "tweet_count": "208K Tweets"
+    "rank": 3,
+    "tweet_count": "219K Tweets"
   },
   {
     "name": "Eubank",
     "query": "Eubank",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": "28.8K Tweets"
   },
   {
     "name": "Wordle 232 X",
     "query": "\"Wordle 232 X\"",
-    "rank": 6,
-    "tweet_count": "4,308 Tweets"
-  },
-  {
-    "name": "Lakers",
-    "query": "Lakers",
-    "rank": 7,
-    "tweet_count": "116K Tweets"
-  },
-  {
-    "name": "#UFCVegas47",
-    "query": "#UFCVegas47",
-    "rank": 8,
-    "tweet_count": "40.5K Tweets"
-  },
-  {
-    "name": "Queen",
-    "query": "Queen",
-    "rank": 9,
-    "tweet_count": "364K Tweets"
-  },
-  {
-    "name": "Westbrook",
-    "query": "Westbrook",
-    "rank": 10,
-    "tweet_count": "42K Tweets"
-  },
-  {
-    "name": "Fleetwood Mac",
-    "query": "\"Fleetwood Mac\"",
-    "rank": 11,
-    "tweet_count": "2,793 Tweets"
-  },
-  {
-    "name": "Jerry",
-    "query": "Jerry",
-    "rank": 12,
-    "tweet_count": "31.1K Tweets"
-  },
-  {
-    "name": "Bentancur",
-    "query": "Bentancur",
-    "rank": 13,
-    "tweet_count": "5,865 Tweets"
-  },
-  {
-    "name": "Eurovision",
-    "query": "Eurovision",
-    "rank": 14,
-    "tweet_count": "66.5K Tweets"
-  },
-  {
-    "name": "Harry Kane",
-    "query": "\"Harry Kane\"",
-    "rank": 15,
-    "tweet_count": "6,858 Tweets"
+    "rank": 5,
+    "tweet_count": "4,378 Tweets"
   },
   {
     "name": "#JohnsonOut13",
     "query": "#JohnsonOut13",
-    "rank": 16,
-    "tweet_count": "5,794 Tweets"
+    "rank": 6,
+    "tweet_count": "5,983 Tweets"
   },
   {
-    "name": "#SaveNeighbours",
-    "query": "#SaveNeighbours",
-    "rank": 17,
-    "tweet_count": "1,151 Tweets"
+    "name": "Camilla",
+    "query": "Camilla",
+    "rank": 7,
+    "tweet_count": "38.3K Tweets"
+  },
+  {
+    "name": "Lakers",
+    "query": "Lakers",
+    "rank": 8,
+    "tweet_count": "117K Tweets"
+  },
+  {
+    "name": "Westbrook",
+    "query": "Westbrook",
+    "rank": 9,
+    "tweet_count": "42.3K Tweets"
   },
   {
     "name": "#FlowersOfManchester",
     "query": "#FlowersOfManchester",
-    "rank": 18,
-    "tweet_count": "13.3K Tweets"
+    "rank": 10,
+    "tweet_count": "13.6K Tweets"
+  },
+  {
+    "name": "Knicks",
+    "query": "Knicks",
+    "rank": 11,
+    "tweet_count": "45.1K Tweets"
+  },
+  {
+    "name": "Lebron",
+    "query": "Lebron",
+    "rank": 12,
+    "tweet_count": "81.7K Tweets"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "query": "\"Fleetwood Mac\"",
+    "rank": 13,
+    "tweet_count": "2,798 Tweets"
+  },
+  {
+    "name": "Jerry",
+    "query": "Jerry",
+    "rank": 14,
+    "tweet_count": "31.3K Tweets"
+  },
+  {
+    "name": "Bentancur",
+    "query": "Bentancur",
+    "rank": 15,
+    "tweet_count": "5,881 Tweets"
+  },
+  {
+    "name": "#SaveNeighbours",
+    "query": "#SaveNeighbours",
+    "rank": 16,
+    "tweet_count": "1,169 Tweets"
   },
   {
     "name": "#Rayan",
     "query": "#Rayan",
-    "rank": 19,
-    "tweet_count": "264K Tweets"
+    "rank": 17,
+    "tweet_count": "265K Tweets"
+  },
+  {
+    "name": "#CDL2022",
+    "query": "#CDL2022",
+    "rank": 18,
+    "tweet_count": "2,326 Tweets"
   }
 ]
