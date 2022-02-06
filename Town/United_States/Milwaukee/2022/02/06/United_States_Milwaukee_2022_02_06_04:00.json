@@ -1,104 +1,110 @@
 [
   {
+    "name": "Villanova",
+    "query": "Villanova",
+    "rank": 1,
+    "tweet_count": "2,551 Tweets"
+  },
+  {
     "name": "Greg Monroe",
     "query": "\"Greg Monroe\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
-    "name": "Penn State",
-    "query": "\"Penn State\"",
     "rank": 2,
-    "tweet_count": "2,934 Tweets"
-  },
-  {
-    "name": "Badgers",
-    "query": "Badgers",
-    "rank": 3,
-    "tweet_count": "2,206 Tweets"
-  },
-  {
-    "name": "Wisconsin",
-    "query": "Wisconsin",
-    "rank": 4,
-    "tweet_count": "14.2K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Lakers",
     "query": "Lakers",
-    "rank": 5,
-    "tweet_count": "86.5K Tweets"
+    "rank": 3,
+    "tweet_count": "102K Tweets"
   },
   {
     "name": "Westbrook",
     "query": "Westbrook",
-    "rank": 6,
-    "tweet_count": "30.9K Tweets"
-  },
-  {
-    "name": "Malik Monk",
-    "query": "\"Malik Monk\"",
-    "rank": 7,
-    "tweet_count": "11.6K Tweets"
-  },
-  {
-    "name": "Lebron",
-    "query": "Lebron",
-    "rank": 8,
-    "tweet_count": "62.8K Tweets"
+    "rank": 4,
+    "tweet_count": "35.5K Tweets"
   },
   {
     "name": "RJ Barrett",
     "query": "\"RJ Barrett\"",
-    "rank": 9,
-    "tweet_count": "10.9K Tweets"
+    "rank": 5,
+    "tweet_count": "12.5K Tweets"
   },
   {
     "name": "#SingleBlackFemale",
     "query": "#SingleBlackFemale",
-    "rank": 10,
-    "tweet_count": "23K Tweets"
-  },
-  {
-    "name": "#URLBANNED",
-    "query": "#URLBANNED",
-    "rank": 11,
-    "tweet_count": "18.1K Tweets"
+    "rank": 6,
+    "tweet_count": "23.2K Tweets"
   },
   {
     "name": "Fournier",
     "query": "Fournier",
+    "rank": 7,
+    "tweet_count": "3,881 Tweets"
+  },
+  {
+    "name": "Randle",
+    "query": "Randle",
+    "rank": 8,
+    "tweet_count": "17K Tweets"
+  },
+  {
+    "name": "#URLBANNED",
+    "query": "#URLBANNED",
+    "rank": 9,
+    "tweet_count": "18.4K Tweets"
+  },
+  {
+    "name": "Vogel",
+    "query": "Vogel",
+    "rank": 10,
+    "tweet_count": "9,673 Tweets"
+  },
+  {
+    "name": "Thibs",
+    "query": "Thibs",
+    "rank": 11,
+    "tweet_count": "3,187 Tweets"
+  },
+  {
+    "name": "Dratini",
+    "query": "Dratini",
     "rank": 12,
-    "tweet_count": "3,399 Tweets"
+    "tweet_count": "1,841 Tweets"
   },
   {
     "name": "#UFCVegas47",
     "query": "#UFCVegas47",
     "rank": 13,
-    "tweet_count": "39.1K Tweets"
+    "tweet_count": "39.5K Tweets"
   },
   {
-    "name": "Vogel",
-    "query": "Vogel",
+    "name": "Yuma",
+    "query": "Yuma",
     "rank": 14,
-    "tweet_count": "8,844 Tweets"
+    "tweet_count": "19.3K Tweets"
   },
   {
-    "name": "Randle",
-    "query": "Randle",
+    "name": "#LataMangeshkar",
+    "query": "#LataMangeshkar",
     "rank": 15,
-    "tweet_count": "16K Tweets"
+    "tweet_count": "56.4K Tweets"
   },
   {
-    "name": "Dratini",
-    "query": "Dratini",
+    "name": "Barrett",
+    "query": "Barrett",
     "rank": 16,
-    "tweet_count": "1,667 Tweets"
+    "tweet_count": "19.8K Tweets"
   },
   {
-    "name": "Thibs",
-    "query": "Thibs",
+    "name": "Jesus Christ Superstar",
+    "query": "\"Jesus Christ Superstar\"",
     "rank": 17,
-    "tweet_count": "2,474 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Joe Rogan",
+    "query": "\"Joe Rogan\"",
+    "rank": 18,
+    "tweet_count": "391K Tweets"
   }
 ]
