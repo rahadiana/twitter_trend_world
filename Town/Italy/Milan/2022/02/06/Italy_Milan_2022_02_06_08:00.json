@@ -1,51 +1,51 @@
 [
   {
-    "name": "Gianni",
-    "query": "Gianni",
-    "rank": 1,
-    "tweet_count": "54.2K Tweets"
-  },
-  {
     "name": "#6febbraio",
     "query": "#6febbraio",
-    "rank": 2,
-    "tweet_count": "1,712 Tweets"
+    "rank": 1,
+    "tweet_count": "2,048 Tweets"
   },
   {
     "name": "Buona Domenica",
     "query": "\"Buona Domenica\"",
-    "rank": 3,
-    "tweet_count": "4,816 Tweets"
-  },
-  {
-    "name": "#sanremo22",
-    "query": "#sanremo22",
-    "rank": 4,
-    "tweet_count": "169K Tweets"
+    "rank": 2,
+    "tweet_count": "5,757 Tweets"
   },
   {
     "name": "#MiRacconto",
     "query": "#MiRacconto",
-    "rank": 5,
+    "rank": 3,
     "tweet_count": null
-  },
-  {
-    "name": "Mahmood",
-    "query": "Mahmood",
-    "rank": 6,
-    "tweet_count": "127K Tweets"
   },
   {
     "name": "#IlSuonoDelSilenzio",
     "query": "#IlSuonoDelSilenzio",
-    "rank": 7,
-    "tweet_count": null
+    "rank": 4,
+    "tweet_count": "1,024 Tweets"
   },
   {
-    "name": "#Eurovision2022",
-    "query": "#Eurovision2022",
+    "name": "Mahmood",
+    "query": "Mahmood",
+    "rank": 5,
+    "tweet_count": "129K Tweets"
+  },
+  {
+    "name": "#Terremoto",
+    "query": "#Terremoto",
+    "rank": 6,
+    "tweet_count": "1,202 Tweets"
+  },
+  {
+    "name": "#Brividi",
+    "query": "#Brividi",
+    "rank": 7,
+    "tweet_count": "6,281 Tweets"
+  },
+  {
+    "name": "Sanchez",
+    "query": "Sanchez",
     "rank": 8,
-    "tweet_count": "7,488 Tweets"
+    "tweet_count": "51.5K Tweets"
   },
   {
     "name": "Orietta",
@@ -54,27 +54,39 @@
     "tweet_count": "14.5K Tweets"
   },
   {
-    "name": "Sanchez",
-    "query": "Sanchez",
+    "name": "Giroud",
+    "query": "Giroud",
     "rank": 10,
-    "tweet_count": "50.7K Tweets"
+    "tweet_count": "69.4K Tweets"
   },
   {
-    "name": "#Brividi",
-    "query": "#Brividi",
+    "name": "Guida",
+    "query": "Guida",
     "rank": 11,
-    "tweet_count": "6,171 Tweets"
+    "tweet_count": "4,720 Tweets"
   },
   {
-    "name": "#curling",
-    "query": "#curling",
+    "name": "Alfredino",
+    "query": "Alfredino",
     "rank": 12,
-    "tweet_count": "5,363 Tweets"
+    "tweet_count": "1,484 Tweets"
+  },
+  {
+    "name": "#Eurovision2022",
+    "query": "#Eurovision2022",
+    "rank": 13,
+    "tweet_count": "7,742 Tweets"
+  },
+  {
+    "name": "#Curling",
+    "query": "#Curling",
+    "rank": 14,
+    "tweet_count": "5,467 Tweets"
   },
   {
     "name": "#RaffaellaCarrà",
     "query": "#RaffaellaCarrà",
-    "rank": 13,
-    "tweet_count": "2,012 Tweets"
+    "rank": 15,
+    "tweet_count": "2,029 Tweets"
   }
 ]
