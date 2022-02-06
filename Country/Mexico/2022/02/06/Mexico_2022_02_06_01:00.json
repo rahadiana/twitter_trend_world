@@ -1,122 +1,122 @@
 [
   {
+    "name": "San Luis",
+    "query": "\"San Luis\"",
+    "rank": 1,
+    "tweet_count": "5,443 Tweets"
+  },
+  {
+    "name": "Otero",
+    "query": "Otero",
+    "rank": 2,
+    "tweet_count": "4,143 Tweets"
+  },
+  {
+    "name": "Solari",
+    "query": "Solari",
+    "rank": 3,
+    "tweet_count": "2,702 Tweets"
+  },
+  {
+    "name": "Cáceres",
+    "query": "Cáceres",
+    "rank": 4,
+    "tweet_count": "9,759 Tweets"
+  },
+  {
+    "name": "América",
+    "query": "América",
+    "rank": 5,
+    "tweet_count": "342K Tweets"
+  },
+  {
+    "name": "Meré",
+    "query": "Meré",
+    "rank": 6,
+    "tweet_count": "112K Tweets"
+  },
+  {
+    "name": "Zendejas",
+    "query": "Zendejas",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
     "name": "Necaxa",
     "query": "Necaxa",
-    "rank": 1,
-    "tweet_count": "2,533 Tweets"
-  },
-  {
-    "name": "Pachuca",
-    "query": "Pachuca",
-    "rank": 2,
-    "tweet_count": "3,871 Tweets"
-  },
-  {
-    "name": "Guede",
-    "query": "Guede",
-    "rank": 3,
-    "tweet_count": "1,238 Tweets"
-  },
-  {
-    "name": "Avilés Hurtado",
-    "query": "\"Avilés Hurtado\"",
-    "rank": 4,
-    "tweet_count": null
+    "rank": 8,
+    "tweet_count": "2,854 Tweets"
   },
   {
     "name": "Elsa Aguirre",
     "query": "\"Elsa Aguirre\"",
-    "rank": 5,
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "#SabadoFutbolero",
+    "query": "#SabadoFutbolero",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "Naveda",
+    "query": "Naveda",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "Sambueza",
+    "query": "Sambueza",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "Pachuca",
+    "query": "Pachuca",
+    "rank": 13,
+    "tweet_count": "4,205 Tweets"
+  },
+  {
+    "name": "Guede",
+    "query": "Guede",
+    "rank": 14,
+    "tweet_count": "1,417 Tweets"
+  },
+  {
+    "name": "El VAR",
+    "query": "\"El VAR\"",
+    "rank": 15,
+    "tweet_count": "8,733 Tweets"
+  },
+  {
+    "name": "Unai Bilbao",
+    "query": "\"Unai Bilbao\"",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Fidalgo",
+    "query": "Fidalgo",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Layun",
+    "query": "Layun",
+    "rank": 18,
+    "tweet_count": "1,129 Tweets"
+  },
+  {
+    "name": "Avilés Hurtado",
+    "query": "\"Avilés Hurtado\"",
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "SABADO DE JOD3R",
     "query": "\"SABADO DE JOD3R\"",
-    "rank": 6,
-    "tweet_count": "10.6K Tweets"
-  },
-  {
-    "name": "América",
-    "query": "América",
-    "rank": 7,
-    "tweet_count": "329K Tweets"
-  },
-  {
-    "name": "Constitución",
-    "query": "Constitución",
-    "rank": 8,
-    "tweet_count": "55.9K Tweets"
-  },
-  {
-    "name": "Cáceres",
-    "query": "Cáceres",
-    "rank": 9,
-    "tweet_count": "8,958 Tweets"
-  },
-  {
-    "name": "#UFCVegas47",
-    "query": "#UFCVegas47",
-    "rank": 10,
-    "tweet_count": "24K Tweets"
-  },
-  {
-    "name": "Meré",
-    "query": "Meré",
-    "rank": 11,
-    "tweet_count": "110K Tweets"
-  },
-  {
-    "name": "Almada",
-    "query": "Almada",
-    "rank": 12,
-    "tweet_count": "1,090 Tweets"
-  },
-  {
-    "name": "STREAM NODAL",
-    "query": "\"STREAM NODAL\"",
-    "rank": 13,
-    "tweet_count": "7,553 Tweets"
-  },
-  {
-    "name": "Jinjin",
-    "query": "Jinjin",
-    "rank": 14,
-    "tweet_count": "21.7K Tweets"
-  },
-  {
-    "name": "Tuzos",
-    "query": "Tuzos",
-    "rank": 15,
-    "tweet_count": "1,827 Tweets"
-  },
-  {
-    "name": "Rubén Fuentes",
-    "query": "\"Rubén Fuentes\"",
-    "rank": 16,
-    "tweet_count": "3,332 Tweets"
-  },
-  {
-    "name": "#integracionclikkie",
-    "query": "#integracionclikkie",
-    "rank": 17,
-    "tweet_count": "1,888 Tweets"
-  },
-  {
-    "name": "Zacatecas",
-    "query": "Zacatecas",
-    "rank": 18,
-    "tweet_count": "11.8K Tweets"
-  },
-  {
-    "name": "#VerguenzaNacional",
-    "query": "#VerguenzaNacional",
-    "rank": 19,
-    "tweet_count": "2,583 Tweets"
-  },
-  {
-    "name": "#Ivermectina",
-    "query": "#Ivermectina",
     "rank": 20,
-    "tweet_count": "2,233 Tweets"
+    "tweet_count": "11K Tweets"
   }
 ]
