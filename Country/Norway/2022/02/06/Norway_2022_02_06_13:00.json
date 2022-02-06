@@ -1,37 +1,37 @@
 [
   {
+    "name": "Diaz",
+    "query": "Diaz",
+    "rank": 1,
+    "tweet_count": "93K Tweets"
+  },
+  {
     "name": "#LIVCAR",
     "query": "#LIVCAR",
-    "rank": 1,
-    "tweet_count": "15.9K Tweets"
+    "rank": 2,
+    "tweet_count": "16.9K Tweets"
   },
   {
     "name": "#nrkmgp",
     "query": "#nrkmgp",
-    "rank": 2,
-    "tweet_count": "1,625 Tweets"
+    "rank": 3,
+    "tweet_count": "1,626 Tweets"
   },
   {
     "name": "Jota",
     "query": "Jota",
-    "rank": 3,
-    "tweet_count": "16.8K Tweets"
-  },
-  {
-    "name": "Liverpool",
-    "query": "Liverpool",
     "rank": 4,
-    "tweet_count": "64.9K Tweets"
+    "tweet_count": "17.6K Tweets"
   },
   {
     "name": "Johaug",
     "query": "Johaug",
     "rank": 5,
-    "tweet_count": "1,762 Tweets"
+    "tweet_count": "1,778 Tweets"
   },
   {
-    "name": "#esnOL",
-    "query": "#esnOL",
+    "name": "#esnol",
+    "query": "#esnol",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,26 +42,26 @@
     "tweet_count": null
   },
   {
-    "name": "Kidderminster",
-    "query": "Kidderminster",
-    "rank": 8,
-    "tweet_count": "16.4K Tweets"
-  },
-  {
     "name": "Stoltenberg",
     "query": "Stoltenberg",
-    "rank": 9,
-    "tweet_count": "1,106 Tweets"
+    "rank": 8,
+    "tweet_count": "1,112 Tweets"
   },
   {
-    "name": "bolsjunov",
-    "query": "bolsjunov",
+    "name": "Kidderminster",
+    "query": "Kidderminster",
+    "rank": 9,
+    "tweet_count": "16.5K Tweets"
+  },
+  {
+    "name": "Bolsjunov",
+    "query": "Bolsjunov",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Klæbo",
-    "query": "Klæbo",
+    "name": "klæbo",
+    "query": "klæbo",
     "rank": 11,
     "tweet_count": null
   },
@@ -69,17 +69,17 @@
     "name": "Niskanen",
     "query": "Niskanen",
     "rank": 12,
-    "tweet_count": "1,303 Tweets"
+    "tweet_count": "1,313 Tweets"
   },
   {
-    "name": "#samenesnasjonaldag",
-    "query": "#samenesnasjonaldag",
+    "name": "#MGP2022",
+    "query": "#MGP2022",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "#mgp2022",
-    "query": "#mgp2022",
+    "name": "#samenesnasjonaldag",
+    "query": "#samenesnasjonaldag",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,36 +87,36 @@
     "name": "Plymouth",
     "query": "Plymouth",
     "rank": 15,
-    "tweet_count": "30.5K Tweets"
-  },
-  {
-    "name": "Sparta",
-    "query": "Sparta",
-    "rank": 16,
-    "tweet_count": "4,515 Tweets"
+    "tweet_count": "30.6K Tweets"
   },
   {
     "name": "Discovery",
     "query": "Discovery",
+    "rank": 16,
+    "tweet_count": "21.1K Tweets"
+  },
+  {
+    "name": "Sparta",
+    "query": "Sparta",
     "rank": 17,
-    "tweet_count": "20.8K Tweets"
+    "tweet_count": "4,596 Tweets"
   },
   {
     "name": "WhatsApp",
     "query": "WhatsApp",
     "rank": 18,
-    "tweet_count": "175K Tweets"
-  },
-  {
-    "name": "Holund",
-    "query": "Holund",
-    "rank": 19,
-    "tweet_count": null
+    "tweet_count": "177K Tweets"
   },
   {
     "name": "Elanga",
     "query": "Elanga",
+    "rank": 19,
+    "tweet_count": "12.7K Tweets"
+  },
+  {
+    "name": "Holund",
+    "query": "Holund",
     "rank": 20,
-    "tweet_count": "12.6K Tweets"
+    "tweet_count": null
   }
 ]
