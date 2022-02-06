@@ -1,13 +1,13 @@
 [
   {
-    "name": "#Pressestunde",
-    "query": "#Pressestunde",
+    "name": "#pressestunde",
+    "query": "#pressestunde",
     "rank": 1,
-    "tweet_count": "5,132 Tweets"
+    "tweet_count": "5,196 Tweets"
   },
   {
-    "name": "#patterer",
-    "query": "#patterer",
+    "name": "#Patterer",
+    "query": "#Patterer",
     "rank": 2,
     "tweet_count": null
   },
@@ -21,19 +21,19 @@
     "name": "#Tatort",
     "query": "#Tatort",
     "rank": 4,
-    "tweet_count": "1,311 Tweets"
+    "tweet_count": "1,619 Tweets"
   },
   {
     "name": "Schönen Sonntag",
     "query": "\"Schönen Sonntag\"",
     "rank": 5,
-    "tweet_count": "5,279 Tweets"
+    "tweet_count": "5,298 Tweets"
   },
   {
     "name": "#BVBB04",
     "query": "#BVBB04",
     "rank": 6,
-    "tweet_count": "8,649 Tweets"
+    "tweet_count": "8,683 Tweets"
   },
   {
     "name": "Politikerin",
@@ -45,47 +45,47 @@
     "name": "chefredakteur",
     "query": "chefredakteur",
     "rank": 8,
-    "tweet_count": "4,074 Tweets"
+    "tweet_count": "4,100 Tweets"
   },
   {
     "name": "Zeitung",
     "query": "Zeitung",
     "rank": 9,
-    "tweet_count": "9,090 Tweets"
+    "tweet_count": "9,238 Tweets"
   },
   {
     "name": "Bürgermeisterin",
     "query": "Bürgermeisterin",
     "rank": 10,
-    "tweet_count": "1,055 Tweets"
-  },
-  {
-    "name": "Tischler",
-    "query": "Tischler",
-    "rank": 11,
-    "tweet_count": null
+    "tweet_count": "1,067 Tweets"
   },
   {
     "name": "Kommunisten",
     "query": "Kommunisten",
-    "rank": 12,
-    "tweet_count": "1,107 Tweets"
+    "rank": 11,
+    "tweet_count": "1,121 Tweets"
   },
   {
     "name": "Kommunismus",
     "query": "Kommunismus",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Graz",
     "query": "Graz",
-    "rank": 14,
-    "tweet_count": "1,964 Tweets"
+    "rank": 13,
+    "tweet_count": "1,993 Tweets"
   },
   {
     "name": "Manuel Fettner",
     "query": "\"Manuel Fettner\"",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Tischler",
+    "query": "Tischler",
     "rank": 15,
     "tweet_count": null
   },
@@ -93,7 +93,7 @@
     "name": "Filip",
     "query": "Filip",
     "rank": 16,
-    "tweet_count": "5,770 Tweets"
+    "tweet_count": "5,881 Tweets"
   },
   {
     "name": "Flitzer",
@@ -117,6 +117,6 @@
     "name": "Journalismus",
     "query": "Journalismus",
     "rank": 20,
-    "tweet_count": "1,807 Tweets"
+    "tweet_count": "1,836 Tweets"
   }
 ]
