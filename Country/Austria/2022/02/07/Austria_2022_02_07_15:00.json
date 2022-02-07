@@ -1,15 +1,15 @@
 [
   {
-    "name": "#pressestunde",
-    "query": "#pressestunde",
-    "rank": 1,
-    "tweet_count": "3,086 Tweets"
-  },
-  {
     "name": "Gsindl",
     "query": "Gsindl",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#pressestunde",
+    "query": "#pressestunde",
+    "rank": 2,
+    "tweet_count": "3,094 Tweets"
   },
   {
     "name": "#WKSTA",
@@ -51,13 +51,13 @@
     "name": "gust",
     "query": "gust",
     "rank": 9,
-    "tweet_count": "16.4K Tweets"
+    "tweet_count": "16.5K Tweets"
   },
   {
     "name": "Wochenstart",
     "query": "Wochenstart",
     "rank": 10,
-    "tweet_count": "1,849 Tweets"
+    "tweet_count": "1,853 Tweets"
   },
   {
     "name": "kommunistin",
@@ -69,7 +69,7 @@
     "name": "Demon Slayer",
     "query": "\"Demon Slayer\"",
     "rank": 12,
-    "tweet_count": "353K Tweets"
+    "tweet_count": "355K Tweets"
   },
   {
     "name": "auslieferung",
@@ -96,8 +96,8 @@
     "tweet_count": null
   },
   {
-    "name": "Bürgermeisterin",
-    "query": "Bürgermeisterin",
+    "name": "bürgermeisterin",
+    "query": "bürgermeisterin",
     "rank": 17,
     "tweet_count": null
   },
@@ -117,6 +117,6 @@
     "name": "Sigi",
     "query": "Sigi",
     "rank": 20,
-    "tweet_count": "1,414 Tweets"
+    "tweet_count": "1,435 Tweets"
   }
 ]
