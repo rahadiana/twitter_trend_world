@@ -1,21 +1,21 @@
 [
   {
+    "name": "#dkpol",
+    "query": "#dkpol",
+    "rank": 1,
+    "tweet_count": "1,990 Tweets"
+  },
+  {
     "name": "kandis",
     "query": "kandis",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#AFCON2021",
     "query": "#AFCON2021",
-    "rank": 2,
-    "tweet_count": "364K Tweets"
-  },
-  {
-    "name": "#dkpol",
-    "query": "#dkpol",
     "rank": 3,
-    "tweet_count": "1,896 Tweets"
+    "tweet_count": "368K Tweets"
   },
   {
     "name": "#dkøko",
@@ -27,11 +27,11 @@
     "name": "Dani Alves",
     "query": "\"Dani Alves\"",
     "rank": 5,
-    "tweet_count": "94.7K Tweets"
+    "tweet_count": "95K Tweets"
   },
   {
-    "name": "Frederiksberg",
-    "query": "Frederiksberg",
+    "name": "frederiksberg",
+    "query": "frederiksberg",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,70 +42,70 @@
     "tweet_count": null
   },
   {
-    "name": "Lars",
-    "query": "Lars",
+    "name": "#arbejde",
+    "query": "#arbejde",
     "rank": 8,
-    "tweet_count": "4,513 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#dkgreen",
-    "query": "#dkgreen",
+    "name": "Lars",
+    "query": "Lars",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "4,590 Tweets"
   },
   {
     "name": "#FACup",
     "query": "#FACup",
     "rank": 10,
-    "tweet_count": "33.2K Tweets"
+    "tweet_count": "33.3K Tweets"
   },
   {
     "name": "Senegal",
     "query": "Senegal",
     "rank": 11,
-    "tweet_count": "605K Tweets"
+    "tweet_count": "611K Tweets"
   },
   {
     "name": "Zuckerberg",
     "query": "Zuckerberg",
     "rank": 12,
-    "tweet_count": "19K Tweets"
+    "tweet_count": "19.3K Tweets"
   },
   {
     "name": "Egypt",
     "query": "Egypt",
     "rank": 13,
-    "tweet_count": "195K Tweets"
-  },
-  {
-    "name": "Mane",
-    "query": "Mane",
-    "rank": 14,
-    "tweet_count": "400K Tweets"
+    "tweet_count": "197K Tweets"
   },
   {
     "name": "Adama",
     "query": "Adama",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": "128K Tweets"
+  },
+  {
+    "name": "Mane",
+    "query": "Mane",
+    "rank": 15,
+    "tweet_count": "405K Tweets"
   },
   {
     "name": "La Liga",
     "query": "\"La Liga\"",
     "rank": 16,
-    "tweet_count": "50.8K Tweets"
+    "tweet_count": "51.3K Tweets"
   },
   {
     "name": "Onyx",
     "query": "Onyx",
     "rank": 17,
-    "tweet_count": "7,380 Tweets"
+    "tweet_count": "7,445 Tweets"
   },
   {
     "name": "Marx",
     "query": "Marx",
     "rank": 18,
-    "tweet_count": "10.6K Tweets"
+    "tweet_count": "10.7K Tweets"
   },
   {
     "name": "de buyer",
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "Forest",
-    "query": "Forest",
+    "name": "Folkekirken",
+    "query": "Folkekirken",
     "rank": 20,
-    "tweet_count": "97.6K Tweets"
+    "tweet_count": null
   }
 ]

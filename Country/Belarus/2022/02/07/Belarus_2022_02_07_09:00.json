@@ -1,86 +1,98 @@
 [
   {
-    "name": "Игра Wordle",
-    "query": "\"Игра Wordle\"",
+    "name": "COVID-19",
+    "query": "COVID-19",
     "rank": 1,
-    "tweet_count": "1,517 Tweets"
+    "tweet_count": "309K Tweets"
   },
   {
-    "name": "#ArtistOnTwitter",
-    "query": "#ArtistOnTwitter",
+    "name": "Игра Wordle",
+    "query": "\"Игра Wordle\"",
     "rank": 2,
-    "tweet_count": "18.4K Tweets"
+    "tweet_count": "1,545 Tweets"
   },
   {
     "name": "#Beijing2022",
     "query": "#Beijing2022",
     "rank": 3,
-    "tweet_count": "213K Tweets"
+    "tweet_count": "217K Tweets"
   },
   {
     "name": "Ukraine",
     "query": "Ukraine",
     "rank": 4,
-    "tweet_count": "167K Tweets"
+    "tweet_count": "169K Tweets"
   },
   {
     "name": "#вордли",
     "query": "#вордли",
     "rank": 5,
-    "tweet_count": "1,452 Tweets"
+    "tweet_count": "1,477 Tweets"
   },
   {
     "name": "Боже",
     "query": "Боже",
     "rank": 6,
-    "tweet_count": "7,985 Tweets"
+    "tweet_count": "8,123 Tweets"
+  },
+  {
+    "name": "#ArtistOnTwitter",
+    "query": "#ArtistOnTwitter",
+    "rank": 7,
+    "tweet_count": "18.5K Tweets"
   },
   {
     "name": "#МояГодовщинаВТвиттере",
     "query": "#МояГодовщинаВТвиттере",
-    "rank": 7,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "#Olympics",
     "query": "#Olympics",
-    "rank": 8,
-    "tweet_count": "38.7K Tweets"
+    "rank": 9,
+    "tweet_count": "39.3K Tweets"
+  },
+  {
+    "name": "Беларуси",
+    "query": "Беларуси",
+    "rank": 10,
+    "tweet_count": "1,438 Tweets"
   },
   {
     "name": "Приятного",
     "query": "Приятного",
-    "rank": 9,
-    "tweet_count": "1,316 Tweets"
-  },
-  {
-    "name": "COVID-19",
-    "query": "COVID-19",
-    "rank": 10,
-    "tweet_count": "304K Tweets"
+    "rank": 11,
+    "tweet_count": "1,344 Tweets"
   },
   {
     "name": "минска",
     "query": "минска",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Russia",
     "query": "Russia",
-    "rank": 12,
-    "tweet_count": "210K Tweets"
-  },
-  {
-    "name": "Аято",
-    "query": "Аято",
     "rank": 13,
-    "tweet_count": "3,667 Tweets"
+    "tweet_count": "212K Tweets"
   },
   {
-    "name": "нато",
-    "query": "нато",
+    "name": "аято",
+    "query": "аято",
     "rank": 14,
-    "tweet_count": "6,383 Tweets"
+    "tweet_count": "3,768 Tweets"
+  },
+  {
+    "name": "НАТО",
+    "query": "НАТО",
+    "rank": 15,
+    "tweet_count": "6,579 Tweets"
+  },
+  {
+    "name": "Жаль",
+    "query": "Жаль",
+    "rank": 16,
+    "tweet_count": "5,440 Tweets"
   }
 ]
