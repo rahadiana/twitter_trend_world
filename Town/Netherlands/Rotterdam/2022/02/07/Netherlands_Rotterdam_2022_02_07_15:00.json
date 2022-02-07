@@ -1,27 +1,27 @@
 [
   {
+    "name": "#Olympics2022",
+    "query": "#Olympics2022",
+    "rank": 1,
+    "tweet_count": "10.7K Tweets"
+  },
+  {
     "name": "#ShortTrack",
     "query": "#ShortTrack",
-    "rank": 1,
-    "tweet_count": "80.7K Tweets"
+    "rank": 2,
+    "tweet_count": "86.9K Tweets"
   },
   {
     "name": "Overmars",
     "query": "Overmars",
-    "rank": 2,
-    "tweet_count": "28.3K Tweets"
-  },
-  {
-    "name": "#Olympics2022",
-    "query": "#Olympics2022",
     "rank": 3,
-    "tweet_count": "10.4K Tweets"
+    "tweet_count": "28.6K Tweets"
   },
   {
-    "name": "#wust",
-    "query": "#wust",
+    "name": "#olympischespelen",
+    "query": "#olympischespelen",
     "rank": 4,
-    "tweet_count": "1,270 Tweets"
+    "tweet_count": "1,981 Tweets"
   },
   {
     "name": "Gerard Joling",
@@ -30,75 +30,63 @@
     "tweet_count": null
   },
   {
-    "name": "#olympischespelen",
-    "query": "#olympischespelen",
+    "name": "#wust",
+    "query": "#wust",
     "rank": 6,
-    "tweet_count": "1,970 Tweets"
-  },
-  {
-    "name": "#Grensoverschrijdendgedrag",
-    "query": "#Grensoverschrijdendgedrag",
-    "rank": 7,
-    "tweet_count": null
+    "tweet_count": "1,280 Tweets"
   },
   {
     "name": "#schulting",
     "query": "#schulting",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "#Grensoverschrijdendgedrag",
+    "query": "#Grensoverschrijdendgedrag",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "#OlympicGames",
-    "query": "#OlympicGames",
+    "name": "#luchtalarm",
+    "query": "#luchtalarm",
     "rank": 9,
-    "tweet_count": "7,617 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#MeToo",
     "query": "#MeToo",
     "rank": 10,
-    "tweet_count": "5,076 Tweets"
+    "tweet_count": "5,212 Tweets"
   },
   {
-    "name": "#luchtalarm",
-    "query": "#luchtalarm",
+    "name": "#OlympicGames",
+    "query": "#OlympicGames",
     "rank": 11,
+    "tweet_count": "7,842 Tweets"
+  },
+  {
+    "name": "#Beijing2022",
+    "query": "#Beijing2022",
+    "rank": 12,
+    "tweet_count": "230K Tweets"
+  },
+  {
+    "name": "#TeamNL",
+    "query": "#TeamNL",
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "#goud",
     "query": "#goud",
-    "rank": 12,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "#onverdeelopen",
     "query": "#onverdeelopen",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "#Beijing2022",
-    "query": "#Beijing2022",
-    "rank": 14,
-    "tweet_count": "226K Tweets"
-  },
-  {
-    "name": "#oranje",
-    "query": "#oranje",
     "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "#TeamNL",
-    "query": "#TeamNL",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "#OS2022",
-    "query": "#OS2022",
-    "rank": 17,
     "tweet_count": null
   }
 ]

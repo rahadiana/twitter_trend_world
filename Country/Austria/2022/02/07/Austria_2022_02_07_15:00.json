@@ -1,9 +1,9 @@
 [
   {
-    "name": "#Pressestunde",
-    "query": "#Pressestunde",
+    "name": "#pressestunde",
+    "query": "#pressestunde",
     "rank": 1,
-    "tweet_count": "3,076 Tweets"
+    "tweet_count": "3,086 Tweets"
   },
   {
     "name": "Gsindl",
@@ -12,8 +12,8 @@
     "tweet_count": null
   },
   {
-    "name": "#wksta",
-    "query": "#wksta",
+    "name": "#WKSTA",
+    "query": "#WKSTA",
     "rank": 3,
     "tweet_count": null
   },
@@ -24,8 +24,8 @@
     "tweet_count": null
   },
   {
-    "name": "#kahr",
-    "query": "#kahr",
+    "name": "#Kahr",
+    "query": "#Kahr",
     "rank": 5,
     "tweet_count": null
   },
@@ -48,20 +48,20 @@
     "tweet_count": null
   },
   {
-    "name": "Gust",
-    "query": "Gust",
+    "name": "gust",
+    "query": "gust",
     "rank": 9,
-    "tweet_count": "16.3K Tweets"
+    "tweet_count": "16.4K Tweets"
   },
   {
     "name": "Wochenstart",
     "query": "Wochenstart",
     "rank": 10,
-    "tweet_count": "1,827 Tweets"
+    "tweet_count": "1,849 Tweets"
   },
   {
-    "name": "Kommunistin",
-    "query": "Kommunistin",
+    "name": "kommunistin",
+    "query": "kommunistin",
     "rank": 11,
     "tweet_count": null
   },
@@ -69,23 +69,23 @@
     "name": "Demon Slayer",
     "query": "\"Demon Slayer\"",
     "rank": 12,
-    "tweet_count": "349K Tweets"
+    "tweet_count": "353K Tweets"
   },
   {
-    "name": "Auslieferung",
-    "query": "Auslieferung",
+    "name": "auslieferung",
+    "query": "auslieferung",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "Zeitung",
-    "query": "Zeitung",
+    "name": "tischler",
+    "query": "tischler",
     "rank": 14,
-    "tweet_count": "8,157 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Tischler",
-    "query": "Tischler",
+    "name": "marille",
+    "query": "marille",
     "rank": 15,
     "tweet_count": null
   },
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
-    "name": "marille",
-    "query": "marille",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
     "name": "Bürgermeisterin",
     "query": "Bürgermeisterin",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Flitzer",
     "query": "Flitzer",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "chefredakteur",
     "query": "chefredakteur",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "Sigi",
+    "query": "Sigi",
+    "rank": 20,
+    "tweet_count": "1,414 Tweets"
   }
 ]

@@ -1,86 +1,110 @@
 [
   {
-    "name": "#DevelopmentCup",
-    "query": "#DevelopmentCup",
+    "name": "Donbass",
+    "query": "Donbass",
     "rank": 1,
+    "tweet_count": "4,310 Tweets"
+  },
+  {
+    "name": "Ukraine",
+    "query": "Ukraine",
+    "rank": 2,
+    "tweet_count": "170K Tweets"
+  },
+  {
+    "name": "Украину",
+    "query": "Украину",
+    "rank": 3,
+    "tweet_count": "7,800 Tweets"
+  },
+  {
+    "name": "#лунинец",
+    "query": "#лунинец",
+    "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "Donbass",
-    "query": "Donbass",
-    "rank": 2,
-    "tweet_count": "4,206 Tweets"
-  },
-  {
-    "name": "#Ukraine",
-    "query": "#Ukraine",
-    "rank": 3,
-    "tweet_count": "19.9K Tweets"
-  },
-  {
-    "name": "Украина",
-    "query": "Украина",
-    "rank": 4,
-    "tweet_count": "5,218 Tweets"
-  },
-  {
-    "name": "Боже",
-    "query": "Боже",
+    "name": "Видимо",
+    "query": "Видимо",
     "rank": 5,
-    "tweet_count": "7,718 Tweets"
+    "tweet_count": "5,284 Tweets"
   },
   {
     "name": "#Beijing2022",
     "query": "#Beijing2022",
     "rank": 6,
-    "tweet_count": "227K Tweets"
+    "tweet_count": "230K Tweets"
   },
   {
-    "name": "#ArtistOnTwitter",
-    "query": "#ArtistOnTwitter",
+    "name": "Russian",
+    "query": "Russian",
     "rank": 7,
-    "tweet_count": "17.9K Tweets"
+    "tweet_count": "123K Tweets"
   },
   {
-    "name": "Приятного",
-    "query": "Приятного",
+    "name": "#Olympics",
+    "query": "#Olympics",
     "rank": 8,
-    "tweet_count": "1,304 Tweets"
+    "tweet_count": "42.1K Tweets"
   },
   {
-    "name": "Russia",
-    "query": "Russia",
+    "name": "Олимпийских",
+    "query": "Олимпийских",
     "rank": 9,
-    "tweet_count": "210K Tweets"
+    "tweet_count": "2,803 Tweets"
+  },
+  {
+    "name": "Боже",
+    "query": "Боже",
+    "rank": 10,
+    "tweet_count": "7,925 Tweets"
+  },
+  {
+    "name": "Наверное",
+    "query": "Наверное",
+    "rank": 11,
+    "tweet_count": "6,956 Tweets"
   },
   {
     "name": "#digitalart",
     "query": "#digitalart",
-    "rank": 10,
-    "tweet_count": "45K Tweets"
+    "rank": 12,
+    "tweet_count": "45.9K Tweets"
   },
   {
-    "name": "минска",
-    "query": "минска",
-    "rank": 11,
+    "name": "НЕ МОГУ",
+    "query": "\"НЕ МОГУ\"",
+    "rank": 13,
+    "tweet_count": "18.5K Tweets"
+  },
+  {
+    "name": "#Bitcoin",
+    "query": "#Bitcoin",
+    "rank": 14,
+    "tweet_count": "407K Tweets"
+  },
+  {
+    "name": "поиск - по",
+    "query": "\"поиск - по\"",
+    "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "Господи",
-    "query": "Господи",
-    "rank": 12,
-    "tweet_count": "5,898 Tweets"
-  },
-  {
-    "name": "НАТО",
-    "query": "НАТО",
-    "rank": 13,
-    "tweet_count": "6,668 Tweets"
+    "name": "Жаль",
+    "query": "Жаль",
+    "rank": 16,
+    "tweet_count": "5,166 Tweets"
   },
   {
     "name": "Надеюсь",
     "query": "Надеюсь",
-    "rank": 14,
-    "tweet_count": "13.4K Tweets"
+    "rank": 17,
+    "tweet_count": "13.8K Tweets"
+  },
+  {
+    "name": "Ужас",
+    "query": "Ужас",
+    "rank": 18,
+    "tweet_count": "3,049 Tweets"
   }
 ]
