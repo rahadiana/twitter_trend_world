@@ -1,39 +1,39 @@
 [
   {
+    "name": "#ラヴィット",
+    "query": "#ラヴィット",
+    "rank": 1,
+    "tweet_count": "17.8K Tweets"
+  },
+  {
     "name": "交通機関",
     "query": "交通機関",
-    "rank": 1,
-    "tweet_count": "7,742 Tweets"
+    "rank": 2,
+    "tweet_count": "7,871 Tweets"
   },
   {
     "name": "中央バス",
     "query": "中央バス",
-    "rank": 2,
-    "tweet_count": "3,031 Tweets"
+    "rank": 3,
+    "tweet_count": "3,071 Tweets"
   },
   {
     "name": "バス運休",
     "query": "バス運休",
-    "rank": 3,
-    "tweet_count": "14.7K Tweets"
+    "rank": 4,
+    "tweet_count": "14.9K Tweets"
   },
   {
     "name": "大雪の影響",
     "query": "大雪の影響",
-    "rank": 4,
-    "tweet_count": "22.6K Tweets"
+    "rank": 5,
+    "tweet_count": "22.8K Tweets"
   },
   {
     "name": "臨時休校",
     "query": "臨時休校",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "全面運休",
-    "query": "全面運休",
     "rank": 6,
-    "tweet_count": "6,748 Tweets"
+    "tweet_count": null
   },
   {
     "name": "在宅勤務",
@@ -45,78 +45,78 @@
     "name": "タクシー",
     "query": "タクシー",
     "rank": 8,
-    "tweet_count": "22.1K Tweets"
+    "tweet_count": "22.3K Tweets"
   },
   {
     "name": "札幌市内",
     "query": "札幌市内",
     "rank": 9,
-    "tweet_count": "7,798 Tweets"
-  },
-  {
-    "name": "テレワーク",
-    "query": "テレワーク",
-    "rank": 10,
-    "tweet_count": "7,212 Tweets"
+    "tweet_count": "8,007 Tweets"
   },
   {
     "name": "#札幌大雪",
     "query": "#札幌大雪",
-    "rank": 11,
-    "tweet_count": "1,529 Tweets"
+    "rank": 10,
+    "tweet_count": "1,555 Tweets"
   },
   {
     "name": "仕事休み",
     "query": "仕事休み",
-    "rank": 12,
-    "tweet_count": "13.6K Tweets"
+    "rank": 11,
+    "tweet_count": "13.8K Tweets"
   },
   {
     "name": "JR北海道",
     "query": "JR北海道",
-    "rank": 13,
-    "tweet_count": "16.9K Tweets"
+    "rank": 12,
+    "tweet_count": "17K Tweets"
   },
   {
     "name": "運転見合わせ",
     "query": "運転見合わせ",
-    "rank": 14,
-    "tweet_count": "8,656 Tweets"
+    "rank": 13,
+    "tweet_count": "8,719 Tweets"
   },
   {
     "name": "JR運休",
     "query": "JR運休",
-    "rank": 15,
-    "tweet_count": "27.6K Tweets"
+    "rank": 14,
+    "tweet_count": "27.8K Tweets"
   },
   {
     "name": "りくりゅう",
     "query": "りくりゅう",
-    "rank": 16,
-    "tweet_count": "9,089 Tweets"
+    "rank": 15,
+    "tweet_count": "9,425 Tweets"
   },
   {
     "name": "BIGBANG",
     "query": "BIGBANG",
+    "rank": 16,
+    "tweet_count": "146K Tweets"
+  },
+  {
+    "name": "長尾3D",
+    "query": "長尾3D",
     "rank": 17,
-    "tweet_count": "134K Tweets"
+    "tweet_count": "1,242 Tweets"
   },
   {
     "name": "#石原慎太郎の都民葬に反対します",
     "query": "#石原慎太郎の都民葬に反対します",
     "rank": 18,
-    "tweet_count": "26.5K Tweets"
+    "tweet_count": "27.1K Tweets"
   },
   {
     "name": "あらびき団",
     "query": "あらびき団",
     "rank": 19,
-    "tweet_count": "7,234 Tweets"
+    "tweet_count": "7,303 Tweets"
   },
   {
-    "name": "長尾3D",
-    "query": "長尾3D",
+    "name": "差別用語",
+    "query": "差別用語",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "3,585 Tweets"
   }
 ]
