@@ -1,15 +1,15 @@
 [
   {
-    "name": "Millonarios",
-    "query": "Millonarios",
-    "rank": 1,
-    "tweet_count": "11.1K Tweets"
-  },
-  {
     "name": "Tunja",
     "query": "Tunja",
+    "rank": 1,
+    "tweet_count": "13.3K Tweets"
+  },
+  {
+    "name": "Millonarios",
+    "query": "Millonarios",
     "rank": 2,
-    "tweet_count": "13.2K Tweets"
+    "tweet_count": "11.1K Tweets"
   },
   {
     "name": "Unión Magdalena",
@@ -21,19 +21,19 @@
     "name": "#Euphoria",
     "query": "#Euphoria",
     "rank": 4,
-    "tweet_count": "562K Tweets"
-  },
-  {
-    "name": "Candelo",
-    "query": "Candelo",
-    "rank": 5,
-    "tweet_count": "1,048 Tweets"
+    "tweet_count": "580K Tweets"
   },
   {
     "name": "#LaGranEncuesta",
     "query": "#LaGranEncuesta",
+    "rank": 5,
+    "tweet_count": "6,256 Tweets"
+  },
+  {
+    "name": "Candelo",
+    "query": "Candelo",
     "rank": 6,
-    "tweet_count": "6,199 Tweets"
+    "tweet_count": "1,051 Tweets"
   },
   {
     "name": "Gio Moreno",
@@ -45,7 +45,7 @@
     "name": "Mantilla",
     "query": "Mantilla",
     "rank": 8,
-    "tweet_count": "1,394 Tweets"
+    "tweet_count": "1,396 Tweets"
   },
   {
     "name": "Jefferson Duque",
@@ -63,7 +63,7 @@
     "name": "Mejía",
     "query": "Mejía",
     "rank": 11,
-    "tweet_count": "4,530 Tweets"
+    "tweet_count": "4,552 Tweets"
   },
   {
     "name": "Aguilar",
@@ -75,31 +75,31 @@
     "name": "Pasto",
     "query": "Pasto",
     "rank": 13,
-    "tweet_count": "4,958 Tweets"
+    "tweet_count": "4,978 Tweets"
   },
   {
-    "name": "Ruyeri",
-    "query": "Ruyeri",
+    "name": "Cabal",
+    "query": "Cabal",
     "rank": 14,
+    "tweet_count": "80.6K Tweets"
+  },
+  {
+    "name": "ruyeri",
+    "query": "ruyeri",
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Guzmán",
     "query": "Guzmán",
-    "rank": 15,
-    "tweet_count": "8,194 Tweets"
+    "rank": 16,
+    "tweet_count": "8,224 Tweets"
   },
   {
     "name": "Sosa",
     "query": "Sosa",
-    "rank": 16,
-    "tweet_count": "10.1K Tweets"
-  },
-  {
-    "name": "Cabal",
-    "query": "Cabal",
     "rank": 17,
-    "tweet_count": "80.4K Tweets"
+    "tweet_count": "10.1K Tweets"
   },
   {
     "name": "Alejandro Restrepo",
@@ -111,12 +111,12 @@
     "name": "Ramiro",
     "query": "Ramiro",
     "rank": 19,
-    "tweet_count": "3,428 Tweets"
+    "tweet_count": "3,442 Tweets"
   },
   {
-    "name": "Herazo",
-    "query": "Herazo",
+    "name": "Tinder",
+    "query": "Tinder",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "80.2K Tweets"
   }
 ]
