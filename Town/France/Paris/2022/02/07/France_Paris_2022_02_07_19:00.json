@@ -1,69 +1,69 @@
 [
   {
-    "name": "#NOPLP",
-    "query": "#NOPLP",
+    "name": "#noplp",
+    "query": "#noplp",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "Rengoku",
-    "query": "Rengoku",
-    "rank": 2,
-    "tweet_count": "12.5K Tweets"
-  },
-  {
     "name": "#Russie",
     "query": "#Russie",
+    "rank": 2,
+    "tweet_count": "2,851 Tweets"
+  },
+  {
+    "name": "Rengoku",
+    "query": "Rengoku",
     "rank": 3,
-    "tweet_count": "2,812 Tweets"
+    "tweet_count": "12.6K Tweets"
+  },
+  {
+    "name": "Hamilton",
+    "query": "Hamilton",
+    "rank": 4,
+    "tweet_count": "19.1K Tweets"
   },
   {
     "name": "Tengen",
     "query": "Tengen",
-    "rank": 4,
-    "tweet_count": "15.7K Tweets"
+    "rank": 5,
+    "tweet_count": "15.9K Tweets"
   },
   {
     "name": "#Darmon",
     "query": "#Darmon",
-    "rank": 5,
-    "tweet_count": "3,540 Tweets"
-  },
-  {
-    "name": "Bayern",
-    "query": "Bayern",
     "rank": 6,
-    "tweet_count": "39.2K Tweets"
+    "tweet_count": "3,564 Tweets"
   },
   {
     "name": "Poutine",
     "query": "Poutine",
     "rank": 7,
-    "tweet_count": "26.8K Tweets"
+    "tweet_count": "27.5K Tweets"
   },
   {
-    "name": "#AnasseSorbonne",
-    "query": "#AnasseSorbonne",
+    "name": "#anassesorbonne",
+    "query": "#anassesorbonne",
     "rank": 8,
-    "tweet_count": "1,630 Tweets"
+    "tweet_count": "1,716 Tweets"
   },
   {
     "name": "Mathieu",
     "query": "Mathieu",
     "rank": 9,
-    "tweet_count": "7,416 Tweets"
+    "tweet_count": "7,563 Tweets"
   },
   {
     "name": "Bigard",
     "query": "Bigard",
     "rank": 10,
-    "tweet_count": "1,362 Tweets"
+    "tweet_count": "1,477 Tweets"
   },
   {
     "name": "#MacronMauvaisPresident",
     "query": "#MacronMauvaisPresident",
     "rank": 11,
-    "tweet_count": "3,422 Tweets"
+    "tweet_count": "3,695 Tweets"
   },
   {
     "name": "Delormeau",
@@ -81,42 +81,42 @@
     "name": "Orban",
     "query": "Orban",
     "rank": 14,
-    "tweet_count": "3,123 Tweets"
+    "tweet_count": "3,196 Tweets"
   },
   {
     "name": "Kremlin",
     "query": "Kremlin",
     "rank": 15,
-    "tweet_count": "11.4K Tweets"
-  },
-  {
-    "name": "Maserati",
-    "query": "Maserati",
-    "rank": 16,
-    "tweet_count": "22.5K Tweets"
-  },
-  {
-    "name": "Pusha T",
-    "query": "\"Pusha T\"",
-    "rank": 17,
-    "tweet_count": "12K Tweets"
+    "tweet_count": "11.7K Tweets"
   },
   {
     "name": "Molotov",
     "query": "Molotov",
-    "rank": 18,
-    "tweet_count": "2,763 Tweets"
+    "rank": 16,
+    "tweet_count": "2,819 Tweets"
   },
   {
-    "name": "Balkany",
-    "query": "Balkany",
+    "name": "Maserati",
+    "query": "Maserati",
+    "rank": 17,
+    "tweet_count": "22.9K Tweets"
+  },
+  {
+    "name": "Pusha T",
+    "query": "\"Pusha T\"",
+    "rank": 18,
+    "tweet_count": "12.4K Tweets"
+  },
+  {
+    "name": "Moscou",
+    "query": "Moscou",
     "rank": 19,
-    "tweet_count": "21.2K Tweets"
+    "tweet_count": "7,821 Tweets"
   },
   {
     "name": "France Inter",
     "query": "\"France Inter\"",
     "rank": 20,
-    "tweet_count": "17.3K Tweets"
+    "tweet_count": "17.5K Tweets"
   }
 ]
