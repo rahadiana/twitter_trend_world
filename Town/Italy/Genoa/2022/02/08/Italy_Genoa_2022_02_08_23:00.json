@@ -1,39 +1,39 @@
 [
   {
+    "name": "#Curling",
+    "query": "#Curling",
+    "rank": 1,
+    "tweet_count": "25.8K Tweets"
+  },
+  {
     "name": "#InterRoma",
     "query": "#InterRoma",
-    "rank": 1,
-    "tweet_count": "18K Tweets"
+    "rank": 2,
+    "tweet_count": "18.2K Tweets"
   },
   {
     "name": "#LeaUnNuovoGiorno",
     "query": "#LeaUnNuovoGiorno",
-    "rank": 2,
-    "tweet_count": "3,541 Tweets"
+    "rank": 3,
+    "tweet_count": "3,544 Tweets"
   },
   {
     "name": "#Fuoridalcoro",
     "query": "#Fuoridalcoro",
-    "rank": 3,
-    "tweet_count": "10.5K Tweets"
-  },
-  {
-    "name": "#dimartedi",
-    "query": "#dimartedi",
     "rank": 4,
-    "tweet_count": "2,075 Tweets"
+    "tweet_count": "10.9K Tweets"
   },
   {
-    "name": "#coppaitalia",
-    "query": "#coppaitalia",
+    "name": "#DiMartedi",
+    "query": "#DiMartedi",
     "rank": 5,
-    "tweet_count": "4,969 Tweets"
+    "tweet_count": "2,165 Tweets"
   },
   {
     "name": "Vidal",
     "query": "Vidal",
     "rank": 6,
-    "tweet_count": "13.7K Tweets"
+    "tweet_count": "13.9K Tweets"
   },
   {
     "name": "Gardini",
@@ -45,23 +45,23 @@
     "name": "Bastoni",
     "query": "Bastoni",
     "rank": 8,
-    "tweet_count": "8,652 Tweets"
+    "tweet_count": "8,718 Tweets"
   },
   {
     "name": "Oliveira",
     "query": "Oliveira",
     "rank": 9,
-    "tweet_count": "14.1K Tweets"
+    "tweet_count": "14.4K Tweets"
   },
   {
     "name": "La Roma",
     "query": "\"La Roma\"",
     "rank": 10,
-    "tweet_count": "16.7K Tweets"
+    "tweet_count": "17.1K Tweets"
   },
   {
-    "name": "anna valle",
-    "query": "\"anna valle\"",
+    "name": "Anna Valle",
+    "query": "\"Anna Valle\"",
     "rank": 11,
     "tweet_count": null
   },
@@ -69,25 +69,25 @@
     "name": "Zaniolo",
     "query": "Zaniolo",
     "rank": 12,
-    "tweet_count": "5,902 Tweets"
+    "tweet_count": "5,945 Tweets"
   },
   {
     "name": "Smalling",
     "query": "Smalling",
     "rank": 13,
-    "tweet_count": "1,149 Tweets"
+    "tweet_count": "1,165 Tweets"
   },
   {
     "name": "Brozovic",
     "query": "Brozovic",
     "rank": 14,
-    "tweet_count": "1,673 Tweets"
+    "tweet_count": "1,695 Tweets"
   },
   {
     "name": "Liverpool",
     "query": "Liverpool",
     "rank": 15,
-    "tweet_count": "45.8K Tweets"
+    "tweet_count": "46.2K Tweets"
   },
   {
     "name": "Trevisani",
@@ -99,24 +99,24 @@
     "name": "Mancini",
     "query": "Mancini",
     "rank": 17,
-    "tweet_count": "2,842 Tweets"
+    "tweet_count": "2,900 Tweets"
   },
   {
     "name": "Di Bello",
     "query": "\"Di Bello\"",
     "rank": 18,
-    "tweet_count": "3,882 Tweets"
-  },
-  {
-    "name": "Skriniar",
-    "query": "Skriniar",
-    "rank": 19,
-    "tweet_count": "2,406 Tweets"
+    "tweet_count": "3,924 Tweets"
   },
   {
     "name": "San Siro",
     "query": "\"San Siro\"",
+    "rank": 19,
+    "tweet_count": "5,471 Tweets"
+  },
+  {
+    "name": "Abraham",
+    "query": "Abraham",
     "rank": 20,
-    "tweet_count": "5,354 Tweets"
+    "tweet_count": "13K Tweets"
   }
 ]
