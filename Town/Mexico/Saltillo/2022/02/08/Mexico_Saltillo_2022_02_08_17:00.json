@@ -1,122 +1,116 @@
 [
   {
-    "name": "Donovan",
-    "query": "Donovan",
-    "rank": 1,
-    "tweet_count": "106K Tweets"
-  },
-  {
     "name": "#Beijing2022",
     "query": "#Beijing2022",
-    "rank": 2,
-    "tweet_count": "305K Tweets"
-  },
-  {
-    "name": "#OscarNoms",
-    "query": "#OscarNoms",
-    "rank": 3,
-    "tweet_count": "186K Tweets"
+    "rank": 1,
+    "tweet_count": "306K Tweets"
   },
   {
     "name": "Bad Bunny",
     "query": "\"Bad Bunny\"",
-    "rank": 4,
-    "tweet_count": "64.3K Tweets"
+    "rank": 2,
+    "tweet_count": "69.1K Tweets"
   },
   {
     "name": "#TodosSomosHugo",
     "query": "#TodosSomosHugo",
-    "rank": 5,
-    "tweet_count": "4,532 Tweets"
+    "rank": 3,
+    "tweet_count": "5,543 Tweets"
+  },
+  {
+    "name": "#OscarNoms",
+    "query": "#OscarNoms",
+    "rank": 4,
+    "tweet_count": "190K Tweets"
   },
   {
     "name": "#JUNGWONInAMillion",
     "query": "#JUNGWONInAMillion",
-    "rank": 6,
-    "tweet_count": "686K Tweets"
+    "rank": 5,
+    "tweet_count": "695K Tweets"
   },
   {
     "name": "#FelizMartes",
     "query": "#FelizMartes",
-    "rank": 7,
-    "tweet_count": "12.4K Tweets"
-  },
-  {
-    "name": "Kristen Stewart",
-    "query": "\"Kristen Stewart\"",
-    "rank": 8,
-    "tweet_count": "67.7K Tweets"
+    "rank": 6,
+    "tweet_count": "12.7K Tweets"
   },
   {
     "name": "Guillermo del Toro",
     "query": "\"Guillermo del Toro\"",
-    "rank": 9,
-    "tweet_count": "3,318 Tweets"
+    "rank": 7,
+    "tweet_count": "3,462 Tweets"
   },
   {
     "name": "Mejor Película",
     "query": "\"Mejor Película\"",
+    "rank": 8,
+    "tweet_count": "13.7K Tweets"
+  },
+  {
+    "name": "Benito",
+    "query": "Benito",
+    "rank": 9,
+    "tweet_count": "11.5K Tweets"
+  },
+  {
+    "name": "Hugo López",
+    "query": "\"Hugo López\"",
     "rank": 10,
-    "tweet_count": "13.1K Tweets"
+    "tweet_count": "2,123 Tweets"
   },
   {
     "name": "The Mitchells",
     "query": "\"The Mitchells\"",
     "rank": 11,
-    "tweet_count": "5,823 Tweets"
+    "tweet_count": "5,968 Tweets"
   },
   {
-    "name": "San Benito",
-    "query": "\"San Benito\"",
+    "name": "The Notebook",
+    "query": "\"The Notebook\"",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "25K Tweets"
+  },
+  {
+    "name": "Luca",
+    "query": "Luca",
+    "rank": 13,
+    "tweet_count": "50K Tweets"
   },
   {
     "name": "Julio Verne",
     "query": "\"Julio Verne\"",
-    "rank": 13,
-    "tweet_count": "2,613 Tweets"
+    "rank": 14,
+    "tweet_count": "2,712 Tweets"
   },
   {
     "name": "Benedict",
     "query": "Benedict",
-    "rank": 14,
-    "tweet_count": "22.5K Tweets"
-  },
-  {
-    "name": "Carlos López Estrada",
-    "query": "\"Carlos López Estrada\"",
     "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "hugo lópez-gatell",
-    "query": "\"hugo lópez-gatell\"",
-    "rank": 16,
-    "tweet_count": "1,397 Tweets"
-  },
-  {
-    "name": "Jane Campion",
-    "query": "\"Jane Campion\"",
-    "rank": 17,
-    "tweet_count": "7,421 Tweets"
-  },
-  {
-    "name": "Mejor Actriz",
-    "query": "\"Mejor Actriz\"",
-    "rank": 18,
-    "tweet_count": "6,457 Tweets"
+    "tweet_count": "23K Tweets"
   },
   {
     "name": "Eternals",
     "query": "Eternals",
-    "rank": 19,
-    "tweet_count": "12K Tweets"
+    "rank": 16,
+    "tweet_count": "12.6K Tweets"
+  },
+  {
+    "name": "Carlos López Estrada",
+    "query": "\"Carlos López Estrada\"",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Jane Campion",
+    "query": "\"Jane Campion\"",
+    "rank": 18,
+    "tweet_count": "7,669 Tweets"
   },
   {
     "name": "Mejor Actor",
     "query": "\"Mejor Actor\"",
-    "rank": 20,
-    "tweet_count": "8,630 Tweets"
+    "rank": 19,
+    "tweet_count": "8,883 Tweets"
   }
 ]
