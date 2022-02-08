@@ -1,105 +1,105 @@
 [
   {
-    "name": "Tiago",
-    "query": "Tiago",
-    "rank": 1,
-    "tweet_count": "91.7K Tweets"
-  },
-  {
     "name": "Tadeu",
     "query": "Tadeu",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "109K Tweets"
   },
   {
     "name": "Lina",
     "query": "Lina",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": "56.3K Tweets"
   },
   {
     "name": "Paulo André",
     "query": "\"Paulo André\"",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": "31.1K Tweets"
+  },
+  {
+    "name": "O Tiago",
+    "query": "\"O Tiago\"",
+    "rank": 4,
+    "tweet_count": "49K Tweets"
   },
   {
     "name": "O BBB",
     "query": "\"O BBB\"",
     "rank": 5,
-    "tweet_count": "173K Tweets"
+    "tweet_count": "174K Tweets"
   },
   {
-    "name": "Mamacita",
-    "query": "Mamacita",
+    "name": "Maria",
+    "query": "Maria",
     "rank": 6,
-    "tweet_count": "9,699 Tweets"
+    "tweet_count": "798K Tweets"
   },
   {
     "name": "Maria",
     "query": "Maria",
     "rank": 7,
-    "tweet_count": "797K Tweets"
-  },
-  {
-    "name": "Maria",
-    "query": "Maria",
-    "rank": 8,
-    "tweet_count": "797K Tweets"
+    "tweet_count": "798K Tweets"
   },
   {
     "name": "Scooby",
     "query": "Scooby",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": "216K Tweets"
   },
   {
     "name": "Naiara",
     "query": "Naiara",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": "381K Tweets"
   },
   {
     "name": "O Arthur",
     "query": "\"O Arthur\"",
-    "rank": 11,
-    "tweet_count": "826K Tweets"
+    "rank": 10,
+    "tweet_count": "827K Tweets"
   },
   {
     "name": "#jogodadiscordia",
     "query": "#jogodadiscordia",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": "39.7K Tweets"
   },
   {
     "name": "Bárbara",
     "query": "Bárbara",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": "194K Tweets"
   },
   {
     "name": "Juliette",
     "query": "Juliette",
-    "rank": 14,
-    "tweet_count": "83K Tweets"
+    "rank": 13,
+    "tweet_count": "83.1K Tweets"
   },
   {
-    "name": "Arthur Aguiar",
-    "query": "\"Arthur Aguiar\"",
-    "rank": 15,
+    "name": "arthur aguiar",
+    "query": "\"arthur aguiar\"",
+    "rank": 14,
     "tweet_count": "116K Tweets"
   },
   {
     "name": "Laís",
     "query": "Laís",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": "152K Tweets"
   },
   {
     "name": "#FicaDG",
     "query": "#FicaDG",
+    "rank": 16,
+    "tweet_count": "32.8K Tweets"
+  },
+  {
+    "name": "Arthur e DG",
+    "query": "\"Arthur e DG\"",
     "rank": 17,
-    "tweet_count": "32.7K Tweets"
+    "tweet_count": "74.4K Tweets"
   },
   {
     "name": "#FicaArthur",
@@ -111,12 +111,12 @@
     "name": "#FicaDouglas",
     "query": "#FicaDouglas",
     "rank": 19,
-    "tweet_count": "8,507 Tweets"
+    "tweet_count": "8,514 Tweets"
   },
   {
     "name": "37 X",
     "query": "\"37 X\"",
     "rank": 20,
-    "tweet_count": "2,282 Tweets"
+    "tweet_count": "2,301 Tweets"
   }
 ]
