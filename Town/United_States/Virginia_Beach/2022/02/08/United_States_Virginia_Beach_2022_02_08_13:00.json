@@ -1,116 +1,104 @@
 [
   {
-    "name": "#OscarNoms",
-    "query": "#OscarNoms",
+    "name": "Oscar Nominations",
+    "query": "\"Oscar Nominations\"",
     "rank": 1,
-    "tweet_count": "67.9K Tweets"
+    "tweet_count": "22.7K Tweets"
   },
   {
     "name": "Wordle 234 X",
     "query": "\"Wordle 234 X\"",
     "rank": 2,
-    "tweet_count": "8,669 Tweets"
-  },
-  {
-    "name": "#tuesdaymotivations",
-    "query": "#tuesdaymotivations",
-    "rank": 3,
-    "tweet_count": "26.5K Tweets"
-  },
-  {
-    "name": "Dune",
-    "query": "Dune",
-    "rank": 4,
-    "tweet_count": "24.4K Tweets"
+    "tweet_count": "8,831 Tweets"
   },
   {
     "name": "#tuesdayvibe",
     "query": "#tuesdayvibe",
-    "rank": 5,
-    "tweet_count": "15.5K Tweets"
-  },
-  {
-    "name": "Diane Warren",
-    "query": "\"Diane Warren\"",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "Academy Award",
-    "query": "\"Academy Award\"",
-    "rank": 7,
-    "tweet_count": "5,006 Tweets"
-  },
-  {
-    "name": "Kristen Stewart",
-    "query": "\"Kristen Stewart\"",
-    "rank": 8,
-    "tweet_count": "8,574 Tweets"
-  },
-  {
-    "name": "Free Guy",
-    "query": "\"Free Guy\"",
-    "rank": 9,
-    "tweet_count": "8,029 Tweets"
-  },
-  {
-    "name": "Fang Fang",
-    "query": "\"Fang Fang\"",
-    "rank": 10,
-    "tweet_count": "10.9K Tweets"
+    "rank": 3,
+    "tweet_count": "15.9K Tweets"
   },
   {
     "name": "#SaferInternetDay",
     "query": "#SaferInternetDay",
-    "rank": 11,
-    "tweet_count": "27K Tweets"
+    "rank": 4,
+    "tweet_count": "27.7K Tweets"
   },
   {
     "name": "Illegally",
     "query": "Illegally",
-    "rank": 12,
-    "tweet_count": "32.5K Tweets"
+    "rank": 5,
+    "tweet_count": "33.2K Tweets"
   },
   {
     "name": "Happy 90th",
     "query": "\"Happy 90th\"",
-    "rank": 13,
-    "tweet_count": "2,153 Tweets"
+    "rank": 6,
+    "tweet_count": "2,305 Tweets"
+  },
+  {
+    "name": "#whereisMarcus",
+    "query": "#whereisMarcus",
+    "rank": 7,
+    "tweet_count": null
   },
   {
     "name": "Nikki Haley",
     "query": "\"Nikki Haley\"",
-    "rank": 14,
-    "tweet_count": "8,584 Tweets"
+    "rank": 8,
+    "tweet_count": "8,823 Tweets"
   },
   {
-    "name": "Balfe",
-    "query": "Balfe",
-    "rank": 15,
-    "tweet_count": "1,694 Tweets"
-  },
-  {
-    "name": "Original Song",
-    "query": "\"Original Song\"",
-    "rank": 16,
-    "tweet_count": "8,079 Tweets"
-  },
-  {
-    "name": "Flee",
-    "query": "Flee",
-    "rank": 17,
-    "tweet_count": "11.5K Tweets"
-  },
-  {
-    "name": "Cruella",
-    "query": "Cruella",
-    "rank": 18,
-    "tweet_count": "4,938 Tweets"
+    "name": "Summer of Soul",
+    "query": "\"Summer of Soul\"",
+    "rank": 9,
+    "tweet_count": null
   },
   {
     "name": "Improperly",
     "query": "Improperly",
-    "rank": 19,
-    "tweet_count": "27.6K Tweets"
+    "rank": 10,
+    "tweet_count": "28K Tweets"
+  },
+  {
+    "name": "#TravelTuesday",
+    "query": "#TravelTuesday",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "Film Editing",
+    "query": "\"Film Editing\"",
+    "rank": 12,
+    "tweet_count": "2,326 Tweets"
+  },
+  {
+    "name": "Visual Effects",
+    "query": "\"Visual Effects\"",
+    "rank": 13,
+    "tweet_count": "6,195 Tweets"
+  },
+  {
+    "name": "John Foley",
+    "query": "\"John Foley\"",
+    "rank": 14,
+    "tweet_count": "1,284 Tweets"
+  },
+  {
+    "name": "Adam McKay",
+    "query": "\"Adam McKay\"",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Top of the Morning",
+    "query": "\"Top of the Morning\"",
+    "rank": 16,
+    "tweet_count": "2,846 Tweets"
+  },
+  {
+    "name": "Nathan Chen",
+    "query": "\"Nathan Chen\"",
+    "rank": 17,
+    "tweet_count": "40.2K Tweets"
   }
 ]

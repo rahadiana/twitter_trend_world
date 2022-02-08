@@ -1,116 +1,110 @@
 [
   {
-    "name": "#OscarNoms",
-    "query": "#OscarNoms",
+    "name": "Oscar Nominations",
+    "query": "\"Oscar Nominations\"",
     "rank": 1,
-    "tweet_count": "66.7K Tweets"
+    "tweet_count": "22.7K Tweets"
   },
   {
     "name": "Wordle 234 X",
     "query": "\"Wordle 234 X\"",
     "rank": 2,
-    "tweet_count": "8,664 Tweets"
-  },
-  {
-    "name": "#tuesdaymotivations",
-    "query": "#tuesdaymotivations",
-    "rank": 3,
-    "tweet_count": "26.5K Tweets"
-  },
-  {
-    "name": "Dune",
-    "query": "Dune",
-    "rank": 4,
-    "tweet_count": "24.1K Tweets"
+    "tweet_count": "8,832 Tweets"
   },
   {
     "name": "#tuesdayvibe",
     "query": "#tuesdayvibe",
-    "rank": 5,
-    "tweet_count": "15.4K Tweets"
-  },
-  {
-    "name": "Diane Warren",
-    "query": "\"Diane Warren\"",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "Fang Fang",
-    "query": "\"Fang Fang\"",
-    "rank": 7,
-    "tweet_count": "10.8K Tweets"
-  },
-  {
-    "name": "Free Guy",
-    "query": "\"Free Guy\"",
-    "rank": 8,
-    "tweet_count": "7,977 Tweets"
+    "rank": 3,
+    "tweet_count": "15.8K Tweets"
   },
   {
     "name": "#SaferInternetDay",
     "query": "#SaferInternetDay",
-    "rank": 9,
-    "tweet_count": "26.9K Tweets"
+    "rank": 4,
+    "tweet_count": "27.7K Tweets"
   },
   {
     "name": "Illegally",
     "query": "Illegally",
-    "rank": 10,
-    "tweet_count": "32.4K Tweets"
+    "rank": 5,
+    "tweet_count": "33.2K Tweets"
   },
   {
     "name": "Happy 90th",
     "query": "\"Happy 90th\"",
-    "rank": 11,
-    "tweet_count": "2,158 Tweets"
+    "rank": 6,
+    "tweet_count": "2,309 Tweets"
   },
   {
     "name": "Nikki Haley",
     "query": "\"Nikki Haley\"",
-    "rank": 12,
-    "tweet_count": "8,575 Tweets"
-  },
-  {
-    "name": "Original Song",
-    "query": "\"Original Song\"",
-    "rank": 13,
-    "tweet_count": "8,067 Tweets"
-  },
-  {
-    "name": "Flee",
-    "query": "Flee",
-    "rank": 14,
-    "tweet_count": "11.4K Tweets"
-  },
-  {
-    "name": "Kristen Stewart",
-    "query": "\"Kristen Stewart\"",
-    "rank": 15,
-    "tweet_count": "9,178 Tweets"
+    "rank": 7,
+    "tweet_count": "8,812 Tweets"
   },
   {
     "name": "Improperly",
     "query": "Improperly",
+    "rank": 8,
+    "tweet_count": "28K Tweets"
+  },
+  {
+    "name": "#TongueOutTuesday",
+    "query": "#TongueOutTuesday",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "#whereisMarcus",
+    "query": "#whereisMarcus",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "Summer of Soul",
+    "query": "\"Summer of Soul\"",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "Film Editing",
+    "query": "\"Film Editing\"",
+    "rank": 12,
+    "tweet_count": "2,288 Tweets"
+  },
+  {
+    "name": "Visual Effects",
+    "query": "\"Visual Effects\"",
+    "rank": 13,
+    "tweet_count": "6,302 Tweets"
+  },
+  {
+    "name": "John Foley",
+    "query": "\"John Foley\"",
+    "rank": 14,
+    "tweet_count": "1,284 Tweets"
+  },
+  {
+    "name": "Adam McKay",
+    "query": "\"Adam McKay\"",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Notifications",
+    "query": "Notifications",
     "rank": 16,
-    "tweet_count": "27.6K Tweets"
+    "tweet_count": "120K Tweets"
   },
   {
-    "name": "Be Alive",
-    "query": "\"Be Alive\"",
+    "name": "#tuesdaymorning",
+    "query": "#tuesdaymorning",
     "rank": 17,
-    "tweet_count": "28.7K Tweets"
+    "tweet_count": "2,615 Tweets"
   },
   {
-    "name": "nathan chen",
-    "query": "\"nathan chen\"",
+    "name": "#TravelTuesday",
+    "query": "#TravelTuesday",
     "rank": 18,
-    "tweet_count": "39.9K Tweets"
-  },
-  {
-    "name": "Top of the Morning",
-    "query": "\"Top of the Morning\"",
-    "rank": 19,
-    "tweet_count": "2,793 Tweets"
+    "tweet_count": null
   }
 ]
