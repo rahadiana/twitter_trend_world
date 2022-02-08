@@ -1,69 +1,69 @@
 [
   {
+    "name": "#HEATCulture",
+    "query": "#HEATCulture",
+    "rank": 1,
+    "tweet_count": "2,724 Tweets"
+  },
+  {
     "name": "Wizards",
     "query": "Wizards",
-    "rank": 1,
-    "tweet_count": "15.2K Tweets"
+    "rank": 2,
+    "tweet_count": "15.5K Tweets"
   },
   {
     "name": "#heatnation",
     "query": "#heatnation",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Rumble",
     "query": "Rumble",
-    "rank": 3,
-    "tweet_count": "94.9K Tweets"
-  },
-  {
-    "name": "Valentines Day",
-    "query": "\"Valentines Day\"",
     "rank": 4,
-    "tweet_count": "80.5K Tweets"
+    "tweet_count": "96.2K Tweets"
   },
   {
     "name": "#TheBachelor",
     "query": "#TheBachelor",
     "rank": 5,
-    "tweet_count": "19.2K Tweets"
+    "tweet_count": "19.7K Tweets"
   },
   {
     "name": "#WWERaw",
     "query": "#WWERaw",
     "rank": 6,
-    "tweet_count": "51.2K Tweets"
+    "tweet_count": "52.8K Tweets"
   },
   {
     "name": "Yuzuru",
     "query": "Yuzuru",
     "rank": 7,
-    "tweet_count": "80.1K Tweets"
+    "tweet_count": "109K Tweets"
+  },
+  {
+    "name": "Kansas",
+    "query": "Kansas",
+    "rank": 8,
+    "tweet_count": "22.4K Tweets"
   },
   {
     "name": "Duke",
     "query": "Duke",
-    "rank": 8,
-    "tweet_count": "43.7K Tweets"
+    "rank": 9,
+    "tweet_count": "44.5K Tweets"
+  },
+  {
+    "name": "#USAvCAN",
+    "query": "#USAvCAN",
+    "rank": 10,
+    "tweet_count": null
   },
   {
     "name": "Eileen Gu",
     "query": "\"Eileen Gu\"",
-    "rank": 9,
-    "tweet_count": "8,274 Tweets"
-  },
-  {
-    "name": "Mitchell Robinson",
-    "query": "\"Mitchell Robinson\"",
-    "rank": 10,
-    "tweet_count": "1,398 Tweets"
-  },
-  {
-    "name": "Bulls",
-    "query": "Bulls",
     "rank": 11,
-    "tweet_count": "32.4K Tweets"
+    "tweet_count": "9,110 Tweets"
   },
   {
     "name": "Timmy Allen",
@@ -72,45 +72,45 @@
     "tweet_count": null
   },
   {
-    "name": "#kubball",
-    "query": "#kubball",
+    "name": "Nathan Chen",
+    "query": "\"Nathan Chen\"",
     "rank": 13,
-    "tweet_count": "1,776 Tweets"
+    "tweet_count": "5,914 Tweets"
   },
   {
-    "name": "#OlympicGames",
-    "query": "#OlympicGames",
+    "name": "junhwan",
+    "query": "junhwan",
     "rank": 14,
-    "tweet_count": "17.2K Tweets"
+    "tweet_count": "5,230 Tweets"
   },
   {
-    "name": "VERNON",
-    "query": "VERNON",
+    "name": "Mitchell Robinson",
+    "query": "\"Mitchell Robinson\"",
     "rank": 15,
-    "tweet_count": "69.1K Tweets"
+    "tweet_count": "1,664 Tweets"
   },
   {
-    "name": "Kansas",
-    "query": "Kansas",
+    "name": "Randle",
+    "query": "Randle",
     "rank": 16,
-    "tweet_count": "20.3K Tweets"
+    "tweet_count": "13.3K Tweets"
   },
   {
     "name": "Burks",
     "query": "Burks",
     "rank": 17,
-    "tweet_count": "3,662 Tweets"
+    "tweet_count": "4,190 Tweets"
   },
   {
-    "name": "Adam Siao",
-    "query": "\"Adam Siao\"",
+    "name": "Bulls",
+    "query": "Bulls",
     "rank": 18,
-    "tweet_count": "1,226 Tweets"
+    "tweet_count": "33.2K Tweets"
   },
   {
-    "name": "Deniss",
-    "query": "Deniss",
+    "name": "VERNON",
+    "query": "VERNON",
     "rank": 19,
-    "tweet_count": "2,019 Tweets"
+    "tweet_count": "73.2K Tweets"
   }
 ]
