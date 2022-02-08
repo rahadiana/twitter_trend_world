@@ -1,15 +1,15 @@
 [
   {
-    "name": "#overmars",
-    "query": "#overmars",
+    "name": "#Overmars",
+    "query": "#Overmars",
     "rank": 1,
-    "tweet_count": "7,397 Tweets"
+    "tweet_count": "7,403 Tweets"
   },
   {
     "name": "Ajax",
     "query": "Ajax",
     "rank": 2,
-    "tweet_count": "27.2K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#onverdeeldopen",
@@ -21,7 +21,7 @@
     "name": "#dickpic",
     "query": "#dickpic",
     "rank": 4,
-    "tweet_count": "1,870 Tweets"
+    "tweet_count": "1,879 Tweets"
   },
   {
     "name": "#wust",
@@ -33,7 +33,7 @@
     "name": "Van der Sar",
     "query": "\"Van der Sar\"",
     "rank": 6,
-    "tweet_count": "2,416 Tweets"
+    "tweet_count": "2,419 Tweets"
   },
   {
     "name": "Europeaan",
@@ -42,28 +42,28 @@
     "tweet_count": null
   },
   {
-    "name": "Sergio",
-    "query": "Sergio",
-    "rank": 8,
-    "tweet_count": "58.6K Tweets"
-  },
-  {
     "name": "Lisanne",
     "query": "Lisanne",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "mona",
     "query": "mona",
+    "rank": 9,
+    "tweet_count": "61.9K Tweets"
+  },
+  {
+    "name": "Sergio",
+    "query": "Sergio",
     "rank": 10,
-    "tweet_count": "58.6K Tweets"
+    "tweet_count": "59.2K Tweets"
   },
   {
     "name": "Leroy",
     "query": "Leroy",
     "rank": 11,
-    "tweet_count": "4,788 Tweets"
+    "tweet_count": "4,817 Tweets"
   },
   {
     "name": "Gerard Joling",
@@ -75,7 +75,7 @@
     "name": "Knot",
     "query": "Knot",
     "rank": 13,
-    "tweet_count": "9,910 Tweets"
+    "tweet_count": "9,972 Tweets"
   },
   {
     "name": "annelies",
@@ -90,27 +90,27 @@
     "tweet_count": null
   },
   {
+    "name": "Goedemorgen",
+    "query": "Goedemorgen",
+    "rank": 16,
+    "tweet_count": "7,955 Tweets"
+  },
+  {
     "name": "pampus",
     "query": "pampus",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "circulaire economie",
-    "query": "\"circulaire economie\"",
-    "rank": 17,
+    "name": "Circulaire Economie",
+    "query": "\"Circulaire Economie\"",
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Slaap",
     "query": "Slaap",
-    "rank": 18,
-    "tweet_count": "1,190 Tweets"
-  },
-  {
-    "name": "Antoinette de Jong",
-    "query": "\"Antoinette de Jong\"",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "1,194 Tweets"
   }
 ]
