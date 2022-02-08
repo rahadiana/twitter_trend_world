@@ -1,7 +1,7 @@
 [
   {
-    "name": "#eudk",
-    "query": "#eudk",
+    "name": "Carlsberg",
+    "query": "Carlsberg",
     "rank": 1,
     "tweet_count": null
   },
@@ -9,7 +9,7 @@
     "name": "Zendaya",
     "query": "Zendaya",
     "rank": 2,
-    "tweet_count": "304K Tweets"
+    "tweet_count": "306K Tweets"
   },
   {
     "name": "tjekkiet",
@@ -18,22 +18,22 @@
     "tweet_count": null
   },
   {
-    "name": "Qatar",
-    "query": "Qatar",
-    "rank": 4,
-    "tweet_count": "18.3K Tweets"
-  },
-  {
     "name": "#AFCON2021",
     "query": "#AFCON2021",
+    "rank": 4,
+    "tweet_count": "116K Tweets"
+  },
+  {
+    "name": "Qatar",
+    "query": "Qatar",
     "rank": 5,
-    "tweet_count": "115K Tweets"
+    "tweet_count": "18.6K Tweets"
   },
   {
     "name": "Verona",
     "query": "Verona",
     "rank": 6,
-    "tweet_count": "7,488 Tweets"
+    "tweet_count": "7,595 Tweets"
   },
   {
     "name": "netop",
@@ -48,8 +48,8 @@
     "tweet_count": null
   },
   {
-    "name": "emrk",
-    "query": "emrk",
+    "name": "EMRK",
+    "query": "EMRK",
     "rank": 9,
     "tweet_count": null
   },
@@ -57,65 +57,65 @@
     "name": "Zuckerberg",
     "query": "Zuckerberg",
     "rank": 10,
-    "tweet_count": "33.5K Tweets"
+    "tweet_count": "33.9K Tweets"
   },
   {
     "name": "Wass",
     "query": "Wass",
     "rank": 11,
-    "tweet_count": "8,133 Tweets"
-  },
-  {
-    "name": "Simeone",
-    "query": "Simeone",
-    "rank": 12,
-    "tweet_count": "9,796 Tweets"
-  },
-  {
-    "name": "frederiksberg",
-    "query": "frederiksberg",
-    "rank": 13,
-    "tweet_count": null
+    "tweet_count": "8,175 Tweets"
   },
   {
     "name": "Alves",
     "query": "Alves",
+    "rank": 12,
+    "tweet_count": "39.5K Tweets"
+  },
+  {
+    "name": "Simeone",
+    "query": "Simeone",
+    "rank": 13,
+    "tweet_count": "9,847 Tweets"
+  },
+  {
+    "name": "frederiksberg",
+    "query": "frederiksberg",
     "rank": 14,
-    "tweet_count": "39.2K Tweets"
-  },
-  {
-    "name": "jarlov",
-    "query": "jarlov",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "#dksocial",
-    "query": "#dksocial",
-    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Messerschmidt",
     "query": "Messerschmidt",
-    "rank": 17,
+    "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "Meta",
-    "query": "Meta",
-    "rank": 18,
-    "tweet_count": "229K Tweets"
+    "name": "jarlov",
+    "query": "jarlov",
+    "rank": 16,
+    "tweet_count": null
   },
   {
-    "name": "#allfordenmark",
-    "query": "#allfordenmark",
-    "rank": 19,
+    "name": "#dksocial",
+    "query": "#dksocial",
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Kandis",
     "query": "Kandis",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Meta",
+    "query": "Meta",
+    "rank": 19,
+    "tweet_count": "233K Tweets"
+  },
+  {
+    "name": "#allfordenmark",
+    "query": "#allfordenmark",
     "rank": 20,
     "tweet_count": null
   }
