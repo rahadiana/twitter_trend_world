@@ -1,15 +1,15 @@
 [
   {
-    "name": "#cblive",
-    "query": "#cblive",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#RTEInvestigates",
     "query": "#RTEInvestigates",
+    "rank": 1,
+    "tweet_count": "2,018 Tweets"
+  },
+  {
+    "name": "#cblive",
+    "query": "#cblive",
     "rank": 2,
-    "tweet_count": "2,012 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#TonightVMTV",
@@ -18,22 +18,22 @@
     "tweet_count": null
   },
   {
-    "name": "Zouma",
-    "query": "Zouma",
-    "rank": 4,
-    "tweet_count": "45.2K Tweets"
-  },
-  {
     "name": "Zendaya",
     "query": "Zendaya",
-    "rank": 5,
-    "tweet_count": "400K Tweets"
+    "rank": 4,
+    "tweet_count": "402K Tweets"
   },
   {
     "name": "#AFCON2021",
     "query": "#AFCON2021",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": "137K Tweets"
+  },
+  {
+    "name": "Kurt Zouma",
+    "query": "\"Kurt Zouma\"",
+    "rank": 6,
+    "tweet_count": "31K Tweets"
   },
   {
     "name": "Sean Fleming",
@@ -57,55 +57,55 @@
     "name": "Euro 2028",
     "query": "\"Euro 2028\"",
     "rank": 10,
-    "tweet_count": "3,953 Tweets"
+    "tweet_count": "3,956 Tweets"
   },
   {
     "name": "Garda",
     "query": "Garda",
     "rank": 11,
-    "tweet_count": "2,319 Tweets"
+    "tweet_count": "2,320 Tweets"
   },
   {
     "name": "Leicester",
     "query": "Leicester",
     "rank": 12,
-    "tweet_count": "22K Tweets"
+    "tweet_count": "22.1K Tweets"
   },
   {
     "name": "Savile",
     "query": "Savile",
     "rank": 13,
-    "tweet_count": "80.8K Tweets"
-  },
-  {
-    "name": "Savile",
-    "query": "Savile",
-    "rank": 14,
-    "tweet_count": "80.8K Tweets"
+    "tweet_count": "80.9K Tweets"
   },
   {
     "name": "Mane",
     "query": "Mane",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": "235K Tweets"
   },
   {
     "name": "the fai",
     "query": "\"the fai\"",
-    "rank": 16,
-    "tweet_count": "1,165 Tweets"
+    "rank": 15,
+    "tweet_count": "1,169 Tweets"
   },
   {
     "name": "eoghan",
     "query": "eoghan",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
+  },
+  {
+    "name": "Maddy",
+    "query": "Maddy",
+    "rank": 17,
+    "tweet_count": "251K Tweets"
   },
   {
     "name": "Macron",
     "query": "Macron",
     "rank": 18,
-    "tweet_count": "227K Tweets"
+    "tweet_count": "228K Tweets"
   },
   {
     "name": "Mendy",
@@ -117,6 +117,6 @@
     "name": "Russell Brand",
     "query": "\"Russell Brand\"",
     "rank": 20,
-    "tweet_count": "23.8K Tweets"
+    "tweet_count": "23.9K Tweets"
   }
 ]
