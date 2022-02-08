@@ -1,39 +1,39 @@
 [
   {
-    "name": "בוקר טוב",
-    "query": "\"בוקר טוב\"",
-    "rank": 1,
-    "tweet_count": "1,073 Tweets"
-  },
-  {
     "name": "גועל נפש",
     "query": "\"גועל נפש\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "בוקר טוב",
+    "query": "\"בוקר טוב\"",
+    "rank": 2,
+    "tweet_count": "1,093 Tweets"
   },
   {
     "name": "Pegasus",
     "query": "Pegasus",
     "rank": 3,
-    "tweet_count": "16.2K Tweets"
+    "tweet_count": "16.3K Tweets"
   },
   {
     "name": "ראש ממשלה",
     "query": "\"ראש ממשלה\"",
     "rank": 4,
-    "tweet_count": "2,823 Tweets"
+    "tweet_count": "2,848 Tweets"
   },
   {
     "name": "Netanyahu",
     "query": "Netanyahu",
     "rank": 5,
-    "tweet_count": "10.5K Tweets"
+    "tweet_count": "10.6K Tweets"
   },
   {
     "name": "אמיר אוחנה",
     "query": "\"אמיר אוחנה\"",
     "rank": 6,
-    "tweet_count": "1,307 Tweets"
+    "tweet_count": "1,311 Tweets"
   },
   {
     "name": "בחירות עכשיו",
@@ -45,7 +45,7 @@
     "name": "של גנץ",
     "query": "\"של גנץ\"",
     "rank": 8,
-    "tweet_count": "1,547 Tweets"
+    "tweet_count": "1,565 Tweets"
   },
   {
     "name": "חולה נפש",
@@ -54,69 +54,69 @@
     "tweet_count": null
   },
   {
-    "name": "גל הירש",
-    "query": "\"גל הירש\"",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "מזל טוב",
-    "query": "\"מזל טוב\"",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
     "name": "מי נתן",
     "query": "\"מי נתן\"",
-    "rank": 12,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Jules",
     "query": "Jules",
-    "rank": 13,
-    "tweet_count": "239K Tweets"
+    "rank": 11,
+    "tweet_count": "240K Tweets"
   },
   {
     "name": "#Gaza",
     "query": "#Gaza",
-    "rank": 14,
-    "tweet_count": "1,784 Tweets"
+    "rank": 12,
+    "tweet_count": "1,813 Tweets"
   },
   {
     "name": "Canada",
     "query": "Canada",
-    "rank": 15,
-    "tweet_count": "555K Tweets"
+    "rank": 13,
+    "tweet_count": "559K Tweets"
+  },
+  {
+    "name": "גל הירש",
+    "query": "\"גל הירש\"",
+    "rank": 14,
+    "tweet_count": null
   },
   {
     "name": "#Bitcoin",
     "query": "#Bitcoin",
-    "rank": 16,
-    "tweet_count": "465K Tweets"
+    "rank": 15,
+    "tweet_count": "472K Tweets"
   },
   {
     "name": "נפתלי בנט",
     "query": "\"נפתלי בנט\"",
-    "rank": 17,
-    "tweet_count": "1,083 Tweets"
+    "rank": 16,
+    "tweet_count": "1,095 Tweets"
   },
   {
     "name": "בר לב",
     "query": "\"בר לב\"",
-    "rank": 18,
-    "tweet_count": "1,487 Tweets"
+    "rank": 17,
+    "tweet_count": "1,500 Tweets"
   },
   {
     "name": "תן לו",
     "query": "\"תן לו\"",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "שבוע טוב",
     "query": "\"שבוע טוב\"",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "#EfLey",
+    "query": "#EfLey",
+    "rank": 20,
+    "tweet_count": "60.2K Tweets"
   }
 ]
