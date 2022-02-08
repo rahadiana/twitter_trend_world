@@ -1,7 +1,7 @@
 [
   {
-    "name": "Bornholm",
-    "query": "Bornholm",
+    "name": "bornholm",
+    "query": "bornholm",
     "rank": 1,
     "tweet_count": null
   },
@@ -9,7 +9,7 @@
     "name": "#dkpol",
     "query": "#dkpol",
     "rank": 2,
-    "tweet_count": "2,368 Tweets"
+    "tweet_count": "2,424 Tweets"
   },
   {
     "name": "#dkbiz",
@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "Zendaya",
-    "query": "Zendaya",
-    "rank": 5,
-    "tweet_count": "274K Tweets"
-  },
-  {
     "name": "Zouma",
     "query": "Zouma",
+    "rank": 5,
+    "tweet_count": "105K Tweets"
+  },
+  {
+    "name": "zendaya",
+    "query": "zendaya",
     "rank": 6,
-    "tweet_count": "103K Tweets"
+    "tweet_count": "275K Tweets"
   },
   {
     "name": "tjekkiet",
@@ -42,26 +42,26 @@
     "tweet_count": null
   },
   {
-    "name": "Verona",
-    "query": "Verona",
+    "name": "#eudk",
+    "query": "#eudk",
     "rank": 8,
-    "tweet_count": "6,872 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Mikkel",
-    "query": "Mikkel",
+    "name": "Verona",
+    "query": "Verona",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "6,945 Tweets"
   },
   {
     "name": "Qatar",
     "query": "Qatar",
     "rank": 10,
-    "tweet_count": "18.1K Tweets"
+    "tweet_count": "18.3K Tweets"
   },
   {
-    "name": "EMRK",
-    "query": "EMRK",
+    "name": "emrk",
+    "query": "emrk",
     "rank": 11,
     "tweet_count": null
   },
@@ -75,7 +75,7 @@
     "name": "Zuckerberg",
     "query": "Zuckerberg",
     "rank": 13,
-    "tweet_count": "36.6K Tweets"
+    "tweet_count": "37K Tweets"
   },
   {
     "name": "Carlsberg",
@@ -84,39 +84,39 @@
     "tweet_count": null
   },
   {
-    "name": "NATO",
-    "query": "NATO",
-    "rank": 15,
-    "tweet_count": "82.3K Tweets"
-  },
-  {
     "name": "Macron",
     "query": "Macron",
-    "rank": 16,
-    "tweet_count": "268K Tweets"
-  },
-  {
-    "name": "#sundpol",
-    "query": "#sundpol",
-    "rank": 17,
-    "tweet_count": null
+    "rank": 15,
+    "tweet_count": "272K Tweets"
   },
   {
     "name": "Simeone",
     "query": "Simeone",
-    "rank": 18,
-    "tweet_count": "8,112 Tweets"
-  },
-  {
-    "name": "Meta",
-    "query": "Meta",
-    "rank": 19,
-    "tweet_count": "230K Tweets"
+    "rank": 16,
+    "tweet_count": "8,168 Tweets"
   },
   {
     "name": "Netop",
     "query": "Netop",
-    "rank": 20,
+    "rank": 17,
     "tweet_count": null
+  },
+  {
+    "name": "Meta",
+    "query": "Meta",
+    "rank": 18,
+    "tweet_count": "232K Tweets"
+  },
+  {
+    "name": "NATO",
+    "query": "NATO",
+    "rank": 19,
+    "tweet_count": "83.3K Tweets"
+  },
+  {
+    "name": "Cassie",
+    "query": "Cassie",
+    "rank": 20,
+    "tweet_count": "308K Tweets"
   }
 ]
