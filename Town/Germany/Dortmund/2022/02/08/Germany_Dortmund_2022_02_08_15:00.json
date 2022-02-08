@@ -1,45 +1,45 @@
 [
   {
-    "name": "#OscarNoms",
-    "query": "#OscarNoms",
-    "rank": 1,
-    "tweet_count": "160K Tweets"
-  },
-  {
     "name": "Chris Tall",
     "query": "\"Chris Tall\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#OscarNoms",
+    "query": "#OscarNoms",
+    "rank": 2,
+    "tweet_count": "163K Tweets"
   },
   {
     "name": "#Süle",
     "query": "#Süle",
     "rank": 3,
-    "tweet_count": "4,014 Tweets"
+    "tweet_count": "4,024 Tweets"
   },
   {
     "name": "#SaferInternetDay",
     "query": "#SaferInternetDay",
     "rank": 4,
-    "tweet_count": "33.7K Tweets"
+    "tweet_count": "34.3K Tweets"
   },
   {
     "name": "#hartaberfair",
     "query": "#hartaberfair",
     "rank": 5,
-    "tweet_count": "6,146 Tweets"
+    "tweet_count": "6,195 Tweets"
   },
   {
     "name": "#dertestmussweg",
     "query": "#dertestmussweg",
     "rank": 6,
-    "tweet_count": "10.3K Tweets"
+    "tweet_count": "10.4K Tweets"
   },
   {
     "name": "Direct",
     "query": "Direct",
     "rank": 7,
-    "tweet_count": "230K Tweets"
+    "tweet_count": "233K Tweets"
   },
   {
     "name": "wochenstart",
@@ -51,7 +51,7 @@
     "name": "Pullover",
     "query": "Pullover",
     "rank": 9,
-    "tweet_count": "4,369 Tweets"
+    "tweet_count": "4,405 Tweets"
   },
   {
     "name": "start in die woche",
@@ -69,13 +69,13 @@
     "name": "Best Picture",
     "query": "\"Best Picture\"",
     "rank": 12,
-    "tweet_count": "55.4K Tweets"
+    "tweet_count": "56.9K Tweets"
   },
   {
     "name": "Biden",
     "query": "Biden",
     "rank": 13,
-    "tweet_count": "397K Tweets"
+    "tweet_count": "402K Tweets"
   },
   {
     "name": "Dortmund",
@@ -87,29 +87,29 @@
     "name": "Abtreibung",
     "query": "Abtreibung",
     "rank": 15,
-    "tweet_count": "3,075 Tweets"
+    "tweet_count": "3,083 Tweets"
   },
   {
     "name": "Pulli",
     "query": "Pulli",
     "rank": 16,
-    "tweet_count": "1,405 Tweets"
+    "tweet_count": "1,414 Tweets"
   },
   {
     "name": "Selbstjustiz",
     "query": "Selbstjustiz",
     "rank": 17,
-    "tweet_count": "1,848 Tweets"
+    "tweet_count": "1,856 Tweets"
   },
   {
     "name": "Anzug",
     "query": "Anzug",
     "rank": 18,
-    "tweet_count": "1,283 Tweets"
+    "tweet_count": "1,297 Tweets"
   },
   {
-    "name": "Zählt 5 Jobs",
-    "query": "\"Zählt 5 Jobs\"",
+    "name": "zählt 5 jobs",
+    "query": "\"zählt 5 jobs\"",
     "rank": 19,
     "tweet_count": null
   },
@@ -117,6 +117,6 @@
     "name": "eingriff in den straßenverkehr",
     "query": "\"eingriff in den straßenverkehr\"",
     "rank": 20,
-    "tweet_count": "1,296 Tweets"
+    "tweet_count": "1,298 Tweets"
   }
 ]
