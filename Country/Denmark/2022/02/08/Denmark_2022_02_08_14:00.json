@@ -1,39 +1,39 @@
 [
   {
-    "name": "#dkpol",
-    "query": "#dkpol",
-    "rank": 1,
-    "tweet_count": "2,643 Tweets"
-  },
-  {
     "name": "#dkgreen",
     "query": "#dkgreen",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#dkpol",
+    "query": "#dkpol",
+    "rank": 2,
+    "tweet_count": "2,701 Tweets"
+  },
+  {
+    "name": "Zouma",
+    "query": "Zouma",
+    "rank": 3,
+    "tweet_count": "138K Tweets"
   },
   {
     "name": "#dkforsvar",
     "query": "#dkforsvar",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "#eudk",
     "query": "#eudk",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "Zouma",
-    "query": "Zouma",
     "rank": 5,
-    "tweet_count": "135K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Zendaya",
     "query": "Zendaya",
     "rank": 6,
-    "tweet_count": "249K Tweets"
+    "tweet_count": "252K Tweets"
   },
   {
     "name": "tjekkiet",
@@ -45,13 +45,13 @@
     "name": "Verona",
     "query": "Verona",
     "rank": 8,
-    "tweet_count": "7,061 Tweets"
+    "tweet_count": "7,230 Tweets"
   },
   {
     "name": "Qatar",
     "query": "Qatar",
     "rank": 9,
-    "tweet_count": "18.1K Tweets"
+    "tweet_count": "18.4K Tweets"
   },
   {
     "name": "emrk",
@@ -63,7 +63,7 @@
     "name": "Zuckerberg",
     "query": "Zuckerberg",
     "rank": 11,
-    "tweet_count": "38.5K Tweets"
+    "tweet_count": "39.1K Tweets"
   },
   {
     "name": "#skolechat",
@@ -75,7 +75,7 @@
     "name": "Macron",
     "query": "Macron",
     "rank": 13,
-    "tweet_count": "293K Tweets"
+    "tweet_count": "298K Tweets"
   },
   {
     "name": "Carlsberg",
@@ -87,13 +87,13 @@
     "name": "NATO",
     "query": "NATO",
     "rank": 15,
-    "tweet_count": "85.2K Tweets"
+    "tweet_count": "86.6K Tweets"
   },
   {
     "name": "Simeone",
     "query": "Simeone",
     "rank": 16,
-    "tweet_count": "6,591 Tweets"
+    "tweet_count": "6,685 Tweets"
   },
   {
     "name": "netop",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
+    "name": "Oscar",
+    "query": "Oscar",
+    "rank": 18,
+    "tweet_count": "233K Tweets"
+  },
+  {
     "name": "Cassie",
     "query": "Cassie",
-    "rank": 18,
-    "tweet_count": "280K Tweets"
+    "rank": 19,
+    "tweet_count": "283K Tweets"
   },
   {
     "name": "roony",
     "query": "roony",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Scholz",
-    "query": "Scholz",
     "rank": 20,
-    "tweet_count": "37.1K Tweets"
+    "tweet_count": null
   }
 ]
