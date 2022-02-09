@@ -9,13 +9,13 @@
     "name": "Maguire",
     "query": "Maguire",
     "rank": 2,
-    "tweet_count": "133K Tweets"
+    "tweet_count": "134K Tweets"
   },
   {
-    "name": "Birk Ruud",
-    "query": "\"Birk Ruud\"",
+    "name": "birk ruud",
+    "query": "\"birk ruud\"",
     "rank": 3,
-    "tweet_count": "1,074 Tweets"
+    "tweet_count": "1,083 Tweets"
   },
   {
     "name": "Graabak",
@@ -27,23 +27,23 @@
     "name": "Zouma",
     "query": "Zouma",
     "rank": 5,
-    "tweet_count": "219K Tweets"
-  },
-  {
-    "name": "Varane",
-    "query": "Varane",
-    "rank": 6,
-    "tweet_count": "25.4K Tweets"
+    "tweet_count": "224K Tweets"
   },
   {
     "name": "Burnley",
     "query": "Burnley",
-    "rank": 7,
-    "tweet_count": "84.1K Tweets"
+    "rank": 6,
+    "tweet_count": "84.3K Tweets"
   },
   {
     "name": "#nrkdebatt",
     "query": "#nrkdebatt",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "herbjørn hansson",
+    "query": "\"herbjørn hansson\"",
     "rank": 8,
     "tweet_count": null
   },
@@ -51,55 +51,55 @@
     "name": "West Ham",
     "query": "\"West Ham\"",
     "rank": 9,
-    "tweet_count": "78.2K Tweets"
-  },
-  {
-    "name": "herbjørn hansson",
-    "query": "\"herbjørn hansson\"",
-    "rank": 10,
-    "tweet_count": null
+    "tweet_count": "79.3K Tweets"
   },
   {
     "name": "Kings",
     "query": "Kings",
-    "rank": 11,
-    "tweet_count": "155K Tweets"
+    "rank": 10,
+    "tweet_count": "156K Tweets"
   },
   {
     "name": "#polkvart",
     "query": "#polkvart",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Vedum",
     "query": "Vedum",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "#OscarNoms",
     "query": "#OscarNoms",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": "126K Tweets"
   },
   {
     "name": "Pogba",
     "query": "Pogba",
-    "rank": 15,
-    "tweet_count": "45.4K Tweets"
+    "rank": 14,
+    "tweet_count": "45.7K Tweets"
   },
   {
     "name": "Moyes",
     "query": "Moyes",
-    "rank": 16,
-    "tweet_count": "21.9K Tweets"
+    "rank": 15,
+    "tweet_count": "22.2K Tweets"
   },
   {
     "name": "Shaw",
     "query": "Shaw",
+    "rank": 16,
+    "tweet_count": "18.7K Tweets"
+  },
+  {
+    "name": "Varane",
+    "query": "Varane",
     "rank": 17,
-    "tweet_count": "18.6K Tweets"
+    "tweet_count": "25.6K Tweets"
   },
   {
     "name": "Klæbo",
@@ -111,6 +111,6 @@
     "name": "#NUFC",
     "query": "#NUFC",
     "rank": 19,
-    "tweet_count": "35.7K Tweets"
+    "tweet_count": "36.3K Tweets"
   }
 ]
