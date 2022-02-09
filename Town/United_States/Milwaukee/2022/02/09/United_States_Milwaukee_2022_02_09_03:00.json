@@ -1,122 +1,62 @@
 [
   {
+    "name": "Giannis",
+    "query": "Giannis",
+    "rank": 1,
+    "tweet_count": "14.4K Tweets"
+  },
+  {
+    "name": "Lakers",
+    "query": "Lakers",
+    "rank": 2,
+    "tweet_count": "65.2K Tweets"
+  },
+  {
     "name": "Westbrook",
     "query": "Westbrook",
-    "rank": 1,
-    "tweet_count": "15.4K Tweets"
+    "rank": 3,
+    "tweet_count": "16.2K Tweets"
+  },
+  {
+    "name": "Middleton",
+    "query": "Middleton",
+    "rank": 4,
+    "tweet_count": "5,462 Tweets"
+  },
+  {
+    "name": "#Badgers",
+    "query": "#Badgers",
+    "rank": 5,
+    "tweet_count": null
   },
   {
     "name": "#onwisconsin",
     "query": "#onwisconsin",
-    "rank": 2,
+    "rank": 6,
     "tweet_count": null
+  },
+  {
+    "name": "Khris",
+    "query": "Khris",
+    "rank": 7,
+    "tweet_count": "1,525 Tweets"
   },
   {
     "name": "Lebron",
     "query": "Lebron",
-    "rank": 3,
-    "tweet_count": "44.1K Tweets"
+    "rank": 8,
+    "tweet_count": "45.1K Tweets"
   },
   {
     "name": "#wisbb",
     "query": "#wisbb",
-    "rank": 4,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Bobby",
     "query": "Bobby",
-    "rank": 5,
-    "tweet_count": "30K Tweets"
-  },
-  {
-    "name": "Auburn",
-    "query": "Auburn",
-    "rank": 6,
-    "tweet_count": "32.8K Tweets"
-  },
-  {
-    "name": "Marchand",
-    "query": "Marchand",
-    "rank": 7,
-    "tweet_count": "7,760 Tweets"
-  },
-  {
-    "name": "#RHONJ",
-    "query": "#RHONJ",
-    "rank": 8,
-    "tweet_count": "8,814 Tweets"
-  },
-  {
-    "name": "Mikaela Shiffrin",
-    "query": "\"Mikaela Shiffrin\"",
-    "rank": 9,
-    "tweet_count": "4,992 Tweets"
-  },
-  {
-    "name": "Giannis",
-    "query": "Giannis",
     "rank": 10,
-    "tweet_count": "13.6K Tweets"
-  },
-  {
-    "name": "Doc Rivers",
-    "query": "\"Doc Rivers\"",
-    "rank": 11,
-    "tweet_count": "5,987 Tweets"
-  },
-  {
-    "name": "#WWENXT",
-    "query": "#WWENXT",
-    "rank": 12,
-    "tweet_count": "17.1K Tweets"
-  },
-  {
-    "name": "Celtics",
-    "query": "Celtics",
-    "rank": 13,
-    "tweet_count": "38.8K Tweets"
-  },
-  {
-    "name": "Dear Brian",
-    "query": "\"Dear Brian\"",
-    "rank": 14,
-    "tweet_count": "13.2K Tweets"
-  },
-  {
-    "name": "#iubb",
-    "query": "#iubb",
-    "rank": 15,
-    "tweet_count": "2,582 Tweets"
-  },
-  {
-    "name": "Purdue",
-    "query": "Purdue",
-    "rank": 16,
-    "tweet_count": "5,800 Tweets"
-  },
-  {
-    "name": "Marcus Morris",
-    "query": "\"Marcus Morris\"",
-    "rank": 17,
-    "tweet_count": "2,200 Tweets"
-  },
-  {
-    "name": "Jabari Smith",
-    "query": "\"Jabari Smith\"",
-    "rank": 18,
-    "tweet_count": "1,399 Tweets"
-  },
-  {
-    "name": "Library",
-    "query": "Library",
-    "rank": 19,
-    "tweet_count": "65.2K Tweets"
-  },
-  {
-    "name": "Bucks",
-    "query": "Bucks",
-    "rank": 20,
-    "tweet_count": "34.3K Tweets"
+    "tweet_count": "30.5K Tweets"
   }
 ]
