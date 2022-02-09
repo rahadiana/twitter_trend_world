@@ -1,116 +1,122 @@
 [
   {
+    "name": "#MilanLazio",
+    "query": "#MilanLazio",
+    "rank": 1,
+    "tweet_count": "8,011 Tweets"
+  },
+  {
     "name": "#terremoto",
     "query": "#terremoto",
-    "rank": 1,
-    "tweet_count": "4,248 Tweets"
+    "rank": 2,
+    "tweet_count": "4,694 Tweets"
   },
   {
     "name": "#chilhavisto",
     "query": "#chilhavisto",
-    "rank": 2,
-    "tweet_count": "1,625 Tweets"
-  },
-  {
-    "name": "#MilanLazio",
-    "query": "#MilanLazio",
     "rank": 3,
-    "tweet_count": "5,038 Tweets"
-  },
-  {
-    "name": "#Montagnier",
-    "query": "#Montagnier",
-    "rank": 4,
-    "tweet_count": "6,626 Tweets"
-  },
-  {
-    "name": "Reggio Emilia",
-    "query": "\"Reggio Emilia\"",
-    "rank": 5,
-    "tweet_count": "1,924 Tweets"
-  },
-  {
-    "name": "Modena",
-    "query": "Modena",
-    "rank": 6,
-    "tweet_count": "2,152 Tweets"
+    "tweet_count": "2,446 Tweets"
   },
   {
     "name": "Leao",
     "query": "Leao",
+    "rank": 4,
+    "tweet_count": "19.5K Tweets"
+  },
+  {
+    "name": "#Montagnier",
+    "query": "#Montagnier",
+    "rank": 5,
+    "tweet_count": "7,061 Tweets"
+  },
+  {
+    "name": "#leiene",
+    "query": "#leiene",
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "Reggio Emilia",
+    "query": "\"Reggio Emilia\"",
     "rank": 7,
-    "tweet_count": "16.8K Tweets"
+    "tweet_count": "2,044 Tweets"
   },
   {
     "name": "Reina",
     "query": "Reina",
     "rank": 8,
-    "tweet_count": "48K Tweets"
+    "tweet_count": "48.8K Tweets"
   },
   {
-    "name": "Chienti",
-    "query": "Chienti",
+    "name": "Modena",
+    "query": "Modena",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "2,247 Tweets"
+  },
+  {
+    "name": "Sarri",
+    "query": "Sarri",
+    "rank": 10,
+    "tweet_count": "2,180 Tweets"
   },
   {
     "name": "Luiz Felipe",
     "query": "\"Luiz Felipe\"",
-    "rank": 10,
-    "tweet_count": "2,385 Tweets"
-  },
-  {
-    "name": "Romagnoli",
-    "query": "Romagnoli",
     "rank": 11,
-    "tweet_count": "1,669 Tweets"
+    "tweet_count": "2,501 Tweets"
   },
   {
-    "name": "Sentita",
-    "query": "Sentita",
+    "name": "Seba",
+    "query": "Seba",
     "rank": 12,
-    "tweet_count": "1,660 Tweets"
+    "tweet_count": "8,983 Tweets"
   },
   {
-    "name": "Tom Holland",
-    "query": "\"Tom Holland\"",
+    "name": "Chienti",
+    "query": "Chienti",
     "rank": 13,
-    "tweet_count": "34.7K Tweets"
-  },
-  {
-    "name": "Cacciari",
-    "query": "Cacciari",
-    "rank": 14,
     "tweet_count": null
-  },
-  {
-    "name": "Bologna",
-    "query": "Bologna",
-    "rank": 15,
-    "tweet_count": "3,932 Tweets"
-  },
-  {
-    "name": "Rovazzi",
-    "query": "Rovazzi",
-    "rank": 16,
-    "tweet_count": "1,266 Tweets"
   },
   {
     "name": "Liliana",
     "query": "Liliana",
+    "rank": 14,
+    "tweet_count": "9,142 Tweets"
+  },
+  {
+    "name": "Sentita",
+    "query": "Sentita",
+    "rank": 15,
+    "tweet_count": "1,710 Tweets"
+  },
+  {
+    "name": "Hysaj",
+    "query": "Hysaj",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Giroud",
+    "query": "Giroud",
     "rank": 17,
-    "tweet_count": "8,989 Tweets"
+    "tweet_count": "6,608 Tweets"
   },
   {
-    "name": "Park Jimin",
-    "query": "\"Park Jimin\"",
+    "name": "Romagnoli",
+    "query": "Romagnoli",
     "rank": 18,
-    "tweet_count": "48.2K Tweets"
+    "tweet_count": "1,822 Tweets"
   },
   {
-    "name": "Rossella",
-    "query": "Rossella",
+    "name": "Basic",
+    "query": "Basic",
     "rank": 19,
+    "tweet_count": "106K Tweets"
+  },
+  {
+    "name": "Cacciari",
+    "query": "Cacciari",
+    "rank": 20,
     "tweet_count": null
   }
 ]

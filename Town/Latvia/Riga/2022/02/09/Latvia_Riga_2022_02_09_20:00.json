@@ -30,28 +30,28 @@
     "tweet_count": null
   },
   {
-    "name": "COVID-19",
-    "query": "COVID-19",
-    "rank": 6,
-    "tweet_count": "398K Tweets"
-  },
-  {
     "name": "Apple",
     "query": "Apple",
-    "rank": 7,
-    "tweet_count": "348K Tweets"
+    "rank": 6,
+    "tweet_count": "351K Tweets"
   },
   {
     "name": "ministru",
     "query": "ministru",
-    "rank": 8,
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Pekinā",
     "query": "Pekinā",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
+  },
+  {
+    "name": "COVID-19",
+    "query": "COVID-19",
+    "rank": 9,
+    "tweet_count": "403K Tweets"
   },
   {
     "name": "polijas",
@@ -66,50 +66,50 @@
     "tweet_count": null
   },
   {
-    "name": "#aizliegtaispaņēmiens",
-    "query": "#aizliegtaispaņēmiens",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
     "name": "Šlesers",
     "query": "Šlesers",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "labdien",
     "query": "labdien",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Valsts",
     "query": "Valsts",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "taisnība",
     "query": "taisnība",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Tevi",
     "query": "Tevi",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Baltijas",
     "query": "Baltijas",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "#KopāStiprāki",
     "query": "#KopāStiprāki",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Atkal",
+    "query": "Atkal",
     "rank": 19,
     "tweet_count": null
   },
@@ -117,6 +117,6 @@
     "name": "Visu",
     "query": "Visu",
     "rank": 20,
-    "tweet_count": "1,385 Tweets"
+    "tweet_count": "1,406 Tweets"
   }
 ]
