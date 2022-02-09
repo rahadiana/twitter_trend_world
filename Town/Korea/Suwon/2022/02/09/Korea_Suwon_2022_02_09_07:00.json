@@ -1,27 +1,27 @@
 [
   {
-    "name": "당신의 이름",
-    "query": "\"당신의 이름\"",
-    "rank": 1,
-    "tweet_count": "1,123 Tweets"
-  },
-  {
     "name": "아이돌 체험",
     "query": "\"아이돌 체험\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "당신의 이름",
+    "query": "\"당신의 이름\"",
+    "rank": 2,
+    "tweet_count": "1,198 Tweets"
   },
   {
     "name": "스노보드",
     "query": "스노보드",
     "rank": 3,
-    "tweet_count": "35.1K Tweets"
+    "tweet_count": "35.4K Tweets"
   },
   {
     "name": "#너없인살수없어_하성운",
     "query": "#너없인살수없어_하성운",
     "rank": 4,
-    "tweet_count": "21.2K Tweets"
+    "tweet_count": "26.1K Tweets"
   },
   {
     "name": "처형 직전",
@@ -45,59 +45,59 @@
     "name": "호랑수월",
     "query": "호랑수월",
     "rank": 8,
-    "tweet_count": "5,740 Tweets"
-  },
-  {
-    "name": "키류쿠로",
-    "query": "키류쿠로",
-    "rank": 9,
-    "tweet_count": "1,251 Tweets"
+    "tweet_count": "5,837 Tweets"
   },
   {
     "name": "리빙포인트",
     "query": "리빙포인트",
-    "rank": 10,
-    "tweet_count": "3,879 Tweets"
+    "rank": 9,
+    "tweet_count": "4,152 Tweets"
   },
   {
     "name": "정치보복",
     "query": "정치보복",
+    "rank": 10,
+    "tweet_count": "3,137 Tweets"
+  },
+  {
+    "name": "키류쿠로",
+    "query": "키류쿠로",
     "rank": 11,
-    "tweet_count": "2,875 Tweets"
-  },
-  {
-    "name": "김경수 배우님",
-    "query": "\"김경수 배우님\"",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "정욱진 배우님",
-    "query": "\"정욱진 배우님\"",
-    "rank": 13,
-    "tweet_count": null
+    "tweet_count": "1,442 Tweets"
   },
   {
     "name": "#T1WIN",
     "query": "#T1WIN",
-    "rank": 14,
-    "tweet_count": "1,178 Tweets"
-  },
-  {
-    "name": "대중음악",
-    "query": "대중음악",
-    "rank": 15,
-    "tweet_count": "2,809 Tweets"
+    "rank": 12,
+    "tweet_count": "1,237 Tweets"
   },
   {
     "name": "추가확진",
     "query": "추가확진",
-    "rank": 16,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "티키친 스페셜",
     "query": "\"티키친 스페셜\"",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "대중음악",
+    "query": "대중음악",
+    "rank": 15,
+    "tweet_count": "2,982 Tweets"
+  },
+  {
+    "name": "적폐청산",
+    "query": "적폐청산",
+    "rank": 16,
+    "tweet_count": "1,805 Tweets"
+  },
+  {
+    "name": "#죠죠리온",
+    "query": "#죠죠리온",
     "rank": 17,
     "tweet_count": null
   },
@@ -108,9 +108,9 @@
     "tweet_count": null
   },
   {
-    "name": "영화배우",
-    "query": "영화배우",
+    "name": "정권 수사",
+    "query": "\"정권 수사\"",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "2,166 Tweets"
   }
 ]

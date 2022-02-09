@@ -1,19 +1,19 @@
 [
   {
-    "name": "#정원이가_꽃피운_열아홉번째_가든",
-    "query": "#정원이가_꽃피운_열아홉번째_가든",
-    "rank": 1,
-    "tweet_count": "1.12M Tweets"
-  },
-  {
     "name": "#너없인살수없어_하성운",
     "query": "#너없인살수없어_하성운",
-    "rank": 2,
-    "tweet_count": "21.2K Tweets"
+    "rank": 1,
+    "tweet_count": "26.2K Tweets"
   },
   {
     "name": "처형 직전",
     "query": "\"처형 직전\"",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "처형 집행인",
+    "query": "\"처형 집행인\"",
     "rank": 3,
     "tweet_count": null
   },
@@ -24,44 +24,44 @@
     "tweet_count": null
   },
   {
-    "name": "처형 집행인",
-    "query": "\"처형 집행인\"",
+    "name": "정치보복",
+    "query": "정치보복",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "3,113 Tweets"
   },
   {
     "name": "호랑수월",
     "query": "호랑수월",
     "rank": 6,
-    "tweet_count": "5,748 Tweets"
+    "tweet_count": "5,841 Tweets"
   },
   {
     "name": "키류쿠로",
     "query": "키류쿠로",
     "rank": 7,
-    "tweet_count": "1,251 Tweets"
+    "tweet_count": "1,439 Tweets"
   },
   {
     "name": "리빙포인트",
     "query": "리빙포인트",
     "rank": 8,
-    "tweet_count": "3,879 Tweets"
-  },
-  {
-    "name": "정치보복",
-    "query": "정치보복",
-    "rank": 9,
-    "tweet_count": "2,875 Tweets"
+    "tweet_count": "4,150 Tweets"
   },
   {
     "name": "김경수 배우님",
     "query": "\"김경수 배우님\"",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "정욱진 배우님",
     "query": "\"정욱진 배우님\"",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "추가확진",
+    "query": "추가확진",
     "rank": 11,
     "tweet_count": null
   },
@@ -69,19 +69,19 @@
     "name": "대중음악",
     "query": "대중음악",
     "rank": 12,
-    "tweet_count": "2,797 Tweets"
-  },
-  {
-    "name": "추가확진",
-    "query": "추가확진",
-    "rank": 13,
-    "tweet_count": null
+    "tweet_count": "2,960 Tweets"
   },
   {
     "name": "티키친 스페셜",
     "query": "\"티키친 스페셜\"",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
+  },
+  {
+    "name": "적폐청산",
+    "query": "적폐청산",
+    "rank": 14,
+    "tweet_count": "1,794 Tweets"
   },
   {
     "name": "영화배우",
@@ -90,21 +90,15 @@
     "tweet_count": null
   },
   {
-    "name": "졸업 축하",
-    "query": "\"졸업 축하\"",
-    "rank": 16,
-    "tweet_count": "2,771 Tweets"
-  },
-  {
     "name": "문재인 정권 수사",
     "query": "\"문재인 정권 수사\"",
-    "rank": 17,
-    "tweet_count": "1,326 Tweets"
+    "rank": 16,
+    "tweet_count": "1,402 Tweets"
   },
   {
-    "name": "청년희망적금",
-    "query": "청년희망적금",
-    "rank": 18,
-    "tweet_count": "6,322 Tweets"
+    "name": "졸업 축하",
+    "query": "\"졸업 축하\"",
+    "rank": 17,
+    "tweet_count": "2,809 Tweets"
   }
 ]

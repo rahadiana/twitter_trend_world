@@ -1,39 +1,39 @@
 [
   {
-    "name": "#9febbraio",
-    "query": "#9febbraio",
-    "rank": 1,
-    "tweet_count": "1,390 Tweets"
-  },
-  {
     "name": "#InterRoma",
     "query": "#InterRoma",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "19.3K Tweets"
+  },
+  {
+    "name": "#9febbraio",
+    "query": "#9febbraio",
+    "rank": 2,
+    "tweet_count": "1,547 Tweets"
   },
   {
     "name": "#Curling",
     "query": "#Curling",
     "rank": 3,
-    "tweet_count": "28.6K Tweets"
+    "tweet_count": "28.8K Tweets"
   },
   {
     "name": "#abbiamoDa",
     "query": "#abbiamoDa",
     "rank": 4,
-    "tweet_count": "2,422 Tweets"
+    "tweet_count": "2,504 Tweets"
   },
   {
     "name": "#Oscars",
     "query": "#Oscars",
     "rank": 5,
-    "tweet_count": "317K Tweets"
+    "tweet_count": "318K Tweets"
   },
   {
     "name": "San Marino",
     "query": "\"San Marino\"",
     "rank": 6,
-    "tweet_count": "9,278 Tweets"
+    "tweet_count": "9,306 Tweets"
   },
   {
     "name": "Lautaro",
@@ -45,7 +45,7 @@
     "name": "Vidal",
     "query": "Vidal",
     "rank": 8,
-    "tweet_count": "14.7K Tweets"
+    "tweet_count": "14.8K Tweets"
   },
   {
     "name": "Buongiorno Francesca",
@@ -57,43 +57,43 @@
     "name": "Tananai",
     "query": "Tananai",
     "rank": 10,
-    "tweet_count": "8,875 Tweets"
+    "tweet_count": "8,962 Tweets"
   },
   {
     "name": "Bonucci",
     "query": "Bonucci",
     "rank": 11,
-    "tweet_count": "2,555 Tweets"
-  },
-  {
-    "name": "Anna Valle",
-    "query": "\"Anna Valle\"",
-    "rank": 12,
-    "tweet_count": null
+    "tweet_count": "2,569 Tweets"
   },
   {
     "name": "Papa",
     "query": "Papa",
+    "rank": 12,
+    "tweet_count": "159K Tweets"
+  },
+  {
+    "name": "Gardini",
+    "query": "Gardini",
     "rank": 13,
-    "tweet_count": "158K Tweets"
+    "tweet_count": "1,069 Tweets"
   },
   {
     "name": "Eric",
     "query": "Eric",
     "rank": 14,
-    "tweet_count": "139K Tweets"
+    "tweet_count": "140K Tweets"
+  },
+  {
+    "name": "Napoli",
+    "query": "Napoli",
+    "rank": 15,
+    "tweet_count": "12.5K Tweets"
   },
   {
     "name": "Antonella",
     "query": "Antonella",
-    "rank": 15,
-    "tweet_count": "2,447 Tweets"
-  },
-  {
-    "name": "Gardini",
-    "query": "Gardini",
     "rank": 16,
-    "tweet_count": "1,033 Tweets"
+    "tweet_count": "2,460 Tweets"
   },
   {
     "name": "Buongiorno Mirella",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "Napoli",
-    "query": "Napoli",
-    "rank": 18,
-    "tweet_count": "12.3K Tweets"
-  },
-  {
     "name": "di bello",
     "query": "\"di bello\"",
-    "rank": 19,
-    "tweet_count": "3,786 Tweets"
+    "rank": 18,
+    "tweet_count": "3,822 Tweets"
   },
   {
-    "name": "Maldini",
-    "query": "Maldini",
+    "name": "Anna Valle",
+    "query": "\"Anna Valle\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Blanco",
+    "query": "Blanco",
     "rank": 20,
-    "tweet_count": "2,356 Tweets"
+    "tweet_count": "58.3K Tweets"
   }
 ]
