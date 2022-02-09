@@ -1,74 +1,116 @@
 [
   {
+    "name": "#BURMUN",
+    "query": "#BURMUN",
+    "rank": 1,
+    "tweet_count": "60.4K Tweets"
+  },
+  {
     "name": "West Ham",
     "query": "\"West Ham\"",
-    "rank": 1,
-    "tweet_count": "83.2K Tweets"
+    "rank": 2,
+    "tweet_count": "83.3K Tweets"
   },
   {
     "name": "#brits2022",
     "query": "#brits2022",
-    "rank": 2,
-    "tweet_count": "47.7K Tweets"
+    "rank": 3,
+    "tweet_count": "47.8K Tweets"
   },
   {
-    "name": "#BURMUN",
-    "query": "#BURMUN",
-    "rank": 3,
-    "tweet_count": "60.3K Tweets"
+    "name": "#NUFC",
+    "query": "#NUFC",
+    "rank": 4,
+    "tweet_count": "29.7K Tweets"
   },
   {
     "name": "Dave",
     "query": "Dave",
-    "rank": 4,
-    "tweet_count": "68.4K Tweets"
+    "rank": 5,
+    "tweet_count": "68.7K Tweets"
   },
   {
     "name": "Wordle 235 X",
     "query": "\"Wordle 235 X\"",
-    "rank": 5,
-    "tweet_count": "1,960 Tweets"
+    "rank": 6,
+    "tweet_count": "2,007 Tweets"
+  },
+  {
+    "name": "Adele",
+    "query": "Adele",
+    "rank": 7,
+    "tweet_count": "97.8K Tweets"
   },
   {
     "name": "Trippier",
     "query": "Trippier",
-    "rank": 6,
+    "rank": 8,
     "tweet_count": "16K Tweets"
   },
   {
     "name": "#ThisIsGoingToHurt",
     "query": "#ThisIsGoingToHurt",
-    "rank": 7,
-    "tweet_count": "2,548 Tweets"
+    "rank": 9,
+    "tweet_count": "2,550 Tweets"
+  },
+  {
+    "name": "#NEWEVE",
+    "query": "#NEWEVE",
+    "rank": 10,
+    "tweet_count": "21.8K Tweets"
   },
   {
     "name": "Little Simz",
     "query": "\"Little Simz\"",
-    "rank": 8,
-    "tweet_count": "6,767 Tweets"
+    "rank": 11,
+    "tweet_count": "6,779 Tweets"
   },
   {
-    "name": "#KurtZouma",
-    "query": "#KurtZouma",
-    "rank": 9,
-    "tweet_count": "25.1K Tweets"
+    "name": "Ed Sheeran",
+    "query": "\"Ed Sheeran\"",
+    "rank": 12,
+    "tweet_count": "23.8K Tweets"
   },
   {
-    "name": "Varane",
-    "query": "Varane",
-    "rank": 10,
-    "tweet_count": "17.9K Tweets"
+    "name": "Newcastle",
+    "query": "Newcastle",
+    "rank": 13,
+    "tweet_count": "50.8K Tweets"
+  },
+  {
+    "name": "Moyes",
+    "query": "Moyes",
+    "rank": 14,
+    "tweet_count": "16.5K Tweets"
   },
   {
     "name": "Anne Marie",
     "query": "\"Anne Marie\"",
-    "rank": 11,
+    "rank": 15,
     "tweet_count": "10.1K Tweets"
+  },
+  {
+    "name": "#KurtZouma",
+    "query": "#KurtZouma",
+    "rank": 16,
+    "tweet_count": "25.2K Tweets"
+  },
+  {
+    "name": "#swfc",
+    "query": "#swfc",
+    "rank": 17,
+    "tweet_count": "2,089 Tweets"
   },
   {
     "name": "#oafc",
     "query": "#oafc",
-    "rank": 12,
-    "tweet_count": "1,700 Tweets"
+    "rank": 18,
+    "tweet_count": "1,702 Tweets"
+  },
+  {
+    "name": "#WHUWAT",
+    "query": "#WHUWAT",
+    "rank": 19,
+    "tweet_count": "9,611 Tweets"
   }
 ]

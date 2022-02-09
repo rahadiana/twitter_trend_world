@@ -1,15 +1,15 @@
 [
   {
-    "name": "GARMIN",
-    "query": "GARMIN",
-    "rank": 1,
-    "tweet_count": "2,316 Tweets"
-  },
-  {
     "name": "Apple",
     "query": "Apple",
+    "rank": 1,
+    "tweet_count": "367K Tweets"
+  },
+  {
+    "name": "Garmin",
+    "query": "Garmin",
     "rank": 2,
-    "tweet_count": "365K Tweets"
+    "tweet_count": "2,326 Tweets"
   },
   {
     "name": "#teirdarbs",
@@ -30,16 +30,16 @@
     "tweet_count": null
   },
   {
-    "name": "ministru",
-    "query": "ministru",
+    "name": "Ministru",
+    "query": "Ministru",
     "rank": 6,
     "tweet_count": null
   },
   {
-    "name": "vai tu",
-    "query": "\"vai tu\"",
+    "name": "Vai Tu",
+    "query": "\"Vai Tu\"",
     "rank": 7,
-    "tweet_count": "23.1K Tweets"
+    "tweet_count": "23.2K Tweets"
   },
   {
     "name": "makrons",
@@ -54,16 +54,16 @@
     "tweet_count": null
   },
   {
-    "name": "kariņa",
-    "query": "kariņa",
-    "rank": 10,
-    "tweet_count": "32.3K Tweets"
-  },
-  {
     "name": "veselību",
     "query": "veselību",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
+  },
+  {
+    "name": "kariņa",
+    "query": "kariņa",
+    "rank": 11,
+    "tweet_count": "32.6K Tweets"
   },
   {
     "name": "ukrainai",
@@ -72,40 +72,40 @@
     "tweet_count": null
   },
   {
+    "name": "#COVID19",
+    "query": "#COVID19",
+    "rank": 13,
+    "tweet_count": "130K Tweets"
+  },
+  {
     "name": "kanādā",
     "query": "kanādā",
-    "rank": 13,
-    "tweet_count": "8,578 Tweets"
-  },
-  {
-    "name": "taisnība",
-    "query": "taisnība",
     "rank": 14,
-    "tweet_count": null
+    "tweet_count": "8,638 Tweets"
   },
   {
-    "name": "Paldies",
-    "query": "Paldies",
+    "name": "labdien",
+    "query": "labdien",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "francijas",
-    "query": "francijas",
+    "name": "taisnība",
+    "query": "taisnība",
     "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Francijas",
+    "query": "Francijas",
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "#Beijing2022",
     "query": "#Beijing2022",
-    "rank": 17,
-    "tweet_count": "203K Tweets"
-  },
-  {
-    "name": "#COVID19",
-    "query": "#COVID19",
     "rank": 18,
-    "tweet_count": "129K Tweets"
+    "tweet_count": "204K Tweets"
   },
   {
     "name": "Elīza Tīruma",
@@ -114,8 +114,8 @@
     "tweet_count": null
   },
   {
-    "name": "sveiki",
-    "query": "sveiki",
+    "name": "#latvija",
+    "query": "#latvija",
     "rank": 20,
     "tweet_count": null
   }
