@@ -1,110 +1,122 @@
 [
   {
+    "name": "#MUFC",
+    "query": "#MUFC",
+    "rank": 1,
+    "tweet_count": "71.4K Tweets"
+  },
+  {
     "name": "#oafc",
     "query": "#oafc",
-    "rank": 1,
-    "tweet_count": "1,708 Tweets"
+    "rank": 2,
+    "tweet_count": "1,709 Tweets"
   },
   {
     "name": "West Ham",
     "query": "\"West Ham\"",
-    "rank": 2,
-    "tweet_count": "83.9K Tweets"
+    "rank": 3,
+    "tweet_count": "82.5K Tweets"
   },
   {
     "name": "#Wordle235",
     "query": "#Wordle235",
-    "rank": 3,
-    "tweet_count": "2,282 Tweets"
+    "rank": 4,
+    "tweet_count": "2,400 Tweets"
   },
   {
     "name": "#JohnsonOut16",
     "query": "#JohnsonOut16",
-    "rank": 4,
-    "tweet_count": "7,826 Tweets"
+    "rank": 5,
+    "tweet_count": "8,939 Tweets"
   },
   {
     "name": "American English",
     "query": "\"American English\"",
-    "rank": 5,
-    "tweet_count": "2,089 Tweets"
+    "rank": 6,
+    "tweet_count": "2,102 Tweets"
   },
   {
     "name": "#brits2022",
     "query": "#brits2022",
-    "rank": 6,
-    "tweet_count": "48.5K Tweets"
+    "rank": 7,
+    "tweet_count": "48.7K Tweets"
   },
   {
     "name": "Oxlade",
     "query": "Oxlade",
-    "rank": 7,
-    "tweet_count": "121K Tweets"
+    "rank": 8,
+    "tweet_count": "127K Tweets"
   },
   {
-    "name": "#NUFC",
-    "query": "#NUFC",
-    "rank": 8,
-    "tweet_count": "30.1K Tweets"
+    "name": "Maguire",
+    "query": "Maguire",
+    "rank": 9,
+    "tweet_count": "103K Tweets"
   },
   {
     "name": "Dave",
     "query": "Dave",
-    "rank": 9,
-    "tweet_count": "69.4K Tweets"
-  },
-  {
-    "name": "Trippier",
-    "query": "Trippier",
     "rank": 10,
-    "tweet_count": "16.2K Tweets"
+    "tweet_count": "68.7K Tweets"
   },
   {
-    "name": "Moyes",
-    "query": "Moyes",
+    "name": "David Moyes",
+    "query": "\"David Moyes\"",
     "rank": 11,
-    "tweet_count": "17K Tweets"
+    "tweet_count": "7,838 Tweets"
   },
   {
     "name": "Sancho",
     "query": "Sancho",
     "rank": 12,
-    "tweet_count": "27.3K Tweets"
+    "tweet_count": "27.6K Tweets"
   },
   {
     "name": "Varane",
     "query": "Varane",
     "rank": 13,
-    "tweet_count": "19.3K Tweets"
+    "tweet_count": "19.4K Tweets"
   },
   {
     "name": "Anne Marie",
     "query": "\"Anne Marie\"",
     "rank": 14,
-    "tweet_count": "10.2K Tweets"
+    "tweet_count": "10.3K Tweets"
+  },
+  {
+    "name": "#NUFC",
+    "query": "#NUFC",
+    "rank": 15,
+    "tweet_count": "30K Tweets"
   },
   {
     "name": "#BURMUN",
     "query": "#BURMUN",
-    "rank": 15,
-    "tweet_count": "61.8K Tweets"
-  },
-  {
-    "name": "#DragRaceUK",
-    "query": "#DragRaceUK",
     "rank": 16,
-    "tweet_count": "15.8K Tweets"
+    "tweet_count": "61.5K Tweets"
   },
   {
     "name": "#ThisIsGoingToHurt",
     "query": "#ThisIsGoingToHurt",
     "rank": 17,
-    "tweet_count": "2,593 Tweets"
+    "tweet_count": "2,612 Tweets"
   },
   {
     "name": "#NEWEVE",
     "query": "#NEWEVE",
     "rank": 18,
     "tweet_count": "22.3K Tweets"
+  },
+  {
+    "name": "#DragRaceUK",
+    "query": "#DragRaceUK",
+    "rank": 19,
+    "tweet_count": "15.9K Tweets"
+  },
+  {
+    "name": "#KurtZouma",
+    "query": "#KurtZouma",
+    "rank": 20,
+    "tweet_count": "25.9K Tweets"
   }
 ]
