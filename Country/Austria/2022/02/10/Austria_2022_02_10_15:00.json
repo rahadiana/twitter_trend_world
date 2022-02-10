@@ -6,20 +6,20 @@
     "tweet_count": null
   },
   {
-    "name": "#Nehammer",
-    "query": "#Nehammer",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
     "name": "#NintendoDirect",
     "query": "#NintendoDirect",
-    "rank": 3,
-    "tweet_count": "193K Tweets"
+    "rank": 2,
+    "tweet_count": "194K Tweets"
   },
   {
     "name": "Steuergeld",
     "query": "Steuergeld",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "#Nehammer",
+    "query": "#Nehammer",
     "rank": 4,
     "tweet_count": null
   },
@@ -33,7 +33,7 @@
     "name": "Raum",
     "query": "Raum",
     "rank": 6,
-    "tweet_count": "2,986 Tweets"
+    "tweet_count": "3,010 Tweets"
   },
   {
     "name": "#Sobotka",
@@ -45,7 +45,7 @@
     "name": "Schweden",
     "query": "Schweden",
     "rank": 8,
-    "tweet_count": "4,811 Tweets"
+    "tweet_count": "4,850 Tweets"
   },
   {
     "name": "Maurer",
@@ -75,48 +75,48 @@
     "name": "Antworten",
     "query": "Antworten",
     "rank": 13,
-    "tweet_count": "2,396 Tweets"
+    "tweet_count": "2,409 Tweets"
   },
   {
     "name": "Strecken",
     "query": "Strecken",
     "rank": 14,
-    "tweet_count": "2,242 Tweets"
+    "tweet_count": "2,248 Tweets"
   },
   {
     "name": "Mario Kart",
     "query": "\"Mario Kart\"",
     "rank": 15,
-    "tweet_count": "124K Tweets"
+    "tweet_count": "125K Tweets"
   },
   {
     "name": "Demo",
     "query": "Demo",
     "rank": 16,
-    "tweet_count": "42.1K Tweets"
+    "tweet_count": "42.5K Tweets"
   },
   {
     "name": "Mund",
     "query": "Mund",
     "rank": 17,
-    "tweet_count": "3,308 Tweets"
+    "tweet_count": "3,340 Tweets"
   },
   {
     "name": "Kirby",
     "query": "Kirby",
     "rank": 18,
-    "tweet_count": "204K Tweets"
+    "tweet_count": "205K Tweets"
+  },
+  {
+    "name": "Long Covid",
+    "query": "\"Long Covid\"",
+    "rank": 19,
+    "tweet_count": "14.3K Tweets"
   },
   {
     "name": "Generation",
     "query": "Generation",
-    "rank": 19,
-    "tweet_count": "200K Tweets"
-  },
-  {
-    "name": "Tests",
-    "query": "Tests",
     "rank": 20,
-    "tweet_count": "76.6K Tweets"
+    "tweet_count": "202K Tweets"
   }
 ]
