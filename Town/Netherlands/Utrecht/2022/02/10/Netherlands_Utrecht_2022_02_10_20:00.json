@@ -1,33 +1,33 @@
 [
   {
+    "name": "#sanderendekloof",
+    "query": "#sanderendekloof",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "#Kampvankoningsbrugge",
     "query": "#Kampvankoningsbrugge",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#NECGAE",
     "query": "#NECGAE",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "#sanderendekloof",
-    "query": "#sanderendekloof",
     "rank": 3,
     "tweet_count": null
   },
   {
-    "name": "Mick van Wely",
-    "query": "\"Mick van Wely\"",
+    "name": "Mick",
+    "query": "Mick",
     "rank": 4,
-    "tweet_count": null
+    "tweet_count": "10.3K Tweets"
   },
   {
     "name": "Bony",
     "query": "Bony",
     "rank": 5,
-    "tweet_count": "1,685 Tweets"
+    "tweet_count": "1,692 Tweets"
   },
   {
     "name": "#Zembla",
@@ -48,22 +48,22 @@
     "tweet_count": null
   },
   {
+    "name": "Heerlen",
+    "query": "Heerlen",
+    "rank": 9,
+    "tweet_count": "1,276 Tweets"
+  },
+  {
     "name": "Harden",
     "query": "Harden",
-    "rank": 9,
-    "tweet_count": "333K Tweets"
+    "rank": 10,
+    "tweet_count": "339K Tweets"
   },
   {
     "name": "Van Agt",
     "query": "\"Van Agt\"",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Heerlen",
-    "query": "Heerlen",
     "rank": 11,
-    "tweet_count": "1,238 Tweets"
+    "tweet_count": null
   },
   {
     "name": "GGD-medewerkers",
@@ -72,34 +72,34 @@
     "tweet_count": null
   },
   {
-    "name": "Jesse",
-    "query": "Jesse",
+    "name": "Gerrit",
+    "query": "Gerrit",
     "rank": 13,
-    "tweet_count": "22.5K Tweets"
+    "tweet_count": "3,516 Tweets"
   },
   {
     "name": "Woorden",
     "query": "Woorden",
     "rank": 14,
-    "tweet_count": "3,310 Tweets"
+    "tweet_count": "3,352 Tweets"
   },
   {
-    "name": "Lisa",
-    "query": "Lisa",
+    "name": "Jesse",
+    "query": "Jesse",
     "rank": 15,
-    "tweet_count": "394K Tweets"
-  },
-  {
-    "name": "Gerrit",
-    "query": "Gerrit",
-    "rank": 16,
-    "tweet_count": "3,488 Tweets"
+    "tweet_count": "22.8K Tweets"
   },
   {
     "name": "Koeien",
     "query": "Koeien",
+    "rank": 16,
+    "tweet_count": "2,171 Tweets"
+  },
+  {
+    "name": "Lisa",
+    "query": "Lisa",
     "rank": 17,
-    "tweet_count": "2,083 Tweets"
+    "tweet_count": "395K Tweets"
   },
   {
     "name": "Valentijn",
@@ -111,6 +111,6 @@
     "name": "Nawel",
     "query": "Nawel",
     "rank": 19,
-    "tweet_count": "3,715 Tweets"
+    "tweet_count": "3,749 Tweets"
   }
 ]
