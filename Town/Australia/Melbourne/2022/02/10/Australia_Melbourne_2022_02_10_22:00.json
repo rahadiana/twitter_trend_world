@@ -1,80 +1,92 @@
 [
   {
-    "name": "#LIVLEI",
-    "query": "#LIVLEI",
-    "rank": 1,
-    "tweet_count": "40.5K Tweets"
-  },
-  {
     "name": "#WOLARS",
     "query": "#WOLARS",
+    "rank": 1,
+    "tweet_count": "41K Tweets"
+  },
+  {
+    "name": "#LIVLEI",
+    "query": "#LIVLEI",
     "rank": 2,
-    "tweet_count": "40.2K Tweets"
+    "tweet_count": "41.3K Tweets"
   },
   {
-    "name": "Simmons",
-    "query": "Simmons",
+    "name": "Harden",
+    "query": "Harden",
     "rank": 3,
-    "tweet_count": "229K Tweets"
-  },
-  {
-    "name": "Jota",
-    "query": "Jota",
-    "rank": 4,
-    "tweet_count": "45.5K Tweets"
+    "tweet_count": "363K Tweets"
   },
   {
     "name": "Diaz",
     "query": "Diaz",
-    "rank": 5,
-    "tweet_count": "104K Tweets"
-  },
-  {
-    "name": "Wordle 237 X",
-    "query": "\"Wordle 237 X\"",
-    "rank": 6,
-    "tweet_count": "1,554 Tweets"
+    "rank": 4,
+    "tweet_count": "106K Tweets"
   },
   {
     "name": "#WomenInScience",
     "query": "#WomenInScience",
+    "rank": 5,
+    "tweet_count": "5,280 Tweets"
+  },
+  {
+    "name": "Jota",
+    "query": "Jota",
+    "rank": 6,
+    "tweet_count": "47K Tweets"
+  },
+  {
+    "name": "Wordle 237 X",
+    "query": "\"Wordle 237 X\"",
     "rank": 7,
-    "tweet_count": "5,150 Tweets"
+    "tweet_count": "1,596 Tweets"
+  },
+  {
+    "name": "Koalas",
+    "query": "Koalas",
+    "rank": 8,
+    "tweet_count": "5,221 Tweets"
+  },
+  {
+    "name": "#WomenInSTEM",
+    "query": "#WomenInSTEM",
+    "rank": 9,
+    "tweet_count": "4,182 Tweets"
   },
   {
     "name": "Drummond",
     "query": "Drummond",
-    "rank": 8,
-    "tweet_count": "84.3K Tweets"
-  },
-  {
-    "name": "Embiid",
-    "query": "Embiid",
-    "rank": 9,
-    "tweet_count": "51.5K Tweets"
+    "rank": 10,
+    "tweet_count": "84.7K Tweets"
   },
   {
     "name": "NDIS",
     "query": "NDIS",
-    "rank": 10,
-    "tweet_count": "1,600 Tweets"
+    "rank": 11,
+    "tweet_count": "1,692 Tweets"
+  },
+  {
+    "name": "Embiid",
+    "query": "Embiid",
+    "rank": 12,
+    "tweet_count": "52.1K Tweets"
   },
   {
     "name": "Kooyong",
     "query": "Kooyong",
-    "rank": 11,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Lakers",
     "query": "Lakers",
-    "rank": 12,
-    "tweet_count": "243K Tweets"
+    "rank": 14,
+    "tweet_count": "244K Tweets"
   },
   {
     "name": "Frydenberg",
     "query": "Frydenberg",
-    "rank": 13,
-    "tweet_count": "9,694 Tweets"
+    "rank": 15,
+    "tweet_count": "9,848 Tweets"
   }
 ]
