@@ -1,39 +1,39 @@
 [
   {
-    "name": "CPCCS",
-    "query": "CPCCS",
-    "rank": 1,
-    "tweet_count": "15.6K Tweets"
-  },
-  {
     "name": "Emelec",
     "query": "Emelec",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "12.7K Tweets"
+  },
+  {
+    "name": "CPCCS",
+    "query": "CPCCS",
+    "rank": 2,
+    "tweet_count": "15.7K Tweets"
   },
   {
     "name": "David",
     "query": "David",
     "rank": 3,
-    "tweet_count": "206K Tweets"
+    "tweet_count": "207K Tweets"
   },
   {
     "name": "#masterchefecuador",
     "query": "#masterchefecuador",
     "rank": 4,
-    "tweet_count": "4,213 Tweets"
-  },
-  {
-    "name": "Quiroga",
-    "query": "Quiroga",
-    "rank": 5,
-    "tweet_count": "1,830 Tweets"
+    "tweet_count": "4,214 Tweets"
   },
   {
     "name": "#ExplosionAzul",
     "query": "#ExplosionAzul",
+    "rank": 5,
+    "tweet_count": "2,524 Tweets"
+  },
+  {
+    "name": "Quiroga",
+    "query": "Quiroga",
     "rank": 6,
-    "tweet_count": "2,522 Tweets"
+    "tweet_count": "1,834 Tweets"
   },
   {
     "name": "Pitton",
@@ -42,81 +42,81 @@
     "tweet_count": null
   },
   {
-    "name": "Zapata",
-    "query": "Zapata",
-    "rank": 8,
-    "tweet_count": "5,032 Tweets"
-  },
-  {
     "name": "Yuzuru",
     "query": "Yuzuru",
+    "rank": 8,
+    "tweet_count": "353K Tweets"
+  },
+  {
+    "name": "Bustos",
+    "query": "Bustos",
     "rank": 9,
-    "tweet_count": "351K Tweets"
+    "tweet_count": "3,407 Tweets"
   },
   {
     "name": "Daniela",
     "query": "Daniela",
     "rank": 10,
-    "tweet_count": "15.6K Tweets"
+    "tweet_count": "15.7K Tweets"
   },
   {
-    "name": "Bustos",
-    "query": "Bustos",
+    "name": "Zapata",
+    "query": "Zapata",
     "rank": 11,
-    "tweet_count": "3,390 Tweets"
+    "tweet_count": "5,045 Tweets"
   },
   {
     "name": "sofía almeida",
     "query": "\"sofía almeida\"",
     "rank": 12,
-    "tweet_count": "5,156 Tweets"
+    "tweet_count": "5,166 Tweets"
   },
   {
-    "name": "Ulloa",
-    "query": "Ulloa",
+    "name": "el coe",
+    "query": "\"el coe\"",
     "rank": 13,
-    "tweet_count": "4,915 Tweets"
-  },
-  {
-    "name": "El COE",
-    "query": "\"El COE\"",
-    "rank": 14,
-    "tweet_count": "4,626 Tweets"
+    "tweet_count": "4,633 Tweets"
   },
   {
     "name": "Guevara",
     "query": "Guevara",
+    "rank": 14,
+    "tweet_count": "9,608 Tweets"
+  },
+  {
+    "name": "Ulloa",
+    "query": "Ulloa",
     "rank": 15,
-    "tweet_count": "9,571 Tweets"
+    "tweet_count": "4,933 Tweets"
+  },
+  {
+    "name": "neme",
+    "query": "neme",
+    "rank": 16,
+    "tweet_count": "2,514 Tweets"
   },
   {
     "name": "Barcelona",
     "query": "Barcelona",
-    "rank": 16,
-    "tweet_count": "79.5K Tweets"
-  },
-  {
-    "name": "Neme",
-    "query": "Neme",
     "rank": 17,
-    "tweet_count": "2,511 Tweets"
+    "tweet_count": "80K Tweets"
   },
   {
     "name": "Millonarios",
     "query": "Millonarios",
     "rank": 18,
-    "tweet_count": "20K Tweets"
+    "tweet_count": "20.1K Tweets"
   },
   {
-    "name": "dixon",
-    "query": "dixon",
+    "name": "Dixon",
+    "query": "Dixon",
     "rank": 19,
-    "tweet_count": "5,647 Tweets"
+    "tweet_count": "5,679 Tweets"
   },
   {
-    "name": "scotto",
-    "query": "scotto",
+    "name": "Chalá",
+    "query": "Chalá",
     "rank": 20,
-    "tweet_count": "1,757 Tweets"
+    "tweet_count": "8,355 Tweets"
   }
 ]
