@@ -1,37 +1,37 @@
 [
   {
-    "name": "#zib2",
-    "query": "#zib2",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#GNTM",
     "query": "#GNTM",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "24.2K Tweets"
   },
   {
-    "name": "frau laufer",
-    "query": "\"frau laufer\"",
-    "rank": 3,
+    "name": "#zib2",
+    "query": "#zib2",
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Steuergeld",
     "query": "Steuergeld",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#lobaubleibt",
     "query": "#lobaubleibt",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "#Nehammer",
     "query": "#Nehammer",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "Frau Laufer",
+    "query": "\"Frau Laufer\"",
     "rank": 6,
     "tweet_count": null
   },
@@ -45,13 +45,13 @@
     "name": "Demos",
     "query": "Demos",
     "rank": 8,
-    "tweet_count": "8,429 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Tests",
     "query": "Tests",
     "rank": 9,
-    "tweet_count": "72K Tweets"
+    "tweet_count": "72.8K Tweets"
   },
   {
     "name": "Landeshauptleute",
@@ -63,7 +63,7 @@
     "name": "Antworten",
     "query": "Antworten",
     "rank": 11,
-    "tweet_count": "2,403 Tweets"
+    "tweet_count": "2,417 Tweets"
   },
   {
     "name": "guten morgen andreas",
@@ -78,8 +78,8 @@
     "tweet_count": null
   },
   {
-    "name": "Ludwig",
-    "query": "Ludwig",
+    "name": "ludwig",
+    "query": "ludwig",
     "rank": 14,
     "tweet_count": "11.6K Tweets"
   },
@@ -87,11 +87,11 @@
     "name": "Schweden",
     "query": "Schweden",
     "rank": 15,
-    "tweet_count": "3,706 Tweets"
+    "tweet_count": "3,729 Tweets"
   },
   {
-    "name": "appell",
-    "query": "appell",
+    "name": "Appell",
+    "query": "Appell",
     "rank": 16,
     "tweet_count": null
   },
@@ -99,7 +99,7 @@
     "name": "Long Covid",
     "query": "\"Long Covid\"",
     "rank": 17,
-    "tweet_count": "38.5K Tweets"
+    "tweet_count": "12.6K Tweets"
   },
   {
     "name": "Zusammenfassung",
@@ -111,12 +111,12 @@
     "name": "Wolf",
     "query": "Wolf",
     "rank": 19,
-    "tweet_count": "98K Tweets"
+    "tweet_count": "99.4K Tweets"
   },
   {
     "name": "Mario Strikers",
     "query": "\"Mario Strikers\"",
     "rank": 20,
-    "tweet_count": "50.3K Tweets"
+    "tweet_count": "50.7K Tweets"
   }
 ]
