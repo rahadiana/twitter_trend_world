@@ -1,39 +1,39 @@
 [
   {
-    "name": "#الهلال_تشيلسي",
-    "query": "#الهلال_تشيلسي",
-    "rank": 1,
-    "tweet_count": "146K Tweets"
-  },
-  {
     "name": "#العربي",
     "query": "#العربي",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "#دوري_نجوم_qnb",
+    "query": "#دوري_نجوم_qnb",
     "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "#ياتميم_قطر_هل_ترضي_بطر",
-    "query": "#ياتميم_قطر_هل_ترضي_بطر",
+    "name": "#الريان",
+    "query": "#الريان",
     "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "#اغلفه_موازيه",
-    "query": "#اغلفه_موازيه",
-    "rank": 4,
-    "tweet_count": "56.7K Tweets"
-  },
-  {
-    "name": "#دوري_نجوم_QNB",
-    "query": "#دوري_نجوم_QNB",
-    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "الشوط الاول",
     "query": "\"الشوط الاول\"",
+    "rank": 4,
+    "tweet_count": "4,200 Tweets"
+  },
+  {
+    "name": "#ياتميم_قطر_هل_ترضي_بطر",
+    "query": "#ياتميم_قطر_هل_ترضي_بطر",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "#الغرافه",
+    "query": "#الغرافه",
     "rank": 6,
-    "tweet_count": "4,186 Tweets"
+    "tweet_count": null
   },
   {
     "name": "الشوط الثاني",
@@ -48,75 +48,75 @@
     "tweet_count": "115K Tweets"
   },
   {
-    "name": "Pakistani",
-    "query": "Pakistani",
+    "name": "تشيلسي",
+    "query": "تشيلسي",
     "rank": 9,
-    "tweet_count": "19.6K Tweets"
+    "tweet_count": "234K Tweets"
+  },
+  {
+    "name": "الاسبوع الثامن",
+    "query": "\"الاسبوع الثامن\"",
+    "rank": 10,
+    "tweet_count": null
   },
   {
     "name": "Hijab",
     "query": "Hijab",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": "340K Tweets"
   },
   {
     "name": "China",
     "query": "China",
-    "rank": 11,
-    "tweet_count": "266K Tweets"
+    "rank": 12,
+    "tweet_count": "269K Tweets"
   },
   {
     "name": "Zouma",
     "query": "Zouma",
-    "rank": 12,
-    "tweet_count": "419K Tweets"
-  },
-  {
-    "name": "Hindu",
-    "query": "Hindu",
     "rank": 13,
-    "tweet_count": "169K Tweets"
+    "tweet_count": "419K Tweets"
   },
   {
     "name": "COVID-19",
     "query": "COVID-19",
     "rank": 14,
-    "tweet_count": "348K Tweets"
+    "tweet_count": "351K Tweets"
+  },
+  {
+    "name": "Hindu",
+    "query": "Hindu",
+    "rank": 15,
+    "tweet_count": "170K Tweets"
+  },
+  {
+    "name": "Pakistani",
+    "query": "Pakistani",
+    "rank": 16,
+    "tweet_count": "19.7K Tweets"
+  },
+  {
+    "name": "السودان",
+    "query": "السودان",
+    "rank": 17,
+    "tweet_count": "11.5K Tweets"
   },
   {
     "name": "Messi",
     "query": "Messi",
-    "rank": 15,
-    "tweet_count": "103K Tweets"
+    "rank": 18,
+    "tweet_count": "104K Tweets"
   },
   {
     "name": "Maguire",
     "query": "Maguire",
-    "rank": 16,
-    "tweet_count": "43K Tweets"
+    "rank": 19,
+    "tweet_count": "43.2K Tweets"
   },
   {
     "name": "اليوم الرياضي",
     "query": "\"اليوم الرياضي\"",
-    "rank": 17,
-    "tweet_count": "1,562 Tweets"
-  },
-  {
-    "name": "Ruto",
-    "query": "Ruto",
-    "rank": 18,
-    "tweet_count": "23.3K Tweets"
-  },
-  {
-    "name": "FIFA",
-    "query": "FIFA",
-    "rank": 19,
-    "tweet_count": "73.9K Tweets"
-  },
-  {
-    "name": "Uganda",
-    "query": "Uganda",
     "rank": 20,
-    "tweet_count": "36.8K Tweets"
+    "tweet_count": "1,573 Tweets"
   }
 ]
