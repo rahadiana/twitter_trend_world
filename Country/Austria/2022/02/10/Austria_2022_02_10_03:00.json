@@ -1,31 +1,31 @@
 [
   {
-    "name": "#NintendoDirect",
-    "query": "#NintendoDirect",
+    "name": "Nintendo Direct",
+    "query": "\"Nintendo Direct\"",
     "rank": 1,
-    "tweet_count": "165K Tweets"
+    "tweet_count": "169K Tweets"
   },
   {
-    "name": "Gsindl",
-    "query": "Gsindl",
+    "name": "gsindl",
+    "query": "gsindl",
     "rank": 2,
-    "tweet_count": "1,124 Tweets"
-  },
-  {
-    "name": "#OEVPkrise",
-    "query": "#OEVPkrise",
-    "rank": 3,
-    "tweet_count": null
+    "tweet_count": "1,118 Tweets"
   },
   {
     "name": "#nehammer",
     "query": "#nehammer",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "#oevpkrise",
+    "query": "#oevpkrise",
     "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "#sobotka",
-    "query": "#sobotka",
+    "name": "#Sobotka",
+    "query": "#Sobotka",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,7 +33,7 @@
     "name": "Mario Strikers",
     "query": "\"Mario Strikers\"",
     "rank": 6,
-    "tweet_count": "72.9K Tweets"
+    "tweet_count": "74K Tweets"
   },
   {
     "name": "#haslauer",
@@ -42,32 +42,32 @@
     "tweet_count": null
   },
   {
+    "name": "#Bachelor",
+    "query": "#Bachelor",
+    "rank": 8,
+    "tweet_count": "4,115 Tweets"
+  },
+  {
     "name": "Mario Kart",
     "query": "\"Mario Kart\"",
-    "rank": 8,
-    "tweet_count": "95.5K Tweets"
+    "rank": 9,
+    "tweet_count": "96.9K Tweets"
   },
   {
     "name": "Tanner",
     "query": "Tanner",
-    "rank": 9,
-    "tweet_count": "3,531 Tweets"
-  },
-  {
-    "name": "Chats",
-    "query": "Chats",
     "rank": 10,
-    "tweet_count": "32.3K Tweets"
+    "tweet_count": "3,587 Tweets"
   },
   {
-    "name": "Familienvater",
-    "query": "Familienvater",
+    "name": "Gerhard Roth",
+    "query": "\"Gerhard Roth\"",
     "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "gerhard roth",
-    "query": "\"gerhard roth\"",
+    "name": "Familienvater",
+    "query": "Familienvater",
     "rank": 12,
     "tweet_count": null
   },
@@ -78,45 +78,45 @@
     "tweet_count": null
   },
   {
-    "name": "Qualität",
-    "query": "Qualität",
+    "name": "Chats",
+    "query": "Chats",
     "rank": 14,
-    "tweet_count": "1,509 Tweets"
+    "tweet_count": "32.5K Tweets"
   },
   {
-    "name": "leitner",
-    "query": "leitner",
+    "name": "Leitner",
+    "query": "Leitner",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "appell",
-    "query": "appell",
+    "name": "qualität",
+    "query": "qualität",
     "rank": 16,
-    "tweet_count": null
+    "tweet_count": "1,509 Tweets"
   },
   {
-    "name": "Schiurlaub",
-    "query": "Schiurlaub",
+    "name": "appell",
+    "query": "appell",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "tote",
-    "query": "tote",
+    "name": "schiurlaub",
+    "query": "schiurlaub",
     "rank": 18,
-    "tweet_count": "14.3K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "karte",
-    "query": "karte",
+    "name": "Hanni",
+    "query": "Hanni",
     "rank": 19,
-    "tweet_count": "18.3K Tweets"
+    "tweet_count": "1,036 Tweets"
   },
   {
-    "name": "hanni",
-    "query": "hanni",
+    "name": "Tote",
+    "query": "Tote",
     "rank": 20,
-    "tweet_count": "1,025 Tweets"
+    "tweet_count": "14.4K Tweets"
   }
 ]
