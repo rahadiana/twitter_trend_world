@@ -1,21 +1,21 @@
 [
   {
-    "name": "#BuenJueves",
-    "query": "#BuenJueves",
-    "rank": 1,
-    "tweet_count": "1,295 Tweets"
-  },
-  {
     "name": "#ReservaLPF",
     "query": "#ReservaLPF",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#BuenJueves",
+    "query": "#BuenJueves",
+    "rank": 2,
+    "tweet_count": "1,410 Tweets"
   },
   {
     "name": "Guardiola",
     "query": "Guardiola",
     "rank": 3,
-    "tweet_count": "12.2K Tweets"
+    "tweet_count": "12.9K Tweets"
   },
   {
     "name": "#ElClubDelMoro",
@@ -33,66 +33,90 @@
     "name": "#caballerodedia",
     "query": "#caballerodedia",
     "rank": 6,
-    "tweet_count": "1,662 Tweets"
-  },
-  {
-    "name": "Feliz Jueves",
-    "query": "\"Feliz Jueves\"",
-    "rank": 7,
-    "tweet_count": "12.3K Tweets"
+    "tweet_count": "1,616 Tweets"
   },
   {
     "name": "Alperovich",
     "query": "Alperovich",
+    "rank": 7,
+    "tweet_count": "10.8K Tweets"
+  },
+  {
+    "name": "Blandi",
+    "query": "Blandi",
     "rank": 8,
-    "tweet_count": "10.6K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Chelsea",
+    "query": "Chelsea",
+    "rank": 9,
+    "tweet_count": "241K Tweets"
+  },
+  {
+    "name": "OSDE",
+    "query": "OSDE",
+    "rank": 10,
+    "tweet_count": null
   },
   {
     "name": "Liliana",
     "query": "Liliana",
-    "rank": 9,
+    "rank": 11,
     "tweet_count": "10K Tweets"
   },
   {
     "name": "Yuzuru",
     "query": "Yuzuru",
-    "rank": 10,
-    "tweet_count": "368K Tweets"
-  },
-  {
-    "name": "Chelsea",
-    "query": "Chelsea",
-    "rank": 11,
-    "tweet_count": "244K Tweets"
-  },
-  {
-    "name": "OSDE",
-    "query": "OSDE",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "370K Tweets"
   },
   {
     "name": "Bridgestone",
     "query": "Bridgestone",
     "rank": 13,
-    "tweet_count": "4,650 Tweets"
+    "tweet_count": "4,714 Tweets"
+  },
+  {
+    "name": "Ciudad de Buenos Aires",
+    "query": "\"Ciudad de Buenos Aires\"",
+    "rank": 14,
+    "tweet_count": "3,570 Tweets"
   },
   {
     "name": "Nathan Chen",
     "query": "\"Nathan Chen\"",
-    "rank": 14,
-    "tweet_count": "111K Tweets"
+    "rank": 15,
+    "tweet_count": "112K Tweets"
   },
   {
-    "name": "#ligaprofesional",
-    "query": "#ligaprofesional",
-    "rank": 15,
+    "name": "Mineiro",
+    "query": "Mineiro",
+    "rank": 16,
+    "tweet_count": "14.1K Tweets"
+  },
+  {
+    "name": "#FelizJueves",
+    "query": "#FelizJueves",
+    "rank": 17,
+    "tweet_count": "9,356 Tweets"
+  },
+  {
+    "name": "#nadiedicenada",
+    "query": "#nadiedicenada",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "#LigaProfesional",
+    "query": "#LigaProfesional",
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "#CopaDeLaLiga",
     "query": "#CopaDeLaLiga",
-    "rank": 16,
+    "rank": 20,
     "tweet_count": null
   }
 ]
