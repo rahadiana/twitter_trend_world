@@ -1,21 +1,21 @@
 [
   {
-    "name": "#VIVandaag",
-    "query": "#VIVandaag",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#sanderendekloof",
     "query": "#sanderendekloof",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "#kampvankoningsbrugge",
     "query": "#kampvankoningsbrugge",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "Mick",
+    "query": "Mick",
+    "rank": 3,
+    "tweet_count": "10.3K Tweets"
   },
   {
     "name": "#necgae",
@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "Mick",
-    "query": "Mick",
+    "name": "#beau",
+    "query": "#beau",
     "rank": 5,
-    "tweet_count": "10.2K Tweets"
+    "tweet_count": "1,373 Tweets"
   },
   {
     "name": "Bony",
     "query": "Bony",
     "rank": 6,
-    "tweet_count": "1,695 Tweets"
+    "tweet_count": "1,708 Tweets"
   },
   {
     "name": "Madelon",
@@ -42,34 +42,34 @@
     "tweet_count": null
   },
   {
-    "name": "pels rijcken",
-    "query": "\"pels rijcken\"",
+    "name": "Pels Rijcken",
+    "query": "\"Pels Rijcken\"",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Heerlen",
-    "query": "Heerlen",
-    "rank": 9,
-    "tweet_count": "1,328 Tweets"
-  },
-  {
     "name": "Van Agt",
     "query": "\"Van Agt\"",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "heerlen",
+    "query": "heerlen",
     "rank": 10,
+    "tweet_count": "1,344 Tweets"
+  },
+  {
+    "name": "Go Ahead Eagles",
+    "query": "\"Go Ahead Eagles\"",
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Gerrit",
     "query": "Gerrit",
-    "rank": 11,
-    "tweet_count": "3,459 Tweets"
-  },
-  {
-    "name": "Go Ahead Eagles",
-    "query": "\"Go Ahead Eagles\"",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "3,484 Tweets"
   },
   {
     "name": "GGD-medewerkers",
@@ -81,36 +81,36 @@
     "name": "Woorden",
     "query": "Woorden",
     "rank": 14,
-    "tweet_count": "3,325 Tweets"
+    "tweet_count": "3,358 Tweets"
   },
   {
-    "name": "Lisa",
-    "query": "Lisa",
+    "name": "Valentijn",
+    "query": "Valentijn",
     "rank": 15,
-    "tweet_count": "394K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Jesse",
     "query": "Jesse",
     "rank": 16,
-    "tweet_count": "22.4K Tweets"
+    "tweet_count": "22.6K Tweets"
   },
   {
-    "name": "Valentijn",
-    "query": "Valentijn",
+    "name": "Lisa",
+    "query": "Lisa",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "395K Tweets"
   },
   {
     "name": "Nawel",
     "query": "Nawel",
     "rank": 18,
-    "tweet_count": "3,678 Tweets"
+    "tweet_count": "3,717 Tweets"
   },
   {
     "name": "Leroy",
     "query": "Leroy",
     "rank": 19,
-    "tweet_count": "5,315 Tweets"
+    "tweet_count": "5,387 Tweets"
   }
 ]
