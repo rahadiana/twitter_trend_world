@@ -6,8 +6,8 @@
     "tweet_count": null
   },
   {
-    "name": "Zviedrijas",
-    "query": "Zviedrijas",
+    "name": "zviedrijas",
+    "query": "zviedrijas",
     "rank": 2,
     "tweet_count": null
   },
@@ -27,7 +27,7 @@
     "name": "#Beijing2022",
     "query": "#Beijing2022",
     "rank": 5,
-    "tweet_count": "334K Tweets"
+    "tweet_count": "338K Tweets"
   },
   {
     "name": "trojanska",
@@ -45,25 +45,25 @@
     "name": "Apple",
     "query": "Apple",
     "rank": 8,
-    "tweet_count": "345K Tweets"
+    "tweet_count": "349K Tweets"
   },
   {
-    "name": "Aldis",
-    "query": "Aldis",
+    "name": "Kariņš",
+    "query": "Kariņš",
     "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "kariņš",
-    "query": "kariņš",
-    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Belarus",
     "query": "Belarus",
+    "rank": 10,
+    "tweet_count": "16.9K Tweets"
+  },
+  {
+    "name": "Aldis",
+    "query": "Aldis",
     "rank": 11,
-    "tweet_count": "16.5K Tweets"
+    "tweet_count": null
   },
   {
     "name": "polijas",
@@ -99,7 +99,7 @@
     "name": "COVID-19",
     "query": "COVID-19",
     "rank": 17,
-    "tweet_count": "370K Tweets"
+    "tweet_count": "374K Tweets"
   },
   {
     "name": "#kopāstiprāki",
@@ -117,6 +117,6 @@
     "name": "Mums",
     "query": "Mums",
     "rank": 20,
-    "tweet_count": "5,630 Tweets"
+    "tweet_count": "5,733 Tweets"
   }
 ]
