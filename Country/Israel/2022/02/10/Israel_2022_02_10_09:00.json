@@ -1,21 +1,21 @@
 [
   {
-    "name": "בוקר טוב",
-    "query": "\"בוקר טוב\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "נחש צפע",
     "query": "\"נחש צפע\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "Nablus",
     "query": "Nablus",
+    "rank": 2,
+    "tweet_count": "5,988 Tweets"
+  },
+  {
+    "name": "בוקר טוב",
+    "query": "\"בוקר טוב\"",
     "rank": 3,
-    "tweet_count": "5,937 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Smotrich",
@@ -24,10 +24,10 @@
     "tweet_count": null
   },
   {
-    "name": "#NintendoDirect",
-    "query": "#NintendoDirect",
+    "name": "בוקר אור",
+    "query": "\"בוקר אור\"",
     "rank": 5,
-    "tweet_count": "183K Tweets"
+    "tweet_count": null
   },
   {
     "name": "עד גיל",
@@ -42,26 +42,26 @@
     "tweet_count": null
   },
   {
-    "name": "בוקר אור",
-    "query": "\"בוקר אור\"",
+    "name": "Direct",
+    "query": "Direct",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "431K Tweets"
   },
   {
     "name": "Apple",
     "query": "Apple",
     "rank": 9,
-    "tweet_count": "346K Tweets"
+    "tweet_count": "351K Tweets"
   },
   {
     "name": "West Bank",
     "query": "\"West Bank\"",
     "rank": 10,
-    "tweet_count": "3,302 Tweets"
+    "tweet_count": "3,333 Tweets"
   },
   {
-    "name": "#פידטק",
-    "query": "#פידטק",
+    "name": "בן גביר",
+    "query": "\"בן גביר\"",
     "rank": 11,
     "tweet_count": null
   },
@@ -72,26 +72,26 @@
     "tweet_count": null
   },
   {
-    "name": "גיא לרר",
-    "query": "\"גיא לרר\"",
+    "name": "#פידטק",
+    "query": "#פידטק",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "בן גביר",
-    "query": "\"בן גביר\"",
+    "name": "גיא לרר",
+    "query": "\"גיא לרר\"",
     "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "Amen",
-    "query": "Amen",
+    "name": "Nintendo",
+    "query": "Nintendo",
     "rank": 15,
-    "tweet_count": "145K Tweets"
+    "tweet_count": "696K Tweets"
   },
   {
-    "name": "ארץ ישראל",
-    "query": "\"ארץ ישראל\"",
+    "name": "ביבי אשם",
+    "query": "\"ביבי אשם\"",
     "rank": 16,
     "tweet_count": null
   },
@@ -99,24 +99,24 @@
     "name": "David",
     "query": "David",
     "rank": 17,
-    "tweet_count": "204K Tweets"
-  },
-  {
-    "name": "ביבי אשם",
-    "query": "\"ביבי אשם\"",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "207K Tweets"
   },
   {
     "name": "אלף שקל",
     "query": "\"אלף שקל\"",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "מי עוד",
+    "query": "\"מי עוד\"",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "נפתלי בנט",
-    "query": "\"נפתלי בנט\"",
+    "name": "Palestinian",
+    "query": "Palestinian",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "21.3K Tweets"
   }
 ]
