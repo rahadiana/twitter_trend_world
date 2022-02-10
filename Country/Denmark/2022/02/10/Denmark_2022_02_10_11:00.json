@@ -1,9 +1,9 @@
 [
   {
-    "name": "mærsk",
-    "query": "mærsk",
+    "name": "Mærsk",
+    "query": "Mærsk",
     "rank": 1,
-    "tweet_count": "1,790 Tweets"
+    "tweet_count": "1,804 Tweets"
   },
   {
     "name": "Coutinho",
@@ -12,16 +12,16 @@
     "tweet_count": "107K Tweets"
   },
   {
-    "name": "#dkgreen",
-    "query": "#dkgreen",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
     "name": "Southampton",
     "query": "Southampton",
+    "rank": 3,
+    "tweet_count": "40.4K Tweets"
+  },
+  {
+    "name": "#dkgreen",
+    "query": "#dkgreen",
     "rank": 4,
-    "tweet_count": "40.2K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Danske Bank",
@@ -42,28 +42,28 @@
     "tweet_count": "178K Tweets"
   },
   {
-    "name": "#dkpol",
-    "query": "#dkpol",
-    "rank": 8,
-    "tweet_count": "2,753 Tweets"
-  },
-  {
     "name": "Brian",
     "query": "Brian",
-    "rank": 9,
-    "tweet_count": "105K Tweets"
+    "rank": 8,
+    "tweet_count": "106K Tweets"
   },
   {
-    "name": "Spurs",
-    "query": "Spurs",
+    "name": "#dkpol",
+    "query": "#dkpol",
+    "rank": 9,
+    "tweet_count": "2,793 Tweets"
+  },
+  {
+    "name": "Amoo",
+    "query": "Amoo",
     "rank": 10,
-    "tweet_count": "57.7K Tweets"
+    "tweet_count": "9,320 Tweets"
   },
   {
     "name": "Zouma",
     "query": "Zouma",
     "rank": 11,
-    "tweet_count": "383K Tweets"
+    "tweet_count": "390K Tweets"
   },
   {
     "name": "#gettricked",
@@ -75,7 +75,7 @@
     "name": "Juve",
     "query": "Juve",
     "rank": 13,
-    "tweet_count": "9,854 Tweets"
+    "tweet_count": "9,978 Tweets"
   },
   {
     "name": "Maxsø",
@@ -87,36 +87,36 @@
     "name": "Maersk",
     "query": "Maersk",
     "rank": 15,
-    "tweet_count": "1,790 Tweets"
+    "tweet_count": "1,804 Tweets"
   },
   {
-    "name": "Leeds",
-    "query": "Leeds",
+    "name": "#dkøko",
+    "query": "#dkøko",
     "rank": 16,
-    "tweet_count": "47.9K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Kirby",
     "query": "Kirby",
     "rank": 17,
-    "tweet_count": "184K Tweets"
+    "tweet_count": "185K Tweets"
   },
   {
     "name": "Oliver",
     "query": "Oliver",
     "rank": 18,
-    "tweet_count": "24.2K Tweets"
-  },
-  {
-    "name": "#dkøko",
-    "query": "#dkøko",
-    "rank": 19,
-    "tweet_count": null
+    "tweet_count": "24.4K Tweets"
   },
   {
     "name": "Uber",
     "query": "Uber",
+    "rank": 19,
+    "tweet_count": "58.6K Tweets"
+  },
+  {
+    "name": "Wammen",
+    "query": "Wammen",
     "rank": 20,
-    "tweet_count": "58K Tweets"
+    "tweet_count": null
   }
 ]
