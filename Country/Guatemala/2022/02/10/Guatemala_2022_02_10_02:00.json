@@ -1,9 +1,9 @@
 [
   {
-    "name": "Nintendo Direct",
-    "query": "\"Nintendo Direct\"",
+    "name": "#NintendoDirect",
+    "query": "#NintendoDirect",
     "rank": 1,
-    "tweet_count": "165K Tweets"
+    "tweet_count": "164K Tweets"
   },
   {
     "name": "Janderson Pereira",
@@ -15,35 +15,35 @@
     "name": "Municipal",
     "query": "Municipal",
     "rank": 3,
-    "tweet_count": "33.5K Tweets"
+    "tweet_count": "33.7K Tweets"
   },
   {
     "name": "Donovan",
     "query": "Donovan",
     "rank": 4,
-    "tweet_count": "64.5K Tweets"
+    "tweet_count": "71K Tweets"
   },
   {
     "name": "Cardozo",
     "query": "Cardozo",
     "rank": 5,
-    "tweet_count": "2,296 Tweets"
+    "tweet_count": "2,372 Tweets"
+  },
+  {
+    "name": "Pablo Xitumul",
+    "query": "\"Pablo Xitumul\"",
+    "rank": 6,
+    "tweet_count": null
   },
   {
     "name": "Cobán Imperial",
     "query": "\"Cobán Imperial\"",
-    "rank": 6,
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "gambeta",
     "query": "gambeta",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
-    "name": "Pablo Xitumul",
-    "query": "\"Pablo Xitumul\"",
     "rank": 8,
     "tweet_count": null
   },
@@ -54,16 +54,16 @@
     "tweet_count": null
   },
   {
-    "name": "Xela",
-    "query": "Xela",
+    "name": "Xelajú",
+    "query": "Xelajú",
     "rank": 10,
-    "tweet_count": "1,935 Tweets"
+    "tweet_count": "1,185 Tweets"
   },
   {
     "name": "Gamboa",
     "query": "Gamboa",
     "rank": 11,
-    "tweet_count": "1,374 Tweets"
+    "tweet_count": "1,403 Tweets"
   },
   {
     "name": "Kevin López",
@@ -75,13 +75,13 @@
     "name": "#TheBookofBobaFett",
     "query": "#TheBookofBobaFett",
     "rank": 13,
-    "tweet_count": "83.6K Tweets"
+    "tweet_count": "84.2K Tweets"
   },
   {
     "name": "#AEWDynamite",
     "query": "#AEWDynamite",
     "rank": 14,
-    "tweet_count": "85.2K Tweets"
+    "tweet_count": "90.1K Tweets"
   },
   {
     "name": "El Trébol",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
-    "name": "Vida y la Familia",
-    "query": "\"Vida y la Familia\"",
+    "name": "Bini",
+    "query": "Bini",
     "rank": 16,
-    "tweet_count": "7,702 Tweets"
+    "tweet_count": "46.2K Tweets"
   },
   {
-    "name": "Colados",
-    "query": "Colados",
+    "name": "colados",
+    "query": "colados",
     "rank": 17,
     "tweet_count": null
   },
   {
+    "name": "Vida y la Familia",
+    "query": "\"Vida y la Familia\"",
+    "rank": 18,
+    "tweet_count": "7,791 Tweets"
+  },
+  {
     "name": "Guatenóminas",
     "query": "Guatenóminas",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Malacateco",
     "query": "Malacateco",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Santa Lucía",
-    "query": "\"Santa Lucía\"",
     "rank": 20,
-    "tweet_count": "8,777 Tweets"
+    "tweet_count": null
   }
 ]
