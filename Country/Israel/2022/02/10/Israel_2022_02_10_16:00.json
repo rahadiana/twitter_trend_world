@@ -1,37 +1,37 @@
 [
   {
-    "name": "גלי צהל",
-    "query": "\"גלי צהל\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "גל״צ",
     "query": "גל״צ",
-    "rank": 2,
-    "tweet_count": "1,639 Tweets"
-  },
-  {
-    "name": "של ברדוגו",
-    "query": "\"של ברדוגו\"",
-    "rank": 3,
-    "tweet_count": "4,296 Tweets"
+    "rank": 1,
+    "tweet_count": "1,876 Tweets"
   },
   {
     "name": "גלי ישראל",
     "query": "\"גלי ישראל\"",
-    "rank": 4,
+    "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "Smotrich",
-    "query": "Smotrich",
-    "rank": 5,
+    "name": "גלי צהל",
+    "query": "\"גלי צהל\"",
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "צפון קוריאה",
     "query": "\"צפון קוריאה\"",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "של ברדוגו",
+    "query": "\"של ברדוגו\"",
+    "rank": 5,
+    "tweet_count": "4,957 Tweets"
+  },
+  {
+    "name": "Smotrich",
+    "query": "Smotrich",
     "rank": 6,
     "tweet_count": null
   },
@@ -54,22 +54,22 @@
     "tweet_count": null
   },
   {
-    "name": "#cryptocurrency",
-    "query": "#cryptocurrency",
-    "rank": 10,
-    "tweet_count": "176K Tweets"
-  },
-  {
     "name": "של ליברמן",
     "query": "\"של ליברמן\"",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Britain",
     "query": "Britain",
+    "rank": 11,
+    "tweet_count": "46.9K Tweets"
+  },
+  {
+    "name": "#cryptocurrency",
+    "query": "#cryptocurrency",
     "rank": 12,
-    "tweet_count": "45K Tweets"
+    "tweet_count": "181K Tweets"
   },
   {
     "name": "#נישתי",
@@ -90,10 +90,10 @@
     "tweet_count": null
   },
   {
-    "name": "direct",
-    "query": "direct",
+    "name": "Direct",
+    "query": "Direct",
     "rank": 16,
-    "tweet_count": "411K Tweets"
+    "tweet_count": "416K Tweets"
   },
   {
     "name": "בוקר טוב",
@@ -108,14 +108,14 @@
     "tweet_count": null
   },
   {
-    "name": "שעה אחת",
-    "query": "\"שעה אחת\"",
+    "name": "ארץ ישראל",
+    "query": "\"ארץ ישראל\"",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "ארץ ישראל",
-    "query": "\"ארץ ישראל\"",
+    "name": "בן גביר",
+    "query": "\"בן גביר\"",
     "rank": 20,
     "tweet_count": null
   }
