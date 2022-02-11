@@ -1,33 +1,33 @@
 [
   {
-    "name": "Michelle Gisin",
-    "query": "\"Michelle Gisin\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Jan Scherrer",
     "query": "\"Jan Scherrer\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "Lara Gut-Behrami",
     "query": "\"Lara Gut-Behrami\"",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#WomenInScience",
     "query": "#WomenInScience",
+    "rank": 3,
+    "tweet_count": "10.4K Tweets"
+  },
+  {
+    "name": "Michelle Gisin",
+    "query": "\"Michelle Gisin\"",
     "rank": 4,
-    "tweet_count": "10.1K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#StayAlive_CHAKHO",
     "query": "#StayAlive_CHAKHO",
     "rank": 5,
-    "tweet_count": "669K Tweets"
+    "tweet_count": "682K Tweets"
   },
   {
     "name": "#GNTM",
@@ -36,16 +36,16 @@
     "tweet_count": "24.5K Tweets"
   },
   {
-    "name": "#NintendoDirect",
-    "query": "#NintendoDirect",
+    "name": "#PekinExpress",
+    "query": "#PekinExpress",
     "rank": 7,
-    "tweet_count": "49K Tweets"
+    "tweet_count": "15.8K Tweets"
   },
   {
     "name": "Luc Montagnier",
     "query": "\"Luc Montagnier\"",
     "rank": 8,
-    "tweet_count": "119K Tweets"
+    "tweet_count": "120K Tweets"
   },
   {
     "name": "Nobel",
@@ -60,16 +60,16 @@
     "tweet_count": "10.7K Tweets"
   },
   {
-    "name": "Wohnungen",
-    "query": "Wohnungen",
+    "name": "wohnungen",
+    "query": "wohnungen",
     "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "Verhalten",
-    "query": "Verhalten",
+    "name": "verhalten",
+    "query": "verhalten",
     "rank": 12,
-    "tweet_count": "2,199 Tweets"
+    "tweet_count": "2,218 Tweets"
   },
   {
     "name": "Mühe",
@@ -78,22 +78,22 @@
     "tweet_count": null
   },
   {
-    "name": "Karte",
-    "query": "Karte",
+    "name": "DeFi",
+    "query": "DeFi",
     "rank": 14,
-    "tweet_count": "15.4K Tweets"
+    "tweet_count": "269K Tweets"
   },
   {
     "name": "Batman",
     "query": "Batman",
     "rank": 15,
-    "tweet_count": "83K Tweets"
+    "tweet_count": "83.3K Tweets"
   },
   {
     "name": "Einfluss",
     "query": "Einfluss",
     "rank": 16,
-    "tweet_count": "1,823 Tweets"
+    "tweet_count": "1,841 Tweets"
   },
   {
     "name": "Oooh",
@@ -102,9 +102,9 @@
     "tweet_count": "16K Tweets"
   },
   {
-    "name": "DeFi",
-    "query": "DeFi",
+    "name": "Planeten",
+    "query": "Planeten",
     "rank": 18,
-    "tweet_count": "267K Tweets"
+    "tweet_count": null
   }
 ]
