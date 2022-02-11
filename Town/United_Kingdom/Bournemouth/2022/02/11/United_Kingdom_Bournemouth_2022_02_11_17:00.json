@@ -1,27 +1,27 @@
 [
   {
+    "name": "Super Bowl",
+    "query": "\"Super Bowl\"",
+    "rank": 1,
+    "tweet_count": "83.2K Tweets"
+  },
+  {
+    "name": "#lizztruss",
+    "query": "#lizztruss",
+    "rank": 2,
+    "tweet_count": "1,641 Tweets"
+  },
+  {
     "name": "#TIMEFORLOVE",
     "query": "#TIMEFORLOVE",
-    "rank": 1,
+    "rank": 3,
     "tweet_count": "1,240 Tweets"
   },
   {
     "name": "Hazard",
     "query": "Hazard",
-    "rank": 2,
-    "tweet_count": "28.3K Tweets"
-  },
-  {
-    "name": "Salisbury",
-    "query": "Salisbury",
-    "rank": 3,
-    "tweet_count": "2,445 Tweets"
-  },
-  {
-    "name": "#childrensmentalhealthweek2022",
-    "query": "#childrensmentalhealthweek2022",
     "rank": 4,
-    "tweet_count": "3,460 Tweets"
+    "tweet_count": "28.3K Tweets"
   },
   {
     "name": "#tippingpoint",
@@ -30,22 +30,22 @@
     "tweet_count": null
   },
   {
-    "name": "Lord Glitters",
-    "query": "\"Lord Glitters\"",
+    "name": "#childrensmentalhealthweek2022",
+    "query": "#childrensmentalhealthweek2022",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "3,471 Tweets"
   },
   {
-    "name": "#WomenInScience",
-    "query": "#WomenInScience",
+    "name": "Lord Glitters",
+    "query": "\"Lord Glitters\"",
     "rank": 7,
-    "tweet_count": "64.3K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Lassa",
     "query": "Lassa",
     "rank": 8,
-    "tweet_count": "4,067 Tweets"
+    "tweet_count": "4,103 Tweets"
   },
   {
     "name": "Dyson",
@@ -57,60 +57,60 @@
     "name": "Black Adam",
     "query": "\"Black Adam\"",
     "rank": 10,
-    "tweet_count": "8,598 Tweets"
+    "tweet_count": "8,724 Tweets"
   },
   {
     "name": "David Moyes",
     "query": "\"David Moyes\"",
     "rank": 11,
-    "tweet_count": "11.9K Tweets"
+    "tweet_count": "12K Tweets"
   },
   {
     "name": "Dorset",
     "query": "Dorset",
     "rank": 12,
-    "tweet_count": "3,760 Tweets"
+    "tweet_count": "3,787 Tweets"
   },
   {
     "name": "Diane Abbott",
     "query": "\"Diane Abbott\"",
     "rank": 13,
-    "tweet_count": "4,019 Tweets"
+    "tweet_count": "4,022 Tweets"
   },
   {
     "name": "COLLEEN HOOVER",
     "query": "\"COLLEEN HOOVER\"",
     "rank": 14,
-    "tweet_count": "2,880 Tweets"
-  },
-  {
-    "name": "Ricky Hatton",
-    "query": "\"Ricky Hatton\"",
-    "rank": 15,
-    "tweet_count": null
+    "tweet_count": "2,901 Tweets"
   },
   {
     "name": "Ebola",
     "query": "Ebola",
-    "rank": 16,
-    "tweet_count": "4,141 Tweets"
+    "rank": 15,
+    "tweet_count": "4,165 Tweets"
   },
   {
-    "name": "Dennis Skinner",
-    "query": "\"Dennis Skinner\"",
-    "rank": 17,
-    "tweet_count": "5,728 Tweets"
+    "name": "Ricky Hatton",
+    "query": "\"Ricky Hatton\"",
+    "rank": 16,
+    "tweet_count": null
   },
   {
     "name": "lottie",
     "query": "lottie",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": "41.4K Tweets"
   },
   {
     "name": "Year 2",
     "query": "\"Year 2\"",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": "103K Tweets"
+  },
+  {
+    "name": "yarmolenko",
+    "query": "yarmolenko",
+    "rank": 19,
+    "tweet_count": null
   }
 ]
