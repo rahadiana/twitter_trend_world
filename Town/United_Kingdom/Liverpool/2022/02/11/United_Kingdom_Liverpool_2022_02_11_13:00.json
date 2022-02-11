@@ -1,86 +1,92 @@
 [
   {
-    "name": "#popmaster",
-    "query": "#popmaster",
+    "name": "Khan",
+    "query": "Khan",
     "rank": 1,
-    "tweet_count": null
+    "tweet_count": "136K Tweets"
   },
   {
     "name": "Keown",
     "query": "Keown",
     "rank": 2,
-    "tweet_count": "1,299 Tweets"
+    "tweet_count": "1,304 Tweets"
   },
   {
-    "name": "Martinelli",
-    "query": "Martinelli",
+    "name": "#Cressida",
+    "query": "#Cressida",
     "rank": 3,
-    "tweet_count": "36.1K Tweets"
+    "tweet_count": "1,090 Tweets"
   },
   {
-    "name": "#writingcommmunity",
-    "query": "#writingcommmunity",
+    "name": "#NAW2022",
+    "query": "#NAW2022",
     "rank": 4,
-    "tweet_count": "1,944 Tweets"
+    "tweet_count": "7,862 Tweets"
   },
   {
     "name": "NY Times",
     "query": "\"NY Times\"",
     "rank": 5,
-    "tweet_count": "22.3K Tweets"
+    "tweet_count": "22.6K Tweets"
+  },
+  {
+    "name": "Met Commissioner",
+    "query": "\"Met Commissioner\"",
+    "rank": 6,
+    "tweet_count": "22.5K Tweets"
   },
   {
     "name": "#WomenInScience",
     "query": "#WomenInScience",
-    "rank": 6,
-    "tweet_count": "36.5K Tweets"
+    "rank": 7,
+    "tweet_count": "38.3K Tweets"
   },
   {
     "name": "LOTTIE",
     "query": "LOTTIE",
-    "rank": 7,
-    "tweet_count": "18.9K Tweets"
+    "rank": 8,
+    "tweet_count": "21.1K Tweets"
   },
   {
     "name": "Diane Abbott",
     "query": "\"Diane Abbott\"",
-    "rank": 8,
-    "tweet_count": "1,993 Tweets"
-  },
-  {
-    "name": "Molly Mae",
-    "query": "\"Molly Mae\"",
     "rank": 9,
-    "tweet_count": "2,677 Tweets"
-  },
-  {
-    "name": "Dennis Skinner",
-    "query": "\"Dennis Skinner\"",
-    "rank": 10,
-    "tweet_count": "1,716 Tweets"
-  },
-  {
-    "name": "RIP Bernie",
-    "query": "\"RIP Bernie\"",
-    "rank": 11,
-    "tweet_count": null
+    "tweet_count": "2,168 Tweets"
   },
   {
     "name": "Gibson",
     "query": "Gibson",
+    "rank": 10,
+    "tweet_count": "11.1K Tweets"
+  },
+  {
+    "name": "Molly Mae",
+    "query": "\"Molly Mae\"",
+    "rank": 11,
+    "tweet_count": "2,928 Tweets"
+  },
+  {
+    "name": "Dennis Skinner",
+    "query": "\"Dennis Skinner\"",
     "rank": 12,
-    "tweet_count": "10.8K Tweets"
+    "tweet_count": "1,971 Tweets"
   },
   {
-    "name": "Neil Coyle",
-    "query": "\"Neil Coyle\"",
+    "name": "New England Patriots",
+    "query": "\"New England Patriots\"",
     "rank": 13,
-    "tweet_count": "8,492 Tweets"
+    "tweet_count": "1,121 Tweets"
   },
   {
-    "name": "EHRC",
-    "query": "EHRC",
+    "name": "Pittsburgh Steelers",
+    "query": "\"Pittsburgh Steelers\"",
     "rank": 14,
-    "tweet_count": "21K Tweets"
+    "tweet_count": "1,232 Tweets"
+  },
+  {
+    "name": "RIP Bernie",
+    "query": "\"RIP Bernie\"",
+    "rank": 15,
+    "tweet_count": null
   }
 ]
