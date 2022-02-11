@@ -1,15 +1,15 @@
 [
   {
-    "name": "Ukrainę",
-    "query": "Ukrainę",
+    "name": "Pozdrawiam",
+    "query": "Pozdrawiam",
     "rank": 1,
-    "tweet_count": "297K Tweets"
+    "tweet_count": "4,717 Tweets"
   },
   {
-    "name": "pozdrawiam",
-    "query": "pozdrawiam",
+    "name": "Ukrainę",
+    "query": "Ukrainę",
     "rank": 2,
-    "tweet_count": "4,630 Tweets"
+    "tweet_count": "318K Tweets"
   },
   {
     "name": "#CRALGD",
@@ -33,31 +33,31 @@
     "name": "#MCL36",
     "query": "#MCL36",
     "rank": 6,
-    "tweet_count": "15.1K Tweets"
-  },
-  {
-    "name": "#TwitterowePersiary",
-    "query": "#TwitterowePersiary",
-    "rank": 7,
-    "tweet_count": null
+    "tweet_count": "16.5K Tweets"
   },
   {
     "name": "Ewa Swoboda",
     "query": "\"Ewa Swoboda\"",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "#TwitterowePersiary",
+    "query": "#TwitterowePersiary",
     "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "Biały Dom",
+    "query": "\"Biały Dom\"",
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Łęcznej",
     "query": "Łęcznej",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Bodnar",
-    "query": "Bodnar",
     "rank": 10,
-    "tweet_count": "1,252 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Cracovia",
@@ -66,39 +66,45 @@
     "tweet_count": null
   },
   {
+    "name": "Bodnar",
+    "query": "Bodnar",
+    "rank": 12,
+    "tweet_count": "1,313 Tweets"
+  },
+  {
     "name": "Śląska",
     "query": "Śląska",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Dudę",
     "query": "Dudę",
-    "rank": 13,
-    "tweet_count": "214K Tweets"
+    "rank": 14,
+    "tweet_count": "218K Tweets"
   },
   {
     "name": "Patryk Jaki",
     "query": "\"Patryk Jaki\"",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Amantadyna",
-    "query": "Amantadyna",
     "rank": 15,
-    "tweet_count": "4,642 Tweets"
-  },
-  {
-    "name": "#ElevenF1",
-    "query": "#ElevenF1",
-    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "#f1pl",
     "query": "#f1pl",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "#ElevenF1",
+    "query": "#ElevenF1",
     "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "#amantadyna",
+    "query": "#amantadyna",
+    "rank": 18,
     "tweet_count": null
   }
 ]
