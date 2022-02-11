@@ -1,51 +1,51 @@
 [
   {
-    "name": "Urteil",
-    "query": "Urteil",
-    "rank": 1,
-    "tweet_count": "1,502 Tweets"
-  },
-  {
     "name": "#GNTM",
     "query": "#GNTM",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "24.6K Tweets"
+  },
+  {
+    "name": "Urteil",
+    "query": "Urteil",
+    "rank": 2,
+    "tweet_count": "1,536 Tweets"
   },
   {
     "name": "#BVerfG",
     "query": "#BVerfG",
     "rank": 3,
-    "tweet_count": "3,627 Tweets"
+    "tweet_count": "3,837 Tweets"
   },
   {
     "name": "#112live",
     "query": "#112live",
     "rank": 4,
-    "tweet_count": "7,387 Tweets"
+    "tweet_count": "7,602 Tweets"
   },
   {
     "name": "#WomenInScience",
     "query": "#WomenInScience",
     "rank": 5,
-    "tweet_count": "26.8K Tweets"
+    "tweet_count": "27.6K Tweets"
   },
   {
     "name": "#Bundesverfassungsgericht",
     "query": "#Bundesverfassungsgericht",
     "rank": 6,
-    "tweet_count": "1,313 Tweets"
+    "tweet_count": "1,368 Tweets"
   },
   {
     "name": "Eilantrag",
     "query": "Eilantrag",
     "rank": 7,
-    "tweet_count": "2,724 Tweets"
+    "tweet_count": "2,760 Tweets"
   },
   {
     "name": "Fremdschutz",
     "query": "Fremdschutz",
     "rank": 8,
-    "tweet_count": "1,836 Tweets"
+    "tweet_count": "1,909 Tweets"
   },
   {
     "name": "Start ins Wochenende",
@@ -54,16 +54,16 @@
     "tweet_count": null
   },
   {
-    "name": "Gewaltenteilung",
-    "query": "Gewaltenteilung",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
     "name": "Schönen Freitag",
     "query": "\"Schönen Freitag\"",
+    "rank": 10,
+    "tweet_count": "1,679 Tweets"
+  },
+  {
+    "name": "Gewaltenteilung",
+    "query": "Gewaltenteilung",
     "rank": 11,
-    "tweet_count": "1,656 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Einsätze",
@@ -75,7 +75,7 @@
     "name": "Richter",
     "query": "Richter",
     "rank": 13,
-    "tweet_count": "5,222 Tweets"
+    "tweet_count": "5,271 Tweets"
   },
   {
     "name": "Notfall",
@@ -84,8 +84,8 @@
     "tweet_count": null
   },
   {
-    "name": "Weltkrieg",
-    "query": "Weltkrieg",
+    "name": "Selbstschutz",
+    "query": "Selbstschutz",
     "rank": 15,
     "tweet_count": null
   },
@@ -96,8 +96,8 @@
     "tweet_count": null
   },
   {
-    "name": "Selbstschutz",
-    "query": "Selbstschutz",
+    "name": "Weltkrieg",
+    "query": "Weltkrieg",
     "rank": 17,
     "tweet_count": null
   },
@@ -105,18 +105,18 @@
     "name": "Holz",
     "query": "Holz",
     "rank": 18,
-    "tweet_count": "2,090 Tweets"
+    "tweet_count": "2,118 Tweets"
   },
   {
     "name": "Lanz",
     "query": "Lanz",
     "rank": 19,
-    "tweet_count": "17.9K Tweets"
+    "tweet_count": "18.1K Tweets"
   },
   {
-    "name": "#Twittergewitter",
-    "query": "#Twittergewitter",
+    "name": "Lunge",
+    "query": "Lunge",
     "rank": 20,
-    "tweet_count": "1,738 Tweets"
+    "tweet_count": "8,109 Tweets"
   }
 ]
