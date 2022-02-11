@@ -1,33 +1,33 @@
 [
   {
-    "name": "#ParoNacional",
-    "query": "#ParoNacional",
-    "rank": 1,
-    "tweet_count": "47.8K Tweets"
-  },
-  {
     "name": "#FMSChile",
     "query": "#FMSChile",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#ParoNacional",
+    "query": "#ParoNacional",
+    "rank": 2,
+    "tweet_count": "48.7K Tweets"
   },
   {
     "name": "#ruta68",
     "query": "#ruta68",
     "rank": 3,
-    "tweet_count": "1,078 Tweets"
+    "tweet_count": "1,323 Tweets"
+  },
+  {
+    "name": "Delgado",
+    "query": "Delgado",
+    "rank": 4,
+    "tweet_count": "26.1K Tweets"
   },
   {
     "name": "Palestino",
     "query": "Palestino",
-    "rank": 4,
-    "tweet_count": "1,514 Tweets"
-  },
-  {
-    "name": "#PALOHIxTNTSports",
-    "query": "#PALOHIxTNTSports",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "1,531 Tweets"
   },
   {
     "name": "Gustavo Costas",
@@ -42,10 +42,10 @@
     "tweet_count": null
   },
   {
-    "name": "Delgado",
-    "query": "Delgado",
+    "name": "#PALOHIxTNTSports",
+    "query": "#PALOHIxTNTSports",
     "rank": 8,
-    "tweet_count": "25.5K Tweets"
+    "tweet_count": null
   },
   {
     "name": "O'Higgins",
@@ -57,25 +57,25 @@
     "name": "Ministro del Interior",
     "query": "\"Ministro del Interior\"",
     "rank": 10,
-    "tweet_count": "7,267 Tweets"
+    "tweet_count": "7,591 Tweets"
   },
   {
     "name": "Ucrania",
     "query": "Ucrania",
     "rank": 11,
-    "tweet_count": "91.9K Tweets"
-  },
-  {
-    "name": "Danoi",
-    "query": "Danoi",
-    "rank": 12,
-    "tweet_count": null
+    "tweet_count": "94.2K Tweets"
   },
   {
     "name": "Norte",
     "query": "Norte",
+    "rank": 12,
+    "tweet_count": "85.5K Tweets"
+  },
+  {
+    "name": "Danoi",
+    "query": "Danoi",
     "rank": 13,
-    "tweet_count": "84K Tweets"
+    "tweet_count": null
   },
   {
     "name": "La Cisterna",
@@ -87,30 +87,30 @@
     "name": "Galli",
     "query": "Galli",
     "rank": 15,
-    "tweet_count": "2,076 Tweets"
+    "tweet_count": "2,128 Tweets"
   },
   {
     "name": "Lost Ark",
     "query": "\"Lost Ark\"",
     "rank": 16,
-    "tweet_count": "20.1K Tweets"
+    "tweet_count": "20.6K Tweets"
+  },
+  {
+    "name": "Putin",
+    "query": "Putin",
+    "rank": 17,
+    "tweet_count": "263K Tweets"
   },
   {
     "name": "Selknam",
     "query": "Selknam",
-    "rank": 17,
-    "tweet_count": "2,632 Tweets"
+    "rank": 18,
+    "tweet_count": "2,682 Tweets"
   },
   {
     "name": "Ibai",
     "query": "Ibai",
-    "rank": 18,
-    "tweet_count": "14.3K Tweets"
-  },
-  {
-    "name": "Cobarde",
-    "query": "Cobarde",
     "rank": 19,
-    "tweet_count": "32.3K Tweets"
+    "tweet_count": "14.2K Tweets"
   }
 ]

@@ -1,33 +1,33 @@
 [
   {
-    "name": "#ParoNacional",
-    "query": "#ParoNacional",
-    "rank": 1,
-    "tweet_count": "47.8K Tweets"
-  },
-  {
     "name": "#FMSChile",
     "query": "#FMSChile",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#ParoNacional",
+    "query": "#ParoNacional",
+    "rank": 2,
+    "tweet_count": "48.8K Tweets"
   },
   {
     "name": "#ruta68",
     "query": "#ruta68",
     "rank": 3,
-    "tweet_count": "1,091 Tweets"
+    "tweet_count": "1,368 Tweets"
+  },
+  {
+    "name": "Delgado",
+    "query": "Delgado",
+    "rank": 4,
+    "tweet_count": "26.1K Tweets"
   },
   {
     "name": "Palestino",
     "query": "Palestino",
-    "rank": 4,
-    "tweet_count": "1,514 Tweets"
-  },
-  {
-    "name": "#PALOHIxTNTSports",
-    "query": "#PALOHIxTNTSports",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "1,531 Tweets"
   },
   {
     "name": "Gustavo Costas",
@@ -42,10 +42,10 @@
     "tweet_count": null
   },
   {
-    "name": "Delgado",
-    "query": "Delgado",
+    "name": "#PALOHIxTNTSports",
+    "query": "#PALOHIxTNTSports",
     "rank": 8,
-    "tweet_count": "25.5K Tweets"
+    "tweet_count": null
   },
   {
     "name": "O'Higgins",
@@ -57,31 +57,31 @@
     "name": "Ministro del Interior",
     "query": "\"Ministro del Interior\"",
     "rank": 10,
-    "tweet_count": "7,286 Tweets"
+    "tweet_count": "7,607 Tweets"
   },
   {
     "name": "Ucrania",
     "query": "Ucrania",
     "rank": 11,
-    "tweet_count": "92.1K Tweets"
-  },
-  {
-    "name": "Danoi",
-    "query": "Danoi",
-    "rank": 12,
-    "tweet_count": null
+    "tweet_count": "94.3K Tweets"
   },
   {
     "name": "Norte",
     "query": "Norte",
-    "rank": 13,
-    "tweet_count": "84.1K Tweets"
+    "rank": 12,
+    "tweet_count": "85.6K Tweets"
   },
   {
-    "name": "#NoEsInmigracionEsINVASION",
-    "query": "#NoEsInmigracionEsINVASION",
+    "name": "Danoi",
+    "query": "Danoi",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "#FueraACNURDeChile",
+    "query": "#FueraACNURDeChile",
     "rank": 14,
-    "tweet_count": "36.4K Tweets"
+    "tweet_count": "20.9K Tweets"
   },
   {
     "name": "La Cisterna",
@@ -93,30 +93,30 @@
     "name": "Galli",
     "query": "Galli",
     "rank": 16,
-    "tweet_count": "2,076 Tweets"
+    "tweet_count": "2,134 Tweets"
   },
   {
     "name": "Lost Ark",
     "query": "\"Lost Ark\"",
     "rank": 17,
-    "tweet_count": "20.1K Tweets"
+    "tweet_count": "20.7K Tweets"
+  },
+  {
+    "name": "Putin",
+    "query": "Putin",
+    "rank": 18,
+    "tweet_count": "263K Tweets"
   },
   {
     "name": "Selknam",
     "query": "Selknam",
-    "rank": 18,
-    "tweet_count": "2,633 Tweets"
+    "rank": 19,
+    "tweet_count": "2,683 Tweets"
   },
   {
     "name": "Ibai",
     "query": "Ibai",
-    "rank": 19,
-    "tweet_count": "14.3K Tweets"
-  },
-  {
-    "name": "Cobarde",
-    "query": "Cobarde",
     "rank": 20,
-    "tweet_count": "32.3K Tweets"
+    "tweet_count": "14.2K Tweets"
   }
 ]
