@@ -1,74 +1,86 @@
 [
   {
-    "name": "#нюдсочетверг",
-    "query": "#нюдсочетверг",
-    "rank": 1,
-    "tweet_count": "2,856 Tweets"
-  },
-  {
     "name": "#Metaverse",
     "query": "#Metaverse",
-    "rank": 2,
-    "tweet_count": "329K Tweets"
+    "rank": 1,
+    "tweet_count": "336K Tweets"
   },
   {
-    "name": "#Belarus",
-    "query": "#Belarus",
-    "rank": 3,
-    "tweet_count": "1,806 Tweets"
+    "name": "#нюдсочетверг",
+    "query": "#нюдсочетверг",
+    "rank": 2,
+    "tweet_count": "2,918 Tweets"
   },
   {
     "name": "#crypto",
     "query": "#crypto",
+    "rank": 3,
+    "tweet_count": "381K Tweets"
+  },
+  {
+    "name": "#Belarus",
+    "query": "#Belarus",
     "rank": 4,
-    "tweet_count": "371K Tweets"
+    "tweet_count": "1,836 Tweets"
+  },
+  {
+    "name": "в беларуси",
+    "query": "\"в беларуси\"",
+    "rank": 5,
+    "tweet_count": "1,467 Tweets"
   },
   {
     "name": "#nftart",
     "query": "#nftart",
-    "rank": 5,
-    "tweet_count": "183K Tweets"
+    "rank": 6,
+    "tweet_count": "187K Tweets"
   },
   {
     "name": "Здравствуйте",
     "query": "Здравствуйте",
-    "rank": 6,
-    "tweet_count": "1,489 Tweets"
+    "rank": 7,
+    "tweet_count": "1,514 Tweets"
+  },
+  {
+    "name": "бресте",
+    "query": "бресте",
+    "rank": 8,
+    "tweet_count": null
   },
   {
     "name": "Главное",
     "query": "Главное",
-    "rank": 7,
-    "tweet_count": "7,368 Tweets"
-  },
-  {
-    "name": "Russian",
-    "query": "Russian",
-    "rank": 8,
-    "tweet_count": "144K Tweets"
-  },
-  {
-    "name": "Правильно",
-    "query": "Правильно",
     "rank": 9,
-    "tweet_count": "6,396 Tweets"
+    "tweet_count": "7,508 Tweets"
   },
   {
-    "name": "#Беларусь",
-    "query": "#Беларусь",
+    "name": "лукашенко",
+    "query": "лукашенко",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "#NFTs",
-    "query": "#NFTs",
+    "name": "Капец",
+    "query": "Капец",
     "rank": 11,
-    "tweet_count": "925K Tweets"
+    "tweet_count": "1,950 Tweets"
   },
   {
-    "name": "#twiby",
-    "query": "#twiby",
+    "name": "Russian",
+    "query": "Russian",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "147K Tweets"
+  },
+  {
+    "name": "Правильно",
+    "query": "Правильно",
+    "rank": 13,
+    "tweet_count": "6,535 Tweets"
+  },
+  {
+    "name": "#NFTCollection",
+    "query": "#NFTCollection",
+    "rank": 14,
+    "tweet_count": "132K Tweets"
   }
 ]
