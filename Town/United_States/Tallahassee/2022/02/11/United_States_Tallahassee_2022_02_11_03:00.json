@@ -1,110 +1,116 @@
 [
   {
-    "name": "#GoBolts",
-    "query": "#GoBolts",
+    "name": "Kucherov",
+    "query": "Kucherov",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "Pelicans",
-    "query": "Pelicans",
+    "name": "#GoBolts",
+    "query": "#GoBolts",
     "rank": 2,
-    "tweet_count": "7,611 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Zach Thomas",
-    "query": "\"Zach Thomas\"",
+    "name": "Wes Welker",
+    "query": "\"Wes Welker\"",
     "rank": 3,
-    "tweet_count": "2,305 Tweets"
+    "tweet_count": "1,999 Tweets"
+  },
+  {
+    "name": "Pelicans",
+    "query": "Pelicans",
+    "rank": 4,
+    "tweet_count": "7,650 Tweets"
   },
   {
     "name": "#TrumpIsACriminal",
     "query": "#TrumpIsACriminal",
-    "rank": 4,
-    "tweet_count": "8,136 Tweets"
+    "rank": 5,
+    "tweet_count": "8,294 Tweets"
+  },
+  {
+    "name": "#TruckersConvoy",
+    "query": "#TruckersConvoy",
+    "rank": 6,
+    "tweet_count": "31K Tweets"
   },
   {
     "name": "Harvard",
     "query": "Harvard",
-    "rank": 5,
-    "tweet_count": "45.2K Tweets"
+    "rank": 7,
+    "tweet_count": "43.7K Tweets"
   },
   {
     "name": "Inflation",
     "query": "Inflation",
-    "rank": 6,
-    "tweet_count": "346K Tweets"
-  },
-  {
-    "name": "Drummond",
-    "query": "Drummond",
-    "rank": 7,
-    "tweet_count": "90K Tweets"
-  },
-  {
-    "name": "#LockHimUp",
-    "query": "#LockHimUp",
     "rank": 8,
-    "tweet_count": "16.9K Tweets"
-  },
-  {
-    "name": "Heat in 5",
-    "query": "\"Heat in 5\"",
-    "rank": 9,
-    "tweet_count": "2,427 Tweets"
-  },
-  {
-    "name": "Mar-a-Lago",
-    "query": "Mar-a-Lago",
-    "rank": 10,
-    "tweet_count": "68.4K Tweets"
+    "tweet_count": "349K Tweets"
   },
   {
     "name": "Shaun White",
     "query": "\"Shaun White\"",
-    "rank": 11,
-    "tweet_count": "12.6K Tweets"
-  },
-  {
-    "name": "Hirano",
-    "query": "Hirano",
-    "rank": 12,
-    "tweet_count": "21.7K Tweets"
-  },
-  {
-    "name": "Luka",
-    "query": "Luka",
-    "rank": 13,
-    "tweet_count": "54.1K Tweets"
+    "rank": 9,
+    "tweet_count": "16.7K Tweets"
   },
   {
     "name": "#NFLHonors",
     "query": "#NFLHonors",
+    "rank": 10,
+    "tweet_count": "36.5K Tweets"
+  },
+  {
+    "name": "Hirano",
+    "query": "Hirano",
+    "rank": 11,
+    "tweet_count": "26.1K Tweets"
+  },
+  {
+    "name": "Luka",
+    "query": "Luka",
+    "rank": 12,
+    "tweet_count": "55.9K Tweets"
+  },
+  {
+    "name": "Zach Thomas",
+    "query": "\"Zach Thomas\"",
+    "rank": 13,
+    "tweet_count": "3,849 Tweets"
+  },
+  {
+    "name": "Zach Thomas",
+    "query": "\"Zach Thomas\"",
     "rank": 14,
-    "tweet_count": "31.3K Tweets"
+    "tweet_count": "3,849 Tweets"
   },
   {
-    "name": "DPOY",
-    "query": "DPOY",
+    "name": "Mozzy",
+    "query": "Mozzy",
     "rank": 15,
-    "tweet_count": "9,394 Tweets"
+    "tweet_count": "2,377 Tweets"
   },
   {
-    "name": "TJ Watt",
-    "query": "\"TJ Watt\"",
+    "name": "Canton",
+    "query": "Canton",
     "rank": 16,
-    "tweet_count": "7,899 Tweets"
+    "tweet_count": "9,668 Tweets"
   },
   {
     "name": "Billie",
     "query": "Billie",
     "rank": 17,
-    "tweet_count": "85.6K Tweets"
+    "tweet_count": "87.5K Tweets"
   },
   {
-    "name": "Mozzy",
-    "query": "Mozzy",
+    "name": "Grayson Allen",
+    "query": "\"Grayson Allen\"",
     "rank": 18,
-    "tweet_count": "2,110 Tweets"
+    "tweet_count": "1,157 Tweets"
+  },
+  {
+    "name": "Clemson",
+    "query": "Clemson",
+    "rank": 19,
+    "tweet_count": "5,031 Tweets"
   }
 ]
