@@ -12,20 +12,20 @@
     "tweet_count": null
   },
   {
+    "name": "somijas",
+    "query": "somijas",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
     "name": "Martins Dukurs",
     "query": "\"Martins Dukurs\"",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "saeimā",
     "query": "saeimā",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "Somijas",
-    "query": "Somijas",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,7 +33,7 @@
     "name": "Latvijas",
     "query": "Latvijas",
     "rank": 6,
-    "tweet_count": "1,607 Tweets"
+    "tweet_count": "1,621 Tweets"
   },
   {
     "name": "Somiju",
@@ -42,22 +42,22 @@
     "tweet_count": null
   },
   {
-    "name": "Krievija",
-    "query": "Krievija",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "Ukraina",
     "query": "Ukraina",
+    "rank": 8,
+    "tweet_count": "5,526 Tweets"
+  },
+  {
+    "name": "krievija",
+    "query": "krievija",
     "rank": 9,
-    "tweet_count": "5,447 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Pret",
     "query": "Pret",
     "rank": 10,
-    "tweet_count": "18K Tweets"
+    "tweet_count": "18.1K Tweets"
   },
   {
     "name": "Vienkārši",
@@ -69,54 +69,54 @@
     "name": "Wizards",
     "query": "Wizards",
     "rank": 12,
-    "tweet_count": "53.9K Tweets"
+    "tweet_count": "54K Tweets"
   },
   {
     "name": "Tāpat",
     "query": "Tāpat",
     "rank": 13,
-    "tweet_count": "4,704 Tweets"
+    "tweet_count": "4,774 Tweets"
   },
   {
-    "name": "bertāns",
-    "query": "bertāns",
+    "name": "Bertāns",
+    "query": "Bertāns",
     "rank": 14,
     "tweet_count": "16.7K Tweets"
   },
   {
-    "name": "#ClimateAction",
-    "query": "#ClimateAction",
+    "name": "#FridaysForFuture",
+    "query": "#FridaysForFuture",
     "rank": 15,
-    "tweet_count": "6,853 Tweets"
+    "tweet_count": "5,449 Tweets"
   },
   {
-    "name": "kādas",
-    "query": "kādas",
+    "name": "Levits",
+    "query": "Levits",
     "rank": 16,
-    "tweet_count": "1,308 Tweets"
-  },
-  {
-    "name": "#renewables",
-    "query": "#renewables",
-    "rank": 17,
-    "tweet_count": "1,323 Tweets"
-  },
-  {
-    "name": "Šeit",
-    "query": "Šeit",
-    "rank": 18,
-    "tweet_count": "26.4K Tweets"
-  },
-  {
-    "name": "Latviešu",
-    "query": "Latviešu",
-    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "#climatechange",
     "query": "#climatechange",
+    "rank": 17,
+    "tweet_count": "8,580 Tweets"
+  },
+  {
+    "name": "kādas",
+    "query": "kādas",
+    "rank": 18,
+    "tweet_count": "1,314 Tweets"
+  },
+  {
+    "name": "Šeit",
+    "query": "Šeit",
+    "rank": 19,
+    "tweet_count": "26.6K Tweets"
+  },
+  {
+    "name": "latviešu",
+    "query": "latviešu",
     "rank": 20,
-    "tweet_count": "8,501 Tweets"
+    "tweet_count": null
   }
 ]
