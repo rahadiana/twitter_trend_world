@@ -1,7 +1,7 @@
 [
   {
-    "name": "#TextMeWhenYouGetHome",
-    "query": "#TextMeWhenYouGetHome",
+    "name": "#textmewhenyougethome",
+    "query": "#textmewhenyougethome",
     "rank": 1,
     "tweet_count": null
   },
@@ -9,77 +9,77 @@
     "name": "#WomenInScience",
     "query": "#WomenInScience",
     "rank": 2,
-    "tweet_count": "93.7K Tweets"
+    "tweet_count": "93.9K Tweets"
   },
   {
     "name": "Ukraine",
     "query": "Ukraine",
     "rank": 3,
-    "tweet_count": "523K Tweets"
+    "tweet_count": "527K Tweets"
   },
   {
-    "name": "Mænd",
-    "query": "Mænd",
+    "name": "mænd",
+    "query": "mænd",
     "rank": 4,
-    "tweet_count": "2,807 Tweets"
+    "tweet_count": "2,815 Tweets"
   },
   {
-    "name": "#Besserwisserne",
-    "query": "#Besserwisserne",
+    "name": "#besserwisserne",
+    "query": "#besserwisserne",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "Oliver",
-    "query": "Oliver",
+    "name": "Jaer",
+    "query": "Jaer",
     "rank": 6,
-    "tweet_count": "33.6K Tweets"
-  },
-  {
-    "name": "jaer",
-    "query": "jaer",
-    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "martin henriksen",
     "query": "\"martin henriksen\"",
-    "rank": 8,
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Rusland",
     "query": "Rusland",
-    "rank": 9,
-    "tweet_count": "5,212 Tweets"
+    "rank": 8,
+    "tweet_count": "5,251 Tweets"
   },
   {
-    "name": "Martinelli",
-    "query": "Martinelli",
-    "rank": 10,
-    "tweet_count": "16.8K Tweets"
+    "name": "Oliver",
+    "query": "Oliver",
+    "rank": 9,
+    "tweet_count": "33.7K Tweets"
   },
   {
     "name": "Kvinder",
     "query": "Kvinder",
-    "rank": 11,
-    "tweet_count": "2,656 Tweets"
+    "rank": 10,
+    "tweet_count": "2,664 Tweets"
   },
   {
     "name": "#stopkvindedrab",
     "query": "#stopkvindedrab",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
+  },
+  {
+    "name": "Martinelli",
+    "query": "Martinelli",
+    "rank": 12,
+    "tweet_count": "16.8K Tweets"
   },
   {
     "name": "Taliban",
     "query": "Taliban",
     "rank": 13,
-    "tweet_count": "52.4K Tweets"
+    "tweet_count": "52.6K Tweets"
   },
   {
-    "name": "Uhre",
-    "query": "Uhre",
+    "name": "uhre",
+    "query": "uhre",
     "rank": 14,
     "tweet_count": null
   },
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
+    "name": "Biden",
+    "query": "Biden",
+    "rank": 17,
+    "tweet_count": "593K Tweets"
+  },
+  {
     "name": "Juve",
     "query": "Juve",
-    "rank": 17,
-    "tweet_count": "9,973 Tweets"
+    "rank": 18,
+    "tweet_count": "10K Tweets"
   },
   {
     "name": "MIS-C",
     "query": "MIS-C",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Brian",
-    "query": "Brian",
-    "rank": 19,
-    "tweet_count": "60.3K Tweets"
-  },
-  {
-    "name": "#twitch",
-    "query": "#twitch",
+    "name": "grønbæk",
+    "query": "grønbæk",
     "rank": 20,
-    "tweet_count": "47.3K Tweets"
+    "tweet_count": null
   }
 ]
