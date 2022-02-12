@@ -1,39 +1,39 @@
 [
   {
-    "name": "Russia",
-    "query": "Russia",
-    "rank": 1,
-    "tweet_count": "421K Tweets"
-  },
-  {
     "name": "Canberra",
     "query": "Canberra",
-    "rank": 2,
-    "tweet_count": "49.5K Tweets"
+    "rank": 1,
+    "tweet_count": "50.6K Tweets"
   },
   {
     "name": "Lost And Running",
     "query": "\"Lost And Running\"",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Woodstock",
     "query": "Woodstock",
-    "rank": 4,
-    "tweet_count": "2,752 Tweets"
-  },
-  {
-    "name": "Will Pucovski",
-    "query": "\"Will Pucovski\"",
-    "rank": 5,
-    "tweet_count": null
+    "rank": 3,
+    "tweet_count": "2,778 Tweets"
   },
   {
     "name": "Lifeline",
     "query": "Lifeline",
+    "rank": 4,
+    "tweet_count": "14.9K Tweets"
+  },
+  {
+    "name": "Espiona",
+    "query": "Espiona",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "Will Pucovski",
+    "query": "\"Will Pucovski\"",
     "rank": 6,
-    "tweet_count": "14.6K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Lofty Strike",
@@ -48,22 +48,22 @@
     "tweet_count": null
   },
   {
-    "name": "wonwoo",
-    "query": "wonwoo",
-    "rank": 9,
-    "tweet_count": "89.6K Tweets"
-  },
-  {
     "name": "#freedumb",
     "query": "#freedumb",
-    "rank": 10,
-    "tweet_count": "1,028 Tweets"
+    "rank": 9,
+    "tweet_count": "1,060 Tweets"
   },
   {
-    "name": "Ukraine",
-    "query": "Ukraine",
+    "name": "wonwoo",
+    "query": "wonwoo",
+    "rank": 10,
+    "tweet_count": "91.5K Tweets"
+  },
+  {
+    "name": "Pauline",
+    "query": "Pauline",
     "rank": 11,
-    "tweet_count": "505K Tweets"
+    "tweet_count": "6,047 Tweets"
   },
   {
     "name": "#cookers",
@@ -72,22 +72,22 @@
     "tweet_count": null
   },
   {
-    "name": "#SmackDown",
-    "query": "#SmackDown",
+    "name": "Ukraine",
+    "query": "Ukraine",
     "rank": 13,
-    "tweet_count": "34K Tweets"
-  },
-  {
-    "name": "Pauline Hanson",
-    "query": "\"Pauline Hanson\"",
-    "rank": 14,
-    "tweet_count": "1,117 Tweets"
+    "tweet_count": "508K Tweets"
   },
   {
     "name": "#dumbernats",
     "query": "#dumbernats",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
+  },
+  {
+    "name": "#FreedomConvoy2022",
+    "query": "#FreedomConvoy2022",
+    "rank": 15,
+    "tweet_count": "49.5K Tweets"
   },
   {
     "name": "Randwick",
@@ -99,24 +99,24 @@
     "name": "Moderna",
     "query": "Moderna",
     "rank": 17,
-    "tweet_count": "36.9K Tweets"
+    "tweet_count": "37.2K Tweets"
   },
   {
     "name": "Jason",
     "query": "Jason",
     "rank": 18,
-    "tweet_count": "55.3K Tweets"
+    "tweet_count": "55.7K Tweets"
+  },
+  {
+    "name": "#COVIDIOTS",
+    "query": "#COVIDIOTS",
+    "rank": 19,
+    "tweet_count": "1,625 Tweets"
   },
   {
     "name": "#TalesFromTheSMP",
     "query": "#TalesFromTheSMP",
-    "rank": 19,
-    "tweet_count": "33.1K Tweets"
-  },
-  {
-    "name": "#FreedomConvoy2022",
-    "query": "#FreedomConvoy2022",
     "rank": 20,
-    "tweet_count": "49.1K Tweets"
+    "tweet_count": "33.5K Tweets"
   }
 ]
