@@ -1,39 +1,39 @@
 [
   {
-    "name": "#12febbraio",
-    "query": "#12febbraio",
-    "rank": 1,
-    "tweet_count": "2,507 Tweets"
-  },
-  {
     "name": "#terzaguerramondiale",
     "query": "#terzaguerramondiale",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#12febbraio",
+    "query": "#12febbraio",
+    "rank": 2,
+    "tweet_count": "2,616 Tweets"
   },
   {
     "name": "Buon Sabato",
     "query": "\"Buon Sabato\"",
     "rank": 3,
-    "tweet_count": "3,036 Tweets"
+    "tweet_count": "3,174 Tweets"
   },
   {
     "name": "#8AnniACasaLettori",
     "query": "#8AnniACasaLettori",
     "rank": 4,
-    "tweet_count": "1,058 Tweets"
+    "tweet_count": "1,102 Tweets"
   },
   {
     "name": "#Ucraina",
     "query": "#Ucraina",
     "rank": 5,
-    "tweet_count": "6,267 Tweets"
+    "tweet_count": "6,392 Tweets"
   },
   {
     "name": "#NapoliInter",
     "query": "#NapoliInter",
     "rank": 6,
-    "tweet_count": "1,669 Tweets"
+    "tweet_count": "1,703 Tweets"
   },
   {
     "name": "buongiorno antonella",
@@ -42,63 +42,69 @@
     "tweet_count": null
   },
   {
+    "name": "Russia",
+    "query": "Russia",
+    "rank": 8,
+    "tweet_count": "453K Tweets"
+  },
+  {
     "name": "Biden",
     "query": "Biden",
-    "rank": 8,
-    "tweet_count": "595K Tweets"
+    "rank": 9,
+    "tweet_count": "596K Tweets"
   },
   {
     "name": "Putin",
     "query": "Putin",
-    "rank": 9,
-    "tweet_count": "327K Tweets"
+    "rank": 10,
+    "tweet_count": "328K Tweets"
   },
   {
     "name": "NATO",
     "query": "NATO",
-    "rank": 10,
-    "tweet_count": "145K Tweets"
+    "rank": 11,
+    "tweet_count": "146K Tweets"
   },
   {
     "name": "Trump",
     "query": "Trump",
-    "rank": 11,
-    "tweet_count": "612K Tweets"
+    "rank": 12,
+    "tweet_count": "613K Tweets"
   },
   {
     "name": "#superbonus",
     "query": "#superbonus",
-    "rank": 12,
-    "tweet_count": "1,887 Tweets"
-  },
-  {
-    "name": "#Russia",
-    "query": "#Russia",
     "rank": 13,
-    "tweet_count": "32K Tweets"
+    "tweet_count": "1,906 Tweets"
   },
   {
-    "name": "#snowboard",
-    "query": "#snowboard",
+    "name": "#Snowboard",
+    "query": "#Snowboard",
     "rank": 14,
-    "tweet_count": "7,382 Tweets"
+    "tweet_count": "7,429 Tweets"
   },
   {
     "name": "#skamfrance",
     "query": "#skamfrance",
     "rank": 15,
-    "tweet_count": "9,927 Tweets"
-  },
-  {
-    "name": "#Barbero",
-    "query": "#Barbero",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "10K Tweets"
   },
   {
     "name": "#Ranucci",
     "query": "#Ranucci",
+    "rank": 16,
+    "tweet_count": "2,056 Tweets"
+  },
+  {
+    "name": "#Barbero",
+    "query": "#Barbero",
     "rank": 17,
-    "tweet_count": "2,046 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "#Ukraine",
+    "query": "#Ukraine",
+    "rank": 18,
+    "tweet_count": "62.5K Tweets"
   }
 ]
