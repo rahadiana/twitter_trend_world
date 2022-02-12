@@ -1,9 +1,9 @@
 [
   {
-    "name": "Penny",
-    "query": "Penny",
+    "name": "penny",
+    "query": "penny",
     "rank": 1,
-    "tweet_count": "19.6K Tweets"
+    "tweet_count": "19.8K Tweets"
   },
   {
     "name": "Houston",
@@ -15,37 +15,37 @@
     "name": "#TheAttachment",
     "query": "#TheAttachment",
     "rank": 3,
-    "tweet_count": "9,687 Tweets"
+    "tweet_count": "11.5K Tweets"
   },
   {
     "name": "Daily Quordle",
     "query": "\"Daily Quordle\"",
     "rank": 4,
-    "tweet_count": "3,579 Tweets"
-  },
-  {
-    "name": "Rutgers",
-    "query": "Rutgers",
-    "rank": 5,
-    "tweet_count": "3,595 Tweets"
+    "tweet_count": "3,668 Tweets"
   },
   {
     "name": "Kodak",
     "query": "Kodak",
+    "rank": 5,
+    "tweet_count": "19.9K Tweets"
+  },
+  {
+    "name": "Rutgers",
+    "query": "Rutgers",
     "rank": 6,
-    "tweet_count": "18.7K Tweets"
+    "tweet_count": "3,779 Tweets"
+  },
+  {
+    "name": "Cudi",
+    "query": "Cudi",
+    "rank": 7,
+    "tweet_count": "5,028 Tweets"
   },
   {
     "name": "#Caturday",
     "query": "#Caturday",
-    "rank": 7,
-    "tweet_count": "27.6K Tweets"
-  },
-  {
-    "name": "Chelsea",
-    "query": "Chelsea",
     "rank": 8,
-    "tweet_count": "777K Tweets"
+    "tweet_count": "27.8K Tweets"
   },
   {
     "name": "#ULTRABOWL",
@@ -54,28 +54,28 @@
     "tweet_count": null
   },
   {
-    "name": "#kubball",
-    "query": "#kubball",
+    "name": "Chelsea",
+    "query": "Chelsea",
     "rank": 10,
-    "tweet_count": "1,484 Tweets"
-  },
-  {
-    "name": "Kellan Grady",
-    "query": "\"Kellan Grady\"",
-    "rank": 11,
-    "tweet_count": null
+    "tweet_count": "783K Tweets"
   },
   {
     "name": "#SuperBowlLVI",
     "query": "#SuperBowlLVI",
-    "rank": 12,
-    "tweet_count": "8,347 Tweets"
+    "rank": 11,
+    "tweet_count": "8,563 Tweets"
   },
   {
-    "name": "Cudi",
-    "query": "Cudi",
+    "name": "Kellan Grady",
+    "query": "\"Kellan Grady\"",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "#UFC271",
+    "query": "#UFC271",
     "rank": 13,
-    "tweet_count": "4,268 Tweets"
+    "tweet_count": "24.9K Tweets"
   },
   {
     "name": "Parker Stewart",
@@ -84,27 +84,27 @@
     "tweet_count": null
   },
   {
-    "name": "Getafe",
-    "query": "Getafe",
-    "rank": 15,
-    "tweet_count": "11.9K Tweets"
-  },
-  {
     "name": "Melania",
     "query": "Melania",
+    "rank": 15,
+    "tweet_count": "47.5K Tweets"
+  },
+  {
+    "name": "Getafe",
+    "query": "Getafe",
     "rank": 16,
-    "tweet_count": "46.1K Tweets"
+    "tweet_count": "12.3K Tweets"
+  },
+  {
+    "name": "Hoggard",
+    "query": "Hoggard",
+    "rank": 17,
+    "tweet_count": null
   },
   {
     "name": "Eryn",
     "query": "Eryn",
-    "rank": 17,
-    "tweet_count": "3,906 Tweets"
-  },
-  {
-    "name": "Florida State",
-    "query": "\"Florida State\"",
     "rank": 18,
-    "tweet_count": "10.3K Tweets"
+    "tweet_count": "4,078 Tweets"
   }
 ]
