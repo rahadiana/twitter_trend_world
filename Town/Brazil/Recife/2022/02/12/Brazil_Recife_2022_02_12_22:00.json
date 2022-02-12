@@ -1,39 +1,39 @@
 [
   {
-    "name": "Walter",
-    "query": "Walter",
-    "rank": 1,
-    "tweet_count": "19.3K Tweets"
-  },
-  {
     "name": "Fortaleza",
     "query": "Fortaleza",
+    "rank": 1,
+    "tweet_count": "30.7K Tweets"
+  },
+  {
+    "name": "Walter",
+    "query": "Walter",
     "rank": 2,
-    "tweet_count": "30.4K Tweets"
+    "tweet_count": "19.4K Tweets"
+  },
+  {
+    "name": "Rafael Ribeiro",
+    "query": "\"Rafael Ribeiro\"",
+    "rank": 3,
+    "tweet_count": null
   },
   {
     "name": "Lucão",
     "query": "Lucão",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Jean Carlos",
     "query": "\"Jean Carlos\"",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Sete de Setembro",
     "query": "\"Sete de Setembro\"",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Corinthians",
-    "query": "Corinthians",
     "rank": 6,
-    "tweet_count": "108K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Kieza",
@@ -42,81 +42,81 @@
     "tweet_count": null
   },
   {
+    "name": "Corinthians",
+    "query": "Corinthians",
+    "rank": 8,
+    "tweet_count": "109K Tweets"
+  },
+  {
     "name": "Chelsea",
     "query": "Chelsea",
-    "rank": 8,
-    "tweet_count": "812K Tweets"
+    "rank": 9,
+    "tweet_count": "817K Tweets"
   },
   {
     "name": "Keno",
     "query": "Keno",
-    "rank": 9,
-    "tweet_count": "7,366 Tweets"
+    "rank": 10,
+    "tweet_count": "7,440 Tweets"
   },
   {
     "name": "O Palmeiras",
     "query": "\"O Palmeiras\"",
-    "rank": 10,
-    "tweet_count": "422K Tweets"
+    "rank": 11,
+    "tweet_count": "428K Tweets"
   },
   {
     "name": "Thiago Silva",
     "query": "\"Thiago Silva\"",
-    "rank": 11,
-    "tweet_count": "119K Tweets"
+    "rank": 12,
+    "tweet_count": "120K Tweets"
   },
   {
     "name": "#AlemDaIlusao",
     "query": "#AlemDaIlusao",
-    "rank": 12,
-    "tweet_count": "13.8K Tweets"
+    "rank": 13,
+    "tweet_count": "14.4K Tweets"
   },
   {
     "name": "Edmundo",
     "query": "Edmundo",
-    "rank": 13,
-    "tweet_count": "35.8K Tweets"
+    "rank": 14,
+    "tweet_count": "36K Tweets"
   },
   {
     "name": "Arana",
     "query": "Arana",
-    "rank": 14,
-    "tweet_count": "9,493 Tweets"
-  },
-  {
-    "name": "NUNCA SERÃO",
-    "query": "\"NUNCA SERÃO\"",
     "rank": 15,
-    "tweet_count": "42.4K Tweets"
+    "tweet_count": "9,585 Tweets"
   },
   {
-    "name": "Maurício",
-    "query": "Maurício",
+    "name": "Lukaku",
+    "query": "Lukaku",
     "rank": 16,
-    "tweet_count": "20.2K Tweets"
+    "tweet_count": "121K Tweets"
   },
   {
     "name": "Cudi",
     "query": "Cudi",
     "rank": 17,
-    "tweet_count": "19.4K Tweets"
+    "tweet_count": "22.7K Tweets"
+  },
+  {
+    "name": "NUNCA SERÃO",
+    "query": "\"NUNCA SERÃO\"",
+    "rank": 18,
+    "tweet_count": "42.6K Tweets"
+  },
+  {
+    "name": "Maurício",
+    "query": "Maurício",
+    "rank": 19,
+    "tweet_count": "20.5K Tweets"
   },
   {
     "name": "Larissa Manoela",
     "query": "\"Larissa Manoela\"",
-    "rank": 18,
-    "tweet_count": "4,871 Tweets"
-  },
-  {
-    "name": "#Caldeirao",
-    "query": "#Caldeirao",
-    "rank": 19,
-    "tweet_count": "2,668 Tweets"
-  },
-  {
-    "name": "Nacho",
-    "query": "Nacho",
     "rank": 20,
-    "tweet_count": "17K Tweets"
+    "tweet_count": "5,118 Tweets"
   }
 ]
