@@ -1,39 +1,39 @@
 [
   {
-    "name": "SOEs",
-    "query": "SOEs",
+    "name": "Manchester United",
+    "query": "\"Manchester United\"",
     "rank": 1,
-    "tweet_count": null
+    "tweet_count": "51.6K Tweets"
   },
   {
-    "name": "Russia",
-    "query": "Russia",
+    "name": "Man U",
+    "query": "\"Man U\"",
     "rank": 2,
-    "tweet_count": "496K Tweets"
+    "tweet_count": "33.5K Tweets"
   },
   {
-    "name": "Sancho",
-    "query": "Sancho",
+    "name": "#MUNSOU",
+    "query": "#MUNSOU",
     "rank": 3,
-    "tweet_count": "27.9K Tweets"
-  },
-  {
-    "name": "Pogba",
-    "query": "Pogba",
-    "rank": 4,
-    "tweet_count": "21.6K Tweets"
+    "tweet_count": "47.7K Tweets"
   },
   {
     "name": "Ronaldo",
     "query": "Ronaldo",
-    "rank": 5,
-    "tweet_count": "82.4K Tweets"
+    "rank": 4,
+    "tweet_count": "88K Tweets"
   },
   {
     "name": "#LiveBetter",
     "query": "#LiveBetter",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "De Gea",
+    "query": "\"De Gea\"",
+    "rank": 6,
+    "tweet_count": "23.9K Tweets"
   },
   {
     "name": "Tristan Stubbs",
@@ -42,20 +42,20 @@
     "tweet_count": null
   },
   {
-    "name": "#CheesiestCompliment",
-    "query": "#CheesiestCompliment",
+    "name": "McTominay",
+    "query": "McTominay",
     "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "De Gea",
-    "query": "\"De Gea\"",
-    "rank": 9,
-    "tweet_count": "22.8K Tweets"
+    "tweet_count": "4,868 Tweets"
   },
   {
     "name": "#TravelWiseMzansi",
     "query": "#TravelWiseMzansi",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "#CheesiestCompliment",
+    "query": "#CheesiestCompliment",
     "rank": 10,
     "tweet_count": null
   },
@@ -66,57 +66,57 @@
     "tweet_count": null
   },
   {
-    "name": "Katlego",
-    "query": "Katlego",
+    "name": "Shaw",
+    "query": "Shaw",
     "rank": 12,
-    "tweet_count": "2,152 Tweets"
+    "tweet_count": "16.3K Tweets"
   },
   {
-    "name": "#DearNale",
-    "query": "#DearNale",
+    "name": "Katlego",
+    "query": "Katlego",
     "rank": 13,
-    "tweet_count": "6,953 Tweets"
+    "tweet_count": "2,208 Tweets"
   },
   {
     "name": "I LOVE YOU",
     "query": "\"I LOVE YOU\"",
     "rank": 14,
-    "tweet_count": "667K Tweets"
+    "tweet_count": "676K Tweets"
   },
   {
     "name": "Bianca",
     "query": "Bianca",
     "rank": 15,
-    "tweet_count": "19K Tweets"
-  },
-  {
-    "name": "CONGRATULATIONS EMMANUEL",
-    "query": "\"CONGRATULATIONS EMMANUEL\"",
-    "rank": 16,
-    "tweet_count": "31.2K Tweets"
+    "tweet_count": "19.5K Tweets"
   },
   {
     "name": "Ukraine",
     "query": "Ukraine",
+    "rank": 16,
+    "tweet_count": "629K Tweets"
+  },
+  {
+    "name": "SOEs",
+    "query": "SOEs",
     "rank": 17,
-    "tweet_count": "619K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "#DearNale",
+    "query": "#DearNale",
+    "rank": 18,
+    "tweet_count": "7,080 Tweets"
   },
   {
     "name": "#CSAT20Challenge",
     "query": "#CSAT20Challenge",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "#DJSBU",
     "query": "#DJSBU",
-    "rank": 19,
-    "tweet_count": "6,792 Tweets"
-  },
-  {
-    "name": "#Amakhosi4Life",
-    "query": "#Amakhosi4Life",
     "rank": 20,
-    "tweet_count": "1,702 Tweets"
+    "tweet_count": "6,882 Tweets"
   }
 ]
