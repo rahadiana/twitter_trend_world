@@ -3,67 +3,67 @@
     "name": "Ukraine",
     "query": "Ukraine",
     "rank": 1,
-    "tweet_count": "538K Tweets"
-  },
-  {
-    "name": "Russia",
-    "query": "Russia",
-    "rank": 2,
-    "tweet_count": "444K Tweets"
+    "tweet_count": "545K Tweets"
   },
   {
     "name": "#earthquake",
     "query": "#earthquake",
-    "rank": 3,
-    "tweet_count": "4,926 Tweets"
+    "rank": 2,
+    "tweet_count": "5,008 Tweets"
   },
   {
     "name": "San Leandro",
     "query": "\"San Leandro\"",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "#flytogether",
+    "query": "#flytogether",
     "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "#FlyTogether",
-    "query": "#FlyTogether",
+    "name": "Nile",
+    "query": "Nile",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "9,214 Tweets"
   },
   {
     "name": "#FreedomConvoy2022",
     "query": "#FreedomConvoy2022",
     "rank": 6,
-    "tweet_count": "50.2K Tweets"
+    "tweet_count": "50.6K Tweets"
   },
   {
-    "name": "Nile",
-    "query": "Nile",
+    "name": "Ducks",
+    "query": "Ducks",
     "rank": 7,
-    "tweet_count": "9,083 Tweets"
+    "tweet_count": "21.7K Tweets"
   },
   {
     "name": "Whitney",
     "query": "Whitney",
     "rank": 8,
-    "tweet_count": "66K Tweets"
+    "tweet_count": "66.5K Tweets"
   },
   {
     "name": "#LOONAVERSE_FROM",
     "query": "#LOONAVERSE_FROM",
     "rank": 9,
-    "tweet_count": "50.9K Tweets"
+    "tweet_count": "52.5K Tweets"
   },
   {
     "name": "#LoveIsBlind",
     "query": "#LoveIsBlind",
     "rank": 10,
-    "tweet_count": "27.2K Tweets"
+    "tweet_count": "27.4K Tweets"
   },
   {
     "name": "Panda Express",
     "query": "\"Panda Express\"",
     "rank": 11,
-    "tweet_count": "3,408 Tweets"
+    "tweet_count": "3,580 Tweets"
   },
   {
     "name": "Strauss Mann",
@@ -75,48 +75,48 @@
     "name": "Rand Paul",
     "query": "\"Rand Paul\"",
     "rank": 13,
-    "tweet_count": "32.7K Tweets"
+    "tweet_count": "33K Tweets"
+  },
+  {
+    "name": "Naomi",
+    "query": "Naomi",
+    "rank": 14,
+    "tweet_count": "28K Tweets"
   },
   {
     "name": "wonwoo",
     "query": "wonwoo",
-    "rank": 14,
-    "tweet_count": "106K Tweets"
-  },
-  {
-    "name": "Decision Making",
-    "query": "\"Decision Making\"",
     "rank": 15,
-    "tweet_count": "12.4K Tweets"
-  },
-  {
-    "name": "Bryce Hamilton",
-    "query": "\"Bryce Hamilton\"",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "108K Tweets"
   },
   {
     "name": "Corey Feldman",
     "query": "\"Corey Feldman\"",
+    "rank": 16,
+    "tweet_count": "1,547 Tweets"
+  },
+  {
+    "name": "Decision Making",
+    "query": "\"Decision Making\"",
     "rank": 17,
-    "tweet_count": "1,483 Tweets"
+    "tweet_count": "12.5K Tweets"
+  },
+  {
+    "name": "Bryce Hamilton",
+    "query": "\"Bryce Hamilton\"",
+    "rank": 18,
+    "tweet_count": null
   },
   {
     "name": "Tears for Fears",
     "query": "\"Tears for Fears\"",
-    "rank": 18,
-    "tweet_count": "1,607 Tweets"
-  },
-  {
-    "name": "UNLV",
-    "query": "UNLV",
     "rank": 19,
-    "tweet_count": "1,480 Tweets"
+    "tweet_count": "1,645 Tweets"
   },
   {
-    "name": "Team Canada",
-    "query": "\"Team Canada\"",
+    "name": "Nick Baumgartner",
+    "query": "\"Nick Baumgartner\"",
     "rank": 20,
-    "tweet_count": "5,909 Tweets"
+    "tweet_count": "3,883 Tweets"
   }
 ]

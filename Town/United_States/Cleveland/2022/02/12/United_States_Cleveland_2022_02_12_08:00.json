@@ -1,39 +1,39 @@
 [
   {
-    "name": "Pacers",
-    "query": "Pacers",
-    "rank": 1,
-    "tweet_count": "19.9K Tweets"
-  },
-  {
-    "name": "Mobley",
-    "query": "Mobley",
-    "rank": 2,
-    "tweet_count": "2,505 Tweets"
-  },
-  {
     "name": "Ukraine",
     "query": "Ukraine",
-    "rank": 3,
-    "tweet_count": "538K Tweets"
+    "rank": 1,
+    "tweet_count": "545K Tweets"
   },
   {
     "name": "#LOONAVERSE_FROM",
     "query": "#LOONAVERSE_FROM",
-    "rank": 4,
-    "tweet_count": "50.9K Tweets"
+    "rank": 2,
+    "tweet_count": "52.4K Tweets"
   },
   {
     "name": "#LoveIsBlind",
     "query": "#LoveIsBlind",
-    "rank": 5,
-    "tweet_count": "27.2K Tweets"
+    "rank": 3,
+    "tweet_count": "27.4K Tweets"
   },
   {
     "name": "#DragRace",
     "query": "#DragRace",
+    "rank": 4,
+    "tweet_count": "18.5K Tweets"
+  },
+  {
+    "name": "Panda Express",
+    "query": "\"Panda Express\"",
+    "rank": 5,
+    "tweet_count": "3,580 Tweets"
+  },
+  {
+    "name": "#Wordle238",
+    "query": "#Wordle238",
     "rank": 6,
-    "tweet_count": "18.2K Tweets"
+    "tweet_count": "2,392 Tweets"
   },
   {
     "name": "#TheLastDriveIn",
@@ -42,40 +42,40 @@
     "tweet_count": "23.3K Tweets"
   },
   {
-    "name": "Panda Express",
-    "query": "\"Panda Express\"",
-    "rank": 8,
-    "tweet_count": "3,404 Tweets"
-  },
-  {
-    "name": "#Wordle238",
-    "query": "#Wordle238",
-    "rank": 9,
-    "tweet_count": "2,305 Tweets"
-  },
-  {
     "name": "Strauss Mann",
     "query": "\"Strauss Mann\"",
-    "rank": 10,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Rand Paul",
     "query": "\"Rand Paul\"",
-    "rank": 11,
-    "tweet_count": "32.7K Tweets"
+    "rank": 9,
+    "tweet_count": "33K Tweets"
+  },
+  {
+    "name": "Naomi",
+    "query": "Naomi",
+    "rank": 10,
+    "tweet_count": "28K Tweets"
   },
   {
     "name": "wonwoo",
     "query": "wonwoo",
+    "rank": 11,
+    "tweet_count": "108K Tweets"
+  },
+  {
+    "name": "Corey Feldman",
+    "query": "\"Corey Feldman\"",
     "rank": 12,
-    "tweet_count": "106K Tweets"
+    "tweet_count": "1,544 Tweets"
   },
   {
     "name": "Decision Making",
     "query": "\"Decision Making\"",
     "rank": 13,
-    "tweet_count": "12.4K Tweets"
+    "tweet_count": "12.5K Tweets"
   },
   {
     "name": "Bryce Hamilton",
@@ -84,33 +84,33 @@
     "tweet_count": null
   },
   {
-    "name": "Corey Feldman",
-    "query": "\"Corey Feldman\"",
-    "rank": 15,
-    "tweet_count": "1,483 Tweets"
-  },
-  {
     "name": "Tears for Fears",
     "query": "\"Tears for Fears\"",
+    "rank": 15,
+    "tweet_count": "1,645 Tweets"
+  },
+  {
+    "name": "Nick Baumgartner",
+    "query": "\"Nick Baumgartner\"",
     "rank": 16,
-    "tweet_count": "1,603 Tweets"
+    "tweet_count": "3,879 Tweets"
   },
   {
     "name": "UNLV",
     "query": "UNLV",
     "rank": 17,
-    "tweet_count": "1,480 Tweets"
+    "tweet_count": "1,490 Tweets"
   },
   {
     "name": "Team Canada",
     "query": "\"Team Canada\"",
     "rank": 18,
-    "tweet_count": "5,909 Tweets"
+    "tweet_count": "6,011 Tweets"
   },
   {
     "name": "KIM LIP",
     "query": "\"KIM LIP\"",
     "rank": 19,
-    "tweet_count": "8,921 Tweets"
+    "tweet_count": "9,190 Tweets"
   }
 ]
