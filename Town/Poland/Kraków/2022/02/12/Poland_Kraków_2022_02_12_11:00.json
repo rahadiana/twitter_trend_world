@@ -1,19 +1,19 @@
 [
   {
-    "name": "#CRALGD",
-    "query": "#CRALGD",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Piotr Michalski",
     "query": "\"Piotr Michalski\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "Paweł Wąsek",
     "query": "\"Paweł Wąsek\"",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "Pawła",
+    "query": "Pawła",
     "rank": 3,
     "tweet_count": null
   },
@@ -24,75 +24,69 @@
     "tweet_count": null
   },
   {
-    "name": "Pawła",
-    "query": "Pawła",
+    "name": "25 X",
+    "query": "\"25 X\"",
     "rank": 5,
+    "tweet_count": "15.4K Tweets"
+  },
+  {
+    "name": "Rosjanie",
+    "query": "Rosjanie",
+    "rank": 6,
     "tweet_count": null
   },
   {
-    "name": "25 X",
-    "query": "\"25 X\"",
-    "rank": 6,
-    "tweet_count": "15.2K Tweets"
-  },
-  {
-    "name": "ukrainę",
-    "query": "ukrainę",
+    "name": "Ukrainę",
+    "query": "Ukrainę",
     "rank": 7,
-    "tweet_count": "581K Tweets"
+    "tweet_count": "587K Tweets"
   },
   {
     "name": "Trump",
     "query": "Trump",
     "rank": 8,
-    "tweet_count": "599K Tweets"
+    "tweet_count": "601K Tweets"
   },
   {
     "name": "Putin",
     "query": "Putin",
     "rank": 9,
-    "tweet_count": "336K Tweets"
+    "tweet_count": "338K Tweets"
   },
   {
     "name": "#Biathlon",
     "query": "#Biathlon",
     "rank": 10,
-    "tweet_count": "3,677 Tweets"
-  },
-  {
-    "name": "Rosja",
-    "query": "Rosja",
-    "rank": 11,
-    "tweet_count": "6,280 Tweets"
+    "tweet_count": "3,760 Tweets"
   },
   {
     "name": "Bidena",
     "query": "Bidena",
-    "rank": 12,
-    "tweet_count": "1,685 Tweets"
+    "rank": 11,
+    "tweet_count": "1,723 Tweets"
   },
   {
     "name": "Ukraińców",
     "query": "Ukraińców",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Izbę Dyscyplinarną",
     "query": "\"Izbę Dyscyplinarną\"",
-    "rank": 14,
-    "tweet_count": "1,445 Tweets"
+    "rank": 13,
+    "tweet_count": "1,460 Tweets"
   },
   {
     "name": "Bodnara",
     "query": "Bodnara",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Amerykanie",
     "query": "Amerykanie",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   }
 ]
