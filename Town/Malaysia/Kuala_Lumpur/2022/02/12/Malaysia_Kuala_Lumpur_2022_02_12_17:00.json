@@ -1,27 +1,27 @@
 [
   {
-    "name": "Soobin",
-    "query": "Soobin",
+    "name": "soobin",
+    "query": "soobin",
     "rank": 1,
-    "tweet_count": "34.5K Tweets"
+    "tweet_count": "34.9K Tweets"
   },
   {
     "name": "junmyeon",
     "query": "junmyeon",
     "rank": 2,
-    "tweet_count": "149K Tweets"
-  },
-  {
-    "name": "#MUNSOU",
-    "query": "#MUNSOU",
-    "rank": 3,
-    "tweet_count": "68.9K Tweets"
+    "tweet_count": "151K Tweets"
   },
   {
     "name": "#TwentyFiveTwentyOneEp1",
     "query": "#TwentyFiveTwentyOneEp1",
+    "rank": 3,
+    "tweet_count": "11.8K Tweets"
+  },
+  {
+    "name": "#MUNSOU",
+    "query": "#MUNSOU",
     "rank": 4,
-    "tweet_count": "11.1K Tweets"
+    "tweet_count": "68.9K Tweets"
   },
   {
     "name": "#TREASURE_JIKJIN_D2",
@@ -36,15 +36,33 @@
     "tweet_count": "149K Tweets"
   },
   {
-    "name": "Chelsea",
-    "query": "Chelsea",
+    "name": "THE SECOND STEP SAMPLER",
+    "query": "\"THE SECOND STEP SAMPLER\"",
     "rank": 7,
-    "tweet_count": "247K Tweets"
+    "tweet_count": "273K Tweets"
   },
   {
-    "name": "han jisung",
-    "query": "\"han jisung\"",
+    "name": "Chelsea",
+    "query": "Chelsea",
     "rank": 8,
-    "tweet_count": "69.7K Tweets"
+    "tweet_count": "269K Tweets"
+  },
+  {
+    "name": "Ronaldo",
+    "query": "Ronaldo",
+    "rank": 9,
+    "tweet_count": "144K Tweets"
+  },
+  {
+    "name": "Han Jisung",
+    "query": "\"Han Jisung\"",
+    "rank": 10,
+    "tweet_count": "70.2K Tweets"
+  },
+  {
+    "name": "Yoshi",
+    "query": "Yoshi",
+    "rank": 11,
+    "tweet_count": "136K Tweets"
   }
 ]
