@@ -1,67 +1,67 @@
 [
   {
-    "name": "Rusland",
-    "query": "Rusland",
-    "rank": 1,
-    "tweet_count": "7,297 Tweets"
-  },
-  {
     "name": "Putin",
     "query": "Putin",
-    "rank": 2,
-    "tweet_count": "417K Tweets"
+    "rank": 1,
+    "tweet_count": "422K Tweets"
   },
   {
     "name": "#droeftruckers",
     "query": "#droeftruckers",
-    "rank": 3,
-    "tweet_count": "2,719 Tweets"
+    "rank": 2,
+    "tweet_count": "2,813 Tweets"
   },
   {
     "name": "Klaver",
     "query": "Klaver",
-    "rank": 4,
-    "tweet_count": "2,677 Tweets"
+    "rank": 3,
+    "tweet_count": "2,789 Tweets"
   },
   {
     "name": "Kaag",
     "query": "Kaag",
+    "rank": 4,
+    "tweet_count": "7,726 Tweets"
+  },
+  {
+    "name": "GroenLinks",
+    "query": "GroenLinks",
     "rank": 5,
-    "tweet_count": "7,501 Tweets"
+    "tweet_count": "6,276 Tweets"
   },
   {
     "name": "#ConvoyNederland",
     "query": "#ConvoyNederland",
     "rank": 6,
-    "tweet_count": "16.1K Tweets"
+    "tweet_count": "16.3K Tweets"
   },
   {
     "name": "#Skeleton",
     "query": "#Skeleton",
     "rank": 7,
-    "tweet_count": "3,555 Tweets"
-  },
-  {
-    "name": "GroenLinks",
-    "query": "GroenLinks",
-    "rank": 8,
-    "tweet_count": "6,059 Tweets"
+    "tweet_count": "3,578 Tweets"
   },
   {
     "name": "FvD of PVV",
     "query": "\"FvD of PVV\"",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Kimberley Bos",
     "query": "\"Kimberley Bos\"",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "#olympischespelen2022",
+    "query": "#olympischespelen2022",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "#Olympischespelen2022",
-    "query": "#Olympischespelen2022",
+    "name": "#grofor",
+    "query": "#grofor",
     "rank": 11,
     "tweet_count": null
   },
@@ -69,54 +69,54 @@
     "name": "Den Haag",
     "query": "\"Den Haag\"",
     "rank": 12,
-    "tweet_count": "15K Tweets"
+    "tweet_count": "15.2K Tweets"
   },
   {
-    "name": "#Oekraine",
-    "query": "#Oekraine",
+    "name": "Democratie",
+    "query": "Democratie",
     "rank": 13,
-    "tweet_count": "1,851 Tweets"
+    "tweet_count": "27.4K Tweets"
   },
   {
     "name": "Extreem",
     "query": "Extreem",
     "rank": 14,
-    "tweet_count": "4,531 Tweets"
+    "tweet_count": "4,630 Tweets"
   },
   {
-    "name": "Democratie",
-    "query": "Democratie",
+    "name": "Kiev",
+    "query": "Kiev",
     "rank": 15,
-    "tweet_count": "26.9K Tweets"
+    "tweet_count": "32.3K Tweets"
   },
   {
     "name": "Ronald",
     "query": "Ronald",
     "rank": 16,
-    "tweet_count": "24.3K Tweets"
-  },
-  {
-    "name": "Kiev",
-    "query": "Kiev",
-    "rank": 17,
-    "tweet_count": "32.1K Tweets"
+    "tweet_count": "24.6K Tweets"
   },
   {
     "name": "Claudia",
     "query": "Claudia",
-    "rank": 18,
-    "tweet_count": "27.6K Tweets"
+    "rank": 17,
+    "tweet_count": "27.8K Tweets"
   },
   {
     "name": "Binnenhof",
     "query": "Binnenhof",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": "11.5K Tweets"
   },
   {
     "name": "Jetten",
     "query": "Jetten",
+    "rank": 19,
+    "tweet_count": "3,743 Tweets"
+  },
+  {
+    "name": "Malieveld",
+    "query": "Malieveld",
     "rank": 20,
-    "tweet_count": "3,698 Tweets"
+    "tweet_count": "1,645 Tweets"
   }
 ]
