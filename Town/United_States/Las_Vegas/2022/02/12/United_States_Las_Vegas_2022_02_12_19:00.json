@@ -1,39 +1,39 @@
 [
   {
-    "name": "Russia",
-    "query": "Russia",
-    "rank": 1,
-    "tweet_count": "575K Tweets"
-  },
-  {
     "name": "#SuperBowl",
     "query": "#SuperBowl",
+    "rank": 1,
+    "tweet_count": "76.7K Tweets"
+  },
+  {
+    "name": "Russia",
+    "query": "Russia",
     "rank": 2,
-    "tweet_count": "75.6K Tweets"
+    "tweet_count": "580K Tweets"
   },
   {
     "name": "Daily Quordle",
     "query": "\"Daily Quordle\"",
     "rank": 3,
-    "tweet_count": "2,318 Tweets"
+    "tweet_count": "2,447 Tweets"
   },
   {
     "name": "Chelsea",
     "query": "Chelsea",
     "rank": 4,
-    "tweet_count": "634K Tweets"
+    "tweet_count": "675K Tweets"
   },
   {
     "name": "#Caturday",
     "query": "#Caturday",
     "rank": 5,
-    "tweet_count": "24.3K Tweets"
+    "tweet_count": "24.9K Tweets"
   },
   {
-    "name": "Notifications",
-    "query": "Notifications",
+    "name": "#kubball",
+    "query": "#kubball",
     "rank": 6,
-    "tweet_count": "86.3K Tweets"
+    "tweet_count": "1,038 Tweets"
   },
   {
     "name": "Walker Kessler",
@@ -42,40 +42,40 @@
     "tweet_count": null
   },
   {
+    "name": "Notifications",
+    "query": "Notifications",
+    "rank": 8,
+    "tweet_count": "87.2K Tweets"
+  },
+  {
     "name": "Kai Havertz",
     "query": "\"Kai Havertz\"",
-    "rank": 8,
-    "tweet_count": "37.2K Tweets"
+    "rank": 9,
+    "tweet_count": "42.4K Tweets"
   },
   {
     "name": "#SaturdayVibes",
     "query": "#SaturdayVibes",
-    "rank": 9,
-    "tweet_count": "10.7K Tweets"
-  },
-  {
-    "name": "Favorite Boss Encounter",
-    "query": "\"Favorite Boss Encounter\"",
     "rank": 10,
-    "tweet_count": "1,224 Tweets"
+    "tweet_count": "10.9K Tweets"
   },
   {
-    "name": "#4WordLie",
-    "query": "#4WordLie",
+    "name": "Favorite Dungeon",
+    "query": "\"Favorite Dungeon\"",
     "rank": 11,
-    "tweet_count": null
+    "tweet_count": "1,383 Tweets"
   },
   {
     "name": "Putin",
     "query": "Putin",
     "rank": 12,
-    "tweet_count": "431K Tweets"
+    "tweet_count": "437K Tweets"
   },
   {
-    "name": "#LGRW",
-    "query": "#LGRW",
+    "name": "#4WordLie",
+    "query": "#4WordLie",
     "rank": 13,
-    "tweet_count": "1,921 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Notae",
@@ -87,7 +87,7 @@
     "name": "Sterling",
     "query": "Sterling",
     "rank": 15,
-    "tweet_count": "24.1K Tweets"
+    "tweet_count": "25.3K Tweets"
   },
   {
     "name": "Tanner Groves",
@@ -99,18 +99,18 @@
     "name": "Melania Trump",
     "query": "\"Melania Trump\"",
     "rank": 17,
-    "tweet_count": "29.3K Tweets"
-  },
-  {
-    "name": "Yandle",
-    "query": "Yandle",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "31K Tweets"
   },
   {
     "name": "Elmo",
     "query": "Elmo",
+    "rank": 18,
+    "tweet_count": "12.7K Tweets"
+  },
+  {
+    "name": "Florida State",
+    "query": "\"Florida State\"",
     "rank": 19,
-    "tweet_count": "12.4K Tweets"
+    "tweet_count": "9,509 Tweets"
   }
 ]
