@@ -1,9 +1,9 @@
 [
   {
-    "name": "Game Day",
-    "query": "\"Game Day\"",
+    "name": "#GameDay",
+    "query": "#GameDay",
     "rank": 1,
-    "tweet_count": "45.2K Tweets"
+    "tweet_count": "3,123 Tweets"
   },
   {
     "name": "#WhoseHouse",
@@ -15,108 +15,108 @@
     "name": "Cooper Kupp",
     "query": "\"Cooper Kupp\"",
     "rank": 3,
-    "tweet_count": "4,018 Tweets"
+    "tweet_count": "4,196 Tweets"
   },
   {
     "name": "#ValentinesDay2022",
     "query": "#ValentinesDay2022",
     "rank": 4,
-    "tweet_count": "79.8K Tweets"
+    "tweet_count": "82.2K Tweets"
+  },
+  {
+    "name": "#Wordle239",
+    "query": "#Wordle239",
+    "rank": 5,
+    "tweet_count": "4,581 Tweets"
   },
   {
     "name": "#BeatLA",
     "query": "#BeatLA",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Super Bowl 56",
-    "query": "\"Super Bowl 56\"",
     "rank": 6,
-    "tweet_count": "4,987 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Wanda",
     "query": "Wanda",
     "rank": 7,
-    "tweet_count": "13.5K Tweets"
+    "tweet_count": "13.7K Tweets"
   },
   {
-    "name": "#Wordle239",
-    "query": "#Wordle239",
+    "name": "Lombardi",
+    "query": "Lombardi",
     "rank": 8,
-    "tweet_count": "4,538 Tweets"
+    "tweet_count": "6,938 Tweets"
   },
   {
     "name": "Goldie Hawn",
     "query": "\"Goldie Hawn\"",
     "rank": 9,
-    "tweet_count": "10.9K Tweets"
-  },
-  {
-    "name": "#Ramily",
-    "query": "#Ramily",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Mueller",
-    "query": "Mueller",
-    "rank": 11,
-    "tweet_count": "40.9K Tweets"
+    "tweet_count": "11.1K Tweets"
   },
   {
     "name": "Willow",
     "query": "Willow",
-    "rank": 12,
-    "tweet_count": "16.4K Tweets"
+    "rank": 10,
+    "tweet_count": "16.6K Tweets"
   },
   {
     "name": "Kanye",
     "query": "Kanye",
-    "rank": 13,
-    "tweet_count": "566K Tweets"
+    "rank": 11,
+    "tweet_count": "584K Tweets"
   },
   {
     "name": "Carson Wentz",
     "query": "\"Carson Wentz\"",
-    "rank": 14,
-    "tweet_count": "3,736 Tweets"
-  },
-  {
-    "name": "Jeff Skinner",
-    "query": "\"Jeff Skinner\"",
-    "rank": 15,
-    "tweet_count": "1,468 Tweets"
-  },
-  {
-    "name": "Odell",
-    "query": "Odell",
-    "rank": 16,
-    "tweet_count": "9,129 Tweets"
+    "rank": 12,
+    "tweet_count": "4,026 Tweets"
   },
   {
     "name": "Cam Newton",
     "query": "\"Cam Newton\"",
-    "rank": 17,
-    "tweet_count": "2,511 Tweets"
+    "rank": 13,
+    "tweet_count": "3,330 Tweets"
+  },
+  {
+    "name": "Jeff Skinner",
+    "query": "\"Jeff Skinner\"",
+    "rank": 14,
+    "tweet_count": "1,606 Tweets"
+  },
+  {
+    "name": "Odell",
+    "query": "Odell",
+    "rank": 15,
+    "tweet_count": "9,668 Tweets"
   },
   {
     "name": "Durham",
     "query": "Durham",
-    "rank": 18,
-    "tweet_count": "302K Tweets"
+    "rank": 16,
+    "tweet_count": "308K Tweets"
   },
   {
-    "name": "Ralph Krueger",
-    "query": "\"Ralph Krueger\"",
-    "rank": 19,
-    "tweet_count": null
+    "name": "Kelsey Grammer",
+    "query": "\"Kelsey Grammer\"",
+    "rank": 17,
+    "tweet_count": "3,863 Tweets"
   },
   {
     "name": "Jordan Peele",
     "query": "\"Jordan Peele\"",
+    "rank": 18,
+    "tweet_count": "27.9K Tweets"
+  },
+  {
+    "name": "jaehyun",
+    "query": "jaehyun",
+    "rank": 19,
+    "tweet_count": "1.07M Tweets"
+  },
+  {
+    "name": "Ralph Krueger",
+    "query": "\"Ralph Krueger\"",
     "rank": 20,
-    "tweet_count": "27.3K Tweets"
+    "tweet_count": null
   }
 ]
