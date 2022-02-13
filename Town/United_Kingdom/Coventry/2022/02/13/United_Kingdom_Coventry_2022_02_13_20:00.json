@@ -1,15 +1,15 @@
 [
   {
-    "name": "Harvey Barnes",
-    "query": "\"Harvey Barnes\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#TOTWOL",
     "query": "#TOTWOL",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "12.3K Tweets"
+  },
+  {
+    "name": "Watkins",
+    "query": "Watkins",
+    "rank": 2,
+    "tweet_count": "5,639 Tweets"
   },
   {
     "name": "Ben Johnson",
@@ -18,99 +18,99 @@
     "tweet_count": null
   },
   {
+    "name": "#THFC",
+    "query": "#THFC",
+    "rank": 4,
+    "tweet_count": "5,177 Tweets"
+  },
+  {
     "name": "#COYS",
     "query": "#COYS",
-    "rank": 4,
-    "tweet_count": "5,925 Tweets"
+    "rank": 5,
+    "tweet_count": "5,955 Tweets"
   },
   {
     "name": "Kasper",
     "query": "Kasper",
-    "rank": 5,
-    "tweet_count": "1,398 Tweets"
+    "rank": 6,
+    "tweet_count": "1,407 Tweets"
   },
   {
     "name": "Nuno",
     "query": "Nuno",
-    "rank": 6,
-    "tweet_count": "5,885 Tweets"
+    "rank": 7,
+    "tweet_count": "5,924 Tweets"
   },
   {
     "name": "#BURLIV",
     "query": "#BURLIV",
-    "rank": 7,
+    "rank": 8,
     "tweet_count": "32.2K Tweets"
   },
   {
-    "name": "Jullien",
-    "query": "Jullien",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "#wwfc",
-    "query": "#wwfc",
+    "name": "Dier",
+    "query": "Dier",
     "rank": 9,
-    "tweet_count": "2,184 Tweets"
+    "tweet_count": "3,477 Tweets"
   },
   {
     "name": "Doherty",
     "query": "Doherty",
     "rank": 10,
-    "tweet_count": "4,522 Tweets"
-  },
-  {
-    "name": "Ricardo",
-    "query": "Ricardo",
-    "rank": 11,
-    "tweet_count": "29K Tweets"
-  },
-  {
-    "name": "Dier",
-    "query": "Dier",
-    "rank": 12,
-    "tweet_count": "3,417 Tweets"
+    "tweet_count": "4,556 Tweets"
   },
   {
     "name": "Luiz",
     "query": "Luiz",
-    "rank": 13,
-    "tweet_count": "18.8K Tweets"
-  },
-  {
-    "name": "Marcus Smith",
-    "query": "\"Marcus Smith\"",
-    "rank": 14,
-    "tweet_count": "1,007 Tweets"
+    "rank": 11,
+    "tweet_count": "19.1K Tweets"
   },
   {
     "name": "McGinn",
     "query": "McGinn",
-    "rank": 15,
-    "tweet_count": "1,813 Tweets"
+    "rank": 12,
+    "tweet_count": "1,822 Tweets"
   },
   {
-    "name": "Mings",
-    "query": "Mings",
-    "rank": 16,
-    "tweet_count": "3,322 Tweets"
+    "name": "Gerrard",
+    "query": "Gerrard",
+    "rank": 13,
+    "tweet_count": "5,218 Tweets"
   },
   {
     "name": "Kanye",
     "query": "Kanye",
-    "rank": 17,
-    "tweet_count": "583K Tweets"
+    "rank": 14,
+    "tweet_count": "595K Tweets"
   },
   {
     "name": "Bowen",
     "query": "Bowen",
-    "rank": 18,
-    "tweet_count": "13.6K Tweets"
+    "rank": 15,
+    "tweet_count": "13.7K Tweets"
+  },
+  {
+    "name": "Dawson",
+    "query": "Dawson",
+    "rank": 16,
+    "tweet_count": "7,302 Tweets"
   },
   {
     "name": "Souness",
     "query": "Souness",
+    "rank": 17,
+    "tweet_count": "9,179 Tweets"
+  },
+  {
+    "name": "Coufal",
+    "query": "Coufal",
+    "rank": 18,
+    "tweet_count": "2,026 Tweets"
+  },
+  {
+    "name": "Mo Salah",
+    "query": "\"Mo Salah\"",
     "rank": 19,
-    "tweet_count": "8,943 Tweets"
+    "tweet_count": "9,658 Tweets"
   }
 ]
