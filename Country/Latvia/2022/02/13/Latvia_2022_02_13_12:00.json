@@ -6,28 +6,28 @@
     "tweet_count": "8,090 Tweets"
   },
   {
-    "name": "Eirovīziju",
-    "query": "Eirovīziju",
+    "name": "eirovīziju",
+    "query": "eirovīziju",
     "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "Bujāns",
-    "query": "Bujāns",
-    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Citi Zēni",
     "query": "\"Citi Zēni\"",
-    "rank": 4,
-    "tweet_count": "2,678 Tweets"
+    "rank": 3,
+    "tweet_count": "2,685 Tweets"
   },
   {
     "name": "Aminata",
     "query": "Aminata",
+    "rank": 4,
+    "tweet_count": "2,598 Tweets"
+  },
+  {
+    "name": "Bujāns",
+    "query": "Bujāns",
     "rank": 5,
-    "tweet_count": "2,542 Tweets"
+    "tweet_count": null
   },
   {
     "name": "turīnu",
@@ -42,8 +42,8 @@
     "tweet_count": null
   },
   {
-    "name": "itālijā",
-    "query": "itālijā",
+    "name": "Itālijā",
+    "query": "Itālijā",
     "rank": 8,
     "tweet_count": null
   },
@@ -54,8 +54,8 @@
     "tweet_count": null
   },
   {
-    "name": "The Roop",
-    "query": "\"The Roop\"",
+    "name": "the roop",
+    "query": "\"the roop\"",
     "rank": 10,
     "tweet_count": null
   },
@@ -72,34 +72,34 @@
     "tweet_count": null
   },
   {
-    "name": "Raum",
-    "query": "Raum",
+    "name": "Lidl",
+    "query": "Lidl",
     "rank": 13,
-    "tweet_count": "2,022 Tweets"
+    "tweet_count": "3,852 Tweets"
   },
   {
-    "name": "Ukrainā",
-    "query": "Ukrainā",
+    "name": "Elīna",
+    "query": "Elīna",
     "rank": 14,
-    "tweet_count": "14K Tweets"
+    "tweet_count": "2,956 Tweets"
+  },
+  {
+    "name": "Raum",
+    "query": "Raum",
+    "rank": 15,
+    "tweet_count": "2,078 Tweets"
   },
   {
     "name": "bermudu",
     "query": "bermudu",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "elīna",
-    "query": "elīna",
-    "rank": 16,
-    "tweet_count": "2,903 Tweets"
-  },
-  {
-    "name": "#Eurovision",
-    "query": "#Eurovision",
+    "name": "Ukrainā",
+    "query": "Ukrainā",
     "rank": 17,
-    "tweet_count": "7,939 Tweets"
+    "tweet_count": "14.3K Tweets"
   },
   {
     "name": "Lietuvas",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "Putins",
-    "query": "Putins",
+    "name": "#Eurovision",
+    "query": "#Eurovision",
     "rank": 19,
-    "tweet_count": "4,440 Tweets"
+    "tweet_count": "8,012 Tweets"
   },
   {
-    "name": "Rietumi",
-    "query": "Rietumi",
+    "name": "Putins",
+    "query": "Putins",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "4,511 Tweets"
   }
 ]

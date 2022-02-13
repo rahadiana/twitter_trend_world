@@ -1,19 +1,19 @@
 [
   {
-    "name": "#shorttrack",
-    "query": "#shorttrack",
-    "rank": 1,
-    "tweet_count": "2,195 Tweets"
-  },
-  {
     "name": "#buitenhof",
     "query": "#buitenhof",
-    "rank": 2,
-    "tweet_count": "1,364 Tweets"
+    "rank": 1,
+    "tweet_count": "1,595 Tweets"
   },
   {
-    "name": "Velzeboer",
-    "query": "Velzeboer",
+    "name": "#shorttrack",
+    "query": "#shorttrack",
+    "rank": 2,
+    "tweet_count": "2,683 Tweets"
+  },
+  {
+    "name": "#spawil",
+    "query": "#spawil",
     "rank": 3,
     "tweet_count": null
   },
@@ -24,14 +24,14 @@
     "tweet_count": null
   },
   {
-    "name": "#relay",
-    "query": "#relay",
+    "name": "Velzeboer",
+    "query": "Velzeboer",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "#spawil",
-    "query": "#spawil",
+    "name": "#relay",
+    "query": "#relay",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,14 +42,14 @@
     "tweet_count": null
   },
   {
-    "name": "Joris Luyendijk",
-    "query": "\"Joris Luyendijk\"",
+    "name": "Sylvana",
+    "query": "Sylvana",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Sylvana",
-    "query": "Sylvana",
+    "name": "Joris Luyendijk",
+    "query": "\"Joris Luyendijk\"",
     "rank": 9,
     "tweet_count": null
   },
@@ -60,16 +60,16 @@
     "tweet_count": null
   },
   {
-    "name": "GroenLinks",
-    "query": "GroenLinks",
+    "name": "Sparta",
+    "query": "Sparta",
     "rank": 11,
-    "tweet_count": "25.4K Tweets"
+    "tweet_count": "3,450 Tweets"
   },
   {
-    "name": "Jesse",
-    "query": "Jesse",
+    "name": "GroenLinks",
+    "query": "GroenLinks",
     "rank": 12,
-    "tweet_count": "22.9K Tweets"
+    "tweet_count": "26.2K Tweets"
   },
   {
     "name": "Gecondoleerd",
@@ -78,44 +78,44 @@
     "tweet_count": null
   },
   {
-    "name": "PABO",
-    "query": "PABO",
+    "name": "Jesse",
+    "query": "Jesse",
     "rank": 14,
-    "tweet_count": "1,072 Tweets"
+    "tweet_count": "23.3K Tweets"
   },
   {
-    "name": "democratie",
-    "query": "democratie",
+    "name": "Democratie",
+    "query": "Democratie",
     "rank": 15,
-    "tweet_count": "46.1K Tweets"
+    "tweet_count": "47.5K Tweets"
+  },
+  {
+    "name": "PABO",
+    "query": "PABO",
+    "rank": 16,
+    "tweet_count": "1,101 Tweets"
   },
   {
     "name": "Kanye",
     "query": "Kanye",
-    "rank": 16,
-    "tweet_count": "304K Tweets"
+    "rank": 17,
+    "tweet_count": "313K Tweets"
   },
   {
     "name": "#TeamNL",
     "query": "#TeamNL",
-    "rank": 17,
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "#NACdbo",
+    "query": "#NACdbo",
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "#mosgroen",
     "query": "#mosgroen",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "#kijken",
-    "query": "#kijken",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "#olijfgroen",
-    "query": "#olijfgroen",
     "rank": 20,
     "tweet_count": null
   }
