@@ -1,7 +1,7 @@
 [
   {
-    "name": "#TheVoice",
-    "query": "#TheVoice",
+    "name": "#thevoice",
+    "query": "#thevoice",
     "rank": 1,
     "tweet_count": "10.1K Tweets"
   },
@@ -21,90 +21,96 @@
     "name": "#convoisdelaliberte",
     "query": "#convoisdelaliberte",
     "rank": 4,
-    "tweet_count": "247K Tweets"
+    "tweet_count": "248K Tweets"
+  },
+  {
+    "name": "Lewis",
+    "query": "Lewis",
+    "rank": 5,
+    "tweet_count": "71.6K Tweets"
+  },
+  {
+    "name": "Adesanya",
+    "query": "Adesanya",
+    "rank": 6,
+    "tweet_count": "82.8K Tweets"
+  },
+  {
+    "name": "Tuivasa",
+    "query": "Tuivasa",
+    "rank": 7,
+    "tweet_count": "21.5K Tweets"
+  },
+  {
+    "name": "Brunson",
+    "query": "Brunson",
+    "rank": 8,
+    "tweet_count": "13.4K Tweets"
   },
   {
     "name": "Klay",
     "query": "Klay",
-    "rank": 5,
-    "tweet_count": "47.9K Tweets"
+    "rank": 9,
+    "tweet_count": "48.9K Tweets"
   },
   {
     "name": "Lebron",
     "query": "Lebron",
-    "rank": 6,
-    "tweet_count": "143K Tweets"
+    "rank": 10,
+    "tweet_count": "145K Tweets"
+  },
+  {
+    "name": "Bobby Green",
+    "query": "\"Bobby Green\"",
+    "rank": 11,
+    "tweet_count": "8,008 Tweets"
+  },
+  {
+    "name": "Whittaker",
+    "query": "Whittaker",
+    "rank": 12,
+    "tweet_count": "73.5K Tweets"
   },
   {
     "name": "Embiid",
     "query": "Embiid",
-    "rank": 7,
-    "tweet_count": "44.1K Tweets"
+    "rank": 13,
+    "tweet_count": "44.4K Tweets"
+  },
+  {
+    "name": "Jokic",
+    "query": "Jokic",
+    "rank": 14,
+    "tweet_count": "11.4K Tweets"
   },
   {
     "name": "Kanye",
     "query": "Kanye",
-    "rank": 8,
-    "tweet_count": "196K Tweets"
+    "rank": 15,
+    "tweet_count": "199K Tweets"
   },
   {
     "name": "Paqueta",
     "query": "Paqueta",
-    "rank": 9,
-    "tweet_count": "21.3K Tweets"
+    "rank": 16,
+    "tweet_count": "21.4K Tweets"
   },
   {
     "name": "Booba",
     "query": "Booba",
-    "rank": 10,
+    "rank": 17,
     "tweet_count": "20.7K Tweets"
-  },
-  {
-    "name": "Tanguy",
-    "query": "Tanguy",
-    "rank": 11,
-    "tweet_count": "3,629 Tweets"
   },
   {
     "name": "#UFC271",
     "query": "#UFC271",
-    "rank": 12,
-    "tweet_count": "169K Tweets"
+    "rank": 18,
+    "tweet_count": "182K Tweets"
   },
   {
     "name": "#RMCMMA",
     "query": "#RMCMMA",
-    "rank": 13,
+    "rank": 19,
     "tweet_count": null
-  },
-  {
-    "name": "#nous_t_écoutons",
-    "query": "#nous_t_écoutons",
-    "rank": 14,
-    "tweet_count": "1,024 Tweets"
-  },
-  {
-    "name": "#ViolencesPolicieres",
-    "query": "#ViolencesPolicieres",
-    "rank": 15,
-    "tweet_count": "23K Tweets"
-  },
-  {
-    "name": "#ChampsElysees",
-    "query": "#ChampsElysees",
-    "rank": 16,
-    "tweet_count": "125K Tweets"
-  },
-  {
-    "name": "#ConvoiDesTeubes",
-    "query": "#ConvoiDesTeubes",
-    "rank": 17,
-    "tweet_count": "9,013 Tweets"
-  },
-  {
-    "name": "#macronestunpsychopathe",
-    "query": "#macronestunpsychopathe",
-    "rank": 18,
-    "tweet_count": "5,530 Tweets"
   }
 ]
