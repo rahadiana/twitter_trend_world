@@ -3,43 +3,43 @@
     "name": "#SuperBowl",
     "query": "#SuperBowl",
     "rank": 1,
-    "tweet_count": "498K Tweets"
+    "tweet_count": "526K Tweets"
   },
   {
     "name": "Guillou",
     "query": "Guillou",
     "rank": 2,
-    "tweet_count": "4,396 Tweets"
+    "tweet_count": "4,406 Tweets"
   },
   {
     "name": "Bengals",
     "query": "Bengals",
     "rank": 3,
-    "tweet_count": "493K Tweets"
+    "tweet_count": "515K Tweets"
   },
   {
     "name": "Ukraina",
     "query": "Ukraina",
     "rank": 4,
-    "tweet_count": "12.9K Tweets"
-  },
-  {
-    "name": "Doku",
-    "query": "Doku",
-    "rank": 5,
-    "tweet_count": "8,342 Tweets"
-  },
-  {
-    "name": "Ryssland",
-    "query": "Ryssland",
-    "rank": 6,
-    "tweet_count": "2,367 Tweets"
+    "tweet_count": "13K Tweets"
   },
   {
     "name": "Wanda",
     "query": "Wanda",
+    "rank": 5,
+    "tweet_count": "55.2K Tweets"
+  },
+  {
+    "name": "Doku",
+    "query": "Doku",
+    "rank": 6,
+    "tweet_count": "8,368 Tweets"
+  },
+  {
+    "name": "Ryssland",
+    "query": "Ryssland",
     "rank": 7,
-    "tweet_count": "44.9K Tweets"
+    "tweet_count": "2,371 Tweets"
   },
   {
     "name": "Skarpnäck",
@@ -51,7 +51,7 @@
     "name": "Espanyol",
     "query": "Espanyol",
     "rank": 9,
-    "tweet_count": "52.3K Tweets"
+    "tweet_count": "52.7K Tweets"
   },
   {
     "name": "Klarna",
@@ -63,7 +63,7 @@
     "name": "Kanye",
     "query": "Kanye",
     "rank": 11,
-    "tweet_count": "722K Tweets"
+    "tweet_count": "733K Tweets"
   },
   {
     "name": "poromaa",
@@ -72,10 +72,10 @@
     "tweet_count": null
   },
   {
-    "name": "Sofie",
-    "query": "Sofie",
+    "name": "sofie",
+    "query": "sofie",
     "rank": 13,
-    "tweet_count": "3,395 Tweets"
+    "tweet_count": "3,405 Tweets"
   },
   {
     "name": "farsta",
@@ -99,7 +99,7 @@
     "name": "Putin",
     "query": "Putin",
     "rank": 17,
-    "tweet_count": "266K Tweets"
+    "tweet_count": "267K Tweets"
   },
   {
     "name": "#melodifestivalen",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "tre kronor",
-    "query": "\"tre kronor\"",
+    "name": "#nflse",
+    "query": "#nflse",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Gambia",
-    "query": "Gambia",
+    "name": "tre kronor",
+    "query": "\"tre kronor\"",
     "rank": 20,
-    "tweet_count": "2,758 Tweets"
+    "tweet_count": null
   }
 ]
