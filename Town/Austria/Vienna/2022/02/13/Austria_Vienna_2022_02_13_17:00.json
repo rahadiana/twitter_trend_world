@@ -1,27 +1,27 @@
 [
   {
-    "name": "schönen sonntag",
-    "query": "\"schönen sonntag\"",
-    "rank": 1,
-    "tweet_count": "5,407 Tweets"
-  },
-  {
     "name": "#pressestunde",
     "query": "#pressestunde",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "Pensionisten",
     "query": "Pensionisten",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#Nehammer",
     "query": "#Nehammer",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
+  },
+  {
+    "name": "Schönen Sonntag",
+    "query": "\"Schönen Sonntag\"",
+    "rank": 4,
+    "tweet_count": "5,430 Tweets"
   },
   {
     "name": "#ASKSKA",
@@ -36,87 +36,87 @@
     "tweet_count": null
   },
   {
-    "name": "#BOCFCB",
-    "query": "#BOCFCB",
+    "name": "#bocfcb",
+    "query": "#bocfcb",
     "rank": 7,
-    "tweet_count": "1,927 Tweets"
+    "tweet_count": "1,929 Tweets"
   },
   {
     "name": "Ukraine",
     "query": "Ukraine",
     "rank": 8,
-    "tweet_count": "513K Tweets"
+    "tweet_count": "518K Tweets"
   },
   {
     "name": "Putin",
     "query": "Putin",
     "rank": 9,
-    "tweet_count": "314K Tweets"
+    "tweet_count": "317K Tweets"
   },
   {
     "name": "Ungarn",
     "query": "Ungarn",
     "rank": 10,
-    "tweet_count": "1,642 Tweets"
+    "tweet_count": "1,650 Tweets"
   },
   {
     "name": "Kanye",
     "query": "Kanye",
     "rank": 11,
-    "tweet_count": "419K Tweets"
+    "tweet_count": "427K Tweets"
   },
   {
     "name": "Triest",
     "query": "Triest",
     "rank": 12,
-    "tweet_count": "1,392 Tweets"
+    "tweet_count": "1,405 Tweets"
   },
   {
-    "name": "Valentinstag",
-    "query": "Valentinstag",
+    "name": "Russland",
+    "query": "Russland",
     "rank": 13,
-    "tweet_count": "3,695 Tweets"
+    "tweet_count": "17.7K Tweets"
   },
   {
     "name": "Tests",
     "query": "Tests",
     "rank": 14,
-    "tweet_count": "57.2K Tweets"
+    "tweet_count": "57.8K Tweets"
   },
   {
-    "name": "Russland",
-    "query": "Russland",
+    "name": "Valentinstag",
+    "query": "Valentinstag",
     "rank": 15,
-    "tweet_count": "17.5K Tweets"
+    "tweet_count": "3,772 Tweets"
   },
   {
     "name": "Demo",
     "query": "Demo",
     "rank": 16,
-    "tweet_count": "50.2K Tweets"
-  },
-  {
-    "name": "Biden",
-    "query": "Biden",
-    "rank": 17,
-    "tweet_count": "433K Tweets"
-  },
-  {
-    "name": "Besteck",
-    "query": "Besteck",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "50.6K Tweets"
   },
   {
     "name": "Schnitzel",
     "query": "Schnitzel",
-    "rank": 19,
+    "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Felix",
-    "query": "Felix",
+    "name": "Biden",
+    "query": "Biden",
+    "rank": 18,
+    "tweet_count": "437K Tweets"
+  },
+  {
+    "name": "Super Bowl",
+    "query": "\"Super Bowl\"",
+    "rank": 19,
+    "tweet_count": "392K Tweets"
+  },
+  {
+    "name": "Besteck",
+    "query": "Besteck",
     "rank": 20,
-    "tweet_count": "193K Tweets"
+    "tweet_count": null
   }
 ]
