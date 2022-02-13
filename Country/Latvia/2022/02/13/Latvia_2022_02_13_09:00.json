@@ -1,27 +1,27 @@
 [
   {
-    "name": "#ltvsupernova",
-    "query": "#ltvsupernova",
+    "name": "#LTVSupernova",
+    "query": "#LTVSupernova",
     "rank": 1,
-    "tweet_count": "8,051 Tweets"
+    "tweet_count": "8,057 Tweets"
   },
   {
-    "name": "Eirovīziju",
-    "query": "Eirovīziju",
+    "name": "Eirovīzijas",
+    "query": "Eirovīzijas",
     "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "Citi Zēni",
-    "query": "\"Citi Zēni\"",
-    "rank": 3,
-    "tweet_count": "2,592 Tweets"
-  },
-  {
     "name": "Bujāns",
     "query": "Bujāns",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
+  },
+  {
+    "name": "citi zēni",
+    "query": "\"citi zēni\"",
+    "rank": 4,
+    "tweet_count": "2,600 Tweets"
   },
   {
     "name": "the roop",
@@ -33,7 +33,7 @@
     "name": "Aminata",
     "query": "Aminata",
     "rank": 6,
-    "tweet_count": "3,489 Tweets"
+    "tweet_count": "3,502 Tweets"
   },
   {
     "name": "Miks Dukurs",
@@ -72,40 +72,40 @@
     "tweet_count": null
   },
   {
+    "name": "Elīna",
+    "query": "Elīna",
+    "rank": 13,
+    "tweet_count": "3,002 Tweets"
+  },
+  {
     "name": "Raum",
     "query": "Raum",
-    "rank": 13,
-    "tweet_count": "2,120 Tweets"
+    "rank": 14,
+    "tweet_count": "2,148 Tweets"
   },
   {
     "name": "Bermudu",
     "query": "Bermudu",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Putina",
     "query": "Putina",
-    "rank": 15,
-    "tweet_count": "5,796 Tweets"
-  },
-  {
-    "name": "Ukrainā",
-    "query": "Ukrainā",
     "rank": 16,
-    "tweet_count": "15K Tweets"
-  },
-  {
-    "name": "Elīna",
-    "query": "Elīna",
-    "rank": 17,
-    "tweet_count": "2,983 Tweets"
+    "tweet_count": "5,870 Tweets"
   },
   {
     "name": "#Eurovision",
     "query": "#Eurovision",
+    "rank": 17,
+    "tweet_count": "7,898 Tweets"
+  },
+  {
+    "name": "Ukrainā",
+    "query": "Ukrainā",
     "rank": 18,
-    "tweet_count": "7,871 Tweets"
+    "tweet_count": "15.1K Tweets"
   },
   {
     "name": "mārtiņa rītiņa",
@@ -114,8 +114,8 @@
     "tweet_count": null
   },
   {
-    "name": "eiropa",
-    "query": "eiropa",
+    "name": "Eiropa",
+    "query": "Eiropa",
     "rank": 20,
     "tweet_count": null
   }

@@ -1,87 +1,87 @@
 [
   {
-    "name": "Uber",
-    "query": "Uber",
-    "rank": 1,
-    "tweet_count": "63.5K Tweets"
-  },
-  {
     "name": "Green Day",
     "query": "\"Green Day\"",
-    "rank": 2,
-    "tweet_count": "5,389 Tweets"
+    "rank": 1,
+    "tweet_count": "5,463 Tweets"
   },
   {
     "name": "Luka",
     "query": "Luka",
-    "rank": 3,
-    "tweet_count": "34.4K Tweets"
+    "rank": 2,
+    "tweet_count": "34.7K Tweets"
   },
   {
-    "name": "Curry",
-    "query": "Curry",
-    "rank": 4,
-    "tweet_count": "44.3K Tweets"
+    "name": "Natalie",
+    "query": "Natalie",
+    "rank": 3,
+    "tweet_count": "29.8K Tweets"
   },
   {
     "name": "Bradley",
     "query": "Bradley",
-    "rank": 5,
-    "tweet_count": "15.2K Tweets"
+    "rank": 4,
+    "tweet_count": "15.3K Tweets"
   },
   {
     "name": "#UFC271",
     "query": "#UFC271",
-    "rank": 6,
-    "tweet_count": "245K Tweets"
+    "rank": 5,
+    "tweet_count": "246K Tweets"
   },
   {
     "name": "Cudi",
     "query": "Cudi",
-    "rank": 7,
-    "tweet_count": "124K Tweets"
+    "rank": 6,
+    "tweet_count": "125K Tweets"
   },
   {
     "name": "#NopeMovie",
     "query": "#NopeMovie",
-    "rank": 8,
-    "tweet_count": "2,651 Tweets"
+    "rank": 7,
+    "tweet_count": "2,833 Tweets"
   },
   {
     "name": "Warriors",
     "query": "Warriors",
-    "rank": 9,
-    "tweet_count": "108K Tweets"
+    "rank": 8,
+    "tweet_count": "109K Tweets"
   },
   {
     "name": "Derrick Lewis",
     "query": "\"Derrick Lewis\"",
-    "rank": 10,
-    "tweet_count": "17.7K Tweets"
+    "rank": 9,
+    "tweet_count": "17.8K Tweets"
   },
   {
     "name": "Daily Quordle",
     "query": "\"Daily Quordle\"",
-    "rank": 11,
-    "tweet_count": "9,264 Tweets"
+    "rank": 10,
+    "tweet_count": "9,362 Tweets"
   },
   {
     "name": "#Wordle239",
     "query": "#Wordle239",
+    "rank": 11,
+    "tweet_count": "2,843 Tweets"
+  },
+  {
+    "name": "#twdspoilers",
+    "query": "#twdspoilers",
     "rank": 12,
-    "tweet_count": "2,805 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#BarbieXBaby",
     "query": "#BarbieXBaby",
     "rank": 13,
-    "tweet_count": "6,581 Tweets"
+    "tweet_count": "6,674 Tweets"
   },
   {
-    "name": "#SKZChocolateFactoryDAY2",
-    "query": "#SKZChocolateFactoryDAY2",
+    "name": "Bam Bam",
+    "query": "\"Bam Bam\"",
     "rank": 14,
-    "tweet_count": "30.9K Tweets"
+    "tweet_count": "261K Tweets"
   },
   {
     "name": "Reaves",
@@ -90,33 +90,33 @@
     "tweet_count": "12K Tweets"
   },
   {
+    "name": "Brunson",
+    "query": "Brunson",
+    "rank": 16,
+    "tweet_count": "14.1K Tweets"
+  },
+  {
     "name": "Hee Haw",
     "query": "\"Hee Haw\"",
-    "rank": 16,
-    "tweet_count": "1,602 Tweets"
+    "rank": 17,
+    "tweet_count": "1,608 Tweets"
+  },
+  {
+    "name": "Chan",
+    "query": "Chan",
+    "rank": 18,
+    "tweet_count": "387K Tweets"
   },
   {
     "name": "Nick Wayne",
     "query": "\"Nick Wayne\"",
-    "rank": 17,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Requiem for a Dream",
     "query": "\"Requiem for a Dream\"",
-    "rank": 18,
-    "tweet_count": "3,003 Tweets"
-  },
-  {
-    "name": "Chan",
-    "query": "Chan",
-    "rank": 19,
-    "tweet_count": "383K Tweets"
-  },
-  {
-    "name": "Durham",
-    "query": "Durham",
     "rank": 20,
-    "tweet_count": "166K Tweets"
+    "tweet_count": "3,024 Tweets"
   }
 ]

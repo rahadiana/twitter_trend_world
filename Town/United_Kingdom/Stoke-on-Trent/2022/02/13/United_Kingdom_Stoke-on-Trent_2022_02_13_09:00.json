@@ -1,110 +1,110 @@
 [
   {
-    "name": "#JohnsonOut20",
-    "query": "#JohnsonOut20",
+    "name": "#TOTWOL",
+    "query": "#TOTWOL",
     "rank": 1,
-    "tweet_count": "22.1K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#SundayMorning",
-    "query": "#SundayMorning",
+    "name": "Derrick Lewis",
+    "query": "\"Derrick Lewis\"",
     "rank": 2,
-    "tweet_count": "13.4K Tweets"
+    "tweet_count": "17.8K Tweets"
+  },
+  {
+    "name": "#RussiaUkraine",
+    "query": "#RussiaUkraine",
+    "rank": 3,
+    "tweet_count": "11.3K Tweets"
+  },
+  {
+    "name": "#JohnsonOut20",
+    "query": "#JohnsonOut20",
+    "rank": 4,
+    "tweet_count": "23.9K Tweets"
   },
   {
     "name": "Daily Quordle",
     "query": "\"Daily Quordle\"",
-    "rank": 3,
-    "tweet_count": "9,263 Tweets"
-  },
-  {
-    "name": "#WorldRadioDay",
-    "query": "#WorldRadioDay",
-    "rank": 4,
-    "tweet_count": "10.1K Tweets"
+    "rank": 5,
+    "tweet_count": "9,341 Tweets"
   },
   {
     "name": "Brandon Lewis",
     "query": "\"Brandon Lewis\"",
-    "rank": 5,
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "Jordan Peele",
     "query": "\"Jordan Peele\"",
-    "rank": 6,
-    "tweet_count": "5,011 Tweets"
+    "rank": 7,
+    "tweet_count": "5,299 Tweets"
   },
   {
     "name": "Nick Cohen",
     "query": "\"Nick Cohen\"",
-    "rank": 7,
-    "tweet_count": "1,260 Tweets"
-  },
-  {
-    "name": "Cudi",
-    "query": "Cudi",
     "rank": 8,
-    "tweet_count": "123K Tweets"
+    "tweet_count": "1,312 Tweets"
   },
   {
     "name": "Pele",
     "query": "Pele",
     "rank": 9,
-    "tweet_count": "18.5K Tweets"
+    "tweet_count": "18.6K Tweets"
   },
   {
-    "name": "Derrick Lewis",
-    "query": "\"Derrick Lewis\"",
+    "name": "Yvette Cooper",
+    "query": "\"Yvette Cooper\"",
     "rank": 10,
-    "tweet_count": "17.7K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Klay",
-    "query": "Klay",
+    "name": "Cudi",
+    "query": "Cudi",
     "rank": 11,
-    "tweet_count": "55.5K Tweets"
+    "tweet_count": "125K Tweets"
   },
   {
     "name": "Quordle",
     "query": "Quordle",
     "rank": 12,
-    "tweet_count": "13.1K Tweets"
+    "tweet_count": "13.2K Tweets"
   },
   {
     "name": "Milner",
     "query": "Milner",
     "rank": 13,
-    "tweet_count": "3,540 Tweets"
+    "tweet_count": "3,607 Tweets"
+  },
+  {
+    "name": "Bam Bam",
+    "query": "\"Bam Bam\"",
+    "rank": 14,
+    "tweet_count": "261K Tweets"
   },
   {
     "name": "Barry Manilow",
     "query": "\"Barry Manilow\"",
-    "rank": 14,
-    "tweet_count": "4,046 Tweets"
-  },
-  {
-    "name": "Mark Todd",
-    "query": "\"Mark Todd\"",
     "rank": 15,
-    "tweet_count": "2,984 Tweets"
+    "tweet_count": "4,098 Tweets"
   },
   {
     "name": "Asda",
     "query": "Asda",
     "rank": 16,
-    "tweet_count": "10.1K Tweets"
+    "tweet_count": "10.3K Tweets"
+  },
+  {
+    "name": "Mark Todd",
+    "query": "\"Mark Todd\"",
+    "rank": 17,
+    "tweet_count": "3,042 Tweets"
   },
   {
     "name": "Jack Monroe",
     "query": "\"Jack Monroe\"",
-    "rank": 17,
-    "tweet_count": "5,621 Tweets"
-  },
-  {
-    "name": "MOTD",
-    "query": "MOTD",
     "rank": 18,
-    "tweet_count": "1,483 Tweets"
+    "tweet_count": "5,754 Tweets"
   }
 ]
