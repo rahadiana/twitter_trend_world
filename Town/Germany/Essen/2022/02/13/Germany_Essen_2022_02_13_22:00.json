@@ -1,27 +1,27 @@
 [
   {
-    "name": "#NichtmeinPraesident",
-    "query": "#NichtmeinPraesident",
-    "rank": 1,
-    "tweet_count": "10.8K Tweets"
-  },
-  {
     "name": "#SuperBowl",
     "query": "#SuperBowl",
-    "rank": 2,
-    "tweet_count": "346K Tweets"
+    "rank": 1,
+    "tweet_count": "364K Tweets"
   },
   {
     "name": "#AnneWill",
     "query": "#AnneWill",
-    "rank": 3,
-    "tweet_count": "5,399 Tweets"
+    "rank": 2,
+    "tweet_count": "5,729 Tweets"
   },
   {
     "name": "#ranNFL",
     "query": "#ranNFL",
+    "rank": 3,
+    "tweet_count": "5,662 Tweets"
+  },
+  {
+    "name": "#ranSB56",
+    "query": "#ranSB56",
     "rank": 4,
-    "tweet_count": "5,200 Tweets"
+    "tweet_count": "2,804 Tweets"
   },
   {
     "name": "Heidi Klum",
@@ -36,16 +36,16 @@
     "tweet_count": null
   },
   {
-    "name": "Valentinstag",
-    "query": "Valentinstag",
-    "rank": 7,
-    "tweet_count": "4,996 Tweets"
-  },
-  {
     "name": "Expertenrat",
     "query": "Expertenrat",
-    "rank": 8,
+    "rank": 7,
     "tweet_count": null
+  },
+  {
+    "name": "Valentinstag",
+    "query": "Valentinstag",
+    "rank": 8,
+    "tweet_count": "5,041 Tweets"
   },
   {
     "name": "Opferrolle",
@@ -54,32 +54,32 @@
     "tweet_count": null
   },
   {
-    "name": "Tasche",
-    "query": "Tasche",
-    "rank": 10,
-    "tweet_count": "1,772 Tweets"
-  },
-  {
     "name": "Kanye",
     "query": "Kanye",
+    "rank": 10,
+    "tweet_count": "686K Tweets"
+  },
+  {
+    "name": "Tasche",
+    "query": "Tasche",
     "rank": 11,
-    "tweet_count": "671K Tweets"
+    "tweet_count": "1,791 Tweets"
   },
   {
     "name": "Valentine's Day",
     "query": "\"Valentine's Day\"",
     "rank": 12,
-    "tweet_count": "912K Tweets"
-  },
-  {
-    "name": "Sonntagabend",
-    "query": "Sonntagabend",
-    "rank": 13,
-    "tweet_count": null
+    "tweet_count": "926K Tweets"
   },
   {
     "name": "Halbzeitshow",
     "query": "Halbzeitshow",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Sonntagabend",
+    "query": "Sonntagabend",
     "rank": 14,
     "tweet_count": null
   },
@@ -93,24 +93,24 @@
     "name": "Demon Slayer",
     "query": "\"Demon Slayer\"",
     "rank": 16,
-    "tweet_count": "169K Tweets"
+    "tweet_count": "172K Tweets"
   },
   {
     "name": "Steinmeier",
     "query": "Steinmeier",
     "rank": 17,
-    "tweet_count": "35.9K Tweets"
+    "tweet_count": "36.1K Tweets"
   },
   {
-    "name": "Freiburg",
-    "query": "Freiburg",
+    "name": "Clowns",
+    "query": "Clowns",
     "rank": 18,
-    "tweet_count": "1,050 Tweets"
+    "tweet_count": "19.9K Tweets"
   },
   {
-    "name": "Spalter",
-    "query": "Spalter",
+    "name": "Dresden",
+    "query": "Dresden",
     "rank": 19,
-    "tweet_count": "3,056 Tweets"
+    "tweet_count": "13.2K Tweets"
   }
 ]

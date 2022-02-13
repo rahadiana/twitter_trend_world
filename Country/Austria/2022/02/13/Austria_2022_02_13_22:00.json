@@ -6,22 +6,22 @@
     "tweet_count": null
   },
   {
+    "name": "#SuperBowl",
+    "query": "#SuperBowl",
+    "rank": 2,
+    "tweet_count": "364K Tweets"
+  },
+  {
     "name": "#zib2",
     "query": "#zib2",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
-    "name": "#SuperBowl",
-    "query": "#SuperBowl",
-    "rank": 3,
-    "tweet_count": "347K Tweets"
-  },
-  {
-    "name": "#Tatort",
-    "query": "#Tatort",
+    "name": "#KitchenImpossible",
+    "query": "#KitchenImpossible",
     "rank": 4,
-    "tweet_count": "1,835 Tweets"
+    "tweet_count": "1,024 Tweets"
   },
   {
     "name": "#pressestunde",
@@ -42,46 +42,46 @@
     "tweet_count": null
   },
   {
-    "name": "Schönen Sonntag",
-    "query": "\"Schönen Sonntag\"",
+    "name": "schönen sonntag",
+    "query": "\"schönen sonntag\"",
     "rank": 8,
-    "tweet_count": "5,603 Tweets"
+    "tweet_count": "5,607 Tweets"
+  },
+  {
+    "name": "Super Bowl",
+    "query": "\"Super Bowl\"",
+    "rank": 9,
+    "tweet_count": "629K Tweets"
   },
   {
     "name": "Kanye",
     "query": "Kanye",
-    "rank": 9,
-    "tweet_count": "672K Tweets"
+    "rank": 10,
+    "tweet_count": "686K Tweets"
   },
   {
     "name": "Ukraine",
     "query": "Ukraine",
-    "rank": 10,
-    "tweet_count": "497K Tweets"
+    "rank": 11,
+    "tweet_count": "502K Tweets"
   },
   {
     "name": "Schnitzel",
     "query": "Schnitzel",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Tests",
     "query": "Tests",
-    "rank": 12,
-    "tweet_count": "55.8K Tweets"
-  },
-  {
-    "name": "Valentine's Day",
-    "query": "\"Valentine's Day\"",
     "rank": 13,
-    "tweet_count": "913K Tweets"
+    "tweet_count": "56.4K Tweets"
   },
   {
     "name": "Valentinstag",
     "query": "Valentinstag",
     "rank": 14,
-    "tweet_count": "4,999 Tweets"
+    "tweet_count": "5,045 Tweets"
   },
   {
     "name": "Milliarde",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
+    "name": "Valentine's Day",
+    "query": "\"Valentine's Day\"",
+    "rank": 16,
+    "tweet_count": "927K Tweets"
+  },
+  {
     "name": "Triest",
     "query": "Triest",
-    "rank": 16,
-    "tweet_count": "1,346 Tweets"
+    "rank": 17,
+    "tweet_count": "1,357 Tweets"
   },
   {
     "name": "Schulen",
     "query": "Schulen",
-    "rank": 17,
-    "tweet_count": "10.9K Tweets"
+    "rank": 18,
+    "tweet_count": "11K Tweets"
   },
   {
     "name": "Putin",
     "query": "Putin",
-    "rank": 18,
-    "tweet_count": "268K Tweets"
+    "rank": 19,
+    "tweet_count": "271K Tweets"
   },
   {
     "name": "Ungarn",
     "query": "Ungarn",
-    "rank": 19,
-    "tweet_count": "1,550 Tweets"
-  },
-  {
-    "name": "Rudi",
-    "query": "Rudi",
     "rank": 20,
-    "tweet_count": "3,321 Tweets"
+    "tweet_count": "1,557 Tweets"
   }
 ]
