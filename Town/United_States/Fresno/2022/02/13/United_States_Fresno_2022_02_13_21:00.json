@@ -1,111 +1,111 @@
 [
   {
-    "name": "#GameDay",
-    "query": "#GameDay",
+    "name": "#WhoseHouse",
+    "query": "#WhoseHouse",
     "rank": 1,
-    "tweet_count": "3,242 Tweets"
-  },
-  {
-    "name": "#sweepstakes",
-    "query": "#sweepstakes",
-    "rank": 2,
-    "tweet_count": "25K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Jordan Love",
     "query": "\"Jordan Love\"",
-    "rank": 3,
-    "tweet_count": "3,869 Tweets"
-  },
-  {
-    "name": "#WhoseHouse",
-    "query": "#WhoseHouse",
-    "rank": 4,
-    "tweet_count": null
+    "rank": 2,
+    "tweet_count": "3,924 Tweets"
   },
   {
     "name": "#BeatLA",
     "query": "#BeatLA",
-    "rank": 5,
+    "rank": 3,
     "tweet_count": null
+  },
+  {
+    "name": "#Sweepstakes",
+    "query": "#Sweepstakes",
+    "rank": 4,
+    "tweet_count": "25.4K Tweets"
   },
   {
     "name": "Erin Jackson",
     "query": "\"Erin Jackson\"",
+    "rank": 5,
+    "tweet_count": "36.7K Tweets"
+  },
+  {
+    "name": "Inglewood",
+    "query": "Inglewood",
     "rank": 6,
-    "tweet_count": "36.3K Tweets"
+    "tweet_count": "11.8K Tweets"
   },
   {
     "name": "Gatorade",
     "query": "Gatorade",
     "rank": 7,
-    "tweet_count": "6,483 Tweets"
-  },
-  {
-    "name": "Wanda",
-    "query": "Wanda",
-    "rank": 8,
-    "tweet_count": "13.6K Tweets"
+    "tweet_count": "6,584 Tweets"
   },
   {
     "name": "#Wordle239",
     "query": "#Wordle239",
+    "rank": 8,
+    "tweet_count": "4,574 Tweets"
+  },
+  {
+    "name": "Wanda",
+    "query": "Wanda",
     "rank": 9,
-    "tweet_count": "4,555 Tweets"
+    "tweet_count": "13.8K Tweets"
   },
   {
-    "name": "Lombardi",
-    "query": "Lombardi",
+    "name": "#SuperBowl",
+    "query": "#SuperBowl",
     "rank": 10,
-    "tweet_count": "7,115 Tweets"
-  },
-  {
-    "name": "Goldie Hawn",
-    "query": "\"Goldie Hawn\"",
-    "rank": 11,
-    "tweet_count": "11.4K Tweets"
+    "tweet_count": "297K Tweets"
   },
   {
     "name": "Kanye",
     "query": "Kanye",
-    "rank": 12,
-    "tweet_count": "619K Tweets"
+    "rank": 11,
+    "tweet_count": "631K Tweets"
   },
   {
     "name": "Carson Wentz",
     "query": "\"Carson Wentz\"",
+    "rank": 12,
+    "tweet_count": "4,723 Tweets"
+  },
+  {
+    "name": "Odell",
+    "query": "Odell",
     "rank": 13,
-    "tweet_count": "4,602 Tweets"
+    "tweet_count": "10.5K Tweets"
   },
   {
     "name": "Kyler",
     "query": "Kyler",
     "rank": 14,
-    "tweet_count": "10.1K Tweets"
-  },
-  {
-    "name": "Jeff Skinner",
-    "query": "\"Jeff Skinner\"",
-    "rank": 15,
-    "tweet_count": "1,773 Tweets"
+    "tweet_count": "10.4K Tweets"
   },
   {
     "name": "Joey B",
     "query": "\"Joey B\"",
+    "rank": 15,
+    "tweet_count": "3,025 Tweets"
+  },
+  {
+    "name": "Jeff Skinner",
+    "query": "\"Jeff Skinner\"",
     "rank": 16,
-    "tweet_count": "2,926 Tweets"
+    "tweet_count": "1,803 Tweets"
   },
   {
     "name": "Durham",
     "query": "Durham",
     "rank": 17,
-    "tweet_count": "317K Tweets"
+    "tweet_count": "320K Tweets"
   },
   {
     "name": "Kelsey Grammer",
     "query": "\"Kelsey Grammer\"",
     "rank": 18,
-    "tweet_count": "4,524 Tweets"
+    "tweet_count": "4,652 Tweets"
   },
   {
     "name": "jaehyun",
@@ -117,6 +117,6 @@
     "name": "Jordan Peele",
     "query": "\"Jordan Peele\"",
     "rank": 20,
-    "tweet_count": "29K Tweets"
+    "tweet_count": "29.2K Tweets"
   }
 ]
