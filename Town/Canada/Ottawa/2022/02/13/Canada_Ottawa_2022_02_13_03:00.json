@@ -1,79 +1,79 @@
 [
   {
+    "name": "Denver",
+    "query": "Denver",
+    "rank": 1,
+    "tweet_count": "28.5K Tweets"
+  },
+  {
     "name": "Willy",
     "query": "Willy",
-    "rank": 1,
-    "tweet_count": "18.1K Tweets"
+    "rank": 2,
+    "tweet_count": "18.4K Tweets"
   },
   {
     "name": "#OttawaSiege",
     "query": "#OttawaSiege",
-    "rank": 2,
-    "tweet_count": "4,899 Tweets"
-  },
-  {
-    "name": "Jokic",
-    "query": "Jokic",
     "rank": 3,
-    "tweet_count": "9,770 Tweets"
+    "tweet_count": "5,083 Tweets"
   },
   {
-    "name": "Demko",
-    "query": "Demko",
+    "name": "#InventingAnna",
+    "query": "#InventingAnna",
     "rank": 4,
-    "tweet_count": "1,752 Tweets"
+    "tweet_count": "6,508 Tweets"
   },
   {
     "name": "#UFC271",
     "query": "#UFC271",
     "rank": 5,
-    "tweet_count": "87.4K Tweets"
+    "tweet_count": "97.2K Tweets"
   },
   {
-    "name": "Pascal",
-    "query": "Pascal",
+    "name": "Jokic",
+    "query": "Jokic",
     "rank": 6,
-    "tweet_count": "14.9K Tweets"
+    "tweet_count": "10.3K Tweets"
+  },
+  {
+    "name": "Demko",
+    "query": "Demko",
+    "rank": 7,
+    "tweet_count": "1,964 Tweets"
+  },
+  {
+    "name": "pascal",
+    "query": "pascal",
+    "rank": 8,
+    "tweet_count": "15.2K Tweets"
   },
   {
     "name": "Holl",
     "query": "Holl",
-    "rank": 7,
-    "tweet_count": "1,915 Tweets"
+    "rank": 9,
+    "tweet_count": "1,944 Tweets"
   },
   {
     "name": "Tavares",
     "query": "Tavares",
-    "rank": 8,
-    "tweet_count": "3,630 Tweets"
-  },
-  {
-    "name": "Nuggets",
-    "query": "Nuggets",
-    "rank": 9,
-    "tweet_count": "14.9K Tweets"
-  },
-  {
-    "name": "Cudi",
-    "query": "Cudi",
     "rank": 10,
-    "tweet_count": "70.5K Tweets"
+    "tweet_count": "3,698 Tweets"
+  },
+  {
+    "name": "Kanye",
+    "query": "Kanye",
+    "rank": 11,
+    "tweet_count": "179K Tweets"
   },
   {
     "name": "#TORvsVAN",
     "query": "#TORvsVAN",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "#DENvsTOR",
     "query": "#DENvsTOR",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "#GoJetsGo",
-    "query": "#GoJetsGo",
     "rank": 13,
     "tweet_count": null
   },
@@ -81,7 +81,7 @@
     "name": "Gettr",
     "query": "Gettr",
     "rank": 14,
-    "tweet_count": "30.1K Tweets"
+    "tweet_count": "30.7K Tweets"
   },
   {
     "name": "Mrazek",
@@ -90,8 +90,8 @@
     "tweet_count": null
   },
   {
-    "name": "Luke Schenn",
-    "query": "\"Luke Schenn\"",
+    "name": "luke schenn",
+    "query": "\"luke schenn\"",
     "rank": 16,
     "tweet_count": null
   },
@@ -99,13 +99,13 @@
     "name": "Veterans",
     "query": "Veterans",
     "rank": 17,
-    "tweet_count": "56.8K Tweets"
+    "tweet_count": "57.9K Tweets"
   },
   {
     "name": "Daily Quordle",
     "query": "\"Daily Quordle\"",
     "rank": 18,
-    "tweet_count": "6,408 Tweets"
+    "tweet_count": "6,586 Tweets"
   },
   {
     "name": "Pavel Zacha",
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "Dairy Queen",
-    "query": "\"Dairy Queen\"",
+    "name": "Roxy",
+    "query": "Roxy",
     "rank": 20,
-    "tweet_count": "2,520 Tweets"
+    "tweet_count": "9,894 Tweets"
   }
 ]
