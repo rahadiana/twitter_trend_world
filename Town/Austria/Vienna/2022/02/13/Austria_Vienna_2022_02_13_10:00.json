@@ -1,7 +1,7 @@
 [
   {
-    "name": "#Pressestunde",
-    "query": "#Pressestunde",
+    "name": "#pressestunde",
+    "query": "#pressestunde",
     "rank": 1,
     "tweet_count": null
   },
@@ -9,23 +9,23 @@
     "name": "Schönen Sonntag",
     "query": "\"Schönen Sonntag\"",
     "rank": 2,
-    "tweet_count": "3,507 Tweets"
+    "tweet_count": "3,759 Tweets"
   },
   {
     "name": "#w1202",
     "query": "#w1202",
     "rank": 3,
-    "tweet_count": "1,214 Tweets"
+    "tweet_count": "1,235 Tweets"
   },
   {
-    "name": "#scrrbs",
-    "query": "#scrrbs",
+    "name": "Pensionisten",
+    "query": "Pensionisten",
     "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "pensionisten",
-    "query": "pensionisten",
+    "name": "#scrrbs",
+    "query": "#scrrbs",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,7 +33,7 @@
     "name": "#BOCFCB",
     "query": "#BOCFCB",
     "rank": 6,
-    "tweet_count": "12.9K Tweets"
+    "tweet_count": "13K Tweets"
   },
   {
     "name": "#WSGSTU",
@@ -45,13 +45,13 @@
     "name": "Andreas",
     "query": "Andreas",
     "rank": 8,
-    "tweet_count": "42.5K Tweets"
+    "tweet_count": "42.7K Tweets"
   },
   {
     "name": "Ukraine",
     "query": "Ukraine",
     "rank": 9,
-    "tweet_count": "568K Tweets"
+    "tweet_count": "575K Tweets"
   },
   {
     "name": "schönen samstag",
@@ -60,63 +60,63 @@
     "tweet_count": null
   },
   {
-    "name": "Daumen",
-    "query": "Daumen",
-    "rank": 11,
-    "tweet_count": "1,635 Tweets"
-  },
-  {
     "name": "Biden",
     "query": "Biden",
-    "rank": 12,
-    "tweet_count": "474K Tweets"
-  },
-  {
-    "name": "Kanzler",
-    "query": "Kanzler",
-    "rank": 13,
-    "tweet_count": "2,027 Tweets"
+    "rank": 11,
+    "tweet_count": "477K Tweets"
   },
   {
     "name": "Ungarn",
     "query": "Ungarn",
-    "rank": 14,
-    "tweet_count": "1,255 Tweets"
-  },
-  {
-    "name": "Karl",
-    "query": "Karl",
-    "rank": 15,
-    "tweet_count": "40.3K Tweets"
+    "rank": 12,
+    "tweet_count": "1,298 Tweets"
   },
   {
     "name": "Kanye",
     "query": "Kanye",
-    "rank": 16,
-    "tweet_count": "277K Tweets"
+    "rank": 13,
+    "tweet_count": "283K Tweets"
+  },
+  {
+    "name": "Karl",
+    "query": "Karl",
+    "rank": 14,
+    "tweet_count": "41K Tweets"
   },
   {
     "name": "Mario",
     "query": "Mario",
-    "rank": 17,
-    "tweet_count": "102K Tweets"
+    "rank": 15,
+    "tweet_count": "103K Tweets"
   },
   {
     "name": "Demos",
     "query": "Demos",
-    "rank": 18,
-    "tweet_count": "9,476 Tweets"
+    "rank": 16,
+    "tweet_count": "9,576 Tweets"
   },
   {
     "name": "Besteck",
     "query": "Besteck",
-    "rank": 19,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Krone",
     "query": "Krone",
+    "rank": 18,
+    "tweet_count": "2,012 Tweets"
+  },
+  {
+    "name": "Russen",
+    "query": "Russen",
+    "rank": 19,
+    "tweet_count": "4,684 Tweets"
+  },
+  {
+    "name": "Daumen",
+    "query": "Daumen",
     "rank": 20,
-    "tweet_count": "1,957 Tweets"
+    "tweet_count": "1,660 Tweets"
   }
 ]
