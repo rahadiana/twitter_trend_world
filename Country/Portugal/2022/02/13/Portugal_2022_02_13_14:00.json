@@ -1,75 +1,75 @@
 [
   {
-    "name": "Porto",
-    "query": "Porto",
+    "name": "Lloris",
+    "query": "Lloris",
     "rank": 1,
-    "tweet_count": "33.2K Tweets"
+    "tweet_count": "3,995 Tweets"
   },
   {
     "name": "Porto",
     "query": "Porto",
     "rank": 2,
-    "tweet_count": "33.2K Tweets"
+    "tweet_count": "33.5K Tweets"
+  },
+  {
+    "name": "Porto",
+    "query": "Porto",
+    "rank": 3,
+    "tweet_count": "33.5K Tweets"
   },
   {
     "name": "Discord",
     "query": "Discord",
-    "rank": 3,
-    "tweet_count": "1.35M Tweets"
+    "rank": 4,
+    "tweet_count": "1.36M Tweets"
   },
   {
     "name": "Cudi",
     "query": "Cudi",
-    "rank": 4,
-    "tweet_count": "151K Tweets"
+    "rank": 5,
+    "tweet_count": "153K Tweets"
   },
   {
     "name": "Coates",
     "query": "Coates",
-    "rank": 5,
-    "tweet_count": "3,096 Tweets"
+    "rank": 6,
+    "tweet_count": "3,130 Tweets"
   },
   {
     "name": "Chelsea",
     "query": "Chelsea",
-    "rank": 6,
-    "tweet_count": "896K Tweets"
-  },
-  {
-    "name": "Varandas",
-    "query": "Varandas",
     "rank": 7,
-    "tweet_count": "4,835 Tweets"
+    "tweet_count": "899K Tweets"
   },
   {
     "name": "Rafael Leão",
     "query": "\"Rafael Leão\"",
     "rank": 8,
-    "tweet_count": "3,232 Tweets"
+    "tweet_count": "3,361 Tweets"
   },
   {
-    "name": "#ODDINARY",
-    "query": "#ODDINARY",
+    "name": "Tottenham",
+    "query": "Tottenham",
     "rank": 9,
-    "tweet_count": "179K Tweets"
+    "tweet_count": "20K Tweets"
+  },
+  {
+    "name": "Varandas",
+    "query": "Varandas",
+    "rank": 10,
+    "tweet_count": "4,846 Tweets"
   },
   {
     "name": "#amascara",
     "query": "#amascara",
-    "rank": 10,
-    "tweet_count": "1,343 Tweets"
-  },
-  {
-    "name": "Bayern",
-    "query": "Bayern",
     "rank": 11,
-    "tweet_count": "87.6K Tweets"
+    "tweet_count": "1,349 Tweets"
   },
   {
     "name": "Pinto da Costa",
     "query": "\"Pinto da Costa\"",
     "rank": 12,
-    "tweet_count": "3,345 Tweets"
+    "tweet_count": "3,382 Tweets"
   },
   {
     "name": "Fábio Vieira",
@@ -78,45 +78,45 @@
     "tweet_count": null
   },
   {
-    "name": "Bom Domingo",
-    "query": "\"Bom Domingo\"",
+    "name": "Bayern",
+    "query": "Bayern",
     "rank": 14,
-    "tweet_count": "10.9K Tweets"
+    "tweet_count": "88.1K Tweets"
   },
   {
-    "name": "Benfica",
-    "query": "Benfica",
+    "name": "#NotMeSeriesEP9",
+    "query": "#NotMeSeriesEP9",
     "rank": 15,
-    "tweet_count": "13.6K Tweets"
+    "tweet_count": "184K Tweets"
+  },
+  {
+    "name": "Bom Domingo",
+    "query": "\"Bom Domingo\"",
+    "rank": 16,
+    "tweet_count": "11.5K Tweets"
+  },
+  {
+    "name": "#ODDINARY",
+    "query": "#ODDINARY",
+    "rank": 17,
+    "tweet_count": "182K Tweets"
   },
   {
     "name": "Evanilson",
     "query": "Evanilson",
-    "rank": 16,
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Benfica",
+    "query": "Benfica",
+    "rank": 19,
+    "tweet_count": "13.7K Tweets"
   },
   {
     "name": "Bochum",
     "query": "Bochum",
-    "rank": 17,
-    "tweet_count": "31.3K Tweets"
-  },
-  {
-    "name": "Bruno de Carvalho",
-    "query": "\"Bruno de Carvalho\"",
-    "rank": 18,
-    "tweet_count": "2,208 Tweets"
-  },
-  {
-    "name": "#SuperBowl",
-    "query": "#SuperBowl",
-    "rank": 19,
-    "tweet_count": "116K Tweets"
-  },
-  {
-    "name": "Taarabt",
-    "query": "Taarabt",
     "rank": 20,
-    "tweet_count": "1,235 Tweets"
+    "tweet_count": "31.4K Tweets"
   }
 ]
