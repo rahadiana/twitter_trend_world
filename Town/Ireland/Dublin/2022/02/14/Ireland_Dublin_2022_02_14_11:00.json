@@ -1,51 +1,51 @@
 [
   {
-    "name": "#HalfTimeShow",
-    "query": "#HalfTimeShow",
+    "name": "#SuperBowl",
+    "query": "#SuperBowl",
     "rank": 1,
-    "tweet_count": "313K Tweets"
+    "tweet_count": "1.74M Tweets"
   },
   {
     "name": "#ValentinesDay2022",
     "query": "#ValentinesDay2022",
     "rank": 2,
-    "tweet_count": "408K Tweets"
+    "tweet_count": "417K Tweets"
+  },
+  {
+    "name": "#HalfTimeShow",
+    "query": "#HalfTimeShow",
+    "rank": 3,
+    "tweet_count": "313K Tweets"
   },
   {
     "name": "#Worldle",
     "query": "#Worldle",
-    "rank": 3,
-    "tweet_count": "27.7K Tweets"
+    "rank": 4,
+    "tweet_count": "27.9K Tweets"
   },
   {
     "name": "#irevfra",
     "query": "#irevfra",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "Kanye",
-    "query": "Kanye",
-    "rank": 5,
-    "tweet_count": "1.01M Tweets"
-  },
-  {
-    "name": "#SBLVI",
-    "query": "#SBLVI",
+    "name": "kanye",
+    "query": "kanye",
     "rank": 6,
-    "tweet_count": "418K Tweets"
+    "tweet_count": "1.01M Tweets"
   },
   {
     "name": "Ivan Reitman",
     "query": "\"Ivan Reitman\"",
     "rank": 7,
-    "tweet_count": "38.1K Tweets"
+    "tweet_count": "38.6K Tweets"
   },
   {
     "name": "Stafford",
     "query": "Stafford",
     "rank": 8,
-    "tweet_count": "296K Tweets"
+    "tweet_count": "297K Tweets"
   },
   {
     "name": "Aaron Donald",
@@ -54,22 +54,22 @@
     "tweet_count": "140K Tweets"
   },
   {
-    "name": "Kupp",
-    "query": "Kupp",
-    "rank": 10,
-    "tweet_count": "245K Tweets"
-  },
-  {
     "name": "Ukraine",
     "query": "Ukraine",
-    "rank": 11,
-    "tweet_count": "462K Tweets"
+    "rank": 10,
+    "tweet_count": "466K Tweets"
   },
   {
-    "name": "liam scales",
-    "query": "\"liam scales\"",
-    "rank": 12,
+    "name": "Liam Scales",
+    "query": "\"Liam Scales\"",
+    "rank": 11,
     "tweet_count": null
+  },
+  {
+    "name": "Vicky",
+    "query": "Vicky",
+    "rank": 12,
+    "tweet_count": "23K Tweets"
   },
   {
     "name": "Joe Burrow",
@@ -78,22 +78,22 @@
     "tweet_count": "197K Tweets"
   },
   {
-    "name": "Vicky",
-    "query": "Vicky",
+    "name": "Bowen",
+    "query": "Bowen",
     "rank": 14,
-    "tweet_count": "23K Tweets"
+    "tweet_count": "15.9K Tweets"
   },
   {
-    "name": "bowen",
-    "query": "bowen",
+    "name": "Euphoria",
+    "query": "Euphoria",
     "rank": 15,
-    "tweet_count": "15.9K Tweets"
+    "tweet_count": "939K Tweets"
   },
   {
     "name": "Daily Quordle",
     "query": "\"Daily Quordle\"",
     "rank": 16,
-    "tweet_count": "7,236 Tweets"
+    "tweet_count": "7,281 Tweets"
   },
   {
     "name": "Alisson",
@@ -102,21 +102,21 @@
     "tweet_count": "10.6K Tweets"
   },
   {
-    "name": "Trippier",
-    "query": "Trippier",
-    "rank": 18,
-    "tweet_count": "17.8K Tweets"
-  },
-  {
     "name": "Souness",
     "query": "Souness",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": "13.4K Tweets"
   },
   {
     "name": "Kilcoo",
     "query": "Kilcoo",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "Odell",
+    "query": "Odell",
+    "rank": 20,
+    "tweet_count": "201K Tweets"
   }
 ]
