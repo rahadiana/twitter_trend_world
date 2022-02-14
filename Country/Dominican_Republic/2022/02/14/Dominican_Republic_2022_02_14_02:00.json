@@ -3,37 +3,37 @@
     "name": "#SuperBowl",
     "query": "#SuperBowl",
     "rank": 1,
-    "tweet_count": "1.26M Tweets"
+    "tweet_count": "1.32M Tweets"
   },
   {
-    "name": "#HalfTimeShow2022",
-    "query": "#HalfTimeShow2022",
+    "name": "#HalfTimeShow",
+    "query": "#HalfTimeShow",
     "rank": 2,
-    "tweet_count": "6,388 Tweets"
+    "tweet_count": "250K Tweets"
+  },
+  {
+    "name": "#EuphoriaDay",
+    "query": "#EuphoriaDay",
+    "rank": 3,
+    "tweet_count": "14.5K Tweets"
   },
   {
     "name": "#GobiernoCombateAlzas",
     "query": "#GobiernoCombateAlzas",
-    "rank": 3,
-    "tweet_count": "1,053 Tweets"
-  },
-  {
-    "name": "Kanye",
-    "query": "Kanye",
     "rank": 4,
-    "tweet_count": "877K Tweets"
+    "tweet_count": "1,055 Tweets"
   },
   {
     "name": "Shakira",
     "query": "Shakira",
     "rank": 5,
-    "tweet_count": "32.8K Tweets"
+    "tweet_count": "34K Tweets"
   },
   {
-    "name": "#EuphoriaDay",
-    "query": "#EuphoriaDay",
+    "name": "Kanye",
+    "query": "Kanye",
     "rank": 6,
-    "tweet_count": "12.3K Tweets"
+    "tweet_count": "901K Tweets"
   },
   {
     "name": "#RecordemosALeonel",
@@ -45,43 +45,43 @@
     "name": "San Valentín",
     "query": "\"San Valentín\"",
     "rank": 8,
-    "tweet_count": "212K Tweets"
+    "tweet_count": "220K Tweets"
   },
   {
-    "name": "lebron",
-    "query": "lebron",
+    "name": "Lebron",
+    "query": "Lebron",
     "rank": 9,
-    "tweet_count": "204K Tweets"
+    "tweet_count": "207K Tweets"
   },
   {
     "name": "Ucrania",
     "query": "Ucrania",
     "rank": 10,
-    "tweet_count": "131K Tweets"
+    "tweet_count": "133K Tweets"
   },
   {
-    "name": "día mundial de la radio",
-    "query": "\"día mundial de la radio\"",
+    "name": "Día Mundial de la Radio",
+    "query": "\"Día Mundial de la Radio\"",
     "rank": 11,
-    "tweet_count": "12.1K Tweets"
-  },
-  {
-    "name": "Farruko",
-    "query": "Farruko",
-    "rank": 12,
-    "tweet_count": "12.4K Tweets"
-  },
-  {
-    "name": "Jordan",
-    "query": "Jordan",
-    "rank": 13,
-    "tweet_count": "145K Tweets"
+    "tweet_count": "12.2K Tweets"
   },
   {
     "name": "Michael Jackson",
     "query": "\"Michael Jackson\"",
+    "rank": 12,
+    "tweet_count": "24.9K Tweets"
+  },
+  {
+    "name": "Farruko",
+    "query": "Farruko",
+    "rank": 13,
+    "tweet_count": "12.5K Tweets"
+  },
+  {
+    "name": "Jordan",
+    "query": "Jordan",
     "rank": 14,
-    "tweet_count": "23.8K Tweets"
+    "tweet_count": "147K Tweets"
   },
   {
     "name": "US$759.3",
@@ -90,8 +90,8 @@
     "tweet_count": null
   },
   {
-    "name": "OMSA",
-    "query": "OMSA",
+    "name": "omsa",
+    "query": "omsa",
     "rank": 16,
     "tweet_count": null
   },
@@ -99,7 +99,7 @@
     "name": "El 13",
     "query": "\"El 13\"",
     "rank": 17,
-    "tweet_count": "150K Tweets"
+    "tweet_count": "152K Tweets"
   },
   {
     "name": "ver tu horóscopo completo",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "LeBron James",
-    "query": "\"LeBron James\"",
-    "rank": 19,
-    "tweet_count": "73.1K Tweets"
-  },
-  {
     "name": "Warriors",
     "query": "Warriors",
+    "rank": 19,
+    "tweet_count": "93.2K Tweets"
+  },
+  {
+    "name": "LeBron James",
+    "query": "\"LeBron James\"",
     "rank": 20,
-    "tweet_count": "92.7K Tweets"
+    "tweet_count": "73.9K Tweets"
   }
 ]
