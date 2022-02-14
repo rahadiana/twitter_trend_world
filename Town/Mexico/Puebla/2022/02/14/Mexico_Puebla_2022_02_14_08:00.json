@@ -1,21 +1,21 @@
 [
   {
+    "name": "#SuperBowl",
+    "query": "#SuperBowl",
+    "rank": 1,
+    "tweet_count": "1.69M Tweets"
+  },
+  {
     "name": "#Euphoria",
     "query": "#Euphoria",
-    "rank": 1,
-    "tweet_count": "507K Tweets"
+    "rank": 2,
+    "tweet_count": "513K Tweets"
   },
   {
     "name": "San Valentín",
     "query": "\"San Valentín\"",
-    "rank": 2,
-    "tweet_count": "323K Tweets"
-  },
-  {
-    "name": "#SuperBowl",
-    "query": "#SuperBowl",
     "rank": 3,
-    "tweet_count": "1.62M Tweets"
+    "tweet_count": "328K Tweets"
   },
   {
     "name": "#BatallaDeEliminación",
@@ -27,55 +27,55 @@
     "name": "#HalfTimeShow",
     "query": "#HalfTimeShow",
     "rank": 5,
-    "tweet_count": "304K Tweets"
+    "tweet_count": "306K Tweets"
   },
   {
     "name": "Texas",
     "query": "Texas",
     "rank": 6,
-    "tweet_count": "98.6K Tweets"
+    "tweet_count": "99.3K Tweets"
   },
   {
     "name": "José Ramón López Beltrán",
     "query": "\"José Ramón López Beltrán\"",
     "rank": 7,
-    "tweet_count": "277K Tweets"
+    "tweet_count": "278K Tweets"
   },
   {
-    "name": "Vidanta",
-    "query": "Vidanta",
+    "name": "Eminem",
+    "query": "Eminem",
     "rank": 8,
-    "tweet_count": "8,042 Tweets"
+    "tweet_count": "747K Tweets"
   },
   {
     "name": "Feliz 14",
     "query": "\"Feliz 14\"",
     "rank": 9,
-    "tweet_count": "15.4K Tweets"
+    "tweet_count": "15.6K Tweets"
   },
   {
     "name": "KEI Partners",
     "query": "\"KEI Partners\"",
     "rank": 10,
-    "tweet_count": "11.8K Tweets"
+    "tweet_count": "12.2K Tweets"
+  },
+  {
+    "name": "Vidanta",
+    "query": "Vidanta",
+    "rank": 11,
+    "tweet_count": "8,271 Tweets"
   },
   {
     "name": "Ernesto",
     "query": "Ernesto",
-    "rank": 11,
-    "tweet_count": "21.2K Tweets"
+    "rank": 12,
+    "tweet_count": "21.3K Tweets"
   },
   {
     "name": "Carolyn Adams",
     "query": "\"Carolyn Adams\"",
-    "rank": 12,
-    "tweet_count": "13.7K Tweets"
-  },
-  {
-    "name": "Anaya",
-    "query": "Anaya",
     "rank": 13,
-    "tweet_count": "14.1K Tweets"
+    "tweet_count": "14K Tweets"
   },
   {
     "name": "LVDC IS HERE",
@@ -84,39 +84,39 @@
     "tweet_count": "1,795 Tweets"
   },
   {
-    "name": "Asesor",
-    "query": "Asesor",
+    "name": "Anaya",
+    "query": "Anaya",
     "rank": 15,
-    "tweet_count": "27.4K Tweets"
+    "tweet_count": "14.3K Tweets"
   },
   {
-    "name": "Koke",
-    "query": "Koke",
+    "name": "koke",
+    "query": "koke",
     "rank": 16,
-    "tweet_count": "6,224 Tweets"
+    "tweet_count": "6,297 Tweets"
   },
   {
     "name": "#HalfTimeShow2022",
     "query": "#HalfTimeShow2022",
     "rank": 17,
-    "tweet_count": "9,558 Tweets"
+    "tweet_count": "9,597 Tweets"
+  },
+  {
+    "name": "Asesor",
+    "query": "Asesor",
+    "rank": 18,
+    "tweet_count": "27.8K Tweets"
   },
   {
     "name": "Doris",
     "query": "Doris",
-    "rank": 18,
-    "tweet_count": "5,067 Tweets"
-  },
-  {
-    "name": "Wanda",
-    "query": "Wanda",
     "rank": 19,
-    "tweet_count": "214K Tweets"
+    "tweet_count": "5,112 Tweets"
   },
   {
     "name": "Otro 14",
     "query": "\"Otro 14\"",
     "rank": 20,
-    "tweet_count": "9,885 Tweets"
+    "tweet_count": "9,965 Tweets"
   }
 ]
