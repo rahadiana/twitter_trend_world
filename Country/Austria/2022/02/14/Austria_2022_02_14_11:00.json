@@ -1,15 +1,15 @@
 [
   {
-    "name": "#SuperBowl",
-    "query": "#SuperBowl",
-    "rank": 1,
-    "tweet_count": "1.74M Tweets"
-  },
-  {
     "name": "Valentinstag",
     "query": "Valentinstag",
+    "rank": 1,
+    "tweet_count": "18.2K Tweets"
+  },
+  {
+    "name": "#SuperBowl",
+    "query": "#SuperBowl",
     "rank": 2,
-    "tweet_count": "17.8K Tweets"
+    "tweet_count": "1.75M Tweets"
   },
   {
     "name": "#imzentrum",
@@ -21,19 +21,19 @@
     "name": "#HalfTimeShow",
     "query": "#HalfTimeShow",
     "rank": 4,
-    "tweet_count": "313K Tweets"
+    "tweet_count": "314K Tweets"
   },
   {
     "name": "schönen sonntag",
     "query": "\"schönen sonntag\"",
     "rank": 5,
-    "tweet_count": "1,517 Tweets"
+    "tweet_count": "1,520 Tweets"
   },
   {
     "name": "Blumen",
     "query": "Blumen",
     "rank": 6,
-    "tweet_count": "1,842 Tweets"
+    "tweet_count": "1,884 Tweets"
   },
   {
     "name": "#ranNFLsuechtig",
@@ -45,7 +45,7 @@
     "name": "Tunnel",
     "query": "Tunnel",
     "rank": 8,
-    "tweet_count": "11.7K Tweets"
+    "tweet_count": "11.8K Tweets"
   },
   {
     "name": "#askska",
@@ -63,7 +63,7 @@
     "name": "Schulen",
     "query": "Schulen",
     "rank": 11,
-    "tweet_count": "10.8K Tweets"
+    "tweet_count": "10.9K Tweets"
   },
   {
     "name": "Pensionisten",
@@ -72,51 +72,51 @@
     "tweet_count": null
   },
   {
-    "name": "kanye",
-    "query": "kanye",
+    "name": "Kanye",
+    "query": "Kanye",
     "rank": 13,
     "tweet_count": "1.01M Tweets"
   },
   {
-    "name": "gesundheitssystem",
-    "query": "gesundheitssystem",
+    "name": "Ukraine",
+    "query": "Ukraine",
     "rank": 14,
-    "tweet_count": "3,387 Tweets"
+    "tweet_count": "469K Tweets"
   },
   {
     "name": "Wochenstart",
     "query": "Wochenstart",
     "rank": 15,
-    "tweet_count": "1,332 Tweets"
-  },
-  {
-    "name": "Ukraine",
-    "query": "Ukraine",
-    "rank": 16,
-    "tweet_count": "466K Tweets"
+    "tweet_count": "1,349 Tweets"
   },
   {
     "name": "Tests",
     "query": "Tests",
-    "rank": 17,
-    "tweet_count": "54K Tweets"
+    "rank": 16,
+    "tweet_count": "54.4K Tweets"
   },
   {
     "name": "Trailer",
     "query": "Trailer",
-    "rank": 18,
-    "tweet_count": "794K Tweets"
+    "rank": 17,
+    "tweet_count": "797K Tweets"
   },
   {
     "name": "Impfstoffe",
     "query": "Impfstoffe",
-    "rank": 19,
-    "tweet_count": "1,586 Tweets"
+    "rank": 18,
+    "tweet_count": "1,608 Tweets"
   },
   {
     "name": "Aussetzen",
     "query": "Aussetzen",
+    "rank": 19,
+    "tweet_count": "1,198 Tweets"
+  },
+  {
+    "name": "Frisur",
+    "query": "Frisur",
     "rank": 20,
-    "tweet_count": "1,186 Tweets"
+    "tweet_count": null
   }
 ]
