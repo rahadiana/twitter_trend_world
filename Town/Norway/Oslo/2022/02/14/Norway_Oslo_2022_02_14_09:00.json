@@ -3,17 +3,17 @@
     "name": "#SuperBowl",
     "query": "#SuperBowl",
     "rank": 1,
-    "tweet_count": "1.68M Tweets"
+    "tweet_count": "1.69M Tweets"
   },
   {
     "name": "#ValentinesDay",
     "query": "#ValentinesDay",
     "rank": 2,
-    "tweet_count": "246K Tweets"
+    "tweet_count": "259K Tweets"
   },
   {
-    "name": "Iversen",
-    "query": "Iversen",
+    "name": "iversen",
+    "query": "iversen",
     "rank": 3,
     "tweet_count": null
   },
@@ -27,7 +27,7 @@
     "name": "Kanye",
     "query": "Kanye",
     "rank": 5,
-    "tweet_count": "997K Tweets"
+    "tweet_count": "1M Tweets"
   },
   {
     "name": "Valnes",
@@ -42,22 +42,22 @@
     "tweet_count": null
   },
   {
-    "name": "lykkeland",
-    "query": "lykkeland",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "marte olsbu røiseland",
     "query": "\"marte olsbu røiseland\"",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "#Worldle",
     "query": "#Worldle",
+    "rank": 9,
+    "tweet_count": "27.7K Tweets"
+  },
+  {
+    "name": "Eminem",
+    "query": "Eminem",
     "rank": 10,
-    "tweet_count": "27.3K Tweets"
+    "tweet_count": "760K Tweets"
   },
   {
     "name": "Eckhoff",
@@ -69,7 +69,7 @@
     "name": "Tandrevold",
     "query": "Tandrevold",
     "rank": 12,
-    "tweet_count": "1,167 Tweets"
+    "tweet_count": "1,189 Tweets"
   },
   {
     "name": "Tiril",
@@ -81,17 +81,17 @@
     "name": "Viking",
     "query": "Viking",
     "rank": 14,
-    "tweet_count": "10.3K Tweets"
+    "tweet_count": "10.5K Tweets"
   },
   {
-    "name": "Conte",
-    "query": "Conte",
+    "name": "Nate",
+    "query": "Nate",
     "rank": 15,
-    "tweet_count": "42K Tweets"
+    "tweet_count": "317K Tweets"
   },
   {
-    "name": "golberg",
-    "query": "golberg",
+    "name": "Golberg",
+    "query": "Golberg",
     "rank": 16,
     "tweet_count": null
   },
@@ -99,18 +99,18 @@
     "name": "Thiago",
     "query": "Thiago",
     "rank": 17,
-    "tweet_count": "58.7K Tweets"
-  },
-  {
-    "name": "lindvik",
-    "query": "lindvik",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "59K Tweets"
   },
   {
     "name": "Burnley",
     "query": "Burnley",
+    "rank": 18,
+    "tweet_count": "52.6K Tweets"
+  },
+  {
+    "name": "Lundby",
+    "query": "Lundby",
     "rank": 19,
-    "tweet_count": "52.2K Tweets"
+    "tweet_count": null
   }
 ]
