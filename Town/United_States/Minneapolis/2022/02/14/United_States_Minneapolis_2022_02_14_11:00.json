@@ -1,87 +1,87 @@
 [
   {
-    "name": "#SuperBowl",
-    "query": "#SuperBowl",
-    "rank": 1,
-    "tweet_count": "1.75M Tweets"
-  },
-  {
     "name": "#HalfTimeShow",
     "query": "#HalfTimeShow",
-    "rank": 2,
-    "tweet_count": "314K Tweets"
+    "rank": 1,
+    "tweet_count": "315K Tweets"
   },
   {
     "name": "Eminem",
     "query": "Eminem",
-    "rank": 3,
-    "tweet_count": "789K Tweets"
+    "rank": 2,
+    "tweet_count": "793K Tweets"
   },
   {
     "name": "Stafford",
     "query": "Stafford",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": "297K Tweets"
   },
   {
     "name": "Prince",
     "query": "Prince",
-    "rank": 5,
-    "tweet_count": "265K Tweets"
+    "rank": 4,
+    "tweet_count": "268K Tweets"
   },
   {
     "name": "Valentines Day",
     "query": "\"Valentines Day\"",
-    "rank": 6,
-    "tweet_count": "934K Tweets"
+    "rank": 5,
+    "tweet_count": "949K Tweets"
   },
   {
     "name": "#Euphoria",
     "query": "#Euphoria",
+    "rank": 6,
+    "tweet_count": "564K Tweets"
+  },
+  {
+    "name": "#MondayMotivation",
+    "query": "#MondayMotivation",
     "rank": 7,
-    "tweet_count": "561K Tweets"
+    "tweet_count": "36.9K Tweets"
   },
   {
     "name": "#Wordle240",
     "query": "#Wordle240",
     "rank": 8,
-    "tweet_count": "2,823 Tweets"
+    "tweet_count": "2,884 Tweets"
   },
   {
-    "name": "#MondayMotivation",
-    "query": "#MondayMotivation",
+    "name": "#VenmoItForward",
+    "query": "#VenmoItForward",
     "rank": 9,
-    "tweet_count": "35.9K Tweets"
-  },
-  {
-    "name": "taeyeon",
-    "query": "taeyeon",
-    "rank": 10,
-    "tweet_count": "222K Tweets"
-  },
-  {
-    "name": "Eli Apple",
-    "query": "\"Eli Apple\"",
-    "rank": 11,
-    "tweet_count": "190K Tweets"
+    "tweet_count": "18.2K Tweets"
   },
   {
     "name": "Ivan Reitman",
     "query": "\"Ivan Reitman\"",
-    "rank": 12,
-    "tweet_count": "39.1K Tweets"
+    "rank": 10,
+    "tweet_count": "39.7K Tweets"
   },
   {
-    "name": "Aaron Donald",
-    "query": "\"Aaron Donald\"",
-    "rank": 13,
-    "tweet_count": "141K Tweets"
+    "name": "taeyeon",
+    "query": "taeyeon",
+    "rank": 11,
+    "tweet_count": "227K Tweets"
+  },
+  {
+    "name": "Eli Apple",
+    "query": "\"Eli Apple\"",
+    "rank": 12,
+    "tweet_count": "190K Tweets"
   },
   {
     "name": "HAPPY BIRTHDAY PATCHES",
     "query": "\"HAPPY BIRTHDAY PATCHES\"",
+    "rank": 13,
+    "tweet_count": "3,023 Tweets"
+  },
+  {
+    "name": "Kamila Valieva",
+    "query": "\"Kamila Valieva\"",
     "rank": 14,
-    "tweet_count": "2,922 Tweets"
+    "tweet_count": "16.7K Tweets"
   },
   {
     "name": "Kupp",
@@ -90,33 +90,33 @@
     "tweet_count": "246K Tweets"
   },
   {
-    "name": "Kamila Valieva",
-    "query": "\"Kamila Valieva\"",
-    "rank": 16,
-    "tweet_count": "16.3K Tweets"
-  },
-  {
     "name": "24 X",
     "query": "\"24 X\"",
-    "rank": 17,
-    "tweet_count": "103K Tweets"
-  },
-  {
-    "name": "Donald",
-    "query": "Donald",
-    "rank": 18,
-    "tweet_count": "325K Tweets"
+    "rank": 16,
+    "tweet_count": "104K Tweets"
   },
   {
     "name": "Charlie Kirk",
     "query": "\"Charlie Kirk\"",
-    "rank": 19,
-    "tweet_count": "15.4K Tweets"
+    "rank": 17,
+    "tweet_count": "15.6K Tweets"
   },
   {
-    "name": "Happy Love",
-    "query": "\"Happy Love\"",
+    "name": "Aaron Donald",
+    "query": "\"Aaron Donald\"",
+    "rank": 18,
+    "tweet_count": "141K Tweets"
+  },
+  {
+    "name": "Apink",
+    "query": "Apink",
+    "rank": 19,
+    "tweet_count": "153K Tweets"
+  },
+  {
+    "name": "Carri Richardson",
+    "query": "\"Carri Richardson\"",
     "rank": 20,
-    "tweet_count": "683K Tweets"
+    "tweet_count": null
   }
 ]
