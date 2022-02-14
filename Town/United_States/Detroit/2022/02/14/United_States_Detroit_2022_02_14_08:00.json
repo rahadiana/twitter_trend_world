@@ -1,122 +1,122 @@
 [
   {
+    "name": "#SuperBowl",
+    "query": "#SuperBowl",
+    "rank": 1,
+    "tweet_count": "1.62M Tweets"
+  },
+  {
     "name": "Detroit Lions",
     "query": "\"Detroit Lions\"",
-    "rank": 1,
-    "tweet_count": "9,134 Tweets"
+    "rank": 2,
+    "tweet_count": "9,166 Tweets"
   },
   {
     "name": "Matthew",
     "query": "Matthew",
-    "rank": 2,
-    "tweet_count": "127K Tweets"
-  },
-  {
-    "name": "#OnePride",
-    "query": "#OnePride",
     "rank": 3,
-    "tweet_count": "1,523 Tweets"
+    "tweet_count": "127K Tweets"
   },
   {
     "name": "#Euphoria",
     "query": "#Euphoria",
     "rank": 4,
-    "tweet_count": "514K Tweets"
-  },
-  {
-    "name": "Superbowl",
-    "query": "Superbowl",
-    "rank": 5,
-    "tweet_count": "2M Tweets"
+    "tweet_count": "517K Tweets"
   },
   {
     "name": "Eli Apple",
     "query": "\"Eli Apple\"",
+    "rank": 5,
+    "tweet_count": "185K Tweets"
+  },
+  {
+    "name": "Valentines Day",
+    "query": "\"Valentines Day\"",
     "rank": 6,
-    "tweet_count": "184K Tweets"
+    "tweet_count": "803K Tweets"
   },
   {
     "name": "#VenmoItForward",
     "query": "#VenmoItForward",
     "rank": 7,
-    "tweet_count": "15.7K Tweets"
-  },
-  {
-    "name": "Aaron Donald",
-    "query": "\"Aaron Donald\"",
-    "rank": 8,
-    "tweet_count": "138K Tweets"
+    "tweet_count": "15.8K Tweets"
   },
   {
     "name": "#HalfTimeShow",
     "query": "#HalfTimeShow",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": "306K Tweets"
   },
   {
-    "name": "Valentines Day",
-    "query": "\"Valentines Day\"",
-    "rank": 10,
-    "tweet_count": "793K Tweets"
+    "name": "Aaron Donald",
+    "query": "\"Aaron Donald\"",
+    "rank": 9,
+    "tweet_count": "139K Tweets"
   },
   {
     "name": "Kupp",
     "query": "Kupp",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": "242K Tweets"
-  },
-  {
-    "name": "Donald",
-    "query": "Donald",
-    "rank": 12,
-    "tweet_count": "325K Tweets"
   },
   {
     "name": "Wordle 240 X",
     "query": "\"Wordle 240 X\"",
-    "rank": 13,
-    "tweet_count": "4,133 Tweets"
+    "rank": 11,
+    "tweet_count": "4,186 Tweets"
   },
   {
     "name": "Ivan Reitman",
     "query": "\"Ivan Reitman\"",
-    "rank": 14,
-    "tweet_count": "31.5K Tweets"
+    "rank": 12,
+    "tweet_count": "32.1K Tweets"
   },
   {
     "name": "Prince",
     "query": "Prince",
-    "rank": 15,
-    "tweet_count": "248K Tweets"
+    "rank": 13,
+    "tweet_count": "250K Tweets"
   },
   {
     "name": "Odell",
     "query": "Odell",
-    "rank": 16,
-    "tweet_count": "198K Tweets"
+    "rank": 14,
+    "tweet_count": "199K Tweets"
   },
   {
     "name": "Ramsey",
     "query": "Ramsey",
-    "rank": 17,
+    "rank": 15,
     "tweet_count": "103K Tweets"
   },
   {
     "name": "Matthew Stafford",
     "query": "\"Matthew Stafford\"",
-    "rank": 18,
-    "tweet_count": "92.5K Tweets"
+    "rank": 16,
+    "tweet_count": "92.7K Tweets"
   },
   {
     "name": "Charlie Kirk",
     "query": "\"Charlie Kirk\"",
-    "rank": 19,
-    "tweet_count": "14K Tweets"
+    "rank": 17,
+    "tweet_count": "14.1K Tweets"
+  },
+  {
+    "name": "#Worldle",
+    "query": "#Worldle",
+    "rank": 18,
+    "tweet_count": "27.4K Tweets"
   },
   {
     "name": "Burrow",
     "query": "Burrow",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": "303K Tweets"
+  },
+  {
+    "name": "Detroit",
+    "query": "Detroit",
+    "rank": 20,
+    "tweet_count": "69.8K Tweets"
   }
 ]
