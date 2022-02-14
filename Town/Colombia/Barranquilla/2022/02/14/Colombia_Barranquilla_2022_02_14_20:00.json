@@ -1,15 +1,15 @@
 [
   {
-    "name": "San Valentín",
-    "query": "\"San Valentín\"",
-    "rank": 1,
-    "tweet_count": "690K Tweets"
-  },
-  {
     "name": "Paola Ochoa",
     "query": "\"Paola Ochoa\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "San Valentín",
+    "query": "\"San Valentín\"",
+    "rank": 2,
+    "tweet_count": "704K Tweets"
   },
   {
     "name": "#VivoElFutbolConCafam",
@@ -21,19 +21,19 @@
     "name": "Caloto",
     "query": "Caloto",
     "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "#pelaezdefranciscoenlaw",
-    "query": "#pelaezdefranciscoenlaw",
-    "rank": 5,
-    "tweet_count": null
+    "tweet_count": "1,154 Tweets"
   },
   {
     "name": "Teodora",
     "query": "Teodora",
+    "rank": 5,
+    "tweet_count": "47.9K Tweets"
+  },
+  {
+    "name": "#PelaezdeFranciscoenLaW",
+    "query": "#PelaezdeFranciscoenLaW",
     "rank": 6,
-    "tweet_count": "46.7K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#ElColorIncompleto",
@@ -42,14 +42,14 @@
     "tweet_count": null
   },
   {
-    "name": "Enrique Vives",
-    "query": "\"Enrique Vives\"",
+    "name": "#CodiciaUribista",
+    "query": "#CodiciaUribista",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "#EsEscalofriante",
-    "query": "#EsEscalofriante",
+    "name": "Enrique Vives",
+    "query": "\"Enrique Vives\"",
     "rank": 9,
     "tweet_count": null
   },
@@ -57,25 +57,25 @@
     "name": "Crecimiento",
     "query": "Crecimiento",
     "rank": 10,
-    "tweet_count": "22K Tweets"
+    "tweet_count": "22.5K Tweets"
+  },
+  {
+    "name": "Jaime",
+    "query": "Jaime",
+    "rank": 11,
+    "tweet_count": "27.8K Tweets"
   },
   {
     "name": "Fabi Ou",
     "query": "\"Fabi Ou\"",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "FIFA",
-    "query": "FIFA",
     "rank": 12,
-    "tweet_count": "39.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Registraduría",
     "query": "Registraduría",
     "rank": 13,
-    "tweet_count": "33.2K Tweets"
+    "tweet_count": "34K Tweets"
   },
   {
     "name": "Pirry",
@@ -84,33 +84,33 @@
     "tweet_count": null
   },
   {
-    "name": "Raúl Reyes",
-    "query": "\"Raúl Reyes\"",
+    "name": "FIFA",
+    "query": "FIFA",
     "rank": 15,
-    "tweet_count": "10.2K Tweets"
-  },
-  {
-    "name": "Santrich",
-    "query": "Santrich",
-    "rank": 16,
-    "tweet_count": "1,373 Tweets"
+    "tweet_count": "40.5K Tweets"
   },
   {
     "name": "OTAN",
     "query": "OTAN",
+    "rank": 16,
+    "tweet_count": "28.8K Tweets"
+  },
+  {
+    "name": "Raúl Reyes",
+    "query": "\"Raúl Reyes\"",
     "rank": 17,
-    "tweet_count": "28.2K Tweets"
+    "tweet_count": "10.4K Tweets"
+  },
+  {
+    "name": "Santrich",
+    "query": "Santrich",
+    "rank": 18,
+    "tweet_count": "1,428 Tweets"
   },
   {
     "name": "Feliz 14",
     "query": "\"Feliz 14\"",
-    "rank": 18,
-    "tweet_count": "42.8K Tweets"
-  },
-  {
-    "name": "Iván Cepeda",
-    "query": "\"Iván Cepeda\"",
     "rank": 19,
-    "tweet_count": "2,862 Tweets"
+    "tweet_count": "43.7K Tweets"
   }
 ]
