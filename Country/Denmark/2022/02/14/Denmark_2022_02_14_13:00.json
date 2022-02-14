@@ -3,25 +3,25 @@
     "name": "#SuperBowl",
     "query": "#SuperBowl",
     "rank": 1,
-    "tweet_count": "1.77M Tweets"
+    "tweet_count": "1.78M Tweets"
   },
   {
-    "name": "#borgen",
-    "query": "#borgen",
+    "name": "#Borgen",
+    "query": "#Borgen",
     "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "Rams",
-    "query": "Rams",
-    "rank": 3,
-    "tweet_count": "1.02M Tweets"
-  },
-  {
     "name": "Valentine's Day",
     "query": "\"Valentine's Day\"",
+    "rank": 3,
+    "tweet_count": "1.41M Tweets"
+  },
+  {
+    "name": "Rams",
+    "query": "Rams",
     "rank": 4,
-    "tweet_count": "1.35M Tweets"
+    "tweet_count": "1.02M Tweets"
   },
   {
     "name": "#nfldk",
@@ -42,8 +42,8 @@
     "tweet_count": "419K Tweets"
   },
   {
-    "name": "#totwol",
-    "query": "#totwol",
+    "name": "#TOTWOL",
+    "query": "#TOTWOL",
     "rank": 8,
     "tweet_count": "11.8K Tweets"
   },
@@ -51,31 +51,31 @@
     "name": "Uber",
     "query": "Uber",
     "rank": 9,
-    "tweet_count": "60.1K Tweets"
-  },
-  {
-    "name": "Eminem",
-    "query": "Eminem",
-    "rank": 10,
-    "tweet_count": "825K Tweets"
+    "tweet_count": "60.6K Tweets"
   },
   {
     "name": "Kanye",
     "query": "Kanye",
-    "rank": 11,
-    "tweet_count": "1.02M Tweets"
+    "rank": 10,
+    "tweet_count": "1.03M Tweets"
   },
   {
-    "name": "Arbejdsretten",
-    "query": "Arbejdsretten",
-    "rank": 12,
+    "name": "arbejdsretten",
+    "query": "arbejdsretten",
+    "rank": 11,
     "tweet_count": null
+  },
+  {
+    "name": "Snoop",
+    "query": "Snoop",
+    "rank": 12,
+    "tweet_count": "354K Tweets"
   },
   {
     "name": "Kendrick",
     "query": "Kendrick",
     "rank": 13,
-    "tweet_count": "298K Tweets"
+    "tweet_count": "299K Tweets"
   },
   {
     "name": "fogh",
@@ -87,7 +87,7 @@
     "name": "Stafford",
     "query": "Stafford",
     "rank": 15,
-    "tweet_count": "302K Tweets"
+    "tweet_count": "303K Tweets"
   },
   {
     "name": "West Ham",
@@ -99,24 +99,24 @@
     "name": "Barcelona",
     "query": "Barcelona",
     "rank": 17,
-    "tweet_count": "92.8K Tweets"
+    "tweet_count": "93.4K Tweets"
   },
   {
     "name": "Juve",
     "query": "Juve",
     "rank": 18,
-    "tweet_count": "24.2K Tweets"
-  },
-  {
-    "name": "Wolves",
-    "query": "Wolves",
-    "rank": 19,
-    "tweet_count": "85.9K Tweets"
+    "tweet_count": "24.3K Tweets"
   },
   {
     "name": "Dane",
     "query": "Dane",
+    "rank": 19,
+    "tweet_count": "11.2K Tweets"
+  },
+  {
+    "name": "Espanyol",
+    "query": "Espanyol",
     "rank": 20,
-    "tweet_count": "11.1K Tweets"
+    "tweet_count": "59.7K Tweets"
   }
 ]
