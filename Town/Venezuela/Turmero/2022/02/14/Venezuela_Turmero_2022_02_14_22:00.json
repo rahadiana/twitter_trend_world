@@ -1,43 +1,43 @@
 [
   {
-    "name": "#14Feb",
-    "query": "#14Feb",
-    "rank": 1,
-    "tweet_count": "102K Tweets"
-  },
-  {
     "name": "Doris Wells",
     "query": "\"Doris Wells\"",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "#14Feb",
+    "query": "#14Feb",
     "rank": 2,
+    "tweet_count": "103K Tweets"
+  },
+  {
+    "name": "San Valentín",
+    "query": "\"San Valentín\"",
+    "rank": 3,
+    "tweet_count": "771K Tweets"
+  },
+  {
+    "name": "Marina Baura",
+    "query": "\"Marina Baura\"",
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "#SomosPuebloDeAmor",
     "query": "#SomosPuebloDeAmor",
-    "rank": 3,
-    "tweet_count": "110K Tweets"
-  },
-  {
-    "name": "San Valentín",
-    "query": "\"San Valentín\"",
-    "rank": 4,
-    "tweet_count": "761K Tweets"
-  },
-  {
-    "name": "Marina Baura",
-    "query": "\"Marina Baura\"",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "111K Tweets"
   },
   {
     "name": "Gilberto Correa",
     "query": "\"Gilberto Correa\"",
     "rank": 6,
-    "tweet_count": "1,033 Tweets"
+    "tweet_count": "1,086 Tweets"
   },
   {
-    "name": "Daniel Santos",
-    "query": "\"Daniel Santos\"",
+    "name": "daniel santos",
+    "query": "\"daniel santos\"",
     "rank": 7,
     "tweet_count": null
   },
@@ -45,30 +45,36 @@
     "name": "Macri",
     "query": "Macri",
     "rank": 8,
-    "tweet_count": "34.6K Tweets"
+    "tweet_count": "35.1K Tweets"
+  },
+  {
+    "name": "#DiaDelAmorYlaAmistad",
+    "query": "#DiaDelAmorYlaAmistad",
+    "rank": 9,
+    "tweet_count": "38.2K Tweets"
   },
   {
     "name": "#DiaDeLosEnamorados",
     "query": "#DiaDeLosEnamorados",
-    "rank": 9,
-    "tweet_count": "22K Tweets"
+    "rank": 10,
+    "tweet_count": "22.3K Tweets"
   },
   {
     "name": "Sahara",
     "query": "Sahara",
-    "rank": 10,
-    "tweet_count": "13.3K Tweets"
+    "rank": 11,
+    "tweet_count": "13.4K Tweets"
   },
   {
     "name": "Torrejas",
     "query": "Torrejas",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "OTAN",
     "query": "OTAN",
-    "rank": 12,
-    "tweet_count": "30.3K Tweets"
+    "rank": 13,
+    "tweet_count": "30.8K Tweets"
   }
 ]
