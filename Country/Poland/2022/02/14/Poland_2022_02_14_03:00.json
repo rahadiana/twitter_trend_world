@@ -1,39 +1,39 @@
 [
   {
-    "name": "#NFLpl",
-    "query": "#NFLpl",
+    "name": "#SuperBowl",
+    "query": "#SuperBowl",
     "rank": 1,
-    "tweet_count": "1,025 Tweets"
+    "tweet_count": "1.32M Tweets"
   },
   {
     "name": "#SuperBowl",
     "query": "#SuperBowl",
     "rank": 2,
-    "tweet_count": "1.3M Tweets"
+    "tweet_count": "1.32M Tweets"
+  },
+  {
+    "name": "#NFLpl",
+    "query": "#NFLpl",
+    "rank": 3,
+    "tweet_count": "1,028 Tweets"
   },
   {
     "name": "#LEGWAR",
     "query": "#LEGWAR",
-    "rank": 3,
-    "tweet_count": "2,366 Tweets"
+    "rank": 4,
+    "tweet_count": "2,367 Tweets"
   },
   {
     "name": "#MultiverseOfMadness",
     "query": "#MultiverseOfMadness",
-    "rank": 4,
-    "tweet_count": "179K Tweets"
-  },
-  {
-    "name": "#Euphoria",
-    "query": "#Euphoria",
     "rank": 5,
-    "tweet_count": "276K Tweets"
+    "tweet_count": "183K Tweets"
   },
   {
     "name": "Legia",
     "query": "Legia",
     "rank": 6,
-    "tweet_count": "3,623 Tweets"
+    "tweet_count": "3,625 Tweets"
   },
   {
     "name": "Warty",
@@ -51,7 +51,7 @@
     "name": "Gula",
     "query": "Gula",
     "rank": 9,
-    "tweet_count": "4,703 Tweets"
+    "tweet_count": "4,743 Tweets"
   },
   {
     "name": "Brzęczek",
@@ -69,19 +69,19 @@
     "name": "Kanye",
     "query": "Kanye",
     "rank": 12,
-    "tweet_count": "929K Tweets"
+    "tweet_count": "940K Tweets"
   },
   {
     "name": "Ukrainy",
     "query": "Ukrainy",
     "rank": 13,
-    "tweet_count": "5,674 Tweets"
+    "tweet_count": "5,685 Tweets"
   },
   {
     "name": "Josue",
     "query": "Josue",
     "rank": 14,
-    "tweet_count": "5,067 Tweets"
+    "tweet_count": "5,124 Tweets"
   },
   {
     "name": "guli",
@@ -99,7 +99,7 @@
     "name": "Sasin",
     "query": "Sasin",
     "rank": 17,
-    "tweet_count": "2,182 Tweets"
+    "tweet_count": "2,190 Tweets"
   },
   {
     "name": "sobol",
@@ -111,12 +111,12 @@
     "name": "Walentynki",
     "query": "Walentynki",
     "rank": 19,
-    "tweet_count": "7,859 Tweets"
+    "tweet_count": "7,868 Tweets"
   },
   {
     "name": "Valentine's Day",
     "query": "\"Valentine's Day\"",
     "rank": 20,
-    "tweet_count": "1.45M Tweets"
+    "tweet_count": "1.43M Tweets"
   }
 ]
