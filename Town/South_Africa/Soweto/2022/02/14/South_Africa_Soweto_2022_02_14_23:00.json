@@ -1,110 +1,86 @@
 [
   {
+    "name": "Venus",
+    "query": "Venus",
+    "rank": 1,
+    "tweet_count": "47.2K Tweets"
+  },
+  {
     "name": "Mogoeng Mogoeng",
     "query": "\"Mogoeng Mogoeng\"",
-    "rank": 1,
-    "tweet_count": "13.9K Tweets"
+    "rank": 2,
+    "tweet_count": "14.1K Tweets"
   },
   {
     "name": "#ComeShelaWithMrD",
     "query": "#ComeShelaWithMrD",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": "1,485 Tweets"
   },
   {
     "name": "Gash1",
     "query": "Gash1",
-    "rank": 3,
-    "tweet_count": "1,594 Tweets"
-  },
-  {
-    "name": "#dstvprem",
-    "query": "#dstvprem",
     "rank": 4,
-    "tweet_count": "2,017 Tweets"
+    "tweet_count": "9,201 Tweets"
   },
   {
     "name": "Baroka",
     "query": "Baroka",
     "rank": 5,
-    "tweet_count": "3,394 Tweets"
+    "tweet_count": "3,400 Tweets"
   },
   {
     "name": "Thato",
     "query": "Thato",
     "rank": 6,
-    "tweet_count": "10.3K Tweets"
-  },
-  {
-    "name": "Sundowns",
-    "query": "Sundowns",
-    "rank": 7,
-    "tweet_count": "4,676 Tweets"
+    "tweet_count": "10.4K Tweets"
   },
   {
     "name": "#PowerToTruth",
     "query": "#PowerToTruth",
-    "rank": 8,
-    "tweet_count": "1,335 Tweets"
+    "rank": 7,
+    "tweet_count": "1,344 Tweets"
   },
   {
-    "name": "Mbulu",
-    "query": "Mbulu",
-    "rank": 9,
-    "tweet_count": null
+    "name": "Sundowns",
+    "query": "Sundowns",
+    "rank": 8,
+    "tweet_count": "4,685 Tweets"
   },
   {
     "name": "Lerato Kganyago",
     "query": "\"Lerato Kganyago\"",
-    "rank": 10,
-    "tweet_count": "16.2K Tweets"
-  },
-  {
-    "name": "Venus",
-    "query": "Venus",
-    "rank": 11,
-    "tweet_count": "46.5K Tweets"
+    "rank": 9,
+    "tweet_count": "16.3K Tweets"
   },
   {
     "name": "Zino",
     "query": "Zino",
-    "rank": 12,
-    "tweet_count": "5,932 Tweets"
+    "rank": 10,
+    "tweet_count": "5,954 Tweets"
   },
   {
     "name": "Nthabi",
     "query": "Nthabi",
-    "rank": 13,
-    "tweet_count": "4,607 Tweets"
+    "rank": 11,
+    "tweet_count": "4,628 Tweets"
   },
   {
-    "name": "Vyno",
-    "query": "Vyno",
-    "rank": 14,
-    "tweet_count": "7,824 Tweets"
-  },
-  {
-    "name": "Onyango",
-    "query": "Onyango",
-    "rank": 15,
-    "tweet_count": "1,791 Tweets"
-  },
-  {
-    "name": "#SONADebate",
-    "query": "#SONADebate",
-    "rank": 16,
-    "tweet_count": "6,649 Tweets"
+    "name": "#sonadebate",
+    "query": "#sonadebate",
+    "rank": 12,
+    "tweet_count": "6,664 Tweets"
   },
   {
     "name": "#GhostNation",
     "query": "#GhostNation",
-    "rank": 17,
+    "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "#RIPCitiLyts",
-    "query": "#RIPCitiLyts",
-    "rank": 18,
-    "tweet_count": "1,505 Tweets"
+    "name": "#ripcitilyts",
+    "query": "#ripcitilyts",
+    "rank": 14,
+    "tweet_count": "1,520 Tweets"
   }
 ]
