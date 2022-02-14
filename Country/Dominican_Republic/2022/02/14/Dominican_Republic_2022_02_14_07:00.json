@@ -1,57 +1,57 @@
 [
   {
-    "name": "#SuperBowl",
-    "query": "#SuperBowl",
+    "name": "#HalfTimeShow",
+    "query": "#HalfTimeShow",
     "rank": 1,
-    "tweet_count": "1.49M Tweets"
-  },
-  {
-    "name": "#SuperBowl",
-    "query": "#SuperBowl",
-    "rank": 2,
-    "tweet_count": "1.49M Tweets"
+    "tweet_count": "301K Tweets"
   },
   {
     "name": "#Euphoria",
     "query": "#Euphoria",
-    "rank": 3,
-    "tweet_count": "482K Tweets"
+    "rank": 2,
+    "tweet_count": "491K Tweets"
   },
   {
     "name": "San Valentín",
     "query": "\"San Valentín\"",
-    "rank": 4,
-    "tweet_count": "312K Tweets"
+    "rank": 3,
+    "tweet_count": "316K Tweets"
   },
   {
     "name": "Kanye",
     "query": "Kanye",
-    "rank": 5,
-    "tweet_count": "984K Tweets"
+    "rank": 4,
+    "tweet_count": "993K Tweets"
   },
   {
     "name": "#recordemosaleonel",
     "query": "#recordemosaleonel",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "#lachurchillcambia",
     "query": "#lachurchillcambia",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
+  },
+  {
+    "name": "#gobiernocombatealzas",
+    "query": "#gobiernocombatealzas",
+    "rank": 7,
+    "tweet_count": "1,059 Tweets"
   },
   {
     "name": "Ucrania",
     "query": "Ucrania",
     "rank": 8,
-    "tweet_count": "126K Tweets"
+    "tweet_count": "127K Tweets"
   },
   {
     "name": "Lebron",
     "query": "Lebron",
     "rank": 9,
-    "tweet_count": "123K Tweets"
+    "tweet_count": "124K Tweets"
   },
   {
     "name": "Farruko",
@@ -60,8 +60,8 @@
     "tweet_count": "12.2K Tweets"
   },
   {
-    "name": "Día Mundial de La Radio",
-    "query": "\"Día Mundial de La Radio\"",
+    "name": "Día Mundial de la Radio",
+    "query": "\"Día Mundial de la Radio\"",
     "rank": 11,
     "tweet_count": "12.5K Tweets"
   },
@@ -69,11 +69,11 @@
     "name": "Michael Jackson",
     "query": "\"Michael Jackson\"",
     "rank": 12,
-    "tweet_count": "29.2K Tweets"
+    "tweet_count": "29.4K Tweets"
   },
   {
-    "name": "OMSA",
-    "query": "OMSA",
+    "name": "omsa",
+    "query": "omsa",
     "rank": 13,
     "tweet_count": null
   },
@@ -81,42 +81,42 @@
     "name": "Shakira",
     "query": "Shakira",
     "rank": 14,
-    "tweet_count": "37.2K Tweets"
+    "tweet_count": "37.4K Tweets"
   },
   {
-    "name": "Cooper kupp",
-    "query": "\"Cooper kupp\"",
+    "name": "Cooper Kupp",
+    "query": "\"Cooper Kupp\"",
     "rank": 15,
-    "tweet_count": "139K Tweets"
+    "tweet_count": "140K Tweets"
   },
   {
     "name": "Jordan",
     "query": "Jordan",
     "rank": 16,
-    "tweet_count": "146K Tweets"
+    "tweet_count": "147K Tweets"
   },
   {
     "name": "El 13",
     "query": "\"El 13\"",
     "rank": 17,
-    "tweet_count": "157K Tweets"
-  },
-  {
-    "name": "us$759.3",
-    "query": "us$759.3",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "158K Tweets"
   },
   {
     "name": "Warriors",
     "query": "Warriors",
-    "rank": 19,
-    "tweet_count": "52.3K Tweets"
+    "rank": 18,
+    "tweet_count": "52.7K Tweets"
   },
   {
-    "name": "Thompson",
-    "query": "Thompson",
+    "name": "Burrow",
+    "query": "Burrow",
+    "rank": 19,
+    "tweet_count": "302K Tweets"
+  },
+  {
+    "name": "us$759.3",
+    "query": "us$759.3",
     "rank": 20,
-    "tweet_count": "16.8K Tweets"
+    "tweet_count": null
   }
 ]
