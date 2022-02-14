@@ -3,49 +3,49 @@
     "name": "#SuperBowl",
     "query": "#SuperBowl",
     "rank": 1,
-    "tweet_count": "1.41M Tweets"
+    "tweet_count": "1.43M Tweets"
   },
   {
     "name": "guillou",
     "query": "guillou",
     "rank": 2,
-    "tweet_count": "4,550 Tweets"
+    "tweet_count": "4,581 Tweets"
   },
   {
     "name": "#Euphoria",
     "query": "#Euphoria",
     "rank": 3,
-    "tweet_count": "393K Tweets"
-  },
-  {
-    "name": "Ukraina",
-    "query": "Ukraina",
-    "rank": 4,
-    "tweet_count": "12.9K Tweets"
-  },
-  {
-    "name": "Doku",
-    "query": "Doku",
-    "rank": 5,
-    "tweet_count": "8,198 Tweets"
+    "tweet_count": "413K Tweets"
   },
   {
     "name": "Skarpnäck",
     "query": "Skarpnäck",
-    "rank": 6,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "Ukraina",
+    "query": "Ukraina",
+    "rank": 5,
+    "tweet_count": "13K Tweets"
+  },
+  {
+    "name": "doku",
+    "query": "doku",
+    "rank": 6,
+    "tweet_count": "8,272 Tweets"
   },
   {
     "name": "Ryssland",
     "query": "Ryssland",
     "rank": 7,
-    "tweet_count": "2,364 Tweets"
+    "tweet_count": "2,368 Tweets"
   },
   {
-    "name": "Kanye",
-    "query": "Kanye",
+    "name": "Farsta",
+    "query": "Farsta",
     "rank": 8,
-    "tweet_count": "969K Tweets"
+    "tweet_count": null
   },
   {
     "name": "poromaa",
@@ -54,32 +54,32 @@
     "tweet_count": null
   },
   {
+    "name": "Kanye",
+    "query": "Kanye",
+    "rank": 10,
+    "tweet_count": "981K Tweets"
+  },
+  {
     "name": "Klarna",
     "query": "Klarna",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "sofie",
     "query": "sofie",
-    "rank": 11,
-    "tweet_count": "3,421 Tweets"
+    "rank": 12,
+    "tweet_count": "3,448 Tweets"
   },
   {
     "name": "häggström",
     "query": "häggström",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "Snoop",
-    "query": "Snoop",
-    "rank": 13,
-    "tweet_count": "286K Tweets"
-  },
-  {
-    "name": "#Mello",
-    "query": "#Mello",
+    "name": "#mello",
+    "query": "#mello",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,7 +87,7 @@
     "name": "#Worldle",
     "query": "#Worldle",
     "rank": 15,
-    "tweet_count": "23.9K Tweets"
+    "tweet_count": "24.2K Tweets"
   },
   {
     "name": "#melodifestivalen",
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
-    "name": "Eminem",
-    "query": "Eminem",
-    "rank": 17,
-    "tweet_count": "676K Tweets"
-  },
-  {
     "name": "tre kronor",
     "query": "\"tre kronor\"",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "burman",
     "query": "burman",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Tone",
+    "query": "Tone",
+    "rank": 19,
+    "tweet_count": "36K Tweets"
   },
   {
     "name": "Tandrevold",
     "query": "Tandrevold",
     "rank": 20,
-    "tweet_count": "1,548 Tweets"
+    "tweet_count": "1,554 Tweets"
   }
 ]
