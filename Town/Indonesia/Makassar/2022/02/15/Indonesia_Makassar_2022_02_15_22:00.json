@@ -1,56 +1,74 @@
 [
   {
+    "name": "Madrid",
+    "query": "Madrid",
+    "rank": 1,
+    "tweet_count": "681K Tweets"
+  },
+  {
     "name": "#PSGRMA",
     "query": "#PSGRMA",
-    "rank": 1,
-    "tweet_count": "162K Tweets"
+    "rank": 2,
+    "tweet_count": "165K Tweets"
   },
   {
     "name": "#MUNBHA",
     "query": "#MUNBHA",
-    "rank": 2,
-    "tweet_count": "66.2K Tweets"
-  },
-  {
-    "name": "#GGMU",
-    "query": "#GGMU",
     "rank": 3,
-    "tweet_count": "2,193 Tweets"
+    "tweet_count": "68.7K Tweets"
   },
   {
-    "name": "#GetWellSoonTaehyung",
-    "query": "#GetWellSoonTaehyung",
+    "name": "#StopIslamophobiaIndia",
+    "query": "#StopIslamophobiaIndia",
     "rank": 4,
-    "tweet_count": "596K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#PSSday",
-    "query": "#PSSday",
+    "name": "Islam Solusi Rasisme",
+    "query": "\"Islam Solusi Rasisme\"",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "Persib",
-    "query": "Persib",
+    "name": "#GetWellSoonTaehyung",
+    "query": "#GetWellSoonTaehyung",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "598K Tweets"
+  },
+  {
+    "name": "#GGMU",
+    "query": "#GGMU",
+    "rank": 7,
+    "tweet_count": "2,279 Tweets"
   },
   {
     "name": "Esemka",
     "query": "Esemka",
-    "rank": 7,
-    "tweet_count": "3,089 Tweets"
+    "rank": 8,
+    "tweet_count": "3,127 Tweets"
   },
   {
-    "name": "Kim Taehyung",
-    "query": "\"Kim Taehyung\"",
-    "rank": 8,
-    "tweet_count": "39K Tweets"
+    "name": "Persib",
+    "query": "Persib",
+    "rank": 9,
+    "tweet_count": "13.2K Tweets"
   },
   {
     "name": "Daily Quordle",
     "query": "\"Daily Quordle\"",
-    "rank": 9,
-    "tweet_count": "7,464 Tweets"
+    "rank": 10,
+    "tweet_count": "7,515 Tweets"
+  },
+  {
+    "name": "Kim Taehyung",
+    "query": "\"Kim Taehyung\"",
+    "rank": 11,
+    "tweet_count": "39.3K Tweets"
+  },
+  {
+    "name": "#PSSday",
+    "query": "#PSSday",
+    "rank": 12,
+    "tweet_count": null
   }
 ]

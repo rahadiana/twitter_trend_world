@@ -1,62 +1,80 @@
 [
   {
-    "name": "#PSGRMA",
-    "query": "#PSGRMA",
+    "name": "Madrid",
+    "query": "Madrid",
     "rank": 1,
-    "tweet_count": "162K Tweets"
+    "tweet_count": "680K Tweets"
   },
   {
     "name": "#MUNBHA",
     "query": "#MUNBHA",
     "rank": 2,
-    "tweet_count": "66.4K Tweets"
+    "tweet_count": "68.7K Tweets"
   },
   {
-    "name": "Ancelotti",
-    "query": "Ancelotti",
+    "name": "#StopIslamophobiaIndia",
+    "query": "#StopIslamophobiaIndia",
     "rank": 3,
-    "tweet_count": "38.8K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#GGMU",
-    "query": "#GGMU",
+    "name": "Islam Solusi Rasisme",
+    "query": "\"Islam Solusi Rasisme\"",
     "rank": 4,
-    "tweet_count": "2,193 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Persib",
-    "query": "Persib",
+    "name": "#PSGRMA",
+    "query": "#PSGRMA",
     "rank": 5,
-    "tweet_count": "13.2K Tweets"
+    "tweet_count": "165K Tweets"
+  },
+  {
+    "name": "Courtois",
+    "query": "Courtois",
+    "rank": 6,
+    "tweet_count": "104K Tweets"
   },
   {
     "name": "Esemka",
     "query": "Esemka",
-    "rank": 6,
-    "tweet_count": "3,089 Tweets"
+    "rank": 7,
+    "tweet_count": "3,127 Tweets"
   },
   {
-    "name": "Kim Taehyung",
-    "query": "\"Kim Taehyung\"",
-    "rank": 7,
-    "tweet_count": "39.1K Tweets"
+    "name": "Persib",
+    "query": "Persib",
+    "rank": 8,
+    "tweet_count": "13.2K Tweets"
   },
   {
     "name": "Daily Quordle",
     "query": "\"Daily Quordle\"",
-    "rank": 8,
-    "tweet_count": "7,462 Tweets"
+    "rank": 9,
+    "tweet_count": "7,515 Tweets"
+  },
+  {
+    "name": "Kim Taehyung",
+    "query": "\"Kim Taehyung\"",
+    "rank": 10,
+    "tweet_count": "39.3K Tweets"
   },
   {
     "name": "#GetWellSoonTaehyung",
     "query": "#GetWellSoonTaehyung",
-    "rank": 9,
-    "tweet_count": "596K Tweets"
+    "rank": 11,
+    "tweet_count": "598K Tweets"
+  },
+  {
+    "name": "#GGMU",
+    "query": "#GGMU",
+    "rank": 12,
+    "tweet_count": "2,282 Tweets"
   },
   {
     "name": "#PSSday",
     "query": "#PSSday",
-    "rank": 10,
+    "rank": 13,
     "tweet_count": null
   }
 ]
