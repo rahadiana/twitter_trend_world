@@ -1,21 +1,21 @@
 [
   {
-    "name": "בן גביר",
-    "query": "\"בן גביר\"",
-    "rank": 1,
-    "tweet_count": "7,457 Tweets"
-  },
-  {
     "name": "ארץ עיר",
     "query": "\"ארץ עיר\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "Valentine's Day",
-    "query": "\"Valentine's Day\"",
+    "name": "בן גביר",
+    "query": "\"בן גביר\"",
+    "rank": 2,
+    "tweet_count": "7,547 Tweets"
+  },
+  {
+    "name": "בוקר טוב",
+    "query": "\"בוקר טוב\"",
     "rank": 3,
-    "tweet_count": "2.35M Tweets"
+    "tweet_count": null
   },
   {
     "name": "יום אהבה שמח",
@@ -24,70 +24,70 @@
     "tweet_count": null
   },
   {
-    "name": "בוקר טוב",
-    "query": "\"בוקר טוב\"",
+    "name": "Valentine's Day",
+    "query": "\"Valentine's Day\"",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "3.5M Tweets"
   },
   {
     "name": "שמעון הצדיק",
     "query": "\"שמעון הצדיק\"",
     "rank": 6,
-    "tweet_count": "3,071 Tweets"
+    "tweet_count": "3,107 Tweets"
   },
   {
     "name": "Bahrain",
     "query": "Bahrain",
     "rank": 7,
-    "tweet_count": "12.8K Tweets"
+    "tweet_count": "12.9K Tweets"
   },
   {
     "name": "#SuperBowl",
     "query": "#SuperBowl",
     "rank": 8,
-    "tweet_count": "337K Tweets"
-  },
-  {
-    "name": "אריק שרון",
-    "query": "\"אריק שרון\"",
-    "rank": 9,
-    "tweet_count": null
+    "tweet_count": "338K Tweets"
   },
   {
     "name": "Gulf",
     "query": "Gulf",
-    "rank": 10,
-    "tweet_count": "48.9K Tweets"
+    "rank": 9,
+    "tweet_count": "49.5K Tweets"
   },
   {
     "name": "#Ukraine",
     "query": "#Ukraine",
-    "rank": 11,
-    "tweet_count": "72.5K Tweets"
+    "rank": 10,
+    "tweet_count": "73.6K Tweets"
   },
   {
     "name": "#FreedomConvoy",
     "query": "#FreedomConvoy",
+    "rank": 11,
+    "tweet_count": "33.9K Tweets"
+  },
+  {
+    "name": "Canada",
+    "query": "Canada",
     "rank": 12,
-    "tweet_count": "33.5K Tweets"
+    "tweet_count": "770K Tweets"
+  },
+  {
+    "name": "די נו",
+    "query": "\"די נו\"",
+    "rank": 13,
+    "tweet_count": null
   },
   {
     "name": "פורים קטן",
     "query": "\"פורים קטן\"",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Putin",
     "query": "Putin",
-    "rank": 14,
-    "tweet_count": "254K Tweets"
-  },
-  {
-    "name": "די נו",
-    "query": "\"די נו\"",
     "rank": 15,
-    "tweet_count": null
+    "tweet_count": "256K Tweets"
   },
   {
     "name": "ו באב",
@@ -96,26 +96,26 @@
     "tweet_count": null
   },
   {
-    "name": "Canada",
-    "query": "Canada",
+    "name": "אריק שרון",
+    "query": "\"אריק שרון\"",
     "rank": 17,
-    "tweet_count": "762K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Sheikh Jarrah",
     "query": "\"Sheikh Jarrah\"",
     "rank": 18,
-    "tweet_count": "15.6K Tweets"
+    "tweet_count": "15.8K Tweets"
   },
   {
-    "name": "Opinion",
-    "query": "Opinion",
+    "name": "opinion",
+    "query": "opinion",
     "rank": 19,
-    "tweet_count": "326K Tweets"
+    "tweet_count": "329K Tweets"
   },
   {
-    "name": "חג אהבה שמח",
-    "query": "\"חג אהבה שמח\"",
+    "name": "אחמד טיבי",
+    "query": "\"אחמד טיבי\"",
     "rank": 20,
     "tweet_count": null
   }
