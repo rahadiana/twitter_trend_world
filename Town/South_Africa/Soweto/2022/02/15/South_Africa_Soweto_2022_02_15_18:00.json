@@ -1,81 +1,81 @@
 [
   {
-    "name": "#MrAirtime",
-    "query": "#MrAirtime",
+    "name": "#DiepCityMzansi",
+    "query": "#DiepCityMzansi",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "Northriding",
-    "query": "Northriding",
-    "rank": 2,
-    "tweet_count": "1,302 Tweets"
-  },
-  {
     "name": "Canada",
     "query": "Canada",
+    "rank": 2,
+    "tweet_count": "1.03M Tweets"
+  },
+  {
+    "name": "Northriding",
+    "query": "Northriding",
     "rank": 3,
-    "tweet_count": "1.01M Tweets"
+    "tweet_count": "1,316 Tweets"
   },
   {
     "name": "Botswana",
     "query": "Botswana",
     "rank": 4,
-    "tweet_count": "3,066 Tweets"
+    "tweet_count": "3,131 Tweets"
   },
   {
     "name": "Slik Talk",
     "query": "\"Slik Talk\"",
     "rank": 5,
-    "tweet_count": "2,471 Tweets"
+    "tweet_count": "2,837 Tweets"
+  },
+  {
+    "name": "Parker",
+    "query": "Parker",
+    "rank": 6,
+    "tweet_count": "23.4K Tweets"
   },
   {
     "name": "Khune",
     "query": "Khune",
-    "rank": 6,
-    "tweet_count": "4,830 Tweets"
-  },
-  {
-    "name": "Minnie",
-    "query": "Minnie",
     "rank": 7,
-    "tweet_count": "31.5K Tweets"
+    "tweet_count": "5,231 Tweets"
   },
   {
     "name": "Baxter",
     "query": "Baxter",
     "rank": 8,
-    "tweet_count": "3,943 Tweets"
+    "tweet_count": "4,214 Tweets"
+  },
+  {
+    "name": "Minnie",
+    "query": "Minnie",
+    "rank": 9,
+    "tweet_count": "32.5K Tweets"
   },
   {
     "name": "#DStvPrem",
     "query": "#DStvPrem",
-    "rank": 9,
-    "tweet_count": "2,417 Tweets"
-  },
-  {
-    "name": "Parker",
-    "query": "Parker",
     "rank": 10,
-    "tweet_count": "22.8K Tweets"
-  },
-  {
-    "name": "#JaysFinderXLiquorose",
-    "query": "#JaysFinderXLiquorose",
-    "rank": 11,
-    "tweet_count": "33.2K Tweets"
+    "tweet_count": "2,552 Tweets"
   },
   {
     "name": "#etvScandal",
     "query": "#etvScandal",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "CONGRATULATIONS LIQUOROSE",
     "query": "\"CONGRATULATIONS LIQUOROSE\"",
+    "rank": 12,
+    "tweet_count": "36.9K Tweets"
+  },
+  {
+    "name": "#JaysFinderXLiquorose",
+    "query": "#JaysFinderXLiquorose",
     "rank": 13,
-    "tweet_count": "34.5K Tweets"
+    "tweet_count": "35.4K Tweets"
   },
   {
     "name": "#Amakhosi4Life",
@@ -84,39 +84,39 @@
     "tweet_count": null
   },
   {
-    "name": "Thimna",
-    "query": "Thimna",
-    "rank": 15,
-    "tweet_count": "2,451 Tweets"
-  },
-  {
     "name": "Cardoso",
     "query": "Cardoso",
-    "rank": 16,
-    "tweet_count": "5,311 Tweets"
-  },
-  {
-    "name": "LIQUOROSE THE AMBASSADOR",
-    "query": "\"LIQUOROSE THE AMBASSADOR\"",
-    "rank": 17,
-    "tweet_count": "25.9K Tweets"
+    "rank": 15,
+    "tweet_count": "5,404 Tweets"
   },
   {
     "name": "Dolly",
     "query": "Dolly",
+    "rank": 16,
+    "tweet_count": "11.9K Tweets"
+  },
+  {
+    "name": "Billiat",
+    "query": "Billiat",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Libho",
+    "query": "Libho",
     "rank": 18,
-    "tweet_count": "11.7K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Cape Town City",
+    "query": "\"Cape Town City\"",
+    "rank": 19,
+    "tweet_count": "1,520 Tweets"
   },
   {
     "name": "Mathoho",
     "query": "Mathoho",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Boity",
-    "query": "Boity",
     "rank": 20,
-    "tweet_count": "1,220 Tweets"
+    "tweet_count": null
   }
 ]
