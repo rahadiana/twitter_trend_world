@@ -1,33 +1,33 @@
 [
   {
+    "name": "Arlanda",
+    "query": "Arlanda",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "Valentine's Day",
     "query": "\"Valentine's Day\"",
-    "rank": 1,
-    "tweet_count": "2.13M Tweets"
+    "rank": 2,
+    "tweet_count": "2.39M Tweets"
   },
   {
     "name": "Nelin",
     "query": "Nelin",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Ukraina",
     "query": "Ukraina",
-    "rank": 3,
-    "tweet_count": "17.9K Tweets"
+    "rank": 4,
+    "tweet_count": "18K Tweets"
   },
   {
     "name": "#HalfTimeShow",
     "query": "#HalfTimeShow",
-    "rank": 4,
-    "tweet_count": "43.4K Tweets"
-  },
-  {
-    "name": "Arlanda",
-    "query": "Arlanda",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "43.4K Tweets"
   },
   {
     "name": "Allmänna Idrottsklubben",
@@ -51,31 +51,31 @@
     "name": "alla hjärtans dag",
     "query": "\"alla hjärtans dag\"",
     "rank": 9,
-    "tweet_count": "1,856 Tweets"
+    "tweet_count": "1,858 Tweets"
   },
   {
     "name": "Ryssland",
     "query": "Ryssland",
     "rank": 10,
-    "tweet_count": "1,352 Tweets"
+    "tweet_count": "1,367 Tweets"
   },
   {
-    "name": "Trudeau",
-    "query": "Trudeau",
+    "name": "Kinas",
+    "query": "Kinas",
     "rank": 11,
-    "tweet_count": "846K Tweets"
-  },
-  {
-    "name": "Trudeau",
-    "query": "Trudeau",
-    "rank": 12,
-    "tweet_count": "846K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#skidskytte",
     "query": "#skidskytte",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "Putin",
+    "query": "Putin",
+    "rank": 13,
+    "tweet_count": "266K Tweets"
   },
   {
     "name": "guidetti",
@@ -87,7 +87,7 @@
     "name": "Cassie",
     "query": "Cassie",
     "rank": 15,
-    "tweet_count": "299K Tweets"
+    "tweet_count": "300K Tweets"
   },
   {
     "name": "Laila Freivalds",
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
+    "name": "#bopol",
+    "query": "#bopol",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
     "name": "farsta",
     "query": "farsta",
-    "rank": 17,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "kevin-fallet",
     "query": "kevin-fallet",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Kinas",
-    "query": "Kinas",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Skarpnäck",
-    "query": "Skarpnäck",
+    "name": "Trudeau",
+    "query": "Trudeau",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "852K Tweets"
   }
 ]
