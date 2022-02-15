@@ -1,31 +1,31 @@
 [
   {
-    "name": "Valentin",
-    "query": "Valentin",
-    "rank": 1,
-    "tweet_count": "1.04M Tweets"
-  },
-  {
     "name": "#Biathlon",
     "query": "#Biathlon",
-    "rank": 2,
-    "tweet_count": "3,912 Tweets"
+    "rank": 1,
+    "tweet_count": "4,173 Tweets"
   },
   {
     "name": "Latypov",
     "query": "Latypov",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Norvège",
     "query": "Norvège",
-    "rank": 4,
-    "tweet_count": "1,103 Tweets"
+    "rank": 3,
+    "tweet_count": "1,202 Tweets"
   },
   {
-    "name": "Loginov",
-    "query": "Loginov",
+    "name": "#ZemmourTrump",
+    "query": "#ZemmourTrump",
+    "rank": 4,
+    "tweet_count": "2,440 Tweets"
+  },
+  {
+    "name": "#MardiConseil",
+    "query": "#MardiConseil",
     "rank": 5,
     "tweet_count": null
   },
@@ -36,81 +36,75 @@
     "tweet_count": null
   },
   {
-    "name": "#MardiConseil",
-    "query": "#MardiConseil",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
-    "name": "#le79Inter",
-    "query": "#le79Inter",
-    "rank": 8,
-    "tweet_count": "1,265 Tweets"
-  },
-  {
     "name": "#PSGRMA",
     "query": "#PSGRMA",
-    "rank": 9,
-    "tweet_count": "10.3K Tweets"
+    "rank": 7,
+    "tweet_count": "10.6K Tweets"
+  },
+  {
+    "name": "Loginov",
+    "query": "Loginov",
+    "rank": 8,
+    "tweet_count": null
   },
   {
     "name": "Allez Paris",
     "query": "\"Allez Paris\"",
-    "rank": 10,
-    "tweet_count": "1,329 Tweets"
+    "rank": 9,
+    "tweet_count": "1,373 Tweets"
   },
   {
     "name": "Johannes",
     "query": "Johannes",
-    "rank": 11,
-    "tweet_count": "3,627 Tweets"
+    "rank": 10,
+    "tweet_count": "3,675 Tweets"
   },
   {
     "name": "Fabien Claude",
     "query": "\"Fabien Claude\"",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
+  },
+  {
+    "name": "Fanny Agostini",
+    "query": "\"Fanny Agostini\"",
+    "rank": 12,
+    "tweet_count": "1,201 Tweets"
   },
   {
     "name": "Donald Trump",
     "query": "\"Donald Trump\"",
     "rank": 13,
-    "tweet_count": "135K Tweets"
+    "tweet_count": "137K Tweets"
+  },
+  {
+    "name": "#le79Inter",
+    "query": "#le79Inter",
+    "rank": 14,
+    "tweet_count": "1,447 Tweets"
   },
   {
     "name": "#Trudeau",
     "query": "#Trudeau",
-    "rank": 14,
-    "tweet_count": "22.6K Tweets"
+    "rank": 15,
+    "tweet_count": "23.5K Tweets"
   },
   {
     "name": "#StopOmertaMelenchon",
     "query": "#StopOmertaMelenchon",
-    "rank": 15,
-    "tweet_count": "6,033 Tweets"
-  },
-  {
-    "name": "#morningdedifool",
-    "query": "#morningdedifool",
     "rank": 16,
-    "tweet_count": null
+    "tweet_count": "6,236 Tweets"
   },
   {
-    "name": "#MOTCHUS",
-    "query": "#MOTCHUS",
+    "name": "#MorningDeDifool",
+    "query": "#MorningDeDifool",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "#PecresseNaufrage",
-    "query": "#PecresseNaufrage",
+    "name": "#ChampionsLeague",
+    "query": "#ChampionsLeague",
     "rank": 18,
-    "tweet_count": "8,154 Tweets"
-  },
-  {
-    "name": "#Worldle",
-    "query": "#Worldle",
-    "rank": 19,
-    "tweet_count": "20K Tweets"
+    "tweet_count": "5,120 Tweets"
   }
 ]
