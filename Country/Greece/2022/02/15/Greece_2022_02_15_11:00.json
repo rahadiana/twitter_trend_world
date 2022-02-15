@@ -1,57 +1,57 @@
 [
   {
-    "name": "#Τσιπρας",
-    "query": "#Τσιπρας",
-    "rank": 1,
-    "tweet_count": "9,838 Tweets"
-  },
-  {
     "name": "#αγιου_βαλεντινου",
     "query": "#αγιου_βαλεντινου",
-    "rank": 2,
-    "tweet_count": "3,181 Tweets"
+    "rank": 1,
+    "tweet_count": "3,191 Tweets"
   },
   {
     "name": "#survivorGR",
     "query": "#survivorGR",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": "26K Tweets"
+  },
+  {
+    "name": "#Τσιπρας",
+    "query": "#Τσιπρας",
+    "rank": 3,
+    "tweet_count": "9,903 Tweets"
   },
   {
     "name": "#ValentinesDay2022",
     "query": "#ValentinesDay2022",
     "rank": 4,
-    "tweet_count": "483K Tweets"
-  },
-  {
-    "name": "Ρεκορ 25ετιας",
-    "query": "\"Ρεκορ 25ετιας\"",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Μενιος Φουρθιωτης",
-    "query": "\"Μενιος Φουρθιωτης\"",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "πελαγια",
-    "query": "πελαγια",
-    "rank": 7,
-    "tweet_count": "3,438 Tweets"
+    "tweet_count": "484K Tweets"
   },
   {
     "name": "Ιανουαριο",
     "query": "Ιανουαριο",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "#Φουρθιωτης",
+    "query": "#Φουρθιωτης",
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "Ρεκορ 25ετιας",
+    "query": "\"Ρεκορ 25ετιας\"",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "Στο 6,2%",
+    "query": "\"Στο 6,2%\"",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "#skoteinithalassa",
-    "query": "#skoteinithalassa",
+    "name": "Πελαγια",
+    "query": "Πελαγια",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "3,441 Tweets"
   },
   {
     "name": "αρσενιου",
@@ -60,63 +60,63 @@
     "tweet_count": null
   },
   {
-    "name": "καλλιοπη",
-    "query": "καλλιοπη",
+    "name": "Παιδικου Καρκινου",
+    "query": "\"Παιδικου Καρκινου\"",
     "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Ασημινα",
-    "query": "Ασημινα",
-    "rank": 12,
-    "tweet_count": "3,189 Tweets"
-  },
-  {
-    "name": "καλογεροπουλου",
-    "query": "καλογεροπουλου",
-    "rank": 13,
-    "tweet_count": "2,880 Tweets"
-  },
-  {
-    "name": "15 Φεβρουαριου",
-    "query": "\"15 Φεβρουαριου\"",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Η Κατια",
-    "query": "\"Η Κατια\"",
-    "rank": 15,
-    "tweet_count": "1,869 Tweets"
+    "tweet_count": "1,740 Tweets"
   },
   {
     "name": "Μαρτικα",
     "query": "Μαρτικα",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "τακης",
-    "query": "τακης",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "μαργαριτα",
-    "query": "μαργαριτα",
-    "rank": 18,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Παγκοσμια Ημερα",
     "query": "\"Παγκοσμια Ημερα\"",
-    "rank": 19,
-    "tweet_count": "2,215 Tweets"
+    "rank": 13,
+    "tweet_count": "2,256 Tweets"
   },
   {
-    "name": "Παιδικου Καρκινου",
-    "query": "\"Παιδικου Καρκινου\"",
+    "name": "15 φεβρουαριου",
+    "query": "\"15 φεβρουαριου\"",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Ασημινα",
+    "query": "Ασημινα",
+    "rank": 15,
+    "tweet_count": "3,196 Tweets"
+  },
+  {
+    "name": "Καλογεροπουλου",
+    "query": "Καλογεροπουλου",
+    "rank": 16,
+    "tweet_count": "2,898 Tweets"
+  },
+  {
+    "name": "μαργαριτα",
+    "query": "μαργαριτα",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "τακης",
+    "query": "τακης",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "η κατια",
+    "query": "\"η κατια\"",
+    "rank": 19,
+    "tweet_count": "1,876 Tweets"
+  },
+  {
+    "name": "κατσαουνης",
+    "query": "κατσαουνης",
     "rank": 20,
-    "tweet_count": "1,689 Tweets"
+    "tweet_count": null
   }
 ]
