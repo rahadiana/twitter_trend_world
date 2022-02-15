@@ -6,22 +6,22 @@
     "tweet_count": null
   },
   {
-    "name": "Graabak",
-    "query": "Graabak",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
     "name": "Riiber",
     "query": "Riiber",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Happy Valentines",
     "query": "\"Happy Valentines\"",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": "1.14M Tweets"
+  },
+  {
+    "name": "Jørgen Graabak",
+    "query": "\"Jørgen Graabak\"",
+    "rank": 4,
+    "tweet_count": null
   },
   {
     "name": "#NNPF",
@@ -36,8 +36,8 @@
     "tweet_count": null
   },
   {
-    "name": "sverre lunde pedersen",
-    "query": "\"sverre lunde pedersen\"",
+    "name": "Sverre Lunde Pedersen",
+    "query": "\"Sverre Lunde Pedersen\"",
     "rank": 7,
     "tweet_count": null
   },
@@ -51,60 +51,60 @@
     "name": "Odds",
     "query": "Odds",
     "rank": 9,
-    "tweet_count": "44.4K Tweets"
-  },
-  {
-    "name": "Bengals",
-    "query": "Bengals",
-    "rank": 10,
-    "tweet_count": "125K Tweets"
+    "tweet_count": "45.5K Tweets"
   },
   {
     "name": "Slovenia",
     "query": "Slovenia",
-    "rank": 11,
-    "tweet_count": "2,745 Tweets"
+    "rank": 10,
+    "tweet_count": "2,770 Tweets"
   },
   {
     "name": "Ukraina",
     "query": "Ukraina",
-    "rank": 12,
-    "tweet_count": "17.1K Tweets"
+    "rank": 11,
+    "tweet_count": "17.4K Tweets"
   },
   {
     "name": "Russland",
     "query": "Russland",
-    "rank": 13,
-    "tweet_count": "17.7K Tweets"
+    "rank": 12,
+    "tweet_count": "18.1K Tweets"
   },
   {
     "name": "Super Bowl",
     "query": "\"Super Bowl\"",
+    "rank": 13,
+    "tweet_count": "659K Tweets"
+  },
+  {
+    "name": "#HorizonForbiddenWest",
+    "query": "#HorizonForbiddenWest",
     "rank": 14,
-    "tweet_count": "654K Tweets"
+    "tweet_count": "23.1K Tweets"
   },
   {
-    "name": "Kanye",
-    "query": "Kanye",
+    "name": "#HorizonForbiddenWest",
+    "query": "#HorizonForbiddenWest",
     "rank": 15,
-    "tweet_count": "503K Tweets"
-  },
-  {
-    "name": "Kanye",
-    "query": "Kanye",
-    "rank": 16,
-    "tweet_count": "503K Tweets"
+    "tweet_count": "23.1K Tweets"
   },
   {
     "name": "Hoodie",
     "query": "Hoodie",
-    "rank": 17,
-    "tweet_count": "33.2K Tweets"
+    "rank": 16,
+    "tweet_count": "33.7K Tweets"
   },
   {
     "name": "Iversen",
     "query": "Iversen",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
+  },
+  {
+    "name": "Messi",
+    "query": "Messi",
+    "rank": 18,
+    "tweet_count": "136K Tweets"
   }
 ]
