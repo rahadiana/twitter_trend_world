@@ -1,31 +1,31 @@
 [
   {
-    "name": "#GetWellSoonTaehyung",
-    "query": "#GetWellSoonTaehyung",
-    "rank": 1,
-    "tweet_count": "529K Tweets"
-  },
-  {
     "name": "San Valentín",
     "query": "\"San Valentín\"",
-    "rank": 2,
-    "tweet_count": "577K Tweets"
+    "rank": 1,
+    "tweet_count": "579K Tweets"
   },
   {
     "name": "#SuperBowl",
     "query": "#SuperBowl",
+    "rank": 2,
+    "tweet_count": "151K Tweets"
+  },
+  {
+    "name": "#GetWellSoonTaehyung",
+    "query": "#GetWellSoonTaehyung",
     "rank": 3,
-    "tweet_count": "150K Tweets"
+    "tweet_count": "533K Tweets"
   },
   {
     "name": "El Faro",
     "query": "\"El Faro\"",
     "rank": 4,
-    "tweet_count": "2,323 Tweets"
+    "tweet_count": "2,373 Tweets"
   },
   {
-    "name": "Curruchiche",
-    "query": "Curruchiche",
+    "name": "curruchiche",
+    "query": "curruchiche",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,25 +33,25 @@
     "name": "Giammattei",
     "query": "Giammattei",
     "rank": 6,
-    "tweet_count": "6,924 Tweets"
-  },
-  {
-    "name": "Juan Orlando Hernández",
-    "query": "\"Juan Orlando Hernández\"",
-    "rank": 7,
-    "tweet_count": "28.7K Tweets"
+    "tweet_count": "7,015 Tweets"
   },
   {
     "name": "FECI",
     "query": "FECI",
+    "rank": 7,
+    "tweet_count": "3,231 Tweets"
+  },
+  {
+    "name": "Juan Orlando Hernández",
+    "query": "\"Juan Orlando Hernández\"",
     "rank": 8,
-    "tweet_count": "3,149 Tweets"
+    "tweet_count": "29K Tweets"
   },
   {
     "name": "Leily Santizo",
     "query": "\"Leily Santizo\"",
     "rank": 9,
-    "tweet_count": "1,769 Tweets"
+    "tweet_count": "1,834 Tweets"
   },
   {
     "name": "Marco Pappa",
@@ -60,22 +60,22 @@
     "tweet_count": null
   },
   {
-    "name": "Messi",
-    "query": "Messi",
+    "name": "Madrid",
+    "query": "Madrid",
     "rank": 11,
-    "tweet_count": "177K Tweets"
-  },
-  {
-    "name": "#ChampionsLeague",
-    "query": "#ChampionsLeague",
-    "rank": 12,
-    "tweet_count": "9,875 Tweets"
+    "tweet_count": "342K Tweets"
   },
   {
     "name": "El Hamburguesa",
     "query": "\"El Hamburguesa\"",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "#ChampionsLeague",
+    "query": "#ChampionsLeague",
+    "rank": 13,
+    "tweet_count": "10.1K Tweets"
   },
   {
     "name": "Mariscal Zavala",
@@ -93,7 +93,7 @@
     "name": "Eminem",
     "query": "Eminem",
     "rank": 16,
-    "tweet_count": "180K Tweets"
+    "tweet_count": "181K Tweets"
   },
   {
     "name": "Siomara Sosa",
@@ -117,6 +117,6 @@
     "name": "CICIG",
     "query": "CICIG",
     "rank": 20,
-    "tweet_count": "2,273 Tweets"
+    "tweet_count": "2,363 Tweets"
   }
 ]
