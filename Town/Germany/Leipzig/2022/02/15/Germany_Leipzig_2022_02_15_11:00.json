@@ -1,15 +1,15 @@
 [
   {
-    "name": "#Djokovic",
-    "query": "#Djokovic",
-    "rank": 1,
-    "tweet_count": "6,683 Tweets"
-  },
-  {
     "name": "#JKvsP7",
     "query": "#JKvsP7",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#Djokovic",
+    "query": "#Djokovic",
+    "rank": 2,
+    "tweet_count": "7,171 Tweets"
   },
   {
     "name": "Marktwirtschaft",
@@ -21,7 +21,7 @@
     "name": "Truppen",
     "query": "Truppen",
     "rank": 4,
-    "tweet_count": "1,762 Tweets"
+    "tweet_count": "1,822 Tweets"
   },
   {
     "name": "Gold im Mund",
@@ -33,72 +33,72 @@
     "name": "Trudeau",
     "query": "Trudeau",
     "rank": 6,
-    "tweet_count": "893K Tweets"
+    "tweet_count": "875K Tweets"
   },
   {
     "name": "Schönen Tag",
     "query": "\"Schönen Tag\"",
     "rank": 7,
-    "tweet_count": "2,880 Tweets"
+    "tweet_count": "2,898 Tweets"
+  },
+  {
+    "name": "Eigenverantwortung",
+    "query": "Eigenverantwortung",
+    "rank": 8,
+    "tweet_count": null
   },
   {
     "name": "#Kubicki",
     "query": "#Kubicki",
-    "rank": 8,
-    "tweet_count": "2,020 Tweets"
+    "rank": 9,
+    "tweet_count": "2,059 Tweets"
   },
   {
-    "name": "#IrisBerben",
-    "query": "#IrisBerben",
-    "rank": 9,
+    "name": "#irisberben",
+    "query": "#irisberben",
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "#FreedomDay",
     "query": "#FreedomDay",
-    "rank": 10,
-    "tweet_count": "13.3K Tweets"
+    "rank": 11,
+    "tweet_count": "13.4K Tweets"
   },
   {
-    "name": "#Kinderkrebstag",
-    "query": "#Kinderkrebstag",
-    "rank": 11,
+    "name": "#Halberstadt",
+    "query": "#Halberstadt",
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "#Pocher",
     "query": "#Pocher",
-    "rank": 12,
-    "tweet_count": "1,046 Tweets"
+    "rank": 13,
+    "tweet_count": "1,061 Tweets"
   },
   {
-    "name": "#Halberstadt",
-    "query": "#Halberstadt",
-    "rank": 13,
+    "name": "#kinderkrebstag",
+    "query": "#kinderkrebstag",
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "#JRNYclub",
     "query": "#JRNYclub",
-    "rank": 14,
-    "tweet_count": "18.6K Tweets"
+    "rank": 15,
+    "tweet_count": "18.7K Tweets"
   },
   {
-    "name": "#Moskau",
-    "query": "#Moskau",
-    "rank": 15,
+    "name": "#homeoffice",
+    "query": "#homeoffice",
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "#UkraineKonflikt",
     "query": "#UkraineKonflikt",
-    "rank": 16,
-    "tweet_count": "6,559 Tweets"
-  },
-  {
-    "name": "#NazisRaus",
-    "query": "#NazisRaus",
     "rank": 17,
-    "tweet_count": "1,877 Tweets"
+    "tweet_count": "6,624 Tweets"
   }
 ]

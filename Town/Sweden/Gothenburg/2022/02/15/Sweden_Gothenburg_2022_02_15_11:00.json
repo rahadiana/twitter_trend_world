@@ -1,21 +1,21 @@
 [
   {
-    "name": "Arlanda",
-    "query": "Arlanda",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Happy Valentines",
     "query": "\"Happy Valentines\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "1.26M Tweets"
+  },
+  {
+    "name": "Arlanda",
+    "query": "Arlanda",
+    "rank": 2,
+    "tweet_count": null
   },
   {
     "name": "Ukraina",
     "query": "Ukraina",
     "rank": 3,
-    "tweet_count": "17.6K Tweets"
+    "tweet_count": "17.7K Tweets"
   },
   {
     "name": "#SuperBowl",
@@ -33,31 +33,31 @@
     "name": "Ryssland",
     "query": "Ryssland",
     "rank": 6,
-    "tweet_count": "1,347 Tweets"
-  },
-  {
-    "name": "alla hjärtans dag",
-    "query": "\"alla hjärtans dag\"",
-    "rank": 7,
-    "tweet_count": "1,606 Tweets"
-  },
-  {
-    "name": "Guillou",
-    "query": "Guillou",
-    "rank": 8,
-    "tweet_count": "1,470 Tweets"
-  },
-  {
-    "name": "Putin",
-    "query": "Putin",
-    "rank": 9,
-    "tweet_count": "273K Tweets"
+    "tweet_count": "1,362 Tweets"
   },
   {
     "name": "Laila Freivalds",
     "query": "\"Laila Freivalds\"",
-    "rank": 10,
+    "rank": 7,
     "tweet_count": null
+  },
+  {
+    "name": "alla hjärtans dag",
+    "query": "\"alla hjärtans dag\"",
+    "rank": 8,
+    "tweet_count": "1,607 Tweets"
+  },
+  {
+    "name": "Guillou",
+    "query": "Guillou",
+    "rank": 9,
+    "tweet_count": "1,473 Tweets"
+  },
+  {
+    "name": "Putin",
+    "query": "Putin",
+    "rank": 10,
+    "tweet_count": "275K Tweets"
   },
   {
     "name": "Klarna",
@@ -78,8 +78,8 @@
     "tweet_count": null
   },
   {
-    "name": "Guidetti",
-    "query": "Guidetti",
+    "name": "guidetti",
+    "query": "guidetti",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,7 +87,7 @@
     "name": "Cassie",
     "query": "Cassie",
     "rank": 15,
-    "tweet_count": "279K Tweets"
+    "tweet_count": "291K Tweets"
   },
   {
     "name": "allmänna idrottsklubben",
@@ -108,9 +108,9 @@
     "tweet_count": null
   },
   {
-    "name": "#HalfTimeShow",
-    "query": "#HalfTimeShow",
+    "name": "Timbro",
+    "query": "Timbro",
     "rank": 19,
-    "tweet_count": "38.3K Tweets"
+    "tweet_count": null
   }
 ]
