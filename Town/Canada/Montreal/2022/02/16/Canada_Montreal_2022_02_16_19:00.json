@@ -1,9 +1,9 @@
 [
   {
-    "name": "Charest",
-    "query": "Charest",
+    "name": "#Flames1stGoal",
+    "query": "#Flames1stGoal",
     "rank": 1,
-    "tweet_count": "1,320 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Paquette",
@@ -12,50 +12,50 @@
     "tweet_count": null
   },
   {
-    "name": "#flames1stGoal",
-    "query": "#flames1stGoal",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
     "name": "Duhaime",
     "query": "Duhaime",
-    "rank": 4,
-    "tweet_count": "5,116 Tweets"
+    "rank": 3,
+    "tweet_count": "5,162 Tweets"
   },
   {
     "name": "Romanov",
     "query": "Romanov",
-    "rank": 5,
-    "tweet_count": "1,075 Tweets"
+    "rank": 4,
+    "tweet_count": "1,087 Tweets"
   },
   {
     "name": "#ItsBudTime",
     "query": "#ItsBudTime",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "Ayato",
+    "query": "Ayato",
+    "rank": 6,
+    "tweet_count": "267K Tweets"
   },
   {
     "name": "Léger",
     "query": "Léger",
     "rank": 7,
-    "tweet_count": "3,965 Tweets"
+    "tweet_count": "4,000 Tweets"
   },
   {
-    "name": "Ayato",
-    "query": "Ayato",
+    "name": "#TrudeauForTreason",
+    "query": "#TrudeauForTreason",
     "rank": 8,
-    "tweet_count": "265K Tweets"
+    "tweet_count": "12.9K Tweets"
   },
   {
     "name": "#BlandDoritos",
     "query": "#BlandDoritos",
     "rank": 9,
-    "tweet_count": "3,707 Tweets"
+    "tweet_count": "3,755 Tweets"
   },
   {
-    "name": "NHLers",
-    "query": "NHLers",
+    "name": "nhlers",
+    "query": "nhlers",
     "rank": 10,
     "tweet_count": null
   },
@@ -63,25 +63,25 @@
     "name": "Gallagher",
     "query": "Gallagher",
     "rank": 11,
-    "tweet_count": "5,498 Tweets"
-  },
-  {
-    "name": "#wednesdaythought",
-    "query": "#wednesdaythought",
-    "rank": 12,
-    "tweet_count": "17.1K Tweets"
-  },
-  {
-    "name": "#JustinFlation",
-    "query": "#JustinFlation",
-    "rank": 13,
-    "tweet_count": "2,362 Tweets"
+    "tweet_count": "5,553 Tweets"
   },
   {
     "name": "Skinner",
     "query": "Skinner",
+    "rank": 12,
+    "tweet_count": "1,929 Tweets"
+  },
+  {
+    "name": "#wednesdaythought",
+    "query": "#wednesdaythought",
+    "rank": 13,
+    "tweet_count": "17.2K Tweets"
+  },
+  {
+    "name": "Liverpool",
+    "query": "Liverpool",
     "rank": 14,
-    "tweet_count": "1,915 Tweets"
+    "tweet_count": "111K Tweets"
   },
   {
     "name": "Kent Hughes",
@@ -93,7 +93,7 @@
     "name": "Chiarot",
     "query": "Chiarot",
     "rank": 16,
-    "tweet_count": "1,327 Tweets"
+    "tweet_count": "1,341 Tweets"
   },
   {
     "name": "claude julien",
@@ -105,18 +105,18 @@
     "name": "Charles Hamelin",
     "query": "\"Charles Hamelin\"",
     "rank": 18,
-    "tweet_count": "2,420 Tweets"
+    "tweet_count": "2,431 Tweets"
   },
   {
     "name": "The Queen",
     "query": "\"The Queen\"",
     "rank": 19,
-    "tweet_count": "145K Tweets"
+    "tweet_count": "147K Tweets"
   },
   {
     "name": "Senate",
     "query": "Senate",
     "rank": 20,
-    "tweet_count": "107K Tweets"
+    "tweet_count": "108K Tweets"
   }
 ]
