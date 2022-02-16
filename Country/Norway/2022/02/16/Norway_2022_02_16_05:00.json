@@ -6,10 +6,10 @@
     "tweet_count": null
   },
   {
-    "name": "#PSGRMA",
-    "query": "#PSGRMA",
+    "name": "Messi",
+    "query": "Messi",
     "rank": 2,
-    "tweet_count": "172K Tweets"
+    "tweet_count": "607K Tweets"
   },
   {
     "name": "riiber",
@@ -21,19 +21,19 @@
     "name": "Brighton",
     "query": "Brighton",
     "rank": 4,
-    "tweet_count": "96.4K Tweets"
+    "tweet_count": "96.6K Tweets"
+  },
+  {
+    "name": "Kondolerer",
+    "query": "Kondolerer",
+    "rank": 5,
+    "tweet_count": null
   },
   {
     "name": "Mbappe",
     "query": "Mbappe",
-    "rank": 5,
-    "tweet_count": "615K Tweets"
-  },
-  {
-    "name": "kondolerer",
-    "query": "kondolerer",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "616K Tweets"
   },
   {
     "name": "#nrkdebatt",
@@ -45,7 +45,7 @@
     "name": "Maguire",
     "query": "Maguire",
     "rank": 8,
-    "tweet_count": "47.4K Tweets"
+    "tweet_count": "47.6K Tweets"
   },
   {
     "name": "jørgen graabak",
@@ -57,19 +57,19 @@
     "name": "Elanga",
     "query": "Elanga",
     "rank": 10,
-    "tweet_count": "9,091 Tweets"
-  },
-  {
-    "name": "#NNPF",
-    "query": "#NNPF",
-    "rank": 11,
-    "tweet_count": null
+    "tweet_count": "9,260 Tweets"
   },
   {
     "name": "Valentines",
     "query": "Valentines",
+    "rank": 11,
+    "tweet_count": "714K Tweets"
+  },
+  {
+    "name": "#nnpf",
+    "query": "#nnpf",
     "rank": 12,
-    "tweet_count": "712K Tweets"
+    "tweet_count": null
   },
   {
     "name": "kåss",
@@ -78,38 +78,38 @@
     "tweet_count": null
   },
   {
+    "name": "Real Madrid",
+    "query": "\"Real Madrid\"",
+    "rank": 14,
+    "tweet_count": "402K Tweets"
+  },
+  {
     "name": "#2hockey",
     "query": "#2hockey",
-    "rank": 14,
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "#skiskyting",
+    "query": "#skiskyting",
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "leangen",
     "query": "leangen",
-    "rank": 15,
+    "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "litauen",
-    "query": "litauen",
-    "rank": 16,
+    "name": "Litauen",
+    "query": "Litauen",
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "vetle",
     "query": "vetle",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Oilers",
-    "query": "Oilers",
-    "rank": 18,
-    "tweet_count": "4,375 Tweets"
-  },
-  {
-    "name": "Sverre Lunde Pedersen",
-    "query": "\"Sverre Lunde Pedersen\"",
     "rank": 19,
     "tweet_count": null
   },
@@ -117,6 +117,6 @@
     "name": "Pogba",
     "query": "Pogba",
     "rank": 20,
-    "tweet_count": "36.8K Tweets"
+    "tweet_count": "36.9K Tweets"
   }
 ]
