@@ -1,63 +1,63 @@
 [
   {
-    "name": "#PSGRMA",
-    "query": "#PSGRMA",
-    "rank": 1,
-    "tweet_count": "171K Tweets"
-  },
-  {
     "name": "#EutanasiaLegale",
     "query": "#EutanasiaLegale",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "14.2K Tweets"
   },
   {
     "name": "#fuoridalcoro",
     "query": "#fuoridalcoro",
-    "rank": 3,
-    "tweet_count": "14.4K Tweets"
+    "rank": 2,
+    "tweet_count": "14.5K Tweets"
   },
   {
     "name": "#Tonica",
     "query": "#Tonica",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
+  },
+  {
+    "name": "#ChampionsLeague",
+    "query": "#ChampionsLeague",
+    "rank": 4,
+    "tweet_count": "37K Tweets"
   },
   {
     "name": "#leaunnuovogiorno",
     "query": "#leaunnuovogiorno",
     "rank": 5,
-    "tweet_count": "2,724 Tweets"
+    "tweet_count": "2,725 Tweets"
   },
   {
     "name": "Mbappe",
     "query": "Mbappe",
     "rank": 6,
-    "tweet_count": "604K Tweets"
+    "tweet_count": "605K Tweets"
   },
   {
     "name": "stiles",
     "query": "stiles",
     "rank": 7,
-    "tweet_count": "31.3K Tweets"
+    "tweet_count": "32.9K Tweets"
   },
   {
     "name": "Verratti",
     "query": "Verratti",
     "rank": 8,
-    "tweet_count": "67.1K Tweets"
+    "tweet_count": "67.6K Tweets"
   },
   {
-    "name": "Vaticano",
-    "query": "Vaticano",
+    "name": "vaticano",
+    "query": "vaticano",
     "rank": 9,
-    "tweet_count": "4,662 Tweets"
+    "tweet_count": "4,694 Tweets"
   },
   {
     "name": "Consulta",
     "query": "Consulta",
     "rank": 10,
-    "tweet_count": "42.3K Tweets"
+    "tweet_count": "42.9K Tweets"
   },
   {
     "name": "FLORIS",
@@ -69,35 +69,35 @@
     "name": "Parlamento",
     "query": "Parlamento",
     "rank": 12,
-    "tweet_count": "67.5K Tweets"
+    "tweet_count": "70K Tweets"
   },
   {
     "name": "Corte",
     "query": "Corte",
     "rank": 13,
-    "tweet_count": "68.5K Tweets"
+    "tweet_count": "70.8K Tweets"
   },
   {
     "name": "Travaglio",
     "query": "Travaglio",
     "rank": 14,
-    "tweet_count": "2,393 Tweets"
+    "tweet_count": "2,402 Tweets"
   },
   {
     "name": "#ILUNATICI",
     "query": "#ILUNATICI",
     "rank": 15,
-    "tweet_count": "1,983 Tweets"
+    "tweet_count": "1,978 Tweets"
   },
   {
-    "name": "#mediaset",
-    "query": "#mediaset",
+    "name": "#cartabianca",
+    "query": "#cartabianca",
     "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "#quandoPoi",
-    "query": "#quandoPoi",
+    "name": "#mediaset",
+    "query": "#mediaset",
     "rank": 17,
     "tweet_count": null
   },
@@ -105,12 +105,12 @@
     "name": "#Ucrainarussia",
     "query": "#Ucrainarussia",
     "rank": 18,
-    "tweet_count": "1,062 Tweets"
+    "tweet_count": "1,070 Tweets"
   },
   {
-    "name": "#RealMadrid",
-    "query": "#RealMadrid",
+    "name": "#quandoPoi",
+    "query": "#quandoPoi",
     "rank": 19,
-    "tweet_count": "17.4K Tweets"
+    "tweet_count": null
   }
 ]
