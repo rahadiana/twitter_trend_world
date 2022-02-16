@@ -1,33 +1,33 @@
 [
   {
+    "name": "#Bundestag",
+    "query": "#Bundestag",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "Sturm",
     "query": "Sturm",
-    "rank": 1,
-    "tweet_count": "8,811 Tweets"
+    "rank": 2,
+    "tweet_count": "9,173 Tweets"
   },
   {
     "name": "#QuerdenkerSindKacke",
     "query": "#QuerdenkerSindKacke",
-    "rank": 2,
-    "tweet_count": "1,901 Tweets"
+    "rank": 3,
+    "tweet_count": "2,014 Tweets"
   },
   {
     "name": "Porsche",
     "query": "Porsche",
-    "rank": 3,
-    "tweet_count": "12.1K Tweets"
+    "rank": 4,
+    "tweet_count": "12.4K Tweets"
   },
   {
     "name": "#Gebauer",
     "query": "#Gebauer",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "Lastenrad",
-    "query": "Lastenrad",
     "rank": 5,
-    "tweet_count": "1,172 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Unwetterwarnung",
@@ -39,13 +39,13 @@
     "name": "#DieMaskebleibtauf",
     "query": "#DieMaskebleibtauf",
     "rank": 7,
-    "tweet_count": "4,303 Tweets"
+    "tweet_count": "4,484 Tweets"
   },
   {
-    "name": "#Ylenia",
-    "query": "#Ylenia",
+    "name": "Lastenrad",
+    "query": "Lastenrad",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "1,197 Tweets"
   },
   {
     "name": "Distanzunterricht",
@@ -57,13 +57,13 @@
     "name": "Wii U",
     "query": "\"Wii U\"",
     "rank": 10,
-    "tweet_count": "101K Tweets"
+    "tweet_count": "102K Tweets"
   },
   {
-    "name": "Schulen in NRW",
-    "query": "\"Schulen in NRW\"",
+    "name": "Fischstäbchen",
+    "query": "Fischstäbchen",
     "rank": 11,
-    "tweet_count": "1,909 Tweets"
+    "tweet_count": "1,888 Tweets"
   },
   {
     "name": "Unterrichtsausfall",
@@ -72,14 +72,14 @@
     "tweet_count": null
   },
   {
-    "name": "Oetker",
-    "query": "Oetker",
+    "name": "Schulen in NRW",
+    "query": "\"Schulen in NRW\"",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "2,003 Tweets"
   },
   {
-    "name": "Abiturientinnen",
-    "query": "Abiturientinnen",
+    "name": "Oetker",
+    "query": "Oetker",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,36 +87,36 @@
     "name": "Ayato",
     "query": "Ayato",
     "rank": 15,
-    "tweet_count": "191K Tweets"
+    "tweet_count": "196K Tweets"
   },
   {
-    "name": "Pandemiegeschehen",
-    "query": "Pandemiegeschehen",
+    "name": "Abiturientinnen",
+    "query": "Abiturientinnen",
     "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "Lüften",
-    "query": "Lüften",
+    "name": "Pandemiegeschehen",
+    "query": "Pandemiegeschehen",
     "rank": 17,
-    "tweet_count": "1,207 Tweets"
-  },
-  {
-    "name": "Nachhilfe",
-    "query": "Nachhilfe",
-    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Abi-Abschluss",
     "query": "Abi-Abschluss",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "Pizza Hawaii",
-    "query": "\"Pizza Hawaii\"",
+    "name": "lüften",
+    "query": "lüften",
+    "rank": 19,
+    "tweet_count": "1,231 Tweets"
+  },
+  {
+    "name": "Coaching",
+    "query": "Coaching",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "30.1K Tweets"
   }
 ]
