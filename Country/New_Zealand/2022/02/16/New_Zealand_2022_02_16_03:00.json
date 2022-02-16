@@ -1,15 +1,15 @@
 [
   {
-    "name": "Harvard",
-    "query": "Harvard",
-    "rank": 1,
-    "tweet_count": "22.4K Tweets"
-  },
-  {
     "name": "Romeo and Juliet",
     "query": "\"Romeo and Juliet\"",
+    "rank": 1,
+    "tweet_count": "1,640 Tweets"
+  },
+  {
+    "name": "Harvard",
+    "query": "Harvard",
     "rank": 2,
-    "tweet_count": "1,614 Tweets"
+    "tweet_count": "22.9K Tweets"
   },
   {
     "name": "Sultans of Swing",
@@ -18,28 +18,28 @@
     "tweet_count": null
   },
   {
-    "name": "Seymour",
-    "query": "Seymour",
-    "rank": 4,
-    "tweet_count": "2,962 Tweets"
-  },
-  {
     "name": "Bryce",
     "query": "Bryce",
-    "rank": 5,
-    "tweet_count": "7,137 Tweets"
+    "rank": 4,
+    "tweet_count": "7,275 Tweets"
   },
   {
-    "name": "#NZvIND",
-    "query": "#NZvIND",
+    "name": "David Seymour",
+    "query": "\"David Seymour\"",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "#nzvind",
+    "query": "#nzvind",
     "rank": 6,
-    "tweet_count": "3,456 Tweets"
+    "tweet_count": "3,465 Tweets"
   },
   {
     "name": "Sign the Petition",
     "query": "\"Sign the Petition\"",
     "rank": 7,
-    "tweet_count": "24.8K Tweets"
+    "tweet_count": "25K Tweets"
   },
   {
     "name": "Freedom Groups in Wellington",
@@ -51,71 +51,71 @@
     "name": "Happy Valentines",
     "query": "\"Happy Valentines\"",
     "rank": 9,
-    "tweet_count": "372K Tweets"
+    "tweet_count": "373K Tweets"
   },
   {
-    "name": "Simon Bridges",
-    "query": "\"Simon Bridges\"",
+    "name": "chris penk",
+    "query": "\"chris penk\"",
     "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Wordle 242 X",
-    "query": "\"Wordle 242 X\"",
-    "rank": 11,
-    "tweet_count": "3,624 Tweets"
-  },
-  {
-    "name": "Melissa Lee",
-    "query": "\"Melissa Lee\"",
-    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "melie kerr",
     "query": "\"melie kerr\"",
-    "rank": 13,
+    "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "Chris Penk",
-    "query": "\"Chris Penk\"",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Prince Andrew",
-    "query": "\"Prince Andrew\"",
-    "rank": 15,
-    "tweet_count": "121K Tweets"
+    "name": "#Wordle242",
+    "query": "#Wordle242",
+    "rank": 12,
+    "tweet_count": "1,625 Tweets"
   },
   {
     "name": "Eileen",
     "query": "Eileen",
-    "rank": 16,
-    "tweet_count": "7,857 Tweets"
+    "rank": 13,
+    "tweet_count": "7,995 Tweets"
   },
   {
     "name": "Nazis",
     "query": "Nazis",
-    "rank": 17,
-    "tweet_count": "37.6K Tweets"
+    "rank": 14,
+    "tweet_count": "38K Tweets"
+  },
+  {
+    "name": "Simeon Brown",
+    "query": "\"Simeon Brown\"",
+    "rank": 15,
+    "tweet_count": null
   },
   {
     "name": "tame iti",
     "query": "\"tame iti\"",
-    "rank": 18,
+    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "Daily Quordle",
-    "query": "\"Daily Quordle\"",
-    "rank": 19,
-    "tweet_count": "7,928 Tweets"
+    "name": "Bridges",
+    "query": "Bridges",
+    "rank": 17,
+    "tweet_count": "24.2K Tweets"
   },
   {
-    "name": "Todd McClay",
-    "query": "\"Todd McClay\"",
+    "name": "Prince Andrew",
+    "query": "\"Prince Andrew\"",
+    "rank": 18,
+    "tweet_count": "122K Tweets"
+  },
+  {
+    "name": "Simon O'Connor",
+    "query": "\"Simon O'Connor\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "zoi sadowski-synnott",
+    "query": "\"zoi sadowski-synnott\"",
     "rank": 20,
     "tweet_count": null
   }
