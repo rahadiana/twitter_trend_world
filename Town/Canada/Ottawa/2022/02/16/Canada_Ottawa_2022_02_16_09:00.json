@@ -9,25 +9,25 @@
     "name": "Slovakia",
     "query": "Slovakia",
     "rank": 2,
-    "tweet_count": "6,532 Tweets"
+    "tweet_count": "6,593 Tweets"
   },
   {
     "name": "Valentine's Day",
     "query": "\"Valentine's Day\"",
     "rank": 3,
-    "tweet_count": "1.03M Tweets"
-  },
-  {
-    "name": "#LetsGoOilers",
-    "query": "#LetsGoOilers",
-    "rank": 4,
-    "tweet_count": "2,175 Tweets"
+    "tweet_count": "1.04M Tweets"
   },
   {
     "name": "Lemieux",
     "query": "Lemieux",
+    "rank": 4,
+    "tweet_count": "2,862 Tweets"
+  },
+  {
+    "name": "#Oilers",
+    "query": "#Oilers",
     "rank": 5,
-    "tweet_count": "2,852 Tweets"
+    "tweet_count": "1,025 Tweets"
   },
   {
     "name": "#VERZUZ",
@@ -36,64 +36,64 @@
     "tweet_count": "86.9K Tweets"
   },
   {
+    "name": "Toffoli",
+    "query": "Toffoli",
+    "rank": 7,
+    "tweet_count": "5,556 Tweets"
+  },
+  {
     "name": "Coutts",
     "query": "Coutts",
-    "rank": 7,
-    "tweet_count": "54.5K Tweets"
+    "rank": 8,
+    "tweet_count": "54.7K Tweets"
   },
   {
     "name": "#DragRaceUK",
     "query": "#DragRaceUK",
-    "rank": 8,
-    "tweet_count": "31.1K Tweets"
+    "rank": 9,
+    "tweet_count": "31.3K Tweets"
+  },
+  {
+    "name": "Messi",
+    "query": "Messi",
+    "rank": 10,
+    "tweet_count": "629K Tweets"
   },
   {
     "name": "Wii U",
     "query": "\"Wii U\"",
-    "rank": 9,
-    "tweet_count": "55.3K Tweets"
+    "rank": 11,
+    "tweet_count": "81.5K Tweets"
   },
   {
     "name": "#PSGRMA",
     "query": "#PSGRMA",
-    "rank": 10,
-    "tweet_count": "176K Tweets"
+    "rank": 12,
+    "tweet_count": "177K Tweets"
   },
   {
-    "name": "#flagday",
-    "query": "#flagday",
-    "rank": 11,
-    "tweet_count": "2,373 Tweets"
+    "name": "#FlagDay",
+    "query": "#FlagDay",
+    "rank": 13,
+    "tweet_count": "2,383 Tweets"
   },
   {
     "name": "David's Tea",
     "query": "\"David's Tea\"",
-    "rank": 12,
-    "tweet_count": "3,364 Tweets"
+    "rank": 14,
+    "tweet_count": "3,366 Tweets"
   },
   {
     "name": "Mbappe",
     "query": "Mbappe",
-    "rank": 13,
-    "tweet_count": "652K Tweets"
+    "rank": 15,
+    "tweet_count": "655K Tweets"
   },
   {
     "name": "RCMP",
     "query": "RCMP",
-    "rank": 14,
-    "tweet_count": "36.9K Tweets"
-  },
-  {
-    "name": "Barrie",
-    "query": "Barrie",
-    "rank": 15,
-    "tweet_count": "2,035 Tweets"
-  },
-  {
-    "name": "Daily Quordle",
-    "query": "\"Daily Quordle\"",
     "rank": 16,
-    "tweet_count": "8,577 Tweets"
+    "tweet_count": "37K Tweets"
   },
   {
     "name": "Russell Martin",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "Beniers",
-    "query": "Beniers",
+    "name": "Daily Quordle",
+    "query": "\"Daily Quordle\"",
     "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Peter Sloly",
-    "query": "\"Peter Sloly\"",
-    "rank": 19,
-    "tweet_count": "24.4K Tweets"
+    "tweet_count": "8,655 Tweets"
   },
   {
     "name": "Dean French",
     "query": "\"Dean French\"",
+    "rank": 19,
+    "tweet_count": "5,059 Tweets"
+  },
+  {
+    "name": "peter sloly",
+    "query": "\"peter sloly\"",
     "rank": 20,
-    "tweet_count": "5,057 Tweets"
+    "tweet_count": "24.4K Tweets"
   }
 ]
