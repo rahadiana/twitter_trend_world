@@ -1,21 +1,21 @@
 [
   {
-    "name": "باريس",
-    "query": "باريس",
-    "rank": 1,
-    "tweet_count": "97K Tweets"
-  },
-  {
     "name": "كورتوا",
     "query": "كورتوا",
+    "rank": 1,
+    "tweet_count": "31K Tweets"
+  },
+  {
+    "name": "باريس",
+    "query": "باريس",
     "rank": 2,
-    "tweet_count": "30.9K Tweets"
+    "tweet_count": "97.2K Tweets"
   },
   {
     "name": "ميسي",
     "query": "ميسي",
     "rank": 3,
-    "tweet_count": "54.9K Tweets"
+    "tweet_count": "55.1K Tweets"
   },
   {
     "name": "#دوري_ابطال_اوروبا",
@@ -24,16 +24,16 @@
     "tweet_count": "28.5K Tweets"
   },
   {
-    "name": "#الدحيل",
-    "query": "#الدحيل",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
     "name": "انشيلوتي",
     "query": "انشيلوتي",
+    "rank": 5,
+    "tweet_count": "13.4K Tweets"
+  },
+  {
+    "name": "#الدحيل",
+    "query": "#الدحيل",
     "rank": 6,
-    "tweet_count": "13.3K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#الريان",
@@ -57,66 +57,66 @@
     "name": "دوناروما",
     "query": "دوناروما",
     "rank": 10,
-    "tweet_count": "3,290 Tweets"
+    "tweet_count": "3,299 Tweets"
   },
   {
     "name": "Madrid",
     "query": "Madrid",
     "rank": 11,
-    "tweet_count": "688K Tweets"
+    "tweet_count": "690K Tweets"
   },
   {
     "name": "الشوط الاول",
     "query": "\"الشوط الاول\"",
     "rank": 12,
-    "tweet_count": "4,778 Tweets"
+    "tweet_count": "4,787 Tweets"
+  },
+  {
+    "name": "اردوغان",
+    "query": "اردوغان",
+    "rank": 13,
+    "tweet_count": "16.9K Tweets"
   },
   {
     "name": "Cassie",
     "query": "Cassie",
-    "rank": 13,
-    "tweet_count": "88.2K Tweets"
-  },
-  {
-    "name": "الجرعه الثالثه",
-    "query": "\"الجرعه الثالثه\"",
     "rank": 14,
-    "tweet_count": "3,860 Tweets"
-  },
-  {
-    "name": "ليفربول",
-    "query": "ليفربول",
-    "rank": 15,
-    "tweet_count": "7,680 Tweets"
+    "tweet_count": "88.6K Tweets"
   },
   {
     "name": "Islam",
     "query": "Islam",
-    "rank": 16,
-    "tweet_count": "61.3K Tweets"
+    "rank": 15,
+    "tweet_count": "61.8K Tweets"
   },
   {
-    "name": "Happy Valentines",
-    "query": "\"Happy Valentines\"",
+    "name": "الجرعه الثالثه",
+    "query": "\"الجرعه الثالثه\"",
+    "rank": 16,
+    "tweet_count": "3,899 Tweets"
+  },
+  {
+    "name": "تركيا",
+    "query": "تركيا",
     "rank": 17,
-    "tweet_count": "229K Tweets"
+    "tweet_count": "22K Tweets"
   },
   {
     "name": "Round of 16",
     "query": "\"Round of 16\"",
     "rank": 18,
-    "tweet_count": "11.6K Tweets"
+    "tweet_count": "11.8K Tweets"
   },
   {
     "name": "Liverpool",
     "query": "Liverpool",
     "rank": 19,
-    "tweet_count": "66K Tweets"
+    "tweet_count": "66.8K Tweets"
   },
   {
-    "name": "Ukraine",
-    "query": "Ukraine",
+    "name": "Happy Valentines",
+    "query": "\"Happy Valentines\"",
     "rank": 20,
-    "tweet_count": "518K Tweets"
+    "tweet_count": "229K Tweets"
   }
 ]

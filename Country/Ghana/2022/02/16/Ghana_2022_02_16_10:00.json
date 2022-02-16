@@ -1,9 +1,9 @@
 [
   {
-    "name": "#PSGRMA",
-    "query": "#PSGRMA",
+    "name": "Macbook",
+    "query": "Macbook",
     "rank": 1,
-    "tweet_count": "175K Tweets"
+    "tweet_count": "11K Tweets"
   },
   {
     "name": "#PSGRMA",
@@ -12,40 +12,40 @@
     "tweet_count": "175K Tweets"
   },
   {
-    "name": "MacBook",
-    "query": "MacBook",
-    "rank": 3,
-    "tweet_count": "10.7K Tweets"
-  },
-  {
     "name": "Francis",
     "query": "Francis",
+    "rank": 3,
+    "tweet_count": "24.3K Tweets"
+  },
+  {
+    "name": "Madrid",
+    "query": "Madrid",
     "rank": 4,
-    "tweet_count": "24K Tweets"
+    "tweet_count": "690K Tweets"
   },
   {
     "name": "Brighton",
     "query": "Brighton",
     "rank": 5,
-    "tweet_count": "96.7K Tweets"
-  },
-  {
-    "name": "E-levy",
-    "query": "E-levy",
-    "rank": 6,
-    "tweet_count": "7,365 Tweets"
+    "tweet_count": "96.9K Tweets"
   },
   {
     "name": "#TheBigBreakfast",
     "query": "#TheBigBreakfast",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
+  },
+  {
+    "name": "E-levy",
+    "query": "E-levy",
+    "rank": 7,
+    "tweet_count": "7,629 Tweets"
   },
   {
     "name": "UTAG",
     "query": "UTAG",
     "rank": 8,
-    "tweet_count": "15.5K Tweets"
+    "tweet_count": "15.6K Tweets"
   },
   {
     "name": "#TV3NewDay",
@@ -54,52 +54,52 @@
     "tweet_count": null
   },
   {
-    "name": "#RYSENSHYNE",
-    "query": "#RYSENSHYNE",
+    "name": "#MMRS",
+    "query": "#MMRS",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Ronaldo",
-    "query": "Ronaldo",
+    "name": "#rysenshyne",
+    "query": "#rysenshyne",
     "rank": 11,
-    "tweet_count": "248K Tweets"
-  },
-  {
-    "name": "Yaw Dabo",
-    "query": "\"Yaw Dabo\"",
-    "rank": 12,
-    "tweet_count": "2,808 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Mr. President",
     "query": "\"Mr. President\"",
+    "rank": 12,
+    "tweet_count": "7,428 Tweets"
+  },
+  {
+    "name": "Yaw Dabo",
+    "query": "\"Yaw Dabo\"",
     "rank": 13,
-    "tweet_count": "7,349 Tweets"
+    "tweet_count": "2,816 Tweets"
   },
   {
     "name": "Tyga",
     "query": "Tyga",
     "rank": 14,
-    "tweet_count": "7,099 Tweets"
+    "tweet_count": "7,186 Tweets"
   },
   {
     "name": "Casemiro",
     "query": "Casemiro",
     "rank": 15,
-    "tweet_count": "79.9K Tweets"
+    "tweet_count": "80.1K Tweets"
+  },
+  {
+    "name": "Abronye DC",
+    "query": "\"Abronye DC\"",
+    "rank": 16,
+    "tweet_count": "2,137 Tweets"
   },
   {
     "name": "Happy Vals",
     "query": "\"Happy Vals\"",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "abronye dc",
-    "query": "\"abronye dc\"",
     "rank": 17,
-    "tweet_count": "2,120 Tweets"
+    "tweet_count": null
   },
   {
     "name": "NABCO",
@@ -111,12 +111,12 @@
     "name": "CONGRATULATIONS LIQUOROSE",
     "query": "\"CONGRATULATIONS LIQUOROSE\"",
     "rank": 19,
-    "tweet_count": "49.6K Tweets"
+    "tweet_count": "49.7K Tweets"
   },
   {
     "name": "Lil Wayne",
     "query": "\"Lil Wayne\"",
     "rank": 20,
-    "tweet_count": "3,609 Tweets"
+    "tweet_count": "3,636 Tweets"
   }
 ]
