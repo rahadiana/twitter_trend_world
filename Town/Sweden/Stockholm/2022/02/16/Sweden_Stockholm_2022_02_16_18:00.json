@@ -1,51 +1,51 @@
 [
   {
-    "name": "Kanada",
-    "query": "Kanada",
-    "rank": 1,
-    "tweet_count": "16.3K Tweets"
-  },
-  {
     "name": "Åkesson",
     "query": "Åkesson",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "Tre Kronor",
-    "query": "\"Tre Kronor\"",
-    "rank": 3,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "Biden",
     "query": "Biden",
-    "rank": 4,
-    "tweet_count": "513K Tweets"
+    "rank": 2,
+    "tweet_count": "523K Tweets"
   },
   {
-    "name": "Lasse Johansson",
-    "query": "\"Lasse Johansson\"",
-    "rank": 5,
+    "name": "Kanada",
+    "query": "Kanada",
+    "rank": 3,
+    "tweet_count": "16.7K Tweets"
+  },
+  {
+    "name": "Tre Kronor",
+    "query": "\"Tre Kronor\"",
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "Putin",
+    "query": "Putin",
+    "rank": 5,
+    "tweet_count": "372K Tweets"
   },
   {
     "name": "Ukraina",
     "query": "Ukraina",
     "rank": 6,
-    "tweet_count": "19.1K Tweets"
+    "tweet_count": "19.4K Tweets"
+  },
+  {
+    "name": "arlanda",
+    "query": "arlanda",
+    "rank": 7,
+    "tweet_count": null
   },
   {
     "name": "Jonna",
     "query": "Jonna",
-    "rank": 7,
-    "tweet_count": "3,144 Tweets"
-  },
-  {
-    "name": "Arlanda",
-    "query": "Arlanda",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "3,165 Tweets"
   },
   {
     "name": "Guidetti",
@@ -54,69 +54,69 @@
     "tweet_count": null
   },
   {
-    "name": "Putin",
-    "query": "Putin",
+    "name": "Wallmark",
+    "query": "Wallmark",
     "rank": 10,
-    "tweet_count": "365K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Lucas Wallmark",
-    "query": "\"Lucas Wallmark\"",
+    "name": "Ericsson",
+    "query": "Ericsson",
     "rank": 11,
+    "tweet_count": "3,044 Tweets"
+  },
+  {
+    "name": "jesper tjäder",
+    "query": "\"jesper tjäder\"",
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Elvira",
     "query": "Elvira",
-    "rank": 12,
-    "tweet_count": "3,345 Tweets"
-  },
-  {
-    "name": "Ericsson",
-    "query": "Ericsson",
     "rank": 13,
-    "tweet_count": "2,938 Tweets"
+    "tweet_count": "3,398 Tweets"
   },
   {
-    "name": "Jesper Tjäder",
-    "query": "\"Jesper Tjäder\"",
+    "name": "Lasse",
+    "query": "Lasse",
     "rank": 14,
-    "tweet_count": null
+    "tweet_count": "4,895 Tweets"
   },
   {
     "name": "Mbappe",
     "query": "Mbappe",
     "rank": 15,
-    "tweet_count": "707K Tweets"
+    "tweet_count": "710K Tweets"
+  },
+  {
+    "name": "#twittssk",
+    "query": "#twittssk",
+    "rank": 16,
+    "tweet_count": null
   },
   {
     "name": "#skidskytte",
     "query": "#skidskytte",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Laila Freivalds",
     "query": "\"Laila Freivalds\"",
-    "rank": 17,
-    "tweet_count": "1,166 Tweets"
-  },
-  {
-    "name": "OS-hockeyn",
-    "query": "OS-hockeyn",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "1,194 Tweets"
   },
   {
-    "name": "Linn",
-    "query": "Linn",
+    "name": "Kevinfallet",
+    "query": "Kevinfallet",
     "rank": 19,
-    "tweet_count": "29.7K Tweets"
+    "tweet_count": "1,199 Tweets"
   },
   {
     "name": "Ryssland",
     "query": "Ryssland",
     "rank": 20,
-    "tweet_count": "1,684 Tweets"
+    "tweet_count": "1,731 Tweets"
   }
 ]
