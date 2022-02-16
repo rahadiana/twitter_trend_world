@@ -12,16 +12,16 @@
     "tweet_count": "171K Tweets"
   },
   {
-    "name": "Happy Valentines",
-    "query": "\"Happy Valentines\"",
+    "name": "kondolerer",
+    "query": "kondolerer",
     "rank": 3,
-    "tweet_count": "373K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Kondolerer",
-    "query": "Kondolerer",
+    "name": "Happy Valentines",
+    "query": "\"Happy Valentines\"",
     "rank": 4,
-    "tweet_count": null
+    "tweet_count": "374K Tweets"
   },
   {
     "name": "riiber",
@@ -33,7 +33,7 @@
     "name": "Brighton",
     "query": "Brighton",
     "rank": 6,
-    "tweet_count": "95.8K Tweets"
+    "tweet_count": "95.9K Tweets"
   },
   {
     "name": "#nrkdebatt",
@@ -45,35 +45,35 @@
     "name": "Maguire",
     "query": "Maguire",
     "rank": 8,
-    "tweet_count": "48.2K Tweets"
-  },
-  {
-    "name": "Ronaldo",
-    "query": "Ronaldo",
-    "rank": 9,
-    "tweet_count": "230K Tweets"
+    "tweet_count": "48.4K Tweets"
   },
   {
     "name": "jørgen graabak",
     "query": "\"jørgen graabak\"",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
+  },
+  {
+    "name": "Ronaldo",
+    "query": "Ronaldo",
+    "rank": 10,
+    "tweet_count": "231K Tweets"
   },
   {
     "name": "Elanga",
     "query": "Elanga",
     "rank": 11,
-    "tweet_count": "8,416 Tweets"
+    "tweet_count": "8,423 Tweets"
   },
   {
     "name": "#MUNBHA",
     "query": "#MUNBHA",
     "rank": 12,
-    "tweet_count": "81.4K Tweets"
+    "tweet_count": "81.6K Tweets"
   },
   {
-    "name": "#nnpf",
-    "query": "#nnpf",
+    "name": "#NNPF",
+    "query": "#NNPF",
     "rank": 13,
     "tweet_count": null
   },
@@ -84,27 +84,27 @@
     "tweet_count": null
   },
   {
-    "name": "Real Madrid",
-    "query": "\"Real Madrid\"",
-    "rank": 15,
-    "tweet_count": "404K Tweets"
-  },
-  {
     "name": "leangen",
     "query": "leangen",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
-  },
-  {
-    "name": "Pogba",
-    "query": "Pogba",
-    "rank": 17,
-    "tweet_count": "36K Tweets"
   },
   {
     "name": "Litauen",
     "query": "Litauen",
-    "rank": 18,
+    "rank": 16,
     "tweet_count": null
+  },
+  {
+    "name": "vetle",
+    "query": "vetle",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Oilers",
+    "query": "Oilers",
+    "rank": 18,
+    "tweet_count": "4,546 Tweets"
   }
 ]
