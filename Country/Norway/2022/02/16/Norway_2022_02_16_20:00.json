@@ -12,38 +12,38 @@
     "tweet_count": null
   },
   {
-    "name": "Voss",
-    "query": "Voss",
-    "rank": 3,
-    "tweet_count": "2,649 Tweets"
-  },
-  {
     "name": "Valnes",
     "query": "Valnes",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
-    "name": "#PSGRMA",
-    "query": "#PSGRMA",
-    "rank": 5,
-    "tweet_count": "115K Tweets"
+    "name": "Voss",
+    "query": "Voss",
+    "rank": 4,
+    "tweet_count": "2,700 Tweets"
   },
   {
     "name": "#MUNBHA",
     "query": "#MUNBHA",
+    "rank": 5,
+    "tweet_count": "74K Tweets"
+  },
+  {
+    "name": "#PSGRMA",
+    "query": "#PSGRMA",
     "rank": 6,
-    "tweet_count": "73.6K Tweets"
+    "tweet_count": "116K Tweets"
   },
   {
     "name": "#GDS2022",
     "query": "#GDS2022",
     "rank": 7,
-    "tweet_count": "4,282 Tweets"
+    "tweet_count": "4,309 Tweets"
   },
   {
-    "name": "klæbo",
-    "query": "klæbo",
+    "name": "Klæbo",
+    "query": "Klæbo",
     "rank": 8,
     "tweet_count": null
   },
@@ -63,7 +63,7 @@
     "name": "Oilers",
     "query": "Oilers",
     "rank": 11,
-    "tweet_count": "4,902 Tweets"
+    "tweet_count": "4,935 Tweets"
   },
   {
     "name": "kåss",
@@ -75,48 +75,48 @@
     "name": "Stoltenberg",
     "query": "Stoltenberg",
     "rank": 13,
-    "tweet_count": "6,568 Tweets"
+    "tweet_count": "6,624 Tweets"
   },
   {
     "name": "Mamma",
     "query": "Mamma",
     "rank": 14,
-    "tweet_count": "17.8K Tweets"
+    "tweet_count": "18.1K Tweets"
   },
   {
     "name": "Elanga",
     "query": "Elanga",
     "rank": 15,
-    "tweet_count": "8,493 Tweets"
+    "tweet_count": "8,500 Tweets"
   },
   {
-    "name": "Agder",
-    "query": "Agder",
+    "name": "agder",
+    "query": "agder",
     "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Storhamar",
+    "query": "Storhamar",
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Glasgow",
     "query": "Glasgow",
-    "rank": 17,
-    "tweet_count": "14.2K Tweets"
+    "rank": 18,
+    "tweet_count": "14.4K Tweets"
   },
   {
     "name": "Troms",
     "query": "Troms",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Maguire",
     "query": "Maguire",
-    "rank": 19,
-    "tweet_count": "33.6K Tweets"
-  },
-  {
-    "name": "storhamar",
-    "query": "storhamar",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "33.9K Tweets"
   }
 ]
