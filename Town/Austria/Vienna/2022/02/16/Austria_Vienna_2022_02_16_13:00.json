@@ -1,21 +1,21 @@
 [
   {
+    "name": "#zibspezial",
+    "query": "#zibspezial",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "#Pressekonferenz",
     "query": "#Pressekonferenz",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#FreedomDay",
     "query": "#FreedomDay",
-    "rank": 2,
-    "tweet_count": "11.6K Tweets"
-  },
-  {
-    "name": "#zibspezial",
-    "query": "#zibspezial",
     "rank": 3,
-    "tweet_count": null
+    "tweet_count": "12K Tweets"
   },
   {
     "name": "#CoronaVirusAT",
@@ -27,7 +27,7 @@
     "name": "Herbst",
     "query": "Herbst",
     "rank": 5,
-    "tweet_count": "5,110 Tweets"
+    "tweet_count": "5,373 Tweets"
   },
   {
     "name": "#COVID19at",
@@ -36,87 +36,87 @@
     "tweet_count": null
   },
   {
+    "name": "Impfpflicht",
+    "query": "Impfpflicht",
+    "rank": 7,
+    "tweet_count": "24.2K Tweets"
+  },
+  {
     "name": "Maske",
     "query": "Maske",
-    "rank": 7,
-    "tweet_count": "26.2K Tweets"
+    "rank": 8,
+    "tweet_count": "27.2K Tweets"
   },
   {
     "name": "Ludwig",
     "query": "Ludwig",
-    "rank": 8,
-    "tweet_count": "3,084 Tweets"
-  },
-  {
-    "name": "Afrika",
-    "query": "Afrika",
     "rank": 9,
-    "tweet_count": "9,795 Tweets"
-  },
-  {
-    "name": "Impfpflicht",
-    "query": "Impfpflicht",
-    "rank": 10,
-    "tweet_count": "23.4K Tweets"
+    "tweet_count": "3,181 Tweets"
   },
   {
     "name": "Maßnahmen",
     "query": "Maßnahmen",
+    "rank": 10,
+    "tweet_count": "29.9K Tweets"
+  },
+  {
+    "name": "Afrika",
+    "query": "Afrika",
     "rank": 11,
-    "tweet_count": "28.8K Tweets"
+    "tweet_count": "10.1K Tweets"
   },
   {
     "name": "Pandemie",
     "query": "Pandemie",
     "rank": 12,
-    "tweet_count": "30.6K Tweets"
+    "tweet_count": "31.3K Tweets"
+  },
+  {
+    "name": "Öffnungen",
+    "query": "Öffnungen",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Mückstein",
+    "query": "Mückstein",
+    "rank": 14,
+    "tweet_count": "1,581 Tweets"
   },
   {
     "name": "windelwechsel",
     "query": "windelwechsel",
-    "rank": 13,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Endemie",
     "query": "Endemie",
-    "rank": 14,
+    "rank": 16,
     "tweet_count": null
+  },
+  {
+    "name": "Valentinstag",
+    "query": "Valentinstag",
+    "rank": 17,
+    "tweet_count": "2,430 Tweets"
   },
   {
     "name": "Experten",
     "query": "Experten",
-    "rank": 15,
-    "tweet_count": "3,397 Tweets"
+    "rank": 18,
+    "tweet_count": "3,590 Tweets"
   },
   {
     "name": "Gruppen",
     "query": "Gruppen",
-    "rank": 16,
-    "tweet_count": "1,661 Tweets"
-  },
-  {
-    "name": "Mückstein",
-    "query": "Mückstein",
-    "rank": 17,
-    "tweet_count": "1,044 Tweets"
+    "rank": 19,
+    "tweet_count": "1,654 Tweets"
   },
   {
     "name": "G-Regeln",
     "query": "G-Regeln",
-    "rank": 18,
-    "tweet_count": "1,088 Tweets"
-  },
-  {
-    "name": "Toten",
-    "query": "Toten",
-    "rank": 19,
-    "tweet_count": "1,577 Tweets"
-  },
-  {
-    "name": "Geografen",
-    "query": "Geografen",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "1,140 Tweets"
   }
 ]
