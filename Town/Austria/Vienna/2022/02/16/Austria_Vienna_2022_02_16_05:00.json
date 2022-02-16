@@ -1,7 +1,7 @@
 [
   {
-    "name": "#Schramböck",
-    "query": "#Schramböck",
+    "name": "#schramböck",
+    "query": "#schramböck",
     "rank": 1,
     "tweet_count": null
   },
@@ -9,7 +9,7 @@
     "name": "Afrika",
     "query": "Afrika",
     "rank": 2,
-    "tweet_count": "8,956 Tweets"
+    "tweet_count": "9,014 Tweets"
   },
   {
     "name": "#PSGRMA",
@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "#polaschek",
-    "query": "#polaschek",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
     "name": "#valentinstag",
     "query": "#valentinstag",
+    "rank": 5,
+    "tweet_count": "1,311 Tweets"
+  },
+  {
+    "name": "#polaschek",
+    "query": "#polaschek",
     "rank": 6,
-    "tweet_count": "1,310 Tweets"
+    "tweet_count": null
   },
   {
     "name": "geografen",
@@ -45,31 +45,31 @@
     "name": "Valentines Day",
     "query": "\"Valentines Day\"",
     "rank": 8,
-    "tweet_count": "432K Tweets"
-  },
-  {
-    "name": "Messi",
-    "query": "Messi",
-    "rank": 9,
-    "tweet_count": "606K Tweets"
-  },
-  {
-    "name": "Masken",
-    "query": "Masken",
-    "rank": 10,
-    "tweet_count": "15.4K Tweets"
+    "tweet_count": "433K Tweets"
   },
   {
     "name": "Windelwechsel",
     "query": "Windelwechsel",
-    "rank": 11,
+    "rank": 9,
     "tweet_count": null
+  },
+  {
+    "name": "Messi",
+    "query": "Messi",
+    "rank": 10,
+    "tweet_count": "608K Tweets"
   },
   {
     "name": "Scholz",
     "query": "Scholz",
+    "rank": 11,
+    "tweet_count": "44K Tweets"
+  },
+  {
+    "name": "Masken",
+    "query": "Masken",
     "rank": 12,
-    "tweet_count": "43.9K Tweets"
+    "tweet_count": "15.5K Tweets"
   },
   {
     "name": "willkommen österreich",
@@ -78,16 +78,16 @@
     "tweet_count": null
   },
   {
-    "name": "Ministerin",
-    "query": "Ministerin",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
     "name": "Mbappe",
     "query": "Mbappe",
+    "rank": 14,
+    "tweet_count": "617K Tweets"
+  },
+  {
+    "name": "Ministerin",
+    "query": "Ministerin",
     "rank": 15,
-    "tweet_count": "616K Tweets"
+    "tweet_count": null
   },
   {
     "name": "versprecher",
@@ -96,8 +96,8 @@
     "tweet_count": null
   },
   {
-    "name": "Anna Gasser",
-    "query": "\"Anna Gasser\"",
+    "name": "anna gasser",
+    "query": "\"anna gasser\"",
     "rank": 17,
     "tweet_count": null
   },
@@ -105,17 +105,17 @@
     "name": "Kanada",
     "query": "Kanada",
     "rank": 18,
-    "tweet_count": "18.7K Tweets"
+    "tweet_count": "18.8K Tweets"
   },
   {
-    "name": "Champions League",
-    "query": "\"Champions League\"",
+    "name": "kindeswohl",
+    "query": "kindeswohl",
     "rank": 19,
-    "tweet_count": "150K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Kindeswohl",
-    "query": "Kindeswohl",
+    "name": "Vermögen",
+    "query": "Vermögen",
     "rank": 20,
     "tweet_count": null
   }
