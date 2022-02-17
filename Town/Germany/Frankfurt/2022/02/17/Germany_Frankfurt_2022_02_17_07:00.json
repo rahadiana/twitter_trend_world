@@ -3,37 +3,37 @@
     "name": "Sturm",
     "query": "Sturm",
     "rank": 1,
-    "tweet_count": "25.3K Tweets"
+    "tweet_count": "26K Tweets"
   },
   {
     "name": "#Ylenia",
     "query": "#Ylenia",
     "rank": 2,
-    "tweet_count": "2,106 Tweets"
+    "tweet_count": "2,257 Tweets"
   },
   {
     "name": "#Basisschutzmassnahmen",
     "query": "#Basisschutzmassnahmen",
     "rank": 3,
-    "tweet_count": "6,464 Tweets"
-  },
-  {
-    "name": "Mülltonnen",
-    "query": "Mülltonnen",
-    "rank": 4,
-    "tweet_count": null
+    "tweet_count": "6,766 Tweets"
   },
   {
     "name": "Bäume",
     "query": "Bäume",
-    "rank": 5,
-    "tweet_count": "2,566 Tweets"
+    "rank": 4,
+    "tweet_count": "2,660 Tweets"
   },
   {
-    "name": "Böen",
-    "query": "Böen",
+    "name": "Wordle 243 X",
+    "query": "\"Wordle 243 X\"",
+    "rank": 5,
+    "tweet_count": "11.4K Tweets"
+  },
+  {
+    "name": "Mülltonnen",
+    "query": "Mülltonnen",
     "rank": 6,
-    "tweet_count": "3,267 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Äste",
@@ -45,11 +45,11 @@
     "name": "Der Wind",
     "query": "\"Der Wind\"",
     "rank": 8,
-    "tweet_count": "2,987 Tweets"
+    "tweet_count": "3,027 Tweets"
   },
   {
-    "name": "Winde",
-    "query": "Winde",
+    "name": "Lüftchen",
+    "query": "Lüftchen",
     "rank": 9,
     "tweet_count": null
   },
@@ -57,54 +57,60 @@
     "name": "#AberOhneStaat",
     "query": "#AberOhneStaat",
     "rank": 10,
-    "tweet_count": "2,004 Tweets"
+    "tweet_count": "2,045 Tweets"
   },
   {
-    "name": "#Orkan",
-    "query": "#Orkan",
+    "name": "Winde",
+    "query": "Winde",
     "rank": 11,
-    "tweet_count": "3,396 Tweets"
-  },
-  {
-    "name": "Locken",
-    "query": "Locken",
-    "rank": 12,
     "tweet_count": null
-  },
-  {
-    "name": "Lüftchen",
-    "query": "Lüftchen",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Balkon",
-    "query": "Balkon",
-    "rank": 14,
-    "tweet_count": "2,189 Tweets"
   },
   {
     "name": "Dach",
     "query": "Dach",
+    "rank": 12,
+    "tweet_count": "2,147 Tweets"
+  },
+  {
+    "name": "Böen",
+    "query": "Böen",
+    "rank": 13,
+    "tweet_count": "3,282 Tweets"
+  },
+  {
+    "name": "#Orkan",
+    "query": "#Orkan",
+    "rank": 14,
+    "tweet_count": "3,384 Tweets"
+  },
+  {
+    "name": "Bundesländern",
+    "query": "Bundesländern",
     "rank": 15,
-    "tweet_count": "2,087 Tweets"
+    "tweet_count": "1,111 Tweets"
   },
   {
-    "name": "Unwetter",
-    "query": "Unwetter",
+    "name": "Balkon",
+    "query": "Balkon",
     "rank": 16,
-    "tweet_count": "2,700 Tweets"
+    "tweet_count": "2,248 Tweets"
   },
   {
-    "name": "#Maischberger",
-    "query": "#Maischberger",
+    "name": "Locken",
+    "query": "Locken",
     "rank": 17,
-    "tweet_count": "2,563 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#RBSFCB",
-    "query": "#RBSFCB",
+    "name": "Schafe",
+    "query": "Schafe",
     "rank": 18,
-    "tweet_count": "3,423 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Home Office",
+    "query": "\"Home Office\"",
+    "rank": 19,
+    "tweet_count": "18.7K Tweets"
   }
 ]
