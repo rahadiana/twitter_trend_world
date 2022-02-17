@@ -18,26 +18,26 @@
     "tweet_count": null
   },
   {
-    "name": "augstākās",
-    "query": "augstākās",
+    "name": "Augstākās",
+    "query": "Augstākās",
     "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "Saskaņu",
+    "query": "Saskaņu",
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "hobi",
     "query": "hobi",
-    "rank": 5,
+    "rank": 6,
     "tweet_count": "1.15M Tweets"
   },
   {
-    "name": "Saskaņu",
-    "query": "Saskaņu",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "#KasNotiekLatvijā",
-    "query": "#KasNotiekLatvijā",
+    "name": "#kasnotieklatvijā",
+    "query": "#kasnotieklatvijā",
     "rank": 7,
     "tweet_count": null
   },
@@ -45,7 +45,7 @@
     "name": "Pret",
     "query": "Pret",
     "rank": 8,
-    "tweet_count": "15.2K Tweets"
+    "tweet_count": "15.5K Tweets"
   },
   {
     "name": "Kādā",
@@ -57,11 +57,11 @@
     "name": "#StandWithUkraine",
     "query": "#StandWithUkraine",
     "rank": 10,
-    "tweet_count": "7,883 Tweets"
+    "tweet_count": "7,929 Tweets"
   },
   {
-    "name": "Visiem",
-    "query": "Visiem",
+    "name": "visiem",
+    "query": "visiem",
     "rank": 11,
     "tweet_count": null
   },
@@ -78,39 +78,39 @@
     "tweet_count": null
   },
   {
-    "name": "Trudo",
-    "query": "Trudo",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
     "name": "Kariņa",
     "query": "Kariņa",
-    "rank": 15,
-    "tweet_count": "42.3K Tweets"
+    "rank": 14,
+    "tweet_count": "42.5K Tweets"
   },
   {
-    "name": "Brīvības",
-    "query": "Brīvības",
-    "rank": 16,
+    "name": "brīvības",
+    "query": "brīvības",
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "kādi",
     "query": "kādi",
-    "rank": 17,
-    "tweet_count": "2,680 Tweets"
+    "rank": 16,
+    "tweet_count": "2,688 Tweets"
   },
   {
     "name": "Vairāk",
     "query": "Vairāk",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "liepājas",
+    "query": "liepājas",
     "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "Liepājas",
-    "query": "Liepājas",
+    "name": "Visas",
+    "query": "Visas",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "8,686 Tweets"
   }
 ]
