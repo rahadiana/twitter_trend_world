@@ -1,81 +1,81 @@
 [
   {
+    "name": "Mayor",
+    "query": "Mayor",
+    "rank": 1,
+    "tweet_count": "196K Tweets"
+  },
+  {
     "name": "Menard",
     "query": "Menard",
-    "rank": 1,
-    "tweet_count": "1,384 Tweets"
+    "rank": 2,
+    "tweet_count": "1,415 Tweets"
+  },
+  {
+    "name": "#ottnews",
+    "query": "#ottnews",
+    "rank": 3,
+    "tweet_count": "11.9K Tweets"
   },
   {
     "name": "olivia",
     "query": "olivia",
-    "rank": 2,
-    "tweet_count": "34.7K Tweets"
+    "rank": 4,
+    "tweet_count": "35.6K Tweets"
+  },
+  {
+    "name": "Ritchie",
+    "query": "Ritchie",
+    "rank": 5,
+    "tweet_count": "2,116 Tweets"
   },
   {
     "name": "#AEWDynamite",
     "query": "#AEWDynamite",
-    "rank": 3,
-    "tweet_count": "40.1K Tweets"
+    "rank": 6,
+    "tweet_count": "47K Tweets"
   },
   {
     "name": "Pat Bev",
     "query": "\"Pat Bev\"",
-    "rank": 4,
-    "tweet_count": "1,761 Tweets"
-  },
-  {
-    "name": "Ricky",
-    "query": "Ricky",
-    "rank": 5,
-    "tweet_count": "19.1K Tweets"
-  },
-  {
-    "name": "Ottawa City Council",
-    "query": "\"Ottawa City Council\"",
-    "rank": 6,
-    "tweet_count": "2,489 Tweets"
+    "rank": 7,
+    "tweet_count": "2,112 Tweets"
   },
   {
     "name": "Tony Brothers",
     "query": "\"Tony Brothers\"",
-    "rank": 7,
+    "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Jewish MP",
-    "query": "\"Jewish MP\"",
-    "rank": 8,
-    "tweet_count": "15K Tweets"
+    "name": "Ricky",
+    "query": "Ricky",
+    "rank": 9,
+    "tweet_count": "19.3K Tweets"
+  },
+  {
+    "name": "Ottawa City Council",
+    "query": "\"Ottawa City Council\"",
+    "rank": 10,
+    "tweet_count": "2,783 Tweets"
   },
   {
     "name": "#GoJetsGo",
     "query": "#GoJetsGo",
-    "rank": 9,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Dumont",
     "query": "Dumont",
-    "rank": 10,
-    "tweet_count": "1,909 Tweets"
-  },
-  {
-    "name": "#WatsonClub",
-    "query": "#WatsonClub",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Danielson",
-    "query": "Danielson",
     "rank": 12,
-    "tweet_count": "4,962 Tweets"
+    "tweet_count": "1,976 Tweets"
   },
   {
-    "name": "Jan Harder",
-    "query": "\"Jan Harder\"",
+    "name": "Jewish MP",
+    "query": "\"Jewish MP\"",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "15.7K Tweets"
   },
   {
     "name": "#OTTpoli",
@@ -84,39 +84,39 @@
     "tweet_count": null
   },
   {
-    "name": "Forge",
-    "query": "Forge",
+    "name": "#WatsonClub",
+    "query": "#WatsonClub",
     "rank": 15,
-    "tweet_count": "8,905 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Jan Harder",
+    "query": "\"Jan Harder\"",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Thad Young",
+    "query": "\"Thad Young\"",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Danielson",
+    "query": "Danielson",
+    "rank": 18,
+    "tweet_count": "5,024 Tweets"
   },
   {
     "name": "Lantsman",
     "query": "Lantsman",
-    "rank": 16,
-    "tweet_count": "6,734 Tweets"
-  },
-  {
-    "name": "#JeenYuhs",
-    "query": "#JeenYuhs",
-    "rank": 17,
-    "tweet_count": "15.7K Tweets"
-  },
-  {
-    "name": "Ilhan Omar",
-    "query": "\"Ilhan Omar\"",
-    "rank": 18,
-    "tweet_count": "4,523 Tweets"
-  },
-  {
-    "name": "Duhaime",
-    "query": "Duhaime",
     "rank": 19,
-    "tweet_count": "6,242 Tweets"
+    "tweet_count": "6,992 Tweets"
   },
   {
-    "name": "Swastika",
-    "query": "Swastika",
+    "name": "Forge",
+    "query": "Forge",
     "rank": 20,
-    "tweet_count": "13.1K Tweets"
+    "tweet_count": "9,017 Tweets"
   }
 ]
