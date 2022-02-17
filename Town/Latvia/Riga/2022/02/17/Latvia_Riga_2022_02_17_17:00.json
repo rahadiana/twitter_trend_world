@@ -12,8 +12,8 @@
     "tweet_count": null
   },
   {
-    "name": "Augstākās",
-    "query": "Augstākās",
+    "name": "augstākās",
+    "query": "augstākās",
     "rank": 3,
     "tweet_count": null
   },
@@ -27,29 +27,29 @@
     "name": "hobi",
     "query": "hobi",
     "rank": 5,
-    "tweet_count": "980K Tweets"
+    "tweet_count": "1M Tweets"
   },
   {
     "name": "Kādā",
     "query": "Kādā",
     "rank": 6,
-    "tweet_count": "13.1K Tweets"
+    "tweet_count": "13.4K Tweets"
   },
   {
     "name": "Pret",
     "query": "Pret",
     "rank": 7,
-    "tweet_count": "15.3K Tweets"
-  },
-  {
-    "name": "#kasnotieklatvijā",
-    "query": "#kasnotieklatvijā",
-    "rank": 8,
-    "tweet_count": null
+    "tweet_count": "15.6K Tweets"
   },
   {
     "name": "čaka",
     "query": "čaka",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "#KasNotiekLatvijā",
+    "query": "#KasNotiekLatvijā",
     "rank": 9,
     "tweet_count": null
   },
@@ -75,11 +75,11 @@
     "name": "#StandWithUkraine",
     "query": "#StandWithUkraine",
     "rank": 13,
-    "tweet_count": "11.2K Tweets"
+    "tweet_count": "11.4K Tweets"
   },
   {
-    "name": "Turklāt",
-    "query": "Turklāt",
+    "name": "turklāt",
+    "query": "turklāt",
     "rank": 14,
     "tweet_count": null
   },
@@ -96,21 +96,21 @@
     "tweet_count": null
   },
   {
-    "name": "brīvības",
-    "query": "brīvības",
+    "name": "Siguldas",
+    "query": "Siguldas",
     "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Brīvības",
+    "query": "Brīvības",
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Trudo",
     "query": "Trudo",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "kanādā",
-    "query": "kanādā",
     "rank": 19,
-    "tweet_count": "10.8K Tweets"
+    "tweet_count": null
   }
 ]
