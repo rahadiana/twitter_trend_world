@@ -6,14 +6,14 @@
     "tweet_count": null
   },
   {
-    "name": "Saeimas",
-    "query": "Saeimas",
+    "name": "Satversmes",
+    "query": "Satversmes",
     "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "Satversmes",
-    "query": "Satversmes",
+    "name": "Saeimas",
+    "query": "Saeimas",
     "rank": 3,
     "tweet_count": null
   },
@@ -27,13 +27,13 @@
     "name": "#Lithuania",
     "query": "#Lithuania",
     "rank": 5,
-    "tweet_count": "1,315 Tweets"
+    "tweet_count": "1,326 Tweets"
   },
   {
     "name": "čaka",
     "query": "čaka",
     "rank": 6,
-    "tweet_count": "1,161 Tweets"
+    "tweet_count": "1,163 Tweets"
   },
   {
     "name": "#KasNotiekLatvijā",
@@ -42,22 +42,22 @@
     "tweet_count": null
   },
   {
-    "name": "#teirdarbs",
-    "query": "#teirdarbs",
+    "name": "Pret",
+    "query": "Pret",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Pret",
-    "query": "Pret",
+    "name": "#teirdarbs",
+    "query": "#teirdarbs",
     "rank": 9,
-    "tweet_count": "16.2K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#StandWithUkraine",
     "query": "#StandWithUkraine",
     "rank": 10,
-    "tweet_count": "12.8K Tweets"
+    "tweet_count": "12.9K Tweets"
   },
   {
     "name": "turklāt",
@@ -87,11 +87,11 @@
     "name": "Apple",
     "query": "Apple",
     "rank": 15,
-    "tweet_count": "397K Tweets"
+    "tweet_count": "402K Tweets"
   },
   {
-    "name": "Trudo",
-    "query": "Trudo",
+    "name": "trudo",
+    "query": "trudo",
     "rank": 16,
     "tweet_count": null
   },
@@ -99,7 +99,7 @@
     "name": "kanādā",
     "query": "kanādā",
     "rank": 17,
-    "tweet_count": "11.7K Tweets"
+    "tweet_count": "11.8K Tweets"
   },
   {
     "name": "Krievijas",
@@ -117,6 +117,6 @@
     "name": "IKEA",
     "query": "IKEA",
     "rank": 20,
-    "tweet_count": "15.7K Tweets"
+    "tweet_count": "15.9K Tweets"
   }
 ]
