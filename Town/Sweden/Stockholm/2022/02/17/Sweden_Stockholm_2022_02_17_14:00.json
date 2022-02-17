@@ -3,19 +3,19 @@
     "name": "Biden",
     "query": "Biden",
     "rank": 1,
-    "tweet_count": "449K Tweets"
+    "tweet_count": "457K Tweets"
   },
   {
     "name": "Putin",
     "query": "Putin",
     "rank": 2,
-    "tweet_count": "293K Tweets"
+    "tweet_count": "297K Tweets"
   },
   {
     "name": "Åkesson",
     "query": "Åkesson",
     "rank": 3,
-    "tweet_count": "4,195 Tweets"
+    "tweet_count": "4,250 Tweets"
   },
   {
     "name": "sandra näslund",
@@ -27,13 +27,13 @@
     "name": "Trump",
     "query": "Trump",
     "rank": 5,
-    "tweet_count": "668K Tweets"
+    "tweet_count": "676K Tweets"
   },
   {
-    "name": "HOBI",
-    "query": "HOBI",
+    "name": "hobi",
+    "query": "hobi",
     "rank": 6,
-    "tweet_count": "414K Tweets"
+    "tweet_count": "468K Tweets"
   },
   {
     "name": "Scandic",
@@ -45,35 +45,35 @@
     "name": "Ryssland",
     "query": "Ryssland",
     "rank": 8,
-    "tweet_count": "2,360 Tweets"
+    "tweet_count": "2,386 Tweets"
   },
   {
     "name": "Löfven",
     "query": "Löfven",
     "rank": 9,
+    "tweet_count": "1,020 Tweets"
+  },
+  {
+    "name": "Lag Edin",
+    "query": "\"Lag Edin\"",
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "#30minuter",
     "query": "#30minuter",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Wordle 243 X",
     "query": "\"Wordle 243 X\"",
-    "rank": 11,
-    "tweet_count": "25.4K Tweets"
+    "rank": 12,
+    "tweet_count": "26.1K Tweets"
   },
   {
     "name": "sinch",
     "query": "sinch",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Holmberg",
-    "query": "Holmberg",
     "rank": 13,
     "tweet_count": null
   },
@@ -84,39 +84,39 @@
     "tweet_count": null
   },
   {
-    "name": "Embracer",
-    "query": "Embracer",
+    "name": "Holmberg",
+    "query": "Holmberg",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "eu-parlamentet",
-    "query": "eu-parlamentet",
+    "name": "Embracer",
+    "query": "Embracer",
     "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "EU-parlamentet",
+    "query": "EU-parlamentet",
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Stalin",
     "query": "Stalin",
-    "rank": 17,
-    "tweet_count": "11.7K Tweets"
-  },
-  {
-    "name": "sundling",
-    "query": "sundling",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "11.9K Tweets"
   },
   {
     "name": "Kanada",
     "query": "Kanada",
     "rank": 19,
-    "tweet_count": "11.5K Tweets"
+    "tweet_count": "11.6K Tweets"
   },
   {
-    "name": "Ukraina",
-    "query": "Ukraina",
+    "name": "sundling",
+    "query": "sundling",
     "rank": 20,
-    "tweet_count": "16.7K Tweets"
+    "tweet_count": null
   }
 ]
