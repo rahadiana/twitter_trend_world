@@ -3,29 +3,29 @@
     "name": "Toni",
     "query": "Toni",
     "rank": 1,
-    "tweet_count": "51.6K Tweets"
+    "tweet_count": "52.4K Tweets"
+  },
+  {
+    "name": "Lazio",
+    "query": "Lazio",
+    "rank": 2,
+    "tweet_count": "19.5K Tweets"
   },
   {
     "name": "Jovane",
     "query": "Jovane",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Vitinha",
     "query": "Vitinha",
-    "rank": 3,
-    "tweet_count": "2,389 Tweets"
+    "rank": 4,
+    "tweet_count": "2,535 Tweets"
   },
   {
     "name": "Galeno",
     "query": "Galeno",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "Grujic",
-    "query": "Grujic",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,7 +33,7 @@
     "name": "Pepê",
     "query": "Pepê",
     "rank": 6,
-    "tweet_count": "37.5K Tweets"
+    "tweet_count": "38.1K Tweets"
   },
   {
     "name": "Mbemba",
@@ -45,19 +45,19 @@
     "name": "Conceição",
     "query": "Conceição",
     "rank": 8,
-    "tweet_count": "2,368 Tweets"
-  },
-  {
-    "name": "João Mário",
-    "query": "\"João Mário\"",
-    "rank": 9,
-    "tweet_count": null
+    "tweet_count": "2,490 Tweets"
   },
   {
     "name": "Alzheimer",
     "query": "Alzheimer",
+    "rank": 9,
+    "tweet_count": "6,706 Tweets"
+  },
+  {
+    "name": "Sarri",
+    "query": "Sarri",
     "rank": 10,
-    "tweet_count": "6,581 Tweets"
+    "tweet_count": "1,966 Tweets"
   },
   {
     "name": "Diogo Costa",
@@ -69,54 +69,48 @@
     "name": "Uribe",
     "query": "Uribe",
     "rank": 12,
-    "tweet_count": "34.2K Tweets"
-  },
-  {
-    "name": "Sarri",
-    "query": "Sarri",
-    "rank": 13,
-    "tweet_count": "1,920 Tweets"
-  },
-  {
-    "name": "#FCPorto",
-    "query": "#FCPorto",
-    "rank": 14,
-    "tweet_count": "5,051 Tweets"
-  },
-  {
-    "name": "Dortmund",
-    "query": "Dortmund",
-    "rank": 15,
-    "tweet_count": "72K Tweets"
-  },
-  {
-    "name": "Barça",
-    "query": "Barça",
-    "rank": 16,
-    "tweet_count": "113K Tweets"
+    "tweet_count": "34.9K Tweets"
   },
   {
     "name": "Evanilson",
     "query": "Evanilson",
-    "rank": 17,
-    "tweet_count": "1,042 Tweets"
+    "rank": 13,
+    "tweet_count": "1,046 Tweets"
+  },
+  {
+    "name": "Rangers",
+    "query": "Rangers",
+    "rank": 14,
+    "tweet_count": "74.9K Tweets"
   },
   {
     "name": "stranger things",
     "query": "\"stranger things\"",
-    "rank": 18,
-    "tweet_count": "140K Tweets"
+    "rank": 15,
+    "tweet_count": "143K Tweets"
   },
   {
-    "name": "Liga Europa",
-    "query": "\"Liga Europa\"",
-    "rank": 19,
-    "tweet_count": "6,407 Tweets"
+    "name": "#FCPorto",
+    "query": "#FCPorto",
+    "rank": 16,
+    "tweet_count": "5,199 Tweets"
   },
   {
     "name": "Fábio Vieira",
     "query": "\"Fábio Vieira\"",
-    "rank": 20,
+    "rank": 17,
     "tweet_count": null
+  },
+  {
+    "name": "Liga Europa",
+    "query": "\"Liga Europa\"",
+    "rank": 18,
+    "tweet_count": "6,500 Tweets"
+  },
+  {
+    "name": "#HappyBirthdayJhope",
+    "query": "#HappyBirthdayJhope",
+    "rank": 19,
+    "tweet_count": "831K Tweets"
   }
 ]
