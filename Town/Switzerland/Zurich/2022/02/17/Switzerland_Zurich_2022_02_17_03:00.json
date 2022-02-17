@@ -15,13 +15,13 @@
     "name": "Massnahmen",
     "query": "Massnahmen",
     "rank": 3,
-    "tweet_count": "41K Tweets"
+    "tweet_count": "41.1K Tweets"
   },
   {
-    "name": "#swisscovidfail",
-    "query": "#swisscovidfail",
+    "name": "#SwissCovidFail",
+    "query": "#SwissCovidFail",
     "rank": 4,
-    "tweet_count": "1,053 Tweets"
+    "tweet_count": "1,055 Tweets"
   },
   {
     "name": "#PSGRMA",
@@ -33,37 +33,37 @@
     "name": "Bundesrat",
     "query": "Bundesrat",
     "rank": 6,
-    "tweet_count": "3,061 Tweets"
+    "tweet_count": "3,063 Tweets"
   },
   {
-    "name": "#dummwiedieschweiz",
-    "query": "#dummwiedieschweiz",
+    "name": "ENDE März",
+    "query": "\"ENDE März\"",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "1,393 Tweets"
   },
   {
-    "name": "Läden",
-    "query": "Läden",
+    "name": "läden",
+    "query": "läden",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "ende märz",
-    "query": "\"ende märz\"",
-    "rank": 9,
-    "tweet_count": "1,393 Tweets"
-  },
-  {
     "name": "#InterLiverpool",
     "query": "#InterLiverpool",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": "33.8K Tweets"
+  },
+  {
+    "name": "#DummWieDieSchweiz",
+    "query": "#DummWieDieSchweiz",
+    "rank": 10,
+    "tweet_count": null
   },
   {
     "name": "Herbst",
     "query": "Herbst",
     "rank": 11,
-    "tweet_count": "8,662 Tweets"
+    "tweet_count": "8,681 Tweets"
   },
   {
     "name": "Lockerungen",
@@ -75,48 +75,48 @@
     "name": "Switzerland",
     "query": "Switzerland",
     "rank": 13,
-    "tweet_count": "21.2K Tweets"
+    "tweet_count": "21.3K Tweets"
   },
   {
-    "name": "Taskforce",
-    "query": "Taskforce",
+    "name": "TaskForce",
+    "query": "TaskForce",
     "rank": 14,
-    "tweet_count": "3,325 Tweets"
+    "tweet_count": "3,336 Tweets"
   },
   {
-    "name": "Mitternacht",
-    "query": "Mitternacht",
+    "name": "Mbappe",
+    "query": "Mbappe",
     "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "freudentag",
-    "query": "freudentag",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "202K Tweets"
   },
   {
     "name": "Cassis",
     "query": "Cassis",
-    "rank": 17,
-    "tweet_count": "1,906 Tweets"
+    "rank": 16,
+    "tweet_count": "1,913 Tweets"
   },
   {
-    "name": "berset",
-    "query": "berset",
+    "name": "Mitternacht",
+    "query": "Mitternacht",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Freudentag",
+    "query": "Freudentag",
     "rank": 18,
-    "tweet_count": "3,719 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Messi",
+    "query": "Messi",
+    "rank": 19,
+    "tweet_count": "218K Tweets"
   },
   {
     "name": "Svizzera",
     "query": "Svizzera",
-    "rank": 19,
-    "tweet_count": "5,911 Tweets"
-  },
-  {
-    "name": "Fasnacht",
-    "query": "Fasnacht",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "5,919 Tweets"
   }
 ]

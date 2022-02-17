@@ -1,15 +1,15 @@
 [
   {
-    "name": "Dennis",
-    "query": "Dennis",
-    "rank": 1,
-    "tweet_count": "23.8K Tweets"
-  },
-  {
     "name": "Schroder",
     "query": "Schroder",
+    "rank": 1,
+    "tweet_count": "1,559 Tweets"
+  },
+  {
+    "name": "Dennis",
+    "query": "Dennis",
     "rank": 2,
-    "tweet_count": "1,431 Tweets"
+    "tweet_count": "24.2K Tweets"
   },
   {
     "name": "kali uchis",
@@ -21,19 +21,19 @@
     "name": "Patrick Mahomes",
     "query": "\"Patrick Mahomes\"",
     "rank": 4,
-    "tweet_count": "3,222 Tweets"
-  },
-  {
-    "name": "Sengun",
-    "query": "Sengun",
-    "rank": 5,
-    "tweet_count": null
+    "tweet_count": "3,385 Tweets"
   },
   {
     "name": "Chris Paul",
     "query": "\"Chris Paul\"",
+    "rank": 5,
+    "tweet_count": "4,346 Tweets"
+  },
+  {
+    "name": "Jalen Green",
+    "query": "\"Jalen Green\"",
     "rank": 6,
-    "tweet_count": "4,029 Tweets"
+    "tweet_count": "1,174 Tweets"
   },
   {
     "name": "#AustinFC",
@@ -42,75 +42,81 @@
     "tweet_count": null
   },
   {
-    "name": "olivia",
-    "query": "olivia",
+    "name": "Vanity Fair",
+    "query": "\"Vanity Fair\"",
     "rank": 8,
-    "tweet_count": "36.2K Tweets"
+    "tweet_count": "10.4K Tweets"
   },
   {
-    "name": "#TXed",
-    "query": "#TXed",
+    "name": "olivia",
+    "query": "olivia",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "36.7K Tweets"
   },
   {
     "name": "Silas",
     "query": "Silas",
     "rank": 10,
-    "tweet_count": "2,729 Tweets"
+    "tweet_count": "2,748 Tweets"
+  },
+  {
+    "name": "#txed",
+    "query": "#txed",
+    "rank": 11,
+    "tweet_count": null
   },
   {
     "name": "Astros",
     "query": "Astros",
-    "rank": 11,
-    "tweet_count": "4,736 Tweets"
+    "rank": 12,
+    "tweet_count": "4,770 Tweets"
   },
   {
     "name": "Knicks",
     "query": "Knicks",
-    "rank": 12,
-    "tweet_count": "37.1K Tweets"
+    "rank": 13,
+    "tweet_count": "39.6K Tweets"
   },
   {
     "name": "Cam Thomas",
     "query": "\"Cam Thomas\"",
-    "rank": 13,
-    "tweet_count": "14.6K Tweets"
+    "rank": 14,
+    "tweet_count": "15.3K Tweets"
   },
   {
     "name": "#AEWDynamite",
     "query": "#AEWDynamite",
-    "rank": 14,
-    "tweet_count": "56K Tweets"
+    "rank": 15,
+    "tweet_count": "56.8K Tweets"
   },
   {
     "name": "#MAFS",
     "query": "#MAFS",
-    "rank": 15,
-    "tweet_count": "23.1K Tweets"
+    "rank": 16,
+    "tweet_count": "23.5K Tweets"
   },
   {
     "name": "Thibs",
     "query": "Thibs",
-    "rank": 16,
-    "tweet_count": "7,973 Tweets"
+    "rank": 17,
+    "tweet_count": "8,401 Tweets"
   },
   {
     "name": "Pistons",
     "query": "Pistons",
-    "rank": 17,
-    "tweet_count": "10.5K Tweets"
+    "rank": 18,
+    "tweet_count": "10.8K Tweets"
   },
   {
     "name": "#SistasOnBET",
     "query": "#SistasOnBET",
-    "rank": 18,
-    "tweet_count": "9,866 Tweets"
+    "rank": 19,
+    "tweet_count": "10.1K Tweets"
   },
   {
     "name": "Rutgers",
     "query": "Rutgers",
-    "rank": 19,
-    "tweet_count": "7,488 Tweets"
+    "rank": 20,
+    "tweet_count": "7,640 Tweets"
   }
 ]
