@@ -3,19 +3,19 @@
     "name": "Geschlecht",
     "query": "Geschlecht",
     "rank": 1,
-    "tweet_count": "6,344 Tweets"
+    "tweet_count": "6,388 Tweets"
   },
   {
     "name": "#Zeynep",
     "query": "#Zeynep",
     "rank": 2,
-    "tweet_count": "8,607 Tweets"
+    "tweet_count": "8,885 Tweets"
   },
   {
     "name": "#S04SCP",
     "query": "#S04SCP",
     "rank": 3,
-    "tweet_count": null
+    "tweet_count": "1,142 Tweets"
   },
   {
     "name": "#SGDFCH",
@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "#FirstDates",
-    "query": "#FirstDates",
-    "rank": 5,
-    "tweet_count": "1,623 Tweets"
-  },
-  {
     "name": "#Donetsk",
     "query": "#Donetsk",
+    "rank": 5,
+    "tweet_count": "12.9K Tweets"
+  },
+  {
+    "name": "#dasperfektedinner",
+    "query": "#dasperfektedinner",
     "rank": 6,
-    "tweet_count": "12.5K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Freitagabend",
@@ -45,37 +45,37 @@
     "name": "Kaltfront",
     "query": "Kaltfront",
     "rank": 8,
-    "tweet_count": "1,716 Tweets"
+    "tweet_count": "1,747 Tweets"
+  },
+  {
+    "name": "Dach",
+    "query": "Dach",
+    "rank": 9,
+    "tweet_count": "2,096 Tweets"
   },
   {
     "name": "Küste",
     "query": "Küste",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Pfannkuchen",
     "query": "Pfannkuchen",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Dach",
-    "query": "Dach",
     "rank": 11,
-    "tweet_count": "2,065 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Rückkehr zur Freiheit",
     "query": "\"Rückkehr zur Freiheit\"",
     "rank": 12,
-    "tweet_count": "1,253 Tweets"
+    "tweet_count": "1,303 Tweets"
   },
   {
     "name": "Elvis",
     "query": "Elvis",
     "rank": 13,
-    "tweet_count": "27K Tweets"
+    "tweet_count": "27.2K Tweets"
   },
   {
     "name": "Grundrechtseingriffe",
@@ -87,23 +87,23 @@
     "name": "Baum",
     "query": "Baum",
     "rank": 15,
-    "tweet_count": "3,384 Tweets"
-  },
-  {
-    "name": "Der Wind",
-    "query": "\"Der Wind\"",
-    "rank": 16,
-    "tweet_count": "1,818 Tweets"
+    "tweet_count": "3,433 Tweets"
   },
   {
     "name": "Einsätze",
     "query": "Einsätze",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "atomwaffen",
-    "query": "atomwaffen",
+    "name": "Der Wind",
+    "query": "\"Der Wind\"",
+    "rank": 17,
+    "tweet_count": "1,858 Tweets"
+  },
+  {
+    "name": "Atomwaffen",
+    "query": "Atomwaffen",
     "rank": 18,
     "tweet_count": null
   },
@@ -117,6 +117,6 @@
     "name": "Herr Dahmen",
     "query": "\"Herr Dahmen\"",
     "rank": 20,
-    "tweet_count": "1,030 Tweets"
+    "tweet_count": "1,072 Tweets"
   }
 ]
