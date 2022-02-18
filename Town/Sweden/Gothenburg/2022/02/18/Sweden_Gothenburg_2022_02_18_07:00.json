@@ -3,31 +3,31 @@
     "name": "Putin",
     "query": "Putin",
     "rank": 1,
-    "tweet_count": "250K Tweets"
+    "tweet_count": "251K Tweets"
   },
   {
     "name": "Biden",
     "query": "Biden",
     "rank": 2,
-    "tweet_count": "466K Tweets"
+    "tweet_count": "467K Tweets"
   },
   {
     "name": "Åkesson",
     "query": "Åkesson",
     "rank": 3,
-    "tweet_count": "3,970 Tweets"
-  },
-  {
-    "name": "Hörby",
-    "query": "Hörby",
-    "rank": 4,
-    "tweet_count": null
+    "tweet_count": "4,000 Tweets"
   },
   {
     "name": "Trump",
     "query": "Trump",
+    "rank": 4,
+    "tweet_count": "821K Tweets"
+  },
+  {
+    "name": "Hörby",
+    "query": "Hörby",
     "rank": 5,
-    "tweet_count": "818K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#happybirthdayjhope",
@@ -48,22 +48,22 @@
     "tweet_count": null
   },
   {
-    "name": "Scandic",
-    "query": "Scandic",
+    "name": "OS-final",
+    "query": "OS-final",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "OS-final",
-    "query": "OS-final",
+    "name": "Löfven",
+    "query": "Löfven",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "2,005 Tweets"
   },
   {
-    "name": "Ryssland",
-    "query": "Ryssland",
+    "name": "Scandic",
+    "query": "Scandic",
     "rank": 11,
-    "tweet_count": "2,188 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Lövin",
@@ -72,10 +72,10 @@
     "tweet_count": null
   },
   {
-    "name": "Löfven",
-    "query": "Löfven",
+    "name": "Ryssland",
+    "query": "Ryssland",
     "rank": 13,
-    "tweet_count": "1,980 Tweets"
+    "tweet_count": "2,226 Tweets"
   },
   {
     "name": "Sandra Näslund",
@@ -96,10 +96,10 @@
     "tweet_count": null
   },
   {
-    "name": "Rogic",
-    "query": "Rogic",
+    "name": "rogic",
+    "query": "rogic",
     "rank": 17,
-    "tweet_count": "1,483 Tweets"
+    "tweet_count": "1,490 Tweets"
   },
   {
     "name": "Slovakien",
@@ -117,6 +117,6 @@
     "name": "Rangers",
     "query": "Rangers",
     "rank": 20,
-    "tweet_count": "84.7K Tweets"
+    "tweet_count": "85.1K Tweets"
   }
 ]
