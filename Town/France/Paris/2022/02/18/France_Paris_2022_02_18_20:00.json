@@ -1,39 +1,39 @@
 [
   {
-    "name": "Figaro",
-    "query": "Figaro",
-    "rank": 1,
-    "tweet_count": "19.4K Tweets"
-  },
-  {
     "name": "#TPMP",
     "query": "#TPMP",
-    "rank": 2,
-    "tweet_count": "17.9K Tweets"
+    "rank": 1,
+    "tweet_count": "19.1K Tweets"
   },
   {
     "name": "#StarsADomicile",
     "query": "#StarsADomicile",
+    "rank": 2,
+    "tweet_count": "2,337 Tweets"
+  },
+  {
+    "name": "#LOSCFCM",
+    "query": "#LOSCFCM",
     "rank": 3,
-    "tweet_count": "1,874 Tweets"
+    "tweet_count": "1,911 Tweets"
   },
   {
     "name": "Benjamin",
     "query": "Benjamin",
     "rank": 4,
-    "tweet_count": "50.6K Tweets"
-  },
-  {
-    "name": "#LOSCFCM",
-    "query": "#LOSCFCM",
-    "rank": 5,
-    "tweet_count": "1,693 Tweets"
+    "tweet_count": "51.6K Tweets"
   },
   {
     "name": "#Zemmour2eTour",
     "query": "#Zemmour2eTour",
+    "rank": 5,
+    "tweet_count": "27.7K Tweets"
+  },
+  {
+    "name": "#NaynayFM",
+    "query": "#NaynayFM",
     "rank": 6,
-    "tweet_count": "27K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Delormeau",
@@ -42,16 +42,16 @@
     "tweet_count": null
   },
   {
-    "name": "#NaynayFM",
-    "query": "#NaynayFM",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "Soprano",
     "query": "Soprano",
+    "rank": 8,
+    "tweet_count": "4,122 Tweets"
+  },
+  {
+    "name": "Patrick Fiori",
+    "query": "\"Patrick Fiori\"",
     "rank": 9,
-    "tweet_count": "4,054 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Là-haut",
@@ -63,60 +63,60 @@
     "name": "Cannet",
     "query": "Cannet",
     "rank": 11,
-    "tweet_count": "1,416 Tweets"
+    "tweet_count": "1,572 Tweets"
   },
   {
     "name": "Mila",
     "query": "Mila",
     "rank": 12,
-    "tweet_count": "24.1K Tweets"
+    "tweet_count": "24.3K Tweets"
   },
   {
     "name": "Danielle",
     "query": "Danielle",
     "rank": 13,
-    "tweet_count": "13.4K Tweets"
+    "tweet_count": "13.8K Tweets"
   },
   {
     "name": "taeil",
     "query": "taeil",
     "rank": 14,
-    "tweet_count": "30.2K Tweets"
+    "tweet_count": "30.7K Tweets"
+  },
+  {
+    "name": "Zhegrova",
+    "query": "Zhegrova",
+    "rank": 15,
+    "tweet_count": null
   },
   {
     "name": "Mathieu",
     "query": "Mathieu",
-    "rank": 15,
-    "tweet_count": "4,084 Tweets"
+    "rank": 16,
+    "tweet_count": "4,148 Tweets"
   },
   {
     "name": "Castaldi",
     "query": "Castaldi",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Macron 25%",
     "query": "\"Macron 25%\"",
-    "rank": 17,
-    "tweet_count": "10.5K Tweets"
+    "rank": 18,
+    "tweet_count": "10.7K Tweets"
+  },
+  {
+    "name": "Philippot",
+    "query": "Philippot",
+    "rank": 19,
+    "tweet_count": "26.8K Tweets"
   },
   {
     "name": "Khaled",
     "query": "Khaled",
-    "rank": 18,
-    "tweet_count": "17.7K Tweets"
-  },
-  {
-    "name": "Hanouna",
-    "query": "Hanouna",
-    "rank": 19,
-    "tweet_count": "4,725 Tweets"
-  },
-  {
-    "name": "Sur PS5",
-    "query": "\"Sur PS5\"",
     "rank": 20,
-    "tweet_count": "9,551 Tweets"
+    "tweet_count": "18K Tweets"
   }
 ]
