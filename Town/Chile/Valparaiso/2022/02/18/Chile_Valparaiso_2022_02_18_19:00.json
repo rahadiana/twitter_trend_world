@@ -3,37 +3,37 @@
     "name": "Bad Bunny",
     "query": "\"Bad Bunny\"",
     "rank": 1,
-    "tweet_count": "57.2K Tweets"
+    "tweet_count": "57.8K Tweets"
   },
   {
     "name": "#PuntoTicket",
     "query": "#PuntoTicket",
     "rank": 2,
-    "tweet_count": "1,027 Tweets"
+    "tweet_count": "1,066 Tweets"
+  },
+  {
+    "name": "#AmarillosPorChile",
+    "query": "#AmarillosPorChile",
+    "rank": 3,
+    "tweet_count": null
   },
   {
     "name": "Warnken",
     "query": "Warnken",
-    "rank": 3,
-    "tweet_count": "10.7K Tweets"
+    "rank": 4,
+    "tweet_count": "10.9K Tweets"
   },
   {
     "name": "Benito",
     "query": "Benito",
-    "rank": 4,
-    "tweet_count": "11K Tweets"
+    "rank": 5,
+    "tweet_count": "11.1K Tweets"
   },
   {
     "name": "Dua Lipa",
     "query": "\"Dua Lipa\"",
-    "rank": 5,
-    "tweet_count": "9,393 Tweets"
-  },
-  {
-    "name": "Catalina",
-    "query": "Catalina",
     "rank": 6,
-    "tweet_count": "5,888 Tweets"
+    "tweet_count": "9,566 Tweets"
   },
   {
     "name": "Marcianeke",
@@ -42,20 +42,20 @@
     "tweet_count": null
   },
   {
+    "name": "Catalina",
+    "query": "Catalina",
+    "rank": 8,
+    "tweet_count": "5,959 Tweets"
+  },
+  {
     "name": "Gaspar",
     "query": "Gaspar",
-    "rank": 8,
-    "tweet_count": "4,938 Tweets"
-  },
-  {
-    "name": "Pizarro",
-    "query": "Pizarro",
     "rank": 9,
-    "tweet_count": "21.4K Tweets"
+    "tweet_count": "4,986 Tweets"
   },
   {
-    "name": "#worldshottesttour",
-    "query": "#worldshottesttour",
+    "name": "San Claro de Apoquindo",
+    "query": "\"San Claro de Apoquindo\"",
     "rank": 10,
     "tweet_count": null
   },
@@ -63,11 +63,11 @@
     "name": "#SmilingAngelJUNGWOOday",
     "query": "#SmilingAngelJUNGWOOday",
     "rank": 11,
-    "tweet_count": "416K Tweets"
+    "tweet_count": "418K Tweets"
   },
   {
-    "name": "San Claro de Apoquindo",
-    "query": "\"San Claro de Apoquindo\"",
+    "name": "#CerroAlegre",
+    "query": "#CerroAlegre",
     "rank": 12,
     "tweet_count": null
   },
@@ -75,48 +75,42 @@
     "name": "Coldplay",
     "query": "Coldplay",
     "rank": 13,
-    "tweet_count": "19.6K Tweets"
+    "tweet_count": "19.8K Tweets"
   },
   {
-    "name": "Fulvio Rossi",
-    "query": "\"Fulvio Rossi\"",
+    "name": "Mariana Aylwin",
+    "query": "\"Mariana Aylwin\"",
     "rank": 14,
-    "tweet_count": "1,702 Tweets"
+    "tweet_count": "1,534 Tweets"
   },
   {
     "name": "Bravo",
     "query": "Bravo",
     "rank": 15,
-    "tweet_count": "72.5K Tweets"
-  },
-  {
-    "name": "Mariana Aylwin",
-    "query": "\"Mariana Aylwin\"",
-    "rank": 16,
-    "tweet_count": "1,498 Tweets"
+    "tweet_count": "73.3K Tweets"
   },
   {
     "name": "Squella",
     "query": "Squella",
+    "rank": 16,
+    "tweet_count": "1,078 Tweets"
+  },
+  {
+    "name": "Fulvio Rossi",
+    "query": "\"Fulvio Rossi\"",
     "rank": 17,
-    "tweet_count": "1,051 Tweets"
+    "tweet_count": "1,746 Tweets"
+  },
+  {
+    "name": "Estado Regional",
+    "query": "\"Estado Regional\"",
+    "rank": 18,
+    "tweet_count": "5,572 Tweets"
   },
   {
     "name": "Andes",
     "query": "Andes",
-    "rank": 18,
-    "tweet_count": "4,727 Tweets"
-  },
-  {
-    "name": "Izurieta",
-    "query": "Izurieta",
     "rank": 19,
-    "tweet_count": "26.4K Tweets"
-  },
-  {
-    "name": "Renato",
-    "query": "Renato",
-    "rank": 20,
-    "tweet_count": "17K Tweets"
+    "tweet_count": "4,772 Tweets"
   }
 ]
