@@ -1,27 +1,27 @@
 [
   {
+    "name": "Giles",
+    "query": "Giles",
+    "rank": 1,
+    "tweet_count": "4,774 Tweets"
+  },
+  {
     "name": "#powercut",
     "query": "#powercut",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "#NationalDrinkWineDay",
-    "query": "#NationalDrinkWineDay",
-    "rank": 2,
-    "tweet_count": "4,012 Tweets"
-  },
-  {
-    "name": "#UkraineConflict",
-    "query": "#UkraineConflict",
+    "name": "Dress",
+    "query": "Dress",
     "rank": 3,
-    "tweet_count": "11.5K Tweets"
+    "tweet_count": "94.6K Tweets"
   },
   {
     "name": "Marmite",
     "query": "Marmite",
     "rank": 4,
-    "tweet_count": "1,150 Tweets"
+    "tweet_count": "1,158 Tweets"
   },
   {
     "name": "#fourinabed",
@@ -33,90 +33,90 @@
     "name": "Eve Muirhead",
     "query": "\"Eve Muirhead\"",
     "rank": 6,
-    "tweet_count": "1,199 Tweets"
+    "tweet_count": "1,203 Tweets"
   },
   {
     "name": "Deliveroo",
     "query": "Deliveroo",
     "rank": 7,
-    "tweet_count": "7,849 Tweets"
+    "tweet_count": "7,896 Tweets"
   },
   {
     "name": "#WWE2K22",
     "query": "#WWE2K22",
     "rank": 8,
-    "tweet_count": "6,714 Tweets"
+    "tweet_count": "6,777 Tweets"
+  },
+  {
+    "name": "#totp",
+    "query": "#totp",
+    "rank": 9,
+    "tweet_count": "6,079 Tweets"
+  },
+  {
+    "name": "#Gogglebox",
+    "query": "#Gogglebox",
+    "rank": 10,
+    "tweet_count": "1,431 Tweets"
   },
   {
     "name": "Jai Field",
     "query": "\"Jai Field\"",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "del amitri",
-    "query": "\"del amitri\"",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Kriss Kross",
     "query": "\"Kriss Kross\"",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Wilbur",
-    "query": "Wilbur",
     "rank": 12,
-    "tweet_count": "14.2K Tweets"
-  },
-  {
-    "name": "Ottawa",
-    "query": "Ottawa",
-    "rank": 13,
-    "tweet_count": "537K Tweets"
-  },
-  {
-    "name": "Exercise",
-    "query": "Exercise",
-    "rank": 14,
-    "tweet_count": "39K Tweets"
-  },
-  {
-    "name": "En Vogue",
-    "query": "\"En Vogue\"",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Blake Austin",
-    "query": "\"Blake Austin\"",
-    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Jotter",
     "query": "Jotter",
-    "rank": 17,
-    "tweet_count": "1,122 Tweets"
+    "rank": 13,
+    "tweet_count": "1,156 Tweets"
   },
   {
-    "name": "Thiago Silva",
-    "query": "\"Thiago Silva\"",
-    "rank": 18,
-    "tweet_count": "3,521 Tweets"
+    "name": "Wilbur",
+    "query": "Wilbur",
+    "rank": 14,
+    "tweet_count": "14.6K Tweets"
+  },
+  {
+    "name": "Ottawa",
+    "query": "Ottawa",
+    "rank": 15,
+    "tweet_count": "546K Tweets"
+  },
+  {
+    "name": "Del Amitri",
+    "query": "\"Del Amitri\"",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Exercise",
+    "query": "Exercise",
+    "rank": 17,
+    "tweet_count": "39.5K Tweets"
   },
   {
     "name": "Captain Tom",
     "query": "\"Captain Tom\"",
-    "rank": 19,
-    "tweet_count": "3,044 Tweets"
+    "rank": 18,
+    "tweet_count": "3,224 Tweets"
   },
   {
-    "name": "Torino",
-    "query": "Torino",
+    "name": "En Vogue",
+    "query": "\"En Vogue\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Blake Austin",
+    "query": "\"Blake Austin\"",
     "rank": 20,
-    "tweet_count": "18.5K Tweets"
+    "tweet_count": null
   }
 ]
