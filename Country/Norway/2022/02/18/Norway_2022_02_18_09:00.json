@@ -1,15 +1,15 @@
 [
   {
-    "name": "Glimt",
-    "query": "Glimt",
-    "rank": 1,
-    "tweet_count": "10.6K Tweets"
-  },
-  {
     "name": "Johannes Thingnes Bø",
     "query": "\"Johannes Thingnes Bø\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Glimt",
+    "query": "Glimt",
+    "rank": 2,
+    "tweet_count": "10.7K Tweets"
   },
   {
     "name": "Espejord",
@@ -21,13 +21,13 @@
     "name": "Celtic Park",
     "query": "\"Celtic Park\"",
     "rank": 4,
-    "tweet_count": "2,044 Tweets"
+    "tweet_count": "2,052 Tweets"
   },
   {
-    "name": "#celbod",
-    "query": "#celbod",
+    "name": "#CELBOD",
+    "query": "#CELBOD",
     "rank": 5,
-    "tweet_count": "2,102 Tweets"
+    "tweet_count": "2,107 Tweets"
   },
   {
     "name": "Kjetil Knutsen",
@@ -42,10 +42,10 @@
     "tweet_count": null
   },
   {
-    "name": "Glasgow",
-    "query": "Glasgow",
+    "name": "#happybirthdayjhope",
+    "query": "#happybirthdayjhope",
     "rank": 8,
-    "tweet_count": "21.1K Tweets"
+    "tweet_count": "1.07M Tweets"
   },
   {
     "name": "#nrkdebatt",
@@ -54,22 +54,22 @@
     "tweet_count": null
   },
   {
-    "name": "#happybirthdayjhope",
-    "query": "#happybirthdayjhope",
+    "name": "Glasgow",
+    "query": "Glasgow",
     "rank": 10,
-    "tweet_count": "1.06M Tweets"
+    "tweet_count": "21.4K Tweets"
   },
   {
     "name": "hobi",
     "query": "hobi",
     "rank": 11,
-    "tweet_count": "1.38M Tweets"
+    "tweet_count": "1.39M Tweets"
   },
   {
     "name": "Rangers",
     "query": "Rangers",
     "rank": 12,
-    "tweet_count": "86.5K Tweets"
+    "tweet_count": "86.9K Tweets"
   },
   {
     "name": "Gjevjon",
@@ -90,32 +90,32 @@
     "tweet_count": null
   },
   {
-    "name": "aspmyra",
-    "query": "aspmyra",
+    "name": "oppland",
+    "query": "oppland",
     "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Oppland",
-    "query": "Oppland",
-    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "#FørrEvig",
     "query": "#FørrEvig",
-    "rank": 18,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Dortmund",
     "query": "Dortmund",
-    "rank": 19,
-    "tweet_count": "78.4K Tweets"
+    "rank": 18,
+    "tweet_count": "78.7K Tweets"
   },
   {
     "name": "Kondolerer",
     "query": "Kondolerer",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "hedmark",
+    "query": "hedmark",
     "rank": 20,
     "tweet_count": null
   }
