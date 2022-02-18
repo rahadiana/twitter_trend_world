@@ -1,21 +1,21 @@
 [
   {
-    "name": "#SinRestricciones",
-    "query": "#SinRestricciones",
-    "rank": 1,
-    "tweet_count": "3,384 Tweets"
-  },
-  {
     "name": "Covid",
     "query": "Covid",
+    "rank": 1,
+    "tweet_count": "1.1M Tweets"
+  },
+  {
+    "name": "#SinRestricciones",
+    "query": "#SinRestricciones",
     "rank": 2,
-    "tweet_count": "1.09M Tweets"
+    "tweet_count": "3,393 Tweets"
   },
   {
     "name": "Alianza País",
     "query": "\"Alianza País\"",
     "rank": 3,
-    "tweet_count": "1,733 Tweets"
+    "tweet_count": "1,739 Tweets"
   },
   {
     "name": "#happybirthdayjhope",
@@ -24,8 +24,8 @@
     "tweet_count": "1.08M Tweets"
   },
   {
-    "name": "#bloquedelacorrupcion",
-    "query": "#bloquedelacorrupcion",
+    "name": "#BloqueDeLaCorrupcion",
+    "query": "#BloqueDeLaCorrupcion",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,7 +33,7 @@
     "name": "hobi",
     "query": "hobi",
     "rank": 6,
-    "tweet_count": "1.4M Tweets"
+    "tweet_count": "1.41M Tweets"
   },
   {
     "name": "ITBIS",
@@ -51,31 +51,31 @@
     "name": "Guillermo Moreno",
     "query": "\"Guillermo Moreno\"",
     "rank": 9,
-    "tweet_count": "1,198 Tweets"
+    "tweet_count": "1,204 Tweets"
   },
   {
-    "name": "#felizjueves",
-    "query": "#felizjueves",
+    "name": "#FelizJueves",
+    "query": "#FelizJueves",
     "rank": 10,
-    "tweet_count": "19.7K Tweets"
+    "tweet_count": "19.8K Tweets"
   },
   {
-    "name": "Patricia Ascuasiati",
-    "query": "\"Patricia Ascuasiati\"",
+    "name": "Salud Pública",
+    "query": "\"Salud Pública\"",
     "rank": 11,
+    "tweet_count": "6,514 Tweets"
+  },
+  {
+    "name": "patricia ascuasiati",
+    "query": "\"patricia ascuasiati\"",
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "#luishablaalpais",
     "query": "#luishablaalpais",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Salud Pública",
-    "query": "\"Salud Pública\"",
     "rank": 13,
-    "tweet_count": "6,470 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Ferran",
@@ -84,39 +84,39 @@
     "tweet_count": "128K Tweets"
   },
   {
-    "name": "Franklin",
-    "query": "Franklin",
-    "rank": 15,
-    "tweet_count": "17.4K Tweets"
-  },
-  {
     "name": "Chanel",
     "query": "Chanel",
+    "rank": 15,
+    "tweet_count": "30.9K Tweets"
+  },
+  {
+    "name": "Franklin",
+    "query": "Franklin",
     "rank": 16,
-    "tweet_count": "30.7K Tweets"
+    "tweet_count": "17.5K Tweets"
   },
   {
     "name": "Ministro de Salud",
     "query": "\"Ministro de Salud\"",
     "rank": 17,
-    "tweet_count": "4,664 Tweets"
-  },
-  {
-    "name": "Presidente",
-    "query": "Presidente",
-    "rank": 18,
-    "tweet_count": "605K Tweets"
+    "tweet_count": "4,679 Tweets"
   },
   {
     "name": "alicia ortega",
     "query": "\"alicia ortega\"",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "Karol",
-    "query": "Karol",
+    "name": "Presidente",
+    "query": "Presidente",
+    "rank": 19,
+    "tweet_count": "608K Tweets"
+  },
+  {
+    "name": "karol",
+    "query": "karol",
     "rank": 20,
-    "tweet_count": "17.8K Tweets"
+    "tweet_count": "17.9K Tweets"
   }
 ]

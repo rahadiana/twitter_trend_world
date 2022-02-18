@@ -1,39 +1,39 @@
 [
   {
+    "name": "#CitiCBS",
+    "query": "#CitiCBS",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "Sam George",
     "query": "\"Sam George\"",
-    "rank": 1,
-    "tweet_count": "9,812 Tweets"
+    "rank": 2,
+    "tweet_count": "9,834 Tweets"
   },
   {
     "name": "Dortmund",
     "query": "Dortmund",
-    "rank": 2,
-    "tweet_count": "79K Tweets"
+    "rank": 3,
+    "tweet_count": "79.2K Tweets"
   },
   {
     "name": "Ferran Torres",
     "query": "\"Ferran Torres\"",
-    "rank": 3,
-    "tweet_count": "58.3K Tweets"
+    "rank": 4,
+    "tweet_count": "58.5K Tweets"
   },
   {
     "name": "#6feet",
     "query": "#6feet",
-    "rank": 4,
-    "tweet_count": "2,887 Tweets"
+    "rank": 5,
+    "tweet_count": "2,916 Tweets"
   },
   {
     "name": "Vikings",
     "query": "Vikings",
-    "rank": 5,
-    "tweet_count": "20.2K Tweets"
-  },
-  {
-    "name": "#TheBigBreakfast",
-    "query": "#TheBigBreakfast",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "20.3K Tweets"
   },
   {
     "name": "#MMRS",
@@ -42,46 +42,46 @@
     "tweet_count": null
   },
   {
-    "name": "Shatta Wale",
-    "query": "\"Shatta Wale\"",
+    "name": "#TheBigBreakfast",
+    "query": "#TheBigBreakfast",
     "rank": 8,
-    "tweet_count": "14.7K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#CitiCBS",
-    "query": "#CitiCBS",
+    "name": "#BuyFromLinkin",
+    "query": "#BuyFromLinkin",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "#Asakaa",
-    "query": "#Asakaa",
+    "name": "Shatta Wale",
+    "query": "\"Shatta Wale\"",
     "rank": 10,
-    "tweet_count": "1,464 Tweets"
+    "tweet_count": "14.8K Tweets"
   },
   {
-    "name": "Prof Gyampo",
-    "query": "\"Prof Gyampo\"",
+    "name": "Game of thrones",
+    "query": "\"Game of thrones\"",
     "rank": 11,
-    "tweet_count": "3,135 Tweets"
+    "tweet_count": "5,610 Tweets"
   },
   {
     "name": "Prof Gyampo",
     "query": "\"Prof Gyampo\"",
     "rank": 12,
-    "tweet_count": "3,135 Tweets"
-  },
-  {
-    "name": "Francis",
-    "query": "Francis",
-    "rank": 13,
-    "tweet_count": "32.5K Tweets"
+    "tweet_count": "3,140 Tweets"
   },
   {
     "name": "UTAG",
     "query": "UTAG",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": "15.6K Tweets"
+  },
+  {
+    "name": "Francis",
+    "query": "Francis",
+    "rank": 14,
+    "tweet_count": "32.6K Tweets"
   },
   {
     "name": "JB Danquah",
@@ -93,30 +93,30 @@
     "name": "TD Jakes",
     "query": "\"TD Jakes\"",
     "rank": 16,
-    "tweet_count": "1,259 Tweets"
+    "tweet_count": "1,265 Tweets"
+  },
+  {
+    "name": "The NPP",
+    "query": "\"The NPP\"",
+    "rank": 17,
+    "tweet_count": "1,942 Tweets"
+  },
+  {
+    "name": "Rangers",
+    "query": "Rangers",
+    "rank": 18,
+    "tweet_count": "87.9K Tweets"
   },
   {
     "name": "Napoli",
     "query": "Napoli",
-    "rank": 17,
-    "tweet_count": "81.3K Tweets"
-  },
-  {
-    "name": "nabco",
-    "query": "nabco",
-    "rank": 18,
-    "tweet_count": "2,814 Tweets"
-  },
-  {
-    "name": "the npp",
-    "query": "\"the npp\"",
     "rank": 19,
-    "tweet_count": "1,918 Tweets"
+    "tweet_count": "81.5K Tweets"
   },
   {
-    "name": "Dembele",
-    "query": "Dembele",
+    "name": "NABCO",
+    "query": "NABCO",
     "rank": 20,
-    "tweet_count": "31.3K Tweets"
+    "tweet_count": "2,826 Tweets"
   }
 ]
