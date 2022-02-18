@@ -1,57 +1,57 @@
 [
   {
+    "name": "Sturm",
+    "query": "Sturm",
+    "rank": 1,
+    "tweet_count": "18K Tweets"
+  },
+  {
     "name": "Bäume",
     "query": "Bäume",
-    "rank": 1,
-    "tweet_count": "1,802 Tweets"
+    "rank": 2,
+    "tweet_count": "1,844 Tweets"
   },
   {
     "name": "#Zeynep",
     "query": "#Zeynep",
-    "rank": 2,
-    "tweet_count": "7,150 Tweets"
+    "rank": 3,
+    "tweet_count": "7,454 Tweets"
   },
   {
     "name": "#S04SCP",
     "query": "#S04SCP",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "#firstdates",
+    "query": "#firstdates",
+    "rank": 5,
+    "tweet_count": "1,631 Tweets"
   },
   {
     "name": "#MSC2022",
     "query": "#MSC2022",
-    "rank": 4,
-    "tweet_count": "7,648 Tweets"
-  },
-  {
-    "name": "#FirstDates",
-    "query": "#FirstDates",
-    "rank": 5,
-    "tweet_count": "1,552 Tweets"
+    "rank": 6,
+    "tweet_count": "7,929 Tweets"
   },
   {
     "name": "#Eunice",
     "query": "#Eunice",
-    "rank": 6,
-    "tweet_count": "51.7K Tweets"
-  },
-  {
-    "name": "Rückkehr zur Freiheit",
-    "query": "\"Rückkehr zur Freiheit\"",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "53.4K Tweets"
   },
   {
     "name": "Kaltfront",
     "query": "Kaltfront",
     "rank": 8,
-    "tweet_count": "1,735 Tweets"
+    "tweet_count": "1,746 Tweets"
   },
   {
-    "name": "Elvis",
-    "query": "Elvis",
+    "name": "Rückkehr zur Freiheit",
+    "query": "\"Rückkehr zur Freiheit\"",
     "rank": 9,
-    "tweet_count": "28.5K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Grundrechtseingriffe",
@@ -60,63 +60,63 @@
     "tweet_count": null
   },
   {
-    "name": "Böen",
-    "query": "Böen",
+    "name": "Elvis",
+    "query": "Elvis",
     "rank": 11,
-    "tweet_count": "3,272 Tweets"
-  },
-  {
-    "name": "Heathrow",
-    "query": "Heathrow",
-    "rank": 12,
-    "tweet_count": "37.5K Tweets"
+    "tweet_count": "28.7K Tweets"
   },
   {
     "name": "Pfannkuchen",
     "query": "Pfannkuchen",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Atomwaffen",
     "query": "Atomwaffen",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Herr Dahmen",
     "query": "\"Herr Dahmen\"",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Thermomix",
     "query": "Thermomix",
+    "rank": 15,
+    "tweet_count": "2,105 Tweets"
+  },
+  {
+    "name": "Meyer",
+    "query": "Meyer",
     "rank": 16,
-    "tweet_count": "2,070 Tweets"
+    "tweet_count": "11.5K Tweets"
   },
   {
     "name": "Elbe",
     "query": "Elbe",
     "rank": 17,
-    "tweet_count": "1,771 Tweets"
+    "tweet_count": "1,797 Tweets"
   },
   {
-    "name": "Meyer",
-    "query": "Meyer",
+    "name": "Küste",
+    "query": "Küste",
     "rank": 18,
-    "tweet_count": "11.4K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Anschlag",
+    "query": "Anschlag",
+    "rank": 19,
+    "tweet_count": "1,282 Tweets"
   },
   {
     "name": "Transfrau",
     "query": "Transfrau",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Passt auf Euch",
-    "query": "\"Passt auf Euch\"",
     "rank": 20,
-    "tweet_count": "1,599 Tweets"
+    "tweet_count": null
   }
 ]
