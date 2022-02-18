@@ -1,110 +1,122 @@
 [
   {
-    "name": "#FridayFeeling",
-    "query": "#FridayFeeling",
+    "name": "#LCFC",
+    "query": "#LCFC",
     "rank": 1,
-    "tweet_count": "11.2K Tweets"
+    "tweet_count": "1,473 Tweets"
   },
   {
-    "name": "Daily Quordle",
-    "query": "\"Daily Quordle\"",
+    "name": "#FridayFeeling",
+    "query": "#FridayFeeling",
     "rank": 2,
-    "tweet_count": "9,779 Tweets"
+    "tweet_count": "11.9K Tweets"
+  },
+  {
+    "name": "Sophie",
+    "query": "Sophie",
+    "rank": 3,
+    "tweet_count": "55.4K Tweets"
   },
   {
     "name": "#StormEunice",
     "query": "#StormEunice",
-    "rank": 3,
-    "tweet_count": "60.2K Tweets"
+    "rank": 4,
+    "tweet_count": "62.6K Tweets"
   },
   {
     "name": "Wordle 244 X",
     "query": "\"Wordle 244 X\"",
-    "rank": 4,
-    "tweet_count": "8,752 Tweets"
+    "rank": 5,
+    "tweet_count": "8,987 Tweets"
   },
   {
     "name": "#JohnsonOutDay25",
     "query": "#JohnsonOutDay25",
-    "rank": 5,
-    "tweet_count": "13.4K Tweets"
+    "rank": 6,
+    "tweet_count": "14.9K Tweets"
   },
   {
     "name": "#StaySafe",
     "query": "#StaySafe",
-    "rank": 6,
-    "tweet_count": "5,712 Tweets"
-  },
-  {
-    "name": "#FridayMotivation",
-    "query": "#FridayMotivation",
     "rank": 7,
-    "tweet_count": "13.4K Tweets"
+    "tweet_count": "5,939 Tweets"
   },
   {
     "name": "South East",
     "query": "\"South East\"",
     "rank": 8,
-    "tweet_count": "10.4K Tweets"
+    "tweet_count": "10.7K Tweets"
+  },
+  {
+    "name": "Daily Quordle",
+    "query": "\"Daily Quordle\"",
+    "rank": 9,
+    "tweet_count": "9,909 Tweets"
+  },
+  {
+    "name": "Red Weather Warning",
+    "query": "\"Red Weather Warning\"",
+    "rank": 10,
+    "tweet_count": "13.6K Tweets"
   },
   {
     "name": "Cornwall",
     "query": "Cornwall",
-    "rank": 9,
-    "tweet_count": "7,637 Tweets"
+    "rank": 11,
+    "tweet_count": "7,795 Tweets"
+  },
+  {
+    "name": "CLOSED",
+    "query": "CLOSED",
+    "rank": 12,
+    "tweet_count": "128K Tweets"
   },
   {
     "name": "South West",
     "query": "\"South West\"",
-    "rank": 10,
-    "tweet_count": "10.8K Tweets"
-  },
-  {
-    "name": "Sophie",
-    "query": "Sophie",
-    "rank": 11,
-    "tweet_count": "55K Tweets"
-  },
-  {
-    "name": "Stewart Lee",
-    "query": "\"Stewart Lee\"",
-    "rank": 12,
-    "tweet_count": null
+    "rank": 13,
+    "tweet_count": "10.9K Tweets"
   },
   {
     "name": "Billy Connolly",
     "query": "\"Billy Connolly\"",
-    "rank": 13,
-    "tweet_count": "2,651 Tweets"
-  },
-  {
-    "name": "Gerwyn Price",
-    "query": "\"Gerwyn Price\"",
     "rank": 14,
-    "tweet_count": "9,014 Tweets"
+    "tweet_count": "2,684 Tweets"
   },
   {
-    "name": "Bodo",
-    "query": "Bodo",
+    "name": "Arwen",
+    "query": "Arwen",
     "rank": 15,
-    "tweet_count": "13.5K Tweets"
+    "tweet_count": "2,309 Tweets"
+  },
+  {
+    "name": "Michael Fish",
+    "query": "\"Michael Fish\"",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Hampshire",
+    "query": "Hampshire",
+    "rank": 17,
+    "tweet_count": "4,830 Tweets"
+  },
+  {
+    "name": "Somerset",
+    "query": "Somerset",
+    "rank": 18,
+    "tweet_count": "4,493 Tweets"
   },
   {
     "name": "Hugh Grant",
     "query": "\"Hugh Grant\"",
-    "rank": 16,
-    "tweet_count": "13.5K Tweets"
+    "rank": 19,
+    "tweet_count": "13.7K Tweets"
   },
   {
-    "name": "akeem",
-    "query": "akeem",
-    "rank": 17,
-    "tweet_count": "2,999 Tweets"
-  },
-  {
-    "name": "Greg Taylor",
-    "query": "\"Greg Taylor\"",
-    "rank": 18,
+    "name": "Stewart Lee",
+    "query": "\"Stewart Lee\"",
+    "rank": 20,
     "tweet_count": null
   }
 ]
