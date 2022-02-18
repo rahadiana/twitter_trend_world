@@ -1,45 +1,45 @@
 [
   {
-    "name": "hobi",
-    "query": "hobi",
-    "rank": 1,
-    "tweet_count": "1.32M Tweets"
-  },
-  {
     "name": "#UECL",
     "query": "#UECL",
-    "rank": 2,
-    "tweet_count": "18.6K Tweets"
+    "rank": 1,
+    "tweet_count": "18.7K Tweets"
   },
   {
-    "name": "#HappyBirthdayJhope",
-    "query": "#HappyBirthdayJhope",
-    "rank": 3,
-    "tweet_count": "998K Tweets"
+    "name": "hobi",
+    "query": "hobi",
+    "rank": 2,
+    "tweet_count": "1.33M Tweets"
   },
   {
     "name": "#fcmpaok",
     "query": "#fcmpaok",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
-    "name": "lars findsen",
-    "query": "\"lars findsen\"",
+    "name": "#HappyBirthdayJhope",
+    "query": "#HappyBirthdayJhope",
+    "rank": 4,
+    "tweet_count": "1M Tweets"
+  },
+  {
+    "name": "Lars Findsen",
+    "query": "\"Lars Findsen\"",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "Randers",
-    "query": "Randers",
-    "rank": 6,
-    "tweet_count": "4,156 Tweets"
-  },
-  {
     "name": "#OurEternalHope",
     "query": "#OurEternalHope",
+    "rank": 6,
+    "tweet_count": "223K Tweets"
+  },
+  {
+    "name": "Randers",
+    "query": "Randers",
     "rank": 7,
-    "tweet_count": "222K Tweets"
+    "tweet_count": "4,166 Tweets"
   },
   {
     "name": "#eldk",
@@ -51,11 +51,11 @@
     "name": "FNCS",
     "query": "FNCS",
     "rank": 9,
-    "tweet_count": "34.8K Tweets"
+    "tweet_count": "34.9K Tweets"
   },
   {
-    "name": "Podimo",
-    "query": "Podimo",
+    "name": "podimo",
+    "query": "podimo",
     "rank": 10,
     "tweet_count": null
   },
@@ -63,7 +63,7 @@
     "name": "Connie",
     "query": "Connie",
     "rank": 11,
-    "tweet_count": "6,484 Tweets"
+    "tweet_count": "6,530 Tweets"
   },
   {
     "name": "Kamilla",
@@ -72,8 +72,8 @@
     "tweet_count": null
   },
   {
-    "name": "krydser",
-    "query": "krydser",
+    "name": "Krydser",
+    "query": "Krydser",
     "rank": 13,
     "tweet_count": null
   },
@@ -87,19 +87,19 @@
     "name": "Europa League",
     "query": "\"Europa League\"",
     "rank": 15,
-    "tweet_count": "86.3K Tweets"
-  },
-  {
-    "name": "mediano",
-    "query": "mediano",
-    "rank": 16,
-    "tweet_count": "2,599 Tweets"
+    "tweet_count": "86.6K Tweets"
   },
   {
     "name": "Excel",
     "query": "Excel",
+    "rank": 16,
+    "tweet_count": "30.3K Tweets"
+  },
+  {
+    "name": "Mediano",
+    "query": "Mediano",
     "rank": 17,
-    "tweet_count": "30.1K Tweets"
+    "tweet_count": "2,608 Tweets"
   },
   {
     "name": "landsretten",
@@ -117,6 +117,6 @@
     "name": "Midtjylland",
     "query": "Midtjylland",
     "rank": 20,
-    "tweet_count": "1,164 Tweets"
+    "tweet_count": "1,166 Tweets"
   }
 ]
