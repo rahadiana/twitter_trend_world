@@ -1,15 +1,15 @@
 [
   {
-    "name": "#TrudeauTyranny",
-    "query": "#TrudeauTyranny",
-    "rank": 1,
-    "tweet_count": "103K Tweets"
-  },
-  {
     "name": "#IngeborgVraagt",
     "query": "#IngeborgVraagt",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Ottawa",
+    "query": "Ottawa",
+    "rank": 2,
+    "tweet_count": "793K Tweets"
   },
   {
     "name": "#lichtgroen",
@@ -18,81 +18,75 @@
     "tweet_count": null
   },
   {
-    "name": "#svenkramer",
-    "query": "#svenkramer",
+    "name": "Irene Schouten",
+    "query": "\"Irene Schouten\"",
     "rank": 4,
-    "tweet_count": null
+    "tweet_count": "1,259 Tweets"
   },
   {
     "name": "Eerdmans",
     "query": "Eerdmans",
     "rank": 5,
-    "tweet_count": "1,744 Tweets"
+    "tweet_count": "1,781 Tweets"
   },
   {
-    "name": "Irene Schouten",
-    "query": "\"Irene Schouten\"",
+    "name": "#svenkramer",
+    "query": "#svenkramer",
     "rank": 6,
-    "tweet_count": "1,252 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "canada",
-    "query": "canada",
+    "name": "Canada",
+    "query": "Canada",
     "rank": 7,
-    "tweet_count": "1.06M Tweets"
+    "tweet_count": "1.07M Tweets"
   },
   {
     "name": "Wordle 245 X",
     "query": "\"Wordle 245 X\"",
     "rank": 8,
-    "tweet_count": "22.2K Tweets"
+    "tweet_count": "22.5K Tweets"
   },
   {
     "name": "#energiearmoede",
     "query": "#energiearmoede",
     "rank": 9,
-    "tweet_count": "1,305 Tweets"
-  },
-  {
-    "name": "Canadezen",
-    "query": "Canadezen",
-    "rank": 10,
-    "tweet_count": "2,657 Tweets"
-  },
-  {
-    "name": "Bill Gates",
-    "query": "\"Bill Gates\"",
-    "rank": 11,
-    "tweet_count": "79.9K Tweets"
-  },
-  {
-    "name": "Derksen",
-    "query": "Derksen",
-    "rank": 12,
-    "tweet_count": "1,338 Tweets"
-  },
-  {
-    "name": "Ottawa",
-    "query": "Ottawa",
-    "rank": 13,
-    "tweet_count": "786K Tweets"
+    "tweet_count": "1,319 Tweets"
   },
   {
     "name": "#energierekening",
     "query": "#energierekening",
-    "rank": 14,
-    "tweet_count": "2,696 Tweets"
+    "rank": 10,
+    "tweet_count": "2,762 Tweets"
+  },
+  {
+    "name": "Canadezen",
+    "query": "Canadezen",
+    "rank": 11,
+    "tweet_count": "2,716 Tweets"
+  },
+  {
+    "name": "Bill Gates",
+    "query": "\"Bill Gates\"",
+    "rank": 12,
+    "tweet_count": "81.1K Tweets"
+  },
+  {
+    "name": "Derksen",
+    "query": "Derksen",
+    "rank": 13,
+    "tweet_count": "1,342 Tweets"
   },
   {
     "name": "#massastart",
     "query": "#massastart",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "#stormschade",
     "query": "#stormschade",
-    "rank": 16,
-    "tweet_count": "1,380 Tweets"
+    "rank": 15,
+    "tweet_count": "1,392 Tweets"
   }
 ]
