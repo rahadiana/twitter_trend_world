@@ -1,7 +1,7 @@
 [
   {
-    "name": "#STMPOG",
-    "query": "#STMPOG",
+    "name": "#stmpog",
+    "query": "#stmpog",
     "rank": 1,
     "tweet_count": null
   },
@@ -33,35 +33,35 @@
     "name": "Leon",
     "query": "Leon",
     "rank": 6,
-    "tweet_count": "65.7K Tweets"
+    "tweet_count": "66.2K Tweets"
   },
   {
-    "name": "dzień kota",
-    "query": "\"dzień kota\"",
+    "name": "#HejtPark",
+    "query": "#HejtPark",
     "rank": 7,
     "tweet_count": null
   },
   {
-    "name": "Abramsy",
-    "query": "Abramsy",
+    "name": "dzień kota",
+    "query": "\"dzień kota\"",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Ługańsku",
-    "query": "Ługańsku",
+    "name": "abramsy",
+    "query": "abramsy",
     "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "ługańsku",
+    "query": "ługańsku",
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Doniecku",
     "query": "Doniecku",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "piotr michalski",
-    "query": "\"piotr michalski\"",
     "rank": 11,
     "tweet_count": null
   },
@@ -72,28 +72,28 @@
     "tweet_count": "1,012 Tweets"
   },
   {
-    "name": "Donbasie",
-    "query": "Donbasie",
+    "name": "piotr michalski",
+    "query": "\"piotr michalski\"",
     "rank": 13,
-    "tweet_count": "1,617 Tweets"
-  },
-  {
-    "name": "Maderę",
-    "query": "Maderę",
-    "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "Strączka",
-    "query": "Strączka",
+    "name": "Donbasie",
+    "query": "Donbasie",
+    "rank": 14,
+    "tweet_count": "1,620 Tweets"
+  },
+  {
+    "name": "maderę",
+    "query": "maderę",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "Wordle 245 X",
-    "query": "\"Wordle 245 X\"",
+    "name": "strączka",
+    "query": "strączka",
     "rank": 16,
-    "tweet_count": "7,833 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Przyjaźń",
@@ -102,15 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "hobi",
-    "query": "hobi",
-    "rank": 18,
-    "tweet_count": "524K Tweets"
-  },
-  {
     "name": "zagłębie",
     "query": "zagłębie",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "hobi",
+    "query": "hobi",
     "rank": 19,
+    "tweet_count": "526K Tweets"
+  },
+  {
+    "name": "Strączek",
+    "query": "Strączek",
+    "rank": 20,
     "tweet_count": null
   }
 ]
