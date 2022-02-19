@@ -1,15 +1,15 @@
 [
   {
-    "name": "#Eurovision",
-    "query": "#Eurovision",
-    "rank": 1,
-    "tweet_count": "5,173 Tweets"
-  },
-  {
     "name": "#TuBijeSerceEuropy",
     "query": "#TuBijeSerceEuropy",
+    "rank": 1,
+    "tweet_count": "3,905 Tweets"
+  },
+  {
+    "name": "#Eurovision",
+    "query": "#Eurovision",
     "rank": 2,
-    "tweet_count": "2,724 Tweets"
+    "tweet_count": "6,107 Tweets"
   },
   {
     "name": "#BBTLEG",
@@ -18,68 +18,68 @@
     "tweet_count": null
   },
   {
-    "name": "#primemma",
-    "query": "#primemma",
+    "name": "Viki",
+    "query": "Viki",
     "rank": 4,
+    "tweet_count": "5,176 Tweets"
+  },
+  {
+    "name": "Eurowizji",
+    "query": "Eurowizji",
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Rafała",
     "query": "Rafała",
-    "rank": 5,
+    "rank": 6,
     "tweet_count": null
   },
   {
-    "name": "Eurowizji",
-    "query": "Eurowizji",
-    "rank": 6,
+    "name": "Skibicki",
+    "query": "Skibicki",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "Niecieczy",
+    "query": "Niecieczy",
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "The Ride",
     "query": "\"The Ride\"",
-    "rank": 7,
-    "tweet_count": "55.8K Tweets"
-  },
-  {
-    "name": "Skibicki",
-    "query": "Skibicki",
-    "rank": 8,
-    "tweet_count": null
+    "rank": 9,
+    "tweet_count": "56.4K Tweets"
   },
   {
     "name": "Holandii",
     "query": "Holandii",
-    "rank": 9,
-    "tweet_count": "1,309 Tweets"
-  },
-  {
-    "name": "Niecieczy",
-    "query": "Niecieczy",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "1,360 Tweets"
   },
   {
-    "name": "Ochman",
-    "query": "Ochman",
+    "name": "Pekhart",
+    "query": "Pekhart",
     "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "Magiera",
-    "query": "Magiera",
+    "name": "Josue",
+    "query": "Josue",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "4,835 Tweets"
   },
   {
-    "name": "Śląska",
-    "query": "Śląska",
+    "name": "Ochman",
+    "query": "Ochman",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "Wilczek",
-    "query": "Wilczek",
+    "name": "Slisza",
+    "query": "Slisza",
     "rank": 14,
     "tweet_count": null
   },
@@ -90,21 +90,15 @@
     "tweet_count": null
   },
   {
-    "name": "Daria",
-    "query": "Daria",
+    "name": "Śląska",
+    "query": "Śląska",
     "rank": 16,
-    "tweet_count": "27.4K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Monachium",
-    "query": "Monachium",
+    "name": "Wilczek",
+    "query": "Wilczek",
     "rank": 17,
-    "tweet_count": "2,437 Tweets"
-  },
-  {
-    "name": "Premier League",
-    "query": "\"Premier League\"",
-    "rank": 18,
-    "tweet_count": "84.2K Tweets"
+    "tweet_count": null
   }
 ]
