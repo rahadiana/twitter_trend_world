@@ -1,7 +1,7 @@
 [
   {
-    "name": "#stmpog",
-    "query": "#stmpog",
+    "name": "#STMPOG",
+    "query": "#STMPOG",
     "rank": 1,
     "tweet_count": null
   },
@@ -12,16 +12,16 @@
     "tweet_count": null
   },
   {
-    "name": "#wiatr",
-    "query": "#wiatr",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
     "name": "Korwina",
     "query": "Korwina",
+    "rank": 3,
+    "tweet_count": "2,460 Tweets"
+  },
+  {
+    "name": "#wiatr",
+    "query": "#wiatr",
     "rank": 4,
-    "tweet_count": "2,543 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#zagwpł",
@@ -30,16 +30,16 @@
     "tweet_count": null
   },
   {
-    "name": "#trylogiasecret",
-    "query": "#trylogiasecret",
-    "rank": 6,
-    "tweet_count": "1,323 Tweets"
-  },
-  {
     "name": "Leon",
     "query": "Leon",
+    "rank": 6,
+    "tweet_count": "63.6K Tweets"
+  },
+  {
+    "name": "#trylogiasecret",
+    "query": "#trylogiasecret",
     "rank": 7,
-    "tweet_count": "65.3K Tweets"
+    "tweet_count": "1,284 Tweets"
   },
   {
     "name": "abramsy",
@@ -48,8 +48,8 @@
     "tweet_count": null
   },
   {
-    "name": "Ługańsku",
-    "query": "Ługańsku",
+    "name": "ługańsku",
+    "query": "ługańsku",
     "rank": 9,
     "tweet_count": null
   },
@@ -66,10 +66,10 @@
     "tweet_count": null
   },
   {
-    "name": "Donbasie",
-    "query": "Donbasie",
+    "name": "Gates",
+    "query": "Gates",
     "rank": 12,
-    "tweet_count": "1,664 Tweets"
+    "tweet_count": "80.8K Tweets"
   },
   {
     "name": "Szczęść Boże",
@@ -78,10 +78,10 @@
     "tweet_count": null
   },
   {
-    "name": "strączka",
-    "query": "strączka",
+    "name": "Donbasie",
+    "query": "Donbasie",
     "rank": 14,
-    "tweet_count": null
+    "tweet_count": "1,657 Tweets"
   },
   {
     "name": "Maderę",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
-    "name": "zagłębie",
-    "query": "zagłębie",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
     "name": "hobi",
     "query": "hobi",
-    "rank": 17,
-    "tweet_count": "382K Tweets"
+    "rank": 16,
+    "tweet_count": "384K Tweets"
   },
   {
-    "name": "Strączek",
-    "query": "Strączek",
-    "rank": 18,
+    "name": "strączek",
+    "query": "strączek",
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Pogoń",
     "query": "Pogoń",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "\"Przyjaźń\"",
     "query": "\"Przyjaźń\"",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "dziadów",
+    "query": "dziadów",
+    "rank": 20,
+    "tweet_count": "1,172 Tweets"
   }
 ]
