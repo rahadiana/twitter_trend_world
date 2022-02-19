@@ -6,28 +6,28 @@
     "tweet_count": null
   },
   {
-    "name": "Wilczek",
-    "query": "Wilczek",
+    "name": "#primemma",
+    "query": "#primemma",
     "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "Magiera",
-    "query": "Magiera",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "#JAGCRA",
-    "query": "#JAGCRA",
-    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Holandii",
     "query": "Holandii",
+    "rank": 3,
+    "tweet_count": "1,241 Tweets"
+  },
+  {
+    "name": "Wilczek",
+    "query": "Wilczek",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "Magiera",
+    "query": "Magiera",
     "rank": 5,
-    "tweet_count": "1,157 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Śląska",
@@ -42,34 +42,34 @@
     "tweet_count": null
   },
   {
-    "name": "#primemma",
-    "query": "#primemma",
+    "name": "#Eurovision",
+    "query": "#Eurovision",
     "rank": 8,
+    "tweet_count": "3,195 Tweets"
+  },
+  {
+    "name": "#JAGCRA",
+    "query": "#JAGCRA",
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Herbata",
     "query": "Herbata",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "#eurovision",
-    "query": "#eurovision",
     "rank": 10,
-    "tweet_count": "3,087 Tweets"
-  },
-  {
-    "name": "Norwich",
-    "query": "Norwich",
-    "rank": 11,
-    "tweet_count": "73.2K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Monachium",
     "query": "Monachium",
+    "rank": 11,
+    "tweet_count": "2,252 Tweets"
+  },
+  {
+    "name": "Norwich",
+    "query": "Norwich",
     "rank": 12,
-    "tweet_count": "2,149 Tweets"
+    "tweet_count": "74.4K Tweets"
   },
   {
     "name": "Niecieczy",
@@ -78,22 +78,22 @@
     "tweet_count": null
   },
   {
-    "name": "Premier League",
-    "query": "\"Premier League\"",
-    "rank": 14,
-    "tweet_count": "66.4K Tweets"
-  },
-  {
     "name": "Arsenalu",
     "query": "Arsenalu",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
+  },
+  {
+    "name": "Premier League",
+    "query": "\"Premier League\"",
+    "rank": 15,
+    "tweet_count": "68.8K Tweets"
   },
   {
     "name": "Auschwitz",
     "query": "Auschwitz",
     "rank": 16,
-    "tweet_count": "20.4K Tweets"
+    "tweet_count": "20.9K Tweets"
   },
   {
     "name": "Białymstoku",
@@ -105,7 +105,7 @@
     "name": "Witold Paszt",
     "query": "\"Witold Paszt\"",
     "rank": 18,
-    "tweet_count": "1,850 Tweets"
+    "tweet_count": "1,899 Tweets"
   },
   {
     "name": "#PlusLiga",
@@ -117,6 +117,6 @@
     "name": "#plkpl",
     "query": "#plkpl",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "1,002 Tweets"
   }
 ]
