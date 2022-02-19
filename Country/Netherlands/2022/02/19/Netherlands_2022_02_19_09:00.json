@@ -1,25 +1,25 @@
 [
   {
-    "name": "#massastart",
-    "query": "#massastart",
+    "name": "Irene Schouten",
+    "query": "\"Irene Schouten\"",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "Irene Schouten",
-    "query": "\"Irene Schouten\"",
+    "name": "#massastart",
+    "query": "#massastart",
     "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "#svenkramer",
+    "query": "#svenkramer",
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Bart Swings",
     "query": "\"Bart Swings\"",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "Sven Kramer",
-    "query": "\"Sven Kramer\"",
     "rank": 4,
     "tweet_count": null
   },
@@ -42,33 +42,39 @@
     "tweet_count": null
   },
   {
-    "name": "#TrudeauTyranny",
-    "query": "#TrudeauTyranny",
-    "rank": 8,
-    "tweet_count": "88K Tweets"
-  },
-  {
     "name": "Wordle 245 X",
     "query": "\"Wordle 245 X\"",
+    "rank": 8,
+    "tweet_count": "15.7K Tweets"
+  },
+  {
+    "name": "#TrudeauTyranny",
+    "query": "#TrudeauTyranny",
     "rank": 9,
-    "tweet_count": "15.3K Tweets"
+    "tweet_count": "89.1K Tweets"
   },
   {
     "name": "Biden",
     "query": "Biden",
     "rank": 10,
-    "tweet_count": "477K Tweets"
+    "tweet_count": "480K Tweets"
   },
   {
     "name": "#energierekening",
     "query": "#energierekening",
     "rank": 11,
-    "tweet_count": "1,481 Tweets"
+    "tweet_count": "1,533 Tweets"
   },
   {
     "name": "#Canada",
     "query": "#Canada",
     "rank": 12,
-    "tweet_count": "64.7K Tweets"
+    "tweet_count": "66K Tweets"
+  },
+  {
+    "name": "#stormschade",
+    "query": "#stormschade",
+    "rank": 13,
+    "tweet_count": "1,316 Tweets"
   }
 ]
