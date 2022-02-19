@@ -1,68 +1,62 @@
 [
   {
-    "name": "Everton",
-    "query": "Everton",
-    "rank": 1,
-    "tweet_count": "40K Tweets"
-  },
-  {
-    "name": "Arsenal",
-    "query": "Arsenal",
-    "rank": 2,
-    "tweet_count": "155K Tweets"
-  },
-  {
     "name": "#LIVNOR",
     "query": "#LIVNOR",
-    "rank": 3,
-    "tweet_count": "52.1K Tweets"
+    "rank": 1,
+    "tweet_count": "51.8K Tweets"
   },
   {
     "name": "#MCITOT",
     "query": "#MCITOT",
-    "rank": 4,
-    "tweet_count": "46.7K Tweets"
+    "rank": 2,
+    "tweet_count": "47K Tweets"
   },
   {
-    "name": "Liverpool",
-    "query": "Liverpool",
-    "rank": 5,
-    "tweet_count": "184K Tweets"
-  },
-  {
-    "name": "Lukaku",
-    "query": "Lukaku",
-    "rank": 6,
-    "tweet_count": "40.5K Tweets"
+    "name": "Nantes",
+    "query": "Nantes",
+    "rank": 3,
+    "tweet_count": "43.9K Tweets"
   },
   {
     "name": "Roma",
     "query": "Roma",
-    "rank": 7,
-    "tweet_count": "46.9K Tweets"
+    "rank": 4,
+    "tweet_count": "47.4K Tweets"
+  },
+  {
+    "name": "Everton",
+    "query": "Everton",
+    "rank": 5,
+    "tweet_count": "40.2K Tweets"
   },
   {
     "name": "Mourinho",
     "query": "Mourinho",
-    "rank": 8,
-    "tweet_count": "16.5K Tweets"
+    "rank": 6,
+    "tweet_count": "17K Tweets"
   },
   {
     "name": "Saka",
     "query": "Saka",
-    "rank": 9,
-    "tweet_count": "62.6K Tweets"
+    "rank": 7,
+    "tweet_count": "63.2K Tweets"
+  },
+  {
+    "name": "Lampard",
+    "query": "Lampard",
+    "rank": 8,
+    "tweet_count": "12.9K Tweets"
   },
   {
     "name": "Diaz",
     "query": "Diaz",
-    "rank": 10,
-    "tweet_count": "158K Tweets"
+    "rank": 9,
+    "tweet_count": "159K Tweets"
   },
   {
-    "name": "Klopp",
-    "query": "Klopp",
-    "rank": 11,
-    "tweet_count": "23.8K Tweets"
+    "name": "#CRYCHE",
+    "query": "#CRYCHE",
+    "rank": 10,
+    "tweet_count": "57.7K Tweets"
   }
 ]
