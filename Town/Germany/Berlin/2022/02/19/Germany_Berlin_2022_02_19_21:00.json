@@ -1,31 +1,31 @@
 [
   {
-    "name": "#MSC2022",
-    "query": "#MSC2022",
-    "rank": 1,
-    "tweet_count": "35.5K Tweets"
-  },
-  {
     "name": "#DSDS",
     "query": "#DSDS",
-    "rank": 2,
-    "tweet_count": "1,594 Tweets"
+    "rank": 1,
+    "tweet_count": "1,701 Tweets"
   },
   {
     "name": "#KOESGE",
     "query": "#KOESGE",
-    "rank": 3,
-    "tweet_count": "2,432 Tweets"
+    "rank": 2,
+    "tweet_count": "2,439 Tweets"
   },
   {
     "name": "#FCNSSV",
     "query": "#FCNSSV",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#Martenstein",
     "query": "#Martenstein",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "#kleingegengross",
+    "query": "#kleingegengross",
     "rank": 5,
     "tweet_count": null
   },
@@ -45,19 +45,19 @@
     "name": "Modeste",
     "query": "Modeste",
     "rank": 8,
-    "tweet_count": "1,835 Tweets"
-  },
-  {
-    "name": "Chandler",
-    "query": "Chandler",
-    "rank": 9,
-    "tweet_count": "5,601 Tweets"
+    "tweet_count": "1,848 Tweets"
   },
   {
     "name": "Münze",
     "query": "Münze",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
+  },
+  {
+    "name": "Chandler",
+    "query": "Chandler",
+    "rank": 10,
+    "tweet_count": "5,676 Tweets"
   },
   {
     "name": "Knauff",
@@ -75,37 +75,37 @@
     "name": "Leon",
     "query": "Leon",
     "rank": 13,
-    "tweet_count": "61.1K Tweets"
+    "tweet_count": "61.7K Tweets"
   },
   {
     "name": "Liverpool",
     "query": "Liverpool",
     "rank": 14,
-    "tweet_count": "188K Tweets"
-  },
-  {
-    "name": "Elfer",
-    "query": "Elfer",
-    "rank": 15,
-    "tweet_count": null
+    "tweet_count": "189K Tweets"
   },
   {
     "name": "Sicherheitskonferenz",
     "query": "Sicherheitskonferenz",
+    "rank": 15,
+    "tweet_count": "8,374 Tweets"
+  },
+  {
+    "name": "Elfer",
+    "query": "Elfer",
     "rank": 16,
-    "tweet_count": "8,295 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Terror",
     "query": "Terror",
     "rank": 17,
-    "tweet_count": "69K Tweets"
+    "tweet_count": "69.5K Tweets"
   },
   {
     "name": "Gates",
     "query": "Gates",
     "rank": 18,
-    "tweet_count": "136K Tweets"
+    "tweet_count": "138K Tweets"
   },
   {
     "name": "Aufstellung",
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "Gedenken",
-    "query": "Gedenken",
+    "name": "Soße",
+    "query": "Soße",
     "rank": 20,
-    "tweet_count": "8,264 Tweets"
+    "tweet_count": null
   }
 ]
