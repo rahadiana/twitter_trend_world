@@ -1,21 +1,21 @@
 [
   {
-    "name": "Lloris",
-    "query": "Lloris",
-    "rank": 1,
-    "tweet_count": "8,945 Tweets"
-  },
-  {
     "name": "#MCITOT",
     "query": "#MCITOT",
+    "rank": 1,
+    "tweet_count": "21K Tweets"
+  },
+  {
+    "name": "Lloris",
+    "query": "Lloris",
     "rank": 2,
-    "tweet_count": "18.3K Tweets"
+    "tweet_count": "11K Tweets"
   },
   {
     "name": "Thiago",
     "query": "Thiago",
     "rank": 3,
-    "tweet_count": "47.4K Tweets"
+    "tweet_count": "48K Tweets"
   },
   {
     "name": "#LEIvOSP",
@@ -27,13 +27,13 @@
     "name": "#WWEChamber",
     "query": "#WWEChamber",
     "rank": 5,
-    "tweet_count": "99.7K Tweets"
+    "tweet_count": "105K Tweets"
   },
   {
     "name": "Shane Long",
     "query": "\"Shane Long\"",
     "rank": 6,
-    "tweet_count": "1,441 Tweets"
+    "tweet_count": "1,454 Tweets"
   },
   {
     "name": "Cian Lynch",
@@ -42,69 +42,63 @@
     "tweet_count": null
   },
   {
+    "name": "Gomez",
+    "query": "Gomez",
+    "rank": 8,
+    "tweet_count": "43.8K Tweets"
+  },
+  {
     "name": "Keita",
     "query": "Keita",
-    "rank": 8,
-    "tweet_count": "9,134 Tweets"
+    "rank": 9,
+    "tweet_count": "9,163 Tweets"
   },
   {
     "name": "Gerrard",
     "query": "Gerrard",
-    "rank": 9,
-    "tweet_count": "7,920 Tweets"
+    "rank": 10,
+    "tweet_count": "8,109 Tweets"
   },
   {
     "name": "Pulisic",
     "query": "Pulisic",
-    "rank": 10,
-    "tweet_count": "15.4K Tweets"
-  },
-  {
-    "name": "Saka",
-    "query": "Saka",
     "rank": 11,
-    "tweet_count": "59.2K Tweets"
+    "tweet_count": "15.5K Tweets"
   },
   {
-    "name": "Kane",
-    "query": "Kane",
+    "name": "Anfield",
+    "query": "Anfield",
     "rank": 12,
-    "tweet_count": "35.4K Tweets"
+    "tweet_count": "21.2K Tweets"
   },
   {
     "name": "Premier League",
     "query": "\"Premier League\"",
     "rank": 13,
-    "tweet_count": "68.8K Tweets"
-  },
-  {
-    "name": "Robbo",
-    "query": "Robbo",
-    "rank": 14,
-    "tweet_count": "3,378 Tweets"
+    "tweet_count": "70.8K Tweets"
   },
   {
     "name": "West Ham",
     "query": "\"West Ham\"",
-    "rank": 15,
-    "tweet_count": "29.1K Tweets"
+    "rank": 14,
+    "tweet_count": "9,720 Tweets"
   },
   {
     "name": "#LIVNOR",
     "query": "#LIVNOR",
+    "rank": 15,
+    "tweet_count": "52.2K Tweets"
+  },
+  {
+    "name": "#avfc",
+    "query": "#avfc",
     "rank": 16,
-    "tweet_count": "51.8K Tweets"
+    "tweet_count": "4,945 Tweets"
   },
   {
     "name": "#fitzgibboncup",
     "query": "#fitzgibboncup",
     "rank": 17,
     "tweet_count": null
-  },
-  {
-    "name": "#avfc",
-    "query": "#avfc",
-    "rank": 18,
-    "tweet_count": "4,886 Tweets"
   }
 ]
