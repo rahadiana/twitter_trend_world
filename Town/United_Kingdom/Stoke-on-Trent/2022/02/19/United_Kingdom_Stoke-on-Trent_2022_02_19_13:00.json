@@ -6,22 +6,22 @@
     "tweet_count": null
   },
   {
-    "name": "Ottawa",
-    "query": "Ottawa",
+    "name": "#SuperLeague",
+    "query": "#SuperLeague",
     "rank": 2,
-    "tweet_count": "771K Tweets"
-  },
-  {
-    "name": "#MSC2022",
-    "query": "#MSC2022",
-    "rank": 3,
-    "tweet_count": "20.9K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Basingstoke",
     "query": "Basingstoke",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
+  },
+  {
+    "name": "Preston",
+    "query": "Preston",
+    "rank": 4,
+    "tweet_count": "5,424 Tweets"
   },
   {
     "name": "Crewe",
@@ -30,87 +30,87 @@
     "tweet_count": null
   },
   {
-    "name": "Gates",
-    "query": "Gates",
+    "name": "#GW26",
+    "query": "#GW26",
     "rank": 6,
-    "tweet_count": "101K Tweets"
+    "tweet_count": "1,467 Tweets"
   },
   {
-    "name": "Waterloo",
-    "query": "Waterloo",
+    "name": "#WinterOlympics",
+    "query": "#WinterOlympics",
     "rank": 7,
-    "tweet_count": "3,197 Tweets"
+    "tweet_count": "13.3K Tweets"
   },
   {
     "name": "GB News",
     "query": "\"GB News\"",
     "rank": 8,
-    "tweet_count": "29.3K Tweets"
+    "tweet_count": "11.3K Tweets"
   },
   {
-    "name": "#Silver",
-    "query": "#Silver",
+    "name": "Ascot",
+    "query": "Ascot",
     "rank": 9,
-    "tweet_count": "4,175 Tweets"
+    "tweet_count": "4,006 Tweets"
+  },
+  {
+    "name": "Waterloo",
+    "query": "Waterloo",
+    "rank": 10,
+    "tweet_count": "3,274 Tweets"
   },
   {
     "name": "Reserves",
     "query": "Reserves",
-    "rank": 10,
-    "tweet_count": "6,590 Tweets"
+    "rank": 11,
+    "tweet_count": "6,700 Tweets"
   },
   {
     "name": "Salah TC",
     "query": "\"Salah TC\"",
-    "rank": 11,
-    "tweet_count": "2,489 Tweets"
-  },
-  {
-    "name": "Crystal Palace",
-    "query": "\"Crystal Palace\"",
     "rank": 12,
-    "tweet_count": "9,891 Tweets"
+    "tweet_count": "2,515 Tweets"
   },
   {
-    "name": "Euston",
-    "query": "Euston",
+    "name": "Gates",
+    "query": "Gates",
     "rank": 13,
-    "tweet_count": "1,415 Tweets"
+    "tweet_count": "103K Tweets"
   },
   {
-    "name": "Paddington",
-    "query": "Paddington",
+    "name": "Robbo",
+    "query": "Robbo",
     "rank": 14,
-    "tweet_count": "1,296 Tweets"
-  },
-  {
-    "name": "Jimenez",
-    "query": "Jimenez",
-    "rank": 15,
-    "tweet_count": "9,882 Tweets"
-  },
-  {
-    "name": "Saka",
-    "query": "Saka",
-    "rank": 16,
-    "tweet_count": "31.3K Tweets"
-  },
-  {
-    "name": "Amir Khan",
-    "query": "\"Amir Khan\"",
-    "rank": 17,
-    "tweet_count": "3,186 Tweets"
+    "tweet_count": "2,167 Tweets"
   },
   {
     "name": "Emirates",
     "query": "Emirates",
-    "rank": 18,
-    "tweet_count": "8,645 Tweets"
+    "rank": 15,
+    "tweet_count": "8,807 Tweets"
   },
   {
-    "name": "#TrudeauTyranny",
-    "query": "#TrudeauTyranny",
+    "name": "Ottawa",
+    "query": "Ottawa",
+    "rank": 16,
+    "tweet_count": "778K Tweets"
+  },
+  {
+    "name": "Steve Cram",
+    "query": "\"Steve Cram\"",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Crystal Palace",
+    "query": "\"Crystal Palace\"",
+    "rank": 18,
+    "tweet_count": "10.3K Tweets"
+  },
+  {
+    "name": "Euston",
+    "query": "Euston",
     "rank": 19,
-    "tweet_count": "98K Tweets"
+    "tweet_count": "1,430 Tweets"
   }
 ]
