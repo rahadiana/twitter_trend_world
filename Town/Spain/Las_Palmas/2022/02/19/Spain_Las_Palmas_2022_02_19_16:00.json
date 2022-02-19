@@ -1,104 +1,110 @@
 [
   {
-    "name": "#LicenciaParaHablar",
-    "query": "#LicenciaParaHablar",
+    "name": "Suárez",
+    "query": "Suárez",
     "rank": 1,
-    "tweet_count": "88K Tweets"
-  },
-  {
-    "name": "#VivaLaVida483",
-    "query": "#VivaLaVida483",
-    "rank": 2,
-    "tweet_count": "3,511 Tweets"
-  },
-  {
-    "name": "Osasuna",
-    "query": "Osasuna",
-    "rank": 3,
-    "tweet_count": "4,043 Tweets"
-  },
-  {
-    "name": "Giménez",
-    "query": "Giménez",
-    "rank": 4,
-    "tweet_count": "2,881 Tweets"
+    "tweet_count": "16.6K Tweets"
   },
   {
     "name": "Joao",
     "query": "Joao",
+    "rank": 2,
+    "tweet_count": "49.5K Tweets"
+  },
+  {
+    "name": "#VivaLaVida483",
+    "query": "#VivaLaVida483",
+    "rank": 3,
+    "tweet_count": "4,320 Tweets"
+  },
+  {
+    "name": "Osasuna",
+    "query": "Osasuna",
+    "rank": 4,
+    "tweet_count": "4,946 Tweets"
+  },
+  {
+    "name": "Sergio Herrera",
+    "query": "\"Sergio Herrera\"",
     "rank": 5,
-    "tweet_count": "47.1K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Hernani",
+    "query": "Hernani",
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "Giménez",
+    "query": "Giménez",
+    "rank": 7,
+    "tweet_count": "3,025 Tweets"
   },
   {
     "name": "#Secret19F",
     "query": "#Secret19F",
-    "rank": 6,
-    "tweet_count": "18.3K Tweets"
-  },
-  {
-    "name": "Héctor Herrera",
-    "query": "\"Héctor Herrera\"",
-    "rank": 7,
-    "tweet_count": null
+    "rank": 8,
+    "tweet_count": "19.2K Tweets"
   },
   {
     "name": "Robert Moreno",
     "query": "\"Robert Moreno\"",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Granada",
     "query": "Granada",
-    "rank": 9,
-    "tweet_count": "13.9K Tweets"
+    "rank": 10,
+    "tweet_count": "14.4K Tweets"
   },
   {
-    "name": "Hernani",
-    "query": "Hernani",
-    "rank": 10,
+    "name": "#APOYOROCIO19F",
+    "query": "#APOYOROCIO19F",
+    "rank": 11,
+    "tweet_count": "33.6K Tweets"
+  },
+  {
+    "name": "El Sadar",
+    "query": "\"El Sadar\"",
+    "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "Gil Manzano",
-    "query": "\"Gil Manzano\"",
-    "rank": 11,
+    "name": "#PremierLeagueDAZN",
+    "query": "#PremierLeagueDAZN",
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Danjuma",
     "query": "Danjuma",
-    "rank": 12,
-    "tweet_count": "2,949 Tweets"
-  },
-  {
-    "name": "El Sadar",
-    "query": "\"El Sadar\"",
-    "rank": 13,
-    "tweet_count": null
+    "rank": 14,
+    "tweet_count": "3,066 Tweets"
   },
   {
     "name": "Maikel Mesa",
     "query": "\"Maikel Mesa\"",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Suárez",
-    "query": "Suárez",
     "rank": 15,
-    "tweet_count": "12.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Makoke",
     "query": "Makoke",
     "rank": 16,
+    "tweet_count": "1,100 Tweets"
+  },
+  {
+    "name": "Gil Manzano",
+    "query": "\"Gil Manzano\"",
+    "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Arabia",
-    "query": "Arabia",
-    "rank": 17,
-    "tweet_count": "22.1K Tweets"
+    "name": "Luis Díaz",
+    "query": "\"Luis Díaz\"",
+    "rank": 18,
+    "tweet_count": "22.4K Tweets"
   }
 ]
