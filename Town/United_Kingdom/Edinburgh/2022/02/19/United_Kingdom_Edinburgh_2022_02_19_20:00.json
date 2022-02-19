@@ -1,27 +1,27 @@
 [
   {
-    "name": "Villa",
-    "query": "Villa",
-    "rank": 1,
-    "tweet_count": "64.8K Tweets"
-  },
-  {
     "name": "Neilson",
     "query": "Neilson",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Villa",
+    "query": "Villa",
+    "rank": 2,
+    "tweet_count": "65.6K Tweets"
   },
   {
     "name": "Diaz",
     "query": "Diaz",
     "rank": 3,
-    "tweet_count": "155K Tweets"
+    "tweet_count": "158K Tweets"
   },
   {
     "name": "Arsenal",
     "query": "Arsenal",
     "rank": 4,
-    "tweet_count": "150K Tweets"
+    "tweet_count": "155K Tweets"
   },
   {
     "name": "St Johnstone",
@@ -33,37 +33,37 @@
     "name": "Newcastle",
     "query": "Newcastle",
     "rank": 6,
-    "tweet_count": "42.1K Tweets"
+    "tweet_count": "42.8K Tweets"
   },
   {
     "name": "#MCITOT",
     "query": "#MCITOT",
     "rank": 7,
-    "tweet_count": "45.6K Tweets"
+    "tweet_count": "46.7K Tweets"
   },
   {
     "name": "#SaturdayNightTakeaway",
     "query": "#SaturdayNightTakeaway",
     "rank": 8,
-    "tweet_count": "4,251 Tweets"
+    "tweet_count": "6,335 Tweets"
   },
   {
     "name": "#WWEChamber",
     "query": "#WWEChamber",
     "rank": 9,
-    "tweet_count": "160K Tweets"
+    "tweet_count": "164K Tweets"
   },
   {
     "name": "Romero",
     "query": "Romero",
     "rank": 10,
-    "tweet_count": "30.6K Tweets"
+    "tweet_count": "31.2K Tweets"
   },
   {
     "name": "Liverpool",
     "query": "Liverpool",
     "rank": 11,
-    "tweet_count": "180K Tweets"
+    "tweet_count": "184K Tweets"
   },
   {
     "name": "RIP Joey",
@@ -72,51 +72,51 @@
     "tweet_count": null
   },
   {
-    "name": "Anthony Taylor",
-    "query": "\"Anthony Taylor\"",
+    "name": "Adam Azim",
+    "query": "\"Adam Azim\"",
     "rank": 13,
-    "tweet_count": "1,708 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Kulusevski",
     "query": "Kulusevski",
     "rank": 14,
-    "tweet_count": "16.8K Tweets"
+    "tweet_count": "17.7K Tweets"
   },
   {
-    "name": "Paul Ince",
-    "query": "\"Paul Ince\"",
+    "name": "Anthony Taylor",
+    "query": "\"Anthony Taylor\"",
     "rank": 15,
-    "tweet_count": "1,242 Tweets"
+    "tweet_count": "1,748 Tweets"
   },
   {
-    "name": "Carragher",
-    "query": "Carragher",
+    "name": "Ant & Dec",
+    "query": "\"Ant & Dec\"",
     "rank": 16,
-    "tweet_count": "1,960 Tweets"
-  },
-  {
-    "name": "Everton",
-    "query": "Everton",
-    "rank": 17,
-    "tweet_count": "39.5K Tweets"
+    "tweet_count": "2,012 Tweets"
   },
   {
     "name": "#nrkmgp",
     "query": "#nrkmgp",
+    "rank": 17,
+    "tweet_count": "4,500 Tweets"
+  },
+  {
+    "name": "Paul Ince",
+    "query": "\"Paul Ince\"",
     "rank": 18,
-    "tweet_count": "3,243 Tweets"
+    "tweet_count": "1,282 Tweets"
   },
   {
-    "name": "#avfc",
-    "query": "#avfc",
+    "name": "Carragher",
+    "query": "Carragher",
     "rank": 19,
-    "tweet_count": "5,123 Tweets"
+    "tweet_count": "1,982 Tweets"
   },
   {
-    "name": "Burnley",
-    "query": "Burnley",
+    "name": "Everton",
+    "query": "Everton",
     "rank": 20,
-    "tweet_count": "23.9K Tweets"
+    "tweet_count": "39.9K Tweets"
   }
 ]
