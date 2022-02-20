@@ -1,15 +1,15 @@
 [
   {
-    "name": "Nantes",
-    "query": "Nantes",
-    "rank": 1,
-    "tweet_count": "85.9K Tweets"
-  },
-  {
     "name": "#fcbls",
     "query": "#fcbls",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Nantes",
+    "query": "Nantes",
+    "rank": 2,
+    "tweet_count": "86.3K Tweets"
   },
   {
     "name": "Wordle 245 X",
@@ -18,16 +18,16 @@
     "tweet_count": "15.6K Tweets"
   },
   {
-    "name": "#MCITOT",
-    "query": "#MCITOT",
-    "rank": 4,
-    "tweet_count": "57.5K Tweets"
-  },
-  {
     "name": "Maske",
     "query": "Maske",
+    "rank": 4,
+    "tweet_count": "20.2K Tweets"
+  },
+  {
+    "name": "#MCITOT",
+    "query": "#MCITOT",
     "rank": 5,
-    "tweet_count": "20K Tweets"
+    "tweet_count": "57.6K Tweets"
   },
   {
     "name": "#TrudeauTyranny",
@@ -51,31 +51,31 @@
     "name": "Ukraine",
     "query": "Ukraine",
     "rank": 9,
-    "tweet_count": "694K Tweets"
+    "tweet_count": "699K Tweets"
   },
   {
     "name": "Neymar",
     "query": "Neymar",
     "rank": 10,
-    "tweet_count": "90.6K Tweets"
-  },
-  {
-    "name": "saint smash",
-    "query": "\"saint smash\"",
-    "rank": 11,
-    "tweet_count": null
+    "tweet_count": "91K Tweets"
   },
   {
     "name": "Bill Gates",
     "query": "\"Bill Gates\"",
+    "rank": 11,
+    "tweet_count": "94.1K Tweets"
+  },
+  {
+    "name": "saint smash",
+    "query": "\"saint smash\"",
     "rank": 12,
-    "tweet_count": "93.5K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Tote",
     "query": "Tote",
     "rank": 13,
-    "tweet_count": "11.8K Tweets"
+    "tweet_count": "11.9K Tweets"
   },
   {
     "name": "Sanktionen",
@@ -84,21 +84,21 @@
     "tweet_count": null
   },
   {
-    "name": "Sieg",
-    "query": "Sieg",
+    "name": "sieg",
+    "query": "sieg",
     "rank": 15,
-    "tweet_count": "4,125 Tweets"
-  },
-  {
-    "name": "Donetsk",
-    "query": "Donetsk",
-    "rank": 16,
-    "tweet_count": "62.7K Tweets"
+    "tweet_count": "4,153 Tweets"
   },
   {
     "name": "Russland",
     "query": "Russland",
+    "rank": 16,
+    "tweet_count": "19.1K Tweets"
+  },
+  {
+    "name": "Donetsk",
+    "query": "Donetsk",
     "rank": 17,
-    "tweet_count": "18.8K Tweets"
+    "tweet_count": "63.1K Tweets"
   }
 ]
