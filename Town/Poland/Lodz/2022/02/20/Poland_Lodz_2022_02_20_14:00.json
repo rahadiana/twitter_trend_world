@@ -1,21 +1,21 @@
 [
   {
-    "name": "#WARRAD",
-    "query": "#WARRAD",
+    "name": "#warrad",
+    "query": "#warrad",
     "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "#GÓRRCZ",
+    "query": "#GÓRRCZ",
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Warta",
     "query": "Warta",
-    "rank": 2,
-    "tweet_count": "1,310 Tweets"
-  },
-  {
-    "name": "Krzysztof Piątek",
-    "query": "\"Krzysztof Piątek\"",
     "rank": 3,
-    "tweet_count": null
+    "tweet_count": "1,323 Tweets"
   },
   {
     "name": "Radomiak",
@@ -24,8 +24,8 @@
     "tweet_count": null
   },
   {
-    "name": "#GÓRRCZ",
-    "query": "#GÓRRCZ",
+    "name": "Krzysztof Piątek",
+    "query": "\"Krzysztof Piątek\"",
     "rank": 5,
     "tweet_count": null
   },
@@ -45,25 +45,25 @@
     "name": "Igrzyska",
     "query": "Igrzyska",
     "rank": 8,
-    "tweet_count": "1,101 Tweets"
+    "tweet_count": "1,129 Tweets"
   },
   {
     "name": "Trudeau",
     "query": "Trudeau",
     "rank": 9,
-    "tweet_count": "763K Tweets"
+    "tweet_count": "770K Tweets"
   },
   {
     "name": "Miłej",
     "query": "Miłej",
     "rank": 10,
-    "tweet_count": "1,518 Tweets"
+    "tweet_count": "1,529 Tweets"
   },
   {
     "name": "Legią",
     "query": "Legią",
     "rank": 11,
-    "tweet_count": "3,123 Tweets"
+    "tweet_count": "3,137 Tweets"
   },
   {
     "name": "Jasia",
@@ -75,7 +75,7 @@
     "name": "Kossakowski",
     "query": "Kossakowski",
     "rank": 13,
-    "tweet_count": "1,069 Tweets"
+    "tweet_count": "1,077 Tweets"
   },
   {
     "name": "Wisłą",
@@ -84,21 +84,21 @@
     "tweet_count": null
   },
   {
-    "name": "Kapeli",
-    "query": "Kapeli",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
     "name": "#NotMeSeriesEP10",
     "query": "#NotMeSeriesEP10",
+    "rank": 15,
+    "tweet_count": "243K Tweets"
+  },
+  {
+    "name": "#LEEMUN",
+    "query": "#LEEMUN",
     "rank": 16,
-    "tweet_count": "204K Tweets"
+    "tweet_count": "41K Tweets"
   },
   {
     "name": "#włoskarobota",
     "query": "#włoskarobota",
     "rank": 17,
-    "tweet_count": "1,057 Tweets"
+    "tweet_count": "1,064 Tweets"
   }
 ]

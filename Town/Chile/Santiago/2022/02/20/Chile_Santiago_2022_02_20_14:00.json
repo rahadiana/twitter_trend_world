@@ -3,19 +3,19 @@
     "name": "#Alerta",
     "query": "#Alerta",
     "rank": 1,
-    "tweet_count": "6,437 Tweets"
+    "tweet_count": "6,548 Tweets"
   },
   {
-    "name": "#VamosColoColo",
-    "query": "#VamosColoColo",
+    "name": "#vamoscolocolo",
+    "query": "#vamoscolocolo",
     "rank": 2,
-    "tweet_count": "8,408 Tweets"
+    "tweet_count": "8,411 Tweets"
   },
   {
     "name": "Costa",
     "query": "Costa",
     "rank": 3,
-    "tweet_count": "58.1K Tweets"
+    "tweet_count": "58.8K Tweets"
   },
   {
     "name": "#noticiaschvcnn",
@@ -24,93 +24,99 @@
     "tweet_count": null
   },
   {
-    "name": "#FelizDomingo",
-    "query": "#FelizDomingo",
-    "rank": 5,
-    "tweet_count": "10.2K Tweets"
-  },
-  {
     "name": "Javiera Parada",
     "query": "\"Javiera Parada\"",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "#FelizDomingo",
+    "query": "#FelizDomingo",
+    "rank": 6,
+    "tweet_count": "10.7K Tweets"
+  },
+  {
+    "name": "#RechazoDeTodos",
+    "query": "#RechazoDeTodos",
+    "rank": 7,
+    "tweet_count": "11.7K Tweets"
   },
   {
     "name": "Audax",
     "query": "Audax",
-    "rank": 7,
-    "tweet_count": "5,705 Tweets"
+    "rank": 8,
+    "tweet_count": "5,738 Tweets"
   },
   {
     "name": "Juan Fernández",
     "query": "\"Juan Fernández\"",
-    "rank": 8,
-    "tweet_count": "8,791 Tweets"
+    "rank": 9,
+    "tweet_count": "8,871 Tweets"
   },
   {
     "name": "Quinteros",
     "query": "Quinteros",
-    "rank": 9,
-    "tweet_count": "4,069 Tweets"
-  },
-  {
-    "name": "Bad Bunny",
-    "query": "\"Bad Bunny\"",
     "rank": 10,
-    "tweet_count": "52.3K Tweets"
-  },
-  {
-    "name": "Lucero",
-    "query": "Lucero",
-    "rank": 11,
-    "tweet_count": "6,369 Tweets"
-  },
-  {
-    "name": "Yuzuru",
-    "query": "Yuzuru",
-    "rank": 12,
-    "tweet_count": "131K Tweets"
-  },
-  {
-    "name": "Maguire",
-    "query": "Maguire",
-    "rank": 13,
-    "tweet_count": "48K Tweets"
-  },
-  {
-    "name": "Matamala",
-    "query": "Matamala",
-    "rank": 14,
-    "tweet_count": null
+    "tweet_count": "4,087 Tweets"
   },
   {
     "name": "Juan Sutil",
     "query": "\"Juan Sutil\"",
+    "rank": 11,
+    "tweet_count": "2,664 Tweets"
+  },
+  {
+    "name": "Maguire",
+    "query": "Maguire",
+    "rank": 12,
+    "tweet_count": "53K Tweets"
+  },
+  {
+    "name": "Bad Bunny",
+    "query": "\"Bad Bunny\"",
+    "rank": 13,
+    "tweet_count": "52.6K Tweets"
+  },
+  {
+    "name": "Lucero",
+    "query": "Lucero",
+    "rank": 14,
+    "tweet_count": "6,421 Tweets"
+  },
+  {
+    "name": "Yuzuru",
+    "query": "Yuzuru",
     "rank": 15,
-    "tweet_count": "2,444 Tweets"
-  },
-  {
-    "name": "Suazo",
-    "query": "Suazo",
-    "rank": 16,
-    "tweet_count": "1,694 Tweets"
-  },
-  {
-    "name": "Bill Gates",
-    "query": "\"Bill Gates\"",
-    "rank": 17,
-    "tweet_count": "86.4K Tweets"
+    "tweet_count": "133K Tweets"
   },
   {
     "name": "Warnken",
     "query": "Warnken",
-    "rank": 18,
-    "tweet_count": "7,489 Tweets"
+    "rank": 16,
+    "tweet_count": "7,675 Tweets"
   },
   {
-    "name": "Pavez",
-    "query": "Pavez",
+    "name": "Matamala",
+    "query": "Matamala",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Suazo",
+    "query": "Suazo",
+    "rank": 18,
+    "tweet_count": "1,704 Tweets"
+  },
+  {
+    "name": "Bill Gates",
+    "query": "\"Bill Gates\"",
     "rank": 19,
-    "tweet_count": "1,379 Tweets"
+    "tweet_count": "87K Tweets"
+  },
+  {
+    "name": "Leeds",
+    "query": "Leeds",
+    "rank": 20,
+    "tweet_count": "73.3K Tweets"
   }
 ]
