@@ -1,69 +1,69 @@
 [
   {
-    "name": "Spieler",
-    "query": "Spieler",
-    "rank": 1,
-    "tweet_count": "3,408 Tweets"
-  },
-  {
     "name": "#Tatort",
     "query": "#Tatort",
-    "rank": 2,
-    "tweet_count": "4,363 Tweets"
+    "rank": 1,
+    "tweet_count": "4,481 Tweets"
   },
   {
     "name": "#AnneWill",
     "query": "#AnneWill",
+    "rank": 2,
+    "tweet_count": "1,760 Tweets"
+  },
+  {
+    "name": "#Wagenknecht",
+    "query": "#Wagenknecht",
     "rank": 3,
-    "tweet_count": "1,180 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#BSCRBL",
     "query": "#BSCRBL",
     "rank": 4,
-    "tweet_count": "2,628 Tweets"
-  },
-  {
-    "name": "#BVBBMG",
-    "query": "#BVBBMG",
-    "rank": 5,
-    "tweet_count": "7,823 Tweets"
+    "tweet_count": "2,650 Tweets"
   },
   {
     "name": "Faber",
     "query": "Faber",
-    "rank": 6,
-    "tweet_count": "1,844 Tweets"
+    "rank": 5,
+    "tweet_count": "1,921 Tweets"
   },
   {
-    "name": "#Wagenknecht",
-    "query": "#Wagenknecht",
+    "name": "#BVBBMG",
+    "query": "#BVBBMG",
+    "rank": 6,
+    "tweet_count": "7,861 Tweets"
+  },
+  {
+    "name": "Daniel",
+    "query": "Daniel",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "128K Tweets"
   },
   {
     "name": "Filip",
     "query": "Filip",
     "rank": 8,
-    "tweet_count": "3,013 Tweets"
+    "tweet_count": "3,067 Tweets"
   },
   {
     "name": "Eric",
     "query": "Eric",
     "rank": 9,
-    "tweet_count": "146K Tweets"
+    "tweet_count": "148K Tweets"
   },
   {
     "name": "Tina",
     "query": "Tina",
     "rank": 10,
-    "tweet_count": "28.4K Tweets"
+    "tweet_count": "28.9K Tweets"
   },
   {
     "name": "Tara",
     "query": "Tara",
     "rank": 11,
-    "tweet_count": "32.3K Tweets"
+    "tweet_count": "32.5K Tweets"
   },
   {
     "name": "Anouschka",
@@ -72,10 +72,10 @@
     "tweet_count": null
   },
   {
-    "name": "Hertha",
-    "query": "Hertha",
+    "name": "Sonja",
+    "query": "Sonja",
     "rank": 13,
-    "tweet_count": "3,130 Tweets"
+    "tweet_count": "2,598 Tweets"
   },
   {
     "name": "Bönisch",
@@ -84,38 +84,38 @@
     "tweet_count": null
   },
   {
-    "name": "Daniel",
-    "query": "Daniel",
+    "name": "Hertha",
+    "query": "Hertha",
     "rank": 15,
-    "tweet_count": "126K Tweets"
+    "tweet_count": "3,173 Tweets"
   },
   {
     "name": "Jasmin",
     "query": "Jasmin",
     "rank": 16,
-    "tweet_count": "4,683 Tweets"
-  },
-  {
-    "name": "Sonja",
-    "query": "Sonja",
-    "rank": 17,
-    "tweet_count": "2,506 Tweets"
+    "tweet_count": "4,718 Tweets"
   },
   {
     "name": "Dortmund",
     "query": "Dortmund",
-    "rank": 18,
-    "tweet_count": "18.4K Tweets"
+    "rank": 17,
+    "tweet_count": "18.5K Tweets"
   },
   {
     "name": "Gladbach",
     "query": "Gladbach",
-    "rank": 19,
-    "tweet_count": "7,538 Tweets"
+    "rank": 18,
+    "tweet_count": "7,574 Tweets"
   },
   {
     "name": "Dschungel",
     "query": "Dschungel",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Kempf",
+    "query": "Kempf",
     "rank": 20,
     "tweet_count": null
   }

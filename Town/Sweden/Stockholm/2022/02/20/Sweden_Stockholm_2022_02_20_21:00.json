@@ -3,7 +3,7 @@
     "name": "#svtagenda",
     "query": "#svtagenda",
     "rank": 1,
-    "tweet_count": "1,583 Tweets"
+    "tweet_count": "1,663 Tweets"
   },
   {
     "name": "Fredrik Malm",
@@ -15,17 +15,17 @@
     "name": "Leeds",
     "query": "Leeds",
     "rank": 3,
-    "tweet_count": "168K Tweets"
+    "tweet_count": "169K Tweets"
   },
   {
-    "name": "#Melfest",
-    "query": "#Melfest",
+    "name": "#melodifestivalen",
+    "query": "#melodifestivalen",
     "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "#ifkgbg",
-    "query": "#ifkgbg",
+    "name": "#Melfest",
+    "query": "#Melfest",
     "rank": 5,
     "tweet_count": null
   },
@@ -42,20 +42,20 @@
     "tweet_count": null
   },
   {
+    "name": "#ifkgbg",
+    "query": "#ifkgbg",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
     "name": "Ytterhogdal",
     "query": "Ytterhogdal",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Grattis Finland",
     "query": "\"Grattis Finland\"",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "#Melodifestivalen",
-    "query": "#Melodifestivalen",
     "rank": 10,
     "tweet_count": null
   },
@@ -87,35 +87,35 @@
     "name": "Wordle 245 X",
     "query": "\"Wordle 245 X\"",
     "rank": 15,
-    "tweet_count": "2,983 Tweets"
+    "tweet_count": "2,986 Tweets"
   },
   {
-    "name": "edin",
-    "query": "edin",
+    "name": "Edin",
+    "query": "Edin",
     "rank": 16,
-    "tweet_count": "45.3K Tweets"
+    "tweet_count": "45.6K Tweets"
   },
   {
     "name": "Johaug",
     "query": "Johaug",
     "rank": 17,
-    "tweet_count": "1,596 Tweets"
-  },
-  {
-    "name": "ebba andersson",
-    "query": "\"ebba andersson\"",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "1,602 Tweets"
   },
   {
     "name": "Harry Kane",
     "query": "\"Harry Kane\"",
-    "rank": 19,
-    "tweet_count": "30K Tweets"
+    "rank": 18,
+    "tweet_count": "30.1K Tweets"
   },
   {
-    "name": "Roger Burman",
-    "query": "\"Roger Burman\"",
+    "name": "Ebba Andersson",
+    "query": "\"Ebba Andersson\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "roger burman",
+    "query": "\"roger burman\"",
     "rank": 20,
     "tweet_count": null
   }
