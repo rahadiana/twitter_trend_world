@@ -1,27 +1,27 @@
 [
   {
-    "name": "שבוע טוב",
-    "query": "\"שבוע טוב\"",
-    "rank": 1,
-    "tweet_count": "1,884 Tweets"
-  },
-  {
     "name": "שבת שלום",
     "query": "\"שבת שלום\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "גלי ישראל",
     "query": "\"גלי ישראל\"",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "שבוע טוב",
+    "query": "\"שבוע טוב\"",
+    "rank": 3,
+    "tweet_count": "1,887 Tweets"
   },
   {
     "name": "תומר גנון",
     "query": "\"תומר גנון\"",
     "rank": 4,
-    "tweet_count": "2,652 Tweets"
+    "tweet_count": "2,657 Tweets"
   },
   {
     "name": "#COPIsrael22",
@@ -51,19 +51,19 @@
     "name": "Wordle 245 X",
     "query": "\"Wordle 245 X\"",
     "rank": 9,
-    "tweet_count": "6,363 Tweets"
+    "tweet_count": "6,368 Tweets"
   },
   {
     "name": "Middle East",
     "query": "\"Middle East\"",
     "rank": 10,
-    "tweet_count": "11.3K Tweets"
+    "tweet_count": "11.4K Tweets"
   },
   {
     "name": "Syria",
     "query": "Syria",
     "rank": 11,
-    "tweet_count": "19.2K Tweets"
+    "tweet_count": "19.4K Tweets"
   },
   {
     "name": "שמעון הצדיק",
@@ -72,51 +72,51 @@
     "tweet_count": null
   },
   {
+    "name": "בוקר טוב",
+    "query": "\"בוקר טוב\"",
+    "rank": 13,
+    "tweet_count": "1,016 Tweets"
+  },
+  {
     "name": "Spurs",
     "query": "Spurs",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": "129K Tweets"
+  },
+  {
+    "name": "London",
+    "query": "London",
+    "rank": 15,
+    "tweet_count": "110K Tweets"
   },
   {
     "name": "#WWEChamber",
     "query": "#WWEChamber",
-    "rank": 14,
-    "tweet_count": "143K Tweets"
-  },
-  {
-    "name": "בוקר טוב",
-    "query": "\"בוקר טוב\"",
-    "rank": 15,
-    "tweet_count": "1,012 Tweets"
+    "rank": 16,
+    "tweet_count": "144K Tweets"
   },
   {
     "name": "Donetsk",
     "query": "Donetsk",
-    "rank": 16,
-    "tweet_count": "54.5K Tweets"
-  },
-  {
-    "name": "שמע ישראל",
-    "query": "\"שמע ישראל\"",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "54.7K Tweets"
   },
   {
     "name": "Arsenal",
     "query": "Arsenal",
     "rank": 18,
-    "tweet_count": "103K Tweets"
+    "tweet_count": "104K Tweets"
   },
   {
-    "name": "Harry Styles",
-    "query": "\"Harry Styles\"",
+    "name": "שמע ישראל",
+    "query": "\"שמע ישראל\"",
     "rank": 19,
-    "tweet_count": "26.9K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "London",
-    "query": "London",
+    "name": "Trudeau",
+    "query": "Trudeau",
     "rank": 20,
-    "tweet_count": "109K Tweets"
+    "tweet_count": "750K Tweets"
   }
 ]
