@@ -1,33 +1,33 @@
 [
   {
+    "name": "białorusi",
+    "query": "białorusi",
+    "rank": 1,
+    "tweet_count": "1,254 Tweets"
+  },
+  {
     "name": "#LGDLPO",
     "query": "#LGDLPO",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#GORRCZ",
     "query": "#GORRCZ",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#famemma",
     "query": "#famemma",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "#LaZabawa",
     "query": "#LaZabawa",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "#ValenciaBarca",
-    "query": "#ValenciaBarca",
     "rank": 5,
-    "tweet_count": "34.5K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Velde",
@@ -36,16 +36,16 @@
     "tweet_count": null
   },
   {
-    "name": "Ter Stegen",
-    "query": "\"Ter Stegen\"",
+    "name": "#ValenciaBarca",
+    "query": "#ValenciaBarca",
     "rank": 7,
-    "tweet_count": "8,944 Tweets"
+    "tweet_count": "35.6K Tweets"
   },
   {
-    "name": "Valencii",
-    "query": "Valencii",
+    "name": "Ter Stegen",
+    "query": "\"Ter Stegen\"",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "9,131 Tweets"
   },
   {
     "name": "Górnika",
@@ -54,46 +54,46 @@
     "tweet_count": null
   },
   {
-    "name": "Mestalla",
-    "query": "Mestalla",
+    "name": "valencii",
+    "query": "valencii",
     "rank": 10,
-    "tweet_count": "11.1K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Robert Lewandowski",
     "query": "\"Robert Lewandowski\"",
     "rank": 11,
-    "tweet_count": "2,144 Tweets"
+    "tweet_count": "2,197 Tweets"
+  },
+  {
+    "name": "Mestalla",
+    "query": "Mestalla",
+    "rank": 12,
+    "tweet_count": "11.8K Tweets"
   },
   {
     "name": "Leeds",
     "query": "Leeds",
-    "rank": 12,
-    "tweet_count": "156K Tweets"
+    "rank": 13,
+    "tweet_count": "157K Tweets"
   },
   {
     "name": "Rakowa",
     "query": "Rakowa",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "Alert RCB",
-    "query": "\"Alert RCB\"",
-    "rank": 14,
+    "name": "Lechia",
+    "query": "Lechia",
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Dembele",
     "query": "Dembele",
-    "rank": 15,
-    "tweet_count": "15K Tweets"
-  },
-  {
-    "name": "Lech",
-    "query": "Lech",
     "rank": 16,
-    "tweet_count": "1,416 Tweets"
+    "tweet_count": "15.3K Tweets"
   },
   {
     "name": "Krzysztof Piątek",
@@ -111,12 +111,12 @@
     "name": "Warta",
     "query": "Warta",
     "rank": 19,
-    "tweet_count": "1,439 Tweets"
+    "tweet_count": "1,444 Tweets"
   },
   {
-    "name": "Zybertowicz",
-    "query": "Zybertowicz",
+    "name": "Igrzyska",
+    "query": "Igrzyska",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "1,329 Tweets"
   }
 ]
