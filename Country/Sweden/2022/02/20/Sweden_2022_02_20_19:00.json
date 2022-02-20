@@ -1,15 +1,15 @@
 [
   {
-    "name": "Agenda",
-    "query": "Agenda",
+    "name": "#svtagenda",
+    "query": "#svtagenda",
     "rank": 1,
-    "tweet_count": "110K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Leeds",
     "query": "Leeds",
     "rank": 2,
-    "tweet_count": "163K Tweets"
+    "tweet_count": "164K Tweets"
   },
   {
     "name": "Ytterhogdal",
@@ -33,7 +33,7 @@
     "name": "#Melfest",
     "query": "#Melfest",
     "rank": 6,
-    "tweet_count": "2,836 Tweets"
+    "tweet_count": "2,838 Tweets"
   },
   {
     "name": "Grattis Finland",
@@ -45,7 +45,7 @@
     "name": "Sassuolo",
     "query": "Sassuolo",
     "rank": 8,
-    "tweet_count": "14.8K Tweets"
+    "tweet_count": "15.3K Tweets"
   },
   {
     "name": "#Melodifestivalen",
@@ -84,39 +84,39 @@
     "tweet_count": null
   },
   {
-    "name": "#nrkmgp",
-    "query": "#nrkmgp",
-    "rank": 15,
-    "tweet_count": "4,864 Tweets"
-  },
-  {
     "name": "Wordle 245 X",
     "query": "\"Wordle 245 X\"",
-    "rank": 16,
-    "tweet_count": "4,442 Tweets"
+    "rank": 15,
+    "tweet_count": "4,445 Tweets"
   },
   {
     "name": "Edin",
     "query": "Edin",
-    "rank": 17,
-    "tweet_count": "45.2K Tweets"
+    "rank": 16,
+    "tweet_count": "45.6K Tweets"
   },
   {
     "name": "Johaug",
     "query": "Johaug",
-    "rank": 18,
-    "tweet_count": "1,576 Tweets"
+    "rank": 17,
+    "tweet_count": "1,579 Tweets"
   },
   {
     "name": "ebba andersson",
     "query": "\"ebba andersson\"",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Kane",
     "query": "Kane",
+    "rank": 19,
+    "tweet_count": "93.6K Tweets"
+  },
+  {
+    "name": "Roger Burman",
+    "query": "\"Roger Burman\"",
     "rank": 20,
-    "tweet_count": "93.4K Tweets"
+    "tweet_count": null
   }
 ]

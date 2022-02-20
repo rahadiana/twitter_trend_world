@@ -1,27 +1,27 @@
 [
   {
-    "name": "Sancho",
-    "query": "Sancho",
-    "rank": 1,
-    "tweet_count": "76.4K Tweets"
-  },
-  {
     "name": "Shandu",
     "query": "Shandu",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "Auba",
     "query": "Auba",
+    "rank": 2,
+    "tweet_count": "51.7K Tweets"
+  },
+  {
+    "name": "#YellowSunday",
+    "query": "#YellowSunday",
     "rank": 3,
-    "tweet_count": "50.2K Tweets"
+    "tweet_count": "34.5K Tweets"
   },
   {
     "name": "#TheRepublicMzansi",
     "query": "#TheRepublicMzansi",
     "rank": 4,
-    "tweet_count": "1,252 Tweets"
+    "tweet_count": "1,273 Tweets"
   },
   {
     "name": "#OurPerfectWedding",
@@ -39,7 +39,7 @@
     "name": "Lawrence",
     "query": "Lawrence",
     "rank": 7,
-    "tweet_count": "17.9K Tweets"
+    "tweet_count": "18K Tweets"
   },
   {
     "name": "Mpontshane",
@@ -51,19 +51,19 @@
     "name": "#askmeek",
     "query": "#askmeek",
     "rank": 9,
-    "tweet_count": "2,612 Tweets"
+    "tweet_count": "2,736 Tweets"
+  },
+  {
+    "name": "Busta",
+    "query": "Busta",
+    "rank": 10,
+    "tweet_count": "3,842 Tweets"
   },
   {
     "name": "Zino",
     "query": "Zino",
-    "rank": 10,
-    "tweet_count": "8,829 Tweets"
-  },
-  {
-    "name": "Venus",
-    "query": "Venus",
     "rank": 11,
-    "tweet_count": "49.5K Tweets"
+    "tweet_count": "8,871 Tweets"
   },
   {
     "name": "Mmusi",
@@ -72,40 +72,40 @@
     "tweet_count": null
   },
   {
-    "name": "#DateMyFamily",
-    "query": "#DateMyFamily",
+    "name": "Venus",
+    "query": "Venus",
     "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Busta",
-    "query": "Busta",
-    "rank": 14,
-    "tweet_count": "3,716 Tweets"
+    "tweet_count": "49.8K Tweets"
   },
   {
     "name": "Pastor Fred",
     "query": "\"Pastor Fred\"",
-    "rank": 15,
-    "tweet_count": "6,626 Tweets"
+    "rank": 14,
+    "tweet_count": "6,740 Tweets"
   },
   {
     "name": "Not BU",
     "query": "\"Not BU\"",
-    "rank": 16,
-    "tweet_count": "7,945 Tweets"
+    "rank": 15,
+    "tweet_count": "7,995 Tweets"
   },
   {
     "name": "Pedri",
     "query": "Pedri",
-    "rank": 17,
-    "tweet_count": "85.2K Tweets"
+    "rank": 16,
+    "tweet_count": "88K Tweets"
   },
   {
     "name": "Maguire",
     "query": "Maguire",
+    "rank": 17,
+    "tweet_count": "75K Tweets"
+  },
+  {
+    "name": "MacG",
+    "query": "MacG",
     "rank": 18,
-    "tweet_count": "74.6K Tweets"
+    "tweet_count": "5,103 Tweets"
   },
   {
     "name": "Vyno",
@@ -117,6 +117,6 @@
     "name": "McTominay",
     "query": "McTominay",
     "rank": 20,
-    "tweet_count": "19K Tweets"
+    "tweet_count": "19.1K Tweets"
   }
 ]
