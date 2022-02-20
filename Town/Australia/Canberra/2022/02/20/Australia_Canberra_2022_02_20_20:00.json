@@ -1,39 +1,39 @@
 [
   {
-    "name": "#insiders",
-    "query": "#insiders",
-    "rank": 1,
-    "tweet_count": "30K Tweets"
-  },
-  {
     "name": "Sydney Trains",
     "query": "\"Sydney Trains\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#insiders",
+    "query": "#insiders",
+    "rank": 2,
+    "tweet_count": "30.1K Tweets"
   },
   {
     "name": "#WUNvWSW",
     "query": "#WUNvWSW",
     "rank": 3,
-    "tweet_count": "1,307 Tweets"
+    "tweet_count": "1,310 Tweets"
   },
   {
     "name": "#ScottyFromWelding",
     "query": "#ScottyFromWelding",
     "rank": 4,
-    "tweet_count": "2,517 Tweets"
+    "tweet_count": "2,542 Tweets"
   },
   {
     "name": "#NBAAllStar",
     "query": "#NBAAllStar",
     "rank": 5,
-    "tweet_count": "132K Tweets"
+    "tweet_count": "133K Tweets"
   },
   {
     "name": "James Campbell",
     "query": "\"James Campbell\"",
     "rank": 6,
-    "tweet_count": "4,425 Tweets"
+    "tweet_count": "4,444 Tweets"
   },
   {
     "name": "#PERvBRI",
@@ -42,81 +42,81 @@
     "tweet_count": null
   },
   {
-    "name": "Paterson",
-    "query": "Paterson",
-    "rank": 8,
-    "tweet_count": "7,327 Tweets"
-  },
-  {
     "name": "Queen",
     "query": "Queen",
+    "rank": 8,
+    "tweet_count": "462K Tweets"
+  },
+  {
+    "name": "Paterson",
+    "query": "Paterson",
     "rank": 9,
-    "tweet_count": "458K Tweets"
+    "tweet_count": "7,387 Tweets"
   },
   {
     "name": "Tamara",
     "query": "Tamara",
     "rank": 10,
-    "tweet_count": "30.3K Tweets"
+    "tweet_count": "30.6K Tweets"
   },
   {
     "name": "RAAF",
     "query": "RAAF",
     "rank": 11,
-    "tweet_count": "3,788 Tweets"
+    "tweet_count": "3,815 Tweets"
   },
   {
     "name": "Olivia",
     "query": "Olivia",
     "rank": 12,
-    "tweet_count": "62.9K Tweets"
+    "tweet_count": "63.5K Tweets"
   },
   {
     "name": "Mike Cannon",
     "query": "\"Mike Cannon\"",
     "rank": 13,
-    "tweet_count": "1,964 Tweets"
+    "tweet_count": "1,990 Tweets"
   },
   {
     "name": "Canada",
     "query": "Canada",
     "rank": 14,
-    "tweet_count": "920K Tweets"
-  },
-  {
-    "name": "Red Rooster",
-    "query": "\"Red Rooster\"",
-    "rank": 15,
-    "tweet_count": null
+    "tweet_count": "930K Tweets"
   },
   {
     "name": "China",
     "query": "China",
+    "rank": 15,
+    "tweet_count": "277K Tweets"
+  },
+  {
+    "name": "Red Rooster",
+    "query": "\"Red Rooster\"",
     "rank": 16,
-    "tweet_count": "274K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Ray Martin",
     "query": "\"Ray Martin\"",
     "rank": 17,
-    "tweet_count": "4,398 Tweets"
+    "tweet_count": "4,411 Tweets"
   },
   {
     "name": "Sancho",
     "query": "Sancho",
     "rank": 18,
-    "tweet_count": "79.8K Tweets"
+    "tweet_count": "80.3K Tweets"
   },
   {
     "name": "Brent",
     "query": "Brent",
     "rank": 19,
-    "tweet_count": "8,106 Tweets"
+    "tweet_count": "8,200 Tweets"
   },
   {
-    "name": "Russia",
-    "query": "Russia",
+    "name": "NSW Government",
+    "query": "\"NSW Government\"",
     "rank": 20,
-    "tweet_count": "529K Tweets"
+    "tweet_count": null
   }
 ]
