@@ -18,20 +18,20 @@
     "tweet_count": null
   },
   {
-    "name": "Donbasā",
-    "query": "Donbasā",
+    "name": "Pekinas",
+    "query": "Pekinas",
     "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "Diemžēl",
-    "query": "Diemžēl",
+    "name": "Donbasā",
+    "query": "Donbasā",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "Pekinas",
-    "query": "Pekinas",
+    "name": "diemžēl",
+    "query": "diemžēl",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,81 +42,81 @@
     "tweet_count": "1.02M Tweets"
   },
   {
+    "name": "Germany",
+    "query": "Germany",
+    "rank": 8,
+    "tweet_count": "84K Tweets"
+  },
+  {
     "name": "dubaijas",
     "query": "dubaijas",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Satversmes",
     "query": "Satversmes",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "saeimas",
-    "query": "saeimas",
-    "rank": 10,
+    "name": "saeimu",
+    "query": "saeimu",
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "#Ukraina",
     "query": "#Ukraina",
-    "rank": 11,
-    "tweet_count": "3,885 Tweets"
+    "rank": 12,
+    "tweet_count": "3,912 Tweets"
   },
   {
     "name": "wta 500",
     "query": "\"wta 500\"",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Krievija",
-    "query": "Krievija",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "#florbols",
-    "query": "#florbols",
+    "name": "Krieviju",
+    "query": "Krieviju",
     "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "#floorball",
-    "query": "#floorball",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "#NFTCommunity",
-    "query": "#NFTCommunity",
-    "rank": 16,
-    "tweet_count": "774K Tweets"
-  },
-  {
-    "name": "vai jums",
-    "query": "\"vai jums\"",
-    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Europe",
     "query": "Europe",
+    "rank": 15,
+    "tweet_count": "204K Tweets"
+  },
+  {
+    "name": "#florbols",
+    "query": "#florbols",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "#floorball",
+    "query": "#floorball",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "#NFTCommunity",
+    "query": "#NFTCommunity",
     "rank": 18,
-    "tweet_count": "202K Tweets"
+    "tweet_count": "779K Tweets"
   },
   {
-    "name": "China",
-    "query": "China",
+    "name": "vai jums",
+    "query": "\"vai jums\"",
     "rank": 19,
-    "tweet_count": "264K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Ukrainian",
-    "query": "Ukrainian",
+    "name": "CSDD",
+    "query": "CSDD",
     "rank": 20,
-    "tweet_count": "100K Tweets"
+    "tweet_count": null
   }
 ]
