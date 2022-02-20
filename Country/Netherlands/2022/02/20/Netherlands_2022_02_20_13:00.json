@@ -1,13 +1,13 @@
 [
   {
-    "name": "#pecgro",
-    "query": "#pecgro",
+    "name": "#feycam",
+    "query": "#feycam",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "#feycam",
-    "query": "#feycam",
+    "name": "#pecgro",
+    "query": "#pecgro",
     "rank": 2,
     "tweet_count": null
   },
@@ -15,31 +15,31 @@
     "name": "#buitenhof",
     "query": "#buitenhof",
     "rank": 3,
-    "tweet_count": "1,460 Tweets"
-  },
-  {
-    "name": "#WNLopzondag",
-    "query": "#WNLopzondag",
-    "rank": 4,
-    "tweet_count": "5,325 Tweets"
+    "tweet_count": "1,512 Tweets"
   },
   {
     "name": "Tygo",
     "query": "Tygo",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "#wnlopzondag",
+    "query": "#wnlopzondag",
     "rank": 5,
+    "tweet_count": "5,605 Tweets"
+  },
+  {
+    "name": "#sluitingsceremonie",
+    "query": "#sluitingsceremonie",
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "Wilders",
     "query": "Wilders",
-    "rank": 6,
-    "tweet_count": "5,808 Tweets"
-  },
-  {
-    "name": "#StormFranklin",
-    "query": "#StormFranklin",
     "rank": 7,
-    "tweet_count": "4,157 Tweets"
+    "tweet_count": "6,108 Tweets"
   },
   {
     "name": "Hoogervorst",
@@ -51,19 +51,19 @@
     "name": "Mirjam Sterk",
     "query": "\"Mirjam Sterk\"",
     "rank": 9,
+    "tweet_count": "1,020 Tweets"
+  },
+  {
+    "name": "FC Groningen",
+    "query": "\"FC Groningen\"",
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Nieman",
     "query": "Nieman",
-    "rank": 10,
-    "tweet_count": "2,015 Tweets"
-  },
-  {
-    "name": "FC Groningen",
-    "query": "\"FC Groningen\"",
     "rank": 11,
-    "tweet_count": null
+    "tweet_count": "2,073 Tweets"
   },
   {
     "name": "PEC Zwolle",
@@ -81,42 +81,42 @@
     "name": "Rusland",
     "query": "Rusland",
     "rank": 14,
-    "tweet_count": "9,963 Tweets"
+    "tweet_count": "10.1K Tweets"
+  },
+  {
+    "name": "Cambuur",
+    "query": "Cambuur",
+    "rank": 15,
+    "tweet_count": null
   },
   {
     "name": "Rita Verdonk",
     "query": "\"Rita Verdonk\"",
-    "rank": 15,
-    "tweet_count": "1,143 Tweets"
+    "rank": 16,
+    "tweet_count": "1,172 Tweets"
   },
   {
     "name": "Italië",
     "query": "Italië",
-    "rank": 16,
-    "tweet_count": "10.2K Tweets"
+    "rank": 17,
+    "tweet_count": "10.4K Tweets"
   },
   {
-    "name": "gecondoleerd",
-    "query": "gecondoleerd",
-    "rank": 17,
+    "name": "Gecondoleerd",
+    "query": "Gecondoleerd",
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Johnson",
     "query": "Johnson",
-    "rank": 18,
-    "tweet_count": "202K Tweets"
+    "rank": 19,
+    "tweet_count": "205K Tweets"
   },
   {
     "name": "NAVO",
     "query": "NAVO",
-    "rank": 19,
-    "tweet_count": "3,089 Tweets"
-  },
-  {
-    "name": "Jetten",
-    "query": "Jetten",
     "rank": 20,
-    "tweet_count": "2,562 Tweets"
+    "tweet_count": "3,139 Tweets"
   }
 ]

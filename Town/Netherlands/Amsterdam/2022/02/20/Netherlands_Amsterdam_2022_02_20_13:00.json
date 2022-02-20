@@ -1,13 +1,13 @@
 [
   {
-    "name": "#pecgro",
-    "query": "#pecgro",
+    "name": "#feycam",
+    "query": "#feycam",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "#feycam",
-    "query": "#feycam",
+    "name": "#pecgro",
+    "query": "#pecgro",
     "rank": 2,
     "tweet_count": null
   },
@@ -21,7 +21,7 @@
     "name": "Wilders",
     "query": "Wilders",
     "rank": 4,
-    "tweet_count": "5,794 Tweets"
+    "tweet_count": "6,108 Tweets"
   },
   {
     "name": "Hoogervorst",
@@ -33,19 +33,19 @@
     "name": "Mirjam Sterk",
     "query": "\"Mirjam Sterk\"",
     "rank": 6,
+    "tweet_count": "1,020 Tweets"
+  },
+  {
+    "name": "FC Groningen",
+    "query": "\"FC Groningen\"",
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Nieman",
     "query": "Nieman",
-    "rank": 7,
-    "tweet_count": "2,011 Tweets"
-  },
-  {
-    "name": "FC Groningen",
-    "query": "\"FC Groningen\"",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "2,073 Tweets"
   },
   {
     "name": "PEC Zwolle",
@@ -63,42 +63,42 @@
     "name": "Rusland",
     "query": "Rusland",
     "rank": 11,
-    "tweet_count": "9,938 Tweets"
+    "tweet_count": "10.1K Tweets"
+  },
+  {
+    "name": "Cambuur",
+    "query": "Cambuur",
+    "rank": 12,
+    "tweet_count": null
   },
   {
     "name": "Rita Verdonk",
     "query": "\"Rita Verdonk\"",
-    "rank": 12,
-    "tweet_count": "1,140 Tweets"
+    "rank": 13,
+    "tweet_count": "1,171 Tweets"
   },
   {
     "name": "Italië",
     "query": "Italië",
-    "rank": 13,
-    "tweet_count": "10.2K Tweets"
+    "rank": 14,
+    "tweet_count": "10.3K Tweets"
   },
   {
-    "name": "gecondoleerd",
-    "query": "gecondoleerd",
-    "rank": 14,
+    "name": "Gecondoleerd",
+    "query": "Gecondoleerd",
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Johnson",
     "query": "Johnson",
-    "rank": 15,
-    "tweet_count": "202K Tweets"
+    "rank": 16,
+    "tweet_count": "205K Tweets"
   },
   {
     "name": "NAVO",
     "query": "NAVO",
-    "rank": 16,
-    "tweet_count": "3,085 Tweets"
-  },
-  {
-    "name": "Jetten",
-    "query": "Jetten",
     "rank": 17,
-    "tweet_count": "2,560 Tweets"
+    "tweet_count": "3,139 Tweets"
   }
 ]
