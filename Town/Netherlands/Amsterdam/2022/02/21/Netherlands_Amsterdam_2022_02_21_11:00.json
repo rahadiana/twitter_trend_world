@@ -1,21 +1,21 @@
 [
   {
-    "name": "#StormFranklin",
-    "query": "#StormFranklin",
-    "rank": 1,
-    "tweet_count": "26.1K Tweets"
-  },
-  {
     "name": "#utrVIT",
     "query": "#utrVIT",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "2,178 Tweets"
+  },
+  {
+    "name": "#StormFranklin",
+    "query": "#StormFranklin",
+    "rank": 2,
+    "tweet_count": "26.3K Tweets"
   },
   {
     "name": "Rutte",
     "query": "Rutte",
     "rank": 3,
-    "tweet_count": "19.8K Tweets"
+    "tweet_count": "20.2K Tweets"
   },
   {
     "name": "#psvhee",
@@ -27,7 +27,7 @@
     "name": "#feycam",
     "query": "#feycam",
     "rank": 5,
-    "tweet_count": "2,383 Tweets"
+    "tweet_count": "2,385 Tweets"
   },
   {
     "name": "#taupe",
@@ -45,61 +45,61 @@
     "name": "Rusland",
     "query": "Rusland",
     "rank": 8,
-    "tweet_count": "9,210 Tweets"
+    "tweet_count": "9,255 Tweets"
   },
   {
     "name": "Canada",
     "query": "Canada",
     "rank": 9,
-    "tweet_count": "797K Tweets"
-  },
-  {
-    "name": "Naast",
-    "query": "Naast",
-    "rank": 10,
-    "tweet_count": "6,934 Tweets"
+    "tweet_count": "800K Tweets"
   },
   {
     "name": "Goedemorgen",
     "query": "Goedemorgen",
+    "rank": 10,
+    "tweet_count": "8,096 Tweets"
+  },
+  {
+    "name": "Naast",
+    "query": "Naast",
     "rank": 11,
-    "tweet_count": "8,079 Tweets"
+    "tweet_count": "7,093 Tweets"
   },
   {
     "name": "Oekraïne",
     "query": "Oekraïne",
     "rank": 12,
-    "tweet_count": "8,282 Tweets"
-  },
-  {
-    "name": "Lexi",
-    "query": "Lexi",
-    "rank": 13,
-    "tweet_count": "770K Tweets"
+    "tweet_count": "8,336 Tweets"
   },
   {
     "name": "Fadi",
     "query": "Fadi",
-    "rank": 14,
-    "tweet_count": "2,021 Tweets"
+    "rank": 13,
+    "tweet_count": "2,032 Tweets"
   },
   {
     "name": "Kruipruimte",
     "query": "Kruipruimte",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Sophie",
     "query": "Sophie",
+    "rank": 15,
+    "tweet_count": "62.6K Tweets"
+  },
+  {
+    "name": "Lexi",
+    "query": "Lexi",
     "rank": 16,
-    "tweet_count": "62.2K Tweets"
+    "tweet_count": "773K Tweets"
   },
   {
     "name": "Nieman",
     "query": "Nieman",
     "rank": 17,
-    "tweet_count": "2,555 Tweets"
+    "tweet_count": "2,556 Tweets"
   },
   {
     "name": "Voet",
@@ -117,6 +117,6 @@
     "name": "Wilders",
     "query": "Wilders",
     "rank": 20,
-    "tweet_count": "9,359 Tweets"
+    "tweet_count": "9,394 Tweets"
   }
 ]
