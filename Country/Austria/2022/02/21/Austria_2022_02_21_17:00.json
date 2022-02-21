@@ -3,25 +3,25 @@
     "name": "#Schallenberg",
     "query": "#Schallenberg",
     "rank": 1,
-    "tweet_count": "1,352 Tweets"
-  },
-  {
-    "name": "Außenminister",
-    "query": "Außenminister",
-    "rank": 2,
-    "tweet_count": "2,213 Tweets"
+    "tweet_count": "1,374 Tweets"
   },
   {
     "name": "schönen sonntag",
     "query": "\"schönen sonntag\"",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "Außenminister",
+    "query": "Außenminister",
+    "rank": 3,
+    "tweet_count": "2,193 Tweets"
   },
   {
     "name": "Anschluss",
     "query": "Anschluss",
     "rank": 4,
-    "tweet_count": "1,092 Tweets"
+    "tweet_count": "1,067 Tweets"
   },
   {
     "name": "Gutschein",
@@ -33,19 +33,19 @@
     "name": "#Tatort",
     "query": "#Tatort",
     "rank": 6,
-    "tweet_count": "5,234 Tweets"
+    "tweet_count": "5,212 Tweets"
   },
   {
-    "name": "Wochenstart",
-    "query": "Wochenstart",
+    "name": "wochenstart",
+    "query": "wochenstart",
     "rank": 7,
-    "tweet_count": "2,163 Tweets"
+    "tweet_count": "2,168 Tweets"
   },
   {
-    "name": "#imzentrum",
-    "query": "#imzentrum",
+    "name": "#TagderMuttersprache",
+    "query": "#TagderMuttersprache",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "1,300 Tweets"
   },
   {
     "name": "#stuscr",
@@ -54,22 +54,22 @@
     "tweet_count": null
   },
   {
-    "name": "#TagderMuttersprache",
-    "query": "#TagderMuttersprache",
+    "name": "#imzentrum",
+    "query": "#imzentrum",
     "rank": 10,
-    "tweet_count": "1,257 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Faber",
+    "query": "Faber",
+    "rank": 11,
+    "tweet_count": "2,470 Tweets"
   },
   {
     "name": "Russland",
     "query": "Russland",
-    "rank": 11,
-    "tweet_count": "20K Tweets"
-  },
-  {
-    "name": "diplomat",
-    "query": "diplomat",
     "rank": 12,
-    "tweet_count": "6,007 Tweets"
+    "tweet_count": "19.5K Tweets"
   },
   {
     "name": "Heldenplatz",
@@ -84,16 +84,16 @@
     "tweet_count": null
   },
   {
-    "name": "Faber",
-    "query": "Faber",
-    "rank": 15,
-    "tweet_count": "2,557 Tweets"
-  },
-  {
     "name": "Ukraine",
     "query": "Ukraine",
+    "rank": 15,
+    "tweet_count": "711K Tweets"
+  },
+  {
+    "name": "Diplomat",
+    "query": "Diplomat",
     "rank": 16,
-    "tweet_count": "738K Tweets"
+    "tweet_count": "5,697 Tweets"
   },
   {
     "name": "Ausschreibung",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "Saubere Politik",
-    "query": "\"Saubere Politik\"",
+    "name": "saubere politik",
+    "query": "\"saubere politik\"",
     "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "Opfermythos",
-    "query": "Opfermythos",
+    "name": "opfermythos",
+    "query": "opfermythos",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Start in die Woche",
-    "query": "\"Start in die Woche\"",
+    "name": "Putin",
+    "query": "Putin",
     "rank": 20,
-    "tweet_count": "2,742 Tweets"
+    "tweet_count": "574K Tweets"
   }
 ]

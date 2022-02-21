@@ -1,15 +1,15 @@
 [
   {
-    "name": "Labdien",
-    "query": "Labdien",
+    "name": "labdien",
+    "query": "labdien",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "waze",
-    "query": "waze",
+    "name": "Waze",
+    "query": "Waze",
     "rank": 2,
-    "tweet_count": "1,462 Tweets"
+    "tweet_count": "1,420 Tweets"
   },
   {
     "name": "Brektes",
@@ -18,16 +18,16 @@
     "tweet_count": null
   },
   {
-    "name": "Krievijas",
-    "query": "Krievijas",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
     "name": "Putins",
     "query": "Putins",
+    "rank": 4,
+    "tweet_count": "7,481 Tweets"
+  },
+  {
+    "name": "Krievijas",
+    "query": "Krievijas",
     "rank": 5,
-    "tweet_count": "7,629 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Ukrainas",
@@ -45,17 +45,17 @@
     "name": "Riga",
     "query": "Riga",
     "rank": 8,
-    "tweet_count": "2,110 Tweets"
+    "tweet_count": "2,079 Tweets"
   },
   {
-    "name": "Doņeckas",
-    "query": "Doņeckas",
+    "name": "doņeckas",
+    "query": "doņeckas",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Maskavu",
-    "query": "Maskavu",
+    "name": "maskavu",
+    "query": "maskavu",
     "rank": 10,
     "tweet_count": null
   },
@@ -63,60 +63,60 @@
     "name": "Russia",
     "query": "Russia",
     "rank": 11,
-    "tweet_count": "635K Tweets"
-  },
-  {
-    "name": "veselību",
-    "query": "veselību",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "budapeštas",
-    "query": "budapeštas",
-    "rank": 13,
-    "tweet_count": null
+    "tweet_count": "616K Tweets"
   },
   {
     "name": "Itālijā",
     "query": "Itālijā",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
+    "name": "veselību",
+    "query": "veselību",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Pasaules",
+    "query": "Pasaules",
     "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Budapeštas",
+    "query": "Budapeštas",
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Ukrainian",
     "query": "Ukrainian",
-    "rank": 15,
-    "tweet_count": "87.8K Tweets"
+    "rank": 16,
+    "tweet_count": "87.2K Tweets"
   },
   {
     "name": "krievu",
     "query": "krievu",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "krimas",
-    "query": "krimas",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Minskas",
-    "query": "Minskas",
+    "name": "Krimas",
+    "query": "Krimas",
     "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "csdd",
-    "query": "csdd",
+    "name": "minskas",
+    "query": "minskas",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Donbasā",
-    "query": "Donbasā",
+    "name": "#NFTCommunity",
+    "query": "#NFTCommunity",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "733K Tweets"
   }
 ]

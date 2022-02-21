@@ -1,39 +1,39 @@
 [
   {
-    "name": "#StormFranklin",
-    "query": "#StormFranklin",
-    "rank": 1,
-    "tweet_count": "27.2K Tweets"
-  },
-  {
     "name": "Jinek",
     "query": "Jinek",
+    "rank": 1,
+    "tweet_count": "4,917 Tweets"
+  },
+  {
+    "name": "#StormFranklin",
+    "query": "#StormFranklin",
     "rank": 2,
-    "tweet_count": "4,544 Tweets"
+    "tweet_count": "26.2K Tweets"
   },
   {
     "name": "#utrvit",
     "query": "#utrvit",
     "rank": 3,
-    "tweet_count": "1,441 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Rutte",
     "query": "Rutte",
     "rank": 4,
-    "tweet_count": "28.4K Tweets"
-  },
-  {
-    "name": "Nouri",
-    "query": "Nouri",
-    "rank": 5,
-    "tweet_count": "2,353 Tweets"
+    "tweet_count": "28.6K Tweets"
   },
   {
     "name": "#taupe",
     "query": "#taupe",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "Nouri",
+    "query": "Nouri",
+    "rank": 6,
+    "tweet_count": "2,479 Tweets"
   },
   {
     "name": "#Amber",
@@ -42,8 +42,8 @@
     "tweet_count": null
   },
   {
-    "name": "#feycam",
-    "query": "#feycam",
+    "name": "#FeyCam",
+    "query": "#FeyCam",
     "rank": 8,
     "tweet_count": null
   },
@@ -51,11 +51,11 @@
     "name": "Rusland",
     "query": "Rusland",
     "rank": 9,
-    "tweet_count": "7,369 Tweets"
+    "tweet_count": "6,978 Tweets"
   },
   {
-    "name": "gefeliciteerd tygo",
-    "query": "\"gefeliciteerd tygo\"",
+    "name": "Gefeliciteerd Tygo",
+    "query": "\"Gefeliciteerd Tygo\"",
     "rank": 10,
     "tweet_count": null
   },
@@ -63,37 +63,37 @@
     "name": "Lexi",
     "query": "Lexi",
     "rank": 11,
-    "tweet_count": "969K Tweets"
+    "tweet_count": "983K Tweets"
   },
   {
     "name": "Canada",
     "query": "Canada",
     "rank": 12,
-    "tweet_count": "750K Tweets"
+    "tweet_count": "716K Tweets"
   },
   {
-    "name": "Goedemorgen",
-    "query": "Goedemorgen",
+    "name": "goedemorgen",
+    "query": "goedemorgen",
     "rank": 13,
-    "tweet_count": "8,157 Tweets"
+    "tweet_count": "8,126 Tweets"
   },
   {
     "name": "Poetin",
     "query": "Poetin",
     "rank": 14,
-    "tweet_count": "3,167 Tweets"
-  },
-  {
-    "name": "Oekraïne",
-    "query": "Oekraïne",
-    "rank": 15,
-    "tweet_count": "7,880 Tweets"
+    "tweet_count": "3,004 Tweets"
   },
   {
     "name": "Verbroedering",
     "query": "Verbroedering",
+    "rank": 15,
+    "tweet_count": "8,137 Tweets"
+  },
+  {
+    "name": "Oekraïne",
+    "query": "Oekraïne",
     "rank": 16,
-    "tweet_count": "7,960 Tweets"
+    "tweet_count": "7,500 Tweets"
   },
   {
     "name": "Lubach",
@@ -102,8 +102,8 @@
     "tweet_count": null
   },
   {
-    "name": "hans hoogervorst",
-    "query": "\"hans hoogervorst\"",
+    "name": "Lara Billie",
+    "query": "\"Lara Billie\"",
     "rank": 18,
     "tweet_count": null
   },
@@ -111,12 +111,12 @@
     "name": "Nieman",
     "query": "Nieman",
     "rank": 19,
-    "tweet_count": "1,250 Tweets"
+    "tweet_count": "1,065 Tweets"
   },
   {
     "name": "Joe Rogan",
     "query": "\"Joe Rogan\"",
     "rank": 20,
-    "tweet_count": "57.5K Tweets"
+    "tweet_count": "54.3K Tweets"
   }
 ]
