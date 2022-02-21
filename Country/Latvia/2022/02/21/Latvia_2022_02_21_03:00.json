@@ -1,13 +1,13 @@
 [
   {
-    "name": "Veselību",
-    "query": "Veselību",
+    "name": "veselību",
+    "query": "veselību",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "Brektes",
-    "query": "Brektes",
+    "name": "brektes",
+    "query": "brektes",
     "rank": 2,
     "tweet_count": null
   },
@@ -24,8 +24,8 @@
     "tweet_count": null
   },
   {
-    "name": "rietumos",
-    "query": "rietumos",
+    "name": "Rietumos",
+    "query": "Rietumos",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,7 +33,7 @@
     "name": "Russia",
     "query": "Russia",
     "rank": 6,
-    "tweet_count": "571K Tweets"
+    "tweet_count": "581K Tweets"
   },
   {
     "name": "Donbasā",
@@ -42,38 +42,38 @@
     "tweet_count": null
   },
   {
-    "name": "Itālijā",
-    "query": "Itālijā",
+    "name": "Putinu",
+    "query": "Putinu",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "putinu",
-    "query": "putinu",
+    "name": "csdd",
+    "query": "csdd",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "CSDD",
-    "query": "CSDD",
+    "name": "Baidens",
+    "query": "Baidens",
     "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "baidens",
-    "query": "baidens",
+    "name": "Itālijā",
+    "query": "Itālijā",
     "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "Kanādā",
-    "query": "Kanādā",
+    "name": "kanādā",
+    "query": "kanādā",
     "rank": 12,
-    "tweet_count": "22.5K Tweets"
+    "tweet_count": "22.6K Tweets"
   },
   {
-    "name": "Krievu",
-    "query": "Krievu",
+    "name": "krievu",
+    "query": "krievu",
     "rank": 13,
     "tweet_count": null
   },
@@ -84,16 +84,16 @@
     "tweet_count": null
   },
   {
-    "name": "#nftart",
-    "query": "#nftart",
-    "rank": 15,
-    "tweet_count": "230K Tweets"
-  },
-  {
     "name": "Germany",
     "query": "Germany",
+    "rank": 15,
+    "tweet_count": "91.9K Tweets"
+  },
+  {
+    "name": "telos",
+    "query": "telos",
     "rank": 16,
-    "tweet_count": "90.8K Tweets"
+    "tweet_count": "1,275 Tweets"
   },
   {
     "name": "tikko",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "LGBT",
-    "query": "LGBT",
+    "name": "#veve",
+    "query": "#veve",
     "rank": 19,
-    "tweet_count": "35.7K Tweets"
+    "tweet_count": "2,231 Tweets"
   },
   {
-    "name": "vienīgais",
-    "query": "vienīgais",
+    "name": "#nftart",
+    "query": "#nftart",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "233K Tweets"
   }
 ]
