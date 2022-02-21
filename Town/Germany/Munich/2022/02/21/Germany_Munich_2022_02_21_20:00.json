@@ -1,15 +1,15 @@
 [
   {
-    "name": "Westen",
-    "query": "Westen",
-    "rank": 1,
-    "tweet_count": "6,053 Tweets"
-  },
-  {
     "name": "#Putin",
     "query": "#Putin",
+    "rank": 1,
+    "tweet_count": "63K Tweets"
+  },
+  {
+    "name": "#hartaberfair",
+    "query": "#hartaberfair",
     "rank": 2,
-    "tweet_count": "56.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#FirstDatesHotel",
@@ -18,105 +18,105 @@
     "tweet_count": null
   },
   {
-    "name": "#hartaberfair",
-    "query": "#hartaberfair",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
     "name": "#Donezk",
     "query": "#Donezk",
-    "rank": 5,
-    "tweet_count": "1,413 Tweets"
+    "rank": 4,
+    "tweet_count": "1,593 Tweets"
   },
   {
     "name": "Sanktionen",
     "query": "Sanktionen",
+    "rank": 5,
+    "tweet_count": "3,495 Tweets"
+  },
+  {
+    "name": "#Luhansk",
+    "query": "#Luhansk",
     "rank": 6,
-    "tweet_count": "2,912 Tweets"
-  },
-  {
-    "name": "#Brinkmann",
-    "query": "#Brinkmann",
-    "rank": 7,
-    "tweet_count": "1,210 Tweets"
-  },
-  {
-    "name": "Kriegserklärung",
-    "query": "Kriegserklärung",
-    "rank": 8,
-    "tweet_count": null
+    "tweet_count": "6,661 Tweets"
   },
   {
     "name": "Gebiete",
     "query": "Gebiete",
-    "rank": 9,
-    "tweet_count": "1,327 Tweets"
-  },
-  {
-    "name": "Muttersprache",
-    "query": "Muttersprache",
-    "rank": 10,
-    "tweet_count": "2,579 Tweets"
+    "rank": 7,
+    "tweet_count": "1,658 Tweets"
   },
   {
     "name": "Anerkennung",
     "query": "Anerkennung",
-    "rank": 11,
-    "tweet_count": "2,740 Tweets"
+    "rank": 8,
+    "tweet_count": "3,227 Tweets"
   },
   {
-    "name": "Roter Pander",
-    "query": "\"Roter Pander\"",
-    "rank": 12,
-    "tweet_count": null
+    "name": "Muttersprache",
+    "query": "Muttersprache",
+    "rank": 9,
+    "tweet_count": "2,648 Tweets"
   },
   {
     "name": "Unabhängigkeit",
     "query": "Unabhängigkeit",
-    "rank": 13,
-    "tweet_count": "1,377 Tweets"
+    "rank": 10,
+    "tweet_count": "1,540 Tweets"
+  },
+  {
+    "name": "Westen",
+    "query": "Westen",
+    "rank": 11,
+    "tweet_count": "6,462 Tweets"
   },
   {
     "name": "Republiken",
     "query": "Republiken",
-    "rank": 14,
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "Minsker Abkommen",
+    "query": "\"Minsker Abkommen\"",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Kosovo",
+    "query": "Kosovo",
+    "rank": 14,
+    "tweet_count": "9,769 Tweets"
   },
   {
     "name": "Schaffner",
     "query": "Schaffner",
     "rank": 15,
-    "tweet_count": "1,561 Tweets"
+    "tweet_count": "1,617 Tweets"
   },
   {
-    "name": "Alpine",
-    "query": "Alpine",
+    "name": "Roter Pander",
+    "query": "\"Roter Pander\"",
     "rank": 16,
-    "tweet_count": "68.6K Tweets"
-  },
-  {
-    "name": "Kosovo",
-    "query": "Kosovo",
-    "rank": 17,
-    "tweet_count": "8,663 Tweets"
-  },
-  {
-    "name": "Minsker Abkommen",
-    "query": "\"Minsker Abkommen\"",
-    "rank": 18,
     "tweet_count": null
-  },
-  {
-    "name": "Diplomatie",
-    "query": "Diplomatie",
-    "rank": 19,
-    "tweet_count": "5,316 Tweets"
   },
   {
     "name": "Erstsprache",
     "query": "Erstsprache",
-    "rank": 20,
+    "rank": 17,
     "tweet_count": null
+  },
+  {
+    "name": "Atomwaffen",
+    "query": "Atomwaffen",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Baltikum",
+    "query": "Baltikum",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Alpine",
+    "query": "Alpine",
+    "rank": 20,
+    "tweet_count": "70.4K Tweets"
   }
 ]

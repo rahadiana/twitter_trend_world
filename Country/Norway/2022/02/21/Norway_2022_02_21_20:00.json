@@ -1,19 +1,19 @@
 [
   {
-    "name": "Tajik",
-    "query": "Tajik",
-    "rank": 1,
-    "tweet_count": "1,391 Tweets"
-  },
-  {
     "name": "Putin",
     "query": "Putin",
-    "rank": 2,
-    "tweet_count": "958K Tweets"
+    "rank": 1,
+    "tweet_count": "1.03M Tweets"
   },
   {
-    "name": "Aftenposten",
-    "query": "Aftenposten",
+    "name": "Tajik",
+    "query": "Tajik",
+    "rank": 2,
+    "tweet_count": "1,410 Tweets"
+  },
+  {
+    "name": "aftenposten",
+    "query": "aftenposten",
     "rank": 3,
     "tweet_count": null
   },
@@ -42,20 +42,20 @@
     "tweet_count": null
   },
   {
+    "name": "#2sjakk",
+    "query": "#2sjakk",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
     "name": "Lexi",
     "query": "Lexi",
-    "rank": 8,
-    "tweet_count": "1.09M Tweets"
+    "rank": 9,
+    "tweet_count": "1.1M Tweets"
   },
   {
     "name": "D-vitamin",
     "query": "D-vitamin",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "#2sjakk",
-    "query": "#2sjakk",
     "rank": 10,
     "tweet_count": null
   },
@@ -63,7 +63,7 @@
     "name": "Russland",
     "query": "Russland",
     "rank": 11,
-    "tweet_count": "24K Tweets"
+    "tweet_count": "25.5K Tweets"
   },
   {
     "name": "#polkvart",
@@ -72,51 +72,51 @@
     "tweet_count": null
   },
   {
-    "name": "Statnett",
-    "query": "Statnett",
+    "name": "Russia",
+    "query": "Russia",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "743K Tweets"
   },
   {
-    "name": "Hedmark",
-    "query": "Hedmark",
+    "name": "Innlandet",
+    "query": "Innlandet",
     "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "Kongen",
-    "query": "Kongen",
+    "name": "statnett",
+    "query": "statnett",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "Leeds",
-    "query": "Leeds",
-    "rank": 16,
-    "tweet_count": "46.3K Tweets"
-  },
-  {
-    "name": "Bielsa",
-    "query": "Bielsa",
-    "rank": 17,
-    "tweet_count": "3,965 Tweets"
-  },
-  {
     "name": "Stalin",
     "query": "Stalin",
-    "rank": 18,
-    "tweet_count": "19K Tweets"
+    "rank": 16,
+    "tweet_count": "20.3K Tweets"
+  },
+  {
+    "name": "Hedmark",
+    "query": "Hedmark",
+    "rank": 17,
+    "tweet_count": null
   },
   {
     "name": "#nrkmgp",
     "query": "#nrkmgp",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "northkid",
     "query": "northkid",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "Bielsa",
+    "query": "Bielsa",
+    "rank": 20,
+    "tweet_count": "3,997 Tweets"
   }
 ]
