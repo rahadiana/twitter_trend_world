@@ -1,37 +1,37 @@
 [
   {
-    "name": "Vācijā",
-    "query": "Vācijā",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#kilogramskultūras2021",
     "query": "#kilogramskultūras2021",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "Brektes",
     "query": "Brektes",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "CSDD",
     "query": "CSDD",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#teirdarbs",
     "query": "#teirdarbs",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "rietumos",
     "query": "rietumos",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "Rietumu",
+    "query": "Rietumu",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,8 +42,8 @@
     "tweet_count": null
   },
   {
-    "name": "Rietumu",
-    "query": "Rietumu",
+    "name": "Budapeštas",
+    "query": "Budapeštas",
     "rank": 8,
     "tweet_count": null
   },
@@ -63,13 +63,13 @@
     "name": "Russia",
     "query": "Russia",
     "rank": 11,
-    "tweet_count": "587K Tweets"
+    "tweet_count": "592K Tweets"
   },
   {
     "name": "Canada",
     "query": "Canada",
     "rank": 12,
-    "tweet_count": "804K Tweets"
+    "tweet_count": "809K Tweets"
   },
   {
     "name": "Itālijā",
@@ -105,12 +105,12 @@
     "name": "Germany",
     "query": "Germany",
     "rank": 18,
-    "tweet_count": "91K Tweets"
+    "tweet_count": "91.9K Tweets"
   },
   {
     "name": "#NFTCommunity",
     "query": "#NFTCommunity",
     "rank": 19,
-    "tweet_count": "703K Tweets"
+    "tweet_count": "713K Tweets"
   }
 ]
