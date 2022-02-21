@@ -1,122 +1,122 @@
 [
   {
+    "name": "NATO",
+    "query": "NATO",
+    "rank": 1,
+    "tweet_count": "242K Tweets"
+  },
+  {
     "name": "Niemcy",
     "query": "Niemcy",
-    "rank": 1,
-    "tweet_count": "6,420 Tweets"
+    "rank": 2,
+    "tweet_count": "6,612 Tweets"
   },
   {
     "name": "Putina",
     "query": "Putina",
-    "rank": 2,
-    "tweet_count": "17.6K Tweets"
+    "rank": 3,
+    "tweet_count": "18.5K Tweets"
   },
   {
     "name": "Rosji",
     "query": "Rosji",
-    "rank": 3,
-    "tweet_count": "12.5K Tweets"
-  },
-  {
-    "name": "donbasu",
-    "query": "donbasu",
     "rank": 4,
-    "tweet_count": "3,177 Tweets"
+    "tweet_count": "13.3K Tweets"
   },
   {
-    "name": "#hotelparadise",
-    "query": "#hotelparadise",
+    "name": "Ukrainy",
+    "query": "Ukrainy",
     "rank": 5,
-    "tweet_count": "1,228 Tweets"
+    "tweet_count": "15.3K Tweets"
+  },
+  {
+    "name": "Donbasu",
+    "query": "Donbasu",
+    "rank": 6,
+    "tweet_count": "3,394 Tweets"
   },
   {
     "name": "Le Pen",
     "query": "\"Le Pen\"",
-    "rank": 6,
-    "tweet_count": "30.2K Tweets"
+    "rank": 7,
+    "tweet_count": "6,316 Tweets"
+  },
+  {
+    "name": "#hotelparadise",
+    "query": "#hotelparadise",
+    "rank": 8,
+    "tweet_count": "1,235 Tweets"
   },
   {
     "name": "FIFA",
     "query": "FIFA",
-    "rank": 7,
-    "tweet_count": "34K Tweets"
+    "rank": 9,
+    "tweet_count": "34.6K Tweets"
   },
   {
-    "name": "Zachód",
-    "query": "Zachód",
-    "rank": 8,
-    "tweet_count": "3,856 Tweets"
+    "name": "zachód",
+    "query": "zachód",
+    "rank": 10,
+    "tweet_count": "4,036 Tweets"
   },
   {
     "name": "Doniecka",
     "query": "Doniecka",
-    "rank": 9,
-    "tweet_count": "1,317 Tweets"
+    "rank": 11,
+    "tweet_count": "1,427 Tweets"
+  },
+  {
+    "name": "Krymu",
+    "query": "Krymu",
+    "rank": 12,
+    "tweet_count": "1,131 Tweets"
   },
   {
     "name": "Sankcje",
     "query": "Sankcje",
-    "rank": 10,
-    "tweet_count": "5,011 Tweets"
+    "rank": 13,
+    "tweet_count": "5,553 Tweets"
+  },
+  {
+    "name": "UEFA",
+    "query": "UEFA",
+    "rank": 14,
+    "tweet_count": "13.4K Tweets"
+  },
+  {
+    "name": "Ługańska",
+    "query": "Ługańska",
+    "rank": 15,
+    "tweet_count": "1,895 Tweets"
   },
   {
     "name": "Orbana",
     "query": "Orbana",
-    "rank": 11,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Kosowa",
     "query": "Kosowa",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "UEFA",
-    "query": "UEFA",
-    "rank": 13,
-    "tweet_count": "13.2K Tweets"
-  },
-  {
-    "name": "Ługańska",
-    "query": "Ługańska",
-    "rank": 14,
-    "tweet_count": "1,772 Tweets"
-  },
-  {
-    "name": "Krymu",
-    "query": "Krymu",
-    "rank": 15,
-    "tweet_count": "1,092 Tweets"
-  },
-  {
-    "name": "ZSRR",
-    "query": "ZSRR",
-    "rank": 16,
-    "tweet_count": "1,038 Tweets"
-  },
-  {
-    "name": "#mjakmiłość",
-    "query": "#mjakmiłość",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Nord Stream 2",
-    "query": "\"Nord Stream 2\"",
+    "name": "ZSRR",
+    "query": "ZSRR",
     "rank": 18,
-    "tweet_count": "1,790 Tweets"
+    "tweet_count": "1,069 Tweets"
   },
   {
-    "name": "Kremla",
-    "query": "Kremla",
+    "name": "#mjakmiłość",
+    "query": "#mjakmiłość",
     "rank": 19,
-    "tweet_count": "1,596 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#wisgkł",
-    "query": "#wisgkł",
+    "name": "Moskwy",
+    "query": "Moskwy",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "1,401 Tweets"
   }
 ]
