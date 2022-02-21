@@ -1,27 +1,27 @@
 [
   {
-    "name": "Luhansk",
-    "query": "Luhansk",
+    "name": "Putin",
+    "query": "Putin",
     "rank": 1,
-    "tweet_count": "82.3K Tweets"
+    "tweet_count": "1.07M Tweets"
   },
   {
     "name": "Putin",
     "query": "Putin",
     "rank": 2,
-    "tweet_count": "1.03M Tweets"
+    "tweet_count": "1.07M Tweets"
   },
   {
     "name": "#svtagenda",
     "query": "#svtagenda",
     "rank": 3,
-    "tweet_count": "1,609 Tweets"
+    "tweet_count": "1,610 Tweets"
   },
   {
     "name": "Ryssland",
     "query": "Ryssland",
     "rank": 4,
-    "tweet_count": "2,301 Tweets"
+    "tweet_count": "2,357 Tweets"
   },
   {
     "name": "Farnerud",
@@ -42,20 +42,20 @@
     "tweet_count": null
   },
   {
-    "name": "Edvardsen",
-    "query": "Edvardsen",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
     "name": "Mild",
     "query": "Mild",
-    "rank": 9,
-    "tweet_count": "43.8K Tweets"
+    "rank": 8,
+    "tweet_count": "44.1K Tweets"
   },
   {
     "name": "Brage",
     "query": "Brage",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Edvardsen",
+    "query": "Edvardsen",
     "rank": 10,
     "tweet_count": null
   },
@@ -69,19 +69,19 @@
     "name": "Lexi",
     "query": "Lexi",
     "rank": 12,
-    "tweet_count": "1.1M Tweets"
+    "tweet_count": "1.11M Tweets"
   },
   {
     "name": "Kosovo",
     "query": "Kosovo",
     "rank": 13,
-    "tweet_count": "9,849 Tweets"
+    "tweet_count": "10.4K Tweets"
   },
   {
     "name": "Truth Social",
     "query": "\"Truth Social\"",
     "rank": 14,
-    "tweet_count": "153K Tweets"
+    "tweet_count": "59.9K Tweets"
   },
   {
     "name": "IFK Göteborg",
@@ -93,30 +93,30 @@
     "name": "#LEEMUN",
     "query": "#LEEMUN",
     "rank": 16,
-    "tweet_count": "17K Tweets"
-  },
-  {
-    "name": "Stahre",
-    "query": "Stahre",
-    "rank": 17,
-    "tweet_count": null
+    "tweet_count": "17.1K Tweets"
   },
   {
     "name": "Rosenberg",
     "query": "Rosenberg",
+    "rank": 17,
+    "tweet_count": "1,395 Tweets"
+  },
+  {
+    "name": "Stahre",
+    "query": "Stahre",
     "rank": 18,
-    "tweet_count": "1,387 Tweets"
-  },
-  {
-    "name": "maddy",
-    "query": "maddy",
-    "rank": 19,
-    "tweet_count": "354K Tweets"
-  },
-  {
-    "name": "Ytterhogdal",
-    "query": "Ytterhogdal",
-    "rank": 20,
     "tweet_count": null
+  },
+  {
+    "name": "ytterhogdal",
+    "query": "ytterhogdal",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Forskning",
+    "query": "Forskning",
+    "rank": 20,
+    "tweet_count": "2,103 Tweets"
   }
 ]

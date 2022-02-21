@@ -1,19 +1,19 @@
 [
   {
-    "name": "Putin",
-    "query": "Putin",
-    "rank": 1,
-    "tweet_count": "1.03M Tweets"
-  },
-  {
     "name": "Tajik",
     "query": "Tajik",
-    "rank": 2,
-    "tweet_count": "1,410 Tweets"
+    "rank": 1,
+    "tweet_count": "1,424 Tweets"
   },
   {
-    "name": "aftenposten",
-    "query": "aftenposten",
+    "name": "Putin",
+    "query": "Putin",
+    "rank": 2,
+    "tweet_count": "1.06M Tweets"
+  },
+  {
+    "name": "Aftenposten",
+    "query": "Aftenposten",
     "rank": 3,
     "tweet_count": null
   },
@@ -36,14 +36,14 @@
     "tweet_count": null
   },
   {
-    "name": "VG-saken",
-    "query": "VG-saken",
+    "name": "#2sjakk",
+    "query": "#2sjakk",
     "rank": 7,
     "tweet_count": null
   },
   {
-    "name": "#2sjakk",
-    "query": "#2sjakk",
+    "name": "VG-saken",
+    "query": "VG-saken",
     "rank": 8,
     "tweet_count": null
   },
@@ -51,19 +51,19 @@
     "name": "Lexi",
     "query": "Lexi",
     "rank": 9,
-    "tweet_count": "1.1M Tweets"
-  },
-  {
-    "name": "Russland",
-    "query": "Russland",
-    "rank": 10,
-    "tweet_count": "25.5K Tweets"
+    "tweet_count": "1.11M Tweets"
   },
   {
     "name": "D-vitamin",
     "query": "D-vitamin",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": null
+  },
+  {
+    "name": "Russland",
+    "query": "Russland",
+    "rank": 11,
+    "tweet_count": "26.2K Tweets"
   },
   {
     "name": "#polkvart",
@@ -75,7 +75,7 @@
     "name": "Russia",
     "query": "Russia",
     "rank": 13,
-    "tweet_count": "742K Tweets"
+    "tweet_count": "755K Tweets"
   },
   {
     "name": "Innlandet",
@@ -93,7 +93,7 @@
     "name": "Stalin",
     "query": "Stalin",
     "rank": 16,
-    "tweet_count": "20.2K Tweets"
+    "tweet_count": "20.7K Tweets"
   },
   {
     "name": "Hedmark",
@@ -117,6 +117,6 @@
     "name": "Bielsa",
     "query": "Bielsa",
     "rank": 20,
-    "tweet_count": "3,997 Tweets"
+    "tweet_count": "4,012 Tweets"
   }
 ]
