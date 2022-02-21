@@ -6,14 +6,14 @@
     "tweet_count": null
   },
   {
-    "name": "שבוע טוב",
-    "query": "\"שבוע טוב\"",
+    "name": "ברוך דיין",
+    "query": "\"ברוך דיין\"",
     "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "ברוך דיין",
-    "query": "\"ברוך דיין\"",
+    "name": "שבוע טוב",
+    "query": "\"שבוע טוב\"",
     "rank": 3,
     "tweet_count": null
   },
@@ -42,52 +42,52 @@
     "tweet_count": null
   },
   {
-    "name": "Middle East",
-    "query": "\"Middle East\"",
+    "name": "מזל טוב",
+    "query": "\"מזל טוב\"",
     "rank": 8,
-    "tweet_count": "10.5K Tweets"
-  },
-  {
-    "name": "אוזן המן",
-    "query": "\"אוזן המן\"",
-    "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "torah",
-    "query": "torah",
+    "name": "Torah",
+    "query": "Torah",
+    "rank": 9,
+    "tweet_count": "1,328 Tweets"
+  },
+  {
+    "name": "Middle East",
+    "query": "\"Middle East\"",
     "rank": 10,
-    "tweet_count": "1,314 Tweets"
-  },
-  {
-    "name": "Queen",
-    "query": "Queen",
-    "rank": 11,
-    "tweet_count": "502K Tweets"
-  },
-  {
-    "name": "OpenSea",
-    "query": "OpenSea",
-    "rank": 12,
-    "tweet_count": "561K Tweets"
+    "tweet_count": "10.6K Tweets"
   },
   {
     "name": "יום ראשון",
     "query": "\"יום ראשון\"",
-    "rank": 13,
+    "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "#Russian",
-    "query": "#Russian",
-    "rank": 14,
-    "tweet_count": "7,562 Tweets"
+    "name": "Queen",
+    "query": "Queen",
+    "rank": 12,
+    "tweet_count": "506K Tweets"
+  },
+  {
+    "name": "OpenSea",
+    "query": "OpenSea",
+    "rank": 13,
+    "tweet_count": "567K Tweets"
   },
   {
     "name": "Iran",
     "query": "Iran",
+    "rank": 14,
+    "tweet_count": "86K Tweets"
+  },
+  {
+    "name": "#Russian",
+    "query": "#Russian",
     "rank": 15,
-    "tweet_count": "85.4K Tweets"
+    "tweet_count": "7,621 Tweets"
   },
   {
     "name": "אלי אבידר",
@@ -96,16 +96,16 @@
     "tweet_count": null
   },
   {
-    "name": "#poetry",
-    "query": "#poetry",
+    "name": "#poetrycommunity",
+    "query": "#poetrycommunity",
     "rank": 17,
-    "tweet_count": "10.9K Tweets"
+    "tweet_count": "1,679 Tweets"
   },
   {
-    "name": "#Putin",
-    "query": "#Putin",
+    "name": "Amen",
+    "query": "Amen",
     "rank": 18,
-    "tweet_count": "21.4K Tweets"
+    "tweet_count": "180K Tweets"
   },
   {
     "name": "#WWEChamber",
@@ -114,9 +114,9 @@
     "tweet_count": "13.7K Tweets"
   },
   {
-    "name": "Spurs",
-    "query": "Spurs",
+    "name": "צפון קוריאה",
+    "query": "\"צפון קוריאה\"",
     "rank": 20,
-    "tweet_count": "33.1K Tweets"
+    "tweet_count": null
   }
 ]
