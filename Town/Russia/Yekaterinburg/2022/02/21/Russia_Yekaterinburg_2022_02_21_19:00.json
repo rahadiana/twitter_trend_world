@@ -1,110 +1,116 @@
 [
   {
+    "name": "ДНР и ЛНР",
+    "query": "\"ДНР и ЛНР\"",
+    "rank": 1,
+    "tweet_count": "25.7K Tweets"
+  },
+  {
     "name": "Путина",
     "query": "Путина",
-    "rank": 1,
-    "tweet_count": "21.1K Tweets"
-  },
-  {
-    "name": "Владимира Ильича Ленина",
-    "query": "\"Владимира Ильича Ленина\"",
     "rank": 2,
-    "tweet_count": null
+    "tweet_count": "22.6K Tweets"
   },
   {
-    "name": "Нарышкин",
-    "query": "Нарышкин",
+    "name": "Ленина",
+    "query": "Ленина",
     "rank": 3,
-    "tweet_count": "8,115 Tweets"
-  },
-  {
-    "name": "Владимир Владимирович",
-    "query": "\"Владимир Владимирович\"",
-    "rank": 4,
-    "tweet_count": "1,049 Tweets"
-  },
-  {
-    "name": "#янемолчу",
-    "query": "#янемолчу",
-    "rank": 5,
-    "tweet_count": "1,997 Tweets"
+    "tweet_count": "2,181 Tweets"
   },
   {
     "name": "#нетвойнесУкраиной",
     "query": "#нетвойнесУкраиной",
+    "rank": 4,
+    "tweet_count": "3,968 Tweets"
+  },
+  {
+    "name": "Нарышкин",
+    "query": "Нарышкин",
+    "rank": 5,
+    "tweet_count": "8,259 Tweets"
+  },
+  {
+    "name": "Владимир Владимирович",
+    "query": "\"Владимир Владимирович\"",
     "rank": 6,
-    "tweet_count": "3,742 Tweets"
+    "tweet_count": "1,169 Tweets"
   },
   {
-    "name": "ДНР и ЛНР",
-    "query": "\"ДНР и ЛНР\"",
+    "name": "Украины",
+    "query": "Украины",
     "rank": 7,
-    "tweet_count": "23.9K Tweets"
-  },
-  {
-    "name": "Украине",
-    "query": "Украине",
-    "rank": 8,
-    "tweet_count": "18.4K Tweets"
+    "tweet_count": "36K Tweets"
   },
   {
     "name": "Putin",
     "query": "Putin",
-    "rank": 9,
-    "tweet_count": "768K Tweets"
-  },
-  {
-    "name": "Поздно",
-    "query": "Поздно",
-    "rank": 10,
-    "tweet_count": "2,579 Tweets"
+    "rank": 8,
+    "tweet_count": "826K Tweets"
   },
   {
     "name": "ЛДНР",
     "query": "ЛДНР",
-    "rank": 11,
-    "tweet_count": "10.5K Tweets"
+    "rank": 9,
+    "tweet_count": "11.2K Tweets"
   },
   {
-    "name": "Совбеза",
-    "query": "Совбеза",
+    "name": "#янемолчу",
+    "query": "#янемолчу",
+    "rank": 10,
+    "tweet_count": "2,043 Tweets"
+  },
+  {
+    "name": "Поздно",
+    "query": "Поздно",
+    "rank": 11,
+    "tweet_count": "2,660 Tweets"
+  },
+  {
+    "name": "Россией",
+    "query": "Россией",
     "rank": 12,
-    "tweet_count": "11.8K Tweets"
+    "tweet_count": "6,085 Tweets"
+  },
+  {
+    "name": "ПРЕЗИДЕНТА",
+    "query": "ПРЕЗИДЕНТА",
+    "rank": 13,
+    "tweet_count": "8,711 Tweets"
   },
   {
     "name": "Матвиенко",
     "query": "Матвиенко",
-    "rank": 13,
-    "tweet_count": "3,301 Tweets"
+    "rank": 14,
+    "tweet_count": "3,327 Tweets"
   },
   {
-    "name": "Совета",
-    "query": "Совета",
-    "rank": 14,
-    "tweet_count": "5,423 Tweets"
+    "name": "Совбеза",
+    "query": "Совбеза",
+    "rank": 15,
+    "tweet_count": "12K Tweets"
   },
   {
     "name": "Владимир Путин",
     "query": "\"Владимир Путин\"",
-    "rank": 15,
-    "tweet_count": "3,521 Tweets"
-  },
-  {
-    "name": "Шойгу",
-    "query": "Шойгу",
     "rank": 16,
-    "tweet_count": "8,594 Tweets"
+    "tweet_count": "3,873 Tweets"
   },
   {
-    "name": "Ждём",
-    "query": "Ждём",
+    "name": "Donetsk",
+    "query": "Donetsk",
     "rank": 17,
-    "tweet_count": "5,817 Tweets"
+    "tweet_count": "101K Tweets"
+  },
+  {
+    "name": "Совета",
+    "query": "Совета",
+    "rank": 18,
+    "tweet_count": "5,490 Tweets"
   },
   {
     "name": "Медведев",
     "query": "Медведев",
-    "rank": 18,
-    "tweet_count": "3,249 Tweets"
+    "rank": 19,
+    "tweet_count": "3,273 Tweets"
   }
 ]
