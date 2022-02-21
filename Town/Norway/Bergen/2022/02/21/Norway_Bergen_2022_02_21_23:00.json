@@ -1,27 +1,27 @@
 [
   {
-    "name": "Putin",
-    "query": "Putin",
-    "rank": 1,
-    "tweet_count": "1.24M Tweets"
-  },
-  {
     "name": "Tajik",
     "query": "Tajik",
-    "rank": 2,
-    "tweet_count": "1,455 Tweets"
+    "rank": 1,
+    "tweet_count": "1,464 Tweets"
   },
   {
-    "name": "Russland",
-    "query": "Russland",
-    "rank": 3,
-    "tweet_count": "34.6K Tweets"
+    "name": "Putin",
+    "query": "Putin",
+    "rank": 2,
+    "tweet_count": "1.26M Tweets"
   },
   {
     "name": "Aftenposten",
     "query": "Aftenposten",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
+  },
+  {
+    "name": "Russland",
+    "query": "Russland",
+    "rank": 4,
+    "tweet_count": "35.2K Tweets"
   },
   {
     "name": "Carl Ivar",
@@ -33,7 +33,7 @@
     "name": "Hagen",
     "query": "Hagen",
     "rank": 6,
-    "tweet_count": "1,200 Tweets"
+    "tweet_count": "1,215 Tweets"
   },
   {
     "name": "Ropstad",
@@ -63,7 +63,7 @@
     "name": "Lexi",
     "query": "Lexi",
     "rank": 11,
-    "tweet_count": "1.18M Tweets"
+    "tweet_count": "1.19M Tweets"
   },
   {
     "name": "d-vitamin",
@@ -72,50 +72,50 @@
     "tweet_count": null
   },
   {
+    "name": "NATO",
+    "query": "NATO",
+    "rank": 13,
+    "tweet_count": "263K Tweets"
+  },
+  {
     "name": "#polkvart",
     "query": "#polkvart",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "Stalin",
     "query": "Stalin",
-    "rank": 14,
-    "tweet_count": "27.3K Tweets"
+    "rank": 15,
+    "tweet_count": "27.8K Tweets"
   },
   {
     "name": "tipper",
     "query": "tipper",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "statnett",
     "query": "statnett",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Donbass",
     "query": "Donbass",
-    "rank": 17,
-    "tweet_count": "104K Tweets"
+    "rank": 18,
+    "tweet_count": "106K Tweets"
   },
   {
     "name": "Hedmark",
     "query": "Hedmark",
-    "rank": 18,
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "#nrkmgp",
     "query": "#nrkmgp",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Innlandet",
-    "query": "Innlandet",
     "rank": 20,
     "tweet_count": null
   }
