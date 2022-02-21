@@ -1,39 +1,39 @@
 [
   {
+    "name": "#SASAustralia",
+    "query": "#SASAustralia",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "#thedrum",
     "query": "#thedrum",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Lexi",
     "query": "Lexi",
-    "rank": 2,
-    "tweet_count": "709K Tweets"
+    "rank": 3,
+    "tweet_count": "714K Tweets"
   },
   {
     "name": "Cassie",
     "query": "Cassie",
-    "rank": 3,
-    "tweet_count": "311K Tweets"
-  },
-  {
-    "name": "#Euphoria",
-    "query": "#Euphoria",
     "rank": 4,
-    "tweet_count": "694K Tweets"
+    "tweet_count": "313K Tweets"
   },
   {
     "name": "Bulldogs",
     "query": "Bulldogs",
     "rank": 5,
-    "tweet_count": "3,280 Tweets"
+    "tweet_count": "3,319 Tweets"
   },
   {
-    "name": "Street Fighter 6",
-    "query": "\"Street Fighter 6\"",
+    "name": "Capcom",
+    "query": "Capcom",
     "rank": 6,
-    "tweet_count": "23.1K Tweets"
+    "tweet_count": "49.6K Tweets"
   },
   {
     "name": "#NRLTrials",
@@ -42,81 +42,81 @@
     "tweet_count": null
   },
   {
-    "name": "Nate",
-    "query": "Nate",
-    "rank": 8,
-    "tweet_count": "371K Tweets"
-  },
-  {
     "name": "#nswpol",
     "query": "#nswpol",
+    "rank": 8,
+    "tweet_count": "12.2K Tweets"
+  },
+  {
+    "name": "#SydneyTransport",
+    "query": "#SydneyTransport",
     "rank": 9,
-    "tweet_count": "12K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Capcom",
-    "query": "Capcom",
+    "name": "tina",
+    "query": "tina",
     "rank": 10,
-    "tweet_count": "49.1K Tweets"
-  },
-  {
-    "name": "#sydneytrains",
-    "query": "#sydneytrains",
-    "rank": 11,
-    "tweet_count": "4,233 Tweets"
+    "tweet_count": "32.2K Tweets"
   },
   {
     "name": "Bevan",
     "query": "Bevan",
-    "rank": 12,
-    "tweet_count": "5,234 Tweets"
-  },
-  {
-    "name": "maddy",
-    "query": "maddy",
-    "rank": 13,
-    "tweet_count": "207K Tweets"
-  },
-  {
-    "name": "Ethan",
-    "query": "Ethan",
-    "rank": 14,
-    "tweet_count": "119K Tweets"
+    "rank": 11,
+    "tweet_count": "5,311 Tweets"
   },
   {
     "name": "Perrottet",
     "query": "Perrottet",
-    "rank": 15,
-    "tweet_count": "19.9K Tweets"
+    "rank": 12,
+    "tweet_count": "20.2K Tweets"
+  },
+  {
+    "name": "Ethan",
+    "query": "Ethan",
+    "rank": 13,
+    "tweet_count": "120K Tweets"
   },
   {
     "name": "Unions",
     "query": "Unions",
-    "rank": 16,
-    "tweet_count": "29.7K Tweets"
+    "rank": 14,
+    "tweet_count": "30K Tweets"
   },
   {
     "name": "Brookes",
     "query": "Brookes",
-    "rank": 17,
-    "tweet_count": "5,263 Tweets"
+    "rank": 15,
+    "tweet_count": "5,334 Tweets"
   },
   {
     "name": "Steph",
     "query": "Steph",
-    "rank": 18,
-    "tweet_count": "236K Tweets"
+    "rank": 16,
+    "tweet_count": "237K Tweets"
+  },
+  {
+    "name": "Prue",
+    "query": "Prue",
+    "rank": 17,
+    "tweet_count": "2,714 Tweets"
   },
   {
     "name": "Qantas",
     "query": "Qantas",
-    "rank": 19,
-    "tweet_count": "1,641 Tweets"
+    "rank": 18,
+    "tweet_count": "1,670 Tweets"
   },
   {
-    "name": "prue",
-    "query": "prue",
+    "name": "NSW Government",
+    "query": "\"NSW Government\"",
+    "rank": 19,
+    "tweet_count": "20.9K Tweets"
+  },
+  {
+    "name": "NSW Govt",
+    "query": "\"NSW Govt\"",
     "rank": 20,
-    "tweet_count": "2,679 Tweets"
+    "tweet_count": "6,068 Tweets"
   }
 ]
