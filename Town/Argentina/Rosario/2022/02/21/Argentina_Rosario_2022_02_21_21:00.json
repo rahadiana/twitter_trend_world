@@ -1,43 +1,43 @@
 [
   {
-    "name": "Putin",
-    "query": "Putin",
-    "rank": 1,
-    "tweet_count": "1.1M Tweets"
-  },
-  {
-    "name": "Marinelli",
-    "query": "Marinelli",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
     "name": "Equi Fernández",
     "query": "\"Equi Fernández\"",
-    "rank": 3,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Putin",
+    "query": "Putin",
+    "rank": 2,
+    "tweet_count": "1.15M Tweets"
   },
   {
     "name": "Barracas",
     "query": "Barracas",
+    "rank": 3,
+    "tweet_count": "2,164 Tweets"
+  },
+  {
+    "name": "Marinelli",
+    "query": "Marinelli",
     "rank": 4,
-    "tweet_count": "1,858 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#SoñarContigo",
     "query": "#SoñarContigo",
     "rank": 5,
-    "tweet_count": "9,102 Tweets"
-  },
-  {
-    "name": "#HabraConsecuencias",
-    "query": "#HabraConsecuencias",
-    "rank": 6,
-    "tweet_count": null
+    "tweet_count": "11.1K Tweets"
   },
   {
     "name": "Colidio",
     "query": "Colidio",
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "#HabraConsecuencias",
+    "query": "#HabraConsecuencias",
     "rank": 7,
     "tweet_count": null
   },
@@ -48,44 +48,44 @@
     "tweet_count": null
   },
   {
+    "name": "Tigre",
+    "query": "Tigre",
+    "rank": 9,
+    "tweet_count": "12.4K Tweets"
+  },
+  {
     "name": "Magnin",
     "query": "Magnin",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Maratea",
     "query": "Maratea",
-    "rank": 10,
-    "tweet_count": "223K Tweets"
+    "rank": 11,
+    "tweet_count": "225K Tweets"
   },
   {
     "name": "#Hercai",
     "query": "#Hercai",
-    "rank": 11,
-    "tweet_count": "3,509 Tweets"
+    "rank": 12,
+    "tweet_count": "3,551 Tweets"
   },
   {
     "name": "Alpine",
     "query": "Alpine",
-    "rank": 12,
-    "tweet_count": "71.9K Tweets"
+    "rank": 13,
+    "tweet_count": "72.8K Tweets"
+  },
+  {
+    "name": "Casciari",
+    "query": "Casciari",
+    "rank": 14,
+    "tweet_count": null
   },
   {
     "name": "#Santamarina",
     "query": "#Santamarina",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Ucrania",
-    "query": "Ucrania",
-    "rank": 14,
-    "tweet_count": "139K Tweets"
-  },
-  {
-    "name": "#Tigre",
-    "query": "#Tigre",
     "rank": 15,
     "tweet_count": null
   },
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
-    "name": "Losada",
-    "query": "Losada",
+    "name": "Ucrania",
+    "query": "Ucrania",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "144K Tweets"
   },
   {
-    "name": "Chiqui Tapia",
-    "query": "\"Chiqui Tapia\"",
+    "name": "Losada",
+    "query": "Losada",
     "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "JUNGKOOK RUBIO",
-    "query": "\"JUNGKOOK RUBIO\"",
+    "name": "chiqui tapia",
+    "query": "\"chiqui tapia\"",
     "rank": 19,
-    "tweet_count": "2,843 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Amenaza",
-    "query": "Amenaza",
+    "name": "#CanYaman",
+    "query": "#CanYaman",
     "rank": 20,
-    "tweet_count": "21.2K Tweets"
+    "tweet_count": "22.6K Tweets"
   }
 ]

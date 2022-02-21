@@ -3,49 +3,49 @@
     "name": "Putin",
     "query": "Putin",
     "rank": 1,
-    "tweet_count": "1.11M Tweets"
+    "tweet_count": "1.15M Tweets"
   },
   {
     "name": "#PresidentsDay",
     "query": "#PresidentsDay",
     "rank": 2,
-    "tweet_count": "69.2K Tweets"
+    "tweet_count": "70.5K Tweets"
   },
   {
     "name": "Paul Farmer",
     "query": "\"Paul Farmer\"",
     "rank": 3,
-    "tweet_count": "13.4K Tweets"
+    "tweet_count": "14K Tweets"
   },
   {
     "name": "Medina Spirit",
     "query": "\"Medina Spirit\"",
     "rank": 4,
-    "tweet_count": "3,751 Tweets"
+    "tweet_count": "3,935 Tweets"
   },
   {
     "name": "Ted Lasso",
     "query": "\"Ted Lasso\"",
     "rank": 5,
-    "tweet_count": "5,976 Tweets"
+    "tweet_count": "6,146 Tweets"
   },
   {
     "name": "Hank",
     "query": "Hank",
     "rank": 6,
-    "tweet_count": "30.2K Tweets"
-  },
-  {
-    "name": "#TruthSocial",
-    "query": "#TruthSocial",
-    "rank": 7,
-    "tweet_count": "54.6K Tweets"
+    "tweet_count": "30.7K Tweets"
   },
   {
     "name": "Goran Dragic",
     "query": "\"Goran Dragic\"",
+    "rank": 7,
+    "tweet_count": "10.4K Tweets"
+  },
+  {
+    "name": "#TruthSocial",
+    "query": "#TruthSocial",
     "rank": 8,
-    "tweet_count": "10.2K Tweets"
+    "tweet_count": "55.5K Tweets"
   },
   {
     "name": "#YIAYbox",
@@ -54,28 +54,28 @@
     "tweet_count": null
   },
   {
+    "name": "#fart",
+    "query": "#fart",
+    "rank": 10,
+    "tweet_count": "4,768 Tweets"
+  },
+  {
     "name": "Bruins",
     "query": "Bruins",
-    "rank": 10,
-    "tweet_count": "6,099 Tweets"
+    "rank": 11,
+    "tweet_count": "6,188 Tweets"
   },
   {
     "name": "#WeirdestThingsIveSeen",
     "query": "#WeirdestThingsIveSeen",
-    "rank": 11,
-    "tweet_count": "2,426 Tweets"
-  },
-  {
-    "name": "#fart",
-    "query": "#fart",
     "rank": 12,
-    "tweet_count": "4,557 Tweets"
+    "tweet_count": "2,463 Tweets"
   },
   {
     "name": "CPAC",
     "query": "CPAC",
     "rank": 13,
-    "tweet_count": "21.7K Tweets"
+    "tweet_count": "22.4K Tweets"
   },
   {
     "name": "Matt Luke",
@@ -87,36 +87,36 @@
     "name": "Donbas",
     "query": "Donbas",
     "rank": 15,
-    "tweet_count": "64.3K Tweets"
+    "tweet_count": "67K Tweets"
+  },
+  {
+    "name": "Start CP3",
+    "query": "\"Start CP3\"",
+    "rank": 16,
+    "tweet_count": null
   },
   {
     "name": "Sudetenland",
     "query": "Sudetenland",
-    "rank": 16,
-    "tweet_count": "2,277 Tweets"
+    "rank": 17,
+    "tweet_count": "2,395 Tweets"
   },
   {
-    "name": "Notifs",
-    "query": "Notifs",
-    "rank": 17,
-    "tweet_count": "32.3K Tweets"
+    "name": "Logan Paul",
+    "query": "\"Logan Paul\"",
+    "rank": 18,
+    "tweet_count": "1,301 Tweets"
+  },
+  {
+    "name": "Bryce Mitchell",
+    "query": "\"Bryce Mitchell\"",
+    "rank": 19,
+    "tweet_count": null
   },
   {
     "name": "LUMA",
     "query": "LUMA",
-    "rank": 18,
-    "tweet_count": "4,578 Tweets"
-  },
-  {
-    "name": "Player of the Week",
-    "query": "\"Player of the Week\"",
-    "rank": 19,
-    "tweet_count": "4,634 Tweets"
-  },
-  {
-    "name": "Boris Johnson",
-    "query": "\"Boris Johnson\"",
     "rank": 20,
-    "tweet_count": "117K Tweets"
+    "tweet_count": "4,631 Tweets"
   }
 ]
