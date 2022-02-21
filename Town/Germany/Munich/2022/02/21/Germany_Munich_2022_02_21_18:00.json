@@ -1,33 +1,33 @@
 [
   {
-    "name": "#FirstDates",
-    "query": "#FirstDates",
+    "name": "#Donezk",
+    "query": "#Donezk",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "#Donezk",
-    "query": "#Donezk",
+    "name": "#Putin",
+    "query": "#Putin",
     "rank": 2,
-    "tweet_count": null
+    "tweet_count": "32.7K Tweets"
   },
   {
-    "name": "#Luhansk",
-    "query": "#Luhansk",
+    "name": "#FirstDates",
+    "query": "#FirstDates",
     "rank": 3,
-    "tweet_count": "4,316 Tweets"
+    "tweet_count": "1,159 Tweets"
+  },
+  {
+    "name": "#Brinkmann",
+    "query": "#Brinkmann",
+    "rank": 4,
+    "tweet_count": null
   },
   {
     "name": "Muttersprache",
     "query": "Muttersprache",
-    "rank": 4,
-    "tweet_count": "2,163 Tweets"
-  },
-  {
-    "name": "Alpine",
-    "query": "Alpine",
     "rank": 5,
-    "tweet_count": "59.7K Tweets"
+    "tweet_count": "2,224 Tweets"
   },
   {
     "name": "Roter Pander",
@@ -36,10 +36,10 @@
     "tweet_count": null
   },
   {
-    "name": "Schaffner",
-    "query": "Schaffner",
+    "name": "Alpine",
+    "query": "Alpine",
     "rank": 7,
-    "tweet_count": "1,277 Tweets"
+    "tweet_count": "61.1K Tweets"
   },
   {
     "name": "Gebiete",
@@ -51,31 +51,31 @@
     "name": "Anerkennung",
     "query": "Anerkennung",
     "rank": 9,
-    "tweet_count": "1,717 Tweets"
+    "tweet_count": "1,841 Tweets"
   },
   {
-    "name": "Minsker Abkommen",
-    "query": "\"Minsker Abkommen\"",
+    "name": "Schaffner",
+    "query": "Schaffner",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "1,306 Tweets"
   },
   {
     "name": "Sanktionen",
     "query": "Sanktionen",
     "rank": 11,
-    "tweet_count": "2,196 Tweets"
+    "tweet_count": "2,257 Tweets"
   },
   {
-    "name": "Marcus",
-    "query": "Marcus",
+    "name": "Minsker Abkommen",
+    "query": "\"Minsker Abkommen\"",
     "rank": 12,
-    "tweet_count": "19.4K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Hautirritationen",
-    "query": "Hautirritationen",
+    "name": "Thomas Müller",
+    "query": "\"Thomas Müller\"",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "1,053 Tweets"
   },
   {
     "name": "Unabhängigkeit",
@@ -84,27 +84,33 @@
     "tweet_count": null
   },
   {
-    "name": "Passwort",
-    "query": "Passwort",
+    "name": "Marcus",
+    "query": "Marcus",
     "rank": 15,
-    "tweet_count": "1,018 Tweets"
+    "tweet_count": "19.7K Tweets"
+  },
+  {
+    "name": "Hautirritationen",
+    "query": "Hautirritationen",
+    "rank": 16,
+    "tweet_count": null
   },
   {
     "name": "First Console",
     "query": "\"First Console\"",
-    "rank": 16,
-    "tweet_count": "5,343 Tweets"
+    "rank": 17,
+    "tweet_count": "5,378 Tweets"
   },
   {
-    "name": "Sprachen",
-    "query": "Sprachen",
-    "rank": 17,
+    "name": "Passwort",
+    "query": "Passwort",
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Knust",
     "query": "Knust",
-    "rank": 18,
-    "tweet_count": "3,114 Tweets"
+    "rank": 19,
+    "tweet_count": "3,202 Tweets"
   }
 ]
