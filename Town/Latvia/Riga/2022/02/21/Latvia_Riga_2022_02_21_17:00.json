@@ -9,29 +9,29 @@
     "name": "Waze",
     "query": "Waze",
     "rank": 2,
-    "tweet_count": "1,450 Tweets"
-  },
-  {
-    "name": "Brektes",
-    "query": "Brektes",
-    "rank": 3,
-    "tweet_count": null
+    "tweet_count": "1,470 Tweets"
   },
   {
     "name": "Putins",
     "query": "Putins",
-    "rank": 4,
-    "tweet_count": "7,735 Tweets"
+    "rank": 3,
+    "tweet_count": "7,933 Tweets"
   },
   {
     "name": "Krievijas",
     "query": "Krievijas",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "Brektes",
+    "query": "Brektes",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "Kurzemē",
-    "query": "Kurzemē",
+    "name": "kurzemē",
+    "query": "kurzemē",
     "rank": 6,
     "tweet_count": null
   },
@@ -51,7 +51,7 @@
     "name": "Riga",
     "query": "Riga",
     "rank": 9,
-    "tweet_count": "2,151 Tweets"
+    "tweet_count": "2,186 Tweets"
   },
   {
     "name": "Doņeckas",
@@ -66,16 +66,16 @@
     "tweet_count": null
   },
   {
-    "name": "Russia",
-    "query": "Russia",
-    "rank": 12,
-    "tweet_count": "627K Tweets"
-  },
-  {
     "name": "veselību",
     "query": "veselību",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "Russia",
+    "query": "Russia",
+    "rank": 13,
+    "tweet_count": "636K Tweets"
   },
   {
     "name": "budapeštas",
@@ -93,17 +93,17 @@
     "name": "Ukrainian",
     "query": "Ukrainian",
     "rank": 16,
-    "tweet_count": "89.7K Tweets"
-  },
-  {
-    "name": "krievu",
-    "query": "krievu",
-    "rank": 17,
-    "tweet_count": null
+    "tweet_count": "91.7K Tweets"
   },
   {
     "name": "krimas",
     "query": "krimas",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Pasaules",
+    "query": "Pasaules",
     "rank": 18,
     "tweet_count": null
   }
