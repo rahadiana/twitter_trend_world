@@ -6,20 +6,20 @@
     "tweet_count": null
   },
   {
-    "name": "שלם עם",
-    "query": "\"שלם עם\"",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
     "name": "תומר גנון",
     "query": "\"תומר גנון\"",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "גלי ישראל",
     "query": "\"גלי ישראל\"",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "שלם עם",
+    "query": "\"שלם עם\"",
     "rank": 4,
     "tweet_count": null
   },
@@ -57,13 +57,13 @@
     "name": "Middle East",
     "query": "\"Middle East\"",
     "rank": 10,
-    "tweet_count": "11.3K Tweets"
+    "tweet_count": "11.8K Tweets"
   },
   {
     "name": "Torah",
     "query": "Torah",
     "rank": 11,
-    "tweet_count": "1,341 Tweets"
+    "tweet_count": "1,360 Tweets"
   },
   {
     "name": "יום ראשון",
@@ -75,31 +75,31 @@
     "name": "OpenSea",
     "query": "OpenSea",
     "rank": 13,
-    "tweet_count": "549K Tweets"
+    "tweet_count": "558K Tweets"
+  },
+  {
+    "name": "Putin",
+    "query": "Putin",
+    "rank": 14,
+    "tweet_count": "534K Tweets"
   },
   {
     "name": "#poetrycommunity",
     "query": "#poetrycommunity",
-    "rank": 14,
-    "tweet_count": "1,667 Tweets"
+    "rank": 15,
+    "tweet_count": "1,693 Tweets"
   },
   {
     "name": "טוב אז",
     "query": "\"טוב אז\"",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Iran",
-    "query": "Iran",
     "rank": 16,
-    "tweet_count": "86.7K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Queen",
     "query": "Queen",
     "rank": 17,
-    "tweet_count": "433K Tweets"
+    "tweet_count": "439K Tweets"
   },
   {
     "name": "אלי אבידר",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "צפון קוריאה",
-    "query": "\"צפון קוריאה\"",
+    "name": "של לפיד",
+    "query": "\"של לפיד\"",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "1,756 Tweets"
   },
   {
-    "name": "Amen",
-    "query": "Amen",
+    "name": "צפון קוריאה",
+    "query": "\"צפון קוריאה\"",
     "rank": 20,
-    "tweet_count": "181K Tweets"
+    "tweet_count": null
   }
 ]
