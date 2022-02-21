@@ -1,21 +1,21 @@
 [
   {
-    "name": "Lexi",
-    "query": "Lexi",
-    "rank": 1,
-    "tweet_count": "441K Tweets"
-  },
-  {
     "name": "Cassie",
     "query": "Cassie",
-    "rank": 2,
-    "tweet_count": "188K Tweets"
+    "rank": 1,
+    "tweet_count": "212K Tweets"
   },
   {
     "name": "#nrkmgp",
     "query": "#nrkmgp",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
+  },
+  {
+    "name": "Lexi",
+    "query": "Lexi",
+    "rank": 3,
+    "tweet_count": "493K Tweets"
   },
   {
     "name": "#mgp2022",
@@ -27,7 +27,7 @@
     "name": "Leeds",
     "query": "Leeds",
     "rank": 5,
-    "tweet_count": "176K Tweets"
+    "tweet_count": "177K Tweets"
   },
   {
     "name": "#LEEMUN",
@@ -45,7 +45,7 @@
     "name": "Eurovision",
     "query": "Eurovision",
     "rank": 8,
-    "tweet_count": "20.4K Tweets"
+    "tweet_count": "20.5K Tweets"
   },
   {
     "name": "#2sjakk",
@@ -57,7 +57,7 @@
     "name": "Torino",
     "query": "Torino",
     "rank": 10,
-    "tweet_count": "8,177 Tweets"
+    "tweet_count": "8,260 Tweets"
   },
   {
     "name": "Tajik",
@@ -75,13 +75,13 @@
     "name": "Man Utd",
     "query": "\"Man Utd\"",
     "rank": 13,
-    "tweet_count": "46K Tweets"
+    "tweet_count": "46.1K Tweets"
   },
   {
     "name": "johaug",
     "query": "johaug",
     "rank": 14,
-    "tweet_count": "1,256 Tweets"
+    "tweet_count": "1,265 Tweets"
   },
   {
     "name": "aftenposten",
@@ -93,13 +93,13 @@
     "name": "Pogba",
     "query": "Pogba",
     "rank": 16,
-    "tweet_count": "65.6K Tweets"
+    "tweet_count": "65.8K Tweets"
   },
   {
     "name": "Everton",
     "query": "Everton",
     "rank": 17,
-    "tweet_count": "21.4K Tweets"
+    "tweet_count": "21.5K Tweets"
   },
   {
     "name": "farmen",
@@ -111,11 +111,11 @@
     "name": "Maguire",
     "query": "Maguire",
     "rank": 19,
-    "tweet_count": "81.2K Tweets"
+    "tweet_count": "81.5K Tweets"
   },
   {
-    "name": "NorthKid",
-    "query": "NorthKid",
+    "name": "northkid",
+    "query": "northkid",
     "rank": 20,
     "tweet_count": null
   }
