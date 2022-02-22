@@ -1,15 +1,15 @@
 [
   {
-    "name": "Ukraina",
-    "query": "Ukraina",
-    "rank": 1,
-    "tweet_count": "37.2K Tweets"
-  },
-  {
     "name": "Ryssland",
     "query": "Ryssland",
+    "rank": 1,
+    "tweet_count": "4,338 Tweets"
+  },
+  {
+    "name": "Ukraina",
+    "query": "Ukraina",
     "rank": 2,
-    "tweet_count": "4,201 Tweets"
+    "tweet_count": "38.1K Tweets"
   },
   {
     "name": "Williot",
@@ -18,14 +18,14 @@
     "tweet_count": null
   },
   {
-    "name": "#svtagenda",
-    "query": "#svtagenda",
+    "name": "NATO",
+    "query": "NATO",
     "rank": 4,
-    "tweet_count": null
+    "tweet_count": "356K Tweets"
   },
   {
-    "name": "#ifkgbg",
-    "query": "#ifkgbg",
+    "name": "#svtagenda",
+    "query": "#svtagenda",
     "rank": 5,
     "tweet_count": null
   },
@@ -36,22 +36,22 @@
     "tweet_count": null
   },
   {
-    "name": "Farnerud",
-    "query": "Farnerud",
+    "name": "#ifkgbg",
+    "query": "#ifkgbg",
     "rank": 7,
     "tweet_count": null
   },
   {
-    "name": "Kosovo",
-    "query": "Kosovo",
+    "name": "Farnerud",
+    "query": "Farnerud",
     "rank": 8,
-    "tweet_count": "29.8K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Bajen",
     "query": "Bajen",
     "rank": 9,
-    "tweet_count": "4,815 Tweets"
+    "tweet_count": "4,841 Tweets"
   },
   {
     "name": "Edvardsen",
@@ -60,8 +60,8 @@
     "tweet_count": null
   },
   {
-    "name": "fredrik malm",
-    "query": "\"fredrik malm\"",
+    "name": "Fredrik Malm",
+    "query": "\"Fredrik Malm\"",
     "rank": 11,
     "tweet_count": null
   },
@@ -69,54 +69,54 @@
     "name": "Mild",
     "query": "Mild",
     "rank": 12,
-    "tweet_count": "34K Tweets"
-  },
-  {
-    "name": "Krim",
-    "query": "Krim",
-    "rank": 13,
-    "tweet_count": "6,755 Tweets"
+    "tweet_count": "34.5K Tweets"
   },
   {
     "name": "Lexi",
     "query": "Lexi",
-    "rank": 14,
-    "tweet_count": "649K Tweets"
+    "rank": 13,
+    "tweet_count": "651K Tweets"
   },
   {
-    "name": "Cassie",
-    "query": "Cassie",
-    "rank": 15,
-    "tweet_count": "348K Tweets"
+    "name": "Krim",
+    "query": "Krim",
+    "rank": 14,
+    "tweet_count": "6,931 Tweets"
   },
   {
     "name": "Brage",
     "query": "Brage",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
-  },
-  {
-    "name": "maddy",
-    "query": "maddy",
-    "rank": 17,
-    "tweet_count": "254K Tweets"
   },
   {
     "name": "ytterhogdal",
     "query": "ytterhogdal",
-    "rank": 18,
+    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "Scandic",
-    "query": "Scandic",
-    "rank": 19,
+    "name": "Maddy",
+    "query": "Maddy",
+    "rank": 17,
+    "tweet_count": "255K Tweets"
+  },
+  {
+    "name": "scandic",
+    "query": "scandic",
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Salta",
     "query": "Salta",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": "13.1K Tweets"
+  },
+  {
+    "name": "guldskölden",
+    "query": "guldskölden",
+    "rank": 20,
+    "tweet_count": null
   }
 ]

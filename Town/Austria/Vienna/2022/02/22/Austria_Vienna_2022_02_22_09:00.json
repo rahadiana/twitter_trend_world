@@ -3,11 +3,11 @@
     "name": "Putin",
     "query": "Putin",
     "rank": 1,
-    "tweet_count": "2.08M Tweets"
+    "tweet_count": "2.1M Tweets"
   },
   {
-    "name": "#Schallenberg",
-    "query": "#Schallenberg",
+    "name": "#schallenberg",
+    "query": "#schallenberg",
     "rank": 2,
     "tweet_count": null
   },
@@ -15,55 +15,55 @@
     "name": "Russland",
     "query": "Russland",
     "rank": 3,
-    "tweet_count": "45.9K Tweets"
+    "tweet_count": "47.2K Tweets"
   },
   {
     "name": "Datum",
     "query": "Datum",
     "rank": 4,
-    "tweet_count": "3,546 Tweets"
+    "tweet_count": "3,679 Tweets"
   },
   {
     "name": "Wochenstart",
     "query": "Wochenstart",
     "rank": 5,
-    "tweet_count": "1,471 Tweets"
-  },
-  {
-    "name": "Muttersprache",
-    "query": "Muttersprache",
-    "rank": 6,
-    "tweet_count": "3,136 Tweets"
+    "tweet_count": "1,478 Tweets"
   },
   {
     "name": "Neutralität",
     "query": "Neutralität",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
+  },
+  {
+    "name": "Muttersprache",
+    "query": "Muttersprache",
+    "rank": 7,
+    "tweet_count": "3,147 Tweets"
   },
   {
     "name": "Außenminister",
     "query": "Außenminister",
     "rank": 8,
-    "tweet_count": "1,619 Tweets"
-  },
-  {
-    "name": "#Zadic",
-    "query": "#Zadic",
-    "rank": 9,
-    "tweet_count": null
+    "tweet_count": "1,650 Tweets"
   },
   {
     "name": "Gebiete",
     "query": "Gebiete",
+    "rank": 9,
+    "tweet_count": "4,579 Tweets"
+  },
+  {
+    "name": "#Zadic",
+    "query": "#Zadic",
     "rank": 10,
-    "tweet_count": "4,477 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Westen",
     "query": "Westen",
     "rank": 11,
-    "tweet_count": "12.2K Tweets"
+    "tweet_count": "12.6K Tweets"
   },
   {
     "name": "Kogler",
@@ -87,25 +87,25 @@
     "name": "Karin",
     "query": "Karin",
     "rank": 15,
-    "tweet_count": "22.6K Tweets"
-  },
-  {
-    "name": "#zib2",
-    "query": "#zib2",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "23K Tweets"
   },
   {
     "name": "Russen",
     "query": "Russen",
-    "rank": 17,
-    "tweet_count": "7,718 Tweets"
+    "rank": 16,
+    "tweet_count": "7,947 Tweets"
   },
   {
-    "name": "Start in die Woche",
-    "query": "\"Start in die Woche\"",
-    "rank": 18,
+    "name": "#zib2",
+    "query": "#zib2",
+    "rank": 17,
     "tweet_count": null
+  },
+  {
+    "name": "Lexi",
+    "query": "Lexi",
+    "rank": 18,
+    "tweet_count": "651K Tweets"
   },
   {
     "name": "#Tatort",
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "Lexi",
-    "query": "Lexi",
+    "name": "start in die woche",
+    "query": "\"start in die woche\"",
     "rank": 20,
-    "tweet_count": "649K Tweets"
+    "tweet_count": null
   }
 ]
