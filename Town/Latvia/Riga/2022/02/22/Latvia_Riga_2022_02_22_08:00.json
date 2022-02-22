@@ -3,13 +3,13 @@
     "name": "Krievijas",
     "query": "Krievijas",
     "rank": 1,
-    "tweet_count": "1,553 Tweets"
+    "tweet_count": "1,588 Tweets"
   },
   {
     "name": "Putins",
     "query": "Putins",
     "rank": 2,
-    "tweet_count": "34.5K Tweets"
+    "tweet_count": "34.8K Tweets"
   },
   {
     "name": "Luhanskas",
@@ -42,14 +42,14 @@
     "tweet_count": null
   },
   {
-    "name": "Latvijas",
-    "query": "Latvijas",
-    "rank": 8,
-    "tweet_count": "1,128 Tweets"
-  },
-  {
     "name": "šlesera",
     "query": "šlesera",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "Donbasa",
+    "query": "Donbasa",
     "rank": 9,
     "tweet_count": null
   },
@@ -57,7 +57,7 @@
     "name": "Riga",
     "query": "Riga",
     "rank": 10,
-    "tweet_count": "2,523 Tweets"
+    "tweet_count": "2,547 Tweets"
   },
   {
     "name": "Eiropas",
@@ -72,44 +72,44 @@
     "tweet_count": null
   },
   {
-    "name": "Waze",
-    "query": "Waze",
-    "rank": 13,
-    "tweet_count": "2,390 Tweets"
-  },
-  {
     "name": "Krimas",
     "query": "Krimas",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Donbasā",
-    "query": "Donbasā",
-    "rank": 15,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "#teirdarbs",
     "query": "#teirdarbs",
-    "rank": 16,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "kijevai",
     "query": "kijevai",
-    "rank": 17,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "PSRS",
     "query": "PSRS",
-    "rank": 18,
+    "rank": 16,
     "tweet_count": null
+  },
+  {
+    "name": "Waze",
+    "query": "Waze",
+    "rank": 17,
+    "tweet_count": "2,413 Tweets"
   },
   {
     "name": "rietumos",
     "query": "rietumos",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Diemžēl",
+    "query": "Diemžēl",
     "rank": 19,
     "tweet_count": null
   }
