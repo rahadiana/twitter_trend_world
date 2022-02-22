@@ -1,98 +1,116 @@
 [
   {
+    "name": "Niemcy",
+    "query": "Niemcy",
+    "rank": 1,
+    "tweet_count": "8,187 Tweets"
+  },
+  {
+    "name": "#minela8",
+    "query": "#minela8",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
     "name": "Putina",
     "query": "Putina",
-    "rank": 1,
-    "tweet_count": "24.2K Tweets"
+    "rank": 3,
+    "tweet_count": "24.5K Tweets"
   },
   {
     "name": "Rosji",
     "query": "Rosji",
-    "rank": 2,
-    "tweet_count": "18.6K Tweets"
+    "rank": 4,
+    "tweet_count": "19K Tweets"
   },
   {
     "name": "#Jedziemy",
     "query": "#Jedziemy",
-    "rank": 3,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "Ukrainy",
+    "query": "Ukrainy",
+    "rank": 6,
+    "tweet_count": "20.4K Tweets"
   },
   {
     "name": "Le Pen",
     "query": "\"Le Pen\"",
-    "rank": 4,
-    "tweet_count": "6,655 Tweets"
+    "rank": 7,
+    "tweet_count": "32.2K Tweets"
   },
   {
     "name": "Donbasu",
     "query": "Donbasu",
-    "rank": 5,
-    "tweet_count": "4,905 Tweets"
+    "rank": 8,
+    "tweet_count": "4,982 Tweets"
   },
   {
     "name": "#wojna",
     "query": "#wojna",
-    "rank": 6,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Kosowa",
     "query": "Kosowa",
-    "rank": 7,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Zachód",
     "query": "Zachód",
-    "rank": 8,
-    "tweet_count": "4,960 Tweets"
+    "rank": 11,
+    "tweet_count": "5,024 Tweets"
   },
   {
-    "name": "Donbasie",
-    "query": "Donbasie",
-    "rank": 9,
-    "tweet_count": "3,461 Tweets"
-  },
-  {
-    "name": "Kremla",
-    "query": "Kremla",
-    "rank": 10,
-    "tweet_count": "2,356 Tweets"
+    "name": "Nord Stream 2",
+    "query": "\"Nord Stream 2\"",
+    "rank": 12,
+    "tweet_count": "14.6K Tweets"
   },
   {
     "name": "Moskwy",
     "query": "Moskwy",
-    "rank": 11,
-    "tweet_count": "1,982 Tweets"
+    "rank": 13,
+    "tweet_count": "2,007 Tweets"
   },
   {
     "name": "Berlina",
     "query": "Berlina",
-    "rank": 12,
+    "rank": 14,
     "tweet_count": null
+  },
+  {
+    "name": "Kremla",
+    "query": "Kremla",
+    "rank": 15,
+    "tweet_count": "2,395 Tweets"
   },
   {
     "name": "FIFA",
     "query": "FIFA",
-    "rank": 13,
-    "tweet_count": "33.1K Tweets"
+    "rank": 16,
+    "tweet_count": "33.2K Tweets"
   },
   {
     "name": "Doniecka",
     "query": "Doniecka",
-    "rank": 14,
-    "tweet_count": "2,011 Tweets"
-  },
-  {
-    "name": "Moskwie",
-    "query": "Moskwie",
-    "rank": 15,
-    "tweet_count": "1,688 Tweets"
+    "rank": 17,
+    "tweet_count": "2,023 Tweets"
   },
   {
     "name": "Krym",
     "query": "Krym",
-    "rank": 16,
-    "tweet_count": "2,265 Tweets"
+    "rank": 18,
+    "tweet_count": "2,286 Tweets"
+  },
+  {
+    "name": "Moskwie",
+    "query": "Moskwie",
+    "rank": 19,
+    "tweet_count": "1,714 Tweets"
   }
 ]
