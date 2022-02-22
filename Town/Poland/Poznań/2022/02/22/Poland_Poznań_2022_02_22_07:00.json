@@ -1,33 +1,33 @@
 [
   {
-    "name": "#Jedziemy",
-    "query": "#Jedziemy",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Putina",
     "query": "Putina",
-    "rank": 2,
-    "tweet_count": "23.6K Tweets"
+    "rank": 1,
+    "tweet_count": "24.2K Tweets"
   },
   {
     "name": "Rosji",
     "query": "Rosji",
+    "rank": 2,
+    "tweet_count": "18.6K Tweets"
+  },
+  {
+    "name": "#Jedziemy",
+    "query": "#Jedziemy",
     "rank": 3,
-    "tweet_count": "18.2K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Le Pen",
     "query": "\"Le Pen\"",
     "rank": 4,
-    "tweet_count": "31.6K Tweets"
+    "tweet_count": "6,655 Tweets"
   },
   {
     "name": "Donbasu",
     "query": "Donbasu",
     "rank": 5,
-    "tweet_count": "4,800 Tweets"
+    "tweet_count": "4,905 Tweets"
   },
   {
     "name": "#wojna",
@@ -45,36 +45,60 @@
     "name": "Zachód",
     "query": "Zachód",
     "rank": 8,
-    "tweet_count": "4,867 Tweets"
-  },
-  {
-    "name": "Kremla",
-    "query": "Kremla",
-    "rank": 9,
-    "tweet_count": "2,320 Tweets"
+    "tweet_count": "4,953 Tweets"
   },
   {
     "name": "Donbasie",
     "query": "Donbasie",
-    "rank": 10,
-    "tweet_count": "3,394 Tweets"
-  },
-  {
-    "name": "Doniecka",
-    "query": "Doniecka",
-    "rank": 11,
-    "tweet_count": "1,967 Tweets"
+    "rank": 9,
+    "tweet_count": "3,458 Tweets"
   },
   {
     "name": "Moskwy",
     "query": "Moskwy",
+    "rank": 10,
+    "tweet_count": "1,979 Tweets"
+  },
+  {
+    "name": "Nord Stream 2",
+    "query": "\"Nord Stream 2\"",
+    "rank": 11,
+    "tweet_count": "14.5K Tweets"
+  },
+  {
+    "name": "FIFA",
+    "query": "FIFA",
     "rank": 12,
-    "tweet_count": "1,944 Tweets"
+    "tweet_count": "33.1K Tweets"
+  },
+  {
+    "name": "Kremla",
+    "query": "Kremla",
+    "rank": 13,
+    "tweet_count": "2,356 Tweets"
+  },
+  {
+    "name": "Berlina",
+    "query": "Berlina",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Doniecka",
+    "query": "Doniecka",
+    "rank": 15,
+    "tweet_count": "2,011 Tweets"
   },
   {
     "name": "Moskwie",
     "query": "Moskwie",
-    "rank": 13,
-    "tweet_count": "1,656 Tweets"
+    "rank": 16,
+    "tweet_count": "1,688 Tweets"
+  },
+  {
+    "name": "Krym",
+    "query": "Krym",
+    "rank": 17,
+    "tweet_count": "2,265 Tweets"
   }
 ]
