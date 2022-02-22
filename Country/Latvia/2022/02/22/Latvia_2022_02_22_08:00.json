@@ -3,23 +3,23 @@
     "name": "Krievijas",
     "query": "Krievijas",
     "rank": 1,
-    "tweet_count": "1,506 Tweets"
+    "tweet_count": "1,556 Tweets"
   },
   {
     "name": "Putins",
     "query": "Putins",
     "rank": 2,
-    "tweet_count": "33.8K Tweets"
-  },
-  {
-    "name": "Doņeckas",
-    "query": "Doņeckas",
-    "rank": 3,
-    "tweet_count": null
+    "tweet_count": "34.5K Tweets"
   },
   {
     "name": "Luhanskas",
     "query": "Luhanskas",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "Doņeckas",
+    "query": "Doņeckas",
     "rank": 4,
     "tweet_count": null
   },
@@ -36,8 +36,8 @@
     "tweet_count": null
   },
   {
-    "name": "Eiropas",
-    "query": "Eiropas",
+    "name": "Brekte",
+    "query": "Brekte",
     "rank": 7,
     "tweet_count": null
   },
@@ -45,25 +45,25 @@
     "name": "Latvijas",
     "query": "Latvijas",
     "rank": 8,
-    "tweet_count": "1,108 Tweets"
-  },
-  {
-    "name": "Brekte",
-    "query": "Brekte",
-    "rank": 9,
-    "tweet_count": null
+    "tweet_count": "1,129 Tweets"
   },
   {
     "name": "šlesera",
     "query": "šlesera",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Riga",
     "query": "Riga",
+    "rank": 10,
+    "tweet_count": "2,525 Tweets"
+  },
+  {
+    "name": "Eiropas",
+    "query": "Eiropas",
     "rank": 11,
-    "tweet_count": "2,485 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Minskas",
@@ -75,7 +75,7 @@
     "name": "Waze",
     "query": "Waze",
     "rank": 13,
-    "tweet_count": "2,365 Tweets"
+    "tweet_count": "2,390 Tweets"
   },
   {
     "name": "Krimas",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
-    "name": "PSRS",
-    "query": "PSRS",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
     "name": "#teirdarbs",
     "query": "#teirdarbs",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "kijevai",
     "query": "kijevai",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "PSRS",
+    "query": "PSRS",
     "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "Mans",
-    "query": "Mans",
-    "rank": 19,
-    "tweet_count": "21.9K Tweets"
-  },
-  {
     "name": "rietumos",
     "query": "rietumos",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "Germany",
+    "query": "Germany",
+    "rank": 20,
+    "tweet_count": "143K Tweets"
   }
 ]
