@@ -1,98 +1,110 @@
 [
   {
-    "name": "ДНР и ЛНР",
-    "query": "\"ДНР и ЛНР\"",
+    "name": "#беларусь",
+    "query": "#беларусь",
     "rank": 1,
-    "tweet_count": "79.3K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "конституции",
-    "query": "конституции",
+    "name": "Конституции",
+    "query": "Конституции",
     "rank": 2,
-    "tweet_count": "1,752 Tweets"
+    "tweet_count": "1,708 Tweets"
   },
   {
     "name": "В Беларуси",
     "query": "\"В Беларуси\"",
     "rank": 3,
-    "tweet_count": "1,059 Tweets"
+    "tweet_count": "1,069 Tweets"
+  },
+  {
+    "name": "ДНР и ЛНР",
+    "query": "\"ДНР и ЛНР\"",
+    "rank": 4,
+    "tweet_count": "80K Tweets"
   },
   {
     "name": "Russian",
     "query": "Russian",
-    "rank": 4,
-    "tweet_count": "900K Tweets"
+    "rank": 5,
+    "tweet_count": "874K Tweets"
   },
   {
     "name": "ЛДНР",
     "query": "ЛДНР",
-    "rank": 5,
-    "tweet_count": "24.5K Tweets"
-  },
-  {
-    "name": "Украины",
-    "query": "Украины",
     "rank": 6,
-    "tweet_count": "55.1K Tweets"
+    "tweet_count": "24.8K Tweets"
   },
   {
     "name": "Путина",
     "query": "Путина",
     "rank": 7,
-    "tweet_count": "44.3K Tweets"
+    "tweet_count": "44.9K Tweets"
+  },
+  {
+    "name": "Украины",
+    "query": "Украины",
+    "rank": 8,
+    "tweet_count": "55.8K Tweets"
   },
   {
     "name": "Ukraine",
     "query": "Ukraine",
-    "rank": 8,
-    "tweet_count": "2.2M Tweets"
+    "rank": 9,
+    "tweet_count": "2.31M Tweets"
   },
   {
     "name": "Господи",
     "query": "Господи",
-    "rank": 9,
-    "tweet_count": "6,341 Tweets"
+    "rank": 10,
+    "tweet_count": "6,448 Tweets"
   },
   {
-    "name": "Донбасса",
-    "query": "Донбасса",
-    "rank": 10,
-    "tweet_count": "21.4K Tweets"
+    "name": "Точно",
+    "query": "Точно",
+    "rank": 11,
+    "tweet_count": "15.3K Tweets"
+  },
+  {
+    "name": "поддерживаю",
+    "query": "поддерживаю",
+    "rank": 12,
+    "tweet_count": "4,176 Tweets"
+  },
+  {
+    "name": "Донбасс",
+    "query": "Донбасс",
+    "rank": 13,
+    "tweet_count": "20.2K Tweets"
   },
   {
     "name": "Звучит",
     "query": "Звучит",
-    "rank": 11,
-    "tweet_count": "3,608 Tweets"
+    "rank": 14,
+    "tweet_count": "3,688 Tweets"
   },
   {
-    "name": "лукашенко",
-    "query": "лукашенко",
-    "rank": 12,
-    "tweet_count": "2,728 Tweets"
+    "name": "Европе",
+    "query": "Европе",
+    "rank": 15,
+    "tweet_count": "3,970 Tweets"
+  },
+  {
+    "name": "Понимаю",
+    "query": "Понимаю",
+    "rank": 16,
+    "tweet_count": "20.1K Tweets"
   },
   {
     "name": "Крым",
     "query": "Крым",
-    "rank": 13,
-    "tweet_count": "7,936 Tweets"
+    "rank": 17,
+    "tweet_count": "8,022 Tweets"
   },
   {
-    "name": "Похоже",
-    "query": "Похоже",
-    "rank": 14,
-    "tweet_count": "5,687 Tweets"
-  },
-  {
-    "name": "#AllTooWell",
-    "query": "#AllTooWell",
-    "rank": 15,
-    "tweet_count": "5,388 Tweets"
-  },
-  {
-    "name": "#BestLyrics",
-    "query": "#BestLyrics",
-    "rank": 16,
-    "tweet_count": "5,896 Tweets"
+    "name": "#esports",
+    "query": "#esports",
+    "rank": 18,
+    "tweet_count": "8,107 Tweets"
   }
 ]
