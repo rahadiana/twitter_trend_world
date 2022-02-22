@@ -1,98 +1,104 @@
 [
   {
-    "name": "#ongehoordnieuws",
-    "query": "#ongehoordnieuws",
+    "name": "Russen",
+    "query": "Russen",
     "rank": 1,
-    "tweet_count": "1,956 Tweets"
-  },
-  {
-    "name": "A-status",
-    "query": "A-status",
-    "rank": 2,
-    "tweet_count": "4,705 Tweets"
-  },
-  {
-    "name": "Rusland",
-    "query": "Rusland",
-    "rank": 3,
-    "tweet_count": "22.7K Tweets"
-  },
-  {
-    "name": "Eerste Kamer",
-    "query": "\"Eerste Kamer\"",
-    "rank": 4,
-    "tweet_count": "3,297 Tweets"
+    "tweet_count": "10.9K Tweets"
   },
   {
     "name": "Poetin",
     "query": "Poetin",
+    "rank": 2,
+    "tweet_count": "18.5K Tweets"
+  },
+  {
+    "name": "#ongehoordnieuws",
+    "query": "#ongehoordnieuws",
+    "rank": 3,
+    "tweet_count": "2,080 Tweets"
+  },
+  {
+    "name": "A-status",
+    "query": "A-status",
+    "rank": 4,
+    "tweet_count": "5,090 Tweets"
+  },
+  {
+    "name": "Rusland",
+    "query": "Rusland",
     "rank": 5,
-    "tweet_count": "18.2K Tweets"
+    "tweet_count": "23.3K Tweets"
   },
   {
-    "name": "Nord Stream 2",
-    "query": "\"Nord Stream 2\"",
+    "name": "Eerste Kamer",
+    "query": "\"Eerste Kamer\"",
     "rank": 6,
-    "tweet_count": "95.3K Tweets"
+    "tweet_count": "3,876 Tweets"
   },
   {
-    "name": "#OekraineCrisis",
-    "query": "#OekraineCrisis",
+    "name": "#Oekraine",
+    "query": "#Oekraine",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "6,577 Tweets"
   },
   {
-    "name": "#turquoise",
-    "query": "#turquoise",
+    "name": "A-lijst",
+    "query": "A-lijst",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Russen",
-    "query": "Russen",
+    "name": "BOOS",
+    "query": "BOOS",
     "rank": 9,
-    "tweet_count": "10.6K Tweets"
+    "tweet_count": "12.3K Tweets"
   },
   {
-    "name": "Russisch",
-    "query": "Russisch",
+    "name": "Nord Stream 2",
+    "query": "\"Nord Stream 2\"",
     "rank": 10,
-    "tweet_count": "3,998 Tweets"
+    "tweet_count": "23K Tweets"
+  },
+  {
+    "name": "#turquoise",
+    "query": "#turquoise",
+    "rank": 11,
+    "tweet_count": null
   },
   {
     "name": "#RussiaUkraineCrisis",
     "query": "#RussiaUkraineCrisis",
-    "rank": 11,
-    "tweet_count": "28.6K Tweets"
+    "rank": 12,
+    "tweet_count": "29.7K Tweets"
   },
   {
-    "name": "#BenAja",
-    "query": "#BenAja",
-    "rank": 12,
-    "tweet_count": null
+    "name": "Russisch",
+    "query": "Russisch",
+    "rank": 13,
+    "tweet_count": "4,103 Tweets"
   },
   {
     "name": "De EU",
     "query": "\"De EU\"",
-    "rank": 13,
-    "tweet_count": "974K Tweets"
+    "rank": 14,
+    "tweet_count": "997K Tweets"
+  },
+  {
+    "name": "#BenAja",
+    "query": "#BenAja",
+    "rank": 15,
+    "tweet_count": null
   },
   {
     "name": "Groningers",
     "query": "Groningers",
-    "rank": 14,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Trump",
     "query": "Trump",
-    "rank": 15,
-    "tweet_count": "761K Tweets"
-  },
-  {
-    "name": "Kremlin",
-    "query": "Kremlin",
-    "rank": 16,
-    "tweet_count": "139K Tweets"
+    "rank": 17,
+    "tweet_count": "783K Tweets"
   }
 ]
