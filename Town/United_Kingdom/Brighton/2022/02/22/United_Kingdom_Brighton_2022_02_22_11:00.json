@@ -1,110 +1,110 @@
 [
   {
+    "name": "Germany",
+    "query": "Germany",
+    "rank": 1,
+    "tweet_count": "156K Tweets"
+  },
+  {
     "name": "Cobra",
     "query": "Cobra",
-    "rank": 1,
-    "tweet_count": "49.1K Tweets"
+    "rank": 2,
+    "tweet_count": "49.3K Tweets"
   },
   {
     "name": "Kiev",
     "query": "Kiev",
-    "rank": 2,
-    "tweet_count": "62.2K Tweets"
-  },
-  {
-    "name": "Moscow",
-    "query": "Moscow",
     "rank": 3,
-    "tweet_count": "98K Tweets"
+    "tweet_count": "62.6K Tweets"
   },
   {
     "name": "#FourFights",
     "query": "#FourFights",
     "rank": 4,
-    "tweet_count": "1,558 Tweets"
+    "tweet_count": "1,575 Tweets"
+  },
+  {
+    "name": "Soviet Union",
+    "query": "\"Soviet Union\"",
+    "rank": 5,
+    "tweet_count": "37.5K Tweets"
   },
   {
     "name": "Iraq",
     "query": "Iraq",
-    "rank": 5,
-    "tweet_count": "34.5K Tweets"
-  },
-  {
-    "name": "St Mirren",
-    "query": "\"St Mirren\"",
     "rank": 6,
-    "tweet_count": "2,693 Tweets"
+    "tweet_count": "34.7K Tweets"
   },
   {
-    "name": "Libya",
-    "query": "Libya",
+    "name": "Kosovo",
+    "query": "Kosovo",
     "rank": 7,
-    "tweet_count": "14.1K Tweets"
+    "tweet_count": "34K Tweets"
+  },
+  {
+    "name": "#worldwar3",
+    "query": "#worldwar3",
+    "rank": 8,
+    "tweet_count": "4,118 Tweets"
   },
   {
     "name": "Cold War",
     "query": "\"Cold War\"",
-    "rank": 8,
-    "tweet_count": "27.3K Tweets"
+    "rank": 9,
+    "tweet_count": "27.4K Tweets"
   },
   {
     "name": "Minsk",
     "query": "Minsk",
-    "rank": 9,
-    "tweet_count": "77.9K Tweets"
+    "rank": 10,
+    "tweet_count": "78.3K Tweets"
   },
   {
     "name": "#Twosday",
     "query": "#Twosday",
-    "rank": 10,
-    "tweet_count": "13.4K Tweets"
+    "rank": 11,
+    "tweet_count": "13.9K Tweets"
   },
   {
     "name": "Russia",
     "query": "Russia",
-    "rank": 11,
-    "tweet_count": "1.32M Tweets"
-  },
-  {
-    "name": "#palindrome",
-    "query": "#palindrome",
     "rank": 12,
-    "tweet_count": "5,214 Tweets"
+    "tweet_count": "1.33M Tweets"
   },
   {
     "name": "Nord Stream 2",
     "query": "\"Nord Stream 2\"",
     "rank": 13,
-    "tweet_count": "30.1K Tweets"
+    "tweet_count": "5,396 Tweets"
   },
   {
-    "name": "#ASongOrMovieForSupermarkets",
-    "query": "#ASongOrMovieForSupermarkets",
+    "name": "#ThisMorning",
+    "query": "#ThisMorning",
     "rank": 14,
-    "tweet_count": "1,420 Tweets"
+    "tweet_count": "1,343 Tweets"
   },
   {
-    "name": "Luxembourgish",
-    "query": "Luxembourgish",
+    "name": "Payet",
+    "query": "Payet",
     "rank": 15,
-    "tweet_count": "9,319 Tweets"
-  },
-  {
-    "name": "Arron Banks",
-    "query": "\"Arron Banks\"",
-    "rank": 16,
-    "tweet_count": "5,230 Tweets"
-  },
-  {
-    "name": "Happy Birthday Joe",
-    "query": "\"Happy Birthday Joe\"",
-    "rank": 17,
-    "tweet_count": "5,428 Tweets"
+    "tweet_count": "2,603 Tweets"
   },
   {
     "name": "UEFA",
     "query": "UEFA",
+    "rank": 16,
+    "tweet_count": "18.7K Tweets"
+  },
+  {
+    "name": "Arron Banks",
+    "query": "\"Arron Banks\"",
+    "rank": 17,
+    "tweet_count": "5,412 Tweets"
+  },
+  {
+    "name": "Luxembourgish",
+    "query": "Luxembourgish",
     "rank": 18,
-    "tweet_count": "18.3K Tweets"
+    "tweet_count": "9,499 Tweets"
   }
 ]
