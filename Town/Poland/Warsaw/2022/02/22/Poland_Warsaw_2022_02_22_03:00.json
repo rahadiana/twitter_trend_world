@@ -1,86 +1,74 @@
 [
   {
-    "name": "moskwy",
-    "query": "moskwy",
-    "rank": 1,
-    "tweet_count": "1,710 Tweets"
-  },
-  {
     "name": "Putina",
     "query": "Putina",
-    "rank": 2,
-    "tweet_count": "21.3K Tweets"
+    "rank": 1,
+    "tweet_count": "21.4K Tweets"
   },
   {
     "name": "#wojna",
     "query": "#wojna",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "Rosji",
     "query": "Rosji",
-    "rank": 4,
-    "tweet_count": "16K Tweets"
+    "rank": 3,
+    "tweet_count": "16.1K Tweets"
   },
   {
     "name": "Le Pen",
     "query": "\"Le Pen\"",
+    "rank": 4,
+    "tweet_count": "31.4K Tweets"
+  },
+  {
+    "name": "doniecka",
+    "query": "doniecka",
     "rank": 5,
-    "tweet_count": "31.3K Tweets"
-  },
-  {
-    "name": "FIFA",
-    "query": "FIFA",
-    "rank": 6,
-    "tweet_count": "33.3K Tweets"
-  },
-  {
-    "name": "Doniecka",
-    "query": "Doniecka",
-    "rank": 7,
-    "tweet_count": "1,778 Tweets"
+    "tweet_count": "1,785 Tweets"
   },
   {
     "name": "Lwowa",
     "query": "Lwowa",
-    "rank": 8,
+    "rank": 6,
     "tweet_count": null
   },
   {
-    "name": "zachód",
-    "query": "zachód",
-    "rank": 9,
-    "tweet_count": "4,508 Tweets"
-  },
-  {
-    "name": "Krymu",
-    "query": "Krymu",
-    "rank": 10,
-    "tweet_count": "1,289 Tweets"
+    "name": "Zachód",
+    "query": "Zachód",
+    "rank": 7,
+    "tweet_count": "4,513 Tweets"
   },
   {
     "name": "Orban",
     "query": "Orban",
-    "rank": 11,
-    "tweet_count": "5,847 Tweets"
+    "rank": 8,
+    "tweet_count": "5,881 Tweets"
   },
   {
-    "name": "Ługańsk",
-    "query": "Ługańsk",
-    "rank": 12,
-    "tweet_count": "94K Tweets"
+    "name": "ługańsk",
+    "query": "ługańsk",
+    "rank": 9,
+    "tweet_count": "95K Tweets"
   },
   {
     "name": "berlina",
     "query": "berlina",
-    "rank": 13,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Nord Stream 2",
     "query": "\"Nord Stream 2\"",
-    "rank": 14,
-    "tweet_count": "11.5K Tweets"
+    "rank": 11,
+    "tweet_count": "11.9K Tweets"
+  },
+  {
+    "name": "Krym",
+    "query": "Krym",
+    "rank": 12,
+    "tweet_count": "2,085 Tweets"
   }
 ]
