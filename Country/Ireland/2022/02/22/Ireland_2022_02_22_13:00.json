@@ -1,13 +1,13 @@
 [
   {
-    "name": "Putin",
-    "query": "Putin",
+    "name": "UN Security Council",
+    "query": "\"UN Security Council\"",
     "rank": 1,
-    "tweet_count": "2.3M Tweets"
+    "tweet_count": "42.4K Tweets"
   },
   {
-    "name": "#vincent",
-    "query": "#vincent",
+    "name": "#Vincent",
+    "query": "#Vincent",
     "rank": 2,
     "tweet_count": null
   },
@@ -15,41 +15,41 @@
     "name": "#Twosday",
     "query": "#Twosday",
     "rank": 3,
-    "tweet_count": "22.1K Tweets"
-  },
-  {
-    "name": "NATO",
-    "query": "NATO",
-    "rank": 4,
-    "tweet_count": "399K Tweets"
+    "tweet_count": "23.4K Tweets"
   },
   {
     "name": "Phil Hogan",
     "query": "\"Phil Hogan\"",
-    "rank": 5,
-    "tweet_count": "1,040 Tweets"
+    "rank": 4,
+    "tweet_count": "1,056 Tweets"
   },
   {
     "name": "#StormFranklin",
     "query": "#StormFranklin",
-    "rank": 6,
-    "tweet_count": "7,838 Tweets"
+    "rank": 5,
+    "tweet_count": "7,874 Tweets"
   },
   {
     "name": "#digitalomc22",
     "query": "#digitalomc22",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
-  },
-  {
-    "name": "#leemun",
-    "query": "#leemun",
-    "rank": 8,
-    "tweet_count": "8,149 Tweets"
   },
   {
     "name": "MT USA",
     "query": "\"MT USA\"",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "Nord Stream 2",
+    "query": "\"Nord Stream 2\"",
+    "rank": 8,
+    "tweet_count": "65.2K Tweets"
+  },
+  {
+    "name": "#FreedomFromFear",
+    "query": "#FreedomFromFear",
     "rank": 9,
     "tweet_count": null
   },
@@ -57,7 +57,7 @@
     "name": "Lexi",
     "query": "Lexi",
     "rank": 10,
-    "tweet_count": "565K Tweets"
+    "tweet_count": "567K Tweets"
   },
   {
     "name": "Ethan",
@@ -66,16 +66,16 @@
     "tweet_count": "131K Tweets"
   },
   {
-    "name": "Bill Hughes",
-    "query": "\"Bill Hughes\"",
+    "name": "Tuam",
+    "query": "Tuam",
     "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "Jamal Edwards",
-    "query": "\"Jamal Edwards\"",
+    "name": "Bill Hughes",
+    "query": "\"Bill Hughes\"",
     "rank": 13,
-    "tweet_count": "16.7K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Aramark",
@@ -84,39 +84,39 @@
     "tweet_count": null
   },
   {
+    "name": "Jamal Edwards",
+    "query": "\"Jamal Edwards\"",
+    "rank": 15,
+    "tweet_count": "16.7K Tweets"
+  },
+  {
     "name": "Wembley",
     "query": "Wembley",
-    "rank": 15,
-    "tweet_count": "8,463 Tweets"
+    "rank": 16,
+    "tweet_count": "8,617 Tweets"
+  },
+  {
+    "name": "Germany",
+    "query": "Germany",
+    "rank": 17,
+    "tweet_count": "180K Tweets"
   },
   {
     "name": "National Gallery",
     "query": "\"National Gallery\"",
-    "rank": 16,
-    "tweet_count": "1,006 Tweets"
-  },
-  {
-    "name": "Tuam",
-    "query": "Tuam",
-    "rank": 17,
-    "tweet_count": null
+    "rank": 18,
+    "tweet_count": "1,032 Tweets"
   },
   {
     "name": "Daily Quordle",
     "query": "\"Daily Quordle\"",
-    "rank": 18,
-    "tweet_count": "10.3K Tweets"
-  },
-  {
-    "name": "Army of the Dead",
-    "query": "\"Army of the Dead\"",
     "rank": 19,
-    "tweet_count": "37.5K Tweets"
+    "tweet_count": "10.4K Tweets"
   },
   {
     "name": "Crime Gun",
     "query": "\"Crime Gun\"",
     "rank": 20,
-    "tweet_count": "2,101 Tweets"
+    "tweet_count": "2,108 Tweets"
   }
 ]

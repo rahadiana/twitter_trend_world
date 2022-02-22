@@ -1,13 +1,13 @@
 [
   {
-    "name": "Putin",
-    "query": "Putin",
+    "name": "UN Security Council",
+    "query": "\"UN Security Council\"",
     "rank": 1,
-    "tweet_count": "2.3M Tweets"
+    "tweet_count": "42.4K Tweets"
   },
   {
-    "name": "#vincent",
-    "query": "#vincent",
+    "name": "#Vincent",
+    "query": "#Vincent",
     "rank": 2,
     "tweet_count": null
   },
@@ -15,25 +15,25 @@
     "name": "#Twosday",
     "query": "#Twosday",
     "rank": 3,
-    "tweet_count": "21.9K Tweets"
+    "tweet_count": "23.3K Tweets"
   },
   {
     "name": "NATO",
     "query": "NATO",
     "rank": 4,
-    "tweet_count": "399K Tweets"
-  },
-  {
-    "name": "#StormFranklin",
-    "query": "#StormFranklin",
-    "rank": 5,
-    "tweet_count": "7,833 Tweets"
+    "tweet_count": "404K Tweets"
   },
   {
     "name": "Phil Hogan",
     "query": "\"Phil Hogan\"",
+    "rank": 5,
+    "tweet_count": "1,055 Tweets"
+  },
+  {
+    "name": "#StormFranklin",
+    "query": "#StormFranklin",
     "rank": 6,
-    "tweet_count": "1,040 Tweets"
+    "tweet_count": "7,874 Tweets"
   },
   {
     "name": "#digitalomc22",
@@ -45,7 +45,7 @@
     "name": "Donetsk",
     "query": "Donetsk",
     "rank": 8,
-    "tweet_count": "408K Tweets"
+    "tweet_count": "410K Tweets"
   },
   {
     "name": "MT USA",
@@ -57,13 +57,13 @@
     "name": "Nord Stream 2",
     "query": "\"Nord Stream 2\"",
     "rank": 10,
-    "tweet_count": "61.2K Tweets"
+    "tweet_count": "10.9K Tweets"
   },
   {
     "name": "Lexi",
     "query": "Lexi",
     "rank": 11,
-    "tweet_count": "565K Tweets"
+    "tweet_count": "567K Tweets"
   },
   {
     "name": "Ethan",
@@ -72,45 +72,45 @@
     "tweet_count": "131K Tweets"
   },
   {
-    "name": "Bill Hughes",
-    "query": "\"Bill Hughes\"",
+    "name": "Tuam",
+    "query": "Tuam",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "Wembley",
-    "query": "Wembley",
+    "name": "Bill Hughes",
+    "query": "\"Bill Hughes\"",
     "rank": 14,
-    "tweet_count": "8,448 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Aramark",
+    "query": "Aramark",
+    "rank": 15,
+    "tweet_count": null
   },
   {
     "name": "Jamal Edwards",
     "query": "\"Jamal Edwards\"",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": "16.7K Tweets"
   },
   {
-    "name": "aramark",
-    "query": "aramark",
-    "rank": 16,
-    "tweet_count": null
+    "name": "Wembley",
+    "query": "Wembley",
+    "rank": 17,
+    "tweet_count": "8,617 Tweets"
   },
   {
     "name": "National Gallery",
     "query": "\"National Gallery\"",
-    "rank": 17,
-    "tweet_count": "1,004 Tweets"
-  },
-  {
-    "name": "Tuam",
-    "query": "Tuam",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "1,028 Tweets"
   },
   {
     "name": "Daily Quordle",
     "query": "\"Daily Quordle\"",
     "rank": 19,
-    "tweet_count": "10.3K Tweets"
+    "tweet_count": "10.4K Tweets"
   }
 ]
