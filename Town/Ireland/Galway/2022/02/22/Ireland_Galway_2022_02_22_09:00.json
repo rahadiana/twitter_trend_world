@@ -3,19 +3,19 @@
     "name": "Putin",
     "query": "Putin",
     "rank": 1,
-    "tweet_count": "2.1M Tweets"
-  },
-  {
-    "name": "#vincent",
-    "query": "#vincent",
-    "rank": 2,
-    "tweet_count": null
+    "tweet_count": "2.12M Tweets"
   },
   {
     "name": "#Twosday",
     "query": "#Twosday",
+    "rank": 2,
+    "tweet_count": "9,297 Tweets"
+  },
+  {
+    "name": "#Vincent",
+    "query": "#Vincent",
     "rank": 3,
-    "tweet_count": "8,880 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#StormFranklin",
@@ -24,10 +24,10 @@
     "tweet_count": "13.4K Tweets"
   },
   {
-    "name": "Lexi",
-    "query": "Lexi",
+    "name": "lexi",
+    "query": "lexi",
     "rank": 5,
-    "tweet_count": "651K Tweets"
+    "tweet_count": "652K Tweets"
   },
   {
     "name": "MT USA",
@@ -51,60 +51,60 @@
     "name": "crime gun",
     "query": "\"crime gun\"",
     "rank": 9,
-    "tweet_count": "2,239 Tweets"
+    "tweet_count": "2,246 Tweets"
   },
   {
     "name": "Jamal Edwards",
     "query": "\"Jamal Edwards\"",
     "rank": 10,
-    "tweet_count": "25.8K Tweets"
+    "tweet_count": "25.9K Tweets"
   },
   {
     "name": "Cassie",
     "query": "Cassie",
     "rank": 11,
-    "tweet_count": "349K Tweets"
+    "tweet_count": "350K Tweets"
   },
   {
     "name": "Leeds",
     "query": "Leeds",
     "rank": 12,
-    "tweet_count": "32.2K Tweets"
+    "tweet_count": "32.5K Tweets"
   },
   {
     "name": "Army of the Dead",
     "query": "\"Army of the Dead\"",
     "rank": 13,
-    "tweet_count": "39.7K Tweets"
-  },
-  {
-    "name": "Aramark",
-    "query": "Aramark",
-    "rank": 14,
-    "tweet_count": null
+    "tweet_count": "39.9K Tweets"
   },
   {
     "name": "Dylan Moran",
     "query": "\"Dylan Moran\"",
-    "rank": 15,
-    "tweet_count": "1,875 Tweets"
-  },
-  {
-    "name": "International",
-    "query": "International",
-    "rank": 16,
-    "tweet_count": "354K Tweets"
+    "rank": 14,
+    "tweet_count": "1,878 Tweets"
   },
   {
     "name": "Daily Quordle",
     "query": "\"Daily Quordle\"",
-    "rank": 17,
+    "rank": 15,
     "tweet_count": "10.4K Tweets"
+  },
+  {
+    "name": "Aramark",
+    "query": "Aramark",
+    "rank": 16,
+    "tweet_count": null
   },
   {
     "name": "Minsk",
     "query": "Minsk",
+    "rank": 17,
+    "tweet_count": "75K Tweets"
+  },
+  {
+    "name": "International",
+    "query": "International",
     "rank": 18,
-    "tweet_count": "74.6K Tweets"
+    "tweet_count": "357K Tweets"
   }
 ]
