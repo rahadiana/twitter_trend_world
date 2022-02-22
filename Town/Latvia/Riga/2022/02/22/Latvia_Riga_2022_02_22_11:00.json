@@ -3,17 +3,17 @@
     "name": "Krievijas",
     "query": "Krievijas",
     "rank": 1,
-    "tweet_count": "1,692 Tweets"
+    "tweet_count": "1,720 Tweets"
   },
   {
     "name": "Putins",
     "query": "Putins",
     "rank": 2,
-    "tweet_count": "38.6K Tweets"
+    "tweet_count": "38.9K Tweets"
   },
   {
-    "name": "luhanskas",
-    "query": "luhanskas",
+    "name": "Luhanskas",
+    "query": "Luhanskas",
     "rank": 3,
     "tweet_count": null
   },
@@ -42,34 +42,34 @@
     "tweet_count": null
   },
   {
+    "name": "Šlesers",
+    "query": "Šlesers",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
     "name": "Drošības",
     "query": "Drošības",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Eiropa",
     "query": "Eiropa",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
-    "name": "Brekte",
-    "query": "Brekte",
-    "rank": 10,
+    "name": "brekte",
+    "query": "brekte",
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Riga",
     "query": "Riga",
-    "rank": 11,
-    "tweet_count": "2,450 Tweets"
-  },
-  {
-    "name": "šlesera",
-    "query": "šlesera",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "2,481 Tweets"
   },
   {
     "name": "Krimas",
@@ -90,27 +90,27 @@
     "tweet_count": null
   },
   {
-    "name": "COVID-19",
-    "query": "COVID-19",
-    "rank": 16,
-    "tweet_count": "340K Tweets"
-  },
-  {
     "name": "Kijevas",
     "query": "Kijevas",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "Minskas",
-    "query": "Minskas",
-    "rank": 18,
+    "name": "minskas",
+    "query": "minskas",
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Germany",
     "query": "Germany",
+    "rank": 18,
+    "tweet_count": "152K Tweets"
+  },
+  {
+    "name": "Waze",
+    "query": "Waze",
     "rank": 19,
-    "tweet_count": "148K Tweets"
+    "tweet_count": "2,450 Tweets"
   }
 ]
