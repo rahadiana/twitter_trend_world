@@ -3,13 +3,13 @@
     "name": "Putin",
     "query": "Putin",
     "rank": 1,
-    "tweet_count": "1.91M Tweets"
+    "tweet_count": "1.92M Tweets"
   },
   {
     "name": "Tajik",
     "query": "Tajik",
     "rank": 2,
-    "tweet_count": "1,474 Tweets"
+    "tweet_count": "1,475 Tweets"
   },
   {
     "name": "Aftenposten",
@@ -21,7 +21,7 @@
     "name": "Luhansk",
     "query": "Luhansk",
     "rank": 4,
-    "tweet_count": "179K Tweets"
+    "tweet_count": "180K Tweets"
   },
   {
     "name": "ropstad",
@@ -36,16 +36,16 @@
     "tweet_count": null
   },
   {
-    "name": "Russland",
-    "query": "Russland",
-    "rank": 7,
-    "tweet_count": "37.9K Tweets"
-  },
-  {
     "name": "#2sjakk",
     "query": "#2sjakk",
-    "rank": 8,
+    "rank": 7,
     "tweet_count": null
+  },
+  {
+    "name": "Russland",
+    "query": "Russland",
+    "rank": 8,
+    "tweet_count": "38.2K Tweets"
   },
   {
     "name": "vg-saken",
@@ -57,13 +57,13 @@
     "name": "Lexi",
     "query": "Lexi",
     "rank": 10,
-    "tweet_count": "765K Tweets"
+    "tweet_count": "767K Tweets"
   },
   {
-    "name": "Hagen",
-    "query": "Hagen",
+    "name": "hagen",
+    "query": "hagen",
     "rank": 11,
-    "tweet_count": "1,225 Tweets"
+    "tweet_count": "1,230 Tweets"
   },
   {
     "name": "#polkvart",
@@ -81,7 +81,7 @@
     "name": "Stalin",
     "query": "Stalin",
     "rank": 14,
-    "tweet_count": "34.1K Tweets"
+    "tweet_count": "34.3K Tweets"
   },
   {
     "name": "tipper",
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
-    "name": "kongen",
-    "query": "kongen",
+    "name": "#Euphoria",
+    "query": "#Euphoria",
     "rank": 17,
+    "tweet_count": "733K Tweets"
+  },
+  {
+    "name": "hedmark",
+    "query": "hedmark",
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "#nrkmgp",
     "query": "#nrkmgp",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "hedmark",
-    "query": "hedmark",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Donbass",
-    "query": "Donbass",
+    "name": "kongen",
+    "query": "kongen",
     "rank": 20,
-    "tweet_count": "121K Tweets"
+    "tweet_count": null
   }
 ]

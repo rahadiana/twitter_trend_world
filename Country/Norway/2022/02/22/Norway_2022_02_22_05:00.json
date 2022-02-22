@@ -3,13 +3,13 @@
     "name": "Putin",
     "query": "Putin",
     "rank": 1,
-    "tweet_count": "1.91M Tweets"
+    "tweet_count": "1.93M Tweets"
   },
   {
     "name": "Tajik",
     "query": "Tajik",
     "rank": 2,
-    "tweet_count": "1,474 Tweets"
+    "tweet_count": "1,475 Tweets"
   },
   {
     "name": "Aftenposten",
@@ -18,22 +18,22 @@
     "tweet_count": null
   },
   {
+    "name": "Luhansk",
+    "query": "Luhansk",
+    "rank": 4,
+    "tweet_count": "180K Tweets"
+  },
+  {
     "name": "ropstad",
     "query": "ropstad",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "kong harald",
     "query": "\"kong harald\"",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Russland",
-    "query": "Russland",
     "rank": 6,
-    "tweet_count": "38K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#2sjakk",
@@ -42,56 +42,56 @@
     "tweet_count": null
   },
   {
+    "name": "Russland",
+    "query": "Russland",
+    "rank": 8,
+    "tweet_count": "38.2K Tweets"
+  },
+  {
     "name": "vg-saken",
     "query": "vg-saken",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Lexi",
     "query": "Lexi",
-    "rank": 9,
-    "tweet_count": "765K Tweets"
+    "rank": 10,
+    "tweet_count": "767K Tweets"
   },
   {
-    "name": "Hagen",
-    "query": "Hagen",
-    "rank": 10,
-    "tweet_count": "1,227 Tweets"
+    "name": "hagen",
+    "query": "hagen",
+    "rank": 11,
+    "tweet_count": "1,231 Tweets"
   },
   {
     "name": "#polkvart",
     "query": "#polkvart",
-    "rank": 11,
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "d-vitamin",
     "query": "d-vitamin",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Stalin",
     "query": "Stalin",
-    "rank": 13,
-    "tweet_count": "34.1K Tweets"
+    "rank": 14,
+    "tweet_count": "34.3K Tweets"
   },
   {
     "name": "tipper",
     "query": "tipper",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "statnett",
     "query": "statnett",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "kongen",
-    "query": "kongen",
     "rank": 16,
     "tweet_count": null
   },
@@ -99,24 +99,24 @@
     "name": "#Euphoria",
     "query": "#Euphoria",
     "rank": 17,
-    "tweet_count": "731K Tweets"
-  },
-  {
-    "name": "#nrkmgp",
-    "query": "#nrkmgp",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "733K Tweets"
   },
   {
     "name": "hedmark",
     "query": "hedmark",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "#nrkmgp",
+    "query": "#nrkmgp",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Leeds",
-    "query": "Leeds",
+    "name": "kongen",
+    "query": "kongen",
     "rank": 20,
-    "tweet_count": "37.1K Tweets"
+    "tweet_count": null
   }
 ]

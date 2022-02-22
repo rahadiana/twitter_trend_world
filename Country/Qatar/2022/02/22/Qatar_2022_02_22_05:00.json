@@ -1,63 +1,63 @@
 [
   {
-    "name": "#السد",
-    "query": "#السد",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "#دوري_نجوم_qnb",
     "query": "#دوري_نجوم_qnb",
+    "rank": 1,
+    "tweet_count": "1,192 Tweets"
+  },
+  {
+    "name": "#السد",
+    "query": "#السد",
     "rank": 2,
-    "tweet_count": "1,191 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#بوتين",
     "query": "#بوتين",
     "rank": 3,
-    "tweet_count": "18.5K Tweets"
+    "tweet_count": "18.6K Tweets"
   },
   {
     "name": "Lexi",
     "query": "Lexi",
     "rank": 4,
-    "tweet_count": "765K Tweets"
-  },
-  {
-    "name": "Nate",
-    "query": "Nate",
-    "rank": 5,
-    "tweet_count": "411K Tweets"
-  },
-  {
-    "name": "#Iran",
-    "query": "#Iran",
-    "rank": 6,
-    "tweet_count": "11.1K Tweets"
+    "tweet_count": "767K Tweets"
   },
   {
     "name": "الهلال",
     "query": "الهلال",
-    "rank": 7,
+    "rank": 5,
     "tweet_count": "1.08M Tweets"
   },
   {
-    "name": "#الدحيل",
-    "query": "#الدحيل",
-    "rank": 8,
-    "tweet_count": null
+    "name": "#لوغانسك",
+    "query": "#لوغانسك",
+    "rank": 6,
+    "tweet_count": "4,057 Tweets"
   },
   {
-    "name": "الاهلي",
-    "query": "الاهلي",
+    "name": "#الاهلي",
+    "query": "#الاهلي",
+    "rank": 7,
+    "tweet_count": "21K Tweets"
+  },
+  {
+    "name": "Nate",
+    "query": "Nate",
+    "rank": 8,
+    "tweet_count": "412K Tweets"
+  },
+  {
+    "name": "الرييس الايراني",
+    "query": "\"الرييس الايراني\"",
     "rank": 9,
-    "tweet_count": "170K Tweets"
+    "tweet_count": "3,257 Tweets"
   },
   {
     "name": "الشوط الاول",
     "query": "\"الشوط الاول\"",
     "rank": 10,
-    "tweet_count": "13.5K Tweets"
+    "tweet_count": "13.6K Tweets"
   },
   {
     "name": "الاتحاد",
@@ -69,13 +69,13 @@
     "name": "Maddy",
     "query": "Maddy",
     "rank": 12,
-    "tweet_count": "294K Tweets"
+    "tweet_count": "295K Tweets"
   },
   {
-    "name": "Cassie",
-    "query": "Cassie",
+    "name": "النصر",
+    "query": "النصر",
     "rank": 13,
-    "tweet_count": "400K Tweets"
+    "tweet_count": "834K Tweets"
   },
   {
     "name": "الرييس الجزايري",
@@ -84,39 +84,39 @@
     "tweet_count": null
   },
   {
-    "name": "النصر",
-    "query": "النصر",
+    "name": "Qatari",
+    "query": "Qatari",
     "rank": 15,
-    "tweet_count": "832K Tweets"
+    "tweet_count": "3,626 Tweets"
   },
   {
     "name": "برشلونة",
     "query": "برشلونة",
     "rank": 16,
-    "tweet_count": "8,702 Tweets"
+    "tweet_count": "8,717 Tweets"
   },
   {
     "name": "Kenyans",
     "query": "Kenyans",
     "rank": 17,
-    "tweet_count": "21.3K Tweets"
-  },
-  {
-    "name": "Qatari",
-    "query": "Qatari",
-    "rank": 18,
-    "tweet_count": "3,613 Tweets"
+    "tweet_count": "22K Tweets"
   },
   {
     "name": "Uhuru",
     "query": "Uhuru",
-    "rank": 19,
-    "tweet_count": "17.6K Tweets"
+    "rank": 18,
+    "tweet_count": "17.7K Tweets"
   },
   {
     "name": "Leeds",
     "query": "Leeds",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": "37.1K Tweets"
+  },
+  {
+    "name": "Putin",
+    "query": "Putin",
+    "rank": 20,
+    "tweet_count": "1.92M Tweets"
   }
 ]
