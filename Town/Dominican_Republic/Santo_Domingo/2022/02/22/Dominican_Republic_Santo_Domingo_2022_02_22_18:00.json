@@ -1,19 +1,19 @@
 [
   {
+    "name": "#FronteraSegura",
+    "query": "#FronteraSegura",
+    "rank": 1,
+    "tweet_count": "1,038 Tweets"
+  },
+  {
     "name": "#ElLiderNoVa",
     "query": "#ElLiderNoVa",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#LaPenca",
     "query": "#LaPenca",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "#FronteraSegura",
-    "query": "#FronteraSegura",
     "rank": 3,
     "tweet_count": null
   },
@@ -21,55 +21,55 @@
     "name": "Peperoni",
     "query": "Peperoni",
     "rank": 4,
-    "tweet_count": "1,361 Tweets"
+    "tweet_count": "1,365 Tweets"
   },
   {
     "name": "Colombia",
     "query": "Colombia",
     "rank": 5,
-    "tweet_count": "334K Tweets"
+    "tweet_count": "338K Tweets"
   },
   {
     "name": "Putin",
     "query": "Putin",
     "rank": 6,
-    "tweet_count": "2.53M Tweets"
-  },
-  {
-    "name": "Alexis Medina",
-    "query": "\"Alexis Medina\"",
-    "rank": 7,
-    "tweet_count": null
+    "tweet_count": "2.47M Tweets"
   },
   {
     "name": "Juan Bolívar Díaz",
     "query": "\"Juan Bolívar Díaz\"",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "Alexis Medina",
+    "query": "\"Alexis Medina\"",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Haití",
-    "query": "Haití",
-    "rank": 9,
-    "tweet_count": "16.9K Tweets"
-  },
-  {
     "name": "#FelizMartes",
     "query": "#FelizMartes",
+    "rank": 9,
+    "tweet_count": "15.9K Tweets"
+  },
+  {
+    "name": "Haití",
+    "query": "Haití",
     "rank": 10,
-    "tweet_count": "15.6K Tweets"
+    "tweet_count": "17.1K Tweets"
   },
   {
     "name": "Pronta",
     "query": "Pronta",
     "rank": 11,
-    "tweet_count": "18.2K Tweets"
+    "tweet_count": "18.5K Tweets"
   },
   {
     "name": "Guido",
     "query": "Guido",
     "rank": 12,
-    "tweet_count": "5,049 Tweets"
+    "tweet_count": "5,106 Tweets"
   },
   {
     "name": "luis castillo",
@@ -87,13 +87,13 @@
     "name": "Gonzalo",
     "query": "Gonzalo",
     "rank": 15,
-    "tweet_count": "6,630 Tweets"
+    "tweet_count": "6,752 Tweets"
   },
   {
     "name": "Cassie",
     "query": "Cassie",
     "rank": 16,
-    "tweet_count": "231K Tweets"
+    "tweet_count": "232K Tweets"
   },
   {
     "name": "#FelizLunes",
@@ -102,21 +102,21 @@
     "tweet_count": "11.2K Tweets"
   },
   {
-    "name": "Muro",
-    "query": "Muro",
-    "rank": 18,
-    "tweet_count": "21.2K Tweets"
-  },
-  {
     "name": "Similac",
     "query": "Similac",
-    "rank": 19,
-    "tweet_count": "1,117 Tweets"
+    "rank": 18,
+    "tweet_count": "1,138 Tweets"
   },
   {
-    "name": "Dr. Strange",
-    "query": "\"Dr. Strange\"",
+    "name": "Muro",
+    "query": "Muro",
+    "rank": 19,
+    "tweet_count": "21.4K Tweets"
+  },
+  {
+    "name": "chris duarte",
+    "query": "\"chris duarte\"",
     "rank": 20,
-    "tweet_count": "2,770 Tweets"
+    "tweet_count": null
   }
 ]

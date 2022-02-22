@@ -1,122 +1,122 @@
 [
   {
-    "name": "#FirstDates",
-    "query": "#FirstDates",
-    "rank": 1,
-    "tweet_count": "1,316 Tweets"
-  },
-  {
     "name": "#dasperfektedinner",
     "query": "#dasperfektedinner",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#FirstDates",
+    "query": "#FirstDates",
+    "rank": 2,
+    "tweet_count": "1,505 Tweets"
   },
   {
     "name": "#NordStream2",
     "query": "#NordStream2",
     "rank": 3,
-    "tweet_count": "29.9K Tweets"
+    "tweet_count": "30.4K Tweets"
+  },
+  {
+    "name": "#Prominentgetrennt",
+    "query": "#Prominentgetrennt",
+    "rank": 4,
+    "tweet_count": null
   },
   {
     "name": "#Wehrpflicht",
     "query": "#Wehrpflicht",
-    "rank": 4,
-    "tweet_count": "4,066 Tweets"
-  },
-  {
-    "name": "#RussiaUkraineCrisis",
-    "query": "#RussiaUkraineCrisis",
     "rank": 5,
-    "tweet_count": "32.9K Tweets"
+    "tweet_count": "4,142 Tweets"
   },
   {
-    "name": "Pipeline",
-    "query": "Pipeline",
+    "name": "Eierkuchen",
+    "query": "Eierkuchen",
     "rank": 6,
-    "tweet_count": "94.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Energiewende",
     "query": "Energiewende",
     "rank": 7,
-    "tweet_count": "2,700 Tweets"
+    "tweet_count": "2,763 Tweets"
+  },
+  {
+    "name": "Pipeline",
+    "query": "Pipeline",
+    "rank": 8,
+    "tweet_count": "96.6K Tweets"
   },
   {
     "name": "Gaspreise",
     "query": "Gaspreise",
-    "rank": 8,
-    "tweet_count": "2,045 Tweets"
+    "rank": 9,
+    "tweet_count": "2,132 Tweets"
   },
   {
     "name": "Energien",
     "query": "Energien",
-    "rank": 9,
-    "tweet_count": "2,600 Tweets"
+    "rank": 10,
+    "tweet_count": "2,638 Tweets"
+  },
+  {
+    "name": "Fracking Gas",
+    "query": "\"Fracking Gas\"",
+    "rank": 11,
+    "tweet_count": "2,440 Tweets"
   },
   {
     "name": "Datum",
     "query": "Datum",
-    "rank": 10,
-    "tweet_count": "5,474 Tweets"
-  },
-  {
-    "name": "Botschaft",
-    "query": "Botschaft",
-    "rank": 11,
-    "tweet_count": "2,701 Tweets"
-  },
-  {
-    "name": "Steam",
-    "query": "Steam",
     "rank": 12,
-    "tweet_count": "64.2K Tweets"
-  },
-  {
-    "name": "Energiepreise",
-    "query": "Energiepreise",
-    "rank": 13,
-    "tweet_count": "2,776 Tweets"
-  },
-  {
-    "name": "Erdgas",
-    "query": "Erdgas",
-    "rank": 14,
-    "tweet_count": "3,432 Tweets"
+    "tweet_count": "5,543 Tweets"
   },
   {
     "name": "Energiepolitik",
     "query": "Energiepolitik",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Völkerrecht",
-    "query": "Völkerrecht",
-    "rank": 16,
-    "tweet_count": "4,783 Tweets"
-  },
-  {
-    "name": "Atomkraft",
-    "query": "Atomkraft",
-    "rank": 17,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Abhängigkeit",
     "query": "Abhängigkeit",
+    "rank": 14,
+    "tweet_count": "2,282 Tweets"
+  },
+  {
+    "name": "Steam",
+    "query": "Steam",
+    "rank": 15,
+    "tweet_count": "64.9K Tweets"
+  },
+  {
+    "name": "Botschaft",
+    "query": "Botschaft",
+    "rank": 16,
+    "tweet_count": "2,770 Tweets"
+  },
+  {
+    "name": "Energiepreise",
+    "query": "Energiepreise",
+    "rank": 17,
+    "tweet_count": "2,826 Tweets"
+  },
+  {
+    "name": "Erdgas",
+    "query": "Erdgas",
     "rank": 18,
-    "tweet_count": "2,247 Tweets"
+    "tweet_count": "3,514 Tweets"
   },
   {
-    "name": "Zertifizierung",
-    "query": "Zertifizierung",
+    "name": "Völkerrecht",
+    "query": "Völkerrecht",
     "rank": 19,
-    "tweet_count": "4,286 Tweets"
+    "tweet_count": "4,856 Tweets"
   },
   {
-    "name": "Sanktion",
-    "query": "Sanktion",
+    "name": "Atomkraft",
+    "query": "Atomkraft",
     "rank": 20,
-    "tweet_count": "1,506 Tweets"
+    "tweet_count": null
   }
 ]
