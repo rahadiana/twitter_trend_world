@@ -1,69 +1,69 @@
 [
   {
-    "name": "Cooper",
-    "query": "Cooper",
+    "name": "#drfc",
+    "query": "#drfc",
     "rank": 1,
-    "tweet_count": "25.1K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Saul",
-    "query": "Saul",
+    "name": "Cooper",
+    "query": "Cooper",
     "rank": 2,
-    "tweet_count": "10.9K Tweets"
+    "tweet_count": "25.4K Tweets"
   },
   {
     "name": "Janey",
     "query": "Janey",
     "rank": 3,
-    "tweet_count": "2,130 Tweets"
+    "tweet_count": "2,170 Tweets"
+  },
+  {
+    "name": "Saul",
+    "query": "Saul",
+    "rank": 4,
+    "tweet_count": "11K Tweets"
   },
   {
     "name": "Grant",
     "query": "Grant",
-    "rank": 4,
-    "tweet_count": "53.3K Tweets"
+    "rank": 5,
+    "tweet_count": "53.8K Tweets"
+  },
+  {
+    "name": "Orient",
+    "query": "Orient",
+    "rank": 6,
+    "tweet_count": "3,985 Tweets"
   },
   {
     "name": "Gooch",
     "query": "Gooch",
-    "rank": 5,
-    "tweet_count": "1,192 Tweets"
-  },
-  {
-    "name": "Walsall",
-    "query": "Walsall",
-    "rank": 6,
-    "tweet_count": "2,121 Tweets"
-  },
-  {
-    "name": "#Gills",
-    "query": "#Gills",
     "rank": 7,
+    "tweet_count": "1,207 Tweets"
+  },
+  {
+    "name": "#CamUTD",
+    "query": "#CamUTD",
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Doyle",
     "query": "Doyle",
-    "rank": 8,
-    "tweet_count": "3,254 Tweets"
+    "rank": 9,
+    "tweet_count": "3,305 Tweets"
+  },
+  {
+    "name": "#Gills",
+    "query": "#Gills",
+    "rank": 10,
+    "tweet_count": null
   },
   {
     "name": "Chesterfield",
     "query": "Chesterfield",
-    "rank": 9,
-    "tweet_count": "1,835 Tweets"
-  },
-  {
-    "name": "Werner",
-    "query": "Werner",
-    "rank": 10,
-    "tweet_count": "10.8K Tweets"
-  },
-  {
-    "name": "#TheRealDirtyDancing",
-    "query": "#TheRealDirtyDancing",
     "rank": 11,
-    "tweet_count": null
+    "tweet_count": "1,861 Tweets"
   },
   {
     "name": "#Spireites",
@@ -72,45 +72,45 @@
     "tweet_count": null
   },
   {
-    "name": "Right Said Fred",
-    "query": "\"Right Said Fred\"",
-    "rank": 13,
-    "tweet_count": "1,771 Tweets"
-  },
-  {
     "name": "Defoe",
     "query": "Defoe",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
+  },
+  {
+    "name": "Right Said Fred",
+    "query": "\"Right Said Fred\"",
+    "rank": 14,
+    "tweet_count": "1,786 Tweets"
   },
   {
     "name": "Shearer",
     "query": "Shearer",
     "rank": 15,
-    "tweet_count": "1,894 Tweets"
-  },
-  {
-    "name": "#WWIII",
-    "query": "#WWIII",
-    "rank": 16,
-    "tweet_count": "23.9K Tweets"
-  },
-  {
-    "name": "Israeli",
-    "query": "Israeli",
-    "rank": 17,
-    "tweet_count": "43.2K Tweets"
-  },
-  {
-    "name": "Roman Abramovich",
-    "query": "\"Roman Abramovich\"",
-    "rank": 18,
-    "tweet_count": "25.8K Tweets"
+    "tweet_count": "1,916 Tweets"
   },
   {
     "name": "Lizzie",
     "query": "Lizzie",
+    "rank": 16,
+    "tweet_count": "14K Tweets"
+  },
+  {
+    "name": "Mark Lanegan",
+    "query": "\"Mark Lanegan\"",
+    "rank": 17,
+    "tweet_count": "26.4K Tweets"
+  },
+  {
+    "name": "Jason Lee",
+    "query": "\"Jason Lee\"",
+    "rank": 18,
+    "tweet_count": "7,156 Tweets"
+  },
+  {
+    "name": "Kante",
+    "query": "Kante",
     "rank": 19,
-    "tweet_count": "13.1K Tweets"
+    "tweet_count": "42.6K Tweets"
   }
 ]
