@@ -1,39 +1,39 @@
 [
   {
+    "name": "Pogba",
+    "query": "Pogba",
+    "rank": 1,
+    "tweet_count": "52.8K Tweets"
+  },
+  {
     "name": "Benfica",
     "query": "Benfica",
-    "rank": 1,
-    "tweet_count": "81.1K Tweets"
+    "rank": 2,
+    "tweet_count": "81.9K Tweets"
+  },
+  {
+    "name": "Caretas",
+    "query": "Caretas",
+    "rank": 3,
+    "tweet_count": "16.1K Tweets"
   },
   {
     "name": "#DenunciamePUCP",
     "query": "#DenunciamePUCP",
-    "rank": 2,
-    "tweet_count": "4,084 Tweets"
+    "rank": 4,
+    "tweet_count": "4,275 Tweets"
   },
   {
     "name": "Maguire",
     "query": "Maguire",
-    "rank": 3,
-    "tweet_count": "156K Tweets"
+    "rank": 5,
+    "tweet_count": "157K Tweets"
   },
   {
     "name": "Rashford",
     "query": "Rashford",
-    "rank": 4,
-    "tweet_count": "65.2K Tweets"
-  },
-  {
-    "name": "Varane",
-    "query": "Varane",
-    "rank": 5,
-    "tweet_count": "27.3K Tweets"
-  },
-  {
-    "name": "Pogba",
-    "query": "Pogba",
     "rank": 6,
-    "tweet_count": "52.6K Tweets"
+    "tweet_count": "65.6K Tweets"
   },
   {
     "name": "Atlético",
@@ -45,29 +45,29 @@
     "name": "Avelino Guillén",
     "query": "\"Avelino Guillén\"",
     "rank": 8,
-    "tweet_count": "1,476 Tweets"
+    "tweet_count": "1,523 Tweets"
+  },
+  {
+    "name": "Manchester United",
+    "query": "\"Manchester United\"",
+    "rank": 9,
+    "tweet_count": "116K Tweets"
+  },
+  {
+    "name": "Ajax",
+    "query": "Ajax",
+    "rank": 10,
+    "tweet_count": "80.7K Tweets"
   },
   {
     "name": "Cristiano",
     "query": "Cristiano",
-    "rank": 9,
-    "tweet_count": "160K Tweets"
+    "rank": 11,
+    "tweet_count": "161K Tweets"
   },
   {
     "name": "#ChampionsLeague",
     "query": "#ChampionsLeague",
-    "rank": 10,
-    "tweet_count": "16K Tweets"
-  },
-  {
-    "name": "Benevento",
-    "query": "Benevento",
-    "rank": 11,
-    "tweet_count": "1,305 Tweets"
-  },
-  {
-    "name": "Caretas",
-    "query": "Caretas",
     "rank": 12,
     "tweet_count": "16.1K Tweets"
   },
@@ -75,36 +75,30 @@
     "name": "Guayaquil",
     "query": "Guayaquil",
     "rank": 13,
-    "tweet_count": "12.9K Tweets"
+    "tweet_count": "13.1K Tweets"
   },
   {
-    "name": "#JYP_해적에게_해적질",
-    "query": "#JYP_해적에게_해적질",
+    "name": "Benevento",
+    "query": "Benevento",
     "rank": 14,
-    "tweet_count": "128K Tweets"
+    "tweet_count": "1,315 Tweets"
   },
   {
-    "name": "#JYP_해명해_사과해_인정해",
-    "query": "#JYP_해명해_사과해_인정해",
+    "name": "Lapadula",
+    "query": "Lapadula",
     "rank": 15,
-    "tweet_count": "148K Tweets"
-  },
-  {
-    "name": "Gianluca Lapadula",
-    "query": "\"Gianluca Lapadula\"",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "1,450 Tweets"
   },
   {
     "name": "Antauro",
     "query": "Antauro",
-    "rank": 17,
-    "tweet_count": "1,212 Tweets"
+    "rank": 16,
+    "tweet_count": "1,219 Tweets"
   },
   {
     "name": "Fuerza Popular",
     "query": "\"Fuerza Popular\"",
-    "rank": 18,
-    "tweet_count": "4,624 Tweets"
+    "rank": 17,
+    "tweet_count": "4,669 Tweets"
   }
 ]

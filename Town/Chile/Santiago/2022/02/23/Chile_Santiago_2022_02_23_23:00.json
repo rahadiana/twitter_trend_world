@@ -1,39 +1,39 @@
 [
   {
+    "name": "Senado",
+    "query": "Senado",
+    "rank": 1,
+    "tweet_count": "92.1K Tweets"
+  },
+  {
     "name": "Atlético",
     "query": "Atlético",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": "211K Tweets"
+  },
+  {
+    "name": "Leeds",
+    "query": "Leeds",
+    "rank": 3,
+    "tweet_count": "83.9K Tweets"
   },
   {
     "name": "La Florida",
     "query": "\"La Florida\"",
-    "rank": 2,
-    "tweet_count": "4,531 Tweets"
-  },
-  {
-    "name": "Puente Alto",
-    "query": "\"Puente Alto\"",
-    "rank": 3,
-    "tweet_count": null
+    "rank": 4,
+    "tweet_count": "4,620 Tweets"
   },
   {
     "name": "Providencia",
     "query": "Providencia",
-    "rank": 4,
-    "tweet_count": "4,784 Tweets"
-  },
-  {
-    "name": "IFE Laboral",
-    "query": "\"IFE Laboral\"",
     "rank": 5,
-    "tweet_count": "4,869 Tweets"
+    "tweet_count": "4,844 Tweets"
   },
   {
     "name": "#Lluvia",
     "query": "#Lluvia",
     "rank": 6,
-    "tweet_count": "3,420 Tweets"
+    "tweet_count": "3,572 Tweets"
   },
   {
     "name": "#EnTuiterNoFalta",
@@ -51,31 +51,31 @@
     "name": "#Osorno",
     "query": "#Osorno",
     "rank": 9,
-    "tweet_count": "2,421 Tweets"
+    "tweet_count": "2,579 Tweets"
+  },
+  {
+    "name": "Maza",
+    "query": "Maza",
+    "rank": 10,
+    "tweet_count": "6,569 Tweets"
   },
   {
     "name": "Bielsa",
     "query": "Bielsa",
-    "rank": 10,
-    "tweet_count": "11.8K Tweets"
+    "rank": 11,
+    "tweet_count": "11.9K Tweets"
   },
   {
     "name": "Rashford",
     "query": "Rashford",
-    "rank": 11,
-    "tweet_count": "65.2K Tweets"
+    "rank": 12,
+    "tweet_count": "65.6K Tweets"
   },
   {
     "name": "Pogba",
     "query": "Pogba",
-    "rank": 12,
-    "tweet_count": "52.6K Tweets"
-  },
-  {
-    "name": "Maguire",
-    "query": "Maguire",
     "rank": 13,
-    "tweet_count": "156K Tweets"
+    "tweet_count": "52.8K Tweets"
   },
   {
     "name": "Petricor",
@@ -84,33 +84,33 @@
     "tweet_count": null
   },
   {
-    "name": "Senado",
-    "query": "Senado",
+    "name": "Maguire",
+    "query": "Maguire",
     "rank": 15,
-    "tweet_count": "91K Tweets"
+    "tweet_count": "157K Tweets"
   },
   {
     "name": "Salvador Allende",
     "query": "\"Salvador Allende\"",
     "rank": 16,
-    "tweet_count": "1,457 Tweets"
+    "tweet_count": "1,551 Tweets"
   },
   {
-    "name": "Nací",
-    "query": "Nací",
+    "name": "nací",
+    "query": "nací",
     "rank": 17,
-    "tweet_count": "9,135 Tweets"
-  },
-  {
-    "name": "Cristiano",
-    "query": "Cristiano",
-    "rank": 18,
-    "tweet_count": "160K Tweets"
+    "tweet_count": "9,189 Tweets"
   },
   {
     "name": "La Segunda",
     "query": "\"La Segunda\"",
+    "rank": 18,
+    "tweet_count": "46.7K Tweets"
+  },
+  {
+    "name": "Manchester United",
+    "query": "\"Manchester United\"",
     "rank": 19,
-    "tweet_count": "46.3K Tweets"
+    "tweet_count": "116K Tweets"
   }
 ]
