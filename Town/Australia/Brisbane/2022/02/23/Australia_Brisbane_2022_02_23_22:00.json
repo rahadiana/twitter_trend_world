@@ -1,122 +1,80 @@
 [
   {
-    "name": "Putin",
-    "query": "Putin",
+    "name": "#MAFS",
+    "query": "#MAFS",
     "rank": 1,
-    "tweet_count": "1.66M Tweets"
+    "tweet_count": "3,844 Tweets"
   },
   {
     "name": "#LIVLEE",
     "query": "#LIVLEE",
     "rank": 2,
-    "tweet_count": "44K Tweets"
-  },
-  {
-    "name": "#ATMMUN",
-    "query": "#ATMMUN",
-    "rank": 3,
-    "tweet_count": "59.6K Tweets"
-  },
-  {
-    "name": "Nate",
-    "query": "Nate",
-    "rank": 4,
-    "tweet_count": "83.3K Tweets"
+    "tweet_count": "43.8K Tweets"
   },
   {
     "name": "Texas",
     "query": "Texas",
-    "rank": 5,
-    "tweet_count": "438K Tweets"
+    "rank": 3,
+    "tweet_count": "458K Tweets"
   },
   {
-    "name": "Burnley",
-    "query": "Burnley",
-    "rank": 6,
-    "tweet_count": "45.1K Tweets"
+    "name": "#ATMMUN",
+    "query": "#ATMMUN",
+    "rank": 4,
+    "tweet_count": "59.4K Tweets"
+  },
+  {
+    "name": "Nate",
+    "query": "Nate",
+    "rank": 5,
+    "tweet_count": "84.4K Tweets"
   },
   {
     "name": "Jane Caro",
     "query": "\"Jane Caro\"",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
+  },
+  {
+    "name": "#YNWA",
+    "query": "#YNWA",
+    "rank": 7,
+    "tweet_count": "8,921 Tweets"
   },
   {
     "name": "Elden Ring",
     "query": "\"Elden Ring\"",
     "rank": 8,
-    "tweet_count": "165K Tweets"
+    "tweet_count": "169K Tweets"
   },
   {
-    "name": "#BURTOT",
-    "query": "#BURTOT",
+    "name": "Burnley",
+    "query": "Burnley",
     "rank": 9,
-    "tweet_count": "11.5K Tweets"
+    "tweet_count": "47.4K Tweets"
   },
   {
-    "name": "Wordle 249 X",
-    "query": "\"Wordle 249 X\"",
+    "name": "#Wordle250",
+    "query": "#Wordle250",
     "rank": 10,
-    "tweet_count": "19.7K Tweets"
-  },
-  {
-    "name": "Costa Group",
-    "query": "\"Costa Group\"",
-    "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "#DONDA2",
-    "query": "#DONDA2",
+    "name": "Pogba",
+    "query": "Pogba",
+    "rank": 11,
+    "tweet_count": "51.2K Tweets"
+  },
+  {
+    "name": "Ronaldo",
+    "query": "Ronaldo",
     "rank": 12,
-    "tweet_count": "165K Tweets"
+    "tweet_count": "209K Tweets"
   },
   {
     "name": "Julie Bishop",
     "query": "\"Julie Bishop\"",
     "rank": 13,
-    "tweet_count": "3,616 Tweets"
-  },
-  {
-    "name": "Tim Wilson",
-    "query": "\"Tim Wilson\"",
-    "rank": 14,
-    "tweet_count": "10.6K Tweets"
-  },
-  {
-    "name": "#DragRaceUK",
-    "query": "#DragRaceUK",
-    "rank": 15,
-    "tweet_count": "45.1K Tweets"
-  },
-  {
-    "name": "Foo Fighters",
-    "query": "\"Foo Fighters\"",
-    "rank": 16,
-    "tweet_count": "2,743 Tweets"
-  },
-  {
-    "name": "Selina",
-    "query": "Selina",
-    "rank": 17,
-    "tweet_count": "4,038 Tweets"
-  },
-  {
-    "name": "Timmy",
-    "query": "Timmy",
-    "rank": 18,
-    "tweet_count": "13.5K Tweets"
-  },
-  {
-    "name": "Zverev",
-    "query": "Zverev",
-    "rank": 19,
-    "tweet_count": "30.2K Tweets"
-  },
-  {
-    "name": "David",
-    "query": "David",
-    "rank": 20,
-    "tweet_count": "190K Tweets"
+    "tweet_count": "3,752 Tweets"
   }
 ]
