@@ -1,81 +1,81 @@
 [
   {
-    "name": "#VillarrealJuve",
-    "query": "#VillarrealJuve",
-    "rank": 1,
-    "tweet_count": "20.3K Tweets"
-  },
-  {
     "name": "#23febbraio",
     "query": "#23febbraio",
-    "rank": 2,
-    "tweet_count": "2,766 Tweets"
+    "rank": 1,
+    "tweet_count": "2,927 Tweets"
   },
   {
     "name": "#F1Testing",
     "query": "#F1Testing",
+    "rank": 2,
+    "tweet_count": "13.6K Tweets"
+  },
+  {
+    "name": "#comeTuttiGliAltri",
+    "query": "#comeTuttiGliAltri",
     "rank": 3,
-    "tweet_count": "12.5K Tweets"
+    "tweet_count": "2,872 Tweets"
+  },
+  {
+    "name": "#SuggestioniQuotidiane",
+    "query": "#SuggestioniQuotidiane",
+    "rank": 4,
+    "tweet_count": null
   },
   {
     "name": "Raggi",
     "query": "Raggi",
-    "rank": 4,
-    "tweet_count": "8,088 Tweets"
+    "rank": 5,
+    "tweet_count": "8,242 Tweets"
   },
   {
     "name": "Senato",
     "query": "Senato",
-    "rank": 5,
-    "tweet_count": "10.5K Tweets"
-  },
-  {
-    "name": "Buongiorno Silvia",
-    "query": "\"Buongiorno Silvia\"",
     "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "Las Vegas",
-    "query": "\"Las Vegas\"",
-    "rank": 7,
-    "tweet_count": "567K Tweets"
+    "tweet_count": "10.7K Tweets"
   },
   {
     "name": "Mubarak",
     "query": "Mubarak",
-    "rank": 8,
-    "tweet_count": "6,522 Tweets"
+    "rank": 7,
+    "tweet_count": "6,633 Tweets"
   },
   {
-    "name": "Buongiorno Anna",
-    "query": "\"Buongiorno Anna\"",
-    "rank": 9,
-    "tweet_count": null
+    "name": "Las Vegas",
+    "query": "\"Las Vegas\"",
+    "rank": 8,
+    "tweet_count": "569K Tweets"
   },
   {
     "name": "Cortina",
     "query": "Cortina",
+    "rank": 9,
+    "tweet_count": "12.1K Tweets"
+  },
+  {
+    "name": "Buongiorno Anna",
+    "query": "\"Buongiorno Anna\"",
     "rank": 10,
-    "tweet_count": "12K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Azione",
     "query": "Azione",
     "rank": 11,
-    "tweet_count": "6,244 Tweets"
+    "tweet_count": "6,341 Tweets"
+  },
+  {
+    "name": "de ligt",
+    "query": "\"de ligt\"",
+    "rank": 12,
+    "tweet_count": "1,001 Tweets"
   },
   {
     "name": "America",
     "query": "America",
-    "rank": 12,
-    "tweet_count": "499K Tweets"
-  },
-  {
-    "name": "Il PD",
-    "query": "\"Il PD\"",
     "rank": 13,
-    "tweet_count": "9,098 Tweets"
+    "tweet_count": "500K Tweets"
   },
   {
     "name": "Villareal",
@@ -84,21 +84,27 @@
     "tweet_count": "10.1K Tweets"
   },
   {
-    "name": "#comeTuttiGliAltri",
-    "query": "#comeTuttiGliAltri",
+    "name": "Stefano",
+    "query": "Stefano",
     "rank": 15,
-    "tweet_count": "2,849 Tweets"
-  },
-  {
-    "name": "#SuggestioniQuotidiane",
-    "query": "#SuggestioniQuotidiane",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "6,368 Tweets"
   },
   {
     "name": "#Zverev",
     "query": "#Zverev",
+    "rank": 16,
+    "tweet_count": "1,216 Tweets"
+  },
+  {
+    "name": "#aeroporto",
+    "query": "#aeroporto",
     "rank": 17,
-    "tweet_count": "1,126 Tweets"
+    "tweet_count": "1,582 Tweets"
+  },
+  {
+    "name": "#MarkLanegan",
+    "query": "#MarkLanegan",
+    "rank": 18,
+    "tweet_count": "4,603 Tweets"
   }
 ]

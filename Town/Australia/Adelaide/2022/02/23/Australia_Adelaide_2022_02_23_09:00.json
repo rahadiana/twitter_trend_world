@@ -1,69 +1,69 @@
 [
   {
-    "name": "Russia",
-    "query": "Russia",
-    "rank": 1,
-    "tweet_count": "1.57M Tweets"
-  },
-  {
     "name": "#AFLWGiantsSaints",
     "query": "#AFLWGiantsSaints",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "Julie Bishop",
     "query": "\"Julie Bishop\"",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "#NEWvWSW",
+    "query": "#NEWvWSW",
     "rank": 3,
     "tweet_count": null
   },
   {
+    "name": "Jess",
+    "query": "Jess",
+    "rank": 4,
+    "tweet_count": "43.2K Tweets"
+  },
+  {
     "name": "#WUNvSYD",
     "query": "#WUNvSYD",
-    "rank": 4,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Kate",
     "query": "Kate",
-    "rank": 5,
-    "tweet_count": "48.3K Tweets"
+    "rank": 6,
+    "tweet_count": "48.8K Tweets"
   },
   {
     "name": "Selin",
     "query": "Selin",
-    "rank": 6,
-    "tweet_count": "2,164 Tweets"
+    "rank": 7,
+    "tweet_count": "2,197 Tweets"
   },
   {
     "name": "Dion",
     "query": "Dion",
-    "rank": 7,
-    "tweet_count": "9,045 Tweets"
+    "rank": 8,
+    "tweet_count": "9,085 Tweets"
   },
   {
-    "name": "Jess",
-    "query": "Jess",
-    "rank": 8,
-    "tweet_count": "42.7K Tweets"
+    "name": "Daniel",
+    "query": "Daniel",
+    "rank": 9,
+    "tweet_count": "126K Tweets"
   },
   {
     "name": "Tim Wilson",
     "query": "\"Tim Wilson\"",
-    "rank": 9,
-    "tweet_count": "9,001 Tweets"
-  },
-  {
-    "name": "Timmy",
-    "query": "Timmy",
     "rank": 10,
-    "tweet_count": "9,736 Tweets"
+    "tweet_count": "9,115 Tweets"
   },
   {
-    "name": "#DragRaceUK",
-    "query": "#DragRaceUK",
+    "name": "#MAFSAustralia",
+    "query": "#MAFSAustralia",
     "rank": 11,
-    "tweet_count": "42.8K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Essendon",
@@ -72,51 +72,33 @@
     "tweet_count": null
   },
   {
-    "name": "#MAFSAustralia",
-    "query": "#MAFSAustralia",
+    "name": "Timmy",
+    "query": "Timmy",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "9,819 Tweets"
   },
   {
     "name": "David",
     "query": "David",
     "rank": 14,
-    "tweet_count": "197K Tweets"
-  },
-  {
-    "name": "#DONDA2",
-    "query": "#DONDA2",
-    "rank": 15,
-    "tweet_count": "132K Tweets"
+    "tweet_count": "199K Tweets"
   },
   {
     "name": "Pull",
     "query": "Pull",
-    "rank": 16,
-    "tweet_count": "140K Tweets"
-  },
-  {
-    "name": "Daniel",
-    "query": "Daniel",
-    "rank": 17,
-    "tweet_count": "125K Tweets"
-  },
-  {
-    "name": "Ben Roberts",
-    "query": "\"Ben Roberts\"",
-    "rank": 18,
-    "tweet_count": "2,301 Tweets"
+    "rank": 15,
+    "tweet_count": "141K Tweets"
   },
   {
     "name": "Geelong",
     "query": "Geelong",
-    "rank": 19,
+    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "Foo Fighters",
-    "query": "\"Foo Fighters\"",
-    "rank": 20,
-    "tweet_count": "2,359 Tweets"
+    "name": "Ben Roberts",
+    "query": "\"Ben Roberts\"",
+    "rank": 17,
+    "tweet_count": "2,350 Tweets"
   }
 ]
