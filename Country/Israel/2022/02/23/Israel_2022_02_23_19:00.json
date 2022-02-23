@@ -1,67 +1,67 @@
 [
   {
-    "name": "אלי אבידר",
-    "query": "\"אלי אבידר\"",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "שירה רבן",
     "query": "\"שירה רבן\"",
+    "rank": 1,
+    "tweet_count": "2,210 Tweets"
+  },
+  {
+    "name": "אלי אבידר",
+    "query": "\"אלי אבידר\"",
     "rank": 2,
-    "tweet_count": "2,160 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#RussiaUkraineCrisis",
     "query": "#RussiaUkraineCrisis",
     "rank": 3,
-    "tweet_count": "30K Tweets"
+    "tweet_count": "30.1K Tweets"
   },
   {
     "name": "Kanye",
     "query": "Kanye",
     "rank": 4,
-    "tweet_count": "243K Tweets"
-  },
-  {
-    "name": "בקבוק תבערה",
-    "query": "\"בקבוק תבערה\"",
-    "rank": 5,
-    "tweet_count": null
+    "tweet_count": "245K Tweets"
   },
   {
     "name": "דני דנון",
     "query": "\"דני דנון\"",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Molotov",
     "query": "Molotov",
-    "rank": 7,
-    "tweet_count": "3,692 Tweets"
-  },
-  {
-    "name": "בני גנץ",
-    "query": "\"בני גנץ\"",
-    "rank": 8,
-    "tweet_count": null
+    "rank": 6,
+    "tweet_count": "3,729 Tweets"
   },
   {
     "name": "#twinu",
     "query": "#twinu",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "בקבוק תבערה",
+    "query": "\"בקבוק תבערה\"",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "כי טוב",
+    "query": "\"כי טוב\"",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Middle East",
-    "query": "\"Middle East\"",
+    "name": "בני גנץ",
+    "query": "\"בני גנץ\"",
     "rank": 10,
-    "tweet_count": "17.2K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "יחד עם",
-    "query": "\"יחד עם\"",
+    "name": "ראש הממשלה",
+    "query": "\"ראש הממשלה\"",
     "rank": 11,
     "tweet_count": null
   },
@@ -72,10 +72,10 @@
     "tweet_count": null
   },
   {
-    "name": "Kyiv",
-    "query": "Kyiv",
+    "name": "Middle East",
+    "query": "\"Middle East\"",
     "rank": 13,
-    "tweet_count": "46.3K Tweets"
+    "tweet_count": "17.3K Tweets"
   },
   {
     "name": "רביב דרוקר",
@@ -84,39 +84,39 @@
     "tweet_count": null
   },
   {
-    "name": "#copisrael22",
-    "query": "#copisrael22",
+    "name": "#COPIsrael22",
+    "query": "#COPIsrael22",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "חלום שלי",
-    "query": "\"חלום שלי\"",
+    "name": "עם גנץ",
+    "query": "\"עם גנץ\"",
     "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "של גנץ",
-    "query": "\"של גנץ\"",
-    "rank": 17,
-    "tweet_count": "1,357 Tweets"
-  },
-  {
-    "name": "איזה אפס",
-    "query": "\"איזה אפס\"",
-    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Tel Aviv",
     "query": "\"Tel Aviv\"",
-    "rank": 19,
-    "tweet_count": "2,387 Tweets"
+    "rank": 17,
+    "tweet_count": "2,404 Tweets"
   },
   {
-    "name": "של לפיד",
-    "query": "\"של לפיד\"",
+    "name": "של גנץ",
+    "query": "\"של גנץ\"",
+    "rank": 18,
+    "tweet_count": "1,368 Tweets"
+  },
+  {
+    "name": "איזה אפס",
+    "query": "\"איזה אפס\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "מזל טוב",
+    "query": "\"מזל טוב\"",
     "rank": 20,
-    "tweet_count": "1,687 Tweets"
+    "tweet_count": null
   }
 ]
