@@ -1,21 +1,21 @@
 [
   {
+    "name": "Kijevas",
+    "query": "Kijevas",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "Krievijas",
     "query": "Krievijas",
-    "rank": 1,
-    "tweet_count": "1,646 Tweets"
-  },
-  {
-    "name": "Ukrainu",
-    "query": "Ukrainu",
     "rank": 2,
-    "tweet_count": "2,883 Tweets"
+    "tweet_count": "1,734 Tweets"
   },
   {
-    "name": "Putina",
-    "query": "Putina",
+    "name": "Ukraine",
+    "query": "Ukraine",
     "rank": 3,
-    "tweet_count": "24.3K Tweets"
+    "tweet_count": "1.95M Tweets"
   },
   {
     "name": "rīgas dinamo",
@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "prāta",
-    "query": "prāta",
+    "name": "Prāta",
+    "query": "Prāta",
     "rank": 5,
-    "tweet_count": "3,145 Tweets"
+    "tweet_count": "3,158 Tweets"
   },
   {
     "name": "kremļa",
     "query": "kremļa",
     "rank": 6,
-    "tweet_count": "2,086 Tweets"
+    "tweet_count": "2,124 Tweets"
   },
   {
     "name": "vajadzētu",
@@ -42,22 +42,22 @@
     "tweet_count": null
   },
   {
-    "name": "eiropas savienības",
-    "query": "\"eiropas savienības\"",
+    "name": "savickis",
+    "query": "savickis",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "siguldas",
-    "query": "siguldas",
+    "name": "Eiropas Savienības",
+    "query": "\"Eiropas Savienības\"",
     "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Kijevā",
-    "query": "Kijevā",
+    "name": "Gazprom",
+    "query": "Gazprom",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "9,001 Tweets"
   },
   {
     "name": "lietuvas",
@@ -66,32 +66,32 @@
     "tweet_count": null
   },
   {
+    "name": "siguldas",
+    "query": "siguldas",
+    "rank": 12,
+    "tweet_count": null
+  },
+  {
     "name": "latvenergo",
     "query": "latvenergo",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "krievu",
     "query": "krievu",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": null
   },
   {
-    "name": "Gazprom",
-    "query": "Gazprom",
-    "rank": 14,
-    "tweet_count": "8,943 Tweets"
-  },
-  {
-    "name": "Pagaidām",
-    "query": "Pagaidām",
+    "name": "pagaidām",
+    "query": "pagaidām",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "Tramps",
-    "query": "Tramps",
+    "name": "tramps",
+    "query": "tramps",
     "rank": 16,
     "tweet_count": null
   },
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "Maskavā",
-    "query": "Maskavā",
+    "name": "beidzot",
+    "query": "beidzot",
     "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "#SehYam",
-    "query": "#SehYam",
+    "name": "maskavā",
+    "query": "maskavā",
     "rank": 19,
-    "tweet_count": "5,129 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Forši",
-    "query": "Forši",
+    "name": "Latvia",
+    "query": "Latvia",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "7,956 Tweets"
   }
 ]

@@ -1,15 +1,15 @@
 [
   {
-    "name": "Putin",
-    "query": "Putin",
+    "name": "Ukraine",
+    "query": "Ukraine",
     "rank": 1,
-    "tweet_count": "2.23M Tweets"
+    "tweet_count": "1.83M Tweets"
   },
   {
-    "name": "#Ukraine",
-    "query": "#Ukraine",
+    "name": "Ukraine",
+    "query": "Ukraine",
     "rank": 2,
-    "tweet_count": "330K Tweets"
+    "tweet_count": "1.83M Tweets"
   },
   {
     "name": "Sanktionen",
@@ -21,19 +21,19 @@
     "name": "Elden Ring",
     "query": "\"Elden Ring\"",
     "rank": 4,
-    "tweet_count": "204K Tweets"
+    "tweet_count": "207K Tweets"
   },
   {
     "name": "Neutralität",
     "query": "Neutralität",
     "rank": 5,
-    "tweet_count": "1,002 Tweets"
+    "tweet_count": "1,008 Tweets"
   },
   {
     "name": "Poutine",
     "query": "Poutine",
     "rank": 6,
-    "tweet_count": "86.9K Tweets"
+    "tweet_count": "89K Tweets"
   },
   {
     "name": "#iloglobalforum",
@@ -42,28 +42,28 @@
     "tweet_count": null
   },
   {
-    "name": "Kiev",
-    "query": "Kiev",
+    "name": "#kohlanta",
+    "query": "#kohlanta",
     "rank": 8,
-    "tweet_count": "152K Tweets"
+    "tweet_count": "15.2K Tweets"
   },
   {
-    "name": "#PokiCar",
-    "query": "#PokiCar",
+    "name": "#TPMP",
+    "query": "#TPMP",
     "rank": 9,
-    "tweet_count": "137K Tweets"
-  },
-  {
-    "name": "Nazis",
-    "query": "Nazis",
-    "rank": 10,
-    "tweet_count": "87K Tweets"
+    "tweet_count": "11.3K Tweets"
   },
   {
     "name": "Tottenham",
     "query": "Tottenham",
+    "rank": 10,
+    "tweet_count": "49.5K Tweets"
+  },
+  {
+    "name": "Nazis",
+    "query": "Nazis",
     "rank": 11,
-    "tweet_count": "49.2K Tweets"
+    "tweet_count": "91.2K Tweets"
   },
   {
     "name": "Wordle 249 X",
@@ -75,30 +75,30 @@
     "name": "Ronaldo",
     "query": "Ronaldo",
     "rank": 13,
-    "tweet_count": "210K Tweets"
+    "tweet_count": "211K Tweets"
   },
   {
-    "name": "Ukrainians",
-    "query": "Ukrainians",
+    "name": "Benfica",
+    "query": "Benfica",
     "rank": 14,
-    "tweet_count": "78K Tweets"
-  },
-  {
-    "name": "Köppel",
-    "query": "Köppel",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "Völkerrecht",
-    "query": "Völkerrecht",
-    "rank": 16,
-    "tweet_count": "2,386 Tweets"
+    "tweet_count": "85.9K Tweets"
   },
   {
     "name": "akws",
     "query": "akws",
-    "rank": 17,
+    "rank": 15,
     "tweet_count": null
+  },
+  {
+    "name": "köppel",
+    "query": "köppel",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Minecraft",
+    "query": "Minecraft",
+    "rank": 17,
+    "tweet_count": "43K Tweets"
   }
 ]
