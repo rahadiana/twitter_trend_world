@@ -1,39 +1,39 @@
 [
   {
+    "name": "Putin",
+    "query": "Putin",
+    "rank": 1,
+    "tweet_count": "2.65M Tweets"
+  },
+  {
     "name": "NAVO",
     "query": "NAVO",
-    "rank": 1,
-    "tweet_count": "18.9K Tweets"
+    "rank": 2,
+    "tweet_count": "19K Tweets"
   },
   {
     "name": "Oekraïense",
     "query": "Oekraïense",
-    "rank": 2,
-    "tweet_count": "7,339 Tweets"
+    "rank": 3,
+    "tweet_count": "7,384 Tweets"
   },
   {
     "name": "#vitrap",
     "query": "#vitrap",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "#expeditierobinson",
-    "query": "#expeditierobinson",
-    "rank": 4,
+    "name": "#ExpeditieRobinson",
+    "query": "#ExpeditieRobinson",
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "#ARSWOL",
     "query": "#ARSWOL",
-    "rank": 5,
-    "tweet_count": "59.3K Tweets"
-  },
-  {
-    "name": "#ditwashetnieuws",
-    "query": "#ditwashetnieuws",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "60.5K Tweets"
   },
   {
     "name": "#Oekranie",
@@ -42,28 +42,28 @@
     "tweet_count": null
   },
   {
-    "name": "Napoli",
-    "query": "Napoli",
+    "name": "#Vitesse",
+    "query": "#Vitesse",
     "rank": 8,
-    "tweet_count": "97.2K Tweets"
+    "tweet_count": null
   },
   {
     "name": "SWIFT",
     "query": "SWIFT",
     "rank": 9,
-    "tweet_count": "432K Tweets"
+    "tweet_count": "438K Tweets"
+  },
+  {
+    "name": "Napoli",
+    "query": "Napoli",
+    "rank": 10,
+    "tweet_count": "98.9K Tweets"
   },
   {
     "name": "Conference League",
     "query": "\"Conference League\"",
-    "rank": 10,
-    "tweet_count": "9,141 Tweets"
-  },
-  {
-    "name": "Timmermans",
-    "query": "Timmermans",
     "rank": 11,
-    "tweet_count": "3,253 Tweets"
+    "tweet_count": "9,798 Tweets"
   },
   {
     "name": "Zahavi",
@@ -72,51 +72,51 @@
     "tweet_count": null
   },
   {
+    "name": "Timmermans",
+    "query": "Timmermans",
+    "rank": 13,
+    "tweet_count": "3,279 Tweets"
+  },
+  {
     "name": "Chernobyl",
     "query": "Chernobyl",
-    "rank": 13,
-    "tweet_count": "313K Tweets"
+    "rank": 14,
+    "tweet_count": "315K Tweets"
   },
   {
     "name": "Barcelona",
     "query": "Barcelona",
-    "rank": 14,
-    "tweet_count": "152K Tweets"
+    "rank": 15,
+    "tweet_count": "155K Tweets"
   },
   {
     "name": "Moskou",
     "query": "Moskou",
-    "rank": 15,
-    "tweet_count": "3,993 Tweets"
+    "rank": 16,
+    "tweet_count": "4,064 Tweets"
   },
   {
     "name": "Tsjernobyl",
     "query": "Tsjernobyl",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Ukrainians",
     "query": "Ukrainians",
-    "rank": 17,
-    "tweet_count": "505K Tweets"
-  },
-  {
-    "name": "Biden",
-    "query": "Biden",
     "rank": 18,
-    "tweet_count": "2.45M Tweets"
+    "tweet_count": "512K Tweets"
   },
   {
     "name": "De Russen",
     "query": "\"De Russen\"",
     "rank": 19,
-    "tweet_count": "9,071 Tweets"
+    "tweet_count": "9,169 Tweets"
   },
   {
     "name": "Poland",
     "query": "Poland",
     "rank": 20,
-    "tweet_count": "250K Tweets"
+    "tweet_count": "253K Tweets"
   }
 ]
