@@ -3,31 +3,31 @@
     "name": "Ukraine",
     "query": "Ukraine",
     "rank": 1,
-    "tweet_count": "4.07M Tweets"
+    "tweet_count": "2.85M Tweets"
   },
   {
     "name": "Ukraine",
     "query": "Ukraine",
     "rank": 2,
-    "tweet_count": "4.07M Tweets"
+    "tweet_count": "2.85M Tweets"
   },
   {
     "name": "#QandA",
     "query": "#QandA",
     "rank": 3,
-    "tweet_count": "3,363 Tweets"
+    "tweet_count": "3,463 Tweets"
+  },
+  {
+    "name": "NATO",
+    "query": "NATO",
+    "rank": 4,
+    "tweet_count": "1.04M Tweets"
   },
   {
     "name": "Taiwan",
     "query": "Taiwan",
-    "rank": 4,
-    "tweet_count": "192K Tweets"
-  },
-  {
-    "name": "#mcyvbri",
-    "query": "#mcyvbri",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "203K Tweets"
   },
   {
     "name": "#netballchaos",
@@ -45,30 +45,36 @@
     "name": "Europe",
     "query": "Europe",
     "rank": 8,
-    "tweet_count": "596K Tweets"
+    "tweet_count": "622K Tweets"
   },
   {
-    "name": "USSR",
-    "query": "USSR",
+    "name": "#UkraineRussiaCrisis",
+    "query": "#UkraineRussiaCrisis",
     "rank": 9,
-    "tweet_count": "63.7K Tweets"
+    "tweet_count": "209K Tweets"
   },
   {
     "name": "Crimea",
     "query": "Crimea",
     "rank": 10,
-    "tweet_count": "145K Tweets"
+    "tweet_count": "150K Tweets"
   },
   {
-    "name": "Belarus",
-    "query": "Belarus",
+    "name": "#ELDENRING",
+    "query": "#ELDENRING",
     "rank": 11,
-    "tweet_count": "161K Tweets"
+    "tweet_count": "72.5K Tweets"
   },
   {
-    "name": "Cold War",
-    "query": "\"Cold War\"",
+    "name": "Russia and Ukraine",
+    "query": "\"Russia and Ukraine\"",
     "rank": 12,
-    "tweet_count": "41.1K Tweets"
+    "tweet_count": "920K Tweets"
+  },
+  {
+    "name": "Russia and China",
+    "query": "\"Russia and China\"",
+    "rank": 13,
+    "tweet_count": "88.7K Tweets"
   }
 ]
