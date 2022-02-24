@@ -1,81 +1,81 @@
 [
   {
+    "name": "Moskwie",
+    "query": "Moskwie",
+    "rank": 1,
+    "tweet_count": "4,846 Tweets"
+  },
+  {
     "name": "Ukraine",
     "query": "Ukraine",
-    "rank": 1,
-    "tweet_count": "2.6M Tweets"
+    "rank": 2,
+    "tweet_count": "2.68M Tweets"
   },
   {
     "name": "NATO",
     "query": "NATO",
-    "rank": 2,
-    "tweet_count": "1.25M Tweets"
+    "rank": 3,
+    "tweet_count": "1.29M Tweets"
   },
   {
     "name": "Rosji",
     "query": "Rosji",
-    "rank": 3,
-    "tweet_count": "50.5K Tweets"
+    "rank": 4,
+    "tweet_count": "52.8K Tweets"
   },
   {
     "name": "Budka",
     "query": "Budka",
-    "rank": 4,
-    "tweet_count": "2,664 Tweets"
+    "rank": 5,
+    "tweet_count": "2,893 Tweets"
   },
   {
     "name": "Sejmie",
     "query": "Sejmie",
-    "rank": 5,
-    "tweet_count": "3,509 Tweets"
-  },
-  {
-    "name": "Schalke",
-    "query": "Schalke",
     "rank": 6,
-    "tweet_count": "21.4K Tweets"
+    "tweet_count": "3,690 Tweets"
   },
   {
     "name": "Kijowa",
     "query": "Kijowa",
     "rank": 7,
-    "tweet_count": "8,129 Tweets"
+    "tweet_count": "8,373 Tweets"
+  },
+  {
+    "name": "Schalke",
+    "query": "Schalke",
+    "rank": 8,
+    "tweet_count": "23.7K Tweets"
   },
   {
     "name": "Ukraińców",
     "query": "Ukraińców",
-    "rank": 8,
-    "tweet_count": "6,613 Tweets"
+    "rank": 9,
+    "tweet_count": "6,966 Tweets"
   },
   {
-    "name": "FIFA",
-    "query": "FIFA",
-    "rank": 9,
-    "tweet_count": "43K Tweets"
+    "name": "Tajwan",
+    "query": "Tajwan",
+    "rank": 10,
+    "tweet_count": "1,185 Tweets"
   },
   {
     "name": "Franek",
     "query": "Franek",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Moskwy",
-    "query": "Moskwy",
     "rank": 11,
-    "tweet_count": "3,782 Tweets"
-  },
-  {
-    "name": "UEFA",
-    "query": "UEFA",
-    "rank": 12,
-    "tweet_count": "86K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Białorusi",
     "query": "Białorusi",
+    "rank": 12,
+    "tweet_count": "6,249 Tweets"
+  },
+  {
+    "name": "FIFA",
+    "query": "FIFA",
     "rank": 13,
-    "tweet_count": "5,917 Tweets"
+    "tweet_count": "44.3K Tweets"
   },
   {
     "name": "Syrii",
@@ -84,39 +84,39 @@
     "tweet_count": null
   },
   {
-    "name": "Zamknij",
-    "query": "Zamknij",
+    "name": "UEFA",
+    "query": "UEFA",
     "rank": 15,
-    "tweet_count": "1,427 Tweets"
+    "tweet_count": "89.7K Tweets"
+  },
+  {
+    "name": "Moskwy",
+    "query": "Moskwy",
+    "rank": 16,
+    "tweet_count": "3,908 Tweets"
   },
   {
     "name": "Chiny",
     "query": "Chiny",
-    "rank": 16,
-    "tweet_count": "3,701 Tweets"
+    "rank": 17,
+    "tweet_count": "3,818 Tweets"
   },
   {
     "name": "Wypierdalaj",
     "query": "Wypierdalaj",
-    "rank": 17,
-    "tweet_count": "3,770 Tweets"
-  },
-  {
-    "name": "Tajwan",
-    "query": "Tajwan",
     "rank": 18,
-    "tweet_count": "1,118 Tweets"
+    "tweet_count": "4,127 Tweets"
   },
   {
-    "name": "Zamilcz",
-    "query": "Zamilcz",
+    "name": "Zamknij",
+    "query": "Zamknij",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "1,470 Tweets"
   },
   {
-    "name": "Kremla",
-    "query": "Kremla",
+    "name": "Gazpromu",
+    "query": "Gazpromu",
     "rank": 20,
-    "tweet_count": "3,585 Tweets"
+    "tweet_count": "1,601 Tweets"
   }
 ]
