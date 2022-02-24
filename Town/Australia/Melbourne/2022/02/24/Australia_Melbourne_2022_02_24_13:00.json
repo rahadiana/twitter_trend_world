@@ -3,19 +3,19 @@
     "name": "Ukraine",
     "query": "Ukraine",
     "rank": 1,
-    "tweet_count": "2.73M Tweets"
-  },
-  {
-    "name": "Putin",
-    "query": "Putin",
-    "rank": 2,
-    "tweet_count": "3.17M Tweets"
+    "tweet_count": "2.37M Tweets"
   },
   {
     "name": "#QandA",
     "query": "#QandA",
+    "rank": 2,
+    "tweet_count": "3,526 Tweets"
+  },
+  {
+    "name": "Taiwan",
+    "query": "Taiwan",
     "rank": 3,
-    "tweet_count": "3,507 Tweets"
+    "tweet_count": "221K Tweets"
   },
   {
     "name": "#netballchaos",
@@ -24,51 +24,45 @@
     "tweet_count": null
   },
   {
-    "name": "Taiwan",
-    "query": "Taiwan",
-    "rank": 5,
-    "tweet_count": "211K Tweets"
-  },
-  {
     "name": "#Powerball",
     "query": "#Powerball",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Poland",
     "query": "Poland",
-    "rank": 7,
-    "tweet_count": "141K Tweets"
+    "rank": 6,
+    "tweet_count": "145K Tweets"
   },
   {
     "name": "Europe",
     "query": "Europe",
-    "rank": 8,
-    "tweet_count": "637K Tweets"
+    "rank": 7,
+    "tweet_count": "649K Tweets"
   },
   {
     "name": "#ELDENRING",
     "query": "#ELDENRING",
-    "rank": 9,
-    "tweet_count": "73.5K Tweets"
+    "rank": 8,
+    "tweet_count": "74.4K Tweets"
   },
   {
-    "name": "Syria",
-    "query": "Syria",
-    "rank": 10,
-    "tweet_count": "84.3K Tweets"
+    "name": "Crimea",
+    "query": "Crimea",
+    "rank": 9,
+    "tweet_count": "154K Tweets"
   },
   {
     "name": "Belarus",
     "query": "Belarus",
-    "rank": 11,
-    "tweet_count": "171K Tweets"
+    "rank": 10,
+    "tweet_count": "175K Tweets"
   },
   {
-    "name": "Cold War",
-    "query": "\"Cold War\"",
-    "rank": 12,
+    "name": "Soviet Union",
+    "query": "\"Soviet Union\"",
+    "rank": 11,
     "tweet_count": "43.3K Tweets"
   }
 ]
