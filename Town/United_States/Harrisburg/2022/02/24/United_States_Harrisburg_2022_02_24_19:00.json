@@ -1,45 +1,45 @@
 [
   {
-    "name": "Kyiv",
-    "query": "Kyiv",
-    "rank": 1,
-    "tweet_count": "1.04M Tweets"
-  },
-  {
     "name": "Ukraine",
     "query": "Ukraine",
-    "rank": 2,
-    "tweet_count": "1.22M Tweets"
+    "rank": 1,
+    "tweet_count": "3.39M Tweets"
   },
   {
     "name": "Chernobyl",
     "query": "Chernobyl",
-    "rank": 3,
-    "tweet_count": "265K Tweets"
+    "rank": 2,
+    "tweet_count": "271K Tweets"
   },
   {
     "name": "#SFFpit",
     "query": "#SFFpit",
+    "rank": 3,
+    "tweet_count": "44.2K Tweets"
+  },
+  {
+    "name": "Peter Doocy",
+    "query": "\"Peter Doocy\"",
     "rank": 4,
-    "tweet_count": "43.4K Tweets"
+    "tweet_count": "10.6K Tweets"
   },
   {
     "name": "Taiwan",
     "query": "Taiwan",
     "rank": 5,
-    "tweet_count": "439K Tweets"
-  },
-  {
-    "name": "Peter Doocy",
-    "query": "\"Peter Doocy\"",
-    "rank": 6,
-    "tweet_count": "9,013 Tweets"
+    "tweet_count": "446K Tweets"
   },
   {
     "name": "John Kerry",
     "query": "\"John Kerry\"",
+    "rank": 6,
+    "tweet_count": "12.9K Tweets"
+  },
+  {
+    "name": "Applebees",
+    "query": "Applebees",
     "rank": 7,
-    "tweet_count": "12.5K Tweets"
+    "tweet_count": "14.1K Tweets"
   },
   {
     "name": "#SkylineSweepstakes",
@@ -51,72 +51,72 @@
     "name": "Art Briles",
     "query": "\"Art Briles\"",
     "rank": 9,
-    "tweet_count": "1,405 Tweets"
+    "tweet_count": "1,447 Tweets"
   },
   {
-    "name": "Applebees",
-    "query": "Applebees",
+    "name": "#ARSWOL",
+    "query": "#ARSWOL",
     "rank": 10,
-    "tweet_count": "12.4K Tweets"
+    "tweet_count": "15.1K Tweets"
   },
   {
     "name": "Gronk",
     "query": "Gronk",
     "rank": 11,
-    "tweet_count": "3,007 Tweets"
+    "tweet_count": "3,130 Tweets"
   },
   {
     "name": "90210",
     "query": "90210",
     "rank": 12,
-    "tweet_count": "1,172 Tweets"
+    "tweet_count": "1,285 Tweets"
   },
   {
-    "name": "#ZackSnyder𓃵",
-    "query": "#ZackSnyder𓃵",
+    "name": "#AddALetterRuinAFairyTale",
+    "query": "#AddALetterRuinAFairyTale",
     "rank": 13,
-    "tweet_count": "18.1K Tweets"
+    "tweet_count": null
   },
   {
     "name": "My Collection",
     "query": "\"My Collection\"",
     "rank": 14,
-    "tweet_count": "60.8K Tweets"
+    "tweet_count": "61.5K Tweets"
   },
   {
-    "name": "#AddALetterRuinAFairyTale",
-    "query": "#AddALetterRuinAFairyTale",
+    "name": "#ZackSnyder𓃵",
+    "query": "#ZackSnyder𓃵",
     "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "#ThursdayThoughts",
-    "query": "#ThursdayThoughts",
-    "rank": 16,
-    "tweet_count": "43.4K Tweets"
+    "tweet_count": "18.6K Tweets"
   },
   {
     "name": "Soviet Union",
     "query": "\"Soviet Union\"",
+    "rank": 16,
+    "tweet_count": "67.9K Tweets"
+  },
+  {
+    "name": "Gal Gadot",
+    "query": "\"Gal Gadot\"",
     "rank": 17,
-    "tweet_count": "66.6K Tweets"
+    "tweet_count": "3,117 Tweets"
   },
   {
     "name": "Cenk",
     "query": "Cenk",
     "rank": 18,
-    "tweet_count": "7,514 Tweets"
-  },
-  {
-    "name": "Ukraine and Russia",
-    "query": "\"Ukraine and Russia\"",
-    "rank": 19,
-    "tweet_count": "629K Tweets"
+    "tweet_count": "7,708 Tweets"
   },
   {
     "name": "Sanctions",
     "query": "Sanctions",
+    "rank": 19,
+    "tweet_count": "840K Tweets"
+  },
+  {
+    "name": "Gen 9",
+    "query": "\"Gen 9\"",
     "rank": 20,
-    "tweet_count": "822K Tweets"
+    "tweet_count": "5,858 Tweets"
   }
 ]

@@ -3,18 +3,24 @@
     "name": "Ukraine",
     "query": "Ukraine",
     "rank": 1,
-    "tweet_count": "2.52M Tweets"
+    "tweet_count": "2.22M Tweets"
   },
   {
     "name": "Chernobyl",
     "query": "Chernobyl",
     "rank": 2,
-    "tweet_count": "265K Tweets"
+    "tweet_count": "271K Tweets"
   },
   {
-    "name": "NATO",
-    "query": "NATO",
+    "name": "#RussiaUkraineConflict",
+    "query": "#RussiaUkraineConflict",
     "rank": 3,
-    "tweet_count": "1.62M Tweets"
+    "tweet_count": "632K Tweets"
+  },
+  {
+    "name": "Israel",
+    "query": "Israel",
+    "rank": 4,
+    "tweet_count": "265K Tweets"
   }
 ]
