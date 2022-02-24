@@ -3,23 +3,23 @@
     "name": "#abc730",
     "query": "#abc730",
     "rank": 1,
-    "tweet_count": "4,657 Tweets"
+    "tweet_count": "4,685 Tweets"
   },
   {
     "name": "#QandA",
     "query": "#QandA",
     "rank": 2,
-    "tweet_count": "2,963 Tweets"
+    "tweet_count": "3,044 Tweets"
   },
   {
     "name": "Ukraine",
     "query": "Ukraine",
     "rank": 3,
-    "tweet_count": "2.48M Tweets"
+    "tweet_count": "2.55M Tweets"
   },
   {
-    "name": "#Powerball",
-    "query": "#Powerball",
+    "name": "#powerball",
+    "query": "#powerball",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,11 +27,11 @@
     "name": "NATO",
     "query": "NATO",
     "rank": 5,
-    "tweet_count": "809K Tweets"
+    "tweet_count": "835K Tweets"
   },
   {
-    "name": "#mcyvbri",
-    "query": "#mcyvbri",
+    "name": "#MCYvBRI",
+    "query": "#MCYvBRI",
     "rank": 6,
     "tweet_count": null
   },
@@ -45,7 +45,7 @@
     "name": "Taiwan",
     "query": "Taiwan",
     "rank": 8,
-    "tweet_count": "163K Tweets"
+    "tweet_count": "167K Tweets"
   },
   {
     "name": "Bridget Archer",
@@ -57,54 +57,36 @@
     "name": "Europe",
     "query": "Europe",
     "rank": 10,
-    "tweet_count": "522K Tweets"
-  },
-  {
-    "name": "West",
-    "query": "West",
-    "rank": 11,
-    "tweet_count": "446K Tweets"
+    "tweet_count": "533K Tweets"
   },
   {
     "name": "Crimea",
     "query": "Crimea",
-    "rank": 12,
-    "tweet_count": "132K Tweets"
+    "rank": 11,
+    "tweet_count": "134K Tweets"
   },
   {
     "name": "Afghanistan",
     "query": "Afghanistan",
-    "rank": 13,
-    "tweet_count": "123K Tweets"
-  },
-  {
-    "name": "Soviet Union",
-    "query": "\"Soviet Union\"",
-    "rank": 14,
-    "tweet_count": "36.4K Tweets"
+    "rank": 12,
+    "tweet_count": "125K Tweets"
   },
   {
     "name": "Clive Palmer",
     "query": "\"Clive Palmer\"",
-    "rank": 15,
-    "tweet_count": "4,592 Tweets"
+    "rank": 13,
+    "tweet_count": "4,636 Tweets"
   },
   {
     "name": "Belarus",
     "query": "Belarus",
-    "rank": 16,
-    "tweet_count": "140K Tweets"
+    "rank": 14,
+    "tweet_count": "143K Tweets"
   },
   {
-    "name": "UN Security Council",
-    "query": "\"UN Security Council\"",
-    "rank": 17,
-    "tweet_count": "92.1K Tweets"
-  },
-  {
-    "name": "#FirstDatesAU",
-    "query": "#FirstDatesAU",
-    "rank": 18,
+    "name": "#firstdatesau",
+    "query": "#firstdatesau",
+    "rank": 15,
     "tweet_count": null
   }
 ]

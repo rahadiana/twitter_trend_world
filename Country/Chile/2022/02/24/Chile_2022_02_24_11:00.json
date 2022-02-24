@@ -1,122 +1,122 @@
 [
   {
+    "name": "Ukraine",
+    "query": "Ukraine",
+    "rank": 1,
+    "tweet_count": "2.55M Tweets"
+  },
+  {
     "name": "#TerceraGuerraMundial",
     "query": "#TerceraGuerraMundial",
-    "rank": 1,
-    "tweet_count": "119K Tweets"
+    "rank": 2,
+    "tweet_count": "123K Tweets"
   },
   {
     "name": "Ukraine",
     "query": "Ukraine",
-    "rank": 2,
-    "tweet_count": "2.7M Tweets"
-  },
-  {
-    "name": "#Noalaguerra",
-    "query": "#Noalaguerra",
     "rank": 3,
-    "tweet_count": "9,978 Tweets"
+    "tweet_count": "2.55M Tweets"
   },
   {
     "name": "OTAN",
     "query": "OTAN",
     "rank": 4,
-    "tweet_count": "210K Tweets"
+    "tweet_count": "218K Tweets"
+  },
+  {
+    "name": "#Noalaguerra",
+    "query": "#Noalaguerra",
+    "rank": 5,
+    "tweet_count": "10.4K Tweets"
+  },
+  {
+    "name": "#FelizJueves",
+    "query": "#FelizJueves",
+    "rank": 6,
+    "tweet_count": "4,542 Tweets"
   },
   {
     "name": "#ULTIMAHORA",
     "query": "#ULTIMAHORA",
-    "rank": 5,
-    "tweet_count": "79.9K Tweets"
+    "rank": 7,
+    "tweet_count": "80.8K Tweets"
   },
   {
     "name": "Trump",
     "query": "Trump",
-    "rank": 6,
-    "tweet_count": "1.38M Tweets"
-  },
-  {
-    "name": "EEUU",
-    "query": "EEUU",
-    "rank": 7,
-    "tweet_count": "123K Tweets"
-  },
-  {
-    "name": "Kiev",
-    "query": "Kiev",
     "rank": 8,
-    "tweet_count": "559K Tweets"
-  },
-  {
-    "name": "China",
-    "query": "China",
-    "rank": 9,
-    "tweet_count": "505K Tweets"
+    "tweet_count": "1.39M Tweets"
   },
   {
     "name": "#Ucraina",
     "query": "#Ucraina",
+    "rank": 9,
+    "tweet_count": "31.7K Tweets"
+  },
+  {
+    "name": "EEUU",
+    "query": "EEUU",
     "rank": 10,
-    "tweet_count": "30.9K Tweets"
+    "tweet_count": "125K Tweets"
+  },
+  {
+    "name": "Kiev",
+    "query": "Kiev",
+    "rank": 11,
+    "tweet_count": "575K Tweets"
+  },
+  {
+    "name": "China",
+    "query": "China",
+    "rank": 12,
+    "tweet_count": "518K Tweets"
   },
   {
     "name": "Estados Unidos",
     "query": "\"Estados Unidos\"",
-    "rank": 11,
-    "tweet_count": "125K Tweets"
-  },
-  {
-    "name": "Corea del Norte",
-    "query": "\"Corea del Norte\"",
-    "rank": 12,
-    "tweet_count": "47.2K Tweets"
+    "rank": 13,
+    "tweet_count": "127K Tweets"
   },
   {
     "name": "Rusos",
     "query": "Rusos",
-    "rank": 13,
-    "tweet_count": "90.9K Tweets"
+    "rank": 14,
+    "tweet_count": "93.5K Tweets"
+  },
+  {
+    "name": "Occidente",
+    "query": "Occidente",
+    "rank": 15,
+    "tweet_count": "48.2K Tweets"
   },
   {
     "name": "Donbass",
     "query": "Donbass",
-    "rank": 14,
-    "tweet_count": "132K Tweets"
-  },
-  {
-    "name": "#CHVNoticias",
-    "query": "#CHVNoticias",
-    "rank": 15,
-    "tweet_count": "2,280 Tweets"
-  },
-  {
-    "name": "URSS",
-    "query": "URSS",
     "rank": 16,
-    "tweet_count": "33.8K Tweets"
+    "tweet_count": "134K Tweets"
+  },
+  {
+    "name": "Corea del Norte",
+    "query": "\"Corea del Norte\"",
+    "rank": 17,
+    "tweet_count": "48.3K Tweets"
   },
   {
     "name": "Alemania",
     "query": "Alemania",
-    "rank": 17,
-    "tweet_count": "32.4K Tweets"
+    "rank": 18,
+    "tweet_count": "33.3K Tweets"
+  },
+  {
+    "name": "URSS",
+    "query": "URSS",
+    "rank": 19,
+    "tweet_count": "34.9K Tweets"
   },
   {
     "name": "La ONU",
     "query": "\"La ONU\"",
-    "rank": 18,
-    "tweet_count": "126K Tweets"
-  },
-  {
-    "name": "Loreto Gumucio",
-    "query": "\"Loreto Gumucio\"",
-    "rank": 19,
-    "tweet_count": "5,298 Tweets"
-  },
-  {
-    "name": "#URGENTE",
-    "query": "#URGENTE",
     "rank": 20,
-    "tweet_count": "159K Tweets"
+    "tweet_count": "128K Tweets"
   }
 ]
