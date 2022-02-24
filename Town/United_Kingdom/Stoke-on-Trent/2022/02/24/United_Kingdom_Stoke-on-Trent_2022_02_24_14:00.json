@@ -1,81 +1,81 @@
 [
   {
-    "name": "Sparky",
-    "query": "Sparky",
-    "rank": 1,
-    "tweet_count": "3,086 Tweets"
-  },
-  {
-    "name": "Abramovich",
-    "query": "Abramovich",
-    "rank": 2,
-    "tweet_count": "24.8K Tweets"
-  },
-  {
     "name": "Boris",
     "query": "Boris",
-    "rank": 3,
-    "tweet_count": "155K Tweets"
+    "rank": 1,
+    "tweet_count": "159K Tweets"
   },
   {
     "name": "Conte",
     "query": "Conte",
+    "rank": 2,
+    "tweet_count": "73.4K Tweets"
+  },
+  {
+    "name": "Ukraine",
+    "query": "Ukraine",
+    "rank": 3,
+    "tweet_count": "2.15M Tweets"
+  },
+  {
+    "name": "Ukraine",
+    "query": "Ukraine",
     "rank": 4,
-    "tweet_count": "72.6K Tweets"
+    "tweet_count": "2.15M Tweets"
   },
   {
-    "name": "Ukraine",
-    "query": "Ukraine",
+    "name": "NATO",
+    "query": "NATO",
     "rank": 5,
-    "tweet_count": "1.91M Tweets"
+    "tweet_count": "1.16M Tweets"
   },
   {
-    "name": "Ukraine",
-    "query": "Ukraine",
+    "name": "China",
+    "query": "China",
     "rank": 6,
-    "tweet_count": "1.91M Tweets"
+    "tweet_count": "693K Tweets"
   },
   {
-    "name": "Putin",
-    "query": "Putin",
+    "name": "Taiwan",
+    "query": "Taiwan",
     "rank": 7,
-    "tweet_count": "2.74M Tweets"
+    "tweet_count": "252K Tweets"
   },
   {
     "name": "Europe",
     "query": "Europe",
     "rank": 8,
-    "tweet_count": "667K Tweets"
-  },
-  {
-    "name": "Taiwan",
-    "query": "Taiwan",
-    "rank": 9,
-    "tweet_count": "237K Tweets"
+    "tweet_count": "688K Tweets"
   },
   {
     "name": "#JohnsonOut31",
     "query": "#JohnsonOut31",
-    "rank": 10,
-    "tweet_count": "31K Tweets"
+    "rank": 9,
+    "tweet_count": "32K Tweets"
   },
   {
     "name": "#SFFpit",
     "query": "#SFFpit",
-    "rank": 11,
-    "tweet_count": "9,453 Tweets"
+    "rank": 10,
+    "tweet_count": "11.8K Tweets"
   },
   {
     "name": "#PeppaPigWeebles",
     "query": "#PeppaPigWeebles",
-    "rank": 12,
-    "tweet_count": "1,448 Tweets"
+    "rank": 11,
+    "tweet_count": "1,451 Tweets"
   },
   {
     "name": "RIP Inga",
     "query": "\"RIP Inga\"",
+    "rank": 12,
+    "tweet_count": "1,019 Tweets"
+  },
+  {
+    "name": "Sebastian Vettel",
+    "query": "\"Sebastian Vettel\"",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "18.4K Tweets"
   },
   {
     "name": "#HQCrimeScene",
@@ -87,30 +87,30 @@
     "name": "Mark Hughes",
     "query": "\"Mark Hughes\"",
     "rank": 15,
-    "tweet_count": "2,720 Tweets"
+    "tweet_count": "2,768 Tweets"
   },
   {
     "name": "Gazprom",
     "query": "Gazprom",
     "rank": 16,
-    "tweet_count": "34.7K Tweets"
+    "tweet_count": "38.7K Tweets"
   },
   {
-    "name": "Belarus",
-    "query": "Belarus",
+    "name": "Moscow",
+    "query": "Moscow",
     "rank": 17,
-    "tweet_count": "180K Tweets"
+    "tweet_count": "248K Tweets"
   },
   {
-    "name": "USSR",
-    "query": "USSR",
+    "name": "Iraq",
+    "query": "Iraq",
     "rank": 18,
-    "tweet_count": "71.3K Tweets"
+    "tweet_count": "94.5K Tweets"
   },
   {
-    "name": "Nuclear",
-    "query": "Nuclear",
+    "name": "Gary Lineker",
+    "query": "\"Gary Lineker\"",
     "rank": 19,
-    "tweet_count": "243K Tweets"
+    "tweet_count": "1,495 Tweets"
   }
 ]
