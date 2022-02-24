@@ -3,108 +3,120 @@
     "name": "Ukraine",
     "query": "Ukraine",
     "rank": 1,
-    "tweet_count": "2.88M Tweets"
+    "tweet_count": "2.97M Tweets"
+  },
+  {
+    "name": "Putin",
+    "query": "Putin",
+    "rank": 2,
+    "tweet_count": "1.97M Tweets"
+  },
+  {
+    "name": "NATO",
+    "query": "NATO",
+    "rank": 3,
+    "tweet_count": "533K Tweets"
+  },
+  {
+    "name": "World War 3",
+    "query": "\"World War 3\"",
+    "rank": 4,
+    "tweet_count": "100K Tweets"
   },
   {
     "name": "BRICS",
     "query": "BRICS",
-    "rank": 2,
-    "tweet_count": "1,258 Tweets"
-  },
-  {
-    "name": "Naledi Pandor",
-    "query": "\"Naledi Pandor\"",
-    "rank": 3,
-    "tweet_count": "1,279 Tweets"
+    "rank": 5,
+    "tweet_count": "1,371 Tweets"
   },
   {
     "name": "Biden",
     "query": "Biden",
-    "rank": 4,
-    "tweet_count": "1.23M Tweets"
+    "rank": 6,
+    "tweet_count": "1.25M Tweets"
   },
   {
-    "name": "Afghanistan",
-    "query": "Afghanistan",
-    "rank": 5,
-    "tweet_count": "93.6K Tweets"
+    "name": "Naledi Pandor",
+    "query": "\"Naledi Pandor\"",
+    "rank": 7,
+    "tweet_count": "1,351 Tweets"
+  },
+  {
+    "name": "Ukrainians",
+    "query": "Ukrainians",
+    "rank": 8,
+    "tweet_count": "158K Tweets"
   },
   {
     "name": "Libya",
     "query": "Libya",
-    "rank": 6,
-    "tweet_count": "17.9K Tweets"
+    "rank": 9,
+    "tweet_count": "19.1K Tweets"
+  },
+  {
+    "name": "Iraq",
+    "query": "Iraq",
+    "rank": 10,
+    "tweet_count": "53K Tweets"
+  },
+  {
+    "name": "America",
+    "query": "America",
+    "rank": 11,
+    "tweet_count": "542K Tweets"
+  },
+  {
+    "name": "Afghanistan",
+    "query": "Afghanistan",
+    "rank": 12,
+    "tweet_count": "96.2K Tweets"
+  },
+  {
+    "name": "WWIII",
+    "query": "WWIII",
+    "rank": 13,
+    "tweet_count": "103K Tweets"
   },
   {
     "name": "Taiwan",
     "query": "Taiwan",
-    "rank": 7,
-    "tweet_count": "107K Tweets"
+    "rank": 14,
+    "tweet_count": "113K Tweets"
   },
   {
-    "name": "Judge Maya",
-    "query": "\"Judge Maya\"",
-    "rank": 8,
-    "tweet_count": null
+    "name": "Trump",
+    "query": "Trump",
+    "rank": 15,
+    "tweet_count": "1.29M Tweets"
   },
   {
-    "name": "Big Zulu",
-    "query": "\"Big Zulu\"",
-    "rank": 9,
-    "tweet_count": "4,962 Tweets"
+    "name": "Kyiv",
+    "query": "Kyiv",
+    "rank": 16,
+    "tweet_count": "454K Tweets"
+  },
+  {
+    "name": "USSR",
+    "query": "USSR",
+    "rank": 17,
+    "tweet_count": "36.3K Tweets"
   },
   {
     "name": "Syria",
     "query": "Syria",
-    "rank": 10,
-    "tweet_count": "44.7K Tweets"
-  },
-  {
-    "name": "The US",
-    "query": "\"The US\"",
-    "rank": 11,
-    "tweet_count": "822K Tweets"
-  },
-  {
-    "name": "West",
-    "query": "West",
-    "rank": 12,
-    "tweet_count": "392K Tweets"
-  },
-  {
-    "name": "#depression",
-    "query": "#depression",
-    "rank": 13,
-    "tweet_count": "5,488 Tweets"
-  },
-  {
-    "name": "Botswana",
-    "query": "Botswana",
-    "rank": 14,
-    "tweet_count": "5,970 Tweets"
-  },
-  {
-    "name": "Conte",
-    "query": "Conte",
-    "rank": 15,
-    "tweet_count": "61.1K Tweets"
-  },
-  {
-    "name": "#unclevinny",
-    "query": "#unclevinny",
-    "rank": 16,
-    "tweet_count": "3,231 Tweets"
-  },
-  {
-    "name": "Cass",
-    "query": "Cass",
-    "rank": 17,
-    "tweet_count": "9,516 Tweets"
-  },
-  {
-    "name": "Burnley",
-    "query": "Burnley",
     "rank": 18,
-    "tweet_count": "59.1K Tweets"
+    "tweet_count": "47.2K Tweets"
+  },
+  {
+    "name": "Big Zulu",
+    "query": "\"Big Zulu\"",
+    "rank": 19,
+    "tweet_count": "5,386 Tweets"
+  },
+  {
+    "name": "Judge Maya",
+    "query": "\"Judge Maya\"",
+    "rank": 20,
+    "tweet_count": null
   }
 ]
