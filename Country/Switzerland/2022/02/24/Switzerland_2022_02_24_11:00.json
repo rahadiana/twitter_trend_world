@@ -1,122 +1,50 @@
 [
   {
-    "name": "#Ukraine",
-    "query": "#Ukraine",
+    "name": "Ukraine",
+    "query": "Ukraine",
     "rank": 1,
-    "tweet_count": "1.06M Tweets"
+    "tweet_count": "2.2M Tweets"
+  },
+  {
+    "name": "Poutine",
+    "query": "Poutine",
+    "rank": 2,
+    "tweet_count": "205K Tweets"
   },
   {
     "name": "Sanktionen",
     "query": "Sanktionen",
-    "rank": 2,
-    "tweet_count": "17.7K Tweets"
-  },
-  {
-    "name": "Neutralität",
-    "query": "Neutralität",
     "rank": 3,
-    "tweet_count": "1,561 Tweets"
-  },
-  {
-    "name": "Krieg in Europa",
-    "query": "\"Krieg in Europa\"",
-    "rank": 4,
-    "tweet_count": "9,407 Tweets"
-  },
-  {
-    "name": "NATO",
-    "query": "NATO",
-    "rank": 5,
-    "tweet_count": "859K Tweets"
-  },
-  {
-    "name": "Köppel",
-    "query": "Köppel",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "Taiwan",
-    "query": "Taiwan",
-    "rank": 7,
-    "tweet_count": "170K Tweets"
+    "tweet_count": "18.1K Tweets"
   },
   {
     "name": "Europe",
     "query": "Europe",
+    "rank": 4,
+    "tweet_count": "554K Tweets"
+  },
+  {
+    "name": "Ukrainian",
+    "query": "Ukrainian",
+    "rank": 5,
+    "tweet_count": "908K Tweets"
+  },
+  {
+    "name": "Neutralität",
+    "query": "Neutralität",
+    "rank": 6,
+    "tweet_count": "1,631 Tweets"
+  },
+  {
+    "name": "Russland",
+    "query": "Russland",
+    "rank": 7,
+    "tweet_count": "76.9K Tweets"
+  },
+  {
+    "name": "Trump",
+    "query": "Trump",
     "rank": 8,
-    "tweet_count": "541K Tweets"
-  },
-  {
-    "name": "Belarus",
-    "query": "Belarus",
-    "rank": 9,
-    "tweet_count": "146K Tweets"
-  },
-  {
-    "name": "Elden Ring",
-    "query": "\"Elden Ring\"",
-    "rank": 10,
-    "tweet_count": "83.5K Tweets"
-  },
-  {
-    "name": "#KohLanta",
-    "query": "#KohLanta",
-    "rank": 11,
-    "tweet_count": "8,625 Tweets"
-  },
-  {
-    "name": "Konflikt",
-    "query": "Konflikt",
-    "rank": 12,
-    "tweet_count": "15.6K Tweets"
-  },
-  {
-    "name": "#Kiew",
-    "query": "#Kiew",
-    "rank": 13,
-    "tweet_count": "3,325 Tweets"
-  },
-  {
-    "name": "Tottenham",
-    "query": "Tottenham",
-    "rank": 14,
-    "tweet_count": "54.3K Tweets"
-  },
-  {
-    "name": "#TPMP",
-    "query": "#TPMP",
-    "rank": 15,
-    "tweet_count": "12.1K Tweets"
-  },
-  {
-    "name": "Cuba",
-    "query": "Cuba",
-    "rank": 16,
-    "tweet_count": "143K Tweets"
-  },
-  {
-    "name": "Westen",
-    "query": "Westen",
-    "rank": 17,
-    "tweet_count": "15.2K Tweets"
-  },
-  {
-    "name": "März 2022",
-    "query": "\"März 2022\"",
-    "rank": 18,
-    "tweet_count": "1,113 Tweets"
-  },
-  {
-    "name": "#daftpunk",
-    "query": "#daftpunk",
-    "rank": 19,
-    "tweet_count": "2,028 Tweets"
-  },
-  {
-    "name": "Völkerrecht",
-    "query": "Völkerrecht",
-    "rank": 20,
-    "tweet_count": "3,193 Tweets"
+    "tweet_count": "1.42M Tweets"
   }
 ]

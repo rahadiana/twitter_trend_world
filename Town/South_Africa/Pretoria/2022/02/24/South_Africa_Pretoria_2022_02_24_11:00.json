@@ -1,63 +1,63 @@
 [
   {
+    "name": "Europe",
+    "query": "Europe",
+    "rank": 1,
+    "tweet_count": "554K Tweets"
+  },
+  {
     "name": "Ukraine",
     "query": "Ukraine",
-    "rank": 1,
-    "tweet_count": "2.27M Tweets"
+    "rank": 2,
+    "tweet_count": "2.73M Tweets"
   },
   {
     "name": "BRICS",
     "query": "BRICS",
-    "rank": 2,
-    "tweet_count": "3,942 Tweets"
-  },
-  {
-    "name": "Naledi Pandor",
-    "query": "\"Naledi Pandor\"",
     "rank": 3,
-    "tweet_count": "3,220 Tweets"
+    "tweet_count": "4,053 Tweets"
   },
   {
     "name": "China",
     "query": "China",
     "rank": 4,
-    "tweet_count": "526K Tweets"
+    "tweet_count": "531K Tweets"
+  },
+  {
+    "name": "Naledi Pandor",
+    "query": "\"Naledi Pandor\"",
+    "rank": 5,
+    "tweet_count": "3,301 Tweets"
   },
   {
     "name": "Mabena",
     "query": "Mabena",
-    "rank": 5,
-    "tweet_count": "1,414 Tweets"
-  },
-  {
-    "name": "America",
-    "query": "America",
     "rank": 6,
-    "tweet_count": "572K Tweets"
-  },
-  {
-    "name": "Taiwan",
-    "query": "Taiwan",
-    "rank": 7,
-    "tweet_count": "170K Tweets"
+    "tweet_count": "1,483 Tweets"
   },
   {
     "name": "Hlomu",
     "query": "Hlomu",
+    "rank": 7,
+    "tweet_count": "1,776 Tweets"
+  },
+  {
+    "name": "America",
+    "query": "America",
     "rank": 8,
-    "tweet_count": "1,740 Tweets"
+    "tweet_count": "577K Tweets"
   },
   {
-    "name": "Libya",
-    "query": "Libya",
+    "name": "SANDF",
+    "query": "SANDF",
     "rank": 9,
-    "tweet_count": "31.7K Tweets"
+    "tweet_count": "2,796 Tweets"
   },
   {
-    "name": "Lesotho",
-    "query": "Lesotho",
+    "name": "Taiwan",
+    "query": "Taiwan",
     "rank": 10,
-    "tweet_count": "2,268 Tweets"
+    "tweet_count": "174K Tweets"
   },
   {
     "name": "#WindFree",
@@ -66,57 +66,57 @@
     "tweet_count": null
   },
   {
-    "name": "SANDF",
-    "query": "SANDF",
-    "rank": 12,
-    "tweet_count": "2,419 Tweets"
-  },
-  {
     "name": "West",
     "query": "West",
-    "rank": 13,
-    "tweet_count": "457K Tweets"
+    "rank": 12,
+    "tweet_count": "464K Tweets"
   },
   {
-    "name": "#UmsebenziWithAzola",
-    "query": "#UmsebenziWithAzola",
-    "rank": 14,
-    "tweet_count": null
+    "name": "Lesotho",
+    "query": "Lesotho",
+    "rank": 13,
+    "tweet_count": "2,344 Tweets"
   },
   {
     "name": "#PineappleInsurance",
     "query": "#PineappleInsurance",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "#UmsebenziWithAzola",
+    "query": "#UmsebenziWithAzola",
     "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "#KZNSOPA2022",
-    "query": "#KZNSOPA2022",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Nqoba",
-    "query": "Nqoba",
-    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "#depression",
     "query": "#depression",
+    "rank": 16,
+    "tweet_count": "6,491 Tweets"
+  },
+  {
+    "name": "#KZNSOPA2022",
+    "query": "#KZNSOPA2022",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Nqoba",
+    "query": "Nqoba",
     "rank": 18,
-    "tweet_count": "6,380 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Big Zulu",
-    "query": "\"Big Zulu\"",
+    "name": "Israel",
+    "query": "Israel",
     "rank": 19,
-    "tweet_count": "9,214 Tweets"
+    "tweet_count": "148K Tweets"
   },
   {
-    "name": "Syria",
-    "query": "Syria",
+    "name": "Soviet Union",
+    "query": "\"Soviet Union\"",
     "rank": 20,
-    "tweet_count": "72K Tweets"
+    "tweet_count": "38.3K Tweets"
   }
 ]

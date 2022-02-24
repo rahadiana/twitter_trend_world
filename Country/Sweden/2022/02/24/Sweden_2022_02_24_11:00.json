@@ -3,31 +3,31 @@
     "name": "Ukraine",
     "query": "Ukraine",
     "rank": 1,
-    "tweet_count": "2.27M Tweets"
+    "tweet_count": "2.2M Tweets"
   },
   {
     "name": "Ryssland",
     "query": "Ryssland",
     "rank": 2,
-    "tweet_count": "8,618 Tweets"
+    "tweet_count": "8,893 Tweets"
   },
   {
-    "name": "NATO",
-    "query": "NATO",
+    "name": "Putin",
+    "query": "Putin",
     "rank": 3,
-    "tweet_count": "857K Tweets"
+    "tweet_count": "284K Tweets"
   },
   {
     "name": "UEFA",
     "query": "UEFA",
     "rank": 4,
-    "tweet_count": "45K Tweets"
+    "tweet_count": "47.2K Tweets"
   },
   {
     "name": "Taiwan",
     "query": "Taiwan",
     "rank": 5,
-    "tweet_count": "170K Tweets"
+    "tweet_count": "174K Tweets"
   },
   {
     "name": "Reinfeldt",
@@ -42,57 +42,63 @@
     "tweet_count": null
   },
   {
-    "name": "Magdalena Andersson",
-    "query": "\"Magdalena Andersson\"",
+    "name": "Polen",
+    "query": "Polen",
     "rank": 8,
-    "tweet_count": "1,267 Tweets"
+    "tweet_count": "6,496 Tweets"
   },
   {
-    "name": "ukrainska",
-    "query": "ukrainska",
+    "name": "Magdalena Andersson",
+    "query": "\"Magdalena Andersson\"",
     "rank": 9,
-    "tweet_count": "8,202 Tweets"
+    "tweet_count": "1,283 Tweets"
   },
   {
     "name": "Belarus",
     "query": "Belarus",
     "rank": 10,
-    "tweet_count": "146K Tweets"
+    "tweet_count": "148K Tweets"
+  },
+  {
+    "name": "Ukrainska",
+    "query": "Ukrainska",
+    "rank": 11,
+    "tweet_count": "8,417 Tweets"
   },
   {
     "name": "Ryska",
     "query": "Ryska",
-    "rank": 11,
-    "tweet_count": "3,434 Tweets"
-  },
-  {
-    "name": "Europe",
-    "query": "Europe",
     "rank": 12,
-    "tweet_count": "542K Tweets"
+    "tweet_count": "3,552 Tweets"
   },
   {
     "name": "Europas",
     "query": "Europas",
     "rank": 13,
-    "tweet_count": "3,214 Tweets"
+    "tweet_count": "3,286 Tweets"
   },
   {
-    "name": "Kreml",
-    "query": "Kreml",
+    "name": "Europe",
+    "query": "Europe",
     "rank": 14,
-    "tweet_count": "4,126 Tweets"
+    "tweet_count": "554K Tweets"
   },
   {
     "name": "Moskva",
     "query": "Moskva",
     "rank": 15,
-    "tweet_count": "1,938 Tweets"
+    "tweet_count": "1,968 Tweets"
+  },
+  {
+    "name": "Kreml",
+    "query": "Kreml",
+    "rank": 16,
+    "tweet_count": "4,271 Tweets"
   },
   {
     "name": "Krim",
     "query": "Krim",
-    "rank": 16,
-    "tweet_count": "7,059 Tweets"
+    "rank": 17,
+    "tweet_count": "7,332 Tweets"
   }
 ]
