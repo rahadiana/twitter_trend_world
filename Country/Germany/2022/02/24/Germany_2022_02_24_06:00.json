@@ -3,25 +3,25 @@
     "name": "#Ukraine",
     "query": "#Ukraine",
     "rank": 1,
-    "tweet_count": "510K Tweets"
+    "tweet_count": "558K Tweets"
   },
   {
     "name": "Krieg in Europa",
     "query": "\"Krieg in Europa\"",
     "rank": 2,
-    "tweet_count": "2,217 Tweets"
-  },
-  {
-    "name": "#Angriffskrieg",
-    "query": "#Angriffskrieg",
-    "rank": 3,
-    "tweet_count": null
+    "tweet_count": "2,698 Tweets"
   },
   {
     "name": "#Russland",
     "query": "#Russland",
+    "rank": 3,
+    "tweet_count": "12.6K Tweets"
+  },
+  {
+    "name": "Angriffskrieg",
+    "query": "Angriffskrieg",
     "rank": 4,
-    "tweet_count": "11.3K Tweets"
+    "tweet_count": "1,431 Tweets"
   },
   {
     "name": "#Kiew",
@@ -30,10 +30,10 @@
     "tweet_count": null
   },
   {
-    "name": "Explosionen",
-    "query": "Explosionen",
+    "name": "Tag für Europa",
+    "query": "\"Tag für Europa\"",
     "rank": 6,
-    "tweet_count": "1,721 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Helme",
@@ -42,45 +42,81 @@
     "tweet_count": null
   },
   {
-    "name": "#Impfstopp",
-    "query": "#Impfstopp",
+    "name": "Kriegszustand",
+    "query": "Kriegszustand",
     "rank": 8,
-    "tweet_count": "9,955 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Karneval",
-    "query": "Karneval",
+    "name": "Explosionen",
+    "query": "Explosionen",
     "rank": 9,
-    "tweet_count": "2,230 Tweets"
+    "tweet_count": "2,042 Tweets"
+  },
+  {
+    "name": "Weltkrieg",
+    "query": "Weltkrieg",
+    "rank": 10,
+    "tweet_count": "2,865 Tweets"
   },
   {
     "name": "Sanktionen",
     "query": "Sanktionen",
-    "rank": 10,
-    "tweet_count": "11.1K Tweets"
-  },
-  {
-    "name": "Taiwan",
-    "query": "Taiwan",
     "rank": 11,
-    "tweet_count": "98.4K Tweets"
+    "tweet_count": "11.8K Tweets"
   },
   {
-    "name": "#Impfnebenwirkungen",
-    "query": "#Impfnebenwirkungen",
+    "name": "Karneval",
+    "query": "Karneval",
     "rank": 12,
-    "tweet_count": "7,498 Tweets"
+    "tweet_count": "2,356 Tweets"
   },
   {
-    "name": "#Kriegserklaerung",
-    "query": "#Kriegserklaerung",
+    "name": "Bomben",
+    "query": "Bomben",
     "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "#Maischberger",
-    "query": "#Maischberger",
+    "name": "#Impfstopp",
+    "query": "#Impfstopp",
     "rank": 14,
-    "tweet_count": "2,272 Tweets"
+    "tweet_count": "10.4K Tweets"
+  },
+  {
+    "name": "#NoWar",
+    "query": "#NoWar",
+    "rank": 15,
+    "tweet_count": "8,470 Tweets"
+  },
+  {
+    "name": "Taiwan",
+    "query": "Taiwan",
+    "rank": 16,
+    "tweet_count": "105K Tweets"
+  },
+  {
+    "name": "Bruch des Völkerrechts",
+    "query": "\"Bruch des Völkerrechts\"",
+    "rank": 17,
+    "tweet_count": "1,663 Tweets"
+  },
+  {
+    "name": "Gerhard Schröder",
+    "query": "\"Gerhard Schröder\"",
+    "rank": 18,
+    "tweet_count": "2,571 Tweets"
+  },
+  {
+    "name": "Diktator",
+    "query": "Diktator",
+    "rank": 19,
+    "tweet_count": "2,037 Tweets"
+  },
+  {
+    "name": "#Kriegserklaerung",
+    "query": "#Kriegserklaerung",
+    "rank": 20,
+    "tweet_count": null
   }
 ]
