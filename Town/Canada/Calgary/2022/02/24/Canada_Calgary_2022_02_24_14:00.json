@@ -3,72 +3,78 @@
     "name": "Ukraine",
     "query": "Ukraine",
     "rank": 1,
-    "tweet_count": "2.15M Tweets"
+    "tweet_count": "2.13M Tweets"
+  },
+  {
+    "name": "Ukraine",
+    "query": "Ukraine",
+    "rank": 2,
+    "tweet_count": "2.13M Tweets"
   },
   {
     "name": "Taiwan",
     "query": "Taiwan",
-    "rank": 2,
-    "tweet_count": "252K Tweets"
+    "rank": 3,
+    "tweet_count": "263K Tweets"
   },
   {
     "name": "#SFFpit",
     "query": "#SFFpit",
-    "rank": 3,
-    "tweet_count": "11.8K Tweets"
-  },
-  {
-    "name": "Europe",
-    "query": "Europe",
     "rank": 4,
-    "tweet_count": "688K Tweets"
-  },
-  {
-    "name": "#ThursdayThoughts",
-    "query": "#ThursdayThoughts",
-    "rank": 5,
-    "tweet_count": "31.5K Tweets"
+    "tweet_count": "13.4K Tweets"
   },
   {
     "name": "#Wordle250",
     "query": "#Wordle250",
+    "rank": 5,
+    "tweet_count": "4,627 Tweets"
+  },
+  {
+    "name": "#ThursdayThoughts",
+    "query": "#ThursdayThoughts",
     "rank": 6,
-    "tweet_count": "4,526 Tweets"
+    "tweet_count": "32.2K Tweets"
+  },
+  {
+    "name": "Kiev",
+    "query": "Kiev",
+    "rank": 7,
+    "tweet_count": "818K Tweets"
+  },
+  {
+    "name": "USSR",
+    "query": "USSR",
+    "rank": 8,
+    "tweet_count": "76K Tweets"
   },
   {
     "name": "Crimea",
     "query": "Crimea",
-    "rank": 7,
-    "tweet_count": "159K Tweets"
+    "rank": 9,
+    "tweet_count": "162K Tweets"
   },
   {
     "name": "Russes",
     "query": "Russes",
-    "rank": 8,
-    "tweet_count": "122K Tweets"
+    "rank": 10,
+    "tweet_count": "125K Tweets"
   },
   {
     "name": "Belarus",
     "query": "Belarus",
-    "rank": 9,
-    "tweet_count": "185K Tweets"
-  },
-  {
-    "name": "Cold War",
-    "query": "\"Cold War\"",
-    "rank": 10,
-    "tweet_count": "46K Tweets"
-  },
-  {
-    "name": "Soviet Union",
-    "query": "\"Soviet Union\"",
     "rank": 11,
-    "tweet_count": "45K Tweets"
+    "tweet_count": "190K Tweets"
   },
   {
-    "name": "Kremlin",
-    "query": "Kremlin",
+    "name": "The UN",
+    "query": "\"The UN\"",
     "rank": 12,
-    "tweet_count": "152K Tweets"
+    "tweet_count": "310K Tweets"
+  },
+  {
+    "name": "Middle East",
+    "query": "\"Middle East\"",
+    "rank": 13,
+    "tweet_count": "25.3K Tweets"
   }
 ]
