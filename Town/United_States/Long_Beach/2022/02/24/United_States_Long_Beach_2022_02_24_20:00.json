@@ -1,33 +1,33 @@
 [
   {
-    "name": "The US",
-    "query": "\"The US\"",
-    "rank": 1,
-    "tweet_count": "2.29M Tweets"
-  },
-  {
-    "name": "#LGBT",
-    "query": "#LGBT",
-    "rank": 2,
-    "tweet_count": "13.8K Tweets"
-  },
-  {
-    "name": "Yemen",
-    "query": "Yemen",
-    "rank": 3,
-    "tweet_count": "74.4K Tweets"
-  },
-  {
     "name": "Wordle 250 X",
     "query": "\"Wordle 250 X\"",
-    "rank": 4,
-    "tweet_count": "4,476 Tweets"
+    "rank": 1,
+    "tweet_count": "4,493 Tweets"
   },
   {
     "name": "Syria",
     "query": "Syria",
+    "rank": 2,
+    "tweet_count": "153K Tweets"
+  },
+  {
+    "name": "Kehlani",
+    "query": "Kehlani",
+    "rank": 3,
+    "tweet_count": "6,544 Tweets"
+  },
+  {
+    "name": "Red Dawn",
+    "query": "\"Red Dawn\"",
+    "rank": 4,
+    "tweet_count": "4,418 Tweets"
+  },
+  {
+    "name": "#LetsGoBrandon",
+    "query": "#LetsGoBrandon",
     "rank": 5,
-    "tweet_count": "151K Tweets"
+    "tweet_count": "7,205 Tweets"
   },
   {
     "name": "#CISC2022",
@@ -36,87 +36,87 @@
     "tweet_count": null
   },
   {
-    "name": "Kehlani",
-    "query": "Kehlani",
-    "rank": 7,
-    "tweet_count": "6,448 Tweets"
-  },
-  {
-    "name": "Kremlin",
-    "query": "Kremlin",
-    "rank": 8,
-    "tweet_count": "279K Tweets"
-  },
-  {
-    "name": "Afghanistan",
-    "query": "Afghanistan",
-    "rank": 9,
-    "tweet_count": "234K Tweets"
-  },
-  {
-    "name": "#LetsGoBrandon",
-    "query": "#LetsGoBrandon",
-    "rank": 10,
-    "tweet_count": "7,097 Tweets"
-  },
-  {
-    "name": "Red Dawn",
-    "query": "\"Red Dawn\"",
-    "rank": 11,
-    "tweet_count": "4,299 Tweets"
-  },
-  {
-    "name": "#GOPTraitorsToDemocracy",
-    "query": "#GOPTraitorsToDemocracy",
-    "rank": 12,
-    "tweet_count": "22.3K Tweets"
-  },
-  {
     "name": "Nuclear",
     "query": "Nuclear",
-    "rank": 13,
-    "tweet_count": "567K Tweets"
-  },
-  {
-    "name": "Lithuania",
-    "query": "Lithuania",
-    "rank": 14,
-    "tweet_count": "40.5K Tweets"
-  },
-  {
-    "name": "Iran",
-    "query": "Iran",
-    "rank": 15,
-    "tweet_count": "161K Tweets"
+    "rank": 7,
+    "tweet_count": "573K Tweets"
   },
   {
     "name": "POTUS",
     "query": "POTUS",
-    "rank": 16,
-    "tweet_count": "490K Tweets"
-  },
-  {
-    "name": "Mr. President",
-    "query": "\"Mr. President\"",
-    "rank": 17,
-    "tweet_count": "18.1K Tweets"
-  },
-  {
-    "name": "Libya",
-    "query": "Libya",
-    "rank": 18,
-    "tweet_count": "72K Tweets"
+    "rank": 8,
+    "tweet_count": "497K Tweets"
   },
   {
     "name": "#cybersecurity",
     "query": "#cybersecurity",
-    "rank": 19,
-    "tweet_count": "37.4K Tweets"
+    "rank": 9,
+    "tweet_count": "37.7K Tweets"
   },
   {
-    "name": "North Korea",
-    "query": "\"North Korea\"",
+    "name": "Keystone",
+    "query": "Keystone",
+    "rank": 10,
+    "tweet_count": "74.3K Tweets"
+  },
+  {
+    "name": "Middle East",
+    "query": "\"Middle East\"",
+    "rank": 11,
+    "tweet_count": "35.9K Tweets"
+  },
+  {
+    "name": "The United States",
+    "query": "\"The United States\"",
+    "rank": 12,
+    "tweet_count": "294K Tweets"
+  },
+  {
+    "name": "Stalin",
+    "query": "Stalin",
+    "rank": 13,
+    "tweet_count": "46.6K Tweets"
+  },
+  {
+    "name": "Ukraine",
+    "query": "Ukraine",
+    "rank": 14,
+    "tweet_count": "4.24M Tweets"
+  },
+  {
+    "name": "Putin",
+    "query": "Putin",
+    "rank": 15,
+    "tweet_count": "3.64M Tweets"
+  },
+  {
+    "name": "Chernobyl",
+    "query": "Chernobyl",
+    "rank": 16,
+    "tweet_count": "290K Tweets"
+  },
+  {
+    "name": "Biden",
+    "query": "Biden",
+    "rank": 17,
+    "tweet_count": "2M Tweets"
+  },
+  {
+    "name": "Cesaro",
+    "query": "Cesaro",
+    "rank": 18,
+    "tweet_count": "4,418 Tweets"
+  },
+  {
+    "name": "NATO",
+    "query": "NATO",
+    "rank": 19,
+    "tweet_count": "1.7M Tweets"
+  },
+  {
+    "name": "#SFFpit",
+    "query": "#SFFpit",
     "rank": 20,
-    "tweet_count": "104K Tweets"
+    "tweet_count": "48.4K Tweets"
   }
 ]
