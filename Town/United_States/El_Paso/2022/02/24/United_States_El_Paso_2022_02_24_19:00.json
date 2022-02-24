@@ -1,69 +1,69 @@
 [
   {
-    "name": "Belarus",
-    "query": "Belarus",
-    "rank": 1,
-    "tweet_count": "250K Tweets"
-  },
-  {
     "name": "Call of Duty",
     "query": "\"Call of Duty\"",
-    "rank": 2,
-    "tweet_count": "44K Tweets"
-  },
-  {
-    "name": "Syria",
-    "query": "Syria",
-    "rank": 3,
-    "tweet_count": "140K Tweets"
-  },
-  {
-    "name": "Kyiv",
-    "query": "Kyiv",
-    "rank": 4,
-    "tweet_count": "1.03M Tweets"
+    "rank": 1,
+    "tweet_count": "44.9K Tweets"
   },
   {
     "name": "Vietnam",
     "query": "Vietnam",
-    "rank": 5,
-    "tweet_count": "73.1K Tweets"
+    "rank": 2,
+    "tweet_count": "73.8K Tweets"
+  },
+  {
+    "name": "Vlad",
+    "query": "Vlad",
+    "rank": 3,
+    "tweet_count": "37.8K Tweets"
   },
   {
     "name": "Ukraine",
     "query": "Ukraine",
-    "rank": 6,
-    "tweet_count": "3.02M Tweets"
+    "rank": 4,
+    "tweet_count": "1.22M Tweets"
+  },
+  {
+    "name": "Putin",
+    "query": "Putin",
+    "rank": 5,
+    "tweet_count": "1.8M Tweets"
   },
   {
     "name": "Chernobyl",
     "query": "Chernobyl",
-    "rank": 7,
-    "tweet_count": "258K Tweets"
+    "rank": 6,
+    "tweet_count": "265K Tweets"
   },
   {
     "name": "NATO",
     "query": "NATO",
-    "rank": 8,
-    "tweet_count": "1.62M Tweets"
+    "rank": 7,
+    "tweet_count": "1.59M Tweets"
   },
   {
     "name": "#SFFpit",
     "query": "#SFFpit",
-    "rank": 9,
-    "tweet_count": "42.5K Tweets"
+    "rank": 8,
+    "tweet_count": "43.4K Tweets"
   },
   {
     "name": "Taiwan",
     "query": "Taiwan",
-    "rank": 10,
-    "tweet_count": "433K Tweets"
+    "rank": 9,
+    "tweet_count": "439K Tweets"
   },
   {
     "name": "John Kerry",
     "query": "\"John Kerry\"",
+    "rank": 10,
+    "tweet_count": "12.5K Tweets"
+  },
+  {
+    "name": "Peter Doocy",
+    "query": "\"Peter Doocy\"",
     "rank": 11,
-    "tweet_count": "12.1K Tweets"
+    "tweet_count": "9,013 Tweets"
   },
   {
     "name": "#SkylineSweepstakes",
@@ -75,48 +75,48 @@
     "name": "Art Briles",
     "query": "\"Art Briles\"",
     "rank": 13,
-    "tweet_count": "1,338 Tweets"
-  },
-  {
-    "name": "Peter Doocy",
-    "query": "\"Peter Doocy\"",
-    "rank": 14,
-    "tweet_count": "7,256 Tweets"
+    "tweet_count": "1,405 Tweets"
   },
   {
     "name": "Applebees",
     "query": "Applebees",
-    "rank": 15,
-    "tweet_count": "10.6K Tweets"
+    "rank": 14,
+    "tweet_count": "12.4K Tweets"
   },
   {
     "name": "Gronk",
     "query": "Gronk",
+    "rank": 15,
+    "tweet_count": "3,007 Tweets"
+  },
+  {
+    "name": "Moscow",
+    "query": "Moscow",
     "rank": 16,
-    "tweet_count": "2,847 Tweets"
+    "tweet_count": "405K Tweets"
   },
   {
     "name": "#ZackSnyder𓃵",
     "query": "#ZackSnyder𓃵",
     "rank": 17,
-    "tweet_count": "17.7K Tweets"
+    "tweet_count": "18.2K Tweets"
   },
   {
-    "name": "#ThursdayThoughts",
-    "query": "#ThursdayThoughts",
+    "name": "90210",
+    "query": "90210",
     "rank": 18,
-    "tweet_count": "43.2K Tweets"
-  },
-  {
-    "name": "#AddALetterRuinAFairyTale",
-    "query": "#AddALetterRuinAFairyTale",
-    "rank": 19,
-    "tweet_count": null
+    "tweet_count": "1,172 Tweets"
   },
   {
     "name": "My Collection",
     "query": "\"My Collection\"",
+    "rank": 19,
+    "tweet_count": "60.8K Tweets"
+  },
+  {
+    "name": "#AddALetterRuinAFairyTale",
+    "query": "#AddALetterRuinAFairyTale",
     "rank": 20,
-    "tweet_count": "60.2K Tweets"
+    "tweet_count": null
   }
 ]
