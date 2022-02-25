@@ -1,9 +1,9 @@
 [
   {
-    "name": "SWIFT",
-    "query": "SWIFT",
+    "name": "Ukrainians",
+    "query": "Ukrainians",
     "rank": 1,
-    "tweet_count": "527K Tweets"
+    "tweet_count": "582K Tweets"
   },
   {
     "name": "שבת שלום",
@@ -12,14 +12,14 @@
     "tweet_count": null
   },
   {
-    "name": "Putin",
-    "query": "Putin",
-    "rank": 3,
-    "tweet_count": "6M Tweets"
-  },
-  {
     "name": "בוקר טוב",
     "query": "\"בוקר טוב\"",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "בוקר אור",
+    "query": "\"בוקר אור\"",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,41 +27,41 @@
     "name": "NATO",
     "query": "NATO",
     "rank": 5,
-    "tweet_count": "1.92M Tweets"
+    "tweet_count": "1.94M Tweets"
   },
   {
     "name": "של פוטין",
     "query": "\"של פוטין\"",
     "rank": 6,
-    "tweet_count": "3,649 Tweets"
+    "tweet_count": "3,691 Tweets"
+  },
+  {
+    "name": "של ביידן",
+    "query": "\"של ביידן\"",
+    "rank": 7,
+    "tweet_count": "1,468 Tweets"
   },
   {
     "name": "#Ukraina",
     "query": "#Ukraina",
-    "rank": 7,
-    "tweet_count": "379K Tweets"
+    "rank": 8,
+    "tweet_count": "382K Tweets"
   },
   {
     "name": "Taiwan",
     "query": "Taiwan",
-    "rank": 8,
-    "tweet_count": "518K Tweets"
+    "rank": 9,
+    "tweet_count": "521K Tweets"
   },
   {
     "name": "Moldova",
     "query": "Moldova",
-    "rank": 9,
-    "tweet_count": "42.6K Tweets"
+    "rank": 10,
+    "tweet_count": "42.9K Tweets"
   },
   {
     "name": "ברוך דיין",
     "query": "\"ברוך דיין\"",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "בוקר אור",
-    "query": "\"בוקר אור\"",
     "rank": 11,
     "tweet_count": null
   },
@@ -72,51 +72,51 @@
     "tweet_count": null
   },
   {
-    "name": "יאיר לפיד",
-    "query": "\"יאיר לפיד\"",
-    "rank": 13,
-    "tweet_count": "1,737 Tweets"
-  },
-  {
-    "name": "של ביידן",
-    "query": "\"של ביידן\"",
-    "rank": 14,
-    "tweet_count": "1,449 Tweets"
-  },
-  {
     "name": "של רוסיה",
     "query": "\"של רוסיה\"",
+    "rank": 13,
+    "tweet_count": "3,231 Tweets"
+  },
+  {
+    "name": "יאיר לפיד",
+    "query": "\"יאיר לפיד\"",
+    "rank": 14,
+    "tweet_count": "1,754 Tweets"
+  },
+  {
+    "name": "روسيا",
+    "query": "روسيا",
     "rank": 15,
-    "tweet_count": "3,200 Tweets"
+    "tweet_count": "415K Tweets"
+  },
+  {
+    "name": "ערן זהבי",
+    "query": "\"ערן זהבי\"",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "עם פוטין",
+    "query": "\"עם פוטין\"",
+    "rank": 17,
+    "tweet_count": "1,818 Tweets"
   },
   {
     "name": "Chernobyl",
     "query": "Chernobyl",
-    "rank": 16,
-    "tweet_count": "388K Tweets"
+    "rank": 18,
+    "tweet_count": "390K Tweets"
   },
   {
     "name": "גיל תמרי",
     "query": "\"גיל תמרי\"",
-    "rank": 17,
+    "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Germany",
-    "query": "Germany",
-    "rank": 18,
-    "tweet_count": "351K Tweets"
-  },
-  {
-    "name": "Nazis",
-    "query": "Nazis",
-    "rank": 19,
-    "tweet_count": "176K Tweets"
-  },
-  {
-    "name": "Crimea",
-    "query": "Crimea",
+    "name": "SWIFT",
+    "query": "SWIFT",
     "rank": 20,
-    "tweet_count": "172K Tweets"
+    "tweet_count": "533K Tweets"
   }
 ]
