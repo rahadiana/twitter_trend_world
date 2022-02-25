@@ -1,39 +1,39 @@
 [
   {
-    "name": "SWIFT",
-    "query": "SWIFT",
-    "rank": 1,
-    "tweet_count": "634K Tweets"
-  },
-  {
     "name": "#UkraineInvasion",
     "query": "#UkraineInvasion",
-    "rank": 2,
-    "tweet_count": "223K Tweets"
+    "rank": 1,
+    "tweet_count": "233K Tweets"
   },
   {
     "name": "Russland",
     "query": "Russland",
-    "rank": 3,
-    "tweet_count": "145K Tweets"
+    "rank": 2,
+    "tweet_count": "148K Tweets"
   },
   {
     "name": "NATO",
     "query": "NATO",
-    "rank": 4,
-    "tweet_count": "1.66M Tweets"
+    "rank": 3,
+    "tweet_count": "1.73M Tweets"
   },
   {
     "name": "#selfiefredag",
     "query": "#selfiefredag",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Elden Ring",
     "query": "\"Elden Ring\"",
+    "rank": 5,
+    "tweet_count": "300K Tweets"
+  },
+  {
+    "name": "SWIFT",
+    "query": "SWIFT",
     "rank": 6,
-    "tweet_count": "175K Tweets"
+    "tweet_count": "651K Tweets"
   },
   {
     "name": "Steigan",
@@ -42,10 +42,10 @@
     "tweet_count": null
   },
   {
-    "name": "Southampton",
-    "query": "Southampton",
+    "name": "Kyiv",
+    "query": "Kyiv",
     "rank": 8,
-    "tweet_count": "8,986 Tweets"
+    "tweet_count": "1.4M Tweets"
   },
   {
     "name": "#bodcel",
@@ -57,25 +57,25 @@
     "name": "Finland",
     "query": "Finland",
     "rank": 10,
-    "tweet_count": "73.6K Tweets"
+    "tweet_count": "85.7K Tweets"
   },
   {
-    "name": "#ARSWOL",
-    "query": "#ARSWOL",
+    "name": "Southampton",
+    "query": "Southampton",
     "rank": 11,
-    "tweet_count": "86.8K Tweets"
-  },
-  {
-    "name": "Europe",
-    "query": "Europe",
-    "rank": 12,
-    "tweet_count": "866K Tweets"
+    "tweet_count": "9,610 Tweets"
   },
   {
     "name": "Laca",
     "query": "Laca",
+    "rank": 12,
+    "tweet_count": "24.3K Tweets"
+  },
+  {
+    "name": "Europe",
+    "query": "Europe",
     "rank": 13,
-    "tweet_count": "24.1K Tweets"
+    "tweet_count": "890K Tweets"
   },
   {
     "name": "Aspmyra",
@@ -87,23 +87,23 @@
     "name": "#UECL",
     "query": "#UECL",
     "rank": 15,
-    "tweet_count": "22.6K Tweets"
-  },
-  {
-    "name": "Taiwan",
-    "query": "Taiwan",
-    "rank": 16,
-    "tweet_count": "326K Tweets"
+    "tweet_count": "22.8K Tweets"
   },
   {
     "name": "Eurovision",
     "query": "Eurovision",
-    "rank": 17,
-    "tweet_count": "61.6K Tweets"
+    "rank": 16,
+    "tweet_count": "69K Tweets"
   },
   {
-    "name": "Kondolerer",
-    "query": "Kondolerer",
+    "name": "Taiwan",
+    "query": "Taiwan",
+    "rank": 17,
+    "tweet_count": "330K Tweets"
+  },
+  {
+    "name": "#glimt",
+    "query": "#glimt",
     "rank": 18,
     "tweet_count": null
   },
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "Russiske",
-    "query": "Russiske",
+    "name": "Kondolerer",
+    "query": "Kondolerer",
     "rank": 20,
-    "tweet_count": "2,589 Tweets"
+    "tweet_count": null
   }
 ]
