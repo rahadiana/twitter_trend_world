@@ -1,45 +1,45 @@
 [
   {
-    "name": "SWIFT",
-    "query": "SWIFT",
+    "name": "Ukrainians",
+    "query": "Ukrainians",
     "rank": 1,
-    "tweet_count": "515K Tweets"
+    "tweet_count": "600K Tweets"
   },
   {
     "name": "Rusland",
     "query": "Rusland",
     "rank": 2,
-    "tweet_count": "57.4K Tweets"
+    "tweet_count": "57.6K Tweets"
   },
   {
     "name": "NATO",
     "query": "NATO",
     "rank": 3,
-    "tweet_count": "1.97M Tweets"
+    "tweet_count": "1.99M Tweets"
+  },
+  {
+    "name": "SWIFT",
+    "query": "SWIFT",
+    "rank": 4,
+    "tweet_count": "519K Tweets"
   },
   {
     "name": "#PAOKFCM",
     "query": "#PAOKFCM",
-    "rank": 4,
-    "tweet_count": "3,202 Tweets"
+    "rank": 5,
+    "tweet_count": "3,236 Tweets"
   },
   {
     "name": "Gazprom",
     "query": "Gazprom",
-    "rank": 5,
-    "tweet_count": "79.4K Tweets"
+    "rank": 6,
+    "tweet_count": "79.6K Tweets"
   },
   {
     "name": "#ARSWOL",
     "query": "#ARSWOL",
-    "rank": 6,
-    "tweet_count": "71K Tweets"
-  },
-  {
-    "name": "#UECL",
-    "query": "#UECL",
     "rank": 7,
-    "tweet_count": "18.8K Tweets"
+    "tweet_count": "71.3K Tweets"
   },
   {
     "name": "UEFA",
@@ -54,69 +54,69 @@
     "tweet_count": "10.3K Tweets"
   },
   {
+    "name": "#UECL",
+    "query": "#UECL",
+    "rank": 10,
+    "tweet_count": "18.9K Tweets"
+  },
+  {
     "name": "Taiwan",
     "query": "Taiwan",
-    "rank": 10,
-    "tweet_count": "534K Tweets"
+    "rank": 11,
+    "tweet_count": "536K Tweets"
   },
   {
     "name": "Rwanda",
     "query": "Rwanda",
-    "rank": 11,
-    "tweet_count": "12.6K Tweets"
+    "rank": 12,
+    "tweet_count": "12.7K Tweets"
   },
   {
     "name": "Finland",
     "query": "Finland",
-    "rank": 12,
-    "tweet_count": "44.7K Tweets"
+    "rank": 13,
+    "tweet_count": "44.8K Tweets"
   },
   {
     "name": "Zenit",
     "query": "Zenit",
-    "rank": 13,
+    "rank": 14,
     "tweet_count": "22.8K Tweets"
   },
   {
     "name": "Peter Viggo",
     "query": "\"Peter Viggo\"",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Ukrainske",
     "query": "Ukrainske",
-    "rank": 15,
-    "tweet_count": "1,822 Tweets"
+    "rank": 16,
+    "tweet_count": "1,829 Tweets"
   },
   {
     "name": "#ELDENRING",
     "query": "#ELDENRING",
-    "rank": 16,
-    "tweet_count": "123K Tweets"
+    "rank": 17,
+    "tweet_count": "124K Tweets"
   },
   {
     "name": "Eurovision",
     "query": "Eurovision",
-    "rank": 17,
-    "tweet_count": "28K Tweets"
+    "rank": 18,
+    "tweet_count": "28.1K Tweets"
+  },
+  {
+    "name": "Vesten",
+    "query": "Vesten",
+    "rank": 19,
+    "tweet_count": null
   },
   {
     "name": "#eliteforsk",
     "query": "#eliteforsk",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Laca",
-    "query": "Laca",
-    "rank": 19,
-    "tweet_count": "22.5K Tweets"
-  },
-  {
-    "name": "Europe",
-    "query": "Europe",
     "rank": 20,
-    "tweet_count": "1.11M Tweets"
+    "tweet_count": null
   }
 ]
