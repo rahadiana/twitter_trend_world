@@ -1,116 +1,122 @@
 [
   {
-    "name": "#EmmanuelMacron",
-    "query": "#EmmanuelMacron",
+    "name": "Russes",
+    "query": "Russes",
     "rank": 1,
-    "tweet_count": "18.8K Tweets"
+    "tweet_count": "223K Tweets"
   },
   {
-    "name": "Roumanie",
-    "query": "Roumanie",
+    "name": "#VendrediLecture",
+    "query": "#VendrediLecture",
     "rank": 2,
-    "tweet_count": "9,188 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "#EmmanuelMacron",
+    "query": "#EmmanuelMacron",
+    "rank": 3,
+    "tweet_count": "18.9K Tweets"
   },
   {
     "name": "#RussieUkraine",
     "query": "#RussieUkraine",
-    "rank": 3,
-    "tweet_count": "12.7K Tweets"
+    "rank": 4,
+    "tweet_count": "12.9K Tweets"
+  },
+  {
+    "name": "Roumanie",
+    "query": "Roumanie",
+    "rank": 5,
+    "tweet_count": "9,615 Tweets"
   },
   {
     "name": "#UkraineInvasion",
     "query": "#UkraineInvasion",
-    "rank": 4,
-    "tweet_count": "109K Tweets"
+    "rank": 6,
+    "tweet_count": "111K Tweets"
   },
   {
     "name": "Villepin",
     "query": "Villepin",
-    "rank": 5,
-    "tweet_count": "20.2K Tweets"
-  },
-  {
-    "name": "#PekinExpress",
-    "query": "#PekinExpress",
-    "rank": 6,
-    "tweet_count": "17.4K Tweets"
-  },
-  {
-    "name": "#MacronLeFou",
-    "query": "#MacronLeFou",
     "rank": 7,
-    "tweet_count": "14.5K Tweets"
+    "tweet_count": "20.8K Tweets"
+  },
+  {
+    "name": "#GuerreUkraine",
+    "query": "#GuerreUkraine",
+    "rank": 8,
+    "tweet_count": "2,214 Tweets"
   },
   {
     "name": "Satan 2",
     "query": "\"Satan 2\"",
-    "rank": 8,
-    "tweet_count": "6,430 Tweets"
-  },
-  {
-    "name": "SWIFT",
-    "query": "SWIFT",
     "rank": 9,
-    "tweet_count": "532K Tweets"
+    "tweet_count": "6,506 Tweets"
   },
   {
     "name": "Yémen",
     "query": "Yémen",
     "rank": 10,
-    "tweet_count": "110K Tweets"
+    "tweet_count": "111K Tweets"
+  },
+  {
+    "name": "SWIFT",
+    "query": "SWIFT",
+    "rank": 11,
+    "tweet_count": "538K Tweets"
   },
   {
     "name": "Libye",
     "query": "Libye",
-    "rank": 11,
-    "tweet_count": "14K Tweets"
+    "rank": 12,
+    "tweet_count": "14.2K Tweets"
+  },
+  {
+    "name": "OTAN",
+    "query": "OTAN",
+    "rank": 13,
+    "tweet_count": "832K Tweets"
   },
   {
     "name": "Européens",
     "query": "Européens",
-    "rank": 12,
-    "tweet_count": "31.7K Tweets"
+    "rank": 14,
+    "tweet_count": "32.3K Tweets"
   },
   {
     "name": "Irak",
     "query": "Irak",
-    "rank": 13,
-    "tweet_count": "86.7K Tweets"
+    "rank": 15,
+    "tweet_count": "87.3K Tweets"
   },
   {
     "name": "BFMTV",
     "query": "BFMTV",
-    "rank": 14,
-    "tweet_count": "126K Tweets"
-  },
-  {
-    "name": "Vanessa",
-    "query": "Vanessa",
-    "rank": 15,
-    "tweet_count": "22.2K Tweets"
-  },
-  {
-    "name": "#GuerreUkraine",
-    "query": "#GuerreUkraine",
     "rank": 16,
-    "tweet_count": "2,197 Tweets"
+    "tweet_count": "128K Tweets"
+  },
+  {
+    "name": "vanessa",
+    "query": "vanessa",
+    "rank": 17,
+    "tweet_count": "22.4K Tweets"
+  },
+  {
+    "name": "#MacronLeFou",
+    "query": "#MacronLeFou",
+    "rank": 18,
+    "tweet_count": "14.7K Tweets"
   },
   {
     "name": "#StopWar",
     "query": "#StopWar",
-    "rank": 17,
-    "tweet_count": "313K Tweets"
+    "rank": 19,
+    "tweet_count": "316K Tweets"
   },
   {
     "name": "#NaufragePecresse",
     "query": "#NaufragePecresse",
-    "rank": 18,
-    "tweet_count": "51.8K Tweets"
-  },
-  {
-    "name": "#PrayForUkraine",
-    "query": "#PrayForUkraine",
-    "rank": 19,
-    "tweet_count": "146K Tweets"
+    "rank": 20,
+    "tweet_count": "52.3K Tweets"
   }
 ]

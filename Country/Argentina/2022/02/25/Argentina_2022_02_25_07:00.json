@@ -1,116 +1,122 @@
 [
   {
+    "name": "Ukraine",
+    "query": "Ukraine",
+    "rank": 1,
+    "tweet_count": "6.71M Tweets"
+  },
+  {
+    "name": "Putin",
+    "query": "Putin",
+    "rank": 2,
+    "tweet_count": "7.02M Tweets"
+  },
+  {
+    "name": "EEUU",
+    "query": "EEUU",
+    "rank": 3,
+    "tweet_count": "290K Tweets"
+  },
+  {
+    "name": "Malvinas",
+    "query": "Malvinas",
+    "rank": 4,
+    "tweet_count": "53.3K Tweets"
+  },
+  {
+    "name": "Biden",
+    "query": "Biden",
+    "rank": 5,
+    "tweet_count": "2.37M Tweets"
+  },
+  {
+    "name": "Trump",
+    "query": "Trump",
+    "rank": 6,
+    "tweet_count": "1.84M Tweets"
+  },
+  {
+    "name": "#TerceraGuerraMundial",
+    "query": "#TerceraGuerraMundial",
+    "rank": 7,
+    "tweet_count": "344K Tweets"
+  },
+  {
+    "name": "Sputnik",
+    "query": "Sputnik",
+    "rank": 8,
+    "tweet_count": "76.5K Tweets"
+  },
+  {
     "name": "#NestorCumple",
     "query": "#NestorCumple",
-    "rank": 1,
-    "tweet_count": "9,688 Tweets"
-  },
-  {
-    "name": "#LoveSux",
-    "query": "#LoveSux",
-    "rank": 2,
-    "tweet_count": "16.2K Tweets"
-  },
-  {
-    "name": "CHRISTOPHER",
-    "query": "CHRISTOPHER",
-    "rank": 3,
-    "tweet_count": "17.9K Tweets"
-  },
-  {
-    "name": "#Nestorvive",
-    "query": "#Nestorvive",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "candia",
-    "query": "candia",
-    "rank": 5,
-    "tweet_count": "1,560 Tweets"
-  },
-  {
-    "name": "vernon",
-    "query": "vernon",
-    "rank": 6,
-    "tweet_count": "126K Tweets"
-  },
-  {
-    "name": "Pellegrino",
-    "query": "Pellegrino",
-    "rank": 7,
-    "tweet_count": "1,438 Tweets"
-  },
-  {
-    "name": "Coccaro",
-    "query": "Coccaro",
-    "rank": 8,
-    "tweet_count": "1,339 Tweets"
-  },
-  {
-    "name": "Gianetti",
-    "query": "Gianetti",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "9,871 Tweets"
   },
   {
-    "name": "#GreysAnatomy",
-    "query": "#GreysAnatomy",
+    "name": "Chernobyl",
+    "query": "Chernobyl",
     "rank": 10,
-    "tweet_count": "25.2K Tweets"
+    "tweet_count": "391K Tweets"
   },
   {
-    "name": "Joshua",
-    "query": "Joshua",
+    "name": "#Noalaguerra",
+    "query": "#Noalaguerra",
     "rank": 11,
-    "tweet_count": "52.4K Tweets"
+    "tweet_count": "85.5K Tweets"
   },
   {
-    "name": "Bilardo",
-    "query": "Bilardo",
+    "name": "China",
+    "query": "China",
     "rank": 12,
-    "tweet_count": "3,122 Tweets"
+    "tweet_count": "1.16M Tweets"
   },
   {
-    "name": "Ruckauf",
-    "query": "Ruckauf",
+    "name": "alberto",
+    "query": "alberto",
     "rank": 13,
-    "tweet_count": "1,606 Tweets"
+    "tweet_count": "86.5K Tweets"
   },
   {
-    "name": "CNCO",
-    "query": "CNCO",
+    "name": "Estados Unidos",
+    "query": "\"Estados Unidos\"",
     "rank": 14,
-    "tweet_count": "30.6K Tweets"
+    "tweet_count": "228K Tweets"
   },
   {
-    "name": "#Ucraina",
-    "query": "#Ucraina",
+    "name": "#HarryStyles",
+    "query": "#HarryStyles",
     "rank": 15,
-    "tweet_count": "135K Tweets"
+    "tweet_count": "3,894 Tweets"
   },
   {
-    "name": "gran dt",
-    "query": "\"gran dt\"",
+    "name": "Bolivia",
+    "query": "Bolivia",
     "rank": 16,
-    "tweet_count": "1,248 Tweets"
+    "tweet_count": "30K Tweets"
   },
   {
-    "name": "Dalma",
-    "query": "Dalma",
+    "name": "Taiwan",
+    "query": "Taiwan",
     "rank": 17,
-    "tweet_count": "1,917 Tweets"
+    "tweet_count": "523K Tweets"
   },
   {
-    "name": "huracán",
-    "query": "huracán",
+    "name": "Irak",
+    "query": "Irak",
     "rank": 18,
-    "tweet_count": "6,988 Tweets"
+    "tweet_count": "87.3K Tweets"
   },
   {
-    "name": "El Padrino",
-    "query": "\"El Padrino\"",
+    "name": "Natalia Oreiro",
+    "query": "\"Natalia Oreiro\"",
     "rank": 19,
-    "tweet_count": "3,944 Tweets"
+    "tweet_count": "10.7K Tweets"
+  },
+  {
+    "name": "Jong",
+    "query": "Jong",
+    "rank": 20,
+    "tweet_count": "65.6K Tweets"
   }
 ]
