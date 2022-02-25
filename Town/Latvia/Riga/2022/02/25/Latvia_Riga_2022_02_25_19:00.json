@@ -1,39 +1,39 @@
 [
   {
-    "name": "Ukrainians",
-    "query": "Ukrainians",
+    "name": "SWIFT",
+    "query": "SWIFT",
     "rank": 1,
-    "tweet_count": "611K Tweets"
+    "tweet_count": "619K Tweets"
   },
   {
     "name": "Krievijas",
     "query": "Krievijas",
     "rank": 2,
-    "tweet_count": "5,156 Tweets"
-  },
-  {
-    "name": "SWIFT",
-    "query": "SWIFT",
-    "rank": 3,
-    "tweet_count": "614K Tweets"
+    "tweet_count": "5,211 Tweets"
   },
   {
     "name": "NATO",
     "query": "NATO",
-    "rank": 4,
-    "tweet_count": "1.73M Tweets"
+    "rank": 3,
+    "tweet_count": "1.75M Tweets"
   },
   {
     "name": "Kijevas",
     "query": "Kijevas",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "Putina",
     "query": "Putina",
+    "rank": 5,
+    "tweet_count": "75.2K Tweets"
+  },
+  {
+    "name": "Russia",
+    "query": "Russia",
     "rank": 6,
-    "tweet_count": "74.1K Tweets"
+    "tweet_count": "2.18M Tweets"
   },
   {
     "name": "Vācija",
@@ -51,13 +51,13 @@
     "name": "minskā",
     "query": "minskā",
     "rank": 9,
-    "tweet_count": "1,521 Tweets"
+    "tweet_count": "1,526 Tweets"
   },
   {
     "name": "Germany",
     "query": "Germany",
     "rank": 10,
-    "tweet_count": "316K Tweets"
+    "tweet_count": "319K Tweets"
   },
   {
     "name": "Uzvaras",
@@ -66,14 +66,14 @@
     "tweet_count": null
   },
   {
-    "name": "Eirovīzijas",
-    "query": "Eirovīzijas",
+    "name": "Rietumu",
+    "query": "Rietumu",
     "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "Rietumu",
-    "query": "Rietumu",
+    "name": "Beidzot",
+    "query": "Beidzot",
     "rank": 13,
     "tweet_count": null
   },
@@ -84,33 +84,33 @@
     "tweet_count": null
   },
   {
+    "name": "Eirovīzijas",
+    "query": "Eirovīzijas",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
     "name": "Zemessardzē",
     "query": "Zemessardzē",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Aldi",
     "query": "Aldi",
-    "rank": 16,
-    "tweet_count": "31.2K Tweets"
+    "rank": 17,
+    "tweet_count": "31.7K Tweets"
   },
   {
     "name": "Kremļa",
     "query": "Kremļa",
-    "rank": 17,
-    "tweet_count": "5,854 Tweets"
+    "rank": 18,
+    "tweet_count": "5,913 Tweets"
   },
   {
     "name": "Zelenskis",
     "query": "Zelenskis",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Belarus",
-    "query": "Belarus",
     "rank": 19,
-    "tweet_count": "102K Tweets"
+    "tweet_count": null
   }
 ]
