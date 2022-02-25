@@ -3,25 +3,25 @@
     "name": "#UkraineInvasion",
     "query": "#UkraineInvasion",
     "rank": 1,
-    "tweet_count": "244K Tweets"
+    "tweet_count": "245K Tweets"
   },
   {
     "name": "Ryssland",
     "query": "Ryssland",
     "rank": 2,
-    "tweet_count": "14.7K Tweets"
+    "tweet_count": "14.1K Tweets"
   },
   {
     "name": "NATO",
     "query": "NATO",
     "rank": 3,
-    "tweet_count": "1.77M Tweets"
+    "tweet_count": "1.71M Tweets"
   },
   {
     "name": "SWIFT",
     "query": "SWIFT",
     "rank": 4,
-    "tweet_count": "654K Tweets"
+    "tweet_count": "608K Tweets"
   },
   {
     "name": "Kyiv",
@@ -33,7 +33,7 @@
     "name": "Nils van der Poel",
     "query": "\"Nils van der Poel\"",
     "rank": 6,
-    "tweet_count": "3,515 Tweets"
+    "tweet_count": "3,543 Tweets"
   },
   {
     "name": "Skål",
@@ -45,35 +45,35 @@
     "name": "Elden Ring",
     "query": "\"Elden Ring\"",
     "rank": 8,
-    "tweet_count": "180K Tweets"
+    "tweet_count": "302K Tweets"
+  },
+  {
+    "name": "#påspåret",
+    "query": "#påspåret",
+    "rank": 9,
+    "tweet_count": null
   },
   {
     "name": "Gui Minhai",
     "query": "\"Gui Minhai\"",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Tjernobyl",
     "query": "Tjernobyl",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Eurovision",
     "query": "Eurovision",
-    "rank": 11,
-    "tweet_count": "78.4K Tweets"
-  },
-  {
-    "name": "Mitell",
-    "query": "Mitell",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "79.1K Tweets"
   },
   {
-    "name": "Pennan",
-    "query": "Pennan",
+    "name": "#FPLSverige",
+    "query": "#FPLSverige",
     "rank": 13,
     "tweet_count": null
   },
@@ -81,7 +81,7 @@
     "name": "Agnes",
     "query": "Agnes",
     "rank": 14,
-    "tweet_count": "11.1K Tweets"
+    "tweet_count": "10.9K Tweets"
   },
   {
     "name": "Hemvärnet",
@@ -90,33 +90,33 @@
     "tweet_count": null
   },
   {
-    "name": "#FPLSverige",
-    "query": "#FPLSverige",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Trevlig",
-    "query": "Trevlig",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
     "name": "Belarus",
     "query": "Belarus",
-    "rank": 18,
-    "tweet_count": "107K Tweets"
+    "rank": 16,
+    "tweet_count": "101K Tweets"
   },
   {
     "name": "#ARSWOL",
     "query": "#ARSWOL",
-    "rank": 19,
-    "tweet_count": "85.7K Tweets"
+    "rank": 17,
+    "tweet_count": "79.8K Tweets"
   },
   {
     "name": "UEFA",
     "query": "UEFA",
+    "rank": 18,
+    "tweet_count": "131K Tweets"
+  },
+  {
+    "name": "Lacazette",
+    "query": "Lacazette",
+    "rank": 19,
+    "tweet_count": "41.7K Tweets"
+  },
+  {
+    "name": "Mitell",
+    "query": "Mitell",
     "rank": 20,
-    "tweet_count": "130K Tweets"
+    "tweet_count": null
   }
 ]
