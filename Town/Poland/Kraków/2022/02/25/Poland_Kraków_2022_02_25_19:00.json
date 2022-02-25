@@ -1,27 +1,27 @@
 [
   {
-    "name": "Rosjan",
-    "query": "Rosjan",
-    "rank": 1,
-    "tweet_count": "10.4K Tweets"
-  },
-  {
     "name": "UEFA",
     "query": "UEFA",
-    "rank": 2,
-    "tweet_count": "131K Tweets"
+    "rank": 1,
+    "tweet_count": "132K Tweets"
   },
   {
     "name": "Ukraińców",
     "query": "Ukraińców",
-    "rank": 3,
-    "tweet_count": "23.5K Tweets"
+    "rank": 2,
+    "tweet_count": "24K Tweets"
   },
   {
     "name": "SWIFT",
     "query": "SWIFT",
+    "rank": 3,
+    "tweet_count": "614K Tweets"
+  },
+  {
+    "name": "#LEGWIS",
+    "query": "#LEGWIS",
     "rank": 4,
-    "tweet_count": "609K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#KoszKadra",
@@ -30,8 +30,8 @@
     "tweet_count": null
   },
   {
-    "name": "#LEGWIS",
-    "query": "#LEGWIS",
+    "name": "Piotr Żyła",
+    "query": "\"Piotr Żyła\"",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,28 +42,28 @@
     "tweet_count": null
   },
   {
-    "name": "piotr żyła",
-    "query": "\"piotr żyła\"",
+    "name": "#WIDARK",
+    "query": "#WIDARK",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Lahti",
-    "query": "Lahti",
-    "rank": 9,
-    "tweet_count": "2,417 Tweets"
-  },
-  {
     "name": "Radzie Europy",
     "query": "\"Radzie Europy\"",
-    "rank": 10,
-    "tweet_count": "2,121 Tweets"
+    "rank": 9,
+    "tweet_count": "2,139 Tweets"
   },
   {
-    "name": "Rady Europy",
-    "query": "\"Rady Europy\"",
+    "name": "Lahti",
+    "query": "Lahti",
+    "rank": 10,
+    "tweet_count": "2,471 Tweets"
+  },
+  {
+    "name": "rady europy",
+    "query": "\"rady europy\"",
     "rank": 11,
-    "tweet_count": "3,911 Tweets"
+    "tweet_count": "3,925 Tweets"
   },
   {
     "name": "#jakgractoznajlepszymi",
@@ -75,48 +75,48 @@
     "name": "Sakkari",
     "query": "Sakkari",
     "rank": 13,
-    "tweet_count": "2,055 Tweets"
-  },
-  {
-    "name": "#skijumpingfamilly",
-    "query": "#skijumpingfamilly",
-    "rank": 14,
-    "tweet_count": null
+    "tweet_count": "2,073 Tweets"
   },
   {
     "name": "Brawo",
     "query": "Brawo",
-    "rank": 15,
-    "tweet_count": "11.5K Tweets"
-  },
-  {
-    "name": "Iga Świątek",
-    "query": "\"Iga Świątek\"",
-    "rank": 16,
-    "tweet_count": "2,425 Tweets"
+    "rank": 14,
+    "tweet_count": "11.7K Tweets"
   },
   {
     "name": "Finlandii",
     "query": "Finlandii",
-    "rank": 17,
-    "tweet_count": "1,226 Tweets"
+    "rank": 15,
+    "tweet_count": "1,264 Tweets"
+  },
+  {
+    "name": "iga świątek",
+    "query": "\"iga świątek\"",
+    "rank": 16,
+    "tweet_count": "2,458 Tweets"
   },
   {
     "name": "Cypr",
     "query": "Cypr",
-    "rank": 18,
-    "tweet_count": "2,321 Tweets"
+    "rank": 17,
+    "tweet_count": "2,373 Tweets"
   },
   {
     "name": "Poszło",
     "query": "Poszło",
-    "rank": 19,
-    "tweet_count": "1,794 Tweets"
+    "rank": 18,
+    "tweet_count": "1,811 Tweets"
   },
   {
     "name": "Włosi",
     "query": "Włosi",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "Nareszcie",
+    "query": "Nareszcie",
+    "rank": 20,
+    "tweet_count": "1,032 Tweets"
   }
 ]
