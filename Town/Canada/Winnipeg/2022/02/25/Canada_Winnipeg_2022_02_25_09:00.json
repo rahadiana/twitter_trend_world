@@ -1,68 +1,122 @@
 [
   {
-    "name": "Ukraine",
-    "query": "Ukraine",
+    "name": "Ukrainians",
+    "query": "Ukrainians",
     "rank": 1,
-    "tweet_count": "2.18M Tweets"
+    "tweet_count": "589K Tweets"
   },
   {
-    "name": "Russian",
-    "query": "Russian",
+    "name": "SWIFT",
+    "query": "SWIFT",
     "rank": 2,
-    "tweet_count": "4.29M Tweets"
+    "tweet_count": "572K Tweets"
+  },
+  {
+    "name": "NATO",
+    "query": "NATO",
+    "rank": 3,
+    "tweet_count": "1.94M Tweets"
   },
   {
     "name": "#Canucks",
     "query": "#Canucks",
-    "rank": 3,
-    "tweet_count": "6,243 Tweets"
-  },
-  {
-    "name": "#Wordle251",
-    "query": "#Wordle251",
     "rank": 4,
-    "tweet_count": "2,524 Tweets"
+    "tweet_count": "6,254 Tweets"
   },
   {
     "name": "Elden Ring",
     "query": "\"Elden Ring\"",
     "rank": 5,
-    "tweet_count": "163K Tweets"
+    "tweet_count": "252K Tweets"
+  },
+  {
+    "name": "Poutine",
+    "query": "Poutine",
+    "rank": 6,
+    "tweet_count": "458K Tweets"
+  },
+  {
+    "name": "Taiwan",
+    "query": "Taiwan",
+    "rank": 7,
+    "tweet_count": "514K Tweets"
+  },
+  {
+    "name": "Kyiv",
+    "query": "Kyiv",
+    "rank": 8,
+    "tweet_count": "1.27M Tweets"
+  },
+  {
+    "name": "Biden",
+    "query": "Biden",
+    "rank": 9,
+    "tweet_count": "2.34M Tweets"
+  },
+  {
+    "name": "Chernobyl",
+    "query": "Chernobyl",
+    "rank": 10,
+    "tweet_count": "404K Tweets"
+  },
+  {
+    "name": "Europe",
+    "query": "Europe",
+    "rank": 11,
+    "tweet_count": "1.06M Tweets"
   },
   {
     "name": "Demko",
     "query": "Demko",
-    "rank": 6,
-    "tweet_count": "1,838 Tweets"
+    "rank": 12,
+    "tweet_count": "1,842 Tweets"
   },
   {
-    "name": "Petey",
-    "query": "Petey",
-    "rank": 7,
-    "tweet_count": "1,608 Tweets"
+    "name": "Kiev",
+    "query": "Kiev",
+    "rank": 13,
+    "tweet_count": "1.25M Tweets"
   },
   {
-    "name": "Demar",
-    "query": "Demar",
-    "rank": 8,
-    "tweet_count": "55.4K Tweets"
+    "name": "#PinkShirtDay",
+    "query": "#PinkShirtDay",
+    "rank": 14,
+    "tweet_count": "1,321 Tweets"
   },
   {
-    "name": "DeRozan",
-    "query": "DeRozan",
-    "rank": 9,
-    "tweet_count": "52K Tweets"
+    "name": "Wordle 251 X",
+    "query": "\"Wordle 251 X\"",
+    "rank": 15,
+    "tweet_count": "5,846 Tweets"
   },
   {
-    "name": "Markstrom",
-    "query": "Markstrom",
-    "rank": 10,
-    "tweet_count": null
+    "name": "WWIII",
+    "query": "WWIII",
+    "rank": 16,
+    "tweet_count": "562K Tweets"
   },
   {
-    "name": "Auston Matthews",
-    "query": "\"Auston Matthews\"",
-    "rank": 11,
-    "tweet_count": "2,068 Tweets"
+    "name": "#worldwar3",
+    "query": "#worldwar3",
+    "rank": 17,
+    "tweet_count": "520K Tweets"
+  },
+  {
+    "name": "Trump",
+    "query": "Trump",
+    "rank": 18,
+    "tweet_count": "1.81M Tweets"
+  },
+  {
+    "name": "Moscow",
+    "query": "Moscow",
+    "rank": 19,
+    "tweet_count": "610K Tweets"
+  },
+  {
+    "name": "Poland",
+    "query": "Poland",
+    "rank": 20,
+    "tweet_count": "284K Tweets"
   }
 ]
