@@ -1,31 +1,31 @@
 [
   {
-    "name": "Ukrainians",
-    "query": "Ukrainians",
+    "name": "SWIFT",
+    "query": "SWIFT",
     "rank": 1,
-    "tweet_count": "596K Tweets"
+    "tweet_count": "512K Tweets"
   },
   {
     "name": "Rosji",
     "query": "Rosji",
     "rank": 2,
-    "tweet_count": "85.3K Tweets"
+    "tweet_count": "85.6K Tweets"
   },
   {
     "name": "Putina",
     "query": "Putina",
     "rank": 3,
-    "tweet_count": "74.1K Tweets"
+    "tweet_count": "74.4K Tweets"
   },
   {
     "name": "NATO",
     "query": "NATO",
     "rank": 4,
-    "tweet_count": "1.99M Tweets"
+    "tweet_count": "2.01M Tweets"
   },
   {
-    "name": "Ukraińców",
-    "query": "Ukraińców",
+    "name": "ukraińców",
+    "query": "ukraińców",
     "rank": 5,
     "tweet_count": "13.9K Tweets"
   },
@@ -33,7 +33,7 @@
     "name": "Niemcy",
     "query": "Niemcy",
     "rank": 6,
-    "tweet_count": "24.3K Tweets"
+    "tweet_count": "24.4K Tweets"
   },
   {
     "name": "Kijowa",
@@ -48,75 +48,75 @@
     "tweet_count": "130K Tweets"
   },
   {
-    "name": "FIFA",
-    "query": "FIFA",
+    "name": "#ATMMUN",
+    "query": "#ATMMUN",
     "rank": 9,
-    "tweet_count": "57.5K Tweets"
-  },
-  {
-    "name": "Moskwie",
-    "query": "Moskwie",
-    "rank": 10,
-    "tweet_count": "9,488 Tweets"
+    "tweet_count": "4,275 Tweets"
   },
   {
     "name": "chiny",
     "query": "chiny",
-    "rank": 11,
-    "tweet_count": "5,508 Tweets"
+    "rank": 10,
+    "tweet_count": "5,513 Tweets"
   },
   {
-    "name": "Czarnobylu",
-    "query": "Czarnobylu",
+    "name": "FIFA",
+    "query": "FIFA",
+    "rank": 11,
+    "tweet_count": "57.9K Tweets"
+  },
+  {
+    "name": "Moskwie",
+    "query": "Moskwie",
     "rank": 12,
-    "tweet_count": "3,418 Tweets"
+    "tweet_count": "9,506 Tweets"
   },
   {
     "name": "Moskwy",
     "query": "Moskwy",
     "rank": 13,
-    "tweet_count": "7,231 Tweets"
+    "tweet_count": "7,245 Tweets"
+  },
+  {
+    "name": "Czarnobylu",
+    "query": "Czarnobylu",
+    "rank": 14,
+    "tweet_count": "3,424 Tweets"
   },
   {
     "name": "Białorusi",
     "query": "Białorusi",
-    "rank": 14,
-    "tweet_count": "9,049 Tweets"
+    "rank": 15,
+    "tweet_count": "9,065 Tweets"
   },
   {
     "name": "Tajwan",
     "query": "Tajwan",
-    "rank": 15,
-    "tweet_count": "1,791 Tweets"
+    "rank": 16,
+    "tweet_count": "1,793 Tweets"
   },
   {
-    "name": "pzpn",
-    "query": "pzpn",
-    "rank": 16,
-    "tweet_count": "8,182 Tweets"
+    "name": "PZPN",
+    "query": "PZPN",
+    "rank": 17,
+    "tweet_count": "8,192 Tweets"
   },
   {
     "name": "charkowa",
     "query": "charkowa",
-    "rank": 17,
-    "tweet_count": "4,270 Tweets"
-  },
-  {
-    "name": "orlen",
-    "query": "orlen",
     "rank": 18,
-    "tweet_count": "4,727 Tweets"
+    "tweet_count": "4,277 Tweets"
   },
   {
-    "name": "#tlustyczwartek",
-    "query": "#tlustyczwartek",
+    "name": "depresją",
+    "query": "depresją",
     "rank": 19,
-    "tweet_count": "1,588 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Zamknij",
     "query": "Zamknij",
     "rank": 20,
-    "tweet_count": "2,043 Tweets"
+    "tweet_count": "2,044 Tweets"
   }
 ]
