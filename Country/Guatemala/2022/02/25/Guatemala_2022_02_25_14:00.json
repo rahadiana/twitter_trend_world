@@ -1,15 +1,15 @@
 [
   {
-    "name": "#Ukraine",
-    "query": "#Ukraine",
+    "name": "Ukraine",
+    "query": "Ukraine",
     "rank": 1,
-    "tweet_count": "1.96M Tweets"
+    "tweet_count": "2.71M Tweets"
   },
   {
     "name": "Putin",
     "query": "Putin",
     "rank": 2,
-    "tweet_count": "1.74M Tweets"
+    "tweet_count": "1.84M Tweets"
   },
   {
     "name": "moscoso",
@@ -21,13 +21,13 @@
     "name": "Adama",
     "query": "Adama",
     "rank": 4,
-    "tweet_count": "52.1K Tweets"
+    "tweet_count": "52.4K Tweets"
   },
   {
     "name": "#TerceraGuerraMundial",
     "query": "#TerceraGuerraMundial",
     "rank": 5,
-    "tweet_count": "218K Tweets"
+    "tweet_count": "219K Tweets"
   },
   {
     "name": "Villa Nueva",
@@ -45,55 +45,55 @@
     "name": "Belice",
     "query": "Belice",
     "rank": 8,
-    "tweet_count": "1,184 Tweets"
+    "tweet_count": "1,190 Tweets"
   },
   {
     "name": "Colorado",
     "query": "Colorado",
     "rank": 9,
-    "tweet_count": "23.6K Tweets"
+    "tweet_count": "23.9K Tweets"
   },
   {
     "name": "Frenkie",
     "query": "Frenkie",
     "rank": 10,
-    "tweet_count": "48.5K Tweets"
-  },
-  {
-    "name": "Sputnik",
-    "query": "Sputnik",
-    "rank": 11,
-    "tweet_count": "58.3K Tweets"
-  },
-  {
-    "name": "Biden",
-    "query": "Biden",
-    "rank": 12,
-    "tweet_count": "2.18M Tweets"
+    "tweet_count": "48.6K Tweets"
   },
   {
     "name": "China",
     "query": "China",
-    "rank": 13,
-    "tweet_count": "985K Tweets"
+    "rank": 11,
+    "tweet_count": "996K Tweets"
   },
   {
     "name": "Robles",
     "query": "Robles",
-    "rank": 14,
-    "tweet_count": "4,573 Tweets"
+    "rank": 12,
+    "tweet_count": "4,616 Tweets"
   },
   {
-    "name": "Napoli",
-    "query": "Napoli",
+    "name": "Biden",
+    "query": "Biden",
+    "rank": 13,
+    "tweet_count": "2.19M Tweets"
+  },
+  {
+    "name": "Sputnik",
+    "query": "Sputnik",
+    "rank": 14,
+    "tweet_count": "58.8K Tweets"
+  },
+  {
+    "name": "Caribe",
+    "query": "Caribe",
     "rank": 15,
-    "tweet_count": "125K Tweets"
+    "tweet_count": "10.1K Tweets"
   },
   {
     "name": "Jong",
     "query": "Jong",
     "rank": 16,
-    "tweet_count": "68.5K Tweets"
+    "tweet_count": "68.9K Tweets"
   },
   {
     "name": "CNCO",
@@ -102,21 +102,21 @@
     "tweet_count": "31.7K Tweets"
   },
   {
-    "name": "canche",
-    "query": "canche",
+    "name": "Napoli",
+    "query": "Napoli",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "126K Tweets"
   },
   {
-    "name": "IGSS",
-    "query": "IGSS",
+    "name": "canche",
+    "query": "canche",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Ferran",
-    "query": "Ferran",
+    "name": "igss",
+    "query": "igss",
     "rank": 20,
-    "tweet_count": "20.4K Tweets"
+    "tweet_count": null
   }
 ]
