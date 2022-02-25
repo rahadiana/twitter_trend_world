@@ -1,110 +1,122 @@
 [
   {
+    "name": "Ukraine",
+    "query": "Ukraine",
+    "rank": 1,
+    "tweet_count": "2.45M Tweets"
+  },
+  {
+    "name": "Putin",
+    "query": "Putin",
+    "rank": 2,
+    "tweet_count": "1.96M Tweets"
+  },
+  {
     "name": "#403Mil",
     "query": "#403Mil",
-    "rank": 1,
-    "tweet_count": "9,858 Tweets"
+    "rank": 3,
+    "tweet_count": "10.9K Tweets"
   },
   {
     "name": "#ArizabaletaLameCulos",
     "query": "#ArizabaletaLameCulos",
-    "rank": 2,
-    "tweet_count": "11.6K Tweets"
+    "rank": 4,
+    "tweet_count": "12.1K Tweets"
+  },
+  {
+    "name": "OTAN",
+    "query": "OTAN",
+    "rank": 5,
+    "tweet_count": "806K Tweets"
   },
   {
     "name": "#MIRAhaLogrado",
     "query": "#MIRAhaLogrado",
-    "rank": 3,
-    "tweet_count": "3,840 Tweets"
-  },
-  {
-    "name": "#RegiónMetropolitana",
-    "query": "#RegiónMetropolitana",
-    "rank": 4,
-    "tweet_count": "1,190 Tweets"
-  },
-  {
-    "name": "Finlandia",
-    "query": "Finlandia",
-    "rank": 5,
-    "tweet_count": "68.8K Tweets"
-  },
-  {
-    "name": "Bogotá-Cundinamarca",
-    "query": "Bogotá-Cundinamarca",
     "rank": 6,
-    "tweet_count": "1,211 Tweets"
-  },
-  {
-    "name": "Milan",
-    "query": "Milan",
-    "rank": 7,
-    "tweet_count": "63.3K Tweets"
-  },
-  {
-    "name": "Fuerza Pública",
-    "query": "\"Fuerza Pública\"",
-    "rank": 8,
-    "tweet_count": "8,015 Tweets"
-  },
-  {
-    "name": "Univalle",
-    "query": "Univalle",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
-    "name": "Marymount",
-    "query": "Marymount",
-    "rank": 10,
-    "tweet_count": "2,517 Tweets"
-  },
-  {
-    "name": "#CasanareConPetro",
-    "query": "#CasanareConPetro",
-    "rank": 11,
-    "tweet_count": "12K Tweets"
-  },
-  {
-    "name": "Pailitas",
-    "query": "Pailitas",
-    "rank": 12,
-    "tweet_count": "1,563 Tweets"
-  },
-  {
-    "name": "Palestina",
-    "query": "Palestina",
-    "rank": 13,
-    "tweet_count": "73.1K Tweets"
-  },
-  {
-    "name": "Arauca",
-    "query": "Arauca",
-    "rank": 14,
-    "tweet_count": "28.6K Tweets"
-  },
-  {
-    "name": "En Ucrania",
-    "query": "\"En Ucrania\"",
-    "rank": 15,
-    "tweet_count": "1.21M Tweets"
-  },
-  {
-    "name": "Zelenski",
-    "query": "Zelenski",
-    "rank": 16,
-    "tweet_count": "196K Tweets"
+    "tweet_count": "4,132 Tweets"
   },
   {
     "name": "#LaViolenciaEs",
     "query": "#LaViolenciaEs",
-    "rank": 17,
-    "tweet_count": "4,974 Tweets"
+    "rank": 7,
+    "tweet_count": "5,017 Tweets"
   },
   {
-    "name": "#Ucraina",
-    "query": "#Ucraina",
+    "name": "Restrepo",
+    "query": "Restrepo",
+    "rank": 8,
+    "tweet_count": "9,222 Tweets"
+  },
+  {
+    "name": "#RegiónMetropolitana",
+    "query": "#RegiónMetropolitana",
+    "rank": 9,
+    "tweet_count": "1,314 Tweets"
+  },
+  {
+    "name": "Biden",
+    "query": "Biden",
+    "rank": 10,
+    "tweet_count": "1.65M Tweets"
+  },
+  {
+    "name": "Trump",
+    "query": "Trump",
+    "rank": 11,
+    "tweet_count": "1.35M Tweets"
+  },
+  {
+    "name": "Rusos",
+    "query": "Rusos",
+    "rank": 12,
+    "tweet_count": "274K Tweets"
+  },
+  {
+    "name": "EEUU",
+    "query": "EEUU",
+    "rank": 13,
+    "tweet_count": "233K Tweets"
+  },
+  {
+    "name": "Panamá",
+    "query": "Panamá",
+    "rank": 14,
+    "tweet_count": "34.6K Tweets"
+  },
+  {
+    "name": "China",
+    "query": "China",
+    "rank": 15,
+    "tweet_count": "776K Tweets"
+  },
+  {
+    "name": "Arauca",
+    "query": "Arauca",
+    "rank": 16,
+    "tweet_count": "28.8K Tweets"
+  },
+  {
+    "name": "Estados Unidos",
+    "query": "\"Estados Unidos\"",
+    "rank": 17,
+    "tweet_count": "130K Tweets"
+  },
+  {
+    "name": "Olimpia",
+    "query": "Olimpia",
     "rank": 18,
-    "tweet_count": "159K Tweets"
+    "tweet_count": "43.5K Tweets"
+  },
+  {
+    "name": "Finlandia",
+    "query": "Finlandia",
+    "rank": 19,
+    "tweet_count": "70.2K Tweets"
+  },
+  {
+    "name": "Mantilla",
+    "query": "Mantilla",
+    "rank": 20,
+    "tweet_count": "1,753 Tweets"
   }
 ]

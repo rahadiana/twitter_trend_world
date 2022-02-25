@@ -1,122 +1,122 @@
 [
   {
-    "name": "Ukraine",
-    "query": "Ukraine",
+    "name": "Ukrainian",
+    "query": "Ukrainian",
     "rank": 1,
-    "tweet_count": "2.64M Tweets"
+    "tweet_count": "2.26M Tweets"
   },
   {
     "name": "#totp",
     "query": "#totp",
     "rank": 2,
-    "tweet_count": "5,989 Tweets"
+    "tweet_count": "6,010 Tweets"
   },
   {
     "name": "#Gogglebox",
     "query": "#Gogglebox",
     "rank": 3,
-    "tweet_count": "1,387 Tweets"
+    "tweet_count": "1,578 Tweets"
   },
   {
     "name": "#ncfc",
     "query": "#ncfc",
     "rank": 4,
-    "tweet_count": "1,967 Tweets"
+    "tweet_count": "2,260 Tweets"
+  },
+  {
+    "name": "Romeu",
+    "query": "Romeu",
+    "rank": 5,
+    "tweet_count": "2,322 Tweets"
   },
   {
     "name": "#DeathInParadise",
     "query": "#DeathInParadise",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "#SLHKRCas",
-    "query": "#SLHKRCas",
     "rank": 6,
     "tweet_count": null
   },
   {
+    "name": "#UkraineUnderAttack",
+    "query": "#UkraineUnderAttack",
+    "rank": 7,
+    "tweet_count": "165K Tweets"
+  },
+  {
     "name": "Bulb",
     "query": "Bulb",
-    "rank": 7,
-    "tweet_count": "4,393 Tweets"
-  },
-  {
-    "name": "Eurovision",
-    "query": "Eurovision",
     "rank": 8,
-    "tweet_count": "95.8K Tweets"
-  },
-  {
-    "name": "Finland",
-    "query": "Finland",
-    "rank": 9,
-    "tweet_count": "139K Tweets"
-  },
-  {
-    "name": "Normann",
-    "query": "Normann",
-    "rank": 10,
-    "tweet_count": null
+    "tweet_count": "4,467 Tweets"
   },
   {
     "name": "Radford",
     "query": "Radford",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Eurovision",
+    "query": "Eurovision",
+    "rank": 10,
+    "tweet_count": "97.3K Tweets"
+  },
+  {
+    "name": "Finland",
+    "query": "Finland",
     "rank": 11,
+    "tweet_count": "142K Tweets"
+  },
+  {
+    "name": "Brandon Williams",
+    "query": "\"Brandon Williams\"",
+    "rank": 12,
+    "tweet_count": "5,194 Tweets"
+  },
+  {
+    "name": "Normann",
+    "query": "Normann",
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Erasure",
     "query": "Erasure",
-    "rank": 12,
-    "tweet_count": "3,243 Tweets"
+    "rank": 14,
+    "tweet_count": "3,267 Tweets"
   },
   {
     "name": "Zarah",
     "query": "Zarah",
-    "rank": 13,
-    "tweet_count": "2,378 Tweets"
-  },
-  {
-    "name": "Richard Marx",
-    "query": "\"Richard Marx\"",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Chicken Licken",
-    "query": "\"Chicken Licken\"",
     "rank": 15,
-    "tweet_count": null
+    "tweet_count": "2,453 Tweets"
   },
   {
     "name": "Livramento",
     "query": "Livramento",
     "rank": 16,
-    "tweet_count": "2,701 Tweets"
+    "tweet_count": "2,818 Tweets"
   },
   {
-    "name": "Pukki",
-    "query": "Pukki",
+    "name": "Richard Marx",
+    "query": "\"Richard Marx\"",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Geldof",
-    "query": "Geldof",
+    "name": "Chicken Licken",
+    "query": "\"Chicken Licken\"",
     "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Bob Geldof",
+    "query": "\"Bob Geldof\"",
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Lionel Richie",
     "query": "\"Lionel Richie\"",
-    "rank": 19,
-    "tweet_count": null
-  },
-  {
-    "name": "Faith No More",
-    "query": "\"Faith No More\"",
     "rank": 20,
-    "tweet_count": "1,127 Tweets"
+    "tweet_count": null
   }
 ]
