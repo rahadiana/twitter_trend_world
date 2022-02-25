@@ -1,116 +1,110 @@
 [
   {
-    "name": "#Ukraine",
-    "query": "#Ukraine",
+    "name": "Ukraine",
+    "query": "Ukraine",
     "rank": 1,
-    "tweet_count": "2.24M Tweets"
+    "tweet_count": "2.31M Tweets"
   },
   {
     "name": "#totp",
     "query": "#totp",
     "rank": 2,
-    "tweet_count": "3,973 Tweets"
-  },
-  {
-    "name": "#Corrie",
-    "query": "#Corrie",
-    "rank": 3,
-    "tweet_count": "1,206 Tweets"
+    "tweet_count": "5,180 Tweets"
   },
   {
     "name": "#ncfc",
     "query": "#ncfc",
+    "rank": 3,
+    "tweet_count": "1,474 Tweets"
+  },
+  {
+    "name": "#Corrie",
+    "query": "#Corrie",
     "rank": 4,
-    "tweet_count": "1,297 Tweets"
+    "tweet_count": "1,228 Tweets"
   },
   {
-    "name": "#SWIFT",
-    "query": "#SWIFT",
+    "name": "Utah Saints",
+    "query": "\"Utah Saints\"",
     "rank": 5,
-    "tweet_count": "62.8K Tweets"
-  },
-  {
-    "name": "Eurovision",
-    "query": "Eurovision",
-    "rank": 6,
-    "tweet_count": "89.4K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Che Adams",
     "query": "\"Che Adams\"",
+    "rank": 6,
+    "tweet_count": null
+  },
+  {
+    "name": "#SOUNOR",
+    "query": "#SOUNOR",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "2,104 Tweets"
   },
   {
-    "name": "Finland",
-    "query": "Finland",
+    "name": "#SLHKRCas",
+    "query": "#SLHKRCas",
     "rank": 8,
-    "tweet_count": "129K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Bulb",
-    "query": "Bulb",
+    "name": "Eurovision",
+    "query": "Eurovision",
     "rank": 9,
-    "tweet_count": "4,061 Tweets"
-  },
-  {
-    "name": "Richard Marx",
-    "query": "\"Richard Marx\"",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "Erasure",
-    "query": "Erasure",
-    "rank": 11,
-    "tweet_count": "3,123 Tweets"
-  },
-  {
-    "name": "Lionel Richie",
-    "query": "\"Lionel Richie\"",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Faith No More",
-    "query": "\"Faith No More\"",
-    "rank": 13,
-    "tweet_count": "1,065 Tweets"
+    "tweet_count": "91.2K Tweets"
   },
   {
     "name": "Gilmour",
     "query": "Gilmour",
-    "rank": 14,
-    "tweet_count": "1,065 Tweets"
+    "rank": 10,
+    "tweet_count": "1,125 Tweets"
   },
   {
-    "name": "Zarah",
-    "query": "Zarah",
+    "name": "Bulb",
+    "query": "Bulb",
+    "rank": 11,
+    "tweet_count": "4,167 Tweets"
+  },
+  {
+    "name": "Finland",
+    "query": "Finland",
+    "rank": 12,
+    "tweet_count": "131K Tweets"
+  },
+  {
+    "name": "Sophie B Hawkins",
+    "query": "\"Sophie B Hawkins\"",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Richard Marx",
+    "query": "\"Richard Marx\"",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Lydia",
+    "query": "Lydia",
     "rank": 15,
-    "tweet_count": "2,151 Tweets"
+    "tweet_count": "6,796 Tweets"
+  },
+  {
+    "name": "McLean",
+    "query": "McLean",
+    "rank": 16,
+    "tweet_count": "4,010 Tweets"
   },
   {
     "name": "Livramento",
     "query": "Livramento",
-    "rank": 16,
-    "tweet_count": "2,529 Tweets"
-  },
-  {
-    "name": "Snoddy",
-    "query": "Snoddy",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "2,605 Tweets"
   },
   {
-    "name": "Ghost of Kyiv",
-    "query": "\"Ghost of Kyiv\"",
+    "name": "Lionel Richie",
+    "query": "\"Lionel Richie\"",
     "rank": 18,
-    "tweet_count": "161K Tweets"
-  },
-  {
-    "name": "Leao",
-    "query": "Leao",
-    "rank": 19,
-    "tweet_count": "17.3K Tweets"
+    "tweet_count": null
   }
 ]
