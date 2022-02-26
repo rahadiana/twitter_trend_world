@@ -1,7 +1,7 @@
 [
   {
-    "name": "#AusDecides",
-    "query": "#AusDecides",
+    "name": "#ausdecides",
+    "query": "#ausdecides",
     "rank": 1,
     "tweet_count": "12K Tweets"
   },
@@ -9,31 +9,31 @@
     "name": "#LEETOT",
     "query": "#LEETOT",
     "rank": 2,
-    "tweet_count": "15.9K Tweets"
+    "tweet_count": "16.6K Tweets"
   },
   {
     "name": "#AustraliaDecides",
     "query": "#AustraliaDecides",
     "rank": 3,
-    "tweet_count": "3,587 Tweets"
+    "tweet_count": "3,600 Tweets"
   },
   {
     "name": "#Eurovision",
     "query": "#Eurovision",
     "rank": 4,
-    "tweet_count": "16K Tweets"
+    "tweet_count": "15.8K Tweets"
   },
   {
     "name": "Sheldon",
     "query": "Sheldon",
     "rank": 5,
-    "tweet_count": "7,383 Tweets"
+    "tweet_count": "7,456 Tweets"
   },
   {
     "name": "Voyager",
     "query": "Voyager",
     "rank": 6,
-    "tweet_count": "67.1K Tweets"
+    "tweet_count": "67.4K Tweets"
   },
   {
     "name": "#ADLvCCM",
@@ -42,45 +42,51 @@
     "tweet_count": null
   },
   {
+    "name": "Jaguar Jonze",
+    "query": "\"Jaguar Jonze\"",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
     "name": "Broncos",
     "query": "Broncos",
-    "rank": 8,
-    "tweet_count": "4,621 Tweets"
+    "rank": 9,
+    "tweet_count": "4,667 Tweets"
   },
   {
     "name": "Hawaii",
     "query": "Hawaii",
-    "rank": 9,
-    "tweet_count": "19.7K Tweets"
+    "rank": 10,
+    "tweet_count": "19.8K Tweets"
   },
   {
     "name": "Zelensky",
     "query": "Zelensky",
-    "rank": 10,
-    "tweet_count": "1.12M Tweets"
+    "rank": 11,
+    "tweet_count": "1.13M Tweets"
   },
   {
     "name": "jungkook",
     "query": "jungkook",
-    "rank": 11,
-    "tweet_count": "589K Tweets"
-  },
-  {
-    "name": "Cowboys",
-    "query": "Cowboys",
     "rank": 12,
-    "tweet_count": "8,979 Tweets"
+    "tweet_count": "597K Tweets"
   },
   {
     "name": "#UkraineUnderAttack",
     "query": "#UkraineUnderAttack",
     "rank": 13,
-    "tweet_count": "349K Tweets"
+    "tweet_count": "353K Tweets"
   },
   {
     "name": "#qldfloods",
     "query": "#qldfloods",
     "rank": 14,
-    "tweet_count": "2,985 Tweets"
+    "tweet_count": "2,996 Tweets"
+  },
+  {
+    "name": "#UkraineWar",
+    "query": "#UkraineWar",
+    "rank": 15,
+    "tweet_count": "178K Tweets"
   }
 ]
