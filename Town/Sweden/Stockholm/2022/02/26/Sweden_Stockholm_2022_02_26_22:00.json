@@ -1,21 +1,21 @@
 [
   {
-    "name": "#Melfest",
-    "query": "#Melfest",
-    "rank": 1,
-    "tweet_count": "6,181 Tweets"
-  },
-  {
     "name": "#Mello",
     "query": "#Mello",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#Melfest",
+    "query": "#Melfest",
+    "rank": 2,
+    "tweet_count": "6,199 Tweets"
   },
   {
     "name": "Medina",
     "query": "Medina",
     "rank": 3,
-    "tweet_count": "11.2K Tweets"
+    "tweet_count": "11.3K Tweets"
   },
   {
     "name": "#melodifestivalen",
@@ -27,7 +27,7 @@
     "name": "Klara",
     "query": "Klara",
     "rank": 5,
-    "tweet_count": "3,567 Tweets"
+    "tweet_count": "3,594 Tweets"
   },
   {
     "name": "Lillasyster",
@@ -45,43 +45,43 @@
     "name": "Chelsea",
     "query": "Chelsea",
     "rank": 8,
-    "tweet_count": "171K Tweets"
-  },
-  {
-    "name": "Roman",
-    "query": "Roman",
-    "rank": 9,
-    "tweet_count": "157K Tweets"
+    "tweet_count": "173K Tweets"
   },
   {
     "name": "Oscar",
     "query": "Oscar",
-    "rank": 10,
-    "tweet_count": "78.5K Tweets"
+    "rank": 9,
+    "tweet_count": "79.1K Tweets"
   },
   {
     "name": "Everton",
     "query": "Everton",
-    "rank": 11,
-    "tweet_count": "117K Tweets"
+    "rank": 10,
+    "tweet_count": "118K Tweets"
   },
   {
-    "name": "NLAW",
-    "query": "NLAW",
-    "rank": 12,
-    "tweet_count": "22.8K Tweets"
+    "name": "SWIFT",
+    "query": "SWIFT",
+    "rank": 11,
+    "tweet_count": "829K Tweets"
   },
   {
     "name": "#fbkse",
     "query": "#fbkse",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "robot 57",
-    "query": "\"robot 57\"",
+    "name": "NLAW",
+    "query": "NLAW",
+    "rank": 13,
+    "tweet_count": "23.1K Tweets"
+  },
+  {
+    "name": "Robot 57",
+    "query": "\"Robot 57\"",
     "rank": 14,
-    "tweet_count": "1,363 Tweets"
+    "tweet_count": "1,376 Tweets"
   },
   {
     "name": "#timraik",
@@ -93,12 +93,18 @@
     "name": "Eurovision",
     "query": "Eurovision",
     "rank": 16,
-    "tweet_count": "86.4K Tweets"
+    "tweet_count": "86.9K Tweets"
   },
   {
     "name": "Skål",
     "query": "Skål",
     "rank": 17,
     "tweet_count": null
+  },
+  {
+    "name": "Ronaldo",
+    "query": "Ronaldo",
+    "rank": 18,
+    "tweet_count": "154K Tweets"
   }
 ]
