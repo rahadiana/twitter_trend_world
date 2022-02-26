@@ -1,39 +1,39 @@
 [
   {
-    "name": "#Ukraine",
-    "query": "#Ukraine",
+    "name": "Ukraine",
+    "query": "Ukraine",
     "rank": 1,
-    "tweet_count": "2.26M Tweets"
+    "tweet_count": "2.13M Tweets"
   },
   {
     "name": "Krievijas",
     "query": "Krievijas",
     "rank": 2,
-    "tweet_count": "7,022 Tweets"
+    "tweet_count": "7,157 Tweets"
+  },
+  {
+    "name": "Ukraine",
+    "query": "Ukraine",
+    "rank": 3,
+    "tweet_count": "2.13M Tweets"
   },
   {
     "name": "Kijevas",
     "query": "Kijevas",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "NATO",
     "query": "NATO",
-    "rank": 4,
-    "tweet_count": "1.78M Tweets"
-  },
-  {
-    "name": "Putina",
-    "query": "Putina",
     "rank": 5,
-    "tweet_count": "79K Tweets"
+    "tweet_count": "1.8M Tweets"
   },
   {
-    "name": "#Ukraine",
-    "query": "#Ukraine",
+    "name": "Putin",
+    "query": "Putin",
     "rank": 6,
-    "tweet_count": "2.26M Tweets"
+    "tweet_count": "5.19M Tweets"
   },
   {
     "name": "kongresu",
@@ -42,10 +42,10 @@
     "tweet_count": null
   },
   {
-    "name": "Minskā",
-    "query": "Minskā",
+    "name": "minskā",
+    "query": "minskā",
     "rank": 8,
-    "tweet_count": "1,624 Tweets"
+    "tweet_count": "1,628 Tweets"
   },
   {
     "name": "zelenskis",
@@ -69,7 +69,7 @@
     "name": "#нетвойне",
     "query": "#нетвойне",
     "rank": 12,
-    "tweet_count": "156K Tweets"
+    "tweet_count": "158K Tweets"
   },
   {
     "name": "Eirovīzijas",
@@ -78,38 +78,38 @@
     "tweet_count": null
   },
   {
-    "name": "Zemessardzē",
-    "query": "Zemessardzē",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
     "name": "Aldi",
     "query": "Aldi",
-    "rank": 15,
-    "tweet_count": "32.1K Tweets"
+    "rank": 14,
+    "tweet_count": "32.3K Tweets"
   },
   {
-    "name": "Kyiv",
-    "query": "Kyiv",
-    "rank": 16,
-    "tweet_count": "1.71M Tweets"
+    "name": "zemessardzē",
+    "query": "zemessardzē",
+    "rank": 15,
+    "tweet_count": null
   },
   {
     "name": "Vācija",
     "query": "Vācija",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Слава Україні",
     "query": "\"Слава Україні\"",
-    "rank": 18,
-    "tweet_count": "37.9K Tweets"
+    "rank": 17,
+    "tweet_count": "38.5K Tweets"
   },
   {
     "name": "šveice",
     "query": "šveice",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "černobiļas aes",
+    "query": "\"černobiļas aes\"",
     "rank": 19,
     "tweet_count": null
   }
