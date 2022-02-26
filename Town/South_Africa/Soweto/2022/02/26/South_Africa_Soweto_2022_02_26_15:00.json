@@ -1,110 +1,116 @@
 [
   {
-    "name": "Stogie T",
-    "query": "\"Stogie T\"",
+    "name": "#DStvPrem",
+    "query": "#DStvPrem",
     "rank": 1,
-    "tweet_count": "4,855 Tweets"
-  },
-  {
-    "name": "#HuaweiXCanalWalk",
-    "query": "#HuaweiXCanalWalk",
-    "rank": 2,
-    "tweet_count": "2,509 Tweets"
-  },
-  {
-    "name": "Leeds",
-    "query": "Leeds",
-    "rank": 3,
-    "tweet_count": "74.8K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#MUNWAT",
     "query": "#MUNWAT",
+    "rank": 2,
+    "tweet_count": "37.7K Tweets"
+  },
+  {
+    "name": "#HuaweiXCanalWalk",
+    "query": "#HuaweiXCanalWalk",
+    "rank": 3,
+    "tweet_count": "2,523 Tweets"
+  },
+  {
+    "name": "Leeds",
+    "query": "Leeds",
     "rank": 4,
-    "tweet_count": "30.5K Tweets"
+    "tweet_count": "77.4K Tweets"
+  },
+  {
+    "name": "#LEETOT",
+    "query": "#LEETOT",
+    "rank": 5,
+    "tweet_count": "17.5K Tweets"
   },
   {
     "name": "Elanga",
     "query": "Elanga",
-    "rank": 5,
-    "tweet_count": "11.2K Tweets"
+    "rank": 6,
+    "tweet_count": "12K Tweets"
   },
   {
-    "name": "#CONvSTO",
-    "query": "#CONvSTO",
-    "rank": 6,
-    "tweet_count": null
+    "name": "Matic",
+    "query": "Matic",
+    "rank": 7,
+    "tweet_count": "140K Tweets"
+  },
+  {
+    "name": "Dallas",
+    "query": "Dallas",
+    "rank": 8,
+    "tweet_count": "36.5K Tweets"
   },
   {
     "name": "Stormers",
     "query": "Stormers",
-    "rank": 7,
+    "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "dallas",
-    "query": "dallas",
-    "rank": 8,
-    "tweet_count": "35.9K Tweets"
-  },
-  {
-    "name": "Bielsa",
-    "query": "Bielsa",
-    "rank": 9,
-    "tweet_count": "23K Tweets"
-  },
-  {
-    "name": "Gokwe",
-    "query": "Gokwe",
+    "name": "Telles",
+    "query": "Telles",
     "rank": 10,
-    "tweet_count": "19.2K Tweets"
+    "tweet_count": "5,426 Tweets"
   },
   {
     "name": "Bolt",
     "query": "Bolt",
     "rank": 11,
-    "tweet_count": "15.1K Tweets"
+    "tweet_count": "15.4K Tweets"
+  },
+  {
+    "name": "Gokwe",
+    "query": "Gokwe",
+    "rank": 12,
+    "tweet_count": "20.3K Tweets"
   },
   {
     "name": "Pedi",
     "query": "Pedi",
-    "rank": 12,
-    "tweet_count": "28.5K Tweets"
+    "rank": 13,
+    "tweet_count": "28.9K Tweets"
   },
   {
-    "name": "#SSRugby",
-    "query": "#SSRugby",
-    "rank": 13,
-    "tweet_count": null
+    "name": "Stogie T",
+    "query": "\"Stogie T\"",
+    "rank": 14,
+    "tweet_count": "4,961 Tweets"
   },
   {
     "name": "Poland",
     "query": "Poland",
-    "rank": 14,
-    "tweet_count": "483K Tweets"
+    "rank": 15,
+    "tweet_count": "494K Tweets"
   },
   {
     "name": "Al Ahly",
     "query": "\"Al Ahly\"",
-    "rank": 15,
-    "tweet_count": "3,915 Tweets"
-  },
-  {
-    "name": "#UkraineUnderAttack",
-    "query": "#UkraineUnderAttack",
     "rank": 16,
-    "tweet_count": "350K Tweets"
+    "tweet_count": "3,947 Tweets"
   },
   {
-    "name": "#DJSBU",
-    "query": "#DJSBU",
+    "name": "#CONvSTO",
+    "query": "#CONvSTO",
     "rank": 17,
-    "tweet_count": "6,073 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "#SSRugby",
+    "query": "#SSRugby",
+    "rank": 18,
+    "tweet_count": null
   },
   {
     "name": "#ThembaBroly𓃵",
     "query": "#ThembaBroly𓃵",
-    "rank": 18,
-    "tweet_count": "3,018 Tweets"
+    "rank": 19,
+    "tweet_count": "3,129 Tweets"
   }
 ]

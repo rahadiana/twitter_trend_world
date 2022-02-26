@@ -1,86 +1,122 @@
 [
   {
-    "name": "#AusDecides",
-    "query": "#AusDecides",
+    "name": "#UkraineUnderAttack",
+    "query": "#UkraineUnderAttack",
     "rank": 1,
-    "tweet_count": "12K Tweets"
+    "tweet_count": "356K Tweets"
   },
   {
-    "name": "#LEETOT",
-    "query": "#LEETOT",
+    "name": "Putin",
+    "query": "Putin",
     "rank": 2,
-    "tweet_count": "17.2K Tweets"
+    "tweet_count": "2.93M Tweets"
+  },
+  {
+    "name": "#AusDecides",
+    "query": "#AusDecides",
+    "rank": 3,
+    "tweet_count": "12.1K Tweets"
   },
   {
     "name": "#AustraliaDecides",
     "query": "#AustraliaDecides",
-    "rank": 3,
-    "tweet_count": "3,603 Tweets"
+    "rank": 4,
+    "tweet_count": "3,614 Tweets"
+  },
+  {
+    "name": "Ukrainian",
+    "query": "Ukrainian",
+    "rank": 5,
+    "tweet_count": "2.22M Tweets"
+  },
+  {
+    "name": "#LEETOT",
+    "query": "#LEETOT",
+    "rank": 6,
+    "tweet_count": "17.5K Tweets"
   },
   {
     "name": "#Eurovision",
     "query": "#Eurovision",
-    "rank": 4,
-    "tweet_count": "15.5K Tweets"
+    "rank": 7,
+    "tweet_count": "15.7K Tweets"
   },
   {
-    "name": "Voyager",
-    "query": "Voyager",
-    "rank": 5,
-    "tweet_count": "56.4K Tweets"
+    "name": "NATO",
+    "query": "NATO",
+    "rank": 8,
+    "tweet_count": "1.68M Tweets"
+  },
+  {
+    "name": "Leeds",
+    "query": "Leeds",
+    "rank": 9,
+    "tweet_count": "77.4K Tweets"
+  },
+  {
+    "name": "Elden Ring",
+    "query": "\"Elden Ring\"",
+    "rank": 10,
+    "tweet_count": "152K Tweets"
+  },
+  {
+    "name": "Kyiv",
+    "query": "Kyiv",
+    "rank": 11,
+    "tweet_count": "1.93M Tweets"
   },
   {
     "name": "Sheldon",
     "query": "Sheldon",
-    "rank": 6,
-    "tweet_count": "7,254 Tweets"
+    "rank": 12,
+    "tweet_count": "7,349 Tweets"
   },
   {
-    "name": "#lufc",
-    "query": "#lufc",
-    "rank": 7,
-    "tweet_count": "10.2K Tweets"
+    "name": "Voyager",
+    "query": "Voyager",
+    "rank": 13,
+    "tweet_count": "62.8K Tweets"
   },
   {
-    "name": "Hawaii",
-    "query": "Hawaii",
-    "rank": 8,
-    "tweet_count": "19.1K Tweets"
+    "name": "SWIFT",
+    "query": "SWIFT",
+    "rank": 14,
+    "tweet_count": "679K Tweets"
   },
   {
     "name": "Zelensky",
     "query": "Zelensky",
-    "rank": 9,
-    "tweet_count": "1.12M Tweets"
+    "rank": 15,
+    "tweet_count": "1.15M Tweets"
   },
   {
-    "name": "Broncos",
-    "query": "Broncos",
-    "rank": 10,
-    "tweet_count": "4,530 Tweets"
-  },
-  {
-    "name": "jungkook",
-    "query": "jungkook",
-    "rank": 11,
-    "tweet_count": "583K Tweets"
-  },
-  {
-    "name": "#ADLvCCM",
-    "query": "#ADLvCCM",
-    "rank": 12,
+    "name": "Randwick",
+    "query": "Randwick",
+    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "#UkraineUnderAttack",
-    "query": "#UkraineUnderAttack",
-    "rank": 13,
-    "tweet_count": "350K Tweets"
+    "name": "Poland",
+    "query": "Poland",
+    "rank": 17,
+    "tweet_count": "494K Tweets"
   },
   {
-    "name": "#qldfloods",
-    "query": "#qldfloods",
-    "rank": 14,
-    "tweet_count": "3,024 Tweets"
+    "name": "Hawaii",
+    "query": "Hawaii",
+    "rank": 18,
+    "tweet_count": "19.3K Tweets"
+  },
+  {
+    "name": "verry elleegant",
+    "query": "\"verry elleegant\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Christine Holgate",
+    "query": "\"Christine Holgate\"",
+    "rank": 20,
+    "tweet_count": "3,712 Tweets"
   }
 ]
