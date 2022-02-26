@@ -1,122 +1,122 @@
 [
   {
-    "name": "Watford",
-    "query": "Watford",
-    "rank": 1,
-    "tweet_count": "93.3K Tweets"
-  },
-  {
     "name": "#TFCLive",
     "query": "#TFCLive",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "Watford",
+    "query": "Watford",
+    "rank": 2,
+    "tweet_count": "93.5K Tweets"
   },
   {
     "name": "Roman",
     "query": "Roman",
     "rank": 3,
-    "tweet_count": "151K Tweets"
+    "tweet_count": "153K Tweets"
   },
   {
     "name": "The Russian",
     "query": "\"The Russian\"",
     "rank": 4,
-    "tweet_count": "2.7M Tweets"
+    "tweet_count": "2.6M Tweets"
   },
   {
-    "name": "Syria",
-    "query": "Syria",
+    "name": "#VWFC",
+    "query": "#VWFC",
     "rank": 5,
-    "tweet_count": "132K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#LetsGoOilers",
     "query": "#LetsGoOilers",
     "rank": 6,
-    "tweet_count": "2,280 Tweets"
-  },
-  {
-    "name": "#VWFC",
-    "query": "#VWFC",
-    "rank": 7,
-    "tweet_count": null
+    "tweet_count": "2,296 Tweets"
   },
   {
     "name": "#UkraineUnderAttack",
     "query": "#UkraineUnderAttack",
-    "rank": 8,
-    "tweet_count": "430K Tweets"
+    "rank": 7,
+    "tweet_count": "435K Tweets"
   },
   {
     "name": "#EVEMCI",
     "query": "#EVEMCI",
-    "rank": 9,
-    "tweet_count": "21.1K Tweets"
+    "rank": 8,
+    "tweet_count": "21.2K Tweets"
   },
   {
-    "name": "Mbappe",
-    "query": "Mbappe",
-    "rank": 10,
-    "tweet_count": "65.7K Tweets"
+    "name": "Messi",
+    "query": "Messi",
+    "rank": 9,
+    "tweet_count": "166K Tweets"
   },
   {
     "name": "Everton",
     "query": "Everton",
-    "rank": 11,
-    "tweet_count": "112K Tweets"
+    "rank": 10,
+    "tweet_count": "114K Tweets"
   },
   {
     "name": "Bouchard",
     "query": "Bouchard",
-    "rank": 12,
-    "tweet_count": "1,068 Tweets"
+    "rank": 11,
+    "tweet_count": "1,080 Tweets"
   },
   {
-    "name": "Panthers",
-    "query": "Panthers",
-    "rank": 13,
-    "tweet_count": "12.6K Tweets"
+    "name": "Whitecaps",
+    "query": "Whitecaps",
+    "rank": 12,
+    "tweet_count": null
   },
   {
     "name": "Happy Birthday Laura",
     "query": "\"Happy Birthday Laura\"",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
-  },
-  {
-    "name": "PTSD",
-    "query": "PTSD",
-    "rank": 15,
-    "tweet_count": "14.1K Tweets"
-  },
-  {
-    "name": "Nurse",
-    "query": "Nurse",
-    "rank": 16,
-    "tweet_count": "32.6K Tweets"
   },
   {
     "name": "Phantom",
     "query": "Phantom",
-    "rank": 17,
-    "tweet_count": "45.1K Tweets"
+    "rank": 14,
+    "tweet_count": "45.6K Tweets"
   },
   {
-    "name": "Bobrovsky",
-    "query": "Bobrovsky",
-    "rank": 18,
-    "tweet_count": null
+    "name": "Nurse",
+    "query": "Nurse",
+    "rank": 15,
+    "tweet_count": "32.9K Tweets"
+  },
+  {
+    "name": "PTSD",
+    "query": "PTSD",
+    "rank": 16,
+    "tweet_count": "14.3K Tweets"
   },
   {
     "name": "Chelsea",
     "query": "Chelsea",
-    "rank": 19,
-    "tweet_count": "164K Tweets"
+    "rank": 17,
+    "tweet_count": "167K Tweets"
   },
   {
-    "name": "Ronaldo",
-    "query": "Ronaldo",
+    "name": "Glory to Ukraine",
+    "query": "\"Glory to Ukraine\"",
+    "rank": 18,
+    "tweet_count": "62K Tweets"
+  },
+  {
+    "name": "Molotov",
+    "query": "Molotov",
+    "rank": 19,
+    "tweet_count": "153K Tweets"
+  },
+  {
+    "name": "Red Cross",
+    "query": "\"Red Cross\"",
     "rank": 20,
-    "tweet_count": "150K Tweets"
+    "tweet_count": "28.3K Tweets"
   }
 ]
