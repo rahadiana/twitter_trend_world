@@ -1,45 +1,45 @@
 [
   {
+    "name": "Chelsea",
+    "query": "Chelsea",
+    "rank": 1,
+    "tweet_count": "136K Tweets"
+  },
+  {
     "name": "Alemania",
     "query": "Alemania",
-    "rank": 1,
-    "tweet_count": "58.5K Tweets"
+    "rank": 2,
+    "tweet_count": "60.2K Tweets"
   },
   {
     "name": "Everton",
     "query": "Everton",
-    "rank": 2,
-    "tweet_count": "92.1K Tweets"
+    "rank": 3,
+    "tweet_count": "96.5K Tweets"
   },
   {
     "name": "#TeApoyoJaimeValiente",
     "query": "#TeApoyoJaimeValiente",
-    "rank": 3,
-    "tweet_count": "13.1K Tweets"
+    "rank": 4,
+    "tweet_count": "13.4K Tweets"
   },
   {
     "name": "Casemiro",
     "query": "Casemiro",
-    "rank": 4,
-    "tweet_count": "18.7K Tweets"
+    "rank": 5,
+    "tweet_count": "20.5K Tweets"
   },
   {
     "name": "#MIRAhaTrabajado",
     "query": "#MIRAhaTrabajado",
-    "rank": 5,
-    "tweet_count": "4,004 Tweets"
+    "rank": 6,
+    "tweet_count": "4,046 Tweets"
   },
   {
     "name": "Benzema",
     "query": "Benzema",
-    "rank": 6,
-    "tweet_count": "20.9K Tweets"
-  },
-  {
-    "name": "Ancelotti",
-    "query": "Ancelotti",
     "rank": 7,
-    "tweet_count": "10.4K Tweets"
+    "tweet_count": "23.2K Tweets"
   },
   {
     "name": "#FMSColombia",
@@ -48,63 +48,75 @@
     "tweet_count": null
   },
   {
-    "name": "Ituango",
-    "query": "Ituango",
+    "name": "Ancelotti",
+    "query": "Ancelotti",
     "rank": 9,
-    "tweet_count": "2,690 Tweets"
+    "tweet_count": "11K Tweets"
   },
   {
     "name": "#ArizabaletaLameCulo",
     "query": "#ArizabaletaLameCulo",
     "rank": 10,
-    "tweet_count": "1,014 Tweets"
+    "tweet_count": "1,061 Tweets"
+  },
+  {
+    "name": "Ituango",
+    "query": "Ituango",
+    "rank": 11,
+    "tweet_count": "2,788 Tweets"
   },
   {
     "name": "Bielsa",
     "query": "Bielsa",
-    "rank": 11,
-    "tweet_count": "39.1K Tweets"
+    "rank": 12,
+    "tweet_count": "40.5K Tweets"
   },
   {
     "name": "#Ukrania",
     "query": "#Ukrania",
-    "rank": 12,
-    "tweet_count": "90.2K Tweets"
+    "rank": 13,
+    "tweet_count": "93.8K Tweets"
   },
   {
     "name": "Marymount",
     "query": "Marymount",
-    "rank": 13,
-    "tweet_count": "7,068 Tweets"
+    "rank": 14,
+    "tweet_count": "7,183 Tweets"
   },
   {
-    "name": "YOPAL",
-    "query": "YOPAL",
-    "rank": 14,
-    "tweet_count": "12K Tweets"
+    "name": "Irak",
+    "query": "Irak",
+    "rank": 15,
+    "tweet_count": "68.8K Tweets"
+  },
+  {
+    "name": "Yopal",
+    "query": "Yopal",
+    "rank": 16,
+    "tweet_count": "12.1K Tweets"
   },
   {
     "name": "Palestina",
     "query": "Palestina",
-    "rank": 15,
-    "tweet_count": "74.3K Tweets"
+    "rank": 17,
+    "tweet_count": "75.3K Tweets"
+  },
+  {
+    "name": "SWIFT",
+    "query": "SWIFT",
+    "rank": 18,
+    "tweet_count": "702K Tweets"
   },
   {
     "name": "#FelizSabado",
     "query": "#FelizSabado",
-    "rank": 16,
-    "tweet_count": "15K Tweets"
+    "rank": 19,
+    "tweet_count": "15.2K Tweets"
   },
   {
     "name": "#UcraniaRussia",
     "query": "#UcraniaRussia",
-    "rank": 17,
-    "tweet_count": "73.2K Tweets"
-  },
-  {
-    "name": "#queimpotencia",
-    "query": "#queimpotencia",
-    "rank": 18,
-    "tweet_count": "2,161 Tweets"
+    "rank": 20,
+    "tweet_count": "74.3K Tweets"
   }
 ]
