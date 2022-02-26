@@ -1,39 +1,39 @@
 [
   {
-    "name": "Galoppo",
-    "query": "Galoppo",
+    "name": "#DebateDelViernes",
+    "query": "#DebateDelViernes",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "#DebateDelViernes",
-    "query": "#DebateDelViernes",
+    "name": "Galoppo",
+    "query": "Galoppo",
     "rank": 2,
-    "tweet_count": null
+    "tweet_count": "1,004 Tweets"
   },
   {
     "name": "HOY JUEGA BOCA",
     "query": "\"HOY JUEGA BOCA\"",
     "rank": 3,
+    "tweet_count": "1,090 Tweets"
+  },
+  {
+    "name": "#VOLEYenDEPORTV",
+    "query": "#VOLEYenDEPORTV",
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "#BigBang",
     "query": "#BigBang",
-    "rank": 4,
-    "tweet_count": "3,609 Tweets"
-  },
-  {
-    "name": "#VOLEYenDEPORTV",
-    "query": "#VOLEYenDEPORTV",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "3,727 Tweets"
   },
   {
-    "name": "#Platense",
-    "query": "#Platense",
+    "name": "#UcraniaRussia",
+    "query": "#UcraniaRussia",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "37.2K Tweets"
   },
   {
     "name": "#BenditoViernes",
@@ -45,53 +45,53 @@
     "name": "Obras",
     "query": "Obras",
     "rank": 8,
-    "tweet_count": "33.8K Tweets"
+    "tweet_count": "34.2K Tweets"
   },
   {
-    "name": "Coronel",
-    "query": "Coronel",
+    "name": "Gravity Falls",
+    "query": "\"Gravity Falls\"",
     "rank": 9,
-    "tweet_count": "5,682 Tweets"
-  },
-  {
-    "name": "Harden",
-    "query": "Harden",
-    "rank": 10,
-    "tweet_count": "67.6K Tweets"
-  },
-  {
-    "name": "Tarragona",
-    "query": "Tarragona",
-    "rank": 11,
-    "tweet_count": "2,109 Tweets"
+    "tweet_count": "16.2K Tweets"
   },
   {
     "name": "Obelisco",
     "query": "Obelisco",
+    "rank": 10,
+    "tweet_count": "5,807 Tweets"
+  },
+  {
+    "name": "Coronel",
+    "query": "Coronel",
+    "rank": 11,
+    "tweet_count": "5,736 Tweets"
+  },
+  {
+    "name": "Tarragona",
+    "query": "Tarragona",
     "rank": 12,
-    "tweet_count": "5,511 Tweets"
+    "tweet_count": "2,110 Tweets"
   },
   {
-    "name": "Pipo",
-    "query": "Pipo",
+    "name": "Harden",
+    "query": "Harden",
     "rank": 13,
-    "tweet_count": "5,160 Tweets"
-  },
-  {
-    "name": "Taladro",
-    "query": "Taladro",
-    "rank": 14,
-    "tweet_count": null
+    "tweet_count": "77.3K Tweets"
   },
   {
     "name": "Augusto",
     "query": "Augusto",
-    "rank": 15,
-    "tweet_count": "21.4K Tweets"
+    "rank": 14,
+    "tweet_count": "22.3K Tweets"
   },
   {
-    "name": "Merentiel",
-    "query": "Merentiel",
+    "name": "Pipo",
+    "query": "Pipo",
+    "rank": 15,
+    "tweet_count": "5,190 Tweets"
+  },
+  {
+    "name": "Taladro",
+    "query": "Taladro",
     "rank": 16,
     "tweet_count": null
   },
@@ -102,8 +102,8 @@
     "tweet_count": null
   },
   {
-    "name": "Majul",
-    "query": "Majul",
+    "name": "Merentiel",
+    "query": "Merentiel",
     "rank": 18,
     "tweet_count": null
   },
@@ -112,11 +112,5 @@
     "query": "Colazo",
     "rank": 19,
     "tweet_count": null
-  },
-  {
-    "name": "Inés",
-    "query": "Inés",
-    "rank": 20,
-    "tweet_count": "13.4K Tweets"
   }
 ]
