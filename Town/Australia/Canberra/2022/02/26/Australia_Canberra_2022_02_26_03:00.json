@@ -1,104 +1,122 @@
 [
   {
-    "name": "#SmackDown",
-    "query": "#SmackDown",
+    "name": "#UkraineUnderAttack",
+    "query": "#UkraineUnderAttack",
     "rank": 1,
-    "tweet_count": "33.6K Tweets"
+    "tweet_count": "231K Tweets"
+  },
+  {
+    "name": "NATO",
+    "query": "NATO",
+    "rank": 2,
+    "tweet_count": "1.78M Tweets"
+  },
+  {
+    "name": "Elden Ring",
+    "query": "\"Elden Ring\"",
+    "rank": 3,
+    "tweet_count": "323K Tweets"
+  },
+  {
+    "name": "#TeamGirlsCup",
+    "query": "#TeamGirlsCup",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "Kyiv",
+    "query": "Kyiv",
+    "rank": 5,
+    "tweet_count": "1.69M Tweets"
   },
   {
     "name": "Flying Mascot",
     "query": "\"Flying Mascot\"",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "Caulfield",
-    "query": "Caulfield",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "Harden",
-    "query": "Harden",
-    "rank": 4,
-    "tweet_count": "59.4K Tweets"
-  },
-  {
-    "name": "Randwick",
-    "query": "Randwick",
-    "rank": 5,
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "#qldfloods",
     "query": "#qldfloods",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "#UkraineUnderAttack",
-    "query": "#UkraineUnderAttack",
     "rank": 7,
-    "tweet_count": "225K Tweets"
-  },
-  {
-    "name": "Embiid",
-    "query": "Embiid",
-    "rank": 8,
-    "tweet_count": "24.8K Tweets"
-  },
-  {
-    "name": "#TeamGirlsCup",
-    "query": "#TeamGirlsCup",
-    "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Quad",
-    "query": "Quad",
+    "name": "Castlereagh Kid",
+    "query": "\"Castlereagh Kid\"",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "#SmackDown",
+    "query": "#SmackDown",
+    "rank": 9,
+    "tweet_count": "37.4K Tweets"
+  },
+  {
+    "name": "Harden",
+    "query": "Harden",
     "rank": 10,
-    "tweet_count": "7,778 Tweets"
+    "tweet_count": "68.2K Tweets"
   },
   {
-    "name": "Collins",
-    "query": "Collins",
+    "name": "Taiwan",
+    "query": "Taiwan",
     "rank": 11,
-    "tweet_count": "14.7K Tweets"
+    "tweet_count": "191K Tweets"
   },
   {
-    "name": "#Brisbane",
-    "query": "#Brisbane",
+    "name": "Caulfield",
+    "query": "Caulfield",
     "rank": 12,
-    "tweet_count": "1,086 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Hawke",
-    "query": "Hawke",
+    "name": "Randwick",
+    "query": "Randwick",
     "rank": 13,
-    "tweet_count": "2,780 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "SWIFT",
-    "query": "SWIFT",
+    "name": "West",
+    "query": "West",
     "rank": 14,
-    "tweet_count": "584K Tweets"
+    "tweet_count": "514K Tweets"
   },
   {
-    "name": "Finland",
-    "query": "Finland",
+    "name": "Wordle 251 X",
+    "query": "\"Wordle 251 X\"",
     "rank": 15,
-    "tweet_count": "173K Tweets"
+    "tweet_count": "9,850 Tweets"
   },
   {
-    "name": "Eurovision",
-    "query": "Eurovision",
+    "name": "Shelby Sixtysix",
+    "query": "\"Shelby Sixtysix\"",
     "rank": 16,
-    "tweet_count": "111K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "UN Security Council",
-    "query": "\"UN Security Council\"",
+    "name": "El Patroness",
+    "query": "\"El Patroness\"",
     "rank": 17,
-    "tweet_count": "64.7K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "#WARvRED",
+    "query": "#WARvRED",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Europe",
+    "query": "Europe",
+    "rank": 19,
+    "tweet_count": "794K Tweets"
+  },
+  {
+    "name": "Prue",
+    "query": "Prue",
+    "rank": 20,
+    "tweet_count": "6,302 Tweets"
   }
 ]
