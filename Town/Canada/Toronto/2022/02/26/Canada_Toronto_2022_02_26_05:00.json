@@ -1,39 +1,39 @@
 [
   {
-    "name": "Knicks",
-    "query": "Knicks",
-    "rank": 1,
-    "tweet_count": "19.3K Tweets"
-  },
-  {
     "name": "Jets",
     "query": "Jets",
-    "rank": 2,
-    "tweet_count": "90.7K Tweets"
-  },
-  {
-    "name": "#LoveIsBlind",
-    "query": "#LoveIsBlind",
-    "rank": 3,
-    "tweet_count": "60.9K Tweets"
+    "rank": 1,
+    "tweet_count": "91.2K Tweets"
   },
   {
     "name": "#UkraineUnderAttack",
     "query": "#UkraineUnderAttack",
-    "rank": 4,
-    "tweet_count": "250K Tweets"
+    "rank": 2,
+    "tweet_count": "252K Tweets"
   },
   {
     "name": "#AEWRampage",
     "query": "#AEWRampage",
-    "rank": 5,
-    "tweet_count": "17.6K Tweets"
+    "rank": 3,
+    "tweet_count": "17.8K Tweets"
+  },
+  {
+    "name": "#LoveIsBlind",
+    "query": "#LoveIsBlind",
+    "rank": 4,
+    "tweet_count": "61.5K Tweets"
   },
   {
     "name": "#BlueBloods",
     "query": "#BlueBloods",
+    "rank": 5,
+    "tweet_count": "4,196 Tweets"
+  },
+  {
+    "name": "Harden",
+    "query": "Harden",
     "rank": 6,
-    "tweet_count": "4,190 Tweets"
+    "tweet_count": "93.3K Tweets"
   },
   {
     "name": "#FirstWorldProblems",
@@ -42,22 +42,22 @@
     "tweet_count": null
   },
   {
-    "name": "Harden",
-    "query": "Harden",
+    "name": "RJ Barrett",
+    "query": "\"RJ Barrett\"",
     "rank": 8,
-    "tweet_count": "92.2K Tweets"
+    "tweet_count": "11.2K Tweets"
   },
   {
     "name": "Dubois",
     "query": "Dubois",
     "rank": 9,
-    "tweet_count": "2,028 Tweets"
+    "tweet_count": "2,038 Tweets"
   },
   {
-    "name": "Raptors",
-    "query": "Raptors",
+    "name": "Clippers",
+    "query": "Clippers",
     "rank": 10,
-    "tweet_count": "11.4K Tweets"
+    "tweet_count": "10.3K Tweets"
   },
   {
     "name": "Hellebuyck",
@@ -66,57 +66,57 @@
     "tweet_count": null
   },
   {
-    "name": "Clippers",
-    "query": "Clippers",
+    "name": "Raptors",
+    "query": "Raptors",
     "rank": 12,
-    "tweet_count": "9,774 Tweets"
+    "tweet_count": "11.4K Tweets"
   },
   {
-    "name": "Vodka",
-    "query": "Vodka",
+    "name": "Hornets",
+    "query": "Hornets",
     "rank": 13,
-    "tweet_count": "46.9K Tweets"
-  },
-  {
-    "name": "Madu",
-    "query": "Madu",
-    "rank": 14,
-    "tweet_count": "7,966 Tweets"
+    "tweet_count": "8,467 Tweets"
   },
   {
     "name": "Zelensky",
     "query": "Zelensky",
+    "rank": 14,
+    "tweet_count": "837K Tweets"
+  },
+  {
+    "name": "Vodka",
+    "query": "Vodka",
     "rank": 15,
-    "tweet_count": "828K Tweets"
+    "tweet_count": "47.3K Tweets"
   },
   {
-    "name": "Mania",
-    "query": "Mania",
+    "name": "Madu",
+    "query": "Madu",
     "rank": 16,
-    "tweet_count": "33.8K Tweets"
-  },
-  {
-    "name": "76ers",
-    "query": "76ers",
-    "rank": 17,
-    "tweet_count": "9,835 Tweets"
+    "tweet_count": "8,025 Tweets"
   },
   {
     "name": "Chapman",
     "query": "Chapman",
-    "rank": 18,
-    "tweet_count": "4,018 Tweets"
+    "rank": 17,
+    "tweet_count": "4,057 Tweets"
   },
   {
     "name": "Red Cross",
     "query": "\"Red Cross\"",
-    "rank": 19,
-    "tweet_count": "17.9K Tweets"
+    "rank": 18,
+    "tweet_count": "18K Tweets"
   },
   {
-    "name": "shandro",
-    "query": "shandro",
+    "name": "Shandro",
+    "query": "Shandro",
+    "rank": 19,
+    "tweet_count": "2,953 Tweets"
+  },
+  {
+    "name": "LCBO",
+    "query": "LCBO",
     "rank": 20,
-    "tweet_count": "2,910 Tweets"
+    "tweet_count": "12.9K Tweets"
   }
 ]
