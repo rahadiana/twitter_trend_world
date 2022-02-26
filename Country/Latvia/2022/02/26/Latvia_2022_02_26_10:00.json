@@ -3,13 +3,13 @@
     "name": "#UkraineUnderAttack",
     "query": "#UkraineUnderAttack",
     "rank": 1,
-    "tweet_count": "308K Tweets"
+    "tweet_count": "313K Tweets"
   },
   {
     "name": "Krievijas",
     "query": "Krievijas",
     "rank": 2,
-    "tweet_count": "9,132 Tweets"
+    "tweet_count": "9,390 Tweets"
   },
   {
     "name": "Kijevas",
@@ -21,7 +21,7 @@
     "name": "NATO",
     "query": "NATO",
     "rank": 4,
-    "tweet_count": "1.73M Tweets"
+    "tweet_count": "1.72M Tweets"
   },
   {
     "name": "Zeļenskis",
@@ -33,7 +33,7 @@
     "name": "Putina",
     "query": "Putina",
     "rank": 6,
-    "tweet_count": "77.5K Tweets"
+    "tweet_count": "79.3K Tweets"
   },
   {
     "name": "Šorīt",
@@ -48,34 +48,34 @@
     "tweet_count": null
   },
   {
+    "name": "Staķis",
+    "query": "Staķis",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
     "name": "minskā",
     "query": "minskā",
-    "rank": 9,
-    "tweet_count": "1,544 Tweets"
+    "rank": 10,
+    "tweet_count": "1,545 Tweets"
   },
   {
     "name": "Uzvaras",
     "query": "Uzvaras",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Germany",
     "query": "Germany",
-    "rank": 11,
-    "tweet_count": "252K Tweets"
-  },
-  {
-    "name": "Vācija",
-    "query": "Vācija",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "255K Tweets"
   },
   {
     "name": "Aldi",
     "query": "Aldi",
     "rank": 13,
-    "tweet_count": "31K Tweets"
+    "tweet_count": "31.5K Tweets"
   },
   {
     "name": "Darīts",
@@ -84,14 +84,14 @@
     "tweet_count": null
   },
   {
-    "name": "Staķis",
-    "query": "Staķis",
+    "name": "rietumu",
+    "query": "rietumu",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "Rietumu",
-    "query": "Rietumu",
+    "name": "Varbūt",
+    "query": "Varbūt",
     "rank": 16,
     "tweet_count": null
   },
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "#StopWar",
-    "query": "#StopWar",
-    "rank": 18,
-    "tweet_count": "176K Tweets"
-  },
-  {
     "name": "Eirovīzijas",
     "query": "Eirovīzijas",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Riga",
     "query": "Riga",
+    "rank": 19,
+    "tweet_count": "21.3K Tweets"
+  },
+  {
+    "name": "#StopWar",
+    "query": "#StopWar",
     "rank": 20,
-    "tweet_count": "20.9K Tweets"
+    "tweet_count": "178K Tweets"
   }
 ]
