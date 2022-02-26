@@ -1,39 +1,39 @@
 [
   {
+    "name": "#Bundeswehr",
+    "query": "#Bundeswehr",
+    "rank": 1,
+    "tweet_count": "6,225 Tweets"
+  },
+  {
     "name": "Soldaten",
     "query": "Soldaten",
-    "rank": 1,
-    "tweet_count": "11.2K Tweets"
-  },
-  {
-    "name": "#StandWithUkriane",
-    "query": "#StandWithUkriane",
     "rank": 2,
-    "tweet_count": "146K Tweets"
+    "tweet_count": "11.4K Tweets"
   },
   {
-    "name": "#AusDecides",
-    "query": "#AusDecides",
+    "name": "#UkraineUnderAttack",
+    "query": "#UkraineUnderAttack",
     "rank": 3,
-    "tweet_count": "8,046 Tweets"
-  },
-  {
-    "name": "#SWIFTban",
-    "query": "#SWIFTban",
-    "rank": 4,
-    "tweet_count": "10.9K Tweets"
-  },
-  {
-    "name": "#Selenskyj",
-    "query": "#Selenskyj",
-    "rank": 5,
-    "tweet_count": "7,404 Tweets"
+    "tweet_count": "321K Tweets"
   },
   {
     "name": "#KSCS04",
     "query": "#KSCS04",
-    "rank": 6,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "#AusDecides",
+    "query": "#AusDecides",
+    "rank": 5,
+    "tweet_count": "8,631 Tweets"
+  },
+  {
+    "name": "#Selenskyj",
+    "query": "#Selenskyj",
+    "rank": 6,
+    "tweet_count": "7,629 Tweets"
   },
   {
     "name": "Zeichen der Hoffnung",
@@ -45,78 +45,78 @@
     "name": "Nebel",
     "query": "Nebel",
     "rank": 8,
-    "tweet_count": "1,896 Tweets"
+    "tweet_count": "1,925 Tweets"
   },
   {
     "name": "Aufrüstung",
     "query": "Aufrüstung",
     "rank": 9,
-    "tweet_count": "3,160 Tweets"
+    "tweet_count": "3,227 Tweets"
   },
   {
     "name": "Militärausgaben",
     "query": "Militärausgaben",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "1,023 Tweets"
   },
   {
     "name": "Heuchelei",
     "query": "Heuchelei",
     "rank": 11,
-    "tweet_count": "3,333 Tweets"
-  },
-  {
-    "name": "Munition",
-    "query": "Munition",
-    "rank": 12,
-    "tweet_count": "11.5K Tweets"
+    "tweet_count": "3,448 Tweets"
   },
   {
     "name": "Botschafter",
     "query": "Botschafter",
-    "rank": 13,
-    "tweet_count": "2,238 Tweets"
+    "rank": 12,
+    "tweet_count": "2,295 Tweets"
   },
   {
-    "name": "Berater",
-    "query": "Berater",
-    "rank": 14,
-    "tweet_count": null
+    "name": "Munition",
+    "query": "Munition",
+    "rank": 13,
+    "tweet_count": "11.8K Tweets"
   },
   {
     "name": "Lindner",
     "query": "Lindner",
+    "rank": 14,
+    "tweet_count": "8,277 Tweets"
+  },
+  {
+    "name": "Berater",
+    "query": "Berater",
     "rank": 15,
-    "tweet_count": "8,129 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Kriegsverbrecher",
-    "query": "Kriegsverbrecher",
+    "name": "kriegsverbrecher",
+    "query": "kriegsverbrecher",
     "rank": 16,
-    "tweet_count": "4,265 Tweets"
-  },
-  {
-    "name": "Abhängigkeit",
-    "query": "Abhängigkeit",
-    "rank": 17,
-    "tweet_count": "2,361 Tweets"
-  },
-  {
-    "name": "Präsidenten",
-    "query": "Präsidenten",
-    "rank": 18,
-    "tweet_count": "4,856 Tweets"
-  },
-  {
-    "name": "Waffenlieferungen",
-    "query": "Waffenlieferungen",
-    "rank": 19,
-    "tweet_count": "1,705 Tweets"
+    "tweet_count": "4,348 Tweets"
   },
   {
     "name": "Helden",
     "query": "Helden",
+    "rank": 17,
+    "tweet_count": "3,270 Tweets"
+  },
+  {
+    "name": "Abhängigkeit",
+    "query": "Abhängigkeit",
+    "rank": 18,
+    "tweet_count": "2,417 Tweets"
+  },
+  {
+    "name": "Präsidenten",
+    "query": "Präsidenten",
+    "rank": 19,
+    "tweet_count": "4,956 Tweets"
+  },
+  {
+    "name": "Waffenlieferungen",
+    "query": "Waffenlieferungen",
     "rank": 20,
-    "tweet_count": "3,229 Tweets"
+    "tweet_count": "1,751 Tweets"
   }
 ]
