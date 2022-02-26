@@ -6,32 +6,32 @@
     "tweet_count": null
   },
   {
+    "name": "Hawaii",
+    "query": "Hawaii",
+    "rank": 2,
+    "tweet_count": "18.4K Tweets"
+  },
+  {
     "name": "#ADLvMVC",
     "query": "#ADLvMVC",
-    "rank": 2,
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "#SYDvMCY",
+    "query": "#SYDvMCY",
+    "rank": 4,
     "tweet_count": null
   },
   {
     "name": "#NEWvMAC",
     "query": "#NEWvMAC",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "Hawaii",
-    "query": "Hawaii",
-    "rank": 4,
-    "tweet_count": "18.3K Tweets"
-  },
-  {
-    "name": "#BLUvHUR",
-    "query": "#BLUvHUR",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "#NRLTrials",
-    "query": "#NRLTrials",
+    "name": "#BLUvHUR",
+    "query": "#BLUvHUR",
     "rank": 6,
     "tweet_count": null
   },
@@ -45,7 +45,7 @@
     "name": "Parra",
     "query": "Parra",
     "rank": 8,
-    "tweet_count": "3,159 Tweets"
+    "tweet_count": "3,166 Tweets"
   },
   {
     "name": "Panthers",
@@ -63,13 +63,13 @@
     "name": "Lakers",
     "query": "Lakers",
     "rank": 11,
-    "tweet_count": "73.5K Tweets"
+    "tweet_count": "73.9K Tweets"
   },
   {
     "name": "Zelensky",
     "query": "Zelensky",
     "rank": 12,
-    "tweet_count": "933K Tweets"
+    "tweet_count": "940K Tweets"
   },
   {
     "name": "Verry Elleegant",
@@ -84,39 +84,39 @@
     "tweet_count": null
   },
   {
-    "name": "Sierra Sue",
-    "query": "\"Sierra Sue\"",
+    "name": "Eels",
+    "query": "Eels",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "Eels",
-    "query": "Eels",
+    "name": "Sierra Sue",
+    "query": "\"Sierra Sue\"",
     "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "Group 1",
-    "query": "\"Group 1\"",
-    "rank": 17,
-    "tweet_count": "324K Tweets"
-  },
-  {
     "name": "Dragons",
     "query": "Dragons",
+    "rank": 17,
+    "tweet_count": "26.1K Tweets"
+  },
+  {
+    "name": "Group 1",
+    "query": "\"Group 1\"",
     "rank": 18,
-    "tweet_count": "25.9K Tweets"
+    "tweet_count": "325K Tweets"
   },
   {
     "name": "Christine Holgate",
     "query": "\"Christine Holgate\"",
     "rank": 19,
-    "tweet_count": "3,245 Tweets"
+    "tweet_count": "3,277 Tweets"
   },
   {
-    "name": "Gympie",
-    "query": "Gympie",
+    "name": "Randwick",
+    "query": "Randwick",
     "rank": 20,
-    "tweet_count": "1,422 Tweets"
+    "tweet_count": null
   }
 ]

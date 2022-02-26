@@ -1,21 +1,21 @@
 [
   {
+    "name": "#Barcode7",
+    "query": "#Barcode7",
+    "rank": 1,
+    "tweet_count": "3,438 Tweets"
+  },
+  {
     "name": "#UkraineUnderAttack",
     "query": "#UkraineUnderAttack",
-    "rank": 1,
-    "tweet_count": "292K Tweets"
+    "rank": 2,
+    "tweet_count": "295K Tweets"
   },
   {
     "name": "#WakeNBake",
     "query": "#WakeNBake",
-    "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "Putin",
-    "query": "Putin",
     "rank": 3,
-    "tweet_count": "1.97M Tweets"
+    "tweet_count": null
   },
   {
     "name": "#SilverSports",
@@ -24,99 +24,99 @@
     "tweet_count": null
   },
   {
-    "name": "#Barcode7",
-    "query": "#Barcode7",
-    "rank": 5,
-    "tweet_count": "2,949 Tweets"
-  },
-  {
     "name": "Lakers",
     "query": "Lakers",
-    "rank": 6,
-    "tweet_count": "73.5K Tweets"
+    "rank": 5,
+    "tweet_count": "73.9K Tweets"
   },
   {
     "name": "NATO",
     "query": "NATO",
-    "rank": 7,
-    "tweet_count": "1.76M Tweets"
+    "rank": 6,
+    "tweet_count": "1.78M Tweets"
   },
   {
     "name": "#5foot3",
     "query": "#5foot3",
-    "rank": 8,
-    "tweet_count": "2,691 Tweets"
+    "rank": 7,
+    "tweet_count": "2,705 Tweets"
   },
   {
     "name": "Asamoah Gyan",
     "query": "\"Asamoah Gyan\"",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Libya",
     "query": "Libya",
-    "rank": 10,
-    "tweet_count": "77K Tweets"
+    "rank": 9,
+    "tweet_count": "77.9K Tweets"
   },
   {
     "name": "Laca",
     "query": "Laca",
-    "rank": 11,
-    "tweet_count": "3,225 Tweets"
+    "rank": 10,
+    "tweet_count": "3,238 Tweets"
   },
   {
     "name": "Kepa",
     "query": "Kepa",
-    "rank": 12,
-    "tweet_count": "6,323 Tweets"
+    "rank": 11,
+    "tweet_count": "6,360 Tweets"
   },
   {
-    "name": "darkoo",
-    "query": "darkoo",
-    "rank": 13,
-    "tweet_count": "3,755 Tweets"
+    "name": "Darkoo",
+    "query": "Darkoo",
+    "rank": 12,
+    "tweet_count": "3,848 Tweets"
   },
   {
     "name": "Paris",
     "query": "Paris",
+    "rank": 13,
+    "tweet_count": "200K Tweets"
+  },
+  {
+    "name": "China",
+    "query": "China",
     "rank": 14,
-    "tweet_count": "199K Tweets"
+    "tweet_count": "739K Tweets"
   },
   {
     "name": "Lebron",
     "query": "Lebron",
     "rank": 15,
-    "tweet_count": "55.7K Tweets"
+    "tweet_count": "56K Tweets"
   },
   {
-    "name": "China",
-    "query": "China",
+    "name": "Gaddafi",
+    "query": "Gaddafi",
     "rank": 16,
-    "tweet_count": "735K Tweets"
+    "tweet_count": "31.9K Tweets"
   },
   {
     "name": "Poland",
     "query": "Poland",
     "rank": 17,
-    "tweet_count": "457K Tweets"
+    "tweet_count": "461K Tweets"
   },
   {
-    "name": "Gaddafi",
-    "query": "Gaddafi",
+    "name": "Thanos",
+    "query": "Thanos",
     "rank": 18,
-    "tweet_count": "31.3K Tweets"
-  },
-  {
-    "name": "West",
-    "query": "West",
-    "rank": 19,
-    "tweet_count": "519K Tweets"
+    "tweet_count": "11.1K Tweets"
   },
   {
     "name": "America",
     "query": "America",
+    "rank": 19,
+    "tweet_count": "566K Tweets"
+  },
+  {
+    "name": "West",
+    "query": "West",
     "rank": 20,
-    "tweet_count": "564K Tweets"
+    "tweet_count": "522K Tweets"
   }
 ]
