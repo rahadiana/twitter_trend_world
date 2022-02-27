@@ -3,13 +3,13 @@
     "name": "SWIFT",
     "query": "SWIFT",
     "rank": 1,
-    "tweet_count": "1.05M Tweets"
+    "tweet_count": "1.06M Tweets"
   },
   {
     "name": "Neutralität",
     "query": "Neutralität",
     "rank": 2,
-    "tweet_count": "6,808 Tweets"
+    "tweet_count": "6,814 Tweets"
   },
   {
     "name": "Sanktionen",
@@ -33,7 +33,7 @@
     "name": "NATO",
     "query": "NATO",
     "rank": 6,
-    "tweet_count": "1.27M Tweets"
+    "tweet_count": "1.28M Tweets"
   },
   {
     "name": "Kyiv",
@@ -45,7 +45,7 @@
     "name": "Kiev",
     "query": "Kiev",
     "rank": 8,
-    "tweet_count": "973K Tweets"
+    "tweet_count": "977K Tweets"
   },
   {
     "name": "#bern",
@@ -54,16 +54,16 @@
     "tweet_count": null
   },
   {
-    "name": "Elden Ring",
-    "query": "\"Elden Ring\"",
-    "rank": 10,
-    "tweet_count": "279K Tweets"
-  },
-  {
     "name": "#EmpoliJuve",
     "query": "#EmpoliJuve",
-    "rank": 11,
+    "rank": 10,
     "tweet_count": "15.5K Tweets"
+  },
+  {
+    "name": "Elden Ring",
+    "query": "\"Elden Ring\"",
+    "rank": 11,
+    "tweet_count": "281K Tweets"
   },
   {
     "name": "Rückgrat",
@@ -81,7 +81,7 @@
     "name": "#Anonymous",
     "query": "#Anonymous",
     "rank": 14,
-    "tweet_count": "262K Tweets"
+    "tweet_count": "263K Tweets"
   },
   {
     "name": "#Cesar2022",
@@ -93,7 +93,7 @@
     "name": "Taten",
     "query": "Taten",
     "rank": 16,
-    "tweet_count": "1,923 Tweets"
+    "tweet_count": "1,925 Tweets"
   },
   {
     "name": "Schweiz",
@@ -105,7 +105,7 @@
     "name": "Bundesrat",
     "query": "Bundesrat",
     "rank": 18,
-    "tweet_count": "2,683 Tweets"
+    "tweet_count": "2,684 Tweets"
   },
   {
     "name": "#geneva",
@@ -117,6 +117,6 @@
     "name": "Messi",
     "query": "Messi",
     "rank": 20,
-    "tweet_count": "227K Tweets"
+    "tweet_count": "228K Tweets"
   }
 ]
