@@ -1,21 +1,21 @@
 [
   {
-    "name": "Izzy",
-    "query": "Izzy",
-    "rank": 1,
-    "tweet_count": "32.7K Tweets"
-  },
-  {
     "name": "Ukraine",
     "query": "Ukraine",
+    "rank": 1,
+    "tweet_count": "2.06M Tweets"
+  },
+  {
+    "name": "Izzy",
+    "query": "Izzy",
     "rank": 2,
-    "tweet_count": "2.29M Tweets"
+    "tweet_count": "32.8K Tweets"
   },
   {
     "name": "Watford",
     "query": "Watford",
     "rank": 3,
-    "tweet_count": "95.6K Tweets"
+    "tweet_count": "95.7K Tweets"
   },
   {
     "name": "#MUNWAT",
@@ -24,16 +24,16 @@
     "tweet_count": "59.6K Tweets"
   },
   {
-    "name": "Ronaldo",
-    "query": "Ronaldo",
-    "rank": 5,
-    "tweet_count": "158K Tweets"
-  },
-  {
     "name": "#EAAwards",
     "query": "#EAAwards",
+    "rank": 5,
+    "tweet_count": "3,115 Tweets"
+  },
+  {
+    "name": "Ronaldo",
+    "query": "Ronaldo",
     "rank": 6,
-    "tweet_count": "3,112 Tweets"
+    "tweet_count": "159K Tweets"
   },
   {
     "name": "Everton",
@@ -42,58 +42,58 @@
     "tweet_count": "128K Tweets"
   },
   {
+    "name": "Putin",
+    "query": "Putin",
+    "rank": 8,
+    "tweet_count": "2.04M Tweets"
+  },
+  {
     "name": "#NeverCommit",
     "query": "#NeverCommit",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": "1,446 Tweets"
   },
   {
     "name": "#tecnopl",
     "query": "#tecnopl",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "#wakenbake",
     "query": "#wakenbake",
-    "rank": 10,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Leeds",
     "query": "Leeds",
-    "rank": 11,
-    "tweet_count": "124K Tweets"
+    "rank": 12,
+    "tweet_count": "125K Tweets"
   },
   {
     "name": "Asamoah Gyan",
     "query": "\"Asamoah Gyan\"",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "sulley muntari",
     "query": "\"sulley muntari\"",
-    "rank": 13,
-    "tweet_count": "2,106 Tweets"
+    "rank": 14,
+    "tweet_count": "2,114 Tweets"
   },
   {
     "name": "Roman",
     "query": "Roman",
-    "rank": 14,
-    "tweet_count": "167K Tweets"
+    "rank": 15,
+    "tweet_count": "168K Tweets"
   },
   {
     "name": "Dallas",
     "query": "Dallas",
-    "rank": 15,
-    "tweet_count": "31.5K Tweets"
-  },
-  {
-    "name": "Legon Cities",
-    "query": "\"Legon Cities\"",
     "rank": 16,
-    "tweet_count": "1,449 Tweets"
+    "tweet_count": "31.7K Tweets"
   },
   {
     "name": "Harry Kane",
@@ -105,18 +105,18 @@
     "name": "Thanos",
     "query": "Thanos",
     "rank": 18,
-    "tweet_count": "9,629 Tweets"
-  },
-  {
-    "name": "Rodri",
-    "query": "Rodri",
-    "rank": 19,
-    "tweet_count": "24.8K Tweets"
+    "tweet_count": "9,699 Tweets"
   },
   {
     "name": "Libya",
     "query": "Libya",
+    "rank": 19,
+    "tweet_count": "68.8K Tweets"
+  },
+  {
+    "name": "Rodri",
+    "query": "Rodri",
     "rank": 20,
-    "tweet_count": "68.2K Tweets"
+    "tweet_count": "24.9K Tweets"
   }
 ]
