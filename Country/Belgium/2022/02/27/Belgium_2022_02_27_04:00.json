@@ -1,33 +1,33 @@
 [
   {
-    "name": "#ohland",
-    "query": "#ohland",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "SWIFT",
     "query": "SWIFT",
-    "rank": 2,
-    "tweet_count": "1.06M Tweets"
+    "rank": 1,
+    "tweet_count": "1.07M Tweets"
   },
   {
     "name": "#ohn22",
     "query": "#ohn22",
+    "rank": 2,
+    "tweet_count": "5,817 Tweets"
+  },
+  {
+    "name": "#ohland",
+    "query": "#ohland",
     "rank": 3,
-    "tweet_count": "5,810 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Oekraïne",
     "query": "Oekraïne",
     "rank": 4,
-    "tweet_count": "69K Tweets"
+    "tweet_count": "69.1K Tweets"
   },
   {
     "name": "#omloophetnieuwsblad",
     "query": "#omloophetnieuwsblad",
     "rank": 5,
-    "tweet_count": "1,091 Tweets"
+    "tweet_count": "1,093 Tweets"
   },
   {
     "name": "Rusland",
@@ -45,37 +45,37 @@
     "name": "Kiev",
     "query": "Kiev",
     "rank": 8,
-    "tweet_count": "952K Tweets"
+    "tweet_count": "958K Tweets"
   },
   {
     "name": "Russische",
     "query": "Russische",
     "rank": 9,
-    "tweet_count": "79.2K Tweets"
+    "tweet_count": "79.3K Tweets"
+  },
+  {
+    "name": "NATO",
+    "query": "NATO",
+    "rank": 10,
+    "tweet_count": "1.26M Tweets"
+  },
+  {
+    "name": "Poutine",
+    "query": "Poutine",
+    "rank": 11,
+    "tweet_count": "233K Tweets"
   },
   {
     "name": "NAVO",
     "query": "NAVO",
-    "rank": 10,
+    "rank": 12,
     "tweet_count": "10.2K Tweets"
   },
   {
     "name": "#ohn2022",
     "query": "#ohn2022",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "NATO",
-    "query": "NATO",
-    "rank": 12,
-    "tweet_count": "1.25M Tweets"
-  },
-  {
-    "name": "Poutine",
-    "query": "Poutine",
     "rank": 13,
-    "tweet_count": "232K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#themaskedsinger",
@@ -87,25 +87,25 @@
     "name": "Russen",
     "query": "Russen",
     "rank": 15,
-    "tweet_count": "28.9K Tweets"
-  },
-  {
-    "name": "pvda",
-    "query": "pvda",
-    "rank": 16,
-    "tweet_count": "2,764 Tweets"
+    "tweet_count": "29K Tweets"
   },
   {
     "name": "Wout",
     "query": "Wout",
+    "rank": 16,
+    "tweet_count": "3,551 Tweets"
+  },
+  {
+    "name": "pvda",
+    "query": "pvda",
     "rank": 17,
-    "tweet_count": "3,541 Tweets"
+    "tweet_count": "2,770 Tweets"
   },
   {
     "name": "Ronaldo",
     "query": "Ronaldo",
     "rank": 18,
-    "tweet_count": "157K Tweets"
+    "tweet_count": "158K Tweets"
   },
   {
     "name": "Ancelotti",
@@ -114,8 +114,8 @@
     "tweet_count": "13.2K Tweets"
   },
   {
-    "name": "kompany",
-    "query": "kompany",
+    "name": "Kompany",
+    "query": "Kompany",
     "rank": 20,
     "tweet_count": null
   }

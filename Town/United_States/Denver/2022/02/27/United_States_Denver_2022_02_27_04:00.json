@@ -1,116 +1,122 @@
 [
   {
-    "name": "#AvsTwitterPsychic",
-    "query": "#AvsTwitterPsychic",
+    "name": "#GoBuffs",
+    "query": "#GoBuffs",
     "rank": 1,
     "tweet_count": null
   },
   {
+    "name": "#AvsTwitterPsychic",
+    "query": "#AvsTwitterPsychic",
+    "rank": 2,
+    "tweet_count": null
+  },
+  {
+    "name": "Nuggets",
+    "query": "Nuggets",
+    "rank": 3,
+    "tweet_count": "10.7K Tweets"
+  },
+  {
+    "name": "#GoAvsGo",
+    "query": "#GoAvsGo",
+    "rank": 4,
+    "tweet_count": "2,460 Tweets"
+  },
+  {
     "name": "Bobby Portis",
     "query": "\"Bobby Portis\"",
-    "rank": 2,
-    "tweet_count": "3,771 Tweets"
+    "rank": 5,
+    "tweet_count": "4,017 Tweets"
   },
   {
     "name": "Bucks",
     "query": "Bucks",
-    "rank": 3,
-    "tweet_count": "30.7K Tweets"
-  },
-  {
-    "name": "#UFCVegas49",
-    "query": "#UFCVegas49",
-    "rank": 4,
-    "tweet_count": "54.3K Tweets"
+    "rank": 6,
+    "tweet_count": "33.2K Tweets"
   },
   {
     "name": "Gonzaga",
     "query": "Gonzaga",
-    "rank": 5,
-    "tweet_count": "8,114 Tweets"
+    "rank": 7,
+    "tweet_count": "8,769 Tweets"
   },
   {
     "name": "Drummond",
     "query": "Drummond",
-    "rank": 6,
-    "tweet_count": "5,353 Tweets"
+    "rank": 8,
+    "tweet_count": "6,192 Tweets"
   },
   {
     "name": "#Noctyx_VTuberDebut",
     "query": "#Noctyx_VTuberDebut",
-    "rank": 7,
-    "tweet_count": "71.1K Tweets"
+    "rank": 9,
+    "tweet_count": "79.8K Tweets"
   },
   {
     "name": "#NAACPImageAwards",
     "query": "#NAACPImageAwards",
-    "rank": 8,
-    "tweet_count": "30.5K Tweets"
+    "rank": 10,
+    "tweet_count": "32.5K Tweets"
   },
   {
     "name": "Bulls",
     "query": "Bulls",
-    "rank": 9,
-    "tweet_count": "34.5K Tweets"
+    "rank": 11,
+    "tweet_count": "35.5K Tweets"
   },
   {
-    "name": "Leafs",
-    "query": "Leafs",
-    "rank": 10,
-    "tweet_count": "15.1K Tweets"
+    "name": "John Mulaney",
+    "query": "\"John Mulaney\"",
+    "rank": 12,
+    "tweet_count": "2,728 Tweets"
   },
   {
     "name": "Grayson Allen",
     "query": "\"Grayson Allen\"",
-    "rank": 11,
+    "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "Baylor",
-    "query": "Baylor",
-    "rank": 12,
-    "tweet_count": "7,962 Tweets"
-  },
-  {
-    "name": "62% of Americans",
-    "query": "\"62% of Americans\"",
-    "rank": 13,
-    "tweet_count": "15.6K Tweets"
+    "name": "Leafs",
+    "query": "Leafs",
+    "rank": 14,
+    "tweet_count": "15.5K Tweets"
   },
   {
     "name": "Jrue",
     "query": "Jrue",
-    "rank": 14,
-    "tweet_count": "1,281 Tweets"
-  },
-  {
-    "name": "yeonjun",
-    "query": "yeonjun",
     "rank": 15,
-    "tweet_count": "136K Tweets"
+    "tweet_count": "1,428 Tweets"
   },
   {
-    "name": "Chivas",
-    "query": "Chivas",
+    "name": "62% of Americans",
+    "query": "\"62% of Americans\"",
     "rank": 16,
-    "tweet_count": "37.8K Tweets"
-  },
-  {
-    "name": "Steven Adams",
-    "query": "\"Steven Adams\"",
-    "rank": 17,
-    "tweet_count": "1,617 Tweets"
-  },
-  {
-    "name": "Kuzma",
-    "query": "Kuzma",
-    "rank": 18,
-    "tweet_count": "2,883 Tweets"
+    "tweet_count": "16.4K Tweets"
   },
   {
     "name": "Top 3",
     "query": "\"Top 3\"",
+    "rank": 17,
+    "tweet_count": "129K Tweets"
+  },
+  {
+    "name": "Sabonis",
+    "query": "Sabonis",
+    "rank": 18,
+    "tweet_count": "1,273 Tweets"
+  },
+  {
+    "name": "yeonjun",
+    "query": "yeonjun",
     "rank": 19,
-    "tweet_count": "127K Tweets"
+    "tweet_count": "139K Tweets"
+  },
+  {
+    "name": "Kansas",
+    "query": "Kansas",
+    "rank": 20,
+    "tweet_count": "22.6K Tweets"
   }
 ]
