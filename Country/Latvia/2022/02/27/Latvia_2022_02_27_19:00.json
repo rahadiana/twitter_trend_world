@@ -1,9 +1,9 @@
 [
   {
-    "name": "Ukrainā",
-    "query": "Ukrainā",
+    "name": "SWIFT",
+    "query": "SWIFT",
     "rank": 1,
-    "tweet_count": "257K Tweets"
+    "tweet_count": "1.02M Tweets"
   },
   {
     "name": "#zeltamikrofons",
@@ -15,41 +15,41 @@
     "name": "Krievijas",
     "query": "Krievijas",
     "rank": 3,
-    "tweet_count": "6,382 Tweets"
-  },
-  {
-    "name": "Putina",
-    "query": "Putina",
-    "rank": 4,
-    "tweet_count": "90.8K Tweets"
-  },
-  {
-    "name": "Lukašenko",
-    "query": "Lukašenko",
-    "rank": 5,
-    "tweet_count": "3,494 Tweets"
-  },
-  {
-    "name": "Anonymous",
-    "query": "Anonymous",
-    "rank": 6,
-    "tweet_count": "507K Tweets"
-  },
-  {
-    "name": "Dinamo",
-    "query": "Dinamo",
-    "rank": 7,
-    "tweet_count": "11.5K Tweets"
-  },
-  {
-    "name": "Savickis",
-    "query": "Savickis",
-    "rank": 8,
-    "tweet_count": null
+    "tweet_count": "6,513 Tweets"
   },
   {
     "name": "Saeimas",
     "query": "Saeimas",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "Putina",
+    "query": "Putina",
+    "rank": 5,
+    "tweet_count": "87.7K Tweets"
+  },
+  {
+    "name": "Lukašenko",
+    "query": "Lukašenko",
+    "rank": 6,
+    "tweet_count": "3,422 Tweets"
+  },
+  {
+    "name": "Anonymous",
+    "query": "Anonymous",
+    "rank": 7,
+    "tweet_count": "491K Tweets"
+  },
+  {
+    "name": "Dinamo",
+    "query": "Dinamo",
+    "rank": 8,
+    "tweet_count": "10.9K Tweets"
+  },
+  {
+    "name": "Savickis",
+    "query": "Savickis",
     "rank": 9,
     "tweet_count": null
   },
@@ -63,7 +63,7 @@
     "name": "Russian",
     "query": "Russian",
     "rank": 11,
-    "tweet_count": "2.44M Tweets"
+    "tweet_count": "3.36M Tweets"
   },
   {
     "name": "sipeniece",
@@ -93,19 +93,19 @@
     "name": "prāta",
     "query": "prāta",
     "rank": 16,
-    "tweet_count": "2,580 Tweets"
+    "tweet_count": "2,616 Tweets"
   },
   {
-    "name": "Kijevas",
-    "query": "Kijevas",
+    "name": "harkovā",
+    "query": "harkovā",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "1,159 Tweets"
   },
   {
-    "name": "Harkovā",
-    "query": "Harkovā",
+    "name": "Baiba",
+    "query": "Baiba",
     "rank": 18,
-    "tweet_count": "1,159 Tweets"
+    "tweet_count": null
   },
   {
     "name": "molotova",
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "Aeroflot",
-    "query": "Aeroflot",
+    "name": "Krimā",
+    "query": "Krimā",
     "rank": 20,
-    "tweet_count": "17.5K Tweets"
+    "tweet_count": null
   }
 ]

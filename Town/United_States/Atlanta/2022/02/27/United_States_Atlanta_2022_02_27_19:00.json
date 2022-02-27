@@ -1,116 +1,122 @@
 [
   {
-    "name": "Big Sean",
-    "query": "\"Big Sean\"",
-    "rank": 1,
-    "tweet_count": "63.9K Tweets"
-  },
-  {
     "name": "#ATLUTD",
     "query": "#ATLUTD",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "#PokemonDay",
+    "query": "#PokemonDay",
     "rank": 2,
-    "tweet_count": null
-  },
-  {
-    "name": "#UniteAndConquer",
-    "query": "#UniteAndConquer",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "Pokémon",
-    "query": "Pokémon",
-    "rank": 4,
-    "tweet_count": "1.02M Tweets"
+    "tweet_count": "483K Tweets"
   },
   {
     "name": "#CarabaoCupFinal",
     "query": "#CarabaoCupFinal",
-    "rank": 5,
-    "tweet_count": "176K Tweets"
+    "rank": 3,
+    "tweet_count": "191K Tweets"
   },
   {
     "name": "Mendy",
     "query": "Mendy",
-    "rank": 6,
-    "tweet_count": "99.4K Tweets"
-  },
-  {
-    "name": "Chelsea",
-    "query": "Chelsea",
-    "rank": 7,
-    "tweet_count": "425K Tweets"
-  },
-  {
-    "name": "Liverpool",
-    "query": "Liverpool",
-    "rank": 8,
-    "tweet_count": "255K Tweets"
-  },
-  {
-    "name": "#CHELIV",
-    "query": "#CHELIV",
-    "rank": 9,
-    "tweet_count": "89.2K Tweets"
-  },
-  {
-    "name": "Gen 9",
-    "query": "\"Gen 9\"",
-    "rank": 10,
-    "tweet_count": "87.3K Tweets"
-  },
-  {
-    "name": "Fuecoco",
-    "query": "Fuecoco",
-    "rank": 11,
-    "tweet_count": "62.1K Tweets"
-  },
-  {
-    "name": "Quaxly",
-    "query": "Quaxly",
-    "rank": 12,
-    "tweet_count": "49.4K Tweets"
-  },
-  {
-    "name": "Sprigatito",
-    "query": "Sprigatito",
-    "rank": 13,
-    "tweet_count": "66K Tweets"
-  },
-  {
-    "name": "Lukaku",
-    "query": "Lukaku",
-    "rank": 14,
-    "tweet_count": "44.3K Tweets"
-  },
-  {
-    "name": "Arceus",
-    "query": "Arceus",
-    "rank": 15,
-    "tweet_count": "48.1K Tweets"
+    "rank": 4,
+    "tweet_count": "112K Tweets"
   },
   {
     "name": "Harden",
     "query": "Harden",
-    "rank": 16,
-    "tweet_count": "33K Tweets"
+    "rank": 5,
+    "tweet_count": "35.7K Tweets"
+  },
+  {
+    "name": "Gen 9",
+    "query": "\"Gen 9\"",
+    "rank": 6,
+    "tweet_count": "90.6K Tweets"
+  },
+  {
+    "name": "Quaxly",
+    "query": "Quaxly",
+    "rank": 7,
+    "tweet_count": "52.3K Tweets"
+  },
+  {
+    "name": "Sprigatito",
+    "query": "Sprigatito",
+    "rank": 8,
+    "tweet_count": "69.9K Tweets"
   },
   {
     "name": "Tobias",
     "query": "Tobias",
-    "rank": 17,
-    "tweet_count": "12.5K Tweets"
+    "rank": 9,
+    "tweet_count": "13.6K Tweets"
+  },
+  {
+    "name": "Lukaku",
+    "query": "Lukaku",
+    "rank": 10,
+    "tweet_count": "49.4K Tweets"
+  },
+  {
+    "name": "Maxey",
+    "query": "Maxey",
+    "rank": 11,
+    "tweet_count": "6,390 Tweets"
   },
   {
     "name": "Spain",
     "query": "Spain",
-    "rank": 18,
-    "tweet_count": "58.4K Tweets"
+    "rank": 12,
+    "tweet_count": "58.5K Tweets"
   },
   {
     "name": "Jericho Sims",
     "query": "\"Jericho Sims\"",
-    "rank": 19,
+    "rank": 13,
     "tweet_count": null
+  },
+  {
+    "name": "Top 3",
+    "query": "\"Top 3\"",
+    "rank": 14,
+    "tweet_count": "128K Tweets"
+  },
+  {
+    "name": "Sixers",
+    "query": "Sixers",
+    "rank": 15,
+    "tweet_count": "21K Tweets"
+  },
+  {
+    "name": "#UkraineRussiaWar",
+    "query": "#UkraineRussiaWar",
+    "rank": 16,
+    "tweet_count": "427K Tweets"
+  },
+  {
+    "name": "Donald Duck",
+    "query": "\"Donald Duck\"",
+    "rank": 17,
+    "tweet_count": "9,335 Tweets"
+  },
+  {
+    "name": "Tom Cotton",
+    "query": "\"Tom Cotton\"",
+    "rank": 18,
+    "tweet_count": "29.7K Tweets"
+  },
+  {
+    "name": "Pulisic",
+    "query": "Pulisic",
+    "rank": 19,
+    "tweet_count": "19.6K Tweets"
+  },
+  {
+    "name": "Matip",
+    "query": "Matip",
+    "rank": 20,
+    "tweet_count": "13.1K Tweets"
   }
 ]
