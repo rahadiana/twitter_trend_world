@@ -3,19 +3,19 @@
     "name": "SWIFT",
     "query": "SWIFT",
     "rank": 1,
-    "tweet_count": "1.12M Tweets"
+    "tweet_count": "1.13M Tweets"
   },
   {
     "name": "Putin",
     "query": "Putin",
     "rank": 2,
-    "tweet_count": "4.66M Tweets"
+    "tweet_count": "4.69M Tweets"
   },
   {
-    "name": "Ryssland",
-    "query": "Ryssland",
+    "name": "ryssland",
+    "query": "ryssland",
     "rank": 3,
-    "tweet_count": "16.4K Tweets"
+    "tweet_count": "16.5K Tweets"
   },
   {
     "name": "NATO",
@@ -33,7 +33,7 @@
     "name": "#Melfest",
     "query": "#Melfest",
     "rank": 6,
-    "tweet_count": "6,420 Tweets"
+    "tweet_count": "6,427 Tweets"
   },
   {
     "name": "Medina",
@@ -48,50 +48,50 @@
     "tweet_count": null
   },
   {
-    "name": "#Ukrania",
-    "query": "#Ukrania",
-    "rank": 9,
-    "tweet_count": "201K Tweets"
-  },
-  {
     "name": "Polen",
     "query": "Polen",
-    "rank": 10,
-    "tweet_count": "28.1K Tweets"
+    "rank": 9,
+    "tweet_count": "28.4K Tweets"
   },
   {
     "name": "Kyiv",
     "query": "Kyiv",
-    "rank": 11,
-    "tweet_count": "1.63M Tweets"
-  },
-  {
-    "name": "Kiev",
-    "query": "Kiev",
-    "rank": 12,
-    "tweet_count": "852K Tweets"
+    "rank": 10,
+    "tweet_count": "1.64M Tweets"
   },
   {
     "name": "klara hammarström",
     "query": "\"klara hammarström\"",
-    "rank": 13,
+    "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "lillasyster",
-    "query": "lillasyster",
-    "rank": 14,
+    "name": "Lillasyster",
+    "query": "Lillasyster",
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "Kiev",
+    "query": "Kiev",
+    "rank": 13,
+    "tweet_count": "857K Tweets"
   },
   {
     "name": "SIDA",
     "query": "SIDA",
-    "rank": 15,
-    "tweet_count": "6,408 Tweets"
+    "rank": 14,
+    "tweet_count": "6,461 Tweets"
   },
   {
     "name": "#Melodifestivalen",
     "query": "#Melodifestivalen",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Europatipset",
+    "query": "Europatipset",
     "rank": 16,
     "tweet_count": null
   },
@@ -99,7 +99,7 @@
     "name": "NLAW",
     "query": "NLAW",
     "rank": 17,
-    "tweet_count": "29.3K Tweets"
+    "tweet_count": "29.5K Tweets"
   },
   {
     "name": "Grattis",
@@ -111,12 +111,12 @@
     "name": "Starlink",
     "query": "Starlink",
     "rank": 19,
-    "tweet_count": "271K Tweets"
+    "tweet_count": "273K Tweets"
   },
   {
     "name": "Robot 57",
     "query": "\"Robot 57\"",
     "rank": 20,
-    "tweet_count": "1,221 Tweets"
+    "tweet_count": "1,229 Tweets"
   }
 ]

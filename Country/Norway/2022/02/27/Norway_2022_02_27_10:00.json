@@ -1,33 +1,33 @@
 [
   {
-    "name": "Ukraine",
-    "query": "Ukraine",
+    "name": "SWIFT",
+    "query": "SWIFT",
     "rank": 1,
-    "tweet_count": "2.15M Tweets"
+    "tweet_count": "1.13M Tweets"
   },
   {
     "name": "Putin",
     "query": "Putin",
     "rank": 2,
-    "tweet_count": "4.66M Tweets"
-  },
-  {
-    "name": "Russland",
-    "query": "Russland",
-    "rank": 3,
-    "tweet_count": "123K Tweets"
+    "tweet_count": "4.69M Tweets"
   },
   {
     "name": "Norge",
     "query": "Norge",
+    "rank": 3,
+    "tweet_count": "3,533 Tweets"
+  },
+  {
+    "name": "Russland",
+    "query": "Russland",
     "rank": 4,
-    "tweet_count": "3,430 Tweets"
+    "tweet_count": "124K Tweets"
   },
   {
     "name": "Bielsa",
     "query": "Bielsa",
     "rank": 5,
-    "tweet_count": "91.8K Tweets"
+    "tweet_count": "92.2K Tweets"
   },
   {
     "name": "#Ukrania",
@@ -42,20 +42,20 @@
     "tweet_count": "1.15M Tweets"
   },
   {
-    "name": "Kyiv",
-    "query": "Kyiv",
-    "rank": 8,
-    "tweet_count": "1.63M Tweets"
-  },
-  {
-    "name": "SWIFT",
-    "query": "SWIFT",
-    "rank": 9,
-    "tweet_count": "1.12M Tweets"
-  },
-  {
     "name": "steigan",
     "query": "steigan",
+    "rank": 8,
+    "tweet_count": null
+  },
+  {
+    "name": "Kyiv",
+    "query": "Kyiv",
+    "rank": 9,
+    "tweet_count": "1.64M Tweets"
+  },
+  {
+    "name": "Støre",
+    "query": "Støre",
     "rank": 10,
     "tweet_count": null
   },
@@ -69,54 +69,54 @@
     "name": "Kane",
     "query": "Kane",
     "rank": 12,
-    "tweet_count": "65.8K Tweets"
+    "tweet_count": "66K Tweets"
   },
   {
     "name": "Watford",
     "query": "Watford",
     "rank": 13,
-    "tweet_count": "95.6K Tweets"
+    "tweet_count": "95.8K Tweets"
   },
   {
     "name": "#MUNWAT",
     "query": "#MUNWAT",
     "rank": 14,
-    "tweet_count": "57.1K Tweets"
+    "tweet_count": "57.2K Tweets"
   },
   {
     "name": "Leeds",
     "query": "Leeds",
     "rank": 15,
-    "tweet_count": "128K Tweets"
-  },
-  {
-    "name": "Støre",
-    "query": "Støre",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "129K Tweets"
   },
   {
     "name": "Kompani Lauritzen",
     "query": "\"Kompani Lauritzen\"",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Goodison",
     "query": "Goodison",
-    "rank": 18,
-    "tweet_count": "34.7K Tweets"
+    "rank": 17,
+    "tweet_count": "34.8K Tweets"
   },
   {
     "name": "Zelensky",
     "query": "Zelensky",
-    "rank": 19,
-    "tweet_count": "1.2M Tweets"
+    "rank": 18,
+    "tweet_count": "1.21M Tweets"
   },
   {
-    "name": "Moskva",
-    "query": "Moskva",
+    "name": "#lufc",
+    "query": "#lufc",
+    "rank": 19,
+    "tweet_count": "37.7K Tweets"
+  },
+  {
+    "name": "Finland",
+    "query": "Finland",
     "rank": 20,
-    "tweet_count": "2,503 Tweets"
+    "tweet_count": "111K Tweets"
   }
 ]
