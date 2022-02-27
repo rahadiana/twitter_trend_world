@@ -3,25 +3,25 @@
     "name": "SWIFT",
     "query": "SWIFT",
     "rank": 1,
-    "tweet_count": "1.1M Tweets"
+    "tweet_count": "1.11M Tweets"
   },
   {
     "name": "Putin",
     "query": "Putin",
     "rank": 2,
-    "tweet_count": "4.59M Tweets"
+    "tweet_count": "4.62M Tweets"
   },
   {
     "name": "Ryssland",
     "query": "Ryssland",
     "rank": 3,
-    "tweet_count": "15.9K Tweets"
+    "tweet_count": "16.1K Tweets"
   },
   {
     "name": "NATO",
     "query": "NATO",
     "rank": 4,
-    "tweet_count": "1.11M Tweets"
+    "tweet_count": "1.12M Tweets"
   },
   {
     "name": "#Mello",
@@ -33,11 +33,11 @@
     "name": "#Melfest",
     "query": "#Melfest",
     "rank": 6,
-    "tweet_count": "6,456 Tweets"
+    "tweet_count": "6,465 Tweets"
   },
   {
-    "name": "Anna Bergendahl",
-    "query": "\"Anna Bergendahl\"",
+    "name": "anna bergendahl",
+    "query": "\"anna bergendahl\"",
     "rank": 7,
     "tweet_count": null
   },
@@ -45,13 +45,13 @@
     "name": "Polen",
     "query": "Polen",
     "rank": 8,
-    "tweet_count": "27.7K Tweets"
+    "tweet_count": "28K Tweets"
   },
   {
     "name": "Kyiv",
     "query": "Kyiv",
     "rank": 9,
-    "tweet_count": "1.59M Tweets"
+    "tweet_count": "1.6M Tweets"
   },
   {
     "name": "Klara Hammarström",
@@ -63,19 +63,19 @@
     "name": "SIDA",
     "query": "SIDA",
     "rank": 11,
-    "tweet_count": "6,264 Tweets"
+    "tweet_count": "6,329 Tweets"
+  },
+  {
+    "name": "#melodifestivalen",
+    "query": "#melodifestivalen",
+    "rank": 12,
+    "tweet_count": null
   },
   {
     "name": "Kiev",
     "query": "Kiev",
-    "rank": 12,
-    "tweet_count": "821K Tweets"
-  },
-  {
-    "name": "#Melodifestivalen",
-    "query": "#Melodifestivalen",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "825K Tweets"
   },
   {
     "name": "Europatipset",
@@ -87,36 +87,36 @@
     "name": "NLAW",
     "query": "NLAW",
     "rank": 15,
-    "tweet_count": "29.6K Tweets"
-  },
-  {
-    "name": "Medina",
-    "query": "Medina",
-    "rank": 16,
-    "tweet_count": "10.3K Tweets"
+    "tweet_count": "29.9K Tweets"
   },
   {
     "name": "Robot 57",
     "query": "\"Robot 57\"",
-    "rank": 17,
-    "tweet_count": "1,222 Tweets"
+    "rank": 16,
+    "tweet_count": "1,233 Tweets"
   },
   {
-    "name": "lillasyster",
-    "query": "lillasyster",
+    "name": "Medina",
+    "query": "Medina",
+    "rank": 17,
+    "tweet_count": "10.4K Tweets"
+  },
+  {
+    "name": "Lillasyster",
+    "query": "Lillasyster",
     "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "Everton",
-    "query": "Everton",
-    "rank": 19,
-    "tweet_count": "130K Tweets"
-  },
-  {
     "name": "#Ukrania",
     "query": "#Ukrania",
+    "rank": 19,
+    "tweet_count": "201K Tweets"
+  },
+  {
+    "name": "Everton",
+    "query": "Everton",
     "rank": 20,
-    "tweet_count": "200K Tweets"
+    "tweet_count": "130K Tweets"
   }
 ]

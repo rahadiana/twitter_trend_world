@@ -1,19 +1,19 @@
 [
   {
-    "name": "#Ukraine",
-    "query": "#Ukraine",
+    "name": "Ukraine",
+    "query": "Ukraine",
     "rank": 1,
-    "tweet_count": "2.17M Tweets"
+    "tweet_count": "1.82M Tweets"
   },
   {
     "name": "#racism",
     "query": "#racism",
     "rank": 2,
-    "tweet_count": "4,413 Tweets"
+    "tweet_count": "4,674 Tweets"
   },
   {
-    "name": "#MUNWAT",
-    "query": "#MUNWAT",
+    "name": "#munwat",
+    "query": "#munwat",
     "rank": 3,
     "tweet_count": "56.2K Tweets"
   },
@@ -21,73 +21,73 @@
     "name": "#MbelePamoja",
     "query": "#MbelePamoja",
     "rank": 4,
-    "tweet_count": "4,167 Tweets"
+    "tweet_count": "4,191 Tweets"
   },
   {
     "name": "Putin",
     "query": "Putin",
     "rank": 5,
-    "tweet_count": "4.59M Tweets"
+    "tweet_count": "4.36M Tweets"
   },
   {
     "name": "Watford",
     "query": "Watford",
     "rank": 6,
-    "tweet_count": "94.6K Tweets"
+    "tweet_count": "94.7K Tweets"
   },
   {
     "name": "#ODMDeclaration",
     "query": "#ODMDeclaration",
     "rank": 7,
-    "tweet_count": "2,516 Tweets"
+    "tweet_count": "2,533 Tweets"
   },
   {
     "name": "Blessed Sunday",
     "query": "\"Blessed Sunday\"",
     "rank": 8,
-    "tweet_count": "15.6K Tweets"
+    "tweet_count": "15.8K Tweets"
+  },
+  {
+    "name": "#CarabaoCupFinal",
+    "query": "#CarabaoCupFinal",
+    "rank": 9,
+    "tweet_count": "28.8K Tweets"
   },
   {
     "name": "NATO",
     "query": "NATO",
-    "rank": 9,
-    "tweet_count": "1.11M Tweets"
-  },
-  {
-    "name": "Everton",
-    "query": "Everton",
     "rank": 10,
-    "tweet_count": "130K Tweets"
+    "tweet_count": "1.12M Tweets"
   },
   {
-    "name": "Big Sean",
-    "query": "\"Big Sean\"",
+    "name": "Marcelo Bielsa",
+    "query": "\"Marcelo Bielsa\"",
     "rank": 11,
-    "tweet_count": "45.2K Tweets"
+    "tweet_count": "42.4K Tweets"
   },
   {
     "name": "Libya",
     "query": "Libya",
     "rank": 12,
-    "tweet_count": "62.5K Tweets"
+    "tweet_count": "63.2K Tweets"
   },
   {
-    "name": "KICC",
-    "query": "KICC",
+    "name": "kicc",
+    "query": "kicc",
     "rank": 13,
-    "tweet_count": "2,007 Tweets"
+    "tweet_count": "2,015 Tweets"
   },
   {
-    "name": "Marcelo Bielsa",
-    "query": "\"Marcelo Bielsa\"",
+    "name": "Havi",
+    "query": "Havi",
     "rank": 14,
-    "tweet_count": "40K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Sakaja",
     "query": "Sakaja",
     "rank": 15,
-    "tweet_count": "1,414 Tweets"
+    "tweet_count": "1,459 Tweets"
   },
   {
     "name": "Wanjigi",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "Havi",
-    "query": "Havi",
+    "name": "Raphael Tuju",
+    "query": "\"Raphael Tuju\"",
     "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "raphael tuju",
-    "query": "\"raphael tuju\"",
-    "rank": 19,
-    "tweet_count": "4,085 Tweets"
+    "tweet_count": "4,094 Tweets"
   },
   {
     "name": "Syria",
     "query": "Syria",
+    "rank": 19,
+    "tweet_count": "116K Tweets"
+  },
+  {
+    "name": "Iraq",
+    "query": "Iraq",
     "rank": 20,
-    "tweet_count": "115K Tweets"
+    "tweet_count": "154K Tweets"
   }
 ]

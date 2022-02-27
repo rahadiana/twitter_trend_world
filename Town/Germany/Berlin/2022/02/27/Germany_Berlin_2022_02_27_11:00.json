@@ -3,109 +3,109 @@
     "name": "Demo",
     "query": "Demo",
     "rank": 1,
-    "tweet_count": "45K Tweets"
-  },
-  {
-    "name": "Frieden",
-    "query": "Frieden",
-    "rank": 2,
-    "tweet_count": "18.5K Tweets"
+    "tweet_count": "45.4K Tweets"
   },
   {
     "name": "Russen",
     "query": "Russen",
-    "rank": 3,
-    "tweet_count": "30.4K Tweets"
+    "rank": 2,
+    "tweet_count": "30.8K Tweets"
   },
   {
     "name": "#UkraineUnderAttack",
     "query": "#UkraineUnderAttack",
-    "rank": 4,
-    "tweet_count": "390K Tweets"
+    "rank": 3,
+    "tweet_count": "392K Tweets"
   },
   {
     "name": "#StandWithUkraine",
     "query": "#StandWithUkraine",
+    "rank": 4,
+    "tweet_count": "669K Tweets"
+  },
+  {
+    "name": "Frieden",
+    "query": "Frieden",
     "rank": 5,
-    "tweet_count": "665K Tweets"
+    "tweet_count": "19K Tweets"
   },
   {
     "name": "#Bundestag",
     "query": "#Bundestag",
     "rank": 6,
-    "tweet_count": "7,656 Tweets"
+    "tweet_count": "8,784 Tweets"
   },
   {
     "name": "#regierungserklaerung",
     "query": "#regierungserklaerung",
     "rank": 7,
-    "tweet_count": "2,366 Tweets"
+    "tweet_count": "2,719 Tweets"
   },
   {
-    "name": "#Merz",
-    "query": "#Merz",
+    "name": "#Weidel",
+    "query": "#Weidel",
     "rank": 8,
-    "tweet_count": "1,675 Tweets"
+    "tweet_count": "1,588 Tweets"
+  },
+  {
+    "name": "Freiheitsenergien",
+    "query": "Freiheitsenergien",
+    "rank": 9,
+    "tweet_count": null
   },
   {
     "name": "Starke Rede",
     "query": "\"Starke Rede\"",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Aufrüstung",
     "query": "Aufrüstung",
-    "rank": 10,
-    "tweet_count": "2,972 Tweets"
+    "rank": 11,
+    "tweet_count": "3,191 Tweets"
   },
   {
     "name": "Sondervermögen",
     "query": "Sondervermögen",
-    "rank": 11,
-    "tweet_count": "2,629 Tweets"
+    "rank": 12,
+    "tweet_count": "2,941 Tweets"
   },
   {
     "name": "Applaus",
     "query": "Applaus",
-    "rank": 12,
-    "tweet_count": "1,123 Tweets"
-  },
-  {
-    "name": "Schönen Sonntag",
-    "query": "\"Schönen Sonntag\"",
     "rank": 13,
-    "tweet_count": "3,703 Tweets"
+    "tweet_count": "1,173 Tweets"
   },
   {
     "name": "Milliarden Euro",
     "query": "\"Milliarden Euro\"",
     "rank": 14,
-    "tweet_count": "2,191 Tweets"
+    "tweet_count": "2,399 Tweets"
+  },
+  {
+    "name": "Schönen Sonntag",
+    "query": "\"Schönen Sonntag\"",
+    "rank": 15,
+    "tweet_count": "3,775 Tweets"
   },
   {
     "name": "Standing Ovations",
     "query": "\"Standing Ovations\"",
-    "rank": 15,
-    "tweet_count": "2,242 Tweets"
+    "rank": 16,
+    "tweet_count": "2,786 Tweets"
   },
   {
     "name": "Botschafter",
     "query": "Botschafter",
-    "rank": 16,
-    "tweet_count": "5,180 Tweets"
+    "rank": 17,
+    "tweet_count": "5,624 Tweets"
   },
   {
     "name": "Fraktionen",
     "query": "Fraktionen",
-    "rank": 17,
-    "tweet_count": "1,455 Tweets"
-  },
-  {
-    "name": "Energien",
-    "query": "Energien",
     "rank": 18,
-    "tweet_count": "3,455 Tweets"
+    "tweet_count": "1,632 Tweets"
   },
   {
     "name": "Parteipolitik",
@@ -114,9 +114,9 @@
     "tweet_count": null
   },
   {
-    "name": "Annalena Baerbock",
-    "query": "\"Annalena Baerbock\"",
+    "name": "Berater",
+    "query": "Berater",
     "rank": 20,
-    "tweet_count": "6,413 Tweets"
+    "tweet_count": null
   }
 ]
