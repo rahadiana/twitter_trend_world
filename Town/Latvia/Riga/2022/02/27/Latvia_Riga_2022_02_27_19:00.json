@@ -3,7 +3,7 @@
     "name": "SWIFT",
     "query": "SWIFT",
     "rank": 1,
-    "tweet_count": "1.02M Tweets"
+    "tweet_count": "1.03M Tweets"
   },
   {
     "name": "#zeltamikrofons",
@@ -15,31 +15,31 @@
     "name": "Krievijas",
     "query": "Krievijas",
     "rank": 3,
-    "tweet_count": "6,566 Tweets"
-  },
-  {
-    "name": "Putina",
-    "query": "Putina",
-    "rank": 4,
-    "tweet_count": "88.7K Tweets"
-  },
-  {
-    "name": "Lukašenko",
-    "query": "Lukašenko",
-    "rank": 5,
-    "tweet_count": "3,447 Tweets"
+    "tweet_count": "6,620 Tweets"
   },
   {
     "name": "Saeimas",
     "query": "Saeimas",
-    "rank": 6,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "Putina",
+    "query": "Putina",
+    "rank": 5,
+    "tweet_count": "89.8K Tweets"
   },
   {
     "name": "Anonymous",
     "query": "Anonymous",
+    "rank": 6,
+    "tweet_count": "497K Tweets"
+  },
+  {
+    "name": "Lukašenko",
+    "query": "Lukašenko",
     "rank": 7,
-    "tweet_count": "494K Tweets"
+    "tweet_count": "3,465 Tweets"
   },
   {
     "name": "Savickis",
@@ -48,16 +48,16 @@
     "tweet_count": null
   },
   {
-    "name": "kongresu",
-    "query": "kongresu",
-    "rank": 9,
-    "tweet_count": null
-  },
-  {
     "name": "Russian",
     "query": "Russian",
+    "rank": 9,
+    "tweet_count": "1.92M Tweets"
+  },
+  {
+    "name": "kongresu",
+    "query": "kongresu",
     "rank": 10,
-    "tweet_count": "2.7M Tweets"
+    "tweet_count": null
   },
   {
     "name": "sipeniece",
@@ -81,36 +81,36 @@
     "name": "Harkovā",
     "query": "Harkovā",
     "rank": 14,
-    "tweet_count": "1,165 Tweets"
-  },
-  {
-    "name": "prāta",
-    "query": "prāta",
-    "rank": 15,
-    "tweet_count": "2,645 Tweets"
+    "tweet_count": "1,171 Tweets"
   },
   {
     "name": "Baiba",
     "query": "Baiba",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Dinamo",
     "query": "Dinamo",
-    "rank": 17,
-    "tweet_count": "10.9K Tweets"
+    "rank": 16,
+    "tweet_count": "11K Tweets"
   },
   {
-    "name": "Hāgu",
-    "query": "Hāgu",
+    "name": "Krimā",
+    "query": "Krimā",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "hāgu",
+    "query": "hāgu",
     "rank": 18,
-    "tweet_count": "1,110 Tweets"
+    "tweet_count": "1,112 Tweets"
   },
   {
     "name": "Lauri",
     "query": "Lauri",
     "rank": 19,
-    "tweet_count": "2,801 Tweets"
+    "tweet_count": "2,818 Tweets"
   }
 ]
