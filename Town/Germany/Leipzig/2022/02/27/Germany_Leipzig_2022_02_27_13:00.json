@@ -1,73 +1,73 @@
 [
   {
+    "name": "#Ukraine",
+    "query": "#Ukraine",
+    "rank": 1,
+    "tweet_count": "2.13M Tweets"
+  },
+  {
     "name": "#Bundestag",
     "query": "#Bundestag",
-    "rank": 1,
-    "tweet_count": "13.7K Tweets"
+    "rank": 2,
+    "tweet_count": "14.5K Tweets"
   },
   {
     "name": "#HSVSVW",
     "query": "#HSVSVW",
-    "rank": 2,
-    "tweet_count": "1,935 Tweets"
-  },
-  {
-    "name": "#noafd",
-    "query": "#noafd",
     "rank": 3,
-    "tweet_count": "4,769 Tweets"
+    "tweet_count": "2,295 Tweets"
   },
   {
-    "name": "#Weidel",
-    "query": "#Weidel",
+    "name": "#b2702",
+    "query": "#b2702",
     "rank": 4,
-    "tweet_count": "2,885 Tweets"
+    "tweet_count": "2,888 Tweets"
   },
   {
-    "name": "Erneuerbare Energien",
-    "query": "\"Erneuerbare Energien\"",
+    "name": "Freiheitsenergien",
+    "query": "Freiheitsenergien",
     "rank": 5,
-    "tweet_count": "3,557 Tweets"
+    "tweet_count": "1,960 Tweets"
   },
   {
     "name": "Aufrüstung",
     "query": "Aufrüstung",
     "rank": 6,
-    "tweet_count": "5,112 Tweets"
+    "tweet_count": "5,420 Tweets"
   },
   {
     "name": "Starke Rede",
     "query": "\"Starke Rede\"",
     "rank": 7,
-    "tweet_count": "1,219 Tweets"
-  },
-  {
-    "name": "Sondervermögen",
-    "query": "Sondervermögen",
-    "rank": 8,
-    "tweet_count": "4,434 Tweets"
+    "tweet_count": "1,294 Tweets"
   },
   {
     "name": "Schuldenbremse",
     "query": "Schuldenbremse",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
+  },
+  {
+    "name": "Sondervermögen",
+    "query": "Sondervermögen",
+    "rank": 9,
+    "tweet_count": "4,670 Tweets"
   },
   {
     "name": "Schönen Sonntag",
     "query": "\"Schönen Sonntag\"",
     "rank": 10,
-    "tweet_count": "4,179 Tweets"
+    "tweet_count": "4,256 Tweets"
   },
   {
     "name": "Milliarden Euro",
     "query": "\"Milliarden Euro\"",
     "rank": 11,
-    "tweet_count": "3,534 Tweets"
+    "tweet_count": "3,770 Tweets"
   },
   {
-    "name": "Teilhabe",
-    "query": "Teilhabe",
+    "name": "teilhabe",
+    "query": "teilhabe",
     "rank": 12,
     "tweet_count": null
   },
@@ -75,42 +75,42 @@
     "name": "Deutsche Bahn",
     "query": "\"Deutsche Bahn\"",
     "rank": 13,
-    "tweet_count": "3,600 Tweets"
+    "tweet_count": "4,018 Tweets"
+  },
+  {
+    "name": "Siegessäule",
+    "query": "Siegessäule",
+    "rank": 14,
+    "tweet_count": "2,010 Tweets"
   },
   {
     "name": "Kittel",
     "query": "Kittel",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Wettrüsten",
-    "query": "Wettrüsten",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "Applaus",
-    "query": "Applaus",
+    "name": "Demo",
+    "query": "Demo",
     "rank": 16,
-    "tweet_count": "1,445 Tweets"
+    "tweet_count": "44.7K Tweets"
+  },
+  {
+    "name": "Wettrüsten",
+    "query": "Wettrüsten",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Straße des 17",
+    "query": "\"Straße des 17\"",
+    "rank": 18,
+    "tweet_count": "1,019 Tweets"
   },
   {
     "name": "Standing Ovations",
     "query": "\"Standing Ovations\"",
-    "rank": 17,
-    "tweet_count": "5,417 Tweets"
-  },
-  {
-    "name": "Berater",
-    "query": "Berater",
-    "rank": 18,
-    "tweet_count": "1,193 Tweets"
-  },
-  {
-    "name": "Demo",
-    "query": "Demo",
     "rank": 19,
-    "tweet_count": "43.8K Tweets"
+    "tweet_count": "5,906 Tweets"
   }
 ]
