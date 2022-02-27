@@ -1,33 +1,33 @@
 [
   {
-    "name": "#CluAnt",
-    "query": "#CluAnt",
+    "name": "#CLUANT",
+    "query": "#CLUANT",
     "rank": 1,
-    "tweet_count": "1,123 Tweets"
+    "tweet_count": "1,141 Tweets"
   },
   {
-    "name": "Ukraine",
-    "query": "Ukraine",
+    "name": "SWIFT",
+    "query": "SWIFT",
     "rank": 2,
-    "tweet_count": "4.09M Tweets"
-  },
-  {
-    "name": "#KBK22",
-    "query": "#KBK22",
-    "rank": 3,
-    "tweet_count": "1,511 Tweets"
+    "tweet_count": "1.06M Tweets"
   },
   {
     "name": "Oekraïne",
     "query": "Oekraïne",
+    "rank": 3,
+    "tweet_count": "69.7K Tweets"
+  },
+  {
+    "name": "#KBK22",
+    "query": "#KBK22",
     "rank": 4,
-    "tweet_count": "67.9K Tweets"
+    "tweet_count": "1,617 Tweets"
   },
   {
     "name": "#7dag",
     "query": "#7dag",
     "rank": 5,
-    "tweet_count": "1,032 Tweets"
+    "tweet_count": "1,050 Tweets"
   },
   {
     "name": "#KBK2022",
@@ -45,47 +45,47 @@
     "name": "Russische",
     "query": "Russische",
     "rank": 8,
-    "tweet_count": "87K Tweets"
+    "tweet_count": "88.7K Tweets"
   },
   {
     "name": "Rusland",
     "query": "Rusland",
     "rank": 9,
-    "tweet_count": "32.3K Tweets"
-  },
-  {
-    "name": "SWIFT",
-    "query": "SWIFT",
-    "rank": 10,
-    "tweet_count": "1.05M Tweets"
+    "tweet_count": "33.3K Tweets"
   },
   {
     "name": "Putin",
     "query": "Putin",
-    "rank": 11,
-    "tweet_count": "4.01M Tweets"
+    "rank": 10,
+    "tweet_count": "4.53M Tweets"
   },
   {
     "name": "Poetin",
     "query": "Poetin",
-    "rank": 12,
-    "tweet_count": "30.8K Tweets"
+    "rank": 11,
+    "tweet_count": "31.9K Tweets"
   },
   {
     "name": "Poutine",
     "query": "Poutine",
-    "rank": 13,
-    "tweet_count": "253K Tweets"
+    "rank": 12,
+    "tweet_count": "261K Tweets"
   },
   {
     "name": "NATO",
     "query": "NATO",
-    "rank": 14,
-    "tweet_count": "1.14M Tweets"
+    "rank": 13,
+    "tweet_count": "1.17M Tweets"
   },
   {
-    "name": "wout van aert",
-    "query": "\"wout van aert\"",
+    "name": "Wout van Aert",
+    "query": "\"Wout van Aert\"",
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "vanaken",
+    "query": "vanaken",
     "rank": 15,
     "tweet_count": null
   },
@@ -93,30 +93,30 @@
     "name": "Kiev",
     "query": "Kiev",
     "rank": 16,
-    "tweet_count": "720K Tweets"
-  },
-  {
-    "name": "Brugge",
-    "query": "Brugge",
-    "rank": 17,
-    "tweet_count": "1,005 Tweets"
-  },
-  {
-    "name": "Vanaken",
-    "query": "Vanaken",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "735K Tweets"
   },
   {
     "name": "Zelensky",
     "query": "Zelensky",
-    "rank": 19,
-    "tweet_count": "1.09M Tweets"
+    "rank": 17,
+    "tweet_count": "1.12M Tweets"
   },
   {
     "name": "NAVO",
     "query": "NAVO",
+    "rank": 18,
+    "tweet_count": "9,392 Tweets"
+  },
+  {
+    "name": "Russen",
+    "query": "Russen",
+    "rank": 19,
+    "tweet_count": "34.8K Tweets"
+  },
+  {
+    "name": "Facon",
+    "query": "Facon",
     "rank": 20,
-    "tweet_count": "9,096 Tweets"
+    "tweet_count": "18.7K Tweets"
   }
 ]

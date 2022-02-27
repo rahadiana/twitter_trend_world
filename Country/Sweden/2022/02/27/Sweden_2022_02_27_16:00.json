@@ -3,37 +3,37 @@
     "name": "SWIFT",
     "query": "SWIFT",
     "rank": 1,
-    "tweet_count": "1.05M Tweets"
+    "tweet_count": "1.06M Tweets"
   },
   {
     "name": "Putin",
     "query": "Putin",
     "rank": 2,
-    "tweet_count": "4.01M Tweets"
+    "tweet_count": "4.53M Tweets"
   },
   {
     "name": "Ryssland",
     "query": "Ryssland",
     "rank": 3,
-    "tweet_count": "14K Tweets"
+    "tweet_count": "14.4K Tweets"
   },
   {
     "name": "NATO",
     "query": "NATO",
     "rank": 4,
-    "tweet_count": "1.14M Tweets"
+    "tweet_count": "1.17M Tweets"
+  },
+  {
+    "name": "Belarus",
+    "query": "Belarus",
+    "rank": 5,
+    "tweet_count": "346K Tweets"
   },
   {
     "name": "Polen",
     "query": "Polen",
-    "rank": 5,
-    "tweet_count": "26.6K Tweets"
-  },
-  {
-    "name": "Pokémon",
-    "query": "Pokémon",
     "rank": 6,
-    "tweet_count": "770K Tweets"
+    "tweet_count": "27.1K Tweets"
   },
   {
     "name": "#mello",
@@ -42,14 +42,14 @@
     "tweet_count": null
   },
   {
-    "name": "klara hammarström",
-    "query": "\"klara hammarström\"",
+    "name": "Pokémon",
+    "query": "Pokémon",
     "rank": 8,
-    "tweet_count": null
+    "tweet_count": "806K Tweets"
   },
   {
-    "name": "#twittssk",
-    "query": "#twittssk",
+    "name": "klara hammarström",
+    "query": "\"klara hammarström\"",
     "rank": 9,
     "tweet_count": null
   },
@@ -57,66 +57,66 @@
     "name": "SIDA",
     "query": "SIDA",
     "rank": 10,
-    "tweet_count": "6,287 Tweets"
+    "tweet_count": "6,403 Tweets"
   },
   {
-    "name": "#Melfest",
-    "query": "#Melfest",
+    "name": "#CarabaoCupFinal",
+    "query": "#CarabaoCupFinal",
     "rank": 11,
-    "tweet_count": "6,495 Tweets"
-  },
-  {
-    "name": "NLAW",
-    "query": "NLAW",
-    "rank": 12,
-    "tweet_count": "28.2K Tweets"
-  },
-  {
-    "name": "Robot 57",
-    "query": "\"Robot 57\"",
-    "rank": 13,
-    "tweet_count": "1,049 Tweets"
-  },
-  {
-    "name": "Brynäs",
-    "query": "Brynäs",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Spain",
-    "query": "Spain",
-    "rank": 15,
-    "tweet_count": "45K Tweets"
+    "tweet_count": "101K Tweets"
   },
   {
     "name": "#Ukrania",
     "query": "#Ukrania",
-    "rank": 16,
-    "tweet_count": "190K Tweets"
+    "rank": 12,
+    "tweet_count": "193K Tweets"
   },
   {
-    "name": "William Poromaa",
-    "query": "\"William Poromaa\"",
-    "rank": 17,
+    "name": "NLAW",
+    "query": "NLAW",
+    "rank": 13,
+    "tweet_count": "28.7K Tweets"
+  },
+  {
+    "name": "Robot 57",
+    "query": "\"Robot 57\"",
+    "rank": 14,
+    "tweet_count": "1,054 Tweets"
+  },
+  {
+    "name": "#twittssk",
+    "query": "#twittssk",
+    "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "Kyiv",
-    "query": "Kyiv",
-    "rank": 18,
-    "tweet_count": "1.47M Tweets"
+    "name": "Brynäs",
+    "query": "Brynäs",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "#Melfest",
+    "query": "#Melfest",
+    "rank": 17,
+    "tweet_count": "6,506 Tweets"
   },
   {
     "name": "Zelensky",
     "query": "Zelensky",
-    "rank": 19,
-    "tweet_count": "1.09M Tweets"
+    "rank": 18,
+    "tweet_count": "1.12M Tweets"
   },
   {
-    "name": "Chelsea",
-    "query": "Chelsea",
+    "name": "Spain",
+    "query": "Spain",
+    "rank": 19,
+    "tweet_count": "49K Tweets"
+  },
+  {
+    "name": "Ukrainska",
+    "query": "Ukrainska",
     "rank": 20,
-    "tweet_count": "285K Tweets"
+    "tweet_count": "17.9K Tweets"
   }
 ]
