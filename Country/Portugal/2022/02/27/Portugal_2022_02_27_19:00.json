@@ -1,63 +1,63 @@
 [
   {
-    "name": "Kepa",
-    "query": "Kepa",
-    "rank": 1,
-    "tweet_count": "225K Tweets"
-  },
-  {
     "name": "Yaremchuk",
     "query": "Yaremchuk",
+    "rank": 1,
+    "tweet_count": "11.8K Tweets"
+  },
+  {
+    "name": "Kepa",
+    "query": "Kepa",
     "rank": 2,
-    "tweet_count": "8,679 Tweets"
+    "tweet_count": "261K Tweets"
   },
   {
     "name": "Gilberto",
     "query": "Gilberto",
     "rank": 3,
-    "tweet_count": "4,748 Tweets"
+    "tweet_count": "4,940 Tweets"
   },
   {
     "name": "Liverpool",
     "query": "Liverpool",
     "rank": 4,
-    "tweet_count": "335K Tweets"
+    "tweet_count": "357K Tweets"
+  },
+  {
+    "name": "Quaresma",
+    "query": "Quaresma",
+    "rank": 5,
+    "tweet_count": "1,905 Tweets"
   },
   {
     "name": "Gonçalo Ramos",
     "query": "\"Gonçalo Ramos\"",
-    "rank": 5,
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "Meite",
     "query": "Meite",
-    "rank": 6,
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Fabinho",
     "query": "Fabinho",
-    "rank": 7,
-    "tweet_count": "14K Tweets"
+    "rank": 8,
+    "tweet_count": "14.6K Tweets"
+  },
+  {
+    "name": "João Mário",
+    "query": "\"João Mário\"",
+    "rank": 9,
+    "tweet_count": null
   },
   {
     "name": "Estádio da Luz",
     "query": "\"Estádio da Luz\"",
-    "rank": 8,
-    "tweet_count": "1,343 Tweets"
-  },
-  {
-    "name": "luís diaz",
-    "query": "\"luís diaz\"",
-    "rank": 9,
-    "tweet_count": "21.9K Tweets"
-  },
-  {
-    "name": "Tiago",
-    "query": "Tiago",
     "rank": 10,
-    "tweet_count": "196K Tweets"
+    "tweet_count": "3,035 Tweets"
   },
   {
     "name": "#CSGOnaRTP",
@@ -69,48 +69,54 @@
     "name": "Roman",
     "query": "Roman",
     "rank": 12,
-    "tweet_count": "126K Tweets"
+    "tweet_count": "127K Tweets"
+  },
+  {
+    "name": "luís diaz",
+    "query": "\"luís diaz\"",
+    "rank": 13,
+    "tweet_count": "23.8K Tweets"
+  },
+  {
+    "name": "Tiago",
+    "query": "Tiago",
+    "rank": 14,
+    "tweet_count": "202K Tweets"
   },
   {
     "name": "#SLBVSC",
     "query": "#SLBVSC",
-    "rank": 13,
-    "tweet_count": "1,212 Tweets"
-  },
-  {
-    "name": "VAMOS BENFICA",
-    "query": "\"VAMOS BENFICA\"",
-    "rank": 14,
-    "tweet_count": null
+    "rank": 15,
+    "tweet_count": "1,277 Tweets"
   },
   {
     "name": "Vitória",
     "query": "Vitória",
-    "rank": 15,
-    "tweet_count": "31.2K Tweets"
+    "rank": 16,
+    "tweet_count": "31.6K Tweets"
+  },
+  {
+    "name": "Vamos Benfica",
+    "query": "\"Vamos Benfica\"",
+    "rank": 17,
+    "tweet_count": null
   },
   {
     "name": "#SlavaUkraini",
     "query": "#SlavaUkraini",
-    "rank": 16,
-    "tweet_count": "36.3K Tweets"
+    "rank": 18,
+    "tweet_count": "37K Tweets"
   },
   {
     "name": "Spain",
     "query": "Spain",
-    "rank": 17,
-    "tweet_count": "61.1K Tweets"
+    "rank": 19,
+    "tweet_count": "62.4K Tweets"
   },
   {
     "name": "Pokémon",
     "query": "Pokémon",
-    "rank": 18,
-    "tweet_count": "1.07M Tweets"
-  },
-  {
-    "name": "Zelensky",
-    "query": "Zelensky",
-    "rank": 19,
-    "tweet_count": "1.07M Tweets"
+    "rank": 20,
+    "tweet_count": "1.09M Tweets"
   }
 ]
