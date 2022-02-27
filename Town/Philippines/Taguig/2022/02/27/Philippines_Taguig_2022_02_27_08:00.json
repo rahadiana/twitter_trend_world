@@ -1,104 +1,116 @@
 [
   {
-    "name": "#BreakTheCode",
-    "query": "#BreakTheCode",
+    "name": "Alert Level 1",
+    "query": "\"Alert Level 1\"",
     "rank": 1,
-    "tweet_count": "1,777 Tweets"
+    "tweet_count": "1,152 Tweets"
+  },
+  {
+    "name": "#ASAPlovesOPM",
+    "query": "#ASAPlovesOPM",
+    "rank": 2,
+    "tweet_count": "17.2K Tweets"
   },
   {
     "name": "#MNL48",
     "query": "#MNL48",
-    "rank": 2,
-    "tweet_count": "3,004 Tweets"
+    "rank": 3,
+    "tweet_count": "3,112 Tweets"
   },
   {
     "name": "#BelleMariano",
     "query": "#BelleMariano",
-    "rank": 3,
-    "tweet_count": "25.9K Tweets"
-  },
-  {
-    "name": "Inkigayo",
-    "query": "Inkigayo",
     "rank": 4,
-    "tweet_count": "122K Tweets"
+    "tweet_count": "26.2K Tweets"
   },
   {
-    "name": "ALEIANS GIVE BACK WEEK4",
-    "query": "\"ALEIANS GIVE BACK WEEK4\"",
+    "name": "#IpanaloNa10To",
+    "query": "#IpanaloNa10To",
     "rank": 5,
-    "tweet_count": "10.3K Tweets"
+    "tweet_count": "22.5K Tweets"
   },
   {
     "name": "Madam President",
     "query": "\"Madam President\"",
     "rank": 6,
-    "tweet_count": "1,318 Tweets"
+    "tweet_count": "2,393 Tweets"
   },
   {
-    "name": "yujin",
-    "query": "yujin",
+    "name": "Inkigayo",
+    "query": "Inkigayo",
     "rank": 7,
-    "tweet_count": "64.8K Tweets"
+    "tweet_count": "133K Tweets"
+  },
+  {
+    "name": "ALEIANS GIVE BACK WEEK4",
+    "query": "\"ALEIANS GIVE BACK WEEK4\"",
+    "rank": 8,
+    "tweet_count": "11.3K Tweets"
   },
   {
     "name": "BGYO BEST MALE GROUP",
     "query": "\"BGYO BEST MALE GROUP\"",
-    "rank": 8,
-    "tweet_count": "4,606 Tweets"
-  },
-  {
-    "name": "DANCE JAM LIVE",
-    "query": "\"DANCE JAM LIVE\"",
     "rank": 9,
-    "tweet_count": "25.3K Tweets"
-  },
-  {
-    "name": "COCOGOAT",
-    "query": "COCOGOAT",
-    "rank": 10,
-    "tweet_count": "1,052 Tweets"
-  },
-  {
-    "name": "MC JIHOON",
-    "query": "\"MC JIHOON\"",
-    "rank": 11,
-    "tweet_count": "60.3K Tweets"
-  },
-  {
-    "name": "NO TO PUPPET",
-    "query": "\"NO TO PUPPET\"",
-    "rank": 12,
-    "tweet_count": "14K Tweets"
+    "tweet_count": "8,246 Tweets"
   },
   {
     "name": "My President",
     "query": "\"My President\"",
+    "rank": 10,
+    "tweet_count": "171K Tweets"
+  },
+  {
+    "name": "yujin",
+    "query": "yujin",
+    "rank": 11,
+    "tweet_count": "68K Tweets"
+  },
+  {
+    "name": "DANCE JAM LIVE",
+    "query": "\"DANCE JAM LIVE\"",
+    "rank": 12,
+    "tweet_count": "26.1K Tweets"
+  },
+  {
+    "name": "COCOGOAT",
+    "query": "COCOGOAT",
     "rank": 13,
-    "tweet_count": "169K Tweets"
+    "tweet_count": "1,262 Tweets"
   },
   {
-    "name": "Felix",
-    "query": "Felix",
+    "name": "mc jihoon",
+    "query": "\"mc jihoon\"",
     "rank": 14,
-    "tweet_count": "98.8K Tweets"
+    "tweet_count": "61.3K Tweets"
   },
   {
-    "name": "ALL I WANNA DO",
-    "query": "\"ALL I WANNA DO\"",
+    "name": "NO TO PUPPET",
+    "query": "\"NO TO PUPPET\"",
     "rank": 15,
-    "tweet_count": "10K Tweets"
+    "tweet_count": "14.4K Tweets"
+  },
+  {
+    "name": "felix",
+    "query": "felix",
+    "rank": 16,
+    "tweet_count": "101K Tweets"
   },
   {
     "name": "BILLY POCO",
     "query": "\"BILLY POCO\"",
-    "rank": 16,
-    "tweet_count": "7,199 Tweets"
+    "rank": 17,
+    "tweet_count": "7,657 Tweets"
   },
   {
-    "name": "LITZ for PPOPCON",
-    "query": "\"LITZ for PPOPCON\"",
-    "rank": 17,
+    "name": "litz for ppopcon",
+    "query": "\"litz for ppopcon\"",
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Valfer",
+    "query": "Valfer",
+    "rank": 19,
+    "tweet_count": "3,582 Tweets"
   }
 ]
