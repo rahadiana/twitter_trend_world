@@ -9,25 +9,25 @@
     "name": "SWIFT",
     "query": "SWIFT",
     "rank": 2,
-    "tweet_count": "1M Tweets"
-  },
-  {
-    "name": "#CarabaoCupFinal",
-    "query": "#CarabaoCupFinal",
-    "rank": 3,
-    "tweet_count": "293K Tweets"
+    "tweet_count": "1.01M Tweets"
   },
   {
     "name": "Putin",
     "query": "Putin",
+    "rank": 3,
+    "tweet_count": "1.95M Tweets"
+  },
+  {
+    "name": "#CarabaoCupFinal",
+    "query": "#CarabaoCupFinal",
     "rank": 4,
-    "tweet_count": "2.05M Tweets"
+    "tweet_count": "295K Tweets"
   },
   {
     "name": "#Belarus",
     "query": "#Belarus",
     "rank": 5,
-    "tweet_count": "70.9K Tweets"
+    "tweet_count": "71.4K Tweets"
   },
   {
     "name": "בן כספית",
@@ -45,31 +45,31 @@
     "name": "Kremlin",
     "query": "Kremlin",
     "rank": 8,
-    "tweet_count": "272K Tweets"
+    "tweet_count": "275K Tweets"
+  },
+  {
+    "name": "לילה טוב",
+    "query": "\"לילה טוב\"",
+    "rank": 9,
+    "tweet_count": null
   },
   {
     "name": "Bennett",
     "query": "Bennett",
-    "rank": 9,
-    "tweet_count": "23.4K Tweets"
+    "rank": 10,
+    "tweet_count": "23.7K Tweets"
   },
   {
     "name": "Chelsea",
     "query": "Chelsea",
-    "rank": 10,
-    "tweet_count": "491K Tweets"
-  },
-  {
-    "name": "Egypt",
-    "query": "Egypt",
     "rank": 11,
-    "tweet_count": "19.5K Tweets"
+    "tweet_count": "493K Tweets"
   },
   {
-    "name": "Kyiv",
-    "query": "Kyiv",
+    "name": "של פוטין",
+    "query": "\"של פוטין\"",
     "rank": 12,
-    "tweet_count": "1.33M Tweets"
+    "tweet_count": "3,403 Tweets"
   },
   {
     "name": "איזה קטע",
@@ -78,45 +78,45 @@
     "tweet_count": null
   },
   {
-    "name": "#P4A2022",
-    "query": "#P4A2022",
+    "name": "Kyiv",
+    "query": "Kyiv",
     "rank": 14,
-    "tweet_count": "5,386 Tweets"
+    "tweet_count": "1.29M Tweets"
   },
   {
-    "name": "של פוטין",
-    "query": "\"של פוטין\"",
+    "name": "איזה כיף",
+    "query": "\"איזה כיף\"",
     "rank": 15,
-    "tweet_count": "3,389 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "#p4a2022",
+    "query": "#p4a2022",
+    "rank": 16,
+    "tweet_count": "5,388 Tweets"
   },
   {
     "name": "Hungary",
     "query": "Hungary",
-    "rank": 16,
-    "tweet_count": "67.8K Tweets"
-  },
-  {
-    "name": "שבוע מבורך",
-    "query": "\"שבוע מבורך\"",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "68.4K Tweets"
   },
   {
     "name": "#Worldle",
     "query": "#Worldle",
     "rank": 18,
-    "tweet_count": "14.7K Tweets"
-  },
-  {
-    "name": "איזה כיף",
-    "query": "\"איזה כיף\"",
-    "rank": 19,
-    "tweet_count": null
+    "tweet_count": "14.8K Tweets"
   },
   {
     "name": "artem kharchenko",
     "query": "\"artem kharchenko\"",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "Violet",
+    "query": "Violet",
+    "rank": 20,
+    "tweet_count": "153K Tweets"
   }
 ]
