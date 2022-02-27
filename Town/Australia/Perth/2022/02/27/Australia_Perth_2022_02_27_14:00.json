@@ -1,110 +1,98 @@
 [
   {
-    "name": "Gen 9",
-    "query": "\"Gen 9\"",
+    "name": "#PokemonDay",
+    "query": "#PokemonDay",
     "rank": 1,
-    "tweet_count": "13.5K Tweets"
-  },
-  {
-    "name": "Violet",
-    "query": "Violet",
-    "rank": 2,
-    "tweet_count": "38.6K Tweets"
-  },
-  {
-    "name": "#PokemonPresents",
-    "query": "#PokemonPresents",
-    "rank": 3,
-    "tweet_count": "10.4K Tweets"
+    "tweet_count": "355K Tweets"
   },
   {
     "name": "#SurvivorAU",
     "query": "#SurvivorAU",
-    "rank": 4,
-    "tweet_count": "2,703 Tweets"
+    "rank": 2,
+    "tweet_count": "2,715 Tweets"
+  },
+  {
+    "name": "Arceus",
+    "query": "Arceus",
+    "rank": 3,
+    "tweet_count": "25.2K Tweets"
   },
   {
     "name": "GoFundMe",
     "query": "GoFundMe",
-    "rank": 5,
-    "tweet_count": "7,522 Tweets"
+    "rank": 4,
+    "tweet_count": "7,592 Tweets"
   },
   {
     "name": "#newspoll",
     "query": "#newspoll",
-    "rank": 6,
-    "tweet_count": "1,590 Tweets"
-  },
-  {
-    "name": "Dutton",
-    "query": "Dutton",
-    "rank": 7,
-    "tweet_count": "21.3K Tweets"
-  },
-  {
-    "name": "Khanh",
-    "query": "Khanh",
-    "rank": 8,
-    "tweet_count": "1,371 Tweets"
-  },
-  {
-    "name": "Mark",
-    "query": "Mark",
-    "rank": 9,
-    "tweet_count": "315K Tweets"
+    "rank": 5,
+    "tweet_count": "1,607 Tweets"
   },
   {
     "name": "Belarus",
     "query": "Belarus",
-    "rank": 10,
-    "tweet_count": "271K Tweets"
+    "rank": 6,
+    "tweet_count": "286K Tweets"
+  },
+  {
+    "name": "Khanh",
+    "query": "Khanh",
+    "rank": 7,
+    "tweet_count": "1,387 Tweets"
   },
   {
     "name": "#qldfloods",
     "query": "#qldfloods",
+    "rank": 8,
+    "tweet_count": "13.2K Tweets"
+  },
+  {
+    "name": "Dutton",
+    "query": "Dutton",
+    "rank": 9,
+    "tweet_count": "21.5K Tweets"
+  },
+  {
+    "name": "#brisbanefloods",
+    "query": "#brisbanefloods",
+    "rank": 10,
+    "tweet_count": "3,350 Tweets"
+  },
+  {
+    "name": "Mark",
+    "query": "Mark",
     "rank": 11,
-    "tweet_count": "13.1K Tweets"
+    "tweet_count": "323K Tweets"
   },
   {
     "name": "Selina",
     "query": "Selina",
     "rank": 12,
-    "tweet_count": "2,508 Tweets"
-  },
-  {
-    "name": "#brisbanefloods",
-    "query": "#brisbanefloods",
-    "rank": 13,
-    "tweet_count": "3,341 Tweets"
+    "tweet_count": "2,533 Tweets"
   },
   {
     "name": "Mitch",
     "query": "Mitch",
-    "rank": 14,
-    "tweet_count": "17.6K Tweets"
-  },
-  {
-    "name": "Bielsa",
-    "query": "Bielsa",
-    "rank": 15,
-    "tweet_count": "121K Tweets"
+    "rank": 13,
+    "tweet_count": "17.8K Tweets"
   },
   {
     "name": "Chelsea",
     "query": "Chelsea",
-    "rank": 16,
-    "tweet_count": "235K Tweets"
+    "rank": 14,
+    "tweet_count": "240K Tweets"
   },
   {
     "name": "#UkraineRussiaWar",
     "query": "#UkraineRussiaWar",
-    "rank": 17,
-    "tweet_count": "341K Tweets"
+    "rank": 15,
+    "tweet_count": "351K Tweets"
   },
   {
     "name": "#bnefloods",
     "query": "#bnefloods",
-    "rank": 18,
+    "rank": 16,
     "tweet_count": null
   }
 ]
