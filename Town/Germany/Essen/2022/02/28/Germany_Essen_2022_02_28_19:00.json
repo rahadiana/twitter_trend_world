@@ -1,39 +1,39 @@
 [
   {
+    "name": "#Friedensdemo",
+    "query": "#Friedensdemo",
+    "rank": 1,
+    "tweet_count": "2,160 Tweets"
+  },
+  {
     "name": "#dasperfektedinner",
     "query": "#dasperfektedinner",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#firstdateshotel",
     "query": "#firstdateshotel",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#ProphetMuhammad",
     "query": "#ProphetMuhammad",
-    "rank": 3,
-    "tweet_count": "70.9K Tweets"
-  },
-  {
-    "name": "#IPCC",
-    "query": "#IPCC",
     "rank": 4,
-    "tweet_count": "35.4K Tweets"
+    "tweet_count": "73.8K Tweets"
   },
   {
     "name": "#StandingWithUkraine",
     "query": "#StandingWithUkraine",
     "rank": 5,
-    "tweet_count": "26.1K Tweets"
+    "tweet_count": "26.9K Tweets"
   },
   {
     "name": "Wettbewerben",
     "query": "Wettbewerben",
     "rank": 6,
-    "tweet_count": "1,013 Tweets"
+    "tweet_count": "1,021 Tweets"
   },
   {
     "name": "Puschen",
@@ -45,78 +45,78 @@
     "name": "Cologne",
     "query": "Cologne",
     "rank": 8,
-    "tweet_count": "4,886 Tweets"
+    "tweet_count": "4,936 Tweets"
   },
   {
     "name": "Rubel",
     "query": "Rubel",
     "rank": 9,
-    "tweet_count": "11.3K Tweets"
-  },
-  {
-    "name": "Schulden",
-    "query": "Schulden",
-    "rank": 10,
-    "tweet_count": "1,915 Tweets"
+    "tweet_count": "11.4K Tweets"
   },
   {
     "name": "Studenten",
     "query": "Studenten",
+    "rank": 10,
+    "tweet_count": "2,130 Tweets"
+  },
+  {
+    "name": "Schulden",
+    "query": "Schulden",
     "rank": 11,
-    "tweet_count": "2,104 Tweets"
+    "tweet_count": "1,929 Tweets"
   },
   {
     "name": "März 2022",
     "query": "\"März 2022\"",
     "rank": 12,
-    "tweet_count": "1,323 Tweets"
+    "tweet_count": "1,332 Tweets"
   },
   {
-    "name": "#TheBatman",
-    "query": "#TheBatman",
+    "name": "#IPCC",
+    "query": "#IPCC",
     "rank": 13,
-    "tweet_count": "109K Tweets"
+    "tweet_count": "35.9K Tweets"
+  },
+  {
+    "name": "#brennpunkt",
+    "query": "#brennpunkt",
+    "rank": 14,
+    "tweet_count": null
   },
   {
     "name": "#ARSD",
     "query": "#ARSD",
-    "rank": 14,
-    "tweet_count": "21.5K Tweets"
+    "rank": 15,
+    "tweet_count": "22K Tweets"
   },
   {
-    "name": "#FIFA",
-    "query": "#FIFA",
-    "rank": 15,
-    "tweet_count": "21.2K Tweets"
+    "name": "#TheBatman",
+    "query": "#TheBatman",
+    "rank": 16,
+    "tweet_count": "111K Tweets"
   },
   {
     "name": "#Drachenlord",
     "query": "#Drachenlord",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "#GW2EOD",
-    "query": "#GW2EOD",
     "rank": 17,
-    "tweet_count": "2,502 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#Klimawandel",
-    "query": "#Klimawandel",
+    "name": "#FIFA",
+    "query": "#FIFA",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "21.5K Tweets"
   },
   {
     "name": "#Klimakrise",
     "query": "#Klimakrise",
     "rank": 19,
-    "tweet_count": "1,693 Tweets"
+    "tweet_count": "1,736 Tweets"
   },
   {
-    "name": "#Köln",
-    "query": "#Köln",
+    "name": "#GW2EOD",
+    "query": "#GW2EOD",
     "rank": 20,
-    "tweet_count": "6,611 Tweets"
+    "tweet_count": "2,520 Tweets"
   }
 ]
