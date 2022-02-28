@@ -1,27 +1,27 @@
 [
   {
-    "name": "SWIFT",
-    "query": "SWIFT",
+    "name": "Ukrainy",
+    "query": "Ukrainy",
     "rank": 1,
-    "tweet_count": "672K Tweets"
+    "tweet_count": "122K Tweets"
   },
   {
     "name": "FIFA",
     "query": "FIFA",
     "rank": 2,
-    "tweet_count": "183K Tweets"
+    "tweet_count": "186K Tweets"
   },
   {
-    "name": "Rosji",
-    "query": "Rosji",
+    "name": "rosji",
+    "query": "rosji",
     "rank": 3,
-    "tweet_count": "72.4K Tweets"
+    "tweet_count": "72.6K Tweets"
   },
   {
     "name": "Putina",
     "query": "Putina",
     "rank": 4,
-    "tweet_count": "84.8K Tweets"
+    "tweet_count": "85K Tweets"
   },
   {
     "name": "#thevoicekids",
@@ -42,56 +42,56 @@
     "tweet_count": "2,163 Tweets"
   },
   {
+    "name": "#Euphoria",
+    "query": "#Euphoria",
+    "rank": 8,
+    "tweet_count": "172K Tweets"
+  },
+  {
     "name": "Białorusi",
     "query": "Białorusi",
-    "rank": 8,
-    "tweet_count": "19.1K Tweets"
-  },
-  {
-    "name": "Okolie",
-    "query": "Okolie",
     "rank": 9,
-    "tweet_count": "6,608 Tweets"
-  },
-  {
-    "name": "HAVE YOU WATCHED THESE SERIES",
-    "query": "\"HAVE YOU WATCHED THESE SERIES\"",
-    "rank": 10,
-    "tweet_count": null
+    "tweet_count": "19.1K Tweets"
   },
   {
     "name": "#Anonymous",
     "query": "#Anonymous",
-    "rank": 11,
-    "tweet_count": "221K Tweets"
-  },
-  {
-    "name": "#SAGAwards",
-    "query": "#SAGAwards",
-    "rank": 12,
-    "tweet_count": "213K Tweets"
+    "rank": 10,
+    "tweet_count": "223K Tweets"
   },
   {
     "name": "#eflpl",
     "query": "#eflpl",
-    "rank": 13,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "Kijowa",
     "query": "Kijowa",
-    "rank": 14,
+    "rank": 12,
     "tweet_count": "19.8K Tweets"
+  },
+  {
+    "name": "HAVE YOU WATCHED THESE SERIES",
+    "query": "\"HAVE YOU WATCHED THESE SERIES\"",
+    "rank": 13,
+    "tweet_count": null
   },
   {
     "name": "Niemcy",
     "query": "Niemcy",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": "28.7K Tweets"
   },
   {
-    "name": "Szojgu",
-    "query": "Szojgu",
+    "name": "SWIFT",
+    "query": "SWIFT",
+    "rank": 15,
+    "tweet_count": "680K Tweets"
+  },
+  {
+    "name": "szojgu",
+    "query": "szojgu",
     "rank": 16,
     "tweet_count": "2,331 Tweets"
   },
@@ -99,24 +99,24 @@
     "name": "Iskander",
     "query": "Iskander",
     "rank": 17,
-    "tweet_count": "17.7K Tweets"
+    "tweet_count": "17.8K Tweets"
   },
   {
     "name": "Brauna",
     "query": "Brauna",
     "rank": 18,
-    "tweet_count": "3,711 Tweets"
+    "tweet_count": "3,714 Tweets"
+  },
+  {
+    "name": "Ukrainian",
+    "query": "Ukrainian",
+    "rank": 19,
+    "tweet_count": "2.15M Tweets"
   },
   {
     "name": "Infantino",
     "query": "Infantino",
-    "rank": 19,
-    "tweet_count": "7,045 Tweets"
-  },
-  {
-    "name": "Romowie",
-    "query": "Romowie",
     "rank": 20,
-    "tweet_count": "4,643 Tweets"
+    "tweet_count": "7,098 Tweets"
   }
 ]
