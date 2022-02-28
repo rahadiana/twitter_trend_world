@@ -1,15 +1,15 @@
 [
   {
-    "name": "SWIFT",
-    "query": "SWIFT",
-    "rank": 1,
-    "tweet_count": "564K Tweets"
-  },
-  {
     "name": "#dkøko",
     "query": "#dkøko",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "SWIFT",
+    "query": "SWIFT",
+    "rank": 2,
+    "tweet_count": "568K Tweets"
   },
   {
     "name": "#obfcm",
@@ -21,13 +21,13 @@
     "name": "Putin",
     "query": "Putin",
     "rank": 4,
-    "tweet_count": "3.53M Tweets"
+    "tweet_count": "2.94M Tweets"
   },
   {
     "name": "Liverpool",
     "query": "Liverpool",
     "rank": 5,
-    "tweet_count": "447K Tweets"
+    "tweet_count": "449K Tweets"
   },
   {
     "name": "#vfffck",
@@ -39,7 +39,7 @@
     "name": "FIFA",
     "query": "FIFA",
     "rank": 7,
-    "tweet_count": "201K Tweets"
+    "tweet_count": "203K Tweets"
   },
   {
     "name": "#mgp2022",
@@ -51,7 +51,7 @@
     "name": "Mendy",
     "query": "Mendy",
     "rank": 9,
-    "tweet_count": "180K Tweets"
+    "tweet_count": "181K Tweets"
   },
   {
     "name": "#AaBSIF",
@@ -69,7 +69,7 @@
     "name": "Rusland",
     "query": "Rusland",
     "rank": 12,
-    "tweet_count": "33.1K Tweets"
+    "tweet_count": "33.5K Tweets"
   },
   {
     "name": "lars høgh",
@@ -78,45 +78,45 @@
     "tweet_count": null
   },
   {
-    "name": "kristianiagade",
-    "query": "kristianiagade",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
     "name": "Vavro",
     "query": "Vavro",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "bo henriksen",
     "query": "\"bo henriksen\"",
-    "rank": 16,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "carlsberg",
     "query": "carlsberg",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": "1,935 Tweets"
   },
   {
     "name": "Bielsa",
     "query": "Bielsa",
-    "rank": 18,
-    "tweet_count": "109K Tweets"
+    "rank": 17,
+    "tweet_count": "110K Tweets"
   },
   {
     "name": "Claus",
     "query": "Claus",
-    "rank": 19,
-    "tweet_count": "6,404 Tweets"
+    "rank": 18,
+    "tweet_count": "6,473 Tweets"
   },
   {
     "name": "Babacar",
     "query": "Babacar",
+    "rank": 19,
+    "tweet_count": "1,046 Tweets"
+  },
+  {
+    "name": "knuth",
+    "query": "knuth",
     "rank": 20,
-    "tweet_count": "1,043 Tweets"
+    "tweet_count": null
   }
 ]

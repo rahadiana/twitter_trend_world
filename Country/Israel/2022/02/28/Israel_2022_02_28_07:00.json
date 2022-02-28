@@ -15,29 +15,29 @@
     "name": "SWIFT",
     "query": "SWIFT",
     "rank": 3,
-    "tweet_count": "564K Tweets"
+    "tweet_count": "568K Tweets"
   },
   {
     "name": "Putin",
     "query": "Putin",
     "rank": 4,
-    "tweet_count": "3.53M Tweets"
+    "tweet_count": "2.94M Tweets"
   },
   {
     "name": "Liverpool",
     "query": "Liverpool",
     "rank": 5,
-    "tweet_count": "447K Tweets"
+    "tweet_count": "449K Tweets"
+  },
+  {
+    "name": "Western",
+    "query": "Western",
+    "rank": 6,
+    "tweet_count": "327K Tweets"
   },
   {
     "name": "בן כספית",
     "query": "\"בן כספית\"",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "מזל טוב",
-    "query": "\"מזל טוב\"",
     "rank": 7,
     "tweet_count": null
   },
@@ -45,78 +45,78 @@
     "name": "Pokémon",
     "query": "Pokémon",
     "rank": 8,
-    "tweet_count": "1.69M Tweets"
+    "tweet_count": "1.71M Tweets"
   },
   {
-    "name": "#COVID19",
-    "query": "#COVID19",
+    "name": "מזל טוב",
+    "query": "\"מזל טוב\"",
     "rank": 9,
-    "tweet_count": "57.1K Tweets"
-  },
-  {
-    "name": "Chelsea",
-    "query": "Chelsea",
-    "rank": 10,
-    "tweet_count": "489K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Kremlin",
     "query": "Kremlin",
-    "rank": 11,
-    "tweet_count": "246K Tweets"
+    "rank": 10,
+    "tweet_count": "248K Tweets"
   },
   {
     "name": "יום ראשון",
     "query": "\"יום ראשון\"",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
-  },
-  {
-    "name": "Western",
-    "query": "Western",
-    "rank": 13,
-    "tweet_count": "323K Tweets"
   },
   {
     "name": "bennett",
     "query": "bennett",
+    "rank": 12,
+    "tweet_count": "50.5K Tweets"
+  },
+  {
+    "name": "בוקר אור",
+    "query": "\"בוקר אור\"",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "#COVID19",
+    "query": "#COVID19",
     "rank": 14,
-    "tweet_count": "49.7K Tweets"
+    "tweet_count": "57.9K Tweets"
   },
   {
     "name": "Syria",
     "query": "Syria",
     "rank": 15,
-    "tweet_count": "115K Tweets"
+    "tweet_count": "117K Tweets"
   },
   {
     "name": "Hungary",
     "query": "Hungary",
     "rank": 16,
-    "tweet_count": "66.5K Tweets"
+    "tweet_count": "67.1K Tweets"
   },
   {
     "name": "של פוטין",
     "query": "\"של פוטין\"",
     "rank": 17,
-    "tweet_count": "3,231 Tweets"
-  },
-  {
-    "name": "בוקר אור",
-    "query": "\"בוקר אור\"",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "3,287 Tweets"
   },
   {
     "name": "אחר כך",
     "query": "\"אחר כך\"",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "לילה טוב",
     "query": "\"לילה טוב\"",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "Kharkiv",
+    "query": "Kharkiv",
+    "rank": 20,
+    "tweet_count": "325K Tweets"
   }
 ]
