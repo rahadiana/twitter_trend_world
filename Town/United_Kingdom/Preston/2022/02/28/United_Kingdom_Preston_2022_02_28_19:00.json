@@ -1,116 +1,116 @@
 [
   {
-    "name": "#tippingpoint",
-    "query": "#tippingpoint",
+    "name": "Swansea",
+    "query": "Swansea",
     "rank": 1,
+    "tweet_count": "2,771 Tweets"
+  },
+  {
+    "name": "Euphoria",
+    "query": "Euphoria",
+    "rank": 2,
+    "tweet_count": "2.29M Tweets"
+  },
+  {
+    "name": "#TippingPoint",
+    "query": "#TippingPoint",
+    "rank": 3,
     "tweet_count": null
   },
   {
-    "name": "#Morbius",
-    "query": "#Morbius",
-    "rank": 2,
-    "tweet_count": "9,656 Tweets"
+    "name": "#ALAW",
+    "query": "#ALAW",
+    "rank": 4,
+    "tweet_count": "1,078 Tweets"
+  },
+  {
+    "name": "#PokemonScarletViolet",
+    "query": "#PokemonScarletViolet",
+    "rank": 5,
+    "tweet_count": "101K Tweets"
   },
   {
     "name": "Lent",
     "query": "Lent",
-    "rank": 3,
-    "tweet_count": "11.6K Tweets"
+    "rank": 6,
+    "tweet_count": "11.8K Tweets"
   },
   {
     "name": "Hungary",
     "query": "Hungary",
-    "rank": 4,
-    "tweet_count": "73.9K Tweets"
+    "rank": 7,
+    "tweet_count": "75K Tweets"
   },
   {
     "name": "#MWC22",
     "query": "#MWC22",
-    "rank": 5,
-    "tweet_count": "20K Tweets"
-  },
-  {
-    "name": "#FourFights",
-    "query": "#FourFights",
-    "rank": 6,
-    "tweet_count": "3,204 Tweets"
-  },
-  {
-    "name": "Armageddon",
-    "query": "Armageddon",
-    "rank": 7,
-    "tweet_count": "15.4K Tweets"
-  },
-  {
-    "name": "UEFA",
-    "query": "UEFA",
     "rank": 8,
-    "tweet_count": "131K Tweets"
+    "tweet_count": "20.3K Tweets"
   },
   {
     "name": "Jesse",
     "query": "Jesse",
     "rank": 9,
-    "tweet_count": "31.9K Tweets"
+    "tweet_count": "33.1K Tweets"
   },
   {
     "name": "Neil Oliver",
     "query": "\"Neil Oliver\"",
     "rank": 10,
-    "tweet_count": "2,163 Tweets"
+    "tweet_count": "2,379 Tweets"
   },
   {
-    "name": "Liz Truss",
-    "query": "\"Liz Truss\"",
+    "name": "UEFA",
+    "query": "UEFA",
     "rank": 11,
-    "tweet_count": "56.3K Tweets"
-  },
-  {
-    "name": "Matt Hancock",
-    "query": "\"Matt Hancock\"",
-    "rank": 12,
-    "tweet_count": "2,996 Tweets"
+    "tweet_count": "135K Tweets"
   },
   {
     "name": "Marlon",
     "query": "Marlon",
+    "rank": 12,
+    "tweet_count": "6,669 Tweets"
+  },
+  {
+    "name": "Kharkiv",
+    "query": "Kharkiv",
     "rank": 13,
-    "tweet_count": "6,531 Tweets"
+    "tweet_count": "380K Tweets"
   },
   {
-    "name": "Yvette Cooper",
-    "query": "\"Yvette Cooper\"",
+    "name": "Welcome to Leeds",
+    "query": "\"Welcome to Leeds\"",
     "rank": 14,
-    "tweet_count": "7,882 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Clive",
-    "query": "Clive",
+    "name": "Matt Hancock",
+    "query": "\"Matt Hancock\"",
     "rank": 15,
-    "tweet_count": "9,846 Tweets"
-  },
-  {
-    "name": "Phoebe",
-    "query": "Phoebe",
-    "rank": 16,
-    "tweet_count": "5,139 Tweets"
-  },
-  {
-    "name": "Coast",
-    "query": "Coast",
-    "rank": 17,
-    "tweet_count": "39.4K Tweets"
+    "tweet_count": "3,092 Tweets"
   },
   {
     "name": "Florrie",
     "query": "Florrie",
-    "rank": 18,
+    "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "Truss",
-    "query": "Truss",
+    "name": "Yvette Cooper",
+    "query": "\"Yvette Cooper\"",
+    "rank": 17,
+    "tweet_count": "8,281 Tweets"
+  },
+  {
+    "name": "Clive",
+    "query": "Clive",
+    "rank": 18,
+    "tweet_count": "10K Tweets"
+  },
+  {
+    "name": "Coast",
+    "query": "Coast",
     "rank": 19,
-    "tweet_count": "76K Tweets"
+    "tweet_count": "39.9K Tweets"
   }
 ]
