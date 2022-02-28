@@ -3,47 +3,47 @@
     "name": "Krievijas",
     "query": "Krievijas",
     "rank": 1,
-    "tweet_count": "5,080 Tweets"
+    "tweet_count": "5,124 Tweets"
   },
   {
     "name": "Ukraine",
     "query": "Ukraine",
     "rank": 2,
-    "tweet_count": "4.61M Tweets"
+    "tweet_count": "3.02M Tweets"
   },
   {
-    "name": "Putina",
-    "query": "Putina",
+    "name": "Harkovas",
+    "query": "Harkovas",
     "rank": 3,
-    "tweet_count": "72.9K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#FaZeUp",
     "query": "#FaZeUp",
     "rank": 4,
-    "tweet_count": "14.4K Tweets"
+    "tweet_count": "14.5K Tweets"
+  },
+  {
+    "name": "Putina",
+    "query": "Putina",
+    "rank": 5,
+    "tweet_count": "74.1K Tweets"
   },
   {
     "name": "Kremļa",
     "query": "Kremļa",
-    "rank": 5,
-    "tweet_count": "8,024 Tweets"
-  },
-  {
-    "name": "lukašenko",
-    "query": "lukašenko",
     "rank": 6,
-    "tweet_count": "2,152 Tweets"
+    "tweet_count": "8,127 Tweets"
   },
   {
-    "name": "Harkovas",
-    "query": "Harkovas",
+    "name": "Lukašenko",
+    "query": "Lukašenko",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "2,164 Tweets"
   },
   {
-    "name": "nacionālās",
-    "query": "nacionālās",
+    "name": "Nacionālās",
+    "query": "Nacionālās",
     "rank": 8,
     "tweet_count": null
   },
@@ -51,7 +51,7 @@
     "name": "Anonymous",
     "query": "Anonymous",
     "rank": 9,
-    "tweet_count": "336K Tweets"
+    "tweet_count": "339K Tweets"
   },
   {
     "name": "Zeļenskis",
@@ -60,22 +60,22 @@
     "tweet_count": null
   },
   {
-    "name": "Russian",
-    "query": "Russian",
-    "rank": 11,
-    "tweet_count": "3.75M Tweets"
-  },
-  {
     "name": "Maskavas",
     "query": "Maskavas",
-    "rank": 12,
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "busuļa",
     "query": "busuļa",
-    "rank": 13,
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "Russian",
+    "query": "Russian",
+    "rank": 13,
+    "tweet_count": "3.8M Tweets"
   },
   {
     "name": "piedod",
@@ -93,24 +93,24 @@
     "name": "prāta",
     "query": "prāta",
     "rank": 16,
-    "tweet_count": "3,720 Tweets"
+    "tweet_count": "3,734 Tweets"
   },
   {
     "name": "FIFA",
     "query": "FIFA",
     "rank": 17,
-    "tweet_count": "221K Tweets"
+    "tweet_count": "222K Tweets"
   },
   {
     "name": "COVID-19",
     "query": "COVID-19",
     "rank": 18,
-    "tweet_count": "223K Tweets"
+    "tweet_count": "226K Tweets"
   },
   {
     "name": "Aldi",
     "query": "Aldi",
     "rank": 19,
-    "tweet_count": "57.7K Tweets"
+    "tweet_count": "58K Tweets"
   }
 ]
