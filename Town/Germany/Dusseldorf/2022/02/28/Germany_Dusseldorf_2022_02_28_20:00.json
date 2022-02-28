@@ -1,15 +1,15 @@
 [
   {
-    "name": "#Friedensdemo",
-    "query": "#Friedensdemo",
+    "name": "#friedensdemo",
+    "query": "#friedensdemo",
     "rank": 1,
-    "tweet_count": "2,160 Tweets"
+    "tweet_count": "2,175 Tweets"
   },
   {
     "name": "#hartaberfair",
     "query": "#hartaberfair",
     "rank": 2,
-    "tweet_count": null
+    "tweet_count": "1,111 Tweets"
   },
   {
     "name": "#firstdateshotel",
@@ -27,49 +27,49 @@
     "name": "#StandingWithUkraine",
     "query": "#StandingWithUkraine",
     "rank": 5,
-    "tweet_count": "30.2K Tweets"
+    "tweet_count": "30.8K Tweets"
   },
   {
     "name": "Kriegsschiffe",
     "query": "Kriegsschiffe",
     "rank": 6,
-    "tweet_count": "1,013 Tweets"
+    "tweet_count": "1,068 Tweets"
   },
   {
     "name": "Walter",
     "query": "Walter",
     "rank": 7,
-    "tweet_count": "18.4K Tweets"
+    "tweet_count": "18.7K Tweets"
   },
   {
     "name": "Wettbewerben",
     "query": "Wettbewerben",
     "rank": 8,
-    "tweet_count": "1,042 Tweets"
+    "tweet_count": "1,051 Tweets"
   },
   {
     "name": "FIFA",
     "query": "FIFA",
     "rank": 9,
-    "tweet_count": "322K Tweets"
+    "tweet_count": "327K Tweets"
   },
   {
     "name": "Studenten",
     "query": "Studenten",
     "rank": 10,
-    "tweet_count": "2,155 Tweets"
+    "tweet_count": "2,183 Tweets"
   },
   {
     "name": "Sondervermögen",
     "query": "Sondervermögen",
     "rank": 11,
-    "tweet_count": "4,569 Tweets"
+    "tweet_count": "4,604 Tweets"
   },
   {
-    "name": "Cologne",
-    "query": "Cologne",
+    "name": "cologne",
+    "query": "cologne",
     "rank": 12,
-    "tweet_count": "5,019 Tweets"
+    "tweet_count": "5,059 Tweets"
   },
   {
     "name": "Rubel",
@@ -81,7 +81,7 @@
     "name": "#ProphetMuhammad",
     "query": "#ProphetMuhammad",
     "rank": 14,
-    "tweet_count": "86.3K Tweets"
+    "tweet_count": "88.2K Tweets"
   },
   {
     "name": "#Brennpunkt",
@@ -93,7 +93,7 @@
     "name": "#IPCC",
     "query": "#IPCC",
     "rank": 16,
-    "tweet_count": "38.4K Tweets"
+    "tweet_count": "38.9K Tweets"
   },
   {
     "name": "#Bautzen",
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "#TheBatman",
-    "query": "#TheBatman",
-    "rank": 19,
-    "tweet_count": "117K Tweets"
-  },
-  {
     "name": "#Türkei",
     "query": "#Türkei",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "#TheBatman",
+    "query": "#TheBatman",
+    "rank": 20,
+    "tweet_count": "119K Tweets"
   }
 ]
