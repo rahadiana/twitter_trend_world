@@ -9,55 +9,55 @@
     "name": "#RussiaUkraine",
     "query": "#RussiaUkraine",
     "rank": 2,
-    "tweet_count": "101K Tweets"
+    "tweet_count": "102K Tweets"
   },
   {
     "name": "شباب الاهلي",
     "query": "\"شباب الاهلي\"",
     "rank": 3,
-    "tweet_count": "1,382 Tweets"
+    "tweet_count": "1,424 Tweets"
   },
   {
-    "name": "#الحوثي_جماعه_ارهابيه",
-    "query": "#الحوثي_جماعه_ارهابيه",
+    "name": "#كاس_رابطه_المحترفين",
+    "query": "#كاس_رابطه_المحترفين",
     "rank": 4,
-    "tweet_count": "7,719 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Mahashivratri",
     "query": "#Mahashivratri",
     "rank": 5,
-    "tweet_count": "406K Tweets"
+    "tweet_count": "409K Tweets"
   },
   {
-    "name": "#كاس_رابطه_المحترفين",
-    "query": "#كاس_رابطه_المحترفين",
+    "name": "#الحوثي_جماعه_ارهابيه",
+    "query": "#الحوثي_جماعه_ارهابيه",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "7,801 Tweets"
   },
   {
-    "name": "المره الاولي",
-    "query": "\"المره الاولي\"",
+    "name": "#مجلس_الامن",
+    "query": "#مجلس_الامن",
     "rank": 7,
-    "tweet_count": "1,291 Tweets"
-  },
-  {
-    "name": "#PMIKaddressToNation",
-    "query": "#PMIKaddressToNation",
-    "rank": 8,
-    "tweet_count": "23.8K Tweets"
+    "tweet_count": "3,701 Tweets"
   },
   {
     "name": "Cassie",
     "query": "Cassie",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": "255K Tweets"
   },
   {
     "name": "Euphoria",
     "query": "Euphoria",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": "1.05M Tweets"
+  },
+  {
+    "name": "المره الاولي",
+    "query": "\"المره الاولي\"",
+    "rank": 10,
+    "tweet_count": "1,307 Tweets"
   },
   {
     "name": "الاربعاء المقبل",
@@ -66,57 +66,57 @@
     "tweet_count": null
   },
   {
-    "name": "Kepa",
-    "query": "Kepa",
-    "rank": 12,
-    "tweet_count": "29.4K Tweets"
-  },
-  {
     "name": "شهر مارس",
     "query": "\"شهر مارس\"",
+    "rank": 12,
+    "tweet_count": "14.7K Tweets"
+  },
+  {
+    "name": "صاحب السمو الشيخ",
+    "query": "\"صاحب السمو الشيخ\"",
     "rank": 13,
-    "tweet_count": "14.5K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Kepa",
+    "query": "Kepa",
+    "rank": 14,
+    "tweet_count": "29.5K Tweets"
   },
   {
     "name": "العقوبات المفروضه",
     "query": "\"العقوبات المفروضه\"",
-    "rank": 14,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "FIFA",
     "query": "FIFA",
-    "rank": 15,
-    "tweet_count": "384K Tweets"
-  },
-  {
-    "name": "Bitcoin",
-    "query": "Bitcoin",
     "rank": 16,
-    "tweet_count": "619K Tweets"
-  },
-  {
-    "name": "jisoo",
-    "query": "jisoo",
-    "rank": 17,
-    "tweet_count": "872K Tweets"
+    "tweet_count": "386K Tweets"
   },
   {
     "name": "Palestine",
     "query": "Palestine",
-    "rank": 18,
-    "tweet_count": "181K Tweets"
+    "rank": 17,
+    "tweet_count": "182K Tweets"
   },
   {
-    "name": "صاحب السمو الشيخ",
-    "query": "\"صاحب السمو الشيخ\"",
-    "rank": 19,
-    "tweet_count": null
+    "name": "Bitcoin",
+    "query": "Bitcoin",
+    "rank": 18,
+    "tweet_count": "624K Tweets"
   },
   {
     "name": "حدث عالمي",
     "query": "\"حدث عالمي\"",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "Palestinian",
+    "query": "Palestinian",
+    "rank": 20,
+    "tweet_count": "165K Tweets"
   }
 ]
