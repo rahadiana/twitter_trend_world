@@ -3,13 +3,13 @@
     "name": "#PancakeTuesday",
     "query": "#PancakeTuesday",
     "rank": 1,
-    "tweet_count": "3,501 Tweets"
+    "tweet_count": "3,565 Tweets"
   },
   {
-    "name": "#RussiaUkraine",
-    "query": "#RussiaUkraine",
+    "name": "Ukraine",
+    "query": "Ukraine",
     "rank": 2,
-    "tweet_count": "111K Tweets"
+    "tweet_count": "1.84M Tweets"
   },
   {
     "name": "Mick Wallace",
@@ -18,22 +18,22 @@
     "tweet_count": null
   },
   {
-    "name": "#irevita",
-    "query": "#irevita",
+    "name": "#IREvITA",
+    "query": "#IREvITA",
     "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "#cblive",
-    "query": "#cblive",
-    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Russian",
     "query": "Russian",
+    "rank": 5,
+    "tweet_count": "3.14M Tweets"
+  },
+  {
+    "name": "#cblive",
+    "query": "#cblive",
     "rank": 6,
-    "tweet_count": "2.89M Tweets"
+    "tweet_count": null
   },
   {
     "name": "#TravellerEthnicityDay2022",
@@ -45,67 +45,67 @@
     "name": "St David",
     "query": "\"St David\"",
     "rank": 8,
-    "tweet_count": "33.6K Tweets"
+    "tweet_count": "33.9K Tweets"
+  },
+  {
+    "name": "#CarabaoCupFinal",
+    "query": "#CarabaoCupFinal",
+    "rank": 9,
+    "tweet_count": "9,817 Tweets"
   },
   {
     "name": "Maddy",
     "query": "Maddy",
-    "rank": 9,
-    "tweet_count": "184K Tweets"
-  },
-  {
-    "name": "Lent",
-    "query": "Lent",
     "rank": 10,
-    "tweet_count": "24.3K Tweets"
-  },
-  {
-    "name": "European Parliament",
-    "query": "\"European Parliament\"",
-    "rank": 11,
-    "tweet_count": "128K Tweets"
+    "tweet_count": "185K Tweets"
   },
   {
     "name": "Maia",
     "query": "Maia",
+    "rank": 11,
+    "tweet_count": "8,464 Tweets"
+  },
+  {
+    "name": "NATO",
+    "query": "NATO",
     "rank": 12,
-    "tweet_count": "8,386 Tweets"
+    "tweet_count": "1.04M Tweets"
+  },
+  {
+    "name": "European Parliament",
+    "query": "\"European Parliament\"",
+    "rank": 13,
+    "tweet_count": "130K Tweets"
   },
   {
     "name": "1st of March",
     "query": "\"1st of March\"",
-    "rank": 13,
-    "tweet_count": "57.7K Tweets"
+    "rank": 14,
+    "tweet_count": "58.1K Tweets"
   },
   {
     "name": "MEPs",
     "query": "MEPs",
-    "rank": 14,
-    "tweet_count": "6,999 Tweets"
+    "rank": 15,
+    "tweet_count": "7,178 Tweets"
   },
   {
     "name": "Seachtain",
     "query": "Seachtain",
-    "rank": 15,
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "jack Byrne",
+    "query": "\"jack Byrne\"",
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Packers",
     "query": "Packers",
-    "rank": 16,
-    "tweet_count": "9,147 Tweets"
-  },
-  {
-    "name": "Jack Byrne",
-    "query": "\"Jack Byrne\"",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "B. Ireland",
-    "query": "\"B. Ireland\"",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "9,397 Tweets"
   },
   {
     "name": "National Slow Down Day",
@@ -117,6 +117,6 @@
     "name": "Liz Truss",
     "query": "\"Liz Truss\"",
     "rank": 20,
-    "tweet_count": "19K Tweets"
+    "tweet_count": "19.1K Tweets"
   }
 ]
