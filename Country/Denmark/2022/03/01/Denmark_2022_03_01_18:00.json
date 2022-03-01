@@ -3,13 +3,13 @@
     "name": "Ukraine",
     "query": "Ukraine",
     "rank": 1,
-    "tweet_count": "2.15M Tweets"
+    "tweet_count": "1.81M Tweets"
   },
   {
     "name": "Norway",
     "query": "Norway",
     "rank": 2,
-    "tweet_count": "17.2K Tweets"
+    "tweet_count": "17.6K Tweets"
   },
   {
     "name": "#bifsje",
@@ -24,16 +24,16 @@
     "tweet_count": null
   },
   {
-    "name": "Syrien",
-    "query": "Syrien",
-    "rank": 5,
-    "tweet_count": "7,184 Tweets"
-  },
-  {
     "name": "Christian Juhl",
     "query": "\"Christian Juhl\"",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
+  },
+  {
+    "name": "Syrien",
+    "query": "Syrien",
+    "rank": 6,
+    "tweet_count": "7,375 Tweets"
   },
   {
     "name": "thomsen",
@@ -42,40 +42,40 @@
     "tweet_count": null
   },
   {
-    "name": "Sønderjyske",
-    "query": "Sønderjyske",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "enhedslisten",
-    "query": "enhedslisten",
-    "rank": 9,
-    "tweet_count": "1,505 Tweets"
-  },
-  {
     "name": "Kyiv",
     "query": "Kyiv",
-    "rank": 10,
-    "tweet_count": "841K Tweets"
+    "rank": 8,
+    "tweet_count": "860K Tweets"
   },
   {
-    "name": "#dkforsk",
-    "query": "#dkforsk",
-    "rank": 11,
+    "name": "Sønderjyske",
+    "query": "Sønderjyske",
+    "rank": 9,
     "tweet_count": null
+  },
+  {
+    "name": "Enhedslisten",
+    "query": "Enhedslisten",
+    "rank": 10,
+    "tweet_count": "1,542 Tweets"
   },
   {
     "name": "Kharkiv",
     "query": "Kharkiv",
+    "rank": 11,
+    "tweet_count": "578K Tweets"
+  },
+  {
+    "name": "#dkforsk",
+    "query": "#dkforsk",
     "rank": 12,
-    "tweet_count": "563K Tweets"
+    "tweet_count": null
   },
   {
     "name": "movia",
     "query": "movia",
     "rank": 13,
-    "tweet_count": "1,104 Tweets"
+    "tweet_count": "1,120 Tweets"
   },
   {
     "name": "#dkenergi",
@@ -87,13 +87,13 @@
     "name": "#Euphoria",
     "query": "#Euphoria",
     "rank": 15,
-    "tweet_count": "430K Tweets"
+    "tweet_count": "434K Tweets"
   },
   {
-    "name": "Lexi",
-    "query": "Lexi",
+    "name": "lexi",
+    "query": "lexi",
     "rank": 16,
-    "tweet_count": "172K Tweets"
+    "tweet_count": "174K Tweets"
   },
   {
     "name": "#dkøko",
@@ -102,21 +102,21 @@
     "tweet_count": null
   },
   {
-    "name": "Putins",
-    "query": "Putins",
-    "rank": 18,
-    "tweet_count": "77.6K Tweets"
-  },
-  {
     "name": "kvistgaarden",
     "query": "kvistgaarden",
-    "rank": 19,
+    "rank": 18,
     "tweet_count": null
+  },
+  {
+    "name": "Putins",
+    "query": "Putins",
+    "rank": 19,
+    "tweet_count": "79.4K Tweets"
   },
   {
     "name": "Kevin",
     "query": "Kevin",
     "rank": 20,
-    "tweet_count": "138K Tweets"
+    "tweet_count": "141K Tweets"
   }
 ]
