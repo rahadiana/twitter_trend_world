@@ -1,9 +1,9 @@
 [
   {
-    "name": "Ukraine",
-    "query": "Ukraine",
+    "name": "Kharkiv",
+    "query": "Kharkiv",
     "rank": 1,
-    "tweet_count": "2.74M Tweets"
+    "tweet_count": "574K Tweets"
   },
   {
     "name": "#bifsje",
@@ -21,7 +21,7 @@
     "name": "Rusland",
     "query": "Rusland",
     "rank": 4,
-    "tweet_count": "36.2K Tweets"
+    "tweet_count": "36.9K Tweets"
   },
   {
     "name": "#obfcm",
@@ -48,34 +48,34 @@
     "tweet_count": null
   },
   {
-    "name": "#dkpol",
-    "query": "#dkpol",
-    "rank": 9,
-    "tweet_count": "2,961 Tweets"
-  },
-  {
     "name": "Ørsted",
     "query": "Ørsted",
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "#dkpol",
+    "query": "#dkpol",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "3,031 Tweets"
   },
   {
-    "name": "#dkøko",
-    "query": "#dkøko",
+    "name": "NATO",
+    "query": "NATO",
     "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Kyiv",
-    "query": "Kyiv",
-    "rank": 12,
-    "tweet_count": "726K Tweets"
+    "tweet_count": "1.11M Tweets"
   },
   {
     "name": "FIFA",
     "query": "FIFA",
+    "rank": 12,
+    "tweet_count": "371K Tweets"
+  },
+  {
+    "name": "#dkøko",
+    "query": "#dkøko",
     "rank": 13,
-    "tweet_count": "368K Tweets"
+    "tweet_count": null
   },
   {
     "name": "vavro",
@@ -84,39 +84,39 @@
     "tweet_count": null
   },
   {
-    "name": "Kharkiv",
-    "query": "Kharkiv",
+    "name": "Syrien",
+    "query": "Syrien",
     "rank": 15,
-    "tweet_count": "559K Tweets"
+    "tweet_count": "6,816 Tweets"
+  },
+  {
+    "name": "Kyiv",
+    "query": "Kyiv",
+    "rank": 16,
+    "tweet_count": "734K Tweets"
   },
   {
     "name": "fremad amager",
     "query": "\"fremad amager\"",
-    "rank": 16,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "Kepa",
     "query": "Kepa",
-    "rank": 17,
-    "tweet_count": "46.7K Tweets"
+    "rank": 18,
+    "tweet_count": "46.9K Tweets"
   },
   {
     "name": "Belarus",
     "query": "Belarus",
-    "rank": 18,
-    "tweet_count": "209K Tweets"
-  },
-  {
-    "name": "Syrien",
-    "query": "Syrien",
     "rank": 19,
-    "tweet_count": "6,676 Tweets"
+    "tweet_count": "213K Tweets"
   },
   {
     "name": "Euphoria",
     "query": "Euphoria",
     "rank": 20,
-    "tweet_count": "1.29M Tweets"
+    "tweet_count": "1.3M Tweets"
   }
 ]
