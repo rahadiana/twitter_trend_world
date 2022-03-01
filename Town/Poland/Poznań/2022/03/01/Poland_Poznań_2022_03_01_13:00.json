@@ -1,92 +1,122 @@
 [
   {
-    "name": "Parlamencie Europejskim",
-    "query": "\"Parlamencie Europejskim\"",
+    "name": "#Ukraine",
+    "query": "#Ukraine",
     "rank": 1,
-    "tweet_count": "1,011 Tweets"
+    "tweet_count": "1.58M Tweets"
   },
   {
-    "name": "Łasku",
-    "query": "Łasku",
+    "name": "Parlament Europejski",
+    "query": "\"Parlament Europejski\"",
     "rank": 2,
-    "tweet_count": "1,426 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Żołnierzy Wyklętych",
-    "query": "\"Żołnierzy Wyklętych\"",
+    "name": "#IdiNaChuj",
+    "query": "#IdiNaChuj",
     "rank": 3,
-    "tweet_count": "6,332 Tweets"
-  },
-  {
-    "name": "#Zołnierzewykleci",
-    "query": "#Zołnierzewykleci",
-    "rank": 4,
-    "tweet_count": "2,190 Tweets"
+    "tweet_count": "8,826 Tweets"
   },
   {
     "name": "#1marca",
     "query": "#1marca",
+    "rank": 4,
+    "tweet_count": "1,462 Tweets"
+  },
+  {
+    "name": "Żołnierzy Wyklętych",
+    "query": "\"Żołnierzy Wyklętych\"",
     "rank": 5,
-    "tweet_count": "1,410 Tweets"
+    "tweet_count": "6,549 Tweets"
   },
   {
-    "name": "Chwała Bohaterom",
-    "query": "\"Chwała Bohaterom\"",
+    "name": "#ŻołnierzeWyklęci",
+    "query": "#ŻołnierzeWyklęci",
     "rank": 6,
-    "tweet_count": "5,849 Tweets"
+    "tweet_count": "2,268 Tweets"
   },
   {
-    "name": "Czernihowa",
-    "query": "Czernihowa",
+    "name": "Białorusi",
+    "query": "Białorusi",
     "rank": 7,
-    "tweet_count": null
+    "tweet_count": "7,986 Tweets"
+  },
+  {
+    "name": "UKRAIŃCÓW",
+    "query": "UKRAIŃCÓW",
+    "rank": 8,
+    "tweet_count": "15.9K Tweets"
+  },
+  {
+    "name": "Bohaterom",
+    "query": "Bohaterom",
+    "rank": 9,
+    "tweet_count": "6,325 Tweets"
   },
   {
     "name": "Migi",
     "query": "Migi",
-    "rank": 8,
-    "tweet_count": "2,725 Tweets"
-  },
-  {
-    "name": "tvp info",
-    "query": "\"tvp info\"",
-    "rank": 9,
-    "tweet_count": "11.4K Tweets"
-  },
-  {
-    "name": "Baltic Pipe",
-    "query": "\"Baltic Pipe\"",
     "rank": 10,
-    "tweet_count": "2,069 Tweets"
+    "tweet_count": "2,798 Tweets"
   },
   {
-    "name": "#StandingWithUkraine",
-    "query": "#StandingWithUkraine",
+    "name": "Russian",
+    "query": "Russian",
     "rank": 11,
-    "tweet_count": "62.6K Tweets"
+    "tweet_count": "2.36M Tweets"
   },
   {
-    "name": "Białorusinów",
-    "query": "Białorusinów",
+    "name": "Rosjan",
+    "query": "Rosjan",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "11.2K Tweets"
   },
   {
-    "name": "Słowacji",
-    "query": "Słowacji",
+    "name": "Charkowie",
+    "query": "Charkowie",
     "rank": 13,
-    "tweet_count": "1,309 Tweets"
+    "tweet_count": "6,858 Tweets"
   },
   {
-    "name": "Łukaszenka",
-    "query": "Łukaszenka",
+    "name": "#PutinWarCriminal",
+    "query": "#PutinWarCriminal",
     "rank": 14,
-    "tweet_count": "2,653 Tweets"
+    "tweet_count": "94.9K Tweets"
   },
   {
-    "name": "Onet",
-    "query": "Onet",
+    "name": "Uralu",
+    "query": "Uralu",
     "rank": 15,
-    "tweet_count": "6,376 Tweets"
+    "tweet_count": "2,013 Tweets"
+  },
+  {
+    "name": "Karnowscy",
+    "query": "Karnowscy",
+    "rank": 16,
+    "tweet_count": "4,522 Tweets"
+  },
+  {
+    "name": "Anonymous",
+    "query": "Anonymous",
+    "rank": 17,
+    "tweet_count": "212K Tweets"
+  },
+  {
+    "name": "bracia kremlowscy",
+    "query": "\"bracia kremlowscy\"",
+    "rank": 18,
+    "tweet_count": "2,284 Tweets"
+  },
+  {
+    "name": "Najsztub",
+    "query": "Najsztub",
+    "rank": 19,
+    "tweet_count": "4,119 Tweets"
+  },
+  {
+    "name": "Karnowskich",
+    "query": "Karnowskich",
+    "rank": 20,
+    "tweet_count": "2,437 Tweets"
   }
 ]
