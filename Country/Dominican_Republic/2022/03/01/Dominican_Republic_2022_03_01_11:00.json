@@ -1,39 +1,39 @@
 [
   {
+    "name": "El Día",
+    "query": "\"El Día\"",
+    "rank": 1,
+    "tweet_count": "406K Tweets"
+  },
+  {
     "name": "#leonelhablaencavada",
     "query": "#leonelhablaencavada",
-    "rank": 1,
-    "tweet_count": "8,593 Tweets"
+    "rank": 2,
+    "tweet_count": "8,596 Tweets"
   },
   {
     "name": "Bad Bunny",
     "query": "\"Bad Bunny\"",
-    "rank": 2,
-    "tweet_count": "72.9K Tweets"
-  },
-  {
-    "name": "El Día",
-    "query": "\"El Día\"",
     "rank": 3,
-    "tweet_count": "403K Tweets"
+    "tweet_count": "73.2K Tweets"
   },
   {
-    "name": "UEPA",
-    "query": "UEPA",
+    "name": "uepa",
+    "query": "uepa",
     "rank": 4,
-    "tweet_count": "1,749 Tweets"
-  },
-  {
-    "name": "gamal",
-    "query": "gamal",
-    "rank": 5,
-    "tweet_count": "2,089 Tweets"
+    "tweet_count": "1,753 Tweets"
   },
   {
     "name": "Patria y Libertad",
     "query": "\"Patria y Libertad\"",
+    "rank": 5,
+    "tweet_count": "2,083 Tweets"
+  },
+  {
+    "name": "Gamal",
+    "query": "Gamal",
     "rank": 6,
-    "tweet_count": "2,048 Tweets"
+    "tweet_count": "2,103 Tweets"
   },
   {
     "name": "#independencianacional",
@@ -45,7 +45,7 @@
     "name": "#LogrosDelCambio",
     "query": "#LogrosDelCambio",
     "rank": 8,
-    "tweet_count": "1,680 Tweets"
+    "tweet_count": "1,682 Tweets"
   },
   {
     "name": "#CorruptosPorSiempre",
@@ -54,56 +54,56 @@
     "tweet_count": null
   },
   {
-    "name": "#FelizLunes",
-    "query": "#FelizLunes",
+    "name": "Amén",
+    "query": "Amén",
     "rank": 10,
-    "tweet_count": "23.6K Tweets"
+    "tweet_count": "162K Tweets"
   },
   {
     "name": "La ONU",
     "query": "\"La ONU\"",
     "rank": 11,
-    "tweet_count": "134K Tweets"
+    "tweet_count": "135K Tweets"
+  },
+  {
+    "name": "#felizlunes",
+    "query": "#felizlunes",
+    "rank": 12,
+    "tweet_count": "23.7K Tweets"
   },
   {
     "name": "viva la república dominicana",
     "query": "\"viva la república dominicana\"",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Cassie",
-    "query": "Cassie",
     "rank": 13,
-    "tweet_count": "310K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Mastercard",
     "query": "Mastercard",
     "rank": 14,
-    "tweet_count": "15.9K Tweets"
-  },
-  {
-    "name": "Pat Listach",
-    "query": "\"Pat Listach\"",
-    "rank": 15,
-    "tweet_count": null
-  },
-  {
-    "name": "emisión estelar",
-    "query": "\"emisión estelar\"",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "16.4K Tweets"
   },
   {
     "name": "Jehová",
     "query": "Jehová",
-    "rank": 17,
-    "tweet_count": "2,610 Tweets"
+    "rank": 15,
+    "tweet_count": "2,636 Tweets"
   },
   {
-    "name": "telenoticias",
-    "query": "telenoticias",
+    "name": "pat listach",
+    "query": "\"pat listach\"",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Emisión Estelar",
+    "query": "\"Emisión Estelar\"",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Telenoticias",
+    "query": "Telenoticias",
     "rank": 18,
     "tweet_count": null
   },
@@ -114,8 +114,8 @@
     "tweet_count": "14.8K Tweets"
   },
   {
-    "name": "marlins",
-    "query": "marlins",
+    "name": "Marlins",
+    "query": "Marlins",
     "rank": 20,
     "tweet_count": "18.3K Tweets"
   }
