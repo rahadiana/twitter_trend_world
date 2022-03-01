@@ -3,23 +3,23 @@
     "name": "Lincolnshire",
     "query": "Lincolnshire",
     "rank": 1,
-    "tweet_count": "7,494 Tweets"
+    "tweet_count": "7,877 Tweets"
   },
   {
     "name": "#PancakeDay",
     "query": "#PancakeDay",
     "rank": 2,
-    "tweet_count": "27.6K Tweets"
+    "tweet_count": "28K Tweets"
   },
   {
     "name": "#FACup",
     "query": "#FACup",
     "rank": 3,
-    "tweet_count": "4,455 Tweets"
+    "tweet_count": "4,693 Tweets"
   },
   {
-    "name": "#Hollyoaks",
-    "query": "#Hollyoaks",
+    "name": "#AncestryHour",
+    "query": "#AncestryHour",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,13 +27,13 @@
     "name": "Croatia",
     "query": "Croatia",
     "rank": 5,
-    "tweet_count": "9,779 Tweets"
+    "tweet_count": "9,958 Tweets"
   },
   {
-    "name": "Babyn Yar",
-    "query": "\"Babyn Yar\"",
+    "name": "#Hollyoaks",
+    "query": "#Hollyoaks",
     "rank": 6,
-    "tweet_count": "92.6K Tweets"
+    "tweet_count": null
   },
   {
     "name": "John Fury",
@@ -42,28 +42,28 @@
     "tweet_count": null
   },
   {
+    "name": "Babyn Yar",
+    "query": "\"Babyn Yar\"",
+    "rank": 8,
+    "tweet_count": "95.5K Tweets"
+  },
+  {
     "name": "Clyde",
     "query": "Clyde",
-    "rank": 8,
-    "tweet_count": "36.3K Tweets"
+    "rank": 9,
+    "tweet_count": "36.6K Tweets"
   },
   {
     "name": "Lookman",
     "query": "Lookman",
-    "rank": 9,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Lent",
     "query": "Lent",
-    "rank": 10,
-    "tweet_count": "24.7K Tweets"
-  },
-  {
-    "name": "Gammon",
-    "query": "Gammon",
     "rank": 11,
-    "tweet_count": "1,598 Tweets"
+    "tweet_count": "25.2K Tweets"
   },
   {
     "name": "Mike Ashley",
@@ -72,27 +72,39 @@
     "tweet_count": null
   },
   {
-    "name": "Byers",
-    "query": "Byers",
+    "name": "Gammon",
+    "query": "Gammon",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "1,706 Tweets"
   },
   {
     "name": "Babi Yar",
     "query": "\"Babi Yar\"",
     "rank": 14,
-    "tweet_count": "14.8K Tweets"
+    "tweet_count": "15.4K Tweets"
+  },
+  {
+    "name": "Byers",
+    "query": "Byers",
+    "rank": 15,
+    "tweet_count": null
   },
   {
     "name": "Top Boy",
     "query": "\"Top Boy\"",
-    "rank": 15,
-    "tweet_count": "15.8K Tweets"
+    "rank": 16,
+    "tweet_count": "16.1K Tweets"
   },
   {
     "name": "Funimation",
     "query": "Funimation",
-    "rank": 16,
-    "tweet_count": "31.4K Tweets"
+    "rank": 17,
+    "tweet_count": "32.1K Tweets"
+  },
+  {
+    "name": "Size 9",
+    "query": "\"Size 9\"",
+    "rank": 18,
+    "tweet_count": "3,742 Tweets"
   }
 ]
