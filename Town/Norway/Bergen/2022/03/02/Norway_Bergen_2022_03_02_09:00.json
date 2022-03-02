@@ -1,27 +1,27 @@
 [
   {
-    "name": "Ukraina",
-    "query": "Ukraina",
+    "name": "#RussiaUkraine",
+    "query": "#RussiaUkraine",
     "rank": 1,
-    "tweet_count": "155K Tweets"
+    "tweet_count": "123K Tweets"
+  },
+  {
+    "name": "AaFK",
+    "query": "AaFK",
+    "rank": 2,
+    "tweet_count": null
   },
   {
     "name": "Kondolerer",
     "query": "Kondolerer",
-    "rank": 2,
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "Putin",
     "query": "Putin",
-    "rank": 3,
-    "tweet_count": "3M Tweets"
-  },
-  {
-    "name": "Russland",
-    "query": "Russland",
     "rank": 4,
-    "tweet_count": "81.8K Tweets"
+    "tweet_count": "2.67M Tweets"
   },
   {
     "name": "Glimt",
@@ -30,34 +30,34 @@
     "tweet_count": null
   },
   {
-    "name": "#debatten",
-    "query": "#debatten",
+    "name": "Russland",
+    "query": "Russland",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "78.8K Tweets"
   },
   {
-    "name": "Aafk",
-    "query": "Aafk",
+    "name": "#debatten",
+    "query": "#debatten",
     "rank": 7,
     "tweet_count": null
   },
   {
-    "name": "hadia tajik",
-    "query": "\"hadia tajik\"",
+    "name": "Hadia Tajik",
+    "query": "\"Hadia Tajik\"",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Biden",
-    "query": "Biden",
-    "rank": 9,
-    "tweet_count": "1.46M Tweets"
-  },
-  {
     "name": "Tottenham",
     "query": "Tottenham",
+    "rank": 9,
+    "tweet_count": "40.3K Tweets"
+  },
+  {
+    "name": "Odds",
+    "query": "Odds",
     "rank": 10,
-    "tweet_count": "40.1K Tweets"
+    "tweet_count": "47.4K Tweets"
   },
   {
     "name": "victor jensen",
@@ -72,10 +72,10 @@
     "tweet_count": null
   },
   {
-    "name": "oilers",
-    "query": "oilers",
+    "name": "Oilers",
+    "query": "Oilers",
     "rank": 13,
-    "tweet_count": "5,268 Tweets"
+    "tweet_count": "5,263 Tweets"
   },
   {
     "name": "norges skiforbund",
@@ -87,17 +87,17 @@
     "name": "Mazepin",
     "query": "Mazepin",
     "rank": 15,
-    "tweet_count": "11.7K Tweets"
-  },
-  {
-    "name": "Ropstad",
-    "query": "Ropstad",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "11.4K Tweets"
   },
   {
     "name": "Aalesund",
     "query": "Aalesund",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "Tyskland",
+    "query": "Tyskland",
     "rank": 17,
     "tweet_count": null
   },
@@ -105,12 +105,12 @@
     "name": "UEFA",
     "query": "UEFA",
     "rank": 18,
-    "tweet_count": "48.2K Tweets"
+    "tweet_count": "45.6K Tweets"
   },
   {
-    "name": "jordal",
-    "query": "jordal",
+    "name": "Biden",
+    "query": "Biden",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "1.51M Tweets"
   }
 ]

@@ -1,122 +1,122 @@
 [
   {
-    "name": "Харьков",
-    "query": "Харьков",
-    "rank": 1,
-    "tweet_count": "50.5K Tweets"
-  },
-  {
-    "name": "Киеве",
-    "query": "Киеве",
-    "rank": 2,
-    "tweet_count": "22.2K Tweets"
-  },
-  {
-    "name": "#Беларусь",
-    "query": "#Беларусь",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
     "name": "#вордли",
     "query": "#вордли",
-    "rank": 4,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "Украине",
     "query": "Украине",
-    "rank": 5,
-    "tweet_count": "129K Tweets"
+    "rank": 2,
+    "tweet_count": "132K Tweets"
   },
   {
     "name": "Игра Wordle",
     "query": "\"Игра Wordle\"",
-    "rank": 6,
+    "rank": 3,
     "tweet_count": null
+  },
+  {
+    "name": "беларусі",
+    "query": "беларусі",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "Харькова",
+    "query": "Харькова",
+    "rank": 5,
+    "tweet_count": "17.7K Tweets"
+  },
+  {
+    "name": "Russian",
+    "query": "Russian",
+    "rank": 6,
+    "tweet_count": "2.9M Tweets"
   },
   {
     "name": "Давай",
     "query": "Давай",
     "rank": 7,
-    "tweet_count": "5,090 Tweets"
+    "tweet_count": "4,898 Tweets"
   },
   {
-    "name": "Russia",
-    "query": "Russia",
+    "name": "Пусть",
+    "query": "Пусть",
     "rank": 8,
-    "tweet_count": "2.24M Tweets"
+    "tweet_count": "24.5K Tweets"
   },
   {
-    "name": "Гомельской",
-    "query": "Гомельской",
+    "name": "Китай",
+    "query": "Китай",
     "rank": 9,
-    "tweet_count": null
+    "tweet_count": "5,828 Tweets"
   },
   {
-    "name": "#Belarus",
-    "query": "#Belarus",
+    "name": "Гэта",
+    "query": "Гэта",
     "rank": 10,
-    "tweet_count": "19K Tweets"
+    "tweet_count": "1,255 Tweets"
   },
   {
-    "name": "гэта",
-    "query": "гэта",
+    "name": "гомельской",
+    "query": "гомельской",
     "rank": 11,
-    "tweet_count": "1,306 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Лукашенко",
     "query": "Лукашенко",
     "rank": 12,
-    "tweet_count": "10.5K Tweets"
-  },
-  {
-    "name": "#StopWar",
-    "query": "#StopWar",
-    "rank": 13,
-    "tweet_count": "59.8K Tweets"
-  },
-  {
-    "name": "Путина",
-    "query": "Путина",
-    "rank": 14,
-    "tweet_count": "66.6K Tweets"
+    "tweet_count": "10.6K Tweets"
   },
   {
     "name": "#Shadowhunters",
     "query": "#Shadowhunters",
-    "rank": 15,
+    "rank": 13,
     "tweet_count": "10K Tweets"
+  },
+  {
+    "name": "Belarus",
+    "query": "Belarus",
+    "rank": 14,
+    "tweet_count": "159K Tweets"
   },
   {
     "name": "Ukraine",
     "query": "Ukraine",
+    "rank": 15,
+    "tweet_count": "1.76M Tweets"
+  },
+  {
+    "name": "Россией",
+    "query": "Россией",
     "rank": 16,
-    "tweet_count": "1.71M Tweets"
+    "tweet_count": "9,885 Tweets"
   },
   {
-    "name": "Белоруссии",
-    "query": "Белоруссии",
+    "name": "#iHeartAwards",
+    "query": "#iHeartAwards",
     "rank": 17,
-    "tweet_count": "3,513 Tweets"
+    "tweet_count": "753K Tweets"
   },
   {
-    "name": "Китай",
-    "query": "Китай",
+    "name": "Украиной",
+    "query": "Украиной",
     "rank": 18,
-    "tweet_count": "6,141 Tweets"
+    "tweet_count": "27.1K Tweets"
   },
   {
-    "name": "Ukrainians",
-    "query": "Ukrainians",
+    "name": "#StopWar",
+    "query": "#StopWar",
     "rank": 19,
-    "tweet_count": "504K Tweets"
+    "tweet_count": "57.8K Tweets"
   },
   {
-    "name": "Putin",
-    "query": "Putin",
+    "name": "#bestlyrics",
+    "query": "#bestlyrics",
     "rank": 20,
-    "tweet_count": "2.43M Tweets"
+    "tweet_count": "2,954 Tweets"
   }
 ]
