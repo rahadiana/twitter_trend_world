@@ -1,13 +1,13 @@
 [
   {
-    "name": "Propaganda",
-    "query": "Propaganda",
-    "rank": 1,
-    "tweet_count": "311K Tweets"
-  },
-  {
     "name": "#H96RBL",
     "query": "#H96RBL",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "#HSVKSC",
+    "query": "#HSVKSC",
     "rank": 2,
     "tweet_count": null
   },
@@ -15,11 +15,11 @@
     "name": "#FirstDates",
     "query": "#FirstDates",
     "rank": 3,
-    "tweet_count": "1,063 Tweets"
+    "tweet_count": "1,203 Tweets"
   },
   {
-    "name": "#HSVKSC",
-    "query": "#HSVKSC",
+    "name": "Enthaltungen",
+    "query": "Enthaltungen",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,90 +27,84 @@
     "name": "Resolution",
     "query": "Resolution",
     "rank": 5,
-    "tweet_count": "66.7K Tweets"
-  },
-  {
-    "name": "#Kretschmer",
-    "query": "#Kretschmer",
-    "rank": 6,
-    "tweet_count": "1,345 Tweets"
-  },
-  {
-    "name": "gemeinwohl",
-    "query": "gemeinwohl",
-    "rank": 7,
-    "tweet_count": null
+    "tweet_count": "80.8K Tweets"
   },
   {
     "name": "Rassismus gegen Weiße",
     "query": "\"Rassismus gegen Weiße\"",
-    "rank": 8,
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "Jugend",
     "query": "Jugend",
-    "rank": 9,
-    "tweet_count": "2,460 Tweets"
+    "rank": 7,
+    "tweet_count": "2,514 Tweets"
+  },
+  {
+    "name": "\"Gemeinwohl\"",
+    "query": "\"Gemeinwohl\"",
+    "rank": 8,
+    "tweet_count": null
   },
   {
     "name": "Emma",
     "query": "Emma",
-    "rank": 10,
-    "tweet_count": "48.4K Tweets"
+    "rank": 9,
+    "tweet_count": "49.3K Tweets"
   },
   {
-    "name": "Wodka",
-    "query": "Wodka",
+    "name": "Zivis",
+    "query": "Zivis",
+    "rank": 10,
+    "tweet_count": null
+  },
+  {
+    "name": "Zwangsarbeit",
+    "query": "Zwangsarbeit",
     "rank": 11,
-    "tweet_count": "2,475 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Hautfarbe",
     "query": "Hautfarbe",
     "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Iranian",
-    "query": "Iranian",
-    "rank": 13,
-    "tweet_count": "105K Tweets"
+    "tweet_count": "1,018 Tweets"
   },
   {
     "name": "Pfizer",
     "query": "Pfizer",
-    "rank": 14,
-    "tweet_count": "319K Tweets"
+    "rank": 13,
+    "tweet_count": "322K Tweets"
   },
   {
     "name": "Zupfkuchen",
     "query": "Zupfkuchen",
+    "rank": 14,
+    "tweet_count": "1,507 Tweets"
+  },
+  {
+    "name": "Wodka",
+    "query": "Wodka",
     "rank": 15,
-    "tweet_count": "1,464 Tweets"
+    "tweet_count": "2,539 Tweets"
   },
   {
-    "name": "organisationen",
-    "query": "organisationen",
+    "name": "Iranian",
+    "query": "Iranian",
     "rank": 16,
-    "tweet_count": "1,063 Tweets"
+    "tweet_count": "106K Tweets"
   },
   {
-    "name": "#Ukriane",
-    "query": "#Ukriane",
+    "name": "Mitbürger",
+    "query": "Mitbürger",
     "rank": 17,
-    "tweet_count": "107K Tweets"
+    "tweet_count": "2,129 Tweets"
   },
   {
-    "name": "#UNEA5",
-    "query": "#UNEA5",
+    "name": "Organisationen",
+    "query": "Organisationen",
     "rank": 18,
-    "tweet_count": "9,751 Tweets"
-  },
-  {
-    "name": "#NothilfeUkraine",
-    "query": "#NothilfeUkraine",
-    "rank": 19,
-    "tweet_count": null
+    "tweet_count": "1,082 Tweets"
   }
 ]
