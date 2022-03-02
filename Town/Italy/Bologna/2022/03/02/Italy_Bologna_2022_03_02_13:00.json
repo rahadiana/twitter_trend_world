@@ -1,37 +1,37 @@
 [
   {
-    "name": "#MilanInter",
-    "query": "#MilanInter",
-    "rank": 1,
-    "tweet_count": "21.4K Tweets"
-  },
-  {
     "name": "#Dostoevskij",
     "query": "#Dostoevskij",
-    "rank": 2,
-    "tweet_count": "10.2K Tweets"
+    "rank": 1,
+    "tweet_count": "10.5K Tweets"
   },
   {
     "name": "#Bicocca",
     "query": "#Bicocca",
-    "rank": 3,
-    "tweet_count": "4,163 Tweets"
+    "rank": 2,
+    "tweet_count": "4,231 Tweets"
   },
   {
     "name": "#2marzo",
     "query": "#2marzo",
-    "rank": 4,
-    "tweet_count": "7,853 Tweets"
+    "rank": 3,
+    "tweet_count": "8,047 Tweets"
   },
   {
     "name": "#PaoloNori",
     "query": "#PaoloNori",
-    "rank": 5,
-    "tweet_count": "1,101 Tweets"
+    "rank": 4,
+    "tweet_count": "1,115 Tweets"
   },
   {
     "name": "Masha e Orso",
     "query": "\"Masha e Orso\"",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "Nardella",
+    "query": "Nardella",
     "rank": 6,
     "tweet_count": null
   },
@@ -39,84 +39,78 @@
     "name": "Tolstoj",
     "query": "Tolstoj",
     "rank": 7,
-    "tweet_count": "1,860 Tweets"
+    "tweet_count": "1,924 Tweets"
   },
   {
-    "name": "Gogol",
-    "query": "Gogol",
+    "name": "Pinuccia",
+    "query": "Pinuccia",
     "rank": 8,
-    "tweet_count": "3,415 Tweets"
+    "tweet_count": "1,072 Tweets"
   },
   {
     "name": "Ministro degli Esteri",
     "query": "\"Ministro degli Esteri\"",
     "rank": 9,
-    "tweet_count": "6,724 Tweets"
+    "tweet_count": "6,874 Tweets"
+  },
+  {
+    "name": "Gogol",
+    "query": "Gogol",
+    "rank": 10,
+    "tweet_count": "3,500 Tweets"
   },
   {
     "name": "of maio",
     "query": "\"of maio\"",
-    "rank": 10,
-    "tweet_count": "1,134 Tweets"
+    "rank": 11,
+    "tweet_count": "1,154 Tweets"
   },
   {
     "name": "Bersani",
     "query": "Bersani",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "Floris",
-    "query": "Floris",
     "rank": 12,
-    "tweet_count": "2,022 Tweets"
+    "tweet_count": null
   },
   {
     "name": "D'Alema",
     "query": "D'Alema",
     "rank": 13,
-    "tweet_count": "2,582 Tweets"
+    "tweet_count": "2,618 Tweets"
+  },
+  {
+    "name": "Floris",
+    "query": "Floris",
+    "rank": 14,
+    "tweet_count": "2,036 Tweets"
   },
   {
     "name": "Scala",
     "query": "Scala",
-    "rank": 14,
-    "tweet_count": "7,380 Tweets"
+    "rank": 15,
+    "tweet_count": "7,435 Tweets"
   },
   {
     "name": "Kalulu",
     "query": "Kalulu",
-    "rank": 15,
-    "tweet_count": "3,074 Tweets"
+    "rank": 16,
+    "tweet_count": "3,108 Tweets"
   },
   {
     "name": "Theo",
     "query": "Theo",
-    "rank": 16,
-    "tweet_count": "35K Tweets"
+    "rank": 17,
+    "tweet_count": "35.4K Tweets"
   },
   {
     "name": "Skriniar",
     "query": "Skriniar",
-    "rank": 17,
-    "tweet_count": "3,245 Tweets"
-  },
-  {
-    "name": "Dumfries",
-    "query": "Dumfries",
     "rank": 18,
-    "tweet_count": "1,924 Tweets"
+    "tweet_count": "3,259 Tweets"
   },
   {
     "name": "#censura",
     "query": "#censura",
     "rank": 19,
-    "tweet_count": "2,235 Tweets"
-  },
-  {
-    "name": "#CancelCulture",
-    "query": "#CancelCulture",
-    "rank": 20,
-    "tweet_count": "2,024 Tweets"
+    "tweet_count": "2,276 Tweets"
   }
 ]
