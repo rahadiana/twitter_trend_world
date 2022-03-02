@@ -1,57 +1,57 @@
 [
   {
-    "name": "Bongo",
-    "query": "Bongo",
-    "rank": 1,
-    "tweet_count": "3,743 Tweets"
-  },
-  {
     "name": "Roman Abramovich",
     "query": "\"Roman Abramovich\"",
-    "rank": 2,
-    "tweet_count": "167K Tweets"
+    "rank": 1,
+    "tweet_count": "172K Tweets"
   },
   {
     "name": "Saul",
     "query": "Saul",
-    "rank": 3,
-    "tweet_count": "13.1K Tweets"
+    "rank": 2,
+    "tweet_count": "13.8K Tweets"
   },
   {
-    "name": "Sarr",
-    "query": "Sarr",
-    "rank": 4,
-    "tweet_count": "5,109 Tweets"
+    "name": "Bongo",
+    "query": "Bongo",
+    "rank": 3,
+    "tweet_count": "4,681 Tweets"
   },
   {
     "name": "Nathan",
     "query": "Nathan",
+    "rank": 4,
+    "tweet_count": "29.5K Tweets"
+  },
+  {
+    "name": "Werner",
+    "query": "Werner",
     "rank": 5,
-    "tweet_count": "29K Tweets"
+    "tweet_count": "8,153 Tweets"
+  },
+  {
+    "name": "Nana Aba",
+    "query": "\"Nana Aba\"",
+    "rank": 6,
+    "tweet_count": null
   },
   {
     "name": "#GhanaMonth",
     "query": "#GhanaMonth",
-    "rank": 6,
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Arab",
     "query": "Arab",
-    "rank": 7,
-    "tweet_count": "92.3K Tweets"
-  },
-  {
-    "name": "Dangote",
-    "query": "Dangote",
     "rank": 8,
-    "tweet_count": "3,351 Tweets"
+    "tweet_count": "93.7K Tweets"
   },
   {
     "name": "#NotMyPresident",
     "query": "#NotMyPresident",
     "rank": 9,
-    "tweet_count": "6,152 Tweets"
+    "tweet_count": "6,243 Tweets"
   },
   {
     "name": "#puredrive",
@@ -60,16 +60,16 @@
     "tweet_count": null
   },
   {
-    "name": "Glazers",
-    "query": "Glazers",
-    "rank": 11,
-    "tweet_count": "4,488 Tweets"
-  },
-  {
     "name": "Ash Wednesday",
     "query": "\"Ash Wednesday\"",
+    "rank": 11,
+    "tweet_count": "62.1K Tweets"
+  },
+  {
+    "name": "Glazers",
+    "query": "Glazers",
     "rank": 12,
-    "tweet_count": "60.9K Tweets"
+    "tweet_count": "4,682 Tweets"
   },
   {
     "name": "#thebigbreakfast",
@@ -87,36 +87,36 @@
     "name": "Happy New Month",
     "query": "\"Happy New Month\"",
     "rank": 15,
-    "tweet_count": "15.5K Tweets"
+    "tweet_count": "15.7K Tweets"
+  },
+  {
+    "name": "Dangote",
+    "query": "Dangote",
+    "rank": 16,
+    "tweet_count": "3,560 Tweets"
   },
   {
     "name": "Middlesbrough",
     "query": "Middlesbrough",
-    "rank": 16,
-    "tweet_count": "29.9K Tweets"
+    "rank": 17,
+    "tweet_count": "30K Tweets"
   },
   {
     "name": "Fameye",
     "query": "Fameye",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Werner",
-    "query": "Werner",
     "rank": 18,
-    "tweet_count": "6,324 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Mourinho",
     "query": "Mourinho",
     "rank": 19,
-    "tweet_count": "11.1K Tweets"
+    "tweet_count": "11.3K Tweets"
   },
   {
-    "name": "Nana Aba",
-    "query": "\"Nana Aba\"",
+    "name": "Newcastle",
+    "query": "Newcastle",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "17.7K Tweets"
   }
 ]
