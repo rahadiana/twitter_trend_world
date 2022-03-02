@@ -1,15 +1,15 @@
 [
   {
-    "name": "#RussiaUkraine",
-    "query": "#RussiaUkraine",
-    "rank": 1,
-    "tweet_count": "123K Tweets"
-  },
-  {
     "name": "AaFK",
     "query": "AaFK",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#RussiaUkraine",
+    "query": "#RussiaUkraine",
+    "rank": 2,
+    "tweet_count": "126K Tweets"
   },
   {
     "name": "Kondolerer",
@@ -21,7 +21,7 @@
     "name": "Putin",
     "query": "Putin",
     "rank": 4,
-    "tweet_count": "2.67M Tweets"
+    "tweet_count": "1.9M Tweets"
   },
   {
     "name": "Glimt",
@@ -33,7 +33,7 @@
     "name": "Russland",
     "query": "Russland",
     "rank": 6,
-    "tweet_count": "78.8K Tweets"
+    "tweet_count": "80.7K Tweets"
   },
   {
     "name": "#debatten",
@@ -51,66 +51,66 @@
     "name": "Tottenham",
     "query": "Tottenham",
     "rank": 9,
-    "tweet_count": "40.3K Tweets"
-  },
-  {
-    "name": "Odds",
-    "query": "Odds",
-    "rank": 10,
-    "tweet_count": "47.4K Tweets"
+    "tweet_count": "41K Tweets"
   },
   {
     "name": "victor jensen",
     "query": "\"victor jensen\"",
-    "rank": 11,
-    "tweet_count": null
-  },
-  {
-    "name": "#polkvart",
-    "query": "#polkvart",
-    "rank": 12,
+    "rank": 10,
     "tweet_count": null
   },
   {
     "name": "Oilers",
     "query": "Oilers",
-    "rank": 13,
-    "tweet_count": "5,263 Tweets"
+    "rank": 11,
+    "tweet_count": "5,278 Tweets"
+  },
+  {
+    "name": "Aalesund",
+    "query": "Aalesund",
+    "rank": 12,
+    "tweet_count": null
   },
   {
     "name": "norges skiforbund",
     "query": "\"norges skiforbund\"",
-    "rank": 14,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Mazepin",
     "query": "Mazepin",
-    "rank": 15,
-    "tweet_count": "11.4K Tweets"
-  },
-  {
-    "name": "Aalesund",
-    "query": "Aalesund",
-    "rank": 16,
-    "tweet_count": null
+    "rank": 14,
+    "tweet_count": "11.5K Tweets"
   },
   {
     "name": "Tyskland",
     "query": "Tyskland",
-    "rank": 17,
+    "rank": 15,
     "tweet_count": null
-  },
-  {
-    "name": "UEFA",
-    "query": "UEFA",
-    "rank": 18,
-    "tweet_count": "45.6K Tweets"
   },
   {
     "name": "Biden",
     "query": "Biden",
+    "rank": 16,
+    "tweet_count": "1.49M Tweets"
+  },
+  {
+    "name": "toje",
+    "query": "toje",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "ropstad",
+    "query": "ropstad",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Bergen",
+    "query": "Bergen",
     "rank": 19,
-    "tweet_count": "1.51M Tweets"
+    "tweet_count": "6,142 Tweets"
   }
 ]
