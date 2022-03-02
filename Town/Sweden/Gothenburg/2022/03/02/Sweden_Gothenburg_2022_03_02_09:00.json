@@ -1,45 +1,45 @@
 [
   {
-    "name": "#RussiaUkraine",
-    "query": "#RussiaUkraine",
+    "name": "Ukraina",
+    "query": "Ukraina",
     "rank": 1,
-    "tweet_count": "125K Tweets"
+    "tweet_count": "155K Tweets"
   },
   {
-    "name": "Putin",
-    "query": "Putin",
+    "name": "Russian",
+    "query": "Russian",
     "rank": 2,
-    "tweet_count": "1.9M Tweets"
+    "tweet_count": "2.55M Tweets"
   },
   {
     "name": "Vänsterpartiet",
     "query": "Vänsterpartiet",
     "rank": 3,
-    "tweet_count": "2,455 Tweets"
+    "tweet_count": "2,471 Tweets"
   },
   {
-    "name": "Chang",
-    "query": "Chang",
+    "name": "chang",
+    "query": "chang",
     "rank": 4,
-    "tweet_count": "18.8K Tweets"
-  },
-  {
-    "name": "Godmorgon",
-    "query": "Godmorgon",
-    "rank": 5,
-    "tweet_count": null
+    "tweet_count": "19.1K Tweets"
   },
   {
     "name": "#fettisdagen",
     "query": "#fettisdagen",
-    "rank": 6,
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "Timbro",
     "query": "Timbro",
+    "rank": 6,
+    "tweet_count": "1,621 Tweets"
+  },
+  {
+    "name": "Putins",
+    "query": "Putins",
     "rank": 7,
-    "tweet_count": "1,615 Tweets"
+    "tweet_count": "75.8K Tweets"
   },
   {
     "name": "#semla",
@@ -48,16 +48,16 @@
     "tweet_count": null
   },
   {
-    "name": "Conte",
-    "query": "Conte",
-    "rank": 9,
-    "tweet_count": "39.7K Tweets"
-  },
-  {
     "name": "EU-parlamentet",
     "query": "EU-parlamentet",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
+  },
+  {
+    "name": "Conte",
+    "query": "Conte",
+    "rank": 10,
+    "tweet_count": "40K Tweets"
   },
   {
     "name": "#poesipåminplanet",
@@ -72,10 +72,10 @@
     "tweet_count": null
   },
   {
-    "name": "Kharkiv",
-    "query": "Kharkiv",
+    "name": "Charkiv",
+    "query": "Charkiv",
     "rank": 13,
-    "tweet_count": "550K Tweets"
+    "tweet_count": "1,753 Tweets"
   },
   {
     "name": "malin björk",
@@ -84,39 +84,39 @@
     "tweet_count": null
   },
   {
-    "name": "Middlesbrough",
-    "query": "Middlesbrough",
+    "name": "stäng",
+    "query": "stäng",
     "rank": 15,
-    "tweet_count": "28.4K Tweets"
-  },
-  {
-    "name": "Stäng",
-    "query": "Stäng",
-    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Elaine Eksvärd",
     "query": "\"Elaine Eksvärd\"",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Helsingborg",
     "query": "Helsingborg",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Godmorgon",
+    "query": "Godmorgon",
     "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "Nyheter Idag",
-    "query": "\"Nyheter Idag\"",
+    "name": "nyheter idag",
+    "query": "\"nyheter idag\"",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Vitryssland",
-    "query": "Vitryssland",
+    "name": "Tottenham",
+    "query": "Tottenham",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "41.3K Tweets"
   }
 ]

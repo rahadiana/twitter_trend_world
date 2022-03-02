@@ -1,9 +1,9 @@
 [
   {
-    "name": "#RussiaUkraine",
-    "query": "#RussiaUkraine",
+    "name": "#UkraineRussiaWar",
+    "query": "#UkraineRussiaWar",
     "rank": 1,
-    "tweet_count": "126K Tweets"
+    "tweet_count": "455K Tweets"
   },
   {
     "name": "#KohLanta",
@@ -15,19 +15,19 @@
     "name": "#complimentendag",
     "query": "#complimentendag",
     "rank": 3,
-    "tweet_count": "1,626 Tweets"
-  },
-  {
-    "name": "#LeSamyn",
-    "query": "#LeSamyn",
-    "rank": 4,
-    "tweet_count": "1,598 Tweets"
+    "tweet_count": "1,628 Tweets"
   },
   {
     "name": "#TheBatman",
     "query": "#TheBatman",
+    "rank": 4,
+    "tweet_count": "116K Tweets"
+  },
+  {
+    "name": "#lesamyn",
+    "query": "#lesamyn",
     "rank": 5,
-    "tweet_count": "115K Tweets"
+    "tweet_count": "1,599 Tweets"
   },
   {
     "name": "European Parliament",
@@ -39,25 +39,25 @@
     "name": "Inge",
     "query": "Inge",
     "rank": 7,
-    "tweet_count": "2,137 Tweets"
+    "tweet_count": "2,156 Tweets"
   },
   {
     "name": "Russian",
     "query": "Russian",
     "rank": 8,
-    "tweet_count": "2.9M Tweets"
+    "tweet_count": "2.55M Tweets"
   },
   {
     "name": "Jean",
     "query": "Jean",
     "rank": 9,
-    "tweet_count": "82.9K Tweets"
+    "tweet_count": "83.5K Tweets"
   },
   {
     "name": "Goeiemorgen",
     "query": "Goeiemorgen",
     "rank": 10,
-    "tweet_count": "1,107 Tweets"
+    "tweet_count": "1,133 Tweets"
   },
   {
     "name": "Molenbeek",
@@ -69,54 +69,54 @@
     "name": "Oekraïners",
     "query": "Oekraïners",
     "rank": 12,
-    "tweet_count": "4,642 Tweets"
-  },
-  {
-    "name": "Russische",
-    "query": "Russische",
-    "rank": 13,
-    "tweet_count": "51.6K Tweets"
+    "tweet_count": "4,692 Tweets"
   },
   {
     "name": "Lidl",
     "query": "Lidl",
-    "rank": 14,
-    "tweet_count": "3,105 Tweets"
-  },
-  {
-    "name": "Wakanim",
-    "query": "Wakanim",
-    "rank": 15,
-    "tweet_count": "20.9K Tweets"
+    "rank": 13,
+    "tweet_count": "3,131 Tweets"
   },
   {
     "name": "Bruno Le Maire",
     "query": "\"Bruno Le Maire\"",
-    "rank": 16,
-    "tweet_count": "46K Tweets"
+    "rank": 14,
+    "tweet_count": "46.2K Tweets"
   },
   {
     "name": "Bon Carême",
     "query": "\"Bon Carême\"",
-    "rank": 17,
-    "tweet_count": "7,311 Tweets"
+    "rank": 15,
+    "tweet_count": "7,554 Tweets"
   },
   {
-    "name": "Zelensky",
-    "query": "Zelensky",
-    "rank": 18,
-    "tweet_count": "607K Tweets"
+    "name": "Robert Pattinson",
+    "query": "\"Robert Pattinson\"",
+    "rank": 16,
+    "tweet_count": "50.1K Tweets"
   },
   {
     "name": "Jisoo",
     "query": "Jisoo",
-    "rank": 19,
+    "rank": 17,
     "tweet_count": "1.17M Tweets"
   },
   {
     "name": "Franck",
     "query": "Franck",
-    "rank": 20,
+    "rank": 18,
     "tweet_count": "11K Tweets"
+  },
+  {
+    "name": "Wakanim",
+    "query": "Wakanim",
+    "rank": 19,
+    "tweet_count": "21K Tweets"
+  },
+  {
+    "name": "Le Président",
+    "query": "\"Le Président\"",
+    "rank": 20,
+    "tweet_count": "65.4K Tweets"
   }
 ]
