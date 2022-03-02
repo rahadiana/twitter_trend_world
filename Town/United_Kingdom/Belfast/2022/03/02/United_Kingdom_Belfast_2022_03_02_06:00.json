@@ -1,122 +1,80 @@
 [
   {
-    "name": "#FACup",
-    "query": "#FACup",
+    "name": "#FFBWednesday",
+    "query": "#FFBWednesday",
     "rank": 1,
-    "tweet_count": "15K Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "#Wordle256",
+    "query": "#Wordle256",
+    "rank": 2,
+    "tweet_count": "1,911 Tweets"
   },
   {
     "name": "#SOTU",
     "query": "#SOTU",
-    "rank": 2,
-    "tweet_count": "690K Tweets"
-  },
-  {
-    "name": "Wordle 256 X",
-    "query": "\"Wordle 256 X\"",
     "rank": 3,
-    "tweet_count": "2,669 Tweets"
-  },
-  {
-    "name": "Spurs",
-    "query": "Spurs",
-    "rank": 4,
-    "tweet_count": "52.8K Tweets"
-  },
-  {
-    "name": "Conte",
-    "query": "Conte",
-    "rank": 5,
-    "tweet_count": "37.5K Tweets"
+    "tweet_count": "699K Tweets"
   },
   {
     "name": "Middlesbrough",
     "query": "Middlesbrough",
-    "rank": 6,
-    "tweet_count": "25.4K Tweets"
+    "rank": 4,
+    "tweet_count": "25.7K Tweets"
   },
   {
     "name": "Lakers",
     "query": "Lakers",
-    "rank": 7,
-    "tweet_count": "82.5K Tweets"
+    "rank": 5,
+    "tweet_count": "84.3K Tweets"
   },
   {
-    "name": "Luka",
-    "query": "Luka",
-    "rank": 8,
-    "tweet_count": "65.2K Tweets"
-  },
-  {
-    "name": "Tottenham",
-    "query": "Tottenham",
-    "rank": 9,
-    "tweet_count": "36.8K Tweets"
-  },
-  {
-    "name": "#DragRaceUK",
-    "query": "#DragRaceUK",
-    "rank": 10,
-    "tweet_count": "16.6K Tweets"
-  },
-  {
-    "name": "#MIDTOT",
-    "query": "#MIDTOT",
-    "rank": 11,
-    "tweet_count": "5,862 Tweets"
+    "name": "#AshWednesday",
+    "query": "#AshWednesday",
+    "rank": 6,
+    "tweet_count": "4,814 Tweets"
   },
   {
     "name": "#RussianUkrainianWar",
     "query": "#RussianUkrainianWar",
-    "rank": 12,
-    "tweet_count": "27.3K Tweets"
+    "rank": 7,
+    "tweet_count": "29.3K Tweets"
   },
   {
     "name": "Pfizer",
     "query": "Pfizer",
-    "rank": 13,
-    "tweet_count": "223K Tweets"
+    "rank": 8,
+    "tweet_count": "228K Tweets"
   },
   {
     "name": "Howson",
     "query": "Howson",
-    "rank": 14,
-    "tweet_count": "1,797 Tweets"
+    "rank": 9,
+    "tweet_count": "1,808 Tweets"
   },
   {
     "name": "Winks",
     "query": "Winks",
-    "rank": 15,
-    "tweet_count": "6,815 Tweets"
-  },
-  {
-    "name": "Ash Wednesday",
-    "query": "\"Ash Wednesday\"",
-    "rank": 16,
-    "tweet_count": "18.5K Tweets"
+    "rank": 10,
+    "tweet_count": "6,888 Tweets"
   },
   {
     "name": "Clive",
     "query": "Clive",
-    "rank": 17,
-    "tweet_count": "7,223 Tweets"
+    "rank": 11,
+    "tweet_count": "7,505 Tweets"
   },
   {
     "name": "Chris Wilder",
     "query": "\"Chris Wilder\"",
-    "rank": 18,
-    "tweet_count": "1,628 Tweets"
+    "rank": 12,
+    "tweet_count": "1,644 Tweets"
   },
   {
-    "name": "Lumley",
-    "query": "Lumley",
-    "rank": 19,
-    "tweet_count": "1,457 Tweets"
-  },
-  {
-    "name": "#THFC",
-    "query": "#THFC",
-    "rank": 20,
-    "tweet_count": "6,869 Tweets"
+    "name": "#DragRaceUK",
+    "query": "#DragRaceUK",
+    "rank": 13,
+    "tweet_count": "16.9K Tweets"
   }
 ]
