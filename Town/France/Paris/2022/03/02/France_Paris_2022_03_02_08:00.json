@@ -1,86 +1,122 @@
 [
   {
-    "name": "Batman",
-    "query": "Batman",
+    "name": "Kyiv",
+    "query": "Kyiv",
     "rank": 1,
-    "tweet_count": "273K Tweets"
+    "tweet_count": "884K Tweets"
   },
   {
-    "name": "Carême",
-    "query": "Carême",
+    "name": "Bon Carême",
+    "query": "\"Bon Carême\"",
     "rank": 2,
-    "tweet_count": "11.7K Tweets"
+    "tweet_count": "6,023 Tweets"
   },
   {
-    "name": "#MercrediDesCendres",
-    "query": "#MercrediDesCendres",
+    "name": "#mercredidescendres",
+    "query": "#mercredidescendres",
     "rank": 3,
     "tweet_count": null
   },
   {
+    "name": "#TheBatmanMovie",
+    "query": "#TheBatmanMovie",
+    "rank": 4,
+    "tweet_count": "4,694 Tweets"
+  },
+  {
     "name": "Kherson",
     "query": "Kherson",
-    "rank": 4,
-    "tweet_count": "67.9K Tweets"
+    "rank": 5,
+    "tweet_count": "69.5K Tweets"
   },
   {
     "name": "#FCNASM",
     "query": "#FCNASM",
-    "rank": 5,
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "Lakers",
     "query": "Lakers",
-    "rank": 6,
-    "tweet_count": "87K Tweets"
+    "rank": 7,
+    "tweet_count": "87.8K Tweets"
   },
   {
-    "name": "#Korian",
-    "query": "#Korian",
-    "rank": 7,
-    "tweet_count": "4,366 Tweets"
+    "name": "Korian",
+    "query": "Korian",
+    "rank": 8,
+    "tweet_count": "10.4K Tweets"
+  },
+  {
+    "name": "#HDPros",
+    "query": "#HDPros",
+    "rank": 9,
+    "tweet_count": "21.2K Tweets"
   },
   {
     "name": "#ONEPIECE1042",
     "query": "#ONEPIECE1042",
-    "rank": 8,
-    "tweet_count": "4,610 Tweets"
+    "rank": 10,
+    "tweet_count": "4,709 Tweets"
+  },
+  {
+    "name": "Pâques",
+    "query": "Pâques",
+    "rank": 11,
+    "tweet_count": "1,122 Tweets"
   },
   {
     "name": "Gouiri",
     "query": "Gouiri",
-    "rank": 9,
-    "tweet_count": "13.9K Tweets"
+    "rank": 12,
+    "tweet_count": "14.3K Tweets"
   },
   {
     "name": "Castex",
     "query": "Castex",
-    "rank": 10,
-    "tweet_count": "13K Tweets"
+    "rank": 13,
+    "tweet_count": "13.3K Tweets"
+  },
+  {
+    "name": "Anne-Laure Bonnel",
+    "query": "\"Anne-Laure Bonnel\"",
+    "rank": 14,
+    "tweet_count": "48.3K Tweets"
+  },
+  {
+    "name": "Matt Reeves",
+    "query": "\"Matt Reeves\"",
+    "rank": 15,
+    "tweet_count": "10.3K Tweets"
   },
   {
     "name": "Inazuma",
     "query": "Inazuma",
-    "rank": 11,
-    "tweet_count": "9,166 Tweets"
+    "rank": 16,
+    "tweet_count": "9,317 Tweets"
   },
   {
     "name": "Ehpad",
     "query": "Ehpad",
-    "rank": 12,
-    "tweet_count": "6,893 Tweets"
+    "rank": 17,
+    "tweet_count": "7,132 Tweets"
   },
   {
     "name": "Kharkiv",
     "query": "Kharkiv",
-    "rank": 13,
-    "tweet_count": "563K Tweets"
+    "rank": 18,
+    "tweet_count": "569K Tweets"
   },
   {
     "name": "Goku",
     "query": "Goku",
-    "rank": 14,
-    "tweet_count": "20.6K Tweets"
+    "rank": 19,
+    "tweet_count": "20.9K Tweets"
+  },
+  {
+    "name": "#SolidariteUkraine",
+    "query": "#SolidariteUkraine",
+    "rank": 20,
+    "tweet_count": "1,011 Tweets"
   }
 ]
