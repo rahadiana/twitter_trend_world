@@ -3,13 +3,13 @@
     "name": "#RussiaUkraine",
     "query": "#RussiaUkraine",
     "rank": 1,
-    "tweet_count": "120K Tweets"
+    "tweet_count": "121K Tweets"
   },
   {
-    "name": "#StopPutin",
-    "query": "#StopPutin",
+    "name": "#RussiaUkraine",
+    "query": "#RussiaUkraine",
     "rank": 2,
-    "tweet_count": "212K Tweets"
+    "tweet_count": "121K Tweets"
   },
   {
     "name": "Babyn Yar",
@@ -24,28 +24,28 @@
     "tweet_count": "118K Tweets"
   },
   {
-    "name": "Security Council",
-    "query": "\"Security Council\"",
-    "rank": 5,
-    "tweet_count": "214K Tweets"
-  },
-  {
     "name": "Харьков",
     "query": "Харьков",
+    "rank": 5,
+    "tweet_count": "55.3K Tweets"
+  },
+  {
+    "name": "Security Council",
+    "query": "\"Security Council\"",
     "rank": 6,
-    "tweet_count": "55.1K Tweets"
+    "tweet_count": "215K Tweets"
   },
   {
-    "name": "#IronDome",
-    "query": "#IronDome",
+    "name": "#irondome",
+    "query": "#irondome",
     "rank": 7,
-    "tweet_count": "3,385 Tweets"
+    "tweet_count": "3,387 Tweets"
   },
   {
-    "name": "Ukrainian",
-    "query": "Ukrainian",
+    "name": "Kyiv TV",
+    "query": "\"Kyiv TV\"",
     "rank": 8,
-    "tweet_count": "1.41M Tweets"
+    "tweet_count": "97.9K Tweets"
   },
   {
     "name": "Бабий Яр",
@@ -54,69 +54,69 @@
     "tweet_count": "10.6K Tweets"
   },
   {
-    "name": "Kyiv TV",
-    "query": "\"Kyiv TV\"",
-    "rank": 10,
-    "tweet_count": "97.8K Tweets"
-  },
-  {
     "name": "WWII",
     "query": "WWII",
-    "rank": 11,
-    "tweet_count": "33.1K Tweets"
+    "rank": 10,
+    "tweet_count": "33.5K Tweets"
   },
   {
     "name": "#войнароссиисукраиной",
     "query": "#войнароссиисукраиной",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "#вторжениероссии",
+    "query": "#вторжениероссии",
     "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "#вторжениеРоссии",
-    "query": "#вторжениеРоссии",
+    "name": "exclude russia from",
+    "query": "\"exclude russia from\"",
     "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "EXCLUDE RUSSIA FROM",
-    "query": "\"EXCLUDE RUSSIA FROM\"",
-    "rank": 14,
     "tweet_count": "151K Tweets"
   },
   {
-    "name": "Freedom Square",
-    "query": "\"Freedom Square\"",
-    "rank": 15,
+    "name": "freedom square",
+    "query": "\"freedom square\"",
+    "rank": 14,
     "tweet_count": "67.5K Tweets"
   },
   {
     "name": "Azov",
     "query": "Azov",
+    "rank": 15,
+    "tweet_count": "76.3K Tweets"
+  },
+  {
+    "name": "Евросоюз",
+    "query": "Евросоюз",
     "rank": 16,
-    "tweet_count": "75.8K Tweets"
+    "tweet_count": "7,789 Tweets"
   },
   {
-    "name": "Какое",
-    "query": "Какое",
+    "name": "Гааге",
+    "query": "Гааге",
     "rank": 17,
-    "tweet_count": "8,577 Tweets"
+    "tweet_count": "4,008 Tweets"
   },
   {
-    "name": "Шойгу",
-    "query": "Шойгу",
+    "name": "шойгу",
+    "query": "шойгу",
     "rank": 18,
-    "tweet_count": "13.9K Tweets"
+    "tweet_count": "14K Tweets"
   },
   {
-    "name": "Херсона",
-    "query": "Херсона",
+    "name": "бердянска",
+    "query": "бердянска",
     "rank": 19,
-    "tweet_count": "6,188 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "Nazis",
-    "query": "Nazis",
+    "name": "Apple",
+    "query": "Apple",
     "rank": 20,
-    "tweet_count": "188K Tweets"
+    "tweet_count": "541K Tweets"
   }
 ]
