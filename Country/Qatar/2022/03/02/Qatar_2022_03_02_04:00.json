@@ -1,33 +1,33 @@
 [
   {
-    "name": "Biden",
-    "query": "Biden",
-    "rank": 1,
-    "tweet_count": "1.79M Tweets"
-  },
-  {
     "name": "#صباح_الخير",
     "query": "#صباح_الخير",
+    "rank": 1,
+    "tweet_count": "58.8K Tweets"
+  },
+  {
+    "name": "Biden",
+    "query": "Biden",
     "rank": 2,
-    "tweet_count": "56.8K Tweets"
+    "tweet_count": "1.82M Tweets"
   },
   {
     "name": "الشوط الاول",
     "query": "\"الشوط الاول\"",
     "rank": 3,
-    "tweet_count": "2,638 Tweets"
-  },
-  {
-    "name": "#UkraineRussiaWar",
-    "query": "#UkraineRussiaWar",
-    "rank": 4,
-    "tweet_count": "451K Tweets"
+    "tweet_count": "2,649 Tweets"
   },
   {
     "name": "#الوكره",
     "query": "#الوكره",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "#RussiaUkraine",
+    "query": "#RussiaUkraine",
+    "rank": 5,
+    "tweet_count": "121K Tweets"
   },
   {
     "name": "#الشمال",
@@ -45,78 +45,78 @@
     "name": "FIFA",
     "query": "FIFA",
     "rank": 8,
-    "tweet_count": "172K Tweets"
-  },
-  {
-    "name": "Cassie",
-    "query": "Cassie",
-    "rank": 9,
-    "tweet_count": "89.6K Tweets"
-  },
-  {
-    "name": "سالم",
-    "query": "سالم",
-    "rank": 10,
-    "tweet_count": "13.8K Tweets"
-  },
-  {
-    "name": "الاتحاد الأوروبي",
-    "query": "\"الاتحاد الأوروبي\"",
-    "rank": 11,
-    "tweet_count": "13.1K Tweets"
-  },
-  {
-    "name": "روسيا",
-    "query": "روسيا",
-    "rank": 12,
-    "tweet_count": "255K Tweets"
+    "tweet_count": "173K Tweets"
   },
   {
     "name": "الشوط الثاني",
     "query": "\"الشوط الثاني\"",
-    "rank": 13,
-    "tweet_count": "1,990 Tweets"
+    "rank": 9,
+    "tweet_count": "1,999 Tweets"
   },
   {
-    "name": "Al Jazeera",
-    "query": "\"Al Jazeera\"",
-    "rank": 14,
-    "tweet_count": "5,866 Tweets"
+    "name": "Cassie",
+    "query": "Cassie",
+    "rank": 10,
+    "tweet_count": "87K Tweets"
+  },
+  {
+    "name": "سالم",
+    "query": "سالم",
+    "rank": 11,
+    "tweet_count": "13.9K Tweets"
+  },
+  {
+    "name": "الاتحاد الأوروبي",
+    "query": "\"الاتحاد الأوروبي\"",
+    "rank": 12,
+    "tweet_count": "13.2K Tweets"
+  },
+  {
+    "name": "روسيا",
+    "query": "روسيا",
+    "rank": 13,
+    "tweet_count": "257K Tweets"
   },
   {
     "name": "Africans",
     "query": "Africans",
+    "rank": 14,
+    "tweet_count": "74.3K Tweets"
+  },
+  {
+    "name": "Modi",
+    "query": "Modi",
     "rank": 15,
-    "tweet_count": "73.3K Tweets"
+    "tweet_count": "160K Tweets"
   },
   {
-    "name": "محمد",
-    "query": "محمد",
+    "name": "أوكرانيا",
+    "query": "أوكرانيا",
     "rank": 16,
-    "tweet_count": "406K Tweets"
-  },
-  {
-    "name": "Turkey",
-    "query": "Turkey",
-    "rank": 17,
-    "tweet_count": "65.7K Tweets"
-  },
-  {
-    "name": "Nigeria",
-    "query": "Nigeria",
-    "rank": 18,
-    "tweet_count": "122K Tweets"
-  },
-  {
-    "name": "NATO",
-    "query": "NATO",
-    "rank": 19,
-    "tweet_count": "1M Tweets"
+    "tweet_count": "275K Tweets"
   },
   {
     "name": "Poland",
     "query": "Poland",
+    "rank": 17,
+    "tweet_count": "320K Tweets"
+  },
+  {
+    "name": "محمد",
+    "query": "محمد",
+    "rank": 18,
+    "tweet_count": "409K Tweets"
+  },
+  {
+    "name": "Kyiv",
+    "query": "Kyiv",
+    "rank": 19,
+    "tweet_count": "904K Tweets"
+  },
+  {
+    "name": "Kharkiv",
+    "query": "Kharkiv",
     "rank": 20,
-    "tweet_count": "318K Tweets"
+    "tweet_count": "606K Tweets"
   }
 ]
