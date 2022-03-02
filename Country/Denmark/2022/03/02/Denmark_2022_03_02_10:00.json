@@ -3,13 +3,13 @@
     "name": "Israel",
     "query": "Israel",
     "rank": 1,
-    "tweet_count": "303K Tweets"
+    "tweet_count": "306K Tweets"
   },
   {
-    "name": "Kharkiv",
-    "query": "Kharkiv",
+    "name": "Ukraine",
+    "query": "Ukraine",
     "rank": 2,
-    "tweet_count": "520K Tweets"
+    "tweet_count": "2.09M Tweets"
   },
   {
     "name": "Henrik Dahl",
@@ -18,20 +18,20 @@
     "tweet_count": null
   },
   {
-    "name": "#uddpol",
-    "query": "#uddpol",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
     "name": "Enhedslisten",
     "query": "Enhedslisten",
-    "rank": 5,
-    "tweet_count": "1,870 Tweets"
+    "rank": 4,
+    "tweet_count": "1,899 Tweets"
   },
   {
     "name": "#bifsje",
     "query": "#bifsje",
+    "rank": 5,
+    "tweet_count": null
+  },
+  {
+    "name": "#uddpol",
+    "query": "#uddpol",
     "rank": 6,
     "tweet_count": null
   },
@@ -45,43 +45,43 @@
     "name": "#dkpol",
     "query": "#dkpol",
     "rank": 8,
-    "tweet_count": "3,564 Tweets"
-  },
-  {
-    "name": "#dkbiz",
-    "query": "#dkbiz",
-    "rank": 9,
-    "tweet_count": null
+    "tweet_count": "3,639 Tweets"
   },
   {
     "name": "Norway",
     "query": "Norway",
-    "rank": 10,
-    "tweet_count": "14.5K Tweets"
+    "rank": 9,
+    "tweet_count": "14.7K Tweets"
   },
   {
     "name": "Russian",
     "query": "Russian",
+    "rank": 10,
+    "tweet_count": "2.5M Tweets"
+  },
+  {
+    "name": "#SlavaUkraini",
+    "query": "#SlavaUkraini",
     "rank": 11,
-    "tweet_count": "2.45M Tweets"
+    "tweet_count": "41.1K Tweets"
   },
   {
     "name": "Tottenham",
     "query": "Tottenham",
     "rank": 12,
-    "tweet_count": "41.6K Tweets"
+    "tweet_count": "42.1K Tweets"
   },
   {
     "name": "Movia",
     "query": "Movia",
     "rank": 13,
-    "tweet_count": "1,053 Tweets"
+    "tweet_count": "1,058 Tweets"
   },
   {
     "name": "Spurs",
     "query": "Spurs",
     "rank": 14,
-    "tweet_count": "59.2K Tweets"
+    "tweet_count": "59.9K Tweets"
   },
   {
     "name": "christian juhl",
@@ -96,10 +96,10 @@
     "tweet_count": null
   },
   {
-    "name": "Palæstina",
-    "query": "Palæstina",
+    "name": "Kharkiv",
+    "query": "Kharkiv",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "526K Tweets"
   },
   {
     "name": "Røde Kors",
@@ -111,12 +111,12 @@
     "name": "Oslo",
     "query": "Oslo",
     "rank": 19,
-    "tweet_count": "2,400 Tweets"
+    "tweet_count": "2,446 Tweets"
   },
   {
-    "name": "Blas",
-    "query": "Blas",
+    "name": "Palæstina",
+    "query": "Palæstina",
     "rank": 20,
-    "tweet_count": "3,097 Tweets"
+    "tweet_count": null
   }
 ]
