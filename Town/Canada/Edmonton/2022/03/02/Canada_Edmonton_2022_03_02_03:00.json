@@ -1,63 +1,63 @@
 [
   {
-    "name": "Kenney",
-    "query": "Kenney",
+    "name": "McDavid",
+    "query": "McDavid",
     "rank": 1,
-    "tweet_count": "18.6K Tweets"
+    "tweet_count": "1,562 Tweets"
+  },
+  {
+    "name": "kenney",
+    "query": "kenney",
+    "rank": 2,
+    "tweet_count": "19K Tweets"
   },
   {
     "name": "Mikko",
     "query": "Mikko",
-    "rank": 2,
-    "tweet_count": "3,713 Tweets"
+    "rank": 3,
+    "tweet_count": "3,697 Tweets"
   },
   {
     "name": "Koskinen",
     "query": "Koskinen",
-    "rank": 3,
+    "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "Oilers",
-    "query": "Oilers",
-    "rank": 4,
-    "tweet_count": "4,655 Tweets"
-  },
-  {
-    "name": "Hart",
-    "query": "Hart",
+    "name": "HART",
+    "query": "HART",
     "rank": 5,
-    "tweet_count": "16.7K Tweets"
+    "tweet_count": "17.1K Tweets"
   },
   {
     "name": "Red Deer",
     "query": "\"Red Deer\"",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "1,013 Tweets"
   },
   {
     "name": "#SOTU",
     "query": "#SOTU",
     "rank": 7,
-    "tweet_count": "343K Tweets"
+    "tweet_count": "460K Tweets"
   },
   {
-    "name": "#StateOfTheUnion",
-    "query": "#StateOfTheUnion",
+    "name": "#WeTheNorth",
+    "query": "#WeTheNorth",
     "rank": 8,
-    "tweet_count": "49.1K Tweets"
-  },
-  {
-    "name": "Scottie",
-    "query": "Scottie",
-    "rank": 9,
-    "tweet_count": "8,221 Tweets"
+    "tweet_count": "2,645 Tweets"
   },
   {
     "name": "Josh Anderson",
     "query": "\"Josh Anderson\"",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
+  },
+  {
+    "name": "Iranian",
+    "query": "Iranian",
+    "rank": 10,
+    "tweet_count": "44.3K Tweets"
   },
   {
     "name": "Tony Brothers",
@@ -66,57 +66,57 @@
     "tweet_count": null
   },
   {
+    "name": "Joe Biden",
+    "query": "\"Joe Biden\"",
+    "rank": 12,
+    "tweet_count": "299K Tweets"
+  },
+  {
     "name": "Seth Curry",
     "query": "\"Seth Curry\"",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Pfizer",
     "query": "Pfizer",
-    "rank": 13,
-    "tweet_count": "199K Tweets"
-  },
-  {
-    "name": "#BKNvsTOR",
-    "query": "#BKNvsTOR",
     "rank": 14,
-    "tweet_count": null
+    "tweet_count": "203K Tweets"
   },
   {
     "name": "#VaccineSideEffects",
     "query": "#VaccineSideEffects",
     "rank": 15,
-    "tweet_count": "7,706 Tweets"
+    "tweet_count": "8,006 Tweets"
   },
   {
-    "name": "Pelosi",
-    "query": "Pelosi",
+    "name": "Monty",
+    "query": "Monty",
     "rank": 16,
-    "tweet_count": "42.3K Tweets"
+    "tweet_count": "10.2K Tweets"
+  },
+  {
+    "name": "#BKNvsTOR",
+    "query": "#BKNvsTOR",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "#DragRaceUK",
+    "query": "#DragRaceUK",
+    "rank": 18,
+    "tweet_count": "13.3K Tweets"
+  },
+  {
+    "name": "Montembeault",
+    "query": "Montembeault",
+    "rank": 19,
+    "tweet_count": null
   },
   {
     "name": "Pascal",
     "query": "Pascal",
-    "rank": 17,
-    "tweet_count": "16.3K Tweets"
-  },
-  {
-    "name": "Siakam",
-    "query": "Siakam",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "#RHONJ",
-    "query": "#RHONJ",
-    "rank": 19,
-    "tweet_count": "9,572 Tweets"
-  },
-  {
-    "name": "Hellebuyck",
-    "query": "Hellebuyck",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "16.6K Tweets"
   }
 ]
