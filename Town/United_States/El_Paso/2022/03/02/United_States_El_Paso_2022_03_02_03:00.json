@@ -1,15 +1,15 @@
 [
   {
-    "name": "Republican",
-    "query": "Republican",
+    "name": "Dwight Howard",
+    "query": "\"Dwight Howard\"",
     "rank": 1,
-    "tweet_count": "237K Tweets"
+    "tweet_count": "1,226 Tweets"
   },
   {
-    "name": "Kansas",
-    "query": "Kansas",
+    "name": "Democratic",
+    "query": "Democratic",
     "rank": 2,
-    "tweet_count": "16.1K Tweets"
+    "tweet_count": "117K Tweets"
   },
   {
     "name": "Sengun",
@@ -18,34 +18,34 @@
     "tweet_count": null
   },
   {
+    "name": "Kansas",
+    "query": "Kansas",
+    "rank": 4,
+    "tweet_count": "16.7K Tweets"
+  },
+  {
     "name": "Silas",
     "query": "Silas",
-    "rank": 4,
-    "tweet_count": "3,186 Tweets"
-  },
-  {
-    "name": "Democratic",
-    "query": "Democratic",
     "rank": 5,
-    "tweet_count": "112K Tweets"
-  },
-  {
-    "name": "Guzman",
-    "query": "Guzman",
-    "rank": 6,
-    "tweet_count": "7,537 Tweets"
+    "tweet_count": "3,246 Tweets"
   },
   {
     "name": "Paxton",
     "query": "Paxton",
-    "rank": 7,
-    "tweet_count": "9,209 Tweets"
+    "rank": 6,
+    "tweet_count": "9,421 Tweets"
   },
   {
     "name": "Frogs",
     "query": "Frogs",
+    "rank": 7,
+    "tweet_count": "6,417 Tweets"
+  },
+  {
+    "name": "Guzman",
+    "query": "Guzman",
     "rank": 8,
-    "tweet_count": "6,177 Tweets"
+    "tweet_count": "7,756 Tweets"
   },
   {
     "name": "Zubac",
@@ -57,54 +57,54 @@
     "name": "Huffines",
     "query": "Huffines",
     "rank": 10,
-    "tweet_count": "2,150 Tweets"
-  },
-  {
-    "name": "#MLBPA",
-    "query": "#MLBPA",
-    "rank": 11,
-    "tweet_count": "7,522 Tweets"
+    "tweet_count": "2,173 Tweets"
   },
   {
     "name": "Normani",
     "query": "Normani",
-    "rank": 12,
-    "tweet_count": "31.5K Tweets"
-  },
-  {
-    "name": "#Election2022",
-    "query": "#Election2022",
-    "rank": 13,
-    "tweet_count": "3,870 Tweets"
+    "rank": 11,
+    "tweet_count": "31.9K Tweets"
   },
   {
     "name": "Cain",
     "query": "Cain",
-    "rank": 14,
-    "tweet_count": "23.5K Tweets"
+    "rank": 12,
+    "tweet_count": "24.2K Tweets"
   },
   {
     "name": "Fat Tuesday",
     "query": "\"Fat Tuesday\"",
+    "rank": 13,
+    "tweet_count": "21.6K Tweets"
+  },
+  {
+    "name": "#Election2022",
+    "query": "#Election2022",
+    "rank": 14,
+    "tweet_count": "3,946 Tweets"
+  },
+  {
+    "name": "Trae",
+    "query": "Trae",
     "rank": 15,
-    "tweet_count": "21.3K Tweets"
+    "tweet_count": "30.5K Tweets"
   },
   {
-    "name": "#TheBatman",
-    "query": "#TheBatman",
+    "name": "Travis County",
+    "query": "\"Travis County\"",
     "rank": 16,
-    "tweet_count": "98.9K Tweets"
-  },
-  {
-    "name": "#WomensHistoryMonth",
-    "query": "#WomensHistoryMonth",
-    "rank": 17,
-    "tweet_count": "72.6K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Bexar County",
     "query": "\"Bexar County\"",
+    "rank": 17,
+    "tweet_count": "1,418 Tweets"
+  },
+  {
+    "name": "Baseball",
+    "query": "Baseball",
     "rank": 18,
-    "tweet_count": "1,384 Tweets"
+    "tweet_count": "185K Tweets"
   }
 ]
