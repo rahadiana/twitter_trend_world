@@ -1,27 +1,27 @@
 [
   {
+    "name": "#Lanz",
+    "query": "#Lanz",
+    "rank": 1,
+    "tweet_count": "2,112 Tweets"
+  },
+  {
     "name": "#UkraineKrieg",
     "query": "#UkraineKrieg",
-    "rank": 1,
-    "tweet_count": "55.4K Tweets"
+    "rank": 2,
+    "tweet_count": "56.1K Tweets"
   },
   {
     "name": "#FCUFCSP",
     "query": "#FCUFCSP",
-    "rank": 2,
-    "tweet_count": "2,625 Tweets"
+    "rank": 3,
+    "tweet_count": "2,627 Tweets"
   },
   {
     "name": "Putin",
     "query": "Putin",
-    "rank": 3,
-    "tweet_count": "2.8M Tweets"
-  },
-  {
-    "name": "#DFBPokal",
-    "query": "#DFBPokal",
     "rank": 4,
-    "tweet_count": "1,817 Tweets"
+    "tweet_count": "2.94M Tweets"
   },
   {
     "name": "#prominentgetrennt",
@@ -30,22 +30,22 @@
     "tweet_count": "1,673 Tweets"
   },
   {
-    "name": "#Woelki",
-    "query": "#Woelki",
+    "name": "#DFBPokal",
+    "query": "#DFBPokal",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "1,826 Tweets"
   },
   {
     "name": "Wehrpflicht",
     "query": "Wehrpflicht",
     "rank": 7,
-    "tweet_count": "8,623 Tweets"
+    "tweet_count": "8,729 Tweets"
   },
   {
     "name": "Russen",
     "query": "Russen",
     "rank": 8,
-    "tweet_count": "33.2K Tweets"
+    "tweet_count": "33.6K Tweets"
   },
   {
     "name": "Fastenzeit",
@@ -63,60 +63,60 @@
     "name": "Russian",
     "query": "Russian",
     "rank": 11,
-    "tweet_count": "2.86M Tweets"
+    "tweet_count": "2.76M Tweets"
   },
   {
     "name": "Flüchtlinge",
     "query": "Flüchtlinge",
     "rank": 12,
-    "tweet_count": "12.1K Tweets"
+    "tweet_count": "12.2K Tweets"
   },
   {
-    "name": "Papst",
-    "query": "Papst",
+    "name": "Dienstpflicht",
+    "query": "Dienstpflicht",
     "rank": 13,
-    "tweet_count": "1,053 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Konvoi",
     "query": "Konvoi",
     "rank": 14,
-    "tweet_count": "2,979 Tweets"
-  },
-  {
-    "name": "Dienstpflicht",
-    "query": "Dienstpflicht",
-    "rank": 15,
-    "tweet_count": null
+    "tweet_count": "2,994 Tweets"
   },
   {
     "name": "Zivildienst",
     "query": "Zivildienst",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Danke für die Warnung",
-    "query": "\"Danke für die Warnung\"",
-    "rank": 17,
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "Bergfest",
     "query": "Bergfest",
-    "rank": 18,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Wochenteiler",
     "query": "Wochenteiler",
-    "rank": 19,
+    "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Nebenwirkungen",
-    "query": "Nebenwirkungen",
+    "name": "Papst",
+    "query": "Papst",
+    "rank": 18,
+    "tweet_count": "1,074 Tweets"
+  },
+  {
+    "name": "Waffen",
+    "query": "Waffen",
+    "rank": 19,
+    "tweet_count": "11.8K Tweets"
+  },
+  {
+    "name": "Danke für die Warnung",
+    "query": "\"Danke für die Warnung\"",
     "rank": 20,
-    "tweet_count": "15.1K Tweets"
+    "tweet_count": null
   }
 ]
