@@ -1,15 +1,15 @@
 [
   {
-    "name": "#BOCSCF",
-    "query": "#BOCSCF",
-    "rank": 1,
-    "tweet_count": "1,860 Tweets"
-  },
-  {
     "name": "#Lanz",
     "query": "#Lanz",
+    "rank": 1,
+    "tweet_count": "2,377 Tweets"
+  },
+  {
+    "name": "#BOCSCF",
+    "query": "#BOCSCF",
     "rank": 2,
-    "tweet_count": "2,036 Tweets"
+    "tweet_count": "1,874 Tweets"
   },
   {
     "name": "#Stegner",
@@ -18,16 +18,16 @@
     "tweet_count": null
   },
   {
-    "name": "Freiburg",
-    "query": "Freiburg",
+    "name": "freiburg",
+    "query": "freiburg",
     "rank": 4,
-    "tweet_count": "2,122 Tweets"
+    "tweet_count": "2,151 Tweets"
   },
   {
-    "name": "Bochum",
-    "query": "Bochum",
+    "name": "bochum",
+    "query": "bochum",
     "rank": 5,
-    "tweet_count": "2,071 Tweets"
+    "tweet_count": "2,090 Tweets"
   },
   {
     "name": "Elfmeterschießen",
@@ -42,16 +42,16 @@
     "tweet_count": null
   },
   {
-    "name": "Chelsea",
-    "query": "Chelsea",
-    "rank": 8,
-    "tweet_count": "375K Tweets"
-  },
-  {
     "name": "Elfer",
     "query": "Elfer",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
+  },
+  {
+    "name": "Chelsea",
+    "query": "Chelsea",
+    "rank": 9,
+    "tweet_count": "380K Tweets"
   },
   {
     "name": "Abitur",
@@ -60,14 +60,14 @@
     "tweet_count": null
   },
   {
-    "name": "Kirchenglocken",
-    "query": "Kirchenglocken",
-    "rank": 11,
-    "tweet_count": "1,704 Tweets"
-  },
-  {
     "name": "Verlängerung",
     "query": "Verlängerung",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "Glocken",
+    "query": "Glocken",
     "rank": 12,
     "tweet_count": null
   },
@@ -81,23 +81,23 @@
     "name": "Lichter",
     "query": "Lichter",
     "rank": 14,
-    "tweet_count": "1,458 Tweets"
-  },
-  {
-    "name": "Dunkeln",
-    "query": "Dunkeln",
-    "rank": 15,
-    "tweet_count": "1,250 Tweets"
-  },
-  {
-    "name": "Enthaltungen",
-    "query": "Enthaltungen",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "1,465 Tweets"
   },
   {
     "name": "Schiedsrichter",
     "query": "Schiedsrichter",
+    "rank": 15,
+    "tweet_count": null
+  },
+  {
+    "name": "Dunkeln",
+    "query": "Dunkeln",
+    "rank": 16,
+    "tweet_count": "1,255 Tweets"
+  },
+  {
+    "name": "Enthaltungen",
+    "query": "Enthaltungen",
     "rank": 17,
     "tweet_count": null
   },
