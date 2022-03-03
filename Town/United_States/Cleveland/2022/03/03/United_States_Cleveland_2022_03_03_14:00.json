@@ -1,116 +1,122 @@
 [
   {
-    "name": "Cavs",
-    "query": "Cavs",
+    "name": "cavs",
+    "query": "cavs",
     "rank": 1,
-    "tweet_count": "10.1K Tweets"
+    "tweet_count": "10.2K Tweets"
   },
   {
     "name": "#TheBatman",
     "query": "#TheBatman",
     "rank": 2,
-    "tweet_count": "147K Tweets"
+    "tweet_count": "148K Tweets"
   },
   {
     "name": "LSAT",
     "query": "LSAT",
     "rank": 3,
-    "tweet_count": "79.6K Tweets"
+    "tweet_count": "81.5K Tweets"
   },
   {
     "name": "#thursdayvibes",
     "query": "#thursdayvibes",
     "rank": 4,
-    "tweet_count": "11.4K Tweets"
+    "tweet_count": "11.9K Tweets"
   },
   {
     "name": "#WorldBookDay",
     "query": "#WorldBookDay",
     "rank": 5,
-    "tweet_count": "88.3K Tweets"
-  },
-  {
-    "name": "#StandWithUkraine️",
-    "query": "#StandWithUkraine️",
-    "rank": 6,
-    "tweet_count": "24.9K Tweets"
+    "tweet_count": "90.9K Tweets"
   },
   {
     "name": "Lavrov",
     "query": "Lavrov",
+    "rank": 6,
+    "tweet_count": "105K Tweets"
+  },
+  {
+    "name": "#Wordle257",
+    "query": "#Wordle257",
     "rank": 7,
-    "tweet_count": "103K Tweets"
+    "tweet_count": "4,226 Tweets"
+  },
+  {
+    "name": "#WorldWildlifeDay",
+    "query": "#WorldWildlifeDay",
+    "rank": 8,
+    "tweet_count": "49.6K Tweets"
   },
   {
     "name": "Pete Davidson",
     "query": "\"Pete Davidson\"",
-    "rank": 8,
-    "tweet_count": "20.3K Tweets"
+    "rank": 9,
+    "tweet_count": "20.9K Tweets"
   },
   {
     "name": "DeSantis",
     "query": "DeSantis",
-    "rank": 9,
-    "tweet_count": "310K Tweets"
+    "rank": 10,
+    "tweet_count": "313K Tweets"
   },
   {
     "name": "Merrick Garland",
     "query": "\"Merrick Garland\"",
-    "rank": 10,
-    "tweet_count": "18.2K Tweets"
+    "rank": 11,
+    "tweet_count": "19.4K Tweets"
+  },
+  {
+    "name": "Ski Mask Way",
+    "query": "\"Ski Mask Way\"",
+    "rank": 12,
+    "tweet_count": null
   },
   {
     "name": "Dolly",
     "query": "Dolly",
-    "rank": 11,
-    "tweet_count": "15.2K Tweets"
-  },
-  {
-    "name": "Notifications",
-    "query": "Notifications",
-    "rank": 12,
-    "tweet_count": "128K Tweets"
-  },
-  {
-    "name": "Utley",
-    "query": "Utley",
     "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Armaldo",
-    "query": "Armaldo",
-    "rank": 14,
-    "tweet_count": "5,564 Tweets"
+    "tweet_count": "15.6K Tweets"
   },
   {
     "name": "Khashoggi",
     "query": "Khashoggi",
+    "rank": 14,
+    "tweet_count": "1,314 Tweets"
+  },
+  {
+    "name": "Armaldo",
+    "query": "Armaldo",
     "rank": 15,
-    "tweet_count": "1,214 Tweets"
+    "tweet_count": "5,646 Tweets"
+  },
+  {
+    "name": "Notifications",
+    "query": "Notifications",
+    "rank": 16,
+    "tweet_count": "130K Tweets"
+  },
+  {
+    "name": "Utley",
+    "query": "Utley",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Eastman",
+    "query": "Eastman",
+    "rank": 18,
+    "tweet_count": "59.2K Tweets"
   },
   {
     "name": "seungkwan",
     "query": "seungkwan",
-    "rank": 16,
-    "tweet_count": "84.7K Tweets"
-  },
-  {
-    "name": "Happy 5th",
-    "query": "\"Happy 5th\"",
-    "rank": 17,
-    "tweet_count": "5,554 Tweets"
-  },
-  {
-    "name": "Feliz Jueves",
-    "query": "\"Feliz Jueves\"",
-    "rank": 18,
-    "tweet_count": "17.4K Tweets"
-  },
-  {
-    "name": "Tyler Linderbaum",
-    "query": "\"Tyler Linderbaum\"",
     "rank": 19,
+    "tweet_count": "86.4K Tweets"
+  },
+  {
+    "name": "tyler linderbaum",
+    "query": "\"tyler linderbaum\"",
+    "rank": 20,
     "tweet_count": null
   }
 ]
