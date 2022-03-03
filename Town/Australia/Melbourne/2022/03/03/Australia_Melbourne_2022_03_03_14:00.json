@@ -1,67 +1,67 @@
 [
   {
+    "name": "#AAMISeries",
+    "query": "#AAMISeries",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "#QandA",
     "query": "#QandA",
-    "rank": 1,
-    "tweet_count": "5,248 Tweets"
+    "rank": 2,
+    "tweet_count": "5,269 Tweets"
   },
   {
     "name": "Mehdi",
     "query": "Mehdi",
-    "rank": 2,
-    "tweet_count": "11.8K Tweets"
-  },
-  {
-    "name": "Stan Grant",
-    "query": "\"Stan Grant\"",
     "rank": 3,
-    "tweet_count": "1,830 Tweets"
+    "tweet_count": "11.9K Tweets"
   },
   {
-    "name": "nikita tszyu",
-    "query": "\"nikita tszyu\"",
+    "name": "Nikita Tszyu",
+    "query": "\"Nikita Tszyu\"",
     "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "#TszyuStahl",
-    "query": "#TszyuStahl",
+    "name": "Stan Grant",
+    "query": "\"Stan Grant\"",
     "rank": 5,
+    "tweet_count": "1,846 Tweets"
+  },
+  {
+    "name": "#tszyustahl",
+    "query": "#tszyustahl",
+    "rank": 6,
     "tweet_count": null
   },
   {
     "name": "McDonald",
     "query": "McDonald",
-    "rank": 6,
-    "tweet_count": "16K Tweets"
+    "rank": 7,
+    "tweet_count": "16.2K Tweets"
   },
   {
     "name": "cripps",
     "query": "cripps",
-    "rank": 7,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Neighbours",
     "query": "Neighbours",
-    "rank": 8,
-    "tweet_count": "31.3K Tweets"
+    "rank": 9,
+    "tweet_count": "31.7K Tweets"
   },
   {
     "name": "Carlton",
     "query": "Carlton",
-    "rank": 9,
-    "tweet_count": "4,286 Tweets"
-  },
-  {
-    "name": "#AAMISeries",
-    "query": "#AAMISeries",
     "rank": 10,
-    "tweet_count": null
+    "tweet_count": "4,376 Tweets"
   },
   {
-    "name": "Enmore",
-    "query": "Enmore",
+    "name": "enmore",
+    "query": "enmore",
     "rank": 11,
     "tweet_count": null
   },
@@ -75,48 +75,48 @@
     "name": "Kennedy",
     "query": "Kennedy",
     "rank": 13,
-    "tweet_count": "18.7K Tweets"
-  },
-  {
-    "name": "Hewett",
-    "query": "Hewett",
-    "rank": 14,
-    "tweet_count": null
+    "tweet_count": "19K Tweets"
   },
   {
     "name": "The Batman",
     "query": "\"The Batman\"",
+    "rank": 14,
+    "tweet_count": "133K Tweets"
+  },
+  {
+    "name": "Wishing",
+    "query": "Wishing",
     "rank": 15,
-    "tweet_count": "131K Tweets"
+    "tweet_count": "92.6K Tweets"
   },
   {
     "name": "Hobi",
     "query": "Hobi",
     "rank": 16,
-    "tweet_count": "67.5K Tweets"
+    "tweet_count": "69.1K Tweets"
   },
   {
-    "name": "Wishing",
-    "query": "Wishing",
+    "name": "#IStandWithPutin",
+    "query": "#IStandWithPutin",
     "rank": 17,
-    "tweet_count": "91.2K Tweets"
-  },
-  {
-    "name": "Blues",
-    "query": "Blues",
-    "rank": 18,
-    "tweet_count": "59.6K Tweets"
+    "tweet_count": "142K Tweets"
   },
   {
     "name": "McGowan",
     "query": "McGowan",
+    "rank": 18,
+    "tweet_count": "3,094 Tweets"
+  },
+  {
+    "name": "Blues",
+    "query": "Blues",
     "rank": 19,
-    "tweet_count": "3,045 Tweets"
+    "tweet_count": "60.4K Tweets"
   },
   {
     "name": "Hillsong",
     "query": "Hillsong",
     "rank": 20,
-    "tweet_count": "3,670 Tweets"
+    "tweet_count": "3,695 Tweets"
   }
 ]
