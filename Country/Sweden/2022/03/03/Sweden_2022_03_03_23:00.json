@@ -1,39 +1,39 @@
 [
   {
-    "name": "Luleå",
-    "query": "Luleå",
+    "name": "#fbkse",
+    "query": "#fbkse",
     "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "luleå",
+    "query": "luleå",
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#UkraineRussianWar",
     "query": "#UkraineRussianWar",
-    "rank": 2,
-    "tweet_count": "122K Tweets"
+    "rank": 3,
+    "tweet_count": "125K Tweets"
   },
   {
     "name": "#StandWithUkraine️",
     "query": "#StandWithUkraine️",
-    "rank": 3,
-    "tweet_count": "85.2K Tweets"
+    "rank": 4,
+    "tweet_count": "87.1K Tweets"
   },
   {
-    "name": "#fbkse",
-    "query": "#fbkse",
-    "rank": 4,
+    "name": "Timrå",
+    "query": "Timrå",
+    "rank": 5,
     "tweet_count": null
   },
   {
     "name": "IKEA",
     "query": "IKEA",
-    "rank": 5,
-    "tweet_count": "65.6K Tweets"
-  },
-  {
-    "name": "timrå",
-    "query": "timrå",
     "rank": 6,
-    "tweet_count": null
+    "tweet_count": "66.6K Tweets"
   },
   {
     "name": "Växjö",
@@ -48,20 +48,20 @@
     "tweet_count": null
   },
   {
-    "name": "Batman",
-    "query": "Batman",
-    "rank": 9,
-    "tweet_count": "319K Tweets"
-  },
-  {
     "name": "Färjestad",
     "query": "Färjestad",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Odenberg",
-    "query": "Odenberg",
+    "name": "Batman",
+    "query": "Batman",
+    "rank": 10,
+    "tweet_count": "325K Tweets"
+  },
+  {
+    "name": "odenberg",
+    "query": "odenberg",
     "rank": 11,
     "tweet_count": null
   },
@@ -69,54 +69,54 @@
     "name": "Claesson",
     "query": "Claesson",
     "rank": 12,
-    "tweet_count": "2,211 Tweets"
-  },
-  {
-    "name": "Sonesson",
-    "query": "Sonesson",
-    "rank": 13,
-    "tweet_count": null
+    "tweet_count": "2,255 Tweets"
   },
   {
     "name": "Super League",
     "query": "\"Super League\"",
+    "rank": 13,
+    "tweet_count": "35.9K Tweets"
+  },
+  {
+    "name": "sonesson",
+    "query": "sonesson",
     "rank": 14,
-    "tweet_count": "35.7K Tweets"
+    "tweet_count": null
   },
   {
     "name": "Syrien",
     "query": "Syrien",
     "rank": 15,
-    "tweet_count": "7,710 Tweets"
+    "tweet_count": "7,769 Tweets"
   },
   {
     "name": "mantas",
     "query": "mantas",
     "rank": 16,
-    "tweet_count": "1,525 Tweets"
+    "tweet_count": "1,540 Tweets"
   },
   {
-    "name": "Gotland",
-    "query": "Gotland",
+    "name": "gotland",
+    "query": "gotland",
     "rank": 17,
-    "tweet_count": "7,140 Tweets"
-  },
-  {
-    "name": "Nils van der Poel",
-    "query": "\"Nils van der Poel\"",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "peter andersson",
-    "query": "\"peter andersson\"",
-    "rank": 19,
-    "tweet_count": null
+    "tweet_count": "7,209 Tweets"
   },
   {
     "name": "#StopPutinNOW",
     "query": "#StopPutinNOW",
+    "rank": 18,
+    "tweet_count": "113K Tweets"
+  },
+  {
+    "name": "Nils van der Poel",
+    "query": "\"Nils van der Poel\"",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "oskarshamn",
+    "query": "oskarshamn",
     "rank": 20,
-    "tweet_count": "112K Tweets"
+    "tweet_count": null
   }
 ]
