@@ -3,7 +3,7 @@
     "name": "Эхо Москвы",
     "query": "\"Эхо Москвы\"",
     "rank": 1,
-    "tweet_count": "6,299 Tweets"
+    "tweet_count": "6,224 Tweets"
   },
   {
     "name": "#чд14",
@@ -15,11 +15,11 @@
     "name": "#карамора",
     "query": "#карамора",
     "rank": 3,
-    "tweet_count": "1,127 Tweets"
+    "tweet_count": "1,142 Tweets"
   },
   {
-    "name": "#сочицска",
-    "query": "#сочицска",
+    "name": "QR-коды",
+    "query": "QR-коды",
     "rank": 4,
     "tweet_count": null
   },
@@ -27,96 +27,96 @@
     "name": "Украине",
     "query": "Украине",
     "rank": 5,
-    "tweet_count": "103K Tweets"
-  },
-  {
-    "name": "QR-коды",
-    "query": "QR-коды",
-    "rank": 6,
-    "tweet_count": null
-  },
-  {
-    "name": "#yobit",
-    "query": "#yobit",
-    "rank": 7,
-    "tweet_count": "2,435 Tweets"
-  },
-  {
-    "name": "QR-кодов",
-    "query": "QR-кодов",
-    "rank": 8,
-    "tweet_count": null
+    "tweet_count": "107K Tweets"
   },
   {
     "name": "Apple",
     "query": "Apple",
-    "rank": 9,
-    "tweet_count": "452K Tweets"
+    "rank": 6,
+    "tweet_count": "442K Tweets"
+  },
+  {
+    "name": "QR-кодов",
+    "query": "QR-кодов",
+    "rank": 7,
+    "tweet_count": null
   },
   {
     "name": "#коточетверг",
     "query": "#коточетверг",
-    "rank": 10,
+    "rank": 8,
     "tweet_count": null
+  },
+  {
+    "name": "#StopPutinNOW",
+    "query": "#StopPutinNOW",
+    "rank": 9,
+    "tweet_count": "118K Tweets"
+  },
+  {
+    "name": "Макрона",
+    "query": "Макрона",
+    "rank": 10,
+    "tweet_count": "2,578 Tweets"
   },
   {
     "name": "Brent",
     "query": "Brent",
     "rank": 11,
-    "tweet_count": "33.1K Tweets"
+    "tweet_count": "33.8K Tweets"
   },
   {
-    "name": "эритрея",
-    "query": "эритрея",
+    "name": "ИКЕА",
+    "query": "ИКЕА",
     "rank": 12,
-    "tweet_count": "5,326 Tweets"
+    "tweet_count": "1,376 Tweets"
   },
   {
-    "name": "427% APY",
-    "query": "\"427% APY\"",
+    "name": "#yobit",
+    "query": "#yobit",
     "rank": 13,
-    "tweet_count": "1,143 Tweets"
-  },
-  {
-    "name": "OneWeb",
-    "query": "OneWeb",
-    "rank": 14,
-    "tweet_count": "9,968 Tweets"
-  },
-  {
-    "name": "Усманова",
-    "query": "Усманова",
-    "rank": 15,
-    "tweet_count": "7,768 Tweets"
-  },
-  {
-    "name": "Беловежской",
-    "query": "Беловежской",
-    "rank": 16,
-    "tweet_count": "1,351 Tweets"
-  },
-  {
-    "name": "думаешь",
-    "query": "думаешь",
-    "rank": 17,
-    "tweet_count": "1,493 Tweets"
-  },
-  {
-    "name": "IKEA",
-    "query": "IKEA",
-    "rank": 18,
-    "tweet_count": "37.7K Tweets"
+    "tweet_count": "2,341 Tweets"
   },
   {
     "name": "России и Белоруссии",
     "query": "\"России и Белоруссии\"",
-    "rank": 19,
-    "tweet_count": "1,875 Tweets"
+    "rank": 14,
+    "tweet_count": "1,794 Tweets"
   },
   {
-    "name": "рогозин",
-    "query": "рогозин",
+    "name": "IKEA",
+    "query": "IKEA",
+    "rank": 15,
+    "tweet_count": "41.1K Tweets"
+  },
+  {
+    "name": "Эритрея",
+    "query": "Эритрея",
+    "rank": 16,
+    "tweet_count": "5,345 Tweets"
+  },
+  {
+    "name": "OneWeb",
+    "query": "OneWeb",
+    "rank": 17,
+    "tweet_count": "9,221 Tweets"
+  },
+  {
+    "name": "427% APY",
+    "query": "\"427% APY\"",
+    "rank": 18,
+    "tweet_count": "1,094 Tweets"
+  },
+  {
+    "name": "Усманова",
+    "query": "Усманова",
+    "rank": 19,
+    "tweet_count": "7,853 Tweets"
+  },
+  {
+    "name": "херсон",
+    "query": "херсон",
     "rank": 20,
-    "tweet_count": "5,653 Tweets"
+    "tweet_count": "8,279 Tweets"
   }
 ]
