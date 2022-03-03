@@ -1,13 +1,13 @@
 [
   {
-    "name": "#CluGnt",
-    "query": "#CluGnt",
+    "name": "#CLUGNT",
+    "query": "#CLUGNT",
     "rank": 1,
-    "tweet_count": "1,516 Tweets"
+    "tweet_count": "1,517 Tweets"
   },
   {
-    "name": "#Crokycup",
-    "query": "#Crokycup",
+    "name": "#CrokyCup",
+    "query": "#CrokyCup",
     "rank": 2,
     "tweet_count": null
   },
@@ -21,19 +21,19 @@
     "name": "#UkraineRussianWar",
     "query": "#UkraineRussianWar",
     "rank": 4,
-    "tweet_count": "52.5K Tweets"
-  },
-  {
-    "name": "#Macron20h",
-    "query": "#Macron20h",
-    "rank": 5,
-    "tweet_count": "72.9K Tweets"
+    "tweet_count": "53.9K Tweets"
   },
   {
     "name": "Batman",
     "query": "Batman",
+    "rank": 5,
+    "tweet_count": "312K Tweets"
+  },
+  {
+    "name": "#Macron20h",
+    "query": "#Macron20h",
     "rank": 6,
-    "tweet_count": "309K Tweets"
+    "tweet_count": "73.2K Tweets"
   },
   {
     "name": "Pierre Pernaut",
@@ -42,10 +42,10 @@
     "tweet_count": "156K Tweets"
   },
   {
-    "name": "Odoi",
-    "query": "Odoi",
+    "name": "odoi",
+    "query": "odoi",
     "rank": 8,
-    "tweet_count": "3,045 Tweets"
+    "tweet_count": "3,057 Tweets"
   },
   {
     "name": "Mignolet",
@@ -63,7 +63,7 @@
     "name": "Kristof",
     "query": "Kristof",
     "rank": 11,
-    "tweet_count": "2,554 Tweets"
+    "tweet_count": "2,570 Tweets"
   },
   {
     "name": "Jan Jambon",
@@ -72,51 +72,51 @@
     "tweet_count": null
   },
   {
+    "name": "Eritrea",
+    "query": "Eritrea",
+    "rank": 13,
+    "tweet_count": "76.6K Tweets"
+  },
+  {
     "name": "Sincères",
     "query": "Sincères",
-    "rank": 13,
-    "tweet_count": "5,593 Tweets"
+    "rank": 14,
+    "tweet_count": "5,613 Tweets"
+  },
+  {
+    "name": "IKEA",
+    "query": "IKEA",
+    "rank": 15,
+    "tweet_count": "23.2K Tweets"
   },
   {
     "name": "Roman Abramovich",
     "query": "\"Roman Abramovich\"",
-    "rank": 14,
-    "tweet_count": "227K Tweets"
-  },
-  {
-    "name": "Eritrea",
-    "query": "Eritrea",
-    "rank": 15,
-    "tweet_count": "76.3K Tweets"
-  },
-  {
-    "name": "Riziv",
-    "query": "Riziv",
     "rank": 16,
+    "tweet_count": "228K Tweets"
+  },
+  {
+    "name": "riziv",
+    "query": "riziv",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Vanaken",
+    "query": "Vanaken",
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Gent",
     "query": "Gent",
-    "rank": 17,
-    "tweet_count": "18.1K Tweets"
-  },
-  {
-    "name": "vanaken",
-    "query": "vanaken",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "latijn",
-    "query": "latijn",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "18.2K Tweets"
   },
   {
-    "name": "Sputnik",
-    "query": "Sputnik",
+    "name": "Latijn",
+    "query": "Latijn",
     "rank": 20,
-    "tweet_count": "57.5K Tweets"
+    "tweet_count": null
   }
 ]
