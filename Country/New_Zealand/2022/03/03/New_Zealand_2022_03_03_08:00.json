@@ -1,39 +1,39 @@
 [
   {
-    "name": "Antifa",
-    "query": "Antifa",
-    "rank": 1,
-    "tweet_count": "13.5K Tweets"
-  },
-  {
     "name": "Bobby",
     "query": "Bobby",
-    "rank": 2,
-    "tweet_count": "30.5K Tweets"
+    "rank": 1,
+    "tweet_count": "31K Tweets"
   },
   {
-    "name": "Parliament",
-    "query": "Parliament",
-    "rank": 3,
-    "tweet_count": "160K Tweets"
+    "name": "Antifa",
+    "query": "Antifa",
+    "rank": 2,
+    "tweet_count": "13.6K Tweets"
   },
   {
     "name": "Wainuiomata",
     "query": "Wainuiomata",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
+  },
+  {
+    "name": "Parliament",
+    "query": "Parliament",
+    "rank": 4,
+    "tweet_count": "162K Tweets"
   },
   {
     "name": "Mallard",
     "query": "Mallard",
     "rank": 5,
-    "tweet_count": "1,059 Tweets"
+    "tweet_count": "1,068 Tweets"
   },
   {
-    "name": "Chantelle",
-    "query": "Chantelle",
+    "name": "Chantelle Baker",
+    "query": "\"Chantelle Baker\"",
     "rank": 6,
-    "tweet_count": "3,480 Tweets"
+    "tweet_count": "1,309 Tweets"
   },
   {
     "name": "#Clownvoy2022NZ",
@@ -51,13 +51,13 @@
     "name": "Sleepyhead",
     "query": "Sleepyhead",
     "rank": 9,
-    "tweet_count": "1,031 Tweets"
+    "tweet_count": "1,046 Tweets"
   },
   {
     "name": "Bandcamp",
     "query": "Bandcamp",
     "rank": 10,
-    "tweet_count": "55.9K Tweets"
+    "tweet_count": "56.3K Tweets"
   },
   {
     "name": "#NZpolice",
@@ -66,16 +66,16 @@
     "tweet_count": null
   },
   {
-    "name": "Marae",
-    "query": "Marae",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
     "name": "Dogger",
     "query": "Dogger",
+    "rank": 12,
+    "tweet_count": "3,092 Tweets"
+  },
+  {
+    "name": "Marae",
+    "query": "Marae",
     "rank": 13,
-    "tweet_count": "3,069 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Coster",
@@ -99,24 +99,24 @@
     "name": "Jordan",
     "query": "Jordan",
     "rank": 17,
-    "tweet_count": "91.4K Tweets"
+    "tweet_count": "92.1K Tweets"
   },
   {
     "name": "Peaceful",
     "query": "Peaceful",
     "rank": 18,
-    "tweet_count": "103K Tweets"
+    "tweet_count": "105K Tweets"
   },
   {
     "name": "Pfizer",
     "query": "Pfizer",
     "rank": 19,
-    "tweet_count": "262K Tweets"
+    "tweet_count": "264K Tweets"
   },
   {
     "name": "Epic Games",
     "query": "\"Epic Games\"",
     "rank": 20,
-    "tweet_count": "16.7K Tweets"
+    "tweet_count": "16.8K Tweets"
   }
 ]
