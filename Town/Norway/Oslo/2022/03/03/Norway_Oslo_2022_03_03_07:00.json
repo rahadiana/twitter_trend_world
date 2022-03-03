@@ -12,16 +12,16 @@
     "tweet_count": null
   },
   {
-    "name": "Roman Abramovich",
-    "query": "\"Roman Abramovich\"",
-    "rank": 3,
-    "tweet_count": "229K Tweets"
-  },
-  {
     "name": "Glimt",
     "query": "Glimt",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": "1,042 Tweets"
+  },
+  {
+    "name": "Roman Abramovich",
+    "query": "\"Roman Abramovich\"",
+    "rank": 4,
+    "tweet_count": "231K Tweets"
   },
   {
     "name": "#polkvart",
@@ -57,13 +57,13 @@
     "name": "#FACup",
     "query": "#FACup",
     "rank": 10,
-    "tweet_count": "31K Tweets"
+    "tweet_count": "31.2K Tweets"
   },
   {
     "name": "#SAFEMOON32",
     "query": "#SAFEMOON32",
     "rank": 11,
-    "tweet_count": "55.4K Tweets"
+    "tweet_count": "55.5K Tweets"
   },
   {
     "name": "ropstad",
@@ -78,45 +78,45 @@
     "tweet_count": null
   },
   {
-    "name": "Russian",
-    "query": "Russian",
+    "name": "#UkraineRussianWar",
+    "query": "#UkraineRussianWar",
     "rank": 14,
-    "tweet_count": "2.25M Tweets"
-  },
-  {
-    "name": "#YNWA",
-    "query": "#YNWA",
-    "rank": 15,
-    "tweet_count": "5,714 Tweets"
+    "tweet_count": "42.4K Tweets"
   },
   {
     "name": "Norwich",
     "query": "Norwich",
-    "rank": 16,
-    "tweet_count": "26.7K Tweets"
+    "rank": 15,
+    "tweet_count": "26.9K Tweets"
   },
   {
     "name": "eliteserien",
     "query": "eliteserien",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
-  },
-  {
-    "name": "Eritrea",
-    "query": "Eritrea",
-    "rank": 18,
-    "tweet_count": "70.3K Tweets"
   },
   {
     "name": "Giske",
     "query": "Giske",
-    "rank": 19,
+    "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "North Korea",
-    "query": "\"North Korea\"",
+    "name": "Tottenham",
+    "query": "Tottenham",
+    "rank": 18,
+    "tweet_count": "19.6K Tweets"
+  },
+  {
+    "name": "Pfizer",
+    "query": "Pfizer",
+    "rank": 19,
+    "tweet_count": "269K Tweets"
+  },
+  {
+    "name": "Eritrea",
+    "query": "Eritrea",
     "rank": 20,
-    "tweet_count": "45.1K Tweets"
+    "tweet_count": "70.8K Tweets"
   }
 ]
