@@ -3,17 +3,17 @@
     "name": "#Lanz",
     "query": "#Lanz",
     "rank": 1,
-    "tweet_count": "2,377 Tweets"
+    "tweet_count": "2,417 Tweets"
   },
   {
     "name": "#BOCSCF",
     "query": "#BOCSCF",
     "rank": 2,
-    "tweet_count": "1,874 Tweets"
+    "tweet_count": "1,881 Tweets"
   },
   {
-    "name": "#Stegner",
-    "query": "#Stegner",
+    "name": "#stegner",
+    "query": "#stegner",
     "rank": 3,
     "tweet_count": null
   },
@@ -27,29 +27,29 @@
     "name": "Freiburg",
     "query": "Freiburg",
     "rank": 5,
-    "tweet_count": "2,150 Tweets"
+    "tweet_count": "2,158 Tweets"
   },
   {
     "name": "bochum",
     "query": "bochum",
     "rank": 6,
-    "tweet_count": "2,090 Tweets"
+    "tweet_count": "2,100 Tweets"
+  },
+  {
+    "name": "5sos",
+    "query": "5sos",
+    "rank": 7,
+    "tweet_count": "109K Tweets"
   },
   {
     "name": "Elfmeterschießen",
     "query": "Elfmeterschießen",
-    "rank": 7,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Halbfinale",
     "query": "Halbfinale",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "Elfer",
-    "query": "Elfer",
     "rank": 9,
     "tweet_count": null
   },
@@ -57,23 +57,23 @@
     "name": "Chelsea",
     "query": "Chelsea",
     "rank": 10,
-    "tweet_count": "380K Tweets"
+    "tweet_count": "382K Tweets"
   },
   {
-    "name": "Abitur",
-    "query": "Abitur",
+    "name": "Elfer",
+    "query": "Elfer",
     "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "abitur",
+    "query": "abitur",
+    "rank": 12,
     "tweet_count": null
   },
   {
     "name": "Verlängerung",
     "query": "Verlängerung",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Glocken",
-    "query": "Glocken",
     "rank": 13,
     "tweet_count": null
   },
@@ -87,7 +87,7 @@
     "name": "Lichter",
     "query": "Lichter",
     "rank": 15,
-    "tweet_count": "1,465 Tweets"
+    "tweet_count": "1,467 Tweets"
   },
   {
     "name": "Schiedsrichter",
@@ -99,7 +99,7 @@
     "name": "Dunkeln",
     "query": "Dunkeln",
     "rank": 17,
-    "tweet_count": "1,255 Tweets"
+    "tweet_count": "1,257 Tweets"
   },
   {
     "name": "Enthaltungen",
@@ -108,9 +108,9 @@
     "tweet_count": null
   },
   {
-    "name": "Kommentator",
-    "query": "Kommentator",
+    "name": "Epic",
+    "query": "Epic",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "91.5K Tweets"
   }
 ]
