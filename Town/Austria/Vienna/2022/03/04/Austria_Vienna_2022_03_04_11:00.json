@@ -1,15 +1,15 @@
 [
   {
-    "name": "#Mückstein",
-    "query": "#Mückstein",
+    "name": "#mueckstein",
+    "query": "#mueckstein",
     "rank": 1,
-    "tweet_count": "1,800 Tweets"
+    "tweet_count": "1,807 Tweets"
   },
   {
     "name": "#UkraineRussianWar",
     "query": "#UkraineRussianWar",
     "rank": 2,
-    "tweet_count": "206K Tweets"
+    "tweet_count": "209K Tweets"
   },
   {
     "name": "#gntm",
@@ -27,13 +27,13 @@
     "name": "#Zaporizhzhia",
     "query": "#Zaporizhzhia",
     "rank": 5,
-    "tweet_count": "100K Tweets"
+    "tweet_count": "101K Tweets"
   },
   {
     "name": "Rücktritt",
     "query": "Rücktritt",
     "rank": 6,
-    "tweet_count": "2,394 Tweets"
+    "tweet_count": "2,416 Tweets"
   },
   {
     "name": "anschober",
@@ -45,19 +45,19 @@
     "name": "Atomkraftwerk",
     "query": "Atomkraftwerk",
     "rank": 8,
-    "tweet_count": "9,488 Tweets"
-  },
-  {
-    "name": "Arzt",
-    "query": "Arzt",
-    "rank": 9,
-    "tweet_count": "2,002 Tweets"
+    "tweet_count": "9,671 Tweets"
   },
   {
     "name": "Beileid",
     "query": "Beileid",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
+  },
+  {
+    "name": "Arzt",
+    "query": "Arzt",
+    "rank": 10,
+    "tweet_count": "2,036 Tweets"
   },
   {
     "name": "persönliche erklärung",
@@ -117,6 +117,6 @@
     "name": "inzidenz",
     "query": "inzidenz",
     "rank": 20,
-    "tweet_count": "2,652 Tweets"
+    "tweet_count": "2,692 Tweets"
   }
 ]
