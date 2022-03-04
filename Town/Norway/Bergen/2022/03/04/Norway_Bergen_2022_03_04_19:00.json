@@ -1,7 +1,7 @@
 [
   {
-    "name": "Bodø",
-    "query": "Bodø",
+    "name": "#mesternesmester",
+    "query": "#mesternesmester",
     "rank": 1,
     "tweet_count": null
   },
@@ -12,8 +12,8 @@
     "tweet_count": null
   },
   {
-    "name": "Aafk",
-    "query": "Aafk",
+    "name": "Bodø",
+    "query": "Bodø",
     "rank": 3,
     "tweet_count": null
   },
@@ -24,8 +24,8 @@
     "tweet_count": null
   },
   {
-    "name": "#dax18",
-    "query": "#dax18",
+    "name": "Aafk",
+    "query": "Aafk",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,23 +33,23 @@
     "name": "#UkraineRussianWar",
     "query": "#UkraineRussianWar",
     "rank": 6,
-    "tweet_count": "245K Tweets"
+    "tweet_count": "248K Tweets"
+  },
+  {
+    "name": "#dax18",
+    "query": "#dax18",
+    "rank": 7,
+    "tweet_count": null
   },
   {
     "name": "Tsjernobyl",
     "query": "Tsjernobyl",
-    "rank": 7,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "Ranheim",
     "query": "Ranheim",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "Aalesund",
-    "query": "Aalesund",
     "rank": 9,
     "tweet_count": null
   },
@@ -57,7 +57,7 @@
     "name": "Fukushima",
     "query": "Fukushima",
     "rank": 10,
-    "tweet_count": "23.2K Tweets"
+    "tweet_count": "23.3K Tweets"
   },
   {
     "name": "Zaporizjzja",
@@ -66,14 +66,14 @@
     "tweet_count": null
   },
   {
-    "name": "#nrkdebatt",
-    "query": "#nrkdebatt",
+    "name": "Therese Johaug",
+    "query": "\"Therese Johaug\"",
     "rank": 12,
     "tweet_count": null
   },
   {
-    "name": "Therese Johaug",
-    "query": "\"Therese Johaug\"",
+    "name": "Aalesund",
+    "query": "Aalesund",
     "rank": 13,
     "tweet_count": null
   },
@@ -81,7 +81,7 @@
     "name": "Coca Cola",
     "query": "\"Coca Cola\"",
     "rank": 14,
-    "tweet_count": "76.2K Tweets"
+    "tweet_count": "78.4K Tweets"
   },
   {
     "name": "Nakstad",
@@ -90,27 +90,27 @@
     "tweet_count": null
   },
   {
-    "name": "Norway Cup",
-    "query": "\"Norway Cup\"",
+    "name": "Rekdal",
+    "query": "Rekdal",
     "rank": 16,
     "tweet_count": null
   },
   {
-    "name": "Rekdal",
-    "query": "Rekdal",
+    "name": "Norway Cup",
+    "query": "\"Norway Cup\"",
     "rank": 17,
     "tweet_count": null
   },
   {
-    "name": "Hovland",
-    "query": "Hovland",
-    "rank": 18,
-    "tweet_count": "1,250 Tweets"
-  },
-  {
     "name": "Batman",
     "query": "Batman",
+    "rank": 18,
+    "tweet_count": "460K Tweets"
+  },
+  {
+    "name": "Hovland",
+    "query": "Hovland",
     "rank": 19,
-    "tweet_count": "453K Tweets"
+    "tweet_count": "1,258 Tweets"
   }
 ]
