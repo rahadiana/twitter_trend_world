@@ -1,31 +1,31 @@
 [
   {
-    "name": "#nrkdebatt",
-    "query": "#nrkdebatt",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Ranheim",
     "query": "Ranheim",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "#SelfieFredag",
     "query": "#SelfieFredag",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#UkraineRussianWar",
     "query": "#UkraineRussianWar",
-    "rank": 4,
-    "tweet_count": "236K Tweets"
+    "rank": 3,
+    "tweet_count": "241K Tweets"
   },
   {
     "name": "Tsjernobyl",
     "query": "Tsjernobyl",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "Rekdal",
+    "query": "Rekdal",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,53 +33,53 @@
     "name": "Fukushima",
     "query": "Fukushima",
     "rank": 6,
-    "tweet_count": "22.5K Tweets"
+    "tweet_count": "22.7K Tweets"
+  },
+  {
+    "name": "Aafk",
+    "query": "Aafk",
+    "rank": 7,
+    "tweet_count": null
+  },
+  {
+    "name": "#NRKDebatt",
+    "query": "#NRKDebatt",
+    "rank": 8,
+    "tweet_count": null
   },
   {
     "name": "zaporizjzja",
     "query": "zaporizjzja",
-    "rank": 7,
+    "rank": 9,
+    "tweet_count": null
+  },
+  {
+    "name": "Coca Cola",
+    "query": "\"Coca Cola\"",
+    "rank": 10,
+    "tweet_count": "30.5K Tweets"
+  },
+  {
+    "name": "Therese Johaug",
+    "query": "\"Therese Johaug\"",
+    "rank": 11,
     "tweet_count": null
   },
   {
     "name": "#StandWithUkraine️",
     "query": "#StandWithUkraine️",
-    "rank": 8,
-    "tweet_count": "133K Tweets"
-  },
-  {
-    "name": "coca cola",
-    "query": "\"coca cola\"",
-    "rank": 9,
-    "tweet_count": "29.7K Tweets"
-  },
-  {
-    "name": "Therese Johaug",
-    "query": "\"Therese Johaug\"",
-    "rank": 10,
-    "tweet_count": null
-  },
-  {
-    "name": "AAFK",
-    "query": "AAFK",
-    "rank": 11,
-    "tweet_count": null
+    "rank": 12,
+    "tweet_count": "137K Tweets"
   },
   {
     "name": "bjarte",
     "query": "bjarte",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "norway cup",
     "query": "\"norway cup\"",
-    "rank": 13,
-    "tweet_count": null
-  },
-  {
-    "name": "Rekdal",
-    "query": "Rekdal",
     "rank": 14,
     "tweet_count": null
   },
@@ -87,13 +87,13 @@
     "name": "Coutinho",
     "query": "Coutinho",
     "rank": 15,
-    "tweet_count": "4,323 Tweets"
+    "tweet_count": "4,430 Tweets"
   },
   {
     "name": "Odessa",
     "query": "Odessa",
     "rank": 16,
-    "tweet_count": "41.8K Tweets"
+    "tweet_count": "42.9K Tweets"
   },
   {
     "name": "Glimt",
@@ -105,12 +105,12 @@
     "name": "Europas",
     "query": "Europas",
     "rank": 18,
-    "tweet_count": "6,266 Tweets"
+    "tweet_count": "6,345 Tweets"
   },
   {
-    "name": "Chernobyl",
-    "query": "Chernobyl",
+    "name": "Haag",
+    "query": "Haag",
     "rank": 19,
-    "tweet_count": "173K Tweets"
+    "tweet_count": "5,527 Tweets"
   }
 ]
