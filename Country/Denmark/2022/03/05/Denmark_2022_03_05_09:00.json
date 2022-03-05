@@ -1,15 +1,15 @@
 [
   {
-    "name": "#UkraineRussianWar",
-    "query": "#UkraineRussianWar",
-    "rank": 1,
-    "tweet_count": "227K Tweets"
-  },
-  {
     "name": "#fodboldtrøjefredag",
     "query": "#fodboldtrøjefredag",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#StandWithUkraine️",
+    "query": "#StandWithUkraine️",
+    "rank": 2,
+    "tweet_count": "154K Tweets"
   },
   {
     "name": "#fckrfc",
@@ -24,8 +24,8 @@
     "tweet_count": null
   },
   {
-    "name": "knuth",
-    "query": "knuth",
+    "name": "Knuth",
+    "query": "Knuth",
     "rank": 5,
     "tweet_count": null
   },
@@ -51,13 +51,13 @@
     "name": "Chernobyl",
     "query": "Chernobyl",
     "rank": 9,
-    "tweet_count": "51.4K Tweets"
+    "tweet_count": "51.7K Tweets"
   },
   {
     "name": "Batman",
     "query": "Batman",
     "rank": 10,
-    "tweet_count": "566K Tweets"
+    "tweet_count": "571K Tweets"
   },
   {
     "name": "Parken",
@@ -75,7 +75,7 @@
     "name": "Falk",
     "query": "Falk",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "1,008 Tweets"
   },
   {
     "name": "smukt",
@@ -93,29 +93,29 @@
     "name": "Syrien",
     "query": "Syrien",
     "rank": 16,
-    "tweet_count": "4,723 Tweets"
+    "tweet_count": "4,835 Tweets"
   },
   {
     "name": "Airbnb",
     "query": "Airbnb",
     "rank": 17,
-    "tweet_count": "37.5K Tweets"
-  },
-  {
-    "name": "Mellemøsten",
-    "query": "Mellemøsten",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "37.9K Tweets"
   },
   {
     "name": "NATO",
     "query": "NATO",
-    "rank": 19,
-    "tweet_count": "995K Tweets"
+    "rank": 18,
+    "tweet_count": "1.01M Tweets"
   },
   {
     "name": "Vestens",
     "query": "Vestens",
+    "rank": 19,
+    "tweet_count": null
+  },
+  {
+    "name": "Russerne",
+    "query": "Russerne",
     "rank": 20,
     "tweet_count": null
   }
