@@ -1,37 +1,37 @@
 [
   {
-    "name": "Warne",
-    "query": "Warne",
-    "rank": 1,
-    "tweet_count": "477K Tweets"
-  },
-  {
     "name": "#MardiGras2022",
     "query": "#MardiGras2022",
-    "rank": 2,
-    "tweet_count": "3,741 Tweets"
+    "rank": 1,
+    "tweet_count": "3,927 Tweets"
   },
   {
-    "name": "#SydneyDerby",
-    "query": "#SydneyDerby",
-    "rank": 3,
+    "name": "#sydneyderby",
+    "query": "#sydneyderby",
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#WSWvSYD",
     "query": "#WSWvSYD",
+    "rank": 3,
+    "tweet_count": null
+  },
+  {
+    "name": "Darren Hayes",
+    "query": "\"Darren Hayes\"",
     "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "#AFLWFreoDees",
-    "query": "#AFLWFreoDees",
+    "name": "#aflwfreodees",
+    "query": "#aflwfreodees",
     "rank": 5,
     "tweet_count": null
   },
   {
-    "name": "#BRUvWAR",
-    "query": "#BRUvWAR",
+    "name": "#bruvwar",
+    "query": "#bruvwar",
     "rank": 6,
     "tweet_count": null
   },
@@ -42,22 +42,22 @@
     "tweet_count": null
   },
   {
+    "name": "Saints",
+    "query": "Saints",
+    "rank": 8,
+    "tweet_count": "18.9K Tweets"
+  },
+  {
     "name": "Miracle Mile",
     "query": "\"Miracle Mile\"",
-    "rank": 8,
+    "rank": 9,
     "tweet_count": null
   },
   {
     "name": "Haas",
     "query": "Haas",
-    "rank": 9,
-    "tweet_count": "34.9K Tweets"
-  },
-  {
-    "name": "Saints",
-    "query": "Saints",
     "rank": 10,
-    "tweet_count": "18.8K Tweets"
+    "tweet_count": "36.6K Tweets"
   },
   {
     "name": "Pete Evans",
@@ -69,13 +69,13 @@
     "name": "Elon",
     "query": "Elon",
     "rank": 12,
-    "tweet_count": "76.4K Tweets"
+    "tweet_count": "78K Tweets"
   },
   {
-    "name": "#RepcoSC",
-    "query": "#RepcoSC",
+    "name": "#repcosc",
+    "query": "#repcosc",
     "rank": 13,
-    "tweet_count": "1,810 Tweets"
+    "tweet_count": "1,824 Tweets"
   },
   {
     "name": "#SydneyIsSkyBlue",
@@ -87,17 +87,17 @@
     "name": "#Heardle",
     "query": "#Heardle",
     "rank": 15,
-    "tweet_count": "15.1K Tweets"
-  },
-  {
-    "name": "#CCMvBRI",
-    "query": "#CCMvBRI",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "15.4K Tweets"
   },
   {
     "name": "#UnitedWeShine",
     "query": "#UnitedWeShine",
+    "rank": 16,
+    "tweet_count": null
+  },
+  {
+    "name": "#CCMvBRI",
+    "query": "#CCMvBRI",
     "rank": 17,
     "tweet_count": null
   },
@@ -108,15 +108,15 @@
     "tweet_count": null
   },
   {
-    "name": "#RIPShane",
-    "query": "#RIPShane",
-    "rank": 19,
-    "tweet_count": "4,181 Tweets"
-  },
-  {
     "name": "#CWC22",
     "query": "#CWC22",
+    "rank": 19,
+    "tweet_count": "9,886 Tweets"
+  },
+  {
+    "name": "#RIPSHANE",
+    "query": "#RIPSHANE",
     "rank": 20,
-    "tweet_count": "9,786 Tweets"
+    "tweet_count": "4,203 Tweets"
   }
 ]
