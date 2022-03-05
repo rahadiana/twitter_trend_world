@@ -1,13 +1,13 @@
 [
   {
-    "name": "#selfiefredag",
-    "query": "#selfiefredag",
+    "name": "#mesternesmester",
+    "query": "#mesternesmester",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "#mesternesmester",
-    "query": "#mesternesmester",
+    "name": "#selfiefredag",
+    "query": "#selfiefredag",
     "rank": 2,
     "tweet_count": null
   },
@@ -21,19 +21,19 @@
     "name": "#UkraineRussianWar",
     "query": "#UkraineRussianWar",
     "rank": 4,
-    "tweet_count": "231K Tweets"
+    "tweet_count": "234K Tweets"
+  },
+  {
+    "name": "glimt",
+    "query": "glimt",
+    "rank": 5,
+    "tweet_count": "1,188 Tweets"
   },
   {
     "name": "Tsjernobyl",
     "query": "Tsjernobyl",
-    "rank": 5,
-    "tweet_count": null
-  },
-  {
-    "name": "Glimt",
-    "query": "Glimt",
     "rank": 6,
-    "tweet_count": "1,183 Tweets"
+    "tweet_count": null
   },
   {
     "name": "ranheim",
@@ -45,7 +45,7 @@
     "name": "The Batman",
     "query": "\"The Batman\"",
     "rank": 8,
-    "tweet_count": "283K Tweets"
+    "tweet_count": "288K Tweets"
   },
   {
     "name": "bjørn einar romøren",
@@ -69,17 +69,17 @@
     "name": "Fukushima",
     "query": "Fukushima",
     "rank": 12,
-    "tweet_count": "11.7K Tweets"
-  },
-  {
-    "name": "Johaug",
-    "query": "Johaug",
-    "rank": 13,
-    "tweet_count": null
+    "tweet_count": "11.8K Tweets"
   },
   {
     "name": "Nardo",
     "query": "Nardo",
+    "rank": 13,
+    "tweet_count": null
+  },
+  {
+    "name": "Johaug",
+    "query": "Johaug",
     "rank": 14,
     "tweet_count": null
   },
@@ -93,30 +93,30 @@
     "name": "Coca Cola",
     "query": "\"Coca Cola\"",
     "rank": 16,
-    "tweet_count": "121K Tweets"
-  },
-  {
-    "name": "aalesund",
-    "query": "aalesund",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "rekdal",
-    "query": "rekdal",
-    "rank": 18,
-    "tweet_count": null
+    "tweet_count": "123K Tweets"
   },
   {
     "name": "norway cup",
     "query": "\"norway cup\"",
-    "rank": 19,
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "aalesund",
+    "query": "aalesund",
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Rudiger",
     "query": "Rudiger",
+    "rank": 19,
+    "tweet_count": "3,512 Tweets"
+  },
+  {
+    "name": "#StopPutinNOW",
+    "query": "#StopPutinNOW",
     "rank": 20,
-    "tweet_count": "3,484 Tweets"
+    "tweet_count": "91.2K Tweets"
   }
 ]
