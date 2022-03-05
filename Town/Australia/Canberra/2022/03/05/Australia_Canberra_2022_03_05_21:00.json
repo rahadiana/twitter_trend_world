@@ -3,7 +3,7 @@
     "name": "#earthquake",
     "query": "#earthquake",
     "rank": 1,
-    "tweet_count": "3,923 Tweets"
+    "tweet_count": "4,020 Tweets"
   },
   {
     "name": "Shane Warne",
@@ -18,16 +18,16 @@
     "tweet_count": "154K Tweets"
   },
   {
-    "name": "#MardiGras2022",
-    "query": "#MardiGras2022",
-    "rank": 4,
-    "tweet_count": "4,706 Tweets"
-  },
-  {
     "name": "Mt Barker",
     "query": "\"Mt Barker\"",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "#MardiGras2022",
+    "query": "#MardiGras2022",
+    "rank": 5,
+    "tweet_count": "4,740 Tweets"
   },
   {
     "name": "#LIVWHU",
@@ -42,8 +42,8 @@
     "tweet_count": null
   },
   {
-    "name": "#sydneyderby",
-    "query": "#sydneyderby",
+    "name": "#SydneyDerby",
+    "query": "#SydneyDerby",
     "rank": 8,
     "tweet_count": null
   },
@@ -51,55 +51,55 @@
     "name": "#Heardle",
     "query": "#Heardle",
     "rank": 9,
-    "tweet_count": "24.3K Tweets"
+    "tweet_count": "24.5K Tweets"
   },
   {
     "name": "Thailand",
     "query": "Thailand",
     "rank": 10,
-    "tweet_count": "92.5K Tweets"
+    "tweet_count": "92.7K Tweets"
+  },
+  {
+    "name": "Woke",
+    "query": "Woke",
+    "rank": 11,
+    "tweet_count": "115K Tweets"
   },
   {
     "name": "Batman",
     "query": "Batman",
-    "rank": 11,
-    "tweet_count": "560K Tweets"
+    "rank": 12,
+    "tweet_count": "566K Tweets"
   },
   {
     "name": "Trent",
     "query": "Trent",
-    "rank": 12,
-    "tweet_count": "30.6K Tweets"
-  },
-  {
-    "name": "Liverpool",
-    "query": "Liverpool",
     "rank": 13,
-    "tweet_count": "102K Tweets"
+    "tweet_count": "31.1K Tweets"
   },
   {
     "name": "Tudge",
     "query": "Tudge",
     "rank": 14,
-    "tweet_count": "4,843 Tweets"
+    "tweet_count": "4,879 Tweets"
+  },
+  {
+    "name": "Liverpool",
+    "query": "Liverpool",
+    "rank": 15,
+    "tweet_count": "103K Tweets"
   },
   {
     "name": "shelby sixtysix",
     "query": "\"shelby sixtysix\"",
-    "rank": 15,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Reece James",
     "query": "\"Reece James\"",
-    "rank": 16,
-    "tweet_count": "45.7K Tweets"
-  },
-  {
-    "name": "Pete Evans",
-    "query": "\"Pete Evans\"",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "46K Tweets"
   },
   {
     "name": "Steve Irwin",
@@ -111,11 +111,11 @@
     "name": "Friendly Jordies",
     "query": "\"Friendly Jordies\"",
     "rank": 19,
-    "tweet_count": "8,645 Tweets"
+    "tweet_count": "8,779 Tweets"
   },
   {
-    "name": "inspirational girl",
-    "query": "\"inspirational girl\"",
+    "name": "Pete Evans",
+    "query": "\"Pete Evans\"",
     "rank": 20,
     "tweet_count": null
   }
