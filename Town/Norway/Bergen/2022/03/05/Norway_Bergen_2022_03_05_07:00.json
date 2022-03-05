@@ -1,31 +1,31 @@
 [
   {
-    "name": "#selfiefredag",
-    "query": "#selfiefredag",
+    "name": "#mesternesmester",
+    "query": "#mesternesmester",
     "rank": 1,
     "tweet_count": null
   },
   {
-    "name": "#mesternesmester",
-    "query": "#mesternesmester",
+    "name": "#selfiefredag",
+    "query": "#selfiefredag",
     "rank": 2,
     "tweet_count": null
   },
   {
+    "name": "Zelenskyj",
+    "query": "Zelenskyj",
+    "rank": 3,
+    "tweet_count": "3,779 Tweets"
+  },
+  {
     "name": "#UkraineRussianWar",
     "query": "#UkraineRussianWar",
-    "rank": 3,
-    "tweet_count": "229K Tweets"
+    "rank": 4,
+    "tweet_count": "232K Tweets"
   },
   {
     "name": "AaFK",
     "query": "AaFK",
-    "rank": 4,
-    "tweet_count": null
-  },
-  {
-    "name": "Tsjernobyl",
-    "query": "Tsjernobyl",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,31 +33,31 @@
     "name": "Glimt",
     "query": "Glimt",
     "rank": 6,
-    "tweet_count": "1,197 Tweets"
+    "tweet_count": "1,209 Tweets"
+  },
+  {
+    "name": "Tsjernobyl",
+    "query": "Tsjernobyl",
+    "rank": 7,
+    "tweet_count": null
   },
   {
     "name": "ranheim",
     "query": "ranheim",
-    "rank": 7,
+    "rank": 8,
     "tweet_count": null
   },
   {
     "name": "The Batman",
     "query": "\"The Batman\"",
-    "rank": 8,
-    "tweet_count": "285K Tweets"
-  },
-  {
-    "name": "Zelenskyj",
-    "query": "Zelenskyj",
     "rank": 9,
-    "tweet_count": "3,733 Tweets"
+    "tweet_count": "289K Tweets"
   },
   {
     "name": "NATO",
     "query": "NATO",
     "rank": 10,
-    "tweet_count": "986K Tweets"
+    "tweet_count": "997K Tweets"
   },
   {
     "name": "bjørn einar romøren",
@@ -81,7 +81,7 @@
     "name": "Fukushima",
     "query": "Fukushima",
     "rank": 14,
-    "tweet_count": "10.6K Tweets"
+    "tweet_count": "10.8K Tweets"
   },
   {
     "name": "Johaug",
@@ -90,26 +90,26 @@
     "tweet_count": null
   },
   {
-    "name": "nardo",
-    "query": "nardo",
-    "rank": 16,
-    "tweet_count": null
-  },
-  {
     "name": "nakstad",
     "query": "nakstad",
-    "rank": 17,
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Coca Cola",
     "query": "\"Coca Cola\"",
-    "rank": 18,
-    "tweet_count": "124K Tweets"
+    "rank": 17,
+    "tweet_count": "125K Tweets"
   },
   {
-    "name": "aalesund",
-    "query": "aalesund",
+    "name": "Nardo",
+    "query": "Nardo",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "norway cup",
+    "query": "\"norway cup\"",
     "rank": 19,
     "tweet_count": null
   }
