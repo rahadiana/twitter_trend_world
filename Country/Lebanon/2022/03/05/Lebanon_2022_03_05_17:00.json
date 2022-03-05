@@ -1,15 +1,15 @@
 [
   {
-    "name": "#مشوار_بالوادي",
-    "query": "#مشوار_بالوادي",
-    "rank": 1,
-    "tweet_count": "2,232 Tweets"
-  },
-  {
     "name": "#متباركين",
     "query": "#متباركين",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#مشوار_بالوادي",
+    "query": "#مشوار_بالوادي",
+    "rank": 2,
+    "tweet_count": "2,237 Tweets"
   },
   {
     "name": "#fi_male",
@@ -18,16 +18,16 @@
     "tweet_count": "2,470 Tweets"
   },
   {
-    "name": "#لسه_باجي_علي_بالك",
-    "query": "#لسه_باجي_علي_بالك",
-    "rank": 4,
-    "tweet_count": "4,752 Tweets"
-  },
-  {
     "name": "#سد_بسري",
     "query": "#سد_بسري",
-    "rank": 5,
+    "rank": 4,
     "tweet_count": null
+  },
+  {
+    "name": "#بوصله_المقاومه",
+    "query": "#بوصله_المقاومه",
+    "rank": 5,
+    "tweet_count": "1,265 Tweets"
   },
   {
     "name": "مصطفي علوش",
@@ -39,7 +39,7 @@
     "name": "مجلس الوزراء",
     "query": "\"مجلس الوزراء\"",
     "rank": 7,
-    "tweet_count": "3,884 Tweets"
+    "tweet_count": "3,954 Tweets"
   },
   {
     "name": "تاجيل الانتخابات البلديه",
@@ -51,55 +51,55 @@
     "name": "الامن الغذايي",
     "query": "\"الامن الغذايي\"",
     "rank": 9,
-    "tweet_count": "1,049 Tweets"
+    "tweet_count": "1,062 Tweets"
   },
   {
     "name": "محمد سعد",
     "query": "\"محمد سعد\"",
     "rank": 10,
-    "tweet_count": "1,296 Tweets"
+    "tweet_count": "1,303 Tweets"
   },
   {
     "name": "الجيش الروسي",
     "query": "\"الجيش الروسي\"",
     "rank": 11,
-    "tweet_count": "8,829 Tweets"
+    "tweet_count": "8,912 Tweets"
   },
   {
     "name": "الدفاع الروسيه",
     "query": "\"الدفاع الروسيه\"",
     "rank": 12,
-    "tweet_count": "8,087 Tweets"
+    "tweet_count": "8,204 Tweets"
   },
   {
     "name": "صاحب الزمان",
     "query": "\"صاحب الزمان\"",
     "rank": 13,
-    "tweet_count": "2,814 Tweets"
+    "tweet_count": "2,974 Tweets"
   },
   {
     "name": "Lebanese",
     "query": "Lebanese",
     "rank": 14,
-    "tweet_count": "2,112 Tweets"
+    "tweet_count": "2,141 Tweets"
   },
   {
     "name": "Lebanon",
     "query": "Lebanon",
     "rank": 15,
-    "tweet_count": "8,162 Tweets"
-  },
-  {
-    "name": "بيروت",
-    "query": "بيروت",
-    "rank": 16,
-    "tweet_count": "4,912 Tweets"
+    "tweet_count": "8,298 Tweets"
   },
   {
     "name": "Chelsea",
     "query": "Chelsea",
+    "rank": 16,
+    "tweet_count": "152K Tweets"
+  },
+  {
+    "name": "بيروت",
+    "query": "بيروت",
     "rank": 17,
-    "tweet_count": "149K Tweets"
+    "tweet_count": "5,007 Tweets"
   },
   {
     "name": "ابو وسيم",
@@ -117,6 +117,6 @@
     "name": "الشرق الاوسط",
     "query": "\"الشرق الاوسط\"",
     "rank": 20,
-    "tweet_count": "7,665 Tweets"
+    "tweet_count": "7,726 Tweets"
   }
 ]
