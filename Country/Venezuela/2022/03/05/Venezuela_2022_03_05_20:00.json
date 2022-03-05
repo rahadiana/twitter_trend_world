@@ -1,74 +1,86 @@
 [
   {
+    "name": "Modric",
+    "query": "Modric",
+    "rank": 1,
+    "tweet_count": "24.5K Tweets"
+  },
+  {
     "name": "Carvajal",
     "query": "Carvajal",
-    "rank": 1,
-    "tweet_count": "12.1K Tweets"
+    "rank": 2,
+    "tweet_count": "12.9K Tweets"
   },
   {
     "name": "#5Mar",
     "query": "#5Mar",
-    "rank": 2,
-    "tweet_count": "93.9K Tweets"
+    "rank": 3,
+    "tweet_count": "95.1K Tweets"
+  },
+  {
+    "name": "Benzema",
+    "query": "Benzema",
+    "rank": 4,
+    "tweet_count": "9,808 Tweets"
   },
   {
     "name": "#ChávezSiempreInvicto",
     "query": "#ChávezSiempreInvicto",
-    "rank": 3,
-    "tweet_count": "184K Tweets"
-  },
-  {
-    "name": "Camavinga",
-    "query": "Camavinga",
-    "rank": 4,
-    "tweet_count": "11.7K Tweets"
-  },
-  {
-    "name": "#PSUVEnCongreso",
-    "query": "#PSUVEnCongreso",
     "rank": 5,
-    "tweet_count": "10.4K Tweets"
+    "tweet_count": "188K Tweets"
+  },
+  {
+    "name": "#psuvencongreso",
+    "query": "#psuvencongreso",
+    "rank": 6,
+    "tweet_count": "11K Tweets"
+  },
+  {
+    "name": "Real Sociedad",
+    "query": "\"Real Sociedad\"",
+    "rank": 7,
+    "tweet_count": "17.5K Tweets"
+  },
+  {
+    "name": "El Madrid",
+    "query": "\"El Madrid\"",
+    "rank": 8,
+    "tweet_count": "52.2K Tweets"
   },
   {
     "name": "V Congreso",
     "query": "\"V Congreso\"",
-    "rank": 6,
-    "tweet_count": null
+    "rank": 9,
+    "tweet_count": "10.6K Tweets"
   },
   {
     "name": "Feliz 5",
     "query": "\"Feliz 5\"",
-    "rank": 7,
-    "tweet_count": "4,081 Tweets"
-  },
-  {
-    "name": "Maracay",
-    "query": "Maracay",
-    "rank": 8,
-    "tweet_count": "7,265 Tweets"
+    "rank": 10,
+    "tweet_count": "4,133 Tweets"
   },
   {
     "name": "Revolución Bolivariana",
     "query": "\"Revolución Bolivariana\"",
-    "rank": 9,
-    "tweet_count": "39.1K Tweets"
-  },
-  {
-    "name": "Patria",
-    "query": "Patria",
-    "rank": 10,
-    "tweet_count": "114K Tweets"
-  },
-  {
-    "name": "Fe y Alegría",
-    "query": "\"Fe y Alegría\"",
     "rank": 11,
-    "tweet_count": "3,238 Tweets"
+    "tweet_count": "39.6K Tweets"
+  },
+  {
+    "name": "Maracay",
+    "query": "Maracay",
+    "rank": 12,
+    "tweet_count": "7,342 Tweets"
   },
   {
     "name": "#HéroesDeLaSalud",
     "query": "#HéroesDeLaSalud",
-    "rank": 12,
-    "tweet_count": "245K Tweets"
+    "rank": 13,
+    "tweet_count": "249K Tweets"
+  },
+  {
+    "name": "Fe y Alegría",
+    "query": "\"Fe y Alegría\"",
+    "rank": 14,
+    "tweet_count": "3,265 Tweets"
   }
 ]
