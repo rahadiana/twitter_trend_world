@@ -1,122 +1,116 @@
 [
   {
-    "name": "#EveryoneN",
-    "query": "#EveryoneN",
+    "name": "Lady Vols",
+    "query": "\"Lady Vols\"",
     "rank": 1,
     "tweet_count": null
   },
   {
+    "name": "Kentucky",
+    "query": "Kentucky",
+    "rank": 2,
+    "tweet_count": "41.8K Tweets"
+  },
+  {
     "name": "Coach K",
     "query": "\"Coach K\"",
-    "rank": 2,
-    "tweet_count": "74.9K Tweets"
+    "rank": 3,
+    "tweet_count": "80.5K Tweets"
   },
   {
     "name": "#UFC272",
     "query": "#UFC272",
-    "rank": 3,
-    "tweet_count": "66.7K Tweets"
-  },
-  {
-    "name": "#BrickByBrick",
-    "query": "#BrickByBrick",
     "rank": 4,
-    "tweet_count": "12.5K Tweets"
+    "tweet_count": "75.5K Tweets"
   },
   {
-    "name": "#GoHeels",
-    "query": "#GoHeels",
+    "name": "#CDL2022",
+    "query": "#CDL2022",
     "rank": 5,
-    "tweet_count": "3,757 Tweets"
+    "tweet_count": "8,126 Tweets"
+  },
+  {
+    "name": "#WWEMSG",
+    "query": "#WWEMSG",
+    "rank": 6,
+    "tweet_count": "9,680 Tweets"
   },
   {
     "name": "#DoWeHaveAProblem",
     "query": "#DoWeHaveAProblem",
-    "rank": 6,
-    "tweet_count": "20.2K Tweets"
-  },
-  {
-    "name": "Visa",
-    "query": "Visa",
     "rank": 7,
-    "tweet_count": "155K Tweets"
+    "tweet_count": "20.4K Tweets"
   },
   {
-    "name": "Scump",
-    "query": "Scump",
+    "name": "#Svengoolie",
+    "query": "#Svengoolie",
     "rank": 8,
-    "tweet_count": "10.3K Tweets"
-  },
-  {
-    "name": "Kansas",
-    "query": "Kansas",
-    "rank": 9,
-    "tweet_count": "24K Tweets"
-  },
-  {
-    "name": "Deji",
-    "query": "Deji",
-    "rank": 10,
-    "tweet_count": "73.1K Tweets"
-  },
-  {
-    "name": "Rubio",
-    "query": "Rubio",
-    "rank": 11,
-    "tweet_count": "222K Tweets"
+    "tweet_count": "3,718 Tweets"
   },
   {
     "name": "Querétaro",
     "query": "Querétaro",
+    "rank": 9,
+    "tweet_count": "99.4K Tweets"
+  },
+  {
+    "name": "Visa",
+    "query": "Visa",
+    "rank": 10,
+    "tweet_count": "161K Tweets"
+  },
+  {
+    "name": "Jordan Poole",
+    "query": "\"Jordan Poole\"",
+    "rank": 11,
+    "tweet_count": "1,535 Tweets"
+  },
+  {
+    "name": "Faze",
+    "query": "Faze",
     "rank": 12,
-    "tweet_count": "58.2K Tweets"
+    "tweet_count": "21.6K Tweets"
   },
   {
-    "name": "REVERSE SWEEP",
-    "query": "\"REVERSE SWEEP\"",
+    "name": "Rodriguez",
+    "query": "Rodriguez",
     "rank": 13,
-    "tweet_count": "5,353 Tweets"
+    "tweet_count": "24.9K Tweets"
   },
   {
-    "name": "Theo John",
-    "query": "\"Theo John\"",
+    "name": "Rubio",
+    "query": "Rubio",
     "rank": 14,
-    "tweet_count": "1,042 Tweets"
+    "tweet_count": "230K Tweets"
   },
   {
-    "name": "Ty Gibbs",
-    "query": "\"Ty Gibbs\"",
+    "name": "Kansas",
+    "query": "Kansas",
     "rank": 15,
-    "tweet_count": "1,899 Tweets"
+    "tweet_count": "24.4K Tweets"
   },
   {
-    "name": "Tim Elliot",
-    "query": "\"Tim Elliot\"",
+    "name": "Deji",
+    "query": "Deji",
     "rank": 16,
-    "tweet_count": "1,372 Tweets"
+    "tweet_count": "74.2K Tweets"
   },
   {
-    "name": "Franklin Street",
-    "query": "\"Franklin Street\"",
+    "name": "Turner",
+    "query": "Turner",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "14.1K Tweets"
   },
   {
-    "name": "Banchero",
-    "query": "Banchero",
+    "name": "Mullarkey",
+    "query": "Mullarkey",
     "rank": 18,
-    "tweet_count": "1,801 Tweets"
+    "tweet_count": "1,275 Tweets"
   },
   {
-    "name": "Umar",
-    "query": "Umar",
+    "name": "Efrain Alvarez",
+    "query": "\"Efrain Alvarez\"",
     "rank": 19,
-    "tweet_count": "32.7K Tweets"
-  },
-  {
-    "name": "Bellarmine",
-    "query": "Bellarmine",
-    "rank": 20,
-    "tweet_count": "1,092 Tweets"
+    "tweet_count": null
   }
 ]
