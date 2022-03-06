@@ -1,122 +1,122 @@
 [
   {
+    "name": "Tommy",
+    "query": "Tommy",
+    "rank": 1,
+    "tweet_count": "54K Tweets"
+  },
+  {
     "name": "Ruby",
     "query": "Ruby",
-    "rank": 1,
-    "tweet_count": "32.5K Tweets"
+    "rank": 2,
+    "tweet_count": "32.7K Tweets"
   },
   {
     "name": "#404twtselfieday",
     "query": "#404twtselfieday",
-    "rank": 2,
-    "tweet_count": "6,592 Tweets"
+    "rank": 3,
+    "tweet_count": "6,763 Tweets"
   },
   {
     "name": "Fernandes",
     "query": "Fernandes",
-    "rank": 3,
-    "tweet_count": "23.7K Tweets"
+    "rank": 4,
+    "tweet_count": "23.9K Tweets"
   },
   {
     "name": "Stef",
     "query": "Stef",
-    "rank": 4,
-    "tweet_count": "6,864 Tweets"
+    "rank": 5,
+    "tweet_count": "6,951 Tweets"
   },
   {
-    "name": "Kimberly",
-    "query": "Kimberly",
-    "rank": 5,
-    "tweet_count": "6,998 Tweets"
+    "name": "#SearchingforItaly",
+    "query": "#SearchingforItaly",
+    "rank": 6,
+    "tweet_count": null
   },
   {
     "name": "Ralf",
     "query": "Ralf",
-    "rank": 6,
-    "tweet_count": "28.5K Tweets"
-  },
-  {
-    "name": "#JohnsonTheRussianStooge",
-    "query": "#JohnsonTheRussianStooge",
     "rank": 7,
-    "tweet_count": "12.7K Tweets"
+    "tweet_count": "28.6K Tweets"
   },
   {
-    "name": "#CDL2022",
-    "query": "#CDL2022",
+    "name": "Manchester is Blue",
+    "query": "\"Manchester is Blue\"",
     "rank": 8,
-    "tweet_count": "11.9K Tweets"
+    "tweet_count": "21K Tweets"
   },
   {
     "name": "#BoycottShell",
     "query": "#BoycottShell",
     "rank": 9,
-    "tweet_count": "4,388 Tweets"
+    "tweet_count": "4,454 Tweets"
+  },
+  {
+    "name": "#CDL2022",
+    "query": "#CDL2022",
+    "rank": 10,
+    "tweet_count": "11.9K Tweets"
   },
   {
     "name": "#PeakyBlinders",
     "query": "#PeakyBlinders",
-    "rank": 10,
-    "tweet_count": "9,789 Tweets"
-  },
-  {
-    "name": "Ukriane",
-    "query": "Ukriane",
     "rank": 11,
-    "tweet_count": "14.9K Tweets"
-  },
-  {
-    "name": "Micah Richards",
-    "query": "\"Micah Richards\"",
-    "rank": 12,
-    "tweet_count": "4,620 Tweets"
-  },
-  {
-    "name": "50 Ukrainian",
-    "query": "\"50 Ukrainian\"",
-    "rank": 13,
-    "tweet_count": "16.4K Tweets"
-  },
-  {
-    "name": "Joe Perry",
-    "query": "\"Joe Perry\"",
-    "rank": 14,
-    "tweet_count": "1,421 Tweets"
-  },
-  {
-    "name": "Alfie Solomons",
-    "query": "\"Alfie Solomons\"",
-    "rank": 15,
-    "tweet_count": null
+    "tweet_count": "10K Tweets"
   },
   {
     "name": "Michael Smith",
     "query": "\"Michael Smith\"",
-    "rank": 16,
-    "tweet_count": "4,356 Tweets"
-  },
-  {
-    "name": "Tatum",
-    "query": "Tatum",
-    "rank": 17,
-    "tweet_count": "61.8K Tweets"
-  },
-  {
-    "name": "Esme",
-    "query": "Esme",
-    "rank": 18,
-    "tweet_count": "4,345 Tweets"
-  },
-  {
-    "name": "Napoli",
-    "query": "Napoli",
-    "rank": 19,
-    "tweet_count": "36.4K Tweets"
+    "rank": 12,
+    "tweet_count": "5,205 Tweets"
   },
   {
     "name": "Noppert",
     "query": "Noppert",
+    "rank": 13,
+    "tweet_count": "1,783 Tweets"
+  },
+  {
+    "name": "Roy Keane",
+    "query": "\"Roy Keane\"",
+    "rank": 14,
+    "tweet_count": "22.1K Tweets"
+  },
+  {
+    "name": "Ukriane",
+    "query": "Ukriane",
+    "rank": 15,
+    "tweet_count": "15.1K Tweets"
+  },
+  {
+    "name": "Micah Richards",
+    "query": "\"Micah Richards\"",
+    "rank": 16,
+    "tweet_count": "4,684 Tweets"
+  },
+  {
+    "name": "Man Utd",
+    "query": "\"Man Utd\"",
+    "rank": 17,
+    "tweet_count": "114K Tweets"
+  },
+  {
+    "name": "50 Ukrainian",
+    "query": "\"50 Ukrainian\"",
+    "rank": 18,
+    "tweet_count": "17.1K Tweets"
+  },
+  {
+    "name": "Joe Perry",
+    "query": "\"Joe Perry\"",
+    "rank": 19,
+    "tweet_count": "1,519 Tweets"
+  },
+  {
+    "name": "Alfie Solomons",
+    "query": "\"Alfie Solomons\"",
     "rank": 20,
-    "tweet_count": "1,116 Tweets"
+    "tweet_count": null
   }
 ]
