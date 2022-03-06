@@ -1,39 +1,39 @@
 [
   {
-    "name": "#UkraineRussianWar",
-    "query": "#UkraineRussianWar",
-    "rank": 1,
-    "tweet_count": "190K Tweets"
-  },
-  {
     "name": "#DFBPokal",
     "query": "#DFBPokal",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "#KOETSG",
+    "query": "#KOETSG",
+    "rank": 2,
+    "tweet_count": "1,129 Tweets"
   },
   {
     "name": "#MCIMUN",
     "query": "#MCIMUN",
     "rank": 3,
-    "tweet_count": "125K Tweets"
-  },
-  {
-    "name": "#KOETSG",
-    "query": "#KOETSG",
-    "rank": 4,
-    "tweet_count": "1,087 Tweets"
+    "tweet_count": "126K Tweets"
   },
   {
     "name": "#Ukraine️",
     "query": "#Ukraine️",
-    "rank": 5,
-    "tweet_count": "61.9K Tweets"
+    "rank": 4,
+    "tweet_count": "63.5K Tweets"
   },
   {
     "name": "Barbarisch",
     "query": "Barbarisch",
+    "rank": 5,
+    "tweet_count": "1,847 Tweets"
+  },
+  {
+    "name": "#effzeh",
+    "query": "#effzeh",
     "rank": 6,
-    "tweet_count": "1,747 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Heult",
@@ -57,7 +57,7 @@
     "name": "Ronaldo",
     "query": "Ronaldo",
     "rank": 10,
-    "tweet_count": "111K Tweets"
+    "tweet_count": "115K Tweets"
   },
   {
     "name": "Spezialoperation",
@@ -69,13 +69,13 @@
     "name": "Arsenal",
     "query": "Arsenal",
     "rank": 12,
-    "tweet_count": "214K Tweets"
+    "tweet_count": "217K Tweets"
   },
   {
     "name": "Vergessenheit",
     "query": "Vergessenheit",
     "rank": 13,
-    "tweet_count": "1,410 Tweets"
+    "tweet_count": "1,423 Tweets"
   },
   {
     "name": "Totimpfstoff",
@@ -87,7 +87,7 @@
     "name": "Easy Mode",
     "query": "\"Easy Mode\"",
     "rank": 15,
-    "tweet_count": "6,168 Tweets"
+    "tweet_count": "6,211 Tweets"
   },
   {
     "name": "Schwierigkeitsgrad",
@@ -96,27 +96,27 @@
     "tweet_count": null
   },
   {
-    "name": "Rubel",
-    "query": "Rubel",
-    "rank": 17,
-    "tweet_count": "2,503 Tweets"
-  },
-  {
-    "name": "#effzeh",
-    "query": "#effzeh",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
     "name": "#ranNHL",
     "query": "#ranNHL",
-    "rank": 19,
+    "rank": 17,
     "tweet_count": null
   },
   {
     "name": "#Moscow",
     "query": "#Moscow",
+    "rank": 18,
+    "tweet_count": "14.8K Tweets"
+  },
+  {
+    "name": "#QueretaroAtlas",
+    "query": "#QueretaroAtlas",
+    "rank": 19,
+    "tweet_count": "20.1K Tweets"
+  },
+  {
+    "name": "#svwebs",
+    "query": "#svwebs",
     "rank": 20,
-    "tweet_count": "14.5K Tweets"
+    "tweet_count": null
   }
 ]
