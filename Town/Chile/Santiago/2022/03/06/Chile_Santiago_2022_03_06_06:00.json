@@ -1,116 +1,110 @@
 [
   {
-    "name": "Lebron",
-    "query": "Lebron",
-    "rank": 1,
-    "tweet_count": "207K Tweets"
-  },
-  {
     "name": "#에이티즈",
     "query": "#에이티즈",
-    "rank": 2,
-    "tweet_count": "103K Tweets"
+    "rank": 1,
+    "tweet_count": "101K Tweets"
   },
   {
     "name": "México",
     "query": "México",
-    "rank": 3,
-    "tweet_count": "448K Tweets"
+    "rank": 2,
+    "tweet_count": "468K Tweets"
   },
   {
-    "name": "#ladivinacomida",
-    "query": "#ladivinacomida",
-    "rank": 4,
-    "tweet_count": "4,167 Tweets"
+    "name": "#LaDivinaComida",
+    "query": "#LaDivinaComida",
+    "rank": 3,
+    "tweet_count": "4,184 Tweets"
   },
   {
     "name": "#SociosPorElMundo",
     "query": "#SociosPorElMundo",
-    "rank": 5,
-    "tweet_count": "2,248 Tweets"
+    "rank": 4,
+    "tweet_count": "2,251 Tweets"
   },
   {
     "name": "#UFC272",
     "query": "#UFC272",
-    "rank": 6,
-    "tweet_count": "230K Tweets"
+    "rank": 5,
+    "tweet_count": "236K Tweets"
   },
   {
     "name": "#BuscandoADios",
     "query": "#BuscandoADios",
-    "rank": 7,
+    "rank": 6,
     "tweet_count": null
+  },
+  {
+    "name": "Lebron",
+    "query": "Lebron",
+    "rank": 7,
+    "tweet_count": "213K Tweets"
   },
   {
     "name": "La FIFA",
     "query": "\"La FIFA\"",
     "rank": 8,
-    "tweet_count": "34.1K Tweets"
+    "tweet_count": "37.7K Tweets"
   },
   {
     "name": "Querétaro y Atlas",
     "query": "\"Querétaro y Atlas\"",
     "rank": 9,
-    "tweet_count": "89.7K Tweets"
-  },
-  {
-    "name": "Miami",
-    "query": "Miami",
-    "rank": 10,
-    "tweet_count": "56.3K Tweets"
+    "tweet_count": "93.4K Tweets"
   },
   {
     "name": "Lo de Querétaro",
     "query": "\"Lo de Querétaro\"",
+    "rank": 10,
+    "tweet_count": "221K Tweets"
+  },
+  {
+    "name": "Miami",
+    "query": "Miami",
     "rank": 11,
-    "tweet_count": "209K Tweets"
+    "tweet_count": "56.8K Tweets"
   },
   {
     "name": "Zabaleta",
     "query": "Zabaleta",
     "rank": 12,
-    "tweet_count": "1,032 Tweets"
+    "tweet_count": "1,039 Tweets"
   },
   {
-    "name": "Pancho",
-    "query": "Pancho",
+    "name": "calavera",
+    "query": "calavera",
     "rank": 13,
-    "tweet_count": "4,421 Tweets"
-  },
-  {
-    "name": "Petaccia",
-    "query": "Petaccia",
-    "rank": 14,
-    "tweet_count": null
-  },
-  {
-    "name": "Calavera",
-    "query": "Calavera",
-    "rank": 15,
-    "tweet_count": "1,397 Tweets"
+    "tweet_count": "1,407 Tweets"
   },
   {
     "name": "Vamos la U",
     "query": "\"Vamos la U\"",
-    "rank": 16,
+    "rank": 14,
     "tweet_count": null
   },
   {
     "name": "#ateezdiamond",
     "query": "#ateezdiamond",
-    "rank": 17,
-    "tweet_count": "40.2K Tweets"
+    "rank": 15,
+    "tweet_count": "41.5K Tweets"
   },
   {
     "name": "#ateezdesire",
     "query": "#ateezdesire",
-    "rank": 18,
-    "tweet_count": "37.7K Tweets"
+    "rank": 16,
+    "tweet_count": "38.9K Tweets"
   },
   {
-    "name": "#ElDiaMenosPensadoEnTVN",
-    "query": "#ElDiaMenosPensadoEnTVN",
-    "rank": 19,
+    "name": "#eldiamenospensadoentvn",
+    "query": "#eldiamenospensadoentvn",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "#CLASICOBETANO",
+    "query": "#CLASICOBETANO",
+    "rank": 18,
     "tweet_count": null
   }
 ]
