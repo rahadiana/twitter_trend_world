@@ -3,72 +3,102 @@
     "name": "#WATARS",
     "query": "#WATARS",
     "rank": 1,
-    "tweet_count": "32.7K Tweets"
+    "tweet_count": "36.4K Tweets"
   },
   {
     "name": "#COYG",
     "query": "#COYG",
     "rank": 2,
-    "tweet_count": "5,880 Tweets"
+    "tweet_count": "6,193 Tweets"
   },
   {
-    "name": "Baringo",
-    "query": "Baringo",
+    "name": "Odegaard",
+    "query": "Odegaard",
     "rank": 3,
-    "tweet_count": "6,473 Tweets"
+    "tweet_count": "13.5K Tweets"
+  },
+  {
+    "name": "Lacazette",
+    "query": "Lacazette",
+    "rank": 4,
+    "tweet_count": "7,499 Tweets"
   },
   {
     "name": "#MCIMUN",
     "query": "#MCIMUN",
-    "rank": 4,
-    "tweet_count": "26.6K Tweets"
-  },
-  {
-    "name": "#ReggaeSplash",
-    "query": "#ReggaeSplash",
     "rank": 5,
-    "tweet_count": "1,152 Tweets"
+    "tweet_count": "32.2K Tweets"
   },
   {
-    "name": "Gideon Moi",
-    "query": "\"Gideon Moi\"",
+    "name": "Baringo",
+    "query": "Baringo",
     "rank": 6,
-    "tweet_count": "1,472 Tweets"
+    "tweet_count": "6,583 Tweets"
   },
   {
     "name": "Manchester",
     "query": "Manchester",
     "rank": 7,
-    "tweet_count": "111K Tweets"
+    "tweet_count": "116K Tweets"
+  },
+  {
+    "name": "#reggaesplash",
+    "query": "#reggaesplash",
+    "rank": 8,
+    "tweet_count": "1,172 Tweets"
+  },
+  {
+    "name": "Man United",
+    "query": "\"Man United\"",
+    "rank": 9,
+    "tweet_count": "25K Tweets"
+  },
+  {
+    "name": "Gideon Moi",
+    "query": "\"Gideon Moi\"",
+    "rank": 10,
+    "tweet_count": "1,541 Tweets"
+  },
+  {
+    "name": "#GGMU",
+    "query": "#GGMU",
+    "rank": 11,
+    "tweet_count": "4,125 Tweets"
   },
   {
     "name": "Kinoo",
     "query": "Kinoo",
-    "rank": 8,
-    "tweet_count": "2,704 Tweets"
+    "rank": 12,
+    "tweet_count": "2,741 Tweets"
   },
   {
     "name": "stable engineers",
     "query": "\"stable engineers\"",
-    "rank": 9,
+    "rank": 13,
     "tweet_count": null
   },
   {
-    "name": "#MagicalKenyaOpen",
-    "query": "#MagicalKenyaOpen",
-    "rank": 10,
-    "tweet_count": null
+    "name": "Man City",
+    "query": "\"Man City\"",
+    "rank": 14,
+    "tweet_count": "30K Tweets"
   },
   {
     "name": "Meru",
     "query": "Meru",
-    "rank": 11,
-    "tweet_count": "16.9K Tweets"
+    "rank": 15,
+    "tweet_count": "17.2K Tweets"
   },
   {
-    "name": "Miguna",
-    "query": "Miguna",
-    "rank": 12,
-    "tweet_count": "3,631 Tweets"
+    "name": "miguna",
+    "query": "miguna",
+    "rank": 16,
+    "tweet_count": "3,684 Tweets"
+  },
+  {
+    "name": "#MagicalKenyaOpen",
+    "query": "#MagicalKenyaOpen",
+    "rank": 17,
+    "tweet_count": null
   }
 ]
