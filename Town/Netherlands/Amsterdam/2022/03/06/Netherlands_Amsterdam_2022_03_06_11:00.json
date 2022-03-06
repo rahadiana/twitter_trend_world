@@ -1,39 +1,39 @@
 [
   {
-    "name": "#WNLopzondag",
-    "query": "#WNLopzondag",
-    "rank": 1,
-    "tweet_count": "2,544 Tweets"
-  },
-  {
     "name": "#psvher",
     "query": "#psvher",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
+    "name": "#WNLopzondag",
+    "query": "#WNLopzondag",
     "rank": 2,
+    "tweet_count": "2,646 Tweets"
+  },
+  {
+    "name": "#buitenhof",
+    "query": "#buitenhof",
+    "rank": 3,
     "tweet_count": null
   },
   {
     "name": "#widm",
     "query": "#widm",
-    "rank": 3,
-    "tweet_count": "3,078 Tweets"
-  },
-  {
-    "name": "#buitenhof",
-    "query": "#buitenhof",
     "rank": 4,
-    "tweet_count": null
+    "tweet_count": "3,089 Tweets"
   },
   {
     "name": "#Feygro",
     "query": "#Feygro",
     "rank": 5,
-    "tweet_count": "1,953 Tweets"
+    "tweet_count": "1,954 Tweets"
   },
   {
     "name": "Tadic",
     "query": "Tadic",
     "rank": 6,
-    "tweet_count": "2,362 Tweets"
+    "tweet_count": "2,446 Tweets"
   },
   {
     "name": "Overmars",
@@ -42,16 +42,16 @@
     "tweet_count": null
   },
   {
-    "name": "Everon",
-    "query": "Everon",
-    "rank": 8,
-    "tweet_count": "1,003 Tweets"
-  },
-  {
     "name": "Joey Veerman",
     "query": "\"Joey Veerman\"",
-    "rank": 9,
+    "rank": 8,
     "tweet_count": null
+  },
+  {
+    "name": "Everon",
+    "query": "Everon",
+    "rank": 9,
+    "tweet_count": "1,005 Tweets"
   },
   {
     "name": "Fresia",
@@ -60,10 +60,10 @@
     "tweet_count": null
   },
   {
-    "name": "Boy George",
-    "query": "\"Boy George\"",
+    "name": "Madueke",
+    "query": "Madueke",
     "rank": 11,
-    "tweet_count": "1,067 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Heracles",
@@ -75,47 +75,47 @@
     "name": "Deji",
     "query": "Deji",
     "rank": 13,
-    "tweet_count": "80.7K Tweets"
+    "tweet_count": "81K Tweets"
+  },
+  {
+    "name": "Boy George",
+    "query": "\"Boy George\"",
+    "rank": 14,
+    "tweet_count": "1,079 Tweets"
   },
   {
     "name": "De VVD",
     "query": "\"De VVD\"",
-    "rank": 14,
-    "tweet_count": "12.6K Tweets"
+    "rank": 15,
+    "tweet_count": "12.7K Tweets"
+  },
+  {
+    "name": "Zahavi",
+    "query": "Zahavi",
+    "rank": 16,
+    "tweet_count": null
   },
   {
     "name": "jungkook",
     "query": "jungkook",
-    "rank": 15,
-    "tweet_count": "719K Tweets"
+    "rank": 17,
+    "tweet_count": "727K Tweets"
   },
   {
     "name": "Slot",
     "query": "Slot",
-    "rank": 16,
-    "tweet_count": "51.4K Tweets"
+    "rank": 18,
+    "tweet_count": "51.9K Tweets"
   },
   {
     "name": "Linssen",
     "query": "Linssen",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Dessers",
-    "query": "Dessers",
-    "rank": 18,
-    "tweet_count": null
-  },
-  {
-    "name": "Rick Nieman",
-    "query": "\"Rick Nieman\"",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Maurice de Hond",
-    "query": "\"Maurice de Hond\"",
+    "name": "dessers",
+    "query": "dessers",
     "rank": 20,
     "tweet_count": null
   }
