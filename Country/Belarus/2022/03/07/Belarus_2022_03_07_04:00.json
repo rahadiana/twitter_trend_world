@@ -1,74 +1,80 @@
 [
   {
-    "name": "Блин",
-    "query": "Блин",
+    "name": "реальный брест",
+    "query": "\"реальный брест\"",
     "rank": 1,
-    "tweet_count": "4,245 Tweets"
+    "tweet_count": null
+  },
+  {
+    "name": "Понимаю",
+    "query": "Понимаю",
+    "rank": 2,
+    "tweet_count": "13.2K Tweets"
+  },
+  {
+    "name": "блин",
+    "query": "блин",
+    "rank": 3,
+    "tweet_count": "4,283 Tweets"
   },
   {
     "name": "#nftcollector",
     "query": "#nftcollector",
-    "rank": 2,
-    "tweet_count": "126K Tweets"
-  },
-  {
-    "name": "реальный брест",
-    "query": "\"реальный брест\"",
-    "rank": 3,
-    "tweet_count": null
-  },
-  {
-    "name": "Думаю",
-    "query": "Думаю",
     "rank": 4,
-    "tweet_count": "12.4K Tweets"
-  },
-  {
-    "name": "#nftart",
-    "query": "#nftart",
-    "rank": 5,
-    "tweet_count": "211K Tweets"
-  },
-  {
-    "name": "понимаю",
-    "query": "понимаю",
-    "rank": 6,
-    "tweet_count": "13K Tweets"
+    "tweet_count": "128K Tweets"
   },
   {
     "name": "#NFTCommunity",
     "query": "#NFTCommunity",
-    "rank": 7,
-    "tweet_count": "615K Tweets"
+    "rank": 5,
+    "tweet_count": "627K Tweets"
   },
   {
-    "name": "#Украина",
-    "query": "#Украина",
-    "rank": 8,
-    "tweet_count": "9,206 Tweets"
+    "name": "#nftart",
+    "query": "#nftart",
+    "rank": 6,
+    "tweet_count": "215K Tweets"
   },
   {
     "name": "Точно",
     "query": "Точно",
+    "rank": 7,
+    "tweet_count": "11.7K Tweets"
+  },
+  {
+    "name": "#украина",
+    "query": "#украина",
+    "rank": 8,
+    "tweet_count": "9,278 Tweets"
+  },
+  {
+    "name": "Кстати",
+    "query": "Кстати",
     "rank": 9,
-    "tweet_count": "11.6K Tweets"
+    "tweet_count": "6,732 Tweets"
   },
   {
-    "name": "#NFTs",
-    "query": "#NFTs",
+    "name": "Spotify",
+    "query": "Spotify",
     "rank": 10,
-    "tweet_count": "812K Tweets"
+    "tweet_count": "698K Tweets"
   },
   {
-    "name": "поздравляю",
-    "query": "поздравляю",
+    "name": "минск",
+    "query": "минск",
     "rank": 11,
-    "tweet_count": "1,551 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "гэта",
-    "query": "гэта",
+    "name": "#iHeartAwards",
+    "query": "#iHeartAwards",
     "rank": 12,
-    "tweet_count": null
+    "tweet_count": "832K Tweets"
+  },
+  {
+    "name": "#Bitcoin",
+    "query": "#Bitcoin",
+    "rank": 13,
+    "tweet_count": "368K Tweets"
   }
 ]
