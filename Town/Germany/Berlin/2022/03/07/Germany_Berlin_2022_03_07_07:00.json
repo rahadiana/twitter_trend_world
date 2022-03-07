@@ -1,33 +1,33 @@
 [
   {
-    "name": "Wochenstart",
-    "query": "Wochenstart",
-    "rank": 1,
-    "tweet_count": null
-  },
-  {
     "name": "Start in die Woche",
     "query": "\"Start in die Woche\"",
+    "rank": 1,
+    "tweet_count": "1,196 Tweets"
+  },
+  {
+    "name": "Wochenstart",
+    "query": "Wochenstart",
     "rank": 2,
-    "tweet_count": "1,114 Tweets"
+    "tweet_count": null
   },
   {
     "name": "#Ukraine️",
     "query": "#Ukraine️",
     "rank": 3,
-    "tweet_count": "121K Tweets"
+    "tweet_count": "123K Tweets"
   },
   {
     "name": "#Tatort",
     "query": "#Tatort",
     "rank": 4,
-    "tweet_count": "4,394 Tweets"
+    "tweet_count": "4,407 Tweets"
   },
   {
     "name": "#annewill",
     "query": "#annewill",
     "rank": 5,
-    "tweet_count": "4,300 Tweets"
+    "tweet_count": "4,394 Tweets"
   },
   {
     "name": "#EqualPayDay",
@@ -45,29 +45,29 @@
     "name": "schönen sonntag",
     "query": "\"schönen sonntag\"",
     "rank": 8,
-    "tweet_count": "3,644 Tweets"
-  },
-  {
-    "name": "Guten Morgen ihr Lieben",
-    "query": "\"Guten Morgen ihr Lieben\"",
-    "rank": 9,
-    "tweet_count": null
+    "tweet_count": "3,647 Tweets"
   },
   {
     "name": "Wochenbeginn",
     "query": "Wochenbeginn",
-    "rank": 10,
+    "rank": 9,
     "tweet_count": null
   },
   {
-    "name": "Montagmorgen",
-    "query": "Montagmorgen",
+    "name": "Montag Morgen",
+    "query": "\"Montag Morgen\"",
+    "rank": 10,
+    "tweet_count": "1,399 Tweets"
+  },
+  {
+    "name": "Guten Morgen ihr Lieben",
+    "query": "\"Guten Morgen ihr Lieben\"",
     "rank": 11,
     "tweet_count": null
   },
   {
-    "name": "Moin Klaus",
-    "query": "\"Moin Klaus\"",
+    "name": "Brückentag",
+    "query": "Brückentag",
     "rank": 12,
     "tweet_count": null
   },
@@ -75,48 +75,48 @@
     "name": "Barbarisch",
     "query": "Barbarisch",
     "rank": 13,
-    "tweet_count": "3,633 Tweets"
-  },
-  {
-    "name": "trainer",
-    "query": "trainer",
-    "rank": 14,
-    "tweet_count": "23.5K Tweets"
+    "tweet_count": "3,664 Tweets"
   },
   {
     "name": "Easy Mode",
     "query": "\"Easy Mode\"",
+    "rank": 14,
+    "tweet_count": "5,213 Tweets"
+  },
+  {
+    "name": "Trainer",
+    "query": "Trainer",
     "rank": 15,
-    "tweet_count": "5,165 Tweets"
+    "tweet_count": "23.7K Tweets"
   },
   {
-    "name": "Brückentag",
-    "query": "Brückentag",
+    "name": "guten morgen welt",
+    "query": "\"guten morgen welt\"",
     "rank": 16,
-    "tweet_count": null
-  },
-  {
-    "name": "Beileid",
-    "query": "Beileid",
-    "rank": 17,
-    "tweet_count": null
-  },
-  {
-    "name": "Guten Morgen Welt",
-    "query": "\"Guten Morgen Welt\"",
-    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Guten Morgen Michael",
     "query": "\"Guten Morgen Michael\"",
-    "rank": 19,
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "Schwierigkeitsgrad",
+    "query": "Schwierigkeitsgrad",
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "Maguire",
     "query": "Maguire",
+    "rank": 19,
+    "tweet_count": "160K Tweets"
+  },
+  {
+    "name": "Moin Klaus",
+    "query": "\"Moin Klaus\"",
     "rank": 20,
-    "tweet_count": "159K Tweets"
+    "tweet_count": null
   }
 ]
