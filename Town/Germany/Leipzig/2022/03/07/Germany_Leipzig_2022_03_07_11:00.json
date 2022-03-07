@@ -3,29 +3,29 @@
     "name": "#Tatort",
     "query": "#Tatort",
     "rank": 1,
-    "tweet_count": "4,524 Tweets"
+    "tweet_count": "4,538 Tweets"
   },
   {
     "name": "#EqualPayDay",
     "query": "#EqualPayDay",
     "rank": 2,
-    "tweet_count": "1,652 Tweets"
+    "tweet_count": "1,722 Tweets"
   },
   {
     "name": "Wochenstart",
     "query": "Wochenstart",
     "rank": 3,
-    "tweet_count": "1,372 Tweets"
-  },
-  {
-    "name": "#frauentag",
-    "query": "#frauentag",
-    "rank": 4,
-    "tweet_count": null
+    "tweet_count": "1,383 Tweets"
   },
   {
     "name": "#Montagslaecheln",
     "query": "#Montagslaecheln",
+    "rank": 4,
+    "tweet_count": null
+  },
+  {
+    "name": "#Frauentag",
+    "query": "#Frauentag",
     "rank": 5,
     "tweet_count": null
   },
@@ -33,7 +33,7 @@
     "name": "Start in die Woche",
     "query": "\"Start in die Woche\"",
     "rank": 6,
-    "tweet_count": "1,863 Tweets"
+    "tweet_count": "1,881 Tweets"
   },
   {
     "name": "Feiertag",
@@ -51,60 +51,66 @@
     "name": "Hakenkreuz",
     "query": "Hakenkreuz",
     "rank": 9,
-    "tweet_count": "1,592 Tweets"
-  },
-  {
-    "name": "ÖPNV",
-    "query": "ÖPNV",
-    "rank": 10,
-    "tweet_count": "1,668 Tweets"
+    "tweet_count": "1,600 Tweets"
   },
   {
     "name": "Korridore",
     "query": "Korridore",
+    "rank": 10,
+    "tweet_count": "1,133 Tweets"
+  },
+  {
+    "name": "ÖPNV",
+    "query": "ÖPNV",
     "rank": 11,
-    "tweet_count": "1,103 Tweets"
+    "tweet_count": "1,741 Tweets"
+  },
+  {
+    "name": "Hamster",
+    "query": "Hamster",
+    "rank": 12,
+    "tweet_count": "16.6K Tweets"
   },
   {
     "name": "Verbrenner",
     "query": "Verbrenner",
-    "rank": 12,
+    "rank": 13,
     "tweet_count": null
   },
   {
     "name": "Verbrauch",
     "query": "Verbrauch",
-    "rank": 13,
+    "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "#GruenerMist",
+    "query": "#GruenerMist",
+    "rank": 15,
     "tweet_count": null
   },
   {
     "name": "#Melnyk",
     "query": "#Melnyk",
-    "rank": 14,
-    "tweet_count": "1,104 Tweets"
+    "rank": 16,
+    "tweet_count": "1,117 Tweets"
   },
   {
     "name": "#MondayMotivation",
     "query": "#MondayMotivation",
-    "rank": 15,
-    "tweet_count": "44.1K Tweets"
+    "rank": 17,
+    "tweet_count": "45.1K Tweets"
   },
   {
-    "name": "#blackout",
-    "query": "#blackout",
-    "rank": 16,
+    "name": "#Blackout",
+    "query": "#Blackout",
+    "rank": 18,
     "tweet_count": null
   },
   {
     "name": "#Spritpreise",
     "query": "#Spritpreise",
-    "rank": 17,
-    "tweet_count": "1,351 Tweets"
-  },
-  {
-    "name": "#IWD2022",
-    "query": "#IWD2022",
-    "rank": 18,
-    "tweet_count": "44.5K Tweets"
+    "rank": 19,
+    "tweet_count": "1,390 Tweets"
   }
 ]
