@@ -1,57 +1,57 @@
 [
   {
+    "name": "#BroncosCountry",
+    "query": "#BroncosCountry",
+    "rank": 1,
+    "tweet_count": null
+  },
+  {
     "name": "Rodgers",
     "query": "Rodgers",
-    "rank": 1,
-    "tweet_count": "12.2K Tweets"
+    "rank": 2,
+    "tweet_count": "12.5K Tweets"
   },
   {
     "name": "Calvin Ridley",
     "query": "\"Calvin Ridley\"",
-    "rank": 2,
-    "tweet_count": "81.3K Tweets"
+    "rank": 3,
+    "tweet_count": "85.7K Tweets"
   },
   {
     "name": "Pete Rose",
     "query": "\"Pete Rose\"",
-    "rank": 3,
-    "tweet_count": "3,803 Tweets"
-  },
-  {
-    "name": "#TOTEVE",
-    "query": "#TOTEVE",
     "rank": 4,
-    "tweet_count": "17.1K Tweets"
+    "tweet_count": "4,052 Tweets"
   },
   {
     "name": "#SpringBreakInSixWords",
     "query": "#SpringBreakInSixWords",
     "rank": 5,
-    "tweet_count": null
+    "tweet_count": "1,079 Tweets"
   },
   {
-    "name": "James Comey",
-    "query": "\"James Comey\"",
+    "name": "#TOTEVE",
+    "query": "#TOTEVE",
     "rank": 6,
-    "tweet_count": "11.9K Tweets"
+    "tweet_count": "17.3K Tweets"
   },
   {
     "name": "Doocy",
     "query": "Doocy",
     "rank": 7,
-    "tweet_count": "9,163 Tweets"
+    "tweet_count": "9,944 Tweets"
+  },
+  {
+    "name": "James Comey",
+    "query": "\"James Comey\"",
+    "rank": 8,
+    "tweet_count": "12.6K Tweets"
   },
   {
     "name": "Lenny Moore",
     "query": "\"Lenny Moore\"",
-    "rank": 8,
-    "tweet_count": null
-  },
-  {
-    "name": "Negan",
-    "query": "Negan",
     "rank": 9,
-    "tweet_count": "10.8K Tweets"
+    "tweet_count": null
   },
   {
     "name": "#YIAYgame",
@@ -63,54 +63,54 @@
     "name": "God of War",
     "query": "\"God of War\"",
     "rank": 11,
-    "tweet_count": "15.2K Tweets"
+    "tweet_count": "15.8K Tweets"
   },
   {
-    "name": "#Twitterdown",
-    "query": "#Twitterdown",
+    "name": "Negan",
+    "query": "Negan",
     "rank": 12,
-    "tweet_count": "4,415 Tweets"
-  },
-  {
-    "name": "Randy Levine",
-    "query": "\"Randy Levine\"",
-    "rank": 13,
-    "tweet_count": "1,033 Tweets"
-  },
-  {
-    "name": "Grassley",
-    "query": "Grassley",
-    "rank": 14,
-    "tweet_count": "7,003 Tweets"
-  },
-  {
-    "name": "East High School",
-    "query": "\"East High School\"",
-    "rank": 15,
-    "tweet_count": "2,644 Tweets"
+    "tweet_count": "11.1K Tweets"
   },
   {
     "name": "Impeach Biden",
     "query": "\"Impeach Biden\"",
-    "rank": 16,
-    "tweet_count": "8,629 Tweets"
+    "rank": 13,
+    "tweet_count": "10.3K Tweets"
+  },
+  {
+    "name": "Randy Levine",
+    "query": "\"Randy Levine\"",
+    "rank": 14,
+    "tweet_count": "1,085 Tweets"
   },
   {
     "name": "McNabb",
     "query": "McNabb",
-    "rank": 17,
+    "rank": 15,
     "tweet_count": null
+  },
+  {
+    "name": "East High School",
+    "query": "\"East High School\"",
+    "rank": 16,
+    "tweet_count": "3,358 Tweets"
+  },
+  {
+    "name": "Grassley",
+    "query": "Grassley",
+    "rank": 17,
+    "tweet_count": "7,669 Tweets"
+  },
+  {
+    "name": "Buttigieg",
+    "query": "Buttigieg",
+    "rank": 18,
+    "tweet_count": "7,584 Tweets"
   },
   {
     "name": "San Marino",
     "query": "\"San Marino\"",
-    "rank": 18,
-    "tweet_count": "35K Tweets"
-  },
-  {
-    "name": "Keystone XL",
-    "query": "\"Keystone XL\"",
     "rank": 19,
-    "tweet_count": "22.2K Tweets"
+    "tweet_count": "35.4K Tweets"
   }
 ]
