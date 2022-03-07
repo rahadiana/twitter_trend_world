@@ -1,57 +1,57 @@
 [
   {
-    "name": "México",
-    "query": "México",
-    "rank": 1,
-    "tweet_count": "362K Tweets"
-  },
-  {
     "name": "Pedro Ortiz",
     "query": "\"Pedro Ortiz\"",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
+  },
+  {
+    "name": "México",
+    "query": "México",
+    "rank": 2,
+    "tweet_count": "366K Tweets"
   },
   {
     "name": "Querétaro",
     "query": "Querétaro",
     "rank": 3,
-    "tweet_count": "627K Tweets"
+    "tweet_count": "632K Tweets"
   },
   {
     "name": "#FelizLunes",
     "query": "#FelizLunes",
     "rank": 4,
-    "tweet_count": "24.6K Tweets"
+    "tweet_count": "24.8K Tweets"
   },
   {
     "name": "#EfectoLasso",
     "query": "#EfectoLasso",
     "rank": 5,
-    "tweet_count": "1,543 Tweets"
+    "tweet_count": "1,580 Tweets"
   },
   {
     "name": "Kunty",
     "query": "Kunty",
     "rank": 6,
-    "tweet_count": "1,035 Tweets"
-  },
-  {
-    "name": "#Queretaro",
-    "query": "#Queretaro",
-    "rank": 7,
-    "tweet_count": "98.1K Tweets"
+    "tweet_count": "1,037 Tweets"
   },
   {
     "name": "#SinTiNoHayDemocracia",
     "query": "#SinTiNoHayDemocracia",
-    "rank": 8,
-    "tweet_count": "1,675 Tweets"
+    "rank": 7,
+    "tweet_count": "1,676 Tweets"
   },
   {
     "name": "#AlgoEsAlgo",
     "query": "#AlgoEsAlgo",
+    "rank": 8,
+    "tweet_count": "2,037 Tweets"
+  },
+  {
+    "name": "#aucas",
+    "query": "#aucas",
     "rank": 9,
-    "tweet_count": "2,028 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Richard Carapaz",
@@ -63,7 +63,7 @@
     "name": "Argentina",
     "query": "Argentina",
     "rank": 11,
-    "tweet_count": "103K Tweets"
+    "tweet_count": "104K Tweets"
   },
   {
     "name": "jostin alman",
@@ -105,18 +105,18 @@
     "name": "Cortez",
     "query": "Cortez",
     "rank": 18,
-    "tweet_count": "8,032 Tweets"
+    "tweet_count": "8,123 Tweets"
   },
   {
-    "name": "Guadalupe Llori",
-    "query": "\"Guadalupe Llori\"",
+    "name": "Venezuela",
+    "query": "Venezuela",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "291K Tweets"
   },
   {
     "name": "Maguire",
     "query": "Maguire",
     "rank": 20,
-    "tweet_count": "62.5K Tweets"
+    "tweet_count": "62.9K Tweets"
   }
 ]
