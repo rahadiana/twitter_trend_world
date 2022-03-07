@@ -1,62 +1,68 @@
 [
   {
-    "name": "Forest Road",
-    "query": "\"Forest Road\"",
+    "name": "#forestroad",
+    "query": "#forestroad",
     "rank": 1,
-    "tweet_count": "18.5K Tweets"
+    "tweet_count": "1,381 Tweets"
   },
   {
     "name": "Boda",
     "query": "Boda",
     "rank": 2,
-    "tweet_count": "41K Tweets"
+    "tweet_count": "43.6K Tweets"
   },
   {
     "name": "Atwoli",
     "query": "Atwoli",
     "rank": 3,
-    "tweet_count": "5,302 Tweets"
+    "tweet_count": "6,355 Tweets"
+  },
+  {
+    "name": "#EndGBV",
+    "query": "#EndGBV",
+    "rank": 4,
+    "tweet_count": null
   },
   {
     "name": "Chatham House",
     "query": "\"Chatham House\"",
-    "rank": 4,
-    "tweet_count": "2,329 Tweets"
+    "rank": 5,
+    "tweet_count": "2,723 Tweets"
   },
   {
     "name": "Michuki",
     "query": "Michuki",
-    "rank": 5,
-    "tweet_count": "1,183 Tweets"
+    "rank": 6,
+    "tweet_count": "1,826 Tweets"
   },
   {
     "name": "#SundownerKBC",
     "query": "#SundownerKBC",
-    "rank": 6,
+    "rank": 7,
     "tweet_count": null
   },
   {
     "name": "Nduthi",
     "query": "Nduthi",
-    "rank": 7,
-    "tweet_count": "3,770 Tweets"
+    "rank": 8,
+    "tweet_count": "4,634 Tweets"
   },
   {
     "name": "#BreakTheBias",
     "query": "#BreakTheBias",
-    "rank": 8,
-    "tweet_count": "28.6K Tweets"
-  },
-  {
-    "name": "#2022PresidentialPoll",
-    "query": "#2022PresidentialPoll",
     "rank": 9,
-    "tweet_count": "6,673 Tweets"
+    "tweet_count": "29.4K Tweets"
   },
   {
     "name": "NHIF",
     "query": "NHIF",
     "rank": 10,
-    "tweet_count": "2,200 Tweets"
+    "tweet_count": "2,295 Tweets"
+  },
+  {
+    "name": "#2022PresidentialPoll",
+    "query": "#2022PresidentialPoll",
+    "rank": 11,
+    "tweet_count": "6,994 Tweets"
   }
 ]
