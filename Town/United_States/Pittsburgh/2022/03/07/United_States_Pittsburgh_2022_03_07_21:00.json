@@ -1,39 +1,39 @@
 [
   {
+    "name": "Jokic",
+    "query": "Jokic",
+    "rank": 1,
+    "tweet_count": "41.4K Tweets"
+  },
+  {
     "name": "Rodgers",
     "query": "Rodgers",
-    "rank": 1,
-    "tweet_count": "11.5K Tweets"
+    "rank": 2,
+    "tweet_count": "11.8K Tweets"
   },
   {
     "name": "Calvin Ridley",
     "query": "\"Calvin Ridley\"",
-    "rank": 2,
-    "tweet_count": "40.3K Tweets"
+    "rank": 3,
+    "tweet_count": "52K Tweets"
   },
   {
     "name": "Pete Rose",
     "query": "\"Pete Rose\"",
-    "rank": 3,
-    "tweet_count": "1,964 Tweets"
+    "rank": 4,
+    "tweet_count": "2,375 Tweets"
   },
   {
     "name": "#TOTEVE",
     "query": "#TOTEVE",
-    "rank": 4,
-    "tweet_count": "13.3K Tweets"
-  },
-  {
-    "name": "Negan",
-    "query": "Negan",
     "rank": 5,
-    "tweet_count": "8,507 Tweets"
+    "tweet_count": "14.6K Tweets"
   },
   {
-    "name": "James Comey",
-    "query": "\"James Comey\"",
+    "name": "#SpringBreakInSixWords",
+    "query": "#SpringBreakInSixWords",
     "rank": 6,
-    "tweet_count": "6,592 Tweets"
+    "tweet_count": null
   },
   {
     "name": "Lenny Moore",
@@ -42,81 +42,81 @@
     "tweet_count": null
   },
   {
+    "name": "Negan",
+    "query": "Negan",
+    "rank": 8,
+    "tweet_count": "8,942 Tweets"
+  },
+  {
+    "name": "James Comey",
+    "query": "\"James Comey\"",
+    "rank": 9,
+    "tweet_count": "7,615 Tweets"
+  },
+  {
     "name": "San Marino",
     "query": "\"San Marino\"",
-    "rank": 8,
-    "tweet_count": "32.3K Tweets"
-  },
-  {
-    "name": "Jack Doyle",
-    "query": "\"Jack Doyle\"",
-    "rank": 9,
-    "tweet_count": "1,557 Tweets"
-  },
-  {
-    "name": "phoebe",
-    "query": "phoebe",
     "rank": 10,
-    "tweet_count": "11.9K Tweets"
-  },
-  {
-    "name": "#YouCanBribeMeWith",
-    "query": "#YouCanBribeMeWith",
-    "rank": 11,
-    "tweet_count": "1,080 Tweets"
-  },
-  {
-    "name": "#SpringBreakInSixWords",
-    "query": "#SpringBreakInSixWords",
-    "rank": 12,
-    "tweet_count": null
-  },
-  {
-    "name": "Bob Chapek",
-    "query": "\"Bob Chapek\"",
-    "rank": 13,
-    "tweet_count": "5,120 Tweets"
-  },
-  {
-    "name": "Doocy",
-    "query": "Doocy",
-    "rank": 14,
-    "tweet_count": "3,871 Tweets"
-  },
-  {
-    "name": "Michael Keane",
-    "query": "\"Michael Keane\"",
-    "rank": 15,
-    "tweet_count": "2,878 Tweets"
-  },
-  {
-    "name": "#LetFreeFloridaSayGay",
-    "query": "#LetFreeFloridaSayGay",
-    "rank": 16,
-    "tweet_count": "19.4K Tweets"
-  },
-  {
-    "name": "Al Franken",
-    "query": "\"Al Franken\"",
-    "rank": 17,
-    "tweet_count": "5,513 Tweets"
+    "tweet_count": "32.8K Tweets"
   },
   {
     "name": "Randy Levine",
     "query": "\"Randy Levine\"",
+    "rank": 11,
+    "tweet_count": null
+  },
+  {
+    "name": "Jack Doyle",
+    "query": "\"Jack Doyle\"",
+    "rank": 12,
+    "tweet_count": "1,670 Tweets"
+  },
+  {
+    "name": "Harry Kane",
+    "query": "\"Harry Kane\"",
+    "rank": 13,
+    "tweet_count": "11.8K Tweets"
+  },
+  {
+    "name": "Doherty",
+    "query": "Doherty",
+    "rank": 14,
+    "tweet_count": "6,644 Tweets"
+  },
+  {
+    "name": "#Twitterdown",
+    "query": "#Twitterdown",
+    "rank": 15,
+    "tweet_count": "2,876 Tweets"
+  },
+  {
+    "name": "Bob Chapek",
+    "query": "\"Bob Chapek\"",
+    "rank": 16,
+    "tweet_count": "5,620 Tweets"
+  },
+  {
+    "name": "phoebe",
+    "query": "phoebe",
+    "rank": 17,
+    "tweet_count": "12.3K Tweets"
+  },
+  {
+    "name": "Doocy",
+    "query": "Doocy",
     "rank": 18,
-    "tweet_count": null
+    "tweet_count": "4,730 Tweets"
   },
   {
-    "name": "#BarstoolBestBar",
-    "query": "#BarstoolBestBar",
+    "name": "#YouCanBribeMeWith",
+    "query": "#YouCanBribeMeWith",
     "rank": 19,
-    "tweet_count": null
+    "tweet_count": "1,111 Tweets"
   },
   {
-    "name": "Keystone XL",
-    "query": "\"Keystone XL\"",
+    "name": "#LetFreeFloridaSayGay",
+    "query": "#LetFreeFloridaSayGay",
     "rank": 20,
-    "tweet_count": "18.3K Tweets"
+    "tweet_count": "21.8K Tweets"
   }
 ]
