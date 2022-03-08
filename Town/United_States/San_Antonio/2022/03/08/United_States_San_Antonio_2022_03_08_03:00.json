@@ -1,122 +1,122 @@
 [
   {
-    "name": "Spurs",
-    "query": "Spurs",
-    "rank": 1,
-    "tweet_count": "46.9K Tweets"
-  },
-  {
     "name": "Lakers",
     "query": "Lakers",
+    "rank": 1,
+    "tweet_count": "37K Tweets"
+  },
+  {
+    "name": "Jazz",
+    "query": "Jazz",
     "rank": 2,
-    "tweet_count": "35.3K Tweets"
+    "tweet_count": "33.2K Tweets"
   },
   {
-    "name": "Sengun",
-    "query": "Sengun",
+    "name": "Dorian",
+    "query": "Dorian",
     "rank": 3,
-    "tweet_count": "1,246 Tweets"
+    "tweet_count": "6,275 Tweets"
   },
   {
-    "name": "Luke Bryan",
-    "query": "\"Luke Bryan\"",
+    "name": "Josh Green",
+    "query": "\"Josh Green\"",
     "rank": 4,
     "tweet_count": null
   },
   {
-    "name": "Tate",
-    "query": "Tate",
+    "name": "#Mavs",
+    "query": "#Mavs",
     "rank": 5,
-    "tweet_count": "7,507 Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#oneusinhouston",
-    "query": "#oneusinhouston",
+    "name": "Doe Doe",
+    "query": "\"Doe Doe\"",
     "rank": 6,
-    "tweet_count": "1,270 Tweets"
+    "tweet_count": "25.5K Tweets"
+  },
+  {
+    "name": "Sengun",
+    "query": "Sengun",
+    "rank": 7,
+    "tweet_count": "1,248 Tweets"
+  },
+  {
+    "name": "Tate",
+    "query": "Tate",
+    "rank": 8,
+    "tweet_count": "7,555 Tweets"
+  },
+  {
+    "name": "Luke Bryan",
+    "query": "\"Luke Bryan\"",
+    "rank": 9,
+    "tweet_count": null
   },
   {
     "name": "Kelcy Warren",
     "query": "\"Kelcy Warren\"",
-    "rank": 7,
-    "tweet_count": "3,437 Tweets"
-  },
-  {
-    "name": "#gasprices",
-    "query": "#gasprices",
-    "rank": 8,
-    "tweet_count": "13.9K Tweets"
+    "rank": 10,
+    "tweet_count": "3,508 Tweets"
   },
   {
     "name": "Keystone",
     "query": "Keystone",
-    "rank": 9,
-    "tweet_count": "61.5K Tweets"
+    "rank": 11,
+    "tweet_count": "62.2K Tweets"
   },
   {
-    "name": "#TheBachelor",
-    "query": "#TheBachelor",
-    "rank": 10,
-    "tweet_count": "19.2K Tweets"
+    "name": "#gasprices",
+    "query": "#gasprices",
+    "rank": 12,
+    "tweet_count": "14.4K Tweets"
   },
   {
     "name": "#WWERaw",
     "query": "#WWERaw",
-    "rank": 11,
-    "tweet_count": "48.1K Tweets"
+    "rank": 13,
+    "tweet_count": "51.1K Tweets"
+  },
+  {
+    "name": "#TheBachelor",
+    "query": "#TheBachelor",
+    "rank": 14,
+    "tweet_count": "19.5K Tweets"
   },
   {
     "name": "#ACMawards",
     "query": "#ACMawards",
-    "rank": 12,
-    "tweet_count": "18.6K Tweets"
+    "rank": 15,
+    "tweet_count": "19K Tweets"
   },
   {
     "name": "Chattanooga",
     "query": "Chattanooga",
-    "rank": 13,
-    "tweet_count": "16.3K Tweets"
+    "rank": 16,
+    "tweet_count": "16.6K Tweets"
   },
   {
     "name": "Pistons",
     "query": "Pistons",
-    "rank": 14,
-    "tweet_count": "9,185 Tweets"
-  },
-  {
-    "name": "Oladipo",
-    "query": "Oladipo",
-    "rank": 15,
-    "tweet_count": "15.2K Tweets"
+    "rank": 17,
+    "tweet_count": "9,322 Tweets"
   },
   {
     "name": "Calvin Ridley",
     "query": "\"Calvin Ridley\"",
-    "rank": 16,
-    "tweet_count": "140K Tweets"
-  },
-  {
-    "name": "SoCon",
-    "query": "SoCon",
-    "rank": 17,
-    "tweet_count": "6,033 Tweets"
-  },
-  {
-    "name": "Rhea",
-    "query": "Rhea",
     "rank": 18,
-    "tweet_count": "13.1K Tweets"
-  },
-  {
-    "name": "Gobert",
-    "query": "Gobert",
-    "rank": 19,
-    "tweet_count": "3,439 Tweets"
+    "tweet_count": "141K Tweets"
   },
   {
     "name": "Tyler Herro",
     "query": "\"Tyler Herro\"",
+    "rank": 19,
+    "tweet_count": "5,426 Tweets"
+  },
+  {
+    "name": "Gobert",
+    "query": "Gobert",
     "rank": 20,
-    "tweet_count": "5,313 Tweets"
+    "tweet_count": "3,677 Tweets"
   }
 ]
