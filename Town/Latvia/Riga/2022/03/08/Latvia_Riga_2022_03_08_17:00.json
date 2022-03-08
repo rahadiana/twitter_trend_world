@@ -1,33 +1,33 @@
 [
   {
-    "name": "#InternationalWomensDay",
-    "query": "#InternationalWomensDay",
-    "rank": 1,
-    "tweet_count": "1.06M Tweets"
-  },
-  {
     "name": "Jurašs",
     "query": "Jurašs",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": null
   },
   {
     "name": "Hanovs",
     "query": "Hanovs",
-    "rank": 3,
+    "rank": 2,
     "tweet_count": null
   },
   {
     "name": "#teirdarbs",
     "query": "#teirdarbs",
-    "rank": 4,
+    "rank": 3,
     "tweet_count": null
+  },
+  {
+    "name": "#InternationalWomensDay",
+    "query": "#InternationalWomensDay",
+    "rank": 4,
+    "tweet_count": "1.1M Tweets"
   },
   {
     "name": "Reira",
     "query": "Reira",
     "rank": 5,
-    "tweet_count": "2,467 Tweets"
+    "tweet_count": "2,488 Tweets"
   },
   {
     "name": "\"Labdien\"",
@@ -39,7 +39,7 @@
     "name": "Sumi",
     "query": "Sumi",
     "rank": 7,
-    "tweet_count": "15.1K Tweets"
+    "tweet_count": "15.3K Tweets"
   },
   {
     "name": "rīgas kongresu",
@@ -57,13 +57,13 @@
     "name": "kādi",
     "query": "kādi",
     "rank": 10,
-    "tweet_count": "2,028 Tweets"
+    "tweet_count": "2,057 Tweets"
   },
   {
     "name": "Dana",
     "query": "Dana",
     "rank": 11,
-    "tweet_count": "118K Tweets"
+    "tweet_count": "120K Tweets"
   },
   {
     "name": "Sveiki",
@@ -81,42 +81,42 @@
     "name": "#Ukraine️",
     "query": "#Ukraine️",
     "rank": 14,
-    "tweet_count": "105K Tweets"
+    "tweet_count": "107K Tweets"
   },
   {
     "name": "Leta",
     "query": "Leta",
     "rank": 15,
-    "tweet_count": "4,587 Tweets"
-  },
-  {
-    "name": "makrons",
-    "query": "makrons",
-    "rank": 16,
-    "tweet_count": null
+    "tweet_count": "4,683 Tweets"
   },
   {
     "name": "Avena",
     "query": "Avena",
-    "rank": 17,
-    "tweet_count": "1,369 Tweets"
+    "rank": 16,
+    "tweet_count": "1,392 Tweets"
   },
   {
     "name": "Vajag",
     "query": "Vajag",
+    "rank": 17,
+    "tweet_count": null
+  },
+  {
+    "name": "#лигачемпионов",
+    "query": "#лигачемпионов",
     "rank": 18,
     "tweet_count": null
   },
   {
-    "name": "COVID-19",
-    "query": "COVID-19",
+    "name": "Siguldas",
+    "query": "Siguldas",
     "rank": 19,
-    "tweet_count": "234K Tweets"
+    "tweet_count": null
   },
   {
-    "name": "#ЛигаЧемпионов",
-    "query": "#ЛигаЧемпионов",
+    "name": "Kara",
+    "query": "Kara",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "37.3K Tweets"
   }
 ]
