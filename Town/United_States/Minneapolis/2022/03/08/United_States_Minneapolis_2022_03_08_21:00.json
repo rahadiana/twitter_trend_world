@@ -1,98 +1,104 @@
 [
   {
-    "name": "Vikings",
-    "query": "Vikings",
+    "name": "Kirk Cousins",
+    "query": "\"Kirk Cousins\"",
     "rank": 1,
-    "tweet_count": "14.8K Tweets"
+    "tweet_count": "1,931 Tweets"
   },
   {
-    "name": "Super Bowl",
-    "query": "\"Super Bowl\"",
+    "name": "Vikings",
+    "query": "Vikings",
     "rank": 2,
-    "tweet_count": "44.3K Tweets"
+    "tweet_count": "15.1K Tweets"
   },
   {
     "name": "Spotify and Discord",
     "query": "\"Spotify and Discord\"",
     "rank": 3,
-    "tweet_count": "76.2K Tweets"
+    "tweet_count": "76.7K Tweets"
   },
   {
     "name": "#InternationalWomensDay",
     "query": "#InternationalWomensDay",
     "rank": 4,
-    "tweet_count": "1.38M Tweets"
+    "tweet_count": "1.4M Tweets"
   },
   {
-    "name": "Russell Wilson",
-    "query": "\"Russell Wilson\"",
+    "name": "Aaron Rodgers",
+    "query": "\"Aaron Rodgers\"",
     "rank": 5,
-    "tweet_count": "125K Tweets"
+    "tweet_count": "82.8K Tweets"
+  },
+  {
+    "name": "Wilson",
+    "query": "Wilson",
+    "rank": 6,
+    "tweet_count": "183K Tweets"
   },
   {
     "name": "#AppleEvent",
     "query": "#AppleEvent",
-    "rank": 6,
-    "tweet_count": "207K Tweets"
-  },
-  {
-    "name": "The AFC West",
-    "query": "\"The AFC West\"",
     "rank": 7,
-    "tweet_count": "11.9K Tweets"
+    "tweet_count": "209K Tweets"
   },
   {
     "name": "#PMSBigAssDay",
     "query": "#PMSBigAssDay",
     "rank": 8,
-    "tweet_count": "1,118 Tweets"
+    "tweet_count": "1,172 Tweets"
   },
   {
-    "name": "Lewandowski",
-    "query": "Lewandowski",
+    "name": "Lautaro",
+    "query": "Lautaro",
     "rank": 9,
-    "tweet_count": "48.7K Tweets"
+    "tweet_count": "29.4K Tweets"
+  },
+  {
+    "name": "#LIVINT",
+    "query": "#LIVINT",
+    "rank": 10,
+    "tweet_count": "35.1K Tweets"
   },
   {
     "name": "#QueenRadio",
     "query": "#QueenRadio",
-    "rank": 10,
-    "tweet_count": "8,706 Tweets"
+    "rank": 11,
+    "tweet_count": "9,341 Tweets"
   },
   {
-    "name": "Bayern",
-    "query": "Bayern",
-    "rank": 11,
-    "tweet_count": "80K Tweets"
+    "name": "Lewandowski",
+    "query": "Lewandowski",
+    "rank": 12,
+    "tweet_count": "50.8K Tweets"
   },
   {
     "name": "Colts",
     "query": "Colts",
-    "rank": 12,
-    "tweet_count": "10.6K Tweets"
-  },
-  {
-    "name": "#YIAYphone",
-    "query": "#YIAYphone",
     "rank": 13,
-    "tweet_count": null
+    "tweet_count": "10.8K Tweets"
   },
   {
-    "name": "MIG-29",
-    "query": "MIG-29",
+    "name": "MiGs",
+    "query": "MiGs",
     "rank": 14,
-    "tweet_count": "79.7K Tweets"
+    "tweet_count": "14.8K Tweets"
   },
   {
     "name": "49ers",
     "query": "49ers",
     "rank": 15,
-    "tweet_count": "8,933 Tweets"
+    "tweet_count": "9,134 Tweets"
+  },
+  {
+    "name": "#YIAYphone",
+    "query": "#YIAYphone",
+    "rank": 16,
+    "tweet_count": null
   },
   {
     "name": "#HappyBirthdaySUGA",
     "query": "#HappyBirthdaySUGA",
-    "rank": 16,
-    "tweet_count": "1.06M Tweets"
+    "rank": 17,
+    "tweet_count": "1.05M Tweets"
   }
 ]
