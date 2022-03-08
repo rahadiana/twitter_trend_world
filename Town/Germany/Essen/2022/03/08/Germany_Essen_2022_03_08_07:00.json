@@ -3,17 +3,17 @@
     "name": "#Weltfrauentag",
     "query": "#Weltfrauentag",
     "rank": 1,
-    "tweet_count": "2,637 Tweets"
+    "tweet_count": "3,047 Tweets"
   },
   {
     "name": "#InternationalWomensDay",
     "query": "#InternationalWomensDay",
     "rank": 2,
-    "tweet_count": "349K Tweets"
+    "tweet_count": "363K Tweets"
   },
   {
-    "name": "Kampftag",
-    "query": "Kampftag",
+    "name": "#Frauenkampftag",
+    "query": "#Frauenkampftag",
     "rank": 3,
     "tweet_count": null
   },
@@ -33,72 +33,84 @@
     "name": "#Gashahnzu",
     "query": "#Gashahnzu",
     "rank": 6,
-    "tweet_count": "3,685 Tweets"
+    "tweet_count": "3,755 Tweets"
+  },
+  {
+    "name": "Gleichberechtigung",
+    "query": "Gleichberechtigung",
+    "rank": 7,
+    "tweet_count": "1,475 Tweets"
   },
   {
     "name": "Es ist Januar 2023",
     "query": "\"Es ist Januar 2023\"",
-    "rank": 7,
-    "tweet_count": null
-  },
-  {
-    "name": "#gleichberechtigung",
-    "query": "#gleichberechtigung",
     "rank": 8,
     "tweet_count": null
   },
   {
-    "name": "Internationalen",
-    "query": "Internationalen",
-    "rank": 9,
-    "tweet_count": "2,890 Tweets"
-  },
-  {
     "name": "ÖPNV",
     "query": "ÖPNV",
+    "rank": 9,
+    "tweet_count": "4,104 Tweets"
+  },
+  {
+    "name": "Internationalen",
+    "query": "Internationalen",
     "rank": 10,
-    "tweet_count": "4,007 Tweets"
+    "tweet_count": "2,995 Tweets"
   },
   {
     "name": "Heizung",
     "query": "Heizung",
     "rank": 11,
-    "tweet_count": "3,944 Tweets"
+    "tweet_count": "4,036 Tweets"
   },
   {
     "name": "Homeoffice",
     "query": "Homeoffice",
     "rank": 12,
-    "tweet_count": "3,603 Tweets"
+    "tweet_count": "3,672 Tweets"
   },
   {
-    "name": "#Nordstream1",
-    "query": "#Nordstream1",
+    "name": "Industrie",
+    "query": "Industrie",
     "rank": 13,
-    "tweet_count": "1,612 Tweets"
+    "tweet_count": "9,809 Tweets"
   },
   {
-    "name": "#Spritpreise",
-    "query": "#Spritpreise",
+    "name": "#AppleEvent",
+    "query": "#AppleEvent",
     "rank": 14,
-    "tweet_count": "2,751 Tweets"
+    "tweet_count": "10.1K Tweets"
   },
   {
-    "name": "#FreeDummDay",
-    "query": "#FreeDummDay",
+    "name": "#Gleichstellung",
+    "query": "#Gleichstellung",
     "rank": 15,
     "tweet_count": null
   },
   {
-    "name": "#Lindner",
-    "query": "#Lindner",
+    "name": "#8M2022",
+    "query": "#8M2022",
     "rank": 16,
-    "tweet_count": "1,080 Tweets"
+    "tweet_count": "101K Tweets"
   },
   {
-    "name": "#hartaberfair",
-    "query": "#hartaberfair",
+    "name": "#Spritpreise",
+    "query": "#Spritpreise",
     "rank": 17,
-    "tweet_count": "3,007 Tweets"
+    "tweet_count": "2,809 Tweets"
+  },
+  {
+    "name": "#Nordstream1",
+    "query": "#Nordstream1",
+    "rank": 18,
+    "tweet_count": "1,652 Tweets"
+  },
+  {
+    "name": "#FreeDummDay",
+    "query": "#FreeDummDay",
+    "rank": 19,
+    "tweet_count": null
   }
 ]
