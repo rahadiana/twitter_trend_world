@@ -1,19 +1,19 @@
 [
   {
+    "name": "#InternationalWomensDay",
+    "query": "#InternationalWomensDay",
+    "rank": 1,
+    "tweet_count": "617K Tweets"
+  },
+  {
     "name": "#kvinderneskampdag",
     "query": "#kvinderneskampdag",
-    "rank": 1,
+    "rank": 2,
     "tweet_count": null
   },
   {
-    "name": "#InternationalWomensDay",
-    "query": "#InternationalWomensDay",
-    "rank": 2,
-    "tweet_count": "605K Tweets"
-  },
-  {
-    "name": "#8marts",
-    "query": "#8marts",
+    "name": "#8Marts",
+    "query": "#8Marts",
     "rank": 3,
     "tweet_count": null
   },
@@ -36,16 +36,16 @@
     "tweet_count": "118K Tweets"
   },
   {
-    "name": "Mensah",
-    "query": "Mensah",
-    "rank": 7,
-    "tweet_count": "1,195 Tweets"
-  },
-  {
     "name": "EU-hær",
     "query": "EU-hær",
-    "rank": 8,
+    "rank": 7,
     "tweet_count": null
+  },
+  {
+    "name": "Mensah",
+    "query": "Mensah",
+    "rank": 8,
+    "tweet_count": "1,209 Tweets"
   },
   {
     "name": "Glædelig 8",
@@ -57,7 +57,7 @@
     "name": "God 8",
     "query": "\"God 8\"",
     "rank": 10,
-    "tweet_count": "7,514 Tweets"
+    "tweet_count": "7,598 Tweets"
   },
   {
     "name": "david nielsen",
@@ -78,45 +78,45 @@
     "tweet_count": null
   },
   {
-    "name": "Kusk",
-    "query": "Kusk",
+    "name": "kusk",
+    "query": "kusk",
     "rank": 14,
+    "tweet_count": null
+  },
+  {
+    "name": "Erling",
+    "query": "Erling",
+    "rank": 15,
+    "tweet_count": "3,306 Tweets"
+  },
+  {
+    "name": "grønbæk",
+    "query": "grønbæk",
+    "rank": 16,
     "tweet_count": null
   },
   {
     "name": "Donbas",
     "query": "Donbas",
-    "rank": 15,
-    "tweet_count": "26K Tweets"
-  },
-  {
-    "name": "dreyer",
-    "query": "dreyer",
-    "rank": 16,
-    "tweet_count": "1,065 Tweets"
-  },
-  {
-    "name": "Jesper Hansen",
-    "query": "\"Jesper Hansen\"",
     "rank": 17,
-    "tweet_count": null
+    "tweet_count": "26.2K Tweets"
   },
   {
-    "name": "grønbæk",
-    "query": "grønbæk",
+    "name": "Dreyer",
+    "query": "Dreyer",
     "rank": 18,
+    "tweet_count": "1,071 Tweets"
+  },
+  {
+    "name": "jesper hansen",
+    "query": "\"jesper hansen\"",
+    "rank": 19,
     "tweet_count": null
   },
   {
     "name": "Everton",
     "query": "Everton",
-    "rank": 19,
-    "tweet_count": "104K Tweets"
-  },
-  {
-    "name": "Tingager",
-    "query": "Tingager",
     "rank": 20,
-    "tweet_count": null
+    "tweet_count": "104K Tweets"
   }
 ]
