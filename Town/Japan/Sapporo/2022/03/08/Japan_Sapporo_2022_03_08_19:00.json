@@ -1,122 +1,122 @@
 [
   {
-    "name": "#AppleEvent",
-    "query": "#AppleEvent",
+    "name": "Apple TV",
+    "query": "\"Apple TV\"",
     "rank": 1,
-    "tweet_count": "165K Tweets"
-  },
-  {
-    "name": "#ミクの日",
-    "query": "#ミクの日",
-    "rank": 2,
-    "tweet_count": "122K Tweets"
-  },
-  {
-    "name": "#HappyBirthdaySUGA",
-    "query": "#HappyBirthdaySUGA",
-    "rank": 3,
-    "tweet_count": "967K Tweets"
+    "tweet_count": "11K Tweets"
   },
   {
     "name": "#cnann0",
     "query": "#cnann0",
+    "rank": 2,
+    "tweet_count": "8,716 Tweets"
+  },
+  {
+    "name": "#ミクの日",
+    "query": "#ミクの日",
+    "rank": 3,
+    "tweet_count": "124K Tweets"
+  },
+  {
+    "name": "#HappyBirthdaySUGA",
+    "query": "#HappyBirthdaySUGA",
     "rank": 4,
-    "tweet_count": "5,446 Tweets"
+    "tweet_count": "981K Tweets"
   },
   {
     "name": "第47回",
     "query": "第47回",
     "rank": 5,
-    "tweet_count": "1,600 Tweets"
+    "tweet_count": "1,617 Tweets"
   },
   {
     "name": "Wordle 263",
     "query": "\"Wordle 263\"",
     "rank": 6,
-    "tweet_count": "19.3K Tweets"
-  },
-  {
-    "name": "#メンテの日なのでssを貼る",
-    "query": "#メンテの日なのでssを貼る",
-    "rank": 7,
-    "tweet_count": "33.1K Tweets"
-  },
-  {
-    "name": "人柱アリス",
-    "query": "人柱アリス",
-    "rank": 8,
-    "tweet_count": "2,663 Tweets"
+    "tweet_count": "20.2K Tweets"
   },
   {
     "name": "Spotify",
     "query": "Spotify",
-    "rank": 9,
-    "tweet_count": "1.27M Tweets"
+    "rank": 7,
+    "tweet_count": "1.38M Tweets"
   },
   {
     "name": "Mac mini",
     "query": "\"Mac mini\"",
+    "rank": 8,
+    "tweet_count": "10.2K Tweets"
+  },
+  {
+    "name": "#メンテの日なのでssを貼る",
+    "query": "#メンテの日なのでssを貼る",
+    "rank": 9,
+    "tweet_count": "33.3K Tweets"
+  },
+  {
+    "name": "人柱アリス",
+    "query": "人柱アリス",
     "rank": 10,
-    "tweet_count": "9,396 Tweets"
+    "tweet_count": "2,710 Tweets"
   },
   {
     "name": "M1チップ",
     "query": "M1チップ",
     "rank": 11,
-    "tweet_count": "1,946 Tweets"
-  },
-  {
-    "name": "ユンギさん",
-    "query": "ユンギさん",
-    "rank": 12,
-    "tweet_count": "19.4K Tweets"
-  },
-  {
-    "name": "ミクちゃん",
-    "query": "ミクちゃん",
-    "rank": 13,
-    "tweet_count": "20.1K Tweets"
-  },
-  {
-    "name": "ディスプレイ",
-    "query": "ディスプレイ",
-    "rank": 14,
-    "tweet_count": "10.3K Tweets"
+    "tweet_count": "2,162 Tweets"
   },
   {
     "name": "discordくん",
     "query": "discordくん",
-    "rank": 15,
+    "rank": 12,
     "tweet_count": null
+  },
+  {
+    "name": "ディスプレイ",
+    "query": "ディスプレイ",
+    "rank": 13,
+    "tweet_count": "10.7K Tweets"
+  },
+  {
+    "name": "#星野源ANN",
+    "query": "#星野源ANN",
+    "rank": 14,
+    "tweet_count": "10.8K Tweets"
+  },
+  {
+    "name": "ミクちゃん",
+    "query": "ミクちゃん",
+    "rank": 15,
+    "tweet_count": "20.3K Tweets"
+  },
+  {
+    "name": "ユンギさん",
+    "query": "ユンギさん",
+    "rank": 16,
+    "tweet_count": "19.5K Tweets"
   },
   {
     "name": "M1搭載",
     "query": "M1搭載",
-    "rank": 16,
-    "tweet_count": "2,111 Tweets"
-  },
-  {
-    "name": "ミクさん",
-    "query": "ミクさん",
     "rank": 17,
-    "tweet_count": "33.2K Tweets"
-  },
-  {
-    "name": "戦争準備",
-    "query": "戦争準備",
-    "rank": 18,
-    "tweet_count": "12.5K Tweets"
+    "tweet_count": "2,406 Tweets"
   },
   {
     "name": "ホームボタン",
     "query": "ホームボタン",
-    "rank": 19,
-    "tweet_count": "1,308 Tweets"
+    "rank": 18,
+    "tweet_count": "1,450 Tweets"
   },
   {
     "name": "リーク通り",
     "query": "リーク通り",
-    "rank": 20,
+    "rank": 19,
     "tweet_count": null
+  },
+  {
+    "name": "ミクさん",
+    "query": "ミクさん",
+    "rank": 20,
+    "tweet_count": "33.5K Tweets"
   }
 ]
