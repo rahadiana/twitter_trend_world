@@ -1,122 +1,122 @@
 [
   {
-    "name": "Iran",
-    "query": "Iran",
+    "name": "Watson",
+    "query": "Watson",
     "rank": 1,
-    "tweet_count": "160K Tweets"
+    "tweet_count": "22.1K Tweets"
   },
   {
-    "name": "Tesla",
-    "query": "Tesla",
+    "name": "Venezuela",
+    "query": "Venezuela",
     "rank": 2,
-    "tweet_count": "82.7K Tweets"
+    "tweet_count": "383K Tweets"
+  },
+  {
+    "name": "Iran",
+    "query": "Iran",
+    "rank": 3,
+    "tweet_count": "163K Tweets"
+  },
+  {
+    "name": "LGBTQ",
+    "query": "LGBTQ",
+    "rank": 4,
+    "tweet_count": "121K Tweets"
+  },
+  {
+    "name": "Spotify and Discord",
+    "query": "\"Spotify and Discord\"",
+    "rank": 5,
+    "tweet_count": "24.5K Tweets"
   },
   {
     "name": "#InternationalWomensDay",
     "query": "#InternationalWomensDay",
-    "rank": 3,
-    "tweet_count": "1.18M Tweets"
+    "rank": 6,
+    "tweet_count": "1.22M Tweets"
   },
   {
-    "name": "Spotify",
-    "query": "Spotify",
-    "rank": 4,
-    "tweet_count": "843K Tweets"
+    "name": "#AppleEvent",
+    "query": "#AppleEvent",
+    "rank": 7,
+    "tweet_count": "146K Tweets"
   },
   {
     "name": "Aaron Rodgers",
     "query": "\"Aaron Rodgers\"",
-    "rank": 5,
-    "tweet_count": "57.4K Tweets"
+    "rank": 8,
+    "tweet_count": "62.2K Tweets"
   },
   {
-    "name": "Apple TV",
-    "query": "\"Apple TV\"",
-    "rank": 6,
-    "tweet_count": "8,433 Tweets"
+    "name": "Broncos",
+    "query": "Broncos",
+    "rank": 9,
+    "tweet_count": "43.3K Tweets"
   },
   {
     "name": "#HappyBirthdaySUGA",
     "query": "#HappyBirthdaySUGA",
-    "rank": 7,
-    "tweet_count": "935K Tweets"
+    "rank": 10,
+    "tweet_count": "956K Tweets"
+  },
+  {
+    "name": "Mahomes",
+    "query": "Mahomes",
+    "rank": 11,
+    "tweet_count": "5,324 Tweets"
   },
   {
     "name": "Friday Night Baseball",
     "query": "\"Friday Night Baseball\"",
-    "rank": 8,
-    "tweet_count": "2,034 Tweets"
-  },
-  {
-    "name": "Westbrick",
-    "query": "Westbrick",
-    "rank": 9,
-    "tweet_count": "8,762 Tweets"
-  },
-  {
-    "name": "Stone Cold",
-    "query": "\"Stone Cold\"",
-    "rank": 10,
-    "tweet_count": "11.8K Tweets"
-  },
-  {
-    "name": "Enrique Tarrio",
-    "query": "\"Enrique Tarrio\"",
-    "rank": 11,
-    "tweet_count": "18.1K Tweets"
-  },
-  {
-    "name": "Don't Say Gay",
-    "query": "\"Don't Say Gay\"",
     "rank": 12,
-    "tweet_count": "107K Tweets"
+    "tweet_count": "2,550 Tweets"
+  },
+  {
+    "name": "Mac Pro",
+    "query": "\"Mac Pro\"",
+    "rank": 13,
+    "tweet_count": "7,948 Tweets"
   },
   {
     "name": "Scalise",
     "query": "Scalise",
-    "rank": 13,
-    "tweet_count": "3,797 Tweets"
-  },
-  {
-    "name": "#gasprices",
-    "query": "#gasprices",
     "rank": 14,
-    "tweet_count": "20.6K Tweets"
+    "tweet_count": "5,408 Tweets"
   },
   {
-    "name": "Denver",
-    "query": "Denver",
+    "name": "Westbrick",
+    "query": "Westbrick",
     "rank": 15,
-    "tweet_count": "35.4K Tweets"
+    "tweet_count": "9,235 Tweets"
   },
   {
-    "name": "Tim Cook",
-    "query": "\"Tim Cook\"",
+    "name": "Stone Cold",
+    "query": "\"Stone Cold\"",
     "rank": 16,
-    "tweet_count": "2,823 Tweets"
-  },
-  {
-    "name": "Colbert",
-    "query": "Colbert",
-    "rank": 17,
-    "tweet_count": "17.3K Tweets"
-  },
-  {
-    "name": "#TransWomenAreWomen",
-    "query": "#TransWomenAreWomen",
-    "rank": 18,
-    "tweet_count": "9,156 Tweets"
-  },
-  {
-    "name": "#tuesdaymotivations",
-    "query": "#tuesdaymotivations",
-    "rank": 19,
-    "tweet_count": "34.4K Tweets"
+    "tweet_count": "12.8K Tweets"
   },
   {
     "name": "Jimmy G",
     "query": "\"Jimmy G\"",
+    "rank": 17,
+    "tweet_count": "2,556 Tweets"
+  },
+  {
+    "name": "Enrique Tarrio",
+    "query": "\"Enrique Tarrio\"",
+    "rank": 18,
+    "tweet_count": "19.7K Tweets"
+  },
+  {
+    "name": "Don't Say Gay",
+    "query": "\"Don't Say Gay\"",
+    "rank": 19,
+    "tweet_count": "111K Tweets"
+  },
+  {
+    "name": "Jerry Jeudy",
+    "query": "\"Jerry Jeudy\"",
     "rank": 20,
-    "tweet_count": "2,268 Tweets"
+    "tweet_count": null
   }
 ]
