@@ -1,15 +1,15 @@
 [
   {
-    "name": "#Weltfrauentag",
-    "query": "#Weltfrauentag",
-    "rank": 1,
-    "tweet_count": "20.1K Tweets"
-  },
-  {
     "name": "#InternationalWomensDay",
     "query": "#InternationalWomensDay",
-    "rank": 2,
+    "rank": 1,
     "tweet_count": "1.49M Tweets"
+  },
+  {
+    "name": "#Weltfrauentag",
+    "query": "#Weltfrauentag",
+    "rank": 2,
+    "tweet_count": "20.2K Tweets"
   },
   {
     "name": "#FCBSAL",
@@ -21,19 +21,19 @@
     "name": "Spotify",
     "query": "Spotify",
     "rank": 4,
-    "tweet_count": "1.71M Tweets"
+    "tweet_count": "1.72M Tweets"
   },
   {
-    "name": "#fcbrbs",
-    "query": "#fcbrbs",
+    "name": "#FCBRBS",
+    "query": "#FCBRBS",
     "rank": 5,
-    "tweet_count": "3,033 Tweets"
+    "tweet_count": "3,042 Tweets"
   },
   {
     "name": "Apple",
     "query": "Apple",
     "rank": 6,
-    "tweet_count": "658K Tweets"
+    "tweet_count": "663K Tweets"
   },
   {
     "name": "#oenr",
@@ -45,17 +45,17 @@
     "name": "Kampftag",
     "query": "Kampftag",
     "rank": 8,
-    "tweet_count": "4,218 Tweets"
+    "tweet_count": "4,229 Tweets"
   },
   {
     "name": "Rauch",
     "query": "Rauch",
     "rank": 9,
-    "tweet_count": "1,835 Tweets"
+    "tweet_count": "1,862 Tweets"
   },
   {
-    "name": "Sigi Bergmann",
-    "query": "\"Sigi Bergmann\"",
+    "name": "sigi bergmann",
+    "query": "\"sigi bergmann\"",
     "rank": 10,
     "tweet_count": null
   },
@@ -63,7 +63,7 @@
     "name": "Christine",
     "query": "Christine",
     "rank": 11,
-    "tweet_count": "13.1K Tweets"
+    "tweet_count": "13.2K Tweets"
   },
   {
     "name": "klimabonus",
@@ -75,25 +75,25 @@
     "name": "Salzburg",
     "query": "Salzburg",
     "rank": 13,
-    "tweet_count": "61.8K Tweets"
-  },
-  {
-    "name": "flüchtling",
-    "query": "flüchtling",
-    "rank": 14,
-    "tweet_count": null
+    "tweet_count": "61.9K Tweets"
   },
   {
     "name": "kinderbetreuung",
     "query": "kinderbetreuung",
-    "rank": 15,
+    "rank": 14,
     "tweet_count": null
+  },
+  {
+    "name": "Discord",
+    "query": "Discord",
+    "rank": 15,
+    "tweet_count": "1.52M Tweets"
   },
   {
     "name": "Gleichberechtigung",
     "query": "Gleichberechtigung",
     "rank": 16,
-    "tweet_count": "3,740 Tweets"
+    "tweet_count": "3,744 Tweets"
   },
   {
     "name": "Pferd",
@@ -102,20 +102,20 @@
     "tweet_count": null
   },
   {
-    "name": "Discord",
-    "query": "Discord",
-    "rank": 18,
-    "tweet_count": "1.51M Tweets"
-  },
-  {
     "name": "roter teppich mit schleimspur",
     "query": "\"roter teppich mit schleimspur\"",
+    "rank": 18,
+    "tweet_count": null
+  },
+  {
+    "name": "Flüchtling",
+    "query": "Flüchtling",
     "rank": 19,
     "tweet_count": null
   },
   {
-    "name": "Südfrankreich",
-    "query": "Südfrankreich",
+    "name": "südfrankreich",
+    "query": "südfrankreich",
     "rank": 20,
     "tweet_count": null
   }
