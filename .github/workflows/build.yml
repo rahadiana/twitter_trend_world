@@ -28,7 +28,7 @@ jobs:
           git add .
           git commit -m "[AUTO:BUILD] `date`"
       - name: GitHub Push
-        uses: ad-m/github-push-action@v0.5.0
+        uses: ad-m/github-push-action@master
         with:
           force: true
           directory: "."
